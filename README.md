@@ -35,6 +35,13 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: In my free time, I read tech articles and focus on personal projects, like [Takere](https://github.com/takere), [Learning Platform](https://github.com/williamniemiec/learning-platform-web) and [Mobilex](https://github.com/wniemiec-mobilex).
 
+- 📄 Publications:
+  - [Takere: a no-code platform for the development of mHealth applications based on care plans](https://github.com/williamniemiec/williamniemiec/blob/main/publications/2022/%5BTCC%5D%20Takere.pdf).
+  - [Mobilex: a generic framework for cross-platform mobile development based on web language](https://github.com/williamniemiec/williamniemiec/blob/main/publications/2022/%5BSBES22%5D%20Mobilex.pdf)
+  - [Artificial intelligence discrimination: how to deal with it?](https://github.com/williamniemiec/williamniemiec/blob/main/publications/2022/%5BWICS22%5D%20Artificial%20Intelligence%20Discrimination.pdf).
+  - [ExecutionFlow: a tool to compute test paths of Java methods and constructors](https://github.com/williamniemiec/williamniemiec/blob/main/publications/2021/%5BSBES21%5D%20ExecutionFlow.pdf)
+  
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
