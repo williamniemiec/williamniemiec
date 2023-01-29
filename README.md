@@ -11,7 +11,7 @@
     <a href="mailto:williamniemiec@hotmail.com">
       <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email Badge"/>
     </a>
-    <a href="https://www.youtube.com/@williamniemiec7433">
+    <a href="https://www.youtube.com/@williamniemiec">
       <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
     </a>
     <a href="https://instagram.com/williamniemiec">
