@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Energy Management Education",
+    "parameters": [
+        { 
+            "name": "Content", 
+            "type": "text or multimedia"
+        },
+        { 
+            "name": "Format", 
+            "type": "options",
+            "options": ["text", "video", "interactive module"]
+        },
+        { 
+            "name": "Topics", 
+            "type": "list of text"
+        },
+        { 
+            "name": "Resources", 
+            "type": "list of text or URLs"
+        }
+    ]
+}

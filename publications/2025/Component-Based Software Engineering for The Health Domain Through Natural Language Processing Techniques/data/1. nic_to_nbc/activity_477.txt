@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Ability Assessment": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Activities": {"Type": "list of text", "Example": ["Walking", "Cooking", "Bathing", "Dressing"]},
+      "Ability scale": {"Type": "options", "Options": ["Independent", "Needs assistance", "Unable to perform"]},
+      "Questions": {"Type": "list of text", "Example": ["Can you walk without assistance?", "Do you need help with cooking?", "Can you bathe yourself?"]},
+      "Frequency": {"Type": "options", "Options": ["daily", "weekly", "monthly"]}
+    }
+  }
+}

@@ -1,0 +1,35 @@
+Here is the output in JSON format:
+
+
+{
+  "Room Preparation": {
+    "Parameters": {
+      "Room Preparation Tasks": {
+        "Description": "List of tasks to prepare the room for the patient's return postoperative",
+        "Required": true,
+        "Type": "checklist",
+        "Items": [
+          { "value": "bedding", "label": "Change bedding" },
+          { "value": "cleaning", "label": "Clean the room" },
+          { "value": "equipment", "label": "Prepare necessary equipment" },
+          { "value": "medications", "label": "Prepare medications" }
+        ]
+      },
+      "Priority": {
+        "Description": "Specify the priority of each task",
+        "Required": true,
+        "Type": "options",
+        "Options": [
+          { "value": "high", "label": "High" },
+          { "value": "medium", "label": "Medium" },
+          { "value": "low", "label": "Low" }
+        ]
+      },
+      "Deadline": {
+        "Description": "Specify the deadline for completing each task",
+        "Required": true,
+        "Type": "datetime"
+      }
+    }
+  }
+}

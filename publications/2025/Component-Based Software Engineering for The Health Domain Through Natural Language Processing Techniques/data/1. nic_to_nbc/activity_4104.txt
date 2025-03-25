@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+    "Assistive Device Guide": {
+        "Device List": {"type": "list of device names"},
+        "Device Information": {"type": "text-based information"},
+        "Usage Tips": {"type": "text-based tips"},
+        "Device Selection": {"type": "interactive feature"},
+        "Device Request": {"type": "request feature"}
+    }
+}

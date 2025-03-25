@@ -1,0 +1,38 @@
+Here is the output in JSON format:
+
+
+{
+  "Crisis Situation Assessment": {
+    "Parameters": {
+      "Questions": [
+        "Are you currently experiencing financial difficulties or poverty?",
+        "Are you unemployed or having trouble finding a job?",
+        "Are you going through a divorce or separation?",
+        "Are you currently homeless or at risk of becoming homeless?",
+        "Have you experienced domestic violence in the past or are you currently in a violent relationship?"
+      ],
+      "Answer type": [
+        "Yes/No",
+        "Text"
+      ]
+    }
+  },
+  "Risk Factor Assessment": {
+    "Parameters": {
+      "Risk factors": [
+        "Poverty",
+        "Unemployment",
+        "Divorce or separation",
+        "Homelessness",
+        "Domestic violence"
+      ],
+      "Answer type": [
+        "Yes/No"
+      ],
+      "Scoring": []
+    }
+  }
+}
+
+
+I removed all the unnecessary text and only kept the `{{ NO-CODE ELEMENT NAME }}` and `{{ PARAMETER ESPECIFICATIONS }}` parts. I also removed the "not applicable" parameters. Let me know if you need any further assistance!

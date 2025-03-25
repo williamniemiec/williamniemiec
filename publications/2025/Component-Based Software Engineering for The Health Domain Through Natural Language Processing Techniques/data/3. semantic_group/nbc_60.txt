@@ -1,0 +1,10 @@
+{
+  "name": "Measurement Tracker",
+  "description": "Tracks various metrics and resource usage, helping users manage targets, expenses, and predefined units. Provides reports on goal achievements and resource utilization.",
+  "type": "non-periodic",
+  "input": ["Metric tracking", "Expense management", "Resource usage", "Tracking targets", "Unit-based analysis"],
+  "output": ["Measurement report", "Resource usage analysis", "Goal tracking summary"],
+  "preconditions": ["User is managing measurements, resources, or tracking progress toward targets"],
+  "postconditions": ["Effective measurement tracking with detailed reports and insights"],
+  "dependencies": ["Measurement tracking system", "Resource management platform", "Expense monitoring tools"]
+}

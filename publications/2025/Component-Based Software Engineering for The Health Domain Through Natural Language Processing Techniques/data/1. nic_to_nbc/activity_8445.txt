@@ -1,0 +1,39 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Motivation Assessment",
+    "parameters": [
+        {
+            "name": "Motivation Questions",
+            "type": "list of text"
+        },
+        {
+            "name": "Answer Type",
+            "type": "options",
+            "options": [
+                { value: "multiple choice", label: "Multiple Choice" },
+                { value: "rating scale", label: "Rating Scale" },
+                { value: "text", label: "Text" }
+            ]
+        },
+        {
+            "name": "Goal Setting",
+            "type": "boolean"
+        },
+        {
+            "name": "Frequency",
+            "type": "options",
+            "options": [
+                { value: "daily", label: "Daily" },
+                { value: "onlyOnce", label: "Only once" },
+                { value: "everyHours", label: "Every x hours" },
+                { value: "everyDays", label: "Every x days" }
+            ]
+        },
+        {
+            "name": "Deadline Date",
+            "type": "datetime"
+        }
+    ]
+}

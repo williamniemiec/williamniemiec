@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Disease Education",
+    "parameters": [
+        {
+            "name": "Disease Overview"
+        },
+        {
+            "name": "Factor Explanation"
+        },
+        {
+            "name": "Interactive Elements"
+        }
+    ]
+}

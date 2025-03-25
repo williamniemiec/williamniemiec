@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+    "Developmental Guidance": {
+        "Parameters": [
+            {"Developmental Level": {"Type": "options", "Options": ["infancy", "toddlerhood", "preschool age", "etc."]}},
+            {"Anticipatory Guidance": {"Type": "text", "Description": "age-appropriate guidance, developmental norms, etc."}},
+            {"Parental Guidance": {"Type": "text", "Description": "parenting tips, strategies, and resources"}},
+            {"Developmental Tracking": {"Type": "form", "Fields": ["developmental milestones", "progress notes", "etc."]}},
+            {"Personalized Recommendations": {"Type": "text", "Description": "customized guidance, developmental activities, etc."}}
+        ]
+    },
+    "Developmental Tracker": {
+        "Parameters": [
+            {"Developmental Milestones": {"Type": "list", "Description": "list of developmental milestones, ages, and stages"}},
+            {"Progress Tracking": {"Type": "form", "Fields": ["progress notes", "achievement dates", "etc."]}},
+            {"Personalized Recommendations": {"Type": "text", "Description": "customized guidance, developmental activities, etc."}}
+        ]
+    }
+}
+
+
+I removed all unnecessary text and kept only the `{{ NO-CODE ELEMENT NAME }}` and `{{ PARAMETER ESPECIFICATIONS }}`. I also reformatted the output to be a JSON object with two properties: "Developmental Guidance" and "Developmental Tracker", each containing an array of parameters.

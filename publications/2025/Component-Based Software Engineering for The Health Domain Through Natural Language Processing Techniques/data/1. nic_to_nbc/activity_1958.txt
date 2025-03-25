@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Coping Strategy Assessment": {
+    "Name": {"type": "text"},
+    "Assessment Type": {"type": "options"},
+    "Questions": {"type": "list of text questions"},
+    "Response Type": {"type": "options"},
+    "Coping Strategy Categories": {"type": "list of text categories"},
+    "Scoring": {"type": "text"}
+  }
+}

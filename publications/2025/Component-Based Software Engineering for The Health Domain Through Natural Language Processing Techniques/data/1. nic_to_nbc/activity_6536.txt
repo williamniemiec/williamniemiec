@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+    "Turning": {
+        "Parameters": {
+            "Turning": {"Type": "options", "Required": true, "Options": ["left side", "right side", "back"]},
+            "Frequency": {"Type": "options", "Required": true, "Options": ["every hour", "every 2 hours", "every 4 hours", "as needed"]},
+            "Duration": {"Type": "number", "Required": true}
+        }
+    },
+    "Positioning": {
+        "Parameters": {
+            "Position": {"Type": "options", "Required": true, "Options": ["side-lying", "back-lying", "prone"]},
+            "Pillows": {"Type": "checklist", "Required": true, "Options": ["Behind the back", "Under the knees", "Between the legs", "Other (free text)"]}
+        }
+    }
+}

@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "ParameterSpecifications": {
+    "warning title": {"Description": "title of the warning", "Required": true, "Type": "text"},
+    "warning message": {"Description": "message to warn the patient about using foreign objects for cerumen removal", "Required": true, "Type": "text"},
+    "Examples": {"Description": "list of examples of foreign objects to avoid using for cerumen removal", "Required": true, "Type": "list of text"},
+    "Reason": {"Description": "brief explanation of why using foreign objects for cerumen removal is not recommended", "Required": true, "Type": "text"}
+  },
+  "NoCodeElementName": "Warning"
+}

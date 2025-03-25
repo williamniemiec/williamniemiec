@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Referral": {
+    "parameters": [
+      {"Learning Objective": {"type": "text"}},
+      {"Referral Type": {"type": "options", "options": [{"value": "specialist", "label": "Specialist"}, {"value": "agency", "label": "Agency"}, {"value": "community_resource", "label": "Community Resource"}]}},
+      {"Referral Reason": {"type": "text"}},
+      {"Referral Details": {"type": "text"}},
+      {"Follow-up": {"type": "options", "options": [{"value": "phone_call", "label": "Phone Call"}, {"value": "email", "label": "Email"}, {"value": "in_person", "label": "In-person Visit"}]}}
+    ]
+  }
+}

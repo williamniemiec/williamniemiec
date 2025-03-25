@@ -1,0 +1,10 @@
+Here is the output in JSON format:
+
+
+{
+  "Spiritual Practice": {
+    "Type": {"Description": "specify the type of spiritual practice", "Required": true, "Type": "options", "Options": [{"value": "meditation", "label": "Meditation"}, {"value": "prayer", "label": "Prayer"}, {"value": "ritual", "label": "Ritual"}, {"value": "other", "label": "Other (please specify)"}]},
+    "Guided Content": {"Description": "provide guided content for the spiritual practice (e.g. meditation script, prayer text)", "Required": true, "Type": "text"},
+    "Frequency": {"Description": "specify how often the individual should engage in the spiritual practice", "Required": true, "Type": "options", "Options": [{"value": "daily", "label": "Daily"}, {"value": "onlyOnce", "label": "Only once"}, {"value": "everyHours", "label": "Every x hours"}, {"value": "everyDays", "label": "Every x days"}]}
+  }
+}

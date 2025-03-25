@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Heart Healthy Diet Guidance": {
+    "Dietary Recommendations": {"type": "list of text options with optional images or icons"},
+    "Food Groups": {"type": "list of text options with optional images or icons"},
+    "Meal Planning": {"type": "list of text options with optional images or icons"},
+    "Recipe Library": {"type": "list of recipes with ingredients, instructions, and nutritional information"},
+    "Grocery Shopping": {"type": "list of text options with optional images or icons"},
+    "Tracking Progress": {"type": "data tracking component with input fields and graphical display options"}
+  }
+}

@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Virtual Companion": {
+    "parameters": {
+      "Video Chat": {"type": "video"},
+      "Emotional Support Messages": {"type": "text", "content": ["You're doing great!", "Stay strong, you've got this!", "Remember to breathe and relax"]},
+      "Breathing Exercises": {"type": "audio", "content": "Guided breathing exercises (e.g., deep breathing, progressive muscle relaxation)"},
+      "Progress Tracking": {"type": "form", "fields": ["Date and time of weaning attempt", "Success or challenges faced", "Notes or comments"]}
+    }
+  }
+}

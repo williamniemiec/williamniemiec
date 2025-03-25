@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+    "Self-Assessment": {
+        "parameters": [
+            {"name": "Content", "type": "text or html"},
+            {"name": "Skills", 
+                "items": [
+                    {"Skill": {"type": "text"}, "Description": {"type": "text"}, "Assessment Questions": 
+                        [{"Question": {"type": "text"}, "Answers": {"type": "list of text"}, "Correct Answer": {"type": "text"}}]
+                }
+            },
+            {"name": "Resources", 
+                "items": [
+                    {"Resource": {"type": "text or html"}, "Description": {"type": "text"}}
+                ]
+            }
+        ]
+    }
+}

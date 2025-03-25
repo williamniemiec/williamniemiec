@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+  "Lab Test Names": {
+    "type": "list of text"
+  },
+  "Monitoring Frequency": {
+    "type": "options",
+    "options": ["daily", "every12Hours", "every24Hours"]
+  },
+  "Deadline Date": {
+    "type": "datetime"
+  },
+  "Result Tracking": {
+    "type": "boolean"
+  },
+  "Alert Thresholds": {
+    "type": "list of text"
+  }
+}
+
+
+And the no-code element name is:
+
+`Lab Test Monitoring`

@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Sexual Development Guide": {
+    "Title": {"type": "text"},
+    "Content": {"type": "educational content (e.g., HTML, JSON)"},
+    "Life Stages": {"type": "list of life stages (e.g., text)"},
+    "Developmental Milestones": {"type": "list of developmental milestones (e.g., text)"},
+    "Images/Videos": {"type": "list of image/video URLs or embedded content"},
+    "Quiz Questions": {"type": "list of quiz questions (e.g., multiple-choice, true/false)"},
+    "Frequency": {"options": ["daily", "onlyOnce", "everyDays"]},
+    "Deadline Date": {"type": "datetime"}
+  }
+}

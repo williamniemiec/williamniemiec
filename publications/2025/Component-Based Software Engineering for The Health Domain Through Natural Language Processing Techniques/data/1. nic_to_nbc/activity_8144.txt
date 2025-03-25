@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Lab Test": {
+        "parameters": [
+            {"Name": {"type": "text"}},
+            {"Description": {"type": "text"}},
+            {"Indications": {"type": "checklist"}},
+            {"Sample Type": {"type": "text"}},
+            {"Frequency": {"type": "options"}}
+        ]
+    }
+}

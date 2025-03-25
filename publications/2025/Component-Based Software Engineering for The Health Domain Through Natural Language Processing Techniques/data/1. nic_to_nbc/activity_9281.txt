@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "No-code element name": "Confidentiality Protector",
+  "Parameters": {
+    "Unauthorized Individuals": {"Type": "options"},
+    "Attorney Presence": {"Type": "boolean"},
+    "Reminder Message": {"Type": "text"}
+  }
+}

@@ -1,0 +1,16 @@
+Here is the JSON output:
+
+
+{
+  "Fluid Tracker": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Fluid Type": {"Type": "options"},
+      "Intake": {"Type": "number"},
+      "Output": {"Type": "number"},
+      "Frequency": {"Type": "options"},
+      "Deadline Date": {"Type": "datetime"},
+      "Notes": {"Type": "text"}
+    }
+  }
+}

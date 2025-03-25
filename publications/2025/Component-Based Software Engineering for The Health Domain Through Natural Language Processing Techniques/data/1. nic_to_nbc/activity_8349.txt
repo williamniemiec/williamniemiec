@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Monitoring": {
+    "Parameters": {
+      "Medication": {"Type": "text"},
+      "Effect": {"Type": "text"},
+      "Tracking Method": {"Type": "options"},
+      "Frequency": {"Type": "options"},
+      "Deadline Date": {"Type": "datetime"},
+      "Notes": {"Type": "text"}
+    }
+  }
+}
+
+
+Let me know if this is what you were looking for!

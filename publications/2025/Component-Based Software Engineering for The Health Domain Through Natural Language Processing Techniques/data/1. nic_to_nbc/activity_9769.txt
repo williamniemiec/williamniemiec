@@ -1,0 +1,37 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Emotional Support",
+    "parameters": [
+        {
+            "name": "Affirmation Message",
+            "type": "text"
+        },
+        {
+            "name": "Emotion Expression",
+            "type": "text"
+        },
+        {
+            "name": "Emotion Type",
+            "type": "options",
+            "options": [
+                { value: "fear", label: "Fear" },
+                { value: "guilt", label: "Guilt" },
+                { value: "embarrassment", label: "Embarrassment" },
+                { value: "self-blame", label: "Self-Blame" },
+                { value: "other", label: "Other (please specify)" }
+            ]
+        },
+        {
+            "name": "Frequency",
+            "type": "options",
+            "options": [
+                { value: "daily", label: "Daily" },
+                { value: "onlyOnce", label: "Only once" },
+                { value: "everyHours", label: "Every x hours" },
+                { value: "everyDays", label: "Every x days" }
+            ]
+        }
+    ]
+}

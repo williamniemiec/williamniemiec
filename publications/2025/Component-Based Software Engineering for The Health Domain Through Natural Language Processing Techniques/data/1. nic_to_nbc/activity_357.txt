@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+{
+  "Hand Washing Reminder": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Trigger": {"Type": "options", "Options": [{"value": "afterToileting", "label": "After toileting"}, {"value": "beforeMeals", "label": "Before meals"}, {"value": "both", "label": "Both after toileting and before meals"}]},
+      "Frequency": {"Type": "options", "Options": [{"value": "everyTime", "label": "Every time"}, {"value": "onlyOnce", "label": "Only once"}, {"value": "everyHours", "label": "Every x hours"}, {"value": "everyDays", "label": "Every x days"}]},
+      "Instructions": {"Type": "text"}
+    }
+  }
+}
+
+I removed the not applicable parameters (`Deadline Date`) and kept only the necessary information. Let me know if this is what you were expecting!

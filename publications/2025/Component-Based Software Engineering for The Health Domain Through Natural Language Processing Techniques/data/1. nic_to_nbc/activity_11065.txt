@@ -1,0 +1,10 @@
+Here is the output in JSON format:
+
+
+{
+  "Gradual Change": {
+    "Change Type": {"Description": "Choose the type of change", "Required": true, "Type": "options", "Options": [{"value": "medication", "label": "New Medication"}, {"value": "therapy", "label": "New Therapy"}, {"value": "lifestyleChange", "label": "Lifestyle Change"}]},
+    "Gradual Introduction": {"Description": "A step-by-step guide to introducing the change, with incremental steps and milestones", "Required": true, "Type": "guided transition", "Steps": [{"step": "Step 1: Introduction", "description": "Introduce the change and explain its purpose"}, {"step": "Step 2: Small Step", "description": "Take a small step towards implementing the change"}, {"step": "Step 3: Progress", "description": "Monitor progress and adjust as needed"}]},
+    "Frequency": {"Description": "How often the patient should review and progress through the gradual introduction", "Required": true, "Type": "options", "Options": [{"value": "daily", "label": "Daily"}, {"value": "weekly", "label": "Weekly"}, {"value": "monthly", "label": "Monthly"}]}
+  }
+}

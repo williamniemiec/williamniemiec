@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+  "Equipment Safety Check": {
+    "parameters": [
+      {"name": "equipment_type", "description": "What type of equipment do you need to check?", "required": true, "type": "options"},
+      {"name": "grounding_status", "description": "Is the equipment properly grounded?", "required": true, "type": "options"},
+      {"name": "working_order_status", "description": "Is the equipment in good working order?", "required": true, "type": "options"},
+      {"name": "location_status", "description": "Is the equipment carefully located?", "required": true, "type": "options"}
+    ]
+  },
+  "Equipment Location Guidance": {
+    "parameters": [
+      {"name": "step1", "description": "Step 1: Place the equipment on a stable surface", "required": true, "type": "text"},
+      {"name": "step2", "description": "Step 2: Keep the equipment away from water and moisture", "required": true, "type": "text"},
+      {"name": "step3", "description": "Step 3: Avoid placing the equipment near heat sources", "required": true, "type": "text"}
+    ]
+  }
+}

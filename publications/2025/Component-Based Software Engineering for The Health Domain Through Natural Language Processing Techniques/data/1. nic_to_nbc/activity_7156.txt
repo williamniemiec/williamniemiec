@@ -1,0 +1,33 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Nutrition Guide",
+  "parameters": [
+    {
+      "name": "Title",
+      "type": "text"
+    },
+    {
+      "name": "Content",
+      "type": "rich text or HTML"
+    },
+    {
+      "name": "FAQs",
+      "type": "list of question-answer pairs"
+    },
+    {
+      "name": "Resources",
+      "type": "list of URLs or resource IDs"
+    },
+    {
+      "name": "Frequency",
+      "type": "options",
+      "options": [
+        { value: "daily", label: "Daily" },
+        { value: "weekly", label: "Weekly" },
+        { value: "asNeeded", label: "As needed" }
+      ]
+    }
+  ]
+}

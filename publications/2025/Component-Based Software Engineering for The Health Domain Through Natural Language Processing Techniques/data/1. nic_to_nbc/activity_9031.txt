@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+{
+    "name": "Values Explorer",
+    "parameters": [
+        { 
+            "name": "Name", 
+            "type": "text"
+        },
+        { 
+            "name": "Value Categories", 
+            "type": "list of text"
+        },
+        { 
+            "name": "Reflection Questions", 
+            "type": "list of text"
+        },
+        { 
+            "name": "Ranking", 
+            "type": "boolean"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+Here is the output in JSON format:
+
+
+{
+"Coping Mechanism Guide": {
+    "Parameters": {
+        "Title": {"Type": "text"},
+        "Introduction": {"Type": "text"},
+        "Coping Mechanisms": {"Type": "list of objects", 
+            "Properties": {
+                "Name": {"Type": "text"}, 
+                "Description": {"Type": "text"}, 
+                "Instructions": {"Type": "text or html"}
+            }
+        }, 
+        "Examples": {"Type": "list of objects", 
+            "Properties": {
+                "Scenario": {"Type": "text"}, 
+                "Coping Mechanism": {"Type": "reference to a coping mechanism object"}
+            }
+        }, 
+        "Practice Exercises": {"Type": "list of objects", 
+            "Properties": {
+                "Exercise": {"Type": "text"}, 
+                "Instructions": {"Type": "text or html"}
+            }
+        }, 
+        "Frequency": {"Type": "options (daily, onlyOnce, everyHours, everyDays)"}
+    }
+}
+}

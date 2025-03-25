@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Disaster Role Establishment": {
+    "Role Type": {"Type": "options", "Options": ["incident commander", "operations section chief", "planning section chief", "etc."]},
+    "Role Description": {"Type": "text"},
+    "Personnel Assignment": {"Type": "list", "List items": ["personnel name", "contact information", "qualifications", "etc."]},
+    "Role Hierarchy": {"Type": "text"},
+    "Communication Protocols": {"Type": "text"},
+    "Training and Drills": {"Type": "datetime"},
+    "Role Evaluation": {"Type": "text"}
+  }
+}

@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Analgesic Education": {
+    "parameters": [
+      {"name": "name", "type": "text"},
+      {"name": "content", "type": "text, image, video, or multimedia content"},
+      {"name": "format", "type": "options"},
+      {"name": "myths", "type": "text or list of myths"},
+      {"name": "facts", "type": "text or list of facts"},
+      {"name": "resources", "type": "text or list of resources"}
+    ]
+  }
+}

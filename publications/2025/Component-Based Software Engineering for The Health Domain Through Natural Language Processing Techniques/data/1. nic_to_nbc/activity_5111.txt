@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Blood Pressure Measurement": {
+    "Parameters": {
+      "Pressure Type": {"Type": "options"},
+      "Measurement Instructions": {"Type": "text or multimedia"},
+      "Equipment Settings": {"Type": "text or options"},
+      "Measurement Values": {"Type": "numerical values"},
+      "Measurement Confirmation": {"Type": "boolean"}
+    }
+  }
+}

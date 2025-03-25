@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Open-Ended Question": {
+    "Parameters": {
+      "Question": {"Type": "text"},
+      "Response Type": {"Type": "options"},
+      "Emotional Support": {"Type": "text"}
+    }
+  }
+}

@@ -1,0 +1,59 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Exercise Guide",
+    "parameters": [
+        {
+            "name": "Name",
+            "description": "A parameter that specifies the title or name of the exercise.",
+            "required": true,
+            "type": "text"
+        },
+        {
+            "name": "Description",
+            "description": "A parameter that provides a brief description of the exercise.",
+            "required": true,
+            "type": "text"
+        },
+        {
+            "name": "Type",
+            "description": "A parameter that specifies the type of exercise (e.g., passive, active, range-of-motion).",
+            "required": true,
+            "type": "options",
+            "options": [
+                { value: "passive", label: "Passive" },
+                { value: "active", label: "Active" },
+                { value: "range-of-motion", label: "Range-of-Motion" }
+            ]
+        },
+        {
+            "name": "Target Area",
+            "description": "A parameter that specifies the area of the body targeted by the exercise (e.g., lower extremities).",
+            "required": true,
+            "type": "options",
+            "options": [
+                { value: "lower extremities", label: "Lower Extremities" },
+                { value: "upper extremities", label: "Upper Extremities" },
+                { value: "core", label: "Core" }
+            ]
+        },
+        {
+            "name": "Frequency",
+            "description": "A parameter that specifies how often the exercise should be performed.",
+            "required": true,
+            "type": "options",
+            "options": [
+                { value: "daily", label: "Daily" },
+                { value: "everyHours", label: "Every x hours" },
+                { value: "everyDays", label: "Every x days" }
+            ]
+        },
+        {
+            "name": "Instructions",
+            "description": "A parameter that provides detailed instructions on how to perform the exercise.",
+            "required": true,
+            "type": "text or video"
+        }
+    ]
+}

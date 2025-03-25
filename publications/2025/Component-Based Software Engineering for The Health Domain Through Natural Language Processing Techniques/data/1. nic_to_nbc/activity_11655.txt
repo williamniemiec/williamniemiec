@@ -1,0 +1,36 @@
+Here is the output in JSON format:
+
+
+{
+  "Pulmonary Secretions Tracker": {
+    "parameters": {
+      "name": {"type": "text"},
+      "secretion fields": {"type": "list of fields to track"},
+      "tracking frequency": {"type": "options: continuous, periodic, etc."}
+    }
+  },
+  "Documentation Template": {
+    "parameters": {
+      "name": {"type": "text"},
+      "documentation fields": {"type": "list of fields to document"},
+      "documentation format": {"type": "options: text, image, etc."}
+    }
+  },
+  "Alert System": {
+    "parameters": {
+      "name": {"type": "text"},
+      "alert criteria": {"type": "list of conditions that trigger an alert"},
+      "notification method": {"type": "options: in-app notification, SMS, email, etc."}
+    }
+  },
+  "Reporting Tool": {
+    "parameters": {
+      "name": {"type": "text"},
+      "report fields": {"type": "list of fields to include in report"},
+      "report format": {"type": "options: PDF, CSV, etc."}
+    }
+  }
+}
+
+
+I removed all unnecessary text and kept only the no-code element names and their corresponding parameter specifications. I also removed the "Not Applicable" parameters as per your request.

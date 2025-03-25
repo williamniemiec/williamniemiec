@@ -1,0 +1,10 @@
+Here is the output in JSON format:
+
+
+{
+    "Earmold Cleaning Instructions": {
+        "Instructions": {"Type": "list of text"},
+        "Images or Videos": {"Type": "list of images or videos"},
+        "Important Notes": {"Type": "list of text"}
+    }
+}

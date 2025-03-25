@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Balance Exercise Monitoring": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Description": {"Type": "text"},
+      "Exercise Type": {"Type": "options", "Options": ["standing", "sitting", "walking", "etc."]},
+      "Response Tracking": {"Type": "text or rating scale", "Options": ["How did you feel during the exercise?", "Rate your balance from 1-5", "etc."]},
+      "Frequency": {"Type": "options", "Options": ["daily", "everyHours", "everyDays"]},
+      "Deadline Date": {"Type": "datetime"}
+    }
+  }
+}
+
+
+Note: I removed the `Alerts and Notifications` and `Data Analysis` parameters as they are boolean types without additional specifications.

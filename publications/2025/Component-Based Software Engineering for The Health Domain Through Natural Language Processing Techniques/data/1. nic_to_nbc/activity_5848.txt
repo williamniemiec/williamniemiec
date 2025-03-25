@@ -1,0 +1,12 @@
+Here is the extracted information in JSON format:
+
+
+{
+    "Fluid Tracker": {
+        "Parameters": [
+            {"name": "Fluid Intake", "type": "number"},
+            {"name": "Fluid Output", "type": "number"},
+            {"name": "Frequency", "type": "options"}
+        ]
+    }
+}

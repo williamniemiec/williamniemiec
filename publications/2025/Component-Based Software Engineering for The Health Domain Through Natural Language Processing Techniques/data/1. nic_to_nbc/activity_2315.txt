@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Nicotine Replacement Therapy (NRT) Education": {
+        "parameters": [
+            {"name": "Content", "type": "text"},
+            {"name": "Format", "type": "options", "options": ["text", "video", "image", "audio"]},
+            {"name": "Product List", "type": "list"},
+            {"name": "Benefits", "type": "text"},
+            {"name": "Frequency", "type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]}
+        ]
+    }
+}

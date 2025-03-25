@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Visit Scheduler": {
+    "Parameters": {
+      "Visit Purpose": "",
+      "Visit Schedule": "",
+      "Developmental or Situational Points": "",
+      "Visit Reminders": "",
+      "Visit Notes": ""
+    }
+  }
+}

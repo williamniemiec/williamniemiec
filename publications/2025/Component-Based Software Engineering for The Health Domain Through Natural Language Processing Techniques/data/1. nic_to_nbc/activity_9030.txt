@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Comfort Positioning Guide": {
+    "Parameters": {
+      "Name": "text, required",
+      "Positioning instructions": "text or html, required",
+      "Image or video demonstrations": "list of image or video URLs, optional",
+      "Comfort assessment questions": "list of questions, optional",
+      "Positioning options": "list of options, optional",
+      "Reminders": "list of reminder settings, optional"
+    }
+  }
+}
+
+
+Note that I removed the not applicable parameters and only kept the required and optional parameters specified in the input text.

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Patient Monitoring": {
+    "Parameters": {
+      "Monitoring Instructions": {},
+      "Monitoring Frequency": {},
+      "Physical Monitoring": {},
+      "Psychological Monitoring": {},
+      "Agency Policy": {}
+    }
+  }
+}

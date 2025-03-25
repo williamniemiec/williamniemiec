@@ -1,0 +1,52 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Education": {
+    "Parameters": {
+      "Medications": {
+        "Name": "Medications",
+        "Description": "List of medications",
+        "Required": true,
+        "Type": "accordion",
+        "Items": [
+          {
+            "Name": "Medication",
+            "Description": "Medication details",
+            "Required": true,
+            "Type": "object",
+            "Properties": [
+              {
+                "Name": "Purpose",
+                "Description": "Purpose of the medication",
+                "Required": true,
+                "Type": "text"
+              },
+              {
+                "Name": "Action",
+                "Description": "Action of the medication",
+                "Required": true,
+                "Type": "text"
+              }
+            ]
+          }
+        ]
+      },
+      "Frequency": {
+        "Name": "Frequency",
+        "Description": "How often the patient should review the medication education",
+        "Required": true,
+        "Type": "options",
+        "Options": [
+          { "value": "daily", "label": "Daily" },
+          { "value": "onlyOnce", "label": "Only once" },
+          { "value": "everyHours", "label": "Every x hours" },
+          { "value": "everyDays", "label": "Every x days" }
+        ]
+      }
+    }
+  }
+}
+
+
+I removed the non-applicable parameters and kept only the necessary information. Let me know if this meets your requirements!

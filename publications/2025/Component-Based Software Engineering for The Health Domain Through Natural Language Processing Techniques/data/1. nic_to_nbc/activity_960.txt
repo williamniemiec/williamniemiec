@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+    "Fluid Overload Education": {
+        "Educational Content": {"Type": "text field"},
+        "Symptom Checklist": {"Type": "list of text fields"}
+    },
+    "Symptom Tracker": {
+        "Symptom Types": {"Type": "list of text fields"},
+        "Severity": {"Type": "list of text fields"},
+        "Frequency": {"Options": ["daily", "everyHours", "everyDays"]},
+        "Deadline Date": {"Type": "datetime"}
+    }
+}

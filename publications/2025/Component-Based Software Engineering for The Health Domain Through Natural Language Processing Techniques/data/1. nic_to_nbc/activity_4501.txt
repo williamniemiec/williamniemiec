@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+  "Incentive Spirometry Exercise": {
+    "Exercise Instructions": {
+      "type": "text"
+    },
+    "Device Guidance": {
+      "type": "text"
+    },
+    "Breathing Technique Guidance": {
+      "type": "text"
+    },
+    "Frequency": {
+      "options": ["daily", "weekly", "as prescribed"]
+    },
+    "Reminders": {
+      "type": "boolean"
+    },
+    "Tracking": {
+      "type": "boolean"
+    },
+    "Device Integration": {
+      "type": "boolean"
+    }
+  }
+}

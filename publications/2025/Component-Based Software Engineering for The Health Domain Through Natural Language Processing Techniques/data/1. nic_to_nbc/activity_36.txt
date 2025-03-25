@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Personal Clothing Prompt": {
+    "Clothing Type": {"type": "options"},
+    "Assistance Level": {"type": "options"},
+    "Prompt Message": {"type": "text"},
+    "Frequency": {"type": "options"},
+    "Deadline Date": {"type": "datetime"},
+    "Assistance Options": {"type": "list of options"}
+  }
+}

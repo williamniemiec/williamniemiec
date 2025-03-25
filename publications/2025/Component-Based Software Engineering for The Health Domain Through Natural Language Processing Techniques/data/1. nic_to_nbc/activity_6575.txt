@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+  "Food Pyramid Selector": {
+    "Parameters": {
+      "Food Pyramid Options": {},
+      "Nutritional Needs": {},
+      "Dietary Preferences": {},
+      "Lifestyle Factors": {},
+      "Recommended Food Pyramid": {}
+    }
+  },
+  "Food Pyramid Explorer": {
+    "Parameters": {
+      "Food Pyramid Library": {},
+      "Interactive Elements": {},
+      "Nutritional Information": {},
+      "Personalized Recommendations": {}
+    }
+  }
+}

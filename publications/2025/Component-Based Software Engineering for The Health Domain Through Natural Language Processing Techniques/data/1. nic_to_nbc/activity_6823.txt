@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+    "Identification Band Configuration": {
+        "parameters": [
+            {"name": "band type"},
+            {"name": "patient information"},
+            {"name": "alert information"}
+        ]
+    }
+}

@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Volunteer Opportunity": {
+    "Program Name": {
+      "Type": "text"
+    },
+    "Volunteer Roles": {
+      "Type": "list (text or options)"
+    },
+    "Time Commitment": {
+      "Type": "text or list (text or options)"
+    },
+    "Interest": {
+      "Type": "boolean or options"
+    }
+  }
+}

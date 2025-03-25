@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Referral to Healthcare Provider": {
+    "Parameters": {
+      "Provider": {},
+      "Reason": {},
+      "Contact Info": {},
+      "Appointment": {},
+      "Resources": {}
+    }
+  }
+}

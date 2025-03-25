@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Financial Resource Plan": {
+    "parameters": {
+      "Financial Assessment": {"type": "text"},
+      "Health Care Costs": {"type": "text"},
+      "Insurance Coverage": {"type": "options"},
+      "Financial Assistance": {"type": "options"},
+      "Resource Allocation": {"type": "options"},
+      "Budgeting": {"type": "text"},
+      "Financial Planning": {"type": "boolean"}
+    }
+  }
+}

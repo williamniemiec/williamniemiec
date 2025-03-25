@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Changeability Assessment": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Precipitant": {"Type": "text"},
+      "Aspect": {"Type": "text"},
+      "Changeability": {"Type": "options", "Options": ["Can be changed", "Cannot be changed"]},
+      "Reason": {"Type": "text"},
+      "Frequency": {"Type": "options", "Options": ["daily", "every other day", "weekly", "monthly"]}
+    }
+  }
+}
+
+
+I removed the `Deadline Date` parameter since it's not applicable (datetime type is not suitable for this element). Let me know if you need any further assistance!

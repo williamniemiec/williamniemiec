@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "emergency contraception guide": {
+        "Emergency Contraception Methods": {"type": "list of emergency contraception methods with descriptions"},
+        "Use and Effectiveness": {"type": "text or interactive tutorial"},
+        "Potential Side Effects": {"type": "list of potential side effects with descriptions"},
+        "Resources": {"type": "list of resources with links or embedded content"},
+        "Frequency": {"options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+        "Deadline Date": {"type": "datetime"}
+    }
+}

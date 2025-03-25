@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Shock Signs and Symptoms Education": {
+    "name": {"type": "text"},
+    "why": {"type": "text"},
+    "signs_and_symptoms": {"type": "list"},
+    "education_method": {"type": "options", "options": ["verbal", "written", "video", "etc."]},
+    "additional_resources": {"type": "list"},
+    "action_plan": {"type": "text"},
+    "notes": {"type": "text"}
+  }
+}

@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+[
+    {
+        "name": "Vital Sign Tracker",
+        "parameters": {
+            "vital_sign_type": "",
+            "frequency": "",
+            "target_range": "",
+            "notes": ""
+        }
+    },
+    {
+        "name": "Question",
+        "parameters": {
+            "name": "",
+            "answer_type": "",
+            "frequency": ""
+        }
+    }
+]

@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Interdisciplinary Collaboration": {
+    "parameters": [
+      {"name": "name", "description": "title or name of the interdisciplinary collaboration"},
+      {"name": "healthcare providers", "description": "a list of healthcare providers involved in the collaboration"},
+      {"name": "options", "description": "a list of options to be discussed (e.g., whole truth, partial truth, decision delay)"},
+      {"name": "participation roles", "description": "specifies the role of each healthcare provider in the chosen option"},
+      {"name": "meeting schedule", "description": "specifies the schedule for the collaboration meeting"}
+    ]
+  }
+}
+
+
+I removed the `deadline_date` parameter since it's not applicable (optional). Let me know if you need any further assistance!

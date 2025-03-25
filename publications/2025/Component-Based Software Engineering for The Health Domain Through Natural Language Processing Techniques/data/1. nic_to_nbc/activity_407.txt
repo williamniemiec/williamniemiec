@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Skin Care Tip": {
+        "Parameters": {
+            "Name": "Manage Excessive Moisture",
+            "Content": "Remove excessive moisture on the skin by gently patting dry with a clean towel, especially after perspiring, wound drainage, or incontinence episodes",
+            "Type": "text",
+            "Frequency": "options (e.g., daily, after showering)"
+        }
+    }
+}

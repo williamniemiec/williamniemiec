@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Tube Feeding Discontinuation": {
+    "Oral Intake Assessment": {},
+    "Discontinuation Criteria": {},
+    "Tube Feeding Reduction Schedule": {},
+    "Monitoring Parameters": {},
+    "Discontinuation Instructions": {}
+  }
+}

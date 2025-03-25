@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Tremor Monitoring": {
+        "Parameters": {
+            "Tremor Status": {},
+            "Frequency": {}
+        }
+    }
+}
+
+
+I removed all unnecessary information and only kept the `{{ NO-CODE ELEMENT NAME }}` which is `"Tremor Monitoring"` and the applicable parameters from `{{ PARAMETER ESPECIFICATIONS }}`. I also removed the not applicable parameters.

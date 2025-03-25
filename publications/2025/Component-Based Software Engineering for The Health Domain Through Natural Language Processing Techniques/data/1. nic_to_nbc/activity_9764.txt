@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Hand Roll Instruction": {
+    "Name": {"Type": "text"},
+    "Hand Roll Type": {"Type": "options", "Options": ["foam", "gel", "..."]},
+    "Placement Instructions": {"Type": "ordered list"},
+    "Frequency": {"Type": "options", "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Tips and Reminders": {"Type": "unordered list"},
+    "Images or Videos": {"Type": "unordered list"}
+  }
+}

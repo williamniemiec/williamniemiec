@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Evaluation": {
+    "parameters": [
+      {"Objectives": "A parameter that specifies the objectives to be evaluated."},
+      {"Evaluation Criteria": "A parameter that specifies the criteria used to evaluate the patient's progress."},
+      {"Frequency": "A parameter that specifies how often the evaluation should be performed."},
+      {"Deadline Date": "A parameter that specifies the due date for the evaluation."},
+      {"Rating Scale": "A parameter that specifies the rating scale used to evaluate the patient's progress."}
+    ]
+  }
+}

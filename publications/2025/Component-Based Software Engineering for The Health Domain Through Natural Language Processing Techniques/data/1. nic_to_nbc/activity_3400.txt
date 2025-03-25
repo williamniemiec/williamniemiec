@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Insurance Explorer": {
+    "Parameters": {
+      "Insurance Overview": {"Type": ["text", "images", "videos"]},
+      "Waiting Periods": {"Type": ["text", "images", "videos"]},
+      "Provider Options": {"Type": ["interactive list", "search tool"]},
+      "Provider Comparison": {"Type": ["interactive comparison tool"]},
+      "Insurance FAQs": {"Type": ["text", "images", "videos"]},
+      "Resources": {"Type": ["list of URLs", "phone numbers"]}
+    }
+  }
+}

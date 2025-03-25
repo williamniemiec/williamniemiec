@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Character Feelings Analysis": {
+    "parameters": [
+      {"Literature": "text or multimedia (e.g., image, video, audio)"},
+      {"Character": "options (e.g., protagonist, antagonist, supporting character)"},
+      {"Feelings": "options (e.g., happiness, sadness, anger, fear)"},
+      {"Discussion Prompt": "text"},
+      {"Frequency": "options (e.g., daily, onlyOnce, everyHours, everyDays)"},
+    ]
+  }
+}

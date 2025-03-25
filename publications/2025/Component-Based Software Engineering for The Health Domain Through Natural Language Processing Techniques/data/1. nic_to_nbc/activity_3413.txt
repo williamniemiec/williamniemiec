@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Visitor Management": {
+    "parameters": [
+      {"Name": {"type": "text"}},
+      {"Visitor Limit": {"type": "number"}},
+      {"Visitor Schedule": {"type": "schedule"}},
+      {"Interruption Settings": {"type": "options"}},
+      {"Frequency": {"type": "options"}}
+    ]
+  }
+}
+
+
+I removed the `Deadline Date` parameter as it was marked as not required. Let me know if you need anything else!

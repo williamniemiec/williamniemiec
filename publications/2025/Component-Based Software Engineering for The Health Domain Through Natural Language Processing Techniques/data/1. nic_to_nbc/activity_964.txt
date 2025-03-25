@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+    "Sedation Level Assessment": {
+        "parameters": [
+            {"name": "sedation_level", "description": "Rate your current level of sedation"},
+            {"name": "date", "description": "Date of the sedation level assessment"},
+            {"name": "frequency", "description": "How often should you assess your sedation level"}
+        ]
+    }
+}

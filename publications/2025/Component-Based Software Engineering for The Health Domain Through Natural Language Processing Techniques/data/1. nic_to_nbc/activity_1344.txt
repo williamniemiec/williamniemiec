@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+  "Medical Coverage Verification": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Event Information": {"Type": "form"},
+      "Medical Coverage": {"Type": "options", "Options": ["yes", "no"]},
+      "Medical Personnel Information": {"Type": "form"},
+      "Frequency": {"Type": "options", "Options": ["everyEvent", "daily"]},
+      "Deadline Date": {"Type": "date"}
+    }
+  },
+  "Survey": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Survey Questions": {"Type": "form"},
+      "Frequency": {"Type": "options", "Options": ["everyEvent", "daily"]},
+      "Deadline Date": {"Type": "date"}
+    }
+  }
+}
+
+
+Let me know if you need any further assistance!

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Motivation Factor": {
+    "Parameters": {
+      "Factor Type": {},
+      "Factor Description": {},
+      "Influence": {},
+      "Direction": {},
+      "Patient Input": {}
+    }
+  }
+}

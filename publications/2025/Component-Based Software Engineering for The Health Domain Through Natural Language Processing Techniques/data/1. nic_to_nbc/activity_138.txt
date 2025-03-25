@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+    "Survey": {
+        "parameters": {
+            "questions": "",
+            "answer types": "",
+            "frequency": ""
+        }
+    },
+    "Tracker": {
+        "parameters": {
+            "type": "",
+            "units": "",
+            "frequency": "",
+            "goals": ""
+        }
+    }
+}

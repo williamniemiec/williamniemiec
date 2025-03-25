@@ -1,0 +1,37 @@
+Here is the output in JSON format:
+
+
+[
+    {
+        "elementName": "Journal",
+        "parameters": {
+            "name": "",
+            "entries": [],
+            "format": []
+        }
+    },
+    {
+        "elementName": "Form",
+        "parameters": {
+            "name": "",
+            "fields": [],
+            "validation": []
+        }
+    },
+    {
+        "elementName": "Upload",
+        "parameters": {
+            "name": "",
+            "file types": [],
+            "storage": []
+        }
+    },
+    {
+        "elementName": "Dashboard",
+        "parameters": {
+            "name": "",
+            "widgets": [],
+            "layout": []
+        }
+    }
+]

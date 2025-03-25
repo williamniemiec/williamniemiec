@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Parameter Specifications": {
+        "Title": {"Type": "text", "Value": "Personalized Care Plan for Ear Care"},
+        "Content": {"Type": "form", "Value": "Manage ear infection, reduce pain and discomfort, Antibiotic therapy, ear drops, follow-up appointments, Patient, healthcare provider, pharmacist"},
+        "Team Members": {"Type": "list", "Value": ["Dr. Smith, Primary Care Physician", "Nurse Johnson, Ear Care Specialist", "Pharmacist Brown, Medication Management"]},
+        "Patient/Significant Others": {"Type": "list", "Value": ["Patient John Doe", "Family Member Jane Doe"]},
+        "Frequency": {"Type": "options", "Value": "everyDays or weekly"}
+    },
+    "No-Code Element Name": "Care Plan"
+}

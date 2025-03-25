@@ -1,0 +1,29 @@
+Here is the output in JSON format:
+
+
+{
+    "Safety and Comfort Plan": {
+        "parameters": [
+            {
+                "name": "Behavioral Triggers",
+                "type": "list"
+            },
+            {
+                "name": "Safety Measures",
+                "type": "options"
+            },
+            {
+                "name": "Comfort Measures",
+                "type": "options"
+            },
+            {
+                "name": "Responsibility",
+                "type": "text"
+            },
+            {
+                "name": "Notes",
+                "type": "text"
+            }
+        ]
+    }
+}

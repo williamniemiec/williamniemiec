@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Shoe and Stocking Condition Monitoring": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Instructions": {"Type": "text"},
+      "Frequency": {"Type": "options", "Options": ["daily", "weekly", "monthly"]},
+      "Assessment Criteria": {"Type": "list of criteria"},
+      "Reporting": {"Type": "options", "Options": ["mobile app", "wearable device", "manual log"]}
+    }
+  }
+}

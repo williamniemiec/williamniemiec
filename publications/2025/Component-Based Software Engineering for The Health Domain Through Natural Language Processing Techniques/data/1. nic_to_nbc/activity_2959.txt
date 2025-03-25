@@ -1,0 +1,30 @@
+Here is the output in JSON format:
+
+
+{
+    "sexual_needs": [
+        {
+            "name": "sexual_needs",
+            "description": "specify the patient's individual sexual needs"
+        },
+        {
+            "name": "acceptable_ways",
+            "description": "list of acceptable ways to fulfill individual sexual needs in privacy"
+        },
+        {
+            "name": "boundaries",
+            "description": "specify boundaries for fulfilling individual sexual needs in privacy"
+        },
+        {
+            "name": "resources",
+            "description": "list of resources to support fulfilling individual sexual needs in privacy"
+        },
+        {
+            "name": "frequency",
+            "description": "specify how often the discussion should be repeated"
+        }
+    ]
+}
+
+
+I removed the `deadline_date` parameter because it was marked as not required (`"required": false`). Let me know if you have any further questions!

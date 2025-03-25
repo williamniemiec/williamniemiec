@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Guide": {
+    "Parameters": {
+      "Food Categories": {"type": "list of options"},
+      "Food Examples": {"type": "list of text or images"},
+      "Meal Planning Tips": {"type": "list of text or HTML"},
+      "Portion Control Guidance": {"type": "text or HTML"}
+    }
+  }
+}
+
+
+Note: I removed the `Frequency` parameter as it was marked as "Not Applicable" (i.e., it didn't have a specific value). Let me know if you need any further assistance!

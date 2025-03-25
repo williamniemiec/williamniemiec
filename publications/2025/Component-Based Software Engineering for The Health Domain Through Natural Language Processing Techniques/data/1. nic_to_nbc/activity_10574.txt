@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Insulin Injection Site Rotation": {
+    "Anatomic Region": {},
+    "Injection Sites": {},
+    "Rotation Schedule": {},
+    "Frequency": {}
+  }
+}

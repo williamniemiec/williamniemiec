@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+{
+  "Medication Change Consultation": {
+    "Parameters": {
+      "Provider": {"Type": "text"},
+      "Medication Types": {"Type": "list of options"},
+      "Change Types": {"Type": "list of options"},
+      "Consultation Instructions": {"Type": "text"},
+      "Urgency Level": {"Type": "options"}
+    }
+  }
+}

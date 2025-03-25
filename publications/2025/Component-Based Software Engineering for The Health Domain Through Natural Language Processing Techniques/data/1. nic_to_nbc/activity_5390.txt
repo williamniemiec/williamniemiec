@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Guidance": {
+    "Parameters": {
+      "Test Result": {
+        "Type": "options"
+      },
+      "Guidance Content": {
+        "Type": "text or HTML content"
+      },
+      "Next Steps": {
+        "Type": "text or options"
+      }
+    }
+  }
+}

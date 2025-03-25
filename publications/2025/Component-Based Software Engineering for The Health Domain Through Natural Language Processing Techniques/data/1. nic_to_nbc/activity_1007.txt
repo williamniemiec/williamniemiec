@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Task": {
+    "Parameters": {
+      "Task name": "Bathe in comfortable water temperature",
+      "Frequency": "The frequency of the task, e.g., \"as needed\", \"daily\", or \"weekly\"",
+      "Instructions": "Additional instructions or guidance for the patient, e.g., \"test the water temperature with your hand before getting in\", \"avoid extreme temperatures\", etc."
+    }
+  },
+  "Guide": {
+    "Parameters": {
+      "Guide title": "How to bathe safely and comfortably",
+      "Steps": "A list of steps to follow, e.g., \"test the water temperature\", \"get in the bath slowly\", \"avoid slipping or falling\", etc.",
+      "Tips": "Additional tips or reminders, e.g., \"use a bath mat or non-slip stickers\", \"have someone assist you if needed\", etc."
+    }
+  }
+}

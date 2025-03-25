@@ -1,0 +1,35 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Autonomy Enhancement",
+    "parameters": [
+        {
+            "name": "Autonomy Domain",
+            "type": "options",
+            "options": [
+                { value: "daily living", label: "Daily Living" },
+                { value: "decision-making", label: "Decision Making" },
+                { value: "self-care", label: "Self-Care" },
+                { value: "other", label: "Other" }
+            ]
+        },
+        {
+            "name": "Situation Description",
+            "type": "text"
+        },
+        {
+            "name": "Autonomy Support",
+            "type": "options",
+            "options": [
+                { value: "minimal", label: "Minimal" },
+                { value: "moderate", label: "Moderate" },
+                { value: "maximal", label: "Maximal" }
+            ]
+        },
+        {
+            "name": "Reflection Prompt",
+            "type": "text"
+        }
+    ]
+}

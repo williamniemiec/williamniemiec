@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Care Plan": {
+    "parameters": {
+      "name": "",
+      "goals": [],
+      "actions": [],
+      "deadlines": []
+    }
+  },
+  "Goal Setting": {
+    "parameters": {
+      "name": "",
+      "description": "",
+      "target_date": "",
+      "reminders": ""
+    }
+  }
+}

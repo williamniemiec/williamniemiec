@@ -1,0 +1,34 @@
+Here is the output in JSON format:
+
+
+{
+    "Mental Health Screening": {
+        "Stress Assessment": {
+            "How would you rate your current level of stress?": {
+                "Type": "rating scale (e.g., 1-10)"
+            },
+            "What are some common sources of stress in your life?": {
+                "Type": "text or selection (e.g., work, relationships, finances)"
+            }
+        },
+        "Anxiety Assessment": {
+            "How would you rate your current level of anxiety?": {
+                "Type": "rating scale (e.g., 1-10)"
+            },
+            "What are some common symptoms of anxiety you experience?": {
+                "Type": "text or selection (e.g., rapid heartbeat, sweating, trembling)"
+            }
+        },
+        "Depression Assessment": {
+            "How would you rate your current level of depression?": {
+                "Type": "rating scale (e.g., 1-10)"
+            },
+            "What are some common symptoms of depression you experience?": {
+                "Type": "text or selection (e.g., feelings of sadness, hopelessness, changes in appetite or sleep)"
+            }
+        },
+        "Additional Information": {
+            "Type": "text or selection"
+        }
+    }
+}

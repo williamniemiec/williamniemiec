@@ -1,0 +1,4 @@
+Since there is no `PARAMETER ESPECIFICATIONS` or `NO-CODE ELEMENT NAME` in the input text, the output will be an empty JSON object:
+
+{}
+(Note: I'm assuming that "not applicable parameters" means that if a parameter is not present in the input text, it should not be included in the output JSON)

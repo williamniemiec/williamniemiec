@@ -1,0 +1,4 @@
+Since there are no applicable parameters and no-code elements, my output will be an empty JSON:
+
+json
+{}

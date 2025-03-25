@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Asthma Monitoring": {
+    "parameters": {
+      "Asthma Symptoms": {"type": "options"},
+      "Severity": {"type": "options"},
+      "Essential Oil Use": {"type": "text"},
+      "Timing": {"type": "options"},
+      "Notes": {"type": "text"}
+    }
+  }
+}

@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+    "Medication Education": {
+        "Medication List": {
+            "type": "unordered list",
+            "items": [
+                {"Medication Name": {"type": "text"}},
+                {"Purpose": {"type": "text"}},
+                {"Instructions": {"type": "text"}}
+            ]
+        },
+        "Additional Information": {"type": "text"},
+        "Frequently Asked Questions": {
+            "type": "FAQ",
+            "items": [
+                {"Question": {"type": "text"}},
+                {"Answer": {"type": "text"}}
+            ]
+        }
+    }
+}

@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+[
+    {
+        "element": "Reminder",
+        "parameters": {
+            "name": "",
+            "frequency": "",
+            "instructions": "",
+            "tracking": ""
+        }
+    },
+    {
+        "element": "Task",
+        "parameters": {
+            "name": "",
+            "instructions": "",
+            "frequency": "",
+            "deadline_date": ""
+        }
+    }
+]

@@ -1,0 +1,12 @@
+
+
+
+{
+    "Goal Articulation": {
+        "Goal Prompt": {},
+        "Goal Categories": {},
+        "Goal Statement": {},
+        "Reflection Prompts": {},
+        "Care Plan Alignment": {}
+    }
+}

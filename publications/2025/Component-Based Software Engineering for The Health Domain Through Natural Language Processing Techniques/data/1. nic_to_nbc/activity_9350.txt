@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Alternative Explorer": {
+    "Parameters": {
+      "Problem statement": {"Type": "text"},
+      "Alternative type": {"Type": "options", "Options": ["solutions", "options", "ideas", "strategies", "etc."]},
+      "Listing format": {"Type": "options", "Options": ["text", "checkbox", "table", "etc."]},
+      "Prioritization method": {"Type": "options", "Options": ["rating scale", "ranking", "categorization", "etc."]},
+      "Priority criteria": {"Type": "options", "Options": ["importance", "feasibility", "cost", "effectiveness", "etc."]},
+      "Frequency": {"Type": "options", "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline date": {"Type": "datetime"}
+    }
+  }
+}

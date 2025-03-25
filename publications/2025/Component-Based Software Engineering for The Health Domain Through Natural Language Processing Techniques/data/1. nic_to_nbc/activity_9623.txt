@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Appointment": {
+    "parameters": {
+      "name": "",
+      "description": "",
+      "date": "",
+      "frequency": "",
+      "reminder": ""
+    }
+  }
+}

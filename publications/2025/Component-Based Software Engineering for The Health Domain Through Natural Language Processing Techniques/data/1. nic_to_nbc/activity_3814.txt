@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "noCodeElementName": "Technology Exploration",
+  "parameters": {
+    "Technological Device": {"type": "text"},
+    "Features": {"type": "text or form"},
+    "Benefits": {"type": "text or form"},
+    "Challenges": {"type": "text or form"},
+    "Plan": {"type": "text or form"}
+  }
+}

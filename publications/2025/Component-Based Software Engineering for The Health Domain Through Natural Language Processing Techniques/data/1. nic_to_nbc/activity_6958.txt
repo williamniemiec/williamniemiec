@@ -1,0 +1,49 @@
+Here is the output in JSON format:
+
+
+{
+    "guide": {
+        "parameters": [
+            { 
+                "name": "Name", 
+                "type": "text"
+            },
+            { 
+                "name": "Pages", 
+                "type": "book-page",
+                "book-page": "list of HTML texts"
+            },
+            { 
+                "name": "Instructions", 
+                "type": "text"
+            },
+            { 
+                "name": "Tips", 
+                "type": "text"
+            },
+            { 
+                "name": "Resources", 
+                "type": "text"
+            }
+        ]
+    },
+    "video": {
+        "parameters": [
+            { 
+                "name": "Name", 
+                "type": "text"
+            },
+            { 
+                "name": "Video URL", 
+                "type": "url"
+            },
+            { 
+                "name": "Description", 
+                "type": "text"
+            }
+        ]
+    }
+}
+
+
+Let me know if you need anything else!

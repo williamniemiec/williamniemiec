@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Environmental Enhancement": {
+    "parameters": {
+      "Enhancement Type": {"type": "text"},
+      "Procedure Name": {"type": "text"},
+      "Music Selection": {"type": "text"},
+      "Volume Level": {"type": "text"},
+      "Additional Tips": {"type": "text"}
+    }
+  }
+}

@@ -1,0 +1,36 @@
+Here is the output in JSON format:
+
+
+{
+  "Digital Photo Album": {
+    "name": "",
+    "photos": [],
+    "captions": [],
+    "frequency": "",
+    "deadline_date": ""
+  },
+  "Infant Footprint Image": {
+    "name": "",
+    "image": "",
+    "description": "",
+    "frequency": "",
+    "deadline_date": ""
+  },
+  "Personalized Memento": {
+    "name": "",
+    "description": "",
+    "image": "",
+    "frequency": "",
+    "deadline_date": ""
+  },
+  "Reflection Question": {
+    "name": "",
+    "content": "",
+    "answer type": "",
+    "frequency": "",
+    "deadline_date": ""
+  }
+}
+
+
+Note that I removed the introduction and conclusion parts, as well as the numbering of the no-code elements. I also kept only the parameter specifications for each element, without any additional descriptions or information.

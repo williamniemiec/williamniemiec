@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Labor Support Guide": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Content": {"Type": ["text", "multimedia"]},
+      "Sections": {"Type": ["list of text", "multimedia content"]},
+      "Resources": {"Type": ["list of URLs", "phone numbers"]},
+      "Labor Stage": {"Type": "options", "Options": ["Early Labor", "Active Labor", "Transition", "Pushing"]},
+      "Customization": {"Type": "boolean"}
+    }
+  }
+}
+
+
+Note: I removed the "Not Applicable" parameters as per your request.

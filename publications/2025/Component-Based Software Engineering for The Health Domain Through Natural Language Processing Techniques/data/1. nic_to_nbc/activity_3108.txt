@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Safety Guide": {
+    "Content": {"type": ["text", "html"]},
+    "Checklist": {"type": "list of items with checkboxes"},
+    "Resources": {"type": "list of resources with descriptions"},
+    "Target Audience": {"options": ["family", "significant others", "caregivers"]},
+    "Frequency": {"options": ["once", "daily", "weekly"]}
+  }
+}

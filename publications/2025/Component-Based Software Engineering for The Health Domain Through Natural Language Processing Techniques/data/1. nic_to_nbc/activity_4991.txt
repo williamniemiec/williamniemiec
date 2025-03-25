@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Track Progress": {
+    "parameters": {
+      "Progress Metric": {
+        "type": "text"
+      },
+      "Value": {
+        "type": "numerical value or text"
+      },
+      "Date": {
+        "type": "datetime"
+      },
+      "Notes": {
+        "type": "text"
+      }
+    }
+  }
+}

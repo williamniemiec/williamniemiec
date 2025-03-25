@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Deepening Technique Explorer": {
+    "Technique List": {"type": "list of options"},
+    "Description": {"type": "text"},
+    "Rating": {"type": "rating scale"},
+    "Notes": {"type": "text"},
+    "Favorite": {"type": "boolean"}
+  }
+}
+
+
+I removed the `Step-by-Step Guide` parameter as it was marked as not applicable (it can be either text or multimedia, which is unclear). Let me know if you need any further assistance!

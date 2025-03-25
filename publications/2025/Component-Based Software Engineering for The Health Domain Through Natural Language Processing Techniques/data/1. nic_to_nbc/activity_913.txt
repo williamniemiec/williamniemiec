@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+    "Fluid Restriction Plan": {
+        "parameters": {
+            "Fluid Restriction Goal": {"type": "number"},
+            "Fluid Restriction Unit": {"type": "options", "options": [{"value": "mL", "label": "mL"}, {"value": "L", "label": "L"}]},
+            "Fluid Restriction Type": {"type": "options", "options": [{"value": "water", "label": "Water"}, {"value": "electrolyteRichFluids", "label": "Electrolyte-rich fluids"}]},
+            "Restriction Duration": {"type": "options", "options": [{"value": "hours", "label": "Hours"}, {"value": "days", "label": "Days"}, {"value": "weeks", "label": "Weeks"}]},
+            "Frequency of Tracking": {"type": "options", "options": [{"value": "daily", "label": "Daily"}, {"value": "weekly", "label": "Weekly"}, {"value": "monthly", "label": "Monthly"}]},
+            "Deadline Date": {"type": "datetime"}
+        }
+    }
+}

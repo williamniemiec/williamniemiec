@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Tracker": {
+    "Parameters": {
+      "Medication List": {},
+      "Dosage and Frequency": {},
+      "Tracking": {},
+      "Reminders": {
+        "Options": ["daily", "everyHours", "everyDays"]
+      },
+      "Education": {}
+    }
+  }
+}

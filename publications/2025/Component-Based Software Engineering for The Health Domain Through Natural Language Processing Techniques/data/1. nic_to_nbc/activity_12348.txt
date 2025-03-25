@@ -1,0 +1,10 @@
+Here is the output in JSON format:
+
+
+{
+  "Emergency Contact": {
+    "Title": {"Description": "Title of the emergency contact button", "Required": true, "Type": "text"},
+    "Phone Number": {"Description": "Phone number to contact emergency medical services", "Required": true, "Type": "tel"},
+    "Instructions": {"Description": "Instructions on when to contact emergency medical services", "Required": true, "Type": "text"}
+  }
+}

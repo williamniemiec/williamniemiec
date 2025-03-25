@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Behavioral Management Plan": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Behavior Type": {"Type": "options", "Options": ["Agitation", "Aggression", "Impulsivity", "Other"]},
+      "Trigger Identification": {"Type": "text"},
+      "Limit Setting": {"Type": "text"},
+      "Behavioral Management Strategies": {"Type": "options", "Options": ["Deep breathing", "Redirection", "Positive reinforcement", "Other"]},
+      "Crisis Intervention Plan": {"Type": "text"},
+      "Goal": {"Type": "text"},
+      "Frequency": {"Type": "options", "Options": ["daily", "every other day", "weekly", "monthly"]},
+      "Deadline Date": {"Type": "datetime"}
+    }
+  }
+}

@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+[
+    {
+        "name": "Incontinence Tracker",
+        "parameters": [
+            {"name": "episode_count", "description": "Number of incontinence episodes in 24 hours", "required": true, "type": "number"},
+            {"name": "time_interval", "description": "Time interval for tracking incontinence episodes", "required": true, "type": "options", "options": [{"value": "24hours", "label": "24 hours"}]}
+        ]
+    },
+    {
+        "name": "Toileting Schedule",
+        "parameters": [
+            {"name": "current_interval", "description": "Current toileting interval", "required": true, "type": "time"},
+            {"name": "episode_threshold", "description": "Number of incontinence episodes to maintain current interval", "required": true, "type": "number", "default": 2}
+        ]
+    }
+]

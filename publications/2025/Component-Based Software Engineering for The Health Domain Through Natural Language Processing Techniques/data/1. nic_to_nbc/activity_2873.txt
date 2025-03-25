@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Equipment Preparation": {
+    "Parameters": {
+      "Equipment List": {"Type": "checklist"},
+      "Adjustment Settings": {"Type": "options"},
+      "Status": {"Type": "options"},
+      "Notes": {"Type": "text"}
+    }
+  }
+}

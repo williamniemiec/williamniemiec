@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Educational Content": {
+    "Parameters": {
+      "Title": {"Type": "text"},
+      "Content": {"Type": ["text", "image", "video", "interactive module"]},
+      "Format": {"Type": ["article", "video", "infographic", "quiz"]},
+      "Topic": {"Type": "text"},
+      "Level": {"Type": ["beginner", "intermediate", "advanced"]},
+      "Resources": {"Type": ["list of URLs or PDFs"]}
+    }
+  }
+}

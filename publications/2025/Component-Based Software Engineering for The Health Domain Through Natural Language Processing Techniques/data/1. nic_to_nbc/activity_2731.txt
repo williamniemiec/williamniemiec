@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+    "room_lighting": {
+        "parameters": [
+            {"name": "current_lighting"},
+            {"name": "desired_lighting"}
+        ]
+    }
+}

@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Care Team": {
+    "Members": {"type": "list of healthcare provider profiles"},
+    "Roles": {"type": "list of role descriptions"},
+    "Communication": {"type": "options"},
+    "Goals": {"type": "list of goal descriptions"},
+    "Progress": {"type": "options"}
+  }
+}
+
+
+Note that I removed the not applicable parameters, which are `Care Plan` and `Task Assignment`, as they were mentioned as advanced features but not part of the main parameter specifications.

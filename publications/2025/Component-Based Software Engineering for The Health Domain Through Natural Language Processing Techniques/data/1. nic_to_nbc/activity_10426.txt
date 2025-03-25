@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Airway Maintenance Reminder": {
+    "Parameters": {
+      "Airway Status": {"Type": "options"},
+      "Reminder Frequency": {"Type": "options"},
+      "Guidance Content": {"Type": "text"},
+      "Notification Method": {"Type": "options"}
+    }
+  }
+}

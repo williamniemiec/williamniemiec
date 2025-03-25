@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Donor Medical History Review": {
+    "Medical History": {"Type": "list of text"},
+    "Contraindications": {"Type": "list of text"},
+    "Risk Assessment": {"Type": "text"},
+    "Recommendations": {"Type": "text"}
+  }
+}

@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Bathing Schedule Instruction": {
+    "parameters": {
+      "name": "",
+      "why": "",
+      "bathing_frequency": "",
+      "notes": ""
+    }
+  }
+}

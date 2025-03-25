@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+  "Emotional Support": {
+    "Support Type": {
+      "type": "options",
+      "options": ["listening", "counseling", "encouragement", "empathy", "etc."]
+    },
+    "Support Channel": {
+      "type": "options",
+      "options": ["phone", "video conferencing", "in-person", "messaging", "etc."]
+    },
+    "Support Frequency": {
+      "type": "options",
+      "options": ["daily", "weekly", "as needed", "etc."]
+    },
+    "Support Provider": {
+      "type": "text"
+    },
+    "Trigger": {
+      "type": "options",
+      "options": ["patient request", "significant other request", "crisis situation", "etc."]
+    }
+  }
+}

@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Activity Response Tracker": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Activity": {"Type": "text"},
+      "Emotional Response": {"Type": "rating scale or text"},
+      "Physical Response": {"Type": "rating scale or text"},
+      "Social Response": {"Type": "rating scale or text"},
+      "Frequency": {"Type": "options"},
+      "Notes": {"Type": "text"}
+    }
+  }
+}
+
+
+Let me know if this is what you were expecting!

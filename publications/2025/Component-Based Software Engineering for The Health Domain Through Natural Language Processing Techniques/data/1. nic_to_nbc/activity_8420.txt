@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Notification to Surgical Team": {
+    "parameters": {
+      "Patient Information": {"type": "text"},
+      "Surgical Team Members": {"type": "list of text"},
+      "Notification Method": {"type": "options"},
+      "Urgency Level": {"type": "options"}
+    }
+  }
+}

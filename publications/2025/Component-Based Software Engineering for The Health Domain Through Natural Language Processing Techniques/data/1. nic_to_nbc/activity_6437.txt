@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Weekly Weigh-In": {
+    "Current Weight": {"type": "number"},
+    "Weight Unit": {"type": "options", "options": ["pounds", "kilograms"]},
+    "Weigh-In Frequency": {"type": "options", "options": ["weekly", "biweekly", "monthly"]},
+    "Weigh-In Reminder": {"type": "boolean", "default": true},
+    "Weight Tracking": {"type": "graph"},
+    "Progress Feedback": {"type": "text"}
+  }
+}
+
+
+Let me know if this meets your requirements!

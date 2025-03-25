@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "symptom name": {
+    "Description": "name of the symptom to monitor",
+    "Required": true,
+    "Type": "text"
+  },
+  "Questions": {
+    "Description": "questions to ask the patient about cerumen accumulation",
+    "Required": true,
+    "Type": "list of questions with options"
+  },
+  "Frequency": {
+    "Description": "specify how often the patient should monitor for cerumen accumulation",
+    "Required": true,
+    "Type": "options",
+    "Options": ["daily", "weekly", "monthly", "asNeeded"]
+  }
+}
+
+
+Note that I removed the `Deadline Date` parameter since it's marked as not required (`false`).

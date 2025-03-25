@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+    "Oral Fluid Reminders": {
+        "Instructions": {"type": "text"},
+        "Frequency": {"type": "options"},
+        "Reminders": {"type": "boolean"},
+        "Fluid Options": {"type": "list of options"},
+        "Contraindications": {"type": "text"}
+    }
+}

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Sequencing Activity": {
+        "Parameters": {
+            "Sequence Type": {},
+            "Sequence Length": {},
+            "Sequence Items": {},
+            "Game Mode": {},
+            "Difficulty Level": {}
+        }
+    }
+}

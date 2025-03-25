@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Appointment Tracker": {
+    "Parameters": {
+      "Appointment List": {"Type": "list of appointments"},
+      "Reminders": {"Type": "options", "Options": ["daily", "everyHours", "everyDays", "custom"]},
+      "Status": {"Type": "options", "Options": ["completed", "rescheduled", "cancelled", "pending"]},
+      "Notes": {"Type": "text"},
+      "Deadline Date": {"Type": "datetime"}
+    }
+  }
+}
+
+
+Let me know if this is what you were expecting!

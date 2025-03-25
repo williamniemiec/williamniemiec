@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Guide": {
+        "Parameters": {
+            "Name": {"Type": "text"},
+            "Pages": {"Type": "book-page", "book-page": "list of HTML texts"},
+            "Focus Areas": {"Type": "options", "Options": ["Avoiding bodily penetration", "Avoiding exchange of body fluids", "Other"]},
+            "Additional Resources": {"Type": "list of URLs or file uploads"}
+        }
+    }
+}

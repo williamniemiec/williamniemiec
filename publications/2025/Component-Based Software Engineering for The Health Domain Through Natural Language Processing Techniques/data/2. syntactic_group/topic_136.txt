@@ -1,0 +1,10 @@
+{
+  "name": "Medication Dosage and Administration",
+  "description": "Focuses on medication dosage, administration timing, and reminders, particularly for anti-inflammatory drugs. Includes guidelines for administration schedules and duration of doses.",
+  "type": "periodic",
+  "input": ["Medication dosage", "Administration schedules", "Anti-inflammatory drugs", "Reminder systems", "Everyhours/Everydays frequency"],
+  "output": ["Dosage reminder", "Administration schedule report", "Medication tracking"],
+  "preconditions": ["User is administering or tracking medication doses"],
+  "postconditions": ["Proper medication administration with reminders and tracking"],
+  "dependencies": ["Medication management system", "Reminder notification platform", "Dosage tracking tools"]
+}

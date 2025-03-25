@@ -1,0 +1,10 @@
+Here is the output in JSON format:
+
+
+{
+  "Relaxation Technique": {
+    "Technique": {"type": "options"},
+    "Duration": {"type": "duration"},
+    "Frequency": {"type": "options"}
+  }
+}

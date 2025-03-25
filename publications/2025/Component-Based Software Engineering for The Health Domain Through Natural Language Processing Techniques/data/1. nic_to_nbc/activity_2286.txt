@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Symptom Tracker": {
+    "Parameters": {
+      "Symptoms": ["Pain", "Pallor", "Pulselessness", "Paresthesias", "Paralysis", "Pressure"],
+      "Affected Extremity": null,
+      "Frequency": null,
+      "Deadline Date": null,
+      "Reporting": null
+    }
+  }
+}
+
+
+Let me know if this meets your requirements!

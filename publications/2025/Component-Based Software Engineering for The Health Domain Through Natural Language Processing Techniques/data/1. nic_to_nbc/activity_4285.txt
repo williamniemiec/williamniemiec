@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+  "Instruction": {
+    "title": "Change your dressing",
+    "content": "Please follow these steps to change your dressing: [insert steps and instructions].",
+    "frequency": "As instructed by your healthcare provider"
+  },
+  "Reminder": {
+    "title": "Dressing change reminder",
+    "content": "Don't forget to change your dressing today!",
+    "frequency": "Daily"
+  },
+  "Tracker": {
+    "title": "Dressing change tracker",
+    "content": "Please log each time you change your dressing.",
+    "frequency": "As needed"
+  }
+}

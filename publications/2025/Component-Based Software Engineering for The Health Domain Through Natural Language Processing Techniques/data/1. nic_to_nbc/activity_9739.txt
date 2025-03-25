@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+    "medication offer": {
+        "Medication Type": {
+            "type": "options",
+            "options": [
+                {"value": "simethicone", "label": "Simethicone"},
+                {"value": "activatedCharcoal", "label": "Activated Charcoal"},
+                {"value": "other", "label": "Other (please specify)"}
+            ]
+        },
+        "Dosage Instructions": {
+            "type": "text"
+        },
+        "Frequency": {
+            "type": "options",
+            "options": [
+                {"value": "daily", "label": "Daily"},
+                {"value": "everyHours", "label": "Every x hours"},
+                {"value": "everyDays", "label": "Every x days"}
+            ]
+        }
+    }
+}

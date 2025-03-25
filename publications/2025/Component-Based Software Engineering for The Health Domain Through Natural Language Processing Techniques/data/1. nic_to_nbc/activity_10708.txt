@@ -1,0 +1,33 @@
+Here is the output in JSON format:
+
+
+{
+  "Eyelid Taping": {
+    "Reason": {
+      "Description": "Why the eyelids need to be taped shut",
+      "Required": true,
+      "Type": "text"
+    },
+    "Instructions": {
+      "Description": "Step-by-step instructions on how to tape the eyelids shut",
+      "Required": true,
+      "Type": "text"
+    },
+    "Frequency": {
+      "Description": "How often to tape the eyelids shut",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "daily", "label": "Daily" },
+        { "value": "onlyOnce", "label": "Only once" },
+        { "value": "everyHours", "label": "Every x hours" },
+        { "value": "everyDays", "label": "Every x days" }
+      ]
+    },
+    "Removal Instructions": {
+      "Description": "Instructions on how to remove the tape",
+      "Required": true,
+      "Type": "text"
+    }
+  }
+}

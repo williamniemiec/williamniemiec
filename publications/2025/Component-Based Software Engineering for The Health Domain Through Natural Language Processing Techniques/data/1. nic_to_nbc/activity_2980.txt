@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+    "Rationale Provider": {
+        "Test Rationale Field": {"type": "text"},
+        "Benefit Explanation Field": {"type": "text"},
+        "Example Scenario Field": {"type": "text"},
+        "FAQ Field": {"type": "list of text values"}
+    }
+}

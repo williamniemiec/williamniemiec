@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+    "Hand Hygiene Reminder": {
+        "name": {"type": "text"},
+        "reminder_type": {"type": "options"},
+        "frequency": {"type": "options"},
+        "hand_hygiene_steps": {"type": ["text", "multimedia"]},
+        "acknowledgement": {"type": "boolean"}
+    }
+}

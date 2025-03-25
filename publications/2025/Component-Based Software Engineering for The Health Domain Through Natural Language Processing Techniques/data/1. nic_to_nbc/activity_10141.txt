@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Nutrition Assessment": {
+    "Parameters": {
+      "Questions": {"Type": "form"},
+      "Frequency": {"Options": ["daily", "onlyOnce", "everyWeek", "everyMonth"]},
+      "Deadline Date": {"Type": "datetime"}
+    }
+  }
+}

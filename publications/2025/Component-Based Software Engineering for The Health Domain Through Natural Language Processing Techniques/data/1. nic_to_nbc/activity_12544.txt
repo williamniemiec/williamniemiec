@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+  "Balloon Inflation": {
+    "parameters": [
+      {
+        "name": "Inflation frequency",
+        "type": "options",
+        "options": ["every1Hour", "every2Hours", "asAppropriate", "custom"]
+      },
+      {
+        "name": "Reminder",
+        "type": "boolean"
+      },
+      {
+        "name": "Notes",
+        "type": "text"
+      }
+    ]
+  }
+}

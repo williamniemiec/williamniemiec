@@ -1,0 +1,39 @@
+Here is the output in JSON format:
+
+
+{
+  "Wound Sequence": {
+    "parameters": [
+      {
+        "name": "wound_list",
+        "description": "List the wounds in the order they occurred",
+        "required": true,
+        "type": "list",
+        "list_item": {
+          "name": "wound",
+          "description": "Wound information",
+          "parameters": [
+            {
+              "name": "wound_number",
+              "description": "Wound number (e.g. 1, 2, 3)",
+              "required": true,
+              "type": "number"
+            },
+            {
+              "name": "wound_description",
+              "description": "Briefly describe the wound",
+              "required": true,
+              "type": "text"
+            },
+            {
+              "name": "why_first",
+              "description": "Explain why this wound is known to be first (or second, etc.)",
+              "required": true,
+              "type": "text"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

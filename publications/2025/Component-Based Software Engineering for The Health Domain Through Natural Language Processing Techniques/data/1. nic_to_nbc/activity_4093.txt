@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Gynecological Exam Prep": {
+    "Education": {},
+    "Relaxation Techniques": {},
+    "Physical Preparation": {},
+    "Emotional Support": {},
+    "Checklist": {},
+    "Reminders": {}
+  }
+}

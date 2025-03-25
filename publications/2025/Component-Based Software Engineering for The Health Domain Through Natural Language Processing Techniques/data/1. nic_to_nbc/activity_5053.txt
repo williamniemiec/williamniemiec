@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+  "Positioning Guide": {
+    "parameters": {
+      "name": "Position drainage system appropriately",
+      "description": "guidance on how to position the drainage system to avoid kinking and secure it properly",
+      "content_type": ["illustrations", "video"],
+      "positioning_steps": [
+        "Avoid kinking of tubing",
+        "Secure to patient's clothing",
+        "Secure to bedding (if applicable)"
+      ],
+      "tips": ["Check for any signs of kinking or obstruction"],
+      "frequency": "",
+      "deadline_date": ""
+    }
+  }
+}

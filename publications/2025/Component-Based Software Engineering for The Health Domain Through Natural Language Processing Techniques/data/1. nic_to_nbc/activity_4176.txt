@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Honest Health Update": {
+    "Parameters": {
+      "Question": {"Type": "text"},
+      "Answer": {"Type": "text"},
+      "Health Status": {"Type": "text"},
+      "Relevant Information": {"Type": "text"},
+      "Resources": {"Type": "text or link"}
+    }
+  }
+}

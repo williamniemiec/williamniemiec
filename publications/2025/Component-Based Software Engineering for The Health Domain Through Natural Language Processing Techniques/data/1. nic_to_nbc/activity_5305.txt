@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Special Incidence Vaccination Education": {
+    "parameters": {
+      "Vaccine List": {"type": "list of vaccine names"},
+      "Incidence/Exposure": {"type": "list of text or html for each vaccine"},
+      "Vaccine Information": {"type": "list of text or html for each vaccine"},
+      "Recommendation": {"type": "list of text or html for each vaccine"},
+      "Additional Resources": {"type": "list of URLs or file attachments"}
+    }
+  }
+}

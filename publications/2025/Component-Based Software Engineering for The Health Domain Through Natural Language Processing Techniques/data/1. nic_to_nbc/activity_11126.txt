@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Safety Companion": {
+    "Duration": {
+      "type": "options"
+    },
+    "Role": {
+      "type": "text"
+    },
+    "Instructions": {
+      "type": "text"
+    },
+    "Reassurance": {
+      "type": "text"
+    }
+  }
+}

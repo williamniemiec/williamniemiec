@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+    "Medication Discontinuation": {
+        "Parameters": {
+            "Medication Name": {"Type": "text"},
+            "Reason for Discontinuation": {"Type": "text"},
+            "Discontinuation Instructions": {"Type": "text"},
+            "Confirmation": {"Type": "boolean"},
+            "Deadline Date": {"Type": "datetime"},
+            "Notes": {"Type": "text"}
+        }
+    }
+}

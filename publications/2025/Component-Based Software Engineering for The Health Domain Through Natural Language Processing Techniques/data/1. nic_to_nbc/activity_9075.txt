@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+    "Follow-up Care": {
+        "Care Type": {"type": "options", "options": ["phone call", "video call", "in-person visit", "online consultation", "etc."]},
+        "Care Provider": {"type": "text"},
+        "Care Schedule": {"type": "datetime"},
+        "Care Instructions": {"type": "text"},
+        "Reminders": {"type": "boolean"}
+    }
+}

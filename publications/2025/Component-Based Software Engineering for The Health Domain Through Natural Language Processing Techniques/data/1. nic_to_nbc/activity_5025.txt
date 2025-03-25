@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Sensory Evaluator": {
+    "Parameters": {
+      "Sensory Functions": {"Type": "list of text options"},
+      "Evaluation Questions": {"Type": "list of text questions"},
+      "Scoring System": {"Type": "text"},
+      "Frequency": {"Type": "options"},
+      "Deadline Date": {"Type": "datetime"},
+      "Results Tracking": {"Type": "form"}
+    }
+  }
+}
+
+
+I removed all unnecessary information and only kept the `{{ NO-CODE ELEMENT NAME }}` ("Sensory Evaluator") and `{{ PARAMETER ESPECIFICATIONS }}`. I also reformatted the parameters to a more compact JSON format. Let me know if this meets your requirements!

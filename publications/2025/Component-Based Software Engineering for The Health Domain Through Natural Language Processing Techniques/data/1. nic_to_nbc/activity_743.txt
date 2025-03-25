@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+"noCodeElementName": "Lab Result Tracker",
+"parameters": [
+    { 
+        "name": "Title", 
+        "type": "text"
+    },
+    { 
+        "name": "Lab Results", 
+        "type": "list of text"
+    },
+    { 
+        "name": "Units", 
+        "type": "list of text"
+    },
+    { 
+        "name": "Frequency", 
+        "type": "options"
+    }
+]
+}
+
+
+I removed the `Notes` parameter since it's not applicable (optional). Let me know if you need further assistance!

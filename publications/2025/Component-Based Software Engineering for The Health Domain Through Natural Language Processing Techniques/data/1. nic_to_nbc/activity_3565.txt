@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+  "Role Play": {
+    "Parameters": {
+      "Name": {"type": "text"},
+      "Scenario": {"type": "text"},
+      "Behavior": {"type": "text"},
+      "Characters": {"type": "list of text"},
+      "Script": {"type": "text"},
+      "Interactive Elements": {"type": "list of interactive elements"},
+      "Feedback": {
+        "type": "options",
+        "options": [
+          {"value": "encouragement", "label": "Encouragement"},
+          {"value": "constructiveCriticism", "label": "Constructive Criticism"},
+          {"value": "none", "label": "No Feedback"}
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Medication Administration": {
+        "Medication List": {"type": "list of medications with corresponding dosages and frequencies"},
+        "Order": {"type": "text or PDF"},
+        "Administration Instructions": {"type": "text"},
+        "Dosage": {"type": "text"},
+        "Route": {"type": "options (e.g., oral, IV, IM, etc.)"},
+        "Verification": {"type": "options (e.g., yes/no, true/false, etc.)"}
+    }
+}

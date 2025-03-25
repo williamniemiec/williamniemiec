@@ -1,0 +1,35 @@
+Here is the output in JSON format:
+
+
+{
+  "Log Entry": {
+    "parameters": {
+      "name": "Record Seizure Characteristics",
+      "content": "Please describe the seizure characteristics, including:\n        - Body parts involved\n        - Motor activity\n        - Seizure progression",
+      "answer type": "text",
+      "frequency": "onlyOnce"
+    }
+  },
+  "Form": {
+    "parameters": {
+      "name": "Record Seizure Characteristics",
+      "content": "Please answer the following questions about the seizure:",
+      "questions": [
+        {
+          "name": "Body parts involved",
+          "answer type": "multiselect",
+          "options": ["arms", "legs", "face", "other"]
+        },
+        {
+          "name": "Motor activity",
+          "answer type": "text"
+        },
+        {
+          "name": "Seizure progression",
+          "answer type": "text"
+        }
+      ],
+      "frequency": "onlyOnce"
+    }
+  }
+}

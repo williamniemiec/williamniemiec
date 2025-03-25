@@ -1,0 +1,25 @@
+
+
+
+{
+  "Vital Signs Monitoring": {
+    "Blood Pressure": {
+      "Type": "numeric (mmHg)"
+    },
+    "Heart Rate": {
+      "Type": "numeric (bpm)"
+    },
+    "Respiratory Rate": {
+      "Type": "numeric (breaths per minute)"
+    },
+    "Body Temperature": {
+      "Type": "numeric (°C or °F)"
+    },
+    "Oxygen Saturation": {
+      "Type": "numeric (%)"
+    },
+    "Pain Level": {
+      "Type": "options (list of possible pain levels)"
+    }
+  }
+}

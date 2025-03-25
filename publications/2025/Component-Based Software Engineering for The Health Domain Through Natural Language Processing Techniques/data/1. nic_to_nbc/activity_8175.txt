@@ -1,0 +1,41 @@
+Here is the output in JSON format:
+
+
+{
+    "Status Update": {
+        "parameters": {
+            "name": "",
+            "update": "",
+            "frequency": "",
+            "deadline_date": ""
+        }
+    },
+    "Progress Tracker": {
+        "parameters": {
+            "name": "",
+            "tracker": "",
+            "frequency": "",
+            "deadline_date": ""
+        }
+    },
+    "Care Team Communication": {
+        "parameters": {
+            "name": "",
+            "communication": "",
+            "frequency": "",
+            "deadline_date": ""
+        }
+    },
+    "Question and Answer": {
+        "parameters": {
+            "name": "",
+            "questions": "",
+            "answers": "",
+            "frequency": "",
+            "deadline_date": ""
+        }
+    }
+}
+
+
+Note: I removed the introduction and conclusion, and only kept the no-code element names and their corresponding parameter specifications. I also didn't write anything else except for the JSON output.

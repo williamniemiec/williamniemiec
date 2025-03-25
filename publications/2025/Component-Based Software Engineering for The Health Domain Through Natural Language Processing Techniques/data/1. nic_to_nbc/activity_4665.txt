@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Postprocedure Monitoring": {
+    "parameters": {
+      "name": {"description": "title of the postprocedure monitoring instructions", "required": true, "type": "text"},
+      "vital_signs": {"description": "tracking of vital signs such as temperature, blood pressure, and heart rate", "required": true, "type": "vital_signs"},
+      "symptom_reporting": {"description": "reporting of symptoms such as pain, bleeding, or swelling", "required": true, "type": "symptom_reporting"},
+      "messaging": {"description": "secure messaging with healthcare team for questions or concerns", "required": true, "type": "messaging"}
+    }
+  }
+}
+
+
+I removed the non-applicable parameters (photo_upload and deadline_date) as they are not required.

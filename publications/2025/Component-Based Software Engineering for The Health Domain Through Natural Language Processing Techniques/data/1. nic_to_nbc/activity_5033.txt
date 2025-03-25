@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Interaction Guide": {
+    "Parameters": {
+      "Interaction Type": {"Type": "text", "Required": true},
+      "Tips and Strategies": {"Type": "list of text", "Required": true},
+      "Examples": {"Type": "list of text", "Required": true},
+      "Feedback": {"Type": "text", "Required": true},
+      "Frequency": {"Type": "options", "Options": ["daily", "weekly", "monthly"], "Required": true}
+    }
+  }
+}

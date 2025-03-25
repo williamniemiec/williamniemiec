@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Toe Inspection": {
+    "Inspection Result": {},
+    "Photo": {},
+    "Frequency": {},
+    "Deadline Date": {},
+    "Notes": {}
+  }
+}

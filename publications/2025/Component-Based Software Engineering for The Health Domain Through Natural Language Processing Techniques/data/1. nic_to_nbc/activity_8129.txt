@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Teaching Strategy": {
+    "Parameters": {
+      "Name": {},
+      "Type": {},
+      "Content": {},
+      "Cultural Appropriateness": {},
+      "Age Appropriateness": {}
+    }
+  }
+}

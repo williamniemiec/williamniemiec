@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+  "Teaching Strategy": {
+    "Strategy Name": {"type": "text"},
+    "Description": {"type": "text"},
+    "Type": {"type": "options", "values": ["lecture", "discussion", "hands-on"]}
+  },
+  "Educational Material": {
+    "Material Name": {"type": "text"},
+    "Description": {"type": "text"},
+    "Type": {"type": "options", "values": ["video", "brochure", "website"]}
+  },
+  "Learning Activity": {
+    "Activity Name": {"type": "text"},
+    "Description": {"type": "text"},
+    "Type": {"type": "options", "values": ["group discussion", "role-playing", "quiz"]}
+  }
+}

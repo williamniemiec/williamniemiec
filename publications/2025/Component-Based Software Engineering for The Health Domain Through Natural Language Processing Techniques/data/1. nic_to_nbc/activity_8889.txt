@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Bra Fitting Guidance": {
+    "parameters": {
+      "Bra Fitting Tips": {},
+      "Importance of Bra Fitting": {},
+      "Bra Recommendations": {},
+      "Resources": {},
+      "Frequency": {}
+    }
+  }
+}

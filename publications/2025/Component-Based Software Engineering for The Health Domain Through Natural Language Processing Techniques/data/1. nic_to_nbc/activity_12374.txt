@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Exhale Before Insertion": {
+    "Parameters": {
+      "Exhalation Confirmation": {
+        "Description": "Confirm that you have exhaled before inserting the solution",
+        "Required": true,
+        "Type": "boolean"
+      },
+      "Insertion Timing": {
+        "Description": "Insert the solution only after you have exhaled",
+        "Required": true,
+        "Type": "instruction"
+      }
+    }
+  }
+}

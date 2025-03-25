@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Anion Gap Analyzer": {
+        "parameters": {
+            "lab_results": "",
+            "anion_gap_formula": "",
+            "threshold": "",
+            "interpretation": ""
+        }
+    }
+}

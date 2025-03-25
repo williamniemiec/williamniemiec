@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Urine Ketone Testing Guide": {
+    "Parameters": {
+      "Testing Instructions": {"Type": "list of instructions"},
+      "Testing Frequency": {"Type": "options"},
+      "Interpretation Guide": {"Type": "list of interpretations"},
+      "Video Tutorial": {"Type": "video URL"},
+      "FAQs": {"Type": "list of FAQs"}
+    }
+  }
+}

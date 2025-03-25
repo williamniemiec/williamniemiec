@@ -1,0 +1,45 @@
+Here is the output in JSON format:
+
+
+[
+  {
+    "name": "Visual Aids",
+    "parameters": {
+      "name": "Visual Aids",
+      "visual_aid_type": "options (e.g., images, diagrams, charts, graphs)",
+      "visual_aid_description": "text field for the description of the visual aid"
+    }
+  },
+  {
+    "name": "Literature Illustrations",
+    "parameters": {
+      "name": "Literature Illustrations",
+      "illustration_type": "options (e.g., images, diagrams, charts, graphs)",
+      "illustration_description": "text field for the description of the illustration"
+    }
+  },
+  {
+    "name": "Patient Learning Style",
+    "parameters": {
+      "name": "Patient Learning Style",
+      "learning_style": "options (e.g., visual, auditory, kinesthetic)",
+      "description": "text field for the patient to describe their learning style"
+    }
+  },
+  {
+    "name": "Visual Learning",
+    "parameters": {
+      "name": "Visual Learning",
+      "visual_learning": "options (e.g., yes, no)",
+      "reason": "text field for the reason why the patient benefits from visual learning aids"
+    }
+  },
+  {
+    "name": "Illustration Selection",
+    "parameters": {
+      "name": "Illustration Selection",
+      "illustration_type": "options (e.g., images, diagrams, charts, graphs)",
+      "selected_illustration": "text field for the selected illustration"
+    }
+  }
+]

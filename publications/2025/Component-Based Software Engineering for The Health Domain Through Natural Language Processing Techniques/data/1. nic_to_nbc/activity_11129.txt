@@ -1,0 +1,29 @@
+Here is the output in JSON format:
+
+
+{
+  "Play Equipment": {
+    "Parameters": {
+      "Equipment Type": {
+        "Type": "options",
+        "Options": ["toys", "puzzles", "art supplies", "other"]
+      },
+      "Safety Features": {
+        "Type": "unordered list",
+        "Safety Feature": {
+          "Type": "text"
+        }
+      },
+      "Age Appropriateness": {
+        "Type": "range"
+      },
+      "Instructions": {
+        "Type": "text or multimedia"
+      },
+      "Equipment Condition": {
+        "Type": "options",
+        "Options": ["new", "used", "sanitized"]
+      }
+    }
+  }
+}

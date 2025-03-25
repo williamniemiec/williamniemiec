@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Information Package": {
+    "Parameters": {
+      "Medication Name": {"Type": "text"},
+      "Medication Guide": {"Type": "text"},
+      "Visual Aids": {"Type": "file upload"},
+      "Medication Schedule": {"Type": "calendar or schedule template"},
+      "Medication Reminders": {"Type": "reminder settings"},
+      "Medication Tracking": {"Type": "medication tracking log"},
+      "FAQs": {"Type": "list of FAQs"},
+      "Additional Resources": {"Type": "list of resources"}
+    }
+  }
+}

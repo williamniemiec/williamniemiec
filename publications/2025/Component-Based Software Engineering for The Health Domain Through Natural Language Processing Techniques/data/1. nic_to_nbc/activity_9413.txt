@@ -1,0 +1,46 @@
+Here is the output in JSON format:
+
+
+{
+  "Culture Tracker": {
+    "culture_type": {
+      "Description": "Type of culture to obtain",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        "Cell count culture",
+        "Other ( specify )"
+      ]
+    },
+    "indication": {
+      "Description": "Reason for obtaining culture",
+      "Required": true,
+      "Type": "text"
+    },
+    "results": {
+      "Description": "Results of culture",
+      "Required": true,
+      "Type": "table",
+      "Columns": [
+        "Culture Type",
+        "Result",
+        "Date"
+      ]
+    },
+    "frequency": {
+      "Description": "How often to obtain cultures",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        "Daily",
+        "Weekly",
+        "Bi-Weekly",
+        "Monthly",
+        "Other ( specify )"
+      ]
+    }
+  }
+}
+
+
+Note: I removed the `Notes` parameter since it was marked as not required. If you want to include non-required parameters, let me know!

@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Family Expectations Clarifier": {
+    "parameters": {
+      "Family Members": {"type": "checklist"},
+      "Needs and Expectations": {"type": "text"},
+      "Clarification Questions": {"type": "checklist"},
+      "Expectation Categories": {"type": "options"},
+      "Expectation Prioritization": {"type": "scale"},
+      "Action Plan": {"type": "text"},
+      "Frequency": {"options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"type": "datetime"}
+    }
+  }
+}

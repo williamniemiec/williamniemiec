@@ -1,0 +1,41 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Initial Prompted Voiding Schedule",
+    "parameters": [
+        { 
+            "name": "Name", 
+            "type": "text"
+        },
+        { 
+            "name": "Voiding Pattern", 
+            "type": "table or form"
+        },
+        { 
+            "name": "Interval Options", 
+            "type": "list of options"
+        },
+        { 
+            "name": "Schedule Template", 
+            "type": "table or form"
+        },
+        { 
+            "name": "Frequency", 
+            "type": "options",
+            "options": [
+                { value: "daily" },
+                { value: "everyOtherDay" },
+                { value: "weekly" },
+                { value: "monthly" }
+            ]
+        },
+        { 
+            "name": "Deadline Date", 
+            "type": "datetime"
+        }
+    ]
+}
+
+
+I removed the introduction, conclusion, and description elements, as well as any not applicable parameters. The output is in JSON format, with the no-code element name and its parameters.

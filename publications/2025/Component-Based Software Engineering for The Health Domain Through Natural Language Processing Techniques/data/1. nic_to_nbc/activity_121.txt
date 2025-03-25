@@ -1,0 +1,30 @@
+Here is the output in JSON format:
+
+
+{
+  "Environment Setup": {
+    "Setting Options": {
+      "type": "list of text or bullet points"
+    },
+    "Guidelines": {
+      "type": "list of text or bullet points"
+    },
+    "Tips": {
+      "type": "list of text or bullet points"
+    },
+    "Checklist": {
+      "type": "list of objects",
+      "objects": {
+        "Item": {
+          "type": "text"
+        },
+        "Status": {
+          "type": "text or boolean"
+        }
+      }
+    }
+  }
+}
+
+
+Let me know if you need any further assistance!

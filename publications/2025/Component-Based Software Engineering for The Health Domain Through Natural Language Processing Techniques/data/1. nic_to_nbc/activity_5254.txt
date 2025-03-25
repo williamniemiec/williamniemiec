@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Fall History Review": {
+    "Fall History": {"Description": "Review history of falls with patient and family", "Required": true, "Type": "text"},
+    "Frequency of Falls": {"Description": "How often have you fallen in the past?", "Required": true, "Type": "options", "Options": [{"value": "never", "label": "Never"}, {"value": "rarely", "label": "Rarely"}, {"value": "occasionally", "label": "Occasionally"}, {"value": "frequently", "label": "Frequently"}]},
+    "Circumstances of Falls": {"Description": "What were you doing when you fell?", "Required": true, "Type": "checklist", "Options": [{"value": "walking", "label": "Walking"}, {"value": "climbing", "label": "Climbing"}, {"value": "bathing", "label": "Bathing"}, {"value": "other", "label": "Other (please specify)"}]},
+    "Injuries Sustained": {"Description": "What injuries did you sustain from the fall?", "Required": true, "Type": "checklist", "Options": [{"value": "bruises", "label": "Bruises"}, {"value": "cuts", "label": "Cuts"}, {"value": "brokenBones", "label": "Broken bones"}, {"value": "headInjury", "label": "Head injury"}, {"value": "other", "label": "Other (please specify)"}]},
+    "Family History": {"Description": "Has anyone in your family had a history of falls?", "Required": true, "Type": "options", "Options": [{"value": "yes", "label": "Yes"}, {"value": "no", "label": "No"}]}
+  }
+}

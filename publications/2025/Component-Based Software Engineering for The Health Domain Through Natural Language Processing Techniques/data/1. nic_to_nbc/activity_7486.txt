@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Training Plan": {
+    "Parameters": {
+      "Training Objective": {"Type": "text"},
+      "Target Audience": {"Type": "options", "Values": ["teaching personnel", "educators", "trainers"]},
+      "Training Content": {"Type": "list of text values"},
+      "Training Method": {"Type": "options", "Values": ["in-person", "online", "self-paced"]},
+      "Training Schedule": {"Type": "date range"},
+      "Training Resources": {"Type": "list of text values"},
+      "Evaluation Criteria": {"Type": "list of text values"}
+    }
+  }
+}

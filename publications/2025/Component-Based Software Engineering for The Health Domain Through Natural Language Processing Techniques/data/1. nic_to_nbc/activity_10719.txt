@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Home Environment Assessment": {
+    "assessment_name": "",
+    "assessment_description": "",
+    "environment_checklist": "",
+    "risk_factors": "",
+    "recommendations": ""
+  }
+}

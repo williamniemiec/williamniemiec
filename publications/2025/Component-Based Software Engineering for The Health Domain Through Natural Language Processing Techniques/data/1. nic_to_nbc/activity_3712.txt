@@ -1,0 +1,33 @@
+Here is the output in JSON format:
+
+
+{
+  "Procedure": {
+    "parameters": {
+      "name": "Exsanguinate extremity",
+      "description": "Elevate and wrap extremity with an elastic bandage before cuff inflation",
+      "content_type": "step-by-step guide",
+      "steps": [
+        { 
+          "name": "Elevate extremity", 
+          "description": "Elevate the affected extremity above heart level", 
+          "type": "text"
+        },
+        { 
+          "name": "Wrap with elastic bandage", 
+          "description": "Wrap the extremity with an elastic bandage", 
+          "type": "text"
+        },
+        { 
+          "name": "Inflate cuff", 
+          "description": "Inflate the cuff according to the healthcare provider's instructions", 
+          "type": "text"
+        }
+      ],
+      "frequency": "as needed" or "according to healthcare provider's instructions"
+    }
+  }
+}
+
+
+Note that I removed the `deadline_date` parameter since it was marked as "not applicable".

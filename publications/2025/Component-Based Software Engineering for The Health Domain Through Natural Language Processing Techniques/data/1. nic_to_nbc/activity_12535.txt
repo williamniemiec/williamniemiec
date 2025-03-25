@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "ADL Encouragement": {
+    "parameters": {
+      "ADL Type": {"type": "options", "options": ["bathing", "dressing", "grooming", "feeding", "etc."]},
+      "Ability Level": {"type": "scale", "options": ["1-5", "unable to perform", "fully able to perform"]},
+      "Encouragement Strategy": {"type": "options", "options": ["verbal encouragement", "demonstration", "assistance", "etc."]},
+      "Frequency": {"type": "options", "options": ["daily", "weekly", "monthly", "as needed"]}
+    }
+  }
+}

@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+    "Survey": {
+        "Questions": [
+            {"name": "Age", "type": "number"},
+            {"name": "Gender", "options": [{"value": "male", "label": "Male"}, {"value": "female", "label": "Female"}]},
+            {"name": "Hormones", "options": [{"value": "yes", "label": "Yes"}, {"value": "no", "label": "No"}]},
+            {"name": "Autoimmune diseases", "options": [{"value": "yes", "label": "Yes"}, {"value": "no", "label": "No"}]},
+            {"name": "Chemical burn", "options": [{"value": "yes", "label": "Yes"}, {"value": "no", "label": "No"}]},
+            {"name": "Dry air", "options": [{"value": "yes", "label": "Yes"}, {"value": "no", "label": "No"}]},
+            {"name": "Air conditioning", "options": [{"value": "yes", "label": "Yes"}, {"value": "no", "label": "No"}]},
+            {"name": "Sunlight", "options": [{"value": "yes", "label": "Yes"}, {"value": "no", "label": "No"}]}
+        ],
+        "Frequency": {
+            "name": "Frequency",
+            "options": [
+                {"value": "daily", "label": "Daily"},
+                {"value": "weekly", "label": "Weekly"},
+                {"value": "monthly", "label": "Monthly"}
+            ]
+        }
+    }
+}

@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Nutrition Tracker": {
+    "Name": {"type": "text"},
+    "Dietary Restrictions": {"type": "list of dietary restrictions"},
+    "Food Diary": {"type": "list of food diary entries"},
+    "Nutrient Tracking": {"type": "list of nutrient tracking data"},
+    "Goal Setting": {"type": "list of goal setting data"},
+    "Reminders": {"type": "list of reminder settings"}
+  }
+}

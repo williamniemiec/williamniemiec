@@ -1,0 +1,43 @@
+Here is the output in JSON format:
+
+
+{
+  "Team Debriefing": {
+    "parameters": {
+      "name": "",
+      "description": "",
+      "debriefing_type": "",
+      "debriefing_schedule": ""
+    }
+  },
+  "Reflection Opportunity": {
+    "parameters": {
+      "name": "",
+      "description": "",
+      "reflection_type": "",
+      "reflection_schedule": ""
+    }
+  },
+  "Debriefing Questions": {
+    "parameters": {
+      "name": "",
+      "description": "",
+      "question_list": ""
+    }
+  },
+  "Reflection Prompts": {
+    "parameters": {
+      "name": "",
+      "description": "",
+      "prompt_list": ""
+    }
+  },
+  "Team Member Feedback": {
+    "parameters": {
+      "name": "",
+      "description": "",
+      "feedback_type": "",
+      "feedback_schedule": ""
+    }
+  }
+}

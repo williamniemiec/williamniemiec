@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+  "Coping Strategy Planner": {
+    "Problem Identification": {
+      "Type": "text"
+    },
+    "Coping Strategy Options": {
+      "Type": "options",
+      "Options": [
+        "Deep breathing",
+        "Meditation",
+        "Physical activity",
+        "Talking to a friend",
+        "Other"
+      ]
+    },
+    "Customized Coping Plan": {
+      "Type": "text"
+    }
+  }
+}

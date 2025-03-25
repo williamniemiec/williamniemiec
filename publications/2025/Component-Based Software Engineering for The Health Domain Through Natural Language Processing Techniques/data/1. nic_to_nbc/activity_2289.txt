@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+  "Catheter Site Dressing Tool": {
+    "parameters": [
+      {"name": "Name", "type": "text"},
+      {"name": "Dressing Steps", 
+        "type": "step",
+        "step": [
+          {"Text": "text", "Type": "text"}
+        ]
+      },
+      {"name": "Supply List", 
+        "type": "supply",
+        "supply": [
+          {"Text": "text", "Quantity": "number"}
+        ]
+      }
+    ]
+  }
+}

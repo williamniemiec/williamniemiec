@@ -1,0 +1,46 @@
+Here is the output in JSON format:
+
+
+{
+  "Exercise Performance Monitoring": {
+    "Parameters": {
+      "Exercise Type": {
+        "Description": "Select the type of exercise to monitor",
+        "Required": true,
+        "Type": "options",
+        "Options": [
+          {"value": "strengthTraining", "label": "Strength Training"},
+          {"value": "cardiovascular", "label": "Cardiovascular"},
+          {"value": "flexibility", "label": "Flexibility"},
+          {"value": "balance", "label": "Balance"}
+        ]
+      },
+      "Performance Video/Image": {
+        "Description": "Upload a video or image of yourself performing the exercise",
+        "Required": true,
+        "Type": "file"
+      },
+      "Self-Assessment": {
+        "Description": "Rate your own performance of the exercise",
+        "Required": true,
+        "Type": "options",
+        "Options": [
+          {"value": "excellent", "label": "Excellent"},
+          {"value": "good", "label": "Good"},
+          {"value": "fair", "label": "Fair"},
+          {"value": "poor", "label": "Poor"}
+        ]
+      },
+      "Frequency": {
+        "Description": "How often to monitor exercise performance",
+        "Required": true,
+        "Type": "options",
+        "Options": [
+          {"value": "daily", "label": "Daily"},
+          {"value": "weekly", "label": "Weekly"},
+          {"value": "monthly", "label": "Monthly"}
+        ]
+      }
+    }
+  }
+}

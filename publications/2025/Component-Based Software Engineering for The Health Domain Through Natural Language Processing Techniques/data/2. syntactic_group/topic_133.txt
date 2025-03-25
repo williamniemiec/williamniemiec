@@ -1,0 +1,10 @@
+{
+  "name": "Metric Tracking and Resource Management",
+  "description": "Involves tracking usage, expenses, and resources within specified ranges, targets, and units. Focuses on expense management, tracking resource usage, and meeting predefined targets.",
+  "type": "non-periodic",
+  "input": ["Metric tracking", "Expense management", "Resource usage", "Tracking targets", "Unit-based analysis"],
+  "output": ["Expense report", "Resource usage analysis", "Target achievement summary"],
+  "preconditions": ["User is managing resources or tracking expenses"],
+  "postconditions": ["Proper resource and expense tracking with goal achievement"],
+  "dependencies": ["Resource tracking platform", "Expense tracking system", "Target management tools"]
+}

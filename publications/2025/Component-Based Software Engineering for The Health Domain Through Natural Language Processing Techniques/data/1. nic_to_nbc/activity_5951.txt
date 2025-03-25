@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+    "environment_organization": {
+        "parameters": [
+            {"name": "clutter_free_zones", "description": "identify clutter-free zones in the environment"},
+            {"name": "organization_frequency", "description": "set a frequency for maintaining an uncluttered environment"}
+        ]
+    }
+}

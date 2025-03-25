@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Review": {
+    "parameters": {
+      "Medication List": {
+        "type": "unordered list"
+      },
+      "Gastric Emptying Risk": {
+        "type": "options",
+        "options": ["yes/no", "high/medium/low risk"]
+      },
+      "Alternative Medications": {
+        "type": "text or list of medications"
+      },
+      "Education": {
+        "type": "text or multimedia content"
+      }
+    }
+  }
+}

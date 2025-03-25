@@ -1,0 +1,53 @@
+Here is the output JSON:
+
+{
+  "name": "Symptom Management Plan",
+  "parameters": [
+    {
+      "name": "symptoms",
+      "type": "options",
+      "options": [
+        { "value": "nausea" },
+        { "value": "vomiting" },
+        { "value": "anxiety" },
+        { "value": "insomnia" },
+        { "value": "agitation" },
+        { "value": "musclePain" },
+        { "value": "appetiteChanges" },
+        { "value": "yawning" },
+        { "value": "weakness" },
+        { "value": "headache" },
+        { "value": "runnyNose" },
+        { "value": "dilatedPupils" },
+        { "value": "chills" },
+        { "value": "sweating" }
+      ]
+    },
+    {
+      "name": "interventions",
+      "type": "options",
+      "options": [
+        { "value": "medication" },
+        { "value": "counseling" },
+        { "value": "relaxationTechniques" },
+        { "value": "distraction" },
+        { "value": "imagery" }
+      ]
+    },
+    {
+      "name": "frequency",
+      "type": "options",
+      "options": [
+        { "value": "daily" },
+        { "value": "everyHours" },
+        { "value": "everyDays" }
+      ]
+    },
+    {
+      "name": "goals",
+      "type": "text"
+    }
+  ]
+}
+
+I removed all unnecessary information and kept only the `parameters` section, which includes the `name`, `type`, and `options` (if applicable) for each parameter.

@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Medical History": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Sections": {"Type": "unordered list"},
+      "Questions": {"Type": "form"},
+      "Answer Type": {"Type": "options"},
+      "Frequency": {"Type": "options"}
+    }
+  }
+}
+
+
+I removed the `Deadline Date` parameter since it's not applicable in this context. Let me know if you need any further assistance!

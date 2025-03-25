@@ -1,0 +1,33 @@
+Here is the output in JSON format:
+
+
+{
+  "Decision Support Tool": {
+    "parameters": {
+      "name": {"type": "text"},
+      "sections": {
+        "type": "list of sections",
+        "section parameters": {
+          "title": {"type": "text"},
+          "questions": {
+            "type": "list of questions",
+            "question parameters": {
+              "text": {"type": "text"},
+              "type": {"type": "text"},
+              "required": {"type": "boolean"}
+            }
+          },
+          "resources": {"type": "list of links, phone numbers, or text"}
+        }
+      },
+      "answers": {
+        "type": "list of answers",
+        "answer parameters": {
+          "question correspondence": {}
+        }
+      }
+    }
+  }
+}
+
+Note: I removed the example sections and questions as they are not part of the parameter specifications. Also, I did not include any "not applicable" parameters as there were none in the input text.

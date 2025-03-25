@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+    "Caregiver Assignment Configuration": {
+        "parameters": [
+            {"name": "caregiver selection", 
+             "parameters": [
+                 {"name": "caregiver name"},
+                 {"name": "caregiver role"}
+             ]},
+            {"name": "assignment schedule", 
+             "parameters": [
+                 {"name": "day"},
+                 {"name": "time"}
+             ]}
+        ]
+    }
+}
+
+
+Let me know if this meets your requirements!

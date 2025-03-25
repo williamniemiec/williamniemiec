@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "No-code element name": "Physician Consultation",
+  "Parameters": [
+    {"Name": "Reason for Consultation", "Description": "Why do you need to consult with your physician?", "Required": true, "Type": "text"},
+    {"Name": "Recommended Evaluation", "Description": "What evaluation does your physician recommend?", "Required": true, "Type": "options", "Options": [{"value": "xray", "label": "X-ray"}, {"value": "MRI", "label": "MRI"}, {"value": "CTScan", "label": "CT Scan"}, {"value": "other", "label": "Other (please specify)"}]},
+    {"Name": "Recommended Therapy", "Description": "What therapy does your physician recommend?", "Required": true, "Type": "options", "Options": [{"value": "physicalTherapy", "label": "Physical therapy"}, {"value": "occupationalTherapy", "label": "Occupational therapy"}, {"value": "medication", "label": "Medication"}, {"value": "other", "label": "Other (please specify)"}]},
+    {"Name": "Follow-up Appointment", "Description": "Schedule a follow-up appointment with your physician", "Required": true, "Type": "datetime"}
+  ]
+}

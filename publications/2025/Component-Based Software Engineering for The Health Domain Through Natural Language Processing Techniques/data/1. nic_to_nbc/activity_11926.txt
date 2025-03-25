@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+"Catheter Removal Documentation": {
+    "parameters": {
+        "reason": {},
+        "catheter_tip_condition": {},
+        "notes": {},
+        "photo": {}
+    }
+}
+}

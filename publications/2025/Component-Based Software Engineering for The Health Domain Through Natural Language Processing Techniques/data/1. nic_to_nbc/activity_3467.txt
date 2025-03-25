@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Survey": {
+    "Parameters": {
+      "Title": {"Type": "text"},
+      "Questions": {"Type": "list of questions", 
+                    "Question": {
+                      "Text": {"Type": "text"},
+                      "Answer Type": {"Type": "options"},
+                      "Options": {"Type": "list of options"}
+                    }
+                   },
+      "Frequency": {"Type": "options"}
+    }
+  }
+}

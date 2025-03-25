@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Motivation Tracker": {
+    "Parameters": {
+      "Title": {"Type": "text"},
+      "Reinforcement Schedule": {"Type": "list"},
+      "Goal Setting": {"Type": "form"},
+      "Progress Tracking": {"Type": "form"},
+      "Reward System": {"Type": "list"},
+      "Motivational Messages": {"Type": "text"}
+    }
+  }
+}

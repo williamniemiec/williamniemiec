@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "noCodeElementName": "Progress Tracker",
+  "parameterSpecifications": {
+    "title": "",
+    "activity": "(text)",
+    "progressType": "(options: percentage, rating, text)",
+    "feedback": "(text)"
+  }
+}

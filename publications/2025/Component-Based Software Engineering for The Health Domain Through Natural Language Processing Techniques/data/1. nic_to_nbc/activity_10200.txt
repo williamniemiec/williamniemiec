@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Priority Problem Identifier": {
+    "Name": {"Type": "text"},
+    "Problem List": {"Type": "list of text", "Example": ["Chronic pain", "Anxiety", "Difficulty sleeping", "etc."]},
+    "Importance Rating": {"Type": "slider or rating scale", "Example": "How important is this problem to you? (Scale: 1-10)"},
+    "Priority Problem": {"Type": "text", "Example": "Chronic pain"},
+    "Reflection": {"Type": "text input", "Example": "What did I learn about my priority problem from this exercise?"}
+  },
+  "Problem Ranking": {
+    "Name": {"Type": "text"},
+    "Problem List": {"Type": "list of text", "Example": ["Chronic pain", "Anxiety", "Difficulty sleeping", "etc."]},
+    "Ranking Options": {"Type": "list of text", "Example": ["Most important", "Somewhat important", "Not very important", "etc."]},
+    "Priority Problem": {"Type": "text", "Example": "Chronic pain"},
+    "Reflection": {"Type": "text input", "Example": "What did I learn about my priority problem from this exercise?"}
+  }
+}

@@ -1,0 +1,20 @@
+
+
+
+{
+  "name": "Study Obligations",
+  "parameters": [
+    {
+      "name": "Obligations List"
+    },
+    {
+      "name": "Frequency"
+    },
+    {
+      "name": "Duration"
+    },
+    {
+      "name": "Importance"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+Here is the output in JSON format:
+
+
+{
+    "Survey": {
+        "parameters": {
+            "name": "",
+            "questions": [],
+            "answer_options": []
+        }
+    },
+    "Quiz": {
+        "parameters": {
+            "name": "",
+            "questions": [],
+            "answer_options": [],
+            "scoring": ""
+        }
+    },
+    "Self-Assessment": {
+        "parameters": {
+            "name": "",
+            "prompts": []
+        }
+    },
+    "Attitude Scale": {
+        "parameters": {
+            "name": "",
+            "statements": [],
+            "scale": ""
+        }
+    }
+}

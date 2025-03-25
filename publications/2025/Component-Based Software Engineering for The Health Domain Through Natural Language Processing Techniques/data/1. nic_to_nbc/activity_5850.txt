@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+    "explanation": {
+        "parameters": [
+            { 
+                "name": "title", 
+                "type": "text"
+            },
+            { 
+                "name": "content", 
+                "type": "text"
+            },
+            { 
+                "name": "media", 
+                "type": "media"
+            }
+        ]
+    }
+}

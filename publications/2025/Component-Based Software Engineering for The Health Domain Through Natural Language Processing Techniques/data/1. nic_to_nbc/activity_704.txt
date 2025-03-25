@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Motivation Planner": {
+        "parameters": [
+            {"name": "Motivation Strategy"},
+            {"name": "Behavior Change"},
+            {"name": "Target Audience"},
+            {"name": "Message Tone"},
+            {"name": "Notes"}
+        ]
+    }
+}

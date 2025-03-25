@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Guide": {
+    "Parameters": {
+      "Medication List": {
+        "Type": "list of medications with details"
+      },
+      "Medication Instructions": {
+        "Type": "text or video"
+      },
+      "Potential Interactions": {
+        "Type": "list of potential interactions with explanations"
+      },
+      "Side Effects": {
+        "Type": "list of side effects with explanations"
+      },
+      "Medication Reminders": {
+        "Type": "boolean (yes/no)"
+      }
+    }
+  }
+}

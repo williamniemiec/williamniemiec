@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+    "preparation": {
+        "parameters": [
+            {"Substance": {"type": "text"}},
+            {"Instructions": {"type": "text or HTML"}},
+            {"Purpose": {"type": "text or HTML"}}
+        ]
+    }
+}

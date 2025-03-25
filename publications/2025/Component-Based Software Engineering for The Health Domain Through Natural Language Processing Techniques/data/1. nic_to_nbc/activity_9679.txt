@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Diarrhea Notification": {
+    "Parameters": {
+      "Notification Instructions": {
+        "Notification Method": {"Type": ["text", "options"]},
+        "Notification Frequency": {"Type": ["text", "options"]}
+      },
+      "Episode Tracking": {
+        "Episode Date": {"Type": "datetime"},
+        "Episode Details": {"Type": ["text", "options"]}
+      },
+      "Staff Notification": {
+        "Notification Trigger": {"Type": ["text", "options"]},
+        "Notification Message": {"Type": "text"}
+      }
+    }
+  }
+}

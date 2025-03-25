@@ -1,0 +1,47 @@
+Here is the output in JSON format:
+
+
+{
+  "low-stimulation environment": {
+    "Music": {
+      "description": "Select a soothing music type",
+      "required": true,
+      "type": "options",
+      "options": [
+        { "value": "classical", "label": "Classical" },
+        { "value": "natureSounds", "label": "Nature Sounds" },
+        { "value": "softInstrumental", "label": "Soft Instrumental" }
+      ]
+    },
+    "Decor": {
+      "description": "Select a simple and familiar decor pattern",
+      "required": true,
+      "type": "options",
+      "options": [
+        { "value": "plainColors", "label": "Plain Colors" },
+        { "value": "simplePatterns", "label": "Simple Patterns" },
+        { "value": "familiarImages", "label": "Familiar Images" }
+      ]
+    },
+    "Cognitive Load": {
+      "description": "Set performance expectations that do not exceed cognitive processing ability",
+      "required": true,
+      "type": "options",
+      "options": [
+        { "value": "simpleTasks", "label": "Simple Tasks" },
+        { "value": "shortInstructions", "label": "Short Instructions" },
+        { "value": "frequentBreaks", "label": "Frequent Breaks" }
+      ]
+    },
+    "Dining": {
+      "description": "Select a dining option that reduces stimulation",
+      "required": true,
+      "type": "options",
+      "options": [
+        { "value": "smallGroups", "label": "Small Groups" },
+        { "value": "privateDining", "label": "Private Dining" },
+        { "value": "flexibleMealTimes", "label": "Flexible Meal Times" }
+      ]
+    }
+  }
+}

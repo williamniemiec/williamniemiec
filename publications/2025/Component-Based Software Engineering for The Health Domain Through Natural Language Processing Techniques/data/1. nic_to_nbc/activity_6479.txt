@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "Cast Complication Monitoring": {
+    "Symptom Checklist": {
+      "type": "list of symptoms with answer types",
+      "examples": ["pain", "pallor", "pulselessness", "paresthesias", "paralysis", "pressure"]
+    },
+    "Frequency": {
+      "type": "options",
+      "examples": ["daily", "every 2 hours", "every 4 hours"]
+    },
+    "Deadline Date": {
+      "type": "datetime"
+    },
+    "Severity Rating": {
+      "type": "options",
+      "examples": ["mild", "moderate", "severe"]
+    },
+    "Notes": {
+      "type": "text"
+    }
+  }
+}

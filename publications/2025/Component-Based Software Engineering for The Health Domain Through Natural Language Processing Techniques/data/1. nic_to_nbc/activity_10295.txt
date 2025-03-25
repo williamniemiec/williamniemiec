@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Autotransfusion": {
+    "Blood Loss Volume": {
+      "Type": "number"
+    },
+    "Autotransfusion Method": {
+      "Type": "options"
+    },
+    "Autotransfusion Rate": {
+      "Type": "number"
+    },
+    "Monitoring Parameters": {
+      "Type": "checklist"
+    }
+  }
+}

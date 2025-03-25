@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+  "Sensory Stimulation Guide": {
+    "Parameters": {
+      "Title": {},
+      "Toy Selection": {
+        "Options": [
+          {"value": "teddy bear", "label": "Teddy Bear"},
+          {"value": "stuffed animal", "label": "Stuffed Animal"},
+          {"value": "soft doll", "label": "Soft Doll"}
+        ]
+      },
+      "Body Parts": {
+        "Options": [
+          {"value": "face", "label": "Face"},
+          {"value": "arms", "label": "Arms"},
+          {"value": "legs", "label": "Legs"},
+          {"value": "back", "label": "Back"}
+        ]
+      },
+      "Rubbing Technique": {},
+      "Tips": {}
+    }
+  }
+}

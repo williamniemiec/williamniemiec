@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "No-Code Element Name": "Drainage Device Check",
+  "Parameters": {
+    "Drainage Device": {"Type": "list of drainage devices"},
+    "Usage": {"Type": "boolean response"},
+    "Correct Usage": {"Type": "text or multimedia content"},
+    "Reporting": {"Type": "text or multimedia content"},
+    "Frequency": {"Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"Type": "datetime"},
+    "Reminders": {"Type": "boolean"}
+  }
+}

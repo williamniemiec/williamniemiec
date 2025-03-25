@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "PARAMETER ESPECIFICATIONS": [
+    "* Picking up on subtle cues, such as tone of voice or body language, that may indicate deception or distress.",
+    "* Asking follow-up questions to clarify inconsistencies or gather more information.",
+    "* Providing emotional support and reassurance to the patient or caregiver."
+  ],
+  "NO-CODE ELEMENT NAME": null
+}

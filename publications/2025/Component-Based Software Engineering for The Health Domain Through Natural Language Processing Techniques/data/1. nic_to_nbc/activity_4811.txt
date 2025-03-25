@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Exercise Guide": {
+    "parameters": {
+      "name": "Upper Body Strengthening Exercises",
+      "description": "Guided exercises to increase upper body strength",
+      "content_type": ["video", "image", "text"],
+      "exercise_type": "list of exercises, e.g. push-ups, arm curls, shoulder press",
+      "instructions": "step-by-step instructions on how to perform each exercise, including number of repetitions and sets",
+      "demonstration": "video or image demonstration of each exercise",
+      "frequency": "specify how often the patient should perform the exercises",
+      "deadline_date": "specify the due date for completing the exercise program",
+      "tracking": "option to track patient's progress, e.g. number of exercises completed, weight lifted"
+    }
+  }
+}

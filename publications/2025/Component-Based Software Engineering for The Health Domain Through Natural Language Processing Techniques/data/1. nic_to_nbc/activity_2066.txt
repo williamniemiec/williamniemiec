@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Skin Inspection": {
+    "Frequency": {},
+    "Instructions": {},
+    "Areas to Inspect": {},
+    "What to Look For": {},
+    "Reporting": {}
+  }
+}

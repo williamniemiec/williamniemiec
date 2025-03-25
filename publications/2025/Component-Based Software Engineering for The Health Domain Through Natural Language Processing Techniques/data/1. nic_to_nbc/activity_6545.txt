@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "Analgesic Education": {
+    "parameters": [
+      {"name": "guide_content", "description": "Analgesic education guide content", "required": true, "type": "text"}
+    ]
+  },
+  "Side Effect Management Strategies": {
+    "parameters": [
+      {"name": "guide_content", "description": "Side effect management strategies guide content", "required": true, "type": "text"}
+    ]
+  },
+  "Pain Relief Expectations": {
+    "parameters": [
+      {"name": "guide_content", "description": "Pain relief expectations guide content", "required": true, "type": "text"}
+    ]
+  },
+  "Decision Support Tool": {
+    "parameters": [
+      {"name": "tool_content", "description": "Decision support tool content", "required": true, "type": "interactive"}
+    ]
+  }
+}

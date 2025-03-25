@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+  "Goal Setting": {
+    "Goal Category": {},
+    "Goal Description": {},
+    "Current Ability": {},
+    "Desired Outcome": {},
+    "Realistic Expectations": {},
+    "Action Plan": {},
+    "Progress Tracking": {}
+  },
+  "Question": {
+    "Name": {},
+    "Answer Type": {}
+  },
+  "Task": {
+    "Name": {},
+    "Content": {},
+    "Frequency": {}
+  }
+}

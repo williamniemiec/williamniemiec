@@ -1,0 +1,32 @@
+Here is the output in JSON format:
+
+
+{
+  "Water Seal Level": {
+    "Type": "numerical value (e.g., 2-5 cm)"
+  },
+  "Current Level": {
+    "Type": "numerical value (e.g., 2-5 cm)"
+  },
+  "Comparison": {
+    "Type": "boolean response (e.g., yes/no)"
+  },
+  "Adjustment": {
+    "Type": "boolean response (e.g., yes/no)"
+  },
+  "Reporting": {
+    "Type": "text or multimedia content"
+  },
+  "Frequency": {
+    "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+  },
+  "Deadline Date": {
+    "Type": "datetime"
+  },
+  "Reminders": {
+    "Type": "boolean"
+  }
+}
+
+
+Note that I removed the `Introduction` and `Conclusion` sections, as well as the `Description` of the no-code element. I also removed the `Content type` parameter specification, as it was not part of the `Parameters` section. Let me know if you have any further questions!

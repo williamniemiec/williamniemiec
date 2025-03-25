@@ -1,0 +1,41 @@
+Here is the output in JSON format:
+
+
+{
+  "Safety Tip": {
+    "Parameters": {
+      "Title": {
+        "Type": "text",
+        "Required": true
+      },
+      "Content": {
+        "Type": "text",
+        "Required": true
+      },
+      "Image": {
+        "Type": "image file",
+        "Required": false
+      },
+      "Devices": {
+        "Type": "list of device objects",
+        "Required": true,
+        "Device Object": {
+          "Parameters": {
+            "Name": {
+              "Type": "text",
+              "Required": true
+            },
+            "Description": {
+              "Type": "text",
+              "Required": true
+            },
+            "Image": {
+              "Type": "image file",
+              "Required": false
+            }
+          }
+        }
+      }
+    }
+  }
+}

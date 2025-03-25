@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+    "Mood Tracker": {
+        "Emotion Types": "",
+        "Frequency": "",
+        "Rating Scale": "",
+        "Tracking": ""
+    }
+}

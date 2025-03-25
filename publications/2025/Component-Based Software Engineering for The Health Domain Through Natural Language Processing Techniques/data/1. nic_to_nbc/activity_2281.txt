@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Empowerment Statement": {
+    "Message": {"Type": "text"},
+    "Image": {"Type": "image"}
+  },
+  "Self-Efficacy Assessment": {
+    "Question": {"Type": "text"},
+    "Answer Options": {"Type": "options"},
+    "Feedback": {"Type": "text"}
+  },
+  "Goal Setting": {
+    "Goal": {"Type": "text"},
+    "Target Date": {"Type": "datetime"},
+    "Progress Tracking": {"Type": "options"}
+  }
+}

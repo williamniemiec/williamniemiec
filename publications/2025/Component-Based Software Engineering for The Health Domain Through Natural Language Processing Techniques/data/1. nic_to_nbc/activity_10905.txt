@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+    "Medication Alert": {
+        "Parameters": {
+            "Medication List": {"Type": "list of text"},
+            "Warning Message": {"Type": "text"}
+        }
+    }
+}

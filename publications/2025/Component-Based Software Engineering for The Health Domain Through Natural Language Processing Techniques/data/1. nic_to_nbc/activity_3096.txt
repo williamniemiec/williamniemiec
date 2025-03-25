@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+  "Emergency Contact": {
+    "parameters": {
+      "emergency service title": {
+        "type": "text",
+        "required": true
+      },
+      "Phone Number": {
+        "type": "text",
+        "required": true
+      },
+      "Additional Information": {
+        "type": "text",
+        "required": false
+      },
+      "Vehicle Information": {
+        "type": "text",
+        "required": false
+      }
+    }
+  }
+}
+
+
+Note: I removed the "Name" parameter from the output as it is part of the no-code element name, and not a parameter specification.

@@ -1,0 +1,33 @@
+Here is the output in JSON format:
+
+
+{
+    "Physical Abuse Screening": {
+        "Injury Assessment": ["Number of injuries", "Location of injuries", "Stage of healing", "Type of injury"],
+        "Unexplained Injuries": ["Lacerations", "Abrasions", "Bruises", "Burns", "Fractures"],
+        "Other Signs": ["Patches of missing hair", "Human bite marks"],
+        "Risk Score": {"Type": "score"},
+        "Frequency": {"Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+        "Deadline Date": {"Type": "datetime"}
+    },
+    "Injury Assessment": {
+        "Number of injuries": null,
+        "Location of injuries": null,
+        "Stage of healing": null,
+        "Type of injury": null
+    },
+    "Unexplained Injuries": {
+        "Lacerations": null,
+        "Abrasions": null,
+        "Bruises": null,
+        "Burns": null,
+        "Fractures": null
+    },
+    "Other Signs": {
+        "Patches of missing hair": null,
+        "Human bite marks": null
+    },
+    "Risk Score Calculation": {
+        "Risk Score": {"Type": "score"}
+    }
+}

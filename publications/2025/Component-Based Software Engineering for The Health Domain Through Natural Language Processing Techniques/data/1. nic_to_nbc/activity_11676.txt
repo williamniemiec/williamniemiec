@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Safety Checklist": {
+    "Parameters": {
+      "Safety Measures": {
+        "Type": "options"
+      },
+      "Environmental Factors": {
+        "Type": "options"
+      }
+    }
+  }
+}

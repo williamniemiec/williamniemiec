@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Review Schedule": {
+    "Parameters": {
+      "Goal": {"Type": "text"},
+      "Review Dates": {"Type": "list of objects", "Properties": {
+        "Date": {"Type": "date"},
+        "Time": {"Type": "time"},
+        "Reminder": {"Type": "text"}
+      }},
+      "Review Frequency": {"Type": "options", "Options": ["Weekly", "Bi-Weekly", "Monthly", "Custom"]},
+      "Custom Frequency": {"Type": "text"}
+    }
+  }
+}

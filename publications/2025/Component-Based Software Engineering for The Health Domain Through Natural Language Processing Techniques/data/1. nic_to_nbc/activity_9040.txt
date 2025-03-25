@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Umbilical Site Documentation": {
+    "documentation title": {"Description": "title of the umbilical site documentation", "Required": true, "Type": "text"},
+    "Appearance": {"Description": "document the appearance of the umbilical site", "Required": true, "Type": "text"},
+    "Nurse Actions": {"Description": "document the nurse actions taken related to the umbilical site", "Required": true, "Type": "text"},
+    "Frequency": {"Description": "specify how often the umbilical site and nurse actions should be documented", "Required": true, "Type": "options", "Options": [{"value": "daily", "label": "Daily"}, {"value": "everyOtherDay", "label": "Every other day"}, {"value": "asNeeded", "label": "As needed"}]}
+  }
+}

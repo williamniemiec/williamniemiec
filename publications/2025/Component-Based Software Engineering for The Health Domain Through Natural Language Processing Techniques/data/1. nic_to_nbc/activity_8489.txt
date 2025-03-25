@@ -1,0 +1,15 @@
+
+
+
+{
+  "Battery Recharge": {
+    "parameters": {
+      "name": {"type": "text"},
+      "equipment_type": {"type": "options"},
+      "recharge_steps": {"type": "ordered list of text or multimedia content"},
+      "recharge_frequency": {"type": "options"},
+      "battery_type": {"type": "options"},
+      "charging_station_info": {"type": "text or multimedia content"}
+    }
+  }
+}

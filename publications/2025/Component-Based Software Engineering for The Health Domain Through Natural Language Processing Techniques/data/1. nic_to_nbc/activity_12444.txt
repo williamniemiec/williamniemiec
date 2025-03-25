@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+{
+    "name": "Reassurance",
+    "parameters": [
+        { 
+            "name": "message", 
+            "type": "text"
+        },
+        { 
+            "name": "reason", 
+            "type": "text"
+        }
+    ]
+}

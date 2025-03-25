@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Support Group Invitation": {
+    "group_name": {"type": "text"},
+    "group_description": {"type": "text"},
+    "meeting_schedule": {"type": "list of dates and times"},
+    "meeting_format": {"type": "options", "options": ["in-person", "online", "phone call", "etc."]},
+    "resources": {"type": "list of URLs or file attachments"}
+  }
+}

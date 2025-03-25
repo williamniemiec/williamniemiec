@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+    "Observation": {
+        "parameters": [
+            {"Name": {"type": "text"}},
+            {"Description": {"type": "text"}},
+            {"Observation Type": {"type": "options", "options": ["lip sealing", "tongue movements", "facial expressions", "other"]}},
+            {"Observation Context": {"type": "options", "options": ["during eating", "during drinking", "during swallowing", "other"]}},
+            {"Recording Method": {"type": "options", "options": ["written notes", "video recording", "audio recording", "other"]}},
+            {"Instructions": {"type": "text"}}
+        ]
+    }
+}

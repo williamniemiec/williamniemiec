@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "Guide": {
+    "parameters": {
+      "name": "Child Development and Child Rearing Guide",
+      "pages": "",
+      "frequency": "onlyOnce"
+    }
+  },
+  "Question": {
+    "parameters": {
+      "name": "Child Development and Child Rearing Questionnaire",
+      "questions": "",
+      "answer type": "",
+      "resources": "",
+      "frequency": "onlyOnce"
+    }
+  }
+}
+
+
+Note: I removed the `deadline_date` parameter since it was specified as "not required" in the input text. I also didn't include the `pages` and `questions` parameters with values, assuming they are not applicable without specific content.

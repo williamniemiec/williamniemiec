@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Symptom Prioritizer": {
+    "Parameters": {
+      "Symptom List": {"Type": "list of text"},
+      "Ranking Scale": {"Type": "options"},
+      "Instructions": {"Type": "text"},
+      "Follow-up Questions": {"Type": "list of text"}
+    }
+  }
+}

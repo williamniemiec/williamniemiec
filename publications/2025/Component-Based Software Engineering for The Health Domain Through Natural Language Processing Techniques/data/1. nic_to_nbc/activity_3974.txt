@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Guided Reiki": {
+    "parameters": {
+      "distance": {"type": "text"},
+      "instructions": {"type": "text or multimedia"},
+      "duration": {"type": "time interval"}
+    }
+  }
+}

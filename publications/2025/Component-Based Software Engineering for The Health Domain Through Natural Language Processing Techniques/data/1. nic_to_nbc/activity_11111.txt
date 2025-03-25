@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Referral": {
+    "Parameters": {
+      "Eligibility Criteria": {"Type": "text or list of criteria"},
+      "Service Description": {"Type": "text or multimedia content"},
+      "Referral Process": {"Type": "text or multimedia content"},
+      "Contact Information": {"Type": "text or multimedia content"},
+      "Assessment Tools": {"Type": "list of text or multimedia content"},
+      "Intervention Plan": {"Type": "text or multimedia content"}
+    }
+  }
+}

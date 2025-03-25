@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Nipple Discharge Assessment": {
+    "Instructions": {},
+    "Squeeze Technique Guidance": {},
+    "Discharge Detection": {},
+    "Image Capture": {},
+    "Frequency": ["daily", "onlyOnce", "everyHours", "everyDays"],
+    "Deadline Date": {}
+  }
+}

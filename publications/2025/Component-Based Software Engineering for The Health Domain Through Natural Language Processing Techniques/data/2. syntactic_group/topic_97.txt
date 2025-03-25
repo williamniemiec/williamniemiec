@@ -1,0 +1,10 @@
+{
+  "name": "Specimen Collection and Preservation",
+  "description": "Details the collection, labeling, and preservation of specimens. Ensures proper storage, transport, and documentation for specimens.",
+  "type": "non-periodic",
+  "input": ["Specimen collection procedures", "Labeling guidelines", "Preservation techniques", "Transport instructions"],
+  "output": ["Specimen collection report", "Labeling confirmation", "Transport and storage feedback"],
+  "preconditions": ["User is involved in specimen collection and management"],
+  "postconditions": ["Properly collected and preserved specimens for analysis"],
+  "dependencies": ["Specimen collection tools", "Labeling and storage systems", "Transport management platform"]
+}

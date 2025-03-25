@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Alternative Options": {
+    "Parameters": {
+      "Condition": "",
+      "Alternative Options": "",
+      "Description": "",
+      "Rationale": "",
+      "Pros and Cons": "",
+      "Frequency": ["daily", "onlyOnce", "everyHours", "everyDays"],
+      "Deadline Date": ""
+    }
+  }
+}
+
+
+Let me know if this meets your requirements!

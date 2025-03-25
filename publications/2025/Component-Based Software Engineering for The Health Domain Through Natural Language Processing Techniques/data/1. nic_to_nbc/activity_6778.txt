@@ -1,0 +1,33 @@
+Here is the output in JSON format:
+
+
+{
+  "Agency Coordinator": {
+    "parameters": {
+      "Agency Directory": {
+        "type": "directory",
+        "fields": ["agency name", "description", "contact information", "services offered", "etc."]
+      },
+      "Agency Roles": {
+        "type": "list",
+        "options": ["case management", "counseling", "education", "etc."]
+      },
+      "Family Needs Assessment": {
+        "type": "assessment",
+        "fields": ["family needs", "agency referrals", "etc."]
+      },
+      "Care Plan": {
+        "type": "plan",
+        "fields": ["care plan goals", "agency roles", "services and interventions", "etc."]
+      },
+      "Communication Hub": {
+        "type": "communication",
+        "fields": ["messaging", "file sharing", "task assignment", "etc."]
+      },
+      "Progress Tracking": {
+        "type": "tracking",
+        "fields": ["progress updates", "care plan adjustments", "etc."]
+      }
+    }
+  }
+}

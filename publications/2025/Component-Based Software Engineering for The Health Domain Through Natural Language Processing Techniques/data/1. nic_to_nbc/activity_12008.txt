@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "PERF Meter Tutorial": {
+    "Name": {"type": "text"},
+    "Content": {"type": "multimedia"},
+    "Steps": {"type": "list of steps"},
+    "Quiz": {"type": "multiple-choice questions or true/false questions"}
+  }
+}

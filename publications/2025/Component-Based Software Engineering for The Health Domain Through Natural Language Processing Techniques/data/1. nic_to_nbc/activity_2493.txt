@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Stress Assessment": {
+    "Parameters": {
+      "Stress Questionnaire": {"Type": "questionnaire"},
+      "Stress Level": {"Type": "rating scale"},
+      "Threshold": {"Type": "numerical value"},
+      "Decision Delay": {"Type": "boolean"},
+      "Relaxation Techniques": {"Type": "list of URLs or PDFs"},
+      "Frequency": {"Type": "options", "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]}
+    }
+  }
+}

@@ -1,0 +1,30 @@
+Here is the output in JSON format:
+
+
+{
+    "No-code Element Name": "Emotional Readiness Assessment",
+    "Parameters": {
+        "Emotional Readiness Questions": {
+            "Type": "list of text",
+            "Required": true
+        },
+        "Emotional Readiness Scale": {
+            "Type": "options",
+            "Options": [1, 2, 3, 4, 5],
+            "Required": true
+        },
+        "Respectful Response": {
+            "Type": "text",
+            "Required": true
+        },
+        "Alternative Support": {
+            "Type": "list of text",
+            "Required": true
+        },
+        "Frequency": {
+            "Type": "options",
+            "Options": ["daily", "weekly", "monthly"],
+            "Required": true
+        }
+    }
+}

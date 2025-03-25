@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Guide": {
+    "parameters": {
+      "name": "title of the guide (e.g., \"Environmental Standards Guide\")",
+      "pages": "list of HTML texts explaining the environmental standards (e.g., EPA and OSHA regulations)"
+    }
+  }
+}

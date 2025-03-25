@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+    "Mirror Management": {
+        "parameters": [
+            {"Name": "name", "type": "text"},
+            {"Instructions": "instructions", "type": "rich text"},
+            {"Reason": "reason", "type": "text"},
+            {"Frequency": "frequency", "type": "options"},
+        ]
+    }
+}
+
+
+Note that I removed the `Deadline Date` parameter since it's marked as not required (`"required": false`). Let me know if you need anything else!

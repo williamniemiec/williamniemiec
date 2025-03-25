@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+  "Rest Period": {
+    "Duration": {
+      "type": "time interval"
+    },
+    "Frequency": {
+      "options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+    },
+    "Trigger": {
+      "type": "text or options"
+    },
+    "Goal": {
+      "type": "text or options"
+    },
+    "Environment": {
+      "type": "text or options"
+    }
+  }
+}

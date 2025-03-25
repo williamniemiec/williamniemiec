@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Goal Setting for Competent Behavior": {
+        "Dysfunctional Behavior": {"type": "text"},
+        "Current Handling": {"type": "text"},
+        "Desired Outcome": {"type": "text"},
+        "Goal Setting": {"type": "goal-setting template"},
+        "Action Plan": {"type": "action plan template"},
+        "Progress Tracking": {"type": "journal or log"}
+    }
+}

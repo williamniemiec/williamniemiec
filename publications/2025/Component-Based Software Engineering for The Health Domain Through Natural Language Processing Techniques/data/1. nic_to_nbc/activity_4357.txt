@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Movement Guidelines": {
+        "Parameters": {
+            "Movement Type": {"Type": ["text", "options"]},
+            "Myotatic Reflex": {"Type": ["text", "video"]},
+            "Muscle Soreness": {"Type": ["text", "video"]},
+            "Safe Movement Techniques": {"Type": ["text", "video"]},
+            "Movement Reminders": {"Type": ["text", "notification"]}
+        }
+    }
+}

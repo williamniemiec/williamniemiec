@@ -1,0 +1,10 @@
+{
+  "name": "Immobilization and Injury Management",
+  "description": "Provides guidance on applying immobilization techniques such as splints and slings. Focuses on injury management, particularly for wrist injuries, including padding and proper positioning.",
+  "type": "non-periodic",
+  "input": ["Immobilization steps", "Splint and sling application", "Padding techniques", "Injury management"],
+  "output": ["Immobilization progress report", "Injury management feedback", "Splint/sling application guide"],
+  "preconditions": ["User is managing or undergoing immobilization for an injury"],
+  "postconditions": ["Effective immobilization and injury management"],
+  "dependencies": ["Immobilization toolset", "Injury management system", "Splint and sling application platform"]
+}

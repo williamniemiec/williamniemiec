@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Device Monitoring Guide": {
+    "Name": {"type": "text"},
+    "Device Type": {"type": "options"},
+    "Monitoring Frequency": {"type": "options"},
+    "Image": {"type": "image or diagram"},
+    "Instructions": {"type": "text or video"},
+    "Reminders": {"type": "options"},
+    "Deadline Date": {"type": "datetime"}
+  }
+}

@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Positioning Guide": {
+    "Parameters": {
+      "Positioning Instruction": {},
+      "Image/Video": {},
+      "Frequency": {}
+    }
+  }
+}
+
+
+I removed all unnecessary information and kept only the `{{ NO-CODE ELEMENT NAME }}` ("Positioning Guide") and the applicable parameters (`{{ PARAMETER ESPECIFICATIONS }}`). The non-applicable parameter "Deadline Date" was removed since it's not required. Let me know if this meets your requirements!

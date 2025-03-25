@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+"Pain Evaluation": {
+    "Pain Location": {"type": "list"},
+    "Pain Intensity": {"type": "text or multimedia"},
+    "Pain Radiation": {"type": "text or multimedia"},
+    "Pain Duration": {"type": "text or multimedia"},
+    "Precipitating Factors": {"type": "text or multimedia"},
+    "Alleviating Factors": {"type": "text or multimedia"}
+}
+}

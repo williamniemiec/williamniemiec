@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Tracker": {
+    "Metric": {"type": "options"},
+    "Unit": {"type": "options"},
+    "Frequency": {"type": "options"},
+    "Deadline Date": {"type": "datetime"}
+  }
+}

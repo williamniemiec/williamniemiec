@@ -1,0 +1,8 @@
+Here is the output in JSON format:
+
+
+{
+  "Environmental Assessment": {
+    "Ambiance": ""
+  }
+}

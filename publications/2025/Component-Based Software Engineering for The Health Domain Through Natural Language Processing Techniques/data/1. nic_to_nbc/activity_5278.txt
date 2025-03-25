@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+  "Lidocaine Administration": {
+    "Indication Assessment": {
+      "Type": "yes/no question or multiple choice",
+      "Options": "list of possible indications for lidocaine administration (e.g., pain management, anxiety, etc.)"
+    },
+    "Dosage Guidance": {
+      "Type": "text or interactive animation",
+      "Content": "instructions on how to properly administer the correct dosage of lidocaine"
+    },
+    "Administration Technique": {
+      "Type": "interactive animation or video",
+      "Content": "a step-by-step guide on how to properly administer lidocaine at the insertion point"
+    },
+    "Post-Administration Instructions": {
+      "Type": "text or interactive animation",
+      "Content": "instructions on how to monitor for potential side effects, what to expect after administration, etc."
+    }
+  }
+}

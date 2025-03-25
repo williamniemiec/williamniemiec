@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "Coping Assessment": {
+    "Parameters": {
+      "Title": {"Type": "text"},
+      "Questions": {"Type": "list of questions", 
+        "Options": [
+          {"Text": {"Type": "text"}},
+          {"Answer Type": {"Type": "options"}},
+          {"Options": {"Type": "list of options"}}
+        ]
+      },
+      "Coping Categories": {"Type": "list of categories"},
+      "Scoring": {"Type": "scoring rules"},
+      "Thresholds": {"Type": "list of thresholds"},
+      "Frequency": {"Type": "options"}
+    }
+  }
+}
+
+
+Let me know if this is what you were expecting!

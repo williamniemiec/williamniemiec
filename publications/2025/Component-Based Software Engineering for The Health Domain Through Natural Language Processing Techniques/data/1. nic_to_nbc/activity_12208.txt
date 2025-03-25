@@ -1,0 +1,7 @@
+
+
+
+{
+"NO-CODE ELEMENT NAME": "None",
+"PARAMETER ESPECIFICATIONS": "* Electronic health records (EHRs) or personal health records (PHRs) for patients to track their health information\n* Secure messaging or communication channels with healthcare providers\n* Educational content on specific health topics\n* Interactive tools and resources to support patient engagement and self-management"
+}

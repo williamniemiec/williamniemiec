@@ -1,0 +1,61 @@
+Here is the JSON output:
+
+
+{
+  "Intake and Output Tracker": {
+    "Parameters": {
+      "Intake Type": {
+        "Type": "options",
+        "Options": [
+          {"value": "fluids", "label": "Fluids"},
+          {"value": "medications", "label": "Medications"},
+          {"value": "food", "label": "Food"},
+          {"value": "other", "label": "Other (please specify)"}
+        ]
+      },
+      "Intake Amount": {
+        "Type": "number"
+      },
+      "Intake Unit": {
+        "Type": "options",
+        "Options": [
+          {"value": "mL", "label": "mL"},
+          {"value": "tablets", "label": "Tablets"},
+          {"value": "grams", "label": "Grams"},
+          {"value": "other", "label": "Other (please specify)"}
+        ]
+      },
+      "Output Type": {
+        "Type": "options",
+        "Options": [
+          {"value": "urine", "label": "Urine"},
+          {"value": "stool", "label": "Stool"},
+          {"value": "vomit", "label": "Vomit"},
+          {"value": "other", "label": "Other (please specify)"}
+        ]
+      },
+      "Output Amount": {
+        "Type": "number"
+      },
+      "Output Unit": {
+        "Type": "options",
+        "Options": [
+          {"value": "mL", "label": "mL"},
+          {"value": "grams", "label": "Grams"},
+          {"value": "other", "label": "Other (please specify)"}
+        ]
+      },
+      "Frequency": {
+        "Type": "options",
+        "Options": [
+          {"value": "daily", "label": "Daily"},
+          {"value": "everyHours", "label": "Every x hours"},
+          {"value": "everyDays", "label": "Every x days"}
+        ]
+      },
+      "Deadline Date": {
+        "Type": "datetime"
+      }
+    }
+  }
+}

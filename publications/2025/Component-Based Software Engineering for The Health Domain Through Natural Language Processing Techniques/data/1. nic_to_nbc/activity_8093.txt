@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Environmental Setup": {
+    "Chair Availability": {"type": "boolean"},
+    "Quiet Area Identification": {"type": "text"},
+    "Additional Comfort Items": {"type": "list text"},
+    "Frequency": {"type": "options"}
+  }
+}

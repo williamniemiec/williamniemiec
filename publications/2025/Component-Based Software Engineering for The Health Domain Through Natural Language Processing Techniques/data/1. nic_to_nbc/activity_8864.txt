@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Kitchen Helper Guide": {
+    "Parameters": {
+      "Age-Appropriate Tasks": {"Type": "list of text or HTML"},
+      "Safety Tips": {"Type": "list of text or HTML"},
+      "Recipe Suggestions": {"Type": "list of text or HTML"},
+      "Benefits Information": {"Type": "text or HTML"},
+      "Frequency": {"Type": "options"}
+    }
+  }
+}

@@ -1,0 +1,37 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Peer Group Reflection",
+    "parameters": [
+        {
+            "name": "peer_group",
+            "type": "text"
+        },
+        {
+            "name": "influence",
+            "type": "text"
+        },
+        {
+            "name": "positive_impact",
+            "type": "list of text"
+        },
+        {
+            "name": "negative_impact",
+            "type": "list of text"
+        },
+        {
+            "name": "goals",
+            "type": "list of text"
+        },
+        {
+            "name": "frequency",
+            "type": "options",
+            "options": [
+                { "value": "daily" },
+                { "value": "weekly" },
+                { "value": "monthly" }
+            ]
+        }
+    ]
+}

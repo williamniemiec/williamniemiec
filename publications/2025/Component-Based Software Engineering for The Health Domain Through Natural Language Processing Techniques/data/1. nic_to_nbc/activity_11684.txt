@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Device Removal": {
+    "Removal Criteria": {"type": "list", "values": ["signs of inflammation", "leakage", "discharge from the entry site"]},
+    "Removal Instructions": {"type": "text", "value": "If you notice any signs of inflammation, leakage, or discharge from the entry site, remove the device immediately and notify your healthcare provider."},
+    "Notification": {"type": "text", "value": "After removing the device, notify your healthcare provider and follow their instructions for further care."},
+    "Device Status": {"type": "boolean", "value": true}
+  }
+}

@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "parameters": [
+    {"name": "Name", "type": "text"},
+    {"name": "Method", "type": "options"},
+    {"name": "Gestational Age Value", "type": "number"},
+    {"name": "Notes", "type": "text"}
+  ],
+  "no-code-element-name": "Gestational Age Determination"
+}

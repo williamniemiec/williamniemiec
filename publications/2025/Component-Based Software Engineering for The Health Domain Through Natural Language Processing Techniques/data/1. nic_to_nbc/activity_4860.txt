@@ -1,0 +1,14 @@
+
+
+
+{
+  "Pain Tracker": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Pain Scale": {"Type": "options", "Options": [{"value": "numeric", "label": "0-10"}, {"value": "verbal", "label": "Verbal Rating Scale"}, {"value": "faces", "label": "Faces Pain Scale"}]},
+      "Frequency": {"Type": "options", "Options": [{"value": "daily", "label": "Daily"}, {"value": "onlyOnce", "label": "Only once"}, {"value": "everyHours", "label": "Every x hours"}, {"value": "everyDays", "label": "Every x days"}]},
+      "Deadline Date": {"Type": "datetime"},
+      "Additional Notes": {"Type": "text"}
+    }
+  }
+}

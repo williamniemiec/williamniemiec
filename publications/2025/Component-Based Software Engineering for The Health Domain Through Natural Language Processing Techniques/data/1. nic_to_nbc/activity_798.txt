@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Pacemaker Education": {
+    "parameters": [
+      {
+        "name": "content",
+        "description": "Educational content about pacemaker maintenance and follow-up care",
+        "required": true,
+        "type": "html"
+      }
+    ]
+  }
+}

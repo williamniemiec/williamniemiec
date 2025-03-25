@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+    "EKG Lead Selection": {
+        "Lead Options": {"type": "options", "options": ["e.g., Lead I, Lead II, Lead III, etc."]},
+        "Selection Reason": {"type": "text"},
+        "Frequency": {"type": "options", "options": ["e.g., daily, onlyOnce, everyHours, everyDays"]},
+        "Deadline Date": {"type": "datetime"}
+    }
+}

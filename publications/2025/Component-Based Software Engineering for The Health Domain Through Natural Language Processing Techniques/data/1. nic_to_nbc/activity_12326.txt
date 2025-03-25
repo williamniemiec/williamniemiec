@@ -1,0 +1,33 @@
+Here is the output in JSON format:
+
+
+{
+    "Safety Assessment": {
+        "Hazard Identification": {
+            "Description": "Identify potential hazards in the environment (e.g. tripping hazards, electrical cords, sharp objects)",
+            "Required": true,
+            "Type": "options",
+            "Options": [
+                { "value": "trippingHazards", "label": "Tripping Hazards" },
+                { "value": "electricalCords", "label": "Electrical Cords" },
+                { "value": "sharpObjects", "label": "Sharp Objects" },
+                { "value": "other", "label": "Other" }
+            ]
+        },
+        "Removal": {
+            "Description": "Specify the actions taken to remove or mitigate the identified hazards",
+            "Required": true,
+            "Type": "text"
+        },
+        "Frequency": {
+            "Description": "Specify how often the environment should be checked for hazards",
+            "Required": true,
+            "Type": "options",
+            "Options": [
+                { "value": "daily", "label": "Daily" },
+                { "value": "weekly", "label": "Weekly" },
+                { "value": "monthly", "label": "Monthly" }
+            ]
+        }
+    }
+}

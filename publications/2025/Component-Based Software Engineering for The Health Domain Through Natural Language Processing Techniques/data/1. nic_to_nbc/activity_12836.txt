@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Information Review": {
+        "information review title": {"Type": "text", "Required": true},
+        "Information": {"Type": ["text", "summary"], "Required": true},
+        "Health Care Professionals": {"Type": "list of professional objects", "Required": true}
+    }
+}
+
+
+I removed the not applicable parameters ("Reinforcement" and "Questions") since they are optional (required: false). Let me know if this meets your requirements!

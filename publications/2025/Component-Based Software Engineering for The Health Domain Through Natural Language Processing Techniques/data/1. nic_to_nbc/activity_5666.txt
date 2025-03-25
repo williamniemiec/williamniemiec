@@ -1,0 +1,31 @@
+Here is the output in JSON format:
+
+
+{
+  "Compliance Monitoring": {
+    "Parameters": {
+      "Compliance Metrics": {"Type": "options"},
+      "Threshold": {"Type": "numerical value"}
+    }
+  },
+  "Passive Submission Detection": {
+    "Parameters": {
+      "Behavioral Indicators": {"Type": "options"},
+      "Frequency": {"Type": "options"}
+    }
+  },
+  "Alert System": {
+    "Parameters": {
+      "Alert Threshold": {"Type": "numerical value"},
+      "Alert Message": {"Type": "text input field"}
+    }
+  },
+  "Intervention Strategies": {
+    "Parameters": {
+      "Intervention Options": {"Type": "options"},
+      "Intervention Plan": {"Type": "text input field"}
+    }
+  }
+}
+
+Let me know if this is what you were expecting!

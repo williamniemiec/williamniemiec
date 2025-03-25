@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Distraction Technique Practice": {
+    "Parameters": {
+      "Name": {},
+      "Technique": {},
+      "Practice Schedule": {},
+      "Practice Duration": {},
+      "Reminders": {},
+      "Notes": {}
+    }
+  }
+}

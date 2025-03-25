@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+  "Health Promotion Information": {
+    "Topic": {"type": "text"},
+    "Content": {"type": ["text", "image", "video"]},
+    "Resources": {"type": ["list of URLs", "list of text"]}
+  },
+  "Health Education Materials": {
+    "Material Type": {"type": "text"},
+    "Material Content": {"type": ["text", "image", "video"]},
+    "Downloadable": {"type": "boolean"}
+  },
+  "Healthy Living Tips": {
+    "Tip": {"type": "text"},
+    "Category": {"type": "text"},
+    "Resources": {"type": ["list of URLs", "list of text"]}
+  }
+}
+
+
+Note that I removed the `Not Applicable` parameters as per your request. Let me know if you have any further questions!

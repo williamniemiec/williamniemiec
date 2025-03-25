@@ -1,0 +1,33 @@
+Here is the output in JSON format:
+
+
+{
+  "Temperature Monitoring": {
+    "Parameters": {
+      "Temperature": {
+        "Description": "Temperature reading",
+        "Required": true,
+        "Type": "number"
+      },
+      "Frequency": {
+        "Description": "Frequency of temperature monitoring",
+        "Required": true,
+        "Type": "options",
+        "Options": [
+          { "value": "every2Hours", "label": "Every 2 hours" },
+          { "value": "every4Hours", "label": "Every 4 hours" },
+          { "value": "asNeeded", "label": "As needed" }
+        ]
+      },
+      "Unit": {
+        "Description": "Unit of temperature measurement",
+        "Required": true,
+        "Type": "options",
+        "Options": [
+          { "value": "celsius", "label": "Celsius" },
+          { "value": "fahrenheit", "label": "Fahrenheit" }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Lighting Assessment Tool": {
+    "parameters": {
+      "name": "",
+      "areas_to_assess": ["Kitchen", "Bathroom", "Hallways", "Bedrooms", "Living room"],
+      "lighting_types": ["Natural light", "Artificial light (e.g., lamps, overhead lighting)", "Nightlights"],
+      "questions": ["Is the lighting in this area sufficient for your needs?", "Are there any areas where you struggle to see?", "Are there any tripping hazards due to inadequate lighting?"],
+      "answer_type": ["Boolean (yes/no)", "Multiple choice (e.g., \"sufficient\", \"insufficient\", \"not applicable\")", "Text input (for open-ended responses)"],
+      "recommendations": ["Installing additional lamps or overhead lighting", "Using nightlights in hallways and bedrooms", "Improving natural light by opening curtains or blinds"]
+    }
+  }
+}

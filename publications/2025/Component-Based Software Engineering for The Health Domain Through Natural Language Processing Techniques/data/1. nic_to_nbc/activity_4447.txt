@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+  "Substance": {
+    "Type": "text"
+  },
+  "Unit": {
+    "Type": "text"
+  },
+  "Result": {
+    "Type": "number"
+  },
+  "Reference Range": {
+    "Type": "text"
+  },
+  "Frequency": {
+    "Type": "options"
+  },
+  "Deadline Date": {
+    "Type": "datetime"
+  },
+  "Notes": {
+    "Type": "text"
+  },
+  "Lab Result Tracker": ""
+}

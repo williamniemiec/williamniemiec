@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Therapy Plan": {
+    "Name": {"type": "text"},
+    "Therapist type": {"type": "options", "options": ["Occupational", "Physical", "Recreational"]},
+    "Activity goals": {"type": "list of text"},
+    "Activity plan": {"type": "list of text"},
+    "Progress tracking": {"type": "options", "options": ["Daily log", "Weekly check-ins", "Monthly assessments"]},
+    "Collaboration notes": {"type": "text"}
+  }
+}

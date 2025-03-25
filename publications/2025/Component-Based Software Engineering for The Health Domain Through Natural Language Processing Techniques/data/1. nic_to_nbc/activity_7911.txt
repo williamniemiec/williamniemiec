@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Positive Feedback": {
+    "Parameters": {
+      "Learning Skill": {"Type": "text"},
+      "Improvement Criteria": {"Type": "options", "Options": ["increased accuracy", "improved speed", "increased confidence", "other"]},
+      "Feedback Type": {"Type": "options", "Options": ["verbal", "written", "visual", "other"]},
+      "Feedback Content": {"Type": "text"},
+      "Contingency": {"Type": "options", "Options": ["upon completion of a task", "upon demonstration of improved skill", "other"]},
+      "Frequency": {"Type": "options", "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"Type": "datetime"}
+    }
+  }
+}

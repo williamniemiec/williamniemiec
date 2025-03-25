@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "noCodeElementName": "Quiz/Assessment",
+  "parameters": {
+    "Questions": "",
+    "Answer Type": "",
+    "Scoring": "",
+    "Feedback": ""
+  }
+}

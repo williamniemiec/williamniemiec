@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Gather Necessary Supplies",
+    "parameters": [
+        { 
+            "name": "Supply List", 
+            "description": "A parameter that specifies the list of necessary supplies.",
+            "type": "checklist"
+        },
+        { 
+            "name": "Custom Supply", 
+            "description": "A parameter that allows the person to add a custom supply to the list.",
+            "type": "text"
+        },
+        { 
+            "name": "Frequency", 
+            "description": "A parameter that specifies how often to gather necessary supplies.",
+            "type": "options"
+        }
+    ]
+}

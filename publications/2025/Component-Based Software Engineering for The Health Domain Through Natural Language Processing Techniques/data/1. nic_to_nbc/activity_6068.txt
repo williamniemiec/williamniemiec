@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Universal Precautions Guide": {
+        "Parameters": {
+            "Name": {"Type": "text"},
+            "Precautions List": {"Type": "unordered list (text)"},
+            "Precautions Instructions": {"Type": "text"},
+            "Frequency": {"Type": "options", "Values": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+            "Reminder": {"Type": "options", "Values": ["yes", "no"]}
+        }
+    }
+}

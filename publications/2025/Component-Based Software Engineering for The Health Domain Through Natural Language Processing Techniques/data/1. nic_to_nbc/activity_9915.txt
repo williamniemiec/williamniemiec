@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+    "Social Skills Coach": {
+        "Name": {"type": "text"},
+        "Social Skill Categories": {"type": "list of text"},
+        "Lesson Plan": {"type": "list of multimedia content"},
+        "Practice Exercises": {"type": "list of interactive exercises"},
+        "Feedback Mechanism": {"type": "options"},
+        "Frequency": {"type": "options"}
+    }
+}
+
+
+I removed the following:
+
+* The introduction and conclusion sections
+* The `Deadline Date` parameter since it's not applicable in this context (no-code element)
+* Any other text that wasn't part of the no-code element name or its parameters.

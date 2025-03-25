@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Vital Sign Tracker": {
+        "parameters": [
+            { "name": "Name", "type": "text" },
+            { "name": "Vital Signs", "type": "unordered list" },
+            { "name": "Unit", "type": "text" },
+            { "name": "Frequency", "type": "options" },
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+  "Support System Assessment": {
+    "parameters": {
+      "name": "",
+      "questions": [],
+      "answer_type": "",
+      "scoring": ""
+    }
+  },
+  "Barrier Identification": {
+    "parameters": {
+      "name": "",
+      "questions": [],
+      "answer_type": "",
+      "scoring": ""
+    }
+  },
+  "Personalized Feedback": {
+    "parameters": {
+      "name": "",
+      "content": [],
+      "type": ""
+    }
+  }
+}

@@ -1,0 +1,10 @@
+
+
+
+{
+  "Nasal Medication Preparation": {
+    "Blow Nose Instruction": {"Type": "text"},
+    "Contraindication Check": {"Type": "boolean"},
+    "Alternative Instructions": {"Type": "text"}
+  }
+}

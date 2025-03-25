@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Salt Selection": {
+    "Parameters": {
+      "Salt Type": {
+        "Type": "options",
+        "Options": ["kosher salt", "canning salt", "pickling salt", "other"]
+      },
+      "Reason": {
+        "Type": "text",
+        "Default value": "To avoid irritation to the nasal mucosa"
+      },
+      "Notes": {
+        "Type": "text",
+        "Optional": true
+      }
+    }
+  }
+}

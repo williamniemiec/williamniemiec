@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Hydration Reminder": {
+    "Title": {"Description": "title of the hydration reminder", "Required": true, "Type": "text"},
+    "Goal": {"Description": "specify the daily water intake goal for the patient", "Required": true, "Type": "number"},
+    "Unit": {"Description": "specify the unit of measurement for the daily water intake goal (e.g. cups, ounces, liters)", "Required": true, "Type": "options", "Options": [{"value": "cups", "label": "Cups"}, {"value": "ounces", "label": "Ounces"}, {"value": "liters", "label": "Liters"}]},
+    "Frequency": {"Description": "specify how often the patient should be reminded to drink water", "Required": true, "Type": "options", "Options": [{"value": "daily", "label": "Daily"}, {"value": "onlyOnce", "label": "Only once"}, {"value": "everyHours", "label": "Every x hours"}, {"value": "everyDays", "label": "Every x days"}]}
+  }
+}
+
+
+Note that I removed the "Tips" parameter since it's not applicable (required: false). Let me know if you need anything else!

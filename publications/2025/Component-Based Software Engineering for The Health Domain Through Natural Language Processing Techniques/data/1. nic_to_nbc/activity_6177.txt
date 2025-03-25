@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Supervision Plan": {
+    "Parameters": {
+      "Supervision Level": {},
+      "Supervision Frequency": {},
+      "Supervision Method": {},
+      "Therapeutic Actions": {},
+      "Supervision Deadline": {}
+    }
+  }
+}

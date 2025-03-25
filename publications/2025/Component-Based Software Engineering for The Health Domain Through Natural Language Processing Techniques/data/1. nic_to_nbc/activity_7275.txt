@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Self-Care Assistance": {
+    "Name": {"type": "text"},
+    "Assistance Tasks": {"type": "unordered list", "options": ["Bathing", "Dressing", "Grooming", "Feeding", "Medication management"]},
+    "Assistance Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Assistance Duration": {"type": "text"},
+    "Caregiver Information": {"type": "object", "properties": {"Name": "", "Contact information (phone, email, etc.)": "", "Availability": ""}},
+    "Progress Tracking": {"type": "boolean"},
+    "Notes": {"type": "text"}
+  }
+}

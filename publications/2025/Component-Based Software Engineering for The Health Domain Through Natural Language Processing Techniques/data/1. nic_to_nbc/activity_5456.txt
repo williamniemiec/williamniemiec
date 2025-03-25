@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "guide": {
+    "parameters": {
+      "name": {"type": "text"},
+      "pages": {"type": "book-page", "book-page": ["Step-by-step instructions for gentle buffing", "Tips for using a towel or pumice stone", "Precautions to take when caring for soft calluses", "Images or videos to illustrate the process"]}
+    }
+  }
+}

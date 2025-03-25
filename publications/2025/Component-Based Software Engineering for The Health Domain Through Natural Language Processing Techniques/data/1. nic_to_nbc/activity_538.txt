@@ -1,0 +1,41 @@
+
+
+
+{
+    "name": "Value Guiding Behavior List",
+    "parameters": [
+        {
+            "name": "List Title",
+            "type": "text"
+        },
+        {
+            "name": "Settings",
+            "type": "list of text"
+        },
+        {
+            "name": "Situations",
+            "type": "list of text"
+        },
+        {
+            "name": "Values",
+            "type": "list of text"
+        },
+        {
+            "name": "Instructions",
+            "type": "text"
+        },
+        {
+            "name": "Frequency",
+            "type": "options",
+            "options": [
+                { value: "daily" },
+                { value: "weekly" },
+                { value: "monthly" }
+            ]
+        },
+        {
+            "name": "Deadline Date",
+            "type": "datetime"
+        }
+    ]
+}

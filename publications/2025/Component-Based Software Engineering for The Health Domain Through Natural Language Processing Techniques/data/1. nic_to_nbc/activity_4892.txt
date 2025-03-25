@@ -1,0 +1,15 @@
+
+
+
+{
+  "Weight Tracker": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Frequency": {"Type": "options"},
+      "Deadline Date": {"Type": "datetime"},
+      "Weight": {"Type": "numerical value"},
+      "Trend": {"Type": "graphical representation"},
+      "Notes": {"Type": "text"}
+    }
+  }
+}

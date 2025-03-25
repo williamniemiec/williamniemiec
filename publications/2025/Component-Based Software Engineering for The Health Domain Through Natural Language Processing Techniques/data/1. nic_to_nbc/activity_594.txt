@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Airflow Control",
+  "parameters": [
+    {
+      "name": "target_airflow",
+      "description": "target airflow rate"
+    },
+    {
+      "name": "airflow_unit",
+      "description": "unit of airflow measurement"
+    },
+    {
+      "name": "monitoring_frequency",
+      "description": "how often to monitor the airflow"
+    },
+    {
+      "name": "alert_threshold",
+      "description": "airflow threshold for alerting"
+    }
+  ]
+}

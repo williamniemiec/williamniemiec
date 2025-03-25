@@ -1,0 +1,27 @@
+
+
+
+{
+  "Vital Signs Tracker": {
+    "Parameters": {
+      "Vital Sign Type": {
+        "Type": "options",
+        "Options": ["bloodPressure", "heartRate", "temperature", "respiratoryRate", "oxygenSaturation"]
+      },
+      "Unit": {
+        "Type": "options",
+        "Options": ["mmHg", "bpm", "celsius", "fahrenheit"]
+      },
+      "Value": {
+        "Type": "number"
+      },
+      "Frequency": {
+        "Type": "options",
+        "Options": ["daily", "everyHours", "everyDays"]
+      },
+      "Deadline Date": {
+        "Type": "datetime"
+      }
+    }
+  }
+}

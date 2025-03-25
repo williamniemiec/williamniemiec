@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Soothing Voice",
+    "parameters": [
+        { 
+            "name": "Voice Tone", 
+            "description": "A parameter that specifies the tone of the voice (e.g., calm, gentle, soothing).",
+            "type": "text or HTML"
+        },
+        { 
+            "name": "Rhythm", 
+            "description": "A parameter that specifies the rhythm of the voice (e.g., slow, steady, hypnotic).",
+            "type": "text or HTML"
+        },
+        { 
+            "name": "Pitch", 
+            "description": "A parameter that specifies the pitch of the voice (e.g., low, medium, high).",
+            "type": "text or HTML"
+        },
+        { 
+            "name": "Volume", 
+            "description": "A parameter that specifies the volume of the voice (e.g., soft, medium, loud).",
+            "type": "text or HTML"
+        }
+    ]
+}

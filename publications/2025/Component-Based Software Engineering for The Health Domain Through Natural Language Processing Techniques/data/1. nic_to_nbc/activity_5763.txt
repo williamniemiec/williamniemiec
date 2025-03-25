@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Community Mission": {
+    "Parameters": {
+      "Mission Statement": {"Type": "text"},
+      "Call to Action": {"Type": "text"},
+      "Resources": {"Type": "list of URLs or file uploads"},
+      "Discussion Forum": {"Type": "forum or comment section"},
+      "Goal Tracking": {"Type": "progress bar or checklist"}
+    }
+  }
+}

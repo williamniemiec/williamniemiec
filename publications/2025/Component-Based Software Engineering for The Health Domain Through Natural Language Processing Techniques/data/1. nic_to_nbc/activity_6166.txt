@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "noCodeElementName": "Sensory Modulation",
+  "parameters": {
+    "Stimuli Type": {"type": "options"},
+    "Modulation Level": {"type": "options"},
+    "Frequency": {"type": "options"},
+    "Customization": {"type": "text or slider"}
+  }
+}

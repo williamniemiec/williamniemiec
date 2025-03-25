@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Content Tailoring": {
+    "parameters": {
+      "Patient Abilities": {"type": "text or categorical"},
+      "Content Complexity": {"type": "categorical"},
+      "Content Format": {"type": "categorical"},
+      "Tailoring Criteria": {"type": "conditional logic"},
+      "Tailored Content": {"type": "text or multimedia"}
+    }
+  }
+}

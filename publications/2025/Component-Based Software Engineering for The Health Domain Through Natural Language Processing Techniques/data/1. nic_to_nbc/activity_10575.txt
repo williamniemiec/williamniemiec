@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Airway Check": {
+    "Parameters": {
+      "Instructions": {"Type": "text"},
+      "Frequency": {"Type": "options", "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"Type": "datetime"},
+      "Confirmation": {"Type": "boolean"},
+      "Notes": {"Type": "text"}
+    }
+  }
+}

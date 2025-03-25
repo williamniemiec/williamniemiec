@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+  "Dietary Guidance": {
+    "Food Categories": [
+      {"Gas-Forming Foods": {"type": "unordered list"}},
+      {"Spicy Foods": {"type": "unordered list"}}
+    ],
+    "Food Substitutions": [
+      {"Low-FODMAP Foods": {"type": "unordered list"}},
+      {"Mild Seasonings": {"type": "unordered list"}}
+    ],
+    "Meal Planning": [
+      {"Recipe Suggestions": {"type": "text or links to recipes"}},
+      {"Meal Planning Tips": {"type": "text or video content"}}
+    ],
+    "Progress Tracking": [
+      {"Food Diary": {"type": "table or chart"}},
+      {"Symptom Tracking": {"type": "text or numerical value"}}
+    ]
+  }
+}

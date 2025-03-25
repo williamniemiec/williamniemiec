@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Fluid Recommendation": {
+        "parameters": [
+            {"Name": {"type": "text"}},
+            {"Fluid Type": {"type": "options", "options": ["water", "clear broth", "electrolyte-rich beverages (e.g. sports drinks)", "other"]}},
+            {"Instructions": {"type": "text"}},
+            {"Tips": {"type": "text"}}
+        ]
+    }
+}

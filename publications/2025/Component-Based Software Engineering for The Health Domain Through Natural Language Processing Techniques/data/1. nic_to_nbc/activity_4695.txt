@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+  "FAQ": {
+    "parameters": {
+      "name": "",
+      "questions": [
+        {
+          "question": "",
+          "answer": ""
+        }
+      ],
+      "category": ""
+    }
+  },
+  "Guide": {
+    "parameters": {
+      "name": "",
+      "pages": [
+        {
+          "page": ""
+        }
+      ]
+    }
+  }
+}

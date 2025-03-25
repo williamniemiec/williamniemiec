@@ -1,0 +1,10 @@
+Here is the output in JSON format:
+
+
+{
+  "Cast Care Instructions": {
+    "parameters": [
+      {"name": "content", "description": "Educational content about cast care", "required": true}
+    ]
+  }
+}

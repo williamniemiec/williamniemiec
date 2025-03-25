@@ -1,0 +1,15 @@
+
+
+
+{
+  "Nontraditional Communication": {
+    "parameters": [
+      {"communication_forms": "A parameter that specifies the nontraditional expressive forms of communication to be recognized and responded to"},
+      {"recognition_strategies": "A parameter that specifies the strategies for recognizing nontraditional expressive forms of communication"},
+      {"response_strategies": "A parameter that specifies the strategies for responding to nontraditional expressive forms of communication"},
+      {"frequency": "A parameter that specifies how often the nontraditional communication task should be repeated"},
+      {"deadline_date": "A parameter that specifies the due date for the nontraditional communication task"},
+      {"notes": "A parameter that allows the patient to add any additional notes or comments about the nontraditional communication task"}
+    ]
+  }
+}

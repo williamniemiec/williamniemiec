@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Transportation Arranger": {
+        "Parameters": [
+            {"Transportation Options": {"Type": "list", "Options": ["public transportation", "ride-sharing services", "volunteer drivers", "etc."]}},
+            {"Appointment Schedule": {"Type": "calendar", "Fields": ["date", "time", "location", "etc."]}},
+            {"Pickup and Drop-off": {"Type": "form", "Fields": ["pickup location", "pickup time", "drop-off location", "drop-off time", "etc."]}},
+            {"Transportation Requests": {"Type": "request", "Fields": ["transportation type", "appointment date and time", "pickup and drop-off locations", "etc."]}},
+            {"Transportation Status": {"Type": "notification", "Options": ["email", "SMS", "in-app notification"]}}
+        ]
+    }
+}

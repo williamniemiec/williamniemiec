@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Evaluation Plan": {
+    "Parameters": {
+      "Evaluation Criteria": {},
+      "Evaluation Methods": {},
+      "Evaluation Schedule": {},
+      "Data Collection": {},
+      "Analysis and Interpretation": {},
+      "Notes": {}
+    }
+  }
+}

@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Suction Schedule": {
+    "parameters": {
+      "name": "Suction Schedule",
+      "description": "compress the system to provide suction at regular time intervals",
+      "content_type": ["schedule", "timer"],
+      "interval": "",
+      "duration": "",
+      "reminders": "",
+      "institutional_policy": ""
+    }
+  }
+}

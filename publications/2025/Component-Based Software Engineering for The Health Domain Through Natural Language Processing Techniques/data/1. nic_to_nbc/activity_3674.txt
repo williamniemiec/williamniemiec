@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+    "Intimacy Guidance": {
+        "Parameters": {
+            "Title": {"Type": "text"},
+            "Methods": {"Type": "list of options or checkboxes"},
+            "Guidance": {"Type": "rich text or multimedia"},
+            "Resources": {"Type": "list of URLs or file attachments"},
+            "Tips": {"Type": "list of text or rich text"}
+        }
+    }
+}
+
+
+Let me know if this is what you were expecting!

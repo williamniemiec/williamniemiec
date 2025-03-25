@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Maintain Privacy and Confidentiality",
+    "parameters": [
+        { 
+            "name": "Privacy Measures", 
+            "description": "A parameter that specifies the measures to take to maintain privacy.",
+            "type": "checklist"
+        },
+        { 
+            "name": "Confidentiality Agreements", 
+            "description": "A parameter that specifies the confidentiality agreements to put in place.",
+            "type": "checklist"
+        },
+        { 
+            "name": "Frequency", 
+            "description": "A parameter that specifies how often to review and update privacy and confidentiality measures.",
+            "type": "options"
+        },
+        { 
+            "name": "Deadline Date", 
+            "description": "A parameter that specifies the due date for reviewing and updating privacy and confidentiality measures.",
+            "type": "datetime"
+        }
+    ]
+}

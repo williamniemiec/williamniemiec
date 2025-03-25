@@ -1,0 +1,40 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Procedure Guidance",
+  "parameters": [
+    {
+      "name": "Title",
+      "type": "text"
+    },
+    {
+      "name": "Description",
+      "type": "text"
+    },
+    {
+      "name": "Procedure",
+      "type": "text"
+    },
+    {
+      "name": "Technique",
+      "type": "text"
+    },
+    {
+      "name": "Manufacturer's Instructions",
+      "type": "text"
+    },
+    {
+      "name": "Agency Protocol",
+      "type": "text"
+    },
+    {
+      "name": "Step-by-Step Instructions",
+      "type": "text"
+    },
+    {
+      "name": "Image/Video",
+      "type": "image" or "video"
+    }
+  ]
+}

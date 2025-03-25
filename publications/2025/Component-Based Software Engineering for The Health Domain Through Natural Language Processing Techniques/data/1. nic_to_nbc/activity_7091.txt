@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "Coping Difficulty Assessment": {
+    "Parameters": {
+      "Coping Difficulties": {
+        "Type": "list of text"
+      },
+      "Frequency of Difficulty": {
+        "Type": "list of text"
+      },
+      "Impact on Daily Life": {
+        "Type": "list of text"
+      },
+      "Triggers": {
+        "Type": "list of text"
+      },
+      "Support Needed": {
+        "Type": "list of text"
+      }
+    }
+  }
+}

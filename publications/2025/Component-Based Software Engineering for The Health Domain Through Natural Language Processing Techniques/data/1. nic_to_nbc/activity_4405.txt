@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Lab Notification": {
+    "parameters": {
+      "Name": {"type": "text"},
+      "Notification Method": {"type": "options"},
+      "Lab Contact Info": {"type": "text"},
+      "Reaction Details": {"type": "text"},
+      "Urgency Level": {"type": "options"},
+      "Notification Status": {"type": "options"}
+    }
+  }
+}
+
+
+Let me know if this meets your requirements!

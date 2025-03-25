@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Risk Estimation": {
+    "parameters": [
+      {"Phenotype": {}},
+      {"Family History": {}},
+      {"Calculated Risk Information": {}},
+      {"Genotype": {}},
+      {"Risk Estimate": {}}
+    ]
+  }
+}

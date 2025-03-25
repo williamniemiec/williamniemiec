@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+    "Vital Sign Tracking": {
+        "vital_signs": {"type": "list of text"},
+        "measurement_frequency": {"type": "options"},
+        "measurement_unit": {"type": "list of text"},
+        "normal_range": {"type": "list of text"},
+        "alert_threshold": {"type": "list of text"}
+    },
+    "Physical Assessment": {
+        "assessment_questions": {"type": "list of text"},
+        "assessment_frequency": {"type": "options"},
+        "assessment_results": {"type": "list of text"}
+    },
+    "Symptom Reporting": {
+        "symptom_list": {"type": "list of text"},
+        "reporting_frequency": {"type": "options"},
+        "reporting_results": {"type": "list of text"}
+    }
+}
+
+Let me know if you need any further assistance!

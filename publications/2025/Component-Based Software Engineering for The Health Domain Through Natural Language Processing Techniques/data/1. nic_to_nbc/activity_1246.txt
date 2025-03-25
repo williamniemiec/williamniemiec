@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Decision-Making Assessment": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Description": {"Type": "text"},
+      "Scenarios": {"Type": "list of text"},
+      "Questions": {"Type": "list of text"}
+    }
+  }
+}

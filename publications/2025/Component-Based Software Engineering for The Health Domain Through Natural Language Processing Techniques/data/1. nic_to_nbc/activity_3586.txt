@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Task Reminder": {
+    "parameters": ["name", "task description", "frequency", "deadline_date"]
+  },
+  "Procedure Guide": {
+    "parameters": ["name", "instructions", "images"]
+  }
+}

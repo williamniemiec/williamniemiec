@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+    "Medication Prophylaxis": {
+        "parameters": [
+            {"name": "medication_name"},
+            {"name": "condition"},
+            {"name": "dosage"},
+            {"name": "frequency"},
+            {"name": "deadline_date"},
+            {"name": "rationale"}
+        ]
+    }
+}

@@ -1,0 +1,46 @@
+Here is the output in JSON format:
+
+
+{
+    "sensory_exercise": {
+        "parameters": [
+            { 
+                "name": "sense", 
+                "description": "select a sense to focus on", 
+                "required": true, 
+                "type": "options",
+                "options": [
+                    { value: "smell", label: "Smell" },
+                    { value: "taste", label: "Taste" },
+                    { value: "touch", label: "Touch" },
+                    { value: "hearing", label: "Hearing" }
+                ]
+            },
+            { 
+                "name": "activity", 
+                "description": "select an activity to enhance the selected sense", 
+                "required": true, 
+                "type": "options",
+                "options": [
+                    { value: "savor_food", label: "Savor a meal" },
+                    { value: "explore_textures", label: "Explore different textures" },
+                    { value: "listen_to_music", label: "Listen to calming music" },
+                    { value: "smell_essential_oils", label: "Smell essential oils" }
+                ]
+            },
+            { 
+                "name": "frequency", 
+                "description": "specify how often to perform this exercise", 
+                "required": true, 
+                "type": "options",
+                "options": [
+                    { value: "daily", label: "Daily" },
+                    { value: "everyOtherDay", label: "Every other day" },
+                    { value: "weekly", label: "Weekly" }
+                ]
+            }
+        ]
+    }
+}
+
+Let me know if this is what you were expecting!

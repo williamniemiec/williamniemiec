@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Cognitive Accommodation": {
+    "parameters": {
+      "Cognitive Assessment": {"type": ["options", "cognitive assessment tools"]},
+      "Communication Style": {"type": "options"},
+      "Task Simplification": {"type": "options"},
+      "Visual Aids": {"type": "options"},
+      "Feedback Mechanism": {"type": "options"}
+    }
+  }
+}

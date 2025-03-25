@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Management": {
+    "Parameters": {
+      "Medication List": {"Type": "unordered list"},
+      "Medication Instructions": {"Type": "text"},
+      "Medication Adjustments": {"Type": "text"},
+      "Medication Discontinuation": {"Type": "text"},
+      "Frequency": {"Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"Type": "datetime"}
+    }
+  }
+}

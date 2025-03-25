@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Guide": {
+    "Content": {"Type": "text or HTML"},
+    "Format": {"Type": "options (list of available formats)"}
+  },
+  "Notification": {
+    "Message": {"Type": "text"},
+    "Recipients": {"Type": "list of recipients"},
+    "Timing": {"Type": "datetime or relative time"}
+  }
+}

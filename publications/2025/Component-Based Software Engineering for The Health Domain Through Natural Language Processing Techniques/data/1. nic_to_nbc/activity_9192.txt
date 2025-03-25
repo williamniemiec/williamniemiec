@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Rhythm Tracker": {
+    "Parameters": {
+      "Heart Rhythm": {},
+      "Rhythm Description": {},
+      "Symptoms": {},
+      "Date": {},
+      "Time": {},
+      "Frequency": {},
+      "Deadline Date": {}
+    }
+  }
+}

@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Emotional Support Chat": {
+    "title": {"type": "text"},
+    "introduction": {"type": "text"},
+    "chat_interface": {"type": "chat interface (with text input fields and response display)"},
+    "emotional_support_specialist": {"type": "integration with a chatbot or human support specialist"},
+    "resource_library": {"type": "list of URLs or multimedia content"},
+    "follow_up": {"type": "scheduling interface (with date and time options)"}
+  }
+}

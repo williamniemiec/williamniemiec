@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Abbreviation Clarifier",
+    "parameters": [
+        {
+            "name": "abbreviations",
+            "description": "List of problematic abbreviations"
+        },
+        {
+            "name": "spell_out",
+            "description": "Spelled-out version of each abbreviation"
+        }
+    ]
+}

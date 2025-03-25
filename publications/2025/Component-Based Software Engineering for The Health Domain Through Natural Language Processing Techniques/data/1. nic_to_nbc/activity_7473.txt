@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Caregiver Assistance": {
+    "parameters": {
+      "Caregiver Role": {},
+      "Assistance Tasks": {},
+      "Frequency of Assistance": {}
+    }
+  }
+}
+
+
+I removed all non-applicable parameters, including `Deadline Date` and `Notes`, as they are not required. Let me know if you have any further questions!

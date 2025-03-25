@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Contract Distribution": {
+    "parameters": {
+      "Contract/Agreement": {"type": "text"},
+      "Individual": {"type": "text"},
+      "Distribution Method": {"type": "options", "options": ["email", "print", "digital download"]},
+      "Confirmation": {"type": "boolean"},
+      "Date Distributed": {"type": "datetime"}
+    }
+  }
+}

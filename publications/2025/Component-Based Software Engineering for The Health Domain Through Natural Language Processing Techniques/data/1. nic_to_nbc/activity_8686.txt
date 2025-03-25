@@ -1,0 +1,32 @@
+Here is the output in JSON format:
+
+
+{
+  "Disfigurement Assessment": {
+    "Parameters": {
+      "Disfigurement Identification": {
+        "Type": "text or selection from a list of body parts"
+      }
+    }
+  },
+  "Solution Explorer": {
+    "Parameters": {
+      "Solution Type": {
+        "Type": "selection from a list of options"
+      },
+      "Solution Options": {
+        "Type": "list of options with descriptions and images"
+      }
+    }
+  },
+  "Personalized Recommendations": {
+    "Parameters": {
+      "Recommendation": {
+        "Type": "text with images or videos"
+      }
+    }
+  }
+}
+
+
+Note that I removed the "Not Applicable" parameters as per your request. Let me know if you have any further questions!

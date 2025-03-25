@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Sibling Feelings": {
+    "Parameters": {
+      "Question": {"Type": "text"},
+      "Emotion Options": {"Type": "options", "Options": ["angry", "sad", "frustrated", "worried", "guilty", "other"]},
+      "Reason": {"Type": "text"},
+      "Frequency": {"Type": "options", "Options": ["daily", "weekly", "monthly", "onlyOnce"]}
+    }
+  }
+}

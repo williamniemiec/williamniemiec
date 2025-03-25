@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+    "Vital Signs": {
+        "Weight": {"Type": "number"},
+        "Vital Signs": {"Type": "options", "Options": ["blood pressure", "heart rate", "..."]},
+        "Frequency": {"Type": "options", "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+        "Deadline Date": {"Type": "datetime"}
+    }
+}

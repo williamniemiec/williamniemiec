@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Task": {
+    "parameters": {
+      "name": "",
+      "instructions": "",
+      "frequency": "",
+      "tracking": ""
+    }
+  },
+  "Guide": {
+    "parameters": {
+      "name": "",
+      "pages": []
+    }
+  }
+}

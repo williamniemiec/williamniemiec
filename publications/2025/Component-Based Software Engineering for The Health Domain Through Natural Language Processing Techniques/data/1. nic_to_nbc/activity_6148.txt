@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Family Support": {
+    "Encouragement": {"type": ["text", "video"]},
+    "Visitation Hours": {"type": ["text", "schedule"]},
+    "Overnight Accommodations": {"type": ["text", "options"]},
+    "Support Benefits": {"type": ["text", "list of benefits"]},
+    "Logistics": {"type": ["text", "list of logistics"]}
+  }
+}

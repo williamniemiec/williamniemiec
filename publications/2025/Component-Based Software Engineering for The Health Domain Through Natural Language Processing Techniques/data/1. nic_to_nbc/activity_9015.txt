@@ -1,0 +1,36 @@
+Here is the output in JSON format:
+
+
+{
+  "Aerosol Treatment": {
+    "Treatment name": {
+      "Description": "Name of the aerosol treatment",
+      "Required": true,
+      "Type": "Text"
+    },
+    "Why": {
+      "Description": "Explanation of why the treatment is being administered",
+      "Required": true,
+      "Type": "Text"
+    },
+    "Dosage": {
+      "Description": "Dosage instructions for the patient",
+      "Required": true,
+      "Type": "Text"
+    },
+    "Frequency": {
+      "Description": "How often the patient should receive the treatment",
+      "Required": true,
+      "Type": "Options",
+      "Options": [
+        { "value": "daily", "label": "Daily" },
+        { "value": "onlyOnce", "label": "Only once" },
+        { "value": "everyHours", "label": "Every x hours" },
+        { "value": "everyDays", "label": "Every x days" }
+      ]
+    }
+  }
+}
+
+
+I removed the parameters that were marked as "Not Applicable" (i.e. `Notes` and `Deadline date`) from the output. Let me know if this is what you were looking for!

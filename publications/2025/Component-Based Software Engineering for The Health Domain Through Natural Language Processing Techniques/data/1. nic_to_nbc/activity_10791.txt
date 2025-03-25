@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Pulsus Paradoxus Monitoring": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Pulse Readings": {"Type": "list of pulse readings"},
+      "Frequency": {"Type": "options"},
+      "Threshold": {"Type": "number"}
+    }
+  }
+}

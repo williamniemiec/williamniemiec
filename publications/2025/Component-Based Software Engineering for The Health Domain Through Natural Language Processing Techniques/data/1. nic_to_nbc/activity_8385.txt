@@ -1,0 +1,49 @@
+Here is the output in JSON format:
+
+
+{
+    "Dry Eye Monitoring": {
+        "Parameters": {
+            "Symptom List": {
+                "Description": "List of signs and symptoms of dry eye to monitor",
+                "Required": true,
+                "Type": "list",
+                "List Items": [
+                    { "value": "redness", "label": "Redness" },
+                    { "value": "burning", "label": "Burning" },
+                    { "value": "itching", "label": "Itching" },
+                    { "value": "drainage", "label": "Drainage" },
+                    { "value": "painAroundEye", "label": "Pain around the eye" },
+                    { "value": "difficultyOpeningEyes", "label": "Difficulty opening eyes on waking and moving lids" },
+                    { "value": "blurredVision", "label": "Blurred vision" }
+                ]
+            },
+            "Frequency": {
+                "Description": "Specify how often the patient should monitor their symptoms",
+                "Required": true,
+                "Type": "options",
+                "Options": [
+                    { "value": "daily", "label": "Daily" },
+                    { "value": "onlyOnce", "label": "Only once" },
+                    { "value": "everyHours", "label": "Every x hours" },
+                    { "value": "everyDays", "label": "Every x days" }
+                ]
+            },
+            "Severity Scale": {
+                "Description": "Provide a severity scale for the patient to rate their symptoms",
+                "Required": false,
+                "Type": "options",
+                "Options": [
+                    { "value": "mild", "label": "Mild" },
+                    { "value": "moderate", "label": "Moderate" },
+                    { "value": "severe", "label": "Severe" }
+                ]
+            },
+            "Action Plan": {
+                "Description": "Provide an action plan for the patient to follow if they experience severe symptoms",
+                "Required": false,
+                "Type": "text"
+            }
+        }
+    }
+}

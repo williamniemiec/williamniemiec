@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Decision Delay": {
+    "Reason for Delay": {"type": "options"},
+    "Information Needed": {"type": "structured data"},
+    "Knowledge Gap": {"type": "text"},
+    "Rapport Building": {"type": "structured data"}
+  }
+}

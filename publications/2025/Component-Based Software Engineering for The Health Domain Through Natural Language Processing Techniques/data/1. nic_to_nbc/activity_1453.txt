@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Vocal Awareness Exercise": {
+    "parameters": {
+      "Audio Clip": {"type": "media (audio)"},
+      "Vocal Aspect": {"type": "options"},
+      "Description": {"type": "text"},
+      "Rating Scale": {"type": "number"},
+      "Reflection Questions": {"type": "list of text"},
+      "Self-Assessment": {"type": "text"}
+    }
+  }
+}

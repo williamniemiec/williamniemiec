@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Reminder": {
+    "Parameters": {
+      "Title": {"Type": "text", "Required": true},
+      "Content": {"Type": "text", "Required": true},
+      "Travel Modes": {"Type": "list of options", "Required": true}
+    }
+  }
+}

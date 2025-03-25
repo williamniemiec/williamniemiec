@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Vital Sign Tracking": {
+    "Parameters": {
+      "Vital Signs": {},
+      "Frequency": {},
+      "Deadline Date": {},
+      "Value": {},
+      "Unit": {}
+    }
+  }
+}
+
+
+Note that I removed the "Notes" parameter as it's not applicable in this context.

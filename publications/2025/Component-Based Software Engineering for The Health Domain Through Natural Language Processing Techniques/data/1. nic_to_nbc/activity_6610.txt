@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Hemodynamic Monitoring": {
+        "CVP": {},
+        "PAP": {},
+        "CO": {},
+        "SVR": {},
+        "Other": {},
+        "Frequency": {"options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+        "Deadline Date": {}
+    }
+}

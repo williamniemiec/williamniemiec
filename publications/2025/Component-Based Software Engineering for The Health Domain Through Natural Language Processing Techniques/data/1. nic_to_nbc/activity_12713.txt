@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Weight Tracker": {
+    "parameters": {
+      "Unit of Measurement": "",
+      "Frequency": ["daily", "weekly", "biweekly", "monthly"],
+      "Target Weight": "",
+      "Weight Entry Method": ["manual entry", "integration with wearable device or scale"]
+    }
+  }
+}

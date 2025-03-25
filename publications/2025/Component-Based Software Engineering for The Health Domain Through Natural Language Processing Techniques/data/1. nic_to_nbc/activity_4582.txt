@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Pain-Based Analgesic Selection": {
+    "parameters": [
+      {"name": "Pain Type", "type": "options"},
+      {"name": "Pain Severity", "type": "number"},
+      {"name": "Analgesic Options", "type": "list"},
+      {"name": "Selection Criteria", "type": "text"},
+      {"name": "Recommended Analgesic", "type": "text"}
+    ]
+  }
+}

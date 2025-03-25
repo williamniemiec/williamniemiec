@@ -1,0 +1,34 @@
+Here is the output in JSON format:
+
+
+{
+  "Memory Activity": {
+    "Activity Type": {
+      "type": "options",
+      "options": [
+        { "value": "religious", "label": "Religious Activity" },
+        { "value": "music", "label": "Music" },
+        { "value": "art", "label": "Art" },
+        { "value": "other", "label": "Other" }
+      ]
+    },
+    "Activity Description": {
+      "type": "text"
+    },
+    "Frequency": {
+      "type": "options",
+      "options": [
+        { "value": "daily", "label": "Daily" },
+        { "value": "onlyOnce", "label": "Only once" },
+        { "value": "everyHours", "label": "Every x hours" },
+        { "value": "everyDays", "label": "Every x days" }
+      ]
+    },
+    "Deadline Date": {
+      "type": "datetime"
+    },
+    "Resources": {
+      "type": "file or URL"
+    }
+  }
+}

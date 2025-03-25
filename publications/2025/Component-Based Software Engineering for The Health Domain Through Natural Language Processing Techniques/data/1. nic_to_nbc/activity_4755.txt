@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Family Support": {
+    "parameters": {
+      "Family Member List": {"type": "list of family member names and relationships"},
+      "Roles and Responsibilities": {"type": "list of roles and responsibilities"},
+      "Communication Channel": {"type": "options (in-app messaging, video conferencing, phone calls, etc.)"},
+      "Care Tasks": {"type": "list of care tasks with instructions and due dates"},
+      "Progress Tracking": {"type": "options (in-app tracking, progress reports, goal setting, etc.)"}
+    }
+  }
+}

@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Injury Prevention Guide": {
+    "Parameters": {
+      "Title": {"Type": "text"},
+      "Content": {"Type": "rich text (with options for formatting, images, and videos)"},
+      "Safety Tips": {"Type": "list (with options for adding, editing, and removing tips)"},
+      "Common Injuries": {"Type": "list (with options for adding, editing, and removing injuries)"},
+      "Prevention Strategies": {"Type": "list (with options for adding, editing, and removing strategies)"},
+      "Quiz": {"Type": "quiz (with options for adding, editing, and removing questions)"}
+    }
+  }
+}

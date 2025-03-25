@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Exercise Program with Journaling": {
+    "Parameters": {
+      "Exercise Program": {
+        "Type": "exercise program details"
+      },
+      "Journaling Prompts": {
+        "Type": "text"
+      },
+      "Frequency": {
+        "Options": ["daily", "everyOtherDay", "everyWeek"]
+      },
+      "Deadline Date": {
+        "Type": "datetime"
+      }
+    }
+  }
+}

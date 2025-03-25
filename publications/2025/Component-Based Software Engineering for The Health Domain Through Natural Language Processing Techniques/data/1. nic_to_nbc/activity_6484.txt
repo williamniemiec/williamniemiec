@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Focus Mode": {
+    "Parameters": {
+      "Name": {"Type": "text", "Required": true},
+      "Duration": {"Type": "duration", "Required": true},
+      "Interruption Types": {"Type": "unordered list", "Required": true},
+      "Reminders": {"Type": "text", "Required": true}
+    }
+  }
+}

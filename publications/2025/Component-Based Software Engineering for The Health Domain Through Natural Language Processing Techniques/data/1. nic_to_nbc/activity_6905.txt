@@ -1,0 +1,45 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Suicide Prevention Plan",
+  "parameters": [
+    {
+      "name": "Risk Level",
+      "type": "options",
+      "options": [
+        { "value": "high", "label": "High" },
+        { "value": "moderate", "label": "Moderate" },
+        { "value": "low", "label": "Low" }
+      ]
+    },
+    {
+      "name": "Precautions",
+      "type": "options",
+      "options": [
+        { "value": "constant observation", "label": "Constant observation" },
+        { "value": "removal of hazardous materials", "label": "Removal of hazardous materials" }
+      ]
+    },
+    {
+      "name": "Interventions",
+      "type": "options",
+      "options": [
+        { "value": "counseling", "label": "Counseling" },
+        { "value": "medication", "label": "Medication" }
+      ]
+    },
+    {
+      "name": "Frequency of Monitoring",
+      "type": "options",
+      "options": [
+        { "value": "daily", "label": "Daily" },
+        { "value": "everyHours", "label": "Every x hours" },
+        { "value": "everyDays", "label": "Every x days" }
+      ]
+    }
+  ]
+}
+
+
+Note: I removed the `description` and `content_type` fields as they were not part of the original task. If you need them, let me know!

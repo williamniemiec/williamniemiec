@@ -1,0 +1,10 @@
+Here is the output in JSON format:
+
+
+{
+  "Emotional Expression": {
+    "Journaling": {"Type": "text"},
+    "Mood Tracking": {"Type": "interactive tool"},
+    "Emotional Support Resources": {"Type": "text or multimedia"}
+  }
+}

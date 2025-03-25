@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Appointment Reminder": {
+    "Parameters": {
+      "Appointment Details": {"Type": "appointment object"},
+      "Reminder Frequency": {"Type": "options"},
+      "Reminder Method": {"Type": "options"}
+    }
+  }
+}

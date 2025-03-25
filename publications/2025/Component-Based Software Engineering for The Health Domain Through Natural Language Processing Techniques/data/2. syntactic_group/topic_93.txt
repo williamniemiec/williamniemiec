@@ -1,0 +1,10 @@
+{
+  "name": "Comfort and Discomfort Assessment",
+  "description": "Assesses the level of comfort and discomfort in patients, focusing on GI discomfort, and provides measures for relief. Uses a scale to assess the level of discomfort.",
+  "type": "periodic",
+  "input": ["Comfort scale", "Discomfort assessment", "GI symptoms", "Relief measures"],
+  "output": ["Comfort and discomfort report", "Relief suggestion feedback", "Discomfort scale results"],
+  "preconditions": ["User is experiencing discomfort or undergoing comfort assessment"],
+  "postconditions": ["Relief measures taken, with ongoing discomfort monitoring"],
+  "dependencies": ["Comfort assessment tools", "GI symptom tracking", "Discomfort scale platform"]
+}

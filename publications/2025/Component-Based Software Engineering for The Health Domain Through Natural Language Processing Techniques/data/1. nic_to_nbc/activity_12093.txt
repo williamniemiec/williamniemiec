@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+  "Psychological Response Assessment": {
+    "parameters": {
+      "name": "",
+      "questions": [],
+      "answer_type": "",
+      "scoring": ""
+    }
+  },
+  "Support System Evaluation": {
+    "parameters": {
+      "name": "",
+      "questions": [],
+      "answer_type": "",
+      "scoring": ""
+    }
+  },
+  "Personalized Recommendations": {
+    "parameters": {
+      "name": "",
+      "content": [],
+      "type": ""
+    }
+  }
+}

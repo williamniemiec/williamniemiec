@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Anger Feedback Tool",
+  "parameters": [
+    {
+      "name": "Behavioral Cues",
+      "type": "list of text"
+    },
+    {
+      "name": "Feedback Messages",
+      "type": "list of text"
+    },
+    {
+      "name": "Self-Assessment Questions",
+      "type": "list of text"
+    },
+    {
+      "name": "Emotion Identification",
+      "type": "list of text"
+    },
+    {
+      "name": "Reflection Prompt",
+      "type": "text"
+    }
+  ]
+}

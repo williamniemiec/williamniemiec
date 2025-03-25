@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Risk Assessment Questionnaire": {
+    "Parameters": {
+      "Name": "title of the questionnaire",
+      "Questions": "list of questions related to maternal-fetal health risks (e.g. medical history, current health status, lifestyle factors)",
+      "Answer type": "type of answer required for each question (e.g. text, checkbox, dropdown)"
+    }
+  }
+}

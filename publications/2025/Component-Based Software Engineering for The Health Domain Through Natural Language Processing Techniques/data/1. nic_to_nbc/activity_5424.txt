@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Functioning Assessor": {
+    "parameters": {
+      "Goal": {"type": "text"},
+      "Functioning Levels": {"type": "options", "options": ["novice", "intermediate", "advanced", "expert"]},
+      "Current Level": {"type": "options", "options": ["novice", "intermediate", "advanced", "expert"]},
+      "Rating Scale": {"type": "options"},
+      "Assessment Questions": {"type": "list"},
+      "Results": {"type": "text"}
+    }
+  }
+}

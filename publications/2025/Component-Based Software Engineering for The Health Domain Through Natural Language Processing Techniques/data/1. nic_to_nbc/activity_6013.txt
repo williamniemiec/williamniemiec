@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Parent Factor Assessment": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Factors": {"Type": "list of factors"},
+      "Assessment Questions": {"Type": "list of questions"},
+      "Response Options": {"Type": "list of response options"},
+      "Frequency": {"Options": ["daily", "weekly", "monthly", "custom"]}
+    }
+  }
+}

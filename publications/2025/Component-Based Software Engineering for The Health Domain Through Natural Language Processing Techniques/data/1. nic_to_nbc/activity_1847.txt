@@ -1,0 +1,44 @@
+Here is the output in JSON format:
+
+
+{
+    "resource_directory": {
+        "parameters": [
+            { 
+                "name": "resources", 
+                "description": "list of available resources", 
+                "required": true, 
+                "type": "list",
+                "resource": [
+                    {
+                        "name": "resource_name",
+                        "description": "resource description",
+                        "type": "text"
+                    },
+                    {
+                        "name": "resource_url",
+                        "description": "resource URL or link",
+                        "type": "url"
+                    },
+                    {
+                        "name": "resource_contact",
+                        "description": "resource contact information",
+                        "type": "text"
+                    }
+                ]
+            },
+            { 
+                "name": "filter_options", 
+                "description": "options to filter resources", 
+                "required": false, 
+                "type": "options",
+                "options": [
+                    { value: "medication_assistance", label: "Medication Assistance" },
+                    { value: "county_relief", label: "County Relief" },
+                    { value: "financial_assistance", label: "Financial Assistance" },
+                    { value: "other", label: "Other" }
+                ]
+            }
+        ]
+    }
+}

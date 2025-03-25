@@ -1,0 +1,39 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Blood Replacement Instruction",
+    "parameters": [
+        { 
+            "name": "Blood Replacement Need", 
+            "type": "text"
+        },
+        { 
+            "name": "Blood Type", 
+            "type": "options",
+            "options": [
+                { value: "A" },
+                { value: "B" },
+                { value: "AB" },
+                { value: "O" }
+            ]
+        },
+        { 
+            "name": "Replacement Options", 
+            "type": "options",
+            "options": [
+                { value: "whole blood" },
+                { value: "packed red blood cells" },
+                { value: "platelets" }
+            ]
+        },
+        { 
+            "name": "Risks and Benefits", 
+            "type": "text"
+        },
+        { 
+            "name": "Follow-up Instructions", 
+            "type": "text"
+        }
+    ]
+}

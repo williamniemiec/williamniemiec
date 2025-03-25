@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Respiratory Monitoring Guidance": {
+    "Parameters": {
+      "Respiration Monitoring Instruction": {
+        "Type": ["text", "video"]
+      }
+    }
+  }
+}

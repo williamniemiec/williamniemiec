@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Allergy Alert": {
+    "Title": {"Description": "title of the allergy alert guidance", "Required": true, "Type": "text"},
+    "Allergenic Foods": {"Description": "list of foods that may cause an allergic response", "Required": true, "Type": "list", "Options": [{"value": "coffee", "label": "Coffee"}, {"value": "cheese", "label": "Cheese"}, {"value": "nuts", "label": "Nuts"}, {"value": "citrusFruits", "label": "Citrus Fruits"}, {"value": "gluten", "label": "Gluten"}, {"value": "potatoes", "label": "Potatoes"}, {"value": "other", "label": "Other (please specify)"}]},
+    "Custom Allergenic Food": {"Description": "allow patient to specify a custom food that causes an allergic response", "Required": false, "Type": "text"},
+    "Reason": {"Description": "brief explanation of why these foods should be avoided due to allergic response", "Required": true, "Type": "text"},
+    "Frequency": {"Description": "specify how often the patient should be reminded to avoid these foods", "Required": true, "Type": "options", "Options": [{"value": "daily", "label": "Daily"}, {"value": "onlyOnce", "label": "Only once"}, {"value": "everyHours", "label": "Every x hours"}, {"value": "everyDays", "label": "Every x days"}]}
+  }
+}
+
+
+I removed the introduction, conclusion, and other non-parameter specifications, and formatted the output as a JSON object with the no-code element name as the top-level key. The parameter specifications are nested under each parameter name.

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Physician Consultation": {
+        "parameters": {
+            "Consultation Reason": {},
+            "Physician Resource": {},
+            "Consultation Method": {},
+            "Consultation Outcome": {},
+            "Action Items": {}
+        }
+    }
+}

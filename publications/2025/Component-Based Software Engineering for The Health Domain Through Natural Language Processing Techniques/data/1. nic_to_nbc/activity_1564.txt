@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+  "Tutorial": {
+    "Name": {"type": "text"},
+    "Steps": {"type": "ordered list", "list items": ["text", "interactive element"]},
+    "Examples": {"type": "unordered list", "list items": ["text", "image"]},
+    "Tips": {"type": "unordered list", "list items": "text"}
+  },
+  "Quiz": {
+    "Name": {"type": "text"},
+    "Questions": {"type": "ordered list", "list items": "text"},
+    "Answers": {"type": "ordered list", "list items": ["text", "multiple choice options"]},
+    "Feedback": {"type": "text"}
+  }
+}
+
+
+Let me know if this is what you were looking for!

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Motivation Assessor": {
+    "parameters": {
+      "name": "",
+      "motivation_scale": "",
+      "motivation_questions": [],
+      "motivation_threshold": "",
+      "feedback_message": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+
+{
+    "Universal Precautions Guide": {
+        "name": "Universal Precautions Guide",
+        "pages": [
+            {"Page 1": "Introduction to universal precautions"},
+            {"Page 2": "Hand hygiene techniques"},
+            {"Page 3": "Personal protective equipment (PPE) usage"},
+            {"Page 4": "Safe handling of needles and sharps"},
+            {"Page 5": "Cleaning and disinfection procedures"}
+        ]
+    }
+}

@@ -1,0 +1,41 @@
+Here is the output in JSON format:
+
+
+{
+  "Competency Assessment": {
+    "parameters": {
+      "name": "title of the competency assessment",
+      "skills": "list of skills to be assessed (e.g., medication administration, wound care)",
+      "criteria": "specifies the criteria for evaluating staff competence (e.g., observation, simulation, written test)"
+    }
+  },
+  "Frequency Determination": {
+    "parameters": {
+      "name": "title of the frequency determination",
+      "skills": "list of skills to be considered (e.g., medication administration, wound care)",
+      "competency levels": "specifies the competency levels required for each skill (e.g., beginner, intermediate, advanced)",
+      "frequency options": "specifies the frequency options for staff development instruction (e.g., quarterly, annually, bi-annually)"
+    }
+  },
+  "Staff Development Plan": {
+    "parameters": {
+      "name": "title of the staff development plan",
+      "staff": "list of staff members to be included in the plan",
+      "skills": "list of skills to be addressed in the plan (e.g., medication administration, wound care)",
+      "frequency": "specifies the frequency of staff development instruction (e.g., quarterly, annually, bi-annually)",
+      "content": "specifies the content of the staff development instruction (e.g., online modules, in-person training, mentoring)"
+    }
+  },
+  "Progress Tracking": {
+    "parameters": {
+      "name": "title of the progress tracking",
+      "staff": "list of staff members to be tracked",
+      "skills": "list of skills to be tracked (e.g., medication administration, wound care)",
+      "competency levels": "specifies the competency levels required for each skill (e.g., beginner, intermediate, advanced)",
+      "progress metrics": "specifies the metrics for tracking progress (e.g., percentage complete, number of modules completed)"
+    }
+  }
+}
+
+
+Let me know if this meets your requirements!

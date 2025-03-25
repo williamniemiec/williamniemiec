@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Visit Log": {
+    "Parameters": {
+      "Visit Date": {"Type": "date"},
+      "Visit Time": {"Type": "time"},
+      "Visit Duration": {"Type": "duration"},
+      "Visitor Information": {
+        "Subparameters": {
+          "Name": {},
+          "Relationship to the patient": {}
+        }
+      },
+      "Notes": {}
+    }
+  }
+}

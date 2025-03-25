@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+  "Symptom Checker": {
+    "Parameters": {
+      "Questions": {
+        "Type": "list of questions with answer options"
+      },
+      "Symptom Categories": {
+        "Options": ["mood", "sleep", "appetite", "energy", "concentration", "other"]
+      },
+      "Threshold": {
+        "Type": "numerical value or percentage"
+      },
+      "Frequency": {
+        "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+      },
+      "Deadline Date": {
+        "Type": "datetime"
+      },
+      "Alert": {
+        "Type": "text or notification template"
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Family Support": {
+    "parameters": {
+      "Support Network": {"type": "contact list or social network integration"},
+      "Communication Tools": {"type": "messaging system or video conferencing tool"},
+      "Education and Resources": {"type": "link or PDF"},
+      "Goal Setting": {"type": "goal-setting tool or task list"},
+      "Progress Tracking": {"type": "journal or log"}
+    }
+  }
+}

@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Memory Problem Discussion": {
+    "parameters": {
+      "Memory Problem Identification": {"type": "text or list of options"},
+      "Discussion Prompt": {"type": "text"},
+      "Family Involvement": {"type": "boolean"},
+      "Memory Aid Suggestions": {"type": "list of text suggestions"}
+    }
+  }
+}

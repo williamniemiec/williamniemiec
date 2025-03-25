@@ -1,0 +1,10 @@
+{
+  "name": "Emergency and Disaster Preparedness",
+  "description": "Manages emergency preparedness, including contact information, shelter availability, first aid protocols, and coordination with police and aid services during disaster situations.",
+  "type": "non-periodic",
+  "input": ["Emergency contact details", "Shelter information", "First aid instructions", "Emergency phone numbers", "Police and aid coordination"],
+  "output": ["Emergency preparedness plan", "Disaster response status", "Shelter availability confirmation"],
+  "preconditions": ["User is preparing for or responding to an emergency or disaster situation"],
+  "postconditions": ["Emergency response plan is activated, and necessary contacts and resources are mobilized"],
+  "dependencies": ["Emergency contact system", "Shelter management platform", "First aid and police coordination tools"]
+}

@@ -1,0 +1,33 @@
+Here is the output in JSON format:
+
+
+{
+  "Pulse Check": {
+    "parameters": [
+      {"name": "pulse_rate", "description": "Enter your pulse rate", "required": true, "type": "number"},
+      {"name": "frequency", "description": "How often should you check your pulse?", "required": true, "type": "options", "options": [{"value": "daily", "label": "Daily"}, {"value": "onlyOnce", "label": "Only once"}, {"value": "everyHours", "label": "Every x hours"}, {"value": "everyDays", "label": "Every x days"}]},
+      {"name": "deadline_date", "description": "When should you check your pulse by?", "required": false, "type": "datetime"}
+    ]
+  },
+  "Edema Check": {
+    "parameters": [
+      {"name": "edema_presence", "description": "Do you have edema?", "required": true, "type": "options", "options": [{"value": "yes", "label": "Yes"}, {"value": "no", "label": "No"}]},
+      {"name": "frequency", "description": "How often should you check for edema?", "required": true, "type": "options", "options": [{"value": "daily", "label": "Daily"}, {"value": "onlyOnce", "label": "Only once"}, {"value": "everyHours", "label": "Every x hours"}, {"value": "everyDays", "label": "Every x days"}]},
+      {"name": "deadline_date", "description": "When should you check for edema by?", "required": false, "type": "datetime"}
+    ]
+  },
+  "Color Check": {
+    "parameters": [
+      {"name": "skin_color", "description": "Enter the color of your skin", "required": true, "type": "options", "options": [{"value": "normal", "label": "Normal"}, {"value": "pale", "label": "Pale"}, {"value": "cyanotic", "label": "Cyanotic"}, {"value": "other", "label": "Other"}]},
+      {"name": "frequency", "description": "How often should you check the color of your skin?", "required": true, "type": "options", "options": [{"value": "daily", "label": "Daily"}, {"value": "onlyOnce", "label": "Only once"}, {"value": "everyHours", "label": "Every x hours"}, {"value": "everyDays", "label": "Every x days"}]},
+      {"name": "deadline_date", "description": "When should you check the color of your skin by?", "required": false, "type": "datetime"}
+    ]
+  },
+  "Temperature Check": {
+    "parameters": [
+      {"name": "skin_temperature", "description": "Enter your skin temperature", "required": true, "type": "number"},
+      {"name": "frequency", "description": "How often should you check your skin temperature?", "required": true, "type": "options", "options": [{"value": "daily", "label": "Daily"}, {"value": "onlyOnce", "label": "Only once"}, {"value": "everyHours", "label": "Every x hours"}, {"value": "everyDays", "label": "Every x days"}]},
+      {"name": "deadline_date", "description": "When should you check your skin temperature by?", "required": false, "type": "datetime"}
+    ]
+  }
+}

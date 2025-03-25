@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+  "Cost Savings Resources": {
+    "parameters": {
+      "name": {"type": "text"},
+      "description": {"type": "text"},
+      "programs": {
+        "type": "list of objects",
+        "properties": {
+          "name": {"type": "text"},
+          "description": {"type": "text"},
+          "url": {"type": "URL"},
+          "contact_info": {"type": "text"}
+        }
+      },
+      "eligibility_criteria": {"type": "text or list of text"},
+      "notes": {"type": "text"}
+    }
+  }
+}

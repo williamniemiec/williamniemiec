@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Insertion Site and Tubing Change": {
+    "Agency Protocol": {"Description": "Specify the agency protocol for changing insertion site and infusion tubing", "Required": true, "Type": "text"},
+    "Insertion Site Change": {"Description": "Indicate if the insertion site has been changed", "Required": true, "Type": "boolean"},
+    "Tubing Change": {"Description": "Indicate if the infusion tubing has been changed", "Required": true, "Type": "boolean"},
+    "Change Date": {"Description": "Record the date of insertion site and infusion tubing change", "Required": true, "Type": "date"}
+  }
+}
+
+
+I removed the `Notes` parameter since it's not required. Let me know if you need anything else!

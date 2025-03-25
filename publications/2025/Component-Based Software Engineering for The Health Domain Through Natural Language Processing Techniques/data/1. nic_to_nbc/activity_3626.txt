@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Impaction Symptom Tracker": {
+    "parameters": [
+      {"Symptom Checklist": "A parameter that specifies the symptoms of impaction to be tracked"},
+      {"Frequency": "A parameter that specifies how often the patient should track their symptoms"},
+      {"Severity Scale": "A parameter that specifies the severity scale to be used to rate the symptoms"},
+      {"Notes": "A parameter that specifies any additional notes or comments about the patient's symptoms"}
+    ]
+  }
+}
+
+
+I removed the `Abdominal Exam` parameter as it is a boolean type and not applicable in this context. Let me know if you need anything else!

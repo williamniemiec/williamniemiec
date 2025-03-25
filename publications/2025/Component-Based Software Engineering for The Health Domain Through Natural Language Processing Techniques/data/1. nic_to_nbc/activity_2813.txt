@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Device Wrapper": {
+    "Parameters": {
+      "Device Type": {"Type": "text"},
+      "Protective Cloth Needed": {"Type": "boolean"},
+      "Wrapping Instructions": {"Type": "text"},
+      "Cloth Options": {"Type": "list of cloth options"}
+    }
+  }
+}
+
+
+Let me know if this meets your requirements!

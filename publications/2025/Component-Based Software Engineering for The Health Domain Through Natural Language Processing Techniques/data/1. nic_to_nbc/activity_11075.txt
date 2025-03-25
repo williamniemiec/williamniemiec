@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Latching Guide": {
+    "Parameters": {
+      "Title": {"Type": "text"},
+      "Instructions": {"Type": "text or video/animation"},
+      "Frequency": {"Options": ["after every feeding", "every 2 hours", "every 4 hours", "etc."]},
+      "Deadline Date": {"Type": "datetime"}
+    }
+  }
+}
+
+
+Let me know if this meets your requirements!

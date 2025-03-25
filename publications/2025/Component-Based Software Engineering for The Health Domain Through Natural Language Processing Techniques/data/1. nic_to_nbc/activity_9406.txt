@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Breastfeeding Guidance": {
+    "Content": {"type": "text or HTML"},
+    "Frequency": {"type": "options"},
+    "Deadline Date": {"type": "datetime"},
+    "Resources": {"type": "list of URLs or PDFs"}
+  }
+}

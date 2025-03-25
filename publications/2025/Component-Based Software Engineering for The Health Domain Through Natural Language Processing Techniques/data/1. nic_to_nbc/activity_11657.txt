@@ -1,0 +1,37 @@
+Here is the output in JSON format:
+
+
+{
+  "Lab Test": {
+    "Parameters": {
+      "Test Name": {
+        "Description": "Name of the lab test",
+        "Required": true,
+        "Type": "text"
+      },
+      "Test Type": {
+        "Description": "Type of lab test",
+        "Required": true,
+        "Type": "options",
+        "Options": [
+          {"value": "Urinalysis", "label": "Urinalysis"},
+          {"value": "Blood Test", "label": "Blood Test"},
+          {"value": "Other", "label": "Other"}
+        ]
+      },
+      "Frequency": {
+        "Description": "Frequency of the lab test",
+        "Required": true,
+        "Type": "options",
+        "Options": [
+          {"value": "every2weeks", "label": "Every 2 weeks"},
+          {"value": "every1month", "label": "Every 1 month"},
+          {"value": "custom", "label": "Custom"}
+        ]
+      }
+    }
+  }
+}
+
+
+I removed the `Deadline Date` parameter since it's not applicable (required is set to false). Let me know if this meets your requirements!

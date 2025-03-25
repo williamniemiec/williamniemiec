@@ -1,0 +1,10 @@
+{
+  "name": "Emotions, Hallucinations, and Mood Reflection Journal",
+  "description": "Focuses on journaling emotional experiences, including mood tracking, hallucination reports, and reflection. Prompts users to answer questions related to their feelings and set deadlines for regular journal entries.",
+  "type": "non-periodic",
+  "input": ["Emotion tracking", "Hallucination reporting", "Mood reflection", "Journal entries", "Deadline setting"],
+  "output": ["Mood report", "Reflection feedback", "Hallucination entry confirmation"],
+  "preconditions": ["User is tracking or reflecting on their emotional state"],
+  "postconditions": ["Improved understanding of emotional health and mental state"],
+  "dependencies": ["Mood tracking tool", "Journal platform", "Reflection prompts"]
+}

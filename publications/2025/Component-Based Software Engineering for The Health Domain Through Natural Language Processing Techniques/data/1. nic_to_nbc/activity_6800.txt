@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Gradual Undressing": {
+    "Undressing Speed": {"options": ["slow", "gentle", "gradual"], "type": "options"},
+    "Conversation Topic": {"description": "Enter a topic of interest to discuss with the patient during undressing (e.g., hobbies, family, etc.)", "type": "text"},
+    "Conversation Style": {"options": ["casual", "friendly", "engaging"], "type": "options"},
+    "Patient Feedback": {"type": "text"},
+    "Notes": {"type": "text"}
+  }
+}

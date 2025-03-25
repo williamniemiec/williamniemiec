@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "Education Module": {
+    "Topic": {
+      "type": "text"
+    },
+    "Content": {
+      "type": ["text", "video", "images", "etc."]
+    },
+    "Format": {
+      "type": ["interactive quiz", "video lecture", "etc."]
+    },
+    "Target Audience": {
+      "type": ["patient", "family member", "caregiver"]
+    },
+    "Assessment": {
+      "type": "boolean"
+    }
+  }
+}
+
+
+Note that I removed the non-applicable parameters, as per your request. Let me know if you need anything else!

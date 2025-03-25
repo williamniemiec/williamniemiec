@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "ECG Tracker": {
+    "name": "",
+    "readings": [],
+    "frequency": "",
+    "deadline_date": ""
+  },
+  "ECG Alert": {
+    "name": "",
+    "alert message": "",
+    "threshold": "",
+    "frequency": "",
+    "deadline_date": ""
+  },
+  "ECG Education": {
+    "name": "",
+    "educational content": [],
+    "frequency": "",
+    "deadline_date": ""
+  }
+}

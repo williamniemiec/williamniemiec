@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+[
+  {
+    "name": "Sterilization Information",
+    "parameters": [
+      {
+        "name": "Procedure Information"
+      },
+      {
+        "name": "Irreversibility Warning"
+      }
+    ]
+  },
+  {
+    "name": "Decision Support",
+    "parameters": [
+      {
+        "name": "Decision Questions"
+      },
+      {
+        "name": "Resource Connection"
+      }
+    ]
+  }
+]

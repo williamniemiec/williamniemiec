@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+    "Environmental Health Resource": {
+        "resource_name": "",
+        "resource_description": "",
+        "environmental_health_topic": "",
+        "advocacy_opportunities": "",
+        "resources": ""
+    }
+}

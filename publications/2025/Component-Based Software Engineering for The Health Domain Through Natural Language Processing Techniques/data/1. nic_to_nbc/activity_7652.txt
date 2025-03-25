@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Business plan development": {
+    "business idea": {},
+    "market analysis": {},
+    "competitive analysis": {},
+    "marketing strategy": {},
+    "financial projections": {},
+    "management team": {},
+    "funding requirements": {},
+    "timeline": {},
+    "resources": {}
+  }
+}

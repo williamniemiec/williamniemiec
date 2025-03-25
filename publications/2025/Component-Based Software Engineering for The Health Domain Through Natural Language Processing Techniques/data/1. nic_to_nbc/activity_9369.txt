@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Measurement Schedule": {
+    "Indicator": {"type": "text"},
+    "Measurement Period": {
+      "Start Date": {"type": "date"},
+      "End Date": {"type": "date"},
+      "Frequency": {
+        "type": "options",
+        "options": ["Daily", "Weekly", "Monthly", "Custom"]
+      },
+      "Custom Frequency": {"type": "text"}
+    }
+  }
+}

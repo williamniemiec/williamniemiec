@@ -1,0 +1,10 @@
+{
+  "name": "Emotional Expression and Mood Tracking",
+  "description": "Tracks and analyzes emotional states, mood intensity, and emotional expression through prompts and reflections.",
+  "type": "non-periodic",
+  "input": ["Emotion type", "Mood intensity", "Reflection prompts", "Feeling identification"],
+  "output": ["Mood tracking report", "Emotional trend analysis", "Reflection insights"],
+  "preconditions": ["User logs or expresses emotional state"],
+  "postconditions": ["Emotional data is recorded and analyzed"],
+  "dependencies": ["Mood tracking system", "Emotion analysis tools", "Reflection prompt database"]
+}

@@ -1,0 +1,39 @@
+Here is the output in JSON format:
+
+
+{
+  "Toileting Reminder": {
+    "Interval": {
+      "type": "options",
+      "options": [
+        { "value": "1hour", "label": "Every 1 hour" },
+        { "value": "2hours", "label": "Every 2 hours" },
+        { "value": "3hours", "label": "Every 3 hours" },
+        { "value": "custom", "label": "Custom interval" }
+      ]
+    },
+    "Custom Interval": {
+      "type": "text"
+    },
+    "Start Time": {
+      "type": "datetime"
+    },
+    "Frequency": {
+      "type": "options",
+      "options": [
+        { "value": "daily", "label": "Daily" },
+        { "value": "onlyOnce", "label": "Only once" },
+        { "value": "everyHours", "label": "Every x hours" },
+        { "value": "everyDays", "label": "Every x days" }
+      ]
+    },
+    "Reminder Type": {
+      "type": "options",
+      "options": [
+        { "value": "notification", "label": "Notification" },
+        { "value": "alarm", "label": "Alarm" },
+        { "value": "message", "label": "Message" }
+      ]
+    }
+  }
+}

@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+    "Sugar Substitute Guide": {
+        "Sugar Substitute Options": {
+            "type": "options",
+            "options": ["stevia", "sucralose", "aspartame", "etc."]
+        },
+        "Usage Guidelines": {
+            "type": "text"
+        },
+        "Benefits": {
+            "type": "text"
+        },
+        "Conversion Chart": {
+            "type": "text"
+        },
+        "Recipe Suggestions": {
+            "type": "text"
+        },
+        "Tracking": {
+            "type": "boolean"
+        }
+    }
+}

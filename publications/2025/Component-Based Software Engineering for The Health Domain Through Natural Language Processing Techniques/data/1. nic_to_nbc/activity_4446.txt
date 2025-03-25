@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Education": {
+    "Parameters": {
+      "Title": {"Type": "text"},
+      "Content": {"Type": "text or rich text"},
+      "Techniques": {"Type": "options"},
+      "Additional Resources": {"Type": "text or URL"}
+    }
+  }
+}
+
+
+Let me know if this meets your requirements!

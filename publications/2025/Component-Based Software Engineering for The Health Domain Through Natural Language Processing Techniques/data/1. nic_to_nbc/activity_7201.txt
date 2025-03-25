@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Personal Protective Equipment (PPE)": {
+    "parameters": {
+      "equipment": {},
+      "purpose": {},
+      "steps": {}
+    }
+  }
+}

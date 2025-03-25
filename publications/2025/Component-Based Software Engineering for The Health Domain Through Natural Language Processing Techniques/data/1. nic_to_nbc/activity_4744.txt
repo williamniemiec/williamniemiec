@@ -1,0 +1,43 @@
+Here is the output in JSON format:
+
+
+{
+  "Pain Control": {
+    "Parameters": {
+      "Pain Level": {
+        "Type": "options",
+        "Options": [
+          { "value": "mild", "label": "Mild" },
+          { "value": "moderate", "label": "Moderate" },
+          { "value": "severe", "label": "Severe" }
+        ]
+      },
+      "Pain Control Measures": {
+        "Type": "list",
+        "Required": true,
+        "Items": [
+          {
+            "name": "measure name",
+            "description": "measure description",
+            "type": "options",
+            "options": [
+              { "value": "medication", "label": "Medication" },
+              { "value": "relaxation", "label": "Relaxation techniques" },
+              { "value": "ice", "label": "Ice application" },
+              { "value": "heat", "label": "Heat application" },
+              { "value": "other", "label": "Other (specify)" }
+            ]
+          }
+        ]
+      },
+      "Timing": {
+        "Type": "options",
+        "Options": [
+          { "value": "beforeExercise", "label": "Before exercise" },
+          { "value": "duringExercise", "label": "During exercise" },
+          { "value": "afterExercise", "label": "After exercise" }
+        ]
+      }
+    }
+  }
+}

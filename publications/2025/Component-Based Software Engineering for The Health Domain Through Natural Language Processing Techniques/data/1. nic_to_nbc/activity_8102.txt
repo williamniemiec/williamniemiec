@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+    "Driving Restriction": {
+        "Restriction Period": {
+            "Type": "range"
+        },
+        "Trigger Event": {
+            "Type": "text"
+        },
+        "Permission Criteria": {
+            "Type": "text"
+        },
+        "Alternative Transportation": {
+            "Type": "text"
+        },
+        "Reminder": {
+            "Type": "boolean"
+        }
+    }
+}

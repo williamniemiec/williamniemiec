@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Conversation": {
+    "Parameters": {
+      "Topic": {"Type": "text"},
+      "Role": {"Type": "options"},
+      "Questions": {"Type": "list of text"},
+      "Notes": {"Type": "text"},
+      "Schedule": {"Type": "options"}
+    }
+  }
+}
+
+
+Note that I removed the not applicable parameters, which are `Video/Audio` and `Transcript`, as they were listed under advanced features. If you want to include them, let me know!

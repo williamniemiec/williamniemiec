@@ -1,0 +1,15 @@
+
+
+
+{
+    "Bowel Movement Tracker": {
+        "parameters": [
+            {"Frequency": {}},
+            {"Consistency": {}},
+            {"Shape": {}},
+            {"Volume": {}},
+            {"Color": {}},
+            {"Notes": {}}
+        ]
+    }
+}

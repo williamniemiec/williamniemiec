@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Pacifier Selection": {
+    "parameters": {
+      "Pacifier Type": null,
+      "Airway Obstruction Prevention": null
+    }
+  }
+}

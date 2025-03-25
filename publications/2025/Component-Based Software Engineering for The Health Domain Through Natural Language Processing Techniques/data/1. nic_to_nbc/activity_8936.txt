@@ -1,0 +1,34 @@
+Here is the output in JSON format:
+
+
+{
+    "IPC Device Application": {
+        "Parameters": {
+            "Application Status": ["Yes", "No"],
+            "IPC Device Type": ["Stockings", "Sleeves"],
+            "IPC Device Size": "numeric value",
+            "IPC Device Pressure Level": "numeric value",
+            "Adherence Status": ["Adherent", "Non-adherent"],
+            "Reasons for Non-Adherence": ["Forgot", "Difficulty with application", "Other (free text)"]
+        }
+    },
+    "IPC Device Guidance": {
+        "Parameters": {
+            "Application Instructions": "text",
+            "Application Images": "list of images",
+            "Application Videos": "list of videos"
+        }
+    },
+    "IPC Device Reminders": {
+        "Parameters": {
+            "Reminder Frequency": ["Once daily", "Twice daily", "Three times daily", "Other (free text)"],
+            "Reminder Time": "datetime"
+        }
+    },
+    "IPC Device Monitoring": {
+        "Parameters": {
+            "Issues or Concerns": ["Skin irritation", "Discomfort", "Difficulty with application", "Other (free text)"],
+            "Severity": ["Mild", "Moderate", "Severe"]
+        }
+    }
+}

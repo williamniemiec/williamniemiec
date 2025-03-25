@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Expiration Tracker": {
+    "Parameters": {
+      "Medications": {
+        "Description": "list of medications with expiration date",
+        "Required": true,
+        "Type": "list of text"
+      },
+      "Expiration Date": {
+        "Description": "expiration date of the medication",
+        "Required": true,
+        "Type": "datetime"
+      }
+    }
+  }
+}
+
+
+Let me know if this is what you were looking for!

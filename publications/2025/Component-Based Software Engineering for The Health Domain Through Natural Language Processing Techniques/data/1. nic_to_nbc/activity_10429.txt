@@ -1,0 +1,30 @@
+Here is the output in JSON format:
+
+
+{
+  "Education Module": {
+    "Risk Factors List": {
+      "type": "checklist or accordion list"
+    },
+    "Description": {
+      "type": "text"
+    },
+    "Visual Aids": {
+      "type": "multimedia"
+    },
+    "Quiz": {
+      "type": "multiple-choice questions"
+    }
+  },
+  "Risk Factor Assessment": {
+    "Risk Factor Questions": {
+      "type": "multiple-choice questions or yes/no questions"
+    },
+    "Scoring": {
+      "type": "numerical value or risk level (e.g., low, moderate, high)"
+    },
+    "Recommendations": {
+      "type": "text or list"
+    }
+  }
+}

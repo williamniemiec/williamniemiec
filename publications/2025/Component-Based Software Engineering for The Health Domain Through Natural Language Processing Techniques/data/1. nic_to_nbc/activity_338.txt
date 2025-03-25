@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+
+{
+  "Fever Treatment": {
+    "parameters": {
+      "name": "",
+      "instructions": "",
+      "medication": "",
+      "temperature_threshold": "",
+      "frequency": "",
+      "deadline_date": ""
+    }
+  }
+}

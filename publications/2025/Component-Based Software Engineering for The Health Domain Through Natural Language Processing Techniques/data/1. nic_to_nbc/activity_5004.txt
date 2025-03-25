@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+    "Skin Inspection": {
+        "Inspection Result": {"type": "options"},
+        "Injury Location": {"type": "text"},
+        "Injury Description": {"type": "text"},
+        "Additional Actions": {"type": "text"}
+    }
+}

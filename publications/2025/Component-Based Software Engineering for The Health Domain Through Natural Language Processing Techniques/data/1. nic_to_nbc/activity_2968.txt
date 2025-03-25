@@ -1,0 +1,32 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Food Guidance",
+  "parameters": [
+    {
+      "name": "Title",
+      "type": "text"
+    },
+    {
+      "name": "Content",
+      "type": "text"
+    },
+    {
+      "name": "Food Types",
+      "type": "list",
+      "options": [
+        { value: "fruits", label: "Fruits" },
+        { value: "vegetables", label: "Vegetables" },
+        { value: "meats", label: "Meats" },
+        { value: "cereals", label: "Cereals" }
+      ]
+    },
+    {
+      "name": "Image",
+      "type": "image"
+    }
+  ]
+}
+
+Note that I removed the `description` fields and the `required` flags, as they were not specified in the original instructions.

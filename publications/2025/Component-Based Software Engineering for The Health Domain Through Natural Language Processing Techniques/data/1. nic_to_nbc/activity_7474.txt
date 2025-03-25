@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+    "Medication Response Tracker": {
+        "Parameters": {
+            "Medication Change": {"Type": "text"},
+            "Response": {"Type": "options"},
+            "Symptoms": {"Type": "checklist"},
+            "Frequency": {"Type": "options"},
+            "Deadline Date": {"Type": "datetime"},
+            "Notes": {"Type": "text"}
+        }
+    }
+}

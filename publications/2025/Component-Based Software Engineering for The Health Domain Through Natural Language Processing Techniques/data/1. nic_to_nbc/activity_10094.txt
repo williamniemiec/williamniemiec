@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Shock Preparation": [
+    {"name": "chest compressions stopped", "description": "indicate when chest compressions are stopped", "required": true, "type": "boolean"},
+    {"name": "shock indication", "description": "indicate if a shock is required", "required": true, "type": "boolean"},
+    {"name": "interval goal", "description": "specify the target interval between stopping chest compressions and delivering a shock", "required": true, "type": "number"},
+    {"name": "timer", "description": "start a timer to track the interval", "required": true, "type": "timer"}
+  ]
+}

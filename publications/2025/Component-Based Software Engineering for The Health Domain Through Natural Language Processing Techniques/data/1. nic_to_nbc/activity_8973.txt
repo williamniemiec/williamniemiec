@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Safety Risk Assessment": {
+    "Parameters": {
+      "Assessment Questions": {"Type": "list of questions"},
+      "Risk Threshold": {"Type": "number"},
+      "Intervention Protocol": {"Type": "text"},
+      "Frequency": {"Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"Type": "datetime"},
+      "Escalation Protocol": {"Type": "text"}
+    }
+  }
+}
+
+
+Note that I removed the "Mood Tracker" and "Emotional State Assessment" elements as they are not part of the original no-code element description. Also, I didn't include any parameters that were marked as "Not Applicable".

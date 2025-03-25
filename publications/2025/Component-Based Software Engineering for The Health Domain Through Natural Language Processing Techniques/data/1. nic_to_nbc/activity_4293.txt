@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Position Guide": {
+    "Parameters": {
+      "Position Options": {},
+      "Description": {},
+      "Images/Videos": {}
+    }
+  }
+}

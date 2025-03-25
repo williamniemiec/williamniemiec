@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Environmental Exposure Control": {
+    "Exposure Risk Assessment": {
+      "Type": "options",
+      "Options": ["high", "moderate", "low"]
+    },
+    "Environmental Monitoring": {
+      "Type": "checklist",
+      "Options": ["window open", "door open", "air conditioning on", "etc."]
+    },
+    "Preventive Measures": {
+      "Type": "options",
+      "Options": ["close window", "close door", "adjust thermostat", "etc."]
+    }
+  }
+}

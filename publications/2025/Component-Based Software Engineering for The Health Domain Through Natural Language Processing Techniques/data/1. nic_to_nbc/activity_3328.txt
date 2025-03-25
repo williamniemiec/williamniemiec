@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Personal Reflection Guide": {
+    "Parameters": {
+      "Title": {"Type": "text"},
+      "Reflection Questions": {"Type": "list of reflection questions question (e.g., text)"},
+      "Question Categories": {"Type": "list of question categories (e.g., text)"},
+      "Interactive Exercises": {"Type": "list of interactive exercises (e.g., text)"},
+      "Journaling Prompts": {"Type": "list of journaling prompts (e.g., text)"},
+      "Frequency": {"Options": ["daily", "onlyOnce", "everyDays"]},
+      "Deadline Date": {"Type": "datetime"}
+    }
+  }
+}

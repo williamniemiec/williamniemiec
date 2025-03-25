@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Pain Triggers and Relievers": {
+    "parameters": {
+      "Pain Triggers": {"type": ["text", "options"]},
+      "Pain Relievers": {"type": ["text", "options"]},
+      "Trigger Frequency": {"type": ["scale", "options"]},
+      "Reliever Effectiveness": {"type": ["scale", "options"]},
+      "Pain Patterns": {"type": ["text", "options"]}
+    }
+  }
+}

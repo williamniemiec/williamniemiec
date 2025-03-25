@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+    "Status Update": {
+        "Parameters": {
+            "Status information": "",
+            "Update frequency": "",
+            "Notification settings": ""
+        }
+    },
+    "Progress Tracker": {
+        "Parameters": {
+            "Progress metrics": "",
+            "Data visualization": "",
+            "Update frequency": ""
+        }
+    },
+    "Care Team Messaging": {
+        "Parameters": {
+            "Messaging platform": "",
+            "Care team members": "",
+            "Message content": ""
+        }
+    }
+}

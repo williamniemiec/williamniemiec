@@ -1,0 +1,10 @@
+{
+  "name": "Temperature Regulation and Thermal Management",
+  "description": "Manages body temperature regulation through warming and cooling methods, addressing conditions like hypothermia and heat exposure.",
+  "type": "non-periodic",
+  "input": ["Current temperature", "Target temperature range", "Cooling or warming method"],
+  "output": ["Temperature stability report", "Thermal adjustment recommendations"],
+  "preconditions": ["Temperature imbalance is detected"],
+  "postconditions": ["Body temperature is stabilized within the desired range"],
+  "dependencies": ["Thermal monitoring system", "Cooling and warming devices", "Temperature regulation guidelines"]
+}

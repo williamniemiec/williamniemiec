@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+{
+  "Wound Care Guide": {
+    "Parameters": {
+      "Wound Care Instructions": {},
+      "Pages": {},
+      "Frequency": {}
+    }
+  }
+}

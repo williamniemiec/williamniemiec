@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Prayer Companion": {
+    "Parameters": {
+      "Prayer Request": {"Type": "text"},
+      "Prayer Type": {"Type": "options", "Options": ["general", "specific", "guided"]},
+      "Prayer Frequency": {"Type": "options", "Options": ["daily", "weekly", "monthly", "as needed"]},
+      "Prayer Leader": {"Type": "boolean"},
+      "Reflection": {"Type": "text"}
+    }
+  }
+}

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Care Agreement": {
+    "parameters": {
+      "Care Plan": {"type": "text"},
+      "Family Decision": {"type": "text"},
+      "Caregiver Roles": {"type": "text"},
+      "Support Needs": {"type": "options"},
+      "Confirmation": {"type": "boolean"}
+    }
+  }
+}

@@ -1,0 +1,32 @@
+Here is the output in JSON format:
+
+
+{
+  "Activity": {
+    "parameters": {
+      "name": "Sensory Play Activity",
+      "description": "Engage in a fun and interactive play activity with your child that incorporates visual, auditory, tactile, and kinetic stimulation.",
+      "steps": [
+        "Show your child a toy with bright colors and shapes",
+        "Play a musical instrument or a fun song",
+        "Provide a variety of textures for your child to touch and explore",
+        "Engage in a physical activity with your child, such as clapping or dancing"
+      ],
+      "frequency": ["daily", "everyDays"]
+    }
+  },
+  "Guide": {
+    "parameters": {
+      "name": "Sensory Play Guide",
+      "pages": [
+        "The importance of sensory stimulation for child development",
+        "Tips and ideas for incorporating visual, auditory, tactile, and kinetic stimulation into play",
+        "Examples of toys and materials that can be used for sensory play"
+      ],
+      "frequency": "onlyOnce"
+    }
+  }
+}
+
+
+Note: I removed the `deadline_date` parameter since it was marked as "not required" in both cases.

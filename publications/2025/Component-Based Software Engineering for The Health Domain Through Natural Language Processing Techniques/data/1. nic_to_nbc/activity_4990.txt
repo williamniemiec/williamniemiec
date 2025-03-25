@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Monitoring": {
+    "Indicators": {"Type": "options", "Options": ["movement", "uneasy breathing", "talking", "coughing", "etc."]},
+    "Monitoring Frequency": {"Type": "options", "Options": ["daily", "everyHours", "everyDays"]},
+    "Monitoring Method": {"Type": "text"},
+    "Alert Threshold": {"Type": "numeric"},
+    "Alert Message": {"Type": "text"}
+  }
+}
+
+
+I removed the `Deadline Date` parameter as it is not applicable in this context. Let me know if you have any further questions!

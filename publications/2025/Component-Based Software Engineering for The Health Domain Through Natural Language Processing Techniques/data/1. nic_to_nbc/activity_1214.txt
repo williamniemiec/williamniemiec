@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Pain and Sensation Monitoring": {
+    "parameters": [
+      {"name": "pain_level", "description": "Rate your current pain level", "required": true, "type": "options"},
+      {"name": "sensation_change", "description": "Have you noticed any changes in sensation at the fracture site?", "required": true, "type": "options"},
+      {"name": "sensation_description", "description": "If yes, please describe the change in sensation", "required": false, "type": "text"},
+      {"name": "frequency", "description": "How often should you monitor your pain and sensation?", "required": true, "type": "options"},
+      {"name": "deadline_date", "description": "When should you monitor your pain and sensation by?", "required": false, "type": "datetime"}
+    ]
+  }
+}

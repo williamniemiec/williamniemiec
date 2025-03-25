@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+  "Resource List": {
+    "name": "title of the resource list",
+    "resources": "list of resources"
+  },
+  "Contact Information": {
+    "name": "title of the contact information",
+    "contacts": "list of contacts"
+  },
+  "Journal": {
+    "name": "title of the journal",
+    "entries": "list of journal entries"
+  },
+  "Message": {
+    "name": "title of the message",
+    "recipient": "contact information of the recipient",
+    "message": "text of the message"
+  }
+}

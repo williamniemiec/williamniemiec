@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "unconscious_oral_care": {
+        "parameters": [
+            {"name": "head_positioning", "description": "turn patient's head to side or place in sidelying position"},
+            {"name": "bite_block_insertion", "description": "insert bite block or padded tongue blade"},
+            {"name": "finger_avoidance", "description": "avoid putting fingers in mouth"},
+            {"name": "liquid_amount", "description": "use small amounts of liquid"},
+            {"name": "suction_device", "description": "use bulb syringe or other suction device"}
+        ]
+    }
+}

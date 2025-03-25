@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "IV Fluid Bolus": {
+    "parameters": {
+      "IV Fluid": {"type": "options"},
+      "Flow Rate": {"type": "number", "units": "mL/hour"},
+      "Bolus Volume": {"type": "number", "units": "mL"},
+      "Administration Instructions": {"type": "text"}
+    }
+  }
+}

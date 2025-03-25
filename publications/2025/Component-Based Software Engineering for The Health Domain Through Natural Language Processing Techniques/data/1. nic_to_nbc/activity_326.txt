@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+{
+  "Delusion Avoidance": {
+    "parameters": [
+      {"name": "Delusional Idea", "type": "text"},
+      {"name": "Alternative Response", "type": "text"},
+      {"name": "Communication Channel", "type": "options", "options": ["messaging", "video calls", "phone calls"]},
+      {"name": "Frequency of Intervention", "type": "options", "options": ["daily", "everyOtherDay", "everyFewDays", "weekly"]}
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "Airway Availability": {
+    "parameters": [
+      {"name": "name", "type": "text"},
+      {"name": "airway_type", 
+       "type": {
+         "name": "airway type object",
+         "properties": {
+           "name": "airway type name",
+           "description": "airway type description"
+         }
+       }},
+      {"name": "bedside_location", "type": "text"},
+      {"name": "reminder_frequency", 
+       "type": {
+         "unit": "unit of time",
+         "value": "value of the unit"
+       }}
+    ]
+  }
+}

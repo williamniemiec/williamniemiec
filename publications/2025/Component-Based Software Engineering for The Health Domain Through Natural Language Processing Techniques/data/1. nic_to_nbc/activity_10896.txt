@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Skin Integrity Promotion": {
+    "parameters": [
+      {"name": "shearing_prevention", "description": "Take steps to prevent shearing (e.g., use slide sheets, reposition regularly)", "required": true, "type": "boolean"},
+      {"name": "moisture_control", "description": "Take steps to control moisture (e.g., use absorbent pads, change linens frequently)", "required": true, "type": "boolean"},
+      {"name": "nutrition_plan", "description": "Follow a nutrition plan that promotes skin health (e.g., adequate protein, vitamin C, and zinc)", "required": true, "type": "boolean"},
+      {"name": "reminders", "description": "Set reminders to promote skin integrity (e.g., reposition every 2 hours, change linens daily)", "required": true, "type": "boolean"}
+    ]
+  }
+}

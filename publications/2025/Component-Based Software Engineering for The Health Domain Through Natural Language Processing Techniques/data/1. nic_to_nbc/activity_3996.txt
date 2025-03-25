@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+{
+  "Follow-up Schedule": {
+    "parameters": {
+      "Follow-up Frequency": {},
+      "Follow-up Dates": {},
+      "Care Provider Contact": {}
+    }
+  }
+}

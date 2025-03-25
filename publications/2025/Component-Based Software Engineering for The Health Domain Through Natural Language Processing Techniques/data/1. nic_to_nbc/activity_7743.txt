@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Reference": {
+    "Parameters": {
+      "Source": {"Type": "text"},
+      "Description": {"Type": "text"},
+      "Content": {"Type": "text or HTML"},
+      "Link": {"Type": "URL"}
+    }
+  }
+}

@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Fluid and Electrolyte Monitoring Task": {
+    "parameters": [
+      {"Name": {"type": "text"}},
+      {"Monitoring Period": {"type": "numeric", "unit": "hours or days"}},
+      {"Fluid Intake": {"type": "numeric", "unit": "mL or oz"}},
+      {"Electrolyte Levels": {"type": "text"}},
+      {"Monitoring Frequency": {"type": "numeric", "unit": "hours or days"}},
+      {"Instructions": {"type": "text"}}
+    ]
+  }
+}

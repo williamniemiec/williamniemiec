@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Goal Setting": {
+    "Short-Term Goals": {},
+    "Long-Term Goals": {},
+    "Goal Priority": {},
+    "Goal Achievement": {},
+    "Additional Notes": {}
+  }
+}

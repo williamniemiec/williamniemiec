@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Relationship Impact": {
+    "Parameters": {
+      "Relationship type": ["Romantic partner", "Family member", "Friend"],
+      "Changes in sexuality": ["Decreased libido", "Erectile dysfunction", "Changes in sexual desire"],
+      "Emotional impact": ["Feelings of guilt", "Feelings of frustration", "Feelings of sadness"],
+      "Communication strategies": ["Open and honest communication", "Active listening"],
+      "Frequency": ["daily", "onlyOnce", "everyHours", "everyDays"],
+      "Deadline Date": "datetime"
+    }
+  }
+}

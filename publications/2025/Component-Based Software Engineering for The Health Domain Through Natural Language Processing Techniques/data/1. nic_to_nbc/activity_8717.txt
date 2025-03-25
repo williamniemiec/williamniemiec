@@ -1,0 +1,38 @@
+Here is the output in JSON format:
+
+
+{
+  "pH Level Classification": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "pH Value": {"Type": "numeric value"},
+      "Mean Range": {"Type": "numeric range"},
+      "Classification": {"Type": "options", "Options": ["alkaline", "acidotic", "normal"]},
+      "Resources": {"Type": "list of URLs or HTML texts"}
+    }
+  },
+  "Data Visualization": {
+    "Parameters": {
+      "name": {"Type": "text"},
+      "data": {"Type": "list of pH values with corresponding timestamps"},
+      "visualization type": {"Type": "text"}
+    }
+  },
+  "Notification": {
+    "Parameters": {
+      "name": {"Type": "text"},
+      "message": {"Type": "text"},
+      "trigger": {"Type": "text"},
+      "recipient": {"Type": "text"}
+    }
+  },
+  "Guide": {
+    "Parameters": {
+      "name": {"Type": "text"},
+      "pages": {"Type": "list of HTML texts"}
+    }
+  }
+}
+
+
+Let me know if this is what you were expecting!

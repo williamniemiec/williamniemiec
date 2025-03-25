@@ -1,0 +1,18 @@
+
+
+
+{
+    "Strategy Guide": {
+        "Name": {"type": "text"},
+        "Strategies": {"type": "ordered list", "list items": "text"},
+        "Descriptions": {"type": "ordered list", "list items": "text"},
+        "Examples": {"type": "ordered list", "list items": "text or image"},
+        "Tips": {"type": "unordered list", "list items": "text"}
+    },
+    "Video": {
+        "Name": {"type": "text"},
+        "Video URL": {"type": "URL"},
+        "Description": {"type": "text"},
+        "Strategies": {"type": "ordered list", "list items": "text"}
+    }
+}

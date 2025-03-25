@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Grief Support": {
+    "parameters": {
+      "Loss Identification": {"type": "text or checklist"},
+      "Grief Stage Assessment": {"type": "rating scale (e.g., 1-5) or checklist"},
+      "Emotional Expression": {"type": "journal or log"},
+      "Coping Strategies": {"type": "list of options or text"},
+      "Support Network": {"type": "social network or forum"},
+      "Resources": {"type": "list of URLs or embedded media"},
+      "Progress Tracking": {"type": "journal or log"}
+    }
+  }
+}

@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Personalized Hygiene": {
+    "Hygiene Term": {"Type": "text", "Description": "Enter a term that makes you feel comfortable (e.g.,'morning routine', 'cleansing time', etc.)"},
+    "Hygiene Type": {"Type": "options", "Options": ["washing", "cleansing", "refreshing", "etc."]},
+    "Frequency": {"Type": "options", "Options": ["daily", "every other day", "every 2 days", "custom"]},
+    "Notes": {"Type": "text"}
+  }
+}

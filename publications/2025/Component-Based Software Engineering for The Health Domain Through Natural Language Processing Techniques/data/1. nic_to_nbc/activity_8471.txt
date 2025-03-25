@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Food Preparation",
+    "parameters": [
+        {
+            "name": "Food Options",
+            "type": "options"
+        },
+        {
+            "name": "Preparation Methods",
+            "type": "options"
+        },
+        {
+            "name": "Seasoning Preferences",
+            "type": "options"
+        },
+        {
+            "name": "Special Requests",
+            "type": "text"
+        }
+    ]
+}

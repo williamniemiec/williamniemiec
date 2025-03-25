@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Perianal Hygiene",
+    "parameters": [
+        { 
+            "name": "washing_instructions", 
+            "type": "text"
+        },
+        { 
+            "name": "drying_instructions", 
+            "type": "text"
+        },
+        { 
+            "name": "frequency", 
+            "type": "options"
+        },
+        { 
+            "name": "reminders", 
+            "type": "boolean"
+        }
+    ]
+}

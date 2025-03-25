@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+    "Follow-up": {
+        "follow_up_frequency": {"type": "options", "options": ["Daily", "Weekly", "Monthly", "Custom"]},
+        "task_list": {"type": "list of text"},
+        "evaluation_criteria": {"type": "list of text"},
+        "follow_up_method": {"type": "options", "options": ["In-person", "Phone call", "Electronic notification", "Other"]},
+        "follow_up_notes": {"type": "text"}
+    }
+}

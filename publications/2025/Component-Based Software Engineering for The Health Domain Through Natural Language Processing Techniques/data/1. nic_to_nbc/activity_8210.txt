@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Visitor Management": {
+    "parameters": {
+      "visitor_limit": {"type": "options", "options": ["one", "two", "etc."]},
+      "visitor_schedule": {"type": "calendar", "description": "A calendar that schedules visitor interactions, ensuring that the patient is not overwhelmed."},
+      "patient_tolerance": {"type": "options", "options": ["low", "moderate", "high"]},
+      "visitor_guidelines": {"type": "text", "description": "A set of guidelines for visitors, e.g., \"please keep visits short\", \"avoid loud noises\", \"respect the patient's need for rest\", etc."}
+    }
+  }
+}
+
+
+Let me know if you'd like me to make any adjustments!

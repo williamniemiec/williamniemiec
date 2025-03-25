@@ -1,0 +1,21 @@
+Here is the JSON output:
+
+
+{
+  "Symptom Checker": {
+    "Parameters": {
+      "Symptoms": {
+        "Type": "checklist or multi-select options"
+      },
+      "Frequency": {
+        "Options": ["daily", "every 12 hours", "every 8 hours"]
+      },
+      "Severity Scale": {
+        "Type": "numerical scale (e.g., 1-5) or descriptive scale (e.g., mild, moderate, severe)"
+      }
+    }
+  }
+}
+
+
+Let me know if you need anything else!

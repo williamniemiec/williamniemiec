@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+  "Breaking Suction Guidance": {
+    "Step-by-Step Instructions": {
+      "Type": "ordered list",
+      "Example": ["Insert a finger into the corner of the baby's mouth", "Gently press down on the lower gum to release the suction", "Remove the baby from the breast"]
+    },
+    "Visual Aids": {
+      "Type": "media (image or video)",
+      "Optional": true
+    },
+    "Frequency": {
+      "Type": "options",
+      "Options": ["everyFeeding", "everyXFeedings", "atWill"]
+    }
+  }
+}
+
+
+Note: I removed the `Deadline Date` parameter since it was marked as optional and didn't have a specified value.

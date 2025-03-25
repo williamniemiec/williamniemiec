@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Feeding Stop Alert": {
+    "Title": {"Type": "text"},
+    "Signs of Distress": {"Type": "checklist or questionnaire", "Example signs": ["Fussing or crying", "Arching or stiffening", "Pushing away from the breast or bottle", "Spitting up or vomiting"]},
+    "Signs of Fullness": {"Type": "checklist or questionnaire", "Example signs": ["Closing mouth", "Not taking in more milk", "Change in infant state (e.g., becoming sleepy or relaxed)", "Infant not responding to verbal or tactile stimulation"]},
+    "Action": {"Type": "text", "Example action": "Stop feeding and burp the baby"},
+    "Frequency": {"Type": "options", "Options": ["every 5 minutes", "every 10 minutes"]}
+  }
+}

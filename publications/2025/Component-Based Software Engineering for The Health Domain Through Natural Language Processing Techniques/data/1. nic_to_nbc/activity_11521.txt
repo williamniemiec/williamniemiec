@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+
+{
+    "Message": {
+        "Parameters": {
+            "Content": {"Type": "text"},
+            "Recipient": {"Type": "options"},
+            "Urgency": {"Type": "options"},
+            "Deadline Date": {"Type": "datetime"}
+        }
+    }
+}

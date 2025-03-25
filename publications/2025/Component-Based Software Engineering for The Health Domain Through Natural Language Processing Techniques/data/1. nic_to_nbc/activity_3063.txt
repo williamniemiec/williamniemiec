@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Limit Awareness": {
+    "Parameters": {
+      "Message": {"Type": "text"},
+      "Frequency": {"Type": "options", "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"Type": "datetime"}
+    }
+  }
+}
+
+
+Let me know if this meets your requirements!

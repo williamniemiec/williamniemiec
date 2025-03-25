@@ -1,0 +1,16 @@
+
+
+
+{
+    "Report Generator": {
+        "Parameters": {
+            "Report Template": {},
+            "Date and Time": {},
+            "Ink Color": {},
+            "Correction Policy": {},
+            "Page Numbering": {},
+            "Initialization": {},
+            "Diagram and Worksheet Upload": {}
+        }
+    }
+}

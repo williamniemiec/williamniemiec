@@ -1,0 +1,37 @@
+Here is the output in JSON format:
+
+
+{
+  "Questionnaire": {
+    "parameters": [
+      {"name": "Name", "value": "Physiologic Status Questionnaire"},
+      {"name": "Questions", "value": ["How would you rate your energy levels today?", "Do you experience fatigue during daily activities?"]},
+      {"name": "Answer Type", "value": "options"},
+      {"name": "Frequency", "value": "how often the patient should complete the questionnaire"},
+      {"name": "Deadline Date", "value": "specify the due date for completing the questionnaire"}
+    ]
+  },
+  "Vital Signs Tracker": {
+    "parameters": [
+      {"name": "Name", "value": "Vital Signs Tracker"},
+      {"name": "Vital Signs", "value": ["Heart rate", "Blood pressure", "Oxygen saturation"]},
+      {"name": "Frequency", "value": "how often the patient should track their vital signs"},
+      {"name": "Deadline Date", "value": "specify the due date for tracking vital signs"}
+    ]
+  },
+  "Activity Tracker": {
+    "parameters": [
+      {"name": "Name", "value": "Activity Tracker"},
+      {"name": "Activity Types", "value": ["Walking", "Running", "Cycling"]},
+      {"name": "Frequency", "value": "how often the patient should track their physical activity"},
+      {"name": "Deadline Date", "value": "specify the due date for tracking physical activity"}
+    ]
+  },
+  "Age and Developmental Stage Assessment": {
+    "parameters": [
+      {"name": "Name", "value": "Age and Developmental Stage Assessment"},
+      {"name": "Age", "value": "the patient's age"},
+      {"name": "Developmental Stage", "value": "the patient's developmental stage"}
+    ]
+  }
+}

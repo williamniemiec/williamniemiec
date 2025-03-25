@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Modified Movement and Resistance": {
+    "parameters": {
+      "Patient Mobility": {"type": "options"},
+      "Modified Movement": {"type": "options"},
+      "Resistance Method": {"type": "options"},
+      "Modified Resistance": {"type": "options"},
+      "Exercise Instructions": {"type": "text with multimedia support"}
+    }
+  }
+}

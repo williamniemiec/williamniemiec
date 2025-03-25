@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "parent interview": {
+        "parameters": [
+            {"name": "toilet_training_history", "description": "questions about toilet-training history"},
+            {"name": "voiding_pattern", "description": "questions about voiding pattern"},
+            {"name": "urinary_tract_infections", "description": "questions about urinary tract infections"},
+            {"name": "food_sensitivities", "description": "questions about food sensitivities"}
+        ]
+    }
+}

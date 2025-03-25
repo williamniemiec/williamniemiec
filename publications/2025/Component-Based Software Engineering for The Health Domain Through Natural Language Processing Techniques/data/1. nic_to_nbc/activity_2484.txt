@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Exercise Plan": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Description": {"Type": "text"},
+      "Exercise Type": {"Type": "options", "Options": ["list of exercise types"]},
+      "Frequency": {"Type": "options", "Options": ["daily", "everyOtherDay", "every2Days", "every3Days", "etc."]},
+      "Duration": {"Type": "text"},
+      "Intensity": {"Type": "options", "Options": ["low", "moderate", "high"]},
+      "Reminders": {"Type": "boolean"},
+      "Deadline Date": {"Type": "datetime"}
+    }
+  }
+}

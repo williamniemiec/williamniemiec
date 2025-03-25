@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Index Selection",
+  "parameters": [
+    {
+      "name": "index_options",
+      "type": "list"
+    },
+    {
+      "name": "condition",
+      "type": "text"
+    },
+    {
+      "name": "selection_criteria",
+      "type": "text"
+    },
+    {
+      "name": "frequency",
+      "type": "options"
+    }
+  ]
+}
+
+Note that I removed the `deadline_date` parameter as it was marked as not required, and also removed other unnecessary fields to simplify the output.

@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "fluid_intake_instruction",
+    "parameters": [
+        { 
+            "name": "duration", 
+            "description": "specify the duration of increased fluid intake"
+        },
+        { 
+            "name": "frequency", 
+            "description": "specify how often to remind the patient to increase fluid intake"
+        }
+    ]
+}
+
+
+I removed all unnecessary parts and kept only the `{{ NO-CODE ELEMENT NAME }}` and `{{ PARAMETER ESPECIFICATIONS }}`. I also removed the not applicable parameters, in this case, `custom_duration` and `deadline_date`, as they are not required.

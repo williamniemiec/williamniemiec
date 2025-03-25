@@ -1,0 +1,36 @@
+Here is the output in JSON format:
+
+
+{
+  "Parenting Assessment": {
+    "parameters": {
+      "Questions": [
+        "Do you have any learning difficulties or disabilities that may affect your ability to care for your child?",
+        "Do you often feel overwhelmed or unsure about how to care for your child?",
+        "Is this your first child?",
+        "Are you a teenager?",
+        "Do you have any concerns or questions about parenting?"
+      ],
+      "Answer type": [
+        "Yes/No",
+        "Text"
+      ]
+    }
+  },
+  "Risk Factor Assessment": {
+    "parameters": {
+      "Risk factors": [
+        "Learning difficulties or disabilities",
+        "Verbalized feelings of inadequacy",
+        "First-time parent",
+        "Teen parent"
+      ],
+      "Answer type": [
+        "Yes/No"
+      ],
+      "Scoring": ""
+    }
+  }
+}
+
+Let me know if this meets your requirements!

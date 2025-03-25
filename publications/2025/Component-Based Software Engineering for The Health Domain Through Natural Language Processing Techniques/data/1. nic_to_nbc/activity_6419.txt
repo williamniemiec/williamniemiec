@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "GI Symptom Tracker": {
+    "Name": {"type": "text"},
+    "Symptoms": {"type": "checklist"},
+    "Frequency": {"type": "options"},
+    "Deadline Date": {"type": "datetime"},
+    "Severity": {"type": "options"},
+    "Notes": {"type": "text"}
+  }
+}

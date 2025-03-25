@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+    "Caregiver Empowerment": {
+        "Parameters": {
+            "Name": {"Type": "text"},
+            "Empowerment Messages": {"Type": "list of text messages (with options for customization)"},
+            "Responsibility Areas": {"Type": "list of options (with text and icons)"},
+            "Goal Setting": {"Type": "boolean (true or false)"},
+            "Resource Provision": {"Type": "boolean (true or false)"}
+        }
+    }
+}
+
+
+Note that I removed the not applicable parameters, as per your request. Let me know if this is what you were expecting!

@@ -1,0 +1,10 @@
+Here is the output in JSON format:
+
+
+{
+  "Toenail Trimming": {
+    "Instruction Title": {"Description": "Title of the instruction", "Required": true, "Type": "text"},
+    "Content": {"Description": "Description of the instruction", "Required": true, "Type": "text"},
+    "Frequency": {"Description": "Specify how often to trim toenails", "Required": true, "Type": "options", "Options": [{"value": "weekly", "label": "Weekly"}, {"value": "biweekly", "label": "Every 2 weeks"}, {"value": "monthly", "label": "Monthly"}]}
+  }
+}

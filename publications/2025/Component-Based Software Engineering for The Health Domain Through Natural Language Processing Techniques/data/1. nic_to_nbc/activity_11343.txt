@@ -1,0 +1,9 @@
+
+
+
+{
+    "CVAD ID Card Reminder": {
+        "Reminder": "A notification or reminder to carry the CVAD manufacturer identification card at all times.",
+        "Instructions": "A brief text explaining the importance of carrying the card and what to do if it's lost or forgotten."
+    }
+}

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Ostomy Care Guide": {
+    "parameters": [
+      {"name": "equipment overview", "description": "Overview of ostomy equipment", "required": true, "type": "text" or "video"},
+      {"name": "step-by-step instructions", "description": "Step-by-step guide for using ostomy equipment", "required": true, "type": "interactive tutorial" or "video"}
+    ]
+  }
+}
+
+
+I removed the not applicable parameters (troubleshooting tips and follow-up questions) since they are marked as `required: false`. Let me know if this is what you were expecting!

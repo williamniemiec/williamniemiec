@@ -1,0 +1,35 @@
+Here is the output in JSON format:
+
+
+{
+  "Symptom Checker": {
+    "name": "Hyponatremia Symptom Checker",
+    "symptoms": [
+      "Disorientation",
+      "Muscle twitching",
+      "Nausea and vomiting",
+      "Abdominal cramps",
+      "Headaches",
+      "Personality changes",
+      "Seizures",
+      "Lethargy",
+      "Fatigue",
+      "Withdrawal",
+      "Coma"
+    ],
+    "answer type": "boolean (yes/no) or severity scale (e.g., 1-5)",
+    "frequency": "how often the patient should check for these symptoms",
+    "deadline_date": "the due date for the patient to report their symptoms"
+  },
+  "Neurological Assessment": {
+    "name": "Neurological Assessment",
+    "assessment": [
+      "Level of consciousness",
+      "Orientation to time and place",
+      "Muscle strength and coordination",
+      "Reflexes"
+    ],
+    "frequency": "how often the patient should perform this assessment",
+    "deadline_date": "the due date for the patient to report their assessment results"
+  }
+}

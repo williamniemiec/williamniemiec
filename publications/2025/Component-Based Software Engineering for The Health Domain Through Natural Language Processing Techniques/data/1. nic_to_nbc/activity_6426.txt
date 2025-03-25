@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Hyperkalemia Tracker": {
+    "parameters": {
+      "Potassium Levels": {"type": "number"},
+      "Symptoms": {"type": "options", "labelsAndValues": ["Muscle weakness", "Fatigue", "Palpitations", "Abnormal heart rhythms"]},
+      "Frequency": {"type": "options", "options": ["daily", "everyHours", "everyDays"]},
+      "Notes": {"type": "text"}
+    }
+  }
+}

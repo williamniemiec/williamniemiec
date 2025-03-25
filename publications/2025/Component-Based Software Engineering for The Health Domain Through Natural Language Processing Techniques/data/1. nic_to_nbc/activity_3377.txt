@@ -1,0 +1,32 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Clarify Emotion",
+  "parameters": [
+    {
+      "name": "Emotion",
+      "type": "options",
+      "options": [
+        { "value": "happiness" },
+        { "value": "sadness" },
+        { "value": "fear" },
+        { "value": "anger" },
+        { "value": "surprise" }
+      ]
+    },
+    {
+      "name": "Prompt",
+      "type": "text"
+    },
+    {
+      "name": "Response Type",
+      "type": "options",
+      "options": [
+        { "value": "text" },
+        { "value": "emoji" },
+        { "value": "ratingScale" }
+      ]
+    }
+  ]
+}

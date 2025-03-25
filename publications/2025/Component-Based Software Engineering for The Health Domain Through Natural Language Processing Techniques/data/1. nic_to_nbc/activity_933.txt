@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Parameter Specifications": {
+    "Title": {"Type": "text"},
+    "Pages": {"Type": "book-page", "book-page": "list of HTML texts"},
+    "Image": {"Type": "image"},
+    "Frequency": {"Type": "options", "Options": ["daily", "everyHours", "everyDays"]}
+  },
+  "No-Code Element Name": "Guide"
+}

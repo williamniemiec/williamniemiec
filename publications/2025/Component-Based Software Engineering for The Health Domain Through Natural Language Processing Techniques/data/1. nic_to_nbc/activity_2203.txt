@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+{
+  "X-ray Verification": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Protocol": {"Type": "text or multimedia (e.g., images, videos)"},
+      "X-ray Schedule": {"Type": "options (e.g., immediately, every 2 hours, every 4 hours)"},
+      "Image Review": {"Type": "text or multimedia (e.g., images, videos)"},
+      "Verification Criteria": {"Type": "text or multimedia (e.g., images, videos)"}
+    }
+  }
+}
+
+Note that I removed the `Alerts and Notifications` parameter since its type is a boolean value, which is not applicable as a parameter specification.

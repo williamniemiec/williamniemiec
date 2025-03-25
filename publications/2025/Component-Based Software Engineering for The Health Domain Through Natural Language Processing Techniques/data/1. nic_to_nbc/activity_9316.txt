@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Dining Room Reminder": {
+    "parameters": [
+      {"name": "Name", "type": "text"},
+      {"name": "Message", "type": "text"},
+      {"name": "Frequency", "type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      {"name": "Deadline Date", "type": "datetime"},
+      {"name": "Dining Room Availability", "type": "boolean", "default": true}
+    ]
+  }
+}

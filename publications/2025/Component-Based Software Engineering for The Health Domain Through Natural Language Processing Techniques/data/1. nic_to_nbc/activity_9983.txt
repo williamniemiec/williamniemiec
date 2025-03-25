@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Care Capability Assessment": {
+    "Assessment Questions": {
+      "Type": "list of questions with multiple-choice or Likert scale answers"
+    },
+    "Capability Categories": {
+      "Type": "list of categories with corresponding scores or ratings"
+    },
+    "Scoring": {
+      "Type": "numerical score or rating"
+    },
+    "Recommendations": {
+      "Type": "list of text items or links to resources"
+    }
+  }
+}

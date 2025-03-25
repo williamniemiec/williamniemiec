@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Sexuality Education Resource List": {
+    "Parameters": {
+      "Title": {"Type": "text"},
+      "Resources": {"Type": "list of resources (e.g., text)"},
+      "Categories": {"Type": "list of categories (e.g., text)"},
+      "Descriptions": {"Type": "list of descriptions (e.g., text)"},
+      "Links": {"Type": "list of links (e.g., text)"},
+      "Frequency": {"Options": ["daily", "onlyOnce", "everyDays"]},
+      "Deadline Date": {"Type": "datetime"}
+    }
+  }
+}
+
+
+Note: I removed the "Not Applicable" parameters as per your request. Let me know if you need any further modifications!

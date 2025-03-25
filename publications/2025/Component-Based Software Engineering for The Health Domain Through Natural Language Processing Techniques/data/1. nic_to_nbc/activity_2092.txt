@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Varied Presentation": {
+    "Material": {"Description": "Material to be presented to the patient", "Required": true, "Type": "text"},
+    "Presentation Methods": {"Description": "List of presentation methods to use", "Required": true, "Type": "options", "Options": [
+      {"value": "text", "label": "Text"},
+      {"value": "image", "label": "Image"},
+      {"value": "video", "label": "Video"},
+      {"value": "audio", "label": "Audio"},
+      {"value": "interactive", "label": "Interactive"}
+    ]},
+    "Sequence": {"Description": "Order in which the presentation methods should be used", "Required": true}
+  }
+}

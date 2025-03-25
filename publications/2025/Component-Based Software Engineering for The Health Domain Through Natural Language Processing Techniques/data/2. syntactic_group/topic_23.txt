@@ -1,0 +1,10 @@
+{
+  "name": "Consent and Agreement Management",
+  "description": "Manages the process of obtaining consent and signatures for contracts, agreements, and confidentiality forms, including informed consent and digital or electronic submissions.",
+  "type": "non-periodic",
+  "input": ["Consent form", "Contract details", "Agreement statement", "Confidentiality clauses"],
+  "output": ["Signed consent", "Completed agreement", "Digital signature verification"],
+  "preconditions": ["User receives and reviews the consent form or agreement"],
+  "postconditions": ["Consent is obtained, and the agreement is recorded electronically"],
+  "dependencies": ["Digital signature system", "Consent management platform", "Electronic document storage"]
+}

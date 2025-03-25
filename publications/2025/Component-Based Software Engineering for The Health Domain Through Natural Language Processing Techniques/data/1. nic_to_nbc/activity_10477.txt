@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+    "Oxygen Saturation Monitoring": {
+        "Saturation Type": ["SaO2", "SvO2", "SpO2"],
+        "Frequency": ["continuously", "every 15 minutes", "every 30 minutes", "every hour"],
+        "Deadline Date": "datetime",
+        "Device": ["pulse oximeter", "..."],
+        "Notes": "text"
+    }
+}
+
+
+Note: I removed the "Agency Policy" parameter as it was not applicable (no specific values or options were provided).

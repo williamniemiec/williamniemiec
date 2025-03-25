@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Oxygen Device Switch": {
+    "Name": {},
+    "Instructions": {},
+    "Frequency": {},
+    "Deadline Date": {},
+    "Tolerance Assessment": {},
+    "Notes": {}
+  }
+}

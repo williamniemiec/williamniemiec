@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Furniture Arrangement Guide": {
+    "Room Type": {},
+    "Disability Type": {},
+    "Furniture Items": {},
+    "Arrangement Instructions": {},
+    "Image/Video": {},
+    "Tips and Considerations": {}
+  }
+}

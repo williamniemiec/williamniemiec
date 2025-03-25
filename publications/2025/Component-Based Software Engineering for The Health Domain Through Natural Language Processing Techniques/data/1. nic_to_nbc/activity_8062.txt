@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Vital Sign Monitoring": {
+    "parameters": {
+      "vital_sign_name": {"type": "text"},
+      "monitoring_frequency": {"type": "options"},
+      "monitoring_method": {"type": "text"},
+      "notes": {"type": "text"},
+      "result_tracking": {"type": "boolean"},
+      "result_type": {"type": "options"}
+    }
+  }
+}

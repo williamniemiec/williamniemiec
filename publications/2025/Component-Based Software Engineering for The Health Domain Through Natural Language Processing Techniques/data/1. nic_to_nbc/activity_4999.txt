@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+    "Vascular Resistance Education": {
+        "parameters": [
+            {
+                "name": "content",
+                "description": "Educational content about the importance of monitoring vascular resistance",
+                "required": true,
+                "type": "html"
+            }
+        ]
+    }
+}

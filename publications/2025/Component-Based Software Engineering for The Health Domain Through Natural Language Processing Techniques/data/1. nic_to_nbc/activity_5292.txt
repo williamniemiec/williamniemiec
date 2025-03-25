@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "parameters": [
+    {
+      "name": "recipe input",
+      "description": "input favorite recipe"
+    },
+    {
+      "name": "dietary restrictions",
+      "description": "list of dietary restrictions"
+    },
+    {
+      "name": "ingredient substitution suggestions",
+      "description": "suggested ingredient substitutions"
+    },
+    {
+      "name": "modified recipe output",
+      "description": "modified recipe with substituted ingredients"
+    }
+  ],
+  "noCodeElementName": "recipe modification"
+}

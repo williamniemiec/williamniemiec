@@ -1,0 +1,34 @@
+Here is the output in JSON format:
+
+
+{
+  "Instruction": {
+    "parameters": {
+      "name": "Promote vessel dilation",
+      "content": "Guidance on promoting vessel dilation using a tourniquet, gravity, heat, milking the vein, or fist clenching and relaxation",
+      "type": "text" || "video"
+    }
+  },
+  "Video Demonstration": {
+    "parameters": {
+      "name": "Vessel dilation techniques",
+      "videos": "list of video demonstrations for each technique",
+      "type": "video"
+    }
+  },
+  "Interactive Guide": {
+    "parameters": {
+      "name": "Promoting vessel dilation",
+      "pages": "list of interactive pages explaining each technique and allowing the patient to practice or simulate the technique",
+      "type": "interactive-page"
+    }
+  },
+  "Reminder": {
+    "parameters": {
+      "name": "Vessel dilation reminder",
+      "message": "Remember to use [technique] to promote vessel dilation",
+      "frequency": "daily", "every 2 hours", etc.,
+      "type": "reminder"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Elevation Instruction": {
+    "parameters": {
+      "name": {"type": "text"},
+      "content": {"type": "text or video"},
+      "images": {"type": "list of images"},
+      "extremity": {"type": "options (list of extremities)"},
+      "elevation_level": {"type": "options (list of elevation levels)"},
+      "duration": {"type": "options (e.g., 15 minutes, 30 minutes, 1 hour)"},
+      "frequency": {"type": "options (e.g., every hour, every 2 hours, as needed)"},
+      "deadline_date": {"type": "datetime"}
+    }
+  }
+}

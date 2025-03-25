@@ -1,0 +1,24 @@
+
+
+
+{
+  "name": "Personal Responsibility",
+  "parameters": [
+    {
+      "name": "goal",
+      "description": "Set a personal goal for behavior change"
+    },
+    {
+      "name": "commitment",
+      "description": "Make a commitment to take responsibility for your behavior"
+    },
+    {
+      "name": "accountability",
+      "description": "Identify how you will hold yourself accountable for your behavior"
+    },
+    {
+      "name": "consequences",
+      "description": "Reflect on the consequences of not taking responsibility for your behavior"
+    }
+  ]
+}

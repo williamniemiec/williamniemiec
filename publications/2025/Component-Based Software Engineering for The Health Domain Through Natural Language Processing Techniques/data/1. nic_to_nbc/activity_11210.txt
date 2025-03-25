@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Exercise Protocol Development Exercise": {
+    "Parameters": {
+      "Exercise Goal": {},
+      "Current Fitness Level": {},
+      "Exercise Type": {},
+      "Frequency and Duration": {}
+    }
+  }
+}

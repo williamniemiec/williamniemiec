@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Break Reminder": {
+    "parameters": {
+      "name": "Break Reminder",
+      "description": "agree to take breaks while carrying out procedures on the ulcer",
+      "content_type": ["timer", "scheduler"],
+      "interval": ["every 20 minutes", "every 30 minutes", ...],
+      "duration": ["5 minutes", "10 minutes", ...],
+      "reminders": [true, false],
+      "instructions": ["Take a few deep breaths", "Stretch your arms and legs", ...]
+    }
+  }
+}

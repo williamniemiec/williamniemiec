@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Stimulation Redirect": {
+    "Parameters": {
+      "Stimulation Source": {"Type": "list of sources"},
+      "Redirect Strategy": {"Type": "list of strategies"},
+      "Removal Criteria": {"Type": "list of criteria"},
+      "Intervention Frequency": {"Options": ["as needed", "hourly", "every 2 hours", "etc."]},
+      "Notes": {"Type": "text"}
+    }
+  }
+}

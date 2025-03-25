@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Device Guide": {
+    "Parameters": {
+      "Device Name": {"Type": "text", "Required": true},
+      "Assembly Instructions": {"Type": "ordered list of text and images", "Required": true},
+      "Usage Instructions": {"Type": "ordered list of text and images", "Required": true},
+      "Maintenance Instructions": {"Type": "ordered list of text and images", "Required": true}
+    }
+  }
+}
+
+
+I removed the non-applicable parameters (`Frequency` and `Deadline Date`) since they are not required. Let me know if you need any further assistance!

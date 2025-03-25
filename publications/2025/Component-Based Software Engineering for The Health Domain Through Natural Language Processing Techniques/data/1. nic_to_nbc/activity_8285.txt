@@ -1,0 +1,48 @@
+Here is the output in JSON format:
+
+
+{
+  "Electrolyte Infusion Control": {
+    "Parameters": {
+      "Solution Type": {
+        "Type": "options",
+        "Options": [
+          {"value": "normalSaline", "label": "Normal Saline"},
+          {"value": "dextrose", "label": "Dextrose"},
+          {"value": "lactatedRingers", "label": "Lactated Ringer's"},
+          {"value": "other", "label": "Other (please specify)"}
+        ]
+      },
+      "Flow Rate": {
+        "Type": "number"
+      },
+      "Unit": {
+        "Type": "options",
+        "Options": [
+          {"value": "mLh", "label": "mL/h"},
+          {"value": "mLmin", "label": "mL/min"},
+          {"value": "other", "label": "Other (please specify)"}
+        ]
+      },
+      "Duration": {
+        "Type": "options",
+        "Options": [
+          {"value": "continuous", "label": "Continuous"},
+          {"value": "intermittent", "label": "Intermittent"},
+          {"value": "specificTime", "label": "Specific Time (please specify)"}
+        ]
+      },
+      "Frequency": {
+        "Type": "options",
+        "Options": [
+          {"value": "daily", "label": "Daily"},
+          {"value": "everyHours", "label": "Every x hours"},
+          {"value": "everyDays", "label": "Every x days"}
+        ]
+      },
+      "Deadline Date": {
+        "Type": "datetime"
+      }
+    }
+  }
+}

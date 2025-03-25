@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Restraint Instruction": {
+    "instruction title": {"Description": "title of the restraint instruction", "Required": true, "Type": "text"},
+    "Content": {"Description": "step-by-step instructions on how to restrain ankles and wrists", "Required": true, "Type": "text"},
+    "Type of Restraint": {"Description": "specify the type of restraint to be used (e.g. soft, hard, etc.)", "Required": true, "Type": "options", "Options": [{"value": "soft", "label": "Soft Restraint"}, {"value": "hard", "label": "Hard Restraint"}, {"value": "other", "label": "Other (please specify)"}]},
+    "Frequency": {"Description": "specify how often the ankles and wrists should be restrained", "Required": true, "Type": "options", "Options": [{"value": "daily", "label": "Daily"}, {"value": "onlyOnce", "label": "Only once"}, {"value": "everyHours", "label": "Every x hours"}, {"value": "everyDays", "label": "Every x days"}]}
+  }
+}

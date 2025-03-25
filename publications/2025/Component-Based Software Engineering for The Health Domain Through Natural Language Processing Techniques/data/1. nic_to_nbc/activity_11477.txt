@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "medical alert": {
+    "Parameters": {
+      "medical condition": {},
+      "Alert Type": {},
+      "Additional Information": {}
+    }
+  }
+}

@@ -1,0 +1,42 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Assessment": {
+    "Parameters": {
+      "Medication List": {
+        "Type": "list of medications",
+        "Items": {
+          "Name": {"Type": "text"},
+          "Dosage": {"Type": "text"},
+          "Frequency": {"Type": "options", "Options": [
+            {"value": "daily", "label": "Daily"},
+            {"value": "onlyOnce", "label": "Only once"},
+            {"value": "everyHours", "label": "Every x hours"},
+            {"value": "everyDays", "label": "Every x days"}
+          ]}
+        }
+      },
+      "Pain Relief Effectiveness": {
+        "Type": "options",
+        "Options": [
+          {"value": "veryEffective", "label": "Very effective"},
+          {"value": "somewhatEffective", "label": "Somewhat effective"},
+          {"value": "notVeryEffective", "label": "Not very effective"},
+          {"value": "notAtAllEffective", "label": "Not at all effective"}
+        ]
+      },
+      "Side Effects": {
+        "Type": "list of side effects",
+        "Items": {
+          "Name": {"Type": "text"},
+          "Severity": {"Type": "options", "Options": [
+            {"value": "mild", "label": "Mild"},
+            {"value": "moderate", "label": "Moderate"},
+            {"value": "severe", "label": "Severe"}
+          ]}
+        }
+      }
+    }
+  }
+}

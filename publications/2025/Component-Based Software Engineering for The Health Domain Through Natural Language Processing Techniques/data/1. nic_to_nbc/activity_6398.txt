@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Tutorial": {
+    "name": "",
+    "steps": [],
+    "frequency": "",
+    "monitoring": ""
+  }
+}

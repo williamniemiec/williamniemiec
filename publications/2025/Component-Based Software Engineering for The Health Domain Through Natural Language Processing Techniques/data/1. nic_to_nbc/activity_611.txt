@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Parameter Specifications": [
+    {"Complex Skill": {"type": "text"}},
+    {"Stepwise Components": {"type": "list of steps"}},
+    {"Component Description": {"type": "text"}},
+    {"Component Order": {"type": "numbered list"}},
+    {"Component Progress": {"type": "options", "options": ["not started", "in progress", "completed"]}},
+    {"Incremental Goals": {"type": "list of goals"}},
+    {"Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]}},
+    {"Deadline Date": {"type": "datetime"}}
+  ],
+  "No-Code Element Name": "Skill Breakdown"
+}

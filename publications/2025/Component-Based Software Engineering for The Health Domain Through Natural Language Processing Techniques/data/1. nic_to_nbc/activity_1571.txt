@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Symptom Monitoring": {
+    "symptom_name": {},
+    "monitoring_frequency": {},
+    "symptom_description": {},
+    "severity_scale": {},
+    "notes": {}
+  }
+}

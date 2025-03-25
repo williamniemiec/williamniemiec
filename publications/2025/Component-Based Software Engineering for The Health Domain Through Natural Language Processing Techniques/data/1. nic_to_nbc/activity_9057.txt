@@ -1,0 +1,9 @@
+Here is the output in JSON format:
+
+
+{
+  "Parameters": {
+    "Identity aspect": "The specific aspect of identity to be explored (e.g., culture, religion, race, gender)"
+  },
+  "No-code element name": "Self-Reflection Exercise"
+}

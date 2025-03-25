@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Bowel Monitoring": {
+    "parameters": {
+      "Last Bowel Movement": {"type": "datetime"},
+      "Bowel Sounds": {"type": "text", "options": ["present", "absent", "hyperactive", "hypoactive", "etc."]},
+      "Flatus": {"type": "boolean"},
+      "Frequency": {"options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"type": "datetime"},
+      "Instructions": {"type": "text"},
+      "Resources": {"type": "URL or HTML text"}
+    }
+  }
+}
+
+
+Let me know if you need any further modifications!

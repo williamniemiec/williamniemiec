@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Anxiety Medication Plan": {
+    "Parameters": [
+      {"Name": {"Type": "text"}},
+      {"Medication": {"Type": "options", "Options": ["benzodiazepines", "SSRIs", "beta blockers", "etc"]}},
+      {"Dosage": {"Type": "text"}},
+      {"Instructions": {"Type": "text"}},
+      {"Side Effects": {"Type": "list of side effects"}},
+      {"Interactions": {"Type": "list of interactions"}},
+      {"Monitoring": {"Type": "text"}},
+      {"Education": {"Type": "text"}}
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "noise control",
+    "parameters": [
+        { 
+            "name": "title", 
+            "description": "title of the noise control guide", 
+            "required": true, 
+            "type": "text"
+        },
+        { 
+            "name": "noise_level", 
+            "description": "current noise level", 
+            "required": true, 
+            "type": "number"
+        },
+        { 
+            "name": "desired_noise_level", 
+            "description": "desired noise level", 
+            "required": true, 
+            "type": "number"
+        },
+        { 
+            "name": "control_methods", 
+            "description": "list of methods to control or prevent noise", 
+            "required": true, 
+            "type": "unordered list",
+            "options": [
+                { value: "earplugs", label: "Earplugs" },
+                { value: "whiteNoise", label: "White noise" },
+                { value: "soundproofing", label: "Soundproofing" },
+                { value: "other", label: "Other (please specify)" }
+            ]
+        },
+        { 
+            "name": "frequency", 
+            "description": "specify how often to check and control noise levels", 
+            "required": true, 
+            "type": "options",
+            "options": [
+                { value: "continuously", label: "Continuously" },
+                { value: "regularly", label: "Regularly" }
+            ]
+        }
+    ]
+}

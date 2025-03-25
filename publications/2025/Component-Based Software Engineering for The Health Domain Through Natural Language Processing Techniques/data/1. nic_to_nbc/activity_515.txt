@@ -1,0 +1,40 @@
+Here is the output in JSON format:
+
+
+{
+    "Social Connection": {
+        "Parameters": {
+            "Personnel": {
+                "Description": "Choose from a variety of personnel, such as healthcare providers, volunteers, or family members",
+                "Required": true,
+                "Type": "options",
+                "Options": [
+                    {"value": "nurse", "label": "Nurse"},
+                    {"value": "doctor", "label": "Doctor"},
+                    {"value": "volunteer", "label": "Volunteer"},
+                    {"value": "familyMember", "label": "Family Member"}
+                ]
+            },
+            "Interaction Type": {
+                "Description": "Choose the type of interaction, such as video call, phone call, or in-person visit",
+                "Required": true,
+                "Type": "options",
+                "Options": [
+                    {"value": "videoCall", "label": "Video Call"},
+                    {"value": "phoneCall", "label": "Phone Call"},
+                    {"value": "inPersonVisit", "label": "In-Person Visit"}
+                ]
+            },
+            "Frequency": {
+                "Description": "How often the patient would like to interact with personnel",
+                "Required": true,
+                "Type": "options",
+                "Options": [
+                    {"value": "daily", "label": "Daily"},
+                    {"value": "weekly", "label": "Weekly"},
+                    {"value": "monthly", "label": "Monthly"}
+                ]
+            }
+        }
+    }
+}

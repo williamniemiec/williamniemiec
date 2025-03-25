@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "elements": [
+    {
+      "name": "Cleaning Instruction",
+      "parameters": {
+        "name": "Cleaning Instruction",
+        "description": "Clean area around tracheal stoma after completion of tracheal suctioning, as appropriate",
+        "type": "text",
+        "required": true
+      }
+    },
+    {
+      "name": "Task Confirmation",
+      "parameters": {
+        "name": "Cleaning Confirmation",
+        "description": "Confirm that the area around the tracheal stoma has been cleaned",
+        "type": "checkbox",
+        "required": true
+      }
+    }
+  ]
+}

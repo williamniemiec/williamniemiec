@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+  "No-code Element Name": "Patient Restraint",
+  "Parameters": {
+    "Restraint Type": {
+      "Type": "options",
+      "Options": ["physical", "chemical", "none", "etc."]
+    },
+    "Restraint Indication": {
+      "Type": "options",
+      "Options": ["fall risk", "agitation", "violent behavior", "etc."]
+    },
+    "Restraint Method": {
+      "Type": "options",
+      "Options": ["wrist restraints", "bed rails", "vest restraints", "etc."]
+    },
+    "Restraint Duration": {
+      "Type": "options",
+      "Options": ["temporary", "ongoing", "until further notice", "etc."]
+    },
+    "Restraint Monitoring": {
+      "Type": "options",
+      "Options": ["continuous", "intermittent", "every 15 minutes", "etc."]
+    }
+  }
+}

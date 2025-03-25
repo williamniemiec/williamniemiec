@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Blood Loss Education": {
+    "Parameters": {
+      "Blood Loss Severity": {"Type": "text or images"},
+      "Actions Being Performed": {"Type": "text or images"},
+      "Rationale": {"Type": "text"},
+      "FAQs": {"Type": "list of text or images"}
+    }
+  }
+}
+
+
+Note: I removed the "not applicable" parameters, which means none were present in this example.

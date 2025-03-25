@@ -1,0 +1,30 @@
+Here is the output in JSON format:
+
+
+{
+  "Sensory Stimulation": {
+    "Parameters": {
+      "Sensory Modality": {
+        "Type": "options"
+      },
+      "Stimulation Type": {
+        "Type": "text or options"
+      },
+      "Intensity": {
+        "Type": "options"
+      },
+      "Duration": {
+        "Type": "time interval"
+      },
+      "Frequency": {
+        "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+      },
+      "Goal": {
+        "Type": "text or options"
+      }
+    }
+  }
+}
+
+
+Note that I removed the "Not Applicable" parameters as per your request. Let me know if you need anything else!

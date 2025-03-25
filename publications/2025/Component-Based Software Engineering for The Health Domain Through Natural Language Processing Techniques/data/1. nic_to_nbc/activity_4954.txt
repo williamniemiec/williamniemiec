@@ -1,0 +1,38 @@
+Here is the output in JSON format:
+
+
+{
+  "Restrictive Measure Tracking": {
+    "restrictive measure type": "",
+    "frequency": "",
+    "deadline_date": ""
+  },
+  "Assessment Schedule": {
+    "assessment type": "",
+    "frequency": "",
+    "deadline_date": ""
+  },
+  "Risk Assessment": {
+    "risk level": "",
+    "assessment type": "",
+    "frequency": "",
+    "deadline_date": ""
+  },
+  "Change Indication": {
+    "change type": "",
+    "restrictive measure type": "",
+    "frequency": "",
+    "deadline_date": ""
+  },
+  "Caregiver Notification": {
+    "notification type": "",
+    "caregiver type": "",
+    "frequency": "",
+    "deadline_date": ""
+  },
+  "Documentation": {
+    "documentation type": "",
+    "frequency": "",
+    "deadline_date": ""
+  }
+}

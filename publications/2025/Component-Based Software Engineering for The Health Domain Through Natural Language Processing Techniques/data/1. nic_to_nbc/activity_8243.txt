@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Virtual Companion": {
+    "Anxiety detection": {},
+    "Calming messages": {},
+    "Virtual presence": {},
+    "Breathing exercises": {},
+    "Safety reminders": {}
+  }
+}

@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+    "Coordinator Profile": {
+        "Parameters": {
+            "Name": {"Type": "text"},
+            "Education": {"Type": "text"},
+            "Experience": {"Type": "text"},
+            "Skills": {"Type": "list of text values"},
+            "Availability": {"Type": "options"},
+            "References": {"Type": "list of text values"},
+            "Evaluation Criteria": {"Type": "list of text values"}
+        }
+    }
+}

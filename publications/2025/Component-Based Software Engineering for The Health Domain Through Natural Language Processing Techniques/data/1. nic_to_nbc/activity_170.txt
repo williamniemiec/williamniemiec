@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Vital Sign Tracker": {
+    "name": "Vital Sign Tracker",
+    "description": "Monitor respiratory rate and blood pressure",
+    "frequency": "As needed",
+    "respiratory_rate": "Number",
+    "blood_pressure": "Number",
+    "notes": "Text"
+  }
+}

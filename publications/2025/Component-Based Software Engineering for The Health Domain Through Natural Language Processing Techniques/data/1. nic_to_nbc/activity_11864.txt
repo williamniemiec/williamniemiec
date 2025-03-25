@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Self-Care Routine": {
+    "Routine Name": {"Description": "Name of the self-care routine", "Required": true, "Type": "text"},
+    "Activities": {"Description": "List of self-care activities to be performed", "Required": true, "Type": "unordered list", "Options": ["exercise", "meditation", "journaling", "etc."]},
+    "Frequency": {"Description": "How often to perform each self-care activity", "Required": true, "Type": "options", "Options": ["daily", "every other day", "weekly", "etc."]},
+    "Time": {"Description": "What time of day to perform each self-care activity", "Required": true, "Type": "time"},
+    "Reminders": {"Description": "Whether to send reminders for each self-care activity", "Required": false, "Type": "boolean"}
+  }
+}
+
+
+Let me know if this is what you were expecting!

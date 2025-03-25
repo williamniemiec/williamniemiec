@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Safety Barrier Guide": {
+    "Parameters": {
+      "Title": {"Type": "text"},
+      "Safety Barrier Tips": {"Type": "list", "Example": ["Install window guards or stops on upper story windows", "Use balcony gates or barriers to prevent access", "Install safety gates at the top and bottom of stairs"]},
+      "Barrier Types": {"Type": "list", "Example": ["Window guards", "Balcony gates", "Safety gates"]},
+      "Images": {"Type": "list"},
+      "Frequency": {"Type": "options"}
+    }
+  }
+}

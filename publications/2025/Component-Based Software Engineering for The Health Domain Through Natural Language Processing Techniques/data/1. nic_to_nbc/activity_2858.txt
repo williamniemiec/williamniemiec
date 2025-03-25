@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Antiemetic Medication": {
+    "Parameters": {
+      "Medication Name": {"Type": "text"},
+      "Dosage": {"Type": "text"},
+      "Frequency": {"Type": "options"},
+      "Start Date": {"Type": "datetime"},
+      "End Date": {"Type": "datetime"},
+      "Effectiveness": {"Type": "options"}
+    }
+  }
+}

@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+  "Restraint Rotation": {
+    "Parameters": {
+      "Restraint Locations": {
+        "Options": ["wrists", "ankles", "others"]
+      },
+      "Rotation Schedule": {
+        "Options": ["every 2 hours", "every 4 hours", "others"]
+      },
+      "Removal/Reapplication Order": {
+        "Type": "text"
+      },
+      "Safety Precautions": {
+        "Options": ["second person assist", "bed alarm", "others"]
+      },
+      "Notes": {
+        "Type": "text"
+      }
+    }
+  }
+}
+
+
+Let me know if this meets your requirements!

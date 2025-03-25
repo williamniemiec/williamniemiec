@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "information",
+    "parameters": [
+        {
+            "name": "title",
+            "type": "text"
+        },
+        {
+            "name": "content",
+            "type": "text"
+        },
+        {
+            "name": "type",
+            "type": "options",
+            "options": [
+                { value: "rationale", label: "Rationale" },
+                { value: "guideline", label: "Guideline" },
+                { value: "instruction", label: "Instruction" }
+            ]
+        }
+    ]
+}

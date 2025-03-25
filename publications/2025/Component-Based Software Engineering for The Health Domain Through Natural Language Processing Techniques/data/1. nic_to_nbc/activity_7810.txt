@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Visual Scanning Exercise": {
+        "parameters": [
+            {"Activity Type": {}},
+            {"Affected Side": {}},
+            {"Instructions": {}},
+            {"Frequency": {}},
+            {"Reflection Question": {}}
+        ]
+    }
+}

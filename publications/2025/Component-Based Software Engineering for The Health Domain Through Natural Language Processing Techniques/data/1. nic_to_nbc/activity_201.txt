@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Pacifier Reminder": {
+    "Frequency": ["every4Hours", "custom"],
+    "Duration": "text",
+    "Instructions": "text",
+    "Start Date": "datetime",
+    "End Date": "datetime"
+  }
+}

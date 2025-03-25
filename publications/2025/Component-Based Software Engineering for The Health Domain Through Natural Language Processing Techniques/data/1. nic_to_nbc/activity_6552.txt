@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Extremity Protection": {
+    "Parameters": {
+      "Extremity": {"Type": "options"},
+      "Protection methods": {"Type": "options"},
+      "Additional instructions": {"Type": "text"},
+      "Deadline date": {"Type": "datetime"}
+    }
+  }
+}
+
+
+Note that I removed the "Reminders" parameter as it was marked as a boolean type, which is not applicable in this context.

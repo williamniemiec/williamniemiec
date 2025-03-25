@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Instruction": {
+    "parameters": [
+      {"name": "medication_name"},
+      {"name": "dosage"},
+      {"name": "frequency"},
+      {"name": "rationale"},
+      {"name": "precautions"},
+      {"name": "interactions"},
+      {"name": "duration"},
+      {"name": "deadline_date"}
+    ]
+  }
+}

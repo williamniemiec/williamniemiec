@@ -1,0 +1,14 @@
+
+
+
+{
+  "Product Assessment": {
+    "parameters": [
+      {"name": "Product Category", "type": "text"},
+      {"name": "Current Product", "type": "text"},
+      {"name": "Product Needs", "type": "list of questions"},
+      {"name": "Frequency", "type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      {"name": "Deadline Date", "type": "datetime"}
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+Here is the output in JSON format:
+
+
+{
+  "Photo": {
+    "parameters": {
+      "name": "",
+      "frequency": "",
+      "deadline_date": "",
+      "instructions": ""
+    }
+  },
+  "Question": {
+    "parameters": {
+      "name": "",
+      "answer_type": "",
+      "options": [],
+      "frequency": ""
+    }
+  },
+  "Symptom Checker": {
+    "parameters": {
+      "name": "",
+      "symptoms": [],
+      "severity": "",
+      "frequency": ""
+    }
+  }
+}

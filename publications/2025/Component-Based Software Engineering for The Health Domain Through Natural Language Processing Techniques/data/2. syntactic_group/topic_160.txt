@@ -1,0 +1,10 @@
+{
+  "name": "Fatigue Intervention and Causal Attribution",
+  "description": "Focuses on evaluating fatigue through questionnaires, identifying the underlying causes, and using appropriate interventions. Includes scoring systems and pharmaco-based instruments to attribute causes and track changes in fatigue levels.",
+  "type": "non-periodic",
+  "input": ["Fatigue", "Causal attribution", "Intervention", "Questionnaire", "Scoring", "Pharmacological tools"],
+  "output": ["Fatigue score", "Causal analysis report", "Intervention outcomes"],
+  "preconditions": ["User is experiencing fatigue and undergoing evaluation"],
+  "postconditions": ["Improved understanding of fatigue causes and effectiveness of interventions"],
+  "dependencies": ["Fatigue tracking tool", "Pharmaco-assessment platform", "Scoring systems"]
+}

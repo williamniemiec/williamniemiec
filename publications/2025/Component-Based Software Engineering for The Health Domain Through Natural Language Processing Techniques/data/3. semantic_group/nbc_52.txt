@@ -1,0 +1,28 @@
+{
+  "name": "Progress",
+  "description": "Monitors user progress toward defined goals, tracking key metrics, visualizing achievements, and generating reports on milestones and improvements.",
+  "type": "periodic",
+  "input": [
+    "Goal setting",
+    "Progress percentage",
+    "Custom graph display",
+    "Stage tracking",
+    "Metrics tracking"
+  ],
+  "output": [
+    "Progress report",
+    "Stage progression visualization",
+    "Goal achievement tracking"
+  ],
+  "preconditions": [
+    "User is working toward a defined goal or objective"
+  ],
+  "postconditions": [
+    "Ongoing progress monitoring and goal updates"
+  ],
+  "dependencies": [
+    "Goal-setting platform",
+    "Data visualization tools",
+    "Progress tracking system"
+  ]
+}

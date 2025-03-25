@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Family/Caregiver Involvement": {
+    "parameters": {
+      "Name": {"type": "text"},
+      "Description": {"type": "text"},
+      "Family/Caregiver Role": {"type": "options", "options": ["exercise buddy", "motivator", "etc."]},
+      "Communication Method": {"type": "options", "options": ["messaging", "video calls", "etc."]},
+      "Goal Setting": {"type": "text"},
+      "Progress Tracking": {"type": "text"},
+      "Reminders": {"type": "boolean"},
+      "Feedback": {"type": "boolean"}
+    }
+  }
+}

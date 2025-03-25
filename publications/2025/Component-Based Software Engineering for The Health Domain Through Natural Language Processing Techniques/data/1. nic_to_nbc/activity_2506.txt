@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Therapy Referral": {
+    "Parameters": {
+      "Therapy Options": {"Type": "options", "Options": ["Group program for smoking cessation", "Individual therapist for smoking cessation", "Online therapy platform for smoking cessation", "Other"]},
+      "Referral Reason": {"Type": "text"},
+      "Therapist Information": {"Type": "text"},
+      "Appointment Scheduling": {"Type": "boolean"}
+    }
+  }
+}

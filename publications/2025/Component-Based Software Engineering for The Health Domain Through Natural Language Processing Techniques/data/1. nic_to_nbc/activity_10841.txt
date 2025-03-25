@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "Sterile Gloves": {
+    "Gloving Instructions": {
+      "Description": "Instructions for donning sterile gloves",
+      "Required": true,
+      "Type": ["text", "video", "illustration"]
+    },
+    "Sterile Glove Confirmation": {
+      "Description": "Confirmation that sterile gloves have been donned",
+      "Required": true,
+      "Type": "question",
+      "Options": [
+        { "value": "yes", "label": "Yes, I have donned sterile gloves" },
+        { "value": "no", "label": "No, I have not donned sterile gloves" }
+      ]
+    }
+  }
+}
+
+
+Let me know if this meets your requirements!

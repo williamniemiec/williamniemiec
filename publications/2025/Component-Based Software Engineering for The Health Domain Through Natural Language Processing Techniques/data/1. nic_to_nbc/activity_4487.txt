@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Single Pharmacy Instruction": {
+    "parameters": [
+      {"Pharmacy Selection": "select (from a list of pharmacies)"},
+      {"Medication List": "unordered list"},
+      {"Pharmacy Notification": "boolean (true/false)"},
+      {"Error Risk Reduction": "text (educational content)"},
+      {"Family Member Access": "boolean (true/false)"},
+      {"Reminder": "boolean (true/false)"}
+    ]
+  }
+}

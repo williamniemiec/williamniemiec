@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Memory Aids": {
+    "Aid Type": {},
+    "Items": {},
+    "Frequency": {},
+    "Deadline": {}
+  }
+}

@@ -1,0 +1,15 @@
+
+
+
+{
+    "Drug Level Tracker": {
+        "Parameters": {
+            "Drug Name": {"Type": "text"},
+            "Current Level": {"Type": "number"},
+            "Target Range": {"Type": "range"},
+            "Frequency": {"Options": ["daily", "weekly", "biweekly", "monthly"]},
+            "Notes": {"Type": "text"},
+            "Alert Threshold": {"Type": "number"}
+        }
+    }
+}

@@ -1,0 +1,30 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Administration": {
+    "name": {"type": "text"},
+    "why": {"type": "text"},
+    "medication_type": {"type": "options", "options": ["antiinflammatory agents", "bronchodilators", "both"]},
+    "dosage": {"type": "text"},
+    "frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "deadline_date": {"type": "datetime"},
+    "notes": {"type": "text"}
+  },
+  "Antiinflammatory Agent Administration": {
+    "name": {"type": "text"},
+    "why": {"type": "text"},
+    "dosage": {"type": "text"},
+    "frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "deadline_date": {"type": "datetime"},
+    "notes": {"type": "text"}
+  },
+  "Bronchodilator Administration": {
+    "name": {"type": "text"},
+    "why": {"type": "text"},
+    "dosage": {"type": "text"},
+    "frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "deadline_date": {"type": "datetime"},
+    "notes": {"type": "text"}
+  }
+}

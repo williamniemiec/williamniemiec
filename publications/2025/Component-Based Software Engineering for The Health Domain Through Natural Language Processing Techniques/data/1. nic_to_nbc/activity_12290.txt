@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Reassurance",
+    "parameters": [
+        {
+            "name": "Message",
+            "type": "text"
+        },
+        {
+            "name": "Frequency",
+            "type": "options",
+            "options": [
+                { value: "daily", label: "Daily" },
+                { value: "onlyOnce", label: "Only once" },
+                { value: "everyHours", label: "Every x hours" },
+                { value: "everyDays", label: "Every x days" }
+            ]
+        },
+        {
+            "name": "Deadline Date",
+            "type": "datetime"
+        }
+    ]
+}

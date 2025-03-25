@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "NO-CODE ELEMENT NAME": "warning",
+  "PARAMETER ESPECIFICATIONS": {
+    "name": {"type": "text"},
+    "hazards": {"type": "list", "options": ["Inappropriate pacing or rhythm sensing", "Shortened generator life", "Cardiac arrhythmias", "Cardiac arrest", "Other hazards (to be specified)"]},
+    "description": {"type": "text"},
+    "precautions": {"type": "list", "options": ["Avoid strong electromagnetic fields", "Keep a safe distance from sources of interference", "Follow manufacturer guidelines for device use", "Other precautions (to be specified)"]},
+    "resources": {"type": "list", "options": ["Links to manufacturer websites", "Safety guidelines from reputable organizations", "Other resources (to be specified)"]}
+  }
+}
+
+Note that I removed the not applicable parameters and kept only the `PARAMETER ESPECIFICATIONS` section, as per your request.

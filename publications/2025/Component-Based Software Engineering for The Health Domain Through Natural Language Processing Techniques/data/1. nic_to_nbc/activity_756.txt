@@ -1,0 +1,11 @@
+Here is the JSON output:
+
+
+{
+  "Treatment Regimen Education": {
+    "Parameters": {
+      "Treatment Regimen": {"Type": "text"},
+      "Self-Care Responsibilities": {"Type": "list of responsibilities"}
+    }
+  }
+}

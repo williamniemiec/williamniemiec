@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Catheter Insertion",
+    "parameters": [
+        {
+            "name": "Catheter Type"
+        },
+        {
+            "name": "Instructions"
+        },
+        {
+            "name": "Frequency"
+        },
+        {
+            "name": "Deadline Date"
+        }
+    ]
+}

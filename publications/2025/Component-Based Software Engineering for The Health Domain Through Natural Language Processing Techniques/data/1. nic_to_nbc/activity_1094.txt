@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Scrotal Support": {
+    "Instructions": {"type": "text"},
+    "Type": {"type": "options"},
+    "Frequency": {"type": "options"},
+    "Duration": {"type": "datetime"},
+    "Reminders": {"type": "boolean"}
+  }
+}
+
+
+Note that I removed the introduction, conclusion, and number sections, as well as the not applicable parameters. Let me know if this meets your requirements!

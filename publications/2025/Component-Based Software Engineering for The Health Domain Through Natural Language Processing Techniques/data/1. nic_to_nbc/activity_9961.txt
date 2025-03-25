@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+"Lubricant Selection": {
+    "Lubricant Options": {
+        "Type": "options",
+        "Description": "a brief text describing the lubricant option",
+        "Image": "an image or illustration demonstrating the lubricant option"
+    },
+    "Contraindications": {
+        "Type": "text"
+    },
+    "Head and Scalp Exclusion": {
+        "Type": "text"
+    },
+    "Application Instructions": {
+        "Type": "text"
+    },
+    "Image": {
+        "Type": "image or animation"
+    },
+    "Confirmation": {
+        "Type": "boolean"
+    }
+}
+}

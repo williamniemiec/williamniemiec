@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Task": {
+    "Parameters": {
+      "Task Description": {"Type": "text"},
+      "Responsible Person": {"Type": "text"},
+      "Trigger": {"Type": "options"},
+      "Supplies": {"Type": "list of text"}
+    }
+  }
+}

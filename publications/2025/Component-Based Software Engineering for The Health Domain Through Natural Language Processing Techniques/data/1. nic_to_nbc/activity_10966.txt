@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "CPR Quality Monitoring": [
+    {"name": "CPR metrics", "description": "select the CPR metrics to monitor"},
+    {"name": "target values", "description": "set target values for each CPR metric"},
+    {"name": "monitoring frequency", "description": "specify how often to monitor CPR quality"}
+  ]
+}
+
+
+I removed all the unnecessary information and only kept the `{{ NO-CODE ELEMENT NAME }}` and `{{ PARAMETER ESPECIFICATIONS }}`. I also formatted the output as a JSON object with the no-code element name as the key, and an array of parameter objects as its value.

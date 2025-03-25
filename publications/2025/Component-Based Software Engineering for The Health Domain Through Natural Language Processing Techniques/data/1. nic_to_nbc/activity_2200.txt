@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Immunization Tracker": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Immunization Type": {"Type": "text"},
+      "Due Date": {"Type": "datetime"},
+      "Reminders": {"Type": "text"},
+      "Vaccination Record": {"Type": "text"},
+      "Resources": {"Type": "text"}
+    }
+  }
+}

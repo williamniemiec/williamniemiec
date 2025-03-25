@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Caregiver Challenge Acknowledgement": {
+    "Name": {"Type": "text"},
+    "Challenge Types": {"Type": "list of options (with text and icons)"},
+    "Acknowledgement Messages": {"Type": "list of text messages (with options for customization)"},
+    "Empathy Level": {"Type": "options (with a list of possible empathy levels, e.g., low, medium, high)"},
+    "Resources": {"Type": "list of resources (with text, links, and icons)"}
+  }
+}

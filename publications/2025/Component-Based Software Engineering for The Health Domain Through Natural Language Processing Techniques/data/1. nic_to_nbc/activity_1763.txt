@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Clear Answer": {
+    "question": {"type": "text"},
+    "answer": {"type": "text"},
+    "answer_format": {"type": "options", "options": ["text", "image", "video"]},
+    "readability_level": {"type": "options", "options": ["simple", "complex"]}
+  },
+  "Question": {
+    "question": {"type": "text"},
+    "question_type": {"type": "options", "options": ["open-ended", "multiple-choice"]}
+  }
+}

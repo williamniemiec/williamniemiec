@@ -1,0 +1,42 @@
+Here is the output in JSON format:
+
+
+{
+  "Discharge Instructions": {
+    "Parameters": [
+      {
+        "Name": "Discharge Instructions",
+        "Description": "List of instructions for the patient's discharge",
+        "Required": true,
+        "Type": "form",
+        "Form Fields": [
+          {"label": "Follow-up Appointment", "type": "datetime"},
+          {"label": "Medications", "type": "text"},
+          {"label": "Wound Care", "type": "text"},
+          {"label": "Activity Level", "type": "text"},
+          {"label": "Dietary Restrictions", "type": "text"}
+        ]
+      },
+      {
+        "Name": "Next Level of Care",
+        "Description": "Specify the next level of care for the patient",
+        "Required": true,
+        "Type": "options",
+        "Options": [
+          {"value": "home", "label": "Home"},
+          {"value": "rehabilitation", "label": "Rehabilitation"},
+          {"value": "skilledNursingFacility", "label": "Skilled Nursing Facility"},
+          {"value": "hospice", "label": "Hospice"}
+        ]
+      },
+      {
+        "Name": "Deadline Date",
+        "Description": "Specify the date for the patient's discharge",
+        "Required": true,
+        "Type": "datetime"
+      }
+    ]
+  }
+}
+
+I removed all unnecessary elements and only kept the `{{ NO-CODE ELEMENT NAME }}` (which is "Discharge Instructions") and the `{{ PARAMETER ESPECIFICATIONS }}` (which are the parameters with their specifications). I also reformatted the output to be in JSON format. Let me know if this meets your requirements!

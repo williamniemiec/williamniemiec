@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Kidney Function Tracker": {
+    "Parameters": {
+      "Name": {},
+      "Lab Test": {},
+      "Result": {},
+      "Reference Range": {},
+      "Urine Output": {},
+      "Frequency": {},
+      "Deadline Date": {},
+      "Additional Notes": {}
+    }
+  }
+}

@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Hemoglobin/Hematocrit Tracking": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Hemoglobin Level (Before)": {"Type": "number"},
+      "Hematocrit Level (Before)": {"Type": "number"},
+      "Hemoglobin Level (After)": {"Type": "number"},
+      "Hematocrit Level (After)": {"Type": "number"},
+      "Frequency": {"Type": "options", "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"Type": "datetime"},
+      "Notes": {"Type": "text"}
+    }
+  }
+}

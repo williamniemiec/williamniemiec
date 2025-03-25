@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+  "Environmental Checklist": {
+    "Parameters": {
+      "Checklist Items": {
+        "Type": "options",
+        "Values": ["Cleanliness", "Well-ventilation", "Relaxed atmosphere", "Absence of strong odors"]
+      },
+      "Instructions": {
+        "Type": "text"
+      },
+      "Frequency": {
+        "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+      },
+      "Deadline Date": {
+        "Type": "datetime"
+      }
+    }
+  }
+}

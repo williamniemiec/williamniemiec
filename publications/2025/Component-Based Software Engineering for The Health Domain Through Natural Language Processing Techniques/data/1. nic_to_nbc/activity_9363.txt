@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Care Documentation": {
+    "Parameters": {
+      "Care Notes": {"Type": "text or HTML content"},
+      "Service Dates": {"Type": "list of date objects", "Properties": ["Date", "Service Type"]},
+      "Service Providers": {"Type": "list of healthcare professional objects", "Properties": ["Name", "Role"]},
+      "Care Plan Updates": {"Type": "care plan object", "Properties": ["Goals", "Interventions", "Progress"]},
+      "Attachments": {"Type": "list of file objects", "Properties": ["File Name", "File Type", "File Content"]}
+    }
+  }
+}

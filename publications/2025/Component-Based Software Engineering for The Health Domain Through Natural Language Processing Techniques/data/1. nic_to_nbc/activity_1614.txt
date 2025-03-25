@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+    "Additional Examiner Information": {
+        "Parameters": {
+            "Examiner Type": {},
+            "Information Requested": {},
+            "Examiner Contact Information": {},
+            "Request Method": {},
+            "Response Tracking": {},
+            "Information Integration": {}
+        }
+    }
+}

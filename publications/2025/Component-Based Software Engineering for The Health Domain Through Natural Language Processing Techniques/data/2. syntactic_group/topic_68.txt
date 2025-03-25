@@ -1,0 +1,10 @@
+{
+  "name": "Instructional Content and Tips",
+  "description": "Provides instructional content in various formats, including text, multimedia, and tips. Focuses on delivering clear guidance with reasons and helpful tips, often presented in a book-like structure or through stacking information for easy understanding.",
+  "type": "non-periodic",
+  "input": ["Instructional content", "Tips and advice", "Reasoning for tips", "Text and multimedia resources", "Content titles"],
+  "output": ["Instructional materials", "Tips effectiveness report", "Stacked content layout"],
+  "preconditions": ["User is engaging with instructional content or learning materials"],
+  "postconditions": ["Improved understanding of the subject matter through clear instructions and helpful tips"],
+  "dependencies": ["Content management system", "Multimedia platform", "Instructional design tools"]
+}

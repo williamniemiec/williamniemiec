@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Health Literacy Cue Observation": {
+    "cue_categories": {
+      "type": "options",
+      "options": ["form completion", "appointment adherence", "medication adherence", "medication knowledge", "information seeking", "reading behavior"]
+    },
+    "cue_indicators": {
+      "type": "list of indicators"
+    },
+    "observation_method": {
+      "type": "options",
+      "options": ["self-report", "provider observation", "electronic monitoring"]
+    },
+    "result": {
+      "type": "boolean"
+    }
+  }
+}

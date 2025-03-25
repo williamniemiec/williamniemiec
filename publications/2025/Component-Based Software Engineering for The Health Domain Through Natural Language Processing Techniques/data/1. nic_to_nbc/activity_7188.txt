@@ -1,0 +1,26 @@
+Here is the output in JSON format, keeping only the `{{ NO-CODE ELEMENT NAME }}` and `{{ PARAMETER ESPECIFICATIONS }}` parts:
+
+
+{
+    "name": "Treatment and Referral",
+    "parameters": [
+        {
+            "name": "Treatment Options"
+        },
+        {
+            "name": "Treatment Instructions"
+        },
+        {
+            "name": "Referral"
+        },
+        {
+            "name": "Healthcare Provider"
+        },
+        {
+            "name": "Message"
+        },
+        {
+            "name": "Deadline Date"
+        }
+    ]
+}

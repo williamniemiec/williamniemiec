@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Resource Library": {
+    "Parameters": {
+      "Title": {"Type": "text"},
+      "Resources": {"Type": "list of resources (e.g., PDF URLs, video URLs, online link URLs)"},
+      "Resource type": {"Options": ["pamphlet", "video", "online link"]},
+      "Description": {"Type": "text"}
+    }
+  }
+}
+
+
+Note that I removed the `Frequency` and `Deadline date` parameters as they are not applicable to the no-code element. Let me know if you have any further questions!

@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Environmental Comfort Guide": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Lighting Options": {"Type": "list of lighting options"},
+      "Color Scheme": {"Type": "list of color scheme options"},
+      "Soundscapes": {"Type": "list of soundscapes"},
+      "Temperature Control": {"Type": "list of temperature control options"},
+      "Clutter Reduction": {"Type": "list of clutter reduction tips"},
+      "Nature Integration": {"Type": "list of nature integration options"}
+    }
+  }
+}

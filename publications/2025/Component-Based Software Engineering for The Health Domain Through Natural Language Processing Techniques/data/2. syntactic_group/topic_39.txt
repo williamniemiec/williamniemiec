@@ -1,0 +1,10 @@
+{
+  "name": "Equipment and Supply Stock Management",
+  "description": "Manages equipment and supply inventory, including monitoring stock levels, conducting maintenance checks, reordering items, and ensuring functionality of critical equipment such as tanks.",
+  "type": "periodic",
+  "input": ["Item name", "Stock quantity", "Maintenance schedule", "Reorder level", "Functional status"],
+  "output": ["Stock report", "Reorder alert", "Maintenance completion confirmation"],
+  "preconditions": ["Inventory is tracked and monitored regularly"],
+  "postconditions": ["Stock levels are maintained, and equipment is fully functional"],
+  "dependencies": ["Inventory management system", "Maintenance tracking platform", "Reorder notification system"]
+}

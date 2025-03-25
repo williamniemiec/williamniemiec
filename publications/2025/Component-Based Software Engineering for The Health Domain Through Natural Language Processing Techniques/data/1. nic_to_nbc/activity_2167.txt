@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+    "Goal Setting": {
+        "Parameters": {
+            "Goal Categories": {"Type": "options"},
+            "Goal Statements": {"Type": "list of goal statements"},
+            "Incremental Steps": {"Type": "list of incremental steps"},
+            "Target Values": {"Type": "list of target values"},
+            "Achievement Criteria": {"Type": "list of achievement criteria"},
+            "Frequency": {"Type": "options"},
+            "Deadline Date": {"Type": "datetime"}
+        }
+    },
+    "Form": {
+        "Parameters": {
+            "Fields": {"Type": "list of fields"},
+            "Frequency": {"Type": "options"},
+            "Deadline Date": {"Type": "datetime"}
+        }
+    }
+}

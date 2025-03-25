@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Reality Testing": {
+    "Prompt": {},
+    "Belief Statement": {},
+    "Reality Testing Questions": {},
+    "Reflection": {},
+    "Next Steps": {}
+  }
+}

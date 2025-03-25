@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+{
+    "Malignant Hyperthermia Emergency Care Review": {
+        "Review Content": {"type": "list of text"},
+        "Staff Members": {"type": "list of text"},
+        "Review Schedule": {"type": "recurring schedule"},
+        "Protocol Compliance": {"type": "boolean"},
+        "Documentation": {"type": "boolean"}
+    }
+}

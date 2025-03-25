@@ -1,0 +1,30 @@
+Here is the output in JSON format:
+
+
+{
+  "No-code element name": "Structured Environment",
+  "Parameters": {
+    "Routine Type": {
+      "Type": "options",
+      "Options": ["Daily schedule", "Medication reminders", "Meal times", "Sleep schedule", "Other ( specify )"]
+    },
+    "Frequency": {
+      "Type": "options",
+      "Options": ["Daily", "Weekly", "Monthly"]
+    },
+    "Reminder Method": {
+      "Type": "options",
+      "Options": ["Alarms", "Notifications", "Visual cues (e.g., calendars, charts)", "Verbal reminders", "Other ( specify )"]
+    },
+    "Environmental Cues": {
+      "Type": "options",
+      "Options": ["Calendars", "Charts", "Pictures", "Labels", "Other ( specify )"]
+    },
+    "Customization": {
+      "Type": "text"
+    },
+    "Deadline Date": {
+      "Type": "datetime"
+    }
+  }
+}

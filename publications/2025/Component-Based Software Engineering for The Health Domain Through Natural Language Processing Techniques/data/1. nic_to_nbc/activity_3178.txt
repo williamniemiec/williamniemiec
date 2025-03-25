@@ -1,0 +1,42 @@
+Here is the output in JSON format:
+
+{
+  "Positive Reinforcement": {
+    "Exercise Type": {
+      "Description": "Select the type of exercise or physical activity",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        {"value": "strengthTraining", "label": "Strength Training"},
+        {"value": "cardiovascular", "label": "Cardiovascular"},
+        {"value": "flexibility", "label": "Flexibility"},
+        {"value": "balance", "label": "Balance"}
+      ]
+    },
+    "Reinforcement Message": {
+      "Description": "Enter a positive reinforcement message to encourage the patient",
+      "Required": true,
+      "Type": "text"
+    },
+    "Frequency": {
+      "Description": "How often to provide positive reinforcement",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        {"value": "daily", "label": "Daily"},
+        {"value": "weekly", "label": "Weekly"},
+        {"value": "monthly", "label": "Monthly"}
+      ]
+    },
+    "Reward": {
+      "Description": "Offer a reward for reaching exercise or physical activity milestones",
+      "Required": false,
+      "Type": "options",
+      "Options": [
+        {"value": "badge", "label": "Badge"},
+        {"value": "points", "label": "Points"},
+        {"value": "discount", "label": "Discount"}
+      ]
+    }
+  }
+}

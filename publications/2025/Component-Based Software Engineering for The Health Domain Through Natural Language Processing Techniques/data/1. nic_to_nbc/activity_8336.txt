@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+  "Transition Assessment": {
+    "Questions": {
+      "Question Text": "text",
+      "Answer Type": "options",
+      "Options": {
+        "Label": "text",
+        "Value": "number"
+      }
+    },
+    "Scoring": {
+      "Scoring Method": "text",
+      "Scoring Scale": "range"
+    },
+    "Results": {
+      "Summary": "text",
+      "Recommendations": "list of text or bullet points"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Vital Sign Tracker": {
+    "Parameters": {
+      "Vital Signs": {
+        "Type": "multi-select options"
+      },
+      "Frequency": {
+        "Type": "options"
+      },
+      "Unit": {
+        "Type": "options"
+      },
+      "Target Range": {
+        "Type": "range"
+      }
+    }
+  }
+}

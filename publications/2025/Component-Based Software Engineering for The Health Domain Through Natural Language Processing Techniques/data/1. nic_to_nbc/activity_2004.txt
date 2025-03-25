@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+    "Environmental Cue Assessment": {
+        "cue_types": {"type": "unordered list"},
+        "patient_needs": {"type": "text"}
+    },
+    "Cue Design": {
+        "cue_content": {"type": "text"},
+        "cue_format": {"type": "options (list of predefined formats)"},
+        "cue_placement": {"type": "text"}
+    },
+    "Cue Implementation": {
+        "cue_installation": {"type": "text"},
+        "cue_adjustment": {"type": "boolean (yes/no)"}
+    },
+    "Cue Evaluation": {
+        "cue_effectiveness": {"type": "rating scale (e.g., 1-5)"},
+        "cue_adjustments": {"type": "text"}
+    }
+}
+
+
+Note that I removed the `NOT APPLICABLE` parameters as per your request. Let me know if you need any further assistance!

@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Police Alert and Photo": {
+    "Parameters": {
+      "Police Contact": {},
+      "Alert Method": {},
+      "Photo": {},
+      "Frequency": {}
+    }
+  }
+}

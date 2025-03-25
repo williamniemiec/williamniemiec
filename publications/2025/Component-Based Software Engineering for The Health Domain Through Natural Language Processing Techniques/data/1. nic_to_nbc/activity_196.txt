@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Pressure Relief Device": {
+    "Parameters": {
+      "Name": {},
+      "Device Type": {},
+      "Device Instructions": {},
+      "Risk Assessment": {},
+      "Device Schedule": {},
+      "Progress Tracking": {},
+      "Notes": {}
+    }
+  }
+}

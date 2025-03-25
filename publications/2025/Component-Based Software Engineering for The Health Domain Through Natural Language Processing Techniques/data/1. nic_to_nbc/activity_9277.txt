@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Referral": {
+    "parameters": {
+      "Referral Reason": {"type": "text"},
+      "Referral Type": {"type": "options"},
+      "Referral Details": {"type": "text or structured data"}
+    }
+  }
+}

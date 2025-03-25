@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Post-Administration Instructions": {
+    "parameters": {
+      "Supine Positioning Guidance": {
+        "type": "text"
+      },
+      "Duration Guidance": {
+        "type": "numeric"
+      }
+    }
+  }
+}

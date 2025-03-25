@@ -1,0 +1,30 @@
+Here is the output in JSON format:
+
+
+{
+  "Reality Orientation Exercises": {
+    "parameters": [
+      {"name": "exercises", "description": "View reality orientation exercises", "required": true, "type": "guide-page"}
+    ]
+  },
+  "Calendar and Scheduling": {
+    "parameters": [
+      {"name": "events", "description": "View and add events to your calendar", "required": true, "type": "calendar-event"},
+      {"name": "reminders", "description": "Set reminders for upcoming events", "required": true, "type": "reminder"}
+    ]
+  },
+  "Environmental Cues": {
+    "parameters": [
+      {"name": "cue_type", "description": "Select the type of environmental cue (e.g., clock, calendar, map)", "required": true, "type": "options"},
+      {"name": "cue_image", "description": "View the environmental cue image or video", "required": true, "type": "image" or "video"}
+    ]
+  },
+  "Caregiver Support": {
+    "parameters": [
+      {"name": "caregiver_name", "description": "Enter the name of your caregiver", "required": true, "type": "text"},
+      {"name": "support_type", "description": "Select the type of support (e.g., chat, video call)", "required": true, "type": "options"}
+    ]
+  }
+}
+
+Let me know if you need any further assistance!

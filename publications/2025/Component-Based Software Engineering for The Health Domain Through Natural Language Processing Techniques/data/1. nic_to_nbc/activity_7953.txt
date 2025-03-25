@@ -1,0 +1,49 @@
+Here is the output in JSON format:
+
+
+{
+    "Cast Care Education": {
+        "parameters": [
+            {
+                "name": "content",
+                "description": "Educational content about cast care",
+                "required": true,
+                "type": ["text", "video", "interactive tutorial"]
+            },
+            {
+                "name": "quiz",
+                "description": "Take a quiz to test your understanding of cast care",
+                "required": false,
+                "type": "quiz",
+                "questions": [
+                    {
+                        "text": "What is the most important thing to avoid when caring for a cast?",
+                        "options": [
+                            { "text": "Getting it wet", "correct": true },
+                            { "text": "Moving it too much", "correct": false },
+                            { "text": "Not eating enough", "correct": false }
+                        ]
+                    },
+                    {
+                        "text": "How often should you check the cast for signs of irritation?",
+                        "options": [
+                            { "text": "Daily", "correct": true },
+                            { "text": "Weekly", "correct": false },
+                            { "text": "Monthly", "correct": false }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "resources",
+                "description": "Additional resources for cast care",
+                "required": false,
+                "type": "list",
+                "items": [
+                    { "text": "Cast care brochure", "url": "https://example.com/cast-care-brochure" },
+                    { "text": "Cast care video", "url": "https://example.com/cast-care-video" }
+                ]
+            }
+        ]
+    }
+}

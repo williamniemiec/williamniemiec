@@ -1,0 +1,34 @@
+Here is the output in JSON format:
+
+
+{
+  "Lab Value Monitoring": {
+    "parameters": {
+      "Lab Value Type": {
+        "type": "options",
+        "options": [
+          {"value": "oxygenation", "label": "Oxygenation"},
+          {"value": "acidBaseBalance", "label": "Acid-Base Balance"}
+        ]
+      },
+      "Monitoring Frequency": {
+        "type": "options",
+        "options": [
+          {"value": "daily", "label": "Daily"},
+          {"value": "custom", "label": "Custom"}
+        ]
+      },
+      "Threshold Values": {
+        "type": "text"
+      },
+      "Notification": {
+        "type": "options",
+        "options": [
+          {"value": "email", "label": "Email"},
+          {"value": "pushNotification", "label": "Push Notification"},
+          {"value": "inAppNotification", "label": "In-App Notification"}
+        ]
+      }
+    }
+  }
+}

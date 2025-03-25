@@ -1,0 +1,34 @@
+Here is the output in JSON format:
+
+
+{
+  "Self-Awareness Assessment Tool": {
+    "Parameters": {
+      "Assessment tool type": {
+        "Type": "options",
+        "Options": ["paper and pencil measures", "audio-tape", "videotape", "interactional exercises with other people"]
+      },
+      "Assessment goal": {
+        "Type": "options",
+        "Options": ["increase self-awareness", "identify patterns of behavior", "improve communication skills"]
+      },
+      "Patient data": {
+        "Type": "options",
+        "Options": ["thoughts", "feelings", "behaviors", "physical symptoms"]
+      },
+      "Counselor feedback": {
+        "Type": "boolean"
+      },
+      "Frequency": {
+        "Type": "options",
+        "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+      },
+      "Deadline date": {
+        "Type": "datetime"
+      }
+    }
+  }
+}
+
+
+Let me know if this meets your requirements!

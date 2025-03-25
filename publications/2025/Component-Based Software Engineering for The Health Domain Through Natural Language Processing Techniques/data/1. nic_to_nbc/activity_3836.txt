@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Referral": {
+    "reason": {"type": "text"},
+    "counseling_type": {"type": "options"},
+    "provider": {"type": "text or link"},
+    "instructions": {"type": "text or HTML"},
+    "follow_up": {"type": "list of questions or scheduling interface"}
+  }
+}

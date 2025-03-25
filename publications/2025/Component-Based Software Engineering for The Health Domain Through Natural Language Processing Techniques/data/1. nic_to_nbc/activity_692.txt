@@ -1,0 +1,37 @@
+Here is the output in JSON format:
+
+
+{
+  "Personalization": {
+    "Parameters": {
+      "Patient Goals": {
+        "Type": "list of goals",
+        "Properties": {
+          "Goal Description": {
+            "Type": "text"
+          },
+          "Goal Priority": {
+            "Type": "options (e.g. high, medium, low)"
+          }
+        }
+      },
+      "Information to Relate": {
+        "Type": "text or list of texts"
+      },
+      "Relevance Criteria": {
+        "Type": "object",
+        "Properties": {
+          "Keyword Matching": {
+            "Type": "list of keywords"
+          },
+          "Semantic Analysis": {
+            "Type": "options (e.g. entity recognition, sentiment analysis, etc.)"
+          }
+        }
+      }
+    }
+  }
+}
+
+
+Let me know if you need any further assistance!

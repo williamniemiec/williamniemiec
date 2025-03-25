@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Positioning Guide": {
+    "parameters": {
+      "Positioning instructions": {
+        "type": "text"
+      },
+      "Frequency": {
+        "type": "options"
+      }
+    }
+  }
+}

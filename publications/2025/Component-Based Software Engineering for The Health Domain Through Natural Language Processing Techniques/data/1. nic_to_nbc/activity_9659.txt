@@ -1,0 +1,73 @@
+Here is the output in JSON format:
+
+
+{
+    "parameters": [
+        { 
+            "name": "Name", 
+            "type": "text"
+        },
+        { 
+            "name": "Diagnosis Types", 
+            "type": "list of options",
+            "options": [
+                { value: "nursing diagnoses", label: "Nursing Diagnoses" },
+                { value: "medical diagnoses", label: "Medical Diagnoses" }
+            ]
+        },
+        { 
+            "name": "Fields", 
+            "type": "list of objects",
+            "objects": [
+                {
+                    "label": "Diagnosis",
+                    "type": "text"
+                },
+                {
+                    "label": "ICD-10 Code",
+                    "type": "code"
+                },
+                {
+                    "label": "Date of Resolution",
+                    "type": "date"
+                }
+            ]
+        },
+        { 
+            "name": "Optional Sections", 
+            "type": "list of objects",
+            "objects": [
+                {
+                    "label": "Resolution Details",
+                    "fields": [
+                        {
+                            "label": "Resolution Date",
+                            "type": "date"
+                        },
+                        {
+                            "label": "Resolution Method",
+                            "type": "text"
+                        }
+                    ]
+                },
+                {
+                    "label": "Follow-up Plan",
+                    "fields": [
+                        {
+                            "label": "Follow-up Date",
+                            "type": "date"
+                        },
+                        {
+                            "label": "Follow-up Instructions",
+                            "type": "text"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "name": "Resolved Diagnoses"
+}
+
+
+I removed all unnecessary parts from the input text and kept only the `{{ PARAMETER ESPECIFICATIONS }}` and `{{ NO-CODE ELEMENT NAME }}` parts, formatting them into a JSON structure.

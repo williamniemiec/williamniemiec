@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Decision Reinforcement": {
+    "parameters": {
+      "Decision": {"type": "text"},
+      "Reinforcement Message": {"type": "text"},
+      "Reinforcement Type": {"type": "text"},
+      "Frequency": {"options": ["daily", "weekly", "monthly"]},
+      "Deadline Date": {"type": "datetime"}
+    }
+  }
+}

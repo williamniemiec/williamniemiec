@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "Instruction": {
+    "Parameters": {
+      "Instruction text": "Apply graduated elastic compression stockings or sleeves to reduce the risk of postthrombotic syndrome or recurrence of DVT.",
+      "Image or video": null,
+      "Frequency": ["daily", "every 2 hours", "every 4 hours"],
+      "Duration": ["8 hours", "12 hours", "24 hours"]
+    }
+  },
+  "Task": {
+    "Parameters": {
+      "Instruction text": "Apply graduated elastic compression stockings or sleeves to reduce the risk of postthrombotic syndrome or recurrence of DVT.",
+      "Image or video": null,
+      "Frequency": ["daily", "every 2 hours", "every 4 hours"],
+      "Duration": ["8 hours", "12 hours", "24 hours"],
+      "Reminder": null
+    }
+  }
+}
+
+
+Note: I removed the `*` characters from the parameter specifications and formatted the output as a JSON object. I also assumed that empty parameters (e.g. `Image or video`) should be represented as `null`. Let me know if you'd like me to make any changes!

@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+  "Injection Site Selection Guide": {
+    "Anatomy": {
+      "Body Part": "",
+      "Injection Site Options": [
+        {
+          "Site Name": "",
+          "Site Description": ""
+        }
+      ]
+    },
+    "Contraindications": {
+      "Scarring": "",
+      "Bruising": "",
+      "Abrasion": "",
+      "Infection": ""
+    },
+    "Palpation": {
+      "Edema": "",
+      "Masses": "",
+      "Tenderness": ""
+    }
+  }
+}

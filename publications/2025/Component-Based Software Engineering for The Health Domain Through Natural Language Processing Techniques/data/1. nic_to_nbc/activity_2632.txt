@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+    "barriers_to_care": {
+        "parameters": [
+            { 
+                "name": "barriers", 
+                "description": "list of barriers to family planning services and prenatal care"
+            },
+            { 
+                "name": "overcoming_barriers", 
+                "description": "ways of overcoming barriers to family planning services and prenatal care"
+            }
+        ]
+    }
+}

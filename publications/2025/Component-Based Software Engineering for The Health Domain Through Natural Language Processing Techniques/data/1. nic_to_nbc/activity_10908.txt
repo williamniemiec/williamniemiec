@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "Multistimulation Program": {
+    "parameters": {
+      "Program Components": {
+        "type": "list of options"
+      },
+      "Frequency": {
+        "options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+      },
+      "Duration": {
+        "type": "time interval"
+      },
+      "Cognitive Goals": {
+        "type": "text or options"
+      },
+      "Personalization": {
+        "type": "text or options"
+      }
+    }
+  }
+}

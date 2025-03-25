@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Summoning Help": {
+    "Parameters": {
+      "Summoning Method": {},
+      "Location": {},
+      "Instructions": {},
+      "Frequency of Checks": {},
+      "Notes": {}
+    }
+  }
+}

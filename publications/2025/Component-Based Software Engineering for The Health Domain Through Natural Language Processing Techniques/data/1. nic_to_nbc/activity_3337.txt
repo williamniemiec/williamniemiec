@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Instruction": {
+    "Parameters": {
+      "Title": {},
+      "Video": {}
+    }
+  }
+}
+
+
+I removed all unnecessary information and kept only the `{{ NO-CODE ELEMENT NAME }}` which is `"Instruction"` and the required `{{ PARAMETER ESPECIFICATIONS }}`. I also removed the not applicable parameters (Reminder and Confirmation) since they are optional. Let me know if this meets your requirements!

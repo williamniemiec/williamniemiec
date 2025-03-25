@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Muscle Care Instruction": {
+    "Affected Limb": {
+      "Type": "options",
+      "Options": ["left arm", "right arm", "left leg", "right leg"]
+    },
+    "Care Instructions": {
+      "Type": "text"
+    },
+    "Reminders": {
+      "Type": "boolean"
+    }
+  }
+}

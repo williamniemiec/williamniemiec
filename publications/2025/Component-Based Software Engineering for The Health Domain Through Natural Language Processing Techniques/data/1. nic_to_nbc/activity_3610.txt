@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Test Result Notification": {
+    "Parameters": {
+      "Test Result": {"Type": "text"},
+      "Result Details": {"Type": "text"},
+      "Health Implications": {"Type": "boolean"},
+      "Notification Method": {"Type": "options"}
+    }
+  }
+}

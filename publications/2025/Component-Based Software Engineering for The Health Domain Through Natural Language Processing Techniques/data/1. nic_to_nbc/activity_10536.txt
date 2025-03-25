@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+    "financial_security": {
+        "parameters": [
+            {"name": "current_financial_situation"},
+            {"name": "financial_goals"},
+            {"name": "banking_options", 
+             "banking_option": [
+                {"name": "option_name"},
+                {"name": "option_features"}
+            ]},
+            {"name": "security_measures"}
+        ]
+    }
+}

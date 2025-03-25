@@ -1,0 +1,37 @@
+Here is the output in JSON format:
+
+
+{
+  "Sterile Field Setup Guide": {
+    "parameters": [
+      {
+        "name": "steps",
+        "description": "Step-by-step guide to set up a sterile field",
+        "required": true,
+        "type": "list",
+        "list": [
+          {"label": "Step 1: Choose a clean surface", "text": "Select a clean and flat surface to set up your sterile field."},
+          {"label": "Step 2: Lay out the sterile drape", "text": "Place the sterile drape on the surface, ensuring it is centered and smooth."},
+          {"label": "Step 3: Open the sterile supplies", "text": "Open the sterile supplies, such as gloves and dressings, and place them on the sterile field."},
+          {"label": "Step 4: Maintain asepsis", "text": "Ensure your hands are clean and gloved, and avoid touching non-sterile surfaces."}
+        ]
+      },
+      {
+        "name": "asepsis_reminders",
+        "description": "Reminders to maintain asepsis throughout the process",
+        "required": true,
+        "type": "list",
+        "list": [
+          {"label": "Wash your hands frequently", "text": "Wash your hands with soap and water before and after handling the wound."},
+          {"label": "Avoid touching non-sterile surfaces", "text": "Avoid touching non-sterile surfaces, such as your face or hair, while handling the wound."}
+        ]
+      },
+      {
+        "name": "notes",
+        "description": "Add any notes or comments about setting up a sterile field",
+        "required": false,
+        "type": "text"
+      }
+    ]
+  }
+}

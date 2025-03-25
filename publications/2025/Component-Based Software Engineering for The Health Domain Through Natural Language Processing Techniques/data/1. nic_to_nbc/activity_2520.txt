@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "No-Code Element Name": "Symptom Review",
+  "Parameters": {
+    "Symptom Log": {"Type": "reference to the \"Symptom Tracker\" no-code element"},
+    "Review Frequency": {"Type": "options (e.g., daily, weekly, monthly)"},
+    "Review Questions": {"Type": "list of text"},
+    "Action Plan": {"Type": "list of text"}
+  }
+}

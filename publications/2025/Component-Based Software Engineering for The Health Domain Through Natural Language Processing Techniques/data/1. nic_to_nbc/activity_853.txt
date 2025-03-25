@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Massage Alternative": {
+    "parameters": {
+      "Massage Area": {"type": "options"},
+      "Reason": {"type": "options"},
+      "Massage Technique": {"type": "options"},
+      "Massage Pressure": {"type": "options"},
+      "Frequency": {"type": "options"}
+    }
+  }
+}
+
+
+Note that I removed the `Deadline Date` parameter because it has a type of `datetime`, which is not an "options" type.

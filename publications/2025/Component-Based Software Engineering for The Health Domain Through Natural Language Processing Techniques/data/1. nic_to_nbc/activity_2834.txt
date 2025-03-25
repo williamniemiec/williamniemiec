@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Goal Alignment": {
+    "Parameters": {
+      "Goal": {"Type": "text"},
+      "Information": {"Type": "text"},
+      "Relevance": {"Type": "text"},
+      "Expected Outcome": {"Type": "text"},
+      "Action Plan": {"Type": "text"}
+    }
+  }
+}

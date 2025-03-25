@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+
+{
+  "Strengths and Development Needs": {
+    "parameters": {
+      "name": {"type": "text"},
+      "areas_of_strength": {"type": "list of text"},
+      "development_needs": {"type": "list of text"},
+      "input_type": {"type": "options (text, rating scale, etc.)"},
+      "frequency": {"type": "options (daily, onlyOnce, everyHours, everyDays)"},
+      "deadline_date": {"type": "datetime"}
+    }
+  }
+}
+
+
+Let me know if this is what you were looking for!

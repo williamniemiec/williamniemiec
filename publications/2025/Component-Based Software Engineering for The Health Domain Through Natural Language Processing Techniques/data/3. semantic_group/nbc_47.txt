@@ -1,0 +1,10 @@
+{
+  "name": "Quiz",
+  "description": "Collects information from the patient.",
+  "type": "periodic",
+  "input": ["Title", "List of questions"],
+  "output": ["Cognitive ability report", "Scoring analysis", "Ability assessment feedback"],
+  "preconditions": ["The title must be a non-empty text", "The list of questions must contain at least one question, and each question must be a non-empty text"],
+  "postconditions": ["A form is delivered to the user"],
+  "dependencies": []
+}

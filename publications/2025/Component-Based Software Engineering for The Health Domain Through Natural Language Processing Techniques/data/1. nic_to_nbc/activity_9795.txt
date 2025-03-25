@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Stress Reduction Promotion",
+    "parameters": [
+        { 
+            "name": "Techniques", 
+            "type": "options"
+        },
+        { 
+            "name": "Frequency", 
+            "type": "options"
+        },
+        { 
+            "name": "Duration", 
+            "type": "text"
+        }
+    ]
+}
+
+
+I removed the `Additional Resources` parameter since it's not applicable (i.e., it's optional and doesn't have a specific value). Let me know if you need any further assistance!

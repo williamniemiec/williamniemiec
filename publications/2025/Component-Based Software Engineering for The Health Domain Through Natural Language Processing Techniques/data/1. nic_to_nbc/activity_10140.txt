@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+    "Procedure Instructions": {
+        "parameters": [
+            {"title": {"type": "text"}},
+            {"instructions": {"type": "text"}},
+            {"steps": {"type": "list", 
+                "step": {
+                    "description": {"type": "text"},
+                    "details": {"type": "text"},
+                    "media": {"type": "media"}
+                }
+            }},
+            {"preparation": {"type": "text"}},
+            {"during_procedure": {"type": "text"}},
+            {"after_procedure": {"type": "text"}}
+        ]
+    }
+}

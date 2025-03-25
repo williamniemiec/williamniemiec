@@ -1,0 +1,39 @@
+Here is the output in JSON format:
+
+
+{
+  "Vital Signs Tracking": {
+    "type": ["blood pressure", "heart rate", "respiratory rate"],
+    "frequency": ["daily", "every 2 hours"],
+    "deadline_date": []
+  },
+  "Symptom Checker": {
+    "symptom type": ["pain", "dizziness", "numbness"],
+    "severity level": ["mild", "moderate", "severe"],
+    "frequency": ["daily", "every 2 hours"],
+    "deadline_date": []
+  },
+  "Medication Adherence": {
+    "medication name": [],
+    "dosage": [],
+    "frequency": ["daily", "every 2 hours"],
+    "deadline_date": []
+  },
+  "Nutrition and Hydration Tracking": {
+    "food type": ["breakfast", "lunch", "dinner"],
+    "water intake": ["number of glasses"],
+    "frequency": ["daily", "every 2 hours"],
+    "deadline_date": []
+  },
+  "Skin Integrity Assessment": {
+    "skin area": ["arms", "legs", "back"],
+    "assessment type": ["wound", "skin lesion"],
+    "frequency": ["daily", "every 2 hours"],
+    "deadline_date": []
+  },
+  "Fall Risk Assessment": {
+    "assessment type": ["dizziness", "balance"],
+    "frequency": ["daily", "every 2 hours"],
+    "deadline_date": []
+  }
+}

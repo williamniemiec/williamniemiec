@@ -1,0 +1,13 @@
+
+
+
+{
+    "Travel History": {
+        "Parameters": {
+            "Travel Questions": {"Type": "list of text or multiple-choice questions"},
+            "Travel Details": {"Type": "text or date fields"},
+            "Risk Assessment": {"Type": "algorithm or formula to calculate a risk score"},
+            "Guidance": {"Type": "text or image"}
+        }
+    }
+}

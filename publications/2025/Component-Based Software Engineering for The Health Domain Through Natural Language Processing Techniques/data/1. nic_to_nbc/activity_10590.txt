@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Caregiver Education": {
+    "Therapy Information": {"type": ["text", "images", "videos", "interactive tutorials"]},
+    "Caregiver Role": {"type": ["text", "checklist"]},
+    "Therapy Schedule": {"type": ["calendar", "schedule view"]},
+    "Caregiver Questions": {"type": ["text", "messaging system"]},
+    "Therapy Resources": {"type": ["links", "PDFs", "multimedia content"]}
+  }
+}

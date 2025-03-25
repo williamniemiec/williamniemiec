@@ -1,0 +1,32 @@
+Here is the output in JSON format:
+
+
+{
+    "risk information": {
+        "parameters": [
+            { 
+                "name": "risk level", 
+                "description": "level of risk for injury (e.g. low, moderate, high)", 
+                "required": true, 
+                "type": "options",
+                "options": [
+                    { "value": "low", "label": "Low" },
+                    { "value": "moderate", "label": "Moderate" },
+                    { "value": "high", "label": "High" }
+                ]
+            },
+            { 
+                "name": "risk factors", 
+                "description": "list of risk factors contributing to the level of risk", 
+                "required": true, 
+                "type": "array of text"
+            },
+            { 
+                "name": "prevention tips", 
+                "description": "list of tips to prevent injury", 
+                "required": true, 
+                "type": "array of text"
+            }
+        ]
+    }
+}

@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+    "denture_oral_care_assistance": {
+        "parameters": [
+            {"name": "denture_removal"},
+            {"name": "denture_cleansing"},
+            {"name": "denture_reinsertion"},
+            {"name": "gum_brushing"},
+            {"name": "remaining_teeth_brushing"},
+            {"name": "tongue_brushing"},
+            {"name": "gum_massage"},
+            {"name": "frequency"}
+        ]
+    }
+}

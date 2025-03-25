@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Supply Assistance": {
+    "Name": {},
+    "Supply List": {},
+    "Supply Instructions": {},
+    "Budget and Insurance": {},
+    "Order Tracking": {},
+    "Supply Reminders": {},
+    "Notes": {}
+  }
+}

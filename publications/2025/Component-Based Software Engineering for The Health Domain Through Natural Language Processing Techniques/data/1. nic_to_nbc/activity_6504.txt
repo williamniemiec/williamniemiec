@@ -1,0 +1,10 @@
+Here is the output in JSON format:
+
+
+{
+    "Simple Text": {
+        "text": {"type": "text"},
+        "reading_level": {"type": "options", "options": ["simple", "moderate", "complex"]},
+        "format": {"type": "options", "options": ["plain text", "bold", "italic"]}
+    }
+}

@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Complication Monitoring": {
+    "Monitoring Parameters": {},
+    "Symptom Checklist": {},
+    "Frequency of Monitoring": {},
+    "Action Plan": {}
+  }
+}

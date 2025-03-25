@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Vital Sign Tracker": {
+    "parameters": {
+      "Vital Sign Type": {},
+      "Frequency": {},
+      "Unit": {},
+      "Target Range": {}
+    }
+  }
+}
+
+
+Note: I removed `Deadline Date` as it's not applicable since it's a datetime type and doesn't fit the format of the other parameters. Let me know if you need any further adjustments!

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Animal Care": {
+    "Parameters": {
+      "Animal Care Title": {},
+      "Animal Type": {},
+      "Care Instructions": {},
+      "Frequency": {},
+      "Duration": {}
+    }
+  }
+}

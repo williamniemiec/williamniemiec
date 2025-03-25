@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+    "Multilingual Information Provision": {
+        "language": {"type": "options", "options": ["Spanish", "Mandarin", "Arabic"]},
+        "information_type": {"type": "options", "options": ["medication instructions", "appointment schedules", "test results"]},
+        "format": {"type": "options", "options": ["written", "oral", "video"]},
+        "content": {"type": "text or multimedia"}
+    }
+}

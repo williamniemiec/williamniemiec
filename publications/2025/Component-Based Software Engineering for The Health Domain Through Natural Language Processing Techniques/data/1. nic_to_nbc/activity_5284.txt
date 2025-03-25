@@ -1,0 +1,39 @@
+Here is the output in JSON format:
+
+{
+    "name": "Personalized Reflection",
+    "parameters": [
+        {
+            "name": "Generic Statement",
+            "type": "text"
+        },
+        {
+            "name": "Reflection Prompt",
+            "type": "text"
+        },
+        {
+            "name": "Emotional Connection",
+            "type": "options",
+            "options": [
+                { value: "happy", label: "Happy" },
+                { value: "sad", label: "Sad" },
+                { value: "anxious", label: "Anxious" },
+                { value: "relieved", label: "Relieved" },
+            ]
+        },
+        {
+            "name": "Frequency",
+            "type": "options",
+            "options": [
+                { value: "daily", label: "Daily" },
+                { value: "onlyOnce", label: "Only once" },
+                { value: "everyHours", label: "Every x hours" },
+                { value: "everyDays", label: "Every x days" },
+            ]
+        },
+        {
+            "name": "Deadline Date",
+            "type": "datetime"
+        }
+    ]
+}

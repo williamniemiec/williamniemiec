@@ -1,0 +1,54 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Peripheral Risk Assessment",
+    "parameters": [
+        {
+            "name": "Risk Factor Identification",
+            "type": "options",
+            "options": [
+                { "value": "diabetes", "label": "Diabetes" },
+                { "value": "smoking", "label": "Smoking" },
+                { "value": "elderly", "label": "Elderly" },
+                { "value": "hypertension", "label": "Hypertension" },
+                { "value": "elevated cholesterol levels", "label": "Elevated Cholesterol Levels" },
+                { "value": "other", "label": "Other (please specify)" }
+            ]
+        },
+        {
+            "name": "Comprehensive Peripheral Assessment",
+            "type": "options",
+            "options": [
+                { "value": "pulse check", "label": "Pulse Check" },
+                { "value": "edema assessment", "label": "Edema Assessment" },
+                { "value": "capillary refill check", "label": "Capillary Refill Check" },
+                { "value": "color assessment", "label": "Color Assessment" },
+                { "value": "temperature assessment", "label": "Temperature Assessment" },
+                { "value": "other", "label": "Other (please specify)" }
+            ]
+        },
+        {
+            "name": "Risk Factor Modification",
+            "type": "options",
+            "options": [
+                { "value": "smoking cessation", "label": "Smoking Cessation" },
+                { "value": "blood pressure control", "label": "Blood Pressure Control" },
+                { "value": "cholesterol management", "label": "Cholesterol Management" },
+                { "value": "other", "label": "Other (please specify)" }
+            ]
+        },
+        {
+            "name": "Instructions",
+            "type": "text or video"
+        },
+        {
+            "name": "Images/Videos",
+            "type": "image or video"
+        },
+        {
+            "name": "Deadline Date",
+            "type": "datetime"
+        }
+    ]
+}

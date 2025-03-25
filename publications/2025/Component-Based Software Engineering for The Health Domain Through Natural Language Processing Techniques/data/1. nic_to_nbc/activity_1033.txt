@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Dental Follow-up Care Guide": {
+    "guide title": {},
+    "Importance of Follow-up Care": {},
+    "Risks of Infrequent Follow-up": {},
+    "Recommended Follow-up Schedule": {}
+  }
+}

@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "Rest Period Reminders": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Rest Period Frequency": {"Type": "options", "Options": [
+        {"value": "hourly", "label": "Hourly"},
+        {"value": "every2Hours", "label": "Every 2 hours"},
+        {"value": "every4Hours", "label": "Every 4 hours"}
+      ]},
+      "Rest Period Duration": {"Type": "options", "Options": [
+        {"value": "15Minutes", "label": "15 minutes"},
+        {"value": "30Minutes", "label": "30 minutes"},
+        {"value": "1Hour", "label": "1 hour"}
+      ]},
+      "Reminder Message": {"Type": "text"}
+    }
+  }
+}
+
+
+Note that I removed the `Customization` parameter since it's not applicable (the description mentions it allows patients to customize, but there are no specific options or values provided). Let me know if you have any further questions!

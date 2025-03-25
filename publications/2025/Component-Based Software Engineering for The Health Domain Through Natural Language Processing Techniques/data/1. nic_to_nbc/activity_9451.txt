@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Progress Tracker": {
+    "Behavior": {"type": "text"},
+    "Previous Records": {"type": "table"},
+    "Current Records": {"type": "table"},
+    "Comparison Criteria": {"type": "options", "options": ["frequency", "duration", "intensity", "custom"]},
+    "Reflection Prompt": {"type": "text"},
+    "Frequency": {"type": "options", "options": ["daily", "weekly", "monthly", "custom"]}
+  }
+}

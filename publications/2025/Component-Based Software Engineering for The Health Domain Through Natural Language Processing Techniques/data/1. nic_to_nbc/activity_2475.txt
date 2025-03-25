@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Discharge Assessment": {
+    "Parameters": {
+      "Questions": {},
+      "Answer Type": {},
+      "Scoring": {},
+      "Threshold": {},
+      "Resources": {}
+    }
+  }
+}

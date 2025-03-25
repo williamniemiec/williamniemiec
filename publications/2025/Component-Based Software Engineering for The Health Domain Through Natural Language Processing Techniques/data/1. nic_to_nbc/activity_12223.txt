@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Coping Strategy Explorer": {
+    "Trigger Situation": {"type": "text"},
+    "Current Coping Strategy": {"type": "text"},
+    "Alternative Coping Strategies": {"type": "options"},
+    "Consequence Analysis": {"type": "text"},
+    "Rating": {"type": "scale"},
+    "Frequency": {"options": ["daily", "onlyOnce", "everyHours", "everyDays"]}
+  }
+}

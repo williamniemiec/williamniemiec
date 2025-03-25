@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Coping Strategies Assessment": {
+    "Parameters": {
+      "Question": {},
+      "Response Type": {},
+      "Frequency": {},
+      "Coping Strategies List": {}
+    }
+  },
+  "Coping Strategies Question": {},
+  "Coping Actions Question": {},
+  "Coping Strategies Rating": {}
+}
+
+
+Let me know if you need any further assistance!

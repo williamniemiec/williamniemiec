@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Environment Setup": {
+    "Parameters": {
+      "Environment Type": {},
+      "Distraction Reduction": {},
+      "Comfort Level": {},
+      "Calming Aids": {},
+      "Environment Customization": {}
+    }
+  }
+}

@@ -1,0 +1,80 @@
+Here is the output in JSON format:
+
+
+{
+  "Ambulation Tracker": {
+    "parameters": {
+      "name": "Ambulation Tracker",
+      "description": "Track your ambulation activities with the use of the interpleural catheter",
+      "ambulation_activities": [
+        {
+          "name": "walking",
+          "description": "Have you walked today?",
+          "type": "options",
+          "options": [
+            { "value": "yes", "label": "Yes" },
+            { "value": "no", "label": "No" }
+          ]
+        },
+        {
+          "name": "distance_walked",
+          "description": "How far did you walk today?",
+          "type": "number"
+        },
+        {
+          "name": "duration_walked",
+          "description": "How long did you walk today?",
+          "type": "time"
+        },
+        {
+          "name": "catheter_use",
+          "description": "Did you use your interpleural catheter during ambulation?",
+          "type": "options",
+          "options": [
+            { "value": "yes", "label": "Yes" },
+            { "value": "no", "label": "No" }
+          ]
+        }
+      ]
+    }
+  },
+  "Journal": {
+    "parameters": {
+      "name": "Ambulation Journal",
+      "description": "Keep a journal of your ambulation activities with the use of the interpleural catheter",
+      "entries": [
+        {
+          "name": "ambulation_date",
+          "description": "Date of ambulation",
+          "type": "date"
+        },
+        {
+          "name": "ambulation_activities",
+          "description": "What ambulation activities did you do today?",
+          "type": "text"
+        },
+        {
+          "name": "distance_walked",
+          "description": "How far did you walk today?",
+          "type": "number"
+        },
+        {
+          "name": "duration_walked",
+          "description": "How long did you walk today?",
+          "type": "time"
+        },
+        {
+          "name": "catheter_use",
+          "description": "Did you use your interpleural catheter during ambulation?",
+          "type": "options",
+          "options": [
+            { "value": "yes", "label": "Yes" },
+            { "value": "no", "label": "No" }
+          ]
+        }
+      ],
+      "frequency": "specify how often the patient should make a journal entry",
+      "deadline_date": "specify the due date for the patient to make a journal entry"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Wound Care": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Wound Location": {"Type": "text"},
+      "Dressing Instructions": {"Type": "text or multimedia"},
+      "Bleeding Control Instructions": {"Type": "text or multimedia"},
+      "Splint Application Instructions": {"Type": "text or multimedia"},
+      "Frequency": {"Type": "options"},
+      "Deadline Date": {"Type": "datetime"}
+    }
+  }
+}

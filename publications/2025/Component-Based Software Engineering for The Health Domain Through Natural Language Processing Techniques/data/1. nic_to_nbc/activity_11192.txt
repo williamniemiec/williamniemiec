@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Cast Angle Maintenance": {
+    "Parameters": {
+      "Cast Angle Instructions": {"Type": "text or video"},
+      "Angle Specifications": {"Type": "numerical values (e.g., 90 degrees, 120 degrees)"},
+      "Drying Period Duration": {"Type": "time interval (e.g., 24 hours, 48 hours)"},
+      "Angle Check Frequency": {"Type": "options (e.g., every hour, every 2 hours, every 4 hours)"},
+      "Notes": {"Type": "text"}
+    }
+  }
+}

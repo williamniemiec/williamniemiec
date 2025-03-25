@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Care Plan Collaboration": {
+    "parameters": [
+      {"name": "Care Plan Template", "type": "form"},
+      {"name": "Collaborators", "type": "list of names or roles"},
+      {"name": "Expected Outcomes", "type": "list of text fields"},
+      {"name": "Interventions", "type": "list of text fields"},
+      {"name": "Implementation Plan", "type": "list of text fields"},
+      {"name": "Frequency", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      {"name": "Deadline Date", "type": "datetime"},
+      {"name": "Name", "type": "text"}
+    ]
+  }
+}

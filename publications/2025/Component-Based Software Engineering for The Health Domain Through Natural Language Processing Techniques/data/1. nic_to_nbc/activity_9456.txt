@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Footwear Assistance": {
+    "parameters": {
+      "Footwear Type": {"type": "text"},
+      "Walking Facilitation": {"type": "boolean"},
+      "Injury Prevention": {"type": "boolean"},
+      "Assistance Level": {"type": "scale"},
+      "Footwear Fitting": {"type": "boolean"},
+      "Notes": {"type": "text"}
+    }
+  }
+}

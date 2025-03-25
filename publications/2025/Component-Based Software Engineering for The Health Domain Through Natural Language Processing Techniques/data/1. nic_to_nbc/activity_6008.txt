@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Administration": {
+    "Parameters": {
+      "Name": {},
+      "Rights": {},
+      "Verification": {},
+      "Condition": {},
+      "Frequency": {}
+    }
+  }
+}
+
+
+Note: I removed the `Deadline Date` parameter as it was not applicable (no value was specified). Let me know if you'd like me to keep it anyway!

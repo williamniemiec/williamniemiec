@@ -1,0 +1,10 @@
+{
+  "name": "Pregnancy and Labor Management",
+  "description": "Monitors fetal and maternal health during pregnancy and labor, including gestational history and decision-making related to vaginal or cesarean delivery.",
+  "type": "non-periodic",
+  "input": ["Maternal health data", "Fetal heart rate", "Pregnancy history", "Labor progress"],
+  "output": ["Labor and delivery plan", "Fetal and maternal health status", "Delivery method recommendation"],
+  "preconditions": ["Pregnancy is monitored and labor has started"],
+  "postconditions": ["Labor process is tracked and delivery decisions are made"],
+  "dependencies": ["Obstetric care system", "Fetal monitoring tools", "Maternal health history database"]
+}

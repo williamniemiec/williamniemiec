@@ -1,0 +1,35 @@
+Here is the output in JSON format:
+
+
+{
+  "Limb Support": {
+    "Device Type": {
+      "Description": "Specify the type of device to use",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "handRoll", "label": "Hand roll" },
+        { "value": "trochanterRoll", "label": "Trochanter roll" },
+        { "value": "other", "label": "Other (please specify)" }
+      ]
+    },
+    "Device Instructions": {
+      "Description": "Instructions for using the device",
+      "Required": true,
+      "Type": "text"
+    },
+    "Frequency": {
+      "Description": "Specify how often to use the device",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "daily", "label": "Daily" },
+        { "value": "every12Hours", "label": "Every 12 hours" },
+        { "value": "custom", "label": "Custom frequency" }
+      ]
+    }
+  }
+}
+
+
+I removed the `Notes` parameter since it was marked as not required. Let me know if you need anything else!

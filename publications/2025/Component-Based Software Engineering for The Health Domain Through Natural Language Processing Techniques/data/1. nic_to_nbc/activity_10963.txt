@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Nonverbal Cue": {
+    "Cue Type": {
+      "Type": "options"
+    },
+    "Description": {
+      "Type": "text"
+    },
+    "Example": {
+      "Type": "media"
+    },
+    "Tips": {
+      "Type": "text"
+    }
+  }
+}

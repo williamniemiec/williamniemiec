@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Hearing Assessment": {
+        "parameters": {
+            "instructions": {"type": "text or html"},
+            "questions": {"type": "list of questions"},
+            "scoring": {"type": "scoring system"},
+            "resources": {"type": "list of resources"}
+        }
+    }
+}

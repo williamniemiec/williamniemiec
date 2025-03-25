@@ -1,0 +1,12 @@
+
+
+
+{
+  "Feeding Safety Tip": {
+    "Title": {"type": "text"},
+    "Content": {"type": "text or html"},
+    "Warning": {"type": "text"},
+    "Alternative": {"type": "text"},
+    "Image": {"type": "image"}
+  }
+}

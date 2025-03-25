@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "Program Evaluator": {
+    "Parameters": {
+      "Title": {"Type": "text"},
+      "Metrics": {
+        "Type": "list of metrics",
+        "Metric": {
+          "Name": {"Type": "text"},
+          "Description": {"Type": "text"},
+          "Type": {"Type": "options", "Options": ["quantitative", "qualitative"]}
+        }
+      },
+      "Data Collection Method": {"Type": "options", "Options": ["surveys", "interviews", "analytics tools", "etc."]},
+      "Cost Analysis": {"Type": "text"},
+      "Benchmarking": {"Type": "text"},
+      "Improvement Plan": {"Type": "text"}
+    }
+  }
+}
+
+
+Let me know if this is what you were expecting!

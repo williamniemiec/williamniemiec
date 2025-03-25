@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+    "Family Alliance Assessment": {
+        "Parameters": {
+            "Family Members": {},
+            "Alliance Questions": {},
+            "Alliance Strength": {},
+            "Alliance Type": {},
+            "Frequency": {
+                "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+            },
+            "Deadline Date": {}
+        }
+    }
+}

@@ -1,0 +1,35 @@
+Here is the output in JSON format:
+
+
+{
+  "Community Resource Directory": {
+    "Parameters": {
+      "Resource List": {"Type": "list of resources"},
+      "Filter Options": {"Type": "filter options"}
+    }
+  },
+  "Resource Details": {
+    "Parameters": {
+      "Resource Description": {"Type": "resource description"},
+      "Contact Information": {"Type": "contact information"}
+    }
+  },
+  "Search Functionality": {
+    "Parameters": {
+      "Search Criteria": {"Type": "search criteria"},
+      "Search Results": {"Type": "search results"}
+    }
+  },
+  "Resource Rating and Review": {
+    "Parameters": {
+      "Rating System": {"Type": "rating system"},
+      "Review Form": {"Type": "review form"}
+    }
+  },
+  "Personalized Recommendations": {
+    "Parameters": {
+      "Patient Profile": {"Type": "patient profile"},
+      "Recommendation Algorithm": {"Type": "recommendation algorithm"}
+    }
+  }
+}

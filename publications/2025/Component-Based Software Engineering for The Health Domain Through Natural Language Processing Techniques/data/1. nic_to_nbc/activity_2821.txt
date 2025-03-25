@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Medication Control": {
+        "Name": {"type": "text"},
+        "Why": {"type": "text"},
+        "Dosage": {"type": "text"},
+        "Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+        "Deadline Date": {"type": "datetime"},
+        "Notes": {"type": "text"}
+    }
+}

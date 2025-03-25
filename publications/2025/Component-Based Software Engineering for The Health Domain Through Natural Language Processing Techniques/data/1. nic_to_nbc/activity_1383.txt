@@ -1,0 +1,28 @@
+
+
+
+{
+    "name": "Self-Assessment",
+    "parameters": [
+        {
+            "name": "Ability Questions",
+            "type": "list of text"
+        },
+        {
+            "name": "Learning Style Questions",
+            "type": "list of text"
+        },
+        {
+            "name": "Answer Type",
+            "type": "options"
+        },
+        {
+            "name": "Frequency",
+            "type": "options"
+        },
+        {
+            "name": "Deadline Date",
+            "type": "datetime"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+Here is the output in JSON format:
+
+
+{
+    "Device Proficiency Assessment": {
+        "Parameters": {
+            "assessment title": {"Required": true, "Type": "text"},
+            "Device": {"Required": true, "Type": "text"},
+            "Criteria": {"Required": true, "Type": "list", "List items": [
+                {"label": "Proper assembly", "value": "assembly"},
+                {"label": "Correct usage technique", "value": "usageTechnique"},
+                {"label": "Ability to maintain device", "value": "maintenance"}
+            ]},
+            "Rating Scale": {"Required": true, "Type": "options", "Options": [
+                {"value": "1", "label": "1 (Novice)"},
+                {"value": "2", "label": "2 (Developing)"},
+                {"value": "3", "label": "3 (Proficient)"},
+                {"value": "4", "label": "4 (Advanced)"},
+                {"value": "5", "label": "5 (Expert)"}
+            ]},
+            "Frequency": {"Required": true, "Type": "options", "Options": [
+                {"value": "daily", "label": "Daily"},
+                {"value": "onlyOnce", "label": "Only once"},
+                {"value": "everyHours", "label": "Every x hours"},
+                {"value": "everyDays", "label": "Every x days"}
+            ]}
+        }
+    }
+}
+
+I removed the `Deadline Date` parameter since it was marked as not required. Let me know if you need any further modifications!

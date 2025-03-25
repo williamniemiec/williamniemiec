@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Fluid Administration": {
+    "Parameters": {
+      "Fluid Type": {"Type": "text"},
+      "Volume": {"Type": "text"},
+      "Rate": {"Type": "text"},
+      "Deadline Date": {"Type": "datetime"},
+      "Instructions": {"Type": "text"},
+      "Purpose": {"Type": "text"}
+    }
+  }
+}

@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Activity Instruction": {
+    "Parameters": {
+      "Activity Name": {"Type": "text"},
+      "Step-by-Step Instructions": {"Type": "list"},
+      "Visual Aids": {"Type": "multimedia"},
+      "Tips and Precautions": {"Type": "text"},
+      "Demonstration": {"Type": "video"},
+      "Practice Exercise": {"Type": "quiz or exercise"}
+    }
+  }
+}

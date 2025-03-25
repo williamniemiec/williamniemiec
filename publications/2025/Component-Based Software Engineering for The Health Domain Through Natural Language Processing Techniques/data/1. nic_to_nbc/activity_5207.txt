@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Progress Monitoring": {
+    "parameters": [
+      {"Goal": {"type": "text"}},
+      {"Monitoring Method": {"type": "options", "options": ["selfReport", "observation", "other"]}},
+      {"Monitoring Frequency": {"type": "options", "options": ["daily", "weekly", "monthly"]}},
+      {"Progress Tracking Tool": {"type": "options", "options": ["journal", "spreadsheet", "other"]}},
+      {"Family Involvement": {"type": "options", "options": ["patientOnly", "patientAndFamily", "other"]}},
+      {"Deadline Date": {"type": "datetime"}},
+      {"Resources": {"type": "file or URL"}},
+      {"Instructions": {"type": "text or video"}}
+    ]
+  }
+}

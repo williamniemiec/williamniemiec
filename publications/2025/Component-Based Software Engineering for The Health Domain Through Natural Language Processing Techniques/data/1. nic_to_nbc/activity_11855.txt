@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Liquid Diet Progression": {
+    "Parameters": {
+      "Diet Type": {},
+      "Duration": {},
+      "Progression Criteria": {},
+      "Liquid Diet Options": {},
+      "Instructions": {}
+    }
+  }
+}

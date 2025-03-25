@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Mood and Anxiety Tracker": {
+    "Assessment Type": {"Type": "options"},
+    "Scale": {"Type": "options"},
+    "Frequency": {"Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"Type": "datetime"},
+    "Pre/Post Administration": {"Type": "options"}
+  }
+}

@@ -1,0 +1,35 @@
+Here is the output in JSON format:
+
+
+{
+    "Follicular Growth Monitoring": {
+        "parameters": [
+            { 
+                "name": "follicle_size", 
+                "description": "Enter the size of your follicle", 
+                "required": true, 
+                "type": "number"
+            },
+            { 
+                "name": "ovulation_day", 
+                "description": "Enter the day of ovulation", 
+                "required": true, 
+                "type": "number"
+            },
+            { 
+                "name": "frequency", 
+                "description": "Specify how often you should track and report your follicular growth", 
+                "required": true, 
+                "type": "options",
+                "options": [
+                    { value: "daily", label: "Daily" },
+                    { value: "everyOtherDay", label: "Every other day" },
+                    { value: "weekly", label: "Weekly" },
+                ]
+            }
+        ]
+    }
+}
+
+
+Note that I removed the `deadline_date` parameter since it's marked as not required. Let me know if you have any further questions!

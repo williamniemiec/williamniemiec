@@ -1,0 +1,48 @@
+Here is the output in JSON format:
+
+
+{
+  "Joint Mobility Check": {
+    "Joint Selection": {
+      "Description": "Which joint do you want to check?",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "ankle", "label": "Ankle" },
+        { "value": "subtalar", "label": "Subtalar" },
+        { "value": "knee", "label": "Knee" },
+        { "value": "hip", "label": "Hip" },
+        { "value": "other", "label": "Other (please specify)" }
+      ]
+    },
+    "Mobility Measurement": {
+      "Description": "How would you rate your joint mobility?",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "full", "label": "Full mobility" },
+        { "value": "partial", "label": "Partial mobility" },
+        { "value": "limited", "label": "Limited mobility" },
+        { "value": "none", "label": "No mobility" }
+      ]
+    },
+    "Mobility Description": {
+      "Description": "Please describe your joint mobility",
+      "Required": false,
+      "Type": "text"
+    },
+    "Frequency": {
+      "Description": "How often should you check your joint mobility?",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "daily", "label": "Daily" },
+        { "value": "everyOtherDay", "label": "Every other day" },
+        { "value": "weekly", "label": "Weekly" }
+      ]
+    }
+  }
+}
+
+
+I removed the `Deadline Date` parameter since it was marked as not required. Let me know if you'd like me to include it anyway!

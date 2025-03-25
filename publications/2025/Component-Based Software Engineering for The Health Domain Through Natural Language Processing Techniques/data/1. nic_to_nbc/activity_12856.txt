@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Strength Training Program": {
+    "Muscle Fitness Level": "",
+    "Musculoskeletal Constraints": "",
+    "Functional Health Goals": "",
+    "Exercise Equipment Resources": "",
+    "Personal Preference": "",
+    "Social Support": "",
+    "Program Plan": ""
+  }
+}

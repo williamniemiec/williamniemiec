@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Prescription": {
+    "Equipment Information": {"Type": "text"},
+    "Prescription Type": {"Type": "options", "Options": ["new", "refill", "renewal"]},
+    "Prescriber Information": {"Type": "text"},
+    "Patient Information": {"Type": "text"},
+    "Prescription Instructions": {"Type": "text"},
+    "Duration": {"Type": "text or date range"},
+    "Refills": {"Type": "number"},
+    "Submission Method": {"Type": "options", "Options": ["electronic", "fax", "mail"]}
+  }
+}

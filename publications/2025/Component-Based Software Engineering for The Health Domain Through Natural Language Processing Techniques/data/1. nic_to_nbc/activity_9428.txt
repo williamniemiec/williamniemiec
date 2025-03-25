@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Follow-up Monitoring": {
+    "Parameters": {
+      "Follow-up Schedule": {},
+      "Follow-up Status": {},
+      "Patient Engagement": {},
+      "Care Team Notification": {},
+      "Intervention Trigger": {}
+    }
+  }
+}

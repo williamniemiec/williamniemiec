@@ -1,0 +1,35 @@
+Here is the output in JSON format:
+
+
+{
+  "Compression Break": {
+    "Parameters": {
+      "Type": {
+        "type": "options",
+        "options": [
+          { "value": "stockings", "label": "Stockings" },
+          { "value": "sleeves", "label": "Sleeves" },
+          { "value": "IPCDevice", "label": "IPC Device Stockings" },
+          { "value": "all", "label": "All" }
+        ]
+      },
+      "Duration": {
+        "type": "text",
+        "default value": "15-20 minutes"
+      },
+      "Frequency": {
+        "type": "options",
+        "options": [
+          { "value": "every8hours", "label": "Every 8 hours" },
+          { "value": "custom", "label": "Custom" }
+        ]
+      },
+      "Protocol": {
+        "type": "text"
+      }
+    }
+  }
+}
+
+
+Note that I removed the `Reminders` parameter as it has the same options as `Frequency`, so it's not applicable in this context.

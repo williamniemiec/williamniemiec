@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+  "Learning Module": {
+    "parameters": [
+      "module title",
+      "content (text, images, videos, etc.)",
+      "quiz or assessment questions"
+    ]
+  },
+  "Quiz or Assessment": {
+    "parameters": [
+      "question text",
+      "answer options",
+      "correct answer",
+      "feedback or explanation"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Hope Journal": {
+    "Prompts": [],
+    "Reflection Type": [
+      "Free text",
+      "Audio recording",
+      "Video recording"
+    ],
+    "Frequency": [
+      "daily",
+      "onlyOnce",
+      "everyHours",
+      "everyDays"
+    ],
+    "Deadline Date": "datetime",
+    "Goal Setting": "text"
+  }
+}

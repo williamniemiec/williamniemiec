@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Dysrhythmia Tracker": {
+    "parameters": {
+      "Activity": {
+        "type": ["text", "options"]
+      },
+      "Onset Time": {
+        "type": "datetime"
+      },
+      "Symptoms": {
+        "type": ["text", "options"]
+      },
+      "Frequency": {
+        "type": "options"
+      }
+    }
+  }
+}

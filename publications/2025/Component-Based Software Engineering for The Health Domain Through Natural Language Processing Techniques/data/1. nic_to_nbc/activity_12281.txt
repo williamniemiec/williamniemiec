@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Discharge Teaching": {
+        "Medication Regimens": {"type": ["text", "table"]},
+        "Activity Restrictions": {"type": ["text", "list"]},
+        "Diet and Hydration": {"type": ["text", "table"]},
+        "Sexual Abstinence": {"type": ["text", "checkbox"]},
+        "Constipation Prevention": {"type": ["text", "list"]},
+        "Teaching Methods": {"type": "options", "options": ["video", "text", "interactive modules", "etc."]},
+        "Patient Understanding": {"type": ["quiz", "survey"]}
+    }
+}

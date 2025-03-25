@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "No-code Element Name": "Developmental Guide",
+  "Parameters": {
+    "Milestones": {
+      "Type": "list of objects",
+      "Properties": {
+        "Milestone Name": {"Type": "text"},
+        "Age Range": {"Type": "range"},
+        "Description": {"Type": "text"},
+        "Tips and Advice": {"Type": "list of text or bullet points"}
+      }
+    },
+    "Customization": {"Type": "boolean"},
+    "Reminders": {"Type": "boolean"}
+  }
+}

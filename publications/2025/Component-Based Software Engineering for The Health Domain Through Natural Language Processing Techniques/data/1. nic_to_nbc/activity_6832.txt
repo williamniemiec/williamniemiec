@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Care Plan Document": {"Type": ["PDF", "interactive document"]},
+    "Care Plan Summary": {"Type": ["text", "images", "videos"]},
+    "Care Team Contacts": {"Type": ["interactive list", "contact card"]},
+    "Medication List": {"Type": ["interactive list", "medication calendar"]},
+    "Appointment Schedule": {"Type": ["interactive calendar", "schedule"]},
+    "Care Plan Updates": {"Type": ["push notifications", "in-app messaging"]},
+    "Care Plan Sharing": {"Type": ["secure sharing feature", "permission controls"]},
+    "No-code Element Name": "Care Plan Viewer"
+}

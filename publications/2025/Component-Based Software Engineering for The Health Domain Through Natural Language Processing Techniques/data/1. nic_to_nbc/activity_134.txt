@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+{
+  "Problem History": {
+    "Parameters": {
+      "Problem": {},
+      "Onset": {},
+      "Duration": {},
+      "Triggers": {},
+      "Previous Treatments": {},
+      "Current Symptoms": {}
+    }
+  },
+  "Rating Scale": {
+    "Parameters": {
+      "Scale": {},
+      "Rating": {}
+    }
+  },
+  "Additional Information": {
+    "Parameters": {
+      "Text": {}
+    }
+  }
+}

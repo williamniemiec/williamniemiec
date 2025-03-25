@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Side Effect Management Plan": {
+    "Medication Name": {"Type": "text"},
+    "Side Effects": {"Type": "list of side effects"},
+    "Management Strategies": {"Type": "list of management strategies"},
+    "Severity Scale": {"Type": "scale"},
+    "Tracking Log": {"Type": "tracking log"},
+    "Alerts and Reminders": {"Type": "alert and reminder settings"},
+    "Resources": {"Type": "list of resources"}
+  }
+}
+
+
+Let me know if you need any further assistance!

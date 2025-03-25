@@ -1,0 +1,53 @@
+Here is the output in JSON format:
+
+
+{
+    "Heart Rate Tracking": {
+        "parameters": {
+            "name": "Baseline Heart Rate",
+            "unit": "bpm",
+            "frequency": "options for how often to track heart rate",
+            "deadline_date": "optional due date for tracking heart rate"
+        }
+    },
+    "Oscillatory Pattern Tracking": {
+        "parameters": {
+            "name": "Oscillatory Patterns",
+            "unit": "description",
+            "frequency": "options for how often to track oscillatory patterns",
+            "deadline_date": "optional due date for tracking oscillatory patterns"
+        }
+    },
+    "Long-term Variability Tracking": {
+        "parameters": {
+            "name": "Long-term Variability",
+            "unit": "description",
+            "frequency": "options for how often to track long-term variability",
+            "deadline_date": "optional due date for tracking long-term variability"
+        }
+    },
+    "Acceleration Tracking": {
+        "parameters": {
+            "name": "Accelerations",
+            "unit": "description",
+            "frequency": "options for how often to track accelerations",
+            "deadline_date": "optional due date for tracking accelerations"
+        }
+    },
+    "Deceleration Tracking": {
+        "parameters": {
+            "name": "Decelerations",
+            "unit": "description",
+            "frequency": "options for how often to track decelerations",
+            "deadline_date": "optional due date for tracking decelerations"
+        }
+    },
+    "Contraction Frequency and Duration Tracking": {
+        "parameters": {
+            "name": "Contraction Frequency and Duration",
+            "unit": ["frequency", "duration"],
+            "frequency": "options for how often to track contraction frequency and duration",
+            "deadline_date": "optional due date for tracking contraction frequency and duration"
+        }
+    }
+}

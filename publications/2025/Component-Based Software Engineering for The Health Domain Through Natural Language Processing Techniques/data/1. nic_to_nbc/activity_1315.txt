@@ -1,0 +1,34 @@
+Here is the output in JSON format:
+
+
+{
+  "Therapeutic Play Supervision": {
+    "Session Type": {
+      "type": "options",
+      "options": ["individual", "group", "family"]
+    },
+    "Therapeutic Goals": {
+      "type": "unordered list",
+      "sub-parameter": {
+        "Therapeutic Goal": {
+          "type": "text"
+        }
+      }
+    },
+    "Supervision Level": {
+      "type": "options",
+      "options": ["direct", "indirect", "remote"]
+    },
+    "Safety Precautions": {
+      "type": "unordered list",
+      "sub-parameter": {
+        "Safety Precaution": {
+          "type": "text"
+        }
+      }
+    },
+    "Session Duration": {
+      "type": "time interval"
+    }
+  }
+}

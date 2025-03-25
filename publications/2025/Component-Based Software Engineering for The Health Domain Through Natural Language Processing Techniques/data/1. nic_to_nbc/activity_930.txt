@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Quiet Environment Preparation": {
+    "parameters": {
+      "Environment Assessment": {"type": "form"},
+      "Quiet Environment Tips": {"type": "text"},
+      "Noise Reduction Strategies": {"type": "list"},
+      "Relaxation Techniques": {"type": "list"},
+      "Environmental Control": {"type": "boolean"}
+    }
+  }
+}

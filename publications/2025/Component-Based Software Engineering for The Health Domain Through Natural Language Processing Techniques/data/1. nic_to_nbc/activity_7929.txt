@@ -1,0 +1,10 @@
+Here is the output in JSON format:
+
+
+{
+  "Shaving Supplies": {
+    "Shaving Cream": {"Description": "Do you have shaving cream?", "Required": true, "Type": "boolean"},
+    "Towel": {"Description": "Do you have a clean towel?", "Required": true, "Type": "boolean"},
+    "Razor": {"Description": "Do you have a safety or electric razor?", "Required": true, "Type": "options", "Options": [{"value": "safetyRazor", "label": "Safety Razor"}, {"value": "electricRazor", "label": "Electric Razor"}]}
+  }
+}

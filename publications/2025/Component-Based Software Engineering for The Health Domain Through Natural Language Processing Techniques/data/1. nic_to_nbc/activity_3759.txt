@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+    "Compression Stocking Education": {
+        "What are Compression Stockings": {},
+        "Benefits": {},
+        "How to Use": {},
+        "Graduated Elastic Compression": {},
+        "Sizing and Fitting": {},
+        "Resources": {}
+    },
+    "Guide": {
+        "Name": {},
+        "Pages": {},
+        "What are Compression Stockings": {}
+    }
+}

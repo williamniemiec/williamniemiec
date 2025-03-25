@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+    "noCodeElementName": "Recommendation",
+    "parameters": {
+        "Title": {"type": "text", "value": "Protect Your Ears While Swimming"},
+        "Content": {"type": "text", "value": "If you're susceptible to ear infections, consider using earplugs when swimming to reduce the risk of water entering your ears and causing infection."},
+        "Condition": {"type": "text", "value": "Patient has a history of ear infections or is prone to ear infections"},
+        "Frequency": {"type": "options", "value": ["everyDays", "weekly"]}
+    }
+}

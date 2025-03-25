@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+  "Defibrillator Test": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Machine Protocol": {"Type": "text"},
+      "Agency Protocol": {"Type": "text"},
+      "Test Steps": {
+        "Type": "ordered list",
+        "Each step in the list can have": {
+          "Description": {"Type": "text"},
+          "Result": {"Type": "options"}
+        }
+      },
+      "Joules": {"Type": "number"},
+      "Frequency": {"Type": "options"},
+      "Deadline Date": {"Type": "datetime"}
+    }
+  }
+}

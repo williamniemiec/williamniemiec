@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Social Support Network Assessment": {
+    "Parameters": {
+      "Questions": ["Do you have a spouse or partner who can provide emotional support?", "Do you have friends or family members who can provide help with childcare or errands?", "Are you part of a community or social group that can provide support and connection?", "Do you have access to respite child care or crisis child care services?"],
+      "Answer type": ["Yes/No", "Text"]
+    }
+  },
+  "Resource Assessment": {
+    "Parameters": {
+      "Resources": ["Spouse or partner", "Friends or family members", "Community or social group", "Respite child care services", "Crisis child care services"],
+      "Answer type": ["Yes/No"],
+      "Scoring": []
+    }
+  }
+}

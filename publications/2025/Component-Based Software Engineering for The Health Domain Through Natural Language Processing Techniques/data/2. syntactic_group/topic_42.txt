@@ -1,0 +1,10 @@
+{
+  "name": "Relaxation and Meditation Techniques",
+  "description": "Guides relaxation and meditation techniques, including progressive muscle relaxation, deep breathing exercises, and audio-based meditation sessions to promote mental and physical relaxation.",
+  "type": "periodic",
+  "input": ["Relaxation technique", "Guided meditation content", "Breathing exercises", "Audio files"],
+  "output": ["Relaxation progress report", "Breathing pattern analysis", "Meditation session feedback"],
+  "preconditions": ["User engages in relaxation or meditation practice"],
+  "postconditions": ["Relaxation and meditation goals are achieved, and user is provided with feedback"],
+  "dependencies": ["Meditation audio platform", "Breathing exercise system", "Relaxation tracking tools"]
+}

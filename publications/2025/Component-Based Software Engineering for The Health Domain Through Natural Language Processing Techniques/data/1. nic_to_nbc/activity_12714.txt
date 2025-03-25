@@ -1,0 +1,46 @@
+Here is the output in JSON format:
+
+
+{
+  "Highly Absorbent Dressing": {
+    "Discharge Level": {
+      "description": "Level of discharge (e.g. light, moderate, heavy)",
+      "required": true,
+      "type": "options",
+      "options": [
+        { "value": "light", "label": "Light" },
+        { "value": "moderate", "label": "Moderate" },
+        { "value": "heavy", "label": "Heavy" }
+      ]
+    },
+    "Dressing Type": {
+      "description": "Type of highly absorbent dressing to use",
+      "required": true,
+      "type": "options",
+      "options": [
+        { "value": "foam", "label": "Foam" },
+        { "value": "hydrocolloid", "label": "Hydrocolloid" },
+        { "value": "alginate", "label": "Alginate" }
+      ]
+    },
+    "Instructions": {
+      "description": "Instructions on how to apply and use highly absorbent dressings",
+      "required": true,
+      "type": "text"
+    },
+    "Frequency": {
+      "description": "How often to change the highly absorbent dressing",
+      "required": true,
+      "type": "options",
+      "options": [
+        { "value": "daily", "label": "Daily" },
+        { "value": "everyOtherDay", "label": "Every other day" },
+        { "value": "every2Days", "label": "Every 2 days" },
+        { "value": "every3Days", "label": "Every 3 days" }
+      ]
+    }
+  }
+}
+
+
+Note that I removed the `Duration` parameter since it was marked as not required (`Required: false`). Let me know if you need any further assistance!

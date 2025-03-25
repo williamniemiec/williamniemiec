@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Associate Learning Task": {
+    "Task Type": ["verbal information", "pictorial information", "combination of both"],
+    "Content": ["text", "image", "combination of both"],
+    "Instructions": ["text"],
+    "Practice Mode": ["multiple choice", "fill-in-the-blank", "matching", "recall"],
+    "Frequency": ["daily", "onlyOnce", "everyHours", "everyDays"],
+    "Deadline Date": ["datetime"],
+    "Feedback": ["yes", "no"],
+    "Scoring": ["percentage correct", "number of correct answers", "time taken to complete"]
+  }
+}
+
+
+Let me know if this is what you were expecting!

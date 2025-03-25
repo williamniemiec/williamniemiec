@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Oral Nystatin Suspension Guide": {
+    "guide title": {},
+    "Indications": {},
+    "Administration Instructions": {},
+    "Precautions": {},
+    "Side Effects": {},
+    "Monitoring": {}
+  }
+}

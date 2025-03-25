@@ -1,0 +1,5 @@
+Since the input does not contain any `PARAMETER ESPECIFICATIONS` or `NO-CODE ELEMENT NAME`, the output will be an empty JSON object:
+
+{}
+
+This is because the task is to remove everything except those specific elements, and since they don't exist in the input, the result is an empty JSON object.

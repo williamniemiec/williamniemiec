@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+  "Orientation Assessment": {
+    "Parameters": {
+      "Title": {"Type": "text"},
+      "Instructions": {"Type": "text"},
+      "Assessment Fields": {"Type": "list of fields"},
+      "Assessment Scale": {"Type": "options", "Options": ["Categorical scale", "Numerical scale", "etc."]},
+      "Additional Notes": {"Type": "text"}
+    }
+  },
+  "Orientation Monitoring": {
+    "Parameters": {
+      "Title": {"Type": "text"},
+      "Monitoring Frequency": {"Type": "options", "Options": ["daily", "weekly", "biweekly", "monthly"]},
+      "Assessment Fields": {"Type": "list of fields"},
+      "Monitoring Scale": {"Type": "options", "Options": ["Categorical scale", "Numerical scale", "etc."]},
+      "Alert Thresholds": {"Type": "list of thresholds"}
+    }
+  }
+}

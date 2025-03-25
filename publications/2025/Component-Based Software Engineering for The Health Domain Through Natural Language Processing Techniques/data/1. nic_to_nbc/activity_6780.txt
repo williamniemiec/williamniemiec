@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Ulcer Irrigation Guide": {
+    "Irrigation Solution": {"Type": "options"},
+    "Irrigation Pressure": {"Type": "text or instructional content"},
+    "Irrigation Technique": {"Type": "text or instructional content"},
+    "Irrigation Frequency": {"Type": "text or numeric"},
+    "Irrigation Date": {"Type": "datetime"}
+  },
+  "Wound Irrigation Log": {
+    "Irrigation Date": {"Type": "datetime"},
+    "Irrigation Time": {"Type": "time"},
+    "Irrigation Solution Used": {"Type": "options"},
+    "Notes": {"Type": "text"}
+  }
+}

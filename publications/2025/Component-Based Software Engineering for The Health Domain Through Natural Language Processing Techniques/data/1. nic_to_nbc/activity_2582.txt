@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "Problem-Solving Strategy Selector": {
+    "parameters": {
+      "Patient Information": {"type": "patient object (with age, developmental level, cognitive functioning, etc.)"},
+      "Problem-Solving Strategies": {"type": "list of problem-solving strategies (with descriptions and examples)"},
+      "Strategy Recommendations": {"type": "list of recommended strategies (with explanations and examples)"},
+      "Interactive Tools": {"type": "interactive tool (with quiz questions, game mechanics, etc.)"}
+    }
+  },
+  "Guide": {
+    "parameters": {
+      "Guide Title": {"type": "text"},
+      "Guide Content": {"type": "list of guide pages (with text and images)"},
+      "Strategy Examples": {"type": "list of strategy examples (with descriptions and examples)"},
+      "Interactive Exercises": {"type": "interactive exercise (with quiz questions, game mechanics, etc.)"}
+    }
+  }
+}
+
+
+Note that I removed the not applicable parameters and only kept the `{{ NO-CODE ELEMENT NAME }}` and `{{ PARAMETER ESPECIFICATIONS }}` parts. Let me know if this meets your requirements!

@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Fluid Balance Monitoring": {
+    "parameters": {
+      "Fluid Intake": {"type": "number"},
+      "Fluid Output": {"type": "number"},
+      "Urine Output": {"type": "number"},
+      "Daily Weight": {"type": "number"},
+      "Notes": {"type": "text"}
+    }
+  }
+}
+
+
+Let me know if you need any further assistance!

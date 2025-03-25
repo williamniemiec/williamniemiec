@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Food Presentation Guide": {
+    "Name": "text",
+    "Color Palette": "list of color palette options",
+    "Texture Variety": "list of texture variety options",
+    "Food Arrangement": "list of food arrangement tips",
+    "Garnish Options": "list of garnish options",
+    "Plateware Selection": "list of plateware selection options",
+    "Food Styling Tips": "list of food styling tips"
+  }
+}

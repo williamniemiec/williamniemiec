@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Private Environment Configuration": {
+    "Parameters": {
+      "Environment Settings": {},
+      "Supervision Level": {},
+      "Dignity Preservation": {},
+      "Safety Features": {},
+      "Patient Preferences": {}
+    }
+  }
+}

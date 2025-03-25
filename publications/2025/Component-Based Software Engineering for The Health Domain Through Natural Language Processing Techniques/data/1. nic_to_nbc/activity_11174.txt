@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Transport Assistance": {
+    "parameters": [
+      {"Transport Type": "options"},
+      {"Number of Assistants": "number"},
+      {"Assistant Type": "options"},
+      {"Transport Date": "datetime"},
+      {"Transport Location": "text"}
+    ]
+  }
+}
+
+
+I removed the `Special Requirements` parameter since it's not applicable (marked as not required). Let me know if you need any further assistance!

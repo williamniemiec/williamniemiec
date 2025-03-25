@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "PCA Device Setup": {
+    "Basal Infusion Rate": {},
+    "Unit": {},
+    "Instructions": {},
+    "Visual Aids": {},
+    "Frequency": {}
+  }
+}
+
+
+I removed all unnecessary text and only kept the no-code element name ("PCA Device Setup") and its parameters. I also removed the "Deadline Date" parameter as it's not applicable in this context.

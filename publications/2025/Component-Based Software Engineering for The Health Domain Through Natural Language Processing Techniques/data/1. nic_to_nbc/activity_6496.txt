@@ -1,0 +1,55 @@
+Here is the output in JSON format:
+
+
+{
+  "Undesirable Behavior Identifier": {
+    "Behavior": {
+      "Type": "unordered list",
+      "Required": true,
+      "Options": [
+        "Non-adherence to medication regimen",
+        "Poor diet and exercise habits",
+        "Substance abuse",
+        "Other"
+      ]
+    },
+    "Consequences": {
+      "Type": "unordered list",
+      "Required": true,
+      "Options": [
+        "Worsening of condition",
+        "Increased risk of complications",
+        "Decreased quality of life",
+        "Other"
+      ]
+    },
+    "Patient Input": {
+      "Type": "text",
+      "Required": true
+    },
+    "Goals": {
+      "Type": "text",
+      "Required": true
+    },
+    "Strategies": {
+      "Type": "unordered list",
+      "Required": true,
+      "Options": [
+        "Education and counseling",
+        "Behavioral therapy",
+        "Support groups",
+        "Other"
+      ]
+    },
+    "Frequency": {
+      "Type": "options",
+      "Required": true,
+      "Options": [
+        "Daily",
+        "Weekly",
+        "Monthly",
+        "As needed"
+      ]
+    }
+  }
+}

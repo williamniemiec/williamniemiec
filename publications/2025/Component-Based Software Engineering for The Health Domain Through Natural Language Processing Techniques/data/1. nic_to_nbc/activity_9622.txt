@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Meal Observation": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Meal Type": {"Type": "text"},
+      "Observation Frequency": {"Type": "options", "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Observation Questions": {"Type": "unordered list", "Items": [{"Question": {"Type": "text"}, "Answer Type": {"Type": "options", "Options": ["yes/no", "text", "number"]}}]},
+      "Photo Evidence": {"Type": "boolean"},
+      "Deadline Date": {"Type": "datetime"}
+    }
+  }
+}

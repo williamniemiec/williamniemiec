@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Family Conflict Resolution Assistance": {
+    "parameters": [
+      {"Conflict Type": ["Financial", "Emotional", "Relational", "Communication", "Boundary Setting"]},
+      {"Conflict Resolution Method": ["Mediation", "Negotiation", "Problem-Solving", "Active Listening", "Empathy Building"]},
+      {"Family Members Involved": []},
+      {"Conflict Resolution Goals": ["Improved Communication", "Increased Empathy", "Resolution of Specific Issue", "Improved Relationship Dynamics", "Increased Conflict Resolution Skills"]},
+      {"Frequency": ["daily", "onlyOnce", "everyHours", "everyDays"]}
+    ]
+  }
+}
+
+
+Note that I removed the `Deadline Date` and `Open-Ended Question` parameters as they didn't have a list of options or values. If you want to include them, let me know!

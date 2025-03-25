@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+  "Blood Product Arrangement": {
+    "Name": {"type": "text"},
+    "Blood Product Type": {"type": "options", "options": [
+      {"value": "redBloodCells", "label": "Red Blood Cells"},
+      {"value": "platelets", "label": "Platelets"},
+      {"value": "plasma", "label": "Plasma"},
+      {"value": "other", "label": "Other (please specify)"}
+    ]},
+    "Transfusion Criteria": {"type": "text"},
+    "Availability Status": {"type": "options", "options": [
+      {"value": "available", "label": "Available"},
+      {"value": "unavailable", "label": "Unavailable"},
+      {"value": "pending", "label": "Pending"}
+    ]},
+    "Deadline Date": {"type": "datetime"},
+    "Notes": {"type": "text"}
+  }
+}

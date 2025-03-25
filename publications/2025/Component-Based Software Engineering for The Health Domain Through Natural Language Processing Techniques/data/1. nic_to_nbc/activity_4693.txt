@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Information": {
+    "Parameters": {
+      "Title": {"Type": "text"},
+      "Content": {"Type": "text or HTML"},
+      "Media": {"Type": "media (e.g., image, video)"},
+      "Resources": {"Type": "list of resources (e.g., URLs, PDFs)"}
+    }
+  }
+}

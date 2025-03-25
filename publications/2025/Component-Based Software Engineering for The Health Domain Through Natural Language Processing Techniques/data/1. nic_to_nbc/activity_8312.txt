@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Calming Presence": {
+    "Background": {"Type": "image or color selection"},
+    "Audio": {"Type": "audio file or selection from a list of options"},
+    "Text Tone": {"Type": "text tone selection"},
+    "Response Time": {"Type": "timer with adjustable duration"},
+    "Avatar": {"Type": "image or avatar selection"}
+  }
+}

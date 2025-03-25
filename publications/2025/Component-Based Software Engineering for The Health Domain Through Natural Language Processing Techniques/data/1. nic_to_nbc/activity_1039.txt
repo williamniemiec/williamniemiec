@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+    "Diagnostic Testing Knowledge Base": {
+        "Test Information": {"type": "text"},
+        "Sensitivity and Specificity": {"type": "text"},
+        "Rationale": {"type": "text"},
+        "Alternatives": {"type": "unordered list"},
+        "Standards of Care": {"type": "text"},
+        "Evidence-Based Practice": {"type": "text"},
+        "Side Effects": {"type": "unordered list"},
+        "Monitoring": {"type": "text"},
+        "State Regulations and Policy Issues": {"type": "text"},
+        "Resource Library": {"type": "link or downloadable file"}
+    }
+}

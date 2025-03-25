@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Relaxation Guide": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Content": {"Type": "HTML text or PDF document"},
+      "Techniques": {"Type": "list of text"},
+      "Preparation Tips": {"Type": "list of text"},
+      "Engagement Instructions": {"Type": "list of text"},
+      "Resources": {"Type": "list of URLs or embedded media"}
+    }
+  }
+}

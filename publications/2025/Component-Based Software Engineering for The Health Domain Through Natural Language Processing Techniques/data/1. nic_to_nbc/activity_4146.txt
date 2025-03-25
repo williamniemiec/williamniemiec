@@ -1,0 +1,13 @@
+
+
+
+{
+    "Guide": {
+        "Parameters": {
+            "Pages": ["Introduction to preparing siblings for the newborn", "Understanding sibling emotions and needs", "Creating a safe environment for the newborn", "Involving siblings in newborn care"],
+            "Interactive Elements": ["Checklists", "Quizzes", "Worksheets"],
+            "Tips and Resources": ["Links to relevant articles or videos", "Quotes or testimonials from other parents", "Reminders and encouragement"],
+            "Frequency": ["Daily", "Weekly", "As needed"]
+        }
+    }
+}

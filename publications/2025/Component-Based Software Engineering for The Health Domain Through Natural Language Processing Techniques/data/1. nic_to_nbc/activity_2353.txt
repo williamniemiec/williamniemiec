@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Assessment Visit Request": {
+    "parameters": [
+      {"name": "agency_list", "description": "List of receiving agencies or care providers", "required": true, "type": "select", "options": [{"value": "agency1", "label": "Agency 1"}, {"value": "agency2", "label": "Agency 2"}, {"value": "other", "label": "Other (please specify)"}]},
+      {"name": "visit_date", "description": "Preferred date for the assessment visit", "required": true, "type": "date"},
+      {"name": "visit_time", "description": "Preferred time for the assessment visit", "required": true, "type": "time"},
+      {"name": "notes", "description": "Additional notes or comments about the assessment visit", "required": false, "type": "text"}
+    ]
+  }
+}

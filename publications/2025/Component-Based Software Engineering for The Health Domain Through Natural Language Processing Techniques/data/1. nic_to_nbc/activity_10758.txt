@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Task": {
+    "Parameters": {
+      "Task type": [],
+      "Frequency": [],
+      "Instructions": []
+    }
+  }
+}

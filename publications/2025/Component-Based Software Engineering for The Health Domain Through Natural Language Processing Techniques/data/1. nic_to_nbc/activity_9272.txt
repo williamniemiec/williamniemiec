@@ -1,0 +1,38 @@
+Here is the output in JSON format:
+
+
+{
+  "Clothing Selection": {
+    "Parameters": {
+      "Clothing Type": {
+        "Type": "options",
+        "Options": [
+          {"value": "tshirt", "label": "T-shirt"},
+          {"value": "sweatpants", "label": "Sweatpants"},
+          {"value": "shorts", "label": "Shorts"},
+          {"value": "other", "label": "Other (specify)"}
+        ]
+      },
+      "Comfort Level": {
+        "Type": "options",
+        "Options": [
+          {"value": "veryComfortable", "label": "Very comfortable"},
+          {"value": "comfortable", "label": "Comfortable"},
+          {"value": "neutral", "label": "Neutral"},
+          {"value": "uncomfortable", "label": "Uncomfortable"}
+        ]
+      },
+      "Restrictiveness": {
+        "Type": "options",
+        "Options": [
+          {"value": "notRestrictive", "label": "Not restrictive"},
+          {"value": "somewhatRestrictive", "label": "Somewhat restrictive"},
+          {"value": "veryRestrictive", "label": "Very restrictive"}
+        ]
+      }
+    }
+  }
+}
+
+
+Let me know if this is what you were expecting!

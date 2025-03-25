@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Digitalis Toxicity Monitor": {
+    "Serum Levels": {"Type": "number", "Unit": "ng/mL or other relevant unit"},
+    "Heart Rate": {"Type": "number", "Unit": "beats per minute"},
+    "Heart Rhythm": {"Type": "options", "Options": ["normal", "abnormal", "atrial fibrillation", "etc."]},
+    "Side Effects": {"Type": "options", "Options": ["yes", "no", "or a list of specific side effects"]},
+    "Dose Administration": {"Type": "datetime", "Frequency": "daily, weekly, etc."},
+    "Alerts": {"Type": "boolean", "Trigger": "serum levels above therapeutic range or side effects reported"}
+  }
+}

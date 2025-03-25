@@ -1,0 +1,19 @@
+
+
+
+{
+  "Community Engagement": {
+    "parameters": {
+      "Program Information": {"type": "text"},
+      "Event Calendar": {"type": "calendar"},
+      "News and Updates": {"type": ["text", "image", "video"]},
+      "Volunteer Opportunities": {"type": "boolean"},
+      "Partnerships": {"type": {"list": ["text", "URL"]}},
+      "Feedback": {"type": "text"},
+      "Community Meetings": {"type": "calendar"}
+    }
+  }
+}
+
+
+I removed the `Social Media` parameter since it's not applicable (only a boolean type, but no further specification). Let me know if you have any questions!

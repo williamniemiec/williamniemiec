@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Body Image Assessment": {
+    "parameters": [
+      {"Question": {"type": "text"}},
+      {"Answer Type": {"type": "options", "options": ["scale (e.g., 1-5)", "text", "photo upload"]}},
+      {"Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]}},
+      {"Deadline Date": {"type": "datetime"}}
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "contraindication assessment": {
+    "Questions": {
+      "Description": "list of questions to assess patient's condition",
+      "Required": true,
+      "Type": "list of text"
+    },
+    "Answer Type": {
+      "Description": "specify the answer type for each question",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "yesNo", "label": "Yes/No" },
+        { "value": "text", "label": "Text" }
+      ]
+    }
+  }
+}

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Distraction Intervention": {
+        "Name": {"type": "text"},
+        "Distraction Type": {"type": "options", "options": [{"value": "visual", "label": "Visual"}, {"value": "auditory", "label": "Auditory"}, {"value": "tactile", "label": "Tactile"}]},
+        "Distraction Method": {"type": "options", "options": [{"value": "music", "label": "Music"}, {"value": "video", "label": "Video"}, {"value": "puzzle", "label": "Puzzle"}]},
+        "Conjunction with Other Measures": {"type": "options", "options": [{"value": "alone", "label": "Alone"}, {"value": "withOtherMeasures", "label": "With Other Measures"}, {"value": "withOtherDistractions", "label": "With Other Distractions"}]},
+        "Other Measures or Distractions": {"type": "list", "items": [{"value": "relaxationTechniques", "label": "Relaxation Techniques"}, {"value": "breathingExercises", "label": "Breathing Exercises"}, {"value": "cognitiveRestructuring", "label": "Cognitive Restructuring"}]},
+        "Frequency and Duration": {"type": "text"},
+        "Notes": {"type": "text"}
+    }
+}

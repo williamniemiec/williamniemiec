@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Stress Assessment": {
+    "Title": {"type": "text"},
+    "Questions": [{"Text": {"type": "text"}, "Answer Type": {"type": "options"}, "Options": {"type": "list of options"}}],
+    "Scoring": {"type": "scoring rules"},
+    "Thresholds": [{"value": {}, "label": {}}],
+    "Frequency": {"type": "options"}
+  }
+}

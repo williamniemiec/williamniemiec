@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Discomfort Reduction Plan": {
+    "Parameters": {
+      "Discomfort Type": {"Type": "options"},
+      "Discomfort Location": {"Type": "options"},
+      "Discomfort Intensity": {"Type": "options"},
+      "Cognitive Impact": {"Type": "options"},
+      "Activity Regulation": {"Type": "options"},
+      "Intervention": {"Type": "options"}
+    }
+  }
+}

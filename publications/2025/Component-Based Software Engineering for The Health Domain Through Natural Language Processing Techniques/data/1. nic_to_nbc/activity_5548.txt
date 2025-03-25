@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Knowledge Acknowledgement": {
+    "Statement": {},
+    "Acknowledgement": {},
+    "Date": {},
+    "Frequency": {}
+  }
+}

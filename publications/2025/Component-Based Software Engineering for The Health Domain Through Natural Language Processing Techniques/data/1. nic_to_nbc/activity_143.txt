@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Postictal Care Guide": {
+    "Care Steps": {"type": "unordered list"},
+    "Behavior Management Tips": {"type": "unordered list"},
+    "Relaxation Techniques": {"type": "unordered list"},
+    "Emergency Contact Info": {"type": "text"}
+  },
+  "Mood Tracking": {
+    "Mood Scale": {"type": "options"},
+    "Frequency": {"options": ["daily", "everyHours", "everyDays"]},
+    "Notes": {"type": "text"}
+  },
+  "Breathing Exercise": {
+    "Exercise Instructions": {"type": "text"},
+    "Duration": {"type": "text"},
+    "Frequency": {"options": ["daily", "everyHours", "everyDays"]}
+  }
+}

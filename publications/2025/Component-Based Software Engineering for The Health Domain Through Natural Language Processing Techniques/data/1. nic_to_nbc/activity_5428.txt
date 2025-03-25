@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+    "Task": {
+        "Parameters": {
+            "Task name": "Wash hair",
+            "Frequency": "",
+            "Instructions": ""
+        }
+    },
+    "Guide": {
+        "Parameters": {
+            "Guide title": "How to wash your hair",
+            "Steps": [],
+            "Tips": []
+        }
+    }
+}
+
+
+Note: I removed the `*` characters and reformatted the output in JSON format. I also kept the empty parameters (`Frequency`, `Instructions`, `Steps`, and `Tips`) as they were, assuming that's what you meant by "don't write anything else". If you'd like me to remove them instead, let me know!

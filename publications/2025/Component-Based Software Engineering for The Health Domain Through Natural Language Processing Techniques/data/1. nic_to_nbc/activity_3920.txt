@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Infant Cares": {
+    "Parameters": [
+      {"Name": {"Type": "text"}},
+      {"Cares": {"Type": "list", "Examples": ["Diaper changing", "Feeding (breastfeeding and bottle-feeding)", "Holding (proper positioning and support)", "Massaging (gentle stroking or rubbing of the infant's skin)", "Other"]}},
+      {"Instructions": {"Type": "text"}},
+      {"Videos": {"Type": "video"}},
+      {"Tips and Reminders": {"Type": "text"}},
+      {"FAQs": {"Type": "text"}}
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "Physical Activity Assistance": {
+    "Activity List": {
+      "Description": "List of physical activities that require assistance",
+      "Required": true,
+      "Type": "unordered list"
+    },
+    "Assistance Needed": {
+      "Description": "Do you need assistance with any of these activities?",
+      "Required": true,
+      "Type": "boolean"
+    },
+    "Frequency": {
+      "Description": "How often do you need assistance with each activity?",
+      "Required": true,
+      "Type": "options"
+    }
+  }
+}
+
+
+I removed the `Reminders` and `Caregiver Notification` parameters since they are not required. Let me know if this meets your requirements!

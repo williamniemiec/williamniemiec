@@ -1,0 +1,21 @@
+Here is the output in JSON format, removing anything except `{{ PARAMETER ESPECIFICATIONS }}` and `{{ NO-CODE ELEMENT NAME }}`, and removing not applicable parameters:
+
+
+{
+    "name": "Information",
+    "parameters": [
+        {
+            "name": "Content",
+            "type": "text or html"
+        },
+        {
+            "name": "Format",
+            "type": "options",
+            "options": ["text", "video", "image", "audio"]
+        },
+        {
+            "name": "Interactive",
+            "type": "boolean"
+        }
+    ]
+}

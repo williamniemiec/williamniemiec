@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Referral for Genetic Testing": {
+    "Test Type": {"type": "options"},
+    "Reason for Referral": {"type": "text"},
+    "Referring Provider": {"type": "text"},
+    "Testing Facility": {"type": "text"},
+    "Appointment Scheduling": {"type": "boolean"}
+  }
+}
+
+
+Let me know if this meets your requirements!

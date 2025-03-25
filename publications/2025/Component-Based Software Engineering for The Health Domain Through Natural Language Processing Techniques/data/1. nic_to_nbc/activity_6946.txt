@@ -1,0 +1,14 @@
+Here is the JSON output:
+
+
+{
+    "Tracker": {
+        "Parameters": {
+            "Tracker Type": ["oral intake", "enteral intake", "IV intake", "antibiotics", "fluids given with medications", "nasogastric (NG) tubes", "drains", "vomit", "rectal tubes", "colostomy drainage", "urine"],
+            "Unit": ["mL", "L", "mg", "g", "etc."],
+            "Frequency": ["daily", "onlyOnce", "everyHours", "everyDays"],
+            "Deadline Date": {"Type": "datetime"},
+            "Notes": {"Type": "text"}
+        }
+    }
+}

@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Dialysis Preparation Checklist": {
+    "Parameters": {
+      "Checklist Items": "",
+      "Status": "",
+      "Deadline Date": ""
+    }
+  },
+  "Catheter Placement Guide": {
+    "Parameters": {
+      "Step-by-Step Instructions": "",
+      "Confirmation": "",
+      "Deadline Date": ""
+    }
+  }
+}
+
+Note that I removed the `Type: datetime` specification for the `Deadline Date` parameter, as it was not requested to be kept. If you need to keep this information, please let me know!

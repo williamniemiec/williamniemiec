@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+  "Help-Seeking Instruction": {
+    "Scenarios": [
+      "feelingScared",
+      "beingBullied",
+      "seeingSomethingBad",
+      "other"
+    ],
+    "Help-Seeking Strategies": "text",
+    "Trusted Adults": "text",
+    "Practice": "boolean",
+    "Frequency": [
+      "daily",
+      "weekly",
+      "monthly"
+    ],
+    "Reminder": "boolean"
+  }
+}

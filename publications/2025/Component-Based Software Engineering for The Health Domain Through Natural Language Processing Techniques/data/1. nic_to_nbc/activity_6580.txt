@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Support Group Directory": {
+    "parameters": {
+      "name": {"type": "text"},
+      "groups": {"type": "list of groups", "properties": {
+        "name": {"type": "text"},
+        "description": {"type": "text"},
+        "type": {"type": "text"},
+        "contact": {"type": "text"},
+        "location": {"type": "text"}
+      }},
+      "filters": {"type": "list of filters", "properties": {
+        "name": {"type": "text"},
+        "options": {"type": "list of options"}
+      }}
+    }
+  }
+}

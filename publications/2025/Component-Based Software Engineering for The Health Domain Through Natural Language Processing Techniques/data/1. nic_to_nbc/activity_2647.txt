@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+
+{
+    "Emergency Contact": {
+        "contact_name": "",
+        "contact_phone": "",
+        "emergency_instructions": ""
+    },
+    "Guide": {
+        "name": "",
+        "pages": []
+    }
+}

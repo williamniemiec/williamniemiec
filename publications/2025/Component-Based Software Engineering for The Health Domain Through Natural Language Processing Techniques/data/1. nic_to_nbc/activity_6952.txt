@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+  "parameters": {
+    "Communication Plan": {
+      "type": "interactive template"
+    },
+    "Negotiation Strategy": {
+      "type": "interactive template"
+    },
+    "Role-Playing Exercises": {
+      "type": "interactive simulation"
+    },
+    "Resource Library": {
+      "type": "resource library"
+    },
+    "Peer Feedback": {
+      "type": "peer feedback system"
+    },
+    "Reflection and Evaluation": {
+      "type": "interactive reflection tool"
+    }
+  },
+  "no-code element name": "Communication and Negotiation Framework"
+}

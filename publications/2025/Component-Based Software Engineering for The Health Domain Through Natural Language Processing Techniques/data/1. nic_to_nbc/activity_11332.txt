@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Knowledge Check": {
+    "Parameters": {
+      "Question Type": {},
+      "Prompt": {},
+      "Response Type": {},
+      "Evaluation Criteria": {},
+      "Feedback": {}
+    }
+  }
+}

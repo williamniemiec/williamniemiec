@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Fee Expectations": {
+    "parameters": {
+      "Fee Structure": {"type": "options"},
+      "Fee Amount": {"type": "numeric"},
+      "Payment Terms": {"type": "text or table"},
+      "Insurance Coverage": {"type": "boolean"},
+      "Out-of-Pocket Expenses": {"type": "numeric"},
+      "Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"type": "datetime"}
+    }
+  }
+}

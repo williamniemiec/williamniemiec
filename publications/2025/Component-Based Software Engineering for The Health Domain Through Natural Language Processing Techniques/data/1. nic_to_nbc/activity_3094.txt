@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+  "Personal Factor Identification": {
+    "Factor List": {
+      "type": "list of factors"
+    },
+    "Self-Assessment": {
+      "type": "rating scale or text"
+    },
+    "Barrier Identification": {
+      "type": "text or multiple-choice"
+    },
+    "Solution Generation": {
+      "type": "text or form"
+    },
+    "Priority Setting": {
+      "type": "ranking or rating scale"
+    }
+  }
+}

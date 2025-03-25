@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Prenatal Care Guide": {
+    "Name": {"type": "text"},
+    "Content": {"type": "interactive content (e.g., HTML, JSON, etc.)"},
+    "Pages": {"type": "list of objects", "properties": [
+      {"Title": {"type": "text"}},
+      {"Content": {"type": "content type (e.g., text, image, video, etc.)"}}
+    ]},
+    "Topics": {"type": "list of objects", "properties": [
+      {"Label": {"type": "text"}},
+      {"Description": {"type": "text"}}
+    ]},
+    "Resources": {"type": "list of objects", "properties": [
+      {"Label": {"type": "text"}},
+      {"URL": {"type": "URL"}}
+    ]}
+  }
+}

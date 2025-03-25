@@ -1,0 +1,15 @@
+
+
+
+{
+    "Physical Assessment Tracker": {
+        "Parameters": {
+            "Name": {"Type": "text"},
+            "Assessment List": {"Type": "checklist"},
+            "Assessment Scale": {"Type": "options"},
+            "Frequency": {"Type": "options"},
+            "Deadline Date": {"Type": "datetime"},
+            "Notes": {"Type": "text"}
+        }
+    }
+}

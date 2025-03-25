@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+
+{
+    "Informational Content": {
+        "parameters": {
+            "name": "procedure explanation",
+            "description": "Explanation of the procedure",
+            "content_type": ["text", "video", "image"],
+            "content": "",
+            "frequency": "",
+            "deadline_date": ""
+        }
+    }
+}

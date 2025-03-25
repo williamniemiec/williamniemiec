@@ -1,0 +1,14 @@
+
+
+
+{
+    "Medication Reminder": {
+        "Parameters": {
+            "Medication Name": {"Type": "text"},
+            "Dosage": {"Type": "text"},
+            "Frequency": {"Type": "options"},
+            "Duration": {"Type": "options"},
+            "Reminders": {"Type": "boolean or options"}
+        }
+    }
+}

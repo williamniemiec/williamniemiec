@@ -1,0 +1,10 @@
+{
+  "name": "Procedure Explanation and Aids",
+  "description": "Provides step-by-step procedure explanations with visual aids, personnel guidelines, and FAQs. Focuses on clear instructions for various medical and non-medical tasks.",
+  "type": "non-periodic",
+  "input": ["Procedure steps", "Personnel guidelines", "Visual aids", "Procedure FAQ"],
+  "output": ["Procedure explanation document", "Visual aid materials", "Personnel training resources"],
+  "preconditions": ["User needs guidance for a specific procedure"],
+  "postconditions": ["Clear understanding of procedure steps and aids"],
+  "dependencies": ["Procedure management platform", "Visual aid system", "Training resources"]
+}

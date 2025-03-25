@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Admission History Form": {
+    "Name": {},
+    "Past Medical Illnesses": {},
+    "Medications": {},
+    "Allergies": {},
+    "Additional Information": {}
+  }
+}

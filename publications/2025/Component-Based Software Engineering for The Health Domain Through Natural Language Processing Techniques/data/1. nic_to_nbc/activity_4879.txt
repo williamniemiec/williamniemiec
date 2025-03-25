@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Bathroom Rounds Schedule": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Schedule": {"Type": "recurring event (e.g., every 2 hours, daily)"},
+      "Reminders": {"Type": "boolean (yes/no) or frequency (e.g., 30 minutes before scheduled time)"},
+      "Customization": {"Type": "boolean (yes/no) or conditional logic (e.g., if patient has a specific condition, adjust schedule accordingly)"}
+    }
+  },
+  "Task": {}
+}

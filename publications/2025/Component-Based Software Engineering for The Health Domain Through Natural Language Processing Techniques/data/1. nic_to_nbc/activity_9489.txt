@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+    "caregiver task": {
+        "parameters": [
+            {"name": "Name", "type": "text"},
+            {"name": "Instructions", "type": "text"},
+            {"name": "Frequency", "type": "options", "options": ["atEveryMeal", "atSpecificTimes", "daily"]},
+            {"name": "Deadline Date", "type": "datetime"},
+            {"name": "Caregiver Confirmation", "type": "boolean"},
+            {"name": "Patient Feedback", "type": "text"}
+        ]
+    }
+}

@@ -1,0 +1,42 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Therapeutic Relationship Review",
+    "parameters": [
+        {
+            "name": "Relationship Experiences",
+            "type": "text"
+        },
+        {
+            "name": "Positive Aspects",
+            "type": "text"
+        },
+        {
+            "name": "Challenging Aspects",
+            "type": "text"
+        },
+        {
+            "name": "What Was Learned",
+            "type": "text"
+        },
+        {
+            "name": "How It Has Helped",
+            "type": "text"
+        },
+        {
+            "name": "Frequency",
+            "type": "options",
+            "options": [
+                { value: "daily" },
+                { value: "onlyOnce" },
+                { value: "everyHours" },
+                { value: "everyDays" }
+            ]
+        },
+        {
+            "name": "Deadline Date",
+            "type": "datetime"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+    "Device Guidance": {
+        "parameters": {
+            "name": {"type": "text"},
+            "device_type": {"type": "text"},
+            "manufacturer_instructions": {"type": "text"},
+            "image_url": {"type": "url"},
+            "video_url": {"type": "url"},
+            "notes": {"type": "text"}
+        }
+    }
+}

@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "Collaborative Care Plan": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Goal": {"Type": "text"},
+      "Diet Regulations": {"Type": "list", "Items": [
+        {"Description": {"Type": "text"}, "Target Value": {"Type": "text or number"}}
+      ]},
+      "Fluid Limitations": {"Type": "list", "Items": [
+        {"Description": {"Type": "text"}, "Target Value": {"Type": "text or number"}}
+      ]},
+      "Medications": {"Type": "list", "Items": [
+        {"Name": {"Type": "text"}, "Dosage": {"Type": "text"}}
+      ]},
+      "Monitoring": {"Type": "list", "Items": [
+        {"Description": {"Type": "text"}, "Target Value": {"Type": "text or number"}, "Frequency": {"Type": "options"}}
+      ]},
+      "Collaboration": {"Type": "boolean or text"}
+    }
+  }
+}

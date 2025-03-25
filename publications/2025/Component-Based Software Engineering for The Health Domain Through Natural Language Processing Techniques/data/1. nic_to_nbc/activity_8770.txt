@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Consequence Acknowledgement": {
+    "Parameters": {
+      "Consequences": {"Type": "text"},
+      "Behavioral Expectations": {"Type": "text"},
+      "Patient Acknowledgement": {"Type": "checkbox or digital signature"},
+      "No Argument/Bargaining": {"Type": "checkbox or boolean value"}
+    }
+  }
+}

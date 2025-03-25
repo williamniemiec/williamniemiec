@@ -1,0 +1,9 @@
+Here is the output in JSON format:
+
+
+{
+    "Reality Orientation": {
+        "Warning": {"Description": "A warning message to caregivers or family members to avoid validating misperceptions", "Required": true, "Type": "text"},
+        "Guidance": {"Description": "Provide guidance on how to respond to misperceptions or inaccurate interpretations of reality", "Required": true, "Type": "text"}
+    }
+}

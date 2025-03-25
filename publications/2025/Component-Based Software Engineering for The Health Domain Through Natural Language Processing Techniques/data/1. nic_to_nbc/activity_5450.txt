@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Resource Explorer": {
+    "Parameters": {
+      "Resource type": "",
+      "Current situation": "",
+      "Goals": "",
+      "Options": [],
+      "Next steps": ""
+    }
+  }
+}

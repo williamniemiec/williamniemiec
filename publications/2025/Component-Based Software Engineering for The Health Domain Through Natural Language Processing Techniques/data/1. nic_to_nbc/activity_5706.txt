@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Bathing Instruction": {
+    "instruction title": {},
+    "Content": {},
+    "Avoid": {},
+    "Use": {},
+    "Frequency": {}
+  }
+}

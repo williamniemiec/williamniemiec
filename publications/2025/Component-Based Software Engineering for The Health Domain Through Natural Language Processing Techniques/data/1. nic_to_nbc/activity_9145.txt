@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Dialysis Education": {
+    "parameters": {
+      "Dialysis Explanation": {"type": "text"},
+      "Preparation Steps": {"type": "text"},
+      "What to Expect": {"type": "text"},
+      "Additional Resources": {"type": "text"}
+    }
+  }
+}

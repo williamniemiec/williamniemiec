@@ -1,0 +1,30 @@
+Here is the output in JSON format:
+
+
+{
+  "Treatment Education": {
+    "Parameters": {
+      "Treatment Type": {
+        "Type": "options",
+        "Options": [
+          { "value": "fibrinolysis", "label": "Fibrinolysis" },
+          { "value": "catheterEmbolectomy", "label": "Catheter Embolectomy" },
+          { "value": "surgicalPulmonaryEmbolectomy", "label": "Surgical Pulmonary Embolectomy" }
+        ]
+      },
+      "Education Content": {
+        "Type": "text"
+      },
+      "Family Education": {
+        "Type": "boolean"
+      },
+      "Reminders": {
+        "Type": "options",
+        "Options": [
+          { "value": "daily", "label": "Daily" },
+          { "value": "custom", "label": "Custom" }
+        ]
+      }
+    }
+  }
+}

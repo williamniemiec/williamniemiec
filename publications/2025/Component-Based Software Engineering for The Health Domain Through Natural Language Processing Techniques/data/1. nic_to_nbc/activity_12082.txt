@@ -1,0 +1,5 @@
+Since there is no {{ PARAMETER ESPECIFICATIONS }} and {{ NO-CODE ELEMENT NAME }} in the input, the output will be an empty JSON object:
+
+{}
+
+Please provide another input that contains the specified elements.

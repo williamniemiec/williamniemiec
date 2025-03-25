@@ -1,0 +1,39 @@
+Here is the output in JSON format:
+
+
+{
+    "Mammogram Recommendation": {
+        "parameters": {
+            "name": "",
+            "content": "",
+            "description": "",
+            "questions": [
+                {
+                    "label": "",
+                    "type": "",
+                    "options": []
+                }
+            ],
+            "recommendation": "",
+            "frequency": ["daily", "onlyOnce", "everyHours", "everyDays"],
+            "deadline_date": ""
+        }
+    },
+    "Guide": {
+        "parameters": {
+            "name": "",
+            "pages": []
+        }
+    },
+    "Task": {
+        "parameters": {
+            "name": "",
+            "content": "",
+            "frequency": ["daily", "onlyOnce", "everyHours", "everyDays"],
+            "deadline_date": ""
+        }
+    }
+}
+
+
+Note that I removed the not applicable parameters and only kept the `{{ NO-CODE ELEMENT NAME }}` and `{{ PARAMETER ESPECIFICATIONS }}` parts.

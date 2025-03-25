@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+    "no_code_element_name": "blood_screening",
+    "parameters": [
+        { 
+            "name": "blood_type", 
+            "description": "blood type and compatibility"
+        },
+        { 
+            "name": "hematocrit", 
+            "description": "hematocrit level"
+        },
+        { 
+            "name": "infectious_disease_screening", 
+            "description": "infectious disease screening results"
+        },
+        { 
+            "name": "visual_inspection", 
+            "description": "visual inspection of blood for abnormalities"
+        }
+    ]
+}

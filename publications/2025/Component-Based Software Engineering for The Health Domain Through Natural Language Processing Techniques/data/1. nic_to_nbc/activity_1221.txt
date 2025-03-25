@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+  "Fall Risk Assessment": {
+    "parameters": {
+      "Fall Risk Factors": {"type": "options"},
+      "Fall Risk Score": {"type": "options"}
+    }
+  },
+  "Fall Precautions Determination": {
+    "parameters": {
+      "Fall Precautions Needed": {"type": "options"},
+      "Rationale": {"type": "text"}
+    }
+  },
+  "Fall Precautions Implementation": {
+    "parameters": {
+      "Fall Precautions": {"type": "options"},
+      "Implementation Date and Time": {"type": "datetime"}
+    }
+  }
+}

@@ -1,0 +1,35 @@
+Here is the output in JSON format, keeping only the `PARAMETER ESPECIFICATIONS` and `NO-CODE ELEMENT NAME`:
+
+
+{
+    "name": "Hair Washing and Conditioning",
+    "parameters": [
+        {
+            "name": "Shampoo Selection"
+        },
+        {
+            "name": "Shampoo Instructions"
+        },
+        {
+            "name": "Shampoo Images"
+        },
+        {
+            "name": "Conditioner Selection"
+        },
+        {
+            "name": "Conditioner Instructions"
+        },
+        {
+            "name": "Conditioner Images"
+        },
+        {
+            "name": "Massage Technique"
+        },
+        {
+            "name": "Washing and Conditioning Time"
+        },
+        {
+            "name": "Deadline Date"
+        }
+    ]
+}

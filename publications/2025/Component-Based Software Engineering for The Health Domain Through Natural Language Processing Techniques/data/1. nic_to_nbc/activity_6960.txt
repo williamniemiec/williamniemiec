@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+"Laxative Use Guide": {
+    "Laxative Types": {"type": "rich text or multimedia"},
+    "Indications and Contraindications": {"type": "rich text or multimedia"},
+    "Dosage and Administration": {"type": "rich text or multimedia"},
+    "Side Effects and Interactions": {"type": "rich text or multimedia"},
+    "Monitoring and Follow-up": {"type": "rich text or multimedia"}
+  }
+}

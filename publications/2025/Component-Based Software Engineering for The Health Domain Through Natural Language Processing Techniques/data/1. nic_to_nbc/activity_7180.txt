@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Therapy Management",
+  "parameters": [
+    {
+      "name": "therapy_type",
+      "type": "options"
+    },
+    {
+      "name": "dosage",
+      "type": "text"
+    },
+    {
+      "name": "frequency",
+      "type": "options"
+    },
+    {
+      "name": "duration",
+      "type": "text"
+    },
+    {
+      "name": "monitoring",
+      "type": "options"
+    }
+  ]
+}

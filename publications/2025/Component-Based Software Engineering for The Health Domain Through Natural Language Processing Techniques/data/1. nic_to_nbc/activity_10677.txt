@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Hydration Reminder",
+    "parameters": [
+        { 
+            "name": "name", 
+            "type": "text"
+        },
+        { 
+            "name": "goal", 
+            "type": "text"
+        },
+        { 
+            "name": "frequency", 
+            "type": "options"
+        },
+        { 
+            "name": "tracking", 
+            "type": "boolean"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+    "Guided Activity": {
+        "Activity Name": {
+            "Description": "Name of the activity to be performed",
+            "Required": true,
+            "Type": "text"
+        },
+        "Instructions": {
+            "Description": "Step-by-step instructions for the activity",
+            "Required": true,
+            "Type": "text"
+        },
+        "Frequency": {
+            "Description": "How often the activity should be performed",
+            "Required": true,
+            "Type": "options",
+            "Options": [
+                { "value": "daily", "label": "Daily" },
+                { "value": "everyHours", "label": "Every x hours" },
+                { "value": "everyDays", "label": "Every x days" }
+            ]
+        }
+    }
+}

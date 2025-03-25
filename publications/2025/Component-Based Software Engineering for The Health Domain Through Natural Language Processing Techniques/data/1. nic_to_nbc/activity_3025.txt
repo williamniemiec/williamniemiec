@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Instruction": {
+    "Direction": {"type": "text"},
+    "Format": {"type": "options", "options": ["step-by-step", "bullet points", "numbered list", "etc."]},
+    "Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"type": "datetime"}
+  }
+}

@@ -1,0 +1,12 @@
+
+
+
+{
+  "guide": {
+    "Parameters": {
+      "Name": "",
+      "Pages": [],
+      "Images/Videos": []
+    }
+  }
+}

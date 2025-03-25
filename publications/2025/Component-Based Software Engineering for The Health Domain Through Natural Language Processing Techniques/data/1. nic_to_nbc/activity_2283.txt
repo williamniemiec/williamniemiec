@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Personalized Resource Recommendations": {
+    "parameters": {
+      "Patient Profile": {"type": "form"},
+      "Resource Database": {"type": "list"},
+      "Recommendation Algorithm": {"type": "algorithm"}
+    }
+  }
+}

@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "Vital Sign Tracker": {
+    "parameters": {
+      "name": "",
+      "vital_signs": [
+        {
+          "name": "",
+          "unit": "",
+          "normal_range": "",
+          "abnormal_range": ""
+        }
+      ],
+      "frequency": "",
+      "deadline_date": "",
+      "action_plan": ""
+    }
+  }
+}
+
+
+Note that I removed the not applicable parameters and only kept the `{{ NO-CODE ELEMENT NAME }}` and `{{ PARAMETER ESPECIFICATIONS }}` as per your request.

@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "Counseling Referral": {
+    "Parameters": {
+      "Counseling need assessment": {
+        "Type": "algorithm or conditional logic"
+      },
+      "Referral options": {
+        "Type": "list or multimedia content"
+      },
+      "Counseling resource library": {
+        "Type": "multimedia content or links to external resources"
+      },
+      "Personalized referral": {
+        "Type": "algorithm or conditional logic"
+      },
+      "Follow-up reminders": {
+        "Type": "push notifications or in-app messaging"
+      }
+    }
+  }
+}

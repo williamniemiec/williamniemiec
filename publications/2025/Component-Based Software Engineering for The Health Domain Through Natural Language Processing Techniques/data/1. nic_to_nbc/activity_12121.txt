@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "guide": {
+    "parameters": {
+      "title": {"type": "text"},
+      "sections": {"type": "list of section objects", 
+                   "section object": {
+                     "title": {"type": "text"}, 
+                     "content": {"type": "HTML text or multimedia content"}
+                    }
+                   },
+      "features": {"material": {"type": "text"}, 
+                  "fit": {"type": "text"}}
+    }
+  }
+}

@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+    "Shoe Assessment Checklist": {
+        "name": "Shoe Appropriateness Checklist",
+        "description": "Please assess your shoes based on the following criteria",
+        "content_type": "checklist",
+        "items": [
+            "Low-heeled",
+            "Shoe shape matches foot shape",
+            "Adequate depth of toe box",
+            "Soles made of shock-absorbing material",
+            "Adjustable fit by lace or straps",
+            "Uppers made of breathable, soft, and flexible materials",
+            "Changes made for gait and limb length disorders",
+            "Potential for modification, if necessary"
+        ],
+        "answer_type": ["boolean", "select"],
+        "frequency": null,
+        "deadline_date": null,
+        "notes": null
+    }
+}
+
+
+I removed all the unnecessary text and only kept the `PARAMETER ESPECIFICATIONS` section. I also converted it to JSON format as requested. Note that I set `frequency`, `deadline_date`, and `notes` to `null` since they were not applicable parameters in this case.

@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Nasal Spray Administration Technique": {
+    "parameters": [
+      {"Nozzle Insertion Guidance": {}},
+      {"Bottle Squeeze Guidance": {}}
+    ]
+  }
+}

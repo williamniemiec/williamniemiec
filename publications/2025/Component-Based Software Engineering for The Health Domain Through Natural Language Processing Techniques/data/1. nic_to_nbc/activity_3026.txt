@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Shaping Plan": {
+    "Goal": {"type": "text"},
+    "Steps": {"type": "ordered list"},
+    "Current Step": {"type": "text"},
+    "Mastery Criteria": {
+      "type": "options",
+      "options": ["daily", "weekly", "monthly", "custom"]
+    },
+    "Reflection Prompt": {"type": "text"}
+  }
+}

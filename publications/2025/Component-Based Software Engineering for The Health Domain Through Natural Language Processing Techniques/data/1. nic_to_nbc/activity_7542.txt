@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Weight Tracker": {
+    "parameters": [
+      {"Name": {"type": "text"}},
+      {"Unit": {"type": "options", "options": ["kg", "lbs"]}},
+      {"Frequency": {"type": "options", "options": ["daily", "every 2 days", "every 3 days"]}},
+      {"Target Frequency": {"type": "text", "value": "at least three times a week"}}
+    ]
+  }
+}

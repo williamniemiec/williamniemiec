@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "NPO Instruction": {
+    "Parameters": {
+      "NPO Status": {},
+      "Reason": {},
+      "Duration": {},
+      "Instructions": {}
+    }
+  }
+}
+
+
+I removed all non-applicable parameters (i.e., those with `Required`: `false`) and kept only the essential information. Let me know if you need any further assistance!

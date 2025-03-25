@@ -1,0 +1,30 @@
+Here is the output in JSON format:
+
+
+{
+  "Therapy Information": {
+    "Parameters": {
+      "Therapy Name": {"Type": "text"},
+      "Therapy Description": {"Type": "text"},
+      "Frequency": {"Type": "text"},
+      "Duration": {"Type": "text"}
+    }
+  },
+  "Medication Information": {
+    "Parameters": {
+      "Medication Name": {"Type": "text"},
+      "Dosage": {"Type": "text"},
+      "Frequency": {"Type": "text"},
+      "Side Effects": {"Type": "list of text"},
+      "Interactions": {"Type": "list of text"}
+    }
+  },
+  "Prescription Details": {
+    "Parameters": {
+      "Prescription ID": {"Type": "text"},
+      "Prescription Date": {"Type": "date"},
+      "Prescribing Doctor": {"Type": "text"},
+      "Refills": {"Type": "number"}
+    }
+  }
+}

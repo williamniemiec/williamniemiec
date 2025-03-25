@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Activity Tracker": {
+    "parameters": {
+      "Activity Log": {"type": "list of activities with timestamps"},
+      "Energy Level": {"type": "scale (e.g., 1-5)"},
+      "Symptom Tracking": {"type": "list of symptoms with severity ratings (e.g., mild, moderate, severe)"},
+      "Frequency": {"type": "options (e.g., daily, weekly, monthly)"}
+    }
+  }
+}

@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "Feeding Method Guide": {
+    "Parameters": {
+      "Feeding Method": {
+        "Description": "Type of feeding method (e.g. breastfeeding, formula feeding, etc.)",
+        "Required": true,
+        "Type": "options",
+        "Options": [
+          {"value": "breastfeeding", "label": "Breastfeeding"},
+          {"value": "formulaFeeding", "label": "Formula Feeding"},
+          {"value": "mixedFeeding", "label": "Mixed Feeding"}
+        ]
+      },
+      "Tutorial Steps": {
+        "Description": "List of steps to follow for the chosen feeding method",
+        "Required": true,
+        "Type": "ordered list"
+      }
+    }
+  }
+}

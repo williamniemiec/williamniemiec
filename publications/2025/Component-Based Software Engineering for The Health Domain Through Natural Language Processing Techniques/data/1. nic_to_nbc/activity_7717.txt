@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Consciousness and Cooperation Assessment": {
+    "parameters": {
+      "Level of Consciousness": {"type": "categorical"},
+      "Ability to Cooperate": {"type": "categorical"},
+      "Orientation": {"type": "text"},
+      "Response to Stimuli": {"type": "categorical"},
+      "Additional Notes": {"type": "text"},
+      "Date and Time": {"type": "datetime"}
+    }
+  }
+}

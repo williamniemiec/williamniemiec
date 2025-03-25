@@ -1,0 +1,14 @@
+
+
+
+{
+  "Environmental Modification Guide": {
+    "parameters": {
+      "Guide Content": {"type": "book-page"},
+      "Reason": {"type": "text"},
+      "Modification Details": {"type": "text"},
+      "Visiting Limitation Details": {"type": "text"},
+      "FAQs": {"type": "list of FAQs"}
+    }
+  }
+}

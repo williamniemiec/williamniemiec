@@ -1,0 +1,26 @@
+
+
+
+{
+  "Privacy Settings": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Privacy Options": {"Type": "options", "Options": [
+        {"value": "privateMode", "label": "Private Mode"},
+        {"value": "sharedMode", "label": "Shared Mode"},
+        {"value": "customMode", "label": "Custom Mode"}
+      ]},
+      "Data Sharing": {"Type": "unordered list", "List items": [
+        {"value": "medicalHistory", "label": "Medical History"},
+        {"value": "medicationList", "label": "Medication List"},
+        {"value": "testResults", "label": "Test Results"}
+      ]},
+      "Notification Preferences": {"Type": "options", "Options": [
+        {"value": "email", "label": "Email"},
+        {"value": "sms", "label": "SMS"},
+        {"value": "inAppNotifications", "label": "In-App Notifications"}
+      ]},
+      "Customization": {"Type": "text"}
+    }
+  }
+}

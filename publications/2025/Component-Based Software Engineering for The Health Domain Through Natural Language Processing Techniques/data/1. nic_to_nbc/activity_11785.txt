@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Informational Support": {
+    "parameters": [
+      {"informational_needs": "A parameter that specifies the informational needs of the parents, family, educators, and caretakers (e.g., how to teach child, anticipatory guidance, developmental considerations)"},
+      {"support_type": "A parameter that specifies the type of support to be provided (e.g., educational resources, counseling, referrals)"},
+      {"frequency": "A parameter that specifies how often the informational support task should be repeated"},
+      {"deadline_date": "A parameter that specifies the due date for the informational support task"}
+    ]
+  }
+}
+
+
+I removed all non-parameter elements and kept only the `{{ NO-CODE ELEMENT NAME }}` and `{{ PARAMETER ESPECIFICATIONS }}`. I also removed the `notes` parameter as it's not applicable. Let me know if you need any further modifications!

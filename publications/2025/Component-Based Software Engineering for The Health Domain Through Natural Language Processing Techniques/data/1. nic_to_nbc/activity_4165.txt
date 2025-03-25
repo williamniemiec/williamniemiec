@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+    "Clothing Adjustment": {
+        "Parameters": {
+            "Reason for Adjustment": {"Type": "text"},
+            "Current Clothing": {"Type": "text"},
+            "Adjustment Instructions": {"Type": "text"},
+            "Confirmation": {"Type": "boolean"},
+            "Deadline Date": {"Type": "datetime"},
+            "Notes": {"Type": "text"}
+        }
+    }
+}
+
+
+Let me know if you need any further assistance!

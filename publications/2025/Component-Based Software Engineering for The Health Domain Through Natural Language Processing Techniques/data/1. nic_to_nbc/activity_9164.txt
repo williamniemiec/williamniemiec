@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "Disruption Assessment": {
+    "Questions": {
+      "Type": "form"
+    },
+    "Answer Type": {
+      "Type": "options",
+      "Options": ["text", "multiple choice", "rating scale", "etc."]
+    },
+    "Frequency": {
+      "Type": "options",
+      "Options": ["one-time", "daily", "weekly", "biweekly", "monthly", "etc."]
+    },
+    "Deadline Date": {
+      "Type": "datetime"
+    },
+    "Comparison": {
+      "Type": "options",
+      "Options": ["compare to previous assessment", "compare to typical family processes", "etc."]
+    }
+  }
+}

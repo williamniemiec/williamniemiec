@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Eating Pattern Assessment": {
+    "Parameters": {
+      "Eating Pattern Questions": {"Type": "list of text"},
+      "Preferred Foods Questions": {"Type": "list of text"},
+      "Eating Habits Questions": {"Type": "list of text"},
+      "Food Frequency Options": {"Type": "list of text"},
+      "Portion Size Options": {"Type": "list of text"},
+      "Meal Frequency Options": {"Type": "list of text"},
+      "Feedback": {"Type": "boolean"}
+    }
+  }
+}

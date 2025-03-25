@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+  "Continence Tracker": {
+    "parameters": [
+      {"name": "date", "description": "Date of continence record", "required": true, "type": "date"},
+      {"name": "continence_status", "description": "Continence status (continent or incontinent)", "required": true, "type": "options", "options": [{"value": "continent", "label": "Continent"}, {"value": "incontinent", "label": "Incontinent"}]}
+    ]
+  },
+  "Reinforcement Message": {
+    "parameters": [
+      {"name": "message", "description": "Reinforcement message", "required": true, "type": "text"},
+      {"name": "continence_status", "description": "Continence status (continent or incontinent)", "required": true, "type": "options", "options": [{"value": "continent", "label": "Continent"}, {"value": "incontinent", "label": "Incontinent"}]}
+    ]
+  },
+  "Staff Notification": {
+    "parameters": [
+      {"name": "notification", "description": "Notification to staff", "required": true, "type": "text"},
+      {"name": "continence_record", "description": "Daily record of continence", "required": true, "type": "log"}
+    ]
+  }
+}

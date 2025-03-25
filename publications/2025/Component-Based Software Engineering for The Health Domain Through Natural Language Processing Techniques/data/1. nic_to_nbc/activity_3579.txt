@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Equipment Availability": {
+    "parameters": {
+      "name": {"type": "text"},
+      "equipment_type": {"type": "options"},
+      "availability_status": {"type": "options"},
+      "instructions": {"type": "text or multimedia content"},
+      "contact_info": {"type": "text"}
+    }
+  }
+}

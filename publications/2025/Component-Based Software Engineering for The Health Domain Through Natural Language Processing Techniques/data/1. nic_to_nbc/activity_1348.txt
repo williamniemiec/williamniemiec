@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+    "Bed Linen Recommendation": {
+        "Parameters": {
+            "Name": {"Type": "text"},
+            "Content": {"Type": ["text", "image"]},
+            "Reason": {"Type": "text"},
+            "Alternative Options": {"Type": ["list of text"]},
+            "Tips": {"Type": ["list of text"]}
+        }
+    }
+}
+
+Note that I removed the `Not Applicable` parameters as per your request. Let me know if you need any further modifications!

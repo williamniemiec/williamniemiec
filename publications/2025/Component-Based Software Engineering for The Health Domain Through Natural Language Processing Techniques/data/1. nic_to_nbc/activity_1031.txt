@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "Infusion Shutdown": {
+    "Parameters": {
+      "Infusion Status": {
+        "Type": "boolean",
+        "Value": true
+      },
+      "Shutdown Instructions": {
+        "Type": "text",
+        "Value": "Before removing the device, ensure all infusions attached to the CVAD have been switched off. Follow the manufacturer's instructions for shutting down the infusion pump."
+      },
+      "Confirmation": {
+        "Type": "boolean",
+        "Value": true
+      },
+      "Device Removal": {
+        "Type": "boolean",
+        "Value": true
+      }
+    }
+  }
+}

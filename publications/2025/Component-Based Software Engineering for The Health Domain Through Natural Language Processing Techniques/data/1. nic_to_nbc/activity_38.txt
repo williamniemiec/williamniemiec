@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Residual Alert": {
+    "Parameters": {
+      "Name": {},
+      "Tube Type": {},
+      "Residual Threshold": {},
+      "Alert Message": {},
+      "Frequency": {},
+      "Deadline Date": {},
+      "Instructions": {}
+    }
+  }
+}

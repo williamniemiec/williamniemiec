@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Interactive Anatomy Guide": {
+    "Topic": {
+      "type": "options"
+    },
+    "Gender": {
+      "type": "options",
+      "values": ["male", "female"]
+    },
+    "Level of Detail": {
+      "type": "options",
+      "values": ["basic", "intermediate", "advanced"]
+    },
+    "Interactive Elements": {
+      "type": "options"
+    }
+  }
+}

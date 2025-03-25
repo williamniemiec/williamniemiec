@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Positive Focus Exercise": {
+    "Parameters": {
+      "Positive Aspects": {"Type": "text"},
+      "Gratitude List": {"Type": "list of text"},
+      "Positive Memories": {"Type": "text"},
+      "Strengths and Resilience": {"Type": "text"},
+      "Reflection": {"Type": "text"}
+    }
+  }
+}

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Oral Hygiene Task": {
+    "parameters": [
+      {"Name": {"type": "text"}},
+      {"Instructions": {"type": "text"}},
+      {"Frequency": {"type": "options", "options": ["daily", "twice a day", "three times a day", "as needed"]}},
+      {"Deadline Date": {"type": "datetime"}},
+      {"Reminders": {"type": "boolean"}}
+    ]
+  }
+}

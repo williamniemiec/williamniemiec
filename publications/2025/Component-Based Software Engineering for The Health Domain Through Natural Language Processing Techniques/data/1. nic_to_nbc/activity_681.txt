@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+  "Care Team": {
+    "care team title": {
+      "type": "text",
+      "required": true
+    },
+    "Providers": {
+      "type": "list of provider objects",
+      "required": true
+    },
+    "Family Members": {
+      "type": "list of family member objects",
+      "required": false
+    },
+    "Communication Methods": {
+      "type": "list of communication method objects",
+      "required": true
+    },
+    "Notes": {
+      "type": "text",
+      "required": false
+    }
+  }
+}

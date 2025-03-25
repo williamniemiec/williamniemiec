@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Texture Exploration Guide": {
+    "Parameters": {
+      "Title": {},
+      "Texture Selection": {},
+      "Identification": {},
+      "Activity": {}
+    }
+  }
+}

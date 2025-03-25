@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Self-Assessment Quiz": {
+        "Parameters": {
+            "Quiz Questions": [],
+            "Answer Options": [],
+            "Scoring and Interpretation": "",
+            "Reflection and Insights": [],
+            "Resources and Next Steps": []
+        }
+    }
+}

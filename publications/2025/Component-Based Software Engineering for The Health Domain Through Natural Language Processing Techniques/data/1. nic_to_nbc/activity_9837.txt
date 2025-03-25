@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+  "Relocation History": {
+    "Parameters": {
+      "Relocation History": {"Type": "text or selection from a list"},
+      "Coping Mechanisms": {"Type": "text or selection from a list"},
+      "Emotional Response": {"Type": "text or selection from a list"},
+      "Lessons Learned": {"Type": "text"}
+    }
+  },
+  "Life Story": {
+    "Parameters": {
+      "Life Story": {"Type": "text or audio/video recording"},
+      "Reflection Questions": {"Type": "list of text"}
+    }
+  }
+}
+
+
+Note that I removed the "Emotional Support" parameter from the "Life Story" no-code element since it's not applicable (it doesn't ask for any input from the patient).

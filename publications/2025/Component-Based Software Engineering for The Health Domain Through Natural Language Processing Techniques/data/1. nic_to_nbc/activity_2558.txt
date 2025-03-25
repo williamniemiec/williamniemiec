@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Communication Aid": {
+    "Parameters": {
+      "Title": {"Type": "text"},
+      "Media": {"Type": "multimedia"},
+      "Description": {"Type": "text"},
+      "Frequency": {"Type": "options"},
+      "Deadline Date": {"Type": "datetime"}
+    }
+  }
+}

@@ -1,0 +1,31 @@
+Here is the output in JSON format:
+
+
+{
+  "Dressing Guidance": {
+    "Parameters": {
+      "Clothing Type": {
+        "Type": "options",
+        "Options": [
+          {"value": "comfortable", "label": "Comfortable"},
+          {"value": "unrestricted", "label": "Unrestricted"}
+        ]
+      },
+      "Description": {
+        "Type": "text"
+      },
+      "Frequency": {
+        "Type": "options",
+        "Options": [
+          {"value": "daily", "label": "Daily"},
+          {"value": "onlyOnce", "label": "Only once"},
+          {"value": "everyHours", "label": "Every x hours"},
+          {"value": "everyDays", "label": "Every x days"}
+        ]
+      }
+    }
+  }
+}
+
+
+Note that I removed the `Deadline Date` parameter as it was specified as a datetime type, but there were no options provided. If you want to include it with an empty options array, let me know!

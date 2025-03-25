@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Simple Text": {
+    "Text": {
+      "type": "text"
+    },
+    "Language Level": {
+      "type": "options",
+      "options": [
+        { "value": "basic", "label": "Basic" },
+        { "value": "intermediate", "label": "Intermediate" },
+        { "value": "advanced", "label": "Advanced" }
+      ]
+    }
+  }
+}

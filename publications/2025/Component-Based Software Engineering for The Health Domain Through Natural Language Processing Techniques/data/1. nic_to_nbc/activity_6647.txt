@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "Airway Patency Tracker": {
+    "Parameters": {
+      "Airway Patency Goal": {},
+      "Frequency": {
+        "Options": [
+          { "value": "daily", "label": "Daily" },
+          { "value": "every12hours", "label": "Every 12 hours" },
+          { "value": "every8hours", "label": "Every 8 hours" }
+        ]
+      },
+      "Tracking Method": {
+        "Options": [
+          { "value": "peakFlow", "label": "Peak flow measurement" },
+          { "value": "oxygenSaturation", "label": "Oxygen saturation level" },
+          { "value": "respiratoryRate", "label": "Respiratory rate" }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,35 @@
+Here is the output in JSON format:
+
+
+{
+    "ECG Tracking": {
+        "parameters": [
+            {"name": "PR_interval", "description": "Enter PR interval", "required": true, "type": "numeric"},
+            {"name": "QT_interval", "description": "Enter QT interval", "required": true, "type": "numeric"},
+            {"name": "ST_segments", "description": "Enter ST segments", "required": true, "type": "numeric"},
+            {"name": "T_wave", "description": "Enter T wave shape", "required": true, "type": "options", "options": [
+                {"value": "cone_shaped", "label": "Cone-shaped"},
+                {"value": "normal", "label": "Normal"}
+            ]},
+            {"name": "heart_rate", "description": "Enter heart rate", "required": true, "type": "numeric"},
+            {"name": "frequency", "description": "Specify how often to track ECG", "required": true, "type": "options", "options": [
+                {"value": "daily", "label": "Daily"},
+                {"value": "onlyOnce", "label": "Only once"},
+                {"value": "everyHours", "label": "Every x hours"},
+                {"value": "everyDays", "label": "Every x days"}
+            ]}
+        ]
+    },
+    "Blood Pressure Tracking": {
+        "parameters": [
+            {"name": "systolic", "description": "Enter systolic blood pressure", "required": true, "type": "numeric"},
+            {"name": "diastolic", "description": "Enter diastolic blood pressure", "required": true, "type": "numeric"},
+            {"name": "frequency", "description": "Specify how often to track blood pressure", "required": true, "type": "options", "options": [
+                {"value": "daily", "label": "Daily"},
+                {"value": "onlyOnce", "label": "Only once"},
+                {"value": "everyHours", "label": "Every x hours"},
+                {"value": "everyDays", "label": "Every x days"}
+            ]}
+        ]
+    }
+}

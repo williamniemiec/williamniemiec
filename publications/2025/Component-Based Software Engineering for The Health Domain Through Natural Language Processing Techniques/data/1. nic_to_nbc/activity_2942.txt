@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Medication Alert": {
+        "name": "Opioid Administration Alert",
+        "description": "Discontinue opioid administration by other routes",
+        "medication_name": "Opioid",
+        "reason": "Discontinue administration by other routes",
+        "frequency": "Once",
+        "deadline_date": "Immediate"
+    }
+}

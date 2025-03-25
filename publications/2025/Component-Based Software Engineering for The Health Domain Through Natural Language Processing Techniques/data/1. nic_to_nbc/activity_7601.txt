@@ -1,0 +1,37 @@
+Here is the output in JSON format:
+
+
+{
+  "Oral Intake Promotion": {
+    "Strategies": {
+      "type": "options",
+      "required": true,
+      "options": [
+        { "value": "drinkingStraw", "label": "Provide a drinking straw" },
+        { "value": "fluidsBetweenMeals", "label": "Offer fluids between meals" },
+        { "value": "changeIceWater", "label": "Change ice water routinely" },
+        { "value": "freezerPops", "label": "Make freezer pops using child's favorite juice" },
+        { "value": "funGelatin", "label": "Cut gelatin into fun squares" },
+        { "value": "smallMedicineCups", "label": "Use small medicine cups" },
+        { "value": "other", "label": "Other (please specify)" }
+      ]
+    },
+    "Frequency": {
+      "type": "options",
+      "required": true,
+      "options": [
+        { "value": "daily", "label": "Daily" },
+        { "value": "twiceDaily", "label": "Twice daily" },
+        { "value": "asNeeded", "label": "As needed" }
+      ]
+    },
+    "Deadline Date": {
+      "type": "datetime",
+      "required": false
+    },
+    "Notes": {
+      "type": "text",
+      "required": false
+    }
+  }
+}

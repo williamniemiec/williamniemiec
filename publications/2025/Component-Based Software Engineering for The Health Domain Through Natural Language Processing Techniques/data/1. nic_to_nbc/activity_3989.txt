@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Roommate Matching": {
+    "Aesthetic Preferences": {},
+    "Roommate Characteristics": {},
+    "Environmental Factors": {},
+    "Image/Video": {},
+    "Matching Criteria": {}
+  }
+}

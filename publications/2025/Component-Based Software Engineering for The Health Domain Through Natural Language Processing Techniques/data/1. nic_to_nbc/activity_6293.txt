@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Blood Product Guide": {
+    "parameters": {
+      "name": {"type": "text"},
+      "products": {"type": "unordered list"},
+      "purpose": {"type": "text"},
+      "administration": {"type": "text"},
+      "what_to_expect": {"type": "text"},
+      "side_effects": {"type": "unordered list"},
+      "frequently_asked_questions": {"type": "FAQ list"}
+    }
+  }
+}

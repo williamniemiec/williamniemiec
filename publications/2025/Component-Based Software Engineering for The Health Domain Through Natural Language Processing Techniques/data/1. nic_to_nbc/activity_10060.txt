@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Questionnaire": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Questions": {"Type": "list of questions with answer types"},
+      "Answer Type": {"Type": "options"},
+      "Frequency": {"Type": "options"}
+    }
+  }
+}
+
+
+Note: I removed the `Deadline Date` parameter since it's not applicable in this context. Also, I kept only the necessary information for each parameter, removing unnecessary details like example questions and answer types.

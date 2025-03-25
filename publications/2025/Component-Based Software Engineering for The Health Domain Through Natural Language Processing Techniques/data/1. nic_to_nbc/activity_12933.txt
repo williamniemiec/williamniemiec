@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+    "Abdominal Assessment": {
+        "parameters": {
+            "Abdominal Pain": {},
+            "Nausea and Vomiting": {},
+            "Abdominal Distension": {},
+            "Bowel Movement": {},
+            "Frequency": {
+                "options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+            },
+            "Deadline Date": {}
+        }
+    }
+}

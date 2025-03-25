@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Smoking Restriction": {
+    "Parameters": {
+      "Smoking Restriction Goal": {},
+      "Frequency": {},
+      "Tracking Method": {}
+    }
+  }
+}

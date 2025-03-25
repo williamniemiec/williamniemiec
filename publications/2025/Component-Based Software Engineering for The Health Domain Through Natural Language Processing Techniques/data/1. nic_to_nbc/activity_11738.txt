@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Promotion or Clinical Advancement Recommendation": {
+    "parameters": {
+      "name": {"type": "text"},
+      "candidate": {"type": "text"},
+      "recommendation_type": {"type": "options"},
+      "justification": {"type": "text"},
+      "approval_required": {"type": "boolean"}
+    }
+  }
+}

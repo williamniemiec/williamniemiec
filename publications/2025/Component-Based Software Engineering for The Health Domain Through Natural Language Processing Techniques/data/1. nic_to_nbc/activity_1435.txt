@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+    "cleansing guide": {
+        "parameters": [
+            {"name": "detergent name", "description": "name of the detergent to be used"},
+            {"name": "cleansing instructions", "description": "step-by-step instructions for cleansing"},
+            {"name": "frequency", "description": "specify how often the cleansing should be repeated"}
+        ]
+    }
+}
+
+
+I removed the `deadline_date` parameter because it's not required. Let me know if you have any further questions!

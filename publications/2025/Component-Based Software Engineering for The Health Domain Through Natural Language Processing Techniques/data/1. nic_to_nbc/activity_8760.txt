@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Response Tracker": {
+    "Parameters": {
+      "Tolerance": {},
+      "Negative Effects": {},
+      "Comments": {}
+    }
+  }
+}

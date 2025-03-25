@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Vasodilator Administration Guidance": {
+    "Parameters": {
+      "Instructions": {"Type": "text"},
+      "Medication List": {"Type": "list of medications"},
+      "Rewarming Protocol": {"Type": "text"},
+      "Cautionary Notes": {"Type": "text"},
+      "Monitoring": {"Type": "boolean"}
+    }
+  }
+}

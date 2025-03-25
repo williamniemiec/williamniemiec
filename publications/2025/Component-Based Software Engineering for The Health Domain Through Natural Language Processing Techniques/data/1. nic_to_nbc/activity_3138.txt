@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+    "Pain Tracker": {
+        "Parameters": {
+            "Pain Scale": ["Numerical scale (e.g. 0-10)", "Verbal scale (e.g. mild, moderate, severe)", "Visual scale (e.g. facial expressions, color-coded)"],
+            "Frequency of Tracking": ["Daily", "Several times a day", "At specific times of day (e.g. morning, evening)"],
+            "Contextual Tracking": ["During exercise", "At night", "While resting"],
+            "Notes and Comments": ["Text entry field", "Audio or video recording"],
+            "Reminders": ["Email or in-app notifications", "Customizable reminder schedule"]
+        }
+    }
+}
+
+Let me know if this is what you were expecting!

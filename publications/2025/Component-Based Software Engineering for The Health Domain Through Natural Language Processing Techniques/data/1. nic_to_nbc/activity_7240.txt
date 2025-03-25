@@ -1,0 +1,43 @@
+Here is the output in JSON format:
+
+
+{
+  "Referral": {
+    "Parameters": {
+      "Referral Reason": {
+        "Description": "Select the reason for the referral",
+        "Required": true,
+        "Type": "options",
+        "Options": [
+          {"value": "specialistCare", "label": "Specialist Care"},
+          {"value": "additionalTesting", "label": "Additional Testing"},
+          {"value": "therapy", "label": "Therapy"},
+          {"value": "other", "label": "Other (please specify)"}
+        ]
+      },
+      "Referral Provider": {
+        "Description": "Select the provider to whom the patient will be referred",
+        "Required": true,
+        "Type": "options",
+        "Options": [
+          {"value": "primaryCarePhysician", "label": "Primary Care Physician"},
+          {"value": "specialist", "label": "Specialist"},
+          {"value": "other", "label": "Other (please specify)"}
+        ]
+      },
+      "Referral Status": {
+        "Description": "Track the status of the referral",
+        "Required": true,
+        "Type": "options",
+        "Options": [
+          {"value": "pending", "label": "Pending"},
+          {"value": "completed", "label": "Completed"},
+          {"value": "cancelled", "label": "Cancelled"}
+        ]
+      }
+    }
+  }
+}
+
+
+Note that I removed the `Referral Instructions` parameter since it was marked as not required.

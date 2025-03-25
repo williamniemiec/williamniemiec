@@ -1,0 +1,42 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Guide",
+  "parameters": [
+    {
+      "name": "name",
+      "description": "guide title",
+      "required": true,
+      "type": "text"
+    },
+    {
+      "name": "pages",
+      "description": "list of pages",
+      "required": true,
+      "type": "book-page",
+      "book-page": [
+        {
+          "title": "Introduction",
+          "content": "HTML text introducing the manufacturer's guide"
+        },
+        {
+          "title": "Product Description",
+          "content": "HTML text describing the specific pessary type"
+        },
+        {
+          "title": "Instructions for Use",
+          "content": "HTML text providing step-by-step instructions for using the pessary"
+        },
+        {
+          "title": "Contraindications and Precautions",
+          "content": "HTML text outlining contraindications and precautions for using the pessary"
+        },
+        {
+          "title": "Troubleshooting",
+          "content": "HTML text providing troubleshooting tips for common issues with the pessary"
+        }
+      ]
+    }
+  ]
+}

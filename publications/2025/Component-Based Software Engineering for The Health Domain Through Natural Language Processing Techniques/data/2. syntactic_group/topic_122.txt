@@ -1,0 +1,10 @@
+{
+  "name": "Financial Assistance and Insurance",
+  "description": "Covers topics related to financial assistance, insurance coverage for burial, expenses, and funeral fees. It includes managing funds, deposits, and ensuring appropriate insurance coverage.",
+  "type": "non-periodic",
+  "input": ["Financial assistance", "Insurance coverage", "Burial expenses", "Fund management", "Deposit and fee tracking"],
+  "output": ["Insurance plan summary", "Financial assistance guide", "Burial expenses report"],
+  "preconditions": ["User is managing financial assistance or insurance needs"],
+  "postconditions": ["Proper financial and insurance coverage for burial and funeral needs"],
+  "dependencies": ["Financial management platform", "Insurance tracking system", "Fund assistance tools"]
+}

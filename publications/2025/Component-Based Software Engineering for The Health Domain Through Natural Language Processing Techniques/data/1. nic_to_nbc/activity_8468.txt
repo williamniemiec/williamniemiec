@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Guideline": {
+    "parameters": [
+      { "name": "name", "type": "text" },
+      { "name": "content", "type": "text" },
+      { "name": "tips", "type": "list of text" },
+      { "name": "frequency", "type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"] },
+      { "name": "deadline_date", "type": "datetime" }
+    ]
+  }
+}

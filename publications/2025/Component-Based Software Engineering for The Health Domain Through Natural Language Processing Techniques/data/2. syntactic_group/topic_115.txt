@@ -1,0 +1,10 @@
+{
+  "name": "Motivation and Strengths Identification",
+  "description": "Helps users identify their personal strengths using various motivational scales such as Likert scales. Focuses on multiple strength identification and motivating choices.",
+  "type": "non-periodic",
+  "input": ["Motivational scales", "Strength identification", "Likert scale", "Choice motivation", "Ability tracking"],
+  "output": ["Strengths report", "Motivational feedback", "Strength identification guide"],
+  "preconditions": ["User is engaged in self-reflection or motivational exercises"],
+  "postconditions": ["Increased motivation and awareness of personal strengths"],
+  "dependencies": ["Motivational tools", "Self-assessment scales", "Strength identification platform"]
+}

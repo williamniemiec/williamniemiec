@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Informational Content": {
+    "Parameters": {
+      "Title": {"Type": "text"},
+      "Content": {"Type": "text or HTML"},
+      "Media": {"Type": "media (e.g., image, video)"},
+      "FAQs": {"Type": "list of FAQs"}
+    }
+  }
+}

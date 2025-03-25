@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "Holding Guidance": {
+    "parameters": {
+      "Holding Instructions": {
+        "type": "text",
+        "example": "Hold your child close to your chest, with their head on your shoulder and their arms around your neck. Make sure to support their back and bottom."
+      },
+      "Holding Tips": {
+        "type": "list of text",
+        "example": ["Make sure to hold your child securely, but not too tightly", "Use a comfortable and supportive position for both you and your child"]
+      },
+      "Visual Aids": {
+        "type": "media (image or video)"
+      },
+      "Frequency": {
+        "type": "options",
+        "options": ["as needed", "daily", "every 2 hours"]
+      }
+    }
+  }
+}

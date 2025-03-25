@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Need Identification": {
+    "parameters": {
+      "Meeting Goal": {"type": "text"},
+      "Need Categories": {"type": "checklist", "options": [
+        {"value": "physical", "label": "Physical needs (e.g., pain management, mobility)"},
+        {"value": "emotional", "label": "Emotional needs (e.g., anxiety, depression)"},
+        {"value": "social", "label": "Social needs (e.g., relationships, support system)"}
+      ]},
+      "Specific Needs": {"type": "text"},
+      "Priority": {"type": "ranking"},
+      "Notes": {"type": "text"}
+    }
+  }
+}

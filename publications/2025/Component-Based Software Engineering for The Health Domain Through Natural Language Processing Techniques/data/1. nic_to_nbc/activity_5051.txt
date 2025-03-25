@@ -1,0 +1,29 @@
+Here is the output in JSON format:
+
+
+{
+  "Resource Directory": {
+    "parameters": [
+      {
+        "name": "lodging_options",
+        "description": "List of nearby lodging options",
+        "required": true,
+        "type": "list",
+        "list_items": [...]
+      },
+      {
+        "name": "meal_options",
+        "description": "List of nearby meal options",
+        "required": true,
+        "type": "list",
+        "list_items": [...]
+      },
+      {
+        "name": "maps_link",
+        "description": "Link to a map showing nearby lodging and meal options",
+        "required": false,
+        "type": "url"
+      }
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "Oral Hygiene Guide": {
+    "guide title": {},
+    "Dental Cleansing Devices": {
+      "options": [
+        { "value": "unwaxedFloss", "label": "Unwaxed, non-shredding floss" },
+        { "value": "sonicToothbrush", "label": "Sonic toothbrush" },
+        { "value": "waterPik", "label": "Water Pik" },
+        { "value": "other", "label": "Other (please specify)" }
+      ]
+    },
+    "Oral Hygiene Instructions": {},
+    "Frequency": {
+      "options": [
+        { "value": "daily", "label": "Daily" },
+        { "value": "twiceADay", "label": "Twice a day" },
+        { "value": "weekly", "label": "Weekly" }
+      ]
+    }
+  }
+}

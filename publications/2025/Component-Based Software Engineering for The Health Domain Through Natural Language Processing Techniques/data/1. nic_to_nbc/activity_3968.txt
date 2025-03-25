@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Hemodynamic Monitor": {
+    "parameters": {
+      "Blood Pressure": {"type": ["number", "text"]},
+      "Heart Rate": {"type": ["number", "text"]},
+      "Oxygen Saturation": {"type": ["number", "text"]},
+      "Symptoms": {"type": ["text", "options"]},
+      "Frequency": {"type": ["options"]}
+    }
+  }
+}
+
+
+Note: I removed the "options" details for "Symptoms" and "Frequency" as they were not applicable parameters. Let me know if you need any further modifications!

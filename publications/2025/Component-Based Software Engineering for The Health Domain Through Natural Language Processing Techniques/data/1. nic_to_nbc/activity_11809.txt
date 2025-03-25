@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Device Instruction": {
+    "Name": {"type": "text"},
+    "Device Type": {"type": "options", "options": [{"value": "wristSplint", "label": "Wrist Splint"}, {"value": "kneeBrace", "label": "Knee Brace"}]},
+    "Application Instructions": {"type": "ordered list"},
+    "Maintenance Instructions": {"type": "ordered list"},
+    "Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"type": "datetime"}
+  }
+}
+
+
+I removed the introduction, number, and conclusion sections, as well as any text that was not part of the parameter specifications. I also reformatted the output to be a JSON object with the no-code element name as the key, and the parameter names and types as values. Let me know if you have any further requests!

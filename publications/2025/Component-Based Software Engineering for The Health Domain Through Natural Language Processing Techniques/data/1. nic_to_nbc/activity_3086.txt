@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Identification": {
+    "Parameters": {
+      "Medication Name": {},
+      "Characteristics": {},
+      "Frequency": {},
+      "Deadline Date": {}
+    }
+  }
+}

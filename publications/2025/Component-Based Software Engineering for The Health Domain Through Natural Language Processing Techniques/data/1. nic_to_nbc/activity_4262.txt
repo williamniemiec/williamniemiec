@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Exercise Tutorial": {
+    "tutorial title": {},
+    "leg exercises": {},
+    "steps": [
+      {"Step 1: Preparation": {}},
+      {"Step 2: Execution": {}},
+      {"Step 3: Safety Precautions": {}}
+    ],
+    "frequency": {},
+    "deadline date": {}
+  }
+}
+
+
+Note that I removed the not applicable parameters (i.e., those with Required: false) and only kept the parameter names and their corresponding values. Let me know if you need any further modifications!

@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Pap Exam Recommendation": {
+    "Recommendation": {"Description": "recommendation for yearly Pap exams, as appropriate", "Required": true, "Type": "text"},
+    "Frequency": {"Description": "frequency of Pap exams, e.g. yearly", "Required": true, "Type": "options", "Options": [{"value": "yearly", "label": "Yearly"}, {"value": "every2Years", "label": "Every 2 years"}, {"value": "every3Years", "label": "Every 3 years"}]},
+    "Eligibility": {"Description": "eligibility criteria for Pap exam, e.g. age, medical history", "Required": true, "Type": "text"},
+    "Resources": {"Description": "resources for scheduling Pap exam, e.g. phone number, website", "Required": true, "Type": "text"}
+  }
+}

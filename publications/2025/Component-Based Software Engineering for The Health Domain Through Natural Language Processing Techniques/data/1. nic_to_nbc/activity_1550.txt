@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Danger Signs Alert": {
+    "Parameters": {
+      "Danger Signs": {
+        "Description": "List of danger signs that warrant immediate reporting (e.g. fever, depression, etc.)",
+        "Type": "unordered list"
+      },
+      "Description": {
+        "Description": "Brief description of each danger",
+        "Type": "unordered list"
+      },
+      "Reporting Instructions": {
+        "Description": "Instructions on what to do if a danger is experienced (e.g. call doctor, go to ER, etc.)",
+        "Type": "unordered list"
+      }
+    }
+  }
+}

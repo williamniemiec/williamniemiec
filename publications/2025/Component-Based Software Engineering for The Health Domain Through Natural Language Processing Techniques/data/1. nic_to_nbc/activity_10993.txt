@@ -1,0 +1,10 @@
+Here is the output in JSON format:
+
+
+{
+  "Deposition Guide": {
+    "Attorney Contact Information": {"type": "text"},
+    "Deposition Process Questions": {"type": "text"},
+    "Request Method": {"type": "options"}
+  }
+}

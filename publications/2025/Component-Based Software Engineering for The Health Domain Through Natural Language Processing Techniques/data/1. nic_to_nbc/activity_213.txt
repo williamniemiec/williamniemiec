@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+    "Pacing Support": {
+        "name": {"type": "text"},
+        "indications": {"type": "list of text items"},
+        "duration": {
+            "type": "object",
+            "properties": {
+                "duration_type": {},
+                "duration_value": {}
+            }
+        },
+        "support_info": {"type": "text"}
+    }
+}
+
+
+I removed the `image` parameter as it's marked as "not applicable" (it can be either an image URL or base64-encoded image, which is not a standard type). Let me know if you need any further adjustments!

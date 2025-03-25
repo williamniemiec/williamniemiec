@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Motivation Assessment": {
+    "Question": {},
+    "Motivation Level": {},
+    "Goal Setting": {
+      "Goal Type": {},
+      "Target Value": {},
+      "Timeframe": {}
+    },
+    "Barriers to Success": {},
+    "Frequency": {},
+    "Deadline Date": {}
+  }
+}

@@ -1,0 +1,29 @@
+Here is the output in JSON format:
+
+
+{
+  "Stability Assistance": {
+    "Parameters": {
+      "Stability Type": [
+        { "value": "trunkStability", "label": "Trunk stability" },
+        { "value": "proximalJointStability", "label": "Proximal joint stability" },
+        { "value": "both", "label": "Both trunk and proximal joint stability" }
+      ],
+      "Assistance Method": [
+        { "value": "manualSupport", "label": "Manual support" },
+        { "value": "bracing", "label": "Bracing" },
+        { "value": "taping", "label": "Taping" },
+        { "value": "other", "label": "Other (specify)" }
+      ],
+      "Joint/Region": [
+        { "value": "shoulder", "label": "Shoulder" },
+        { "value": "elbow", "label": "Elbow" },
+        { "value": "wrist", "label": "Wrist" },
+        { "value": "hip", "label": "Hip" },
+        { "value": "knee", "label": "Knee" },
+        { "value": "ankle", "label": "Ankle" },
+        { "value": "other", "label": "Other (specify)" }
+      ]
+    }
+  }
+}

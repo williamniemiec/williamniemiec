@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "medication monitoring": {
+    "Medication List": {"Description": "List of current medications", "Required": true, "Type": "checklist"},
+    "Medication Interactions": {"Description": "Track potential medication interactions", "Required": true, "Type": "text"},
+    "Side Effects": {"Description": "Track side effects experienced", "Required": true, "Type": "checklist", "Options": [{"value": "dizziness", "label": "Dizziness"}, {"value": "nausea", "label": "Nausea"}, {"value": "headache", "label": "Headache"}, {"value": "fatigue", "label": "Fatigue"}]},
+    "Therapeutic Effects": {"Description": "Track desired therapeutic effects", "Required": true, "Type": "checklist", "Options": [{"value": "painRelief", "label": "Pain Relief"}, {"value": "inflammationReduction", "label": "Inflammation Reduction"}, {"value": "improvedMood", "label": "Improved Mood"}, {"value": "increasedEnergy", "label": "Increased Energy"}]},
+    "Dosage and Frequency": {"Description": "Track medication dosage and frequency", "Required": true, "Type": "text"}
+  }
+}

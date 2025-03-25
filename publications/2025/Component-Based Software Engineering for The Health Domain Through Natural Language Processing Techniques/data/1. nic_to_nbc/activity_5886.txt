@@ -1,0 +1,35 @@
+Here is the output in JSON format:
+
+
+{
+    "Art Expression Activity": {
+        "parameters": {
+            "name": "",
+            "art_type": "",
+            "prompt": "",
+            "frequency": "",
+            "deadline_date": "",
+            "content_type": "creative activity"
+        }
+    },
+    "Play Therapy Exercise": {
+        "parameters": {
+            "name": "",
+            "play_type": "",
+            "scenario": "",
+            "frequency": "",
+            "deadline_date": "",
+            "content_type": "guided play"
+        }
+    },
+    "Emotion Identification Game": {
+        "parameters": {
+            "name": "",
+            "game_type": "",
+            "emotions": [],
+            "frequency": "",
+            "deadline_date": "",
+            "content_type": "interactive game"
+        }
+    }
+}

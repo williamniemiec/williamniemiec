@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Response Evaluation": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Description": {"Type": "text"},
+      "Evaluation Questions": {"Type": "list of questions"},
+      "Response Type": {"Type": "options"},
+      "Documentation": {"Type": "text or audio/video recording"}
+    }
+  }
+}
+
+Note: I removed the "not applicable" parameters and kept only the relevant information. Let me know if you need any further adjustments!

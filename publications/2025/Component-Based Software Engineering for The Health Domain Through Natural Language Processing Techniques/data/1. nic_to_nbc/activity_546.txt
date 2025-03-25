@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Disaster Needs Assessment": {
+    "Needs Checklist": {
+      "Type": "unordered list with checkboxes"
+    },
+    "Epidemiological Questions": {
+      "Type": "form with text fields, checkboxes, or radio buttons"
+    },
+    "Free-Text Field": {
+      "Type": "text field"
+    }
+  }
+}

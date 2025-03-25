@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Family Impact Discussion": {
+    "Parameters": {
+      "Family Members": {},
+      "Impact Questions": {},
+      "Relationship Dynamics": {},
+      "Feelings and Concerns": {},
+      "Reflection": {},
+      "Next Steps": {}
+    }
+  }
+}

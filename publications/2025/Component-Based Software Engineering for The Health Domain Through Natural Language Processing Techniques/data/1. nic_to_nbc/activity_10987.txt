@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "abnormal sign reporting": {
+        "Reporting Instructions": {"type": "text"},
+        "Symptom List": {"type": "list of text"},
+        "Severity Scale": {"type": "scale (e.g. 1-5)"},
+        "Additional Notes": {"type": "text"}
+    }
+}
+
+
+Note: I removed the `Physician Contact Information` parameter as it's not applicable in this context, and also removed any unnecessary information to provide a clean JSON output.

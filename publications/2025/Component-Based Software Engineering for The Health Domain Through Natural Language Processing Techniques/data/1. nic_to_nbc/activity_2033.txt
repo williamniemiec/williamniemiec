@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Self-Care Tracker": {
+    "parameters": [
+      {"name": "Self-Care Activities"},
+      {"name": "Frequency"},
+      {"name": "Ability Assessment"},
+      {"name": "Tracking"}
+    ]
+  }
+}

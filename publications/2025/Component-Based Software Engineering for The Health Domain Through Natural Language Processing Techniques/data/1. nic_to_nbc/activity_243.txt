@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+  "Questionnaire": {
+    "parameters": {
+      "name": {"type": "text"},
+      "questions": {"type": "list of question objects", 
+                    "question object": {
+                      "text": {"type": "text"}, 
+                      "answer_type": {"type": "options (text, rating, etc.)"}
+                    }},
+      "instructions": {"type": "text"}
+    }
+  },
+  "Guide": {
+    "parameters": {
+      "name": {"type": "text"},
+      "pages": {"type": "book-page", 
+               "book-page": "list of HTML texts"}
+    }
+  }
+}
+
+
+Let me know if this meets your requirements!

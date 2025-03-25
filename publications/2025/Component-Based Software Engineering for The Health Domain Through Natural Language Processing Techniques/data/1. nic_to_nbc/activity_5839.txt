@@ -1,0 +1,34 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Schedule",
+    "parameters": [
+        {
+            "name": "Name",
+            "type": "text"
+        },
+        {
+            "name": "Content",
+            "type": "text"
+        },
+        {
+            "name": "Frequency",
+            "type": "options"
+        },
+        {
+            "name": "Start Time",
+            "type": "datetime"
+        },
+        {
+            "name": "End Time",
+            "type": "datetime"
+        },
+        {
+            "name": "Reminders",
+            "type": "boolean"
+        }
+    ]
+}
+
+Let me know if this is what you were expecting!

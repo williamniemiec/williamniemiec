@@ -1,0 +1,13 @@
+Here is the output in JSON format, removing everything except `PARAMETER ESPECIFICATIONS` and `NO-CODE ELEMENT NAME`, and removing not applicable parameters:
+
+
+{
+    "Bleeding Education Guide": {
+        "parameters": [
+            {"name": "Bleeding Signs"},
+            {"name": "Action Steps"},
+            {"name": "Contact Information"},
+            {"name": "Frequency"}
+        ]
+    }
+}

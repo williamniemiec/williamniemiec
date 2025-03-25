@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Emergency Services Guide": {
+    "Parameters": {
+      "Title": {"Type": "text"},
+      "Content": {"Type": ["text", "HTML"]},
+      "Emergency Services": {"Type": "list of options"},
+      "Contact Information": {"Type": ["list of text", "options"]},
+      "Instructions": {"Type": ["text", "list of options"]},
+      "Important Phone Numbers": {"Type": ["list of text", "options"]}
+    }
+  }
+}

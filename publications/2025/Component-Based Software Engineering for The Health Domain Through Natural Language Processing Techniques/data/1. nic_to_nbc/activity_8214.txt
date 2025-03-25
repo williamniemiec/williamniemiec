@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Pacer Testing": {
+    "parameters": [
+      {"name": "testing_frequency", "description": "How often would you like to perform testing?", "required": true, "type": "options", "options": [{"value": "every24hours", "label": "Every 24 hours"}, {"value": "every48hours", "label": "Every 48 hours"}]},
+      {"name": "pacer_type", "description": "What type of pacer do you have?", "required": true, "type": "options", "options": [{"value": "newly_inserted", "label": "Newly inserted"}, {"value": "existing", "label": "Existing"}]},
+      {"name": "pacing_percentage", "description": "What percentage of the time are you paced?", "required": true, "type": "number"},
+      {"name": "testing_results", "description": "Enter the results of your testing", "required": true, "type": "text"}
+    ]
+  },
+  "Generator Settings": {
+    "parameters": [
+      {"name": "testing_results", "description": "Enter the results of your testing", "required": true, "type": "text"},
+      {"name": "generator_settings", "description": "Recommended generator settings", "required": true, "type": "text"}
+    ]
+  }
+}

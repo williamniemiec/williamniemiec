@@ -1,0 +1,14 @@
+
+
+
+{
+  "Physical Activity Tracker": {
+    "parameters": [
+      {"name": "Physical Activity Type", "type": "options"},
+      {"name": "Duration", "type": "number", "units": "minutes or hours"},
+      {"name": "Frequency", "type": "options"},
+      {"name": "Deadline Date", "type": "datetime"},
+      {"name": "Notes", "type": "text"}
+    ]
+  }
+}

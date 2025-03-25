@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+  "Option Identification": {
+    "Option Type": {"type": "options"},
+    "Option Description": {"type": "text"},
+    "Frequency": {"options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"type": "datetime"}
+  },
+  "Knowledge Provision": {
+    "Knowledge Content": {"type": "text"},
+    "Knowledge Format": {"type": "options"},
+    "Frequency": {"options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"type": "datetime"}
+  },
+  "Decision Support": {
+    "Decision Question": {"type": "text"},
+    "Answer Type": {"type": "options"},
+    "Frequency": {"options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"type": "datetime"}
+  }
+}

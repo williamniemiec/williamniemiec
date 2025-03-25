@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+    "Mirror Point Therapy": {
+        "Original Point Location": {
+            "Type": "text or image (with annotated point location)"
+        },
+        "Opposite Side": {
+            "Type": "options (left, right, anterior, posterior)"
+        },
+        "Procedure": {
+            "Type": "text or reference to another no-code element"
+        },
+        "Frequency": {
+            "Type": "options (daily, onlyOnce, everyHours, everyDays)"
+        },
+        "Deadline Date": {
+            "Type": "datetime"
+        }
+    }
+}

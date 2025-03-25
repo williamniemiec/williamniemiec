@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Health Professional Contact Guide": {
+    "Parameters": [
+      {"Name": {"Type": "text"}},
+      {"Contact Information": {"Type": "list of text and images", "Examples": ["Pediatrician: Dr. Smith, 555-555-5555, drsmith@email.com", "etc."]}},
+      {"Communication Tips": {"Type": "list of text and images", "Examples": ["Write down your questions and concerns before the appointment", "Don't hesitate to ask questions during the appointment", "etc."]}},
+      {"Urgent vs. Non-Urgent Situations": {"Type": "list of text and images", "Examples": ["Call 911 or go to the emergency room if your infant is experiencing difficulty breathing", "Contact your pediatrician during office hours for non-urgent concerns", "etc."]}},
+      {"Videos and Images": {"Type": "list of video and image files"}},
+      {"Interactive Quizzes": {"Type": "quiz with multiple-choice questions"}},
+      {"Frequency": {"Type": "options", "Options": ["daily", "every other day", "weekly", "etc."]}}
+    ]
+  }
+}

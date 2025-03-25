@@ -1,0 +1,10 @@
+Here is the output in JSON format:
+
+
+{
+  "Bedtime Clothing Change": {
+    "Reminder Message": {},
+    "Frequency": {},
+    "Bedtime": {}
+  }
+}

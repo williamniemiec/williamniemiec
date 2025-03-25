@@ -1,0 +1,48 @@
+Here is the output in JSON format:
+
+
+{
+  "Fall Risk Environment": {
+    "Slippery Floors": {
+      "Description": "Are there any slippery floors in your home?",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "yes", "label": "Yes" },
+        { "value": "no", "label": "No" }
+      ]
+    },
+    "Open Stairways": {
+      "Description": "Are there any open stairways in your home?",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "yes", "label": "Yes" },
+        { "value": "no", "label": "No" }
+      ]
+    },
+    "Cluttered Areas": {
+      "Description": "Are there any cluttered areas in your home that could increase the risk of falls?",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "yes", "label": "Yes" },
+        { "value": "no", "label": "No" }
+      ]
+    },
+    "Poor Lighting": {
+      "Description": "Are there any areas in your home with poor lighting that could increase the risk of falls?",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "yes", "label": "Yes" },
+        { "value": "no", "label": "No" }
+      ]
+    },
+    "Other Hazards": {
+      "Description": "Are there any other hazards in your home that could increase the risk of falls?",
+      "Required": true,
+      "Type": "text"
+    }
+  }
+}

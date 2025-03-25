@@ -1,0 +1,48 @@
+Here is the output in JSON format:
+
+
+{
+  "Activity Schedule": {
+    "parameters": {
+      "activity type": "",
+      "schedule": "",
+      "location": "",
+      "deadline_date": ""
+    }
+  },
+  "Exercise Program": {
+    "parameters": {
+      "exercise type": "",
+      "frequency": "",
+      "location": "",
+      "deadline_date": ""
+    }
+  },
+  "Therapy Session": {
+    "parameters": {
+      "therapy type": "",
+      "frequency": "",
+      "location": "",
+      "deadline_date": ""
+    }
+  },
+  "Educational Content": {
+    "parameters": {
+      "content type": "",
+      "topic": "",
+      "frequency": "",
+      "deadline_date": ""
+    }
+  },
+  "Social Activity": {
+    "parameters": {
+      "activity type": "",
+      "frequency": "",
+      "location": "",
+      "deadline_date": ""
+    }
+  }
+}
+
+
+Let me know if you need any further modifications!

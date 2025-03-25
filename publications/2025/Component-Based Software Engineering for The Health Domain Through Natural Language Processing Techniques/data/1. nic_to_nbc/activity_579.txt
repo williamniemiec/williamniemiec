@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Community Resource Guide": {
+    "Parameters": {
+      "Resource Directory": {"Type": "interactive list or search tool"},
+      "Resource Descriptions": {"Type": "text, images, and videos"},
+      "Referral Process": {"Type": "text, images, and videos"},
+      "Education and Awareness": {"Type": "text, images, and videos"},
+      "Personalized Recommendations": {"Type": "text, images, and videos"},
+      "Reminders": {"Type": "reminder schedule with customizable frequency and content"},
+      "Feedback Mechanism": {"Type": "interactive feedback form or survey"}
+    }
+  }
+}
+
+
+Let me know if this is what you were expecting!

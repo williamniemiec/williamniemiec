@@ -1,0 +1,32 @@
+Here is the output in JSON format:
+
+{
+    "name": "Assistive Devices Guide",
+    "parameters": [
+        { 
+            "name": "Device List", 
+            "description": "A parameter that specifies a list of available assistive devices that may be used to facilitate performance of the required skill.", 
+            "type": "unordered list"
+        },
+        { 
+            "name": "Device Descriptions", 
+            "description": "A parameter that specifies detailed descriptions of each assistive device, including its features and benefits.", 
+            "type": "book-page"
+        },
+        { 
+            "name": "Images", 
+            "description": "A parameter that specifies images of each assistive device, to help patients visualize and understand how to use them.", 
+            "type": "image"
+        },
+        { 
+            "name": "Videos", 
+            "description": "A parameter that specifies video tutorials or demonstrations of each assistive device, to provide patients with a clear understanding of how to use them.", 
+            "type": "video"
+        },
+        { 
+            "name": "Device Selection Criteria", 
+            "description": "A parameter that specifies criteria for selecting the most appropriate assistive device for the patient's specific needs.", 
+            "type": "questionnaire"
+        }
+    ]
+}

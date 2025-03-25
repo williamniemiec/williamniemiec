@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Reassurance Message",
+  "parameters": [
+    {
+      "name": "Message",
+      "type": "text"
+    },
+    {
+      "name": "Frequency",
+      "type": "options",
+      "options": [
+        { "value": "onDemand", "label": "On demand" },
+        { "value": "scheduled", "label": "Scheduled" }
+      ]
+    },
+    {
+      "name": "Customization",
+      "type": "boolean",
+      "default": false
+    }
+  ]
+}

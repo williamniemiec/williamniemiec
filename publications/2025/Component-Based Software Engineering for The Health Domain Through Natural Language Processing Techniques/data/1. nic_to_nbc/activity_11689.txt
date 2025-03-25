@@ -1,0 +1,29 @@
+Here is the output in JSON format:
+
+
+{
+  "Video Recording": {
+    "parameters": {
+      "name": "",
+      "frequency": "",
+      "deadline_date": "",
+      "instructions": ""
+    }
+  },
+  "Swallowing Assessment": {
+    "parameters": {
+      "name": "",
+      "aspects": [],
+      "rating": "",
+      "frequency": ""
+    }
+  },
+  "Question": {
+    "parameters": {
+      "name": "",
+      "answer_type": "",
+      "options": [],
+      "frequency": ""
+    }
+  }
+}

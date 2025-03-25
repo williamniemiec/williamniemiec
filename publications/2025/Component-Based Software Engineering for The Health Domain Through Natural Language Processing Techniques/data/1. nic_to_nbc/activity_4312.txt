@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Administration Documentation": {
+    "parameters": {
+      "Medication Name": {
+        "type": "text"
+      },
+      "Administration Time": {
+        "type": "datetime"
+      },
+      "Patient Responsiveness": {
+        "type": "options",
+        "options": [
+          {"value": "improved", "label": "Improved"},
+          {"value": "noChange", "label": "No change"},
+          {"value": "worsened", "label": "Worsened"}
+        ]
+      },
+      "Notes": {
+        "type": "text"
+      }
+    }
+  }
+}

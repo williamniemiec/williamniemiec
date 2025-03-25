@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+    "Skill Trainer": {
+        "skill_name": {"Description": "Name of the skill to be learned", "Required": true, "Type": "text"},
+        "steps": {"Description": "List of steps to perform the skill", "Required": true, "Type": "ordered list",
+            "step_description": {"Description": "Description of the step", "Required": true, "Type": "text"},
+            "practice_mode": {"Description": "Allow the patient to practice the skill in a simulated environment", "Required": false, "Type": "boolean"},
+            "frequency": {"Description": "Specify how often the patient should practice the skill", "Required": true, "Type": "options",
+                "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+            }
+        }
+    }
+}

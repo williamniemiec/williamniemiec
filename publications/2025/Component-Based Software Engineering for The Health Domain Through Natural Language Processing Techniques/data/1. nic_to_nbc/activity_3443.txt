@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Toileting Assistance": {
+        "Parameters": {
+            "Toileting Schedule": {"Type": "options"},
+            "Toileting Frequency": {"Type": "options"},
+            "Caregiver Notification": {"Type": "options"},
+            "Toileting Instructions": {"Type": "text or multimedia"}
+        }
+    }
+}

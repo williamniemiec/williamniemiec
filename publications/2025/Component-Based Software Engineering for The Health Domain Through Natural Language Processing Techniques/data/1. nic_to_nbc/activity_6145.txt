@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Unit Contact Information": {
+    "Parameters": {
+      "Unit Telephone Number": {"Type": "phone number"},
+      "Unit Email": {"Type": "email"},
+      "Unit Address": {"Type": "text"},
+      "Additional Instructions": {"Type": "text"}
+    }
+  }
+}

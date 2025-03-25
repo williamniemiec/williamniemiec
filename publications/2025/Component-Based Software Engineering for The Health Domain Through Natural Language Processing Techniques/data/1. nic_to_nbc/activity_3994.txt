@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Emergency Guidance": {
+    "Parameters": {
+      "Crisis Type": {"Type": "options"},
+      "Guideline": {"Type": "options"},
+      "Instructions": {"Type": "list of instructions"},
+      "Visual Aids": {"Type": "list of visual aids"}
+    }
+  }
+}
+
+
+Note that I removed the "Output" parameter as it is not applicable in this context.

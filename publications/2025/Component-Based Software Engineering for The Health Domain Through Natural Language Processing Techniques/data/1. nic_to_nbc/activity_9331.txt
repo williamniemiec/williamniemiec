@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "PARAMETER ESPECIFICATIONS": [
+    "* A messaging system that allows patients to communicate with healthcare professionals or support groups",
+    "* A journaling or mood-tracking feature that allows patients to express their emotions and track their mental health",
+    "* A resource library that provides patients with information and tips on managing their emotions and coping with their condition"
+  ],
+  "NO-CODE ELEMENT NAME": null
+}

@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Catheter Removal Guide": {
+    "parameters": [
+      {"Name": {"type": "text", "required": true}},
+      {"Catheter type": {"type": "options", "required": true}},
+      {"Removal instructions": {"type": "text or html", "required": true}},
+      {"Video tutorials": {"type": "list of video URLs", "optional": true}},
+      {"Images or diagrams": {"type": "list of image URLs", "optional": true}},
+      {"Agency protocol": {"type": "text or pdf", "required": true}},
+      {"Reminders": {"type": "list of reminder settings", "optional": true}}
+    ]
+  }
+}

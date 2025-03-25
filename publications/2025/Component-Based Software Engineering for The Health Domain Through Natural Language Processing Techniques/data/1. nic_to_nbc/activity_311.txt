@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Moisturize": {
+    "Area": {"type": "text", "default": "around nails"},
+    "Frequency": {"type": "options", "options": ["daily", "everyOtherDay", "weekly", "monthly"]},
+    "Deadline Date": {"type": "datetime"}
+  }
+}
+
+
+Note: I removed the `Product` and `Notes` parameters as they are marked as optional. Let me know if you want to include them in the output as well!

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Color Enhancement": {
+    "parameters": [
+      {"color_scheme": {}},
+      {"environment_area": {}},
+      {"frequency": {}},
+      {"deadline_date": {}},
+      {"notes": {}}
+    ]
+  }
+}

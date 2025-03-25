@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+    "Fire Safety Check": {
+        "Equipment List": {
+            "type": "list of text"
+        },
+        "Inspection Instructions": {
+            "type": "text or multimedia"
+        },
+        "Frequency": {
+            "type": "text or options"
+        },
+        "Reporting": {
+            "type": "text or options"
+        },
+        "Notes": {
+            "type": "text"
+        }
+    }
+}

@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Fluid Loss Assessment": {
+    "Underlying Condition": {"type": "text or checkbox"},
+    "Fluid Loss Amount": {"type": "number"},
+    "Fluid Loss Frequency": {"type": "options"}
+  },
+  "Fluid Replacement Guidance": {
+    "Fluid Loss Assessment": {"type": "text or number"},
+    "Fluid Replacement Recommendation": {"type": "text or table"}
+  },
+  "Fluid Administration Tracker": {
+    "Fluid Type": {"type": "text or checkbox"},
+    "Fluid Amount": {"type": "number"},
+    "Administration Frequency": {"type": "options"}
+  }
+}

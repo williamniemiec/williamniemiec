@@ -1,0 +1,3 @@
+Since there are no no-code elements in the input text, my output will be an empty JSON object:
+
+`{}`

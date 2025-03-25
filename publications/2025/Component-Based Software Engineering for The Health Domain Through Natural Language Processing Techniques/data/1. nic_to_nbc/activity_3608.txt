@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+  "Guide": {
+    "parameters": {
+      "name": "Safe Toys and Activities for Infants",
+      "pages": [],
+      "frequency": "onlyOnce"
+    }
+  },
+  "Task": {
+    "parameters": {
+      "name": "Provide Safe Toys and Activities for Infant",
+      "content": "Please review the recommended safe toys and activities for your infant's age group and ensure a safe play environment.",
+      "resources": [],
+      "frequency": "onlyOnce"
+    }
+  }
+}
+
+
+I removed `deadline_date` from both elements since it was specified as "not required". Let me know if you need any further modifications!

@@ -1,0 +1,32 @@
+Here is the output in JSON format:
+
+
+{
+  "Food Guide": {
+    "Parameters": {
+      "Food List": {
+        "Description": "List of foods that promote bowel regularity",
+        "Required": true,
+        "Type": "List of food items",
+        "Food Items": [
+          "Prunes: high in fiber and sorbitol, which helps stimulate bowel movements",
+          "Leafy Greens: rich in magnesium, which can help relax the muscles in the digestive tract",
+          "Whole Grains: high in fiber, which can help promote regular bowel movements"
+        ]
+      },
+      "Frequency": {
+        "Description": "Specify how often the patient should review the food list",
+        "Required": true,
+        "Type": "Options",
+        "Options": [
+          { "value": "daily", "label": "Daily" },
+          { "value": "everyOtherDay", "label": "Every other day" },
+          { "value": "weekly", "label": "Weekly" }
+        ]
+      }
+    }
+  }
+}
+
+
+Note that I removed the `Deadline Date` parameter since it was marked as not required. Let me know if you have any further questions!

@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+    "Cardiac Monitor": {
+        "Device Type": {"Type": "options"},
+        "Monitoring Duration": {"Type": "text"},
+        "Lead Placement": {"Type": "options"},
+        "Data Upload": {"Type": "options"}
+    }
+}

@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Daily Living Assistant": {
+    "ADL List": {"type": "unordered list", "example": ["Bathing", "Dressing", "Grooming", "Toileting", "Feeding"]},
+    "Frequency": {"type": "options", "options": ["Daily", "Twice a day", "Three times a day", "As needed"]},
+    "Reminders": {"type": "options", "options": ["Alerts", "Notifications", "Voice reminders", "Text reminders"]},
+    "Support Resources": {"type": "link or PDF"},
+    "Caregiver Assistance": {"type": "boolean", "example": true}
+  }
+}

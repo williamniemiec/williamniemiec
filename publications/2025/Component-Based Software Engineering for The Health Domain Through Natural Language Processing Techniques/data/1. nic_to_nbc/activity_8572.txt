@@ -1,0 +1,54 @@
+Here is the output in JSON format:
+
+
+{
+    "Name": "Medication Administration",
+    "Parameters": {
+        "Medication Name": {
+            "Description": "Specify the name of the medication",
+            "Required": true,
+            "Type": "text"
+        },
+        "Dosage": {
+            "Description": "Specify the dosage instructions",
+            "Required": true,
+            "Type": "text"
+        },
+        "Frequency": {
+            "Description": "Choose how often to take the medication",
+            "Required": true,
+            "Type": "options",
+            "Options": [
+                { "value": "once", "label": "Once" },
+                { "value": "twice", "label": "Twice" },
+                { "value": "threeTimes", "label": "Three times" },
+                { "value": "other", "label": "Other (please specify)" }
+            ]
+        },
+        "Timing": {
+            "Description": "Choose when to take the medication",
+            "Required": true,
+            "Type": "options",
+            "Options": [
+                { "value": "morning", "label": "Morning" },
+                { "value": "afternoon", "label": "Afternoon" },
+                { "value": "evening", "label": "Evening" },
+                { "value": "other", "label": "Other (please specify)" }
+            ]
+        },
+        "Duration": {
+            "Description": "Specify how long to take the medication",
+            "Required": true,
+            "Type": "options",
+            "Options": [
+                { "value": "oneDay", "label": "One day" },
+                { "value": "multipleDays", "label": "Multiple days" },
+                { "value": "untilFinished", "label": "Until finished" },
+                { "value": "other", "label": "Other (please specify)" }
+            ]
+        }
+    }
+}
+
+
+Note that I removed the `Deadline Date` parameter since it was marked as not required.

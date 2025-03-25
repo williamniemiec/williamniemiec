@@ -1,0 +1,31 @@
+Here is the output in JSON format:
+
+
+{
+  "Affected Site Selection": {
+    "parameters": {
+      "name": "",
+      "body_parts": []
+    }
+  },
+  "Stimulation Application": {
+    "parameters": {
+      "name": "",
+      "application_instructions": [],
+      "affected_site": ""
+    }
+  },
+  "Image Gallery": {
+    "parameters": {
+      "name": "",
+      "images": []
+    }
+  },
+  "Video Tutorial": {
+    "parameters": {
+      "name": "",
+      "video_url": "",
+      "description": ""
+    }
+  }
+}

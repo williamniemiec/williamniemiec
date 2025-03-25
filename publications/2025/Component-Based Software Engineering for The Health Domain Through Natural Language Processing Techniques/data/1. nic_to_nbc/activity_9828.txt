@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Fertility Guide": {
+    "Title": {"type": "text"},
+    "Content": {"type": "educational content (e.g., HTML, JSON)"},
+    "Sections": {"type": "list of section titles (e.g., text)"},
+    "Images/Videos": {"type": "list of image/video URLs or embedded content"},
+    "Quiz Questions": {"type": "list of quiz questions (e.g., multiple-choice, true/false)"},
+    "Frequency": {"options": ["daily", "onlyOnce", "everyDays"]},
+    "Deadline Date": {"type": "datetime"}
+  }
+}

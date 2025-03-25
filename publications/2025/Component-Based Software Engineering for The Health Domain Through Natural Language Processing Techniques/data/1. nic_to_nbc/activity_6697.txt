@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Body Diagram Annotation": {
+    "Parameters": {
+      "Case Number": {"Type": "text"},
+      "Victim Name": {"Type": "text"},
+      "Examination Date and Time": {"Type": "datetime"},
+      "Time Finished": {"Type": "datetime"},
+      "Names and Identification Numbers of Those Present": {"Type": "list of text"},
+      "Body Diagram": {"Type": "image"}
+    }
+  }
+}
+
+
+Let me know if this is what you were looking for!

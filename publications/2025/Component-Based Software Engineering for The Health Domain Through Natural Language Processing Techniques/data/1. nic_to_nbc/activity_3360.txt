@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Metabolic Alkalosis Monitor": {
+    "lab_results": "",
+    "vital_signs": "",
+    "symptoms": "",
+    "urinary_pH": "",
+    "thresholds": ""
+  }
+}
+
+
+Note that I removed the `interpretation` parameter as it was not applicable to this specific no-code element.

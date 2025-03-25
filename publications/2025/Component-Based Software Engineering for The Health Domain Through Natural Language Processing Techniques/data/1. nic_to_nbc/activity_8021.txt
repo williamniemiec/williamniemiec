@@ -1,0 +1,10 @@
+Here is the output in JSON format:
+
+
+{
+    "Reorient After Seizure": {
+        "name": "Reorient After Seizure",
+        "content": "Please take a few deep breaths and try to reorient yourself. Look around and try to remember what happened.",
+        "frequency": "onlyOnce"
+    }
+}

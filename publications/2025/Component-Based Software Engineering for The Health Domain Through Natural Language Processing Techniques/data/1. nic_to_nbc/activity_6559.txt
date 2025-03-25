@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Family Threat Assessment": {
+    "parameters": {
+      "Event Type": {"type": "options"},
+      "Event Description": {"type": "text"},
+      "Impact": {"type": "scale"},
+      "Timing": {"type": "datetime"},
+      "Family Members Affected": {"type": "checklist"}
+    }
+  }
+}
+
+
+I removed the following:
+
+* Introduction and conclusion sections
+* Parameters that were marked as "not applicable" (none in this case)
+* The `Frequency` and `Deadline Date` parameters, as they seem to be related to scheduling or timing of the assessment, rather than being specific to the no-code element itself.

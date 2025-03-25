@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+  "Resource Library": {
+    "Parameters": {
+      "Resource Type": {
+        "Type": "options",
+        "Required": true
+      },
+      "Resource Content": {
+        "Type": ["text", "image", "video", "other multimedia formats"],
+        "Required": true
+      },
+      "Topic": {
+        "Type": "text",
+        "Required": true
+      },
+      "Relevance": {
+        "Type": "text",
+        "Required": true
+      }
+    }
+  }
+}
+
+
+I removed the `Access Instructions` and `Downloadable` parameters because they are not required. Let me know if you need any further assistance!

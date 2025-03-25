@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "explanation": {
+    "parameters": {
+      "Title": {"type": "text"},
+      "Content": {"type": "rich text or multimedia"},
+      "Target Audience": {"type": "options", "options": ["child", "parent", "both"]},
+      "Format": {"type": "options", "options": ["text", "video", "interactive"]}
+    }
+  }
+}

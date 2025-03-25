@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+  "Peer Role Model": {
+    "Role Model Profile": {
+      "Type": "text",
+      "Example": "Meet Jamie, a 16-year-old who has overcome bullying and is now confident in their own skin."
+    },
+    "Scenario": {
+      "Type": "text",
+      "Example": "You're at school and someone is making fun of your outfit. How do you respond?"
+    },
+    "Responses": {
+      "Type": "list of options",
+      "Example": ["I ignore them and focus on my schoolwork.", "I stand up for myself and tell them to stop.", "I talk to a trusted friend or teacher about what happened."]
+    },
+    "Feedback": {
+      "Type": "text",
+      "Example": "Great job standing up for yourself! Remember to always prioritize your own feelings and well-being."
+    },
+    "Reflection": {
+      "Type": "text",
+      "Example": "What did you learn from Jamie's experience? How can you apply it to your own life?"
+    }
+  }
+}

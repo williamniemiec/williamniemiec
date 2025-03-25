@@ -1,0 +1,43 @@
+Here is the output in JSON format:
+
+
+{
+  "PCA Device Tutorial": {
+    "parameters": {
+      "name": "PCA Device Tutorial",
+      "description": "Learn how to use the PCA device",
+      "content": [
+        { 
+          "type": "Video", 
+          "url": "URL of video tutorial"
+        },
+        { 
+          "type": "Text", 
+          "text": "Step-by-step instructions for using the PCA device"
+        },
+        { 
+          "type": "Image", 
+          "url": "URL of image illustrating PCA device usage"
+        }
+      ],
+      "quiz": [
+        { 
+          "question": "How do you administer a dose of medication using the PCA device?", 
+          "options": ["Option 1", "Option 2", "Option 3"], 
+          "correct_answer": "Option 2"
+        },
+        { 
+          "question": "What should you do if you experience any issues with the PCA device?", 
+          "options": ["Option 1", "Option 2", "Option 3"], 
+          "correct_answer": "Option 1"
+        }
+      ]
+    }
+  },
+  "Interactive Guide": {
+    "parameters": {}
+  }
+}
+
+
+Note that I removed the not applicable parameters and only kept the `PCA Device Tutorial` and `Interactive Guide` no-code element names, along with their corresponding parameter specifications.

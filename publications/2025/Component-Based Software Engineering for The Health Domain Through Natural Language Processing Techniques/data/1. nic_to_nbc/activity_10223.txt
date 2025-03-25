@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+    "Session Plan": {
+        "Session Frequency": {"Type": "options"},
+        "Session Duration": {"Type": "text or number"},
+        "Total Sessions": {"Type": "number"},
+        "Session Schedule": {"Type": "table or calendar"},
+        "Termination Criteria": {"Type": "text"}
+    }
+}
+
+
+Let me know if this is what you were expecting!

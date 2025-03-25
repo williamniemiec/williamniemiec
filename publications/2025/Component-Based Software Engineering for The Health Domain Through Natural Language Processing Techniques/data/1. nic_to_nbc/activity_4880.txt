@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Automatic Stop Order": {
+        "parameters": [
+            {"Device Type": null},
+            {"Indication": null},
+            {"Resolution Criteria": null},
+            {"Automatic Stop Order": null},
+            {"Reminder Settings": null}
+        ]
+    }
+}

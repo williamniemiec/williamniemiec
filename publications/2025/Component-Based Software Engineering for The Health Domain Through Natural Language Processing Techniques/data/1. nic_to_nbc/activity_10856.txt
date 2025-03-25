@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "guide": {
+    "parameters": {
+      "Name": "Pushing Techniques for Second Stage Labor",
+      "Pages": [
+        "Breathing techniques for pushing",
+        "Proper body positioning for pushing",
+        "Pushing with contractions"
+      ],
+      "Frequency": "One-time, during second stage labor"
+    }
+  }
+}
+
+
+Note: I removed the "Deadline Date" parameter since it's marked as "Not required", which I assume means it's not applicable.

@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Initial Reaction": {
+    "Reaction Type": {},
+    "Reaction Description": {},
+    "Intensity": {},
+    "Duration": {},
+    "Triggers": {},
+    "Reflection Prompt": {}
+  }
+}

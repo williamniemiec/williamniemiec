@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Port Sterility Maintenance": {
+        "parameters": [
+            {"name": "Port cleaning", "type": "boolean"},
+            {"name": "Sterile technique", "type": "options"},
+            {"name": "Frequency", "type": "options"},
+            {"name": "Notes", "type": "text"}
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Secretion Monitoring": {
+    "parameters": [
+      {"name": "Secretion Color", "description": "Record secretion color", "type": "options", "options": [{"value": "clear", "label": "Clear"}, {"value": "yellow", "label": "Yellow"}, {"value": "green", "label": "Green"}, {"value": "brown", "label": "Brown"}, {"value": "other", "label": "Other (please specify)"}], "required": true},
+      {"name": "Secretion Amount", "description": "Record secretion amount", "type": "numeric", "units": "mL", "required": true},
+      {"name": "Secretion Consistency", "description": "Record secretion consistency", "type": "options", "options": [{"value": "thin", "label": "Thin"}, {"value": "thick", "label": "Thick"}, {"value": "viscous", "label": "Viscous"}, {"value": "other", "label": "Other (please specify)"}], "required": true}
+    ]
+  }
+}
+
+Let me know if you need any further assistance!

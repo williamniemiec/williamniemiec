@@ -1,0 +1,39 @@
+
+
+
+{
+    "name": "Disease Information and Management",
+    "parameters": [
+        { 
+            "name": "Natural History", 
+            "type": "text"
+        },
+        { 
+            "name": "Treatment and Management Strategies", 
+            "type": "checklist",
+            "options": [
+                "Medications", 
+                "Therapies", 
+                "Lifestyle changes"
+            ]
+        },
+        { 
+            "name": "Prevention Strategies", 
+            "type": "checklist",
+            "options": [
+                "Risk factor reduction", 
+                "Screening", 
+                "Vaccination"
+            ]
+        },
+        { 
+            "name": "Resources", 
+            "type": "list",
+            "options": [
+                "National Institutes of Health", 
+                "American Heart Association", 
+                "Support group for patients with [condition]"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+  "Clinical Alert System": {
+    "parameters": {
+      "Clinical Decision Support": {
+        "type": ["text", "options"]
+      },
+      "Abnormality Threshold": {
+        "type": ["number", "range"]
+      },
+      "Risk Assessment": {
+        "type": ["text", "ordered list"]
+      },
+      "Notification Method": {
+        "type": ["options"]
+      },
+      "Notification Frequency": {
+        "type": ["options"]
+      },
+      "Deadline Date": {
+        "type": ["datetime"]
+      }
+    }
+  }
+}

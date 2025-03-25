@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Verbal Prompt": {
+    "Parameters": {
+      "Content": {"Type": ["text", "audio"]},
+      "Trigger": {"Type": ["time of day", "task completion", "etc."]},
+      "Frequency": {"Type": ["daily", "weekly", "monthly", "etc."]},
+      "Tone": {"Type": ["friendly", "encouraging", "neutral"]},
+      "Language": {"Type": ["English", "Spanish", "French", "etc."]}
+    }
+  }
+}
+
+
+Let me know if this meets your requirements!

@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Body Image Support": {
+    "Parameters": {
+      "Body Part": {"Type": "text"},
+      "Persuasion Message": {"Type": "text"},
+      "Supportive Statements": {"Type": "checkbox list"},
+      "Viewing Options": {"Type": "options", "Options": ["with a mirror", "with a caregiver", "alone", "others"]},
+      "Handling Exercises": {"Type": "checkbox list"},
+      "Reflection Prompts": {"Type": "text"}
+    }
+  }
+}

@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Boundary Provision",
+    "parameters": [
+        {
+            "name": "Boundary Methods",
+            "type": "options"
+        },
+        {
+            "name": "Instructions",
+            "type": "text"
+        },
+        {
+            "name": "Videos/Demonstrations",
+            "type": "media"
+        },
+        {
+            "name": "Tips",
+            "type": "text"
+        }
+    ]
+}
+
+
+Note: I removed the `Reminders` parameter since it was not applicable.

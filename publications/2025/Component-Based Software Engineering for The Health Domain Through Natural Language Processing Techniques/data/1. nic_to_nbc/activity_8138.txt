@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+    "Motivational Message": {
+        "Parameters": {
+            "Message": {"Type": "text"},
+            "Frequency": {"Type": "options", "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+            "Deadline Date": {"Type": "datetime"}
+        }
+    },
+    "Support Connection": {
+        "Parameters": {
+            "Support Type": {"Type": "options"},
+            "Connection Method": {"Type": "options"}
+        }
+    }
+}
+
+
+Let me know if this meets your requirements!

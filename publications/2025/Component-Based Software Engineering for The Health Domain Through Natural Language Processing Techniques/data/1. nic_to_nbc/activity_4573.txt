@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+
+{
+  "Avoidance": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Action to Avoid": {"Type": "text"},
+      "Affected Arm": {"Type": "text"},
+      "Reason": {"Type": "text"},
+      "Alternative": {"Type": "text"},
+      "Reminder": {"Type": ["boolean", "text"]}
+    }
+  }
+}

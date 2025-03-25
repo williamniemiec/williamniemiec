@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+    "Toileting Schedule": {
+        "parameters": [
+            {"name": "toileting_interval", "description": "Scheduled toileting interval", "required": true, "type": "time"},
+            {"name": "voiding_habit", "description": "Voiding habit to establish and maintain", "required": true, "type": "text"}
+        ]
+    },
+    "Reminders": {
+        "parameters": [
+            {"name": "reminder_message", "description": "Reminder message", "required": true, "type": "text"},
+            {"name": "toileting_interval", "description": "Scheduled toileting interval", "required": true, "type": "time"}
+        ]
+    }
+}

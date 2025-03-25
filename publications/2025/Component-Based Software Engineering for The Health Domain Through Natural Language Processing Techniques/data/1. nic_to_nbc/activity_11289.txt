@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Body Transfer": {
+    "parameters": {
+      "transfer_type": {},
+      "transfer_instructions": {},
+      "transfer_checklist": {},
+      "transfer_status": {},
+      "family_support": {}
+    }
+  }
+}

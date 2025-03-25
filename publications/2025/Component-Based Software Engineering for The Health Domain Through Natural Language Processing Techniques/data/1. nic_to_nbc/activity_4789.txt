@@ -1,0 +1,69 @@
+Here is the output in JSON format:
+
+
+[
+    {
+        "name": "Electrolyte Level Tracking",
+        "parameters": [
+            { 
+                "name": "phosphorus_level", 
+                "description": "Enter phosphorus level", 
+                "required": true, 
+                "type": "numeric"
+            },
+            { 
+                "name": "chloride_level", 
+                "description": "Enter chloride level", 
+                "required": true, 
+                "type": "numeric"
+            },
+            { 
+                "name": "potassium_level", 
+                "description": "Enter potassium level", 
+                "required": true, 
+                "type": "numeric"
+            },
+            { 
+                "name": "frequency", 
+                "description": "Specify how often to track electrolyte levels", 
+                "required": true, 
+                "type": "options",
+                "options": [
+                    { value: "daily", label: "Daily" },
+                    { value: "onlyOnce", label: "Only once" },
+                    { value: "everyHours", label: "Every x hours" },
+                    { value: "everyDays", label: "Every x days" },
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Acid-Base Balance Tracking",
+        "parameters": [
+            { 
+                "name": "pH_level", 
+                "description": "Enter pH level", 
+                "required": true, 
+                "type": "numeric"
+            },
+            { 
+                "name": "bicarbonate_level", 
+                "description": "Enter bicarbonate level", 
+                "required": true, 
+                "type": "numeric"
+            },
+            { 
+                "name": "frequency", 
+                "description": "Specify how often to track acid-base balance", 
+                "required": true, 
+                "type": "options",
+                "options": [
+                    { value: "daily", label: "Daily" },
+                    { value: "onlyOnce", label: "Only once" },
+                    { value: "everyHours", label: "Every x hours" },
+                    { value: "everyDays", label: "Every x days" },
+                ]
+            }
+        ]
+    }
+]

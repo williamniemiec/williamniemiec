@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Barrier Identification Survey": {
+    "parameters": {
+      "name": {"type": "text"},
+      "behavior": {"type": "text"},
+      "questions": {"type": "list of question objects"},
+      "barriers": {"type": "list of barrier objects"},
+      "rating_scale": {"type": "scale object"}
+    }
+  }
+}

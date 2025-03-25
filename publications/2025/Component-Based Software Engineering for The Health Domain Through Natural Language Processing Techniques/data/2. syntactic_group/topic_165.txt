@@ -1,0 +1,10 @@
+{
+  "name": "Shift and Repositioning Protocol",
+  "description": "Involves the implementation of custom shift patterns for repositioning patients. Includes turning to the back or side, as well as forward positioning, based on periodic or specific intervals.",
+  "type": "periodic",
+  "input": ["Shift", "Repositioning", "Turning", "Side and back positioning", "Forward repositioning", "Interval timing"],
+  "output": ["Shift plan", "Repositioning feedback", "Position change confirmation"],
+  "preconditions": ["User or patient requires repositioning assistance"],
+  "postconditions": ["Improved comfort and health management through repositioning"],
+  "dependencies": ["Repositioning system", "Shift schedule management"]
+}

@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+    "Support Group Invitation": {
+        "Group Type": {"type": "options"},
+        "Group Description": {"type": "text"},
+        "Meeting Schedule": {"type": "list of schedule entries"},
+        "Frequency": {"type": "options"},
+        "Deadline Date": {"type": "datetime"},
+        "Resources": {"type": "list of resources"}
+    },
+    "Support Group Finder": {
+        "Search Criteria": {"type": "list of search criteria"},
+        "Group List": {"type": "list of support groups"},
+        "Filter Options": {"type": "list of filter options"},
+        "Resources": {"type": "list of resources"}
+    }
+}

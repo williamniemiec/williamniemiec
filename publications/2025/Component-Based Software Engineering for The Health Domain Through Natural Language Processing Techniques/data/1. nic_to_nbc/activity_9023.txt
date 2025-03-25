@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Observe Others": {
+    "Parameters": {
+      "Description": {"Type": "text"},
+      "Examples": {"Type": "list of text"},
+      "Frequency": {"Type": "options"},
+      "Tips": {"Type": "list of text"}
+    }
+  }
+}

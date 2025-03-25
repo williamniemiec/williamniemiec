@@ -1,0 +1,12 @@
+
+
+
+{
+  "Vital Signs Tracker": {
+    "parameters": {
+      "Vital signs": {"type": "options"},
+      "Frequency": {"type": "options"},
+      "Deadline Date": {"type": "datetime"}
+    }
+  }
+}

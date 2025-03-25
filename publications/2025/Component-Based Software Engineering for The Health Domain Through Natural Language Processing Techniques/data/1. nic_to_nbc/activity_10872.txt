@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Reassurance Message": {
+    "Message": {"type": ["text", "multimedia content"]},
+    "Emotional Support": {"type": ["text", "multimedia content"]},
+    "Resources": {"type": ["text", "links to external resources"]}
+  },
+  "Care Journal": {
+    "Entry": {"type": ["text", "multimedia content"]},
+    "Mood": {"type": "selection from a list of emotions"}
+  }
+}

@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Case Management Permission",
+  "parameters": [
+    {
+      "name": "Introduction"
+    },
+    {
+      "name": "Program Description"
+    },
+    {
+      "name": "Benefits"
+    },
+    {
+      "name": "Responsibilities"
+    },
+    {
+      "name": "Permission"
+    },
+    {
+      "name": "Decline Option"
+    }
+  ]
+}

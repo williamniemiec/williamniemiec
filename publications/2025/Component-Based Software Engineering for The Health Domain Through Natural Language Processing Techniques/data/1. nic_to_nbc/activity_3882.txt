@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Hypervolemia Treatment Education": {
+        "parameters": [
+            {"name": "treatment_plan", "description": "Review the planned interventions to treat hypervolemia", "required": true, "type": "list", "list_items": ["Diuretic therapy", "Fluid restriction", "Dietary changes", "Medication adjustments"]},
+            {"name": "medication_education", "description": "Learn about the medications used to treat hypervolemia", "required": true, "type": "list", "list_items": ["Diuretics (e.g., furosemide)", "Vasodilators (e.g., nitroglycerin)", "ACE inhibitors (e.g., enalapril)"]},
+            {"name": "lifestyle_changes", "description": "Learn about the lifestyle changes to help manage hypervolemia", "required": true, "type": "list", "list_items": ["Reducing sodium intake", "Increasing potassium intake", "Monitoring fluid intake and output"]},
+            {"name": "follow_up", "description": "Schedule follow-up appointments to monitor progress", "required": true, "type": "boolean"}
+        ]
+    }
+}

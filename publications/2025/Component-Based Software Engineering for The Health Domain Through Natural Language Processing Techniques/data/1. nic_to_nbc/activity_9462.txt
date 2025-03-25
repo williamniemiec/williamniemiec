@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+    "Relaxation Activity": {
+        "Name": {"type": "text"},
+        "Description": {"type": "text"},
+        "Activity Type": {"type": "options", "options": ["meditation", "deepBreathing", "progressiveMuscleRelaxation", "guidedImagery", "yoga", "etc."]},
+        "Duration": {"type": "number"},
+        "Frequency": {"type": "options", "options": ["daily", "everyOtherDay", "threeTimesAWeek", "etc."]}
+    }
+}

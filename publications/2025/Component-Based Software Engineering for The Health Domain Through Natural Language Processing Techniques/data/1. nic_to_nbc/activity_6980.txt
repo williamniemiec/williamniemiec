@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Biofeedback Rationale Discussion": {
+    "parameters": [
+      {"Rationale": {}},
+      {"Feedback Type": {}},
+      {"Biofeedback Goals": {}},
+      {"Frequency": {}}
+    ]
+  }
+}

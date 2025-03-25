@@ -1,0 +1,44 @@
+Here is the output in JSON format:
+
+
+{
+  "Pain Control Plan": {
+    "parameters": {
+      "pain_control_methods": {
+        "type": "list of method objects",
+        "properties": {
+          "name": {"type": "text"},
+          "description": {"type": "text"},
+          "instructions": {"type": "text or multimedia content"}
+        }
+      },
+      "medication": {
+        "type": "list of medication objects",
+        "properties": {
+          "name": {"type": "text"},
+          "dosage": {"type": "text"},
+          "frequency": {"type": "options", "values": ["daily", "everyOtherDay", "every2Days", "every3Days", "etc."]}
+        }
+      },
+      "relaxation_techniques": {
+        "type": "list of technique objects",
+        "properties": {
+          "name": {"type": "text"},
+          "description": {"type": "text"},
+          "instructions": {"type": "text or multimedia content"}
+        }
+      },
+      "exercise_preparation": {
+        "type": "list of exercise objects",
+        "properties": {
+          "name": {"type": "text"},
+          "description": {"type": "text"},
+          "instructions": {"type": "text or multimedia content"}
+        }
+      }
+    }
+  }
+}
+
+
+Let me know if you need any further modifications!

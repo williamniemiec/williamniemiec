@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Behavior Graph": {
+    "Parameters": {
+      "Behavior": {},
+      "Data Points": {},
+      "Graph Type": {},
+      "X-Axis": {},
+      "Y-Axis": {},
+      "Reflection Prompt": {},
+      "Frequency": {}
+    }
+  }
+}

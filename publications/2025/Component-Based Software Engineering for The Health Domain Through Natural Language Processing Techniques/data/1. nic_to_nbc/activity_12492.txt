@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Contraception Cessation Planner": {
+    "Parameters": {
+      "Introduction": {"Type": "text"},
+      "Contraception Method": {"Type": "select from a list of contraception methods"},
+      "Cycle Information": {"Type": "input fields for cycle length, period duration, and other relevant cycle information"},
+      "Cessation Timing": {"Type": "calculated output based on input parameters"},
+      "Pregnancy Dating Information": {"Type": "text or interactive tutorial"},
+      "Reminders": {"Type": "reminder schedule with customizable frequency and content"}
+    }
+  }
+}

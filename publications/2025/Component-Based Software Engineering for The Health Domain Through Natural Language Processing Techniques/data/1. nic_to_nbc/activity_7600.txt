@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Device Instruction": {
+    "parameters": {
+      "name": "",
+      "description": "",
+      "instructions": "",
+      "images": "",
+      "frequency": "",
+      "deadline_date": ""
+    }
+  }
+}

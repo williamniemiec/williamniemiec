@@ -1,0 +1,44 @@
+Here is the output in JSON format:
+
+
+{
+    "behavior coding sheet": {
+        "parameters": [
+            { 
+                "name": "sheet title", 
+                "description": "title of the coding sheet", 
+                "required": true, 
+                "type": "text"
+            },
+            { 
+                "name": "behavior categories", 
+                "description": "list of behavior categories to track", 
+                "required": true, 
+                "type": "list",
+                "list_item_type": "text"
+            },
+            { 
+                "name": "coding system", 
+                "description": "type of coding system to use (e.g. checkbox, rating scale, etc.)", 
+                "required": true, 
+                "type": "options",
+                "options": [
+                    { value: "checkbox", label: "Checkbox" },
+                    { value: "rating scale", label: "Rating Scale" },
+                    { value: "free text", label: "Free Text" }
+                ]
+            },
+            { 
+                "name": "template design", 
+                "description": "design of the coding sheet (e.g. graph, chart, table)", 
+                "required": true, 
+                "type": "options",
+                "options": [
+                    { value: "graph", label: "Graph" },
+                    { value: "chart", label: "Chart" },
+                    { value: "table", label: "Table" }
+                ]
+            }
+        ]
+    }
+}

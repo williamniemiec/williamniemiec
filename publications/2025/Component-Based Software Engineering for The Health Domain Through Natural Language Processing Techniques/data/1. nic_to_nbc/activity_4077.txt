@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Rapport Building": {
+        "Empathy": {"Type": "boolean"},
+        "Warmth": {"Type": "boolean"},
+        "Spontaneity": {"Type": "boolean"},
+        "Organization": {"Type": "boolean"},
+        "Patience": {"Type": "boolean"},
+        "Persistence": {"Type": "boolean"},
+        "Rapport Building Strategies": {"Type": "text"}
+    }
+}

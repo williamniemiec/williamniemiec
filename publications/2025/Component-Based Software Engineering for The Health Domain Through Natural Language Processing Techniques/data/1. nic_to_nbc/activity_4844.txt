@@ -1,0 +1,36 @@
+Here is the output in JSON format:
+
+
+{
+    "Guide": {
+        "parameters": {
+            "name": "",
+            "pages": []
+        }
+    },
+    "Video Series": {
+        "parameters": {
+            "name": "",
+            "videos": []
+        }
+    },
+    "FAQ": {
+        "parameters": {
+            "name": "",
+            "questions": [],
+            "answers": []
+        }
+    },
+    "Checklist": {
+        "parameters": {
+            "name": "",
+            "items": []
+        }
+    },
+    "Resource Library": {
+        "parameters": {
+            "name": "",
+            "resources": []
+        }
+    }
+}

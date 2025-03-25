@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+    "Treatment Plan": {
+        "Parameters": {
+            "Treatment Options": [],
+            "Physician Orders": [],
+            "Patient Parameters": [],
+            "Protocol": [],
+            "Frequency": ["daily", "weekly", "monthly"],
+            "Deadline Date": {"type": "datetime"}
+        }
+    },
+    "Decision Support": {
+        "Parameters": {
+            "Patient Parameters": [],
+            "Protocol": [],
+            "Treatment Options": [],
+            "Recommendations": {"type": "text"}
+        }
+    }
+}

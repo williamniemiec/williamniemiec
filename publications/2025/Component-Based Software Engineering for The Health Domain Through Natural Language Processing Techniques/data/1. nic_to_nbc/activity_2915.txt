@@ -1,0 +1,10 @@
+Here is the output in JSON format:
+
+
+{
+  "Cooling Instruction": {
+    "Instruction": {"type": "text"},
+    "Fluid Options": {"type": "options", "options": ["water", "juice", "electrolyte-rich drink", "etc."]},
+    "Frequency": {"type": "options", "options": ["as needed", "every 15 minutes", "every 30 minutes", "etc."]}
+  }
+}

@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Photo Documentation": {
+        "parameters": [
+            {"name": "photo", "description": "Take a photo of the contusion", "required": true, "type": "camera"},
+            {"name": "description", "description": "Add a brief description of the contusion", "required": true, "type": "text"},
+            {"name": "date", "description": "Record the date of the contusion", "required": true, "type": "datetime"},
+            {"name": "location", "description": "Specify the location of the contusion", "required": true, "type": "text"}
+        ]
+    }
+}

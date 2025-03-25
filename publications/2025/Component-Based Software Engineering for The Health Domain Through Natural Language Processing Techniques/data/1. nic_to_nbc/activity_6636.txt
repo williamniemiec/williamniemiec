@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Edema Tracking": {
+    "Name": {},
+    "Measurement Instructions": {},
+    "Measurement Frequency": {
+      "options": ["daily", "everyHours", "everyDays", "asNeeded"]
+    },
+    "Edema Level": {
+      "options": ["mild", "moderate", "severe", {"other": "text input"}]
+    },
+    "Photos": {},
+    "Notes": {},
+    "Threshold Alert": {}
+  }
+}

@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Swabbing Technique Guidance": {
+    "parameters": {
+      "Swabbing Instructions": {"type": "text"},
+      "Swabbing Demonstration": {"type": "multimedia"},
+      "Gentle Pressure Confirmation": {"type": "boolean"},
+      "Perpendicular Swabbing Confirmation": {"type": "boolean"},
+      "Frequency": {"options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"type": "datetime"}
+    }
+  }
+}
+
+
+Note that I removed the `Confirmation` parameter as it seems to be a redundant boolean confirmation, and also removed the introduction and conclusion sections, as per your request. Let me know if you need anything else!

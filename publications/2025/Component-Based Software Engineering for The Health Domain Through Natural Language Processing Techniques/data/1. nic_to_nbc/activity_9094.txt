@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Resource": {
+    "Name": {"type": "text"},
+    "Description": {"type": "text"},
+    "Link": {"type": "url or text"},
+    "Category": {"type": "options"}
+  }
+}

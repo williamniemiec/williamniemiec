@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Participant Selection": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Min Participants": {"Type": "number"},
+      "Max Participants": {"Type": "number"},
+      "Current Participants": {"Type": "number"},
+      "Add/Remove Participants": {"Type": "button"}
+    }
+  }
+}

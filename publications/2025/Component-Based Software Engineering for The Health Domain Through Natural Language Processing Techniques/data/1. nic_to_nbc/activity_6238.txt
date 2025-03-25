@@ -1,0 +1,32 @@
+Here is the output in JSON format:
+
+
+{
+  "Nonnutritive Sucking Plan": {
+    "Method": {
+      "Description": "Method of nonnutritive sucking (e.g. pacifier, finger, etc.)",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "pacifier", "label": "Pacifier" },
+        { "value": "finger", "label": "Finger" },
+        { "value": "other", "label": "Other (please specify)" }
+      ]
+    },
+    "Frequency": {
+      "Description": "Frequency of nonnutritive sucking opportunities (e.g. every 2 hours, etc.)",
+      "Required": false,
+      "Type": "text"
+    },
+    "Duration": {
+      "Description": "Duration of nonnutritive sucking opportunities (e.g. 10 minutes, etc.)",
+      "Required": false,
+      "Type": "text"
+    },
+    "Notes": {
+      "Description": "Any additional notes or comments about nonnutritive sucking opportunities",
+      "Required": false,
+      "Type": "text"
+    }
+  }
+}

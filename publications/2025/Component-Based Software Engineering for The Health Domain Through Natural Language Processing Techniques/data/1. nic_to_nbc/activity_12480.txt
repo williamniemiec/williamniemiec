@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+    "Motivation Assessment": {
+        "Question": {"type": "text"},
+        "Answer Type": {"options": ["scale", "text", "select"]},
+        "Frequency": {"options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+        "Deadline Date": {"type": "datetime"}
+    }
+}

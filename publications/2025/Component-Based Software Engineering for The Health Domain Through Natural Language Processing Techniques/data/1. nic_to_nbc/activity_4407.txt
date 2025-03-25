@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Theme Selection": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Options": {"Type": "options", "Options": ["workLife", "familyLife", "healthWellness", "other"]},
+      "Description": {"Type": "text"},
+      "Custom Option": {"Type": "text"},
+      "Session Number": {"Type": "number"}
+    }
+  }
+}

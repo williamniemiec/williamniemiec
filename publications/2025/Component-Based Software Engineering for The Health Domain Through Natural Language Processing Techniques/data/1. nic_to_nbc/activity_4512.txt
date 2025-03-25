@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Dietary Restriction": {
+    "Restrictions": {"type": "unordered list", "options": ["milk products", "solid foods", "liquids"]},
+    "Duration": {"type": "options", "options": ["until symptoms resolve", "for 3 days", "for 5 days"]},
+    "Frequency": {"type": "options", "options": ["daily", "every 2 days", "every 3 days"]},
+    "Deadline Date": {"type": "datetime"}
+  }
+}

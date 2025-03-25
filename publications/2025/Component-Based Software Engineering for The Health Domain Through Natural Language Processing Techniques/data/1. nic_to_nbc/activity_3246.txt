@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+    "Wound Care Tracker": {
+        "Parameters": {
+            "Name": {"Type": "text"},
+            "Wound Location": {"Type": "options", "Options": ["arm", "leg", "back", "chest", "abdomen", "head", "other"]},
+            "Wound Type": {"Type": "options", "Options": ["surgical", "traumatic", "ulcer", "burn", "other"]},
+            "Care Instructions": {"Type": "text"},
+            "Dressing Change Frequency": {"Type": "options", "Options": ["daily", "everyOtherDay", "every2Days", "every3Days", "asNeeded"]},
+            "Photo": {"Type": "camera"},
+            "Notes": {"Type": "text"},
+            "Deadline Date": {"Type": "datetime"}
+        }
+    }
+}

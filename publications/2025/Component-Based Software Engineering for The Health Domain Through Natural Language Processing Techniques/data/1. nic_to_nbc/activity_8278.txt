@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Skin Moisture Monitoring": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Instructions": {"Type": "text"},
+      "Moisture Level": {"Type": "options", "Options": ["dry", "normal", "moist", "very moist"]},
+      "Moisture Description!": {"Type": "text"},
+      "Affected Areas": {"Type": "options", "Options": ["list of body areas, e.g., face, arms, legs, etc."]},
+      "Photo": {"Type": "camera"},
+      "Frequency": {"Type": "options", "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"Type": "datetime"},
+      "Notes": {"Type": "text"}
+    }
+  }
+}

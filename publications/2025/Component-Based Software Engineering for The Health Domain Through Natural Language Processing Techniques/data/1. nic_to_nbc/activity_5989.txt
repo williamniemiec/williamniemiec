@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "Value-Based Information": {
+    "Parameters": {
+      "Patient Values": {
+        "Type": "list of values",
+        "Properties": {
+          "Value Description": {"Type": "text"},
+          "Value Importance": {"Type": "options"}
+        }
+      },
+      "Information to Provide": {"Type": "text or list of texts"},
+      "Alignment Criteria": {
+        "Type": "object",
+        "Properties": {
+          "Keyword Matching": {"Type": "list of keywords"},
+          "Semantic Analysis": {"Type": "options"},
+          "Value-Based Filtering": {"Type": "options"}
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+    "Responsibility Assignment": {
+        "Responsible Party": {"type": "text"},
+        "Relationship": {"type": "list of options"},
+        "Contact Information": {"type": "text"},
+        "Responsibility Level": {"type": "list of options"},
+        "Special Instructions": {"type": "text"}
+    }
+}

@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "no-code-element-name": "Universal Precautions Education",
+  "parameters": {
+    "education_content": {"type": "text or HTML text"},
+    "images": {"type": "image or list of images"},
+    "video": {"type": "video or URL to a video"},
+    "precautions_checklist": {"type": "list of options or checkboxes"},
+    "reminder": {"type": "datetime or frequency"}
+  }
+}

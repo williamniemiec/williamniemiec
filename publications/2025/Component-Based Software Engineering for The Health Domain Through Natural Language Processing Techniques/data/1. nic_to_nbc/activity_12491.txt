@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Etiology Identifier": {
+    "parameters": {
+      "imbalance_type": "",
+      "patient_data": "",
+      "etiologies": [],
+      "rules": {},
+      "probability": "",
+      "interpretation": ""
+    }
+  }
+}

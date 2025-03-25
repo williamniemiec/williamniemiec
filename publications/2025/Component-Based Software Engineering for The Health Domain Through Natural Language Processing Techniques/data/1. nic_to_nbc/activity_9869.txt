@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+  "Schedule": {
+    "parameters": {
+      "name": {},
+      "events": {},
+      "frequency": {}
+    }
+  },
+  "Task": {
+    "parameters": {
+      "name": {},
+      "content": {},
+      "duration": {},
+      "frequency": {}
+    }
+  },
+  "Reminder": {
+    "parameters": {
+      "name": {},
+      "message": {},
+      "trigger": {}
+    }
+  }
+}

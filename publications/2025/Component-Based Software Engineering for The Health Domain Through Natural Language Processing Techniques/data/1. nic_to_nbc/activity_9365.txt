@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Resource": {
+    "Informational Content": {},
+    "Approved Car Seat List": {},
+    "Purchase Options": {},
+    "Installation Guidance": {},
+    "Reminders": {}
+  }
+}

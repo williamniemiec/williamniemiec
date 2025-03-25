@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Plan of Care": {
+    "parameters": [
+      {"name": "Name", "type": "text"},
+      {"name": "Care Plan Sections", "type": "list of options"},
+      {"name": "Fields", "type": "list of objects"},
+      {"name": "Optional Sections", "type": "list of objects"}
+    ]
+  }
+}

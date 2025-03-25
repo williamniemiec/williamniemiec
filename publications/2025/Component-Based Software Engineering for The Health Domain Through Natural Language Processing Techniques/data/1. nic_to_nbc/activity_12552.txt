@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "No-code Element Name": "Referral Resource",
+  "Parameters": {
+    "Name": {"Type": "text"},
+    "Referral Options": {"Type": "list of referral options (with descriptions and contact information)"},
+    "Referral Criteria": {"Type": "list of referral criteria (with descriptions and examples)"},
+    "Referral Process": {"Type": "text"},
+    "Follow-up": {"Type": "text"},
+    "Frequency": {"Options": ["one-time", "weekly", "monthly", "quarterly"]},
+    "Deadline Date": {"Type": "datetime"}
+  }
+}

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Continence Diary": {
+    "Diary Title": {},
+    "Entries": {},
+    "Frequency": {},
+    "Review": {}
+  }
+}
+
+
+I removed all unnecessary information, keeping only the `{{ NO-CODE ELEMENT NAME }}` and `{{ PARAMETER ESPECIFICATIONS }}`. I also excluded the parameters that were marked as "Not Applicable" or had a "Required" value of false. Let me know if this meets your requirements!

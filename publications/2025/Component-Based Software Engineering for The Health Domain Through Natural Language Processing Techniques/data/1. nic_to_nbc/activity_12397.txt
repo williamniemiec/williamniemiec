@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Water Intake Guideline": {
+    "Title": {"type": "text"},
+    "Content": {"type": ["text", "html"]},
+    "Maximum Amount per Feeding": {"type": "range"},
+    "Daily Limit": {"type": "numeric"},
+    "Reason": {"type": "text"}
+  }
+}
+
+
+Let me know if this is what you were expecting!

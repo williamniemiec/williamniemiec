@@ -1,0 +1,34 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Event Rehearsal",
+    "parameters": [
+        {
+            "name": "Event",
+            "type": "text"
+        },
+        {
+            "name": "Instructions",
+            "type": "text"
+        },
+        {
+            "name": "Simulation",
+            "type": "boolean"
+        },
+        {
+            "name": "Frequency",
+            "type": "options",
+            "options": [
+                { value: "daily", label: "Daily" },
+                { value: "onlyOnce", label: "Only once" },
+                { value: "everyHours", label: "Every x hours" },
+                { value: "everyDays", label: "Every x days" }
+            ]
+        },
+        {
+            "name": "Deadline Date",
+            "type": "datetime"
+        }
+    ]
+}

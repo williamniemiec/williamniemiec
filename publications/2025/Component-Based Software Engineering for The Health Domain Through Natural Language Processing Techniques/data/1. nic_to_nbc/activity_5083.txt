@@ -1,0 +1,37 @@
+Here is the output in JSON format:
+
+
+{
+    "Breast Self-Examination Education": {
+        "parameters": {
+            "name": "",
+            "content": "",
+            "description": "",
+            "sections": [
+                {
+                    "label": "",
+                    "content": ""
+                }
+            ],
+            "frequency": "",
+            "deadline_date": ""
+        }
+    },
+    "Guide": {
+        "parameters": {
+            "name": "",
+            "pages": []
+        }
+    },
+    "Task": {
+        "parameters": {
+            "name": "",
+            "content": "",
+            "frequency": "",
+            "deadline_date": ""
+        }
+    }
+}
+
+
+Note that I removed the not applicable parameters and only kept the ones mentioned in the input text. Also, I didn't include any additional information or sections from the original text. Let me know if this is what you were looking for!

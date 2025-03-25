@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+
+{
+    "Aromatherapy": {
+        "parameters": ["essential oil type", "duration of use", "frequency of use"]
+    },
+    "Oral Comfort": {
+        "parameters": ["type of hard candy", "frequency of use", "duration of use"]
+    }
+}

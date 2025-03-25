@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "Parameters": {
+    "Confidentiality Statement": {
+      "Description": "Statement indicating the importance of maintaining confidentiality",
+      "Required": true,
+      "Type": "text"
+    },
+    "Patient Acknowledgement": {
+      "Description": "Patient acknowledgement of understanding the importance of confidentiality",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "yes", "label": "Yes" },
+        { "value": "no", "label": "No" }
+      ]
+    }
+  },
+  "Name": "Confidentiality Agreement"
+}
+
+
+I removed the not applicable parameters (in this case, "Authorized Disclosure") and kept only the necessary information. Let me know if you have any further requests!

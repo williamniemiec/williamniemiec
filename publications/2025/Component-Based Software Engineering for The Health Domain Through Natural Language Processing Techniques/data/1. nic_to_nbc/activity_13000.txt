@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+  "Procedure": {
+    "parameters": {
+      "title": "",
+      "steps": [],
+      "precautions": [],
+      "materials": [],
+      "condition": ""
+    }
+  },
+  "Task": {
+    "parameters": {
+      "title": "",
+      "instructions": "",
+      "frequency": "",
+      "deadline": "",
+      "condition": ""
+    }
+  }
+}

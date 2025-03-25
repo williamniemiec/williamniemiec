@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Touch Preference Assessment": {
+    "Parameters": {
+      "Body Part": {},
+      "Touch Duration": {},
+      "Touch Type": {},
+      "Response Rating": {},
+      "Frequency": {}
+    }
+  }
+}

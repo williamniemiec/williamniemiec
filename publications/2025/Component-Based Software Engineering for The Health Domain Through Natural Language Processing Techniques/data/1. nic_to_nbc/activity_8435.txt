@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Partner Inclusion": {
+    "Parameters": {
+      "Partner Availability": {},
+      "Partner Interest": {},
+      "Counseling Topics": {},
+      "Counseling Frequency": {}
+    }
+  }
+}

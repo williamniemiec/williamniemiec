@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Decision Support": {
+    "Parameters": {
+      "Decision prompt": {},
+      "Option presentation": {},
+      "Pros and cons analysis": {},
+      "Risk and benefit assessment": {},
+      "Personalized recommendation": {}
+    }
+  }
+}

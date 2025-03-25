@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Prevention Strategies": {
+        "parameters": [
+            {"name": "Prevention Methods", "type": "unordered list"},
+            {"name": "Description", "type": "text"},
+            {"name": "Benefits", "type": "text"},
+            {"name": "Frequency", "type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+            {"name": "Resources", "type": "multimedia"}
+        ]
+    }
+}

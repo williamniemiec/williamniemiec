@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+    "Respiratory Rate Monitoring Form": {
+        "name": "",
+        "respiratory_rate": "",
+        "breathing_pattern": "",
+        "measurement_time": ""
+    },
+    "Normal Respiratory Rate Guide": {
+        "name": "",
+        "normal_range": "",
+        "abnormal_range": ""
+    },
+    "Breathing Pattern Tracker": {
+        "name": "",
+        "breathing_pattern_results": "",
+        "breathing_pattern_chart": "",
+        "notes": ""
+    },
+    "Respiratory Rate Alert System": {
+        "name": "",
+        "alert_threshold": "",
+        "alert_message": ""
+    }
+}

@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Sensory Aid Reminder": {
+    "Aid": {
+      "type": ["eyeglasses", "hearingAids", "dentures"]
+    },
+    "Frequency": {
+      "type": ["daily", "everyHours", "onDemand"]
+    },
+    "Message": {
+      "type": "text"
+    }
+  }
+}

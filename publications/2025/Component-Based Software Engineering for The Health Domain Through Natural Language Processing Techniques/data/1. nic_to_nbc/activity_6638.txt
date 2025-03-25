@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Nutrition Educator": {
+    "Dietary Guidelines": {},
+    "Food Pyramid": {},
+    "Nutrient Information": {},
+    "Meal Planning Tips": {},
+    "Personalized Recommendations": {}
+  },
+  "Nutrition Guide": {
+    "Guide Content": {},
+    "Interactive Elements": {},
+    "Personalized Recommendations": {}
+  }
+}

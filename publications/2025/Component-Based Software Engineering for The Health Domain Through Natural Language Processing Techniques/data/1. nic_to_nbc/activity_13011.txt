@@ -1,0 +1,36 @@
+Here is the output in JSON format:
+
+
+{
+  "Environmental Adjustment": {
+    "parameters": [
+      {
+        "name": "steps",
+        "description": "Steps to reduce environmental stimuli",
+        "required": true,
+        "type": "ordered list",
+        "options": [
+          { "value": "turnOffLights", "label": "Turn off bright lights" },
+          { "value": "reduceNoise", "label": "Reduce noise levels" },
+          { "value": "minimizeVisitors", "label": "Minimize visitors" },
+          { "value": "adjustTemperature", "label": "Adjust the temperature" }
+        ]
+      },
+      {
+        "name": "frequency",
+        "description": "How often to adjust the environment",
+        "required": true,
+        "type": "options",
+        "options": [
+          { "value": "asNeeded", "label": "As needed" },
+          { "value": "daily", "label": "Daily" },
+          { "value": "everyHours", "label": "Every x hours" },
+          { "value": "everyDays", "label": "Every x days" }
+        ]
+      }
+    ]
+  }
+}
+
+
+Let me know if this meets your requirements!

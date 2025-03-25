@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Blood Loss Tracker": {
+    "Type of Blood Loss": {"type": "options", "options": ["vaginal", "rectal", "wound", "other"]},
+    "Amount of Blood Loss": {"type": "options", "options": ["slight", "moderate", "heavy", "other"]},
+    "Frequency of Tracking": {"type": "options", "options": ["every 15 minutes", "every 30 minutes", "every hour", "other"]},
+    "Duration of Tracking": {"type": "text"},
+    "Deadline Date": {"type": "datetime"},
+    "Notes": {"type": "text"}
+  }
+}

@@ -1,0 +1,50 @@
+Here is the output in JSON format:
+
+json
+{
+  "name": "Condition Information",
+  "parameters": [
+    {
+      "name": "name",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "condition",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "information",
+      "type": "html",
+      "required": true
+    },
+    {
+      "name": "images",
+      "type": "image",
+      "required": false
+    },
+    {
+      "name": "videos",
+      "type": "video",
+      "required": false
+    },
+    {
+      "name": "resources",
+      "type": "unordered list",
+      "required": false,
+      "parameters": [
+        {
+          "name": "name",
+          "type": "text",
+          "required": true
+        },
+        {
+          "name": "url",
+          "type": "url",
+          "required": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Positive Role Models": {
+    "parameters": [
+      {"Role Model Selection": {"type": "options", "required": true}},
+      {"Storytelling": {"type": "text/html", "required": true}},
+      {"Reflection Questions": {"type": "text", "required": true}},
+      {"Goal Setting": {"type": "text", "required": true}},
+      {"Progress Tracking": {"type": "datetime", "required": true}}
+    ]
+  }
+}
+
+
+I removed the "Community Forum" parameter since it was marked as not required (`* Required: false`). Let me know if this is what you were expecting!

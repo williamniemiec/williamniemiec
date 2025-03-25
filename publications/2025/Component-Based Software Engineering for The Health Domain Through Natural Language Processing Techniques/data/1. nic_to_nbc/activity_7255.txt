@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Behavior Pairing Plan": {
+    "Desired Behavior": {"type": "text"},
+    "Existing Stimulus or Cue": {"type": "text"},
+    "Pairing Plan": {"type": ["text", "form"]},
+    "Frequency": {"type": "options", "options": ["daily", "weekly", "monthly", "etc."]},
+    "Reminder": {"type": "boolean"},
+    "Reflection": {"type": ["text", "form"]}
+  }
+}

@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Lens Care Assistant": {
+    "Name": {"type": "text"},
+    "Lens Care Tasks": {"type": "list of options", "options": ["removal", "cleaning", "storing", "insertion", "others"]},
+    "Task Instructions": {"type": "text"},
+    "Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"type": "datetime"},
+    "Caregiver Information": {"type": "text"}
+  }
+}

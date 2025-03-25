@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Readiness Assessment": {
+    "parameters": [
+      {"name": "Name", "type": "text"},
+      {"name": "Questions", "type": "list of questions"},
+      {"name": "Threshold", "type": "number or boolean"},
+      {"name": "Instruction", "type": "text or reference to another no-code element"}
+    ]
+  }
+}

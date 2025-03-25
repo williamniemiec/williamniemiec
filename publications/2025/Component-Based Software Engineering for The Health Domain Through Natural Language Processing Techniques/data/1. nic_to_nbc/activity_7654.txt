@@ -1,0 +1,25 @@
+
+
+
+{
+  "Flush with water": {
+    "instruction title": {},
+    "Content": {},
+    "Duration": {
+      "options": [
+        {"value": "15 minutes", "label": "15 minutes"},
+        {"value": "30 minutes", "label": "30 minutes"},
+        {"value": "1 hour", "label": "1 hour"},
+        {"value": "other", "label": "Other (specify)"}
+      ]
+    },
+    "Frequency": {
+      "options": [
+        {"value": "immediately", "label": "Immediately"},
+        {"value": "every 15 minutes", "label": "Every 15 minutes"},
+        {"value": "every 30 minutes", "label": "Every 30 minutes"},
+        {"value": "every hour", "label": "Every hour"}
+      ]
+    }
+  }
+}

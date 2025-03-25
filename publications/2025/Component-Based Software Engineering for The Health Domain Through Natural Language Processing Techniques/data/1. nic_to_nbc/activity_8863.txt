@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+    "Sexual Health Guide": {
+        "Parameters": {
+            "Name": {"Type": "text"},
+            "Description": {"Type": "text"},
+            "Resources": {"Type": "list", "Items": ["list of resources, such as articles, videos, or websites"]},
+            "Reflection Questions": {"Type": "list", "Items": ["list of questions, such as \"What are my values and beliefs about sexuality?\" or \"How do I feel about my body?\""]},
+            "Journaling": {"Type": "boolean"},
+            "Goal Setting": {"Type": "boolean"},
+            "Reminders": {"Type": "boolean"}
+        }
+    }
+}

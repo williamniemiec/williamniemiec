@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+    "Muscle Fitness Assessment": {
+        "Name": {"Type": "text"},
+        "Assessment Frequency": {"Type": "options"},
+        "Muscle Group": {"Type": "options"},
+        "Assessment Criteria": {"Type": ""}
+    }
+}

@@ -1,0 +1,41 @@
+Here is the output in JSON format:
+
+
+{
+  "Wound Monitoring": {
+    "Parameters": {
+      "Wound Location": {
+        "Type": "text",
+        "Description": "Enter the location of the wound (e.g. leg, arm, etc.)"
+      },
+      "Redness": {
+        "Type": "options",
+        "Options": ["yes", "no"],
+        "Description": "Is there redness around the wound?"
+      },
+      "Exudate": {
+        "Type": "options",
+        "Options": ["yes", "no"],
+        "Description": "Is there exudate from the wound?"
+      },
+      "Ulceration": {
+        "Type": "options",
+        "Options": ["yes", "no"],
+        "Description": "Is there ulceration around the wound?"
+      },
+      "Wound Image": {
+        "Type": "image",
+        "Description": "Upload an image of the wound"
+      },
+      "Notes": {
+        "Type": "text",
+        "Description": "Enter any additional notes or comments about the wound monitoring"
+      },
+      "Frequency": {
+        "Type": "options",
+        "Options": ["daily", "weekly", "bi-weekly", "monthly"],
+        "Description": "How often should the wound be monitored?"
+      }
+    }
+  }
+}

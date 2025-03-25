@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "Discharge Readiness Assessment": {
+    "Assessment Questions": {
+      "Description": "List of questions to assess patient's readiness for discharge",
+      "Required": true,
+      "Type": "form",
+      "Form Fields": [...]
+    },
+    "Frequency": {
+      "Description": "Specify how often the patient's readiness for discharge should be assessed",
+      "Required": true,
+      "Type": "options",
+      "Options": [...]
+    },
+    "Deadline Date": {
+      "Description": "Specify the target date for patient's discharge",
+      "Required": true,
+      "Type": "datetime"
+    }
+  }
+}

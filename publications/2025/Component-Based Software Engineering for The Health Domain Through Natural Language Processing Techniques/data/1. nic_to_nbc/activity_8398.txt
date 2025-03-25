@@ -1,0 +1,10 @@
+
+
+
+{
+"Resource List": {
+"name": "",
+"description": "",
+"resource list": ["list of URLs", "phone numbers", "addresses"]
+}
+}

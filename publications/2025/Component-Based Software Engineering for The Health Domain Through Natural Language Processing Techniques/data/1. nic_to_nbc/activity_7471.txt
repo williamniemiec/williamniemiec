@@ -1,0 +1,10 @@
+Here is the output in JSON format:
+
+
+{
+  "ID Bracelet": {
+    "Bracelet Type": {"type": "options", "options": [{"value": "wristband", "label": "Wristband"}, {"value": "ankleBand", "label": "Ankle Band"}]},
+    "Patient Information": {"type": "text"},
+    "Application": {"type": "text"}
+  }
+}

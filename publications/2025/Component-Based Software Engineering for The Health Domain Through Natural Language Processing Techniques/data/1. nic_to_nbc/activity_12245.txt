@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Alert": {
+    "name": {},
+    "medications_to_avoid": {},
+    "reason": {},
+    "frequency": {}
+  }
+}
+
+
+Note that I removed `deadline_date` as it's not applicable in this context. Let me know if you need any further assistance!

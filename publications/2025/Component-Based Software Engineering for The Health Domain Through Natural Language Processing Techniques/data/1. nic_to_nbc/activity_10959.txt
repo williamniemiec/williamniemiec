@@ -1,0 +1,37 @@
+Here is the output in JSON format:
+
+
+{
+  "Resource Referral": {
+    "parameters": {
+      "resource_type": {
+        "type": "options"
+      },
+      "resource_url": {
+        "type": "text"
+      },
+      "resource_description": {
+        "type": "text"
+      },
+      "relevance": {
+        "type": "options"
+      }
+    }
+  },
+  "Patient Profile": {
+    "parameters": {
+      "patient_id": {
+        "type": "text"
+      },
+      "condition": {
+        "type": "text"
+      },
+      "needs": {
+        "type": "text"
+      }
+    }
+  }
+}
+
+
+Let me know if you need any further assistance!

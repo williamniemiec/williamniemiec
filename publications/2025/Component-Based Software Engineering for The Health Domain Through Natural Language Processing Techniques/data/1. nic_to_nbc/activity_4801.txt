@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Trusting Relationship Builder",
+    "parameters": [
+        {
+            "name": "Empathy Statements"
+        },
+        {
+            "name": "Clear Limits"
+        },
+        {
+            "name": "Evidence of Dysfunction"
+        },
+        {
+            "name": "Hope Inspiration"
+        }
+    ]
+}

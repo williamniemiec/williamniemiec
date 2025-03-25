@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Lab Result Tracker": {
+    "parameters": {
+      "Lab Result Data": "",
+      "Tracking Frequency": "",
+      "Alert Thresholds": ""
+    }
+  }
+}

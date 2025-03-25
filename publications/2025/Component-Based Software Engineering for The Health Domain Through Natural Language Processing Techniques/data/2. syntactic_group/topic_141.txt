@@ -1,0 +1,10 @@
+{
+  "name": "Aseptic Technique and Sterile Practices",
+  "description": "Covers the steps and procedures for maintaining an aseptic environment. This includes using sterile techniques, wearing protective gloves, and ensuring the use of personal protective equipment (PPE) to prevent contamination.",
+  "type": "non-periodic",
+  "input": ["Aseptic technique", "Sterile practices", "PPE usage", "Gloves", "Clean environment procedures"],
+  "output": ["Sterile environment confirmation", "Aseptic procedure report", "PPE and gloves usage validation"],
+  "preconditions": ["User is performing medical or clinical procedures requiring sterility"],
+  "postconditions": ["Successful maintenance of a sterile environment during procedures"],
+  "dependencies": ["Sterile equipment", "PPE availability", "Aseptic technique training"]
+}

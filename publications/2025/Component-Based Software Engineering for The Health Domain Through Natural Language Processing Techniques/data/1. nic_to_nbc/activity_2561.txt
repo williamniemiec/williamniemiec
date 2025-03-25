@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "Engorgement Prevention and Management": {
+    "Techniques": {
+      "Type": "checklist",
+      "Options": ["Frequent feedings", "Breast massage", "Warm compresses", "Milk expression", "Ice packs applied after feeding or pumping", "Anti-inflammatory medications"]
+    },
+    "Description": {
+      "Type": "text"
+    },
+    "Visual Aids": {
+      "Type": "media (image or video)",
+      "Optional": true
+    },
+    "Frequency": {
+      "Type": "options",
+      "Options": ["everyFeeding", "everyXFeedings", "atWill"]
+    }
+  }
+}
+
+
+Note: I removed the `Deadline Date` parameter since it's marked as optional and doesn't have a specified value.

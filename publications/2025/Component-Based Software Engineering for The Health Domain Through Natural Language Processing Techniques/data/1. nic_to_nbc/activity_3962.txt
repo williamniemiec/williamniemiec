@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Expected Outcomes Education": {
+    "parameters": {
+      "Illness Prognosis": {},
+      "Weight Gain Expectations": {},
+      "Treatment Outcomes": {},
+      "Lifestyle Modifications": {},
+      "Frequency": {
+        "options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+      },
+      "Deadline Date": {}
+    }
+  }
+}

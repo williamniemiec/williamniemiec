@@ -1,0 +1,37 @@
+Here is the output in JSON format:
+
+
+{
+  "Resource Directory": {
+    "Parameters": {
+      "Title": {
+        "Type": "text",
+        "Required": true
+      },
+      "Resources": {
+        "Type": "list of resource objects",
+        "Required": true,
+        "Resource Object": {
+          "Parameters": {
+            "Name": {
+              "Type": "text",
+              "Required": true
+            },
+            "Description": {
+              "Type": "text",
+              "Required": true
+            },
+            "Contact Information": {
+              "Type": "text",
+              "Required": true
+            },
+            "Services": {
+              "Type": "list of text",
+              "Required": true
+            }
+          }
+        }
+      }
+    }
+  }
+}

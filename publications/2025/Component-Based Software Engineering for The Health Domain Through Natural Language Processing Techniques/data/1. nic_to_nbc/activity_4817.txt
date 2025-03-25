@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Symptom Checker": {
+    "parameters": {
+      "Symptoms": {"type": "checklist"},
+      "Frequency": {"options": ["daily", "everyHours", "everyDays"]},
+      "Deadline Date": {"type": "datetime"},
+      "Additional Notes": {"type": "text"}
+    }
+  }
+}

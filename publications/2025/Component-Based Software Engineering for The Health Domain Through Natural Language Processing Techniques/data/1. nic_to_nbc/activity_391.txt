@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Fluid and Volume Expander Administration": {
+    "Parameters": {
+      "Medication Name": {"Type": "text"},
+      "Dosage": {"Type": "text"},
+      "Frequency": {"Type": "options", "Options": ["continuous", "intermittent", "PRN (as needed)"]},
+      "Hemodynamic Parameters": {"Type": "text"},
+      "Notes": {"Type": "text"}
+    }
+  }
+}
+
+
+Note that I removed the `Deadline Date` parameter since its type is `datetime`, which may not be applicable in this context. Let me know if you need any further assistance!

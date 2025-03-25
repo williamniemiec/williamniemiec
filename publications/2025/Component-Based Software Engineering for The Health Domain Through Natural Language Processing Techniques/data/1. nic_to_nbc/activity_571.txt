@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Resource Directory": {
+    "Agency List": {"Type": "list of text inputs"},
+    "Service Categories": {"Type": "list of options"},
+    "Agency Details": {"Type": "list of text inputs"},
+    "Filtering": {"Type": "filtering options"}
+  },
+  "Guide": {
+    "Step-by-Step Process": {"Type": "list of text inputs"},
+    "Resource Categories": {"Type": "list of options"},
+    "Agency List": {"Type": "list of text inputs"}
+  },
+  "Task": {
+    "Task Description": {}
+  }
+}
+
+Let me know if this is what you were expecting!

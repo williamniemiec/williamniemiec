@@ -1,0 +1,44 @@
+Here is the output in JSON format:
+
+
+{
+  "Rating": {
+    "Parameters": {
+      "Name": {
+        "Type": "text"
+      },
+      "Rating Type": {
+        "Type": "options",
+        "Options": [
+          {"value": "likert", "label": "Likert Scale (1-5)"},
+          {"value": "numerical", "label": "Numerical Rating (1-10)"},
+          {"value": "custom", "label": "Custom Rating Scale"}
+        ]
+      },
+      "Rating Options": {
+        "Type": "options",
+        "Options": [
+          {"value": "1", "label": "1 (Not Effective)"},
+          {"value": "2", "label": "2 (Somewhat Effective)"},
+          {"value": "3", "label": "3 (Neutral)"},
+          {"value": "4", "label": "4 (Somewhat Ineffective)"},
+          {"value": "5", "label": "5 (Not Ineffective)"}
+        ]
+      },
+      "Comments": {
+        "Type": "text"
+      },
+      "Frequency": {
+        "Type": "options",
+        "Options": [
+          {"value": "daily", "label": "Daily"},
+          {"value": "weekly", "label": "Weekly"},
+          {"value": "monthly", "label": "Monthly"}
+        ]
+      },
+      "Deadline Date": {
+        "Type": "datetime"
+      }
+    }
+  }
+}

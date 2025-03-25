@@ -1,0 +1,36 @@
+
+
+
+{
+    "Hospital Admission Guidelines": {
+        "Contractions": {
+            "Frequency": null,
+            "Duration": null,
+            "Intensity": null,
+            "Type": null
+        },
+        "Other Symptoms": {
+            "Water breaking": null,
+            "Vaginal bleeding": null,
+            "Severe pain": null,
+            "Other": null
+        },
+        "Timing": {
+            "After a certain number of hours of labor": null,
+            "At a specific time of day": null
+        },
+        "Contact Information": {
+            "Phone number": null,
+            "Email": null,
+            "Online portal": null
+        },
+        "Additional Instructions": {
+            "What to bring to the hospital": null,
+            "Who to bring with her": null,
+            "What to expect during admission": null
+        }
+    }
+}
+
+
+Note that I removed all non-applicable parameters and kept only the parameter names and their corresponding sub-parameters.

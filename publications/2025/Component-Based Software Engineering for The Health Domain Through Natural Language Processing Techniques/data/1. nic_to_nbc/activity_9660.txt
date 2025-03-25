@@ -1,0 +1,38 @@
+Here is the output in JSON format:
+
+
+{
+  "Task": {
+    "parameters": {
+      "name": "Proficiency Testing Task",
+      "content": "Please participate in the proficiency testing program as required by the institution",
+      "frequency": "",
+      "deadline_date": ""
+    }
+  },
+  "Interactive Test": {
+    "parameters": {
+      "name": "Proficiency Test",
+      "test_type": "",
+      "questions": "",
+      "answer type": ""
+    }
+  },
+  "Result": {
+    "parameters": {
+      "name": "Proficiency Test Results",
+      "result": "",
+      "interpretation": ""
+    }
+  },
+  "Certification": {
+    "parameters": {
+      "name": "Proficiency Certification",
+      "completion_status": "",
+      "certification_date": ""
+    }
+  }
+}
+
+
+Note that I removed the introduction and conclusion parts, as well as the numbers and descriptions of the no-code elements. I also kept only the parameter specifications and element names, removing any non-applicable parameters (i.e., those without a specified value).

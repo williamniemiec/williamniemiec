@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+    "Content Blueprint": {
+        "parameters": {
+            "Content Topic": {"type": "text"},
+            "Content Objectives": {"type": "reference to a \"Learning Objective\" no-code element"},
+            "Content Outline": {"type": "text or hierarchical list"},
+            "Content Materials": {"type": "list of resources"},
+            "Content Format": {
+                "type": "options",
+                "options": ["online course", "video", "interactive simulation", "text-based", "other"]
+            }
+        }
+    }
+}

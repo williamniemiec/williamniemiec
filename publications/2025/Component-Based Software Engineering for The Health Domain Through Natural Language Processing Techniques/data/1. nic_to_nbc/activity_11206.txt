@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Illness Education": {
+    "Name": {"type": "text"},
+    "Illness Information": {"type": "rich text or HTML"},
+    "Pages": {"type": "list of HTML texts"},
+    "Videos": {"type": "list of video URLs or embedded videos"},
+    "Quiz": {"type": "list of questions with answer options"},
+    "Resources": {"type": "list of URLs or PDFs"},
+    "Condition": {"type": "options", "options": ["list of specific illnesses or conditions"]}
+  }
+}

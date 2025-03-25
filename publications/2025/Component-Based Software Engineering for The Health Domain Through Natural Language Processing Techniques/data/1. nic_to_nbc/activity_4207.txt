@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Equipment Recommendation": {
+    "Parameters": {
+      "Healthcare Team Members": {},
+      "Equipment/Device Options": {},
+      "Recommendation Criteria": {},
+      "Consultation Method": {},
+      "Deadline Date": {}
+    }
+  }
+}

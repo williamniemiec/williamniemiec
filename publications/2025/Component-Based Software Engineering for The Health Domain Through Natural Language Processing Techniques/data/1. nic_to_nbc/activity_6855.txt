@@ -1,0 +1,39 @@
+Here is the output in JSON format:
+
+
+{
+  "Parameter Specifications": {
+    "Confirmation Question": {
+      "Description": "Question to confirm patient's understanding",
+      "Required": true,
+      "Type": "text"
+    },
+    "Answer Type": {
+      "Description": "Type of answer expected from the patient",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "text", "label": "Text" },
+        { "value": "yesNo", "label": "Yes/No" },
+        { "value": "select", "label": "Selection" }
+      ]
+    },
+    "Frequency": {
+      "Description": "How often the patient should confirm their understanding",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "daily", "label": "Daily" },
+        { "value": "onlyOnce", "label": "Only once" },
+        { "value": "everyHours", "label": "Every x hours" },
+        { "value": "everyDays", "label": "Every x days" }
+      ]
+    },
+    "Deadline Date": {
+      "Description": "Due date for the patient to confirm their understanding",
+      "Required": false,
+      "Type": "datetime"
+    }
+  },
+  "No-Code Element Name": "Verbal Confirmation"
+}

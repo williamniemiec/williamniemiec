@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+  "Delirium Assessment": {
+    "assessment_type": {
+      "type": "options",
+      "options": [
+        "Laboratory tests",
+        "Physical examination",
+        "Medical history review",
+        "Other"
+      ]
+    },
+    "etiologic_factors": {
+      "type": "list of text"
+    },
+    "assessment_criteria": {
+      "type": "list of text"
+    },
+    "result": {
+      "type": "text"
+    },
+    "intervention_plan": {
+      "type": "text"
+    }
+  }
+}

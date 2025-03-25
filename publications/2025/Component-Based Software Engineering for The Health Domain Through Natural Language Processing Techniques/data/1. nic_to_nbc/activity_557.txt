@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Communication Cue": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Shoulder Side": {"Type": "options", "Options": ["left", "right"]},
+      "Conversation Type": {"Type": "options"},
+      "Alert Message": {"Type": "text"},
+      "Frequency": {"Type": "options", "Options": ["daily", "every few hours", "as needed"]}
+    }
+  }
+}
+
+
+Note that I removed the `Deadline Date` parameter as it is not applicable (datetime type). Also, I didn't include the `Conversation Type` options list as it was not provided in the input.

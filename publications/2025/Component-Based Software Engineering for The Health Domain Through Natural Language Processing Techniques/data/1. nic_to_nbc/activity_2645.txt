@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Guilt and Responsibility Reflection": {
+        "parameters": [
+            {"Reflection Prompt": {}},
+            {"Journaling": {}},
+            {"Cognitive Restructuring": {}},
+            {"Frequency": {}},
+            {"Deadline Date": {}}
+        ]
+    }
+}

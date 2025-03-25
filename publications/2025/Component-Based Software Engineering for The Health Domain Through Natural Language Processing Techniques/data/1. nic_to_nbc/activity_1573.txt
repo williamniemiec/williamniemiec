@@ -1,0 +1,39 @@
+Here is the output in JSON format:
+
+
+{
+  "Belief Systems Discussion": {
+    "Parameters": {
+      "Discussion Topic": {
+        "Type": "text"
+      },
+      "Discussion Format": {
+        "Type": "options",
+        "Options": [
+          "One-on-one conversation with a healthcare provider",
+          "Group discussion with other patients",
+          "Online forum or chat",
+          "Other"
+        ]
+      },
+      "Resources": {
+        "Type": "options",
+        "Options": [
+          "Reading materials (e.g., articles, books)",
+          "Video or audio recordings",
+          "Guest speakers or experts",
+          "Other"
+        ]
+      },
+      "Frequency": {
+        "Type": "options",
+        "Options": [
+          "Daily",
+          "Weekly",
+          "Monthly",
+          "Other"
+        ]
+      }
+    }
+  }
+}

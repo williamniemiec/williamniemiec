@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Oxygen Therapy": {
+    "Prescription": {"type": "text"},
+    "Flow Rate": {"type": "number"},
+    "Duration": {"type": "text"},
+    "Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Reminders": {"type": "boolean"},
+    "Monitoring": {"type": "boolean"}
+  }
+}

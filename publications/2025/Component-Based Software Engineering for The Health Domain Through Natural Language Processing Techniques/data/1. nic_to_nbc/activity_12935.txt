@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+  "Sleep Diary": {
+    "sleep_quality": "",
+    "sleep_duration": "",
+    "wake_up_time": "",
+    "bedtime": "",
+    "sleep_disturbances": ""
+  },
+  "Symptom Tracker": {
+    "symptoms": [],
+    "severity": [],
+    "frequency": []
+  },
+  "Mood Tracker": {
+    "emotions": [],
+    "intensity": [],
+    "frequency": []
+  },
+  "Sleep Interrupters": {
+    "date": "",
+    "time": "",
+    "description": ""
+  }
+}

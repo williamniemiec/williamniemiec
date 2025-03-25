@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Coping Mechanism Planner": {
+    "parameters": [
+      {"name": "Name", "type": "text"},
+      {"name": "Coping Mechanism Options", "type": "options", "options": ["Exercise", "Meditation", "Deep Breathing", "Journaling", "Talking to a Friend/Family", "etc."]},
+      {"name": "Current Coping Mechanisms", "type": "text"},
+      {"name": "Goal Setting", "type": "text"},
+      {"name": "Action Plan", "type": "text"},
+      {"name": "Frequency", "type": "options", "options": ["Daily", "3 times a week", "Weekly", "etc."]},
+      {"name": "Deadline Date", "type": "datetime"}
+    ]
+  }
+}

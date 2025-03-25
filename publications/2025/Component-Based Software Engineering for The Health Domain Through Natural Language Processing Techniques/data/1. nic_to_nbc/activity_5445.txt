@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "diet and fluid monitoring": {
+    "parameters": [
+      { "name": "monitoring frequency" },
+      { "name": "dietary monitoring criteria" },
+      { "name": "fluid monitoring criteria" },
+      { "name": "reporting" }
+    ]
+  }
+}
+
+
+Note: I removed the `deadline_date` parameter since it was marked as not required (`"required": false`).

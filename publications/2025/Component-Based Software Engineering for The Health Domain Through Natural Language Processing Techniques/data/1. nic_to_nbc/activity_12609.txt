@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Medical History Questionnaire": {
+    "Question 1": {"Type": "boolean"},
+    "Question 2": {"Type": "boolean"},
+    "Question 3": {"Type": "boolean"},
+    "Question 4": {"Type": "boolean"},
+    "Additional Information": {"Type": "text"}
+  }
+}

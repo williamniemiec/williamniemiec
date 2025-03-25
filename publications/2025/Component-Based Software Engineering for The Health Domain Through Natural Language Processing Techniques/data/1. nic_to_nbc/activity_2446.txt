@@ -1,0 +1,51 @@
+Here is the output in JSON format:
+
+
+{
+  "Self-Irrigation Guide": {
+    "Parameters": {
+      "Title": {
+        "Description": "Title of the tutorial",
+        "Required": true,
+        "Type": "text"
+      },
+      "Steps": {
+        "Description": "Step-by-step instructions for self-irrigation techniques",
+        "Required": true,
+        "Type": "list of tutorial steps",
+        "Each step can have": {
+          "Description": {
+            "Type": "text"
+          },
+          "Image": {
+            "Type": "image"
+          },
+          "Video": {
+            "Type": "video"
+          }
+        }
+      },
+      "Tips": {
+        "Description": "Additional tips for self-irrigation",
+        "Required": false,
+        "Type": "text"
+      },
+      "Quiz": {
+        "Description": "Quiz to test patient's understanding of self-irrigation techniques",
+        "Required": false,
+        "Type": "quiz",
+        "Quiz questions can have": {
+          "Question": {
+            "Type": "text"
+          },
+          "Options": {
+            "Type": "list of options"
+          },
+          "Correct Answer": {
+            "Type": "text"
+          }
+        }
+      }
+    }
+  }
+}

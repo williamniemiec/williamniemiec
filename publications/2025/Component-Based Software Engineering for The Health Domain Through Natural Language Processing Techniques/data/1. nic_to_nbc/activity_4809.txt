@@ -1,0 +1,32 @@
+Here is the output in JSON format:
+
+
+{
+  "Temperature Monitoring": {
+    "parameters": {
+      "Temperature Range": {
+        "type": "range",
+        "min": "numeric value (e.g., 36.5)",
+        "max": "numeric value (e.g., 37.5)"
+      },
+      "Alert Thresholds": {
+        "type": "list",
+        "options": [
+          { "value": "high", "label": "High Temperature (> 38°C)" },
+          { "value": "low", "label": "Low Temperature (< 36°C)" }
+        ]
+      },
+      "Frequency": {
+        "type": "options",
+        "options": [
+          { "value": "every15Minutes", "label": "Every 15 minutes" },
+          { "value": "every30Minutes", "label": "Every 30 minutes" },
+          { "value": "everyHour", "label": "Every hour" }
+        ]
+      },
+      "Recording Method": {
+        "type": "text"
+      }
+    }
+  }
+}

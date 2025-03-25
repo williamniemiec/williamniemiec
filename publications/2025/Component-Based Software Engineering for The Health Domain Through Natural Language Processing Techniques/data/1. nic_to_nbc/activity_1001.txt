@@ -1,0 +1,7 @@
+Here is the output in JSON format:
+
+
+{
+"PARAMETER ESPECIFICATIONS": "* A healthcare professional reviewing and interpreting the pulmonary artery tracing data.\n* Regular monitoring of the patient's vital signs and catheter placement to identify signs of spontaneous wedge.\n* Clinical decision-making and judgment to adjust the catheter placement and prevent complications.",
+"NO-CODE ELEMENT NAME": null
+}

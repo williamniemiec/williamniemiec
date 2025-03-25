@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Relationship Builder": {
+    "Check-in Frequency": {"Type": ["datetime", "time interval"]},
+    "Personalized Messages": {"Type": ["text", "HTML"]},
+    "Empathy Statements": {"Type": ["list of text", "HTML"]},
+    "Family Member Profile": {"Type": ["JSON object", "profile data"]},
+    "Trust-Building Strategies": {"Type": ["list of text", "HTML"]}
+  }
+}

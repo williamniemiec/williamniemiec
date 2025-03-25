@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Dressing Assistance": {
+    "parameters": {
+      "Clothing Type": {"type": "text"},
+      "Nonrestrictive": {"type": "boolean"},
+      "Assistance Level": {"type": "scale"},
+      "Dressing Instructions": {"type": "text"}
+    }
+  }
+}
+
+
+I removed the "Notes" parameter as it is not applicable, and also removed the introduction, conclusion, and other unnecessary parts of the text. Let me know if this meets your requirements!

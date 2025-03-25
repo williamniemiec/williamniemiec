@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Health Objective": {
+    "Parameters": {
+      "Objective Category": {"Type": "options"},
+      "Specific Objective": {"Type": "text"},
+      "Target Population": {"Type": "options"},
+      "Intervention Type": {"Type": "options"},
+      "Resources": {"Type": "text, image, video, or multimedia"}
+    }
+  }
+}

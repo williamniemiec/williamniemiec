@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Value Communication": {
+    "Patient Values": {"type": "list of text"},
+    "Communication Goal": {"type": "text"},
+    "Script": {"type": "text"},
+    "Practice": {"type": "audio/video recording or text input"},
+    "Feedback": {"type": "text or audio/video recording"},
+    "Frequency": {"type": "options"},
+    "Deadline Date": {"type": "datetime"}
+  }
+}

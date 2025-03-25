@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Temperature Monitoring": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Frequency": {"Type": "options"},
+      "Temperature Range": {"Type": "range"},
+      "Notes": {"Type": "text"}
+    }
+  }
+}

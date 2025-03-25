@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Consistent Messaging": {
+    "Parameters": {
+      "Content": {"Type": "text or multimedia"},
+      "Team Members": {"Type": "list of team members (e.g., doctor, nurse, therapist, etc.)"},
+      "Consistency Check": {"Type": "boolean (true or false)"},
+      "Alerts": {"Type": "boolean (true or false)"},
+      "Patient Access": {"Type": "boolean (true or false)"}
+    }
+  }
+}

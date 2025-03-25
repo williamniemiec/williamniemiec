@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Care Package": {
+        "Affirmations": {"type": "list of text or multimedia content"},
+        "Nurturing Care": {"type": "list of text or multimedia content"},
+        "Therapeutic Communication": {"type": "list of text or multimedia content"},
+        "Developmental Stimulation": {"type": "list of text or multimedia content"},
+        "Interactive Activities": {"type": "list of interactive content"},
+        "Reward System": {"type": "list of rewards or incentives"}
+    }
+}

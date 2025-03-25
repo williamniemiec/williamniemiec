@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Cognitive Assessment Tool": {
+    "Reading Comprehension": {},
+    "Form Completion": {},
+    "Checkbook Balancing": {},
+    "Money Management": {},
+    "Cognitive Function Score": {}
+  }
+}

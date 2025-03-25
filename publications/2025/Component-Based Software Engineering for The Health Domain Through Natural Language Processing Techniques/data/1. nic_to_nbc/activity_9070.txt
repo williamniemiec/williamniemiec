@@ -1,0 +1,52 @@
+Here is the output in JSON format:
+
+
+{
+  "Debriefing Session Scheduling": {
+    "parameters": [
+      "session type",
+      "frequency",
+      "deadline_date"
+    ]
+  },
+  "Behavior Review": {
+    "parameters": [
+      "behavior type",
+      "review type",
+      "frequency",
+      "deadline_date"
+    ]
+  },
+  "Patient Concerns": {
+    "parameters": [
+      "concern type",
+      "feedback type",
+      "frequency",
+      "deadline_date"
+    ]
+  },
+  "Staff Reflection": {
+    "parameters": [
+      "reflection type",
+      "frequency",
+      "deadline_date"
+    ]
+  },
+  "Debriefing Session Facilitation": {
+    "parameters": [
+      "facilitation type",
+      "frequency",
+      "deadline_date"
+    ]
+  },
+  "Documentation": {
+    "parameters": [
+      "documentation type",
+      "frequency",
+      "deadline_date"
+    ]
+  }
+}
+
+
+Note that I removed the "not applicable" parameters, which means I kept all the parameters for each element. Let me know if you need any further assistance!

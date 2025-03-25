@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+    "Extremity Monitoring": {
+        "Name": {"type": "text"},
+        "Instructions": {"type": "text or multimedia"},
+        "Circulation Questions": {"type": "form", "options": ["multiple-choice", "Likert scale", "open-ended questions"]},
+        "Movement Questions": {"type": "form", "options": ["multiple-choice", "Likert scale", "open-ended questions"]},
+        "Sensation Questions": {"type": "form", "options": ["multiple-choice", "Likert scale", "open-ended questions"]},
+        "Frequency": {"type": "options", "options": ["daily", "everyOtherDay", "every3Days", "custom"]},
+        "Deadline Date": {"type": "datetime"},
+        "Photo Upload": {"type": "camera or image upload"},
+        "Extremity Selection": {"type": "options", "options": ["list of possible extremities to monitor"]}
+    }
+}

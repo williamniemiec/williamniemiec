@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Care Agency Directory": {
+    "Agency List": {"type": "list of agency profiles"},
+    "Agency Types": {"type": "list of categories"},
+    "Services Provided": {"type": "list of services"},
+    "Referral Process": {"type": "text or link to referral process"},
+    "Reviews and Ratings": {"type": "list of reviews and ratings"}
+  }
+}

@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Spiritual Reflection Exercise": {
+    "Introduction": {"type": "text"},
+    "Reflection Prompts": {"type": "list", "items": {"Prompt": {"type": "text"}, "Response Type": {"type": "options"}}},
+    "Spiritual Practices": {"type": "list", "items": {"Practice": {"type": "text"}, "Instructions": {"type": "text"}}},
+    "Journaling Prompts": {"type": "list", "items": {"Prompt": {"type": "text"}, "Response Type": {"type": "options"}}},
+    "Frequency": {"type": "options"}
+  }
+}

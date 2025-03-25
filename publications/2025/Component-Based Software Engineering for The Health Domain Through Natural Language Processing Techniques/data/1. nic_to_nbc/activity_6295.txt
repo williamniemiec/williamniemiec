@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Ambulation Schedule": {
+    "parameters": {
+      "Ambulation Goals": {"type": "text"},
+      "Schedule": {"type": "calendar or schedule"},
+      "Reminders": {"type": "boolean"},
+      "Tolerance Tracking": {"type": "scale"},
+      "Adjust Schedule": {"type": "boolean"}
+    }
+  }
+}
+
+
+Let me know if this is what you were looking for!

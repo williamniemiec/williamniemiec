@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Potassium-Rich Food and Fluid Recommendation": {
+    "parameters": {
+      "Nutritional Needs": {},
+      "High-Potassium Food Options": {},
+      "High-Potassium Fluid Options": {},
+      "Recommended Foods and Fluids": {},
+      "Serving Suggestions": {}
+    }
+  }
+}
+
+
+Let me know if you need any further assistance!

@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Urinary Drainage Positioning": {
+    "Instructions": {"type": "text or unordered list"},
+    "Positioning Guidelines": {"options": ["assure drainage bag is below level of bladder", "elevate legs", "other"]},
+    "Frequency": {"options": ["as needed", "at regular intervals"]},
+    "Tracking": {"type": "boolean"},
+    "Healthcare Provider Notification": {"type": "boolean"}
+  }
+}

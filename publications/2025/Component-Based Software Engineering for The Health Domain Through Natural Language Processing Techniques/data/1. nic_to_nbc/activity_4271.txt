@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Weight Tracker": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Unit": {"Type": "options"},
+      "Frequency": {"Type": "options"},
+      "Input Field": {"Type": "form"}
+    }
+  }
+}

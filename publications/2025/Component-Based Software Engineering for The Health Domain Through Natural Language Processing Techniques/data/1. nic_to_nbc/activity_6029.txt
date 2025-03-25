@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Hemorrhage Monitoring": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Vital Signs": {"Type": "options"},
+      "Symptoms": {"Type": "options"},
+      "Frequency": {"Type": "options"},
+      "Deadline Date": {"Type": "datetime"},
+      "Notes": {"Type": "text"},
+      "Alert Threshold": {"Type": "number"}
+    }
+  }
+}

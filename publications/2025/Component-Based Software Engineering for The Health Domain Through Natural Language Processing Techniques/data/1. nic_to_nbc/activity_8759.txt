@@ -1,0 +1,13 @@
+
+
+
+{
+  "Guided Relaxation": {
+    "Touch Technique": {"type": "options", "options": ["hand holding", "shoulder massage", "gentle stroking", "etc."]},
+    "Duration": {"type": "time"},
+    "Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]}
+  }
+}
+
+
+I removed the `Deadline Date` parameter as it's not applicable in this context. Let me know if you need any further assistance!

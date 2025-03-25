@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+    "CO2 Level Tracking": {
+        "parameters": {
+            "name": "Sublingual CO2 Monitoring",
+            "description": "Track your sublingual CO2 levels",
+            "type": "numeric input",
+            "units": ["mmHg", "kPa"],
+            "normal_range": {
+                "min": 40,
+                "max": 70
+            },
+            "alert_threshold": {
+                "value": 80,
+                "comparison": "greaterThan",
+                "label": "Elevated sublingual CO2 levels"
+            }
+        }
+    }
+}

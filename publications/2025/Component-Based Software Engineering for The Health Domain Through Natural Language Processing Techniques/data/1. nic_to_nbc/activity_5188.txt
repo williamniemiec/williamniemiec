@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Active Medication Management": {
+    "Medication List": {"Type": "unordered list"},
+    "Medication Schedule": {"Type": "calendar"},
+    "Medication Reminders": {"Type": "boolean (true/false)"},
+    "Medication Tracking": {"Type": "boolean (true/false)"},
+    "Education": {"Type": "text (educational content)"},
+    "Family Member Access": {"Type": "boolean (true/false)"},
+    "Healthcare Provider Communication": {"Type": "boolean (true/false)"}
+  }
+}

@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Individualized Reflection": {
+    "parameters": {
+      "Child's Name": {"type": "text", "required": true},
+      "Strengths": {"type": "list of text", "required": true},
+      "Needs": {"type": "list of text", "required": true},
+      "Accomplishments": {"type": "list of text", "required": true},
+      "Reflection Prompt": {"type": "text", "required": true},
+      "Frequency": {"type": "options", "options": ["daily", "weekly", "monthly"], "required": true}
+    }
+  }
+}

@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+  "Location Assessment": {
+    "Parameters": {
+      "Location Criteria": {},
+      "Location Rating": {},
+      "Location Feedback": {}
+    }
+  },
+  "Question": {
+    "Parameters": {
+      "Space Availability": {},
+      "Comfort Level": {},
+      "Amenities Availability": {}
+    }
+  },
+  "Guide": {
+    "Parameters": {
+      "Step-by-Step Process": {},
+      "Location Criteria": {}
+    }
+  }
+}
+
+
+Note: I removed the "Not Applicable" parameters as per your request. Also, since there were no specific values associated with each parameter, I left them empty in the JSON output.

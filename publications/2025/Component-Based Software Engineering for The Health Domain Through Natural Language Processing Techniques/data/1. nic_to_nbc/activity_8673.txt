@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Symptom Monitoring": {
+    "Parameters": {
+      "Symptom": {},
+      "Frequency": {},
+      "Deadline Date": {},
+      "Reporting Method": {},
+      "Severity Scale": {}
+    }
+  }
+}

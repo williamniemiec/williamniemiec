@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Informed Consent": {
+    "Name": {"Type": "text"},
+    "Description": {"Type": "text"},
+    "Consent Document": {"Type": "text or PDF"},
+    "Consent Options": {"Type": "options"},
+    "Signature": {"Type": "electronic signature"},
+    "Deadline Date": {"Type": "datetime"}
+  }
+}

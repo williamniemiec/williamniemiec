@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Care Summary": {
+    "Recent Medical History": {"type": "text"},
+    "Significant Lab Results": {"type": "text"},
+    "Current Medications": {"type": "list of text"},
+    "Care Plan": {"type": "text"}
+  },
+  "Report": {
+    "Report Template": {"type": "text"},
+    "Data Sources": {"type": "list of text"}
+  }
+}

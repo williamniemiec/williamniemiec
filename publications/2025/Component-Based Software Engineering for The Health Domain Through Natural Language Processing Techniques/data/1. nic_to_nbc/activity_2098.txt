@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Time Management Coaching": {
+    "parameters": {
+      "Time Management Goals": {"type": "text"},
+      "Home Care Tasks": {"type": "text"},
+      "Current Time Management": {"type": "text"},
+      "Teaching Methods": {"type": "text"},
+      "Coaching Frequency": {"type": "text"},
+      "Progress Tracking": {"type": "text"}
+    }
+  }
+}
+
+
+Let me know if this meets your requirements!

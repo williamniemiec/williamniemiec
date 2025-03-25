@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Monitoring": {
+    "parameters": {
+      "Medication Name": {"type": "text"},
+      "Effectiveness Scale": {"type": "options"},
+      "Frequency": {"type": "options"},
+      "Notes": {"type": "text"}
+    }
+  }
+}

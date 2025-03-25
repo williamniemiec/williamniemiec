@@ -1,0 +1,16 @@
+
+
+
+{
+  "Sling Application": {
+    "Name": {"Type": "text"},
+    "Injury Location": {"Type": "text"},
+    "Sling Type": {"Type": "text or options"},
+    "Application Instructions": {"Type": "text or multimedia"},
+    "Sling Positioning": {"Type": "text or options"},
+    "Tightening": {"Type": "text or options"}
+  }
+}
+
+
+Note that I removed the `Deadline Date` parameter since it's not applicable to the no-code element itself, but rather to the task/workflow created using this element. Let me know if you'd like me to include it anyway!

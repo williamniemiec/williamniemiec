@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Social Support Assessment": {
+        "Patient Isolation": {"type": "options", "options": [{"value": "none", "label": "None"}, {"value": "mild", "label": "Mild"}, {"value": "moderate", "label": "Moderate"}, {"value": "severe", "label": "Severe"}]},
+        "Patient Mood": {"type": "options", "options": [{"value": "good", "label": "Good"}, {"value": "fair", "label": "Fair"}, {"value": "poor", "label": "Poor"}]},
+        "Social Support Network": {"type": "options", "options": [{"value": "strong", "label": "Strong"}, {"value": "moderate", "label": "Moderate"}, {"value": "weak", "label": "Weak"}]},
+        "Visitor Frequency": {"type": "options", "options": [{"value": "daily", "label": "Daily"}, {"value": "severalTimesAWeek", "label": "Several times a week"}, {"value": "weekly", "label": "Weekly"}, {"value": "lessOften", "label": "Less often"}]},
+        "Patient Request": {"type": "options", "options": [{"value": "yes", "label": "Yes"}, {"value": "no", "label": "No"}]},
+        "Need for More Visits": {"type": "options", "options": [{"value": "yes", "label": "Yes, more visits are needed"}, {"value": "no", "label": "No, current visitation is sufficient"}]}
+    }
+}

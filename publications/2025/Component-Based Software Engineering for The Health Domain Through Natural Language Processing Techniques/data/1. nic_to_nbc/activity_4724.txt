@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Safety Hazard Elimination": {
+    "Hazard List": {"type": "list of text"},
+    "Elimination Tasks": {"type": "list of text"},
+    "Task Status": {"type": "options"},
+    "Resources": {"type": "text or links to resources"},
+    "Frequency": {"type": "options"},
+    "Deadline Date": {"type": "datetime"}
+  }
+}

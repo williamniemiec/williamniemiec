@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Neurological Status Assessment": {
+    "Assessment Questions": {"Type": "list of text", "Description": "provide a list of questions to assess the patient's neurological status"},
+    "Response Options": {"Type": "list of options", "Description": "provide response options for each question"},
+    "Frequency": {"Type": "options", "Options": ["daily", "every other day", "weekly", "etc."]},
+    "Tracking": {"Type": "boolean", "Description": "allow the patient to track changes in their neurological status over time"}
+  }
+}

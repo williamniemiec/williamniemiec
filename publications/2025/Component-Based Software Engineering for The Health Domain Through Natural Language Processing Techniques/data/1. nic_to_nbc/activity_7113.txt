@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "Electrolyte Imbalance Tracker": {
+    "Parameters": {
+      "Electrolyte List": {"Type": "checklist", "Required": true},
+      "Lab Results": {
+        "Value": {"Type": "number", "Required": true},
+        "Units": {"Type": "options", "Required": true}
+      },
+      "Reference Range": {
+        "Lower limit": {"Type": "number", "Required": true},
+        "Upper limit": {"Type": "number", "Required": true}
+      },
+      "Alert Threshold": {
+        "High threshold": {"Type": "number", "Required": true},
+        "Low threshold": {"Type": "number", "Required": true}
+      }
+    }
+  }
+}
+
+
+I removed the `Notes` parameter since it's not required. Let me know if you have any further requests!

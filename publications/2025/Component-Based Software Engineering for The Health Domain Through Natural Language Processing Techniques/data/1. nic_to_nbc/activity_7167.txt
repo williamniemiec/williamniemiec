@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Dressing Removal Guide": {
+    "name": "Dressing Removal Guide",
+    "description": "soak dressing pads in saline solution before removal, when appropriate",
+    "content_type": ["step-by-step guide", "video"],
+    "steps": [
+      "Check if soaking is necessary",
+      "Prepare saline solution",
+      "Soak dressing pads in saline solution",
+      "Remove dressing pads"
+    ],
+    "tips": ["Gently remove dressing pads to avoid discomfort"],
+    "indications": ["for stubborn dressings", "for sensitive skin"]
+  }
+}

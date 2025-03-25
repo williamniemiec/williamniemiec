@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Survey": {
+    "parameters": {
+      "name": "",
+      "questions": [],
+      "frequency": "",
+      "deadline_date": ""
+    }
+  }
+}

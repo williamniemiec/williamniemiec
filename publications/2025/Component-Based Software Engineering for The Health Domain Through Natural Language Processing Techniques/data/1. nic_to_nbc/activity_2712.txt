@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+    "Care Team": {
+        "Name": {"type": "text", "required": true},
+        "Caregivers": {"type": "unordered list", "required": true},
+        "Caregiver Roles": {"type": "unordered list", "required": true},
+        "Caregiver Permissions": {"type": "options", "required": true, "options": ["view only", "edit", "admin"]},
+        "Care Team Notifications": {"type": "options", "required": true, "options": ["email", "in-app notification", "SMS"]}
+    }
+}

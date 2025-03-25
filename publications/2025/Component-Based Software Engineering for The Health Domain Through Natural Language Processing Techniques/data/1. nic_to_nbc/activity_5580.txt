@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "No-code Element Name": "Guide",
+  "Parameters": {
+    "Topic": {"Type": "text"},
+    "Content": {"Type": "text or multimedia content"},
+    "Tips": {"Type": "list of text or multimedia content"},
+    "Scenarios": {"Type": "list of text or multimedia content"},
+    "Quiz": {"Type": "list of questions with answer options"},
+    "Referral": {"Type": "text or multimedia content"}
+  }
+}

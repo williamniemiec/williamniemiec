@@ -1,0 +1,10 @@
+Here is the output in JSON format:
+
+
+{
+  "Symptom Interview": {
+    "Onset": {"Type": "datetime"},
+    "Duration": {"Type": ["text", "numeric value"]},
+    "Symptoms": {"Type": ["multi-select", "checkbox"]}
+  }
+}

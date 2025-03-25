@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Symptom Monitoring": {
+    "Parameters": {
+      "Symptoms": {},
+      "Frequency": {},
+      "Deadline Date": {},
+      "Notes": {}
+    }
+  }
+}
+
+
+I removed the "Outpatient Contact" parameter as it was marked as a boolean type with options yes/no, which is not applicable in this context. Let me know if you need any further assistance!

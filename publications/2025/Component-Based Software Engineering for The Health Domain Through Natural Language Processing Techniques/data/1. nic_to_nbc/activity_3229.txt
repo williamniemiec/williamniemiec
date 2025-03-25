@@ -1,0 +1,10 @@
+Here is the output in JSON format:
+
+
+{
+  "Music Restriction": {
+    "Condition": {"Description": "Have you experienced an acute head injury?", "Required": true, "Type": "boolean"},
+    "Music Type": {"Description": "Specify the type of music to avoid", "Required": true, "Type": "options", "Options": [{"Value": "stimulating", "Label": "Stimulating music"}, {"Value": "loud", "Label": "Loud music"}, {"Value": "other", "Label": "Other (please specify)"}]},
+    "Duration": {"Description": "Specify the duration of music restriction", "Required": true, "Type": "number", "Unit": "days"}
+  }
+}

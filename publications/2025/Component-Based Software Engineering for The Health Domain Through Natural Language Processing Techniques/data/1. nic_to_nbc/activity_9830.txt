@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Pain Control Evaluation": {
+    "Parameters": [
+      {"Pain control measures": {"Type": "multiselect", "Options": [{"value": "medication", "label": "Medication"}, {"value": "relaxationTechniques", "label": "Relaxation Techniques"}, {"value": "physicalTherapy", "label": "Physical Therapy"}, {"value": "other", "label": "Other (please specify)"}]}},
+      {"Pain level": {"Type": "options", "Options": [{"value": "mild", "label": "Mild"}, {"value": "moderate", "label": "Moderate"}, {"value": "severe", "label": "Severe"}, {"value": "extreme", "label": "Extreme"}]}},
+      {"Effectiveness rating": {"Type": "options", "Options": [{"value": "veryEffective", "label": "Very Effective"}, {"value": "somewhatEffective", "label": "Somewhat Effective"}, {"value": "notVeryEffective", "label": "Not Very Effective"}, {"value": "notAtAllEffective", "label": "Not At All Effective"}]}},
+      {"Additional comments": {"Type": "text"}}
+    ]
+  }
+}

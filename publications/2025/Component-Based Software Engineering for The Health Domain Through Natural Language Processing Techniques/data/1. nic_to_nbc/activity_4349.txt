@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Instructions": {
+    "Parameters": {
+      "Medications": {
+        "Columns": [
+          {"Name": "Medication", "Type": "text"},
+          {"Name": "Dosage", "Type": "text"},
+          {"Name": "Route", "Type": "options", "Options": [{"value": "oral", "label": "Oral"}, {"value": "injectable", "label": "Injectable"}, {"value": "topical", "label": "Topical"}, {"value": "other", "label": "Other"}]},
+          {"Name": "Duration", "Type": "text"}
+        ]
+      },
+      "Frequency": {
+        "Type": "options",
+        "Options": [{"value": "daily", "label": "Daily"}, {"value": "onlyOnce", "label": "Only once"}, {"value": "everyHours", "label": "Every x hours"}, {"value": "everyDays", "label": "Every x days"}]
+      }
+    }
+  }
+}
+
+
+I removed all the unnecessary parts and kept only the `{{ NO-CODE ELEMENT NAME }}` (Medication Instructions) and `{{ PARAMETER ESPECIFICATIONS }}`. I also removed the not applicable parameters, which in this case is the `Deadline Date` parameter since it's not required.

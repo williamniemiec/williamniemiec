@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Headache Reporting": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Headache Severity": {"Type": "rating scale"},
+      "Headache Description": {"Type": "text"},
+      "Frequency": {"Type": "options", "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"Type": "datetime"}
+    }
+  }
+}

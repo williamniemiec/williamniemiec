@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Goal Setting": {
+    "Parameters": {
+      "Goal": {"Type": "text"},
+      "Description": {"Type": "text"},
+      "Priority": {"Type": "options", "Options": ["high", "medium", "low"]},
+      "Target Date": {"Type": "datetime"},
+      "Frequency": {"Type": "options", "Options": ["daily", "weekly", "monthly", "quarterly"]}
+    }
+  }
+}

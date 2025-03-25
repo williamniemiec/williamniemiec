@@ -1,0 +1,29 @@
+Here is the output in JSON format:
+
+
+{
+  "Skin Assessment": {
+    "Parameters": {
+      "Assessment Type": {
+        "Type": "options",
+        "Options": ["skinColor", "temperature", "sensation", "condition"]
+      },
+      "Assessment Questions": {
+        "Type": "form",
+        "Questions": [
+          {"Question": "What is the color of your skin?", "Type": "options", "Options": ["pale", "normal", "red", "etc."]},
+          {"Question": "Is your skin warm or cool to the touch?", "Type": "options", "Options": ["warm", "cool", "normal"]},
+          {"Question": "Do you have any numbness or tingling sensations in your skin?", "Type": "options", "Options": ["yes", "no"]},
+          {"Question": "Are there any open wounds or lesions on your skin?", "Type": "options", "Options": ["yes", "no"]}
+        ]
+      },
+      "Frequency": {
+        "Type": "options",
+        "Options": ["daily", "everyHours", "everyDays", "etc."]
+      },
+      "Deadline": {
+        "Type": "datetime"
+      }
+    }
+  }
+}

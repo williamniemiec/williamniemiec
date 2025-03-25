@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Equipment Explanation": {
+        "parameters": [
+            {"equipment": {}},
+            {"purpose": {}},
+            {"function": {}},
+            {"benefits": {}},
+            {"images": {}}
+        ]
+    }
+}

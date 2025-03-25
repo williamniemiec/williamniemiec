@@ -1,0 +1,34 @@
+Here is the output in JSON format:
+
+
+{
+  "Haircut Arrangement": {
+    "Parameters": {
+      "Haircut Type": {
+        "Description": "Select the type of haircut desired",
+        "Required": true,
+        "Type": "options",
+        "Options": [
+          {"value": "barber", "label": "Barber"},
+          {"value": "hairdresser", "label": "Hairdresser"},
+          {"value": "other", "label": "Other (please specify)"}
+        ]
+      },
+      "Preferred Date and Time": {
+        "Description": "Select a preferred date and time for the haircut",
+        "Required": true,
+        "Type": "datetime"
+      },
+      "Location": {
+        "Description": "Select a location for the haircut",
+        "Required": true,
+        "Type": "options",
+        "Options": [
+          {"value": "atHome", "label": "At home"},
+          {"value": "salon", "label": "At a salon"},
+          {"value": "other", "label": "Other (please specify)"}
+        ]
+      }
+    }
+  }
+}

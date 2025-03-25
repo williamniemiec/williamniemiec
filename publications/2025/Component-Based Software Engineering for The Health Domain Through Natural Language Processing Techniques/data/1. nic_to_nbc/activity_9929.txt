@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Aromatherapy Education": {
+    "Parameters": {
+      "Content": {"Type": "multimedia"},
+      "Topic": {"Type": "options"},
+      "Format": {"Type": "options"},
+      "Assessment": {"Type": "assessment"}
+    }
+  }
+}

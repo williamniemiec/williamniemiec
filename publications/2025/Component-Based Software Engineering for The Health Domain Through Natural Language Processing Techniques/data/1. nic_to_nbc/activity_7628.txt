@@ -1,0 +1,15 @@
+
+
+
+{
+  "Pacemaker Monitor": {
+    "parameters": {
+      "Pacemaker Type": {},
+      "Pacemaker Settings": {},
+      "Pacemaker Function": {},
+      "Date": {},
+      "Frequency": {},
+      "Deadline Date": {}
+    }
+  }
+}

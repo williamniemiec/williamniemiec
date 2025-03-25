@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "ICP Monitoring": {
+    "Parameters": {
+      "Title": {},
+      "Description": {},
+      "Stimuli": {},
+      "ICP Measurement": {},
+      "Frequency": {},
+      "Threshold": {},
+      "Notification": {}
+    }
+  }
+}

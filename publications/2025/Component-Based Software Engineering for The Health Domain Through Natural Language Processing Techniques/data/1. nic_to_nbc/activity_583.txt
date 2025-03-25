@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Positioning Guide": {
+    "parameters": {
+      "Positioning Instructions": {},
+      "Positioning Reminders": {},
+      "Positioning Frequency": {},
+      "Notes": {}
+    }
+  }
+}

@@ -1,0 +1,10 @@
+Here is the output in JSON format:
+
+
+{
+    "guide": {
+        "Name": {"type": "text"},
+        "Pages": {"type": "book-page (list of HTML texts)"},
+        "Type": {"type": "text"}
+    }
+}

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Discrepancy Report": {
+    "Name": {"type": "text"},
+    "Discrepancy Information": {"type": "text"},
+    "Agency Policy": {"type": "text"},
+    "Reporter Information": {"type": "text"},
+    "Date and Time of Report": {"type": "datetime"},
+    "Action Taken": {"type": "text"},
+    "Follow-up": {"type": "text"}
+  }
+}

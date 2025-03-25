@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Emergency Procedure Guide": {
+    "parameters": {
+      "name": {"type": "text"},
+      "procedures": {"type": "unordered list"},
+      "explanations": {"type": "text"},
+      "what_to_expect": {"type": "text"},
+      "frequently_asked_questions": {"type": "FAQ list"}
+    }
+  }
+}

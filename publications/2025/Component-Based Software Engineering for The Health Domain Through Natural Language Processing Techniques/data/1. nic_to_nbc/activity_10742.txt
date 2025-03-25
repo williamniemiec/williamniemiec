@@ -1,0 +1,31 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Device Insertion/Placement Assistance",
+    "parameters": [
+        { 
+            "name": "Device Type", 
+            "description": "A parameter that specifies the type of device to be inserted or placed."
+        },
+        { 
+            "name": "Insertion/Placement Method", 
+            "description": "A parameter that specifies the method of insertion or placement."
+        },
+        { 
+            "name": "Assistance Role", 
+            "description": "A parameter that specifies the role of the assistant during the procedure."
+        },
+        { 
+            "name": "Device Settings", 
+            "description": "A parameter that specifies the settings for the device, if applicable."
+        },
+        { 
+            "name": "Procedure Notes", 
+            "description": "A parameter that allows for additional notes or comments about the procedure."
+        }
+    ]
+}
+
+
+Note that I removed the "not applicable" parameters and reformatted the text to match the desired JSON structure. Let me know if this meets your requirements!

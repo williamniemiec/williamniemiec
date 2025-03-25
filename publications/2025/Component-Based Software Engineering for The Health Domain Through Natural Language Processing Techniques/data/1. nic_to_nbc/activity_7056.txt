@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Schedule Planner": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Description": {"Type": "text"},
+      "Date and Time": {"Type": "datetime"},
+      "Frequency": {"Type": "options", "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Reminders": {"Type": "boolean"}
+    }
+  }
+}

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Cast Drying Information": {
+    "parameters": {
+      "Cast Drying Explanation": {"type": "text or video"},
+      "Warmth Duration": {"type": "time interval"},
+      "Cast Drying Tips": {"type": "list of tips or instructions"},
+      "FAQs": {"type": "list of questions and answers"},
+      "Notes": {"type": "text"}
+    }
+  }
+}

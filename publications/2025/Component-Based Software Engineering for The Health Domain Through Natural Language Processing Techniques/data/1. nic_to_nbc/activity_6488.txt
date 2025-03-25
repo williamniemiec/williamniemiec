@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Contraception Guide": {
+    "Introduction": {"Type": "text"},
+    "Contraception Options": {"Type": "list of contraception options with brief descriptions"},
+    "Decision Support Questions": {"Type": "list of questions with answer options"},
+    "Method Comparison": {"Type": "table or interactive comparison tool"},
+    "Resources": {"Type": "list of URLs or video IDs"},
+    "Reminders": {"Type": "reminder schedule with customizable frequency and content"}
+  }
+}

@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Phosphate Supplement Tracker": {
+    "Supplement Dosage": {"type": "numerical value"},
+    "Administration Frequency": {"options": ["daily", "everyHours", "everyDays"]},
+    "Administration Time": {"type": "time of day"},
+    "Notes": {"type": "text"}
+  },
+  "Medication Reminder": {
+    "Reminder Time": {"type": "time of day"},
+    "Reminder Frequency": {"options": ["daily", "everyHours", "everyDays"]},
+    "Reminder Message": {"type": "text"}
+  }
+}

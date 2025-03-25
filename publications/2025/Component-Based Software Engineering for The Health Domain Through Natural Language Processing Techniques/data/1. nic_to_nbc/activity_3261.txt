@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Emotional Expression Tool": {
+    "Parameters": {
+      "Emotion Type": {"Type": "options"},
+      "Expression Method": {"Type": "options"},
+      "Content": {"Type": "text"},
+      "Reflection": {"Type": "text"}
+    }
+  }
+}

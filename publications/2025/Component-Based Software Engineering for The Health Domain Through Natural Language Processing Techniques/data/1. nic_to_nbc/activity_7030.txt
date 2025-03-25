@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "Laboratory Result Tracker": {
+    "parameters": [
+      {"name": "hgb_level", "description": "Enter your current Hgb level", "required": true, "type": "number"},
+      {"name": "hct_level", "description": "Enter your current Hct level", "required": true, "type": "number"},
+      {"name": "clotting_profile", "description": "Enter your current clotting profile", "required": true, "type": "text"},
+      {"name": "abg_level", "description": "Enter your current ABG level", "required": true, "type": "number"},
+      {"name": "lactate_level", "description": "Enter your current lactate level", "required": true, "type": "number"},
+      {"name": "electrolyte_levels", "description": "Enter your current electrolyte levels", "required": true, "type": "text"},
+      {"name": "cultures", "description": "Enter your current culture results", "required": true, "type": "text"},
+      {"name": "chemistry_profile", "description": "Enter your current chemistry profile", "required": true, "type": "text"},
+      {"name": "timestamp", "description": "When was the laboratory result taken?", "required": true, "type": "datetime"}
+    ]
+  },
+  "Integration with LIS/EHR": {
+    "parameters": [
+      {"name": "lis_ehr_id", "description": "LIS or EHR system ID", "required": true, "type": "text"},
+      {"name": "api_key", "description": "API key for LIS or EHR system", "required": true, "type": "text"}
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "First Feeding Monitoring": {
+    "parameters": [
+      {"name": "Name", "type": "text"},
+      {"name": "Feeding Method", "type": "options"},
+      {"name": "Feeding Duration", "type": "number"},
+      {"name": "Feeding Amount", "type": "number"},
+      {"name": "Notes", "type": "text"}
+    ]
+  }
+}

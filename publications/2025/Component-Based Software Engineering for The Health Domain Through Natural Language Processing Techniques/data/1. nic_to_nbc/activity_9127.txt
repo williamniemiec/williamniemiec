@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Nutrition Plan": {
+        "Diet Type": {"Type": "options", "Options": ["general diet", "mechanical soft", "blenderized", "commercial formula", "total parental nutrition"]},
+        "Administration Method": {"Type": "options", "Options": ["oral", "nasogastric tube", "gastrostomy tube"]},
+        "Frequency": {"Type": "options", "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+        "Deadline Date": {"Type": "datetime"},
+        "Physician's Orders": {"Type": "text"},
+        "Nutrition Details": {"Type": "text"}
+    }
+}

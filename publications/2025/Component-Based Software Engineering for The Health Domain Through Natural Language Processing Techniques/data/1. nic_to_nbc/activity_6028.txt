@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Specialty Bed Guidance": {
+    "parameters": [
+      {"Name": {"type": "text"}},
+      {"Instructions": {"type": "text"}},
+      {"Image": {"type": "image"}},
+      {"Types of Beds": {"type": "list of text"}},
+      {"Indications": {"type": "list of text"}}
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+  "ID Bracelet Reminder": {
+    "Bracelet Type": {
+      "type": "options",
+      "options": ["hospital-issued", "personal", "medical alert"]
+    },
+    "Wearing Instructions": {
+      "type": "text"
+    },
+    "Importance Reminder": {
+      "type": "text"
+    },
+    "Verification": {
+      "type": "boolean"
+    }
+  }
+}

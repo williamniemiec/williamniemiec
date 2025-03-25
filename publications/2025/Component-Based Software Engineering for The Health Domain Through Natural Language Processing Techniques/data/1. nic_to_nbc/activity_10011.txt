@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Diet Progression Collaboration": {
+    "Collaboration Plan Name": {"Description": "Name of the diet progression collaboration plan", "Required": true, "Type": "text"},
+    "Instructions": {"Description": "Step-by-step instructions for collaborating with healthcare team members", "Required": true, "Type": "text or list of text"},
+    "Healthcare Team Members": {"Description": "List of healthcare team members to collaborate with", "Required": true, "Type": "list of text"},
+    "Diet Progression Goals": {"Description": "Goals for diet progression", "Required": true, "Type": "list of text"},
+    "Complication Prevention": {"Description": "Instructions for preventing complications during diet progression", "Required": true, "Type": "text or list of text"}
+  }
+}

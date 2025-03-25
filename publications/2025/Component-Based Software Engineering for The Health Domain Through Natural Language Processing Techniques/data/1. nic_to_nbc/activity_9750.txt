@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Rest-Activity Cycle": {
+    "parameters": [
+      {"Name": {"type": "text"}},
+      {"Rest Periods": {"type": "schedule"}},
+      {"Activity Periods": {"type": "schedule"}},
+      {"Cycle Duration": {"type": "duration"}},
+      {"Frequency": {"type": "options"}}
+    ]
+  }
+}

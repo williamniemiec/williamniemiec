@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Art Medium Selector": {
+    "Medium Type": {"Type": "options"},
+    "Medium Subtype": {"Type": "options"},
+    "Description": {"Type": "text"},
+    "Frequency": {"Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"Type": "datetime"},
+    "Additional Notes": {"Type": "text"}
+  }
+}

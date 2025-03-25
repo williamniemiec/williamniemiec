@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "guide": {
+    "name": {},
+    "message": {},
+    "importance": {},
+    "frequency": {
+      "options": ["Daily", "Weekly", "Monthly", "Quarterly"]
+    },
+    "resources": {
+      "options": ["Contact information for primary cardiologist", "Links to pacemaker monitoring websites or apps", "Other resources (to be specified)"]
+    }
+  }
+}

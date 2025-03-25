@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+    "Food Stamp Eligibility Information": {
+        "Eligibility Criteria": {"type": ["text", "structured data"]},
+        "Required Documents": {"type": ["unordered list", "structured data"]},
+        "Application Process": {"type": ["text", "structured data"]},
+        "Benefits": {"type": ["text", "structured data"]},
+        "Additional Resources": {"type": ["text", "structured data"]}
+    }
+}

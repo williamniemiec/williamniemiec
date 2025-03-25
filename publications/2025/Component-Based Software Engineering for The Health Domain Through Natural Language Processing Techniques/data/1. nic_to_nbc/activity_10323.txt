@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Bathroom Time Limit": {
+    "Name": {"type": "text"},
+    "Time Limit": {"type": "number", "unit": "minutes"},
+    "Alert Threshold": {"type": "number", "unit": "minutes"},
+    "Alert Message": {"type": "text"},
+    "Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"type": "datetime"}
+  }
+}

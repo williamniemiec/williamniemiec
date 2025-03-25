@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Welcome": {
+    "Parameters": {
+      "Introduction": {"Type": "text"},
+      "Personalized Message": {"Type": "text"},
+      "Expectations": {"Type": "text"},
+      "Contact Information": {"Type": "list of contact information"}
+    }
+  }
+}

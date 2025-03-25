@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Body Position Monitoring",
+    "parameters": [
+        {
+            "name": "body_parts",
+            "description": "List of body parts to monitor"
+        },
+        {
+            "name": "activities",
+            "description": "List of daily activities to monitor body position during"
+        },
+        {
+            "name": "monitoring_frequency",
+            "description": "Specify how often to monitor body position"
+        }
+    ]
+}
+
+
+I removed the not applicable parameter `deadline_date` since it's optional and not required. Let me know if this meets your requirements!

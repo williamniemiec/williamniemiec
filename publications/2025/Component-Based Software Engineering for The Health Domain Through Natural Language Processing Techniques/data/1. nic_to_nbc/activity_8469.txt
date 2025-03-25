@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Labor Preparation Guide",
+  "parameters": [
+    {
+      "name": "Pain Management Options",
+      "type": "unordered list"
+    },
+    {
+      "name": "Labor Signs and Symptoms",
+      "type": "unordered list"
+    },
+    {
+      "name": "Special Circumstances",
+      "type": "unordered list"
+    },
+    {
+      "name": "Partner or Family Involvement",
+      "type": "text"
+    }
+  ]
+}

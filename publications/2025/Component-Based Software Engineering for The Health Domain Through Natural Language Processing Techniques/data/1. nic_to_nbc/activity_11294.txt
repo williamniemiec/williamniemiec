@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Skin Integrity Tracking": {
+    "parameters": {
+      "name": "",
+      "risk_areas": [],
+      "prevention_measures": [],
+      "tracking_type": "",
+      "frequency": ""
+    }
+  }
+}

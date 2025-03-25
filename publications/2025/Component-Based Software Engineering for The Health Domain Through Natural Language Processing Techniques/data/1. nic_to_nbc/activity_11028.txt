@@ -1,0 +1,37 @@
+Here is the output in JSON format:
+
+
+{
+  "Bed Rail Reminder": {
+    "Parameters": {
+      "Name": {
+        "Description": "Title of the reminder",
+        "Required": true,
+        "Type": "text"
+      },
+      "Content": {
+        "Description": "Notification or image content reminding the patient to use bed rails",
+        "Required": true,
+        "Type": ["notification", "image"]
+      },
+      "Trigger": {
+        "Description": "Specify when to display the reminder (e.g., when getting into bed)",
+        "Required": true,
+        "Type": "options",
+        "Options": ["whenGettingIntoBed", "atSpecificTime", "whenEnteringBedroom"]
+      },
+      "Frequency": {
+        "Description": "Specify how often to display the reminder",
+        "Required": true,
+        "Type": "options",
+        "Options": ["everyTime", "everyOtherTime", "daily", "weekly"]
+      },
+      "Rail Specifications": {
+        "Description": "Provide the specifications of the bed rails to ensure they are appropriate for the patient",
+        "Required": true,
+        "Type": "text",
+        "Example": "Length: 40 inches, Height: 20 inches"
+      }
+    }
+  }
+}

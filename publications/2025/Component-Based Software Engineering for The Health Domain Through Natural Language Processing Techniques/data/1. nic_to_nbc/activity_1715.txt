@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Food and Fluid Tracker": {
+    "Name": "text",
+    "Food/Fluid Items": "list of text",
+    "Portion Control": "list of text",
+    "Daily Limit": "list of number",
+    "Frequency": "options",
+    "Deadline Date": "datetime"
+  }
+}

@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Positioning Guidance": {
+    "Parameters": {
+      "Positioning Instructions": {},
+      "Contraindications": {},
+      "Patient Condition": {},
+      "Frequency of Repositioning": {}
+    }
+  }
+}

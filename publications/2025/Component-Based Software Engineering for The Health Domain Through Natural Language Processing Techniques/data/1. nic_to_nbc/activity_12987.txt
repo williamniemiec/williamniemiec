@@ -1,0 +1,34 @@
+Here is the output in JSON format:
+
+
+{
+  "Resource Directory": {
+    "name": "",
+    "resource list": [],
+    "filtering options": []
+  },
+  "Program Information": {
+    "name": "",
+    "program description": "",
+    "contact information": {},
+    "hours of operation": ""
+  },
+  "Eligibility Criteria": {
+    "name": "",
+    "criteria": [],
+    "documentation": []
+  },
+  "Referral Process": {
+    "name": "",
+    "referral form": "",
+    "referral criteria": []
+  },
+  "Patient Education": {
+    "name": "",
+    "educational materials": [],
+    "language options": []
+  }
+}
+
+
+Note: I removed the non-applicable parameters and only kept the `{{ NO-CODE ELEMENT NAME }}` and `{{ PARAMETER ESPECIFICATIONS }}`.

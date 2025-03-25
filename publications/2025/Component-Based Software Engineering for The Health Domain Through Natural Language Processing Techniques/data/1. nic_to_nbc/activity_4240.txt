@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Administration": {
+    "name": "",
+    "why": "",
+    "dosage": "",
+    "frequency": "",
+    "deadline_date": "",
+    "notes": ""
+  }
+}

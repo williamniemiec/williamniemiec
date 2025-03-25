@@ -1,0 +1,37 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Cold Treatment Finish",
+    "parameters": [
+        {
+            "name": "Alternating Treatment",
+            "type": "boolean"
+        },
+        {
+            "name": "Injury Type",
+            "type": "text"
+        },
+        {
+            "name": "Cold Treatment Duration",
+            "type": "text"
+        },
+        {
+            "name": "Cold Treatment Method",
+            "type": "text"
+        },
+        {
+            "name": "Vasoconstriction Goal",
+            "type": "text"
+        },
+        {
+            "name": "Frequency of Alternating Treatment",
+            "type": "options",
+            "options": [
+                { value: "every15Minutes" },
+                { value: "every30Minutes" },
+                { value: "everyHour" }
+            ]
+        }
+    ]
+}

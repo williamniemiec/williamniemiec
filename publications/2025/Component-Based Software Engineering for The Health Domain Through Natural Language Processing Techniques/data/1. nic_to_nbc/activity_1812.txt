@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Future Focus": {
+    "Goal Setting": {"Type": ["text", "date"]},
+    "Positive Affirmations": {"Type": ["text"]},
+    "Vision Board": {"Type": ["image", "text"]},
+    "Inspirational Stories": {"Type": ["text", "image", "video"]},
+    "Mindfulness Exercises": {"Type": ["audio", "video"]},
+    "Progress Tracking": {"Type": ["chart", "graph"]},
+    "Community Support": {"Type": ["discussion forum", "social media group"]}
+  }
+}

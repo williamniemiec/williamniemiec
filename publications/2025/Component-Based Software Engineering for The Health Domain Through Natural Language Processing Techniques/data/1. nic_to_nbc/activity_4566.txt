@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "Respiratory Tracker": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Oxygen Saturation": {"Type": "number", "Range": "90-100%"},
+      "Respiratory Rate": {"Type": "number", "Range": "12-20 breaths per minute"},
+      "Peak Expiratory Flow": {"Type": "number", "Range": "200-400 L/min"},
+      "Symptoms": {"Type": "text"},
+      "Frequency": {"Type": "options", "Options": ["daily", "every 2 hours", "every 4 hours"]},
+      "Deadline Date": {"Type": "datetime"}
+    }
+  },
+  "Symptom Checker": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Symptoms": {"Type": "text"},
+      "Severity": {"Type": "options", "Options": ["mild", "moderate", "severe"]},
+      "Guidance": {"Type": "text"}
+    }
+  }
+}

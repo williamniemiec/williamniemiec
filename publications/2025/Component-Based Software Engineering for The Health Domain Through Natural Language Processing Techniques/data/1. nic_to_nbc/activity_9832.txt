@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Emergency Contraception": {
+    "Method": {},
+    "Instructions": {},
+    "Frequency": {},
+    "Deadline Date": {},
+    "Notes": {}
+  }
+}

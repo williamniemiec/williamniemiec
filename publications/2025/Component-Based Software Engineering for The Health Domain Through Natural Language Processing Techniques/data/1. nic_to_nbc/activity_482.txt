@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+  "Checklist": {
+    "parameters": {
+      "name": "Infant Environment Safety Checklist",
+      "items": ["Electrical outlets are out of reach", "Crib is free of soft objects and loose bedding", "Medications are stored safely", "Floor is clear of tripping hazards"],
+      "frequency": ["daily", "everyDays"]
+    }
+  },
+  "Question": {
+    "parameters": {
+      "name": "Infant Environment Safety Questionnaire",
+      "questions": ["Are electrical outlets out of reach of the infant?", "Is the crib free of soft objects and loose bedding?", "Are medications stored safely?", "Is the floor clear of tripping hazards?"],
+      "answer type": ["boolean", "text"],
+      "frequency": ["daily", "everyDays"]
+    }
+  }
+}

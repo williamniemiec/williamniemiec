@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Defibrillator Safety Guide",
+  "parameters": [
+    {
+      "name": "complications"
+    },
+    {
+      "name": "precautions"
+    }
+  ]
+}

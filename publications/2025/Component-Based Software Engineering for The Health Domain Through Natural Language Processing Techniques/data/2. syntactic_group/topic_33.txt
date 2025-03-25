@@ -1,0 +1,10 @@
+{
+  "name": "Positioning and Placement Guidance",
+  "description": "Provides instructions and multimedia guides for correct positioning and repositioning, including visual symbols, diagrams, and reminders for proper placement.",
+  "type": "non-periodic",
+  "input": ["Positioning instructions", "Multimedia guide", "Placement symbols", "Reminder settings"],
+  "output": ["Positioning confirmation", "Repositioning reminders", "Instructional diagrams"],
+  "preconditions": ["User needs guidance on proper positioning or placement"],
+  "postconditions": ["Positioning is correctly followed and adjustments are tracked"],
+  "dependencies": ["Positioning guide system", "Multimedia content platform", "Reminder notification system"]
+}

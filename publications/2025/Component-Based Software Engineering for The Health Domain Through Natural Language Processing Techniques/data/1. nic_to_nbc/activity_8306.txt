@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Instructional Guide": {
+    "Parameters": {
+      "Title": {"Type": "text"},
+      "Pages": {"Type": "book-page", "Description": "list of HTML texts"},
+      "Videos": {"Type": "video"},
+      "Checklist": {"Type": "checklist", "Description": "list of tasks with checkboxes"}
+    }
+  }
+}

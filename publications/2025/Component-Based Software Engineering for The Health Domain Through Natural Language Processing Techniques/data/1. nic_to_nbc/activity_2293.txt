@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Skin Assessment Tracking": {
+    "parameters": {
+      "Skin Color": {"type": ["text", "options"]},
+      "Skin Temperature": {"type": ["text", "options"]},
+      "Skin Moistness": {"type": ["text", "options"]},
+      "Frequency": {"options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"type": "datetime"}
+    }
+  }
+}

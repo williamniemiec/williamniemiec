@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Session Timer": {
+    "Initial Duration": {},
+    "Attention Span Threshold": {},
+    "Adjustment Method": {},
+    "Monitoring Method": {}
+  }
+}

@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "No-code element name": "Reflection Prompt",
+    "Parameters": {
+        "Name": {"Type": "text"},
+        "Prompt": {"Type": "text", "Example": "What's been on your mind lately?" or "How have you been feeling about your health?"},
+        "Response type": {"Type": "options", "Options": ["text", "audio", "video"]},
+        "Frequency": {"Type": "options", "Options": ["daily", "every other day", "weekly", "monthly"]},
+        "Deadline date": {"Type": "datetime"}
+    }
+}

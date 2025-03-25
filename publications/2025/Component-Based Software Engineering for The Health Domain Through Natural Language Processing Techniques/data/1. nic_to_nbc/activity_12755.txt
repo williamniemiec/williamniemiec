@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "Committee Meeting Scheduler": {
+    "Meeting Purpose": {"type": "text"},
+    "Meeting Date and Time": {"type": "datetime"},
+    "Attendees": {"type": "list of attendee IDs or names"},
+    "Agenda Items": {"type": "list of agenda items"}
+  },
+  "Meeting Minutes and Decisions": {
+    "Meeting Minutes": {"type": "text"},
+    "Decisions": {"type": "list of decisions"},
+    "Action Items": {"type": "list of action items"}
+  },
+  "Committee Communication Tool": {
+    "User Roles": {"type": "options", "options": ["list of user roles"]},
+    "Discussion Topics": {"type": "list of discussion topics"},
+    "Commenting System": {"type": "boolean"}
+  }
+}
+
+
+Let me know if you need any further assistance!

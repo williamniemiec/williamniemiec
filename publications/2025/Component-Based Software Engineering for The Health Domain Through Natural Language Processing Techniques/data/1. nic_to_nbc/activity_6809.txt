@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Fluid Administration": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Fluid Type": {"Type": "options"},
+      "Dosage": {"Type": "text"},
+      "Frequency": {"Type": "options"},
+      "Deadline Date": {"Type": "datetime"},
+      "Notes": {"Type": "text"}
+    }
+  }
+}
+
+
+Let me know if this meets your requirements!

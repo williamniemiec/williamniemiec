@@ -1,0 +1,45 @@
+Here is the output in JSON format:
+
+
+{
+  "Hydration Status Monitoring": {
+    "Parameters": {
+      "Symptom": {
+        "Description": "specify the symptom to monitor (e.g. moist crackles in lung sounds, polyuria or oliguria etc.)",
+        "Required": true,
+        "Type": "options",
+        "Options": [
+          {"value": "moistCrackles", "label": "Moist Crackles in Lung Sounds"},
+          {"value": "polyuria", "label": "Polyuria"},
+          {"value": "oliguria", "label": "Oliguria"},
+          {"value": "behaviorChanges", "label": "Behavior Changes"},
+          {"value": "seizures", "label": "Seizures"},
+          {"value": "frothySaliva", "label": "Frothy or Thick Viscous Saliva"},
+          {"value": "edematousEyes", "label": "Edematous or Sunken Eyes"},
+          {"value": "rapidShallowBreathing", "label": "Rapid Shallow Breathing"},
+          {"value": "other", "label": "Other (please specify)"}
+        ]
+      },
+      "Severity Scale": {
+        "Description": "specify the severity scale for the symptom (e.g. mild, moderate, severe)",
+        "Required": true,
+        "Type": "options",
+        "Options": [
+          {"value": "mild", "label": "Mild"},
+          {"value": "moderate", "label": "Moderate"},
+          {"value": "severe", "label": "Severe"}
+        ]
+      },
+      "Frequency": {
+        "Description": "specify how often to monitor for signs and symptoms of worsening overhydration or dehydration",
+        "Required": true,
+        "Type": "options",
+        "Options": [
+          {"value": "daily", "label": "Daily"},
+          {"value": "everyHours", "label": "Every x hours"},
+          {"value": "everyDays", "label": "Every x days"}
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+    "Domestic Violence Screening": {
+        "Parameters": {
+            "Questions": [...],
+            "Answer type": [...]
+        }
+    },
+    "Injury History": {
+        "Parameters": {
+            "Questions": [...],
+            "Answer type": [...]
+        }
+    },
+    "Risk Factor Assessment": {
+        "Parameters": {
+            "Risk factors": [...],
+            "Answer type": [...],
+            "Scoring": [...]
+        }
+    }
+}
+
+
+Note: I removed the non-applicable parameters and kept only the relevant ones. Also, I represented the list of questions/risk factors/answer types as `[...]` since the exact values are not important for this task.

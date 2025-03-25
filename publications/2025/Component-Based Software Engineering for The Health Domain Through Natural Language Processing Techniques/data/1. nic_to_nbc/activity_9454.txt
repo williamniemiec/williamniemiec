@@ -1,0 +1,10 @@
+Here is the output in JSON format:
+
+
+{
+    "Memory Aid": {
+        "Reminder Message": {"Type": "text"},
+        "Frequency": {"Type": "options"},
+        "Duration": {"Type": "options"}
+    }
+}

@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Protector Application": {
+    "application title": {},
+    "Content": {},
+    "Protectors": {},
+    "Frequency": {}
+  }
+}

@@ -1,0 +1,15 @@
+
+
+
+{
+  "Equipment/Supply Log": {
+    "name": "Equipment/Supply Log",
+    "description": "Please log the use of major equipment or supplies",
+    "type": ["table", "list"],
+    "required": true,
+    "equipment_supply_name": "text",
+    "usage_details": "text",
+    "date": "datetime",
+    "notes": "text"
+  }
+}

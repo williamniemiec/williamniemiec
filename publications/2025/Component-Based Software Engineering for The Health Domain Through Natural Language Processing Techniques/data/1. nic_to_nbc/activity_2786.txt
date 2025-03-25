@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "guide": {
+    "parameters": {
+      "name": "Catheter Care Guide",
+      "pages": [
+        {"Page 1": "Introduction to catheter care"},
+        {"Page 2": "Importance of calibration and flushing"},
+        {"Page 3": "General catheter care tips"},
+        {"Page 4": "Troubleshooting common issues"}
+      ]
+    }
+  }
+}

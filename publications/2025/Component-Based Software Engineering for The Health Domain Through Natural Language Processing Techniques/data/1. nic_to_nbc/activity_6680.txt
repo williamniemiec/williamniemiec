@@ -1,0 +1,18 @@
+Here is the output in JSON format, keeping only the `PARAMETER ESPECIFICATIONS` and `NO-CODE ELEMENT NAME`:
+
+
+{
+  "Program Planning": {
+    "Number of Sessions": {"Type": "number"},
+    "Session Length": {"Type": "duration"},
+    "Program Duration": {"Type": "duration"},
+    "Frequency": {"Type": "options"},
+    "Start Date": {"Type": "date"},
+    "End Date": {"Type": "date"}
+  },
+  "Form": {
+    "Fields": {"Type": "list of fields"},
+    "Frequency": {"Type": "options"},
+    "Deadline Date": {"Type": "datetime"}
+  }
+}

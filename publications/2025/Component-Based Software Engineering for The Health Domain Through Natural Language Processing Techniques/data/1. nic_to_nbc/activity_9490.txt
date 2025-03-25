@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Weight Application Guide": {
+    "title of the guide": {"Type": "text"},
+    "Weight Calculator": {"Type": "calculator", "Example inputs": ["Patient's weight", "Traction device type", "Desired traction force"], "Example output": ["Recommended weight for traction"]},
+    "Tips": {"Type": "list"},
+    "Frequency": {"Type": "options", "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"Type": "datetime"},
+    "Reminder": {"Type": "boolean"}
+  }
+}

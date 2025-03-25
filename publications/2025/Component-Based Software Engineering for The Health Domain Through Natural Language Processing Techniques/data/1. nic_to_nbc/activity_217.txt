@@ -1,0 +1,29 @@
+Here is the output in JSON format:
+
+
+{
+  "Education Module": {
+    "parameters": {
+      "title": {"type": "text"},
+      "content": {"type": "HTML text or multimedia content (e.g., video, image)"},
+      "pages": {"type": "list of page objects", 
+        "page_object": {
+          "title": {"type": "text"},
+          "content": {"type": "HTML text or multimedia content (e.g., video, image)"}
+        }
+      },
+      "quiz": {"type": "list of question objects", 
+        "question_object": {
+          "question": {"type": "text"},
+          "options": {"type": "list of option objects", 
+            "option_object": {
+              "label": {"type": "text"},
+              "value": {"type": "numeric or text"}
+            }
+          },
+          "correct_answer": {"type": "numeric or text"}
+        }
+      }
+    }
+  }
+}

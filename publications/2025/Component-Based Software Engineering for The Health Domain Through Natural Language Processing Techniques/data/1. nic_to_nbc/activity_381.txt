@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Parental Readiness Assessment": {
+    "Knowledge and Time": {"type": "boolean"},
+    "Stability of Environment": {"options": ["noTransitions", "jobChange", "residenceChange", "divorce", "birthOfAnotherChild", "other"]},
+    "Realistic Expectations": {"type": "boolean"},
+    "Understanding of Regression": {"type": "boolean"},
+    "Assessment Frequency": {"options": ["daily", "weekly", "monthly"]],
+    "Reminder": {"type": "boolean"}
+  }
+}
+
+
+Let me know if this meets your requirements!

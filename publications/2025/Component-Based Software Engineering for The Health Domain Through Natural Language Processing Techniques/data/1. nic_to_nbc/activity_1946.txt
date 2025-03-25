@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+  "ET Tube Displacement Monitoring": {
+    "Centimeter Reference Marking": {
+      "Type": "text or numeric"
+    },
+    "Monitoring Frequency": {
+      "Type": "options",
+      "Options": ["daily", "every 12 hours", "as needed", "custom schedule"]
+    },
+    "Displacement Log": {
+      "Type": "table or chart"
+    },
+    "Displacement Alert": {
+      "Type": "boolean"
+    }
+  }
+}

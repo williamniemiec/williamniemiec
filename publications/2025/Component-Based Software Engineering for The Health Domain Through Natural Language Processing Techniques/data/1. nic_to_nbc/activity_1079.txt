@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Emotional Support": {
+    "parameters": [
+      {
+        "name": "message_of_acceptance",
+        "description": "Message conveying feelings of acceptance",
+        "required": true,
+        "type": "text" or "video"
+      },
+      {
+        "name": "emotional_support_resources",
+        "description": "Additional resources for emotional support",
+        "required": false,
+        "type": "list"
+      }
+    ]
+  }
+}

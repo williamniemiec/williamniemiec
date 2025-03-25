@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "PARAMETER ESPECIFICATIONS": [
+    "* A nurse or healthcare professional conducting an in-depth assessment and gathering information about the individual's church/family history, problem-solving and coping methods, emotional stability, and degree of persuasive and manipulative techniques used",
+    "* The nurse or healthcare professional analyzing the information and identifying patterns and risk factors for religious and/or ritual abuse, as well as religious addiction",
+    "* The nurse or healthcare professional developing a plan to support the individual's emotional stability, coping methods, and independence from manipulative techniques"
+  ],
+  "NO-CODE ELEMENT NAME": null
+}
+
+
+Note that there is no `NO-CODE ELEMENT NAME` specified in the input text, so it is set to `null`. The `PARAMETER ESPECIFICATIONS` are extracted from the bullet points in the input text.

@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Orientation": {
+    "Parameters": {
+      "Program Overview": "",
+      "Objectives": [],
+      "What to Expect": "",
+      "FAQs": []
+    }
+  }
+}

@@ -1,0 +1,31 @@
+
+
+
+{
+    "name": "IV and Blood Draw Avoidance",
+    "parameters": [
+        {
+            "name": "Affected Extremity",
+            "type": "text"
+        },
+        {
+            "name": "IV Insertion Avoidance",
+            "type": "text or video"
+        },
+        {
+            "name": "Blood Draw Avoidance",
+            "type": "text or video"
+        },
+        {
+            "name": "Alternative Sites",
+            "type": "text or video"
+        },
+        {
+            "name": "Rationale",
+            "type": "text"
+        }
+    ]
+}
+
+
+I removed the non-applicable parameters (`Images/Videos` and `Deadline Date`) as they are not required.

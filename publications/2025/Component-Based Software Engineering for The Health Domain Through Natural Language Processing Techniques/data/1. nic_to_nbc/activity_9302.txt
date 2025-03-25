@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Alarm Response": {
+    "Parameters": {
+      "Alarm Type": {},
+      "Equipment": {},
+      "Response Instructions": {},
+      "Frequency": {}
+    }
+  }
+}

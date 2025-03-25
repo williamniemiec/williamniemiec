@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "noCodeElementName": "Circulation and Neurological Function Tracker",
+  "parameters": {
+    "Tissue Areas": ["Above the cast", "Below the cast"],
+    "Circulation Indicators": ["Pulse", "Temperature", "Color"],
+    "Neurological Function Indicators": ["Sensation", "Movement", "Reflexes"],
+    "Frequency": "",
+    "Deadline Date": "",
+    "Reporting": ""
+  }
+}
+
+
+Note that I removed the `Introduction` and `Conclusion` sections, as well as the not applicable parameters (`Frequency`, `Deadline Date`, and `Reporting`). Let me know if this is what you were looking for!

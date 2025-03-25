@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Fluid Intake Tracker": {
+    "Fluid Intake Tracker": {"Type": "interactive graph or chart", "Required": true},
+    "Bedtime Reminder": {"Type": "interactive notification or alert", "Required": true},
+    "Fluid Limitation Goal": {"Type": "interactive form or input field", "Required": true},
+    "Progress Tracking": {"Type": "interactive graph or chart", "Required": true},
+    "Tips and Reminders": {"Type": "text with images or videos", "Required": true}
+  }
+}

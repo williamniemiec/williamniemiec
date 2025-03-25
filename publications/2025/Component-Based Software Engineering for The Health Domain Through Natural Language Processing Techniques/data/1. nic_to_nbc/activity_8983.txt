@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Parameter Specifications": [
+    {"Treatment Summary": {"type": "text"}},
+    {"Patient Acknowledgement": {"type": "checkbox or digital signature"}},
+    {"Consent to Treatment": {"type": "checkbox or digital signature"}},
+    {"Questions or Concerns": {"type": "text"}},
+    {"Confirmation of Understanding": {"type": "text or multimedia content"}}
+  ],
+  "No-code Element Name": "Treatment Acceptance"
+}

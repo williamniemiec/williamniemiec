@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+    "Insulin Administration": {
+        "Parameters": {
+            "Name": {"Type": "text"},
+            "Dosage": {"Type": "text"},
+            "Frequency": {"Type": "options", "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+            "Administration Time": {"Type": "time"},
+            "Notes": {"Type": "text"}
+        }
+    }
+}
+
+
+Note that I removed the `Deadline Date` parameter as it is not applicable in this context.

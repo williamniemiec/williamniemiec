@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Relaxation Guide": {
+        "Parameters": {
+            "Name": {},
+            "Instructions": {},
+            "Duration": {},
+            "Frequency": {}
+        }
+    }
+}

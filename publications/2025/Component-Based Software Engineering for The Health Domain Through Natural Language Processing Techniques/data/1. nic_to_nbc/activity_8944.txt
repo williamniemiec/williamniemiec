@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "guide": {
+    "title": {"type": "text"},
+    "sections": {
+      "type": "list of section objects",
+      "section object": {
+        "title": {"type": "text"},
+        "content": {"type": "HTML text or multimedia content"}
+      }
+    },
+    "features": {
+      "heel_height": {"type": "text"},
+      "shoe_shape": {"type": "text"},
+      "toe_box_depth": {"type": "text"},
+      "sole_material": {"type": "text"},
+      "fit_type": {"type": "text"},
+      "upper_material": {"type": "text"},
+      "gait_limb_length": {"type": "text"},
+      "modification": {"type": "text"}
+    }
+  }
+}

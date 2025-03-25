@@ -1,0 +1,34 @@
+Here is the output in JSON format:
+
+
+{
+  "Rectal Prolapse Symptom Tracker": {
+    "parameters": {
+      "name": {"type": "text"},
+      "frequency": {"options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "deadline_date": {"type": "datetime"}
+    }
+  },
+  "Rectal Prolapse Assessment Questionnaire": {
+    "parameters": {
+      "name": {"type": "text"},
+      "answer type": {"options": ["select"]},
+      "frequency": {"options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "deadline_date": {"type": "datetime"}
+    }
+  },
+  "Rectal Prolapse Status Update": {
+    "parameters": {
+      "name": {"type": "text"},
+      "frequency": {"options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "deadline_date": {"type": "datetime"}
+    }
+  },
+  "Healthcare Provider Notification": {
+    "parameters": {
+      "name": {"type": "text"},
+      "trigger condition": {},
+      "notification message": {}
+    }
+  }
+}

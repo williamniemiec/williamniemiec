@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Nonadherence Insights": {
+    "Reasons for Nonadherence": {},
+    "Barriers to Adherence": {},
+    "Patient Concerns": {},
+    "Patient Goals": {}
+  }
+}

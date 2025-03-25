@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "no-code-element-name": "Questionnaire",
+  "parameter-specifications": {
+    "Questions": {"type": "list of questions with answer types"},
+    "Answer Options": {"type": "list of answer options for each question"},
+    "Instructions": {"type": "text"}
+  }
+}
+
+
+Let me know if this is what you were looking for!

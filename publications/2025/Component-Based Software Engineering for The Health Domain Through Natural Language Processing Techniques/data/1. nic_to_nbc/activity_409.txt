@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Food Preference": {
+    "Name": {"type": "text"},
+    "Food Options": {"type": "list of food options"},
+    "Dietary Restrictions": {"type": "list of dietary restrictions"},
+    "Home-Cooked Food": {"type": "list of home-cooked food entries"},
+    "Institutional Meal Planning": {"type": "integration with institutional meal planning system"},
+    "Reminders": {"type": "list of reminder settings"}
+  }
+}

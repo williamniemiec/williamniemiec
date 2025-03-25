@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Active Listening Exercise": {
+    "parameters": {
+      "Prompt": {"type": "text"},
+      "Audio/Video": {"type": "media (audio or video)"},
+      "Reflection Questions": {"type": "list of text"},
+      "Feeling Identification": {"type": "options"},
+      "Unexpressed Message": {"type": "text"}
+    }
+  }
+}

@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Data Validation": {
+    "parameters": {
+      "Data Source": {"type": "options", "options": ["patientReported", "sensorData", "etc."]},
+      "Validation Rules": {"type": "list of text"},
+      "Data Quality Thresholds": {"type": "list of options", "options": ["high", "medium", "low", "etc."]},
+      "Error Handling": {"type": "options", "options": ["alert", "reject", "etc."]},
+      "Data Correction": {"type": "options", "options": ["manualReview", "automatedCorrection", "etc."]}
+    }
+  }
+}
+
+
+Let me know if you need any further assistance!

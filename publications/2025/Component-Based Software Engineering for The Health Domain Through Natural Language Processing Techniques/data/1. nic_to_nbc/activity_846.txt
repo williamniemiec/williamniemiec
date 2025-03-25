@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Respiratory Exercise Guide": {
+    "Coughing Instructions": {},
+    "Deep Breathing Instructions": {},
+    "Visual Aids": {},
+    "Frequency": {},
+    "Reminders": {}
+  }
+}

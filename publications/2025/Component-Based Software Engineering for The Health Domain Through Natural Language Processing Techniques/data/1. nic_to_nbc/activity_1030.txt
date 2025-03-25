@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Turning Schedule Instruction": {
+    "parameters": {
+      "name": {"type": "text"},
+      "content": {"type": "text or video"},
+      "images": {"type": "list of images"},
+      "turning_schedule": {"type": "options (list of schedules)"},
+      "turning_procedure": {"type": "options (list of procedures)"},
+      "reminders": {"type": "boolean"},
+      "deadline_date": {"type": "datetime"}
+    }
+  }
+}
+
+
+Let me know if you need any further assistance!

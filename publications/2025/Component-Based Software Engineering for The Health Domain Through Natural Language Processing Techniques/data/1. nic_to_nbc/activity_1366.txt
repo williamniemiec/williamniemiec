@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Pacemaker Information": {
+    "Parameters": [
+      {"Pacemaker Type": {"Type": "options", "Options": ["single-chamber", "dual-chamber", "biventricular"]}},
+      {"Pacemaker Mode": {"Type": "options", "Options": ["VVI", "DDD", "AAI"]}},
+      {"Universal Pacemaker Code": {"Type": "text"}},
+      {"Manufacturer": {"Type": "options", "Options": ["Medtronic", "St. Jude", "Boston Scientific"]}},
+      {"Model Number": {"Type": "text"}},
+      {"Serial Number": {"Type": "text"}},
+      {"Notes": {"Type": "text"}}
+    ]
+  }
+}

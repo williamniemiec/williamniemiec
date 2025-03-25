@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Back/Neck Rub Instruction": {
+    "parameters": {
+      "name": {"type": "text"},
+      "content": {"type": ["text", "video"]},
+      "images": {"type": "list of images"},
+      "rub_type": {"type": "options (list of rub types)"},
+      "technique": {"type": "options (list of techniques)"},
+      "frequency": {"type": "options"}
+    }
+  }
+}

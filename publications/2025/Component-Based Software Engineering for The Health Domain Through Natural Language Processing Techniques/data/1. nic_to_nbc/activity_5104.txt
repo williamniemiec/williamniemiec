@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Energy Tracking Journal": {
+    "parameters": {
+      "name": {"type": "text"},
+      "entries": {"type": "text or multimedia"},
+      "prompts": {"type": "text"}
+    }
+  }
+}

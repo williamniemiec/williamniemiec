@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Risk Factor Assessment": {
+    "Parameters": {
+      "Risk Factor List": {"Type": ["checkbox", "multiselect"]},
+      "Exposure History": {"Type": ["text", "checkbox"]},
+      "Symptom Presence": {"Type": ["checkbox", "multiselect"]},
+      "Medical History": {"Type": ["text", "checkbox"]},
+      "Current Medications": {"Type": ["text", "checkbox"]}
+    }
+  }
+}
+
+
+Let me know if this meets your requirements!

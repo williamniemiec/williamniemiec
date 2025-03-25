@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Infection Awareness Guide": {
+    "Parameters": [
+      {"Name": "Infection Awareness Title", "Type": "text"},
+      {"Symptoms": "List of signs and symptoms of infection", "Type": "checklist", "Checklist items": ["Fever", "Redness", "Swelling", "Increased pain", "Pus or discharge", "Foul odor"]},
+      {"Description": "Detailed description of each symptom", "Type": "text"},
+      {"Frequency": "Specify how often the infection awareness guide should be reviewed", "Type": "options", "Options": ["daily", "everyOtherDay", "weekly", "biWeekly"]}
+    ]
+  }
+}

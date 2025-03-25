@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Family Bonding": {
+        "Family Schedule": {"type": "calendar or schedule"},
+        "Activity Ideas": {"type": "list of options or links to resources"},
+        "Goal Setting": {"type": "text or checklist"},
+        "Time Tracking": {"type": "timer or log"},
+        "Reminders and Notifications": {"type": "boolean (yes/no) or frequency (e.g., daily, weekly)"},
+        "Reflection and Feedback": {"type": "journal or log"}
+    }
+}

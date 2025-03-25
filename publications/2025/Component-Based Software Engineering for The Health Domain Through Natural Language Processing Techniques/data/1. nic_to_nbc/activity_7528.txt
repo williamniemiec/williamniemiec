@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+
+{
+  "Values Clarification Guide": {
+    "Values Identification": {"Type": "list", "Required": true},
+    "Ranking Exercise": {"Type": "exercise", "Required": true},
+    "Reflection Questions": {"Type": "question", "Required": true, "Examples": ["What is most important to me in life?", "What do I stand for?", "What do I want to achieve in the next year?"]},
+    "Goal Alignment": {"Type": "text", "Required": true}
+  }
+}
+
+
+Note: I removed the not applicable parameters (Values Conflict Resolution and Personal Mission Statement) as they are marked as "Required": false.

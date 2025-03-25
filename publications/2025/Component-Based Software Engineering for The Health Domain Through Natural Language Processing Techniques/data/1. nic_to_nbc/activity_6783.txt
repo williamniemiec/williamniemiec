@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Emotional Expression",
+    "parameters": [
+        { 
+            "name": "Prompt", 
+            "type": "text"
+        },
+        { 
+            "name": "Response Type", 
+            "type": "options"
+        },
+        { 
+            "name": "Emotional Support", 
+            "type": "text or link"
+        },
+        { 
+            "name": "Reflection", 
+            "type": "boolean"
+        },
+        { 
+            "name": "Follow-up", 
+            "type": "datetime"
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Guide": {
+    "parameters": [
+      {"name": "Name", "type": "text"},
+      {"name": "Pages", "type": "book-page"}
+    ]
+  }
+}

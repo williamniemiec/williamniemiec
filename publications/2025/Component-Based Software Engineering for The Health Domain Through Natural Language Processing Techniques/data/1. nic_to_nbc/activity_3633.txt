@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Discharge Planner": {
+    "parameters": {
+      "Discharge Date": {"type": "datetime"},
+      "Reason": {"type": "text"},
+      "Notes": {"type": "text"},
+      "Reminders": {"options": ["daily", "onlyOnce", "everyHours", "everyDays"]}
+    }
+  }
+}

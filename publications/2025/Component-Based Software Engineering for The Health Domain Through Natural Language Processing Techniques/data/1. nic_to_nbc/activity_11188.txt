@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Feelings Expression": {
+    "Expression Method": {"type": "options", "options": ["writing", "drawing", "playing", "recordingAudio", "recordingVideo"]},
+    "Prompt": {"type": "text"},
+    "Format": {"type": "options", "options": ["text", "image", "audio", "video"]},
+    "Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]}
+  }
+}
+
+
+I removed the `Deadline Date` parameter as it was marked as `datetime` type, which is not applicable.

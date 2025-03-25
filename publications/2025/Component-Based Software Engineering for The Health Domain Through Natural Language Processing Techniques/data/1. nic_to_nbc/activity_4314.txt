@@ -1,0 +1,40 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Encouragement",
+    "parameters": [
+        {
+            "name": "Message",
+            "description": "A parameter that specifies the text of the praise and encouragement message.",
+            "required": true,
+            "type": "text"
+        },
+        {
+            "name": "Trigger",
+            "description": "A parameter that specifies the condition or behavior that triggers the encouragement message.",
+            "required": true,
+            "type": "options",
+            "options": [
+                { value: "completing a task", label: "Completing a task" },
+                { value: "reporting a milestone", label: "Reporting a milestone" },
+                { value: "demonstrating self-control", label: "Demonstrating self-control" }
+            ]
+        },
+        {
+            "name": "Frequency",
+            "description": "A parameter that specifies how often the encouragement message should be displayed.",
+            "required": true,
+            "type": "options",
+            "options": [
+                { value: "daily", label: "Daily" },
+                { value: "onlyOnce", label: "Only once" },
+                { value: "everyHours", label: "Every x hours" },
+                { value: "everyDays", label: "Every x days" }
+            ]
+        }
+    ]
+}
+
+
+Note that I removed the `Deadline Date` parameter since it's not applicable (i.e., its required field is set to false).

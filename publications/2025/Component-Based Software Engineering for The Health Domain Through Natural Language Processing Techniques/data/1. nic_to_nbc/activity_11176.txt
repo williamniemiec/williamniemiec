@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Exhalation Technique Guidance": {
+    "Parameters": {
+      "Exhalation Instruction": {"Type": ["text", "video"]},
+      "Visual Demonstration": {"Type": ["image", "video"]},
+      "Audio Cue": {"Type": "audio file"},
+      "Breathing Rate Guidance": {"Type": ["text", "audio"]},
+      "Frequency": {"Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"Type": "datetime"}
+    }
+  }
+}

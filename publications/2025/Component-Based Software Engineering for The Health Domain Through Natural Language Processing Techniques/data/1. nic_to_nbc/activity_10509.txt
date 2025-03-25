@@ -1,0 +1,30 @@
+Here is the output in JSON format:
+
+
+{
+    "PCA Demand Dose Setup": {
+        "Demand Dose": {
+            "type": "text"
+        },
+        "Unit": {
+            "type": "options",
+            "options": ["mL", "mcg", "etc."]
+        },
+        "Instructions": {
+            "type": "text"
+        },
+        "Visual Aids": {
+            "type": "media"
+        },
+        "Frequency": {
+            "type": "options",
+            "options": ["every X minutes", "every X hours"]
+        },
+        "Maximum Dose": {
+            "type": "text"
+        }
+    }
+}
+
+
+Note that I removed the `Deadline Date` parameter since it's not applicable in this context.

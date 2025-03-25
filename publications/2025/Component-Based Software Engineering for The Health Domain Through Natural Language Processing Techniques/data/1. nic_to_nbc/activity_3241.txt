@@ -1,0 +1,30 @@
+Here is the output in JSON format:
+
+{
+    "name": "instruction",
+    "parameters": [
+        {
+            "name": "Message",
+            "type": "text"
+        },
+        {
+            "name": "Language",
+            "type": "options",
+            "options": ["simple", "concrete", "clear"]
+        },
+        {
+            "name": "Speed",
+            "type": "options",
+            "options": ["slow", "normal", "fast"]
+        },
+        {
+            "name": "Frequency",
+            "type": "options",
+            "options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+        },
+        {
+            "name": "Deadline Date",
+            "type": "datetime"
+        }
+    ]
+}

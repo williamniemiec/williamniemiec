@@ -1,0 +1,12 @@
+
+
+
+{
+    "Evacuate Oxygen": {
+        "Parameters": {
+            "Evacuation Method": {"Type": "options"},
+            "Evacuation Confirmation": {"Type": "boolean"},
+            "Additional Instructions": {"Type": "text"}
+        }
+    }
+}

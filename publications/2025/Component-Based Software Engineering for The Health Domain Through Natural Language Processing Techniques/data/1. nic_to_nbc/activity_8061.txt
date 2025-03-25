@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Cost and Availability Discussion": {
+    "parameters": {
+      "Test Information": {"type": "text"},
+      "Availability": {"type": "text"},
+      "Cost": {"type": "text"},
+      "Discussion Questions": {"type": "unordered list"},
+      "Patient Input": {"type": "text"},
+      "Family Input": {"type": "text"},
+      "Decision Support": {"type": "link or embedded resource"}
+    }
+  }
+}

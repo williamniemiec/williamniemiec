@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Mobility Assessment": {
+    "Questions": {"Type": "list of text questions"},
+    "Answer Type": {"Type": "options (e.g., text, number, selection)"},
+    "Frequency": {"Type": "options (e.g., daily, weekly, monthly)"},
+    "Deadline Date": {"Type": "datetime"}
+  },
+  "Mobility Goal Setting": {
+    "Goal": {"Type": "text"},
+    "Target Date": {"Type": "datetime"},
+    "Frequency": {"Type": "options (e.g., daily, weekly, monthly)"}
+  },
+  "Mobility Tracking": {
+    "Tracking Type": {"Type": "options (e.g., steps, distance, time)"},
+    "Frequency": {"Type": "options (e.g., daily, weekly, monthly)"},
+    "Deadline Date": {"Type": "datetime"}
+  }
+}

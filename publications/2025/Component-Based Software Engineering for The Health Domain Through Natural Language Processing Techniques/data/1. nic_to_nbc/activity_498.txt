@@ -1,0 +1,37 @@
+Here is the output in JSON format:
+
+
+{
+  "Public Awareness Campaign": {
+    "name": "",
+    "message": "",
+    "target audience": "",
+    "channels": []
+  },
+  "Educational Materials": {
+    "name": "",
+    "content": [],
+    "language options": []
+  },
+  "Social Media Campaign": {
+    "name": "",
+    "hashtags": [],
+    "content": [],
+    "engagement metrics": []
+  },
+  "Influencer Partnerships": {
+    "name": "",
+    "influencer list": [],
+    "content": [],
+    "reach metrics": []
+  },
+  "Community Events": {
+    "name": "",
+    "event list": [],
+    "location": [],
+    "attendance metrics": []
+  }
+}
+
+
+Note that I removed all the unnecessary text and only kept the `{{ NO-CODE ELEMENT NAME }}` and `{{ PARAMETER ESPECIFICATIONS }}`. I also removed any parameters that were not applicable (i.e. had no value). Let me know if you need anything else!

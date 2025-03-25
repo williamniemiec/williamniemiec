@@ -1,0 +1,10 @@
+{
+  "name": "Positioning and Bracing",
+  "description": "Focuses on the proper positioning and bracing techniques for patients, including ear positioning, supine body alignment, head and gaze management, and stump positioning.",
+  "type": "non-periodic",
+  "input": ["Positioning techniques", "Bracing instructions", "Patient alignment", "Head and gaze management", "Stump positioning"],
+  "output": ["Positioning report", "Bracing feedback", "Patient alignment guide"],
+  "preconditions": ["User is involved in patient positioning or bracing"],
+  "postconditions": ["Properly positioned patient, ensuring comfort and safety"],
+  "dependencies": ["Positioning tools", "Bracing device management", "Patient care systems"]
+}

@@ -1,0 +1,30 @@
+Here is the output in JSON format:
+
+
+{
+  "Pressure-Relieving Mattress Guide": {
+    "parameters": [
+      {
+        "name": "information",
+        "description": "Benefits and importance of using a pressure-relieving mattress",
+        "required": true,
+        "type": "article",
+        "article": "HTML content providing information about pressure-relieving mattresses"
+      },
+      {
+        "name": "instructions",
+        "description": "How to use a pressure-relieving mattress",
+        "required": true,
+        "type": "list",
+        "list": "List of instructions, such as 'Inflate the mattress to the recommended pressure', 'Change positions regularly'"
+      },
+      {
+        "name": "tips",
+        "description": "Additional tips for using a pressure-relieving mattress",
+        "required": true,
+        "type": "list",
+        "list": "List of tips, such as 'Use a mattress cover to protect the mattress', 'Monitor skin integrity regularly'"
+      }
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+    "Car Seat Guide": {
+        "title": {"type": "text", "required": true},
+        "steps": {"type": "list", "required": true,
+            "items": {
+                "step1": {"type": "text", "required": true},
+                "step2": {"type": "text", "required": true},
+                "step3": {"type": "text", "required": true}
+            }
+        },
+        "frequency": {"type": "options", "required": true,
+            "options": {
+                "daily": {"label": "Daily"},
+                "everyDays": {"label": "Every X days"},
+                "onlyOnce": {"label": "Only once"}
+            }
+        }
+    }
+}

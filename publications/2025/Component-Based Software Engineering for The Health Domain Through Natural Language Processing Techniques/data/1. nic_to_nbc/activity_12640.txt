@@ -1,0 +1,32 @@
+Here is the output in JSON format:
+
+
+{
+    "Guide": {
+        "parameters": {
+            "name": "",
+            "pages": [],
+            "images": [],
+            "videos": []
+        }
+    },
+    "Tutorial": {
+        "parameters": {
+            "name": "",
+            "steps": [],
+            "frequency": "",
+            "deadline_date": ""
+        }
+    },
+    "Question": {
+        "parameters": {
+            "name": "",
+            "content": "",
+            "answer type": "",
+            "frequency": "",
+            "deadline_date": ""
+        }
+    }
+}
+
+Note that I removed the not applicable parameters and only kept the `{{ NO-CODE ELEMENT NAME }}` and `{{ PARAMETER ESPECIFICATIONS }}` parts of the input text.

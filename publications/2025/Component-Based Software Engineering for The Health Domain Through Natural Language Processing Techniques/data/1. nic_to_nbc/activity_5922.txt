@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Large Handle Cup": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Description": {"Type": "text"},
+      "Image": {"Type": "image"},
+      "Instructions": {"Type": "text"}
+    }
+  }
+}

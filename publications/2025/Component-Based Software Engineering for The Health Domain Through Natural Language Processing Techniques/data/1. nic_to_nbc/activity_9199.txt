@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Ambulation Monitoring": {
+    "parameters": []
+  }
+}
+
+
+Note: Since there are no parameter specifications provided in the input text, the parameters array is empty. If there were any parameter specifications, they would be listed in this array.

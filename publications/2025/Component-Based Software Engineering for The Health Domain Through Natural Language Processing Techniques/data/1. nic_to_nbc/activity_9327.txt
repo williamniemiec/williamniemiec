@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Coping Strategies": {
+    "parameters": [
+      {"Name": {"type": "text"}},
+      {"Description": {"type": "text"}},
+      {"Options": {"type": "options", "options": ["deepBreathing", "meditation", "exercise", "talkingToAFriend"]}},
+      {"Frequency": {"type": "options", "options": ["daily", "weekly", "monthly"]}}
+    ]
+  }
+}
+
+
+Note that I removed the "Reflection" parameter since it's marked as not required, and also simplified the JSON structure to only include the requested information.

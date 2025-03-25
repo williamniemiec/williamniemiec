@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Medical History Review": {
+    "Parameters": {
+      "Medical History Field": {"Type": "text"},
+      "Medication List": {"Type": "list of text values"},
+      "Allergy List": {"Type": "list of text values"},
+      "Diagnostic Testing Field": {"Type": "text"},
+      "Relevant Documents Field": {"Type": "file upload"}
+    }
+  }
+}

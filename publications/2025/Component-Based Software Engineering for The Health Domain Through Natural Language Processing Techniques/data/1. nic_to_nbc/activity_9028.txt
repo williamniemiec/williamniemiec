@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+    "burial_fund_assistance": {
+        "parameters": [
+            { 
+                "name": "burial_fund_options", 
+                "description": "available burial fund options", 
+                "required": true, 
+                "type": "list"
+            },
+            { 
+                "name": "eligibility_criteria", 
+                "description": "eligibility criteria for burial fund", 
+                "required": true, 
+                "type": "text"
+            },
+            { 
+                "name": "application_process", 
+                "description": "step-by-step process for applying for burial fund", 
+                "required": true, 
+                "type": "wizard_steps"
+            }
+        ]
+    }
+}

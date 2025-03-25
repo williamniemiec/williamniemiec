@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Breast Symptom Assessment": {
+    "Pain": {"type": "boolean"},
+    "Lump": {"type": "boolean"},
+    "Tenderness": {"type": "boolean"},
+    "Discharge": {"type": "boolean"},
+    "Distortion": {"type": "boolean"},
+    "Retraction": {"type": "boolean"},
+    "Scaling": {"type": "boolean"},
+    "Additional Comments": {"type": "text"}
+  }
+}

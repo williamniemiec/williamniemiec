@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Side Effect Monitoring": {
+    "Side Effect Checklist": {"type": "checklist"},
+    "Mood Tracking": {"type": "log"},
+    "Symptom Rating Scale": {"type": "rating scale"},
+    "Medication Impact Assessment": {"type": "form"},
+    "Frequency": {"options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"type": "datetime"},
+    "Notification": {"type": "notification"}
+  }
+}

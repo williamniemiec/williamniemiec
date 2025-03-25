@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+  "Draping": {
+    "parameters": {
+      "Draping Options": {
+        "type": "options",
+        "description": "a brief text describing the draping option",
+        "image": "an image or illustration demonstrating the draping option"
+      },
+      "Area to Expose": {
+        "type": "options",
+        "values": ["neck", "back", "shoulders", "arms", "legs"]
+      },
+      "Draping Instructions": {
+        "type": "text"
+      },
+      "Image": {
+        "type": "image or animation"
+      },
+      "Confirmation": {
+        "type": "boolean"
+      }
+    }
+  }
+}

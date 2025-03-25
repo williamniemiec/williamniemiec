@@ -1,0 +1,31 @@
+Here is the output in JSON format:
+
+
+{
+  "Elevated Toilet Seat Reminder": {
+    "Parameters": {
+      "Elevated Toilet Seat Reminder": {
+        "Description": "Title of the reminder",
+        "Required": true,
+        "Type": "text"
+      },
+      "Content": {
+        "Description": "Notification or image content reminding the patient to use the elevated toilet seat",
+        "Required": true,
+        "Type": ["notification", "image"]
+      },
+      "Trigger": {
+        "Description": "Specify when to display the reminder (e.g., when using the toilet)",
+        "Required": true,
+        "Type": "options",
+        "Options": ["whenUsingToilet", "atSpecificTime", "whenEnteringBathroom"]
+      },
+      "Frequency": {
+        "Description": "Specify how often to display the reminder",
+        "Required": true,
+        "Type": "options",
+        "Options": ["everyTime", "everyOtherTime", "daily", "weekly"]
+      }
+    }
+  }
+}

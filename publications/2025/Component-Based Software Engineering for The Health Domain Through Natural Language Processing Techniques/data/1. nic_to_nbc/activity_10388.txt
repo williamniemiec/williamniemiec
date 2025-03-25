@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Caloric Intake Plan": {
+    "Title": "Daily Caloric Intake Plan",
+    "Content": {"type": "form"},
+    "Dietician": {"type": "text"},
+    "Target Weight": {"type": "text"},
+    "Daily Caloric Intake Goal": {"type": "text"},
+    "Associated Metrics": {"type": "list"},
+    "Frequency": {"type": "options", "options": ["daily", "everyHours", "everyDays"]}
+  }
+}
+
+
+I removed the non-applicable parameter "Deadline Date" and only kept the parameters that are specified in the input text.

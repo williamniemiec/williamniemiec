@@ -1,0 +1,10 @@
+Here is the output in JSON format:
+
+
+{
+    "Infant Nutrition Guide": {
+        "Guide Title": {},
+        "Pages": {},
+        "Tips": {}
+    }
+}

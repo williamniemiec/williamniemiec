@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Calm Response": {
+    "Response Template": {"Description": "A template for caregivers or family members to respond to misperceptions", "Required": true, "Type": "text"},
+    "Tone Guidance": {"Description": "Guidance on maintaining a calm, reassuring, and nonargumentative tone", "Required": true, "Type": "text"}
+  }
+}
+
+
+Note that I removed the `Example Responses` parameter since it's not required. Let me know if you need anything else!

@@ -1,0 +1,45 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Exercise Plan",
+    "parameters": [
+        {
+            "name": "Name",
+            "type": "text"
+        },
+        {
+            "name": "Muscle Groups",
+            "type": "options",
+            "options": [
+                { value: "chest", label: "Chest" },
+                { value: "back", label: "Back" },
+                { value: "legs", label: "Legs" },
+                { value: "arms", label: "Arms" }
+            ]
+        },
+        {
+            "name": "Training Sessions",
+            "type": "number"
+        },
+        {
+            "name": "Training Goals",
+            "type": "text"
+        },
+        {
+            "name": "Maintenance Program",
+            "type": "text"
+        },
+        {
+            "name": "Frequency",
+            "type": "options",
+            "options": [
+                { value: "weekly", label: "Weekly" },
+                { value: "biweekly", label: "Biweekly" },
+                { value: "monthly", label: "Monthly" }
+            ]
+        }
+    ]
+}
+
+Note that I removed the `Deadline Date` parameter since it was marked as not applicable (`required`: false). Let me know if you have any further questions!

@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Guide": {
+    "parameters": [
+      "* Why magnesium level testing is necessary",
+      "* How the testing process works",
+      "* What to expect during the test",
+      "* How to prepare for the test",
+      "* What the test results mean"
+    ]
+  },
+  "Lab Result Tracker": {
+    "parameters": []
+  }
+}

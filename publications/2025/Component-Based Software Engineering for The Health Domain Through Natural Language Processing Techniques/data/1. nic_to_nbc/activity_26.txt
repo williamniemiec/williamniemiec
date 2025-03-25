@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "lifting",
+    "parameters": [
+        { 
+            "name": "duration", 
+            "description": "specify the duration to avoid heavy lifting", 
+            "required": true, 
+            "type": "range",
+            "range": {
+                "min": 2,
+                "max": 6,
+                "unit": "hours"
+            }
+        },
+        { 
+            "name": "instructions", 
+            "description": "provide additional instructions for avoiding heavy lifting", 
+            "required": false, 
+            "type": "text"
+        }
+    ]
+}
+
+
+Let me know if this meets your requirements!

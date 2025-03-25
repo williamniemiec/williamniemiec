@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Family Support": {
+    "Responsibility Area": {"type": "options"},
+    "Family Member Roles": {"type": "unordered list"},
+    "Support Strategies": {"type": "unordered list"},
+    "Communication Plan": {"type": "text"},
+    "Goal Alignment": {"type": "text"},
+    "Progress Tracking": {"type": "table"},
+    "Frequency": {"type": "options"}
+  }
+}

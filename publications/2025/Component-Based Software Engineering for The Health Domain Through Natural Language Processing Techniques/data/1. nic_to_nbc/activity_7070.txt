@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Lifestyle Habit Review": {
+    "parameters": [
+      {"name": "Habits", "options": ["Smoking", "Substance use", "Alcohol consumption", "Nutrition", "Exercise", "Sexual behavior"]},
+      {"name": "Frequency", "options": ["Daily", "Weekly", "Monthly"]},
+      {"name": "Questions"},
+      {"name": "Resources"}
+    ]
+  }
+}

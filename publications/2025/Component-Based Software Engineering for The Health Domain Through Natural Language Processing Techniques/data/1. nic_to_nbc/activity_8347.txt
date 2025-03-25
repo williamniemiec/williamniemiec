@@ -1,0 +1,38 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Peer Group Discussion",
+    "parameters": [
+        {
+            "name": "Discussion Topic",
+            "type": "text"
+        },
+        {
+            "name": "Group Size",
+            "type": "number"
+        },
+        {
+            "name": "Moderator",
+            "type": "boolean"
+        },
+        {
+            "name": "Duration",
+            "type": "time interval"
+        },
+        {
+            "name": "Frequency",
+            "type": "options",
+            "options": [
+                { value: "daily" },
+                { value: "onlyOnce" },
+                { value: "everyHours" },
+                { value: "everyDays" }
+            ]
+        },
+        {
+            "name": "Deadline Date",
+            "type": "datetime"
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Care Team Meeting": {
+    "parameters": [
+      {"name": "meeting_schedule", "description": "Schedule for meeting/consultation with care team", "required": true, "type": "schedule"},
+      {"name": "care_team_members", "description": "List of care team members participating in the meeting", "required": true, "type": "list", "list_items": [{"label": "Physician", "value": "Dr. Smith"}, {"label": "Nurse Practitioner", "value": "NP Johnson"}]},
+      {"name": "video_conference_link", "description": "Link to video conference platform for remote meeting", "required": false, "type": "url"}
+    ]
+  }
+}

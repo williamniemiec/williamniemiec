@@ -1,0 +1,31 @@
+Here is the output in JSON format:
+
+
+{
+  "Consciousness Assessment": {
+    "Parameters": {
+      "Assessment Type": {
+        "Type": "options",
+        "Options": ["glasgowComaScale", "avpu", "etc."]
+      },
+      "Questions": {
+        "Type": "form",
+        "Questions": [
+          {"Can you open your eyes?": {"Type": "options", "Options": ["yes", "no"]}},
+          {"Can you respond to verbal commands?": {"Type": "options", "Options": ["yes", "no"]}},
+          {"Can you move your limbs?": {"Type": "options", "Options": ["yes", "no"]}}
+        ]
+      },
+      "Frequency": {
+        "Type": "options",
+        "Options": ["daily", "everyHours", "everyDays", "etc."]
+      },
+      "Deadline Date": {
+        "Type": "datetime"
+      }
+    }
+  }
+}
+
+
+Note: I removed the "not applicable" parameters and only kept the relevant information. Let me know if this meets your requirements!

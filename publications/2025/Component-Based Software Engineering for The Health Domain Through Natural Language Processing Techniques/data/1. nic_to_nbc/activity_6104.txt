@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Axis Alignment Guide": {
+    "title of the guide": {"Type": "text"},
+    "Diagram": {"Type": "interactive diagram", "Example features": ["Adjustable ropes and weights", "Fractured bone illustration", "Axis alignment indicator"]},
+    "Tips": {"Type": "list"},
+    "Frequency": {"Type": "options", "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"Type": "datetime"},
+    "Reminder": {"Type": "boolean"}
+  }
+}

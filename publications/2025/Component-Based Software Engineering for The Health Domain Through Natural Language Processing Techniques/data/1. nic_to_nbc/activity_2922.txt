@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Boundary Setting": {
+    "Behavior": {"type": "text"},
+    "Limit": {"type": "text"},
+    "Reason": {"type": "text"},
+    "Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"type": "datetime"}
+  }
+}

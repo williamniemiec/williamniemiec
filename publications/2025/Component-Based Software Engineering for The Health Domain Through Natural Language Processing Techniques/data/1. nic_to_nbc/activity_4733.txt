@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Resource Library": {
+    "title": {},
+    "knowledge_needs": {},
+    "resources": {},
+    "frequency": {},
+    "deadline_date": {}
+  }
+}

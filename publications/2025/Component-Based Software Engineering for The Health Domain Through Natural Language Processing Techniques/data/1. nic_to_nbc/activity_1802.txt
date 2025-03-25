@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Pain Tracker": {
+    "Name": {"type": "text"},
+    "Pain Scale": {"type": "options", "options": [{"value": "numeric", "label": "1-10"}, {"value": "verbal", "label": "Verbal Rating Scale"}, {"value": "faces", "label": "Faces Pain Scale"}]},
+    "Frequency": {"type": "options", "options": [{"value": "daily", "label": "Daily"}, {"value": "onlyOnce", "label": "Only once"}, {"value": "everyHours", "label": "Every x hours"}, {"value": "everyDays", "label": "Every x days"}]},
+    "Intervention Threshold": {"type": "numeric"},
+    "Intervention Instructions": {"type": "text"}
+  }
+}

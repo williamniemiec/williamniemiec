@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Respiratory Status Monitor": {
+    "parameters": {
+      "Respiratory Rate": {"type": "numerical value"},
+      "Oxygen Saturation": {"type": "numerical value"},
+      "Breathing Difficulty": {"type": "options"},
+      "Chest Pain": {"type": "boolean"},
+      "Shortness of Breath": {"type": "boolean"},
+      "Frequency": {"type": "options"},
+      "Notes": {"type": "text"}
+    }
+  }
+}

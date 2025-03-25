@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+    "Chart Audit": {
+        "parameters": [
+            {"name": "patient_population"},
+            {"name": "audit_criteria"},
+            {"name": "chart_review"}
+        ]
+    }
+}

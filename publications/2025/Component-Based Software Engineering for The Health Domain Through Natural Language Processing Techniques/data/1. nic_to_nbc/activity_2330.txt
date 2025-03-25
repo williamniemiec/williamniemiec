@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+    "Waveform Analysis": {
+        "parameters": {
+            "name": {"type": "text"},
+            "device": {"type": "text"},
+            "waveform_type": {"type": "options"},
+            "quality_rating": {"type": "options"},
+            "characteristics": {"type": "text or options"},
+            "frequency": {"type": "options"},
+            "deadline_date": {"type": "datetime"},
+            "notes": {"type": "text"}
+        }
+    }
+}

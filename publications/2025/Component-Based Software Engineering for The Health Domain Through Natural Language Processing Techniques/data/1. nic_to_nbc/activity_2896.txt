@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Immunization Reminder": {
+        "parameters": [
+            {"name": "individual_name", "description": "enter the individual's name", "required": true, "type": "text"},
+            {"name": "immunization_status", "description": "check if immunizations are up-to-date", "required": true, "type": "options", "options": [{"value": "upToDate", "label": "Up-to-date"}, {"value": "notUpToDate", "label": "Not up-to-date"}]},
+            {"name": "notification_message", "description": "customizable notification message", "required": true, "type": "text"},
+            {"name": "notification_type", "description": "select the type of notification (email, SMS, in-app)", "required": true, "type": "options", "options": [{"value": "email", "label": "Email"}, {"value": "SMS", "label": "SMS"}, {"value": "inApp", "label": "In-app notification"}]}
+        ]
+    }
+}

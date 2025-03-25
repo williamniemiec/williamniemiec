@@ -1,0 +1,41 @@
+Here is the output in JSON format:
+
+
+{
+    "Step-by-Step Guide": {
+        "parameters": {
+            "name": "",
+            "steps": [],
+            "images": [],
+            "frequency": "",
+            "deadline_date": ""
+        }
+    },
+    "Video Tutorial": {
+        "parameters": {
+            "name": "",
+            "video": "",
+            "frequency": "",
+            "deadline_date": ""
+        }
+    },
+    "Interactive Simulation": {
+        "parameters": {
+            "name": "",
+            "simulation": "",
+            "frequency": "",
+            "deadline_date": ""
+        }
+    },
+    "Checklist": {
+        "parameters": {
+            "name": "",
+            "tasks": [],
+            "frequency": "",
+            "deadline_date": ""
+        }
+    }
+}
+
+
+Note that I removed the introduction and conclusion, as well as the numbers and descriptions of the no-code elements. I also kept only the parameter specifications for each element, without any additional information. Let me know if you'd like me to make any changes!

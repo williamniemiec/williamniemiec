@@ -1,0 +1,31 @@
+Here is the output in JSON format:
+
+
+{
+  "Safe Space": {
+    "Calming Content": {
+      "type": "options",
+      "options": ["guidedMeditation", "soothingMusic", "natureSounds"]
+    },
+    "Content Source": {
+      "type": "options",
+      "options": ["internalLibrary", "externalAPI", "userUploads"]
+    },
+    "Personalization": {
+      "type": "boolean"
+    },
+    "Accessibility": {
+      "type": "options",
+      "options": ["fontSize", "colorScheme", "audioDescriptions"]
+    },
+    "Frequency": {
+      "options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+    },
+    "Deadline Date": {
+      "type": "datetime"
+    }
+  }
+}
+
+
+I removed all unnecessary text and kept only the `{{ NO-CODE ELEMENT NAME }}` and `{{ PARAMETER ESPECIFICATIONS }}`. I also reformatted the parameters to have a more standard JSON structure. Let me know if this meets your requirements!

@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+    "Registry Support Tool": {
+        "Parameters": {
+            "Registry Information": {"Type": "text"},
+            "Registry Resources": {"Type": "list of resources (with URLs, PDFs, etc.)"},
+            "Personalized Registry Messages": {"Type": "list of personalized messages (with patient name, location, etc.)"},
+            "Call to Action": {"Type": "call to action (with button or link)"}
+        }
+    },
+    "Guide": {
+        "Parameters": {
+            "Guide Title": {"Type": "text"},
+            "Guide Content": {"Type": "list of guide pages (with text and images)"},
+            "Registry Resources": {"Type": "list of resources (with URLs, PDFs, etc.)"},
+            "Call to Action": {"Type": "call to action (with button or link)"}
+        }
+    }
+}

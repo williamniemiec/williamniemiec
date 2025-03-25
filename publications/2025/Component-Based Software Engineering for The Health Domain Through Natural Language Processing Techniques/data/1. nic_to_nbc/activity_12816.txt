@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Tube Securing Guide": {
+    "parameters": [
+      {"Anchoring Substance": ""},
+      {"Application Instructions": ""},
+      {"Tape Selection": ""},
+      {"Taping Instructions": ""},
+      {"Skin Assessment": ""},
+      // removed "Complications" parameter as it's not applicable
+    ]
+  }
+}

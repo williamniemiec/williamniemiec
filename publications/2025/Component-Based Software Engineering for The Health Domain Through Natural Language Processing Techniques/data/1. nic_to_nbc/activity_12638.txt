@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Lochia Observation": {
+    "Color": {"name": "color", "description": "What is the color of your lochia?", "type": "options", "options": ["Red", "Pink", "Brown", "Yellow", "Other (specify)"]},
+    "Clots": {"name": "clots", "description": "Are there any clots present in your lochia?", "type": "options", "options": ["Yes", "No"]},
+    "Volume": {"name": "volume", "description": "How would you describe the volume of your lochia?", "type": "options", "options": ["Heavy", "Moderate", "Light", "Scant"]},
+    "Additional Characteristics": {"name": "additional_characteristics", "description": "Are there any other characteristics of your lochia that you would like to report? (e.g. odor, consistency)", "type": "text"}
+  }
+}

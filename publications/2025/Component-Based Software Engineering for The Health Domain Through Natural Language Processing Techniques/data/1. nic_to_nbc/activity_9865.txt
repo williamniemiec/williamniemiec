@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Skin and Mucous Membrane Documentation": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Instructions": {"Type": "text"},
+      "Changes": {"Type": "form"},
+      "Location": {"Type": "options"},
+      "Photo": {"Type": "camera"},
+      "Notes": {"Type": "text"},
+      "Frequency": {"Type": "options"},
+      "Deadline Date": {"Type": "datetime"}
+    }
+  }
+}

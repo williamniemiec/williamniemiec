@@ -1,0 +1,10 @@
+Here is the output in JSON format:
+
+
+{
+  "Encouragement Message": {
+    "Message": {"type": "text"},
+    "Trigger": {"type": "options"},
+    "Customization": {"type": "boolean"}
+  }
+}

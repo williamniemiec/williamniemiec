@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+    "Education Plan": {
+        "Parameters": {
+            "Name": {"Type": "text"},
+            "Treatment Measures": {"Type": "unordered list"},
+            "Instructions": {"Type": "text or video"},
+            "Rationale": {"Type": "text"},
+            "FAQs": {"Type": "unordered list"},
+            "Resources": {"Type": "links or attachments"},
+            "Deadline Date": {"Type": "datetime"},
+            "Quiz or Assessment": {"Type": "boolean"}
+        }
+    }
+}

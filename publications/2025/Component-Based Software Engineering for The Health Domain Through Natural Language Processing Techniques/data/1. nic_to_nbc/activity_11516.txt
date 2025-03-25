@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Genetic Knowledge Assessment",
+    "parameters": [
+        { 
+            "name": "Knowledge Questions", 
+            "type": "multiple choice"
+        },
+        { 
+            "name": "Myths and Misperceptions", 
+            "type": "checklist"
+        },
+        { 
+            "name": "Perceptions", 
+            "type": "text"
+        },
+        { 
+            "name": "Concerns", 
+            "type": "text"
+        }
+    ]
+}

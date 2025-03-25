@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Procedure Explanation": {
+    "parameters": [
+      {"Name": {"type": "text"}},
+      {"Procedure Description": {"type": "text"}},
+      {"Expected Sensations": {"type": "unordered list"}},
+      {"Family Education": {"type": "boolean"}},
+      {"Education Method": {"type": "options"}}
+    ]
+  }
+}
+
+
+I removed the `Deadline Date` parameter since it's not applicable (required is false). Let me know if you need any further assistance!

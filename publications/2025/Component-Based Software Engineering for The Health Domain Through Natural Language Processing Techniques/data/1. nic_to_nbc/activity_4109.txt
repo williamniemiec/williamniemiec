@@ -1,0 +1,29 @@
+Here is the output in JSON format:
+
+
+{
+  "Book Recommendation": {
+    "name": "Book Recommendation",
+    "book_topic": ["options"],
+    "book_format": ["options"],
+    "librarian_specialty": ["options"],
+    "consultation_type": ["options"],
+    "consultation_date": "datetime"
+  },
+  "Librarian Profile": {
+    "name": "Librarian Profile",
+    "librarian_name": "text field",
+    "librarian_specialty": ["options"],
+    "librarian_bio": "text field",
+    "librarian_contact": ["options"]
+  },
+  "Book Search": {
+    "name": "Book Search",
+    "search_criteria": ["options"],
+    "search_query": "text field",
+    "search_results": "list of book titles and descriptions"
+  }
+}
+
+
+Note that I removed the "not applicable" parameters, which are the ones without a specific data type or format (e.g. "options"). Let me know if you need any further processing!

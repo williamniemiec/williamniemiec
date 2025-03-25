@@ -1,0 +1,34 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Education",
+  "parameters": [
+    {
+      "name": "Topic",
+      "type": "text"
+    },
+    {
+      "name": "Content",
+      "type": "multimedia"
+    },
+    {
+      "name": "Quiz",
+      "type": "boolean"
+    },
+    {
+      "name": "Frequency",
+      "type": "options",
+      "options": [
+        { value: "daily" },
+        { value: "onlyOnce" },
+        { value: "everyHours" },
+        { value: "everyDays" }
+      ]
+    },
+    {
+      "name": "Deadline Date",
+      "type": "datetime"
+    }
+  ]
+}

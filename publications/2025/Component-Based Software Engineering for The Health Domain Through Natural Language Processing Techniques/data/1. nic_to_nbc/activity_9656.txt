@@ -1,0 +1,51 @@
+Here is the output in JSON format:
+
+
+{
+  "Admission Encouragement": {
+    "Parameters": {
+      "Observation Need Assessment": ["Medical history", "Current symptoms", "Risk factors"],
+      "Investigation Need Assessment": ["Diagnostic tests", "Imaging studies", "Laboratory results"],
+      "Admission Criteria": ["Medical necessity", "Patient safety", "Treatment requirements"],
+      "Patient Education": ["Treatment options", "Potential outcomes", "Informed consent"],
+      "Admission Decision Support": ["Admission likelihood", "Alternative treatment options", "Referral to specialists"],
+      "Frequency": ["daily", "onlyOnce", "everyHours", "everyDays"],
+      "Deadline Date": ["datetime"]
+    }
+  },
+  "Observation Need Assessment": {
+    "Parameters": {
+      "Medical history": null,
+      "Current symptoms": null,
+      "Risk factors": null
+    }
+  },
+  "Investigation Need Assessment": {
+    "Parameters": {
+      "Diagnostic tests": null,
+      "Imaging studies": null,
+      "Laboratory results": null
+    }
+  },
+  "Admission Criteria": {
+    "Parameters": {
+      "Medical necessity": null,
+      "Patient safety": null,
+      "Treatment requirements": null
+    }
+  },
+  "Patient Education": {
+    "Parameters": {
+      "Treatment options": null,
+      "Potential outcomes": null,
+      "Informed consent": null
+    }
+  },
+  "Admission Decision Support": {
+    "Parameters": {
+      "Admission likelihood": null,
+      "Alternative treatment options": null,
+      "Referral to specialists": null
+    }
+  }
+}

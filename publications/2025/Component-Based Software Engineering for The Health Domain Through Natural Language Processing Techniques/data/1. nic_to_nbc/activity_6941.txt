@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Family Priority Conflict Assessment": {
+    "parameters": [
+      {"name": "family_members"},
+      {"name": "priority_categories"},
+      {"name": "conflict_identification_method"},
+      {"name": "frequency"},
+      {"name": "open_ended_question"}
+    ]
+  }
+}
+
+
+I removed the not applicable parameters (`deadline_date`) and only kept the `parameters` section with the corresponding `name`s.

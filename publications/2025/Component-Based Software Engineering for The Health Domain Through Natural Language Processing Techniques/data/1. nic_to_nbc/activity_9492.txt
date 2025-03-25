@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Reorientation Guide": {
+    "Parameters": {
+      "Reorientation Steps": {
+        "Type": "list of text"
+      },
+      "Environmental Stimulation Reduction": {
+        "Type": "list of text"
+      },
+      "Frequency": {
+        "Type": "options"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "goal_progress_tracking": {
+        "Parameters": {
+            "Goal description": "",
+            "Progress tracking": "",
+            "Frequency": "",
+            "Deadline date": ""
+        }
+    }
+}

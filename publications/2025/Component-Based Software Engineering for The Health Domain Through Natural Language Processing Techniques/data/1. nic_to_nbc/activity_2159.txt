@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+    "Prompt": {
+        "parameters": [
+            {"name": "condition", "description": "specify the condition under which the prompt should be triggered", "required": true, "type": "text"},
+            {"name": "frequency", "description": "specify how often the prompt should be repeated", "required": true, "type": "options", "options": [{"value": "daily", "label": "Daily"}, {"value": "onlyOnce", "label": "Only once"}, {"value": "everyHours", "label": "Every x hours"}, {"value": "everyDays", "label": "Every x days"}]},
+            {"name": "deadline_date", "description": "specify the due date of the prompt", "required": false, "type": "datetime"}
+        ]
+    }
+}

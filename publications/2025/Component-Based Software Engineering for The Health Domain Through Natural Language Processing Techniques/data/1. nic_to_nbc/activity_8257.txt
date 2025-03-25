@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Lagophthalmos Care Plan": {
+    "Instructions": { "name": "Instructions", "description": "Please identify the frequency and type of care according to the eyelid position in lagophthalmos", "required": true, "type": "text" },
+    "Eyelid position": { "name": "Eyelid position", "description": "Please select the eyelid position", "required": true, "type": "options", "options": [ { "value": "comatose", "label": "Comatose" }, { "value": "deepSedation", "label": "Under deep sedation and neuromuscular blockage" }, { "value": "facialParalysis", "label": "Facial paralysis" }, { "value": "bellsPalsy", "label": "Bell's palsy" }, { "value": "thyrotoxicExophthalmos", "label": "Thyrotoxic exophthalmos" }, { "value": "paralyticEctropion", "label": "Paralytic ectropion" } ] },
+    "Care frequency": { "name": "Care frequency", "description": "Please select the frequency of care", "required": true, "type": "options", "options": [ { "value": "hourly", "label": "Hourly" }, { "value": "every2hours", "label": "Every 2 hours" }, { "value": "every4hours", "label": "Every 4 hours" } ] },
+    "Care type": { "name": "Care type", "description": "Please select the type of care", "required": true, "type": "options", "options": [ { "value": "moisturizing", "label": "Moisturizing" }, { "value": "lubricating", "label": "Lubricating" }, { "value": "protecting", "label": "Protecting" } ] },
+    "Deadline date": { "name": "Deadline date", "description": "Please identify the frequency and type of care by", "required": true, "type": "datetime" }
+  },
+  "Lagophthalmos Care Tracker": {
+    "Instructions": { "name": "Instructions", "description": "Please track the frequency and type of care according to the eyelid position in lagophthalmos", "required": true, "type": "text" },
+    "Tracking frequency": { "name": "Tracking frequency", "description": "How often should the frequency and type of care be tracked?", "required": true, "type": "options", "options": [ { "value": "hourly", "label": "Hourly" }, { "value": "every2hours", "label": "Every 2 hours" }, { "value": "every4hours", "label": "Every 4 hours" } ] },
+    "Deadline date": { "name": "Deadline date", "description": "Please track the frequency and type of care by", "required": true, "type": "datetime" },
+    "Reminders": { "name": "Reminders", "description": "Would you like to receive reminders to track the frequency and type of care?", "required": true, "type": "boolean" }
+  }
+}

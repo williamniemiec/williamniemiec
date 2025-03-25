@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Home Instruction Scripting": {
+    "Script/Audiotape": {"type": "text or audio file"},
+    "Instructions": {"type": "text"},
+    "Frequency": {"type": "options", "options": [
+      {"value": "daily", "label": "Daily"},
+      {"value": "onlyOnce", "label": "Only once"},
+      {"value": "everyHours", "label": "Every x hours"},
+      {"value": "everyDays", "label": "Every x days"}
+    ]},
+    "Deadline Date": {"type": "datetime"}
+  }
+}

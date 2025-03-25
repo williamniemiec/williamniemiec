@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Resource": {
+    "Parameters": {
+      "Class Information": [],
+      "Registration": [],
+      "Reminders": [],
+      "Additional Resources": []
+    }
+  }
+}

@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+    "Blood Group Comparison": {
+        "Parameters": {
+            "Name": {"Type": "text"},
+            "Maternal Blood Group": {"Type": ["A", "B", "AB", "O"]},
+            "Maternal Blood Type": {"Type": ["Rh positive", "Rh negative"]},
+            "Newborn Blood Group": {"Type": ["A", "B", "AB", "O"]},
+            "Newborn Blood Type": {"Type": ["Rh positive", "Rh negative"]},
+            "Comparison Result": {"Type": "text"}
+        }
+    }
+}

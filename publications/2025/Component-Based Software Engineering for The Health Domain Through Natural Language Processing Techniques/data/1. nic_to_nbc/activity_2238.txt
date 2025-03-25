@@ -1,0 +1,3 @@
+{}
+
+(Note: Since there is no `{{ PARAMETER ESPECIFICATIONS }}` and `{{ NO-CODE ELEMENT NAME }}` in the input text, the output JSON is empty)

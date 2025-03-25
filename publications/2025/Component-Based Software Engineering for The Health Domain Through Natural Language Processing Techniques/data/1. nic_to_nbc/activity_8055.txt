@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+    "Device Positioning": {
+        "Name": {"type": "text"},
+        "Device Type": {"type": "text or options"},
+        "Positioning Instructions": {"type": "text or multimedia"},
+        "Frequency": {"type": "options"},
+        "Reminder": {"type": "boolean"}
+    }
+}

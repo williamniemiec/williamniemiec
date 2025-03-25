@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Toes Drying": {
+    "Name": {"Type": "text"},
+    "Instructions": {"Type": "text"},
+    "Frequency": {"Type": "options", "Options": ["afterEveryShower", "daily", "everyOtherDay", "everyXDays"]},
+    "Reminder": {"Type": "boolean"}
+  }
+}

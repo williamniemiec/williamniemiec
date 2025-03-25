@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Self-Assessment": {
+    "parameters": {
+      "name": "",
+      "content": "",
+      "frequency": "",
+      "deadline_date": "",
+      "answer_type": "",
+      "photo_upload": ""
+    }
+  }
+}

@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "Procedure Site Preparation": {
+    "Parameters": {
+      "Procedure Type": {
+        "Type": "options",
+        "Options": ["surgery", "biopsy", "injection", "etc."]
+      },
+      "Site Preparation Steps": {
+        "Type": "ordered list",
+        "Items": ["clean the site with antiseptic solution", "disinfect the site with UV light", "drape the site with sterile drapes", "etc."]
+      },
+      "Site Preparation Materials": {
+        "Type": "checklist",
+        "Items": ["antiseptic solution", "disinfectant wipes", "sterile drapes", "etc."]
+      },
+      "Site Preparation Verification": {
+        "Type": "boolean",
+        "Options": ["yes", "no"]
+      }
+    }
+  }
+}

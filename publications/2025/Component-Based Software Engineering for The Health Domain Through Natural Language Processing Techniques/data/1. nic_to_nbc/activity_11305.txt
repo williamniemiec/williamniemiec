@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Fluid Balance Monitor": {
+    "Parameters": {
+      "Condition": ["heart failure", "renal failure", "malnutrition", "burns", "sepsis"],
+      "Intervention": ["intravenous therapy", "subcutaneous infusions", "enteral feedings", "NG tubes", "urinary catheters"],
+      "Fluid Types": ["oral intake", "IV fluids", "enteral feedings", "urine output", "vomit", "diarrhea", "wound drainage", "chest drainage"],
+      "Unit": ["mL", "L", "mg", "g"],
+      "Frequency": ["daily", "onlyOnce", "everyHours", "everyDays"]
+    }
+  }
+}
+
+
+I removed the not applicable parameters ("Deadline Date" and "Notes") as they have specific types (datetime and text) instead of options.

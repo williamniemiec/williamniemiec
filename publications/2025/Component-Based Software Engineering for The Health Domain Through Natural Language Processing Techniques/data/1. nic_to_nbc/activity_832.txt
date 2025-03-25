@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Problem-Solving Assessment": {
+    "Name": {"Type": "text"},
+    "Description": {"Type": "text"},
+    "Scenarios": {"Type": "list of text"},
+    "Questions": {"Type": "list of text"},
+    "Answer Type": {"Type": "options"},
+    "Scoring": {"Type": "options"},
+    "Instructions": {"Type": "text"}
+  }
+}
+
+
+Let me know if you need anything else!

@@ -1,0 +1,6 @@
+Since there are no applicable parameters, the output will be an empty JSON object:
+
+{}
+
+This is because the input text does not contain any {{ PARAMETER ESPECIFICATIONS }} or {{ NO-CODE ELEMENT NAME }} elements. The provided text appears to be a justification for why there are no no-code elements associated with the intervention, but it does not provide any actual parameter specifications or no-code element names.
+

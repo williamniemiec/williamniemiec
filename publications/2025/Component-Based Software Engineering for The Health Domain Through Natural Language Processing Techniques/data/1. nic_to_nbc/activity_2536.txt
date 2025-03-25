@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+  "Personalized Health Information": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Content": {"Type": ["text", "multimedia"]},
+      "Format": {"Type": ["text", "video", "audio"]},
+      "Frequency": {"Type": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Patient Preferences": {
+        "Type": "list",
+        "Preferences": [
+          {"Name": "language", "Value": "English"},
+          {"Name": "format", "Value": "video"}
+        ]
+      }
+    }
+  }
+}

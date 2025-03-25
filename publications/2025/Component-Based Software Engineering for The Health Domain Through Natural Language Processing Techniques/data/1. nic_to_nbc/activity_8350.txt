@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+  "Tobacco Cessation Guide": {
+    "Reasons to Quit": {
+      "type": "list",
+      "description": "Enter the reasons to quit smoking and tobacco chewing (e.g., \"Improve oral health\", \"Reduce risk of heart disease\", etc.)"
+    },
+    "Health Risks": {
+      "type": "list",
+      "description": "Enter the health risks associated with smoking and tobacco chewing (e.g., \"Oral cancer\", \"Gum disease\", etc.)"
+    },
+    "Quit Strategies": {
+      "type": "list",
+      "description": "Enter strategies to help patients quit smoking and tobacco chewing (e.g., \"Set a quit date\", \"Use nicotine replacement therapy\", etc.)"
+    },
+    "Resources": {
+      "type": "list",
+      "description": "Enter resources available to help patients quit smoking and tobacco chewing (e.g., \"Hotlines\", \"Support groups\", etc.)"
+    }
+  }
+}

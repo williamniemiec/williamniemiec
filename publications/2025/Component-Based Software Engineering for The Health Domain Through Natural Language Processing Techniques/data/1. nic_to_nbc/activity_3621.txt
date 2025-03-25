@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Abuse Reporting": {
+    "parameters": {
+      "name": "Abuse Reporting",
+      "description": "If you or someone you know is a victim of abuse, please report it here",
+      "type": "form",
+      "required": true,
+      "report_type": "options",
+      "details": "text",
+      "contact_info": "text"
+    }
+  }
+}

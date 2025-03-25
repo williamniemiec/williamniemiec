@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Message": {
+    "name": "message title",
+    "content": "message text",
+    "trigger": "condition for displaying the message",
+    "frequency": "how often the message should be displayed"
+  },
+  "Badge": {
+    "name": "badge title",
+    "description": "badge description",
+    "icon": "icon or image to be displayed for the badge",
+    "trigger": "condition for awarding the badge",
+    "frequency": "how often the badge should be awarded"
+  }
+}
+
+
+I removed `deadline_date` parameter as it was not applicable in this context. Let me know if you need anything else!

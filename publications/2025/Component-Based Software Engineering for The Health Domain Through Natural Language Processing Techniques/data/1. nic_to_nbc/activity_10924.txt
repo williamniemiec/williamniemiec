@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Gait and Weight Distribution Monitoring": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Instructions": {"Type": "text"},
+      "Frequency": {"Type": "options", "Options": ["daily", "weekly", "monthly"]},
+      "Tracking Method": {"Type": "options", "Options": ["mobile app", "wearable device", "manual log"]},
+      "Data Analysis": {"Type": "options", "Options": ["automatic analysis", "manual analysis"]}
+    }
+  }
+}

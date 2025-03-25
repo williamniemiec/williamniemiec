@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+    "Shock Management": {
+        "Method": {
+            "type": "options",
+            "options": ["positioning for optimal perfusion", "MAST trousers", "other"]
+        },
+        "Instructions": {
+            "type": "text"
+        },
+        "Positioning": {
+            "type": "options",
+            "options": ["elevate legs", "Trendelenburg position", "other"]
+        },
+        "Frequency": {
+            "type": "options",
+            "options": ["as needed", "every 15 minutes", "every 30 minutes", "every hour", "other"]
+        },
+        "Duration": {
+            "type": "text"
+        }
+    }
+}

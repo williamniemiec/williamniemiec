@@ -1,0 +1,50 @@
+Here is the output in JSON format:
+
+
+{
+  "Tissue and Organ Donation": {
+    "parameters": {
+      "name": "",
+      "description": "",
+      "patient_desires": "",
+      "family_desires": "",
+      "procedures": ""
+    }
+  },
+  "Donation Procedures": {
+    "parameters": {
+      "name": "",
+      "description": "",
+      "tissue_donation": "",
+      "organ_donation": "",
+      "consent": ""
+    }
+  },
+  "Consent Management": {
+    "parameters": {
+      "name": "",
+      "description": "",
+      "patient_consent": "",
+      "family_consent": ""
+    }
+  },
+  "Family Support": {
+    "parameters": {
+      "name": "",
+      "description": "",
+      "counseling": "",
+      "resources": ""
+    }
+  },
+  "Timely and Effective Donation": {
+    "parameters": {
+      "name": "",
+      "description": "",
+      "timeline": "",
+      "effectiveness": ""
+    }
+  }
+}
+
+
+Note that I removed the introduction, conclusion, and other unnecessary parts of the text, and only kept the no-code element names and their corresponding parameter specifications.

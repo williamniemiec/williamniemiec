@@ -1,0 +1,27 @@
+
+
+
+{
+  "Responsibility Agreement": {
+    "Parameters": {
+      "Responsibilities": {
+        "Type": "checklist",
+        "Options": [
+          {"value": "adhereToMedication", "label": "Adhere to medication regimen"},
+          {"value": "attendAppointments", "label": "Attend scheduled appointments"},
+          {"value": "reportSymptoms", "label": "Report symptoms or changes in condition"},
+          {"value": "askQuestions", "label": "Ask questions or seek clarification"}
+        ]
+      },
+      "Explanation": {
+        "Type": "text"
+      },
+      "Acknowledgement": {
+        "Type": "boolean"
+      },
+      "Notes": {
+        "Type": "text"
+      }
+    }
+  }
+}

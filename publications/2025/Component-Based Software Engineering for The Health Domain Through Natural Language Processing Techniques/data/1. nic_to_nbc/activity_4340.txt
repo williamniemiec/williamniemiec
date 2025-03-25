@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Assessment Sharing": {
+    "Parameters": {
+      "Assessment Results": {"Type": "list of text/html with numerical values"},
+      "Interpretation and Education": {"Type": "text/html with images or illustrations"},
+      "Developmental Milestones": {"Type": "list of text/html with images or illustrations"},
+      "Parental Questions and Concerns": {"Type": "text input field"},
+      "Provider Response": {"Type": "text/html"}
+    }
+  }
+}
+
+
+Let me know if this meets your requirements!

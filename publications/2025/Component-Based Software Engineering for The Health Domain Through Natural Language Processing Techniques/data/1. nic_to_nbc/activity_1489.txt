@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Skin Turgor Observation": {
+        "parameters": [
+            {"Name": {"type": "text"}},
+            {"Frequency": {"type": "options", "options": ["daily", "everyHours", "everyDays"]}},
+            {"Deadline Date": {"type": "datetime"}},
+            {"Observation Type": {"type": "options", "options": ["photo", "textDescription"]}},
+            {"Additional Notes": {"type": "text"}}
+        ]
+    }
+}

@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Plan Builder": {
+    "Goal": {"Type": "text"},
+    "Objective": {"Type": "text"},
+    "Action Steps": {"Type": "list of text"},
+    "Resources": {"Type": "list of resources (e.g. text, images, or icons)"},
+    "Timeline": {"Type": "date or date range"},
+    "Reminders": {"Type": "boolean or list of reminder options"}
+  }
+}

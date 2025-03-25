@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Condition Monitor": {
+    "Parameters": {
+      "Condition": {"Type": "text"},
+      "Phosphate Levels": {"Type": "list of phosphate levels (date, value, units)"},
+      "Thresholds": {"Type": "range (min, max)"},
+      "Alerts": {"Type": "list of alerts (condition, message, recipient)"},
+      "Trend Analysis": {"Type": "text"},
+      "Recommendations": {"Type": "text or link to additional resources"}
+    }
+  }
+}

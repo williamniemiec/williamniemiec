@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Advocacy Tool": {
+    "parameters": {
+      "Advocacy Information": {"type": "text"},
+      "Advocacy Resources": {"type": "list of resources (with URLs, contact information, etc.)"},
+      "Personalized Advocacy Messages": {"type": "list of personalized messages (with patient name, location, etc.)"},
+      "Call to Action": {"type": "call to action (with button or link)"}
+    }
+  },
+  "Guide": {
+    "parameters": {
+      "Guide Title": {"type": "text"},
+      "Guide Content": {"type": "list of guide pages (with text and images)"},
+      "Advocacy Resources": {"type": "list of resources (with URLs, contact information, etc.)"},
+      "Call to Action": {"type": "call to action (with button or link)"}
+    }
+  }
+}

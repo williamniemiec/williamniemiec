@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Wound Referral": {
+    "parameters": {
+      "Wound Type": "",
+      "Wound Location": "",
+      "Wound Description": "",
+      "Referral Reason": ""
+    }
+  }
+}

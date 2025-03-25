@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Symptom Tracker with Alert": {
+    "Parameters": {
+      "Symptoms": {},
+      "Severity": {},
+      "Frequency": {},
+      "Alert Threshold": {},
+      "Consultation Guidance": {}
+    }
+  }
+}

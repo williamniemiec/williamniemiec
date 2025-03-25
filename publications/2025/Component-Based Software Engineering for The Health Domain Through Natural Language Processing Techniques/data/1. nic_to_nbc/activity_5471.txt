@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Referral": {
+        "Parameters": {
+            "Referral Type": {"Type": "options", "Options": ["Specialist", "Therapist", "Support Group", "Community Resource"]},
+            "Referral Information": {"Type": ["text", "PDF"]},
+            "Referral Reason": {"Type": "text"},
+            "Follow-up": {"Type": ["text", "options"]},
+            "Resources": {"Type": ["link", "PDF"]}
+        }
+    }
+}

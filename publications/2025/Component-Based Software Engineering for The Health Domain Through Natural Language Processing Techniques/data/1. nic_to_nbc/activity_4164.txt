@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+    "Setback Discussion": {
+        "Parameters": {
+            "Setback Identification": {"Type": "text"},
+            "Challenge Type": {"Type": "options", "Options": ["lack of motivation", "difficulty with meal planning", "difficulty with exercise", "other"]},
+            "Discussion Prompt": {"Type": "text"},
+            "Goal Re-Setting": {
+                "Type": "goal-setting",
+                "Properties": {
+                    "New Goal": {"Type": "number"},
+                    "New Deadline": {"Type": "datetime"}
+                }
+            },
+            "Motivational Message": {"Type": "text"}
+        }
+    }
+}

@@ -1,0 +1,31 @@
+Here is the output in JSON format:
+
+
+{
+  "parameters": [
+    {
+      "name": "Name",
+      "type": "text"
+    },
+    {
+      "name": "Message",
+      "type": "text"
+    },
+    {
+      "name": "Trigger",
+      "type": "trigger",
+      "trigger": [
+        {
+          "Type": "text",
+          "Condition": "text"
+        }
+      ]
+    },
+    {
+      "name": "Frequency",
+      "type": "options",
+      "options": ["daily", "weekly", "monthly"]
+    }
+  ],
+  "element_name": "Encouragement Message"
+}

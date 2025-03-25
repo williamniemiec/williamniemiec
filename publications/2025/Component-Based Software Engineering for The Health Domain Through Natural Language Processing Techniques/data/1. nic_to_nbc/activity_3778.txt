@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Respite Care": {
+    "Care Type": {"type": "options"},
+    "Care Duration": {"type": "options"},
+    "Care Frequency": {"type": "options"},
+    "Family Relief": {"type": "options"},
+    "Care Provider": {"type": "options"}
+  }
+}
+
+
+Let me know if this is what you were expecting!

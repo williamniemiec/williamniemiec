@@ -1,0 +1,22 @@
+Here is the output in JSON format, removing anything except `{{ PARAMETER ESPECIFICATIONS }}` and `{{ NO-CODE ELEMENT NAME }}`, and removing not applicable parameters:
+
+
+{
+  "name": "Medication Expiration Tracker",
+  "parameters": [
+    {
+      "name": "Medication List",
+      "description": "A list of medications, including medication name and expiration date"
+    },
+    {
+      "name": "Frequency",
+      "description": "Specifies how often the patient should be reminded to check the expiration dates of their medications",
+      "options": ["daily", "weekly", "monthly"]
+    },
+    {
+      "name": "Notification",
+      "description": "Specifies the type of notification the patient should receive when a medication is near or past its expiration date",
+      "options": ["in-app notification", "email", "SMS"]
+    }
+  ]
+}

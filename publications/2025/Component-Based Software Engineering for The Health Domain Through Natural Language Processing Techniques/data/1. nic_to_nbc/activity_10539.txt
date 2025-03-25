@@ -1,0 +1,35 @@
+Here is the output in JSON format:
+
+
+{
+  "No-code Element Name": "Phototherapy Shielding",
+  "Parameters": {
+    "Shield Type": {
+      "Description": "Select the type of opaque shield to use",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "eyeShield", "label": "Eye Shield" },
+        { "value": "genitaliaShield", "label": "Genitalia Shield" },
+        { "value": "both", "label": "Both Eye and Genitalia Shields" }
+      ]
+    },
+    "Duration": {
+      "Description": "Specify the duration of phototherapy treatment",
+      "Required": true,
+      "Type": "time"
+    },
+    "Frequency": {
+      "Description": "Specify how often to apply the shield during phototherapy treatment",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "continuous", "label": "Continuous" },
+        { "value": "intermittent", "label": "Intermittent" }
+      ]
+    }
+  }
+}
+
+
+I removed the non-applicable parameters ("Reminders" and "Notes") since they are not required. Let me know if this meets your requirements!

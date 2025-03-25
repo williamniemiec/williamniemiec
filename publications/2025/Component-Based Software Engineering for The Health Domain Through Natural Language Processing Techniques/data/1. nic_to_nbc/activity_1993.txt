@@ -1,0 +1,45 @@
+Here is the output in JSON format:
+
+
+[
+  {
+    "name": "Physiologic Status Assessment",
+    "parameters": [
+      {"name": "Name", "value": "Physiologic Status Assessment"},
+      {"name": "Assessment Type", "value": "the type of physiologic status assessment used, such as a complete blood count (CBC) or blood chemistry test"},
+      {"name": "Parameters", "value": ["Hemoglobin (Hb) level", "Hematocrit (Hct) level", "Red blood cell (RBC) count"]},
+      {"name": "Frequency", "value": "how often the patient's physiologic status should be assessed"},
+      {"name": "Deadline Date", "value": "specify the due date for assessing physiologic status"}
+    ]
+  },
+  {
+    "name": "Deficit Identification",
+    "parameters": [
+      {"name": "Name", "value": "Deficit Identification"},
+      {"name": "Deficit Type", "value": "the type of deficit identified, such as anemia or neutropenia"},
+      {"name": "Severity", "value": "the severity of the deficit, such as mild, moderate, or severe"},
+      {"name": "Frequency", "value": "how often the patient's deficits should be identified"},
+      {"name": "Deadline Date", "value": "specify the due date for identifying deficits"}
+    ]
+  },
+  {
+    "name": "Priority Item Identification",
+    "parameters": [
+      {"name": "Name", "value": "Priority Item Identification"},
+      {"name": "Priority Item", "value": "the specific priority item identified, such as correcting anemia"},
+      {"name": "Rationale", "value": "the rationale for prioritizing the item, such as improving quality of life or reducing morbidity"},
+      {"name": "Frequency", "value": "how often priority items should be identified"},
+      {"name": "Deadline Date", "value": "specify the due date for identifying priority items"}
+    ]
+  },
+  {
+    "name": "Correction Plan",
+    "parameters": [
+      {"name": "Name", "value": "Correction Plan"},
+      {"name": "Plan Type", "value": "the type of correction plan used, such as a medication regimen or lifestyle modification"},
+      {"name": "Interventions", "value": ["Iron supplementation", "Erythropoietin therapy"]},
+      {"name": "Frequency", "value": "how often the correction plan should be updated"},
+      {"name": "Deadline Date", "value": "specify the due date for implementing the correction plan"}
+    ]
+  }
+]

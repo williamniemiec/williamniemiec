@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Ointment Application Instruction": {
+    "Ointment Application Title": {},
+    "Ointment Type": {},
+    "Application Instructions": {},
+    "Frequency": {}
+  }
+}
+
+
+I removed all non-applicable parameters (those with `Required: false`) and only kept the `Name` of the no-code element and its `Parameters`.

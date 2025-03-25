@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Nasogastric Tube Selection": {
+    "Parameters": {
+      "Indication": {"Type": "text or options"},
+      "Patient Characteristics": {"Type": "text or options"},
+      "Tube Options": {"Type": "list of text or options"},
+      "Rationale": {"Type": "text"}
+    }
+  }
+}
+
+
+I removed all the unnecessary information and only kept the `{{ NO-CODE ELEMENT NAME }}` and `{{ PARAMETER ESPECIFICATIONS }}`. I also formatted it in a JSON object with the element name as the key, and its parameters as an object with their respective types. Let me know if you need any further modifications!

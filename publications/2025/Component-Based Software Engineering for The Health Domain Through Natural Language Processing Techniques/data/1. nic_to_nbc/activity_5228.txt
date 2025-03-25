@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Environmental Allergen Control Guide": {
+    "Guide Title": {"Description": "Title of the guide", "Type": "text"},
+    "Pages": {"Description": "List of pages with information on controlling environmental allergens", "Type": "book-page"},
+    "Tips": {"Description": "List of tips on controlling environmental allergens", "Type": "unordered list"}
+  }
+}
+
+
+Note: I removed the `Required` property as it's not necessary for the output, and also removed the `Book-page` and `Unordered list` properties as they are not parameters themselves. Let me know if you need anything else!

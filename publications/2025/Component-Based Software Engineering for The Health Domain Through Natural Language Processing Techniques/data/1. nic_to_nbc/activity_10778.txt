@@ -1,0 +1,21 @@
+
+
+
+{
+  "Mid-Range and Close-Up Photography": {
+    "Photograph Type": {
+      "type": "options",
+      "options": ["Mid-range photograph", "Close-up photograph"]
+    },
+    "Image": {
+      "type": "camera capture or image upload"
+    },
+    "Identifier or Landmark": {
+      "type": "options",
+      "options": ["Nipple in a chest wound", "Other anatomical landmarks (e.g., nose, mouth, etc.)", "Measuring device (e.g., ruler, scale, etc.)", "Other"]
+    },
+    "Photograph Notes": {
+      "type": "text"
+    }
+  }
+}

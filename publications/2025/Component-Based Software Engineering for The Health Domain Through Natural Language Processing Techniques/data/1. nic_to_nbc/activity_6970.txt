@@ -1,0 +1,25 @@
+
+
+
+{
+  "Goal Setting": {
+    "parameters": {
+      "name": {"type": "text"},
+      "goal_type": {"type": "options", "options": [
+        {"value": "weaning_duration", "label": "Weaning duration"},
+        {"value": "oxygen_saturation_levels", "label": "Oxygen saturation levels"},
+        {"value": "respiratory_rate", "label": "Respiratory rate"},
+        {"value": "other", "label": "Other"}
+      ]},
+      "goal_value": {"type": "text"},
+      "goal_deadline": {"type": "datetime"},
+      "goal_frequency": {"type": "options", "options": [
+        {"value": "daily", "label": "Daily"},
+        {"value": "every_2_days", "label": "Every 2 days"},
+        {"value": "every_3_days", "label": "Every 3 days"},
+        {"value": "weekly", "label": "Weekly"}
+      ]},
+      "instructions": {"type": "text"}
+    }
+  }
+}

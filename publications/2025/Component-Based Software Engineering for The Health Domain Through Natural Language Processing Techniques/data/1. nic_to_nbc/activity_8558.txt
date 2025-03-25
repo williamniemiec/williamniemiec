@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Family Involvement": {
+    "parameters": {
+      "Family Member": {"type": "text", "required": true},
+      "Role": {"type": "text", "required": true},
+      "Communication Method": {"type": "options", "required": true},
+      "Frequency": {"type": "options", "required": true},
+      "Goals": {"type": "text", "required": true}
+    }
+  }
+}
+
+
+Note: I removed the "Resources" parameter as it is not required. Let me know if you need anything else!

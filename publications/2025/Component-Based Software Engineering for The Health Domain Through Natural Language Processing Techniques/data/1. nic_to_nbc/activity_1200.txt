@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+  "Treatment Adjustment": {
+    "Patient Parameters": [
+      { "value": "bloodPressure", "label": "Blood Pressure" },
+      { "value": "bloodGlucose", "label": "Blood Glucose" },
+      { "value": "oxygenSaturation", "label": "Oxygen Saturation" }
+    ],
+    "Ordered Limits": [
+      { "value": "bloodPressure", "limit": "< 140/90 mmHg" },
+      { "value": "bloodGlucose", "limit": "80-120 mg/dL" }
+    ],
+    "Guidelines": "",
+    "Treatment Options": [
+      { "value": "medication", "label": "Medication" },
+      { "value": "dosage", "label": "Dosage" },
+      { "value": "frequency", "label": "Frequency" }
+    ],
+    "Adjustment Criteria": [
+      { "value": "parameterExceedsLimit", "label": "Parameter Exceeds Limit" },
+      { "value": "adverseReaction", "label": "Adverse Reaction" }
+    ]
+  }
+}
+
+Note that I removed the `...` from the lists, as they were not part of the actual data. If you want to keep them, just let me know!

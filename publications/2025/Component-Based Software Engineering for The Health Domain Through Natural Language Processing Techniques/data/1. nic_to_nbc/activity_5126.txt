@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Wound Location": {
+    "Body Region": {
+      "type": "options",
+      "options": ["anterior midline", "posterior midline", "right side", "left side"]
+    },
+    "Distance from Midline": {
+      "type": "text"
+    },
+    "Length": {
+      "type": "number"
+    }
+  }
+}

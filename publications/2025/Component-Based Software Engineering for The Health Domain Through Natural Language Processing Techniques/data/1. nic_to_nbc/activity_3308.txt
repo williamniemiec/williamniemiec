@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+  "Task": {
+    "name": "Label Specimen Task",
+    "content": "Please label the specimen immediately after collection to minimize sample mix-ups",
+    "frequency": "how often the patient should label a specimen, e.g., once, as needed",
+    "deadline_date": "a specific date or timeframe for the patient to complete the task"
+  },
+  "Form": {
+    "name": "Specimen Label Form",
+    "fields": "a list of fields to fill out, e.g., patient name, specimen type, collection date",
+    "submission_status": "a parameter to track whether the patient has submitted the form"
+  },
+  "Barcode Scanner": {
+    "name": "Barcode Scanner",
+    "barcode_type": "a parameter to specify the type of barcode to scan, e.g., QR code, UPC code",
+    "scan_status": "a parameter to track whether the patient has scanned the barcode"
+  },
+  "Photo": {
+    "name": "Labeled Specimen Photo",
+    "frequency": "how often the patient should take a photo, e.g., once, as needed",
+    "deadline_date": "a specific date or timeframe for the patient to upload the photo"
+  }
+}

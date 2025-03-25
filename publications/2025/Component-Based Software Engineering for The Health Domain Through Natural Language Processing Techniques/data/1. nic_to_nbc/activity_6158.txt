@@ -1,0 +1,49 @@
+Here is the output in JSON format:
+
+
+{
+    "Patient Engagement": {
+        "parameters": [
+            "engagement type",
+            "frequency",
+            "deadline_date"
+        ]
+    },
+    "Decision Support": {
+        "parameters": [
+            "decision support type",
+            "frequency",
+            "deadline_date"
+        ]
+    },
+    "Restrictive Measure Options": {
+        "parameters": [
+            "option type",
+            "restrictive measure type",
+            "frequency",
+            "deadline_date"
+        ]
+    },
+    "Patient Preference": {
+        "parameters": [
+            "preference type",
+            "frequency",
+            "deadline_date"
+        ]
+    },
+    "Caregiver Collaboration": {
+        "parameters": [
+            "collaboration type",
+            "caregiver type",
+            "frequency",
+            "deadline_date"
+        ]
+    },
+    "Documentation": {
+        "parameters": [
+            "documentation type",
+            "frequency",
+            "deadline_date"
+        ]
+    }
+}

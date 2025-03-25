@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Goal Setting": {
+    "Parameters": {
+      "Title": {"Type": "text"},
+      "Content": {"Type": "form"},
+      "Team Members": {"Type": "list"},
+      "Patient": {"Type": "text"},
+      "Metrics": {"Type": "list"},
+      "Frequency": {"Type": "options", "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]}
+    }
+  }
+}

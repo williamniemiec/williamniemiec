@@ -1,0 +1,10 @@
+Here is the output in JSON format:
+
+
+{
+  "Bath Purpose": {
+    "Reason for Bath": {"Type": "text", "Description": "Enter a reason for the bath that will motivate the patient (e.g., 'Let's get your bath done before your daughter comes)"},
+    "Personalized Message": {"Type": "text"},
+    "Notes": {"Type": "text"}
+  }
+}

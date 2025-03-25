@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+    "Family Participation": {
+        "Description": {"type": "text"},
+        "Frequency": {"type": "options"},
+        "Activities": {"type": "unordered list"},
+        "Resources": {"type": "text or link"}
+    }
+}

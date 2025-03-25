@@ -1,0 +1,41 @@
+Here is the output in JSON format:
+
+
+{
+  "Instruction": {
+    "parameters": {
+      "name": "Cleanse area with an appropriate solution",
+      "content": "(text or multimedia content)",
+      "type": "\"text\" or \"video\""
+    }
+  },
+  "Video Demonstration": {
+    "parameters": {
+      "name": "Cleansing the area",
+      "videos": "list of video demonstrations showing the correct technique for cleansing the area",
+      "type": "\"video\""
+    }
+  },
+  "Interactive Guide": {
+    "parameters": {
+      "name": "Cleansing the area",
+      "pages": "list of interactive pages explaining the importance of cleansing, how to choose an appropriate solution, and how to properly cleanse the area",
+      "type": "\"interactive-page\""
+    }
+  },
+  "Checklist": {
+    "parameters": {
+      "name": "Cleansing the area checklist",
+      "items": "list of steps to follow (e.g., \"Choose an appropriate solution\", \"Wash hands\", \"Cleanse the area\", etc.)",
+      "type": "\"checklist\""
+    }
+  },
+  "Reminder": {
+    "parameters": {
+      "name": "Cleansing reminder",
+      "message": "\"Remember to cleanse the area with an appropriate solution\"",
+      "frequency": "\"daily\", \"every 2 hours\", etc.",
+      "type": "\"reminder\""
+    }
+  }
+}

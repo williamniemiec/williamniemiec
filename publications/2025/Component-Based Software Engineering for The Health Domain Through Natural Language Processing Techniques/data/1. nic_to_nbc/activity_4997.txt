@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+  "Genital Skin Cleansing Guide": {
+    "Cleansing Instructions": {
+      "Type": "text with images or videos",
+      "Required": true
+    },
+    "Cleansing Frequency": {
+      "Type": "interactive calendar or notification system",
+      "Required": true
+    },
+    "Cleansing Products": {
+      "Type": "text with images or videos",
+      "Required": true
+    },
+    "Skin Inspection": {
+      "Type": "text with images or videos",
+      "Required": true
+    },
+    "Tracking and Reminders": {
+      "Type": "interactive calendar or notification system",
+      "Required": true
+    }
+  }
+}

@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Positive Limit Communicator": {
+    "Limit": {"type": "text", "required": true},
+    "Reason": {"type": "text", "required": true},
+    "Positive Language": {"type": "text", "required": true},
+    "Frequency": {"type": "options", "required": true, "options": ["Daily", "Weekly", "Monthly", "As needed"]},
+    "Reminders": {"type": "boolean", "required": false},
+    "Deadline Date": {"type": "datetime", "required": false}
+  }
+}

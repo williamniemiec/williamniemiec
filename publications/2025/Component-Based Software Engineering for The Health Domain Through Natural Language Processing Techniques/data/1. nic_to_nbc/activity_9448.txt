@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "urine sample request": {
+        "parameters": [
+            {"name": "reason"},
+            {"name": "instructions"},
+            {"name": "collection_method"},
+            {"name": "submission_instructions"}
+        ]
+    }
+}

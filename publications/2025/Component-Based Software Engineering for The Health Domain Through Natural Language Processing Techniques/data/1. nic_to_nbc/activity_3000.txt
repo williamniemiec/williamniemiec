@@ -1,0 +1,29 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "safety tip",
+  "parameters": [
+    {
+      "name": "title",
+      "type": "text"
+    },
+    {
+      "name": "content",
+      "type": "text"
+    },
+    {
+      "name": "image",
+      "type": "image"
+    },
+    {
+      "name": "frequency",
+      "type": "options",
+      "options": [
+        { value: "daily" },
+        { value: "weekly" },
+        { value: "monthly" }
+      ]
+    }
+  ]
+}

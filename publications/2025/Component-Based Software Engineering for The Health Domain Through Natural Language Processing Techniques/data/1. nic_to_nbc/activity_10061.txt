@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Self-Administration Technique",
+    "parameters": [
+        {
+            "name": "Technique",
+            "type": "text"
+        },
+        {
+            "name": "Instructions",
+            "type": "text"
+        },
+        {
+            "name": "Monitoring",
+            "type": "text"
+        },
+        {
+            "name": "Additional Resources",
+            "type": "text"
+        }
+    ]
+}

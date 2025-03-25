@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Emotion Modulation Guide": {
+    "parameters": [
+      {"name": "Name", "type": "text"},
+      {"name": "Methods", "type": "unordered list", "options": ["Assertiveness training", "Relaxation techniques", "Writing in a journal", "Distraction"]},
+      {"name": "Description", "type": "text"},
+      {"name": "Instructions", "type": "text"}
+    ]
+  }
+}
+
+
+Note: I removed the `Resources` parameter as it was not applicable (had an option for "Other methods can be added as needed"). Let me know if you need any further modifications!

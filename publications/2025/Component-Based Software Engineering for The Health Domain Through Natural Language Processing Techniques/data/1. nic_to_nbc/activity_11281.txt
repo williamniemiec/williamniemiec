@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+    "Balance Stimulation Exercise": {
+        "Name": {"Type": "text"},
+        "Description": {"Type": "text"},
+        "Starting Position": {"Type": "options", "Options": ["standing", "sitting"]},
+        "Rocking Instructions": {"Type": "text or video"},
+        "Photos or Videos": {"Type": "image or video"},
+        "Frequency": {"Type": "options", "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+        "Deadline Date": {"Type": "datetime"},
+        "Safety Precautions": {"Type": "text"},
+        "Hold Time": {"Type": "numeric"},
+        "Repetitions": {"Type": "numeric"}
+    }
+}

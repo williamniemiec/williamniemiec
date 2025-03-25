@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Side Effect Management": {
+    "Side Effect Identification": {"type": "checklist"},
+    "Symptom Assessment": {"type": "log"},
+    "Treatment Plan": {"type": "text"},
+    "Medication Adjustment": {"type": "text"},
+    "Lifestyle Modification": {"type": "text"},
+    "Follow-up Schedule": {"type": "calendar"},
+    "Notification": {"type": "notification"}
+  }
+}

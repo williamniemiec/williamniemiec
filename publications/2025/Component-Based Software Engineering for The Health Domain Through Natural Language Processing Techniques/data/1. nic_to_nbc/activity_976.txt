@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Art Reflection": {
+    "Parameters": {
+      "Name": {},
+      "Artwork": {},
+      "Description": {},
+      "Emotions": {},
+      "Frequency": {}
+    }
+  }
+}

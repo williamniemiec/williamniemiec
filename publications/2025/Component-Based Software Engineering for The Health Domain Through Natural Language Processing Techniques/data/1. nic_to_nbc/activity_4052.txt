@@ -1,0 +1,24 @@
+
+
+
+{
+    "Delusion Monitoring": {
+        "delusion_assessment": {"type": "text"},
+        "self_harmful_content": {"type": "list of text"},
+        "violent_content": {"type": "list of text"},
+        "monitoring_frequency": {"type": "options"},
+        "alert_threshold": {"type": "text"}
+    },
+    "Delusion Journal": {
+        "journal_entries": {"type": "list of text"},
+        "entry_frequency": {"type": "options"},
+        "self_harmful_content_alert": {"type": "boolean"},
+        "violent_content_alert": {"type": "boolean"}
+    },
+    "Thought Record": {
+        "thought_entries": {"type": "list of text"},
+        "entry_frequency": {"type": "options"},
+        "self_harmful_content_alert": {"type": "boolean"},
+        "violent_content_alert": {"type": "boolean"}
+    }
+}

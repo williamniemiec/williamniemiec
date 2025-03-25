@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Feeding Pace Guide": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Pace Guidelines": {"Type": "text"},
+      "Timing Reminders": {"Type": "list", "Items": []},
+      "Feeding Tips": {"Type": "text"},
+      "Frequency": {"Type": "options", "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]}
+    }
+  }
+}

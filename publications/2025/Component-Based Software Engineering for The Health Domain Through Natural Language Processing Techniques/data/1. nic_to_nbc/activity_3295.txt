@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Positive Reinforcement": {
+    "Outcome Evaluation": {"Type": "reference to outcome evaluation"},
+    "Reinforcement Type": {"Type": "options (e.g. praise, rewards, etc.)"},
+    "Reinforcement Message": {"Type": "text"},
+    "Reward": {"Type": "options (e.g. badges, points, etc.)"},
+    "Frequency": {"Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"Type": "datetime"}
+  }
+}

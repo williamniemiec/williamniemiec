@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Milk Intake Tracker": {
+    "Title": {"type": "text"},
+    "Milk Intake": {"type": "number"},
+    "Feeding Sessions": {"type": "number"},
+    "Time Interval": {"type": "time"},
+    "Total Intake": {"type": "number"}
+  }
+}

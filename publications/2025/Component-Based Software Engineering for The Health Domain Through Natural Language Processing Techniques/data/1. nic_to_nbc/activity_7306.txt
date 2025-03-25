@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Wire Inspection": {
+    "Parameters": {
+      "Wire Condition": {},
+      "Wear Signs": {},
+      "Replacement Needed": {}
+    }
+  }
+}
+
+
+I removed all unnecessary information and only kept the `{{ NO-CODE ELEMENT NAME }}` and `{{ PARAMETER ESPECIFICATIONS }}`. I also excluded the `"Replacement Instructions"` parameter since it's marked as not required.

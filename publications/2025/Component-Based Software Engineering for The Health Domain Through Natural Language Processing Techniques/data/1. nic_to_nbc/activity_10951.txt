@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+  "Shoe Inspection": {
+    "name": "Shoe Inspection",
+    "description": "Inspect your shoes for proper fit",
+    "questions": [
+      "Do your shoes fit comfortably?",
+      "Are your shoes too tight or too loose?",
+      "Do you have any pressure points or discomfort?"
+    ],
+    "answer type": ["Yes", "No", "Not sure"],
+    "frequency": "",
+    "deadline_date": ""
+  }
+}
+
+
+Note: I removed the "Content type" parameter as it's not part of the `PARAMETER ESPECIFICATIONS` section. Also, I left the "frequency" and "deadline_date" parameters empty as they didn't have specific values in the input text. If you want to remove them entirely since they're not applicable, let me know!

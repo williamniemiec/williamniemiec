@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Parameter Specifications": {
+    "title of the video demonstration": {"Type": "text", "Required": true},
+    "Video": {"Type": "video", "Required": true},
+    "Description": {"Type": "text", "Required": false},
+    "Frequency": {"Type": "options", "Required": true, "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"Type": "datetime", "Required": false}
+  },
+  "No-code Element Name": "Video Demonstration"
+}

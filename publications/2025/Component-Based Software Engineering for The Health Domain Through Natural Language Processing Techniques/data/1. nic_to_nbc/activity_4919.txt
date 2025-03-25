@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Self-Care Instruction": {
+    "Parameters": {
+      "Title": {"Type": "text"},
+      "Techniques": {"Type": "list of options or checkboxes"},
+      "Instructions": {"Type": "rich text or multimedia"},
+      "Resources": {"Type": "list of URLs or file attachments"},
+      "Frequency": {"Type": "options"},
+      "Reminders": {"Type": "boolean"}
+    }
+  }
+}

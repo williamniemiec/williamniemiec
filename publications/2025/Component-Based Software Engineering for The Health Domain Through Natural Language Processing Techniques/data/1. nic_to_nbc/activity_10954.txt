@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Shaving Instruction": {
+    "Wound Location": {"type": "text"},
+    "Shaving Area": {"type": "text"},
+    "Shaving Tool": {"type": "text"},
+    "Precautions": {"type": "text"}
+  }
+}

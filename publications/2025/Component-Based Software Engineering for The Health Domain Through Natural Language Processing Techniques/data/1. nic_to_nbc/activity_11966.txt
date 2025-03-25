@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "Vital Signs Tracker": {
+    "parameters": {
+      "Vital Signs": {
+        "type": "list of options"
+      },
+      "Pain Assessment": {
+        "type": "options"
+      },
+      "Frequency": {
+        "type": "options"
+      },
+      "Duration": {
+        "type": "datetime range"
+      }
+    }
+  }
+}
+
+
+Let me know if this meets your requirements!

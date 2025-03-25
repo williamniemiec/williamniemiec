@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Praise Statement": {
+    "parameters": ["statement", "recipient"]
+  },
+  "Recipient Selection": {
+    "parameters": ["recipient options"]
+  },
+  "Message Composition": {
+    "parameters": ["message", "recipient"]
+  },
+  "Send Notification": {
+    "parameters": ["recipient", "message", "praise statement"]
+  }
+}

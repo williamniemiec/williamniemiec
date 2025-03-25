@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+  "Antiemetic Administration": {
+    "Medication": {
+      "Type": "options"
+    },
+    "Dosage": {
+      "Type": "text"
+    },
+    "Frequency": {
+      "Type": "options"
+    },
+    "Duration": {
+      "Type": "datetime range"
+    },
+    "Route": {
+      "Type": "options"
+    }
+  }
+}

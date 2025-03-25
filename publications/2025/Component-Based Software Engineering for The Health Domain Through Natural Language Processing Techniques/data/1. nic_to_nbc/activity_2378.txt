@@ -1,0 +1,31 @@
+Here is the output in JSON format:
+
+
+{
+  "Safety Plan": {
+    "parameters": {
+      "name": "",
+      "strategies": [],
+      "frequency": "",
+      "deadline_date": ""
+    }
+  },
+  "Check-in": {
+    "parameters": {
+      "name": "",
+      "frequency": "",
+      "deadline_date": "",
+      "contact_info": ""
+    }
+  },
+  "Resource List": {
+    "parameters": {
+      "name": "",
+      "resources": [],
+      "frequency": "",
+      "deadline_date": ""
+    }
+  }
+}
+
+Let me know if this is what you were expecting!

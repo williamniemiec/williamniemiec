@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Bladder Distension Evaluation": {
+    "parameters": [
+      {"name": "urination_frequency", "description": "How often have you urinated in the past few hours?"},
+      {"name": "urination_difficulty", "description": "Have you experienced any difficulty urinating?"},
+      {"name": "abdominal_discomfort", "description": "Are you experiencing any abdominal discomfort or pain?"},
+      {"name": "additional_symptoms", "description": "Are you experiencing any other symptoms that may be related to bladder distention?"}
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+Here is the output in JSON format:
+
+
+{
+    "Progress Tracking Method": {
+        "Parameters": {
+            "Goal": {"Type": "text"},
+            "Tracking Methods": {
+                "Type": "list of objects",
+                "Properties": {
+                    "Label": {"Type": "text"},
+                    "Description": {"Type": "text"},
+                    "Type": {
+                        "Type": "options",
+                        "Options": ["Self-Report", "Objective Measure", "Tracker", "Other"]
+                    },
+                    "Frequency": {
+                        "Type": "options",
+                        "Options": ["Daily", "Weekly", "Monthly", "Custom"]
+                    },
+                    "Custom Frequency": {"Type": "text"}
+                }
+            }
+        }
+    }
+}
+
+
+Let me know if this meets your requirements!

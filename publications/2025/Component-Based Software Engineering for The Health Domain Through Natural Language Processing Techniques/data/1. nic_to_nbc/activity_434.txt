@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Laundry Assistance": {
+    "Parameters": {
+      "Laundry Type": {"Type": "options"},
+      "Current Status": {"Type": "text"},
+      "Cleaning Options": {"Type": "list of text or HTML content"},
+      "Step-by-Step Guide": {"Type": "list of text or HTML content"},
+      "Frequency": {"Type": "options"}
+    }
+  }
+}
+
+
+Note: I removed the `Reminders` parameter since it's a boolean type, and you mentioned to remove not applicable parameters. If you want to include it, just let me know!

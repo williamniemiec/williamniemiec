@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+    "Side Effect Action Plan": {
+        "parameters": [
+            {"Name": {"type": "text"}},
+            {"Medication Name": {"type": "text"}},
+            {"Side Effect": {"type": "text"}},
+            {"Actions to Take": {"type": "list of text"}},
+            {"Contact Information": {"type": "text"}},
+            {"Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]}}
+        ]
+    }
+}
+
+
+Note that I removed the `Deadline Date` parameter since it was marked as not required in the original input. Let me know if you'd like me to include it anyway!

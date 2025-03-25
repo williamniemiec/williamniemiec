@@ -1,0 +1,10 @@
+Here is the output in JSON format:
+
+
+{
+    "Self-Care Guide": {
+        "Content": {"Type": "book-page"},
+        "Frequency": {"Type": "options"},
+        "Side Effects": {"Type": "options"}
+    }
+}

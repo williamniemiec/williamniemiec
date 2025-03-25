@@ -1,0 +1,9 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Administration": {
+    "Name": {"type": "text"},
+    "Medication Options": {}
+  }
+}

@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Family Engagement": {
+    "parameters": {
+      "Child's Schedule": {"type": "datetime", "required": true},
+      "Family Member Roles": {"type": "options", "required": true},
+      "Communication Platform": {"type": "text/html", "required": true},
+      "Goal Setting": {"type": "text", "required": true},
+      "Progress Tracking": {"type": "datetime", "required": true}
+    }
+  }
+}
+
+
+Note that I removed the "Resources" parameter since it was marked as not required (`"Required": false`). Let me know if you need anything else!

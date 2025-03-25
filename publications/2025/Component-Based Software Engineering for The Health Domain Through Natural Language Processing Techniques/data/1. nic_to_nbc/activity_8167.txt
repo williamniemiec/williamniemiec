@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Parenthood Preparation Module": {
+    "Module Topics": "list of text",
+    "Learning Objectives": "list of text",
+    "Interactive Exercises": "list of interactive exercise types",
+    "Resources": "list of resource types",
+    "Progress Tracking": "list of progress tracking methods",
+    "Frequency": "daily, weekly, monthly",
+    "Deadline Date": "datetime"
+  }
+}

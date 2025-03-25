@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Symptom Checker": {
+    "Parameters": {
+      "Symptoms": ["Hyperventilation", "Mechanical over-ventilation", "Hepatic disease", "Pregnancy", "Septicemia", "Pain", "CNS lesions", "Fever"],
+      "Frequency": ["daily", "onlyOnce", "everyHours", "everyDays"],
+      "Deadline Date": {"Type": "datetime"}
+    }
+  },
+  "Question": {
+    "Parameters": {
+      "Question 1": {"Answer type": "Yes/No"},
+      "Question 2": {"Answer type": "Yes/No"},
+      "Question 3": {"Answer type": "Yes/No"},
+      "Frequency": ["daily", "onlyOnce", "everyHours", "everyDays"],
+      "Deadline Date": {"Type": "datetime"}
+    }
+  }
+}

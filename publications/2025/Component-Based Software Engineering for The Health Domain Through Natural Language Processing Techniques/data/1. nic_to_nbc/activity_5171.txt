@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "IV Fluid Administration Guide": {
+    "SIADH Status": {
+      "type": "boolean"
+    },
+    "IV Fluid Type": {
+      "type": "options",
+      "options": ["list of available IV fluids, including hypotonic and isotonic options"]
+    },
+    "Administration Rate": {
+      "type": "text"
+    },
+    "Fluid Balance Monitoring": {
+      "type": "list",
+      "items": ["fluid input", "fluid output", "electrolyte levels", "etc."]
+    }
+  }
+}

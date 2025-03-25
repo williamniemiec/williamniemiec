@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+  "Vital Sign Tracking": {
+    "Parameters": {
+      "Vital Sign": {"Type": "text"},
+      "Unit": {"Type": "text"},
+      "Target Range": {"Type": "range"},
+      "Frequency": {"Type": "options", "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"Type": "datetime"}
+    }
+  },
+  "Symptom Tracking": {
+    "Parameters": {
+      "Symptom": {"Type": "text"},
+      "Severity": {"Type": "options", "Options": ["mild", "moderate", "severe"]},
+      "Frequency": {"Type": "options", "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"Type": "datetime"}
+    }
+  }
+}

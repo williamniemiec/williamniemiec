@@ -1,0 +1,34 @@
+Here is the output in JSON format:
+
+
+{
+  "Code Blue Review": {
+    "parameters": [
+      {
+        "name": "Content",
+        "type": "text or html"
+      },
+      {
+        "name": "Procedures",
+        "type": "list of objects",
+        "items": [
+          {
+            "Procedure": "text",
+            "Description": "text",
+            "Steps": "list of text"
+          }
+        ]
+      },
+      {
+        "name": "Resources",
+        "type": "list of objects",
+        "items": [
+          {
+            "Resource": "text or html",
+            "Description": "text"
+          }
+        ]
+      }
+    ]
+  }
+}

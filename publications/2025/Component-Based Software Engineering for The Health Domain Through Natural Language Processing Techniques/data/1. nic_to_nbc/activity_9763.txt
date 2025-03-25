@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Inspection": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Description": {"Type": "text"},
+      "Frequency": {"Type": "options", "Options": ["every8Hours", "every12Hours", "custom"]},
+      "Instructions": {"Type": "text"}
+    }
+  }
+}

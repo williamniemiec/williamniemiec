@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Coughing Encouragement": {
+    "parameters": {
+      "Coughing Instructions": {},
+      "Timing": {},
+      "Frequency": {},
+      "Reminders": {}
+    }
+  }
+}

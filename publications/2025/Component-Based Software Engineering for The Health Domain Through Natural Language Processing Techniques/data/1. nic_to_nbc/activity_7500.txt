@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+
+{
+    "Key Point": {
+        "Parameters": {
+            "Title": {
+                "Type": "text"
+            },
+            "Content": {
+                "Type": "rich text or multimedia"
+            },
+            "Emphasis": {
+                "Type": "options (e.g., bold, italic, highlighted)"
+            },
+            "Frequency": {
+                "Type": "options (e.g., daily, weekly, monthly, etc.)"
+            },
+            "Reminder": {
+                "Type": "boolean (true or false)"
+            }
+        }
+    }
+}

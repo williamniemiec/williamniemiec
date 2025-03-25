@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Diaper Output Tracking",
+  "parameters": [
+    {
+      "name": "Diaper Output Method"
+    },
+    {
+      "name": "Diaper Count Goal"
+    },
+    {
+      "name": "Diaper Weight Goal"
+    },
+    {
+      "name": "Tracking Frequency"
+    },
+    {
+      "name": "Reminders"
+    }
+  ]
+}
+
+
+I removed the non-applicable parameters (Additional Resources) and kept only the names of the no-code element and its parameters. Let me know if this is what you were expecting!

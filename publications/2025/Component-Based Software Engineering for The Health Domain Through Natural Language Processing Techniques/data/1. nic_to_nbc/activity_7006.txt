@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Oral Health Restoration Plan": {
+    "Activity": ["Use of artificial saliva", "Use of saliva stimulants", "Use of non-alcohol based mouth sprays", "Use of sugarless mints", "Fluoride treatments"],
+    "Instructions": ["How to use artificial saliva", "How to use saliva stimulants", "How to use non-alcohol based mouth sprays", "How to use sugarless mints", "How to receive fluoride treatments"],
+    "Frequency": ["daily", "onlyOnce", "everyHours", "everyDays"],
+    "Duration": ["How long to use artificial saliva", "How long to use saliva stimulants"],
+    "Reminders": {"Type": "datetime"},
+    "Tracking": {"Type": "boolean"}
+  }
+}
+
+
+Let me know if you need any further assistance!

@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "ECG Request": {
+    "Parameters": {
+      "Reason": {},
+      "Instructions": {},
+      "Deadline Date": {},
+      "ECG Result": {}
+    }
+  }
+}

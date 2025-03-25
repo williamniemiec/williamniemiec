@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Self-Help Coach": {
+    "Parameters": {
+      "Skill Type": {"Type": "options"},
+      "Simulation Type": {"Type": "options"},
+      "Step-by-Step Guide": {"Type": "text"},
+      "Interactive Elements": {"Type": "options"},
+      "Repetition": {"Type": "integer"},
+      "Reward": {"Type": "text"}
+    }
+  }
+}
+
+
+Let me know if this is what you were expecting!

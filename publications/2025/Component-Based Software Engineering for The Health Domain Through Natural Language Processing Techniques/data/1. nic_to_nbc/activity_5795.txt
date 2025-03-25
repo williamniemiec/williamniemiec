@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Consequence Identification": {
+    "Parameters": {
+      "Contract/Agreement": {"Type": "text"},
+      "Consequences": {"Type": "list of text", "Examples": ["financial penalties", "loss of privileges", "additional responsibilities"]},
+      "Desired Outcome": {"Type": "text", "Examples": ["increased motivation", "improved accountability", "enhanced responsibility"]},
+      "Individual Input": {"Type": "text"},
+      "Agreement": {"Type": "boolean"}
+    }
+  }
+}

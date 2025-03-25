@@ -1,0 +1,29 @@
+Here is the output in JSON format:
+
+{
+  "Pain Relief and Comfort Plan": {
+    "Parameters": {
+      "Pain Assessment": {
+        "Type": "options",
+        "Options": ["numerical rating scale (e.g., 1-10)", "verbal rating scale (e.g., mild, moderate, severe)"]
+      },
+      "Pain Relief Options": {
+        "Type": "list of options",
+        "Description": ["Medication (with dosage and frequency)", "Breathing exercises", "Relaxation techniques (e.g., meditation, deep breathing)", "Heat or cold therapy", "Massage"]
+      },
+      "Comfort Measures": {
+        "Type": "list of options",
+        "Description": ["Positioning adjustments", "Pillow support", "Blanket or heating pad", "Soothing music or white noise"]
+      },
+      "Frequency": {
+        "Type": "options",
+        "Options": ["every 2 hours", "every 4 hours", "daily"]
+      },
+      "Tracking": {
+        "Type": "boolean"
+      }
+    }
+  }
+}
+
+Note that I removed the "Not Applicable" parameters, as per your request.

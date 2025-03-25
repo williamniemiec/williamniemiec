@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+    "Visualization Guide": {
+        "Exercise": {"type": "text"},
+        "Visualization Prompt": {"type": "text"},
+        "Visualization Time": {"type": "text"},
+        "Relaxation Technique": {"type": "options", "options": [
+            {"value": "deepBreathing", "label": "Deep Breathing"},
+            {"value": "progressiveMuscleRelaxation", "label": "Progressive Muscle Relaxation"},
+            {"value": "guidedImagery", "label": "Guided Imagery"},
+            {"value": "none", "label": "None"}
+        ]},
+        "Audio Guidance": {"type": "boolean"}
+    }
+}

@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Injury Photography": {
+    "Parameters": {
+      "Case Number": {},
+      "Photograph Type": {},
+      "Image": {},
+      "Case Number Placement": {},
+      "Injury Visibility": {},
+      "Photograph Notes": {}
+    }
+  }
+}

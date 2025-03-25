@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Coping Mechanisms Development": {
+    "Parameters": {
+      "Current Coping Mechanisms": {},
+      "Goal Setting": {},
+      "Coping Mechanisms Options": {},
+      "Reflection and Planning": {}
+    }
+  }
+}

@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+    "Friction Point Skin Care": {
+        "Parameters": {
+            "Name": {},
+            "Instructions": {},
+            "Friction Point Selection": {},
+            "Skin Care Steps": {},
+            "Frequency": {},
+            "Deadline Date": {},
+            "Photo Upload": {},
+            "Care Log": {}
+        }
+    }
+}

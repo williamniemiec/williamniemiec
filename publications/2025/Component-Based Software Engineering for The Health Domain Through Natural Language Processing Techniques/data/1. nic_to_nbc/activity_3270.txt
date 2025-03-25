@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Nutrition Tracker": {
+    "tracker title": {},
+    "current weight": {},
+    "patient's height": {},
+    "current nutrition status": {},
+    "daily food intake": {},
+    "tracking frequency": {},
+    "additional notes": {}
+  }
+}

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Sensory Play": {
+    "Parameters": [
+      {"Sensory Type": {"type": "options", "options": ["Visual", "Auditory", "Tactile", "Kinetic"]}},
+      {"Activity": {"type": "text", "examples": ["Show the child a picture book or a toy with different colors and shapes.", "Play music or make sounds with instruments.", "Provide playdough or sand for the child to explore.", "Engage in a physical activity like dancing or clapping."]}},
+      {"Intensity": {"type": "slider", "range": "Low to High"}},
+      {"Duration": {"type": "timer", "range": "5-30 minutes"}},
+      {"Tips and Variations": {"type": "text", "examples": ["Use different textures or temperatures to add variety to the tactile activity.", "Incorporate different languages or cultures into the auditory activity."]}}
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+    "Medical Alert Tab": {
+        "Parameters": {
+            "Medical Condition": {"type": "text"},
+            "Alert Tab Type": {"type": "options"},
+            "Importance Message": {"type": "text"},
+            "Resources": {"type": "list of resources"}
+        }
+    },
+    "Reminder": {
+        "Parameters": {
+            "Reminder Message": {"type": "text"},
+            "Reminder Frequency": {"type": "options"}
+        }
+    }
+}

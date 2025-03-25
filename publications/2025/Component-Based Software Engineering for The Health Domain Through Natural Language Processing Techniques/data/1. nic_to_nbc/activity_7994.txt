@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Procedure Explanation": {
+    "Parameters": {
+      "Procedure Description": {"Type": "text"},
+      "Purpose": {"Type": "text"},
+      "Time Period": {"Type": "text"},
+      "FAQs": {"Type": "unordered list"},
+      "Visual Aids": {"Type": "multimedia"}
+    }
+  }
+}

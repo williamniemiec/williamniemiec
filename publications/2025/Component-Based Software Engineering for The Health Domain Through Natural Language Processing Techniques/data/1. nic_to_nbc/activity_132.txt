@@ -1,0 +1,39 @@
+Here is the output in JSON format:
+
+
+[
+    {
+        "name": "Compromise Assessment",
+        "parameters": {
+            "name": "title of the compromise assessment",
+            "questions": "list of questions",
+            "answer_type": "type of answer expected"
+        }
+    },
+    {
+        "name": "Issue Categorization",
+        "parameters": {
+            "name": "title of the issue categorization exercise",
+            "issues": "list of issues",
+            "categories": "list of categories",
+            "type": "type of content"
+        }
+    },
+    {
+        "name": "Reflection and Discussion",
+        "parameters": {
+            "name": "title of the reflection and discussion exercise",
+            "prompt": "question or statement",
+            "answer_type": "type of answer expected",
+            "discussion_guide": "guide for the discussion"
+        }
+    },
+    {
+        "name": "Negotiation Strategies",
+        "parameters": {
+            "name": "title of the negotiation strategies",
+            "strategies": "list of HTML texts or multimedia content",
+            "type": "type of content"
+        }
+    }
+]

@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "Renal Function Tracker": {
+    "parameters": {
+      "Creatinine Level": {"type": "numerical value (e.g., mg/dL)"},
+      "Blood Urea Nitrogen (BUN) Level": {"type": "numerical value (e.g., mg/dL)"},
+      "Glomerular Filtration Rate (GFR)": {"type": "numerical value (e.g., mL/min)"},
+      "Urinary Output": {"type": "numerical value (e.g., mL/day)"},
+      "Symptoms": {
+        "type": "list",
+        "values": ["Nausea", "Vomiting", "Fatigue", "Edema"]
+      },
+      "Notes": {"type": "text"}
+    }
+  },
+  "Lab Result Tracker": {
+    "parameters": {
+      "Lab Results": {"type": "numerical values (e.g., mg/dL, mL/min)"},
+      "Test Dates": {"type": "date"},
+      "Notes": {"type": "text"}
+    }
+  }
+}

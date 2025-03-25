@@ -1,0 +1,4 @@
+Since there is no no-code element associated with this intervention, I will return an empty JSON object:
+
+{}
+Note: There are no parameters specified in the input text, so there's nothing to remove or keep.

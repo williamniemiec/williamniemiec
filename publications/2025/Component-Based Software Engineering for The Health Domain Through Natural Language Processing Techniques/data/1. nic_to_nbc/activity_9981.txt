@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "FAQ": {
+    "Parameters": {
+      "Question": {"Type": "text"},
+      "Answer": {"Type": "text"},
+      "Category": {"Type": "options", "Options": ["General Information", "Process", "Results", "Other"]}
+    }
+  },
+  "Informational Content": {
+    "Parameters": {
+      "Title": {"Type": "text"},
+      "Content": {"Type": "article, video, infographic"},
+      "Summary": {"Type": "text"}
+    }
+  },
+  "Glossary": {
+    "Parameters": {
+      "Term": {"Type": "text"},
+      "Definition": {"Type": "text"}
+    }
+  }
+}

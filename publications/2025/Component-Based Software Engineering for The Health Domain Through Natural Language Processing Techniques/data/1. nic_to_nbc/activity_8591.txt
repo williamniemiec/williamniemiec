@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+    "Quiz": {
+        "questions": "",
+        "answer_options": "",
+        "correct_answers": "",
+        "notes": ""
+    },
+    "Survey": {
+        "questions": "",
+        "answer_options": "",
+        "notes": ""
+    }
+}

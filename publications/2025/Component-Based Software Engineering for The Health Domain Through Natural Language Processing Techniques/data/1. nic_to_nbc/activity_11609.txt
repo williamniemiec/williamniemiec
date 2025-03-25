@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+    "Medication Storage and Monitoring Protocol": {
+        "Parameters": {
+            "Medication List": {"Type": "list of medications"},
+            "Storage Location": {"Type": "text"},
+            "Storage Conditions": {"Type": "text"},
+            "Restocking Schedule": {"Type": "schedule"},
+            "Monitoring Frequency": {"Type": "options", "Options": ["daily", "weekly", "monthly", "etc."]},
+            "Monitoring Criteria": {"Type": "text"},
+            "Alerts and Notifications": {"Type": "alert and notification settings"},
+            "Authorization": {"Type": "text"}
+        }
+    }
+}

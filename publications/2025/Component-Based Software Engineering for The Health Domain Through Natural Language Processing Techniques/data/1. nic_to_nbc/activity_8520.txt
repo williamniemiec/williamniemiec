@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Pin Insertion Site Care": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Device Type": {"Type": "options", "Options": ["skeletalTraction", "externalFixation"]},
+      "Care Instructions": {"Type": "ordered list"},
+      "Frequency": {"Type": "options", "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Tips and Reminders": {"Type": "unordered list"},
+      "Images or Videos": {"Type": "unordered list"}
+    }
+  }
+}
+
+
+Note: I removed the not applicable parameters as per your request. Let me know if you need any further modifications!

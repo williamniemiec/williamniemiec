@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+  "Airway Maintenance": {
+    "Parameters": {
+      "Airway Status": {},
+      "Interventions": {},
+      "Frequency": {},
+      "Notes": {}
+    }
+  },
+  "Airway Assessment": {
+    "Parameters": {
+      "Airway Assessment": {},
+      "Findings": {},
+      "Interventions": {}
+    }
+  }
+}
+
+
+Let me know if this meets your requirements!

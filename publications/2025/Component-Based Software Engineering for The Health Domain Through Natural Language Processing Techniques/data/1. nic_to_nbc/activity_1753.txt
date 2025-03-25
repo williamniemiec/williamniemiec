@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+    "Speech Characteristics Monitoring": {
+        "Name": {"type": "text"},
+        "Speech Task": {"type": "text or audio/video prompt"},
+        "Fluency Rating": {"type": "rating scale"},
+        "Aphasia Presence": {"type": "yes/no or multiple choice"},
+        "Word-Finding Difficulty": {"type": "yes/no or multiple choice"},
+        "Audio/Video Recording": {"type": "audio/video recording"},
+        "Frequency": {"type": "options (daily, onlyOnce, everyHours, everyDays)"},
+        "Deadline Date": {"type": "datetime"}
+    }
+}
+
+
+Let me know if this meets your requirements!

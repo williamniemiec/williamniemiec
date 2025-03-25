@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Patient Instruction": {
+    "Instructional Content": {"Type": "text or multimedia"},
+    "Instructional Timing": {"Type": "categorical"},
+    "Patient Readiness": {"Type": "categorical"},
+    "Instructional Method": {"Type": "categorical"},
+    "Instructional Feedback": {"Type": "text or rating scale"},
+    "Instructional Adaptation": {"Type": "conditional logic"}
+  }
+}

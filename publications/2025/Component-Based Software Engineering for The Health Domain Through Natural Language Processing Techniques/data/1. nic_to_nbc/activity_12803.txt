@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "CVAD Identification": {
+    "parameters": [
+      {"name": "cvad_type", "description": "What type of CVAD do you have?", "required": true, "type": "options", "options": [{"value": "Hickman", "label": "Hickman"}, {"value": "Broviac", "label": "Broviac"}, {"value": "Groshong", "label": "Groshong"}, {"value": "Peripherally Inserted Central Catheter (PICC)", "label": "PICC"}, {"value": "Other", "label": "Other"}]},
+      {"name": "cvad_location", "description": "Where is your CVAD located?", "required": true, "type": "options", "options": [{"value": "arm", "label": "Arm"}, {"value": "chest", "label": "Chest"}, {"value": "leg", "label": "Leg"}, {"value": "other", "label": "Other"}]},
+      {"name": "cvad_insertion_date", "description": "When was your CVAD inserted?", "required": true, "type": "datetime"}
+    ]
+  }
+}

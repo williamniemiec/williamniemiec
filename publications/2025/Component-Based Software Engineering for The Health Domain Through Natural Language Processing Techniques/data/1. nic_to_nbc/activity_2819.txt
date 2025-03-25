@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Alternative Analysis": {
+    "Alternative Options": {"Type": "text or options"},
+    "Advantages": {"Type": "text or table"},
+    "Disadvantages": {"Type": "text or table"},
+    "Reflection Prompts": {"Type": "text or multimedia"},
+    "Decision Support": {"Type": "text or link to external resources"}
+  }
+}

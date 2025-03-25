@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Resource Guide": {
+    "Parameters": {
+      "Title": {"Type": "text"},
+      "Content": {"Type": "html or article"},
+      "Resources": {"Type": "list of resources"},
+      "Tips and Strategies": {"Type": "list of tips and strategies"},
+      "Benefits": {"Type": "text"}
+    }
+  }
+}

@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+    "Positioning Plan": {
+        "Parameters": {
+            "Positioning Type": {
+                "Type": "options",
+                "Options": ["upright", "lateral", "prone", "etc."]
+            },
+            "Positioning Frequency": {
+                "Type": "options",
+                "Options": ["everyHour", "every2Hours", "every4Hours", "etc."]
+            },
+            "Positioning Duration": {
+                "Type": "number"
+            },
+            "Comfort Level": {
+                "Type": "options",
+                "Options": ["comfortable", "uncomfortable", "neutral"]
+            }
+        }
+    }
+}
+
+
+I removed the unnecessary parts and only kept the `{{ NO-CODE ELEMENT NAME }}` (Positioning Plan) and `{{ PARAMETER ESPECIFICATIONS }}`. I also reformatted the parameters to be more JSON-like. Let me know if you need any further modifications!

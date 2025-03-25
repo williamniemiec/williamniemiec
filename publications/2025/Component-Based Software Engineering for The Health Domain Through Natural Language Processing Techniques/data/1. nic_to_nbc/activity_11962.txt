@@ -1,0 +1,14 @@
+
+
+
+{
+  "Supply Management": {
+    "parameters": {
+      "Supply Type": {"type": "options"},
+      "Inventory Tracking": {"type": "boolean"},
+      "Usage Guidelines": {"type": "text"},
+      "Reminders": {"type": "boolean"},
+      "Frequency": {"type": "options"}
+    }
+  }
+}

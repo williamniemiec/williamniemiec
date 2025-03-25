@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Expectation Setting": {
+    "Role": {"type": "text"},
+    "Current Expectations": {"type": "text"},
+    "Realistic Expectations": {"type": "text"},
+    "Challenges": {"type": "text"},
+    "Frequency": {"type": "options"},
+    "Deadline Date": {"type": "datetime"}
+  }
+}
+
+
+Let me know if this meets your requirements!

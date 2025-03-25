@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+    "Injury Explanation Assessment": {
+        "Parameters": {
+            "Questions": ["Can you explain how the child's injury occurred?", "Did the child injure themselves?", "Was another child involved in the injury?", "How long did it take to seek medical treatment for the injury?"],
+            "Answer type": ["Text", "Yes/No"]
+        }
+    },
+    "Red Flag Assessment": {
+        "Parameters": {
+            "Red flags": ["Improbable or inconsistent explanation of the injury", "Allegation of self-injury", "Blame placed on another child", "Delay in seeking medical treatment"],
+            "Answer type": ["Yes/No"],
+            "Scoring": []
+        }
+    }
+}

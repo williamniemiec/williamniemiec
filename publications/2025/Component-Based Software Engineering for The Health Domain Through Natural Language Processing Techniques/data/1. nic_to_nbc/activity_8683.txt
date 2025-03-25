@@ -1,0 +1,36 @@
+Here is the output in JSON format:
+
+
+{
+    "Education Provider": {
+        "Information Type": {"type": "options"},
+        "Patient Information": {"type": "patient object", 
+            "parameters": {
+                "Name": "", 
+                "Medical Record Number": "", 
+                "Date of Birth": ""
+            }
+        },
+        "Family/Significant Others": {"type": "list of family/significant others objects", 
+            "parameters": {
+                "Name": "", 
+                "Relationship": ""
+            }
+        },
+        "Education Method": {"type": "options"},
+        "Education Content": {"type": "education content object", 
+            "parameters": {
+                "Title": "", 
+                "Description": "", 
+                "Content": ""
+            }
+        },
+        "Confirmation": {"type": "confirmation object", 
+            "parameters": {
+                "Date": "", 
+                "Time": "", 
+                "Confirmation Status": true
+            }
+        }
+    }
+}

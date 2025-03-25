@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication and Supply Order": {
+    "medication_name": "",
+    "medication_description": "",
+    "supply_name": "",
+    "supply_description": "",
+    "ordering_process": "",
+    "delivery_confirmation": ""
+  }
+}

@@ -1,0 +1,33 @@
+Here is the output in JSON format:
+
+
+{
+  "Exercise Performance Guidance": {
+    "parameters": {
+      "exercise_type": {
+        "type": "options",
+        "values": ["PROM", "AROM"]
+      },
+      "joint_specific_guidance": {
+        "type": "list of joint objects",
+        "properties": {
+          "joint_name": {"type": "text"},
+          "exercise_instructions": {"type": "text or multimedia content"}
+        }
+      },
+      "exercise_frequency": {
+        "type": "options",
+        "values": ["daily", "everyOtherDay", "every2Days", "every3Days"]
+      },
+      "exercise_duration": {"type": "numeric value"},
+      "progress_tracking": {
+        "type": "list of log objects",
+        "properties": {
+          "exercise_name": {"type": "text"},
+          "date": {"type": "date value"},
+          "notes": {"type": "text"}
+        }
+      }
+    }
+  }
+}

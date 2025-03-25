@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+  "Task": {
+    "name": "title of the task (e.g., \"Attend CPR Classes\")",
+    "description": "text describing the importance of attending CPR classes",
+    "family_member_involved": "boolean indicating if a family member is involved in the task",
+    "cpr_class_details": {
+      "location": "text describing the location of the CPR classes",
+      "schedule": "text describing the schedule of the CPR classes",
+      "registration": "text describing how to register for the CPR classes"
+    }
+  },
+  "Resource": {
+    "name": "title of the resource (e.g., \"CPR Class Information\")",
+    "type": "type of resource (e.g., article, video, website)",
+    "content": "the actual resource content (e.g., text, URL, phone number)"
+  }
+}

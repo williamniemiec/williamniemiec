@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+"Journal": {
+    "parameters": {
+        "prompt": "",
+        "text_area": "",
+        "notes": ""
+    }
+},
+"Conversation Starter": {
+    "parameters": {
+        "questions": "",
+        "notes": ""
+    }
+}
+}

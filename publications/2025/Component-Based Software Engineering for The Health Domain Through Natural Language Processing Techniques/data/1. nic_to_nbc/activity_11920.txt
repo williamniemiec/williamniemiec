@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "Parameters": {
+    "Instructions": {
+      "Type": "text",
+      "Required": true
+    },
+    "Container Type": {
+      "Type": "options",
+      "Required": true,
+      "Options": "list of common medication container types"
+    },
+    "Assessment": {
+      "Type": "boolean",
+      "Required": true
+    },
+    "Feedback": {
+      "Type": "text",
+      "Required": false
+    }
+  },
+  "No-code Element Name": "Medication Container Assessment"
+}

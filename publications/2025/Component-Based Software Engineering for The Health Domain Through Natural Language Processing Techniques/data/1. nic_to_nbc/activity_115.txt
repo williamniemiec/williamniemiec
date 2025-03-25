@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+    "Social Connection Activity": {
+        "Activity Type": {},
+        "Contact List": {},
+        "Frequency": {},
+        "Deadline Date": {},
+        "Conversation Topics": {}
+    },
+    "Social Calendar": {
+        "Event List": {},
+        "Frequency": {},
+        "Deadline Date": {},
+        "Reminders": {}
+    }
+}

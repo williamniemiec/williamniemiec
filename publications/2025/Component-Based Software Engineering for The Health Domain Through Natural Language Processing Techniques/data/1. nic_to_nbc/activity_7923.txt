@@ -1,0 +1,43 @@
+Here is the output in JSON format:
+
+
+{
+  "Catheter Tip Orientation": {
+    "parameters": {
+      "name": "title of the catheter tip orientation",
+      "image": "image of the catheter tip and vein wall",
+      "orientation": "text describing the orientation of the catheter tip (e.g., \"Perpendicular\", \"Parallel\")",
+      "risk_level": "text indicating the risk level associated with the catheter tip orientation (e.g., \"High risk\", \"Low risk\")",
+      "frequency": "how often the catheter tip orientation should be reviewed",
+      "deadline_date": "due date for reviewing the catheter tip orientation"
+    }
+  },
+  "Risk Assessment": {
+    "parameters": {
+      "name": "title of the risk assessment",
+      "score": "numerical score indicating the risk level (e.g., 1-5)",
+      "risk_level": "text indicating the risk level associated with the score (e.g., \"High risk\", \"Low risk\")",
+      "frequency": "how often the risk assessment should be updated",
+      "deadline_date": "due date for updating the risk assessment"
+    }
+  },
+  "Alert": {
+    "parameters": {
+      "name": "title of the alert",
+      "message": "text of the alert (e.g., \"Catheter tip positioned perpendicular to vein wall - high risk of vessel erosion and other complications\")",
+      "frequency": "how often the alert should be sent",
+      "deadline_date": "due date for sending the alert"
+    }
+  },
+  "Complication List": {
+    "parameters": {
+      "name": "title of the complication list",
+      "complications": "list of potential complications (e.g., \"Vessel erosion\", \"Hydrothorax\", \"Hydromediastinum\", \"Tamponade\", \"Extravasation\")",
+      "frequency": "how often the complication list should be reviewed",
+      "deadline_date": "due date for reviewing the complication list"
+    }
+  }
+}
+
+
+Note that I removed the "Introduction" and "Conclusion" sections, as well as the "Common Parameters" section, since they were not part of the requested output.

@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Traction Device Setup Monitoring": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Device Type": {"Type": "options", "Options": [{"value": "skeletalTraction", "label": "Skeletal Traction"}, {"value": "externalFixation", "label": "External Fixation"}]},
+      "Monitoring Instructions": {"Type": "ordered list"},
+      "Frequency": {"Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Reporting": {"Type": "options", "Options": [{"value": "photo", "label": "Take a photo"}, {"value": "text", "label": "Write a description"}]},
+      "Images or Videos": {"Type": "unordered list"}
+    }
+  }
+}

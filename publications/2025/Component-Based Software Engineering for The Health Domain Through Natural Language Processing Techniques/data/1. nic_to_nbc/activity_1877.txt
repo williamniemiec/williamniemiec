@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Care Planning Collaboration": {
+    "Therapy and Lifestyle Change Options": {},
+    "Family Member Input": {},
+    "Care Plan Goals": {},
+    "Task Assignment": {},
+    "Progress Tracking": {},
+    "Communication Forum": {}
+  }
+}

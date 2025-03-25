@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Organ Donation Card Status": {
+    "parameters": {
+      "Patient ID": {"type": "text"},
+      "Organ Donation Card Status": {"type": "boolean"}
+    }
+  }
+}

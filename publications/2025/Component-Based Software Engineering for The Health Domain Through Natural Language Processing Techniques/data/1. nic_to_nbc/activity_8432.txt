@@ -1,0 +1,9 @@
+Here is the output in JSON format:
+
+
+{
+  "Parameters": {
+    "Content Type": "Care Plan"
+  },
+  "No-code Element Name": "Therapy Collaborator"
+}

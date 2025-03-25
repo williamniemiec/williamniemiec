@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Activity Planner": {
+    "parameters": {
+      "Activity": {"type": "text"},
+      "Safety Considerations": {"type": "list of text"},
+      "Modifications": {"type": "text"}
+    }
+  }
+}

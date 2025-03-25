@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+    "Medication Schedule Adjustment": {
+        "Parameters": {
+            "Name": {"Type": "text"},
+            "Medications": {"Type": "unordered list"},
+            "Current Schedule": {"Type": "table"},
+            "Sleep/Wake Cycle": {"Type": "options", "Options": ["morning lark (early riser)", "night owl (late sleeper)", "standard (average sleep schedule)", "custom"]},
+            "Adjusted Schedule": {"Type": "table"},
+            "Reason for Adjustment": {"Type": "text"}
+        }
+    }
+}

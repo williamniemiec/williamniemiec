@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+{
+    "name": "Social Connection Tracker",
+    "parameters": [
+        {
+            "name": "Social Connection Type",
+            "type": "options"
+        },
+        {
+            "name": "Frequency of Contact",
+            "type": "options"
+        },
+        {
+            "name": "Quality of Interaction",
+            "type": "options"
+        },
+        {
+            "name": "Reflection",
+            "type": "text"
+        },
+        {
+            "name": "Frequency",
+            "type": "options"
+        }
+    ]
+}

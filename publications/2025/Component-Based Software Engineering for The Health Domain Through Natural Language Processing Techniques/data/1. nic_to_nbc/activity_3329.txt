@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+    "Enhanced Supervision Configuration": [
+        {"name": "supervision mode", "description": "mode of supervision when outside secure environment", "type": "options", "options": [{"value": "handHolding", "label": "Hold hands"}, {"value": "increasedStaffRatio", "label": "Increase staff-to-patient ratio"}, {"value": "escort", "label": "Escort patient"}, {"value": "other", "label": "Other (please specify)"}]},
+        {"name": "staff-to-patient ratio", "description": "ratio of staff to patients when outside secure environment", "type": "number"},
+        {"name": "escort personnel", "description": "personnel responsible for escorting patient", "type": "text"},
+        {"name": "supervision frequency", "description": "frequency of supervision when outside secure environment", "type": "options", "options": [{"value": "continuous", "label": "Continuous monitoring"}, {"value": "frequentChecks", "label": "Frequent checks"}, {"value": "periodicMonitoring", "label": "Periodic monitoring"}, {"value": "other", "label": "Other (please specify)"}]}
+    ]
+}

@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+    "medication": {
+        "type": "text"
+    },
+    "dose": {
+        "type": ["text", "numeric"]
+    },
+    "protocol": {
+        "type": ["text", "reference to a protocol document"]
+    },
+    "order": {
+        "type": ["text", "reference to a physician's order document"]
+    },
+    "administration": {
+        "type": ["list of text", "JSON object"]
+    },
+    "verification": {
+        "type": "boolean"
+    }
+}
+
+
+Let me know if you need any further assistance!

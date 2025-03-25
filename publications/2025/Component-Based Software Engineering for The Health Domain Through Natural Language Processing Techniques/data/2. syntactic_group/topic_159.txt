@@ -1,0 +1,10 @@
+{
+  "name": "Trial Weaning and Aspirating Medication",
+  "description": "Involves trial weaning processes and monitoring for aspirating during medication use. Includes using a syringe and warnings for potential complications, such as aspiration or improper medication administration.",
+  "type": "non-periodic",
+  "input": ["Trial weaning", "Aspirating medication", "Syringe use", "Medication warnings", "Alert management"],
+  "output": ["Weaning process feedback", "Aspirating risk assessment", "Medication administration report"],
+  "preconditions": ["User is conducting or monitoring trial weaning of medication"],
+  "postconditions": ["Safe administration with minimized aspiration risks"],
+  "dependencies": ["Weaning and medication platforms", "Syringe and medication administration tools"]
+}

@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+    "Educational Content": {
+        "Title": {"Type": "text"},
+        "Content": {"Type": "article or video"},
+        "Summary": {"Type": "text"},
+        "Quiz": {"Type": "quiz questions"}
+    }
+}

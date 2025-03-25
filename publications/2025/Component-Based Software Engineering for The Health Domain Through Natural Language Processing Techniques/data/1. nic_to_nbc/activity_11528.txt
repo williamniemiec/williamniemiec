@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Self-Hypnosis Response Tracker": {
+    "Response Rating": {"Type": "rating scale (e.g., 1-5)"},
+    "Symptom Tracking": {"Type": "numerical value or rating scale"},
+    "Frequency of Practice": {"Type": "frequency picker (e.g., daily, 3 times a week)"},
+    "Duration of Practice": {"Type": "time picker (e.g., 10 minutes, 20 minutes)"},
+    "Notes": {"Type": "text"},
+    "Goal Progress": {"Type": "percentage complete or rating scale"}
+  }
+}
+
+
+I removed the `Alerts` parameter since it's a boolean type and not applicable in this context. Let me know if you need any further assistance!

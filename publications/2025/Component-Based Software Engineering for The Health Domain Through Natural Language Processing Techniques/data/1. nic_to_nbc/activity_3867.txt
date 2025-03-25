@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+  "Vital Sign Monitoring": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Vital Signs": {"Type": "options"},
+      "Frequency": {"Type": "options"},
+      "Threshold Values": {"Type": "numerical values"},
+      "Notification": {"Type": "options"}
+    }
+  },
+  "Question": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Content": {"Type": "text"},
+      "Answer Type": {"Type": "options"},
+      "Frequency": {"Type": "options"},
+      "Deadline Date": {"Type": "datetime"}
+    }
+  }
+}

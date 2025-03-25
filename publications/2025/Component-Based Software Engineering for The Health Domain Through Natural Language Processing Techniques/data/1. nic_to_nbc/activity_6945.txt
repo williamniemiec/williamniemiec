@@ -1,0 +1,4 @@
+Since there is no no-code element specified in the input text, my output will be an empty JSON object:
+
+
+{}

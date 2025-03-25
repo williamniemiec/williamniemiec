@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+    "oral_health_instruction": {
+        "parameters": [
+            {"name": "flossing_instruction", "type": "text"},
+            {"name": "brushing_instruction", "type": "text"},
+            {"name": "rinsing_instruction", "type": "text"},
+            {"name": "nutrition_instruction", "type": "text"},
+            {"name": "fluoride_instruction", "type": "text"},
+            {"name": "developmental_level", "type": "options", "options": [{"value": "child"}, {"value": "adolescent"}, {"value": "adult"}]},
+            {"name": "self_care_ability", "type": "options", "options": [{"value": "independent"}, {"value": "assistance_required"}]}
+        ]
+    }
+}

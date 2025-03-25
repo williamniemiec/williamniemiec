@@ -1,0 +1,10 @@
+{
+  "name": "Hair Grooming and Care",
+  "description": "Covers various hair grooming techniques, including shaving, scalp care, combing, oil application, conditioning, brushing, and styling.",
+  "type": "non-periodic",
+  "input": ["Hair grooming techniques", "Shaving", "Scalp care", "Combing and brushing", "Oil and conditioner application", "Styling tips"],
+  "output": ["Grooming feedback", "Hair care recommendation", "Styling guidance"],
+  "preconditions": ["User is performing hair care or grooming tasks"],
+  "postconditions": ["Well-groomed hair and improved scalp health"],
+  "dependencies": ["Grooming tools", "Hair care resources", "Styling guides"]
+}

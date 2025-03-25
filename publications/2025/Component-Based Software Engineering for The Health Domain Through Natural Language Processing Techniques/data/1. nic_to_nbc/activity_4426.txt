@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "NO-CODE ELEMENT NAME": "",
+  "PARAMETER ESPECIFICATIONS": [
+    "* Physical handling and storage of paper records",
+    "* Technical expertise to ensure proper storage and preservation of records",
+    "* Clinical judgment to ensure accuracy and completeness of records",
+    "* Knowledge of institutional policies and procedures for record-keeping"
+  ]
+}

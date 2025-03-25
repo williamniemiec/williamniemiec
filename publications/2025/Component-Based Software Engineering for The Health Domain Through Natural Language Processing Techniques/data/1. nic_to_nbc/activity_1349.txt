@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Education and Childcare Information": {
+    "School/Day Care List": {},
+    "Programs and Services": {},
+    "Eligibility Criteria": {},
+    "Contact Information": {},
+    "Additional Resources": {}
+  }
+}

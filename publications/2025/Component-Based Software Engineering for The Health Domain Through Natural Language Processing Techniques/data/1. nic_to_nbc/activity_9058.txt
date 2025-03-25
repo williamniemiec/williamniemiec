@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Aerochamber Tutorial": {
+    "aerochamber type": {"type": ["text", "selection from a list of aerochamber types"]},
+    "step-by-step instructions": {"type": ["text", "images", "videos"]},
+    "demonstration": {"type": ["video", "interactive module"]},
+    "practice exercises": {"type": ["interactive module", "quiz"]}
+  },
+  "Aerochamber Guide": {
+    "aerochamber instructions": {"type": ["text", "images"]},
+    "troubleshooting tips": {"type": ["text", "images"]}
+  }
+}

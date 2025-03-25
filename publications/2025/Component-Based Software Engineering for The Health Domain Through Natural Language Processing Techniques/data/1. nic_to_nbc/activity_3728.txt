@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Moisture-Absorbing Powder Application": {
+    "Parameters": {
+      "Name": {
+        "Type": "text"
+      }
+    }
+  }
+}

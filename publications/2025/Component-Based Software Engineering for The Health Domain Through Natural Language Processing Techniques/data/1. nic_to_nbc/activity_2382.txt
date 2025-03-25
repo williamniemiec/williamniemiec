@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Outcome Preparer": {
+    "Goal": {"type": "text"},
+    "Outcome Levels": {"type": "list", "itemProperties": ["level description", "criteria", "weight"]},
+    "Behavioral Outcomes": {"type": "list", "itemProperties": ["outcome description", "level", "criteria"]},
+    "Scaling Criteria": {"type": "text"},
+    "Weighting": {"type": "number"},
+    "Goal Attainment Scale": {"type": "number"}
+  }
+}

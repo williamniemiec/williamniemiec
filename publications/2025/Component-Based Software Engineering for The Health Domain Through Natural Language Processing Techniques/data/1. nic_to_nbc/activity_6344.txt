@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Hair Growth Reassurance": {
+    "Message": {},
+    "Frequency": {},
+    "Deadline": {},
+    "Additional Info": {}
+  }
+}

@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Extremity Assessment": {
+    "parameters": {
+      "Extremity": ["right arm", "left arm", "right leg", "left leg", "others"],
+      "Assessment Frequency": ["every 15 minutes", "every 30 minutes", "every hour", "others"],
+      "Color": ["normal", "pale", "cyanotic", "red", "others"],
+      "Temperature": ["normal", "cool", "warm", "hot", "others"],
+      "Sensation": ["normal", "numb", "tingling", "painful", "others"],
+      "Notes": "text"
+    }
+  }
+}

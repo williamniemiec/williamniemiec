@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Outcome Negotiation": {
+    "parameters": [
+      {"Issue": {"type": "text"}},
+      {"Possible Outcomes": {"type": "list of text"}},
+      {"Evaluation Criteria": {"type": "list of text"}},
+      {"Negotiation Technique": {"type": "options", "options": ["compromise", "trade-off", "prioritization"]}},
+      {"Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]}}
+    ]
+  }
+}
+
+
+Note that I removed the `Deadline Date` parameter since it was marked as not required (`"required": false`). Let me know if you'd like me to include it anyway!

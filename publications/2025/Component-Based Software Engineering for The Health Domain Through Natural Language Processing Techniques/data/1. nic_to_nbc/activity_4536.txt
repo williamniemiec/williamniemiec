@@ -1,0 +1,13 @@
+
+
+
+{
+    "Positioning Guide": {
+        "Parameters": {
+            "Positioning Instructions": {"Type": "text"},
+            "Image": {"Type": "image"},
+            "Frequency": {"Type": "options"},
+            "Additional Tips": {"Type": "text"}
+        }
+    }
+}

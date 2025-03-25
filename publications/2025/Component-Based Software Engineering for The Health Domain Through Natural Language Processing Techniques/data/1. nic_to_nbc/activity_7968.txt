@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+    "Recreational Activity Reflection": {
+        "Activity List": {"type": "list of text"},
+        "Reflection Questions": {"type": "list of text questions"},
+        "Answer Type": {"type": "options (e.g., text, selection)"},
+        "Frequency": {"type": "options (e.g., daily, weekly, monthly)"},
+        "Deadline Date": {"type": "datetime"}
+    },
+    "Personal Meaning Exploration": {
+        "Exploration Questions": {"type": "list of text questions"},
+        "Answer Type": {"type": "options (e.g., text, selection)"},
+        "Frequency": {"type": "options (e.g., daily, weekly, monthly)"},
+        "Deadline Date": {"type": "datetime"}
+    }
+}

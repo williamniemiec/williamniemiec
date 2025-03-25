@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+    "Reorientation": {
+        "parameters": [
+            {"Provider Information": {"type": "text or HTML"}},
+            {"Frequency": {"options": ["daily", "onlyOnce", "everyHours", "everyDays"]}},
+            {"Deadline Date": {"type": "datetime"}}
+        ]
+    }
+}

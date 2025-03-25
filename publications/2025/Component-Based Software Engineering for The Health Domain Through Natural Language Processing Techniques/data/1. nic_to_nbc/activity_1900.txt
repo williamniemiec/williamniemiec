@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Speech Pathology Referral": {
+    "parameters": {
+      "Reason for Referral": {"type": "text"},
+      "Consult Type": {"type": "options", "options": ["in-person", "video", "phone", "etc."]},
+      "Urgency": {"type": "options", "options": ["immediate", "routine", "etc."]},
+      "Additional Information": {"type": "text"},
+      "Resource": {"type": "text"}
+    }
+  }
+}

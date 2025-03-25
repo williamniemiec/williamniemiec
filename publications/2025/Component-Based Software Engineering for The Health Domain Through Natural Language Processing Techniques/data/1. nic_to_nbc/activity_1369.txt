@@ -1,0 +1,32 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Warm-Up and Cool-Down Guide",
+    "parameters": [
+        { 
+            "name": "Name", 
+            "type": "text"
+        },
+        { 
+            "name": "Warm-Up Techniques", 
+            "type": "book-page"
+        },
+        { 
+            "name": "Cool-Down Techniques", 
+            "type": "book-page"
+        },
+        { 
+            "name": "Importance", 
+            "type": "book-page"
+        },
+        { 
+            "name": "Videos", 
+            "type": "video"
+        },
+        { 
+            "name": "Tips", 
+            "type": "unordered list"
+        }
+    ]
+}

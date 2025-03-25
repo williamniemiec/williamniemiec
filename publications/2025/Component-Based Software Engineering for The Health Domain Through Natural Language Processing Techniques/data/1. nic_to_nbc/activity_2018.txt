@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Family Routine": {
+    "Routine Type": ["private meals", "family discussions", "other"],
+    "Frequency": ["daily", "weekly", "biweekly", "monthly"],
+    "Duration": "text",
+    "Reminders": "boolean",
+    "Notes": "text"
+  }
+}

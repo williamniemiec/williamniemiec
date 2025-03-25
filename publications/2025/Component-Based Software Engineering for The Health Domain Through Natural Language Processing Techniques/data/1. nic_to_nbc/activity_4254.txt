@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "noCodeElementName": "Log Entry",
+  "parameterSpecifications": {
+    "name": "Record Seizure Length",
+    "content": "Please enter the length of the seizure in minutes and seconds.",
+    "answerType": "duration",
+    "frequency": "onlyOnce"
+  }
+}

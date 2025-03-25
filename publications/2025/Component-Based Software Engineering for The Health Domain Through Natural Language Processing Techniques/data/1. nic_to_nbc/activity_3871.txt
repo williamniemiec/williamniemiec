@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Formula Storage Guide": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Content": {"Type": "multimedia (text, images, videos)"},
+      "Format": {"Type": "options (video, interactive tutorial, PDF)"},
+      "Storage Conditions": {"Type": "text"},
+      "Expiration Date": {"Type": "text"},
+      "Storage Location": {"Type": "text"},
+      "Frequency": {"Type": "options (one-time, daily, weekly, monthly)"}
+    }
+  }
+}

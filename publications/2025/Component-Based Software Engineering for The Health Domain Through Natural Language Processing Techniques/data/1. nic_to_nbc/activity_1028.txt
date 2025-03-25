@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Harmful Object Removal Checklist": {
+    "parameters": [
+      {"Name": {"type": "text"}},
+      {"Object List": {"type": "checklist", "checklist": ["Medications", "Sharp objects", "Heavy objects", "Electrical appliances"]}},
+      {"Removal Instructions": {"type": "text"}}
+    ]
+  }
+}

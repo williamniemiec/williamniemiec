@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "Patient Positioning": {
+    "Position": {
+      "options": ["supine", "lateral", "prone", "others"]
+    },
+    "Frequency": {
+      "options": ["every 2 hours", "every 4 hours", "as needed", "others"]
+    },
+    "Support Devices": {
+      "options": ["pillows", "wedges", "others"]
+    },
+    "Aspiration Prevention": {
+      "options": ["elevate head of bed", "others"]
+    },
+    "Skin Breakdown Prevention": {
+      "options": ["turning", "repositioning", "others"]
+    },
+    "Notes": {
+      "type": "text"
+    }
+  }
+}

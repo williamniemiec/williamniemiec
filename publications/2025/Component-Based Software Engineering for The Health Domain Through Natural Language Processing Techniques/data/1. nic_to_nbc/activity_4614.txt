@@ -1,0 +1,29 @@
+Here is the output in JSON format:
+
+
+{
+  "behavioral expectations": {
+    "Cognitive Functioning Level": {
+      "Type": "options",
+      "Options": ["mildImpairment", "moderateImpairment", "severeImpairment", "noImpairment"]
+    },
+    "Self-Control Capacity": {
+      "Type": "options",
+      "Options": ["low", "moderate", "high"]
+    },
+    "Behavioral Expectations": {
+      "Type": "list of options",
+      "Options": ["respectForOthers", "respectForProperty", "adherenceToRules", "other"]
+    },
+    "Consequences": {
+      "Type": "list of options",
+      "Options": ["verbalWarning", "removalOfPrivileges", "timeOut", "other"]
+    },
+    "Rationale": {
+      "Type": "text"
+    }
+  }
+}
+
+
+I removed all unnecessary text and kept only the `{{ NO-CODE ELEMENT NAME }}` and `{{ PARAMETER ESPECIFICATIONS }}`. I also formatted the output in JSON format as requested. Let me know if you need any further assistance!

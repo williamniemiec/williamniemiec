@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+    "Mindfulness Prompt": {
+        "Prompt": ["Take a deep breath and focus on the present moment.", "Let go of distractions and prioritize this interaction.", "Be fully present and engaged in this conversation."],
+        "Tone": ["Calm", "Focused", "Non-judgmental"],
+        "Frequency": ["daily", "weekly", "monthly"],
+        "Deadline Date": {"type": "datetime"}
+    },
+    "Self-Reflection Question": {
+        "Question": ["What biases or assumptions might I be bringing to this interaction?", "What personal concerns might be distracting me from fully engaging with this patient?", "How can I set aside my own biases and distractions to focus on this patient's needs?"],
+        "Response Type": ["Text", "Audio", "Video"],
+        "Frequency": ["daily", "weekly", "monthly"],
+        "Deadline Date": {"type": "datetime"}
+    }
+}

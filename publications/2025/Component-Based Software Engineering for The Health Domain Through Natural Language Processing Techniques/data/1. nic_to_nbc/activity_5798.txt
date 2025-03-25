@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Environmental Preparation": {
+    "parameters": {
+      "name": {"type": "text"},
+      "instructions": {"type": "text"},
+      "frequency": {"type": "options"},
+      "deadline_date": {"type": "datetime"}
+    }
+  }
+}

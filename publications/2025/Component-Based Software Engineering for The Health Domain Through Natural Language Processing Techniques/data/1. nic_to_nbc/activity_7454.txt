@@ -1,0 +1,33 @@
+Here is the output in JSON format:
+
+
+{
+    "Survey": {
+        "parameters": {
+            "name": {"type": "text"},
+            "questions": {"type": "list"},
+            "frequency": {"options": ["daily", "weekly"]}
+        }
+    },
+    "Tracking": {
+        "parameters": {
+            "name": {"type": "text"},
+            "type": {"type": "text"},
+            "frequency": {"options": ["daily", "weekly"]}
+        }
+    },
+    "Rating Scale": {
+        "parameters": {
+            "name": {"type": "text"},
+            "scale": {"type": "text"},
+            "frequency": {"options": ["daily", "weekly"]}
+        }
+    },
+    "Alert": {
+        "parameters": {
+            "name": {"type": "text"},
+            "trigger": {"type": "conditional statement"},
+            "message": {"type": "text"}
+        }
+    }
+}

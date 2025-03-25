@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+  "Soothing Music": {
+    "Music Type": {
+      "Type": "options",
+      "Options": ["Classical", "Lullabies", "Nature Sounds", "Custom"]
+    },
+    "Volume": {
+      "Type": "options",
+      "Options": ["Soft", "Medium", "Low"]
+    },
+    "Duration": {
+      "Type": "text"
+    },
+    "Frequency": {
+      "Type": "options",
+      "Options": ["asNeeded", "custom"]
+    }
+  }
+}

@@ -1,0 +1,31 @@
+Here is the output in JSON format:
+
+
+{
+  "External Device Change": {
+    "Device Type": {
+      "type": "options",
+      "options": [
+        {"value": "fecalCollection", "label": "Fecal Collection Device (e.g., FlexiSeal, Zossi)"},
+        {"value": "analPlug", "label": "Anal Plug Device"}
+      ]
+    },
+    "Change Frequency": {
+      "type": "options",
+      "options": [
+        {"value": "daily", "label": "Daily"},
+        {"value": "everyHours", "label": "Every x hours"},
+        {"value": "everyDays", "label": "Every x days"}
+      ]
+    },
+    "Change Instructions": {
+      "type": "text"
+    },
+    "Monitoring": {
+      "type": "text"
+    },
+    "Deadline Date": {
+      "type": "datetime"
+    }
+  }
+}

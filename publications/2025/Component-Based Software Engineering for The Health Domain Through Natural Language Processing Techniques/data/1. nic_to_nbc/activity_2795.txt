@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+    "Universal Precautions Tracker": {
+        "parameters": {
+            "Precaution Type": {},
+            "Frequency": {},
+            "Compliance": {},
+            "Notes": {}
+        }
+    }
+}
+
+
+I removed the `Deadline Date` parameter as it's not applicable in this context. Let me know if you have any further questions!

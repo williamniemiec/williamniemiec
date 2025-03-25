@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Lighting Adjustment": {
+    "Activity": {"type": "text"},
+    "Lighting Level": {"type": "options", "options": ["bright", "medium", "dim", "custom"]},
+    "Lighting Direction": {"type": "options", "options": ["indirect", "soft", "natural", "custom"]},
+    "Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"type": "datetime"}
+  }
+}

@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Adjustment": {
+    "medication_name": {"type": "text"},
+    "adjustment_type": {"type": "options", "options": ["discontinue", "taper"]},
+    "reason": {"type": "text"},
+    "physician_order": {"type": "text"},
+    "frequency": {"type": "options", "options": ["oneTime", "daily", "everyHours", "everyDays"]},
+    "deadline_date": {"type": "datetime"}
+  }
+}

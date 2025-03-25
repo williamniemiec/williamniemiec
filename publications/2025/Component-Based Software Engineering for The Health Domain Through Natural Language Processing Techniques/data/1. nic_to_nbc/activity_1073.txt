@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+    "no_code_element_name": "Question",
+    "parameter_especifications": {
+        "name": "",
+        "answer type": "",
+        "frequency": "",
+        "deadline_date": ""
+    }
+}

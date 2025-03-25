@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+    "Pain Management": {
+        "Parameters": {
+            "Pain Assessment": {"Type": "options"},
+            "Analgesic Indication": {"Type": "options"},
+            "Sedation Level": {"Type": "options"},
+            "Analgesic Selection": {"Type": "algorithm-based selection"},
+            "Dosing and Frequency": {"Type": "options"},
+            "Monitoring": {"Type": "options"}
+        }
+    }
+}

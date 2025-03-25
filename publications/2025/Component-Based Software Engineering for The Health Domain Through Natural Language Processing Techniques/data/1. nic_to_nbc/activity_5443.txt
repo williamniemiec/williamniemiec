@@ -1,0 +1,32 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Group Exercise",
+    "parameters": [
+        {
+            "name": "Exercise Type",
+            "type": "options"
+        },
+        {
+            "name": "Exercise Description",
+            "type": "text"
+        },
+        {
+            "name": "Exercise Instructions",
+            "type": "text"
+        },
+        {
+            "name": "Exercise Goals",
+            "type": "text"
+        },
+        {
+            "name": "Frequency",
+            "type": "options"
+        },
+        {
+            "name": "Deadline Date",
+            "type": "datetime"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+  "Support Group Information": {
+    "Group Description": {"type": "text"},
+    "Group Purpose": {"type": "text"},
+    "Group Meeting Information": {"type": "meeting information"}
+  },
+  "Support Group Matching": {
+    "Matching Criteria": {"type": "list of criteria"},
+    "Matching Algorithm": {"type": "options", "options": ["machine learning", "manual matching"]}
+  },
+  "Support Group Communication": {
+    "Communication Method": {"type": "options", "options": ["email", "phone", "in-person meeting"]},
+    "Communication Content": {"type": "text"}
+  },
+  "Support Group Evaluation": {
+    "Evaluation Criteria": {"type": "list of criteria"},
+    "Evaluation Method": {"type": "options", "options": ["survey", "interview", "focus group"]}
+  }
+}

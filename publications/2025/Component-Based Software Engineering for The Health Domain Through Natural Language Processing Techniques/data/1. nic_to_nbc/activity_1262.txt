@@ -1,0 +1,37 @@
+Here is the output in JSON format:
+
+
+{
+  "Interactive Image": {
+    "parameters": {
+      "name": "",
+      "content": "",
+      "description": "",
+      "hotspots": [
+        {
+          "label": "",
+          "description": ""
+        }
+      ],
+      "frequency": ["daily", "onlyOnce", "everyHours", "everyDays"],
+      "deadline_date": ""
+    }
+  },
+  "Guide": {
+    "parameters": {
+      "name": "",
+      "pages": []
+    }
+  },
+  "Task": {
+    "parameters": {
+      "name": "",
+      "content": "",
+      "frequency": ["daily", "onlyOnce", "everyHours", "everyDays"],
+      "deadline_date": ""
+    }
+  }
+}
+
+
+Note that I removed the non-applicable parameters and only kept the parameter specifications for each no-code element. Let me know if you need any further modifications!

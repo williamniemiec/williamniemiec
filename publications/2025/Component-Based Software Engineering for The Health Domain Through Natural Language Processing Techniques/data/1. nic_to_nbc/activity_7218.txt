@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "resource_referral",
+    "parameters": [
+        { 
+            "name": "name", 
+            "description": "resource or program name"
+        },
+        { 
+            "name": "description", 
+            "description": "brief description of the resource or program"
+        },
+        { 
+            "name": "eligibility_criteria", 
+            "description": "criteria to determine patient eligibility"
+        },
+        { 
+            "name": "contact_info", 
+            "description": "contact information of the resource or program"
+        },
+        { 
+            "name": "referral_instructions", 
+            "description": "instructions on how to refer the patient"
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+Since there is no {{ PARAMETER ESPECIFICATIONS }} and {{ NO-CODE ELEMENT NAME }} is "None", the output would be:
+
+
+{
+  "PARAMETER ESPECIFICATIONS": [],
+  "NO-CODE ELEMENT NAME": "None"
+}

@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+    "Patient Readiness Assessment": {
+        "Alertness Level": {"type": "options"},
+        "Orientation": {"type": "options"},
+        "Physical Stability": {"type": "options"},
+        "Date and Time": {"type": "datetime"}
+    },
+    "Transfer Preparation": {
+        "Transfer Destination": {"type": "options"},
+        "Transfer Mode": {"type": "options"},
+        "Transfer Assistance": {"type": "options"},
+        "Date and Time": {"type": "datetime"}
+    },
+    "Transfer Execution": {
+        "Transfer Status": {"type": "options"},
+        "Transfer Notes": {"type": "text"},
+        "Date and Time": {"type": "datetime"}
+    }
+}

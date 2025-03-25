@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Visit Tracker": {
+    "parameters": [
+      {"name": "Visit Type"},
+      {"name": "Reason for Visit"},
+      {"name": "Frequency"},
+      {"name": "Deadline Date", "type": "datetime"},
+      {"name": "Notes", "type": "text"}
+    ]
+  }
+}

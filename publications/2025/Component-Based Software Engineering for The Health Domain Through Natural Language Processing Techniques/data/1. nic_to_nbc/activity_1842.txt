@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Role Model": {
+    "Name": {"type": "text"},
+    "Description": {"type": "text"},
+    "Options": {"type": "options", "options": ["list of role model options"]},
+    "Reason": {"type": "text"},
+    "Inspiration": {"type": "text"},
+    "Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"type": "datetime"}
+  }
+}

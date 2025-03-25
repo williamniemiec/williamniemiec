@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+    "Knowledge Assessment": {
+        "parameters": {
+            "knowledge_level": "",
+            "knowledge_areas": ""
+        }
+    },
+    "Knowledge Source": {
+        "parameters": {
+            "source_list": "",
+            "source_reliability": ""
+        }
+    },
+    "Information Gathering": {
+        "parameters": {
+            "information_request": "",
+            "information_response": ""
+        }
+    }
+}
+
+
+I removed all the unnecessary text and kept only the `{{ NO-CODE ELEMENT NAME }}` and their corresponding `{{ PARAMETER ESPECIFICATIONS }}`. I also removed the not applicable parameters. Let me know if you need any further assistance!

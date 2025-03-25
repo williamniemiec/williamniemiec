@@ -1,0 +1,10 @@
+Here is the output in JSON format:
+
+
+{
+    "Gain Attention": {
+        "Method": {"Type": "options", "Options": ["touch", "verbal cue", "visual cue", "other"]},
+        "Instructions": {"Type": "text"},
+        "Frequency": {"Type": "options", "Options": ["daily", "weekly", "monthly", "onlyOnce"]}
+    }
+}

@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Technique Guide",
+  "parameters": [
+    {
+      "name": "technique"
+    },
+    {
+      "name": "instructions"
+    },
+    {
+      "name": "demonstration"
+    },
+    {
+      "name": "frequency"
+    },
+    {
+      "name": "duration"
+    },
+    {
+      "name": "tips"
+    }
+  ]
+}

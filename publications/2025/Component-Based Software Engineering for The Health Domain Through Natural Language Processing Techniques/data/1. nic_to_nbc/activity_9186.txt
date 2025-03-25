@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Barrier Assessment": {
+    "parameters": {
+      "name": {"description": "title of the barrier assessment", "required": true, "type": "text"},
+      "questions": {"description": "series of questions to identify barriers to exercise", "required": true, "type": "questionnaire"},
+      "answer_type": {"description": "type of answer required for each question (e.g. multiple choice, open-ended, rating scale)", "required": true, "type": "options", "options": [
+        {"value": "multiple_choice", "label": "Multiple Choice"},
+        {"value": "open_ended", "label": "Open-Ended"},
+        {"value": "rating_scale", "label": "Rating Scale"}
+      ]}
+    }
+  }
+}

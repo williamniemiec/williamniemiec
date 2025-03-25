@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Checklist": {
+    "Equipment List": {"type": "list of text"},
+    "Status": {"type": "options"},
+    "Responsible Person": {"type": "text"},
+    "Due Date": {"type": "datetime"}
+  }
+}

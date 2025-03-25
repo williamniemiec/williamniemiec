@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Social Activity Planner": {
+    "Activity Suggestions": {"type": "list of texts"},
+    "Interest Assessment": {"type": "questionnaire"},
+    "Goal Setting": {"type": "goal setting template"},
+    "Event Calendar": {"type": "calendar integration"},
+    "Motivational Messages": {"type": "list of texts"},
+    "Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]}
+  }
+}

@@ -1,0 +1,28 @@
+Here is the output in JSON format, removing everything except `{{ PARAMETER ESPECIFICATIONS }}` and `{{ NO-CODE ELEMENT NAME }}`, and not including "Not Applicable" parameters:
+
+
+{
+    "name": "Hair Cleansing Supplies",
+    "parameters": [
+        {
+            "name": "Supply List",
+            "type": "checklist"
+        },
+        {
+            "name": "Supply Instructions",
+            "type": "text"
+        },
+        {
+            "name": "Supply Images",
+            "type": "image"
+        },
+        {
+            "name": "Supply Checklist",
+            "type": "boolean"
+        },
+        {
+            "name": "Deadline Date",
+            "type": "datetime"
+        }
+    ]
+}

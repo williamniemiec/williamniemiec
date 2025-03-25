@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+  "emotional response monitoring": {
+    "Parameters": {
+      "Emotion Type": {
+        "Options": ["frustration", "anger", "depression", "anxiety", "etc."]
+      },
+      "Assessment Tool": {
+        "Type": ["emotional distress scale", "depression screening tool", "anxiety rating scale", "etc."]
+      },
+      "Frequency": {
+        "Options": ["daily", "weekly", "monthly", "etc."]
+      },
+      "Goal Setting": {
+        "Type": ["text", "selection from a list of options"]
+      },
+      "Progress Tracking": {
+        "Type": ["graph", "chart", "table"]
+      },
+      "Intervention Recommendations": {
+        "Type": ["text", "selection from a list of options"]
+      }
+    }
+  }
+}

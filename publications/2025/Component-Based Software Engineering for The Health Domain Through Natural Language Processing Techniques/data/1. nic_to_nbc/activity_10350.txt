@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+  "Ventilatory Support Tracker": {
+    "Name": {"type": "text"},
+    "Ventilatory Support Types": {"type": "options"},
+    "Frequency": {"type": "options"},
+    "Deadline Date": {"type": "datetime"},
+    "Input Fields": {"type": "form"},
+    "Details": {"type": "text"}
+  },
+  "Symptom Tracker": {
+    "Name": {"type": "text"},
+    "Symptoms": {"type": "options"},
+    "Frequency": {"type": "options"},
+    "Deadline Date": {"type": "datetime"},
+    "Input Fields": {"type": "form"}
+  }
+}

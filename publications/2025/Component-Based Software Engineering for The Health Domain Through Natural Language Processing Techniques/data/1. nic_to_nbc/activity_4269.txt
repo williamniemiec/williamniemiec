@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Vital Sign Tracking": {
+    "parameters": {
+      "vital_sign_name": {"type": "text"},
+      "initial_tracking_frequency": {"type": "text"},
+      "decreased_tracking_frequency": {"type": "text"},
+      "unit_of_measurement": {"type": "text"},
+      "notes": {"type": "text"}
+    }
+  }
+}

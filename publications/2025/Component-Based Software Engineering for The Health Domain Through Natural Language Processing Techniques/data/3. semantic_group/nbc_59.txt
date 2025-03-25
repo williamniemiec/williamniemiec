@@ -1,0 +1,10 @@
+{
+  "name": "Anesthesia and Sedation Techniques",
+  "description": "Covers the administration of anesthesia and sedation, including types like local anesthesia, regional blocks, and medications such as fentanyl. Focuses on sedation levels, parasthesias, and patient monitoring.",
+  "type": "non-periodic",
+  "input": ["Anesthesia administration", "Sedation techniques", "Fentanyl usage", "Regional blocks", "Patient monitoring"],
+  "output": ["Anesthesia status", "Sedation report", "Patient monitoring feedback"],
+  "preconditions": ["User is administering or receiving anesthesia/sedation"],
+  "postconditions": ["Safe and effective sedation with proper monitoring"],
+  "dependencies": ["Anesthesia equipment", "Sedation monitoring systems", "Patient safety protocols"]
+}

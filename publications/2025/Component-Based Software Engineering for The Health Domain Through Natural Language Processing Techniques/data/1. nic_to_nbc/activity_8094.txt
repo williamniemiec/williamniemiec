@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Relationship Builder": {
+    "Parameters": {
+      "Title": {"Type": "text"},
+      "Profile Questions": {"Type": "list of profile questions"},
+      "Family Member Profiles": {"Type": "list of family member profiles"},
+      "Care Team Introduction": {"Type": "list of care team member profiles"},
+      "Communication Preferences": {"Type": "communication preferences object"}
+    }
+  }
+}

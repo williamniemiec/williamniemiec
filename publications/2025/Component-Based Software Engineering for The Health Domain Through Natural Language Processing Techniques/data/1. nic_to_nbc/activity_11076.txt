@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Music Explorer": {
+    "Parameters": {
+      "Music Genre": {"Type": "options"},
+      "Music Selection": {"Type": "options"},
+      "Discussion Prompts": {"Type": "text"},
+      "Interactive Elements": {"Type": "options"},
+      "Duration": {"Type": "time interval"}
+    }
+  }
+}
+
+
+I removed the `Reward` parameter as it was not applicable in this context. Let me know if you need anything else!

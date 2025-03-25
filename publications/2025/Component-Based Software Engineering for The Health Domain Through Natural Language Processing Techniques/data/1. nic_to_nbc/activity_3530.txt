@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Circumcision Care",
+  "parameters": [
+    {
+      "name": "Instructions",
+      "type": "ordered list of text"
+    },
+    {
+      "name": "Images",
+      "type": "list of image URLs or base64 encoded images"
+    },
+    {
+      "name": "Frequency",
+      "type": "options"
+    },
+    {
+      "name": "Dressing Type",
+      "type": "text or option selection"
+    },
+    {
+      "name": "Tips",
+      "type": "list of text"
+    }
+  ]
+}

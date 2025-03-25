@@ -1,0 +1,29 @@
+Here is the output in JSON format:
+
+
+{
+  "Activity Tracker": {
+    "parameters": {
+      "activities": "",
+      "duration": "",
+      "intensity": "",
+      "fatigue_level": ""
+    }
+  },
+  "Fatigue Scale": {
+    "parameters": {
+      "fatigue_level": "",
+      "time": ""
+    }
+  },
+  "Alerts": {
+    "parameters": {
+      "alert_type": "",
+      "message": "",
+      "trigger": ""
+    }
+  }
+}
+
+
+I removed the introduction, conclusion, and any other unnecessary text, leaving only the no-code element names and their corresponding parameter specifications. I also formatted the output as a JSON object for easy readability. Let me know if you have any further requests!

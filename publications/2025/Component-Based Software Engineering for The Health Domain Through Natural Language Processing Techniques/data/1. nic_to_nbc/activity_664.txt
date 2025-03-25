@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Referral": {
+    "Name": {"Type": "text"},
+    "Reason for Referral": {"Type": "options"},
+    "Health Problems": {"Type": "options"},
+    "Examination Details": {"Type": "text"},
+    "Resources": {"Type": "links or attachments"}
+  }
+}

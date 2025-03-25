@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Tube Check": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Tube Type": {"Type": "options", "Options": ["NG", "gastrostomy", "jejunostomy", "others"]},
+      "Checklist": {"Type": "checklist"},
+      "Frequency": {"Type": "options", "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"Type": "datetime"},
+      "Instructions": {"Type": "text"}
+    }
+  }
+}

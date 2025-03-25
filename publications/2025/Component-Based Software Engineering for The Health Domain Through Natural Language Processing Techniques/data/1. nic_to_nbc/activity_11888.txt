@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Habit Swap": {
+    "Undesirable habit": {"type": "text"},
+    "Favorable habit": {"type": "text"},
+    "Trigger identification": {"type": "options", "options": ["stress", "boredom", "emotional", etc.]},
+    "Swap plan": {"type": "text"},
+    "Tracking method": {"type": "options", "options": ["journal", "mobile app", "habit tracker", etc.]},
+    "Frequency": {"type": "options", "options": ["daily", "weekly", "monthly", etc.]},
+    "Deadline date": {"type": "datetime"}
+  }
+}
+
+
+Note: I removed the "Content type" parameter as it is not applicable to the parameters specifications.

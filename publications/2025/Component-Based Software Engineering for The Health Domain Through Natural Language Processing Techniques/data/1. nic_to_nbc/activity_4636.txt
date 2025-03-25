@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Healthcare Liaison": {
+    "Parameters": {
+      "Healthcare Providers": {"Type": "list of names and roles"},
+      "Communication Method": {"Type": "list of options"},
+      "Care Plan": {"Type": "text or multimedia content"},
+      "Coordination": {"Type": "boolean (yes/no)"},
+      "Updates": {"Type": "text or multimedia content"}
+    }
+  }
+}
+
+
+Let me know if this meets your requirements!

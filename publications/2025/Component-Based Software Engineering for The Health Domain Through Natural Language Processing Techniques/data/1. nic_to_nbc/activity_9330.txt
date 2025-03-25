@@ -1,0 +1,10 @@
+Here is the output in JSON format:
+
+
+{
+  "Catheter Bulb Prefill Guide": {
+    "Title": {"Description": "Title of the catheter bulb prefill guide", "Required": true, "Type": "text"},
+    "Instructions": {"Description": "Step-by-step instructions for prefilling the catheter bulb", "Required": true, "Type": "text"},
+    "Volume Options": {"Description": "List of available prefill volume options (e.g. 5mL, 10mL, 15mL)", "Required": true, "Type": "table"}
+  }
+}

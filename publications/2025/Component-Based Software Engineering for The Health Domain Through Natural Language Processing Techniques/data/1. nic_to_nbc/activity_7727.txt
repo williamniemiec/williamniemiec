@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Symptom Checker": {
+    "parameters": {
+      "name": {"type": "text"},
+      "symptoms": {"type": "list of options"},
+      "frequency": {"type": "options"},
+      "severity_scale": {"type": "options"},
+      "notes": {"type": "text"}
+    }
+  }
+}

@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+    "Rest and Sleep Plan": {
+        "Sleep Goals": {"type": ["text", "numeric value"]},
+        "Rest Schedule": {"type": "list of dates and times"},
+        "Relaxation Techniques": {"type": "list of options"},
+        "Sleep Environment": {"type": ["text", "checklist"]},
+        "Tracking": {"type": ["boolean", "rating scale"]}
+    }
+}

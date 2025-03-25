@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Behavioral Discovery Exercise": {
+        "Parameters": {
+            "Behavior Scenario": {"Type": "text"},
+            "Interaction Steps": {"Type": "list of text"},
+            "Reflection Prompts": {"Type": "list of text"},
+            "Insight": {"Type": "text"}
+        }
+    }
+}

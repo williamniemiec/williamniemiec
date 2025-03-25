@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Reward Plan": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Reward Options": {"Type": "options", "Options": ["stickers", "stars", "points", "small treats", "special activities"]},
+      "Reward Criteria": {"Type": "text"},
+      "Frequency": {"Type": "options", "Options": ["daily", "every other day", "weekly"]}
+    }
+  }
+}
+
+
+Note that I removed the `Deadline Date` parameter as it is not applicable in this context.

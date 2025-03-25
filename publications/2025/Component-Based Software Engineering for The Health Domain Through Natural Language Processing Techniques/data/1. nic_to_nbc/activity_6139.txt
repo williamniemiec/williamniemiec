@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Tips": {
+    "parameters": {
+      "title": "",
+      "items": [],
+      "descriptions": [],
+      "images": [],
+      "benefits": []
+    }
+  }
+}

@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Education Module": {
+    "Content": {"type": "text or html"},
+    "Resources": {"type": "list of resources (e.g., URLs, video IDs, image URLs)"},
+    "Quiz": {"type": "list of questions with answers and feedback"},
+    "Frequency": {"type": "options (e.g., daily, weekly, monthly)"},
+    "Deadline Date": {"type": "datetime"}
+  }
+}
+
+
+Let me know if this meets your requirements!

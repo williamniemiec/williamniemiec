@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Feeding Schedule": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Feeding Frequency": {"Type": "numeric"},
+      "Feeding Size": {"Type": "options", "Options": ["small", "medium", "large"]},
+      "Tolerance Tracking": {"Type": "options", "Options": ["log", "chart", "survey"]},
+      "Reminders": {"Type": "options"}
+    }
+  }
+}

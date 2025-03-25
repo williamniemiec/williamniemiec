@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Consequences": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Consequence Type": {"Type": "options", "Options": ["warning", "penalty", "educational message"]},
+      "Triggering Criteria": {"Type": "unordered list", "ItemProperties": {"Criterion": {"Type": "text"}, "Threshold": {"Type": "number"}}},
+      "Consequence Message": {"Type": "text"},
+      "Frequency": {"Type": "options", "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"Type": "datetime"}
+    }
+  }
+}

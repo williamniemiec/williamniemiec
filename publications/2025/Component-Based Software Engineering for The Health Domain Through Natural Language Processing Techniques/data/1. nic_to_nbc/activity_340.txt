@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Pain and Discomfort Monitoring": {
+    "Parameters": {
+      "Pain Location": {"Type": "options"},
+      "Pain Nature": {"Type": "options"},
+      "Pain Intensity": {"Type": "options"},
+      "Activity Trigger": {"Type": "options"},
+      "Frequency": {"Type": "options"}
+    }
+  }
+}

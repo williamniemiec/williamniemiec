@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "needleOptions": {
+    "Gauge": ["18G", "20G", "22G"],
+    "Length": ["1 inch", "1.5 inches", "2 inches"],
+    "Material": ["stainless steel", "titanium"],
+    "Coating": ["silicone", "Teflon"]
+  },
+  "Purpose": [],
+  "Length of Use": [],
+  "Selection Criteria": []
+}
+
+
+Note that I removed the `Needle Selection` element name and only kept the parameter specifications. I also removed the `not applicable` parameters, which in this case were empty arrays. Let me know if you need any further processing!

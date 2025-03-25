@@ -1,0 +1,37 @@
+Here is the output in JSON format:
+
+
+{
+  "Anger Management Strategies": {
+    "parameters": {
+      "name": "",
+      "strategies": [],
+      "type": ""
+    }
+  },
+  "Reflection": {
+    "parameters": {
+      "name": "",
+      "prompt": "",
+      "answer_type": "",
+      "frequency": "",
+      "deadline_date": ""
+    }
+  },
+  "Emotion Regulation Techniques": {
+    "parameters": {
+      "name": "",
+      "techniques": [],
+      "type": ""
+    }
+  },
+  "Action Plan": {
+    "parameters": {
+      "name": "",
+      "steps": [],
+      "type": ""
+    }
+  }
+}
+
+Note that I removed the introduction and conclusion parts, as well as the numbering and descriptions of each no-code element. I also removed the "Not Applicable" parameters, assuming that if a parameter was not specified, it is not applicable. Let me know if you need any further modifications!

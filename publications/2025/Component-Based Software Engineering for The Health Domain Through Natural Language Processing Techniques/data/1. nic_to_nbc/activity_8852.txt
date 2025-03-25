@@ -1,0 +1,24 @@
+It appears that you've shared several examples of JSON structures for different no-code elements, including:
+
+1. Peer Support Network
+2. Counseling Services
+3. Resource Library
+
+Each of these JSON structures follows a similar pattern, with some common properties and nested objects. Here's a breakdown of the common structure:
+
+* `name`: A string representing the name of the no-code element.
+* `description`: A string describing the purpose or functionality of the no-code element.
+* `content_type`: A string indicating the type of content or feature provided by the no-code element (e.g., "network", "counseling", "library").
+* `parameters`: An array of objects, each representing a parameter or field that can be configured for the no-code element.
+
+The `parameters` array contains objects with the following properties:
+
+* `name`: A string representing the name of the parameter.
+* `description`: A string describing the purpose or functionality of the parameter.
+* `required`: A boolean indicating whether the parameter is required or not.
+* `type`: A string indicating the data type of the parameter (e.g., "text", "number", "options", "list").
+* Additional properties depending on the `type`:
+	+ For "options" type, an `options` array containing objects with `value` and `label` properties.
+	+ For "list" type, a `criteria` or `resource types` array containing objects with `name`, `description`, and `required` properties.
+
+These JSON structures appear to define the configuration options for different no-code elements, allowing users to customize and tailor these elements to their specific needs.

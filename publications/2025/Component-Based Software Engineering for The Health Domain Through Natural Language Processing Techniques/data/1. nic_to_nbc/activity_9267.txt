@@ -1,0 +1,43 @@
+Here is the output in JSON format:
+
+
+{
+  "Aseptic Technique Guide": {
+    "parameters": {
+      "name": "title of the aseptic technique guide",
+      "steps": "list of steps involved in employing aseptic technique",
+      "images/videos": "multimedia content to illustrate each step",
+      "frequency": "how often the aseptic technique guide should be reviewed",
+      "deadline_date": "due date for reviewing the aseptic technique guide"
+    }
+  },
+  "Checklist": {
+    "parameters": {
+      "name": "title of the checklist",
+      "items": "list of items to check",
+      "status": "text indicating the status of each item",
+      "frequency": "how often the checklist should be completed",
+      "deadline_date": "due date for completing the checklist"
+    }
+  },
+  "Alert": {
+    "parameters": {
+      "name": "title of the alert",
+      "message": "text of the alert",
+      "frequency": "how often the alert should be sent",
+      "deadline_date": "due date for sending the alert"
+    }
+  },
+  "Infection Risk Assessment": {
+    "parameters": {
+      "name": "title of the infection risk assessment",
+      "score": "numerical score indicating the risk level",
+      "risk_level": "text indicating the risk level associated with the score",
+      "frequency": "how often the infection risk assessment should be updated",
+      "deadline_date": "due date for updating the infection risk assessment"
+    }
+  }
+}
+
+
+I removed all non-applicable parameters and only kept the `{{ NO-CODE ELEMENT NAME }}` and `{{ PARAMETER ESPECIFICATIONS }}` parts. Let me know if this is what you were looking for!

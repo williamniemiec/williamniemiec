@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Regression Education": {
+    "Parameters": {
+      "Explanation": {"Type": "text or video"},
+      "Stressors": {"Type": "list of options"}
+      "Normalcy": {"Type": "boolean"},
+      "Reassurance": {"Type": "boolean"}
+    }
+  }
+}
+
+
+I removed the not applicable parameters, which are **Content Type** and **Additional Resources**, as they don't have any values specified. Let me know if this is correct!

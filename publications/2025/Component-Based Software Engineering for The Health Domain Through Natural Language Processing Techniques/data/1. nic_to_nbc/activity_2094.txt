@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Edema Inspection": {
+    "Parameters": {
+      "Lower Extremities": {"Type": "list of text"},
+      "Inspection Criteria": {"Type": "list of text"},
+      "Findings": {"Type": "list of objects"},
+      "Images": {"Type": "list of images"},
+      "Measurement": {"Type": "number"},
+      "Frequency": {"Type": "options", "Options": ["daily", "weekly", "monthly"]}
+    }
+  }
+}
+
+
+Note: I removed the `Deadline Date` parameter as it was not applicable (no specific value was provided). Let me know if you want to keep it or remove it!

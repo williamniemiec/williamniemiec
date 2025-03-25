@@ -1,0 +1,31 @@
+Here is the output in JSON format:
+
+
+{
+  "Condition Monitor": {
+    "Parameters": {
+      "Name": {},
+      "Condition": {},
+      "Episode Tracker": {
+        "Date": {},
+        "Symptoms": {
+          "Label": {},
+          "Severity": {}
+        },
+        "Treatments": {
+          "Label": {},
+          "Dosage": {}
+        },
+        "Preventative Measures": {
+          "Label": {},
+          "Description": {}
+        }
+      },
+      "Reminders": {
+        "Date": {},
+        "Time": {},
+        "Message": {}
+      }
+    }
+  }
+}

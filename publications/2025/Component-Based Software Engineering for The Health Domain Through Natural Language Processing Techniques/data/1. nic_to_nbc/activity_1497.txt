@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Observation",
+    "parameters": [
+        {
+            "name": "Activity",
+            "type": "options"
+        },
+        {
+            "name": "Frequency",
+            "type": "options"
+        },
+        {
+            "name": "Deadline Date",
+            "type": "datetime"
+        },
+        {
+            "name": "Notes",
+            "type": "text"
+        }
+    ]
+}

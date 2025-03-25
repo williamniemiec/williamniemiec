@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+    "Education Resource": {
+        "Resource Title": {
+            "Description": "Title of the education resource",
+            "Required": true,
+            "Type": "text"
+        },
+        "Content": {
+            "Description": "Text or video content explaining the patient's learning limitations",
+            "Required": true,
+            "Type": "text or video"
+        },
+        "Key Points": {
+            "Description": "List of key points to highlight the patient's learning limitations",
+            "Required": true,
+            "Type": "list of text"
+        }
+    }
+}

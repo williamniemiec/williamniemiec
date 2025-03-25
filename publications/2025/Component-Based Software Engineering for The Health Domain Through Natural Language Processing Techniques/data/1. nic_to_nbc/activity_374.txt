@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Support Mechanism Utilization Plan": {
+    "Identified Support Mechanisms": {},
+    "Support Mechanism Details": {},
+    "Family Member Roles": {},
+    "Action Steps": {},
+    "Progress Tracking": {},
+    "Barriers to Utilization": {},
+    "Problem-Solving Strategies": {}
+  }
+}

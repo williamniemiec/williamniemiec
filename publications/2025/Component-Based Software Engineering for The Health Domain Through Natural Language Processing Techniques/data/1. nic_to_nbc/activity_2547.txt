@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+"Drying Powder Application Reminder": {
+    "Parameters": {
+        "Name": {"Type": "text"},
+        "Affected Area": {"Type": "options", "Options": [
+            {"value": "armpits", "label": "Armpits"},
+            {"value": "groin", "label": "Groin"},
+            {"value": "neck", "label": "Neck"},
+            {"value": "other", "label": "Other (please specify)"}
+        ]},
+        "Frequency": {"Type": "options", "Options": [
+            {"value": "daily", "label": "Daily"},
+            {"value": "onlyOnce", "label": "Only once"},
+            {"value": "everyHours", "label": "Every x hours"},
+            {"value": "everyDays", "label": "Every x days"}
+        ]},
+        "Deadline Date": {"Type": "datetime"},
+        "Instructions": {"Type": "text"}
+    }
+}
+}

@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+  "Oral Hygiene Guide": {
+    "Parameters": {
+      "Title": {
+        "Type": "text",
+        "Description": "Enter a title for the oral hygiene guide (e.g., \"Proper Brushing Technique\")"
+      },
+      "Content": {
+        "Type": "text",
+        "Description": "Enter the content of the oral hygiene guide (e.g., \"To brush your teeth, gums, and tongue effectively, follow these steps:\")"
+      },
+      "Images or Videos": {
+        "Type": "image or video",
+        "Description": "Upload images or videos to illustrate the oral hygiene guide (e.g., an image of a person brushing their teeth, or a video demonstrating proper brushing technique)"
+      },
+      "Step-by-Step Instructions": {
+        "Type": "list",
+        "Description": "Enter the step-by-step instructions for brushing teeth, gums, and tongue (e.g., \"Step 1: Wet your toothbrush with water...\")"
+      }
+    }
+  }
+}
+
+
+Let me know if this is what you were expecting!

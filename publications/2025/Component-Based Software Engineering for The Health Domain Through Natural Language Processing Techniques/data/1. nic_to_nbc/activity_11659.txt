@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Family Support": {
+    "parameters": {
+      "Resource Type": {"type": ["educational materials", "emotional support", "etc."]},
+      "Resource Content": {"type": ["text", "video", "audio", "etc."]},
+      "Frequency": {"options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"type": "datetime"},
+      "Family Member/Significant Other": {"type": "text"}
+    }
+  }
+}

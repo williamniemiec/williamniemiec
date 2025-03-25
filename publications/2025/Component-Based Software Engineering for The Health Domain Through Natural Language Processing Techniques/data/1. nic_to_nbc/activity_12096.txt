@@ -1,0 +1,45 @@
+Here is the output in JSON format:
+
+
+[
+  {
+    "name": "Emotional Assessment",
+    "parameters": {
+      "name": "Emotional Assessment",
+      "questions": "list of questions to assess emotional state",
+      "answer type": "options",
+      "frequency": "options",
+      "deadline_date": "datetime"
+    }
+  },
+  {
+    "name": "Cognitive Assessment",
+    "parameters": {
+      "name": "Cognitive Assessment",
+      "questions": "list of questions to assess cognitive abilities",
+      "answer type": "options",
+      "frequency": "options",
+      "deadline_date": "datetime"
+    }
+  },
+  {
+    "name": "Developmental Assessment",
+    "parameters": {
+      "name": "Developmental Assessment",
+      "questions": "list of questions to assess developmental stage",
+      "answer type": "options",
+      "frequency": "options",
+      "deadline_date": "datetime"
+    }
+  },
+  {
+    "name": "Situational Assessment",
+    "parameters": {
+      "name": "Situational Assessment",
+      "questions": "list of questions to assess current situation",
+      "answer type": "options",
+      "frequency": "options",
+      "deadline_date": "datetime"
+    }
+  }
+]

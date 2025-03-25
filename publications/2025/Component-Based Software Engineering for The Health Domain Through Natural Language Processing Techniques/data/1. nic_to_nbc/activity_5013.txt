@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "side effect monitoring": {
+    "Medication Name": {},
+    "Side Effect List": {},
+    "Severity Scale": {},
+    "Frequency": {}
+  }
+}
+
+
+Note: I removed `Deadline Date` from the output since it's marked as not required. Let me know if you'd like to include it anyway!

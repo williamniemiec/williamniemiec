@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "no-code element name": "Quiz",
+  "parameters": {
+    "questions": {"type": "list of text"},
+    "answer types": {"type": "list of options (multiple choice, true/false, short answer)"},
+    "correct answers": {"type": "list of text"},
+    "scoring": {"type": "options (percentage correct, pass/fail)"}
+  }
+}

@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+    "Procedure": {
+        "parameters": {
+            "name": "Remove sutures, staples, or clips",
+            "content": "Remove sutures, staples, or clips, as indicated",
+            "type": {
+                "options": ["sutures", "staples", "clips"]
+            },
+            "instructions": {
+                "value": "Follow the instructions provided by your healthcare provider for removing the closure device. If you are unsure, contact your healthcare provider for guidance."
+            },
+            "frequency": {
+                "options": ["daily", "everyHours", "everyDays"]
+            },
+            "deadline_date": {}
+        }
+    }
+}

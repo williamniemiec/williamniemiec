@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Literary Insight": {
+    "parameters": [
+      {"name": "Literature", "type": "text or multimedia"},
+      {"name": "Desired Change", "type": "text"},
+      {"name": "Reflection Prompt", "type": "text"},
+      {"name": "Insight Questions", "type": "list of text"},
+      {"name": "Action Plan", "type": "text"},
+      {"name": "Frequency", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      {"name": "Deadline Date", "type": "datetime"}
+    ]
+  }
+}

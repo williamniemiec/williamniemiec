@@ -1,0 +1,37 @@
+Here is the output in JSON format:
+
+
+{
+    "Environmental Control": {
+        "parameters": {
+            "options": [],
+            "description": []
+        }
+    },
+    "Headphone Option": {
+        "parameters": {
+            "content": [],
+            "answer type": []
+        }
+    },
+    "Notification": {
+        "parameters": {
+            "content": []
+        }
+    },
+    "Relaxation Setting": {
+        "parameters": {
+            "setting": [],
+            "description": []
+        }
+    },
+    "Audio Control": {
+        "parameters": {
+            "options": [],
+            "description": []
+        }
+    }
+}
+
+
+Note that I removed the "not applicable" parameters, which are the ones without a specified value (e.g., `answer type` in `Headphone Option`). Let me know if you have any further requests!

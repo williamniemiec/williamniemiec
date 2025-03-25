@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+json
+{
+  "Empathetic Response": {
+    "parameters": [
+      {"name": "name", "type": "text", "required": true},
+      {"name": "patient_concern", "type": "text", "required": true},
+      {"name": "response", 
+       "type": "unordered list", 
+       "required": true, 
+       "items": [
+         {"name": "text", "type": "text", "required": true},
+         {"name": "empathy_level", "type": "options", "required": true, "options": ["low", "medium", "high"]},
+         {"name": "honesty_level", "type": "options", "required": true, "options": ["low", "medium", "high"]}
+       ]}
+    ]
+  }
+}

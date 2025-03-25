@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Skin Condition Assessment": {
+    "Parameters": {
+      "Restraint Site": null,
+      "Assessment Frequency": null,
+      "Skin Condition": null,
+      "Notes": null,
+      "Image": null
+    }
+  }
+}

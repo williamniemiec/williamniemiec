@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Family Involvement": {
+    "Parameters": {
+      "Role": {"options": ["caregiver", "supporter", "observer"]},
+      "Task": {"type": "text"},
+      "Frequency": {"options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"type": "datetime"},
+      "Instructions": {"type": "text or multimedia"}
+    }
+  }
+}

@@ -1,0 +1,29 @@
+Here is the output in JSON format:
+
+{
+    "name": "communication style guidance",
+    "parameters": [
+        {
+            "name": "communication_style",
+            "type": "text"
+        },
+        {
+            "name": "verbal_cues",
+            "type": "checklist",
+            "options": [
+                { value: "speakInCalmTone", label: "Speak in a calm tone" },
+                { value: "avoidUsingJargon", label: "Avoid using jargon" },
+                { value: "useSimpleLanguage", label: "Use simple language" }
+            ]
+        },
+        {
+            "name": "nonverbal_cues",
+            "type": "checklist",
+            "options": [
+                { value: "maintainEyeContact", label: "Maintain eye contact" },
+                { value: "useOpenBodyLanguage", label: "Use open body language" },
+                { value: "avoidCrossingArms", label: "Avoid crossing arms" }
+            ]
+        }
+    ]
+}

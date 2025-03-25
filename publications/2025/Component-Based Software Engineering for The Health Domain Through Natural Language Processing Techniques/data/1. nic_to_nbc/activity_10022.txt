@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+    "Fluid Intake": {
+        "Parameters": {
+            "Fluid Type": {},
+            "Frequency": {},
+            "Amount": {}
+        }
+    }
+}

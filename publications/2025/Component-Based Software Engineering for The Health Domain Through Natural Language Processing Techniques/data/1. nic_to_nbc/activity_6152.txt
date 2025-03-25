@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+  "Hemodynamic Parameter Tracker": {
+    "parameters": [
+      {"name": "cvp_level", "description": "Enter your current CVP level", "required": true, "type": "number"},
+      {"name": "map_level", "description": "Enter your current MAP level", "required": true, "type": "number"},
+      {"name": "central_venous_oxygen_saturation", "description": "Enter your current central venous oxygen saturation level", "required": true, "type": "number"},
+      {"name": "mixed_venous_oxygen_saturation", "description": "Enter your current mixed venous oxygen saturation level", "required": true, "type": "number"},
+      {"name": "timestamp", "description": "When was the hemodynamic parameter taken?", "required": true, "type": "datetime"}
+    ]
+  },
+  "Device Integration": {
+    "parameters": [
+      {"name": "device_id", "description": "Device ID", "required": true, "type": "text"},
+      {"name": "reading_frequency", "description": "How often do you want to take readings?", "required": true, "type": "options", "options": [{"value": "manual", "label": "Manual"}, {"value": "everyHour", "label": "Every hour"}, {"value": "every4Hours", "label": "Every 4 hours"}, {"value": "everyDay", "label": "Every day"}]}
+    ]
+  }
+}

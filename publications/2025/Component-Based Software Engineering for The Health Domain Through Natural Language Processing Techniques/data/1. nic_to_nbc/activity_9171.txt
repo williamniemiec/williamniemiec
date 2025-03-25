@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "Abuse Reporting": {
+    "parameters": [
+      {
+        "name": "Observations",
+        "type": "list"
+      },
+      {
+        "name": "Physician Notification",
+        "type": "options"
+      },
+      {
+        "name": "Report Details",
+        "type": "text"
+      },
+      {
+        "name": "Confidentiality",
+        "type": "boolean"
+      }
+    ]
+  }
+}

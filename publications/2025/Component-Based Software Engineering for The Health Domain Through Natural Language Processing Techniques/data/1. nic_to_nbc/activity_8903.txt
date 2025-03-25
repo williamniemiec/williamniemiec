@@ -1,0 +1,48 @@
+Here is the output in JSON format:
+
+
+{
+  "Instruction": {
+    "instruction title": {
+      "Description": "title of the instruction",
+      "Required": true,
+      "Type": "text"
+    },
+    "instruction content": {
+      "Description": "detailed explanation of the test or treatment",
+      "Required": true,
+      "Type": "html"
+    },
+    "test or treatment name": {
+      "Description": "name of the nonroutine test or treatment (e.g., nonstress test, biophysical profile, Rh-immune globulin, stripping of membranes)",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "nonstress test", "label": "Nonstress test" },
+        { "value": "biophysical profile", "label": "Biophysical profile" },
+        { "value": "Rh-immune globulin", "label": "Rh-immune globulin" },
+        { "value": "stripping of membranes", "label": "Stripping of membranes" }
+      ]
+    },
+    "reason for the test or treatment": {
+      "Description": "explanation of why the test or treatment is necessary",
+      "Required": true,
+      "Type": "text"
+    },
+    "what to expect during the test or treatment": {
+      "Description": "description of what the patient can expect during the test or treatment",
+      "Required": true,
+      "Type": "text"
+    },
+    "how often the test or treatment should be repeated": {
+      "Description": "specify how often the test or treatment should be repeated",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "once", "label": "Once" },
+        { "value": "daily", "label": "Daily" },
+        { "value": "weekly", "label": "Weekly" }
+      ]
+    }
+  }
+}

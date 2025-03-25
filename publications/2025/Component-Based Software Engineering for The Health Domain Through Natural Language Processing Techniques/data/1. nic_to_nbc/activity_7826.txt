@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+{
+  "Empathy Builder": {
+    "Parameters": {
+      "Scenario Library": {},
+      "Perspective-Taking Exercise": {},
+      "Rights and Responsibilities": {},
+      "Reflection Prompts": {},
+      "Frequency": {},
+      "Deadline Date": {}
+    }
+  }
+}

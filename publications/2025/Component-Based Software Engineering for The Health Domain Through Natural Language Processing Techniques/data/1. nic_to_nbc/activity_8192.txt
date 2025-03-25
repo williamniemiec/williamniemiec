@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Lab Result": {
+    "parameters": {
+      "name": {"type": "text"},
+      "result": {"type": "text or numerical value"},
+      "reference_range": {"type": "text or numerical value"},
+      "interpretation": {"type": "text"},
+      "next_steps": {"type": "text"}
+    }
+  }
+}

@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Zoned Cleansing Guide": {
+    "Cleansing Instructions": {"type": "text or instructional content"},
+    "Zone Identification": {"type": "text or visual aid (e.g., diagram)"},
+    "Cleansing Sequence": {"type": "text or instructional content"}
+  },
+  "Cleansing Log": {
+    "Cleansing Date": {"type": "datetime"},
+    "Cleansing Time": {"type": "time"},
+    "Zone Cleansed": {"type": "options (cleanest zone, middle zone, dirtiest zone)"},
+    "Notes": {"type": "text"}
+  }
+}

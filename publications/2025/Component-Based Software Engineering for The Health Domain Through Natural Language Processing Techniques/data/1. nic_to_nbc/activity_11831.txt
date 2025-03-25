@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Technology Adjustment": {
+    "parameters": {
+      "technology": {
+        "type": "text"
+      },
+      "adjustment": {
+        "type": "text"
+      },
+      "reason": {
+        "type": "text"
+      },
+      "settings": {
+        "type": "text or JSON object"
+      }
+    }
+  }
+}

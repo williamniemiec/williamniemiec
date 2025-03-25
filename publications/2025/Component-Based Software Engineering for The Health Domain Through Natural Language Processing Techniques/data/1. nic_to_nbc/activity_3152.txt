@@ -1,0 +1,29 @@
+Here is the output in JSON format:
+
+
+{
+  "Reminder System": {
+    "parameters": {
+      "name": "",
+      "reminders": "",
+      "customization": "",
+      "feedback": ""
+    }
+  },
+  "Stretching Exercises": {
+    "parameters": {
+      "name": "",
+      "exercises": "",
+      "tracking": "",
+      "feedback": ""
+    }
+  },
+  "Activity Tracker": {
+    "parameters": {
+      "name": "",
+      "tracking": "",
+      "goals": "",
+      "feedback": ""
+    }
+  }
+}

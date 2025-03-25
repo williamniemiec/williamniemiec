@@ -1,0 +1,34 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Bed Making",
+    "parameters": [
+        {
+            "name": "Name",
+            "type": "text"
+        },
+        {
+            "name": "Instructions",
+            "type": "text"
+        },
+        {
+            "name": "Image/Video",
+            "type": "media"
+        },
+        {
+            "name": "Frequency",
+            "type": "options",
+            "options": [
+                { value: "daily" },
+                { value: "onlyOnce" },
+                { value: "everyHours" },
+                { value: "everyDays" }
+            ]
+        },
+        {
+            "name": "Deadline Date",
+            "type": "datetime"
+        }
+    ]
+}

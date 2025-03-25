@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Parameters": {
+    "Demographic Information": {"Type": ["text", "selection"]},
+    "Sexual History": {"Type": ["text", "rating scale"]},
+    "Sexual Functioning": {"Type": ["text", "rating scale"]},
+    "Additional Information": {"Type": ["text", "selection"]}
+  },
+  "ElementName": "Sexual History Form"
+}

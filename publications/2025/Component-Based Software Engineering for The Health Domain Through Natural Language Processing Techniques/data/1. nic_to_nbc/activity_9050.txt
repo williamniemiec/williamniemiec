@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+    "ECG Preparation Guide": {
+        "parameters": {
+            "title": {"type": "text"},
+            "content": {"type": "book-page"},
+            "images": {"type": "list of image URLs"}
+        }
+    }
+}

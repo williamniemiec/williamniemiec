@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Compliance Tracker": {
+    "Parameters": {
+      "Treatment List": {"Type": "unordered list"},
+      "Compliance Status": {"Type": "options", "Options": ["taken", "not taken", "skipped"]},
+      "Frequency": {"Type": "options", "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"Type": "datetime"}
+    }
+  }
+}

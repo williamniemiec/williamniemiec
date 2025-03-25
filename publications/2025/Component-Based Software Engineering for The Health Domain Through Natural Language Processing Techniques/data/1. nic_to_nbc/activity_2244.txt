@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Track Wound Progress": {
+    "Wound Size": {"Type": "numerical value"},
+    "Wound Color": {"Type": "text"},
+    "Wound Drainage": {"Type": "text"},
+    "Date": {"Type": "datetime"},
+    "Notes": {"Type": "text"}
+  }
+}

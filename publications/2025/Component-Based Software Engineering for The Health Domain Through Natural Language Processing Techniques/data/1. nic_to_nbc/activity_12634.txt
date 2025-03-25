@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "noCodeElementName": "Journal",
+  "parameters": {
+    "Name": {"type": "text"},
+    "Prompt": {"type": "text"},
+    "Frequency": {"options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"type": "datetime"},
+    "Content Type": {"options": ["text", "audio", "video"]}
+  }
+}

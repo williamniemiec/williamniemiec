@@ -1,0 +1,10 @@
+{
+  "name": "Survey Response and Tracking",
+  "description": "Manages surveys, tracks answers by gender, and records responses based on specific deadlines. Includes options for tracking frequency (e.g., every hour or every day) and ensuring timely completion.",
+  "type": "periodic",
+  "input": ["Survey questions", "Answer tracking", "Gender-based tracking (male, female)", "Datetime tracking", "Survey frequency"],
+  "output": ["Survey completion report", "Questionnaire feedback", "Answer tracking log"],
+  "preconditions": ["User is participating in a survey"],
+  "postconditions": ["Survey responses collected on time and tracked accurately"],
+  "dependencies": ["Survey management system", "Answer tracking tools", "Gender-based data tracking"]
+}

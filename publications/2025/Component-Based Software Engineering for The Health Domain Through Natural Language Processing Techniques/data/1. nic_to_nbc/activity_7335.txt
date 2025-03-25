@@ -1,0 +1,29 @@
+Here is the output in JSON format:
+
+
+{
+    "Visitor Notification": {
+        "Parameters": {
+            "Visitor Schedule": {"Type": "calendar or scheduling tool"}
+        }
+    },
+    "Cosmetic Application Guide": {
+        "Parameters": {
+            "Cosmetic Tutorial": {"Type": "video or image with text instructions"},
+            "Cosmetic Product List": {"Type": "list of products with descriptions and images"}
+        }
+    },
+    "Virtual Mirror": {
+        "Parameters": {
+            "Virtual Try-On": {"Type": "augmented reality (AR) or virtual try-on feature"}
+        }
+    },
+    "Cosmetic Application Reminder": {
+        "Parameters": {
+            "Reminder Time": {"Type": "timer or scheduling tool"}
+        }
+    }
+}
+
+
+Let me know if this meets your requirements!

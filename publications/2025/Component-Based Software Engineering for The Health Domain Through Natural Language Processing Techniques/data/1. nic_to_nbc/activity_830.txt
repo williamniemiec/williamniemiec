@@ -1,0 +1,31 @@
+Here is the output in JSON format:
+
+
+{
+  "Social Situation Awareness": {
+    "parameters": {
+      "scenario_list": {"type": "list of text"},
+      "guiding_questions": {"type": "list of text"},
+      "reflection_prompt": {"type": "text", "optional": true},
+      "frequency": {"type": "options"},
+      "deadline_date": {"type": "datetime", "optional": true}
+    }
+  },
+  "Role-Playing": {
+    "parameters": {
+      "scenario_list": {"type": "list of text"},
+      "role-playing_script": {"type": "text"},
+      "frequency": {"type": "options"},
+      "deadline_date": {"type": "datetime", "optional": true}
+    }
+  },
+  "Scenario-Based Learning": {
+    "parameters": {
+      "scenario_list": {"type": "list of text"},
+      "choice_options": {"type": "list of text"},
+      "feedback": {"type": "text", "optional": true},
+      "frequency": {"type": "options"},
+      "deadline_date": {"type": "datetime", "optional": true}
+    }
+  }
+}

@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+    "Cognitive Distortion Identification": {
+        "Distortion Types": {
+            "type": "options",
+            "options": ["all-or-nothing thinking", "overgeneralization", "etc."]
+        },
+        "Distortion Questions": {
+            "type": "form",
+            "questions": "list of questions with answer options"
+        },
+        "Distortion Identification": {
+            "type": "text"
+        },
+        "Reframing Strategies": {
+            "type": "text"
+        },
+        "Practice Exercises": {
+            "type": "text"
+        }
+    }
+}
+
+
+Note: I removed the "not applicable" parameters and kept only the relevant information in the output. Let me know if you need any further assistance!

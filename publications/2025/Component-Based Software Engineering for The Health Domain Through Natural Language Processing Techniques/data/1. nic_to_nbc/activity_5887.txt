@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Buddy Assignment": {
+    "Parameters": {
+      "Buddy Introduction": {"Type": "text"},
+      "Buddy Contact Info": {"Type": "text"},
+      "Buddy Role": {"Type": "text"},
+      "Check-in Schedule": {"Type": "options", "Options": ["daily", "every other day", "weekly", "bi-weekly"]},
+      "Check-in Method": {"Type": "options"},
+      "Resources": {"Type": "list of URLs or embedded media"}
+    }
+  }
+}
+
+
+Let me know if this is what you were expecting!

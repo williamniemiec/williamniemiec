@@ -1,0 +1,49 @@
+Here is the output in JSON format:
+
+
+{
+    "Recreational Activity": {
+        "Activity Type": {
+            "type": "options",
+            "options": [
+                {"value": "groupSinging", "label": "Group Singing"},
+                {"value": "volleyball", "label": "Volleyball"},
+                {"value": "tableTennis", "label": "Table Tennis"},
+                {"value": "walking", "label": "Walking"},
+                {"value": "swimming", "label": "Swimming"},
+                {"value": "simpleTasks", "label": "Simple, Concrete Tasks"},
+                {"value": "simpleGames", "label": "Simple Games"},
+                {"value": "routineTasks", "label": "Routine Tasks"},
+                {"value": "housekeeping", "label": "Housekeeping Chores"},
+                {"value": "grooming", "label": "Grooming"},
+                {"value": "puzzles", "label": "Puzzles"},
+                {"value": "cards", "label": "Cards"},
+                {"value": "other", "label": "Other"}
+            ]
+        },
+        "Activity Description": {
+            "type": "text"
+        },
+        "Duration": {
+            "type": "time"
+        },
+        "Frequency": {
+            "type": "options",
+            "options": [
+                {"value": "daily", "label": "Daily"},
+                {"value": "onlyOnce", "label": "Only once"},
+                {"value": "everyHours", "label": "Every x hours"},
+                {"value": "everyDays", "label": "Every x days"}
+            ]
+        },
+        "Deadline Date": {
+            "type": "datetime"
+        },
+        "Resources": {
+            "type": "file or URL"
+        },
+        "Instructions": {
+            "type": "text or video"
+        }
+    }
+}

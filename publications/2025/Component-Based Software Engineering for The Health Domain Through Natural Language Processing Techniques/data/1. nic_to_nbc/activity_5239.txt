@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Device Failure Reporting": {
+    "Parameters": {
+      "Device Information": {"Type": "text"},
+      "Failure Details": {"Type": "text"},
+      "Patient Injury": {"Type": "text"},
+      "Reporting Criteria": {"Type": "options"},
+      "Reporting Form": {"Type": "form template"}
+    }
+  }
+}

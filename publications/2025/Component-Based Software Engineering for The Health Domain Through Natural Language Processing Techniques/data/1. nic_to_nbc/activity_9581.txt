@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+    "IV Initiation": {
+        "IV Site": {"Type": "text"},
+        "IV Type": {"Type": "text"},
+        "IV Gauge": {"Type": "numeric value"},
+        "IV Fluid": {"Type": "text"},
+        "IV Rate": {"Type": "numeric value"},
+        "IV Initiation Time": {"Type": "datetime"},
+        "IV Initiation Notes": {"Type": "text"},
+        "IV Initiation Questions": {"Type": "list of text or multiple-choice questions"},
+        "IV Initiation Answers": {"Type": "list of text or multiple-choice answers"}
+    }
+}

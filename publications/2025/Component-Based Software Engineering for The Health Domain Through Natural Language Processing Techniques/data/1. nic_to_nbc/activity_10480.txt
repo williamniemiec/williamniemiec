@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+"Pain Acknowledgment": {
+    "parameters": {
+        "Pain Validation": {"type": "text or audio/video recording"},
+        "Empathetic Response": {"type": "text or audio/video recording"},
+        "Open-Ended Questions": {"type": "text or audio/video recording"},
+        "Reflective Listening": {"type": "text or audio/video recording"},
+        "Encouragement": {"type": "text or audio/video recording"}
+    }
+}
+}

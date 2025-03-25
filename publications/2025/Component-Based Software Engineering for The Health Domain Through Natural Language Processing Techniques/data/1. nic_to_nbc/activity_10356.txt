@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Track Medication": {
+    "Medication Name": {"type": "text"},
+    "Dosage": {"type": "numerical value"},
+    "Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Administration Time": {"type": "datetime"},
+    "Notes": {"type": "text"}
+  }
+}

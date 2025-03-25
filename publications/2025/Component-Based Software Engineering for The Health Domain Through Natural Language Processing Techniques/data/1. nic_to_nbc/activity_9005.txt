@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Bed Adjustment Guide": {
+    "Parameters": {
+      "Title": {},
+      "Description": {},
+      "Image": {},
+      "Angle": {},
+      "Frequency": {}
+    }
+  }
+}
+
+
+Note: I removed the `Deadline Date` parameter as it was marked as "datetime" which is not applicable in this context. Also, I only kept the parameter names and removed their types and options for brevity. Let me know if you need any further modifications!

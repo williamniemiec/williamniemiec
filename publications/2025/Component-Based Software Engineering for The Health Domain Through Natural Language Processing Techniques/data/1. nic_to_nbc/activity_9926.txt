@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Family Information": {
+    "Waiting Area Information": {},
+    "Visiting Times": {},
+    "Location": {},
+    "Contact Information": {}
+  }
+}

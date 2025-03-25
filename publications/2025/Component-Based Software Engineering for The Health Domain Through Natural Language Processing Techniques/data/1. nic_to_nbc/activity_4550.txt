@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "no-code-element-name": "Request for Additional Assistance",
+  "parameters": {
+    "reason_for_request": {
+      "name": "reason_for_request",
+      "description": "Why are you requesting additional assistance? (e.g. emergency procedure, newborn care)",
+      "type": "options",
+      "options": ["Emergency procedure", "Newborn care", "Other (specify)"]
+    },
+    "number_of_nurses_needed": {
+      "name": "number_of_nurses_needed",
+      "description": "How many additional nurses do you need?",
+      "type": "number"
+    },
+    "urgency_level": {
+      "name": "urgency_level",
+      "description": "How urgent is the need for additional assistance?",
+      "type": "options",
+      "options": ["High", "Medium", "Low"]
+    }
+  }
+}

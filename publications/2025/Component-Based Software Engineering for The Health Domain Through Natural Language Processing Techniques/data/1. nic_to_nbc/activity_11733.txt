@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Daily Routine Tracker": {
+    "activity_types": {"type": "list of options"},
+    "tracking_frequency": {"type": "options"},
+    "tracking_method": {"type": "options"},
+    "pattern_identification": {"type": "graph or chart"},
+    "alerts_and_reminders": {"type": "alerts and reminders"},
+    "goal_setting": {"type": "goal setting"}
+  }
+}

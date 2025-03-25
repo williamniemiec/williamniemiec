@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Pain Assessment": {
+    "parameters": {
+      "Pain Location": {"type": "options"},
+      "Pain Characteristics": {"type": "options"},
+      "Pain Quality": {"type": "options"},
+      "Pain Severity": {"type": "number"},
+      "Additional Notes": {"type": "text"}
+    }
+  }
+}

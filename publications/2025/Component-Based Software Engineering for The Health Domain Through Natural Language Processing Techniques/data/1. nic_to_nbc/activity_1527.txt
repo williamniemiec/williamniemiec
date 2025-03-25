@@ -1,0 +1,37 @@
+Here is the output in JSON format:
+
+
+[
+    {
+        "name": "Fluid Hydration Tracking",
+        "parameters": [
+            {"name": "fluid_type", "description": "Select type of fluid", "required": true, "type": "options"},
+            {"name": "fluid_volume", "description": "Enter volume of fluid administered", "required": true, "type": "numeric"},
+            {"name": "frequency", "description": "Specify how often to track fluid hydration", "required": true, "type": "options"}
+        ]
+    },
+    {
+        "name": "Diuretic Therapy Tracking",
+        "parameters": [
+            {"name": "diuretic_type", "description": "Select type of diuretic", "required": true, "type": "options"},
+            {"name": "diuretic_dose", "description": "Enter dose of diuretic administered", "required": true, "type": "numeric"},
+            {"name": "frequency", "description": "Specify how often to track diuretic therapy", "required": true, "type": "options"}
+        ]
+    },
+    {
+        "name": "Mobilization Tracking",
+        "parameters": [
+            {"name": "mobilization_type", "description": "Select type of mobilization", "required": true, "type": "options"},
+            {"name": "mobilization_duration", "description": "Enter duration of mobilization", "required": true, "type": "numeric"},
+            {"name": "frequency", "description": "Specify how often to track mobilization", "required": true, "type": "options"}
+        ]
+    },
+    {
+        "name": "Dietary Calcium Restriction Tracking",
+        "parameters": [
+            {"name": "calcium_intake", "description": "Enter daily calcium intake", "required": true, "type": "numeric"},
+            {"name": "food_diary", "description": "Upload food diary", "required": true, "type": "file"},
+            {"name": "frequency", "description": "Specify how often to track dietary calcium intake", "required": true, "type": "options"}
+        ]
+    }
+]

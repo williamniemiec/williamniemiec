@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Care Arrangement Guide": {
+    "Parameters": {
+      "Care Options": {"Type": "list of care options"},
+      "Caregiver Information": {"Type": "text"},
+      "Scheduling": {"Type": "options (e.g., daily, weekly, monthly)"},
+      "Resources": {"Type": "list of resources (e.g., URLs, phone numbers)"},
+      "Frequency": {"Type": "options (e.g., daily, weekly, monthly)"}
+    }
+  }
+}

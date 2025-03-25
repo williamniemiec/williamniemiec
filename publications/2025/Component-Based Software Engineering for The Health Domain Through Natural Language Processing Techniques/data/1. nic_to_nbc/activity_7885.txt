@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Situation Assessment": {
+    "Initial Report": {"type": "text or voice input"},
+    "Location and Environment": {"type": "interactive form with text and selection inputs"},
+    "Injuries or Illnesses": {"type": "interactive form with text and selection inputs"},
+    "Resources and Equipment": {"type": "interactive form with text and selection inputs"},
+    "Additional Information": {"type": "text or voice input"},
+    "Situation Summary": {"type": "interactive summary with text and visual elements"}
+  }
+}

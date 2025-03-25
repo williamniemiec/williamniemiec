@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Visit Schedule",
+    "parameters": [
+        {
+            "name": "visit type",
+            "type": "options"
+        },
+        {
+            "name": "visit time",
+            "type": "time"
+        },
+        {
+            "name": "duration",
+            "type": "time"
+        },
+        {
+            "name": "frequency",
+            "type": "options"
+        },
+        {
+            "name": "notes",
+            "type": "text"
+        }
+    ]
+}

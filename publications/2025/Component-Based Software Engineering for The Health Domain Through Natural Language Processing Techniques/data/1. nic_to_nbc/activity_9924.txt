@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Feelings Reflection": {
+    "Parameters": {
+      "Title": {"Type": "text"},
+      "Prompt": {"Type": "text"},
+      "Response Type": {"Type": "options"},
+      "Emotion Categories": {"Type": "list of categories"},
+      "Frequency": {"Type": "options"}
+    }
+  }
+}

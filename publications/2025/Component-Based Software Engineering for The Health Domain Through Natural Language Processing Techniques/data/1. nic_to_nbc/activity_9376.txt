@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Crisis Analysis": {
+    "parameters": {
+      "Crisis Description": {"type": "text"},
+      "Precipitant Identification": {"type": "options", "options": ["relationship issues", "financial problems", "health concerns", "etc."]},
+      "Dynamic Analysis": {"type": "text"},
+      "Reflection Prompts": {"type": "text"},
+      "Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"type": "datetime"},
+      "Resources": {"type": "list of resources"}
+    }
+  }
+}

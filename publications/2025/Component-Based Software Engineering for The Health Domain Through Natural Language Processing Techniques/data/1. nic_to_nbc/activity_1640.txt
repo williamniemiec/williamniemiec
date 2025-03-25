@@ -1,0 +1,18 @@
+
+
+
+{
+  "Oxygen Therapy with CO2 Monitoring": {
+    "parameters": {
+      "name": "oxygen therapy name",
+      "instructions": "step-by-step instructions on how to use low flow oxygen therapy",
+      "flow_rate": "instructions on the flow rate of oxygen to use",
+      "duration": "how long to use oxygen therapy",
+      "frequency": "how often to use oxygen therapy",
+      "deadline_date": "when to use oxygen therapy",
+      "CO2_level": "CO2 level threshold at which to monitor for CO2 narcosis",
+      "monitoring_frequency": "how often to monitor CO2 levels",
+      "notes": "any additional notes or instructions"
+    }
+  }
+}

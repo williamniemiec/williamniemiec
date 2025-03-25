@@ -1,0 +1,10 @@
+{
+  "name": "Interactive Tutorial and Feedback",
+  "description": "Offers an interactive tutorial with multimedia content, guiding users through a learning process. Includes quizzes, answers, and feedback to improve understanding.",
+  "type": "periodic",
+  "input": ["Tutorial content", "Multimedia resources", "Interactive elements", "Feedback responses", "FAQ answers"],
+  "output": ["Tutorial completion report", "Feedback effectiveness analysis", "Interactive learning summary"],
+  "preconditions": ["User is participating in an interactive tutorial or guide"],
+  "postconditions": ["Improved understanding and knowledge retention through feedback"],
+  "dependencies": ["Tutorial platform", "Interactive content management", "Feedback system"]
+}

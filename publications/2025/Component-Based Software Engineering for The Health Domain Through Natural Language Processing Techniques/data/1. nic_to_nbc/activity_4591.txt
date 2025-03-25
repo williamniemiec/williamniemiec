@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Activity Spacing Guide": {
+    "parameters": [
+      {"name": "activity_list", "type": "unordered list"},
+      {"name": "spacing_guidelines", "type": "text"},
+      {"name": "rationale", "type": "text"}
+    ]
+  }
+}

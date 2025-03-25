@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Lab Result Tracker": {
+    "Parameters": {
+      "Lab Test": {},
+      "Result": {},
+      "Unit": {},
+      "Frequency": {},
+      "Deadline Date": {}
+    }
+  }
+}
+
+
+I removed the `Notes` parameter as it's not applicable in this context. Let me know if you have any further questions!

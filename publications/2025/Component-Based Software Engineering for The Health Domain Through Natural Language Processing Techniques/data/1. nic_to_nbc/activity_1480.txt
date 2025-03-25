@@ -1,0 +1,34 @@
+Here is the output in JSON format:
+
+
+{
+    "Rule Setting": {
+        "Parameters": {
+            "Rule Type": {},
+            "Rule Description": {},
+            "Consequence": {},
+            "Reward": {}
+        }
+    },
+    "Consequence Hierarchy": {
+        "Parameters": {
+            "Consequence Level": {},
+            "Consequence Description": {},
+            "Escalation Criteria": {}
+        }
+    },
+    "Behavior Tracking": {
+        "Parameters": {
+            "Behavior Type": {},
+            "Tracking Method": {},
+            "Frequency": {}
+        }
+    },
+    "Family Meeting": {
+        "Parameters": {
+            "Meeting Frequency": {},
+            "Meeting Agenda": {},
+            "Meeting Notes": {}
+        }
+    }
+}

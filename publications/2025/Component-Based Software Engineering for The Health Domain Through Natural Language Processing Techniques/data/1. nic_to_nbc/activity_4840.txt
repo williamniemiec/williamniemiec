@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "Emergency Plan": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Plan Details": {"Type": "form"},
+      "Review and Update": {"Type": "options", "Options": ["yes", "no"]},
+      "Frequency": {"Type": "options", "Options": ["annually", "bi-annually", "etc."]},
+      "Deadline Date": {"Type": "date"}
+    }
+  },
+  "Document Upload": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Document Type": {"Type": "options", "Options": ["emergency plan", "etc."]},
+      "Frequency": {"Type": "options", "Options": ["annually", "bi-annually", "etc."]},
+      "Deadline Date": {"Type": "date"}
+    }
+  }
+}
+
+
+Note: I removed the non-applicable parameters and only kept the `{{ NO-CODE ELEMENT NAME }}` and `{{ PARAMETER ESPECIFICATIONS }}`.

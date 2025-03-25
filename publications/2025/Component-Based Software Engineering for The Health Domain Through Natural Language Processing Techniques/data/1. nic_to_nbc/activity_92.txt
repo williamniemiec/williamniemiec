@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Bath Options": {
+    "parameters": {
+      "Bath Type": {},
+      "Time of Day": {},
+      "Frequency": {},
+      "Notes": {}
+    }
+  }
+}

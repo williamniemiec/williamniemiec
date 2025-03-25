@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+    "Policy Awareness": {
+        "Policy Content": {"Type": "text or HTML"},
+        "Policy Type": {"Type": "text"},
+        "Acknowledgement": {"Type": "boolean"},
+        "Deadline Date": {"Type": "datetime"}
+    }
+}

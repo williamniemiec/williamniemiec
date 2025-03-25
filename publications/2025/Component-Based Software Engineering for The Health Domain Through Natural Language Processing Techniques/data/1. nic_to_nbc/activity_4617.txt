@@ -1,0 +1,29 @@
+Here is the output in JSON format:
+
+
+{
+  "Assessment": {
+    "Parameters": {
+      "Signs and Symptoms": [
+        "Failure to thrive",
+        "Wasting of subcutaneous tissue",
+        "Consistent hunger",
+        "Poor hygiene",
+        "Constant fatigue and listlessness",
+        "Skin afflictions",
+        "Apathy",
+        "Unyielding body posture",
+        "Inappropriate dress for weather conditions"
+      ],
+      "Frequency": [
+        "daily",
+        "onlyOnce",
+        "everyHours",
+        "everyDays"
+      ],
+      "Deadline Date": {
+        "Type": "datetime"
+      }
+    }
+  }
+}

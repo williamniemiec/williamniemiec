@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Phototherapy Support": {
+    "parameters": {
+      "Phototherapy Schedule": {"type": "calendar"},
+      "Light Therapy Device": {"type": "text"},
+      "Mood Tracking": {"type": "rating scale"},
+      "Side Effect Monitoring": {"type": "checklist"},
+      "Phototherapy Reminders": {"type": "notification"},
+      "Education and Support": {"type": "text"}
+    }
+  }
+}

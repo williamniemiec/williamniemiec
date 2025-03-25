@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Quality Indicator Development": {
+    "parameters": [
+      {"name": "Indicator Category", "type": "options"},
+      {"name": "Indicator Description", "type": "text"},
+      {"name": "Measurement Criteria", "type": "text"},
+      {"name": "Target Value", "type": "number"},
+      {"name": "Data Source", "type": "options"},
+      {"name": "Notes", "type": "text"}
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Breathing Exercise": {
+        "name": "Deep Breathing and Coughing Exercise",
+        "description": "Guided exercise to encourage deep breathing and coughing",
+        "content_type": ["video", "audio", "text"],
+        "instructions": "step-by-step instructions on how to perform deep breathing and coughing exercises",
+        "frequency": "specify how often to perform the exercise",
+        "deadline_date": "specify the due date for completing the exercise",
+        "tracking": "option to track patient's progress, e.g. number of exercises completed"
+    }
+}

@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+    "Priority Setting and Decision Making Guide": {
+        "Goal Setting": {"Type": "text", "Required": true},
+        "Values Clarification": {"Type": "list", "Required": true},
+        "Decision Making Framework": {"Type": "template", "Required": true},
+        "Pros and Cons": {"Type": "table", "Required": true},
+        "Prioritization Exercise": {"Type": "exercise", "Required": true}
+    }
+}
+
+
+I removed the not applicable parameters (`Reflection` and `Decision Making Scenarios`) as per your request. Let me know if you need any further assistance!

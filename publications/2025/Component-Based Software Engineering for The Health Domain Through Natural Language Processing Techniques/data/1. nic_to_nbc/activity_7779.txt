@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Peer Evaluation": {
+    "parameters": {
+      "name": {"type": "text"},
+      "peers": {"type": "list of text"},
+      "evaluation_criteria": {"type": "list of text"},
+      "frequency": {"type": "options"},
+      "deadline_date": {"type": "datetime"}
+    }
+  }
+}
+
+
+Let me know if you need anything else!

@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "Turning Schedule": {
+    "parameters": [
+      {
+        "name": "turning_frequency",
+        "description": "Specify the turning frequency",
+        "required": true,
+        "type": "options",
+        "options": [
+          { "value": "every2hours", "label": "Every 2 hours" },
+          { "value": "custom", "label": "Custom" }
+        ]
+      },
+      {
+        "name": "turning_schedule",
+        "description": "Specify the turning schedule",
+        "required": true,
+        "type": "schedule"
+      }
+    ]
+  }
+}

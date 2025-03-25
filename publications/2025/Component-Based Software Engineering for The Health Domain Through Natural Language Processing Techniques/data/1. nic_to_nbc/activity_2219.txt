@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+  "Equipment Change Reminder": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Equipment Type": {"Type": "options"},
+      "Change Frequency": {"Type": "options"},
+      "Deadline Date": {"Type": "datetime"},
+      "Change Instructions": {"Type": "text or multimedia"}
+    }
+  },
+  "Procedure Guide": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Guide Content": {"Type": "multimedia"},
+      "Equipment Type": {"Type": "options"},
+      "Frequency": {"Type": "options"},
+      "Deadline Date": {"Type": "datetime"}
+    }
+  }
+}

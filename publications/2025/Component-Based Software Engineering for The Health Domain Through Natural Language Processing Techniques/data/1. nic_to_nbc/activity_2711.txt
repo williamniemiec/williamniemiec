@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Assertiveness Training": {
+    "Modules": {"Type": "course-module", "Required": true},
+    "Exercises": {"Type": "exercise", "Required": true},
+    "Tips": {"Type": "text", "Required": false}
+  },
+  "Limit Setting": {
+    "Questions": {"Type": "question", "Required": true},
+    "Examples": {"Type": "text", "Required": true},
+    "Action Plan": {"Type": "template", "Required": true}
+  }
+}

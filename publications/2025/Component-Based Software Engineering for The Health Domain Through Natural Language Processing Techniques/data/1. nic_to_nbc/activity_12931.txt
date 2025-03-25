@@ -1,0 +1,10 @@
+Here is the output in JSON format:
+
+
+{
+    "noCodeElementName": "Protocol",
+    "parameterSpecifications": {
+        "content": {"type": "text or HTML"},
+        "title": {"type": "text"}
+    }
+}

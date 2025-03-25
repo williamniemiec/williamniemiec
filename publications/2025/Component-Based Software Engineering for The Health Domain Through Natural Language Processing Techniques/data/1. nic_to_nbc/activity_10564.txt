@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Exercise Plan": {
+    "Parameters": {
+      "Exercise Goal": {"Type": "text or numeric"},
+      "Exercise Types": {"Type": "list of text or options"},
+      "Schedule": {"Type": "list of objects", "Properties": [{"Date": {"Type": "date"}}, {"Time": {"Type": "time"}}, {"Exercise Type": {"Type": "text or options"}}]},
+      "Tracking": {"Type": "list of objects", "Properties": [{"Date": {"Type": "date"}}, {"Exercise Type": {"Type": "text or options"}}, {"Duration": {"Type": "numeric"}}]},
+      "Reminders": {"Type": "boolean"},
+      "Tips": {"Type": "list of text or multimedia"}
+    }
+  }
+}
+
+
+Let me know if this meets your requirements!

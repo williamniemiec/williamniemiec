@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Bean Bag Chair Seating": {
+    "Duration": {"type": "options"},
+    "Frequency": {"type": "options"},
+    "Reminders": {"type": "boolean"},
+    "Notes": {"type": "text"}
+  }
+}

@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+  "Transfusion Reaction Monitoring": {
+    "Symptoms": {
+      "type": "multi-select options"
+    },
+    "Frequency": {
+      "type": "options"
+    },
+    "Severity Scale": {
+      "type": "options"
+    },
+    "Deadline Date": {
+      "type": "datetime"
+    }
+  }
+}
+
+
+Let me know if this meets your requirements!

@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+    "Preoperative Guide": {
+        "Parameters": {
+            "Name": "Preoperative Guide",
+            "Description": "Review important information about your upcoming surgical procedure",
+            "Content": ["Text, images, or videos explaining the surgical procedure", "Instructions on how to prepare for the procedure", "Information on what to expect during and after the procedure"],
+            "Frequency": ["pre-operative", "as needed"]
+        }
+    },
+    "Preoperative Quiz": {
+        "Parameters": {
+            "Name": "Preoperative Quiz",
+            "Description": "Test your knowledge about your upcoming surgical procedure",
+            "Questions": ["Multiple-choice questions about the surgical procedure", "True/false questions about preparation and recovery"],
+            "Frequency": ["pre-operative", "as needed"]
+        }
+    }
+}
+
+
+Let me know if you need any further assistance!

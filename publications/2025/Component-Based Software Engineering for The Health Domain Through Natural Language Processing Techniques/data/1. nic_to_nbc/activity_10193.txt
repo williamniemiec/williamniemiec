@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Medication Tracker": {
+        "Parameters": {
+            "Medication List": {"Type": "list of medications (with dosage and frequency)"},
+            "Reminders": {"Type": "options", "Options": ["daily", "everyHours", "everyDays", "custom"]},
+            "Tracking": {"Type": "log (with date and time stamps)"},
+            "Notes": {"Type": "text"},
+            "Deadline Date": {"Type": "datetime"}
+        }
+    }
+}

@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+[
+    {
+        "noCodeElementName": "Task",
+        "parameters": {
+            "name": "Position for Urinary Drainage",
+            "content": "Please position yourself to promote urinary drainage, as recommended by your healthcare provider.",
+            "frequency": "asNeeded"
+        }
+    },
+    {
+        "noCodeElementName": "Guide",
+        "parameters": {
+            "name": "Positioning for Urinary Drainage",
+            "pages": "A list of HTML texts or images that provide guidelines and instructions on how to position oneself to promote urinary drainage."
+        }
+    }
+]

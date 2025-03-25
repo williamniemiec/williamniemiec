@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+    "Relaxation Technique Lesson": {
+        "Technique Type": {},
+        "Lesson Content": {},
+        "Practice Exercise": {},
+        "Frequency": {},
+        "Deadline Date": {},
+        "Resources": {}
+    },
+    "Guided Meditation Session": {
+        "Meditation Type": {},
+        "Guided Audio": {},
+        "Session Duration": {},
+        "Frequency": {},
+        "Deadline Date": {},
+        "Resources": {}
+    }
+}

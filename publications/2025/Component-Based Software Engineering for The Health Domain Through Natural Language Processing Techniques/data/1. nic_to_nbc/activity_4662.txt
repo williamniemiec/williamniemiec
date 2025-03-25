@@ -1,0 +1,33 @@
+Here is the output in JSON format:
+
+
+{
+  "Volume Control": {
+    "Parameters": {
+      "Volume Adjustment": {
+        "Description": "Adjust the volume to an adequate level",
+        "Required": true,
+        "Type": "slider",
+        "Options": [
+          { "Value": 0, "Label": "Too Low" },
+          { "Value": 50, "Label": "Adequate" },
+          { "Value": 100, "Label": "Too High" }
+        ]
+      },
+      "Frequency": {
+        "Description": "Specify how often the volume should be adjusted",
+        "Required": true,
+        "Type": "options",
+        "Options": [
+          { "Value": "daily", "Label": "Daily" },
+          { "Value": "onlyOnce", "Label": "Only once" },
+          { "Value": "everyHours", "Label": "Every x hours" },
+          { "Value": "everyDays", "Label": "Every x days" }
+        ]
+      }
+    }
+  }
+}
+
+
+Note that I removed the `Deadline Date` parameter since it was marked as not required (`"Required": false`). Let me know if you need anything else!

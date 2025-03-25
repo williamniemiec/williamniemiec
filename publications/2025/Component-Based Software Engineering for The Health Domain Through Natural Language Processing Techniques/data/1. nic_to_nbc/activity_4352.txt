@@ -1,0 +1,11 @@
+
+
+
+{
+  "Daily Affirmations": {
+    "Affirmation List": {"type": "list of text"},
+    "Affirmation Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Affirmation Format": {"type": "options", "options": ["notification", "audio", "text"]},
+    "Reflection Prompt": {"type": "text"}
+  }
+}

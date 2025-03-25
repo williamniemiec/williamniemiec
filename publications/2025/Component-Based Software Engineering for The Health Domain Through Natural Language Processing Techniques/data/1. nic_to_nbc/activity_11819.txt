@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Homelike Environment": {
+        "Wall Treatment": {"type": "options", "options": ["calming colors", "nature scenes", "family photos", "etc."]},
+        "Music Preferences": {"type": "options", "options": ["soft instrumental", "nature sounds", "classical music", "etc."]},
+        "Aromatherapy": {"type": "options", "options": ["lavender", "vanilla", "peppermint", "etc."]},
+        "Lighting Preferences": {"type": "options", "options": ["soft lighting", "dim lighting", "natural light", "etc."]},
+        "Additional Comforts": {"type": "text"},
+        "Notes": {"type": "text"}
+    }
+}

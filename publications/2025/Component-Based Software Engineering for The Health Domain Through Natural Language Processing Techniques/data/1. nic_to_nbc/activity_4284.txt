@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Dialysate Volume Tracking": {
+    "parameters": [
+      {"name": "infused_dialysate_volume", "description": "Enter the volume of infused dialysate (in mL)", "required": true, "type": "number"},
+      {"name": "returned_effluent_volume", "description": "Enter the volume of returned effluent (in mL)", "required": true, "type": "number"},
+      {"name": "exchange_number", "description": "Specify the peritoneal dialysis exchange number", "required": true, "type": "number"},
+      {"name": "frequency", "description": "Specify how often to track and report dialysate volume", "required": true, "type": "options", "options": [
+        {"value": "everyExchange", "label": "Every peritoneal dialysis exchange"},
+        {"value": "daily", "label": "Daily"}
+      ]}
+    ]
+  }
+}

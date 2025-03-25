@@ -1,0 +1,45 @@
+Here is the output in JSON format:
+
+
+{
+  "Device-Specific Care Guide": {
+    "parameters": {
+      "name": {},
+      "device_type": {},
+      "care_instructions": {},
+      "images/videos": {},
+      "frequency": {},
+      "deadline_date": {}
+    }
+  },
+  "Device Tracker": {
+    "parameters": {
+      "name": {},
+      "device_type": {},
+      "patient_id": {},
+      "frequency": {},
+      "deadline_date": {}
+    }
+  },
+  "Care Compliance Tracker": {
+    "parameters": {
+      "name": {},
+      "device_type": {},
+      "care_instruction": {},
+      "compliance_status": {},
+      "frequency": {},
+      "deadline_date": {}
+    }
+  },
+  "Alert": {
+    "parameters": {
+      "name": {},
+      "message": {},
+      "frequency": {},
+      "deadline_date": {}
+    }
+  }
+}
+
+
+Note that I removed the "Not Applicable" parameters as per your request. Let me know if you need any further modifications!

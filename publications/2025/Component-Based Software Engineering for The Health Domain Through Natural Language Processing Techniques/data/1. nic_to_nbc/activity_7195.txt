@@ -1,0 +1,34 @@
+Here is the output in JSON format:
+
+
+{
+  "Support Needs Assessment": {
+    "parameters": {
+      "Assessment questions": "list of questions",
+      "Assessment frequency": "how often",
+      "Notification settings": "options for receiving notifications"
+    }
+  },
+  "Resource Directory": {
+    "parameters": {
+      "Resource categories": "list of categories",
+      "Resource listings": "list of resources",
+      "Filtering and sorting options": "options for filtering and sorting"
+    }
+  },
+  "Personalized Support Plan": {
+    "parameters": {
+      "Support needs assessment results": "input from support needs assessment",
+      "Resource directory": "input from resource directory",
+      "Plan template": "template",
+      "Care team input": "input from care team"
+    }
+  },
+  "Care Coordination": {
+    "parameters": {
+      "Personalized support plan": "input from personalized support plan",
+      "Care team members": "list of care team members",
+      "Service scheduling": "options for scheduling services"
+    }
+  }
+}

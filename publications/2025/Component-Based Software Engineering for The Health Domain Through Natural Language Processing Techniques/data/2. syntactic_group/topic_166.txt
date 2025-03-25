@@ -1,0 +1,10 @@
+{
+  "name": "Aseptic Guideline and Educational Content",
+  "description": "Provides guidelines for maintaining aseptic technique, with content and resources available in multiple formats. Includes examples, tips, and a clear format for users to understand and follow aseptic practices.",
+  "type": "non-periodic",
+  "input": ["Aseptic technique", "Guidelines", "Educational content", "Examples", "Tips", "Resources"],
+  "output": ["Aseptic guidelines", "Instructional content", "Feedback on aseptic practices"],
+  "preconditions": ["User needs to understand aseptic technique or guidelines"],
+  "postconditions": ["Successful adherence to aseptic procedures"],
+  "dependencies": ["Guideline platform", "Educational resource tools"]
+}

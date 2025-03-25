@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "Nutrition Assistance": {
+    "Meal Type": {"type": "options", "options": ["breakfast", "lunch", "dinner", "snack"]},
+    "Dietary Restrictions": {"type": "options", "options": ["vegetarian", "glutenFree", "etc."]},
+    "Feeding Assistance": {"type": "options", "options": ["minimal", "moderate", "maximal"]}
+  },
+  "Elimination Assistance": {
+    "Toileting Frequency": {"type": "options", "options": ["everyHour", "every2Hours", "every4Hours", "etc."]},
+    "Incontinence Level": {"type": "options", "options": ["occasional", "frequent", "constant"]},
+    "Toileting Assistance": {"type": "options", "options": ["minimal", "moderate", "maximal"]}
+  },
+  "Hydration Assistance": {
+    "Fluid Intake": {"type": "number"},
+    "Hydration Frequency": {"type": "options", "options": ["everyHour", "every2Hours", "every4Hours", "etc."]},
+    "Hydration Assistance": {"type": "options", "options": ["minimal", "moderate", "maximal"]}
+  },
+  "Personal Hygiene Assistance": {
+    "Hygiene Frequency": {"type": "options", "options": ["everyHour", "every2Hours", "every4Hours", "etc."]},
+    "Hygiene Type": {"type": "options", "options": ["bathing", "grooming", "etc."]},
+    "Hygiene Assistance": {"type": "options", "options": ["minimal", "moderate", "maximal"]}
+  }
+}

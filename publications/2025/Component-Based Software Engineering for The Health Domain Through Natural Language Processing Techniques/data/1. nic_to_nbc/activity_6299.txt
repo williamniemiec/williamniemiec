@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Coagulation Study Monitoring": {
+    "Parameters": {
+      "Study Type": {},
+      "Frequency": {},
+      "Target Range": {
+        "Minimum": {},
+        "Maximum": {}
+      },
+      "Notes": {}
+    }
+  }
+}

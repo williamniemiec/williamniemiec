@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Enema Order Verification": {
+    "parameters": [
+      {"Name": {"type": "text"}},
+      {"Order Verification": {"type": "boolean"}},
+      {"Contraindications": {"type": "unordered list"}},
+      {"Verification Status": {"type": "options"}}
+    ]
+  }
+}
+
+
+Note that I removed the `Deadline Date` parameter as it is not applicable (marked as `"required": false`).

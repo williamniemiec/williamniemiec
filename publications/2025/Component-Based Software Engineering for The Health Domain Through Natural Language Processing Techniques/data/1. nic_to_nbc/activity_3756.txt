@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Educational Resource": {
+    "resource title": {},
+    "Content": {},
+    "Knowledge Need": {},
+    "Language": {},
+    "Format": {}
+  }
+}

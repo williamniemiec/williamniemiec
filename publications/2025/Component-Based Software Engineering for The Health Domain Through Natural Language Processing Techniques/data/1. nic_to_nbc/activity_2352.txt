@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Allergy History Check": {
+        "parameters": {
+            "Allergy List": {"type": "list"},
+            "Add New Allergy": {"type": "text"},
+            "Search Allergies": {"type": "text"},
+            "Alert Status": {"type": "boolean"}
+        }
+    }
+}

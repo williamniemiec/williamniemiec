@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Meal Assistance": {
+    "Parameters": {
+      "Name": {},
+      "Instructions": {},
+      "Frequency": {},
+      "Deadline Date": {},
+      "Special Dietary Needs": {},
+      "Meal Type": {}
+    }
+  }
+}

@@ -1,0 +1,31 @@
+Here is the output in JSON format:
+
+
+{
+    "Task List": {
+        "parameters": {
+            "name": "",
+            "tasks": [],
+            "frequency": "",
+            "deadline_date": ""
+        }
+    },
+    "Resource Guide": {
+        "parameters": {
+            "name": "",
+            "resources": [],
+            "frequency": "",
+            "deadline_date": ""
+        }
+    },
+    "Goal Setting": {
+        "parameters": {
+            "name": "",
+            "goal": "",
+            "frequency": "",
+            "deadline_date": ""
+        }
+    }
+}
+
+Note: I removed the not applicable parameters and only kept the `parameters` section for each no-code element.

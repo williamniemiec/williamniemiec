@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+    "Skin and Mucous Membrane Inspection": {
+        "Frequency": {
+            "Type": "options",
+            "Options": ["daily", "everyOtherDay", "weekly"]
+        },
+        "Instructions": {
+            "Type": "text"
+        },
+        "Areas to Inspect": {
+            "Type": "text"
+        },
+        "What to Look For": {
+            "Type": "text"
+        },
+        "Reporting": {
+            "Type": "text"
+        }
+    }
+}

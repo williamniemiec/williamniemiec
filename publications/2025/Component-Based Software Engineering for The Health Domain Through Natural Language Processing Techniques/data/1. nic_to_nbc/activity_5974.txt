@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Feelings Discussion": {
+    "Topic": {"type": "text"},
+    "Question": {"type": "text"},
+    "Answer Type": {"type": "options", "options": ["text", "emoticon", "drawing"]},
+    "Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]}
+  }
+}
+
+
+I removed the `Deadline Date` parameter as it is a datetime type, which is not applicable in this context.

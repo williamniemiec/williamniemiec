@@ -1,0 +1,31 @@
+Here is the output in JSON format:
+
+
+{
+  "Write Without Interruption": {
+    "parameters": [
+      { 
+        "name": "Name", 
+        "type": "text"
+      },
+      { 
+        "name": "Duration", 
+        "type": "number",
+        "default": 20
+      },
+      { 
+        "name": "Frequency", 
+        "type": "options",
+        "options": [
+          { value: "atLeast3TimesAWeek" },
+          { value: "daily" },
+          { value: "everyOtherDay" }
+        ]
+      },
+      { 
+        "name": "Deadline Date", 
+        "type": "datetime"
+      }
+    ]
+  }
+}

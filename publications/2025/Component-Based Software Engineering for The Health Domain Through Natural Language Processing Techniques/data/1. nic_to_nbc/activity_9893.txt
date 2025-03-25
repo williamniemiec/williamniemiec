@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+  "Personal Item Support": {
+    "Item Suggestions": {
+      "type": "list of item suggestions"
+    },
+    "Family Communication": {
+      "type": "messaging or video conferencing tool"
+    },
+    "Item Tracking": {
+      "type": "item tracking tool or inventory list"
+    },
+    "Reminders": {
+      "type": "options (e.g., daily, weekly)"
+    },
+    "Gratitude Expression": {
+      "type": "gratitude expression tool or thank-you note feature"
+    }
+  }
+}

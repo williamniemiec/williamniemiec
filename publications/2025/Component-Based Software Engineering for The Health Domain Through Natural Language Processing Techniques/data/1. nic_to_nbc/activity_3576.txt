@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+    "Guide": {
+        "Parameters": {
+            "Title": {"Type": "text"},
+            "Pages": {"Type": "book-page", "book-page": "list of HTML texts"},
+            "Food List": {"Type": "list", "list": "list of text"},
+            "Tips": {"Type": "list", "list": "list of text"}
+        }
+    },
+    "Resource": {
+        "Parameters": {
+            "Title": {"Type": "text"},
+            "Food List": {"Type": "list", "list": "list of text"},
+            "Description": {"Type": "list", "list": "list of text"}
+        }
+    }
+}

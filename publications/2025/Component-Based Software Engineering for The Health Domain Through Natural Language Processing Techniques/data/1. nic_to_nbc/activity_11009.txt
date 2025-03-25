@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+    "Depression Screening": {
+        "parameters": {
+            "screening_tool": {"type": "options"},
+            "questions": {"type": "list of text"},
+            "response_type": {"type": "options"},
+            "scoring_system": {"type": "options"},
+            "baseline_score": {"type": "number"},
+            "follow_up_frequency": {"type": "options"}
+        }
+    }
+}

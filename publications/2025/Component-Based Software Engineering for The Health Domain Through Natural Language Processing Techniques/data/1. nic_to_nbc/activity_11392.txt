@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Skin Inspection": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Device Type": {"Type": "options", "Options": ["wristSplint", "kneeBrace", "cervicalCollar"]},
+      "Inspection Areas": {"Type": "unordered list"},
+      "Inspection Frequency": {"Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Inspection Questions": {"Type": "ordered list"},
+      "Reporting": {"Type": "options", "Options": ["photo", "text"]}
+    }
+  }
+}
+
+
+Let me know if you need any further assistance!

@@ -1,0 +1,43 @@
+Here is the output in JSON format:
+
+
+{
+  "Symptom Checker": {
+    "name": "Hypernatremia Symptom Checker",
+    "symptoms": [
+      "Extreme thirst",
+      "Fever",
+      "Dry, sticky mucous membranes",
+      "Tachycardia",
+      "Hypotension",
+      "Lethargy",
+      "Confusion",
+      "Altered mentation",
+      "Seizures"
+    ],
+    "answer type": "boolean (yes/no) or severity scale (e.g., 1-5)",
+    "frequency": null,
+    "deadline_date": null
+  },
+  "Vital Sign Tracker": {
+    "name": "Vital Sign Tracker",
+    "vital signs": [
+      "Heart rate",
+      "Blood pressure",
+      "Temperature"
+    ],
+    "frequency": null,
+    "deadline_date": null
+  },
+  "Neurological Assessment": {
+    "name": "Neurological Assessment",
+    "assessment": [
+      "Level of consciousness",
+      "Orientation to time and place",
+      "Muscle strength and coordination",
+      "Reflexes"
+    ],
+    "frequency": null,
+    "deadline_date": null
+  }
+}

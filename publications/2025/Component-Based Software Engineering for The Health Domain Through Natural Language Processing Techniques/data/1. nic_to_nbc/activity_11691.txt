@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Device Maintenance": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Device": {"Type": "text"},
+      "Task": {"Type": "text"},
+      "Status": {"Type": "options"},
+      "Frequency": {"Type": "options"},
+      "Deadline Date": {"Type": "datetime"}
+    }
+  }
+}

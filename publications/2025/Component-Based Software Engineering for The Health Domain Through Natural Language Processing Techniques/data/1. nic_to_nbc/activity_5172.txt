@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+    "Stress Management Guide": {
+        "Guide Content": {"Type": ["text", "multimedia"]},
+        "Title": {"Type": "text"},
+        "Frequency": {"Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+        "Deadline Date": {"Type": "datetime"}
+    }
+}

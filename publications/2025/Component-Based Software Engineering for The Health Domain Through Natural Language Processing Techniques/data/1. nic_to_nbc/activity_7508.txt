@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Education": {
+    "parameters": {
+      "content": {"type": "rich text or multimedia"},
+      "topics": {"type": "list of text"},
+      "frequency": {"type": "options"}
+    }
+  }
+}

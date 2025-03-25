@@ -1,0 +1,10 @@
+{
+  "name": "Safety Warnings and Retrieval",
+  "description": "Focuses on safety warnings related to hyperextension and flexion injuries. Provides instructions for safe retrieval and storage of files, including multimedia content.",
+  "type": "non-periodic",
+  "input": ["Safety warnings", "Hyperextension and flexion prevention", "File retrieval process", "Content storage"],
+  "output": ["Safety retrieval guidelines", "Warning alerts", "Multimedia content safety report"],
+  "preconditions": ["User is handling or retrieving files with potential safety risks"],
+  "postconditions": ["Safe file retrieval and injury prevention"],
+  "dependencies": ["Safety management system", "File retrieval tools", "Multimedia content platform"]
+}

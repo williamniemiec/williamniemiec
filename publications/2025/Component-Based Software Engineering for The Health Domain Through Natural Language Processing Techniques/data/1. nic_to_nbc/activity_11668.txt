@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+    "community_agency_collaboration": {
+        "parameters": [
+            {"name": "patient_needs"},
+            {"name": "community_agencies", 
+             "community_agency": [
+                {"name": "agency_name"},
+                {"name": "agency_services"}
+            ]},
+            {"name": "service_referral_process", 
+             "wizard_steps": [
+                {"name": "step_name"},
+                {"name": "step_instructions"}
+            ]},
+            {"name": "follow_up_plan"}
+        ]
+    }
+}
+
+
+I removed all the unnecessary text and only kept the `{{ NO-CODE ELEMENT NAME }}` and `{{ PARAMETER ESPECIFICATIONS }}`. I also removed any not applicable parameters. Let me know if this is what you were looking for!

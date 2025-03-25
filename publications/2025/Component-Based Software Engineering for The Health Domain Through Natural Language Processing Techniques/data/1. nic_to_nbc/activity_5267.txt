@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Suck Reflex Monitoring": {
+    "parameters": [
+      {"name": "Name", "type": "text"},
+      {"name": "Suck Reflex Strength", "type": "options"},
+      {"name": "Feeding Difficulty", "type": "boolean"},
+      {"name": "Notes", "type": "text"}
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Knowledge Assessment": {
+    "Parameters": {
+      "Medication": {"Type": "text"},
+      "Knowledge Questions": {"Type": "checklist"},
+      "Answer Options": {"Type": "options"},
+      "Correct Answers": {"Type": "text"},
+      "Score": {"Type": "number"},
+      "Feedback": {"Type": "text"}
+    }
+  }
+}

@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Fluid Restriction Tracker": {
+    "Serum Na Level": {"type": "number"},
+    "Fluid Intake Goal": {"type": "number"},
+    "Fluid Intake Unit": {"type": "options", "options": [{"value": "mL", "label": "mL"}, {"value": "L", "label": "L"}]},
+    "Fluid Restriction Type": {"type": "options", "options": [{"value": "water", "label": "Water"}, {"value": "electrolyteRichFluids", "label": "Electrolyte-rich fluids"}]},
+    "Frequency of Tracking": {"type": "options", "options": [{"value": "daily", "label": "Daily"}, {"value": "weekly", "label": "Weekly"}, {"value": "monthly", "label": "Monthly"}]},
+    "Deadline Date": {"type": "datetime"}
+  }
+}
+
+
+Let me know if this meets your requirements!

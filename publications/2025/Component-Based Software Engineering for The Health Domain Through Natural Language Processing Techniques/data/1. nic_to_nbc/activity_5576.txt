@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "tarsorrhaphy preparation": {
+    "Instructions": {"type": "text"},
+    "Preparation Steps": {"type": "list of text"},
+    "Appointment Date": {"type": "datetime"},
+    "Additional Notes": {"type": "text"}
+  }
+}

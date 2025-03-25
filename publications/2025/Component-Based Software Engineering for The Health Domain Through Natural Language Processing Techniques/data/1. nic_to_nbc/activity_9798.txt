@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Policy": {
+    "Parameters": {
+      "Policy Document": {
+        "Type": "document (PDF or text)",
+        "Required": true
+      },
+      "Procedures": {
+        "Type": "text",
+        "Required": true
+      },
+      "Contact Information": {
+        "Type": "text",
+        "Required": true
+      }
+    }
+  }
+}

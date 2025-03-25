@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Wire Connection": {
+    "parameters": {
+      "Wire Connection Instructions": {},
+      "Connection Confirmation": {},
+      "Electrode Connection Check": {},
+      "TENS Unit Connection Check": {},
+      "Frequency": {}
+    }
+  }
+}

@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Grief Expression Listener": {
+    "parameters": {
+      "Grief Expression": {"type": "text or audio"},
+      "Emotional Support": {"type": "text"},
+      "Reflection Prompt": {"type": "text"},
+      "Active Listening": {"type": "text"}
+    }
+  }
+}

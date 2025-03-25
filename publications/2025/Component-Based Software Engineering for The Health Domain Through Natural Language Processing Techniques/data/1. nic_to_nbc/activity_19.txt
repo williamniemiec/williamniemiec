@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Hair Care Guide": {
+    "guide title": {},
+    "Temperature Extremes": {},
+    "Chemical Treatments": {},
+    "Safe Hair Care Practices": {},
+    "Rationale": {}
+  }
+}

@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Boundary Setup": {
+    "parameters": {
+      "boundary_type": {"type": "options"},
+      "boundary_location": {"type": "text"},
+      "setup_instructions": {"type": "text or HTML"},
+      "removal_criteria": {"type": "options"}
+    }
+  }
+}

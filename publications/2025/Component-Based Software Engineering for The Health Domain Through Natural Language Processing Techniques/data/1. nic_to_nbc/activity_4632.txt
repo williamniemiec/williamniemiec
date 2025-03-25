@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Tear Strip Test": {
+    "parameters": {
+      "Instructions": {},
+      "Test duration": {},
+      "Frequency": {},
+      "Deadline date": {},
+      "Tear strip results": {}
+    }
+  },
+  "Tear Strip Reader": {
+    "parameters": {
+      "Instructions": {},
+      "Frequency": {},
+      "Deadline date": {}
+    }
+  }
+}

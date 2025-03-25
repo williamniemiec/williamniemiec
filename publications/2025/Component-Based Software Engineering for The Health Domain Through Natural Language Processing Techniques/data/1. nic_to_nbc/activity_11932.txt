@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Posture Reminder": {
+    "Parameters": {
+      "Reminder Title": {},
+      "Content": {},
+      "Frequency": {},
+      "Image": {}
+    }
+  }
+}

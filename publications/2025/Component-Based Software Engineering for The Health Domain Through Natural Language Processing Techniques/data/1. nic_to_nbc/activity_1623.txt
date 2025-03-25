@@ -1,0 +1,10 @@
+Here is the output in JSON format:
+
+
+{
+    "Physician Contact": {
+        "Reason": {"type": "text"},
+        "Contact Method": {"type": "options"},
+        "Urgency": {"type": "options"}
+    }
+}

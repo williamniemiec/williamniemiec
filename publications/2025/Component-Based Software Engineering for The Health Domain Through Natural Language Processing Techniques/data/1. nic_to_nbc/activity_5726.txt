@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Family Dynamics Survey": {
+    "Parameters": {
+      "Family Members": {},
+      "Interaction Patterns": {},
+      "Conflict Resolution": {},
+      "Support Network": {}
+    }
+  }
+}

@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Favorite Foods List": {
+    "Food List": {"type": "text"},
+    "Family Notification": {"type": "boolean"},
+    "Frequency": {"options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"type": "datetime"}
+  }
+}

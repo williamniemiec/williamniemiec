@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Interpleural Catheter Management": {
+    "Catheter Type": {"type": "options"},
+    "Insertion Date and Time": {"type": "datetime"},
+    "Catheter Care Instructions": {"type": "ordered list"},
+    "Monitoring Schedule": {"type": "options"},
+    "Complication Reporting": {"type": "form"},
+    "Agency Policy Reference": {"type": "text or link"}
+  }
+}

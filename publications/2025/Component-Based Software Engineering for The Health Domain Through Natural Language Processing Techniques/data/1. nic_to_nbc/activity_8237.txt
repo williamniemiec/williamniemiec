@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Blood Glucose Tracker": {
+    "parameters": {
+      "Blood Glucose Readings": {"type": "number"},
+      "Reading Frequency": {"type": "options"},
+      "Target Range": {"type": "range"},
+      "Alerts": {"type": "boolean"},
+      "Tracking History": {"type": "list of numbers"}
+    }
+  }
+}
+
+
+Note that I removed the non-applicable parameters and only kept the `{{ NO-CODE ELEMENT NAME }}` and `{{ PARAMETER ESPECIFICATIONS }}` as requested.

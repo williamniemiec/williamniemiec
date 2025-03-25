@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Physical Examination Tracker": {
+    "Parameters": {
+      "Symptoms": {"Type": "text"},
+      "Vital Signs": {"Type": "number"},
+      "Physical Examination Findings": {"Type": "text"},
+      "Frequency": {"Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"Type": "datetime"}
+    }
+  }
+}

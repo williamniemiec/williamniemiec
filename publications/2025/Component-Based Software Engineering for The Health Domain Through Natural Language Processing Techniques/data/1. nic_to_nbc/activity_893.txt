@@ -1,0 +1,10 @@
+Here is the output in JSON format:
+
+
+{
+    "Dressing Assessment": {
+        "Areas of Difficulty": {"Type": "options"},
+        "Frequency": {"Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+        "Notes": {"Type": "text"}
+    }
+}

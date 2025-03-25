@@ -1,0 +1,13 @@
+
+
+
+{
+"Pain Management Planning": {
+    "Pain Goals": {"type": "text"},
+    "Analgesic Options": {"type": "list (of analgesic options)"},
+    "Route Options": {"type": "list (of route options)"},
+    "Dose Options": {"type": "list (of dose options)"},
+    "Patient Preferences": {"type": "text (with optional rating scale, e.g., 1-5)"},
+    "Care Plan": {"type": "text (with optional PDF or printable format)"}
+  }
+}

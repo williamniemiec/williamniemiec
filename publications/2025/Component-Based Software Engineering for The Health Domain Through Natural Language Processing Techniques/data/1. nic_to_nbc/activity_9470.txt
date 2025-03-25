@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+    "Symptom Checker": {
+        "Parameters": {
+            "Symptom List": {"Type": "checklist", "Options": ["Do you experience shortness of breath?", "Have you noticed any changes in urine output?", "Do you have any chest pain?"]},
+            "Frequency": {"Type": "options", "Options": ["daily", "every 12 hours", "every 8 hours"]},
+            "Deadline Date": {"Type": "datetime"},
+            "Additional Notes": {"Type": "text"}
+        }
+    },
+    "Vital Sign Tracker": {
+        "Parameters": {
+            "Vital Sign List": {"Type": "checklist"},
+            "Frequency": {"Type": "options", "Options": ["daily", "every 12 hours", "every 8 hours"]},
+            "Deadline Date": {"Type": "datetime"},
+            "Target Range": {"Type": "range"}
+        }
+    }
+}

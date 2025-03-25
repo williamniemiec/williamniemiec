@@ -1,0 +1,33 @@
+Here is the output in JSON format:
+
+
+{
+  "Receptivity Assessment": {
+    "Questions": {
+      "Type": "form",
+      "Options": ["multiple-choice", "true/false", "Likert scale", "etc."]
+    },
+    "Answers": {
+      "Type": ["text", "options"]
+    },
+    "Scoring": {
+      "Type": ["options (e.g., 0-10, yes/no, etc.)"]
+    }
+  },
+  "Attitude Scale": {
+    "Scale": {
+      "Type": ["options"]
+    },
+    "Rating": {
+      "Type": "number"
+    }
+  },
+  "Open-Ended Question": {
+    "Question": {
+      "Type": "text"
+    },
+    "Response": {
+      "Type": "text"
+    }
+  }
+}

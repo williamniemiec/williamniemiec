@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Effective Communication Guide": {
+    "parameters": {
+      "Communication Topic": {"type": "options"},
+      "Communication Goals": {"type": "text"},
+      "Communication Strategies": {"type": "checklist"},
+      "Family Members Involved": {"type": "checklist"},
+      "Communication Script": {"type": "text"},
+      "Frequency": {"options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"type": "datetime"}
+    }
+  }
+}
+
+
+Let me know if you need any further assistance!

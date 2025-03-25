@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Mindful Breathing": {
+    "Breathing Technique": {},
+    "Breathing Rate": {},
+    "Relaxation Cue": {},
+    "Mindfulness Prompt": {},
+    "Duration": {}
+  }
+}

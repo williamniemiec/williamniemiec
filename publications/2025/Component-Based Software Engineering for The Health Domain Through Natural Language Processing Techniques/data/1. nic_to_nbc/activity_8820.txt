@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Task Reminder": {
+    "parameters": {
+      "task_name": {"type": "text"},
+      "frequency": {"type": "options"},
+      "reminder_type": {"type": "options"},
+      "notes": {"type": "text"}
+    }
+  }
+}

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Art-Based Activity Selector": {
+    "parameters": {
+      "Activity Type": {},
+      "Activity Description": {},
+      "Frequency": {},
+      "Deadline Date": {},
+      "Additional Notes": {}
+    }
+  }
+}

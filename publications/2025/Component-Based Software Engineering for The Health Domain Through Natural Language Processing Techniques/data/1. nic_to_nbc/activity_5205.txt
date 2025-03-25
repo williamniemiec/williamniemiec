@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Value Identification": {
+    "Parameters": {
+      "Value Category": {},
+      "Specific Value": {},
+      "Importance": {},
+      "Reflection": {}
+    }
+  }
+}

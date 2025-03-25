@@ -1,0 +1,43 @@
+Here is the output in JSON format:
+
+
+{
+  "Lubricant Application": {
+    "Parameters": {
+      "Lubricant Type": {"Type": "text"},
+      "Application Instruction": {"Type": "text"}
+    }
+  },
+  "Finger Lubrication": {
+    "Parameters": {
+      "Hand Dominance": {"Type": "options"},
+      "Finger Selection": {"Type": "options"},
+      "Lubrication Instruction": {"Type": "text"}
+    }
+  },
+  "Lubricant Selection": {
+    "Parameters": {
+      "Lubricant Type": {"Type": "text"}
+    }
+  },
+  "Suppository Lubrication": {
+    "Parameters": {
+      "Application Instruction": {"Type": "text"}
+    }
+  },
+  "Hand Dominance": {
+    "Parameters": {
+      "Hand Dominance": {"Type": "options"}
+    }
+  },
+  "Finger Selection": {
+    "Parameters": {
+      "Finger Selection": {"Type": "options"}
+    }
+  },
+  "Finger Lubrication": {
+    "Parameters": {
+      "Lubrication Instruction": {"Type": "text"}
+    }
+  }
+}

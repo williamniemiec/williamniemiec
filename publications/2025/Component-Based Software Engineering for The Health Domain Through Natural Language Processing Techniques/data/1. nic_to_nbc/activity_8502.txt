@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Weight Shift Reminder": {
+    "reminder title": {},
+    "weight shift instructions": {},
+    "Frequency": {
+      "options": [
+        {"value": "every15Minutes", "label": "Every 15 minutes"},
+        {"value": "every30Minutes", "label": "Every 30 minutes"},
+        {"value": "everyHour", "label": "Every hour"},
+        {"value": "asNeeded", "label": "As needed"}
+      ]
+    }
+  }
+}

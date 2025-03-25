@@ -1,0 +1,10 @@
+{
+  "name": "Medical Treatment and Outcomes",
+  "description": "Tracks medical treatments, including interventions, surgeries, and therapies, and verifies patient outcomes after treatment.",
+  "type": "non-periodic",
+  "input": ["Patient details", "Treatment type", "Intervention methods", "Admission data"],
+  "output": ["Treatment outcomes", "Surgical success rates", "Therapy progress reports"],
+  "preconditions": ["Patient is admitted and treatment is initiated"],
+  "postconditions": ["Treatment outcomes are verified and documented"],
+  "dependencies": ["Medical database", "Patient management system", "Therapy and surgery tracking tools"]
+}

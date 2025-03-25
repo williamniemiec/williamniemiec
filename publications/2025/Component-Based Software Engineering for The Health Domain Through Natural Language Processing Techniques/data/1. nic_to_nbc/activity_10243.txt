@@ -1,0 +1,45 @@
+Here is the output in JSON format:
+
+
+{
+    "Enteral Feeding Consultation": {
+        "Consultation Title": {
+            "Description": "Title of the consultation task",
+            "Required": true,
+            "Type": "text"
+        },
+        "Healthcare Team Members": {
+            "Description": "Select the healthcare team members to consult with",
+            "Required": true,
+            "Type": "multi-select",
+            "Options": [
+                { "value": "doctor", "label": "Doctor" },
+                { "value": "dietitian", "label": "Dietitian" },
+                { "value": "nurse", "label": "Nurse" },
+                { "value": "other", "label": "Other (please specify)" }
+            ]
+        },
+        "Enteral Feeding Options": {
+            "Description": "Select the enteral feeding options to consider",
+            "Required": true,
+            "Type": "multi-select",
+            "Options": [
+                { "value": "nasogastricTube", "label": "Nasogastric Tube" },
+                { "value": "gastrostomyTube", "label": "Gastrostomy Tube" },
+                { "value": "jejunostomyTube", "label": "Jejunostomy Tube" },
+                { "value": "other", "label": "Other (please specify)" }
+            ]
+        },
+        "Strength and Type": {
+            "Description": "Select the strength and type of enteral feeding",
+            "Required": true,
+            "Type": "options",
+            "Options": [
+                { "value": "standard", "label": "Standard" },
+                { "value": "highCalorie", "label": "High Calorie" },
+                { "value": "elemental", "label": "Elemental" },
+                { "value": "other", "label": "Other (please specify)" }
+            ]
+        }
+    }
+}

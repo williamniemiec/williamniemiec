@@ -1,0 +1,10 @@
+Here is the output in JSON format:
+
+
+{
+    "Examination Report": {
+        "Examined": {"type": "text"},
+        "Normals": {"type": "text"},
+        "Abnormals": {"type": "text"}
+    }
+}

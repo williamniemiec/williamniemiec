@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Pill Preparation": {
+        "Medication Name": "",
+        "Preparation Method": "",
+        "Reason": "",
+        "Instructions": "",
+        "Frequency": "",
+        "Deadline Date": ""
+    }
+}

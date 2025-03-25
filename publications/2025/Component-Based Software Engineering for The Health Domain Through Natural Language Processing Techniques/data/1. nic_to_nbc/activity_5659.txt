@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Feeding Tracker": {
+    "parameters": {
+      "Feeding Count": {"type": "numeric"},
+      "Goal": {"type": "numeric"},
+      "Frequency": {"options": ["daily"]},
+      "Notes": {"type": "text"}
+    }
+  }
+}

@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Group Cohesion Confrontation",
+    "parameters": [
+        {
+            "name": "Behavior Type",
+            "type": "options"
+        },
+        {
+            "name": "Confrontation Prompt",
+            "type": "text"
+        },
+        {
+            "name": "Impact Reflection",
+            "type": "text"
+        },
+        {
+            "name": "Alternative Behavior",
+            "type": "text"
+        },
+        {
+            "name": "Frequency",
+            "type": "options"
+        }
+    ]
+}

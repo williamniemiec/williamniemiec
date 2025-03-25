@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Sodium Level Tracker": {
+    "Condition": {"type": "options", "required": true},
+    "Sodium Level": {"type": "number", "required": true},
+    "Units": {"type": "options", "required": true},
+    "Frequency": {"type": "options", "required": true},
+    "Target Range": {"type": "range", "required": true},
+    "Alert Threshold": {"type": "number", "required": true}
+  }
+}

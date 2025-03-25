@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Diversional Activity Planning": {
+    "Activity Options": {"type": "list of options"},
+    "Patient Interests": {"type": "text or checklist"},
+    "Activity Schedule": {"type": "scheduling tool (e.g., calendar, appointment scheduler)"},
+    "Reminders": {"type": "notification or alert"},
+    "Resources": {"type": "list of URLs or embedded media"},
+    "Tracking": {"type": "journal or log"}
+  }
+}

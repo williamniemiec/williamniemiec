@@ -1,0 +1,28 @@
+
+
+
+{
+  "name": "Anger Source Identification Tool",
+  "parameters": [
+    {
+      "name": "Trigger Identification Questions",
+      "type": "list of text"
+    },
+    {
+      "name": "Emotion Mapping",
+      "type": "interactive exercise"
+    },
+    {
+      "name": "Thought Patterns",
+      "type": "list of text"
+    },
+    {
+      "name": "Situation Analysis",
+      "type": "interactive exercise"
+    },
+    {
+      "name": "Reflection Prompt",
+      "type": "text"
+    }
+  ]
+}

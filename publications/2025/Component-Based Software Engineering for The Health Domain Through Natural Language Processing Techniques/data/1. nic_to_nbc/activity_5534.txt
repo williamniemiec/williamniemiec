@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "Peer Matching": {
+    "parameters": {
+      "Child Profile": {},
+      "Peer Profile": {},
+      "Matching Criteria": {}
+    }
+  },
+  "Playdate Scheduling": {
+    "parameters": {
+      "Playdate Date": {},
+      "Playdate Location": {},
+      "Playdate Activity": {}
+    }
+  },
+  "Social Skills Training": {
+    "parameters": {
+      "Social Skill": {},
+      "Training Content": {}
+    }
+  }
+}

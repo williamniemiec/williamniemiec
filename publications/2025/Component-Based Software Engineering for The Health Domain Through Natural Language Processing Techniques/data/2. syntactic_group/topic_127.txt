@@ -1,0 +1,10 @@
+{
+  "name": "Grief Support and Coping Stages",
+  "description": "Supports individuals through the stages of grief, including coping mechanisms, emotional support, and expressions of loss. It involves understanding stages like bargaining, reflection, and emotional expression.",
+  "type": "non-periodic",
+  "input": ["Grief stages", "Emotional support", "Coping strategies", "Loss reflection", "Bargaining stage"],
+  "output": ["Grief support guide", "Coping strategy feedback", "Emotional reflection suggestions"],
+  "preconditions": ["User is experiencing grief or supporting someone in grief"],
+  "postconditions": ["Effective grief coping and emotional support"],
+  "dependencies": ["Grief support resources", "Coping strategy platform", "Emotional well-being tools"]
+}

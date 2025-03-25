@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+    "Unresponsive Patient Assessment": {
+        "Assessment Questions": {
+            "Type": "list of objects",
+            "Properties": {
+                "Question": {"Type": "text"},
+                "Response Options": {"Type": "list of text"}
+            }
+        },
+        "Response Logic": {"Type": "conditional logic"},
+        "Action Options": {
+            "Type": "list of objects",
+            "Properties": {
+                "Action": {"Type": "text"},
+                "Condition": {"Type": "conditional logic"}
+            }
+        },
+        "Guidance": {"Type": "text"}
+    }
+}
+
+
+Note that I removed the not applicable parameters and only kept the `{{ NO-CODE ELEMENT NAME }}` and `{{ PARAMETER ESPECIFICATIONS }}` parts of the input text.

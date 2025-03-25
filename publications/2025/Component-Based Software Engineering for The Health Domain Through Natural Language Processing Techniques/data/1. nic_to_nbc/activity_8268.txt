@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Infection Prevention Education",
+    "parameters": [
+        { 
+            "name": "Education Content", 
+            "type": "text or multimedia"
+        },
+        { 
+            "name": "Infection Risk Assessment", 
+            "type": "numerical value or text"
+        },
+        { 
+            "name": "Personalized Recommendations", 
+            "type": "text or list of text"
+        },
+        { 
+            "name": "Handwashing Technique Demonstration", 
+            "type": "video or image"
+        },
+        { 
+            "name": "Family Education", 
+            "type": "text or multimedia"
+        }
+    ]
+}

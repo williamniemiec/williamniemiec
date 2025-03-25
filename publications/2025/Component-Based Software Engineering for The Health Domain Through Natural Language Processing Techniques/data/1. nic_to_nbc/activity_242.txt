@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Discharge Instructions": {
+    "Parameters": {
+      "Testing Schedule": {"Type": "text or table"},
+      "Return to Care Reasons": {"Type": "text or list"},
+      "Additional Instructions": {"Type": "text or HTML content"}
+    }
+  }
+}

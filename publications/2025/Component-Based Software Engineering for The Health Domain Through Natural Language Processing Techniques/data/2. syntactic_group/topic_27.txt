@@ -1,0 +1,10 @@
+{
+  "name": "Laboratory Testing and Results Analysis",
+  "description": "Manages laboratory tests, including culture testing, sensitivity analysis, and the interpretation of results within reference ranges, with a focus on ventricular analysis.",
+  "type": "non-periodic",
+  "input": ["Test type", "Sample details", "Sensitivity analysis", "Reference range data"],
+  "output": ["Test results", "Ventricular analysis report", "Result interpretation"],
+  "preconditions": ["Test sample is collected and submitted for analysis"],
+  "postconditions": ["Test results are provided and interpreted for medical decisions"],
+  "dependencies": ["Laboratory information system", "Test result tracking system", "Reference range database"]
+}

@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+  "Vein Tip Location": {
+    "name": "title of the vein tip location",
+    "image": "image of the vein tips and superior vena cava",
+    "location": "text describing the location of the vein tips (e.g., \"Lower third of the superior vena cava\")",
+    "frequency": "how often the vein tip location should be reviewed",
+    "deadline_date": "due date for reviewing the vein tip location"
+  },
+  "Anatomy Model": {
+    "name": "title of the anatomy model",
+    "model": "3D model of the superior vena cava and surrounding veins",
+    "interactive_elements": "interactive elements (e.g., zoom, rotate) to explore the model",
+    "frequency": "how often the anatomy model should be reviewed",
+    "deadline_date": "due date for reviewing the anatomy model"
+  },
+  "Verification Checklist": {
+    "name": "title of the verification checklist",
+    "items": "list of items to verify (e.g., \"Vein tip location\", \"Superior vena cava anatomy\")",
+    "status": "text indicating the status of each item (e.g., \"Verified\", \"Not verified\")",
+    "frequency": "how often the verification checklist should be completed",
+    "deadline_date": "due date for completing the verification checklist"
+  }
+}

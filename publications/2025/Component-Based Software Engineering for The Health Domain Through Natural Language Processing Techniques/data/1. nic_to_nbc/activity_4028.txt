@@ -1,0 +1,29 @@
+Here is the output in JSON format:
+
+
+{
+  "Education Resource": {
+    "Resource Type": {
+      "Type": "options",
+      "Options": ["video", "article", "infographic", "podcast", "interactive module", "other"]
+    },
+    "Topic": {
+      "Type": "text"
+    },
+    "Target Audience": {
+      "Type": "options",
+      "Options": ["patient", "family member", "caregiver", "other"]
+    },
+    "Language": {
+      "Type": "options",
+      "Options": ["English", "Spanish", "French", "other"]
+    },
+    "Format": {
+      "Type": "options",
+      "Options": ["online", "offline", "downloadable", "streaming", "other"]
+    },
+    "Deadline Date": {
+      "Type": "datetime"
+    }
+  }
+}

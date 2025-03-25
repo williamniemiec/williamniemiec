@@ -1,0 +1,10 @@
+{
+  "name": "Scheduled Task and Deadline Management",
+  "description": "Manages the scheduling of tasks based on specific intervals (once, hourly, daily), including deadline tracking, residual task monitoring, and script execution with date and time handling.",
+  "type": "periodic",
+  "input": ["Task script", "Scheduled time (once, hourly, daily)", "Deadline details", "Residual task information"],
+  "output": ["Task execution confirmation", "Deadline status report", "Residual task update"],
+  "preconditions": ["Task is scheduled and ready for execution"],
+  "postconditions": ["Task is completed according to the set schedule, and any residual tasks are tracked"],
+  "dependencies": ["Task scheduling system", "Deadline management platform", "Script execution tools"]
+}

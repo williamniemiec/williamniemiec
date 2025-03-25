@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+
+{
+    "Safety Contract": {
+        "Contract Terms": {},
+        "Recontracting Schedule": {
+            "type": "options",
+            "options": ["daily", "weekly", "monthly"]
+        },
+        "Verification Method": {
+            "type": "options",
+            "options": ["signature", "verbal agreement", "electronic acknowledgement"]
+        },
+        "Support Resources": {}
+    }
+}

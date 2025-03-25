@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Access Assessment": {
+    "Medication List": {"type": "list (of medications)"},
+    "Insurance Coverage": {"type": "boolean"},
+    "Cost and Affordability": {"type": "numerical (cost)"},
+    "Pharmacy Accessibility": {"type": "boolean"},
+    "Alternative Options": {"type": "list (of alternative options)"},
+    "Additional Resources": {"type": "list (of URLs or PDFs)"}
+  }
+}

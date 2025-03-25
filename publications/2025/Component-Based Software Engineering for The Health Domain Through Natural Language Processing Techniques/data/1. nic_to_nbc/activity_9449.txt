@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Shock Education": {
+    "parameters": {
+      "name": {"type": "text"},
+      "why": {"type": "text"},
+      "precipitating_factors": {"type": "list"},
+      "education_method": {"type": "options", "options": ["verbal", "written", "video", "etc."]},
+      "additional_resources": {"type": "list"},
+      "notes": {"type": "text"}
+    }
+  }
+}

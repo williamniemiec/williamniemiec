@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "mA Setting Monitoring",
+    "parameters": [
+        { 
+            "name": "Monitoring Interval", 
+            "description": "A parameter that specifies the interval at which the patient response to mA setting will be monitored"
+        },
+        { 
+            "name": "Patient Response", 
+            "description": "A parameter that specifies the patient response to mA setting"
+        },
+        { 
+            "name": "Fluctuation Anticipation", 
+            "description": "A parameter that specifies the anticipation of fluctuations resulting from endothelial sheath formation around electrode tips"
+        },
+        { 
+            "name": "mA Adjustment", 
+            "description": "A parameter that specifies the adjustment of mA setting based on patient response and fluctuation anticipation"
+        }
+    ]
+}

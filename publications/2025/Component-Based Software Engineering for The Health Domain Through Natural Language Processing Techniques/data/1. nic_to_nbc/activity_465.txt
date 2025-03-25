@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Reminder": {
+    "Parameters": {
+      "Message": "",
+      "Lens type": "",
+      "Frequency": "",
+      "Deadline date": ""
+    }
+  },
+  "Schedule": {
+    "Parameters": {
+      "Lens type": "",
+      "Removal interval": "",
+      "Reminder frequency": "",
+      "Deadline date": ""
+    }
+  }
+}

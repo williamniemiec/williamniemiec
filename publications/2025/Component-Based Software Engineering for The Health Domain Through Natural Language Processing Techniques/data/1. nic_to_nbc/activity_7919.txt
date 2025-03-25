@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "CVAD Decontamination": {
+    "Decontamination Solution": {"type": "text", "value": "2% chlorhexidine gluconate in 70% isopropyl"},
+    "Decontamination Instructions": {"type": "text", "value": "Decontaminate your CVAD with [Decontamination Solution] prior to accessing. Allow the solution to dry completely before accessing your CVAD."},
+    "Manufacturer Contraindication": {"type": "boolean", "value": true},
+    "Alternative Instructions": {"type": "text", "value": "If your CVAD manufacturer has contraindicated the use of [Decontamination Solution], follow the manufacturer's recommended decontamination procedure."}
+  }
+}

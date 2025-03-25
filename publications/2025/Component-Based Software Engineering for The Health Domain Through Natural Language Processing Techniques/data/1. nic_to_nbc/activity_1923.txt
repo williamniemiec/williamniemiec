@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Quality Improvement Program": {
+    "Parameters": {
+      "Program Goals": {},
+      "Evaluation Criteria": {},
+      "Data Collection": {},
+      "Performance Metrics": {},
+      "Quality Improvement Strategies": {},
+      "Implementation Plan": {}
+    }
+  }
+}

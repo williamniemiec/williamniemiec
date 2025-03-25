@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Hair Care Guide": {
+        "Parameters": {
+            "Content": {"Type": "text or HTML"},
+            "Images": {"Type": "list of images"},
+            "Tips": {"Type": "list of text"},
+            "Videos": {"Type": "list of video URLs"}
+        }
+    }
+}

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Bed Accommodation": {
+    "Parameters": {
+      "Bed Type": {"Type": "text"},
+      "Height Adjustment": {"Type": "boolean"},
+      "Patient Needs": {"Type": "text"},
+      "Bed Placement": {"Type": "boolean"},
+      "Notes": {"Type": "text"}
+    }
+  }
+}

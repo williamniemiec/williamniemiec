@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+    "Needle Insertion Guidance": {
+        "Angle Selection": {
+            "type": "slider or multiple choice",
+            "options": ["60", "70", "80", "90"]
+        },
+        "Direction Verification": {
+            "type": "yes/no question"
+        },
+        "Insertion Technique Guidance": {
+            "type": "interactive animation or video"
+        },
+        "Insertion Verification": {
+            "type": "yes/no question or image upload"
+        }
+    }
+}
+
+
+Let me know if this is what you were expecting!

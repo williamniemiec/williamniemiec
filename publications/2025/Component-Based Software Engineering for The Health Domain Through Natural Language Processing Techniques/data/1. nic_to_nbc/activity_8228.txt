@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Therapeutic Regimen Support": {
+    "parameters": [
+      {"Undesirable Sequelae": ["fear of urinary frequency", "incontinence", "diarrhea", "nausea", "vomiting"]},
+      {"Therapeutic Regimen": "text"},
+      {"Fluid Intake Goals": "text"},
+      {"Compensation Strategies": ["increasing fluid intake at specific times of the day", "using a fluid schedule", "avoiding caffeine and alcohol"]},
+      {"Monitoring Frequency": ["daily", "every other day", "3 times a week"]}
+    ]
+  }
+}

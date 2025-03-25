@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+  "Provider Directory": {
+    "parameters": {
+      "Provider List": {"type": "list of providers (each with name, specialty, and contact info)"},
+      "Filter Options": {"type": "list of filter options (each with label and value)"}
+    }
+  },
+  "Provider Profile": {
+    "parameters": {
+      "Provider Information": {"type": "provider information (with bio, credentials, and contact info)"},
+      "Ratings and Reviews": {"type": "list of ratings and reviews (each with rating, review, and date)"}
+    }
+  },
+  "Comparison Tool": {
+    "parameters": {
+      "Comparison Criteria": {"type": "list of comparison criteria (each with label and value)"},
+      "Provider Comparison": {"type": "provider comparison (with side-by-side comparison of selected providers)"}
+    }
+  }
+}

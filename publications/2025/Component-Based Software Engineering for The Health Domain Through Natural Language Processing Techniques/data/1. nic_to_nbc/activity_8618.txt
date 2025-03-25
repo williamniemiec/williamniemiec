@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Goal Planner": {
+    "Parameters": {
+      "Goal": {"Type": "text"},
+      "Objective": {"Type": "list", "ItemProperties": ["description", "target date", "status"]},
+      "Action Steps": {"Type": "list", "ItemProperties": ["description", "due date", "status"]},
+      "Resources": {"Type": "list", "ItemProperties": ["name", "description", "URL or contact information"]},
+      "Timeline": {"Type": "timeline", "Properties": ["milestones", "deadlines", "reminders"]},
+      "Review Frequency": {"Type": "options", "Options": ["daily", "weekly", "monthly"]}
+    }
+  }
+}

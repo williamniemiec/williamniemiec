@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Program Information Portal": {
+    "parameters": {
+      "Program Database": {"type": "database or API connection"},
+      "Program Search": {"type": "search bar or filter"},
+      "Program Information": {"type": "text output or program profile page"},
+      "Eligibility Checker": {"type": "eligibility calculator or quiz"},
+      "Resource Directory": {"type": "directory or list"}
+    }
+  }
+}

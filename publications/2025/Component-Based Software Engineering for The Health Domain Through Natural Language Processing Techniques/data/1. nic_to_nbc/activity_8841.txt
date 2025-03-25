@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Activity Prompt": {
+    "Name": {"type": "text"},
+    "Description": {"type": "text"},
+    "Prompt": {"type": "text"},
+    "Frequency": {"options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"type": "datetime"},
+    "Tips": {"type": "text"}
+  }
+}

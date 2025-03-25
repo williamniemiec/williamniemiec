@@ -1,0 +1,8 @@
+Here is the output in JSON format:
+
+
+
+{
+    "NO-CODE ELEMENT NAME": ["educates patients on the potential gastrointestinal symptoms of hyperkalemia", "provides a questionnaire or survey to report any symptoms or concerns to their healthcare provider"],
+    "PARAMETER ESPECIFICATIONS": []
+}

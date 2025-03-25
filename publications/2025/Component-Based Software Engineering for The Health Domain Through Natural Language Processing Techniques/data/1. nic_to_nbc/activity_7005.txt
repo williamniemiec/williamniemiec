@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Equipment Check": {
+    "Procedure": {"type": "text"},
+    "Equipment List": {"type": "checklist", "items": []},
+    "Medication List": {"type": "checklist", "items": []},
+    "Verification Status": {"type": "boolean", "options": ["yes/no", "available/not available"]}
+  }
+}

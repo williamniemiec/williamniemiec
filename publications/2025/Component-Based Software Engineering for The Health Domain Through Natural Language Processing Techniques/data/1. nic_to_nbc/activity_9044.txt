@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+    "Meal Plan": {
+        "Parameters": {
+            "Name": {},
+            "Energy Expenditure Level": {},
+            "Dietary Restrictions": {},
+            "Meal Plan Details": {
+                "Number of Meals": {},
+                "Number of Snacks": {},
+                "Macronutrient Ratios": {
+                    "Carbohydrates": {},
+                    "Protein": {},
+                    "Fat": {}
+                }
+            },
+            "Frequency": {},
+            "Deadline Date": {}
+        }
+    }
+}
+
+
+Let me know if this meets your requirements!

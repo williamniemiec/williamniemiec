@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Transfer Board Guide",
+    "parameters": [
+        {
+            "name": "Transfer Instructions",
+            "type": "ordered list"
+        },
+        {
+            "name": "Safety Precautions",
+            "type": "unordered list"
+        },
+        {
+            "name": "Patient Preparation",
+            "type": "unordered list"
+        },
+        {
+            "name": "Frequency",
+            "type": "options"
+        }
+    ]
+}
+
+
+Let me know if this is what you were expecting!

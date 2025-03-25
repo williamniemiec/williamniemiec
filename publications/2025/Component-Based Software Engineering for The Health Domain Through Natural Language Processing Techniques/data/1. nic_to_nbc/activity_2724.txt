@@ -1,0 +1,8 @@
+Since there is no `PARAMETER ESPECIFICATIONS` section in the input text, I will output an empty JSON object.
+
+If you meant to ask me to extract the `NO-CODE ELEMENT NAME` from the text, here is the output:
+
+
+{
+  "NO-CODE ELEMENT NAME": "Encourage patient to describe drawing or artistic creation"
+}

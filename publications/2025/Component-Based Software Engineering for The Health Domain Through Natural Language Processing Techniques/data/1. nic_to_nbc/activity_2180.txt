@@ -1,0 +1,43 @@
+Here is the output in JSON format:
+
+
+{
+    "Procedure": {
+        "parameters": {
+            "name": "Cleanse and dry surrounding skin",
+            "content": "Step-by-step instructions on how to cleanse and dry the surrounding skin after the procedure",
+            "content_type": "text" or "video",
+            "steps": [
+                {
+                    "name": "Cleanse the skin",
+                    "description": "Cleanse the surrounding skin with a gentle cleanser"
+                },
+                {
+                    "name": "Dry the skin",
+                    "description": "Dry the surrounding skin thoroughly with a clean towel"
+                }
+            ],
+            "frequency": "onlyOnce"
+        }
+    },
+    "Guided Procedure": {
+        "parameters": {
+            "name": "Cleanse and dry surrounding skin",
+            "content": "Step-by-step instructions on how to cleanse and dry the surrounding skin after the procedure, with important tips and warnings",
+            "content_type": "text" or "video",
+            "steps": [
+                {
+                    "name": "Cleanse the skin",
+                    "description": "Cleanse the surrounding skin with a gentle cleanser to prevent infection",
+                    "tip": "Use a mild soap and lukewarm water to avoid irritating the skin"
+                },
+                {
+                    "name": "Dry the skin",
+                    "description": "Dry the surrounding skin thoroughly with a clean towel to prevent bacterial growth",
+                    "warning": "Important: Make sure to dry the skin thoroughly to prevent bacterial growth and infection"
+                }
+            ],
+            "frequency": "onlyOnce"
+        }
+    }
+}

@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Drainage Log": {
+        "Parameters": {
+            "Drainage Type": {},
+            "Characteristics": {},
+            "Frequency": {},
+            "Notes": {}
+        }
+    }
+}

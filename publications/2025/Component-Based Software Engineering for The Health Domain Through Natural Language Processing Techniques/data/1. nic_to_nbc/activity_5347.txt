@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+    "Assessment": {
+        "Questions": {
+            "Type": "form",
+            "Options": ["multiple choice", "true/false", "open-ended text"]
+        },
+        "Injury Types": {
+            "Type": "options",
+            "Options": ["herniated disk", "spinal stenosis", "spondylolisthesis"]
+        },
+        "Frequency": {
+            "Type": "options",
+            "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+        },
+        "Deadline Date": {
+            "Type": "datetime"
+        }
+    }
+}
+
+
+Let me know if this meets your requirements!

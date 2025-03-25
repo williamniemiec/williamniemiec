@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Family Meeting": {
+    "Meeting Purpose": {"type": "text"},
+    "Meeting Participants": {"type": "list of names or roles"},
+    "Meeting Format": {"type": "options", "values": ["in-person", "video conference", "phone call"]}
+  },
+  "Decision Support Tool": {
+    "Decision Topic": {"type": "text"},
+    "Decision Criteria": {"type": "list of criteria"},
+    "Decision Options": {"type": "list of options"}
+  },
+  "Family Feedback": {
+    "Feedback Questions": {"type": "list of questions"},
+    "Feedback Format": {"type": "options", "values": ["survey", "interview", "focus group"]}
+  }
+}

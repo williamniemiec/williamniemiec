@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+  "Support Network": {
+    "name": "",
+    "contacts": [],
+    "relationships": []
+  },
+  "Communication Plan": {
+    "name": "",
+    "frequency": "",
+    "method": "",
+    "topics": []
+  },
+  "Goal Setting": {
+    "name": "",
+    "goals": [],
+    "deadlines": [],
+    "progress tracking": ""
+  },
+  "Resource Sharing": {
+    "name": "",
+    "resources": [],
+    "comments": ""
+  }
+}

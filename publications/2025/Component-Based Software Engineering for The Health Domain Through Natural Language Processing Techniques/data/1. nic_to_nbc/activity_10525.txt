@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Safety Instruction": {
+    "Parameters": {
+      "Title": {"Type": "text"},
+      "Hazardous Item": {"Type": "text"},
+      "Storage Instructions": {"Type": ["article", "video"]},
+      "Safety Lesson": {"Type": ["article", "video"]},
+      "Tips and Reminders": {"Type": ["list", "table"]},
+      "Frequency": {"Type": "options"},
+      "Deadline Date": {"Type": "datetime"}
+    }
+  }
+}
+
+
+Let me know if this meets your requirements!

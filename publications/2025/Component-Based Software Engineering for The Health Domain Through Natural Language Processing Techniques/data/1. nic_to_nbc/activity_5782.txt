@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+  "Empathetic Response": {
+    "Message": {
+      "Description": "pre-written empathetic response",
+      "Required": true,
+      "Type": "text"
+    },
+    "Trigger": {
+      "Description": "specify when to display the empathetic response (e.g. after journal entry, after completing a task)",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "afterJournalEntry", "label": "After journal entry" },
+        { "value": "afterTaskCompletion", "label": "After completing a task" },
+        { "value": "onDemand", "label": "On demand" }
+      ]
+    }
+  }
+}

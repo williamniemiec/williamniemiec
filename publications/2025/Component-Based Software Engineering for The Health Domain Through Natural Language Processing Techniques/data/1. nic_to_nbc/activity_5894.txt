@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+  "Relationship Goal": {
+    "Goal Description": {"type": "text"},
+    "Goal Type": {"type": "options", "options": ["short-term", "long-term", "fun-based"]},
+    "Goal Progress Tracking": {"type": "options", "options": ["checklist", "journal", "progress bar"]}
+  },
+  "Communication Tip": {
+    "Tip Content": {"type": "text"},
+    "Tip Format": {"type": "options", "options": ["video", "image", "text"]}
+  },
+  "Activity Suggestion": {
+    "Activity Description": {"type": "text"},
+    "Activity Type": {"type": "options", "options": ["fun-based", "educational", "relaxing"]}
+  },
+  "Gratitude Exercise": {
+    "Exercise Prompt": {"type": "text"},
+    "Exercise Format": {"type": "options", "options": ["written", "verbal", "drawing"]}
+  }
+}

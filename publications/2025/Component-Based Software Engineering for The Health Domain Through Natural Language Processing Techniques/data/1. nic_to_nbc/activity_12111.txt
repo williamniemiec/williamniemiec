@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Cost Information": {
+    "Parameters": {
+      "Service name": "",
+      "Cost": "",
+      "Alternatives": [],
+      "Description": ""
+    }
+  }
+}

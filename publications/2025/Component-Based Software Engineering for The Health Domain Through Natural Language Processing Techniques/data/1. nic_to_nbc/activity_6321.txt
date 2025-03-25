@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+"NO-CODE ELEMENT NAME": "Not Applicable",
+"PARAMETER ESPECIFICATIONS": [
+    "Technical expertise to safely remove internal monitors",
+    "Real-time observation and assessment of the patient's condition",
+    "Clinical judgment to identify potential complications and take appropriate actions"
+  ]
+}

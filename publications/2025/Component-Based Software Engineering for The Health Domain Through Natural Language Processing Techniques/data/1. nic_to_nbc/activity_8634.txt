@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Heat Avoidance": {
+    "Extremity": {"Type": "options"},
+    "Heat sources": {"Type": "options"},
+    "Alternative methods": {"Type": "text"},
+    "Rationale": {"Type": "text"}
+  }
+}

@@ -1,0 +1,34 @@
+Here is the output in JSON format:
+
+{
+    "Comparison Table": {
+        "parameters": {
+            "name": "",
+            "columns": ["Breastfeeding", "Bottle Feeding"],
+            "rows": ["Advantages", "Disadvantages"],
+            "cells": []
+        }
+    },
+    "Pros and Cons List": {
+        "parameters": {
+            "name": "",
+            "breastfeeding_pros": [],
+            "breastfeeding_cons": [],
+            "bottle_feeding_pros": [],
+            "bottle_feeding_cons": []
+        }
+    },
+    "Infographic": {
+        "parameters": {
+            "name": "",
+            "image_url": ""
+        }
+    },
+    "FAQ": {
+        "parameters": {
+            "name": "",
+            "questions": ["What are the advantages of breastfeeding?", "What are the disadvantages of breastfeeding?", "What are the advantages of bottle feeding?", "What are the disadvantages of bottle feeding?"},
+            "answers": []
+        }
+    }
+}

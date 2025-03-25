@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+  "Guide": {
+    "Name": {"type": "text"},
+    "Pages": {"type": "book-page", "book-page": "list of HTML texts"},
+    "Hygiene Practices": {"type": "options", "options": ["Importance of good hygiene", "Using a water-soluble lubricant", "Voiding after intercourse", "Other"]},
+    "Tips and Reminders": {"type": "list of text"},
+    "Resources": {"type": "list of URLs or file uploads"}
+  },
+  "Tip": {
+    "Name": {"type": "text"},
+    "Content": {"type": "text"},
+    "Type": {"type": "options"}
+  },
+  "List": {
+    "Name": {"type": "text"},
+    "Items": {"type": "list of text"},
+    "Type": {"type": "options"}
+  }
+}

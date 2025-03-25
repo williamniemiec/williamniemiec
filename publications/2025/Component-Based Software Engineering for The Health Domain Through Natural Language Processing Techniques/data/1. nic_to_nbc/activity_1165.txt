@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+  "Side Effect Tracker": {
+    "side_effect_list": "",
+    "severity_scale": "",
+    "frequency": "",
+    "notes": ""
+  },
+  "Symptom Checker": {
+    "symptom_questions": "",
+    "answer_options": "",
+    "side_effect_identification": ""
+  },
+  "Daily Diary": {
+    "diary_type": "",
+    "frequency": "",
+    "prompts": ""
+  },
+  "Alert System": {
+    "alert_type": "",
+    "alert_frequency": "",
+    "alert_threshold": ""
+  }
+}

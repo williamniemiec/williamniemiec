@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Care Plan": {
+    "Name": {"type": "text"},
+    "Team Members": {"type": "list of team members"},
+    "Tasks": {"type": "list of tasks"},
+    "Schedule": {"type": "date and time"},
+    "Communication": {"type": "boolean or options"}
+  },
+  "Task List": {
+    "Name": {"type": "text"},
+    "Tasks": {"type": "list of tasks"},
+    "Assignees": {"type": "list of team members"},
+    "Due Dates": {"type": "date"},
+    "Status": {"type": "options"}
+  }
+}

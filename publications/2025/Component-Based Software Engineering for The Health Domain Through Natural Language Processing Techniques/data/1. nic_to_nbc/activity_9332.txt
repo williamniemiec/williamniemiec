@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Coping Skills Plan": {
+        "parameters": [
+            {"name": "crisis_type"},
+            {"name": "coping_skills"},
+            {"name": "triggers"},
+            {"name": "action_plan"},
+            {"name": "review_date"}
+        ]
+    }
+}

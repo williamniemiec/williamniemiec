@@ -1,0 +1,10 @@
+Here is the output in JSON format:
+
+{
+  "Nail Monitoring": {
+    "Frequency": {"Type": "options", "Options": ["daily", "everyOtherDay", "weekly", "monthly"]},
+    "Deadline Date": {"Type": "datetime"},
+    "Photo Instructions": {"Type": "text", "Default value": "Take a clear photo of your nails from multiple angles"},
+    "Notes": {"Type": "text", "Optional": "yes"}
+  }
+}

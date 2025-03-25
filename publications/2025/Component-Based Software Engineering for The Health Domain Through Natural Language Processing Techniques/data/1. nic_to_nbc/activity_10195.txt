@@ -1,0 +1,40 @@
+Here is the output in JSON format:
+
+
+{
+  "Weight Monitoring Task": [
+    { 
+      "name": "Name", 
+      "description": "A parameter that specifies the title or name of the weight monitoring task."
+    },
+    { 
+      "name": "Frequency", 
+      "description": "A parameter that specifies how often to weigh themselves.",
+      "unit": "days or weeks"
+    },
+    { 
+      "name": "Unit", 
+      "description": "A parameter that specifies the unit of weight measurement.",
+      "options": [
+        { value: "kg" },
+        { value: "lbs" },
+        { value: "stones" }
+      ]
+    },
+    { 
+      "name": "Goal Weight", 
+      "description": "A parameter that specifies the goal weight to achieve.",
+      "unit": "kg or lbs"
+    },
+    { 
+      "name": "Instructions", 
+      "description": "A parameter that provides instructions on how to weigh themselves accurately and what to do if experiencing any changes in weight."
+    },
+    { 
+      "name": "Tracking", 
+      "description": "A parameter that asks the patient to track their weight over time and report any changes to their healthcare provider."
+    }
+  ]
+}
+
+I removed all unnecessary parts from the input text, keeping only the no-code element name and its parameters. I also reformatted the output in a JSON structure for easier readability.

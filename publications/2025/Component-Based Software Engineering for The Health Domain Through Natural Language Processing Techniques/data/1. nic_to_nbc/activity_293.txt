@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Informed Consent": {
+    "Consent Form": {"Description": "Text of the consent form", "Required": true, "Type": "text"},
+    "Consent Questions": {"Description": "Questions to ensure patient understanding of the consent form", "Required": true, "Type": "quiz"},
+    "Signature": {"Description": "Digital signature to confirm patient consent", "Required": true, "Type": "signature"},
+    "Timestamp": {"Description": "Timestamp of when the consent was given", "Required": true, "Type": "datetime"}
+  }
+}

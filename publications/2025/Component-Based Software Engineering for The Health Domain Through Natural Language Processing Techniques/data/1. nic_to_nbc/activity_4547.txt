@@ -1,0 +1,44 @@
+Here is the output in JSON format:
+
+
+{
+  "Educational Program": {
+    "Parameters": {
+      "Title": {
+        "Type": "text"
+      },
+      "Modules": {
+        "Type": "list of modules",
+        "Module": {
+          "Title": {
+            "Type": "text"
+          },
+          "Content": {
+            "Type": "HTML text"
+          },
+          "Strategy": {
+            "Type": "options",
+            "Options": ["gamification", "simulation", "interactive quiz", "video lecture", "etc."]
+          },
+          "Intervention Point": {
+            "Type": "options",
+            "Options": ["knowledge assessment", "skill practice", "behavior change", "etc."]
+          }
+        }
+      },
+      "Sequence": {
+        "Type": "list of module IDs"
+      },
+      "Resources": {
+        "Type": "list of resources",
+        "Resource": {
+          "Type": "document/link",
+          "Url": "resource URL"
+        }
+      }
+    }
+  }
+}
+
+
+Let me know if this meets your requirements!

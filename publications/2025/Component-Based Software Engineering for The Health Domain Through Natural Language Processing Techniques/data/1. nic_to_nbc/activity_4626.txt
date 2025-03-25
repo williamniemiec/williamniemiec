@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Self-Care Assessment": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Questions": {"Type": "form", "Options": ["multiple-choice", "Likert scale", "open-ended questions"]},
+      "Frequency": {"Type": "options", "Options": ["daily", "everyOtherDay", "every3Days", "custom"]},
+      "Deadline Date": {"Type": "datetime"},
+      "Scoring": {"Type": "options", "Options": ["automatic scoring based on answer choices", "manual scoring by a healthcare professional"]}
+    }
+  }
+}

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Crepitus Monitor": {
+    "parameters": {
+      "Crepitus Presence": {"type": "boolean"},
+      "Crepitus Location": {"type": "text"},
+      "Crepitus Severity": {"type": "options"},
+      "Frequency": {"type": "options"},
+      "Notes": {"type": "text"}
+    }
+  }
+}

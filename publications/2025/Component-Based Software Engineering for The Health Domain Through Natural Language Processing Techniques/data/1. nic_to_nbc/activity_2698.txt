@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Form Signature": {
+    "parameters": {
+      "Form Name": {"type": "text"},
+      "Form Content": {"type": "text or HTML"},
+      "Signature Type": {"type": "options", "options": ["electronic", "handwritten"]},
+      "Deadline Date": {"type": "datetime"}
+    }
+  }
+}

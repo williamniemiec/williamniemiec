@@ -1,0 +1,32 @@
+Here is the output in JSON format:
+
+
+{
+    "Childhood Experience Assessment": {
+        "Questions": [
+            "Did you experience physical or emotional abuse as a child?",
+            "Did you feel rejected or unloved by your caregivers as a child?",
+            "Were you frequently criticized or belittled as a child?",
+            "Did you often feel worthless or unloved as a child?"
+        ],
+        "Answer type": [
+            "Yes/No",
+            "Text"
+        ]
+    },
+    "Risk Factor Assessment": {
+        "Risk factors": [
+            "History of physical or emotional abuse as a child",
+            "History of feeling rejected or unloved as a child",
+            "History of excessive criticism or belittling as a child",
+            "History of feeling worthless or unloved as a child"
+        ],
+        "Answer type": [
+            "Yes/No"
+        ],
+        "Scoring": []
+    }
+}
+
+
+Note that I removed the "Frequency" and "Deadline Date" parameters since they were marked as not applicable.

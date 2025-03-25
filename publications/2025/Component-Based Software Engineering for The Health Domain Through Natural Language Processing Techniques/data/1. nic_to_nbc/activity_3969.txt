@@ -1,0 +1,48 @@
+Here is the output in JSON format:
+
+
+{
+  "Abuse Reporting": {
+    "Suspected Abuse": {
+      "type": "text"
+    },
+    "Abuse Type": {
+      "type": "options",
+      "options": [
+        "Physical",
+        "Emotional",
+        "Sexual",
+        "Financial",
+        "Other (free text)"
+      ]
+    },
+    "Victim Information": {
+      "type": "form",
+      "options": [
+        "Name",
+        "Age",
+        "Relationship to patient (if applicable)"
+      ]
+    },
+    "Perpetrator Information": {
+      "type": "form",
+      "options": [
+        "Name",
+        "Age",
+        "Relationship to patient (if applicable)"
+      ]
+    },
+    "Reporting Method": {
+      "type": "options",
+      "options": [
+        "Call emergency services",
+        "Contact local authorities",
+        "Report online",
+        "Other (free text)"
+      ]
+    },
+    "Reporting Deadline": {
+      "type": "datetime"
+    }
+  }
+}

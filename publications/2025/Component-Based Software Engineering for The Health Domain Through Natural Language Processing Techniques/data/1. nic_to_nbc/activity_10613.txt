@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+
+{
+  "Self-Help Assistant": {
+    "parameters": [
+      {"name": "Self-Help Methods", "type": "options", "options": ["Meditation", "Deep breathing", "Yoga", "Journaling", "Other"]},
+      {"name": "Method Instructions", "type": "text"},
+      {"name": "Tracking Progress", "type": "boolean"},
+      {"name": "Reminders", "type": "boolean"}
+    ]
+  }
+}

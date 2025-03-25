@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Family Routine Tracker": {
+    "Routines": {"type": "unordered list"},
+    "Frequency": {"options": ["daily", "weekly", "monthly"]},
+    "Reminders": {"type": "datetime"},
+    "Goal": {"type": "text"},
+    "Notes": {"type": "text"}
+  },
+  "Habit Tracker": {
+    "Habit": {"type": "text"},
+    "Target Frequency": {"options": ["daily", "weekly", "monthly"]},
+    "Actual Frequency": {"type": "counter"},
+    "Streak": {"type": "counter"},
+    "Reminders": {"type": "datetime"}
+  }
+}

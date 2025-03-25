@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+  "Supervision Confirmation": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Event Type": {"Type": "options", "Options": ["training", "recreation", "competitive"]},
+      "Supervisor Information": {"Type": "form"},
+      "Frequency": {"Type": "options", "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"Type": "datetime"},
+      "Additional Notes": {"Type": "text"}
+    }
+  },
+  "Survey": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Survey Questions": {"Type": "form"},
+      "Frequency": {"Type": "options", "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"Type": "datetime"}
+    }
+  }
+}

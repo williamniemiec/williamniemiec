@@ -1,0 +1,10 @@
+Here is the output in JSON format:
+
+{
+    "Education Material": {
+        "name": {"type": "text"},
+        "content": {"type": "text or rich text (with images or videos)"},
+        "signs_and_symptoms": {"type": "list of text items"},
+        "reporting_instructions": {"type": "text"}
+    }
+}

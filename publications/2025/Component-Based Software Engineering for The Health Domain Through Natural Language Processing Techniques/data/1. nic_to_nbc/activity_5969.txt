@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Support System Assessment",
+    "parameters": [
+        { 
+            "name": "Family Support", 
+            "type": "multiple choice"
+        },
+        { 
+            "name": "Other Support Systems", 
+            "type": "checklist"
+        },
+        { 
+            "name": "Previous Coping Skills", 
+            "type": "multiple choice"
+        },
+        { 
+            "name": "Support Quality", 
+            "type": "rating scale"
+        }
+    ]
+}

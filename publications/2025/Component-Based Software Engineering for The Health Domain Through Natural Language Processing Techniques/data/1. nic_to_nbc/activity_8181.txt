@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Meeting Schedule": {
+        "parameters": [
+            {"name": "meeting_date"},
+            {"name": "meeting_time"},
+            {"name": "meeting_location"},
+            {"name": "meeting_frequency"}
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Plain Language": {
+    "Content": {"type": "text or list of texts"},
+    "Language Level": {"type": "options (e.g. simple, moderate, complex)"},
+    "Familiarity Criteria": {
+      "Readability": {"type": "options (e.g. easy, moderate, difficult)"},
+      "Jargon Avoidance": {"type": "boolean"},
+      "Cultural Sensitivity": {"type": "boolean"}
+    }
+  }
+}

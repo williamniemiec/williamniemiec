@@ -1,0 +1,32 @@
+Here is the output in JSON format:
+
+
+{
+    "Consent Form": {
+        "name": "",
+        "form_content": "",
+        "consent_options": "",
+        "frequency": ""
+    },
+    "Patient Information Form": {
+        "name": "",
+        "form_content": "",
+        "information_categories": "",
+        "frequency": ""
+    },
+    "Emergency Services Notification": {
+        "name": "",
+        "notification_content": "",
+        "notification_method": "",
+        "frequency": ""
+    },
+    "Technology Inventory": {
+        "name": "",
+        "inventory_content": "",
+        "technology_categories": "",
+        "frequency": ""
+    }
+}
+
+
+Note that I removed the "deadline_date" parameter from each element as it was not applicable. Also, I did not include any values for the parameters as they were not provided in the input text.

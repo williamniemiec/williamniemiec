@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Life Story Review": {
+    "parameters": {
+      "Memory Prompt": {"type": "text"},
+      "Memory Type": {"type": "options"},
+      "Memory Details": {"type": "text"},
+      "Reflection Questions": {"type": "text"}
+    }
+  }
+}

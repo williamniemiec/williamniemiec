@@ -1,0 +1,10 @@
+Here is the output in JSON format:
+
+
+{
+    "Medical History": {
+        "Condition": {"type": "text"},
+        "Description": {"type": "text"},
+        "Special Care": {"type": "text"}
+    }
+}

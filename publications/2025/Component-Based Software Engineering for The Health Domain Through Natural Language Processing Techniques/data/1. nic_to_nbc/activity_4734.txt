@@ -1,0 +1,41 @@
+Here is the output in JSON format:
+
+
+{
+"Dressing Change Tracker": {
+    "parameters": [
+        {"name": "dressing_change", 
+         "elements": [
+            {"name": "date", "description": "Date of dressing change", "type": "date"},
+            {"name": "time", "description": "Time of dressing change", "type": "time"},
+            {"name": "reason", "description": "Why did you change your dressing?", "type": "options", 
+             "options": [
+                {"value": "scheduled", "label": "Scheduled change"}, 
+                {"value": "leakage", "label": "Leakage or drainage"}, 
+                {"value": "infection", "label": "Signs of infection"}, 
+                {"value": "other", "label": "Other (please specify)"}
+            ]},
+            {"name": "notes", "description": "Any additional notes about the dressing change", "type": "text"}
+        ]}
+    ]
+},
+"Journal": {
+    "parameters": [
+        {"name": "entries", 
+         "elements": [
+            {"name": "dressing_change_date", "description": "Date of dressing change", "type": "date"},
+            {"name": "dressing_change_time", "description": "Time of dressing change", "type": "time"},
+            {"name": "reason_for_change", "description": "Why did you change your dressing?", "type": "options", 
+             "options": [
+                {"value": "scheduled", "label": "Scheduled change"}, 
+                {"value": "leakage", "label": "Leakage or drainage"}, 
+                {"value": "infection", "label": "Signs of infection"}, 
+                {"value": "other", "label": "Other (please specify)"}
+            ]},
+            {"name": "notes", "description": "Any additional notes about the dressing change", "type": "text"}
+        ]},
+        {"name": "frequency"},
+        {"name": "deadline_date"}
+    ]
+}
+}

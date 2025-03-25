@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Image Upload": {
+    "parameters": {
+      "name": "Chest X-ray",
+      "description": "Upload a chest x-ray image to confirm defibrillator placement",
+      "content_type": "image",
+      "required": true,
+      "type": "image",
+      "upload_type": "chest_xray"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+[
+    {
+        "Schedule": {
+            "sleep_schedule": "",
+            "wake_schedule": "",
+            "care_plan": ""
+        }
+    },
+    {
+        "Calendar": {
+            "events": "",
+            "schedule": ""
+        }
+    }
+]

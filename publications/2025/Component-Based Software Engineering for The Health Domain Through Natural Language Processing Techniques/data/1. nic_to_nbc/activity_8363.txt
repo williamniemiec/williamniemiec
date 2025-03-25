@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Health Screening Questionnaire": {
+    "Name": {"type": "text"},
+    "Health Problem Categories": {"type": "text"},
+    "Screening Questions": {"type": "text"},
+    "Response Options": {"type": "text"},
+    "Risk Level": {"type": "text"},
+    "Referral Information": {"type": "text"}
+  }
+}

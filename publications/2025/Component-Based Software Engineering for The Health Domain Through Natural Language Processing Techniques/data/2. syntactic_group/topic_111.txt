@@ -1,0 +1,10 @@
+{
+  "name": "Beverage Reminder and Hydration",
+  "description": "Reminds users to drink liquids, including water, broth, and juice, with specific icons and instructions on using a straw or warming beverages. Aims to maintain proper hydration.",
+  "type": "periodic",
+  "input": ["Beverage reminders", "Hydration icons", "Liquid types", "Straw usage", "Warm liquids", "Juice and broth suggestions"],
+  "output": ["Hydration reminder notification", "Liquid consumption tracking", "Beverage preparation tips"],
+  "preconditions": ["User needs hydration reminders"],
+  "postconditions": ["Improved hydration tracking and beverage consumption"],
+  "dependencies": ["Reminder notification system", "Hydration tracking tools", "Beverage icon system"]
+}

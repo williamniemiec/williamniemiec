@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Emotional Support": {
+        "Parameters": {
+            "Support Type": {"Type": "options"},
+            "Support Duration": {"Type": "structured data"},
+            "Support Mode": {"Type": "options"},
+            "Empathy Statement": {"Type": "text"}
+        }
+    }
+}

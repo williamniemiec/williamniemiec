@@ -1,0 +1,41 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Behavior Observation Methods",
+    "parameters": [
+        {
+            "name": "Observation Methods",
+            "type": "list",
+            "items": [
+                { value: "selfMonitoring", label: "Self-Monitoring" },
+                { value: "journaling", label: "Journaling" }
+            ]
+        },
+        {
+            "name": "Recording Methods",
+            "type": "list",
+            "items": [
+                { value: "paperBased", label: "Paper-Based" },
+                { value: "mobileApp", label: "Mobile App" }
+            ]
+        },
+        {
+            "name": "Instructions",
+            "type": "text"
+        },
+        {
+            "name": "Examples",
+            "type": "text"
+        },
+        {
+            "name": "Frequency",
+            "type": "options",
+            "options": [
+                { value: "daily", label: "Daily" },
+                { value: "weekly", label: "Weekly" },
+                { value: "monthly", label: "Monthly" }
+            ]
+        }
+    ]
+}

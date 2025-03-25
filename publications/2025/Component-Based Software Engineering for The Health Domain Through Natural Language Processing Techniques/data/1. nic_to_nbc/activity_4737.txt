@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Food Meaning",
+  "parameters": [
+    {
+      "name": "emotional_significance"
+    },
+    {
+      "name": "cultural_significance"
+    },
+    {
+      "name": "social_significance"
+    },
+    {
+      "name": "personal_experiences"
+    },
+    {
+      "name": "food_identity"
+    }
+  ]
+}

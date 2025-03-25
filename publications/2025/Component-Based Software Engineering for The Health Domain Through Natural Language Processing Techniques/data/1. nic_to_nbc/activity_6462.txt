@@ -1,0 +1,32 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Medical Clearance",
+    "parameters": [
+        {
+            "name": "Name",
+            "type": "text"
+        },
+        {
+            "name": "Stretching Exercise Plan",
+            "type": "text"
+        },
+        {
+            "name": "Medical Clearance Status",
+            "type": "options"
+        },
+        {
+            "name": "Clearance Criteria",
+            "type": "text"
+        },
+        {
+            "name": "Healthcare Provider",
+            "type": "text"
+        },
+        {
+            "name": "Clearance Date",
+            "type": "date"
+        }
+    ]
+}

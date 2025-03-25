@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Toileting Schedule Planner": {
+    "parameters": {
+      "name": {},
+      "description": {},
+      "voiding_pattern_data": {},
+      "usual_routine": {},
+      "schedule_interval": {},
+      "schedule_reminders": {},
+      "schedule_adjustment": {}
+    }
+  }
+}

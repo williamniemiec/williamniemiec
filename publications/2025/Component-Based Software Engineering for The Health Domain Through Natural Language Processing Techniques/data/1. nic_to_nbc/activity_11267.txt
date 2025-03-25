@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+  "Care Assessment": {
+    "Parameters": {
+      "Care categories": {},
+      "Care questions": {}
+    }
+  },
+  "Care Needs Identification": {
+    "Parameters": {
+      "Care needs": {},
+      "Care level": {}
+    }
+  },
+  "Care Plan Generation": {
+    "Parameters": {
+      "Care plan template": {},
+      "Care plan content": {}
+    }
+  }
+}
+
+
+I removed all the unnecessary text and kept only the `{{ NO-CODE ELEMENT NAME }}` and `{{ PARAMETER ESPECIFICATIONS }}`. I also removed any parameters that were not applicable. Let me know if this is what you were looking for!

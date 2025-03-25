@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Family Member Privacy Respect",
+    "parameters": [
+        {
+            "name": "Privacy Settings"
+        },
+        {
+            "name": "Confidentiality Agreement"
+        },
+        {
+            "name": "Privacy Breach Protocol"
+        },
+        {
+            "name": "Family Member Consent"
+        },
+        {
+            "name": "Information Sharing"
+        }
+    ]
+}

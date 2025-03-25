@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+    "IV Line Irrigation Guideline": {
+        "parameters": [
+            {"name": "irrigation_instructions", "description": "Step-by-step instructions for irrigating the intravenous line", "required": true, "type": "text"},
+            {"name": "saline_solution_info", "description": "Information about the saline solution to be used for irrigation", "required": true, "type": "text"},
+            {"name": "rationale", "description": "Rationale for irrigating the intravenous line to reduce the loss of stem cells", "required": true, "type": "text"}
+        ]
+    }
+}

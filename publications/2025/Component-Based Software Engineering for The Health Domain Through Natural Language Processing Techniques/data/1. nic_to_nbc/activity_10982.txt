@@ -1,0 +1,52 @@
+Here is the output in JSON format:
+
+
+{
+    "Procedure": {
+        "parameters": {
+            "name": "Refill irrigation syringe with solution",
+            "content": "Step-by-step instructions on how to refill the irrigation syringe with solution, maintaining sterility",
+            "content_type": "text" or "video",
+            "steps": [
+                { 
+                    "name": "Disconnect catheter",
+                    "description": "Disconnect the catheter from the syringe"
+                },
+                { 
+                    "name": "Fill syringe with solution",
+                    "description": "Fill the syringe with the prescribed solution"
+                },
+                { 
+                    "name": "Reconnect catheter",
+                    "description": "Reconnect the catheter to the syringe, maintaining sterility"
+                }
+            ],
+            "frequency": "asNeeded"
+        }
+    },
+    "Guided Procedure": {
+        "parameters": {
+            "name": "Refill irrigation syringe with solution",
+            "content": "Step-by-step instructions on how to refill the irrigation syringe with solution, maintaining sterility, with important tips and warnings",
+            "content_type": "text" or "video",
+            "steps": [
+                { 
+                    "name": "Disconnect catheter",
+                    "description": "Disconnect the catheter from the syringe to prevent contamination",
+                    "warning": "Important: Make sure to disconnect the catheter carefully to avoid touching the sterile area"
+                },
+                { 
+                    "name": "Fill syringe with solution",
+                    "description": "Fill the syringe with the prescribed solution, making sure to maintain sterility",
+                    "tip": "Use a sterile solution and handle the syringe carefully to prevent contamination"
+                },
+                { 
+                    "name": "Reconnect catheter",
+                    "description": "Reconnect the catheter to the syringe, making sure to maintain sterility",
+                    "warning": "Important: Make sure to reconnect the catheter carefully to avoid touching the sterile area"
+                }
+            ],
+            "frequency": "asNeeded"
+        }
+    }
+}

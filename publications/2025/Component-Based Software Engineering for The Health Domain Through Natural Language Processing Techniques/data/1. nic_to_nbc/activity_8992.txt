@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Electrolyte Monitor": {
+    "parameters": {
+      "name": {"type": "text"},
+      "electrolyte_type": {"type": "options"},
+      "value": {"type": "number"}
+    }
+  }
+}

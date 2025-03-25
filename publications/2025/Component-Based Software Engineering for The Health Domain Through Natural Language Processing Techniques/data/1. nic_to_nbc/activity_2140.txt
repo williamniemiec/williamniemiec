@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Cleanse Area": {
+    "parameters": [
+      {"Area": {"type": "text"}},
+      {"Solution": {"type": "options", "options": ["antibacterial solution", "sterile saline", "sterile water"]}},
+      {"Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]}}
+    ]
+  }
+}

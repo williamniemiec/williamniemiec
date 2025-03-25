@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Response Monitoring",
+    "parameters": [
+        { 
+            "name": "Response Type", 
+            "options": ["pain", "restlessness", "anxiety", "mood change", "involvement in care", "ability to synthesize new information", "ability to verbalize feelings", "reported satisfaction with care"]
+        },
+        { 
+            "name": "Response Scale", 
+            "options": ["1-10", "yes/no"]
+        },
+        { 
+            "name": "Frequency", 
+            "options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+        },
+        { 
+            "name": "Family Involvement", 
+            "type": "boolean"
+        }
+    ]
+}
+
+
+Note that I removed the `Deadline Date` parameter since it's not applicable (it doesn't have a list of options). Let me know if this is correct!

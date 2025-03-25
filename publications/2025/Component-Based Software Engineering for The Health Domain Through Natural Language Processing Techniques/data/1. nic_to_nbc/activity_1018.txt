@@ -1,0 +1,31 @@
+Here is the output in JSON format:
+
+
+{
+  "Family Planning Resource": {
+    "Resource Directory": {
+      "Type": "directory",
+      "Fields": ["resource name", "description", "contact information", "services offered", "etc."]
+    },
+    "Service Filtering": {
+      "Type": "filter",
+      "Options": ["contraception", "pregnancy testing", "STI testing", "etc."]
+    },
+    "Location-Based Search": {
+      "Type": "search",
+      "Fields": ["location", "resource name", "etc."]
+    },
+    "Resource Details": {
+      "Type": "details",
+      "Fields": ["resource name", "hours of operation", "payment options", "languages spoken", "etc."]
+    },
+    "Appointment Scheduling": {
+      "Type": "scheduling",
+      "Fields": ["appointment date and time", "resource name", "etc."]
+    },
+    "Reminders": {
+      "Type": "reminder",
+      "Fields": ["appointment date and time", "reminder message", "etc."]
+    }
+  }
+}

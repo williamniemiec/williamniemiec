@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+  "Consent Form": {
+    "Procedure Description": {},
+    "Risks and Benefits": {},
+    "Alternatives": {},
+    "Consent Statement": {},
+    "Signature": {},
+    "Date and Time": {}
+  },
+  "Informed Consent Module": {
+    "Educational Content": {},
+    "Quiz": {},
+    "Consent Statement": {},
+    "Signature": {},
+    "Date and Time": {}
+  }
+}
+
+
+Let me know if this meets your requirements!

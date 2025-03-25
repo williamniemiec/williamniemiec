@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "noCodeElementName": "Cardiopulmonary Symptom Tracker",
+  "parameters": {
+    "Symptom List": {
+      "type": "list",
+      "listItems": "text, with optional images or icons"
+    },
+    "Frequency": {
+      "type": "options",
+      "options": ["daily", "twiceADay", "threeTimesADay", "etc."]
+    },
+    "Measurement Tools": {
+      "type": "form",
+      "fields": ["measurement type (e.g., blood pressure)", "value", "units (e.g., mmHg)"]
+    },
+    "Tracking": {
+      "type": "form",
+      "fields": ["date", "time", "symptom", "measurement value", "notes (optional)"]
+    }
+  }
+}

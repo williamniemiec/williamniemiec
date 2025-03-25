@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+    "Tutorial": {
+        "Parameters": {
+            "Title": "Contact Lens Care Tutorial",
+            "Content": "A series of interactive steps or modules that provide instructions on proper care of contact lenses, including text, images, videos, and quizzes",
+            "Lens type": "Specify the type of contact lens, e.g., hard or soft",
+            "Frequency": "Specify how often the patient should review the tutorial, e.g., daily or weekly",
+            "Deadline date": "Specify the due date for reviewing the tutorial, if applicable"
+        }
+    },
+    "Guide": {
+        "Parameters": {
+            "Title": "Contact Lens Care Guide",
+            "Content": "A detailed guide that provides instructions on proper care of contact lenses, including text, images, and videos",
+            "Lens type": "Specify the type of contact lens, e.g., hard or soft",
+            "Frequency": "Specify how often the patient should review the guide, e.g., daily or weekly",
+            "Deadline date": "Specify the due date for reviewing the guide, if applicable"
+        }
+    }
+}

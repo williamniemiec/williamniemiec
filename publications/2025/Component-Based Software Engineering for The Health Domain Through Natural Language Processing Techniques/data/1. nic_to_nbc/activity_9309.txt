@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Policy and Procedure Guide": {
+        "parameters": {
+            "name": {"type": "text"},
+            "manuals": {"type": "list of objects", "contains": ["manual", "description"]},
+            "search_function": {"type": "object", "contains": ["search_type", "search_results"]},
+            "guidance": {"type": "text"},
+            "examples": {"type": "list of objects", "contains": ["example", "description"]}
+        }
+    }
+}

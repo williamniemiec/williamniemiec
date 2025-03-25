@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Care Plan",
+    "parameters": [
+        {
+            "name": "task",
+            "type": "text"
+        },
+        {
+            "name": "responsibility",
+            "type": "options"
+        },
+        {
+            "name": "frequency",
+            "type": "options"
+        },
+        {
+            "name": "notes",
+            "type": "text"
+        }
+    ]
+}

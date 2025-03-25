@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Ventilation Support Monitoring": {
+    "Condition List": {"type": "options"},
+    "Monitoring Frequency": {"type": "options"},
+    "Monitoring Method": {"type": "options"},
+    "Threshold Values": {"type": "numerical values"}
+  }
+}

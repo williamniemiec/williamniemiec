@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "Multimedia Content": {
+    "Content Type": {
+      "Type": ["audio", "video", "image", "diagram", "model", "interactive simulation"]
+    },
+    "Media Source": {
+      "Type": ["file upload", "URL integration", "API connection"]
+    },
+    "Pictograms": {
+      "Type": ["library of pictograms", "upload custom icons"]
+    },
+    "Models and Diagrams": {
+      "Type": ["upload 3D models", "integrate interactive diagram tools"]
+    },
+    "Accessibility Options": {
+      "Type": ["closed captions", "audio descriptions", "text-to-speech functionality"]
+    },
+    "Interactive Elements": {
+      "Type": ["quizzes", "games", "other interactive features"]
+    }
+  }
+}

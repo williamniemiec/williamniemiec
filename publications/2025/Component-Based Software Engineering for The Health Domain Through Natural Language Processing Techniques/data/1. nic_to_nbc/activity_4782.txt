@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Referral": {
+    "condition": {
+      "type": "options",
+      "options": ["thick fungal toenail", "ingrown toenail", "corn", "callus"]
+    },
+    "specialist": {
+      "type": "options",
+      "options": ["podiatrist", "dermatologist"]
+    },
+    "reason": {
+      "type": "text"
+    },
+    "instructions": {
+      "type": "text"
+    }
+  }
+}

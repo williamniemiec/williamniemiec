@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Goal Evaluation": {
+    "parameters": [
+      {"name": "Goal", "type": "text"},
+      {"name": "Evaluation Criteria", "type": "text"},
+      {"name": "Current Progress", "type": "text"},
+      {"name": "Goal Attainment", "type": "boolean"},
+      {"name": "Barrier Identification", "type": "text"},
+      {"name": "Revision Needed", "type": "boolean"},
+      {"name": "Frequency", "type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      {"name": "Deadline Date", "type": "datetime"}
+    ]
+  }
+}

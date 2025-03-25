@@ -1,0 +1,12 @@
+
+
+
+{
+  "Pain Management Aid": {
+    "Aid Type": {"type": "text"},
+    "Procedure Name": {"type": "text"},
+    "Usage Instructions": {"type": "text"},
+    "Parent/Guardian Permission": {"type": "boolean"},
+    "Additional Tips": {"type": "text"}
+  }
+}

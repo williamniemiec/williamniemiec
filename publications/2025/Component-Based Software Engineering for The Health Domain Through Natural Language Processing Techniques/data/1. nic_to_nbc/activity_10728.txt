@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Caretaker Assessment",
+    "parameters": [
+        {
+            "name": "Question",
+            "type": "text"
+        },
+        {
+            "name": "Answer Type",
+            "options": ["text", "rating scale", "multiple choice"]
+        },
+        {
+            "name": "Frequency",
+            "options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+        },
+        {
+            "name": "Deadline Date",
+            "type": "datetime"
+        }
+    ]
+}

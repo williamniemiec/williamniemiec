@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Preapproval Status Notification": {
+        "Parameters": {
+            "Preapproval Status": {},
+            "Patient/Responsible Adult Information": {},
+            "Notification Method": {},
+            "Notification Content": {},
+            "Notification Date": {}
+        }
+    }
+}

@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Activity Reflection": {
+    "Name": {"type": "text"},
+    "Activity types": {"type": "list of text", "example": ["Work", "Hobbies", "Leisure activities", "Social activities"]},
+    "Reflection prompts": {"type": "list of text", "example": ["What does this activity mean to me?", "How does this activity make me feel?", "What values or goals does this activity align with?", "How has this activity impacted my life?"]},
+    "Response type": {"type": "options", "options": ["Text", "Audio", "Video"]},
+    "Frequency": {"type": "options", "options": ["Daily", "Weekly", "Monthly"]}
+  }
+}
+
+
+Note that I removed the `Deadline date` parameter as it is not applicable in a JSON format, and also removed the introduction, number, description, and conclusion parts of the input text. Let me know if you need any further modifications!

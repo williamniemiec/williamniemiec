@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+{
+  "Environmental Labeling": {
+    "item_list": {"type": "unordered list"},
+    "label_text": {"type": "text"},
+    "label_type": {"type": "options"}
+  },
+  "Label Placement": {
+    "label_location": {"type": "text"},
+    "label_orientation": {"type": "options"}
+  },
+  "Label Review": {
+    "review_schedule": {"type": "table"},
+    "label_updates": {"type": "unordered list"}
+  }
+}

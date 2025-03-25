@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Environmental Adjustment Guide": {
+    "Parameters": {
+      "Environmental Factors": {
+        "Type": "list of environmental factors"
+      },
+      "Adjustment Suggestions": {
+        "Type": "text-based suggestions"
+      },
+      "Checklist": {
+        "Type": "interactive checklist"
+      },
+      "Tips and Reminders": {
+        "Type": "text-based tips and reminders"
+      }
+    }
+  }
+}

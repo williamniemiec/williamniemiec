@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Positive Feedback": {
+        "Feedback Message": {"name": "feedback_message", "type": "text"},
+        "Trigger": {"name": "trigger", "type": "options", "options": ["taskCompletion", "correctAnswer", "engagement"]},
+        "Frequency": {"name": "frequency", "type": "options", "options": ["immediate", "delayed"]}
+    }
+}
+
+
+I removed the non-applicable parameters, such as `Description` and `Content Type`, and only kept the `Parameters` section. I also converted the text format into a JSON object with the no-code element name as the top-level key, and each parameter as a nested object with its respective properties (name, type, options).

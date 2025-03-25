@@ -1,0 +1,10 @@
+{
+  "name": "Medication Administration and Preparation",
+  "description": "Guides the administration of medication, including correct dosage, mixing instructions, antibiotic use, premedication requirements, and the appropriate route of administration.",
+  "type": "periodic",
+  "input": ["Medication name", "Dosage details", "Mixing instructions", "Premedication requirements", "Route of administration"],
+  "output": ["Administered medication report", "Correct dosage confirmation", "Preparation and mixing summary"],
+  "preconditions": ["Medication is prepared and ready for administration"],
+  "postconditions": ["Medication is administered correctly according to instructions"],
+  "dependencies": ["Medication tracking system", "Dosage verification platform", "Premedication guidelines"]
+}

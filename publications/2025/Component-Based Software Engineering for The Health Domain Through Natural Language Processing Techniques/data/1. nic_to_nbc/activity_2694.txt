@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Adherence Plan": {
+    "Goal": {"type": "text"},
+    "Strategies": {"type": "multi-select options", "options": ["pill box", "reminders", "medication calendar", "enlisting support from family/friends", "other"]},
+    "Schedule": {"type": "options", "options": ["daily", "weekly", "monthly", "as needed"]},
+    "Reminders": {"type": "options", "options": ["SMS", "email", "in-app notification", "other"]},
+    "Support System": {"type": "options", "options": ["family member", "friend", "healthcare provider", "other"]},
+    "Review and Revision": {"type": "options", "options": ["weekly", "bi-weekly", "monthly", "quarterly"]}
+  }
+}

@@ -1,0 +1,13 @@
+
+
+
+{
+  "Amended Report Generator": {
+    "Original Report ID": {},
+    "Date and Time": {},
+    "Reason for Amendment": {},
+    "Error Description": {},
+    "Correction": {},
+    "Amended Report Template": {}
+  }
+}

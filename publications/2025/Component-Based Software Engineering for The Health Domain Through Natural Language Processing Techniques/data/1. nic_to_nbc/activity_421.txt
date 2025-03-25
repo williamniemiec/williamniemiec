@@ -1,0 +1,30 @@
+Here is the output in JSON format:
+
+
+{
+  "Social Skill Analyzer": {
+    "Parameters": {
+      "Social Skill Assessment": {
+        "Type": "options",
+        "Options": ["questionnaire", "survey", "rating scale", "custom"]
+      },
+      "Interpersonal Problem Identification": {
+        "Type": "options",
+        "Options": ["patient self-report", "observer report", "behavioral observation", "custom"]
+      },
+      "Social Skill Deficit Categories": {
+        "Type": "list of text"
+      },
+      "Interpersonal Problem Categories": {
+        "Type": "list of text"
+      },
+      "Goal Setting": {
+        "Type": "text or multimedia content"
+      },
+      "Progress Tracking": {
+        "Type": "options",
+        "Options": ["automated tracking", "manual tracking", "custom"]
+      }
+    }
+  }
+}

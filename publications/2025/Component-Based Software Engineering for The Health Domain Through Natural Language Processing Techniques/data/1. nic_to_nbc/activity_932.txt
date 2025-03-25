@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Q&A Session": {
+    "parameters": {
+      "Title": {},
+      "Description": {},
+      "Question Field": {},
+      "Response Field": {},
+      "Concerns": {},
+      "Follow-up": {
+        "options": [
+          {"value": "yes", "label": "Yes"},
+          {"value": "no", "label": "No"}
+        ]
+      },
+      "Deadline Date": {}
+    }
+  }
+}

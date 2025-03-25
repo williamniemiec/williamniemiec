@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Voiding Diary": {
+    "Diary Template": {"type": "template with fields"},
+    "Entry Frequency": {"type": "options"},
+    "Reminders": {"type": "boolean"},
+    "Data Analysis": {"type": "boolean"},
+    "Data Visualization": {"type": "options"}
+  }
+}

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Pursed-Lip Breathing": {
+    "Parameters": {
+      "Instructions": {"Type": "text"},
+      "Video Tutorial": {"Type": "video"},
+      "Practice Exercises": {"Type": "text"},
+      "Reminders": {"Type": "boolean"},
+      "Tracking": {"Type": "boolean"}
+    }
+  }
+}

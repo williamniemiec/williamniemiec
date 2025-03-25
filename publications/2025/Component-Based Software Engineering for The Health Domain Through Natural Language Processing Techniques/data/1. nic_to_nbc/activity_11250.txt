@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Bed Positioning": {
+        "Parameters": {
+            "Bed Angle": {},
+            "Indications": {},
+            "Contraindications": {},
+            "Monitoring": {},
+            "Duration": {}
+        }
+    }
+}

@@ -1,0 +1,32 @@
+Here is the output in JSON format:
+
+
+{
+    "Hemodynamic Monitoring": {
+        "Parameter": {
+            "Type": "options",
+            "Options": ["CVP", "MAP", "PAWP", "PCWP"]
+        },
+        "Frequency": {
+            "Type": "options",
+            "Options": ["continuously", "hourly", "every4Hours", "every8Hours"]
+        },
+        "Target Range": {
+            "Type": "nested object",
+            "Properties": {
+                "Minimum": {
+                    "Type": "number"
+                },
+                "Maximum": {
+                    "Type": "number"
+                }
+            }
+        },
+        "Notes": {
+            "Type": "text"
+        }
+    }
+}
+
+
+I removed the introduction, conclusion, and not applicable parameters. Let me know if this is what you were looking for!

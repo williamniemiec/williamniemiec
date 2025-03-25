@@ -1,0 +1,42 @@
+Here is the output in JSON format:
+
+
+{
+  "Fluid Intake Control": {
+    "Regulation Instructions": {
+      "Description": "Step-by-step instructions on how to regulate fluid intake by adjusting nipple softness, hole size, and bottle size",
+      "Required": true,
+      "Type": "text"
+    },
+    "Nipple Softness": {
+      "Description": "Options for adjusting nipple softness",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "soft", "label": "Soft" },
+        { "value": "medium", "label": "Medium" },
+        { "value": "firm", "label": "Firm" }
+      ]
+    },
+    "Hole Size": {
+      "Description": "Options for adjusting hole size",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "small", "label": "Small" },
+        { "value": "medium", "label": "Medium" },
+        { "value": "large", "label": "Large" }
+      ]
+    },
+    "Bottle Size": {
+      "Description": "Options for adjusting bottle size",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "small", "label": "Small" },
+        { "value": "medium", "label": "Medium" },
+        { "value": "large", "label": "Large" }
+      ]
+    }
+  }
+}

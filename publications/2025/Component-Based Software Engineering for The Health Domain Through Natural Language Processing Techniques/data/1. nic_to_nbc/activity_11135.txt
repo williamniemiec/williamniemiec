@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+    "Facial Protection Guide": {
+        "parameters": [
+            {"name": "image", "description": "Image of facial protection application", "required": true, "type": "image"},
+            {"name": "instructions", "description": "Step-by-step instructions", "required": true, "type": "text"},
+            {"name": "risk_assessment", "description": "Risk assessment for pressure damage", "required": true, "type": "options", "options": [{"value": "high_risk", "label": "High risk"}, {"value": "moderate_risk", "label": "Moderate risk"}, {"value": "low_risk", "label": "Low risk"}]}
+        ]
+    }
+}

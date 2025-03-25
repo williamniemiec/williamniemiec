@@ -1,0 +1,9 @@
+Here is the output in JSON format:
+
+
+{
+  "ECG Assessment": {
+    "ECG Result": {"Description": "Upload the ECG result for review", "Required": true, "Type": "file"},
+    "ECG Interpretation": {"Description": "Record the interpretation of the ECG result", "Required": true, "Type": "text"}
+  }
+}

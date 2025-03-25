@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Self-Reflection": {
+        "Parameters": {
+            "Reflection Prompt": {"Type": ["text", "audio"]},
+            "Journal Entry": {"Type": ["text", "audio"]},
+            "Emotion Identification": {"Type": ["emotion wheel", "sentiment analysis"]},
+            "Attitude Assessment": {"Type": ["quiz", "survey"]},
+            "Repeat Option": {"Type": ["button", "link"]}
+        }
+    }
+}

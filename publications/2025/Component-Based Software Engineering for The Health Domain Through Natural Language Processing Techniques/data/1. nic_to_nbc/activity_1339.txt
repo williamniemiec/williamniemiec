@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Reflection Exercise": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Body Part": {"Type": "text"},
+      "Instructions": {"Type": ["text", "multimedia content (e.g., images, videos)"]},
+      "Frequency": {"Type": ["options (e.g., daily, weekly, monthly)"]},
+      "Duration": {"Type": ["text", "numeric value (e.g., 10 minutes)"]},
+      "Journaling": {"Type": "boolean (yes/no)"},
+      "Reminders": {"Type": ["options (e.g., daily, weekly, monthly)", "custom schedule"]}
+    }
+  }
+}

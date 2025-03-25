@@ -1,0 +1,33 @@
+Here is the output in JSON format:
+
+
+{
+  "Group Confrontation Module": {
+    "parameters": {
+      "Group type": "options (e.g., in-person, online, peer-led)",
+      "Confrontation strategy": "text or multimedia content",
+      "Role defenses": "options (e.g., denial, blame-shifting, minimization)"
+    }
+  },
+  "Defence Identification Tool": {
+    "parameters": {
+      "Defence type": "options (e.g., denial, blame-shifting, minimization)",
+      "Identification questions": "text or multimedia content",
+      "Defence acknowledgement": "options (e.g., yes/no, rating scale)"
+    }
+  },
+  "Confrontation Scripting": {
+    "parameters": {
+      "Confrontation script": "text or multimedia content",
+      "Role plays": "options (e.g., video, audio, text-based)",
+      "Facilitator guidance": "text or multimedia content"
+    }
+  },
+  "Group Feedback and Reflection": {
+    "parameters": {
+      "Feedback type": "options (e.g., verbal, written, anonymous)",
+      "Reflection prompts": "text or multimedia content",
+      "Group discussion": "options (e.g., in-person, online, asynchronous)"
+    }
+  }
+}

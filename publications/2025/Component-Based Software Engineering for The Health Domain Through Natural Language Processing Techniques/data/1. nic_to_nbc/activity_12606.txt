@@ -1,0 +1,49 @@
+Here is the output in JSON format:
+
+
+{
+  "Diabetes Education": {
+    "Parameters": {
+      "Name": {
+        "Description": "Guide title",
+        "Required": true,
+        "Type": "text"
+      },
+      "Topic": {
+        "Description": "Select the topic to learn about",
+        "Required": true,
+        "Type": "options",
+        "Options": [
+          { "value": "neuropathy", "label": "Neuropathy" },
+          { "value": "injury", "label": "Injury" },
+          { "value": "vascularDisease", "label": "Vascular disease" },
+          { "value": "ulceration", "label": "Ulceration" },
+          { "value": "amputation", "label": "Lower extremity amputation" }
+        ]
+      },
+      "Learning Objectives": {
+        "Description": "Select the learning objectives",
+        "Required": true,
+        "Type": "checklist",
+        "Options": [
+          { "value": "understandNeuropathy", "label": "Understand the relationship between neuropathy and diabetes" },
+          { "value": "recognizeInjuryRisk", "label": "Recognize the risk of injury in persons with diabetes" },
+          { "value": "understandVascularDisease", "label": "Understand the relationship between vascular disease and diabetes" },
+          { "value": "preventUlceration", "label": "Learn how to prevent ulceration" },
+          { "value": "reduceAmputationRisk", "label": "Learn how to reduce the risk of lower extremity amputation" }
+        ]
+      },
+      "Resources": {
+        "Description": "Select the resources to use for learning",
+        "Required": true,
+        "Type": "options",
+        "Options": [
+          { "value": "video", "label": "Video" },
+          { "value": "article", "label": "Article" },
+          { "value": "infographic", "label": "Infographic" },
+          { "value": "quiz", "label": "Quiz" }
+        ]
+      }
+    }
+  }
+}

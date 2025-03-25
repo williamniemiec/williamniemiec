@@ -1,0 +1,9 @@
+Since there is no {{ PARAMETER ESPECIFICATIONS }} in the input text, I will only output the {{ NO-CODE ELEMENT NAME }} as an empty string.
+
+Here is the JSON output:
+
+
+{
+  "PARAMETER ESPECIFICATIONS": "",
+  "NO-CODE ELEMENT NAME": ""
+}

@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "High-Fiber Food Recommendation": {
+    "Dietary Needs": {},
+    "High-Fiber Food Options": {},
+    "Recommended Foods": {},
+    "Serving Suggestions": {},
+    "Daily Fiber Goal": {}
+  }
+}

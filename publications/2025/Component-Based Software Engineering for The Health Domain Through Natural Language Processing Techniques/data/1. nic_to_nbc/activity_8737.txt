@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Protective Measures": {
+    "Parameters": {
+      "Device/Measure": {"Type": "options"},
+      "Purpose": {"Type": "text"},
+      "Instructions": {"Type": "text or multimedia"},
+      "Safety Precautions": {"Type": "text or list"}
+    }
+  }
+}
+
+
+Let me know if you need any further assistance!

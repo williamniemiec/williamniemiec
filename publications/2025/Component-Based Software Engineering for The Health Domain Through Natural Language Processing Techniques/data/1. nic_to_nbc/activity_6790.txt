@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Familiarity Maintenance": {
+    "situation_type": {},
+    "familiarity_level": {},
+    "avoidance_strategies": {},
+    "familiarity_reminders": {}
+  }
+}

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Weaning Schedule": {
+        "name": {"type": "text"},
+        "weaning_trial": {"type": "options", "options": ["30 minutes", "60 minutes", "90 minutes", "120 minutes", "custom"]},
+        "rest_period": {"type": "options", "options": ["30 minutes", "60 minutes", "90 minutes", "120 minutes", "custom"]},
+        "sleep_period": {"type": "options", "options": ["2 hours", "4 hours", "6 hours", "8 hours", "custom"]},
+        "frequency": {"type": "options", "options": ["daily", "everyHours", "everyDays"]},
+        "deadline_date": {"type": "datetime"},
+        "instructions": {"type": "text"}
+    }
+}

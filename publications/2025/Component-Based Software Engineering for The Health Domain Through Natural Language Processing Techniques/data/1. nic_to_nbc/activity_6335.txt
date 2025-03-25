@@ -1,0 +1,33 @@
+Here is the output in JSON format:
+
+
+{
+  "Instruction": {
+    "instruction title": {
+      "Description": "title of the instruction",
+      "Required": true,
+      "Type": "text"
+    },
+    "Steps": {
+      "Description": "step-by-step instructions on how to perform the task",
+      "Required": true,
+      "Type": "unordered list"
+    },
+    "Media": {
+      "Description": "optional media to supplement the instructions",
+      "Required": false,
+      "Type": "video" or "image"
+    },
+    "Frequency": {
+      "Description": "specify how often the patient should review the instruction",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "daily", "label": "Daily" },
+        { "value": "onlyOnce", "label": "Only once" },
+        { "value": "everyHours", "label": "Every x hours" },
+        { "value": "everyDays", "label": "Every x days" }
+      ]
+    }
+  }
+}

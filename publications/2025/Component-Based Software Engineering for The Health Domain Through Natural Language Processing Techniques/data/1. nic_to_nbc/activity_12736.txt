@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+  "Physical Condition Assessment": {
+    "parameters": [
+      {"name": "name", "type": "text", "required": true},
+      {"name": "patient", "type": "text", "required": true},
+      {"name": "assessment_date", "type": "datetime", "required": true},
+      {"name": "physical_condition", "type": "unordered list", "required": true,
+        "items": [
+          {"name": "name", "type": "text", "required": true},
+          {"name": "value", "type": "number or text", "required": true},
+          {"name": "unit", "type": "text", "required": true}
+        ]
+      },
+      {"name": "changes", "type": "unordered list", "required": false,
+        "items": [
+          {"name": "parameter", "type": "text", "required": true},
+          {"name": "previous_value", "type": "number or text", "required": true},
+          {"name": "current_value", "type": "number or text", "required": true}
+        ]
+      }
+    ]
+  }
+}

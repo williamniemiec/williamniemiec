@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Food Particle Removal": {
+    "Parameters": [
+      {"Name": "Food Particle Removal Title", "Type": "text"},
+      {"Instructions": "Food Particle Removal Instructions", "Type": "text"},
+      {"Assistance": "Assistance Needed", "Type": "options", "Options": [{"value": "yes", "label": "Yes"}, {"value": "no", "label": "No"}]},
+      {"Frequency": "Food Particle Removal Frequency", "Type": "options", "Options": [{"value": "afterMeals", "label": "After meals"}, {"value": "daily", "label": "Daily"}, {"value": "onlyOnce", "label": "Only once"}, {"value": "everyHours", "label": "Every x hours"}, {"value": "everyDays", "label": "Every x days"}]},
+      {"Deadline Date": "Food Particle Removal Deadline", "Type": "datetime"}
+    ]
+  }
+}
+
+
+Note that I removed the `Required` field as it was not specified to be included in the output. If you need to include it, let me know!

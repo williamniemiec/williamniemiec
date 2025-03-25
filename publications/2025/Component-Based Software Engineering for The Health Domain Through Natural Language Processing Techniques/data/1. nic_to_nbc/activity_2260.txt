@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "Bowel Regimen Recommendation": {
+    "Parameters": {
+      "Bowel Regimen Options": {
+        "Type": "options",
+        "Options": ["increase fiber intake", "drink plenty of water", "take a daily laxative", "take a stool softener"]
+      },
+      "Patient Factors": {
+        "Type": "text"
+      },
+      "Recommended Regimen": {
+        "Type": "text"
+      },
+      "Rationale": {
+        "Type": "text"
+      },
+      "Next Review Date": {
+        "Type": "datetime"
+      }
+    }
+  }
+}

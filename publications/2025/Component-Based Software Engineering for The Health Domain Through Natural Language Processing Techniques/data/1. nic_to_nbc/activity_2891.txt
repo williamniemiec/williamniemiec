@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+  "Body Positioning Guidance": {
+    "body_positioning_tips": {
+      "type": "list of tip objects"
+    },
+    "joint_specific_guidance": {
+      "type": "list of joint objects"
+    },
+    "exercise_modifications": {
+      "type": "list of modification objects"
+    },
+    "frequency": {
+      "type": "options",
+      "values": ["daily", "everyOtherDay", "every2Days", "every3Days"]
+    },
+    "deadline_date": {
+      "type": "datetime"
+    }
+  }
+}

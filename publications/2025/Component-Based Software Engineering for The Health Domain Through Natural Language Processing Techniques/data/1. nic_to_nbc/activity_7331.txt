@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "Referral Directory": {
+    "Referral List": {"type": "list of referrals"},
+    "Filter Options": {"type": "filter options"}
+  },
+  "Referral Request": {
+    "Referral Request Form": {"type": "referral request form"},
+    "Referral Status": {"type": "referral status"}
+  },
+  "Counseling Services": {
+    "Counseling Services List": {"type": "list of counseling services"},
+    "Service Details": {"type": "service details"}
+  },
+  "Human Services": {
+    "Human Services List": {"type": "list of human services"},
+    "Service Details": {"type": "service details"}
+  },
+  "Progress Tracking": {
+    "Progress Log": {"type": "progress log"},
+    "Graphical Representation": {"type": "graphical representation"}
+  }
+}

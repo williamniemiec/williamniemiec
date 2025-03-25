@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Overstimulation Prevention Plan": {
+    "parameters": [
+      {"name": "Plan Items", "type": "list of plan items"},
+      {"name": "Customization Options", "type": "options"},
+      {"name": "Frequency", "type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      {"name": "Reminders", "type": "boolean"}
+    ]
+  }
+}
+
+
+Note that I removed the `Deadline Date` parameter since it was not applicable (i.e., its type is `datetime`, but there were no specific options provided). Let me know if you have any further questions or concerns!

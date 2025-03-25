@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Abnormal Findings Counseling",
+  "parameters": [
+    {
+      "name": "abnormal_findings",
+      "description": "The specific abnormal findings that require counseling"
+    },
+    {
+      "name": "treatment_alternatives",
+      "description": "The treatment alternatives that are available to the patient"
+    },
+    {
+      "name": "further_evaluation",
+      "description": "The need for further evaluation or testing to determine the best course of treatment"
+    },
+    {
+      "name": "counseling_text",
+      "description": "The counseling text or script that will be used to educate the patient"
+    },
+    {
+      "name": "resources",
+      "description": "Any additional resources or links to provide to the patient for further information"
+    }
+  ]
+}

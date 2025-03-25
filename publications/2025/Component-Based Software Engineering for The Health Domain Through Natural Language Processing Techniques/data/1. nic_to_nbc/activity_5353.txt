@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Enteral Feeding Administration": {
+    "Feeding Schedule": {},
+    "Feeding Type": {},
+    "Feeding Rate": {"Type": "number", "Units": ["mL/hour"]},
+    "Feeding Volume": {"Type": "number", "Units": ["mL"]},
+    "Administration Instructions": {"Type": "text"},
+    "Monitoring Parameters": {}
+  }
+}

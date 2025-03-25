@@ -1,0 +1,41 @@
+Here is the output in JSON format:
+
+
+{
+  "Healthcare Provider Guide": {
+    "parameters": {
+      "Provider Types": {
+        "type": "list of provider types (each with name and description)"
+      },
+      "Service Descriptions": {
+        "type": "list of service descriptions (each with provider type, service name, and description)"
+      }
+    }
+  },
+  "Provider Service Matrix": {
+    "parameters": {
+      "Provider Types": {
+        "type": "list of provider types (each with name and description)"
+      },
+      "Services": {
+        "type": "list of services (each with name and description)"
+      },
+      "Matrix Data": {
+        "type": "matrix data (with provider types as rows and services as columns)"
+      }
+    }
+  },
+  "Interactive Quiz": {
+    "parameters": {
+      "Quiz Questions": {
+        "type": "list of quiz questions (each with question, options, and correct answer)"
+      },
+      "Scoring": {
+        "type": "scoring system (with passing threshold and feedback messages)"
+      }
+    }
+  }
+}
+
+
+Note that I removed the "Not Applicable" parameters as per your request. Let me know if you have any further questions!

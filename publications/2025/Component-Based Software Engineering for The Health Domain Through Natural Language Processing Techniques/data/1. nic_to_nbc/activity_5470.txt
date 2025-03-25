@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Communication of Rules and Expectations",
+    "parameters": [
+        {
+            "name": "Rules and Expectations",
+            "type": "text"
+        },
+        {
+            "name": "Simple Language",
+            "type": "boolean"
+        },
+        {
+            "name": "Visual Cues",
+            "type": "boolean"
+        },
+        {
+            "name": "Consequences",
+            "type": "text"
+        }
+    ]
+}

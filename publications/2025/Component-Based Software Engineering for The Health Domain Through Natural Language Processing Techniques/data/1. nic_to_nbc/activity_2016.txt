@@ -1,0 +1,30 @@
+Here is the output in JSON format:
+
+
+{
+    "Coping Skill Identification": {
+        "Parameters": {
+            "Coping Skill Description": {"Type": "text"},
+            "Coping Skill Category": {"Type": "options", "Options": ["emotional regulation", "problem-focused", "etc."]},
+            "Frequency": {"Type": "options", "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+            "Deadline Date": {"Type": "datetime"}
+        }
+    },
+    "Counseling Session": {
+        "Parameters": {
+            "Session Topic": {"Type": "text"},
+            "Session Content": {"Type": "text"},
+            "Session Format": {"Type": "options", "Options": ["in-person", "video conference", "etc."]},
+            "Frequency": {"Type": "options", "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+            "Deadline Date": {"Type": "datetime"}
+        }
+    },
+    "Reflection Question": {
+        "Parameters": {
+            "Question": {"Type": "text"},
+            "Answer Type": {"Type": "options", "Options": ["text", "rating scale", "etc."]},
+            "Frequency": {"Type": "options", "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+            "Deadline Date": {"Type": "datetime"}
+        }
+    }
+}

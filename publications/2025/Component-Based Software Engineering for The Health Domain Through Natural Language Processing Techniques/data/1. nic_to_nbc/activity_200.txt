@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+  "Guide": {
+    "parameters": ["name", "pages"]
+  },
+  "Task": {
+    "parameters": ["name", "content", "frequency", "deadline_date"]
+  },
+  "Question": {
+    "parameters": ["name", "answer type", "frequency", "deadline_date"]
+  },
+  "Video": {
+    "parameters": ["name", "video_url", "description"]
+  },
+  "Treatment Plan": {
+    "type": "text or table"
+  },
+  "Medication Education": {
+    "type": "text or table"
+  }
+}

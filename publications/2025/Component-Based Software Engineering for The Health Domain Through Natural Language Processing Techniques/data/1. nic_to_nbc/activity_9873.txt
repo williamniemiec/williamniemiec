@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+  "Needs Assessment": {
+    "Questionnaire": {"type": "list of text"},
+    "Answer Type": {"type": "options", "options": [{"value": "text", "label": "Text"}, {"value": "multipleChoice", "label": "Multiple Choice"}]},
+    "Priority Level": {"type": "rating scale"}
+  },
+  "Decision Support": {
+    "Decision Options": {"type": "list of text"},
+    "Pros and Cons": {"type": "list of text"},
+    "Personalized Recommendations": {"type": "text"}
+  },
+  "Barrier Identification": {
+    "Barrier Questions": {"type": "list of text"},
+    "Barrier Type": {"type": "options", "options": [{"value": "financial", "label": "Financial"}, {"value": "transportation", "label": "Transportation"}]},
+    "Solution Options": {"type": "list of text"}
+  }
+}

@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Electrolyte Loss Control Plan": {
+    "Name": {"type": "text"},
+    "Measure List": {"type": "checklist"},
+    "Measure Instructions": {"type": "text"},
+    "Frequency": {"type": "options"},
+    "Deadline Date": {"type": "datetime"},
+    "Notes": {"type": "text"}
+  }
+}

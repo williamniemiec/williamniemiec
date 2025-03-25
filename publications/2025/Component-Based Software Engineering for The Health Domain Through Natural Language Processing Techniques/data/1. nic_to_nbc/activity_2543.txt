@@ -1,0 +1,13 @@
+
+
+
+{
+    "Notification": {
+        "Parameters": {
+            "Name": "Labor Progress Update",
+            "Content": "You are currently [X] cm dilated and [Y]% effaced. Your baby is in [Z] position.",
+            "Recipients": ["Patient", "Labor Coach"],
+            "Frequency": ["everyHour", "every2Hours", "asNeeded"]
+        }
+    }
+}

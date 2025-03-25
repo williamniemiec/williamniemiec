@@ -1,0 +1,40 @@
+Here is the output in JSON format:
+
+
+{
+  "Relaxation Therapy": {
+    "Relaxation Technique": {
+      "Description": "Select a relaxation technique to experience",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "progressiveMuscleRelaxation", "label": "Progressive Muscle Relaxation" },
+        { "value": "guidedImagery", "label": "Guided Imagery" },
+        { "value": "deepBreathing", "label": "Deep Breathing" },
+        { "value": "mindfulnessMeditation", "label": "Mindfulness Meditation" }
+      ]
+    },
+    "Audio Session": {
+      "Description": "Listen to a guided audio session for relaxation",
+      "Required": true,
+      "Type": "audio",
+      "Audio": {
+        "label": "Progressive Muscle Relaxation Audio Session",
+        "url": "https://example.com/relaxation-audio-session.mp3"
+      }
+    },
+    "Session Duration": {
+      "Description": "Select the duration of the relaxation session",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "5 minutes", "label": "5 minutes" },
+        { "value": "10 minutes", "label": "10 minutes" },
+        { "value": "15 minutes", "label": "15 minutes" }
+      ]
+    }
+  }
+}
+
+
+Note that I removed the "Resources" parameter since it's not required. Let me know if you need any further assistance!

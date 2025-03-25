@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Sterile Dressing Changes and Site Care": {
+    "parameters": [
+      {"name": "Dressing changes", "type": "boolean"},
+      {"name": "Site care", "type": "options", "options": ["cleanWithAntiseptic", "applyAntimicrobialOintment", "other"]},
+      {"name": "Frequency", "type": "options", "options": ["daily", "every12Hours", "every8Hours", "asNeeded", "custom"]},
+      {"name": "Notes", "type": "text"}
+    ]
+  }
+}

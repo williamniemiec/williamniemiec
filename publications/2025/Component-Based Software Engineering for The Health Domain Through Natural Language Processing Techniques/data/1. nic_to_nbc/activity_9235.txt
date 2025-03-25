@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Power and Control Reflection": {
+    "perspective": {"Type": "options", "Options": ["parent", "adolescent"]},
+    "power_issues": {"Type": "text"},
+    "control_issues": {"Type": "text"},
+    "impact_relationship": {"Type": "text"},
+    "strategies": {"Type": "text"},
+    "self_reflection": {"Type": "text"}
+  }
+}

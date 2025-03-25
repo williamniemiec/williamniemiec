@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "Emotional Support": {
+    "parameters": {
+      "Emotional Check-in": {
+        "type": "text or sentiment analysis"
+      },
+      "Fear Identification": {
+        "type": "text or multiple-choice options"
+      },
+      "Empathetic Response": {
+        "type": "text or audio/video message"
+      },
+      "Follow-up Questions": {
+        "type": "text or multiple-choice options"
+      },
+      "Resource Connection": {
+        "type": "links or phone numbers to external resources"
+      }
+    }
+  }
+}

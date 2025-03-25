@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+    "Drinking Straw Provider": {
+        "Straw Type": {},
+        "Frequency": {},
+        "Meal Times": {},
+        "Instructions": {},
+        "Reminders": {}
+    }
+}

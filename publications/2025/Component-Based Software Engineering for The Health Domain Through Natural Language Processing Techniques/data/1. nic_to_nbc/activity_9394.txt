@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Control": {
+    "parameters": {
+      "name": "Pain Medications",
+      "description": "Take your prescribed pain medications as needed",
+      "content_type": "unordered list",
+      "why": {"type": "text", "required": true},
+      "notes": {"type": "text", "required": false},
+      "dosage": {"type": "text", "required": true},
+      "frequency": {
+        "type": "options",
+        "required": true,
+        "options": [
+          {"value": "asNeeded", "label": "As needed"},
+          {"value": "daily", "label": "Daily"},
+          {"value": "everyHours", "label": "Every x hours"},
+          {"value": "everyDays", "label": "Every x days"}
+        ]
+      },
+      "deadline_date": {"type": "datetime", "required": true}
+    }
+  }
+}

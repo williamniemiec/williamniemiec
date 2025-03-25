@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+  "Extremity Observation": {
+    "Frequency": {
+      "Type": "options",
+      "Options": ["daily", "everyOtherDay", "weekly"]
+    },
+    "Instructions": {
+      "Type": "text"
+    },
+    "Extremities to Observe": {
+      "Type": "text"
+    },
+    "What to Look For": {
+      "Type": "text"
+    },
+    "Reporting": {
+      "Type": "text"
+    }
+  }
+}

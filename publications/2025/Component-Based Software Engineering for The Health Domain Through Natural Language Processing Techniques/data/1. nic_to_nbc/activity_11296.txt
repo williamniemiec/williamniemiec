@@ -1,0 +1,9 @@
+
+
+
+{
+    "Communication Guide": {
+        "guidelines": {"type": "text"},
+        "scenario": {"type": "text"}
+    }
+}

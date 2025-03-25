@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "No-code element name": "Interactive Content",
+  "Parameters": {
+    "Title": {"type": "text"},
+    "Content": {"type": "depends on content type"},
+    "Format": {"options": ["video", "animation", "gamification", "quiz"]},
+    "Duration": {"type": "time interval"},
+    "Frequency": {"options": ["daily", "onlyOnce", "everyHours", "everyDays"]}
+  }
+}

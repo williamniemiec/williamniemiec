@@ -1,0 +1,33 @@
+Here is the output in JSON format:
+
+
+{
+  "Exercise Guide": {
+    "Name": {
+      "type": "text"
+    },
+    "Exercise Type": {
+      "type": "options",
+      "options": ["range of motion", "endurance", "strengthening", "others"]
+    },
+    "Instructions": {
+      "type": "rich text"
+    },
+    "Frequency": {
+      "type": "options",
+      "options": ["daily", "every other day", "3 times a week", "others"]
+    },
+    "Duration": {
+      "type": "text"
+    },
+    "Repetitions": {
+      "type": "number"
+    },
+    "Sets": {
+      "type": "number"
+    }
+  }
+}
+
+
+Note that I removed the `Deadline Date` parameter as it is not applicable in this context.

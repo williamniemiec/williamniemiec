@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+  "Coping Strategies Coach": {
+    "Parameters": {
+      "Coping Strategy Types": {
+        "Type": ["persistence", "written lists", "oral explanations", "demonstrations", "seeking assistance from family/friends"]
+      },
+      "Strategy Content": {
+        "Type": ["text", "images", "videos", "interactive simulations"]
+      },
+      "Interactive Elements": {
+        "Type": ["quizzes", "games", "branching scenarios"]
+      },
+      "Personalization": {
+        "Type": ["medical history", "medications", "treatment plans"]
+      },
+      "Reminders and Notifications": {
+        "Type": ["push notifications", "email reminders", "in-app alerts"]
+      }
+    }
+  }
+}
+
+
+Let me know if this meets your requirements!

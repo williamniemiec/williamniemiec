@@ -1,0 +1,32 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Content Tailoring",
+  "parameters": [
+    {
+      "name": "Cognitive Abilities",
+      "type": "rating scale"
+    },
+    {
+      "name": "Psychomotor Abilities",
+      "type": "rating scale"
+    },
+    {
+      "name": "Affective Abilities",
+      "type": "rating scale"
+    },
+    {
+      "name": "Content",
+      "type": "text"
+    },
+    {
+      "name": "Tailoring Criteria",
+      "type": "list of criteria"
+    },
+    {
+      "name": "Tailored Content",
+      "type": "text"
+    }
+  ]
+}

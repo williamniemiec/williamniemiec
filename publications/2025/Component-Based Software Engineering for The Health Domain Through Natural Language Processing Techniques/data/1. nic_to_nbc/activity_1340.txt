@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Pain Management": {
+    "Medication": {"type": "text"},
+    "Dosage": {"type": "text"},
+    "Frequency": {"type": "options", "options": [{"value": "asNeeded", "label": "As needed"}, {"value": "everyHours", "label": "Every x hours"}, {"value": "everyDays", "label": "Every x days"}]},
+    "Pain Assessment": {"type": "number"},
+    "Wound Care Instructions": {"type": "text"}
+  }
+}
+
+
+Let me know if this meets your requirements!

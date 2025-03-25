@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Energy Balancing": {
+    "Title": {"Description": "Title of the guided meditation", "Required": true, "Type": "text"},
+    "Content": {"Description": "Text or audio content guiding the patient to balance their energy field", "Required": true, "Type": "text or audio"},
+    "Hand Movement": {"Description": "Specific hand movement to guide the patient", "Required": true, "Type": "text"},
+    "Energy Field": {"Description": "Concept to guide the patient's thinking", "Required": true, "Type": "text"},
+    "Intention": {"Description": "Intention to guide the patient's energy balancing", "Required": true, "Type": "text"}
+  }
+}

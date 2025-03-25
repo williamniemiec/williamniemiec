@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Breast Symmetry Assessment": {
+    "Instructions": {"Type": "text or multimedia"},
+    "Comparison Tool": {"Type": "interactive image comparison tool or diagram"},
+    "Deviation/Abnormality Checklist": {"Type": "list of items"},
+    "Image Capture": {"Type": "camera or image upload"},
+    "Frequency": {"Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"Type": "datetime"}
+  }
+}

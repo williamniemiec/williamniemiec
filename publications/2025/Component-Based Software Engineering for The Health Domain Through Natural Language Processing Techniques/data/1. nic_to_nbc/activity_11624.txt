@@ -1,0 +1,31 @@
+Here is the output in JSON format:
+
+
+{
+  "Instruction": {
+    "instruction title": {
+      "Description": "title of the instruction",
+      "Required": true,
+      "Type": "text"
+    },
+    "Steps": {
+      "Description": "step-by-step instructions on how to cleanse ears",
+      "Required": true,
+      "Type": "ordered list of text"
+    },
+    "Images": {
+      "Description": "optional images to illustrate each step",
+      "Required": false,
+      "Type": "list of image URLs"
+    },
+    "Frequency": {
+      "Description": "specify how often the patient should cleanse their ears",
+      "Required": true,
+      "Type": "options",
+      "Options": ["daily", "weekly", "monthly", "asNeeded"]
+    }
+  }
+}
+
+
+Note: I removed the `Deadline Date` parameter since it was marked as not required.

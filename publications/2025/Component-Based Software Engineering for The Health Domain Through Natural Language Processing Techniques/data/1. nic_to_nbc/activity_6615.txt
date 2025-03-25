@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+    "News Access Assessment": {
+        "news_importance": {"type": "rating scale"},
+        "news_preferences": {"type": "options"}
+    },
+    "News Provision": {
+        "news_source": {"type": "options"},
+        "news_frequency": {"type": "options"}
+    },
+    "News Customization": {
+        "news_topics": {"type": "unordered list"},
+        "news_format": {"type": "options"}
+    },
+    "News Evaluation": {
+        "news_engagement": {"type": "rating scale"},
+        "news_understanding": {"type": "rating scale"}
+    }
+}

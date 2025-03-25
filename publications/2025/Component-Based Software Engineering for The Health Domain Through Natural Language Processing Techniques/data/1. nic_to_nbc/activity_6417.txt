@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Soothing Lotion Massage": {
+    "instruction title": {"Description": "title of the soothing lotion massage instruction", "Required": true, "Type": "text"},
+    "Instruction": {"Description": "text describing how to massage a soothing lotion into skin following bath", "Required": true, "Type": "text"},
+    "Image": {"Description": "optional image to illustrate the soothing lotion massage instruction", "Required": false, "Type": "image"},
+    "Lotion Type": {"Description": "optional specification of the type of soothing lotion to use", "Required": false, "Type": "options", "Options": [{"value": "moisturizing", "label": "Moisturizing lotion"}, {"value": "calming", "label": "Calming lotion"}, {"value": "other", "label": "Other (please specify)"}]},
+    "Frequency": {"Description": "specify how often the patient should be reminded to massage a soothing lotion into skin following bath", "Required": true, "Type": "options", "Options": [{"value": "daily", "label": "Daily"}, {"value": "onlyOnce", "label": "Only once"}, {"value": "everyHours", "label": "Every x hours"}, {"value": "everyDays", "label": "Every x days"}]},
+    "Deadline Date": {"Description": "specify the due date for the patient to start massaging a soothing lotion into skin following bath", "Required": false, "Type": "datetime"}
+  }
+}

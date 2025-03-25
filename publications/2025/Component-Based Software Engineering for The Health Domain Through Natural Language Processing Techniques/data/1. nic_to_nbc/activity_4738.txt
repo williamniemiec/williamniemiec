@@ -1,0 +1,33 @@
+Here is the output in JSON format:
+
+
+{
+  "Skin Condition Assessment": {
+    "Parameters": {
+      "Skin Condition": {},
+      "Skin Lesions": {},
+      "Skin Sensitivity": {},
+      "Photos": {}
+    }
+  },
+  "Skin Condition": {
+    "Parameters": {
+      "Skin Condition": {}
+    }
+  },
+  "Skin Lesions": {
+    "Parameters": {
+      "Skin Lesions": {}
+    }
+  },
+  "Skin Sensitivity": {
+    "Parameters": {
+      "Skin Sensitivity": {}
+    }
+  },
+  "Skin Photos": {
+    "Parameters": {
+      "Photos": {}
+    }
+  }
+}

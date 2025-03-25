@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Fluid Management": {
+    "Parameters": {
+      "Name": {},
+      "Indications": {},
+      "Fluid Type": {},
+      "Thickening Agent": {},
+      "Instructions": {},
+      "Frequency": {}
+    }
+  }
+}

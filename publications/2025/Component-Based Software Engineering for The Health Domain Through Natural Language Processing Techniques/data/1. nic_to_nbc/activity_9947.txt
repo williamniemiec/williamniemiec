@@ -1,0 +1,32 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Goal Setting Worksheet",
+    "parameters": [
+        {
+            "name": "Goal Category",
+            "type": "options"
+        },
+        {
+            "name": "Goal Statement",
+            "type": "text"
+        },
+        {
+            "name": "Why Important",
+            "type": "text"
+        },
+        {
+            "name": "Action Steps",
+            "type": "list of text"
+        },
+        {
+            "name": "Deadline",
+            "type": "datetime"
+        },
+        {
+            "name": "Frequency",
+            "type": "options"
+        }
+    ]
+}

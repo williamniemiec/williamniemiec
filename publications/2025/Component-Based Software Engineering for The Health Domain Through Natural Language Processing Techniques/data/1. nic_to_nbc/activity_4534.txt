@@ -1,0 +1,10 @@
+Here is the output in JSON format:
+
+
+{
+  "PARAMETER ESPECIFICATIONS": {
+    "feature to collect and store drawings created by the patient": "",
+    "feature to track stress events and correlate them with the patient's drawings": ""
+  },
+  "NO-CODE ELEMENT NAME": null
+}

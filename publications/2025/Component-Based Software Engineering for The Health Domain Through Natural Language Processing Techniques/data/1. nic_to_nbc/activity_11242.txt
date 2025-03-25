@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+  "Pain Assessment": {
+    "parameters": [
+      {"name": "pain_level", "description": "Rate your pain level (0-10)", "required": true, "type": "number"},
+      {"name": "pain_location", "description": "Where is the pain located?", "required": true, "type": "options", "options": [{"value": "wound", "label": "Wound"}, {"value": "leg", "label": "Leg"}, {"value": "foot", "label": "Foot"}, {"value": "ankle", "label": "Ankle"}, {"value": "other", "label": "Other"}]},
+      {"name": "pain_description", "description": "Describe your pain", "required": false, "type": "text"}
+    ]
+  },
+  "Pain Frequency": {
+    "parameters": [
+      {"name": "pain_frequency", "description": "How often do you experience pain?", "required": true, "type": "options", "options": [{"value": "constant", "label": "Constant"}, {"value": "frequent", "label": "Frequent"}, {"value": "occasional", "label": "Occasional"}, {"value": "rare", "label": "Rare"}]}
+    ]
+  }
+}
+
+
+Let me know if this is what you were expecting!

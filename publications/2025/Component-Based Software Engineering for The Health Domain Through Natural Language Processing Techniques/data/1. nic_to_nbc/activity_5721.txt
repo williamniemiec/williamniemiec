@@ -1,0 +1,49 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Value Prioritization List",
+    "parameters": [
+        {
+            "name": "List Title",
+            "type": "text"
+        },
+        {
+            "name": "List Items",
+            "type": "list of text"
+        },
+        {
+            "name": "Importance Scale",
+            "type": "options",
+            "options": [
+                { value: "1-5", label: "1-5 Scale" },
+                { value: "low-high", label: "Low-High Scale" }
+            ]
+        },
+        {
+            "name": "Time Allocation",
+            "type": "options",
+            "options": [
+                { value: "percentage of daily time", label: "Percentage of Daily Time" },
+                { value: "hours per week", label: "Hours per Week" }
+            ]
+        },
+        {
+            "name": "Instructions",
+            "type": "text"
+        },
+        {
+            "name": "Frequency",
+            "type": "options",
+            "options": [
+                { value: "daily", label: "Daily" },
+                { value: "weekly", label: "Weekly" },
+                { value: "monthly", label: "Monthly" }
+            ]
+        },
+        {
+            "name": "Deadline Date",
+            "type": "datetime"
+        }
+    ]
+}

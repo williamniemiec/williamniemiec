@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Administration": {
+    "name": "Atropine Administration",
+    "medication_name": "Atropine",
+    "condition": "Bradycardia",
+    "dosage": "specify the dosage of atropine to be taken",
+    "frequency": "specify how often the medication should be taken",
+    "deadline_date": "specify the due date for taking the medication",
+    "notes": "additional notes or instructions for the patient"
+  }
+}

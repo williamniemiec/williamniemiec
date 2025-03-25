@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Pain Education": {
+    "title of the pain education content": {"Type": "text", "Required": true},
+    "Content": {"Type": "article or video", "Required": true, "Example": "Did you know that sleeping on your stomach can cause strain on your neck and back? Learn how to adjust your sleep position to reduce muscle and joint pain."},
+    "Images/Diagrams": {"Type": "list of images or diagrams", "Required": false},
+    "Quiz": {"Type": "quiz", "Required": false},
+    "Tracking": {"Type": "boolean", "Required": false}
+  }
+}

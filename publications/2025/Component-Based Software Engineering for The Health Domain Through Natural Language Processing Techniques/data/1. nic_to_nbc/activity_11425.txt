@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+    "Lab Result Tracker": {
+        "Parameters": {
+            "Lab Values": {"Type": "options"},
+            "Reference Ranges": {"Type": "options"},
+            "Result Frequency": {"Type": "options"}
+        }
+    },
+    "Alert System": {
+        "Parameters": {
+            "Alert Thresholds": {"Type": "options"},
+            "Alert Frequency": {"Type": "options"}
+        }
+    }
+}

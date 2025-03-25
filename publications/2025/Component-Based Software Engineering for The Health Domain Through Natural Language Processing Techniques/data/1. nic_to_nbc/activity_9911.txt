@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Loss Experience Discussion": {
+    "parameters": {
+      "Loss Experience": {},
+      "Emotional Response": {},
+      "Coping Mechanisms": {},
+      "Reflection Prompt": {},
+      "Comparison": {}
+    }
+  }
+}

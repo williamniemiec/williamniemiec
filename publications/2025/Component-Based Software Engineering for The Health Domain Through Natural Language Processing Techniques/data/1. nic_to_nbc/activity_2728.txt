@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Elevation Instructions": {
+    "parameters": [
+      {"name": "elevation_angle", "description": "What angle should you elevate your affected limb?", "required": true, "type": "text", "value": "20 degrees or greater above the level of the heart"},
+      {"name": "elevation_position", "description": "How should you position your affected limb for elevation?", "required": true, "type": "text", "value": "Place your affected limb on a pillow or cushion, with your ankle higher than your knee and your knee higher than your hip."}
+    ]
+  },
+  "Elevation Frequency": {
+    "parameters": [
+      {"name": "elevation_frequency", "description": "How often should you elevate your affected limb?", "required": true, "type": "options", "options": [{"value": "everyHour", "label": "Every hour"}, {"value": "every2Hours", "label": "Every 2 hours"}, {"value": "every4Hours", "label": "Every 4 hours"}, {"value": "asNeeded", "label": "As needed"}]}
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Therapy Referral": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Description": {"Type": "text"},
+      "Therapy Type": {"Type": "options", "Examples": ["Physical Therapy", "Occupational Therapy", "Vestibular Rehabilitation Therapy", "etc."]},
+      "Therapist Information": {"Type": "text or contact information", "Examples": ["Therapist Name", "Therapy Center Name", "Address", "Phone Number", "etc."]},
+      "Exercise Program": {"Type": "text or video", "Examples": ["Canalith Repositioning Procedure", "Vestibular Ocular Reflex Exercises", "etc."]},
+      "Frequency and Duration": {"Type": "numeric or text", "Examples": ["3 times a week for 6 weeks", "2 times a month for 3 months", "etc."]},
+      "Progress Tracking": {"Type": "text or rating scale"}
+    }
+  }
+}

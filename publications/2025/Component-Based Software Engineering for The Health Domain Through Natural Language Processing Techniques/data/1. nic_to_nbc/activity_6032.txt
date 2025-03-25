@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+    "infant_oral_cleansing": {
+        "parameters": [
+            { 
+                "name": "cleansing_method", 
+                "description": "method used for cleansing"
+            },
+            { 
+                "name": "frequency", 
+                "description": "how often the infant's mouth is cleansed"
+            }
+        ]
+    }
+}

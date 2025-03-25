@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Ambulation Exercise": {
+    "parameters": {
+      "name": {"type": "text"},
+      "description": {"type": "text"},
+      "affected_side": {"type": "options", "options": ["left", "right", "both"]},
+      "compensation_level": {"type": "options", "options": ["minimal", "moderate", "significant"]},
+      "ambulation_distance": {"type": "text or number"},
+      "ambulation_speed": {"type": "options", "options": ["slow", "moderate", "fast"]},
+      "support_level": {"type": "options", "options": ["minimal", "moderate", "significant"]},
+      "frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "duration": {"type": "text or number"}
+    }
+  }
+}
+
+
+Let me know if you need any further assistance!

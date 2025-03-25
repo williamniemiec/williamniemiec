@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Lubrication Reminder": {
+    "Name": {"type": "text"},
+    "Frequency": {"options": ["daily", "everyHours", "everyDays", "asNeeded"]},
+    "Application Instructions": {"type": "text"},
+    "Deadline Date": {"type": "datetime"},
+    "Additional Resources": {"type": "list of resources"}
+  }
+}

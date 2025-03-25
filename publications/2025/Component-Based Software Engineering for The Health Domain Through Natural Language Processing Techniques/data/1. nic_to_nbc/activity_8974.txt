@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Child Protection Flag": {
+    "Flag Status": {"type": "boolean"},
+    "Reason for Flag": {"type": "text"},
+    "Additional Notes": {"type": "text"},
+    "Flag Expiration Date": {"type": "datetime"}
+  }
+}

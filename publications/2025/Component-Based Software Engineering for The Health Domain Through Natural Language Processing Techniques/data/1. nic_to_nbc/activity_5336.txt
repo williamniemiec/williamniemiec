@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Specimen Collection",
+  "parameters": [
+    {
+      "name": "specimen_type"
+    },
+    {
+      "name": "collection_method"
+    },
+    {
+      "name": "frequency"
+    },
+    {
+      "name": "deadline_date"
+    },
+    {
+      "name": "instructions"
+    }
+  ]
+}

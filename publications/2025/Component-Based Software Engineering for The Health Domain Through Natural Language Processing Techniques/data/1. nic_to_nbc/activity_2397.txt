@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "Spiritual Perspective Sharing": {
+    "Parameters": {
+      "Perspective Type": {"Type": "options"},
+      "Perspective Content": {"Type": "text or multimedia"},
+      "Sharing Method": {"Type": "options"},
+      "Frequency": {"Type": "options"},
+      "Deadline Date": {"Type": "datetime"},
+      "Resources": {"Type": "list of resources"}
+    }
+  },
+  "Spiritual Support Session": {
+    "Parameters": {
+      "Session Topic": {"Type": "options"},
+      "Session Method": {"Type": "options"},
+      "Frequency": {"Type": "options"},
+      "Deadline Date": {"Type": "datetime"},
+      "Resources": {"Type": "list of resources"}
+    }
+  }
+}

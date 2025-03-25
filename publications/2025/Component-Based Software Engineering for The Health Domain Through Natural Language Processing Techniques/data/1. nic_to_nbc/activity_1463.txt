@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Interaction Checker": {
+    "Parameters": {
+      "Medication List": {"Type": "checklist"},
+      "Interaction Warning": {"Type": "text"},
+      "Alternative Options": {"Type": "text"}
+    }
+  }
+}

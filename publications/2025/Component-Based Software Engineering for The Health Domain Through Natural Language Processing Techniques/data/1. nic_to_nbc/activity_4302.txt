@@ -1,0 +1,34 @@
+Here is the output in JSON format:
+
+
+{
+  "Dietary Recommendation": {
+    "Electrolyte Imbalance": {
+      "type": "options",
+      "options": [
+        { "value": "potassiumDeficiency", "label": "Potassium Deficiency" },
+        { "value": "sodiumExcess", "label": "Sodium Excess" },
+        { "value": "other", "label": "Other (please specify)" }
+      ]
+    },
+    "Dietary Recommendations": {
+      "type": "list",
+      "example": [
+        { "food": "Bananas", "reason": "Rich in potassium" },
+        { "food": "Leafy greens", "reason": "Low in sodium" },
+        { "food": "Whole grains", "reason": "Low in carbohydrates" }
+      ]
+    },
+    "Food Restrictions": {
+      "type": "list",
+      "example": [
+        { "food": "Processed meats", "reason": "High in sodium" },
+        { "food": "Sugary drinks", "reason": "High in carbohydrates" }
+      ]
+    },
+    "Meal Planning Resources": {
+      "type": "text",
+      "example": "Visit our website for potassium-rich recipes and meal planning tips"
+    }
+  }
+}

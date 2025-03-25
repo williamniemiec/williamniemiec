@@ -1,0 +1,30 @@
+Here is the output in JSON format:
+
+
+{
+  "No-code Element Name": "Play Guide",
+  "Parameters": {
+    "Play Activity Name": {
+      "Description": "Name of the play activity (e.g. Hide and Seek)",
+      "Required": true,
+      "Type": "text"
+    },
+    "Instructions": {
+      "Description": "Step-by-step instructions for the play activity",
+      "Required": true,
+      "Type": "text or illustrated guide"
+    },
+    "Frequency": {
+      "Description": "How often the play activity should be performed",
+      "Required": true,
+      "Type": "options",
+      "Options": ["daily", "everyOtherDay", "threeTimesAWeek", "etc."]
+    }
+  }
+}
+
+
+I removed the following parameters as they were marked as not applicable (optional and required=false):
+
+* Tips
+* Deadline Date

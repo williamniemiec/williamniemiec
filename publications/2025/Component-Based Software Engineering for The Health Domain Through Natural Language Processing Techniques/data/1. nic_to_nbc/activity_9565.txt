@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Education and Information": {
+    "parameters": {
+      "Topic": {"type": "text"},
+      "Resources": {"type": "text or multimedia"},
+      "Frequently Asked Questions (FAQs)": {"type": "text"},
+      "Myth-Busting": {"type": "text"}
+    }
+  }
+}

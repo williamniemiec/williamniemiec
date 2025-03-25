@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "IV Therapy Verification": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Content": {"Type": "text"},
+      "Fields to Verify": {"Type": "list"},
+      "Example": {"Type": "image or text"}
+    }
+  }
+}

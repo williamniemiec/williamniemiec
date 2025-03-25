@@ -1,0 +1,18 @@
+
+
+
+{
+  "Cognitive Assessment": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Orientation": {"Type": "options", "Options": ["correct", "incorrect"]},
+      "Memory": {"Type": "text"},
+      "Attention": {"Type": "options", "Options": ["able", "unable"]},
+      "Language": {"Type": "options", "Options": ["able", "unable"]},
+      "Visuospatial": {"Type": "options", "Options": ["able", "unable"]},
+      "Executive Function": {"Type": "options", "Options": ["able", "unable"]},
+      "Notes": {"Type": "text"},
+      "Deadline Date": {"Type": "datetime"}
+    }
+  }
+}

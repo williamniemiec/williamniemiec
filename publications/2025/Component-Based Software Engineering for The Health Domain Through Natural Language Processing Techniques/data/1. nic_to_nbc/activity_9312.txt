@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Activity Orders Review": {
+    "Parameters": {
+      "Activity Orders": {
+        "Type": "list of activity orders with properties for date, time, and details"
+      },
+      "Confirmation": {
+        "Type": "boolean (yes/no)"
+      },
+      "Notes": {
+        "Type": "text"
+      },
+      "Date and Time": {
+        "Type": "datetime"
+      }
+    }
+  }
+}

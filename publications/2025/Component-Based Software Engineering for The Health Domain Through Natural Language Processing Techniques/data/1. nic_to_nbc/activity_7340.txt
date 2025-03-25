@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Coach": {
+    "Topic": {"type": "text"},
+    "Support Type": {"type": "options"},
+    "Coach": {"type": "text"},
+    "Schedule": {"type": "datetime"},
+    "Resources": {"type": "list of resources"}
+  }
+}

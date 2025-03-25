@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Balance Activity": {
+    "Parameters": {
+      "Programs": {"Type": "unordered list"},
+      "Family Activities": {"Type": "unordered list"},
+      "Community Activities": {"Type": "unordered list"},
+      "Balance Goal": {"Type": "text"},
+      "Frequency": {"Options": ["daily", "weekly", "monthly"]},
+      "Deadline Date": {"Type": "datetime"}
+    }
+  }
+}

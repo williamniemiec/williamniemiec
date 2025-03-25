@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+  "Alternative Solution": {
+    "problem": {
+      "Description": "Specific problem or issue to be addressed",
+      "Required": true,
+      "Type": "text"
+    },
+    "alternatives": {
+      "Description": "List of alternative solutions to the problem",
+      "Required": true,
+      "Type": "unordered list",
+      "Item Type": "alternative",
+      "alternative": {
+        "Description": "Specific alternative solution",
+        "Required": true,
+        "Type": "text"
+      }
+    }
+  }
+}

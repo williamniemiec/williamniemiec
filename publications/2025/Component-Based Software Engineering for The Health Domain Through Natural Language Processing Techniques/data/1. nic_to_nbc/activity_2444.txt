@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Decision Support": {
+    "Parameters": {
+      "Problem Statement": {},
+      "Options": {},
+      "Pros and Cons": {},
+      "Frequency": ["daily", "onlyOnce", "everyHours", "everyDays"],
+      "Deadline Date": {}
+    }
+  }
+}

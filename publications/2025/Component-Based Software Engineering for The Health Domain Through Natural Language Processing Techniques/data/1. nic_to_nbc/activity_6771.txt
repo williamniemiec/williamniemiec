@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+    "Jaundice Assessment": {
+        "assessment_type": [],
+        "jaundice_signs": []
+    },
+    "Visual Inspection": {
+        "inspection_type": [],
+        "jaundice_identification": []
+    },
+    "Bilirubin Level Check": {
+        "bilirubin_level": [],
+        "jaundice_threshold": []
+    },
+    "Jaundice Alert": {
+        "alert_type": [],
+        "alert_content": []
+    }
+}

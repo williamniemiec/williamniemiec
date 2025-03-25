@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Guided Imagery Companion": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Description": {"Type": "text"},
+      "Audio/Video": {"Type": "audio or video"}
+    }
+  }
+}

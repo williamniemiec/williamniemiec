@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Device Setup": {
+    "device_type": {"type": "options"},
+    "device_location": {"type": "text"},
+    "setup_instructions": {"type": "text or HTML"},
+    "frequency": {"type": "options"}
+  }
+}
+
+
+Note that I removed the `deadline_date` parameter since it's not applicable in this context.

@@ -1,0 +1,12 @@
+
+
+
+{
+    "Empathy Statement": {
+        "parameters": {
+            "empathy_text": {"type": "text"},
+            "patient_concern": {"type": "text"},
+            "tone": {"type": "options"}
+        }
+    }
+}

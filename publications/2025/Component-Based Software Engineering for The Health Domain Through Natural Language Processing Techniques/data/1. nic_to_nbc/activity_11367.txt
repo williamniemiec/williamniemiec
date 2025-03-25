@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+    "Symptom Checker": {
+        "parameters": [
+            {"name": "symptoms", "description": "Select any symptoms you are experiencing", "required": true, "type": "multiselect"},
+            {"name": "frequency", "description": "How often should you check for symptoms?", "required": true, "type": "options"}
+        ]
+    },
+    "Bilirubin Level Tracking": {
+        "parameters": [
+            {"name": "reading", "description": "Enter your bilirubin level reading", "required": true, "type": "numeric"},
+            {"name": "frequency", "description": "How often should you track your bilirubin levels?", "required": true, "type": "options"},
+            {"name": "threshold", "description": "Set a threshold for abnormal bilirubin levels", "required": true, "type": "numeric"}
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Outcome Identifier": {
+    "Goal": {"type": "text"},
+    "Outcome Options": {"type": "list", "itemProperties": ["outcome description", "measurement criteria", "target value"]},
+    "Expected Outcome": {"type": "text"},
+    "Measurement Criteria": {"type": "text"},
+    "Target Value": {"type": "number or text"},
+    "Priority Level": {"type": "options", "options": ["high", "medium", "low"]},
+    "Rationale": {"type": "text"}
+  }
+}

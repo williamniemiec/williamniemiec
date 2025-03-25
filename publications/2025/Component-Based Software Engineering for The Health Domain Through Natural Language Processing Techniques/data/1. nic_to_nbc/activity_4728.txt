@@ -1,0 +1,14 @@
+
+
+
+{
+"NG Feeding Schedule": {
+    "Parameters": {
+        "Name": {"Type": "text"},
+        "Suctioning Schedule": {"Type": "recurring event"},
+        "Chest Physiotherapy Schedule": {"Type": "recurring event"},
+        "Stop Feeding Duration": {"Type": "options"},
+        "Reminder": {"Type": "text"}
+    }
+}
+}

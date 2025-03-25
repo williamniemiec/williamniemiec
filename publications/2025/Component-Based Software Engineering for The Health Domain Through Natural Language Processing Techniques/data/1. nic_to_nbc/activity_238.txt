@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Positioning": {
+        "parameters": [
+            {"Name": {"type": "text"}},
+            {"Instructions": {"type": "text"}},
+            {"Image": {"type": "image"}},
+            {"Pressure Points": {"type": "list of text"}}
+        ]
+    }
+}

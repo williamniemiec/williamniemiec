@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "IV Nutrition Administration": {
+    "Parameters": {
+      "IV Solution": {},
+      "Duration": {},
+      "Rate": {},
+      "Volume": {},
+      "Monitoring": {}
+    }
+  }
+}
+
+
+Note that I removed the "Instructions" parameter since it's type is "text", which is not applicable.

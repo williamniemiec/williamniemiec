@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Cultural Discussion Forum": {
+    "Topic": {"type": "text"},
+    "Patient Input": {"type": "text or form"},
+    "Nurse Input": {"type": "text or form"},
+    "Discussion Thread": {"type": "text or chat interface"}
+  }
+}

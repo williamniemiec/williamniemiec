@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "parameters": {
+    "title": {"type": "text"},
+    "Current Status": {"type": "options"},
+    "Removal Date": {"type": "date"},
+    "Removal Time": {"type": "time"},
+    "Reason for Removal": {"type": "text or options"},
+    "Notes": {"type": "text", "optional": true}
+  },
+  "no-code element name": "Catheter Removal Tracker"
+}

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Sterile Procedure": {
+    "parameters": {
+      "procedure": {"type": "text"},
+      "solution": {"type": "text"},
+      "tubing": {"type": "text"},
+      "connections": {"type": "text"},
+      "steps": {"type": ["list of text", "JSON object"]}
+    }
+  }
+}

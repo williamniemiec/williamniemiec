@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+    "Bleeding Tracker": {
+        "Parameters": {
+            "Name": {"Type": "text"},
+            "Bleeding Symptoms": {"Type": "text"},
+            "Severity": {"Type": "options"},
+            "Frequency": {"Type": "options"},
+            "Deadline Date": {"Type": "datetime"}
+        }
+    },
+    "Symptom Checker": {
+        "Parameters": {
+            "Name": {"Type": "text"},
+            "Bleeding Symptoms": {"Type": "text"},
+            "Severity": {"Type": "options"},
+            "Guidance": {"Type": "text"}
+        }
+    }
+}
+
+
+Let me know if this is what you were expecting!

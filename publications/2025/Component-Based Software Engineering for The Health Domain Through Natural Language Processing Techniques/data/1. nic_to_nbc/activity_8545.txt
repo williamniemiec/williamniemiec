@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+    "Learning Style Assessment": {
+        "assessment_type": {},
+        "questions": {},
+        "learning_style_categories": {},
+        "result": {}
+    }
+}

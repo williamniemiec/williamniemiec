@@ -1,0 +1,72 @@
+Here is the output in JSON format, removing everything except `PARAMETER ESPECIFICATIONS` and `NO-CODE ELEMENT NAME`, and not including not applicable parameters:
+
+
+{
+    "Health History": [
+        { 
+            "Name": {
+                "type": "text"
+            }
+        },
+        { 
+            "Fields": {
+                "type": "list of objects",
+                "objects": [
+                    {
+                        "Label": "Medical Conditions",
+                        "Type": "list"
+                    },
+                    {
+                        "Label": "Surgeries",
+                        "Type": "list"
+                    },
+                    {
+                        "Label": "Allergies",
+                        "Type": "list"
+                    }
+                ]
+            }
+        },
+        { 
+            "Optional Sections": {
+                "type": "list of objects",
+                "objects": [
+                    {
+                        "Label": "Family Medical History",
+                        "Fields": [
+                            {
+                                "Label": "Family Member",
+                                "Type": "text"
+                            },
+                            {
+                                "Label": "Medical Condition",
+                                "Type": "text"
+                            }
+                        ]
+                    },
+                    {
+                        "Label": "Social History",
+                        "Fields": [
+                            {
+                                "Label": "Smoking Status",
+                                "Type": "options",
+                                "Options": [
+                                    { "value": "yes", "label": "Yes" },
+                                    { "value": "no", "label": "No" }
+                                ]
+                            },
+                            {
+                                "Label": "Alcohol Use",
+                                "Type": "options",
+                                "Options": [
+                                    { "value": "yes", "label": "Yes" },
+                                    { "value": "no", "label": "No" }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ]
+}

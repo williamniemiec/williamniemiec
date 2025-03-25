@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Vital Sign Tracker": {
+    "Respiratory Rate": {"Type": "number"},
+    "Oxygen Saturation": {"Type": "number"}
+  },
+  "Symptom Checker": {
+    "Symptom List": {"Type": "multi-select"},
+    "Severity": {"Type": "options"},
+    "Frequency": {"Type": "options"}
+  },
+  "Question": {
+    "Question": {"Type": "text"},
+    "Answer Type": {"Type": "options"}
+  }
+}

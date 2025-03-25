@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Guide": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Pages": {"Type": "book-page or article-section", "SubType": ["HTML texts", "multimedia content"]},
+      "Key Points": {"Type": "list of text or bullet points"},
+      "Additional Resources": {"Type": "list of URLs or PDFs"}
+    }
+  }
+}
+
+
+Note that I removed the non-applicable parameters and only kept the `Parameters` section, as per your request. Let me know if this meets your requirements!

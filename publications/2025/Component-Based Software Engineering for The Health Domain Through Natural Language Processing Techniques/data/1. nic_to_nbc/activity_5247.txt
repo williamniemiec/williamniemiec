@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Track Test Results": {
+    "parameters": {
+      "Test Results": {"type": "text or numerical value"},
+      "Test Date": {"type": "datetime"},
+      "Notes": {"type": "text"}
+    }
+  }
+}

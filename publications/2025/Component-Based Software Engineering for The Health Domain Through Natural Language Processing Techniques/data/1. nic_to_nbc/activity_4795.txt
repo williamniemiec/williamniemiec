@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Care Coordination": {
+    "Concerns": {"type": "unordered list", "options": ["medical history", "treatment plans", "medication lists", "insurance coverage", "financial constraints", "etc."]},
+    "Priorities": {"type": "ordered list", "options": ["high priority", "medium priority", "low priority", "etc."]},
+    "Care Plan": {"type": "text"},
+    "Stakeholders": {"type": "unordered list"},
+    "Communication Plan": {"type": "text"},
+    "Review and Revision": {"type": "text", "options": ["regular review", "revision as needed", "etc."]}
+  }
+}
+
+
+Let me know if this meets your requirements!

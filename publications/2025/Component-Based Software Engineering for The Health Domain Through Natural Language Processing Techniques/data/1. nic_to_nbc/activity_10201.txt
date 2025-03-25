@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Symptom Translator": {
+    "Patient Symptom Input": {},
+    "Symptom Ontology": {},
+    "Translation Output": {},
+    "Clinical Context": {},
+    "Healthcare Professional Feedback": {}
+  }
+}

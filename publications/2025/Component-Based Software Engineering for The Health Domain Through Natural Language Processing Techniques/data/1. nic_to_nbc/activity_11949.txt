@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Family Crisis Assessment": {
+    "Poverty": {},
+    "Unemployment": {},
+    "Divorce": {},
+    "Homelessness": {},
+    "Death of a Loved One": {},
+    "Other Crisis Situations": {},
+    "Crisis Severity": {},
+    "Abuse Risk": {}
+  }
+}

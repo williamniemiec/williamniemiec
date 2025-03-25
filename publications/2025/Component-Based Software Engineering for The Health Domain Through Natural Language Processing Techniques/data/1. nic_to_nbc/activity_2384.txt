@@ -1,0 +1,36 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Achievement Reflection",
+    "parameters": [
+        {
+            "name": "Achievement Type",
+            "type": "options",
+            "options": [
+                { "value": "personal", "label": "Personal" },
+                { "value": "professional", "label": "Professional" },
+                { "value": "educational", "label": "Educational" },
+                { "value": "other", "label": "Other" }
+            ]
+        },
+        {
+            "name": "Achievement Description",
+            "type": "text"
+        },
+        {
+            "name": "Reflection Prompt",
+            "type": "text"
+        },
+        {
+            "name": "Emotions Associated",
+            "type": "options",
+            "options": [
+                { "value": "proud", "label": "Proud" },
+                { "value": "happy", "label": "Happy" },
+                { "value": "relieved", "label": "Relieved" },
+                { "value": "other", "label": "Other" }
+            ]
+        }
+    ]
+}

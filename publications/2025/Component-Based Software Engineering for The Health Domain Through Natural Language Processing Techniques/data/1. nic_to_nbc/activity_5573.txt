@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+    "Proper Body Alignment Guide": {
+        "parameters": [
+            {"name": "information", "description": "Importance of proper body alignment for stump care"},
+            {"name": "instructions", "description": "How to position your stump in proper body alignment"},
+            {"name": "images", "description": "Visual examples of proper body alignment"}
+        ]
+    }
+}

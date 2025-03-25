@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+  "STI and Conception Education": {
+    "STI Information": {
+      "type": "multimedia content",
+      "required": true
+    },
+    "Conception Information": {
+      "type": "multimedia content",
+      "required": true
+    },
+    "Risk Factors": {
+      "type": "text",
+      "required": true
+    },
+    "Prevention Methods": {
+      "type": "text",
+      "required": true
+    },
+    "Frequency": {
+      "type": "options",
+      "required": true
+    }
+  }
+}

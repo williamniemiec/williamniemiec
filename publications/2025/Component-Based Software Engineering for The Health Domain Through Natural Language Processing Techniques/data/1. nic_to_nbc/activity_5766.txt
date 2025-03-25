@@ -1,0 +1,31 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Breathing Exercise",
+  "parameters": [
+    {
+      "name": "exercise_name",
+      "type": "text"
+    },
+    {
+      "name": "instructions",
+      "type": "text"
+    },
+    {
+      "name": "demonstration",
+      "type": "video or animated GIF"
+    },
+    {
+      "name": "tips",
+      "type": "text"
+    },
+    {
+      "name": "frequency",
+      "type": "options"
+    }
+  ]
+}
+
+
+I removed the non-applicable parameters and unnecessary information, leaving only the `{{ NO-CODE ELEMENT NAME }}` and `{{ PARAMETER ESPECIFICATIONS }}`.

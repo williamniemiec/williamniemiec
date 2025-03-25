@@ -1,0 +1,42 @@
+Here is the output in JSON format:
+
+
+{
+  "Tube Feeding Discontinuation": {
+    "Task Title": {
+      "Description": "Title of the task",
+      "Required": true,
+      "Type": "text"
+    },
+    "Procedure or Transport": {
+      "Description": "Specify the procedure or transport",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "procedure", "label": "Procedure" },
+        { "value": "transport", "label": "Transport" }
+      ]
+    },
+    "Time Before Procedure/Transport": {
+      "Description": "Specify the time to turn off tube feeding before procedure or transport",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "1hour", "label": "1 hour" }
+      ]
+    },
+    "Patient Position": {
+      "Description": "Specify the patient position required for procedure or transport",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "lessThan30degrees", "label": "Less than 30 degrees" }
+      ]
+    },
+    "Turn Off Tube Feeding": {
+      "Description": "Turn off tube feeding before procedure or transport",
+      "Required": true,
+      "Type": "boolean"
+    }
+  }
+}

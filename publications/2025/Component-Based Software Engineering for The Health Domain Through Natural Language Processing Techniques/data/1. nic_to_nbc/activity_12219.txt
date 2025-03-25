@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Personalized Text": {
+    "Parameters": {
+      "Text": {"Type": "text"},
+      "Patient Name": {"Type": "text"},
+      "Pronouns": {"Type": "list of text values"}
+    }
+  }
+}

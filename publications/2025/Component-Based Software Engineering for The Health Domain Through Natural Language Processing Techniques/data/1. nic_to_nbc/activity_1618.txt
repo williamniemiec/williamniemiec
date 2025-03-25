@@ -1,0 +1,47 @@
+Here is the output in JSON format:
+
+
+{
+  "Care Explanation": {
+    "parameters": [
+      {
+        "name": "care_explanation",
+        "description": "Text or video explaining the care process",
+        "required": true,
+        "type": "text" or "video"
+      },
+      {
+        "name": "faq",
+        "description": "Frequently Asked Questions about the care process",
+        "required": true,
+        "type": "faq",
+        "faq_items": [
+          {
+            "question": "What is the purpose of this treatment?",
+            "answer": "To improve the patient's health and well-being."
+          },
+          {
+            "question": "How long will the treatment take?",
+            "answer": "The treatment will take approximately 2 hours."
+          }
+        ]
+      },
+      {
+        "name": "glossary",
+        "description": "Glossary of medical terms used in the care explanation",
+        "required": false,
+        "type": "list",
+        "list_items": [
+          {
+            "term": "Medical Term 1",
+            "definition": "Definition of Medical Term 1"
+          },
+          {
+            "term": "Medical Term 2",
+            "definition": "Definition of Medical Term 2"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Guidance": {
+    "Parameters": {
+      "Guidance Type": {"Type": "options"},
+      "Content": {"Type": "text or multimedia content"},
+      "Timing": {"Type": "options"},
+      "Frequency": {"Type": "options"}
+    }
+  }
+}

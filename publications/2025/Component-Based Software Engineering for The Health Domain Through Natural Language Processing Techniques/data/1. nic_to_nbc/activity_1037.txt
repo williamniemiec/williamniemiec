@@ -1,0 +1,31 @@
+Here is the output in JSON format:
+
+
+{
+  "Feeling-Behavior Discrepancy Identifier": {
+    "Parameters": {
+      "Feeling": {
+        "Type": "options",
+        "Options": ["anxiety", "sadness", "anger", "fear", "etc."]
+      },
+      "Behavior": {
+        "Type": "options",
+        "Options": ["avoidance", "denial", "substance abuse", "self-harm", "etc."]
+      },
+      "Discrepancy type": {
+        "Type": "options",
+        "Options": ["cognitive", "emotional", "behavioral", "motivational", "etc."]
+      },
+      "Reflection prompt": {
+        "Type": "text"
+      },
+      "Frequency": {
+        "Type": "options",
+        "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+      },
+      "Deadline date": {
+        "Type": "datetime"
+      }
+    }
+  }
+}

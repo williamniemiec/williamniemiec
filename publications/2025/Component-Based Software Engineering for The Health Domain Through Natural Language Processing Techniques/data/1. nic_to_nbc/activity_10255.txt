@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+    "Service Directory": {
+        "Parameters": {
+            "Service List": "",
+            "Service Descriptions": "",
+            "Referral Process": ""
+        }
+    },
+    "Referral Tracker": {
+        "Parameters": {
+            "Referral List": "",
+            "Referral Status": "",
+            "Appointment Reminders": ""
+        }
+    }
+}

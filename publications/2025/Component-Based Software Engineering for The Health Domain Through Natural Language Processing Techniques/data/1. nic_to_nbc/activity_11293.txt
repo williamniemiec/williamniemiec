@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Procedure Scheduling": {
+    "Frequency": {"Type": "options"},
+    "Meal Restriction": {"Type": "text"},
+    "Scheduling Instructions": {"Type": "text or multimedia content"},
+    "Reminder": {"Type": "boolean"}
+  }
+}

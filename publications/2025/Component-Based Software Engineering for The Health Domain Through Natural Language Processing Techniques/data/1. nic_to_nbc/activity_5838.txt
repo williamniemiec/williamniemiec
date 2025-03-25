@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Ice Application": {
+    "Parameters": {
+      "duration": {},
+      "frequency": {},
+      "additional_instructions": {}
+    }
+  }
+}

@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Administration Guide": {
+    "Parameters": {
+      "Name": "text, required",
+      "Instructions": "text or html, required",
+      "Steps": "list of steps, required",
+      "Frequency": "options, required",
+      "Deadline date": "datetime, optional"
+    }
+  }
+}
+
+
+Note that I removed the not applicable parameters (Videos, Images, Checklist, Reminders) as they are marked as optional. Let me know if you need anything else!

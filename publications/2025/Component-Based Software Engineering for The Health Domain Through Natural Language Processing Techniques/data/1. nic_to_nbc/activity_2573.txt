@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Communication Guidance": {
+    "Address by Name": {"type": "boolean"},
+    "Speak Slowly": {"type": "boolean"},
+    "Communication Tips": {"type": "text"},
+    "How do you prefer to be addressed by healthcare providers?": {"type": "options", "options": ["by first name", "by last name", "by title (e.g. Mr./Ms./Mrs.)"]},
+    "What is your preferred pace of communication with healthcare providers?": {"type": "options", "options": ["slow and clear", "moderate", "fast"]}
+  }
+}

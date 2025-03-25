@@ -1,0 +1,32 @@
+Here is the output in JSON format:
+
+
+{
+    "Decision Support": {
+        "Parameters": {
+            "Decision Topic": {
+                "Type": "text",
+                "Options": ["treatment options", "medication choices", "care provider selection", "etc."]
+            },
+            "Options": {
+                "Type": "unordered list",
+                "Options": ["specific treatments", "medications", "care providers", "etc."]
+            },
+            "Pros and Cons": {
+                "Type": "text"
+            },
+            "Questions to Ask": {
+                "Type": "unordered list",
+                "Options": ["What are the benefits and risks of this treatment?", "What are the alternative options?", "etc."]
+            },
+            "Resources": {
+                "Type": "unordered list",
+                "Options": ["websites", "support groups", "educational materials", "etc."]
+            },
+            "Priority Factors": {
+                "Type": "ordered list",
+                "Options": ["effectiveness", "cost", "convenience", "etc."]
+            }
+        }
+    }
+}

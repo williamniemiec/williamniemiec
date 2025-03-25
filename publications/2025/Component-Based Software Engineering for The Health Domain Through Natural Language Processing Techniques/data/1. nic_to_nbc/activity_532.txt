@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+  "Coping Rehearsal": {
+    "Milestone/Crisis Description": {
+      "type": "text"
+    },
+    "Coping Techniques": {
+      "type": "list of options"
+    },
+    "Rehearsal Scenarios": {
+      "type": "list of scenarios"
+    },
+    "Reflection Questions": {
+      "type": "list of questions"
+    },
+    "Practice Schedule": {
+      "type": "scheduling tool or calendar integration"
+    },
+    "Progress Tracking": {
+      "type": "rating system or progress bar"
+    }
+  }
+}
+
+
+Let me know if you need anything else!

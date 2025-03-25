@@ -1,0 +1,43 @@
+Here is the output in JSON format:
+
+
+{
+  "Peer Review Platform": {
+    "parameters": {
+      "name": "",
+      "types": "",
+      "roles": ""
+    }
+  },
+  "Invitation System": {
+    "parameters": {
+      "name": "",
+      "triggers": "",
+      "recipients": ""
+    }
+  },
+  "Peer Review Guidelines": {
+    "parameters": {
+      "name": "",
+      "criteria": "",
+      "guidelines": ""
+    }
+  },
+  "Recognition and Rewards": {
+    "parameters": {
+      "name": "",
+      "types": "",
+      "criteria": ""
+    }
+  },
+  "Feedback Mechanism": {
+    "parameters": {
+      "name": "",
+      "types": "",
+      "recipients": ""
+    }
+  }
+}
+
+
+Let me know if you'd like me to make any changes!

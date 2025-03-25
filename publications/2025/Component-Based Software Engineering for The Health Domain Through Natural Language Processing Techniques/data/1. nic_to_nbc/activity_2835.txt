@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Infant Weight Tracker": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Unit": {"Type": "options"},
+      "Frequency": {"Type": "options"},
+      "Deadline Date": {"Type": "datetime"},
+      "Target Weight Range": {"Type": "range"},
+      "Notes": {"Type": "text"}
+    }
+  }
+}

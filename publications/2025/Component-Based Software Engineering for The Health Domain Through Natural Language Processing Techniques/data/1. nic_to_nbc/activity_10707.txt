@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Body Alignment Guide": {
+    "Movement Type": {"type": "options"},
+    "Alignment Tips": {"type": "text"},
+    "Visual Aids": {"type": "multimedia"},
+    "Reminders": {"type": "options"},
+    "Patient Positioning": {"type": "options"}
+  }
+}
+
+
+I removed the introduction, conclusion, and other unnecessary parts of the text, and extracted only the no-code element name (`Body Alignment Guide`) and its parameter specifications. I also removed the `Not Applicable` parameters as per your request.

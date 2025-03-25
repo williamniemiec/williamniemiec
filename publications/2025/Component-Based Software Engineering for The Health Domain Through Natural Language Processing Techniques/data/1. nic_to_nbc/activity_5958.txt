@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Equipment Configuration": {
+    "Parameters": {
+      "Equipment Name": {"Type": "text"},
+      "Procedure Name": {"Type": "text"},
+      "Temperature Setting": {"Type": "number"},
+      "Usage Instructions": {"Type": "text"},
+      "Additional Tips": {"Type": "text"}
+    }
+  }
+}
+
+
+Note: I removed the `Visual Aids` parameter as it is marked as optional, and per your instructions, not applicable parameters should be removed.

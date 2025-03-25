@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+    "Sedation and Analgesia Administration": {
+        "parameters": [
+            {"Indication": {"options": ["patient discomfort", "anxiety", "pain"]}},
+            {"Medication": {"options": ["sedatives (e.g. midazolam, diazepam)", "analgesics (e.g. morphine, fentanyl)"]}},
+            {"Dose": {}},
+            {"Route": {"options": ["IV", "IM", "PO"]}},
+            {"Frequency": {"options": ["PRN", "scheduled"]}},
+            {"Monitoring": {"options": ["vital signs", "oxygen saturation"]}}
+        ]
+    }
+}

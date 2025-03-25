@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Communication Guidance",
+    "parameters": [
+        {
+            "name": "communication type",
+            "type": "options"
+        },
+        {
+            "name": "guidance",
+            "type": "text"
+        },
+        {
+            "name": "examples",
+            "type": "list"
+        }
+    ]
+}

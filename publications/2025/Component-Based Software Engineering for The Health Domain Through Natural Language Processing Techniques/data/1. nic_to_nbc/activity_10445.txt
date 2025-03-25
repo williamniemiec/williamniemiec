@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Log": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Position": {"Type": "options"},
+      "Devices Used": {"Type": "options"},
+      "Frequency": {"Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"Type": "datetime"}
+    }
+  }
+}

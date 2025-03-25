@@ -1,0 +1,41 @@
+Here is the output in JSON format:
+
+
+{
+    "Instruction": {
+        "parameters": {
+            "name": "Maintain universal precautions",
+            "content": "(text or multimedia content)",
+            "type": "text" || "video"
+        }
+    },
+    "Video Demonstration": {
+        "parameters": {
+            "name": "Universal precautions demonstration",
+            "videos": "(list of video demonstrations)",
+            "type": "video"
+        }
+    },
+    "Interactive Guide": {
+        "parameters": {
+            "name": "Universal precautions guide",
+            "pages": "(list of interactive pages)",
+            "type": "interactive-page"
+        }
+    },
+    "Checklist": {
+        "parameters": {
+            "name": "Universal precautions checklist",
+            "items": "(list of steps to follow)",
+            "type": "checklist"
+        }
+    },
+    "Reminder": {
+        "parameters": {
+            "name": "Universal precautions reminder",
+            "message": "(customizable message)",
+            "frequency": "(customizable frequency)",
+            "type": "reminder"
+        }
+    }
+}

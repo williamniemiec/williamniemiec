@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Mentor Match": {
+    "Youth Interests": {"type": "options", "options": ["sports", "music", "art", "reading", "volunteering", "other"], "required": true},
+    "Mentor Preferences": {"type": "options", "options": ["age range", "gender", "occupation", "interests", "other"], "required": true},
+    "Mentor Matching": {"type": "text/html", "required": true},
+    "Communication Platform": {"type": "text/html", "required": true},
+    "Meeting Schedule": {"type": "datetime", "required": true},
+    "Reflection Questions": {"type": "text", "required": true},
+    "Mentor Feedback": {"type": "text", "required": true}
+  }
+}

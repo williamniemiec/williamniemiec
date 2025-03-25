@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Medication Prescriber",
+    "parameters": [
+        {
+            "name": "patient_info"
+        },
+        {
+            "name": "medication_options"
+        },
+        {
+            "name": "prescription_details"
+        },
+        {
+            "name": "protocol"
+        }
+    ]
+}

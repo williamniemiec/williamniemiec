@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Pacifier Guidance": {
+        "Parameters": {
+            "Condition": {"Type": "text"},
+            "Instructions": {"Type": "text"},
+            "Frequency": {"Options": ["afterEveryFeeding", "custom"]},
+            "Duration": {"Type": "text"}
+        }
+    }
+}

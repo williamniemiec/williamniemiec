@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Past Health History": {
+    "Medical Conditions": {"type": "list of text"},
+    "Surgeries": {"type": "list of text"},
+    "Allergies": {"type": "list of text"},
+    "Medications": {"type": "list of text"},
+    "Other Relevant History": {"type": "text"}
+  }
+}

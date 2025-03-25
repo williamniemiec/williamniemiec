@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Trend Analyzer": {
+    "Parameters": {
+      "lab_tests": "",
+      "result_values": "",
+      "trend_type": "",
+      "analysis_period": "",
+      "thresholds": ""
+    }
+  }
+}

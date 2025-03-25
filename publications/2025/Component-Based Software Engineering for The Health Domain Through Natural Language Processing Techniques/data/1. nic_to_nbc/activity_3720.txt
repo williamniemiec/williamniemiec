@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Nausea Impact Assessment": {
+    "Parameters": {
+      "Name": {},
+      "Domains": {},
+      "Questions": {},
+      "Answer Type": {},
+      "Scale": {},
+      "Frequency": {}
+    }
+  }
+}

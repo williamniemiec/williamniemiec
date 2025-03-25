@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "application timing",
+  "parameters": [
+    {
+      "name": "application_type"
+    },
+    {
+      "name": "timing_method"
+    },
+    {
+      "name": "duration"
+    },
+    {
+      "name": "frequency"
+    },
+    {
+      "name": "deadline_date"
+    },
+    {
+      "name": "reminders"
+    }
+  ]
+}

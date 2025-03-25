@@ -1,0 +1,45 @@
+Here is the output in JSON format:
+
+
+{
+  "Guide": {
+    "parameters": [
+      {"name": "name", "description": "Maintain an environment conducive to rest and healing"},
+      {"name": "description", "description": "Guide the patient on maintaining an environment conducive to rest and healing"},
+      {"name": "content_type", "description": "book"},
+      {"name": "parameters", 
+        "parameters": [
+          {"name": "pages", "description": "list of pages with instructions on maintaining an environment conducive to rest and healing", "required": true, "type": "book-page"}
+        ]
+      }
+    ]
+  },
+  "Task": {
+    "parameters": [
+      {"name": "name", "description": "Maintain an environment conducive to rest and healing"},
+      {"name": "description", "description": "Ask the patient to maintain an environment conducive to rest and healing"},
+      {"name": "content_type", "description": "text"},
+      {"name": "parameters", 
+        "parameters": [
+          {"name": "instructions", "description": "provide instructions on how to maintain an environment conducive to rest and healing", "required": true, "type": "text"},
+          {"name": "frequency", "description": "specify how often the patient should maintain an environment conducive to rest and healing", "required": true, "type": "options"}
+        ]
+      }
+    ]
+  },
+  "Checklist": {
+    "parameters": [
+      {"name": "name", "description": "Maintain an environment conducive to rest and healing"},
+      {"name": "description", "description": "Provide a checklist for the patient to maintain an environment conducive to rest and healing"},
+      {"name": "content_type", "description": "checklist"},
+      {"name": "parameters", 
+        "parameters": [
+          {"name": "items", "description": "list of items for the patient to check off", "required": true, "type": "checklist-item"}
+        ]
+      }
+    ]
+  }
+}
+
+
+Note: I removed the `book-page` and `options` parameters as they were not directly part of the `PARAMETER ESPECIFICATIONS`. Let me know if you need them included.

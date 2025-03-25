@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Incontinence Episode Tracker": {
+    "Episode Date and Time": {"Description": "When did the incontinence episode occur?", "Type": "datetime", "Required": true},
+    "Trigger": {"Description": "What triggered the incontinence episode?", "Type": "options", "Options": [{"value": "coughing", "label": "Coughing"}, {"value": "sneezing", "label": "Sneezing"}, {"value": "laughing", "label": "Laughing"}, {"value": "lifting", "label": "Lifting"}, {"value": "bending", "label": "Bending"}, {"value": "other", "label": "Other"}], "Required": true},
+    "Fluid Intake": {"Description": "How much fluid did you drink before the episode?", "Type": "text", "Required": false},
+    "Medications": {"Description": "What medications did you take before the episode?", "Type": "text", "Required": false},
+    "Activity": {"Description": "What was your activity level before the episode?", "Type": "options", "Options": [{"value": "sedentary", "label": "Sedentary"}, {"value": "light", "label": "Light"}, {"value": "moderate", "label": "Moderate"}, {"value": "heavy", "label": "Heavy"}], "Required": false},
+    "Other Factors": {"Description": "Are there any other factors that may have contributed to the episode?", "Type": "text", "Required": false},
+    "Notes": {"Description": "Additional notes about the incontinence episode", "Type": "text", "Required": false}
+  }
+}

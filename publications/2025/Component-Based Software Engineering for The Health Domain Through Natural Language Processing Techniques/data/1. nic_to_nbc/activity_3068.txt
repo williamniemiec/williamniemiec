@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Eye Contact Guidance": {
+    "En Face Positioning Instructions": {},
+    "Room Preparation Tips": {},
+    "Video Demonstration": {},
+    "Tips for Eye Contact": {},
+    "Duration": {}
+  }
+}

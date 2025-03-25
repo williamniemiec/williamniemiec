@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "NO-CODE ELEMENT NAME": "",
+  "PARAMETER ESPECIFICATIONS": {
+    "1": "National Suicide Prevention Lifeline (in the United States): 1-800-273-TALK (8255)",
+    "2": "Crisis Text Line (in the United States): Text HOME to 741741",
+    "3": "Your immediate healthcare provider or a therapist",
+    "4": "Local mental health resources and emergency services"
+  }
+}

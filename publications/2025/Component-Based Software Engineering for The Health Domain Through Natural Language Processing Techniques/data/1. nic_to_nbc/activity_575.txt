@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Application": {
+    "Parameters": {
+      "Medication Name": {"Type": "text"},
+      "Type": {"Type": "options"},
+      "Instructions": {"Type": "text"},
+      "Frequency": {"Type": "options"},
+      "Dosage": {"Type": "text"},
+      "Area": {"Type": "text"}
+    }
+  }
+}
+
+
+I removed the `Deadline Date` parameter as it has a type of `datetime`, which is not applicable in this context. Let me know if you need any further assistance!

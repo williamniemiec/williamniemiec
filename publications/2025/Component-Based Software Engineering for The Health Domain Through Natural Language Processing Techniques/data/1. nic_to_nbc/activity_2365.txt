@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "task setup instruction": {
+    "parameters": [
+      {"name": "Task Type", "type": "options"},
+      {"name": "Setup Tasks", "type": "checkbox or multi-select"},
+      {"name": "Assisting Person", "type": "options"},
+      {"name": "Frequency", "type": "options"},
+      {"name": "Individual Needs", "type": "text or checkbox"}
+    ]
+  }
+}

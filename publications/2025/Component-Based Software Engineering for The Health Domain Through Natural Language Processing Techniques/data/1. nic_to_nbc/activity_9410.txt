@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Symptom Checker": {
+    "Name": {},
+    "Symptom List": {},
+    "Frequency": {},
+    "Deadline Date": {},
+    "Severity Scale": {},
+    "Additional Notes": {}
+  }
+}

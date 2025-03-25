@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+    "Oral Cleaning Reminders": {
+        "Instructions": {"Type": "text"},
+        "Frequency": {"Type": "options"},
+        "Reminders": {"Type": "boolean"},
+        "Oral Cleaning Options": {"Type": "list of options"},
+        "Tracking": {"Type": "boolean"}
+    }
+}

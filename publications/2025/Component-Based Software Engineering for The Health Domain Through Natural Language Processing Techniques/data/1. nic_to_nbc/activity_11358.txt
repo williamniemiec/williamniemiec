@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Motivational Feedback": {
+    "Parameters": {
+      "Title": {},
+      "Feedback Type": {},
+      "Feedback Message": {},
+      "Trigger": {},
+      "Frequency": {},
+      "Personalization": {}
+    }
+  }
+}

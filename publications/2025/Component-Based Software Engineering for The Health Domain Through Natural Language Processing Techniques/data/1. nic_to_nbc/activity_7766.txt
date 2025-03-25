@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Relaxation Prompt": {
+    "Parameters": {
+      "prompt title": {},
+      "Content": {},
+      "Frequency": {}
+    }
+  }
+}

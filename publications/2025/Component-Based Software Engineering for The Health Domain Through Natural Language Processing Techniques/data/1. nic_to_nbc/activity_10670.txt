@@ -1,0 +1,32 @@
+Here is the output in JSON format:
+
+
+{
+  "Vital Sign Tracking": {
+    "Parameters": {
+      "Vital Sign": {
+        "Description": "Specify the vital sign to be tracked (e.g. gravity drip rate or pump rate)",
+        "Required": true,
+        "Type": "text"
+      },
+      "Frequency": {
+        "Description": "Specify how often the vital sign should be tracked",
+        "Required": true,
+        "Type": "options",
+        "Options": [
+          {"value": "everyHour", "label": "Every hour"},
+          {"value": "every2Hours", "label": "Every 2 hours"},
+          {"value": "every4Hours", "label": "Every 4 hours"}
+        ]
+      },
+      "Value": {
+        "Description": "Record the value of the vital sign",
+        "Required": true,
+        "Type": "number"
+      }
+    }
+  }
+}
+
+
+Note that I removed the `Deadline Date` parameter since it was marked as not required. Let me know if you have any further questions!

@@ -1,0 +1,40 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "discussion",
+    "parameters": [
+        { 
+            "name": "topic", 
+            "type": "text"
+        },
+        { 
+            "name": "questions", 
+            "type": "list of questions",
+            "questions": [
+                { 
+                    "text": "What are your concerns about sexual dysfunction?", 
+                    "type": "text"
+                },
+                { 
+                    "text": "How has your sexual function been affected by your treatment?", 
+                    "type": "text"
+                }
+            ]
+        },
+        { 
+            "name": "resources", 
+            "type": "list of resources",
+            "resources": [
+                { 
+                    "text": "Educational brochure on sexual dysfunction", 
+                    "type": "text"
+                },
+                { 
+                    "text": "Support group for patients with sexual dysfunction", 
+                    "type": "text"
+                }
+            ]
+        }
+    ]
+}

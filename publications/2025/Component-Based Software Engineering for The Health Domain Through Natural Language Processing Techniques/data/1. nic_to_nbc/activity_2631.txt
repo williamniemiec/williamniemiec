@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Paired Stimuli Identification": {
+    "Parameters": {
+      "Paired Stimuli": {},
+      "Habitual Behavior": {},
+      "Stimulus Description": {},
+      "Behavior Description": {},
+      "Association": {}
+    }
+  }
+}

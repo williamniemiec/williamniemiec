@@ -1,0 +1,29 @@
+Here is the output in JSON format:
+
+
+{
+  "Symptom Checker": {
+    "parameters": {
+      "name": {},
+      "symptoms": [
+        {
+          "name": {},
+          "description": {},
+          "severity_levels": [
+            {
+              "label": {},
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "frequency": {
+        "options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+      },
+      "deadline_date": {
+        "type": "datetime"
+      },
+      "action_plan": {}
+    }
+  }
+}

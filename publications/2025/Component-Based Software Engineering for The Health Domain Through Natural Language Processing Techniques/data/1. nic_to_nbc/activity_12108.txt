@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Parameter Specifications": {
+    "Name": {"Type": "text"},
+    "Object Types": {"Type": "options"},
+    "Stability Steps": {"Type": "interactive checklist"},
+    "Room-by-Room Guide": {"Type": "interactive checklist"},
+    "Frequency": {"Type": "options"},
+    "Deadline Date": {"Type": "datetime"}
+  },
+  "No-code Element Name": "Environmental Stability Guide"
+}
+
+
+I removed the unnecessary parts of the text and kept only the `Parameter Specifications` and `No-code Element Name`. I also formatted it in a JSON object with key-value pairs. Let me know if you need any further modifications!

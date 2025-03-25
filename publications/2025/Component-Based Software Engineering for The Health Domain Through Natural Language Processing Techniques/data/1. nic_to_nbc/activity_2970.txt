@@ -1,0 +1,29 @@
+Here is the output in JSON format:
+
+
+{
+  "Bathroom Observation": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Observation Schedule": {
+        "Type": "unordered list",
+        "Properties": {
+          "Observation Time": {"Type": "datetime"},
+          "Meal/Snack Type": {"Type": "text"}
+        }
+      },
+      "Observation Questions": {
+        "Type": "unordered list",
+        "Properties": {
+          "Question": {"Type": "text"},
+          "Answer Type": {
+            "Type": "options",
+            "Options": ["yes/no", "text", "number"]
+          }
+        }
+      },
+      "Notes": {"Type": "text"},
+      "Deadline Date": {"Type": "datetime"}
+    }
+  }
+}

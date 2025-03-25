@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+    "Reality Orientation": {
+        "Orientation Questions": {"type": "unordered list", "example": ["What is your name?", "Where are you?", "What day is it?", "What time is it?"]},
+        "Reality Checks": {"type": "unordered list", "example": ["Look around you and describe what you see", "Listen to the sounds around you and describe what you hear", "Touch your surroundings and describe what you feel"]},
+        "Cognitive Exercises": {"type": "unordered list", "example": ["Memory games", "Puzzles", "Word searches"]},
+        "Frequency": {"type": "options", "options": ["Daily", "Twice a day", "Three times a day", "As needed"]},
+        "Resources": {"type": "link or PDF"}
+    }
+}

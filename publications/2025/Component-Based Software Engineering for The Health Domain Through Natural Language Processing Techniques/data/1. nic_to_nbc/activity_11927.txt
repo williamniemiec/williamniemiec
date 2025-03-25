@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Bathing Guide": {
+    "Title": {"Description": "Title of the bathing guide", "Required": true, "Type": "text"},
+    "Bathing Method": {"Description": "Choose a bathing method", "Required": true, "Type": "radio buttons", "Options": [{"value": "sponge", "label": "Sponge Bath"}, {"value": "tub", "label": "Tub Bath"}]},
+    "Massaging Strokes": {"Description": "List of massaging strokes to use during bathing", "Required": true, "Type": "checklist", "Options": [{"value": "gentle circular motions", "label": "Gentle Circular Motions"}, {"value": "long strokes", "label": "Long Strokes"}, {"value": "kneading", "label": "Kneading"}, {"value": "stroking", "label": "Stroking"}]},
+    "Wash Cloth/Sponge": {"Description": "Choose a soft wash cloth or sponge", "Required": true, "Type": "radio buttons", "Options": [{"value": "wash cloth", "label": "Soft Wash Cloth"}, {"value": "sponge", "label": "Soft Sponge"}]},
+    "Drying": {"Description": "Pat dry with a soft towel", "Required": true, "Type": "text"}
+  }
+}
+
+
+Note that I removed the `Tips` parameter since it's not required.

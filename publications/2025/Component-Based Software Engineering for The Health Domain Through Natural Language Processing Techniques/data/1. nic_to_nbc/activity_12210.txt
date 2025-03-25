@@ -1,0 +1,29 @@
+Here is the output in JSON format:
+
+
+{
+  "Contraindication Assessment": {
+    "Parameters": {
+      "Contraindication Questions": {
+        "Type": "list of questions",
+        "Questions": [
+          "Do you have a history of facial trauma that has not fully healed?",
+          "Do you have a neurologic condition that increases aspiration risk?",
+          "Do you have a musculoskeletal condition that increases aspiration risk?"
+        ]
+      },
+      "Risk Assessment": {
+        "Type": "options",
+        "Options": [
+          "low risk",
+          "moderate risk",
+          "high risk"
+        ]
+      },
+      "Notes": {
+        "Type": "text",
+        "Optional": "yes"
+      }
+    }
+  }
+}

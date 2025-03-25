@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Discussion Guide": {
+    "Guide Title": {},
+    "Content": {},
+    "Questions": {},
+    "Frequency": {},
+    "Deadline Date": {}
+  }
+}

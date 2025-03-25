@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+    "Medication Prescription": {
+        "Parameters": {
+            "Medication Name": {"Type": "text"},
+            "Dosage": {"Type": "text"},
+            "Frequency": {"Type": "options", "Options": [
+                {"value": "daily", "label": "Daily"},
+                {"value": "twiceADay", "label": "Twice a day"},
+                {"value": "asNeeded", "label": "As needed"}
+            ]},
+            "Duration": {"Type": "text"},
+            "Refills": {"Type": "number"},
+            "Renewal Date": {"Type": "datetime"},
+            "Special Instructions": {"Type": "text"}
+        }
+    }
+}

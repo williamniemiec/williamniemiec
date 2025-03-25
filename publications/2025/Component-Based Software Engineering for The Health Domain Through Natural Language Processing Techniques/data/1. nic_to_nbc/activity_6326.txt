@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+  "Epinephrine Administration Guide": {
+    "parameters": {
+      "Name": "text, required",
+      "Dosing instructions": "text or html, required",
+      "Age-specific dosing": "options, required",
+      "Administration instructions": "text or html, required",
+      "Video tutorials": "list of video URLs, optional",
+      "Images or diagrams": "list of image URLs, optional",
+      "Medication information": "text or html, optional",
+      "Reminders": "list of reminder settings, optional"
+    }
+  }
+}
+
+
+I removed the introduction and conclusion sections, as well as the not applicable parameters. Let me know if this meets your requirements!

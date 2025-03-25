@@ -1,0 +1,34 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Guide",
+  "parameters": [
+    {
+      "name": "name",
+      "description": "guide title",
+      "required": true,
+      "type": "text"
+    },
+    {
+      "name": "pages",
+      "description": "list of pages",
+      "required": true,
+      "type": "book-page",
+      "book-page": [
+        {
+          "title": "Trial and Error Fitting",
+          "content": "HTML text explaining the trial and error fitting process"
+        },
+        {
+          "title": "Frequent Follow-up Visits",
+          "content": "HTML text explaining the importance of frequent follow-up visits"
+        },
+        {
+          "title": "Cleaning Procedures",
+          "content": "HTML text explaining the cleaning procedures for the pessary"
+        }
+      ]
+    }
+  ]
+}

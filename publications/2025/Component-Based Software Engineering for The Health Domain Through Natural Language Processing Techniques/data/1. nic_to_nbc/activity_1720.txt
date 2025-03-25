@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+
+{
+    "Non-Nutritive Sucking Guidance": {
+        "Instructions": {"type": "text"},
+        "Benefits": {"type": "text"},
+        "Frequency": {"options": ["afterEveryFeeding", "custom"]},
+        "Tips": {"type": "text"}
+    }
+}

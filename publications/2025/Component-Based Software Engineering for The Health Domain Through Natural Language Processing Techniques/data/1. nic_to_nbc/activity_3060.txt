@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+  "Constipation Prevention Plan": {
+    "parameters": [
+      {"name": "fluid_intake", "description": "Increase fluid intake to prevent constipation"},
+      {"name": "fiber_intake", "description": "Increase fiber intake to prevent constipation"},
+      {"name": "physical_activity", "description": "Engage in regular physical activity to prevent constipation"},
+      {"name": "medication", "description": "Take medication as prescribed to prevent constipation"},
+      {"name": "frequency", "description": "How often should you implement these actions"}
+    ]
+  },
+  "Gastric Irritation Prevention Plan": {
+    "parameters": [
+      {"name": "antacids", "description": "Take antacids as prescribed to prevent gastric irritation"},
+      {"name": "dietary_changes", "description": "Make dietary changes to prevent gastric irritation"},
+      {"name": "stress_reduction", "description": "Engage in stress-reducing activities to prevent gastric irritation"},
+      {"name": "frequency", "description": "How often should you implement these actions"}
+    ]
+  }
+}

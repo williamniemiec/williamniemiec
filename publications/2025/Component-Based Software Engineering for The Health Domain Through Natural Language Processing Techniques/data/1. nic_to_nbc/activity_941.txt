@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Stimulation Response Tracker": {
+    "parameters": {
+      "Response Type": {"type": "text or options"},
+      "Response Scale": {"type": "scale"},
+      "Notes": {"type": "text"},
+      "Frequency": {"type": "options"}
+    }
+  }
+}

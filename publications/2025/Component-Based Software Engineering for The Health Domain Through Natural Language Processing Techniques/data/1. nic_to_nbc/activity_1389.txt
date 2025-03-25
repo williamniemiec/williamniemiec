@@ -1,0 +1,10 @@
+Here is the output in JSON format:
+
+
+{
+    "Valsalva Avoidance": {
+        "Explanation": {"type": "text"},
+        "Activities to Avoid": {"type": "list of text"},
+        "Alternative Strategies": {"type": "list of text"}
+    }
+}

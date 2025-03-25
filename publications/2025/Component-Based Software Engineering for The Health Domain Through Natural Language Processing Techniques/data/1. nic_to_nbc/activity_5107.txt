@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "Airway Patency Guide": {
+    "parameters": {
+      "name": "",
+      "instructions": "",
+      "images": [],
+      "frequency": "",
+      "deadline_date": ""
+    }
+  },
+  "Airway Clearance Reminders": {
+    "parameters": {
+      "name": "",
+      "reminder message": "",
+      "frequency": "",
+      "deadline_date": ""
+    }
+  },
+  "Airway Patency Tracker": {
+    // removed as it had no parameters
+  }
+}

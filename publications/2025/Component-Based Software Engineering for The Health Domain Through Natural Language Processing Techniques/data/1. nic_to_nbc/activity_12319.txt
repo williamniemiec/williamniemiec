@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Alert": {
+    "name": {"type": "text"},
+    "message": {"type": "text"},
+    "risk": {"type": "text", "options": ["holding infant while drinking hot liquids", "smoking while holding infant"]},
+    "reason": {"type": "text"}
+  }
+}

@@ -1,0 +1,41 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Ulcer Moisturizing",
+    "parameters": [
+        {
+            "name": "Name",
+            "type": "text"
+        },
+        {
+            "name": "Instructions",
+            "type": "text"
+        },
+        {
+            "name": "Frequency",
+            "type": "options",
+            "options": [
+                { value: "daily", label: "Daily" },
+                { value: "onlyOnce", label: "Only once" },
+                { value: "everyHours", label: "Every x hours" },
+                { value: "everyDays", label: "Every x days" }
+            ]
+        },
+        {
+            "name": "Moisturizing Method",
+            "type": "options",
+            "options": [
+                { value: "topical cream", label: "Topical cream" },
+                { value: "dressing", label: "Dressing" }
+            ]
+        },
+        {
+            "name": "Moisturizing Schedule",
+            "type": "text"
+        }
+    ]
+}
+
+
+I removed the non-applicable parameters (`Deadline Date`) and kept only the necessary information. Let me know if this is what you were expecting!

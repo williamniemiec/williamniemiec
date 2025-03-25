@@ -1,0 +1,33 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Exit Interview",
+  "parameters": [
+    {
+      "name": "Reason for Termination",
+      "type": "text or selection from a list of reasons"
+    },
+    {
+      "name": "Meeting Type",
+      "type": "options",
+      "options": [
+        { value: "in-person", label: "In-Person" },
+        { value: "video conference", label: "Video Conference" },
+        { value: "phone call", label: "Phone Call" }
+      ]
+    },
+    {
+      "name": "Meeting Duration",
+      "type": "time interval"
+    },
+    {
+      "name": "Healthcare Professional",
+      "type": "selection from a list of healthcare professionals"
+    },
+    {
+      "name": "Meeting Notes",
+      "type": "text or list of notes"
+    }
+  ]
+}

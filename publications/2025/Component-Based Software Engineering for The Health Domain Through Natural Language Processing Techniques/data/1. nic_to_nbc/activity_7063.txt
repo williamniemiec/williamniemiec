@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+  "Safety Needs Assessment": {
+    "parameters": [
+      {"name": "security_needs", "description": "Do you feel secure in your environment?", "required": true, "type": "boolean"},
+      {"name": "control_needs", "description": "Do you feel in control of your environment?", "required": true, "type": "boolean"},
+      {"name": "familiarity_needs", "description": "Do you feel familiar with your environment?", "required": true, "type": "boolean"}
+    ]
+  },
+  "Safety Planning": {
+    "parameters": [
+      {"name": "safety_plan", "description": "View safety plan", "required": true, "type": "guide-page", "guide-page": "list of HTML texts"}
+    ]
+  },
+  "Environmental Modifications": {
+    "parameters": [
+      {"name": "modifications", "description": "View environmental modifications", "required": true, "type": "guide-page", "guide-page": "list of HTML texts"}
+    ]
+  },
+  "Caregiver Support": {
+    "parameters": [
+      {"name": "caregiver_name", "description": "Enter the name of your caregiver", "required": true, "type": "text"},
+      {"name": "support_type", "description": "Select the type of support (e.g., chat, video call)", "required": true, "type": "options", "options": [{"value": "chat", "label": "Chat"}, {"value": "videoCall", "label": "Video Call"}]}
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Therapy Animal Observation": {
+        "Parameters": {
+            "Title": "",
+            "Video/Stream": "",
+            "Duration": "",
+            "Frequency": ""
+        }
+    }
+}

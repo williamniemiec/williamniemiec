@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Decision Support": {
+    "Alternatives": {"type": "list of text"},
+    "Advantages": {"type": "list of text"},
+    "Disadvantages": {"type": "list of text"},
+    "Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"type": "datetime"}
+  }
+}

@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+  "Progress Tracker": {
+    "Parameters": {
+      "Name": {
+        "Type": "text"
+      },
+      "Frequency": {
+        "Options": ["daily", "weekly", "monthly", "custom"]
+      },
+      "Tracking Type": {
+        "Type": "options"
+      },
+      "Units": {
+        "Type": "options"
+      },
+      "Goal": {
+        "Type": "text or numeric value"
+      },
+      "Notes": {
+        "Type": "text"
+      }
+    }
+  }
+}

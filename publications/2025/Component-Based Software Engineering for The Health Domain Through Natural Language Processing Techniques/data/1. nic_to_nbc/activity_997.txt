@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+
+{
+  "Education on Compression Stockings": {
+    "Instruction": {"type": "text"},
+    "Content": {"type": ["text", "multimedia"]},
+    "Target Audience": {"type": "text"},
+    "Additional Resources": {"type": ["text", "multimedia"]}
+  }
+}
+
+Let me know if you need anything else!

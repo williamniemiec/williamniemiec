@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+    "Infection Prevention Guide": {
+        "Parameters": {
+            "Name": {"Type": "text"},
+            "Risk Factors": {"Type": "unordered list"},
+            "Prevention Measures": {"Type": "unordered list"},
+            "Personalized Tips": {"Type": "text"},
+            "Frequency of Monitoring": {"Type": "options"},
+            "Deadline Date": {"Type": "datetime"},
+            "Resources": {"Type": "links or attachments"}
+        }
+    }
+}

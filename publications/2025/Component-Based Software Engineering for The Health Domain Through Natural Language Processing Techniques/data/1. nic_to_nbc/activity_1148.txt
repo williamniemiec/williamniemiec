@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Cultural Practice Assessment": {
+    "Parameters": {
+      "Cultural Practice": {
+        "Type": "text"
+      },
+      "Health Impact": {
+        "Type": "text"
+      },
+      "Patient Perspective": {
+        "Type": "text or form"
+      },
+      "Informed Choice": {
+        "Type": "text, video, or resource link"
+      }
+    }
+  }
+}

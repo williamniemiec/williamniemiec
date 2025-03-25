@@ -1,0 +1,33 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Measurement": {
+    "Parameters": {
+      "Medication Name": {"Type": "text"},
+      "Measurement Unit": {"Type": "options"},
+      "Measurement Value": {"Type": "number"},
+      "Measurement Device": {"Type": "options"}
+    }
+  },
+  "Medication Identification": {
+    "Parameters": {
+      "Medication Name": {"Type": "text"}
+    }
+  },
+  "Measurement Unit Selection": {
+    "Parameters": {
+      "Measurement Unit": {"Type": "options"}
+    }
+  },
+  "Measurement Value Entry": {
+    "Parameters": {
+      "Measurement Value": {"Type": "number"}
+    }
+  },
+  "Measurement Device Identification": {
+    "Parameters": {
+      "Measurement Device": {"Type": "options"}
+    }
+  }
+}

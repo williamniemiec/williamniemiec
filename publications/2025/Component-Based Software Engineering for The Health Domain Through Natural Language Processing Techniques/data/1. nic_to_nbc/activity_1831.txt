@@ -1,0 +1,32 @@
+Here is the output in JSON format:
+
+
+{
+  "Inhalation Spacing Guidance": {
+    "Waiting Instruction": {
+      "type": "text or video",
+      "example": "If you have been prescribed two metered-dose inhalers, wait [insert time interval] between inhalations."
+    },
+    "Waiting Time Interval": {
+      "type": "text or numeric value",
+      "example": "30 seconds" or "1 minute"
+    },
+    "Agency Protocol Reference": {
+      "type": "text or hyperlink",
+      "example": "Per agency protocol #1234, wait 30 seconds between inhalations."
+    },
+    "Audio Cue": {
+      "type": "audio file",
+      "example": "A gentle, soothing voice that says \"Wait 30 seconds before taking your next inhalation.\""
+    },
+    "Frequency": {
+      "options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+    },
+    "Deadline Date": {
+      "type": "datetime"
+    }
+  }
+}
+
+
+Note: I removed the `INTRODUCTION` and `CONCLUSION` sections, as well as the `NUMBER` section, which was not present in the input text. I also removed any parameters that were marked as "Not Applicable". Let me know if you have any further questions or need any additional assistance!

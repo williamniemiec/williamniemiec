@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Resource": {
+    "name": "National Kidney Foundation (NKF)",
+    "description": "A brief description of the organization or resource",
+    "link": "A URL or link to the organization's website or resource",
+    "type": "website"
+  }
+}

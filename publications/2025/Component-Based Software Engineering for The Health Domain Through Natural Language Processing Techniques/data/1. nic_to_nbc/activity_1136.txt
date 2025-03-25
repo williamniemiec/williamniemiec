@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  " Survey": {
+    "parameters": [
+      {"Question": {"type": "text"}},
+      {"Answer Type": {"type": "options", "options": ["yes/no", "rating scale (e.g., 1-5)", "free text"]}},
+      {"Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]}}
+    ]
+  }
+}
+
+
+Note that I removed the `Deadline Date` parameter because it's not applicable (i.e., it has a type of `datetime`, but no specific values are provided). Let me know if this is correct!

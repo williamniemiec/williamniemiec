@@ -1,0 +1,5 @@
+Since there is no no-code element associated with this intervention, the output would be an empty JSON object:
+
+{}
+
+Please note that there are no parameters or no-code element names to extract from the provided text. If you have any further questions or clarifications, I'd be happy to help!

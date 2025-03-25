@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+    "Sensory Stimulation": {
+        "Parameters": {
+            "Name": {"Type": "text"},
+            "Senses": {"Type": "options", "Options": [{"value": "auditory", "label": "Auditory"}, {"value": "visual", "label": "Visual"}, {"value": "olfactory", "label": "Olfactory"}, {"value": "tactile", "label": "Tactile"}, {"value": "gustatory", "label": "Gustatory"}]},
+            "Props": {
+                "Auditory": [{"value": "music", "label": "Music"}, {"value": "natureSounds", "label": "Nature Sounds"}],
+                "Visual": [{"value": "photoAlbums", "label": "Photo Albums"}, {"value": "videos", "label": "Videos"}],
+                "Olfactory": [{"value": "perfume", "label": "Perfume"}, {"value": "essentialOils", "label": "Essential Oils"}],
+                "Tactile": [{"value": "textures", "label": "Textures"}, {"value": "objects", "label": "Objects"}],
+                "Gustatory": [{"value": "food", "label": "Food"}, {"value": "drinks", "label": "Drinks"}]
+            },
+            "Selection": {
+                "Auditory": {"Type": "multi-select option"},
+                "Visual": {"Type": "multi-select option"},
+                "Olfactory": {"Type": "multi-select option"},
+                "Tactile": {"Type": "multi-select option"},
+                "Gustatory": {"Type": "multi-select option"}
+            },
+            "Instructions": {"Type": "text"}
+        }
+    }
+}

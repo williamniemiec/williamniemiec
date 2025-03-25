@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Affirmation": {
+    "Parameters": {
+      "Message": {"Type": "text"},
+      "Frequency": {"Type": "options", "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"Type": "datetime"},
+      "Type": {"Type": "options", "Options": ["motivational", "inspirational", "calming", "encouraging", "etc."]},
+      "Custom Message": {"Type": "text"}
+    }
+  }
+}

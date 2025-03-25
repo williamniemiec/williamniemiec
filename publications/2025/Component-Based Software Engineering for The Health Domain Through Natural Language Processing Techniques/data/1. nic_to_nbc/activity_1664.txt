@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Program Goal": {
+    "Goal Statement": {"type": "text"},
+    "Goal Type": {"type": "options", "values": ["short-term", "long-term", "measurable", "etc."]},
+    "Target Outcome": {"type": "text"},
+    "Measurement Criteria": {"type": "text"},
+    "Priority": {"type": "options", "values": ["high", "medium", "low"]}
+  }
+}

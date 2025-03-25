@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+    "Call Process Information": {
+        "content": "text or audio message explaining the call process",
+        "Content Type": "text or audio"
+    },
+    "Consent": {
+        "consent_text": "text explaining the purpose and scope of the call",
+        "consent_type": "type of consent (e.g., verbal, written)",
+        "consent_response": "patient's response to the consent request (e.g., yes, no)",
+        "Content Type": "form"
+    }
+}
+
+
+Let me know if this is what you were expecting!

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Dressing Instruction": {
+    "Parameters": {
+      "Name": {},
+      "Content": {},
+      "Image": {},
+      "Frequency": {},
+      "Deadline Date": {}
+    }
+  }
+}

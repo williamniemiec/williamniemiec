@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Brainstorming": {
+    "parameters": {
+      "Prompt": {"type": "text"},
+      "Solution Type": {"type": "options", "options": ["ideas", "actions", "goals", "etc."]},
+      "Number of Solutions": {"type": "number"},
+      "Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"type": "datetime"}
+    }
+  }
+}

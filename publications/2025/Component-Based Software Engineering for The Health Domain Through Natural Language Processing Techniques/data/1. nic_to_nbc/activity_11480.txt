@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+
+{
+    "Addendum Report": {
+        "Parameters": {
+            "Title": {"Type": "text"},
+            "Content": {"Type": "text or rich text"},
+            "Date": {"Type": "datetime"},
+            "Attachments": {"Type": "file or image"}
+        }
+    }
+}

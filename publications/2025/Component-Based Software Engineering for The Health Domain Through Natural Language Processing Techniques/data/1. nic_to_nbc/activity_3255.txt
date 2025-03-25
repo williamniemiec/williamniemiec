@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Resource Directory": {
+    "Parameters": []
+  },
+  "Hotline": {
+    "Parameters": [
+      {"Phone Number": {"Type": "text"}},
+      {"Additional Information": {"Type": "text"}}
+    ]
+  }
+}

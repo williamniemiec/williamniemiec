@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Encopresis Insights": {
+    "Pages": {
+      "Description": "List of pages with educational content about psychosocial dynamics of encopresis",
+      "Required": true,
+      "Type": "book-page"
+    },
+    "Resources": {
+      "Description": "List of additional resources for parents to learn more about psychosocial dynamics of encopresis",
+      "Required": false,
+      "Type": "list"
+    }
+  }
+}

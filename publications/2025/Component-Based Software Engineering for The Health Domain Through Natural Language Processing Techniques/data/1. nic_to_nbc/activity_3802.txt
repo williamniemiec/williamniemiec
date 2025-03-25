@@ -1,0 +1,31 @@
+Here is the output in JSON format:
+
+
+{
+  "Electrolyte Therapy Monitoring": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Electrolyte Type": {"Type": "options", "Options": [
+        {"value": "sodium", "label": "Sodium"},
+        {"value": "potassium", "label": "Potassium"},
+        {"value": "calcium", "label": "Calcium"},
+        {"value": "other", "label": "Other (please specify)"}
+      ]},
+      "Monitoring Frequency": {"Type": "options", "Options": [
+        {"value": "daily", "label": "Daily"},
+        {"value": "onlyOnce", "label": "Only once"},
+        {"value": "everyHours", "label": "Every x hours"},
+        {"value": "everyDays", "label": "Every x days"}
+      ]},
+      "Response Tracking": {"Type": "form", "Fields": [
+        {"label": "Symptoms", "type": "text"},
+        {"label": "Lab Results", "type": "number"},
+        {"label": "Notes", "type": "text"}
+      ]},
+      "Deadline Date": {"Type": "datetime"},
+      "Notes": {"Type": "text"}
+    }
+  }
+}
+
+I removed all the unnecessary text and only kept the `{{ NO-CODE ELEMENT NAME }}` and `{{ PARAMETER ESPECIFICATIONS }}`. I also formatted the output as a JSON object. Let me know if you need any further assistance!

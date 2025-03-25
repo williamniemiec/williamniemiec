@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Vital Signs Tracker": {
+    "Blood Pressure": {},
+    "Heart Rate": {},
+    "Respiratory Rate": {},
+    "Body Temperature": {},
+    "Oxygen Saturation": {},
+    "Monitoring Frequency": {},
+    "Alert Thresholds": {}
+  }
+}

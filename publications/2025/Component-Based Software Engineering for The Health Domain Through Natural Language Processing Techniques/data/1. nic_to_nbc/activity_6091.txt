@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Family Support Network": {
+    "parameters": {
+      "Family Member/Significant Other": {"type": "text"},
+      "Role": {"type": "options"},
+      "Communication Preferences": {"type": "options"},
+      "Support Tasks": {"type": "list of tasks"}
+    }
+  }
+}

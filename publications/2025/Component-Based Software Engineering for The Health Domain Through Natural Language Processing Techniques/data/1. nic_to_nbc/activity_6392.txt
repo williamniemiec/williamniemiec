@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Sterile Technique Guidance": {
+    "parameters": {
+      "Sterile Equipment": {},
+      "Hand Hygiene": {},
+      "Environmental Preparation": {},
+      "Procedure": {},
+      "Precautions": {}
+    }
+  }
+}

@@ -1,0 +1,9 @@
+Here is the output in JSON format:
+
+
+{
+  "Clothing Selection": {
+    "Prompt": {"Description": "Prompt or question to encourage the patient to select their clothing", "Required": true, "Type": "text"},
+    "Frequency": {"Description": "Specify how often the patient should be prompted to select their clothing", "Required": true, "Type": "options", "Options": [{"value": "daily", "label": "Daily"}, {"value": "onlyOnce", "label": "Only once"}, {"value": "everyHours", "label": "Every x hours"}, {"value": "everyDays", "label": "Every x days"}]}
+  }
+}

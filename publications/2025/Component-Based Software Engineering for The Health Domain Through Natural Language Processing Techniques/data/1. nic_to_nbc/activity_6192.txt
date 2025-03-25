@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Pain Level Tracker": {
+    "Parameters": {
+      "Pain Scale": {"Type": "options"},
+      "Frequency": {"Type": "options"},
+      "Notes": {"Type": "text"}
+    }
+  }
+}

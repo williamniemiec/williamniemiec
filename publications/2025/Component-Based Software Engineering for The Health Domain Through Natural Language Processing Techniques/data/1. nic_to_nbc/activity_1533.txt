@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Discharge Instructions": {
+    "Parameters": {
+      "Title": {"Type": "text"},
+      "Instructions": {"Type": "text"},
+      "Exercise Plan": {"Type": "text"},
+      "Precautions": {"Type": "text"},
+      "Follow-up": {"Type": "text"}
+    }
+  }
+}
+
+
+Note: I removed the `Downloadable PDF` parameter as it has a type of `boolean`, which is not applicable in this context.

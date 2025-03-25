@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Referral to Eye Specialist": {
+    "Name": {"type": "text"},
+    "Reason for Referral": {"type": "text"},
+    "Eye Specialist Information": {"type": "text"},
+    "Appointment Details": {"type": "text"},
+    "Referral Status": {"type": "options", "options": ["pending", "completed", "cancelled"]},
+    "Deadline Date": {"type": "datetime"}
+  }
+}

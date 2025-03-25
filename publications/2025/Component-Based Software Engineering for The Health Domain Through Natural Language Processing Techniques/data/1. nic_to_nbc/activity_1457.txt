@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Cradle Gym Positioning": {
+    "Parameters": [
+      {"Name": "Positioning Activity", "Description": "Title of the positioning activity"},
+      {"Name": "Objective", "Description": "What the activity aims to achieve (e.g. promote development)"},
+      {"Name": "Instructions", "Description": "How to position the infant on back under cradle gym"},
+      {"Name": "Cradle Gym Setup", "Description": "How to set up the cradle gym for the activity"},
+      {"Name": "Duration", "Description": "How long the infant should be positioned under the cradle gym"},
+      {"Name": "Frequency", "Description": "How often the activity should be performed"}
+    ]
+  }
+}

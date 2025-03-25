@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Reminiscence Guide": {
+    "title": {},
+    "pages": {},
+    "target_audience": {},
+    "delivery_method": {}
+  }
+}

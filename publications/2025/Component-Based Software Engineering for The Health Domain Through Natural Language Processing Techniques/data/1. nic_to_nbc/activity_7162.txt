@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+  "Dietary Education": {
+    "parameters": {
+      "Dietary Modifications": {
+        "type": "list",
+        "example": [
+          {"modification": "Increase potassium intake", "reason": "To help manage electrolyte imbalance"},
+          {"modification": "Reduce sodium consumption", "reason": "To lower blood pressure"},
+          {"modification": "Choose low-carbohydrate foods", "reason": "To manage blood sugar levels"}
+        ]
+      },
+      "Education Resources": {
+        "type": "text",
+        "example": "Watch our video on healthy eating for electrolyte imbalance" or "Download our guide to low-sodium cooking"
+      },
+      "Family Involvement": {
+        "type": "boolean"
+      },
+      "Follow-up": {
+        "type": "boolean"
+      }
+    }
+  }
+}

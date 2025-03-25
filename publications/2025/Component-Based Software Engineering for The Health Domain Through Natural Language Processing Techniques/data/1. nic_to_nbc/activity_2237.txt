@@ -1,0 +1,10 @@
+Here is the output in JSON format:
+
+
+{
+  "Care Team": {
+    "Provider List": {"type": "list of text or provider IDs"},
+    "Interaction Type": {"type": "options", "options": ["appointment", "phone call", "message", "other"]},
+    "Frequency": {"type": "options", "options": ["daily", "weekly", "monthly", "as needed"]}
+  }
+}

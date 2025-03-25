@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Care Discussion": {
+        "Parameters": {
+            "Care Plan": {"Type": "text"},
+            "Responsible Person": {"Type": "text"},
+            "Discussion Topics": {"Type": "list of options"},
+            "Care Instructions": {"Type": "text"},
+            "Questions/Concerns": {"Type": "text"}
+        }
+    }
+}

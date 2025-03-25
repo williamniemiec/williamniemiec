@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "Scalp Treatment": {
+    "Treatment Name": {},
+    "Oil Type": {
+      "options": [
+        {"value": "coconutOil", "label": "Coconut Oil"},
+        {"value": "oliveOil", "label": "Olive Oil"},
+        {"value": "jojobaOil", "label": "Jojoba Oil"},
+        {"value": "other", "label": "Other (please specify)"}
+      ]
+    },
+    "Frequency": {
+      "options": [
+        {"value": "daily", "label": "Daily"},
+        {"value": "everyOtherDay", "label": "Every other day"},
+        {"value": "twiceAWeek", "label": "Twice a week"},
+        {"value": "onceAWeek", "label": "Once a week"}
+      ]
+    }
+  }
+}

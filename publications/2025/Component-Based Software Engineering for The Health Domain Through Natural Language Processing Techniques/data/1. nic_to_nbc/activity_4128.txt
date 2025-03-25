@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Consent for Information Release": {
+    "Parameters": {
+      "Patient's Name": {"Type": "text"},
+      "Receiving Facility": {"Type": "text"},
+      "Information to be Released": {"Type": "options"},
+      "Purpose of Release": {"Type": "text"},
+      "Consent": {"Type": "digital signature"},
+      "Date and Time of Consent": {"Type": "datetime"}
+    }
+  }
+}

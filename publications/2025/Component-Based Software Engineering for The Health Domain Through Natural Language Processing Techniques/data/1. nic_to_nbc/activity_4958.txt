@@ -1,0 +1,40 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "catheter_sample_instruction",
+    "parameters": [
+        { 
+            "name": "manufacturer_instructions", 
+            "description": "provide manufacturer’s instructions for obtaining a sample", 
+            "required": true, 
+            "type": "text"
+        },
+        { 
+            "name": "catheter_type", 
+            "description": "specify the type of indwelling catheter", 
+            "required": true, 
+            "type": "text"
+        },
+        { 
+            "name": "sample_type", 
+            "description": "specify the type of sample to be obtained", 
+            "required": true, 
+            "type": "text"
+        },
+        { 
+            "name": "frequency", 
+            "description": "specify how often to remind the patient to obtain a sample", 
+            "required": true, 
+            "type": "options",
+            "options": [
+                { value: "daily", label: "Daily" },
+                { value: "everyHours", label: "Every x hours" },
+                { value: "everyDays", label: "Every x days" }
+            ]
+        }
+    ]
+}
+
+
+I removed the `deadline_date` parameter since it was marked as not required. Let me know if you need any further assistance!

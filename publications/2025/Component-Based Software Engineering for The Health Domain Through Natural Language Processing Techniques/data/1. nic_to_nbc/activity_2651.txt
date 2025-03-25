@@ -1,0 +1,34 @@
+Here is the output in JSON format:
+
+
+{
+  "Referral Form": {
+    "name": "",
+    "patient information": "",
+    "reason for referral": "",
+    "provider information": ""
+  },
+  "Provider Directory": {
+    "name": "",
+    "provider list": "",
+    "filtering options": ""
+  },
+  "Appointment Scheduling": {
+    "name": "",
+    "provider information": "",
+    "appointment dates and times": "",
+    "patient information": ""
+  },
+  "Treatment Plan": {
+    "name": "",
+    "treatment goals": "",
+    "interventions": "",
+    "follow-up appointments": ""
+  },
+  "Progress Tracking": {
+    "name": "",
+    "progress metrics": "",
+    "data collection": "",
+    "alerts and notifications": ""
+  }
+}

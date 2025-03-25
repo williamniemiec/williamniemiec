@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Blood Product Administration": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Blood Product": {"Type": "options"},
+      "Dosage": {"Type": "number"},
+      "Frequency": {"Type": "options"},
+      "Deadline Date": {"Type": "datetime"},
+      "Notes": {"Type": "text"},
+      "Contraindications": {"Type": "options"},
+      "Alert Threshold": {"Type": "options"}
+    }
+  }
+}

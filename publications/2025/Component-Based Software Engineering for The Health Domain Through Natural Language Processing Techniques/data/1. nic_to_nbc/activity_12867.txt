@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Vital Signs Tracking": {
+    "parameters": {
+      "vital_signs": {"type": "list of options"},
+      "interval": {"type": "options"},
+      "recording_method": {"type": "options"},
+      "flow_sheet": {"type": "attachment or link"}
+    }
+  }
+}

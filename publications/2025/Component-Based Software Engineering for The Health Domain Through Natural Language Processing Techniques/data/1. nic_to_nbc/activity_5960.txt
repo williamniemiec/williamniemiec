@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Family Coping Skills Counseling": {
+    "Coping Skills": {
+      "type": "options",
+      "options": ["Stress Management", "Emotional Regulation", "Problem-Solving"]
+    }
+  }
+}

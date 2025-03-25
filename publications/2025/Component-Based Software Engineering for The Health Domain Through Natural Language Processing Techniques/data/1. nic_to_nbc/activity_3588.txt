@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+    "Task Simplification": {
+        "parameters": {
+            "Task List": {"type": "list of text"},
+            "Cognitive Functioning Level": {"type": "options"},
+            "Simplification Rules": {"type": "options"}
+        }
+    },
+    "Energy Conservation": {
+        "parameters": {
+            "Energy Conservation Tips": {"type": "list of text"},
+            "Personalized Recommendations": {"type": "options"}
+        }
+    }
+}

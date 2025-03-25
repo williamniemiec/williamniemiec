@@ -1,0 +1,33 @@
+Here is the output in JSON format:
+
+
+{
+    "Co-Sleeping Education": {
+        "Parameters": {
+            "Risks": [
+                "Increased risk of SIDS (Sudden Infant Death Syndrome)",
+                "Suffocation or entrapment",
+                "Overheating or hypothermia",
+                "Increased risk of sleep-related accidents"
+            ],
+            "Benefits": [
+                "Promotes breastfeeding and bonding",
+                "Helps with sleep regulation and settling",
+                "Increases feelings of closeness and security",
+                "Can be convenient for nighttime feedings and changings"
+            ],
+            "Safe Co-Sleeping Practices": [
+                "Place the infant on their back to sleep",
+                "Use a firm flat mattress and a tight-fitting sheet",
+                "Keep the sleep environment cool and well-ventilated",
+                "Avoid using soft bedding, pillows, or blankets",
+                "Avoid co-sleeping if you are a smoker or have consumed alcohol or drugs"
+            ],
+            "Additional Resources": [
+                "American Academy of Pediatrics (AAP) guidelines on co-sleeping",
+                "National Institute of Child Health and Human Development (NICHD) information on SIDS and co-sleeping",
+                "Other reputable sources of information on co-sleeping and infant sleep safety"
+            ]
+        }
+    }
+}

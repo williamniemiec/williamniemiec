@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Family Strengths and Weaknesses Assessment": {
+    "parameters": {
+      "Strengths": {},
+      "Weaknesses": {},
+      "Prioritization": {},
+      "Reflection": {}
+    }
+  }
+}

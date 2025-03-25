@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Instruction": {
+    "parameters": {
+      "name": "Repositioning",
+      "content": "Reposition yourself to a lateral or hands-and-knees position",
+      "type": "text",
+      "frequency": "as needed"
+    }
+  }
+}

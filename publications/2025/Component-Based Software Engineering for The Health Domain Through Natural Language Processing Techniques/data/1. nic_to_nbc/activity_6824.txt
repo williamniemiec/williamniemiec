@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Education Module": {
+    "parameters": {
+      "title": {
+        "type": "text"
+      },
+      "content": {
+        "type": "text or multimedia"
+      },
+      "sections": {
+        "type": "list of section titles and corresponding content"
+      }
+    }
+  }
+}

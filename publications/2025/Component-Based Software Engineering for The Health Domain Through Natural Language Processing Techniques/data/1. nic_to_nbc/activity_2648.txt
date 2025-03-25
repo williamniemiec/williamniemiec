@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+  "Health Status Data": {
+    "Parameters": {
+      "Vital Signs": {
+        "Type": "list of text"
+      },
+      "Signs and Symptoms": {
+        "Type": "list of text"
+      },
+      "Shift Notes": {
+        "Type": "text"
+      }
+    }
+  },
+  "Form": {
+    "Parameters": {
+      "Form Fields": {
+        "Type": "list of text"
+      },
+      "Form Data": {
+        "Type": "list of text"
+      }
+    }
+  }
+}

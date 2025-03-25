@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Insulin Regimen Adjustment": {
+    "Parameters": {
+      "insulin_regimen": {},
+      "proposed_changes": {},
+      "care_team_input": {},
+      "patient_input": {},
+      "collaboration_log": {},
+      "frequency": {}
+    }
+  }
+}

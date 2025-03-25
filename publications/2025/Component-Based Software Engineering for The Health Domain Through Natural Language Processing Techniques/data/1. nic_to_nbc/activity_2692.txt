@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+    "Normothermia Preservation": {
+        "Method": ["increase ambient air temperature", "infrared warming lights", "warm air", "water blanket", "instillation of warmed IV fluids"],
+        "Temperature Target": "",
+        "Duration": "",
+        "Monitoring": ["continuous", "every 15 minutes", "every 30 minutes", "every hour"],
+        "Notes": ""
+    }
+}
+
+
+Let me know if you need any further assistance!

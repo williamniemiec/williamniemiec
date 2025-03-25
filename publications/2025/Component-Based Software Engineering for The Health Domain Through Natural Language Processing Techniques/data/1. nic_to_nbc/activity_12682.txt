@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Family Questionnaire",
+  "parameters": [
+    {
+      "name": "Questions",
+      "type": "form"
+    },
+    {
+      "name": "Frequency",
+      "type": "options",
+      "options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+    },
+    {
+      "name": "Family Member",
+      "type": "text"
+    }
+  ]
+}
+
+
+I removed the `Deadline Date` parameter because it was marked as not applicable (`required: false`). Let me know if you need any further modifications!

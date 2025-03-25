@@ -1,0 +1,41 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Narcotic Selection Collaboration",
+    "parameters": [
+        {
+            "name": "Patient Information",
+            "type": "text"
+        },
+        {
+            "name": "Physician Input",
+            "type": "text"
+        },
+        {
+            "name": "Family Member Input",
+            "type": "text"
+        },
+        {
+            "name": "Narcotic Options",
+            "type": "list",
+            "items": [
+                { value: "morphine", label: "Morphine" },
+                { value: "oxycodone", label: "Oxycodone" },
+                { value: "hydrocodone", label: "Hydrocodone" }
+            ]
+        },
+        {
+            "name": "Selection Criteria",
+            "type": "list",
+            "items": [
+                { value: "painLevel", label: "Pain Level" },
+                { value: "medicalHistory", label: "Medical History" }
+            ]
+        },
+        {
+            "name": "Collaborative Decision",
+            "type": "text"
+        }
+    ]
+}

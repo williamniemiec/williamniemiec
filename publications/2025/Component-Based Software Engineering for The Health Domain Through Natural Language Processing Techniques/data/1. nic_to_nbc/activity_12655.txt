@@ -1,0 +1,14 @@
+
+
+
+{
+  "Implementation Plan": {
+    "Goal/Objective": {"type": "text"},
+    "Methods": {"type": "text"},
+    "Activities": {"type": "unordered list"},
+    "Time Frame": {"type": "datetime"},
+    "Responsibilities": {"type": "text"},
+    "Resources": {"type": "unordered list"},
+    "Notes": {"type": "text"}
+  }
+}

@@ -1,0 +1,31 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "reinforcer identifier",
+    "parameters": [
+        { 
+            "name": "reinforcer type", 
+            "description": "type of reinforcer (e.g. tangible, intangible, etc.)", 
+            "required": true, 
+            "type": "options",
+            "options": [
+                { value: "tangible", label: "Tangible (e.g. gift, privilege)" },
+                { value: "intangible", label: "Intangible (e.g. praise, recognition)" }
+            ]
+        },
+        { 
+            "name": "reinforcer ideas", 
+            "description": "list of potential reinforcers", 
+            "required": true, 
+            "type": "list",
+            "list_item_type": "text"
+        },
+        { 
+            "name": "reward criteria", 
+            "description": "criteria for earning rewards", 
+            "required": true, 
+            "type": "text"
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "fresh_fruit_vegetable_instruction": {
+    "parameters": [
+      {"name": "food_type"},
+      {"name": "incorporation_method"},
+      {"name": "frequency"}
+    ]
+  }
+}

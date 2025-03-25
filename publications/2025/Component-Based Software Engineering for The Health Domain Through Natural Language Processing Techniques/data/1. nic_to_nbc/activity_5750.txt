@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Cuff Inflation Guide": {
+    "Technique": {"Type": "options", "Options": ["MOV", "MLT"]},
+    "Instructions": {"Type": "text or multimedia"},
+    "Frequency": {"Type": "options", "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"Type": "datetime"}
+  }
+}
+
+
+Let me know if this meets your requirements!

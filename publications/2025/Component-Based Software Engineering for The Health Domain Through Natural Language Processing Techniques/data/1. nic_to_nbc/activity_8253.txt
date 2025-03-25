@@ -1,0 +1,29 @@
+Here is the output in JSON format:
+
+
+{
+  "Private Interview Space": {
+    "Parameters": {
+      "Secure Connection": {"Type": "options"},
+      "Private Mode": {"Type": "boolean"}
+    }
+  },
+  "Interview Questions": {
+    "Parameters": {
+      "Questionnaire": {"Type": "options"},
+      "Question Types": {"Type": "options"}
+    }
+  },
+  "Knowledgeable Other Identification": {
+    "Parameters": {
+      "Relationship": {"Type": "options"},
+      "Contact Information": {"Type": "text input field"}
+    }
+  },
+  "Abuse Assessment": {
+    "Parameters": {
+      "Algorithm": {"Type": "options"},
+      "Risk Threshold": {"Type": "numerical value"}
+    }
+  }
+}

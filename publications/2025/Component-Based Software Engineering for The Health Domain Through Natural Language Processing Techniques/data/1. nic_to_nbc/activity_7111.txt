@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Cueing Tool": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Description": {"Type": "text"},
+      "Tool Type": {"Type": "options", "Options": ["Cueing card", "Poster", "Chart", "Picture", "Other ( specify )"]},
+      "Location": {"Type": "options", "Options": ["Head of bed", "Wall", "Door", "Table", "Other ( specify )"]},
+      "Purpose": {"Type": "options", "Options": ["Facilitate learning to transfer", "Remind patient of medication schedule", "Provide safety precautions", "Enhance memory", "Other ( specify )"]},
+      "Content": {"Type": "text"},
+      "Frequency": {"Type": "options", "Options": ["Daily", "Weekly", "Monthly", "As needed"]}
+    }
+  }
+}

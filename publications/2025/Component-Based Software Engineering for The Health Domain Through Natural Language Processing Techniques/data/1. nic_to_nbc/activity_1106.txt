@@ -1,0 +1,33 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Defense Mechanism Guide",
+    "parameters": [
+        {
+            "name": "Defense Mechanism List",
+            "type": "list of text"
+        },
+        {
+            "name": "Explanation",
+            "type": "list of text"
+        },
+        {
+            "name": "Examples",
+            "type": "list of text"
+        },
+        {
+            "name": "Reflection Prompt",
+            "type": "text"
+        },
+        {
+            "name": "Frequency",
+            "type": "enum",
+            "options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+        },
+        {
+            "name": "Deadline Date",
+            "type": "datetime"
+        }
+    ]
+}

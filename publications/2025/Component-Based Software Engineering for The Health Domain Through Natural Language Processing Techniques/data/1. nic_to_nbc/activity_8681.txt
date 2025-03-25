@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+    "Familiar Objects": {
+        "Object/Photo Name": {"Description": "Name of the familiar object or photograph", "Type": "text", "Required": true},
+        "Image": {"Description": "Image of the familiar object or photograph", "Type": "image", "Required": true},
+        "Description": {"Description": "Brief description of the familiar object or photograph", "Type": "text", "Required": false},
+        "Frequency": {"Description": "Specify how often the familiar object or photograph should be displayed", "Type": "options", "Required": true, "Options": [{"value": "daily", "label": "Daily"}, {"value": "onlyOnce", "label": "Only once"}, {"value": "everyHours", "label": "Every x hours"}, {"value": "everyDays", "label": "Every x days"}]}
+    }
+}

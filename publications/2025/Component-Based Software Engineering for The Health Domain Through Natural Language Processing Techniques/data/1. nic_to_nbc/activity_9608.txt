@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+  "Visitation Schedule": {
+    "Visit Date": {"Type": "date"},
+    "Visit Time": {"Type": "time"},
+    "Visit Duration": {"Type": "duration"}
+  },
+  "Visitation Guidelines": {
+    "Guideline Content": {"Type": "text"},
+    "Guideline Format": {"Type": "options", "Options": ["written", "verbal", "video"]}
+  },
+  "Family Communication": {
+    "Communication Method": {"Type": "options", "Options": ["in-person", "video call", "phone call"]},
+    "Communication Content": {"Type": "text"}
+  },
+  "Visitation Environment": {
+    "Environment Setting": {"Type": "options", "Options": ["private room", "common area"]},
+    "Environment Amenities": {"Type": "list of amenities"}
+  }
+}

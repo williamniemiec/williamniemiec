@@ -1,0 +1,54 @@
+Here is the output in JSON format:
+
+
+{
+  "Wound Dressing Guide": {
+    "parameters": [
+      {
+        "name": "steps",
+        "description": "Step-by-step guide to dress the wound",
+        "required": true,
+        "type": "list",
+        "list": [
+          {
+            "label": "Step 1: Clean your hands",
+            "text": "Wash your hands with soap and water before dressing your wound."
+          },
+          {
+            "label": "Step 2: Prepare the dressing",
+            "text": "Open the dressing package and prepare the dressing according to the manufacturer's instructions."
+          },
+          {
+            "label": "Step 3: Remove old dressing",
+            "text": "Gently remove the old dressing from your wound."
+          },
+          {
+            "label": "Step 4: Clean the wound",
+            "text": "Clean the wound with saline solution or sterile water."
+          },
+          {
+            "label": "Step 5: Apply new dressing",
+            "text": "Apply the new dressing to your wound, following the manufacturer's instructions."
+          }
+        ]
+      },
+      {
+        "name": "frequency",
+        "description": "How often should you dress your wound?",
+        "required": true,
+        "type": "options",
+        "options": [
+          { "value": "daily", "label": "Daily" },
+          { "value": "everyOtherDay", "label": "Every other day" },
+          { "value": "every3Days", "label": "Every 3 days" }
+        ]
+      },
+      {
+        "name": "notes",
+        "description": "Add any notes or comments about wound dressing",
+        "required": false,
+        "type": "text"
+      }
+    ]
+  }
+}

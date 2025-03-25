@@ -1,0 +1,37 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Treatment Effects Documentation",
+  "parameters": [
+    {
+      "name": "Treatments",
+      "type": "list",
+      "items": [
+        {
+          "treatment name": "",
+          "start date": "",
+          "end date": ""
+        }
+      ]
+    },
+    {
+      "name": "Effects",
+      "type": "list",
+      "items": [
+        {
+          "treatment name": "",
+          "effect": "",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "name": "Upload Documents",
+      "type": "file upload"
+    }
+  ]
+}
+
+
+Note that I removed the `description` field from each parameter, as well as the `required` field, since they were not specified in the original task. If you need those fields, please let me know!

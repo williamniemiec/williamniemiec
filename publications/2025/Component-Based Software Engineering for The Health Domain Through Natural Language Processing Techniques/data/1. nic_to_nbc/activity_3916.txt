@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Concentration Calculator": {
+    "parameters": {
+      "name": "Concentration Calculator",
+      "description": "Calculate the appropriate concentration of drug to fluid",
+      "inputs": [
+        { "label": "Amount of fluid delivered per hour (mL)", "type": "Number" },
+        { "label": "Desired dose of medication (mg)", "type": "Number" },
+        { "label": "Concentration of medication (mg/mL)", "type": "Number" }
+      ],
+      "calculation": "Formula",
+      "result": "Number"
+    }
+  }
+}
+
+
+Let me know if you need anything else!

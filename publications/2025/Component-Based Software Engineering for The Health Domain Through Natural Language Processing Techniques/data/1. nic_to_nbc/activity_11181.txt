@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+    "Voiding/Defecation Monitoring": {
+        "Parameters": {
+            "Name": {"Type": "text"},
+            "Monitoring Frequency": {"Type": "options"},
+            "Voiding/Defecation Parameters": {"Type": "options"},
+            "Recording Method": {"Type": "options"},
+            "Deadline Date": {"Type": "datetime"},
+            "Additional Tips": {"Type": "text"}
+        }
+    }
+}
+
+
+I removed the introduction, conclusion, and other unnecessary text, and kept only the no-code element name and its parameter specifications. I also removed the "not applicable" parameters (there were none in this example). Let me know if you have any further requests!

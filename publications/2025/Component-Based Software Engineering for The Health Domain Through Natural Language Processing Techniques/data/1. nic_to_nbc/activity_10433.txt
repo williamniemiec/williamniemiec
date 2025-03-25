@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Policy Repository": {
+    "Policy Documents": {"type": "list of document IDs or URLs"},
+    "Policy Categories": {"type": "options", "options": ["list of policy categories"]},
+    "Review Cycle": {"type": "options", "options": ["list of review cycles"]}
+  },
+  "Policy Review Workflow": {
+    "Reviewers": {"type": "list of reviewer IDs or names"},
+    "Review Stages": {"type": "options", "options": ["list of review stages"]},
+    "Due Dates": {"type": "datetime"}
+  }
+}

@@ -1,0 +1,36 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Behavioral Evaluation",
+    "parameters": [
+        {
+            "name": "behaviors",
+            "type": "list of text"
+        },
+        {
+            "name": "evaluation_criteria",
+            "type": "list of text"
+        },
+        {
+            "name": "self_rating",
+            "type": "list of number"
+        },
+        {
+            "name": "goals",
+            "type": "list of text"
+        },
+        {
+            "name": "frequency",
+            "type": "options",
+            "options": [
+                { "value": "daily" },
+                { "value": "weekly" },
+                { "value": "monthly" }
+            ]
+        }
+    ]
+}
+
+
+Let me know if this is what you were expecting!

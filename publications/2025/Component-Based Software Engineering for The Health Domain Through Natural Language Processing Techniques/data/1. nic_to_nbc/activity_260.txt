@@ -1,0 +1,13 @@
+
+
+
+{
+  "Fundal Height Measurement": {
+    "parameters": {
+      "Fundal Height Entry": {"type": "number"},
+      "Gestational Age": {"type": "number"},
+      "Fundal Height Chart": {"type": "multimedia"},
+      "Alerts": {"type": "boolean"}
+    }
+  }
+}

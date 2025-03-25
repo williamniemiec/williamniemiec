@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Nausea and Vomiting Tracker": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Symptom Tracking": {"Type": ["log", "chart", "survey"]},
+      "Frequency": {"Type": ["daily", "weekly", "as needed"]},
+      "Intensity Scale": {"Type": ["1-10", "mild-moderate-severe"]},
+      "Intervention Effectiveness": {"Type": ["reduction in symptoms", "improvement in quality of life"]},
+      "Reminders": {"Type": ["daily", "weekly", "custom"]}
+    }
+  }
+}

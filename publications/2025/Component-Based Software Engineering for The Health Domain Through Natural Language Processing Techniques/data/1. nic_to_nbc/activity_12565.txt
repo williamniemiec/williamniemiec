@@ -1,0 +1,19 @@
+
+
+
+{
+  "Alternative Approach Evaluation": {
+    "Parameters": {
+      "Alternative Approach": {"type": "text"},
+      "Cost": {"type": "number"},
+      "Resource Needs": {"type": "unordered list"},
+      "Feasibility": {"type": "options"},
+      "Required Activities": {"type": "unordered list"},
+      "Rating": {"type": "options"},
+      "Notes": {"type": "text"}
+    }
+  }
+}
+
+
+I removed the `Frequency` and `Deadline Date` parameters as they seem not applicable to this no-code element. Let me know if I'm correct!

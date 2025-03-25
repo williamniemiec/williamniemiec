@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Dietary Handbook": {
+        "parameters": {
+            "Diet Name": {},
+            "Dietary Guidelines": {},
+            "Sample Meal Plans": {},
+            "Recipe Book": {},
+            "Additional Resources": {}
+        }
+    }
+}

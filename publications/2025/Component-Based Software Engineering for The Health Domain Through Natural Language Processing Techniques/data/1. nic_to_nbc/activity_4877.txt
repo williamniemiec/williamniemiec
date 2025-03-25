@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Compliance Monitoring": {
+        "Parameters": {
+            "Procedure Type": [],
+            "Child's Response": [],
+            "Compliance Level": [],
+            "Notes": []
+        }
+    }
+}

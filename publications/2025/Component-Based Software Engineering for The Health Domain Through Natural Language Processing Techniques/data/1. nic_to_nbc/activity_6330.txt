@@ -1,0 +1,33 @@
+Here is the output in JSON format:
+
+
+{
+  "Rectal Insertion": {
+    "Lubrication Confirmation": {
+      "Description": "Confirm that the tip is lubricated",
+      "Required": true,
+      "Type": "boolean"
+    },
+    "Angle of Insertion": {
+      "Description": "Insert the tip at an angle towards your umbilicus",
+      "Required": true,
+      "Type": "instruction"
+    },
+    "Insertion Length": {
+      "Description": "Insert the tip to the appropriate length based on your age",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "infant", "label": "Infant (0-1 year): 1-2 inches" },
+        { "value": "toddler", "label": "Toddler (1-3 years): 2-3 inches" },
+        { "value": "child", "label": "Child (4-12 years): 3-4 inches" },
+        { "value": "adult", "label": "Adult: 4-5 inches" }
+      ]
+    },
+    "Insertion Confirmation": {
+      "Description": "Confirm that the tip is inserted to the appropriate length and angle",
+      "Required": true,
+      "Type": "boolean"
+    }
+  }
+}

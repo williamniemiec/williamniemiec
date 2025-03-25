@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "EKG Request": {
+    "Indication": "text",
+    "Instructions": ["text", "video"],
+    "Deadline": "datetime",
+    "Provider Information": "text",
+    "Upload EKG Results": "file upload"
+  }
+}

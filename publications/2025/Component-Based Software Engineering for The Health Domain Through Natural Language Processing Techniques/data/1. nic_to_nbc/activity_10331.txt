@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Chest Percussion Guidance": {
+    "parameters": {
+      "Area to be Drained": {},
+      "Percussion Technique": {},
+      "Duration": {},
+      "Avoidance Areas": {},
+      "Percussion Frequency": {}
+    }
+  }
+}

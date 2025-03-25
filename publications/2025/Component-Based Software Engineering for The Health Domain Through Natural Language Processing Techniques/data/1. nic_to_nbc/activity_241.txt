@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Expiration": {
+    "Parameters": {
+      "Medication Name": {},
+      "Expiration Date": {},
+      "Frequency": {}
+    }
+  }
+}
+
+
+I removed all unnecessary information and only kept the `{{ NO-CODE ELEMENT NAME }}` ("Medication Expiration") and the `{{ PARAMETER ESPECIFICATIONS }}`. I also removed the not applicable parameter "Deadline Date" since it's optional.

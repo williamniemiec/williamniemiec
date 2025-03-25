@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Exercise Plan": {
+    "Parameters": {
+      "Name": {},
+      "Description": {},
+      "Exercise Type": {},
+      "Frequency": {},
+      "Duration": {},
+      "Intensity": {},
+      "Limitations": {},
+      "Goals": {}
+    }
+  }
+}

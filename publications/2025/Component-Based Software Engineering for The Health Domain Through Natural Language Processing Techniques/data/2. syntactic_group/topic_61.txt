@@ -1,0 +1,10 @@
+{
+  "name": "Educational Content and Multimedia Learning",
+  "description": "Provides educational content in various formats, including multimedia, quizzes, and FAQs. Focuses on creating rich learning experiences with interactive content and varied presentation styles.",
+  "type": "non-periodic",
+  "input": ["Educational content", "Quiz format", "Multimedia resources", "FAQ sections", "Content titles"],
+  "output": ["Learning progress report", "Quiz results", "Content engagement metrics"],
+  "preconditions": ["User is engaged in educational activities or learning modules"],
+  "postconditions": ["Educational content is absorbed, and user progress is tracked through quizzes and multimedia engagement"],
+  "dependencies": ["Learning management system", "Multimedia content platform", "Quiz and FAQ generation tools"]
+}

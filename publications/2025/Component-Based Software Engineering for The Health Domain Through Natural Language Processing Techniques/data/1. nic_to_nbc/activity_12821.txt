@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Reproductive Education": {
+    "Topic": {"Type": "options", "Required": true},
+    "Content": {"Type": "multimedia content", "Required": true},
+    "Frequency": {"Type": "options", "Required": true}
+  }
+}
+
+
+I removed the parameters that were not applicable (i.e., had a `Required` value of `false`) and only kept the `Name` and `Parameters` sections, as per your request. Let me know if this is what you were looking for!

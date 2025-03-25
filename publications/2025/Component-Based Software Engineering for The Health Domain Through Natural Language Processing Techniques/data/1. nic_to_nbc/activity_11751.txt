@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Tubing Clamping Instruction": {
+    "parameters": {
+      "name": {"type": "text"},
+      "instructions": {"type": "text or multimedia"},
+      "images": {"type": "image or multimedia"},
+      "video_tutorial": {"type": "video"},
+      "checklist": {"type": "checklist"}
+    }
+  }
+}

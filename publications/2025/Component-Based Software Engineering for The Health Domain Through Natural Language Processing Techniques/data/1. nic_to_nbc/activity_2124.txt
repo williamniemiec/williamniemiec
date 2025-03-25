@@ -1,0 +1,37 @@
+Here is the output in JSON format:
+
+
+{
+  "Payer Communicator": {
+    "parameters": {
+      "Payer Information": {
+        "type": "payer object",
+        "properties": {
+          "Name": {},
+          "Contact Information": {}
+        }
+      },
+      "Communication Type": {
+        "type": "options"
+      },
+      "Message": {
+        "type": "text or HTML content"
+      },
+      "Attachments": {
+        "type": "list of file objects",
+        "properties": {
+          "File Name": {},
+          "File Type": {},
+          "File Content": {}
+        }
+      },
+      "Follow-up": {
+        "type": "follow-up object",
+        "properties": {
+          "Date": {},
+          "Action": {}
+        }
+      }
+    }
+  }
+}

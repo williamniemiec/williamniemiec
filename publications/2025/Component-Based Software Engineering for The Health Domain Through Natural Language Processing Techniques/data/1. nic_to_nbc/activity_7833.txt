@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+
+{
+    "guide": {
+        "Parameters": {
+            "Name": "Understanding Labor Interventions",
+            "Pages": [
+                "Why is fetal monitoring important?",
+                "What is the purpose of oxytocin augmentation?",
+                "Why is a cesarean section necessary in some cases?"
+            ]
+        }
+    }
+}

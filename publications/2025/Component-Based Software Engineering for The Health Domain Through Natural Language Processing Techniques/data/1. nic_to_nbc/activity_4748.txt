@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Sterilization Guide": {
+        "Parameters": {
+            "Name": {"Type": "text"},
+            "Content": {"Type": "multimedia (text, images, videos)"},
+            "Format": {"Type": "options (video, interactive tutorial, PDF)"},
+            "Frequency": {"Type": "options (one-time, daily, weekly, monthly)"}
+        }
+    }
+}

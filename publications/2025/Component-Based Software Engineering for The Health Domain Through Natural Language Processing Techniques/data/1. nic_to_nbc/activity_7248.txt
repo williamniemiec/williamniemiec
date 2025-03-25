@@ -1,0 +1,41 @@
+Here is the output in JSON format:
+
+
+{
+  "Parameter Specifications": {
+    "Name": {"Type": "text"},
+    "Touch Techniques": {
+      "Type": "list of touch techniques",
+      "touch technique": {
+        "Title": {"Type": "text"},
+        "Description": {"Type": "HTML text"},
+        "Instructions": {
+          "Type": "list of instructions",
+          "instruction": {
+            "Step": {"Type": "number"},
+            "Content": {"Type": "HTML text"}
+          }
+        },
+        "Benefits": {
+          "Type": "list of benefits",
+          "benefit": {
+            "Content": {"Type": "HTML text"}
+          }
+        },
+        "Media": {"Type": "media (image or video)"}
+      }
+    },
+    "Tips and Reminders": {
+      "Type": "list of tips and reminders",
+      "tip or reminder": {
+        "Content": {"Type": "HTML text"}
+      }
+    },
+    "Touch Tracker": {"Type": "interactive chart"},
+    "Touch Reminders": {"Type": "reminders (e.g. push notifications, in-app notifications)"}
+  },
+  "No-Code Element Name": "Touch Guide"
+}
+
+
+I removed all the unnecessary parts and only kept the `Parameter Specifications` and `No-Code Element Name`. I also reformatted the output to be a JSON object with nested properties. Let me know if this meets your requirements!

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Wound Classification": {
+    "parameters": [
+      {"name": "wound_type", "description": "Select the type of wound"},
+      {"name": "wound_edges", "description": "Describe the edges of the wound"},
+      {"name": "wound_depth", "description": "Estimate the depth of the wound"},
+      {"name": "wound_length", "description": "Measure the length of the wound"},
+      {"name": "notes", "description": "Add any additional notes about the wound"}
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+  "Parameters": {
+    "Name": {},
+    "Coping Questions": {
+      "Text": {},
+      "Type": {},
+      "Options": {}
+    },
+    "Caregiver Profile": {
+      "Name": {},
+      "Relationship": {}
+    },
+    "Frequency": {
+      "daily": {},
+      "weekly": {},
+      "monthly": {}
+    },
+    "Threshold": {}
+  },
+  "No-code Element Name": "Caregiver Coping Assessment"
+}
+
+
+I removed the introduction, conclusion, and unnecessary parameters, as per your request. Let me know if you need any further modifications!

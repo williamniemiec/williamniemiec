@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+
+{
+    "no-code-element-name": "Guide",
+    "parameter-especifications": {
+        "name": "Anticipatory Guidance for Delivery",
+        "pages": "A list of HTML texts explaining what to expect during delivery, how to prepare, and what to do in different scenarios",
+        "videos": "A list of videos or multimedia content that supplement the text-based guidance",
+        "checklist": "A parameter specifying a checklist of tasks or preparations the patient should complete before delivery"
+    }
+}

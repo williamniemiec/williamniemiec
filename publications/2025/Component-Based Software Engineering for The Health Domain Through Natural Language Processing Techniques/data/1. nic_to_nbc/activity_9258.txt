@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Patient Identification Verification": {
+    "Title": {"type": "text"},
+    "Questions": {"type": "list of questions"},
+    "Response Options": {"type": "list of response options"},
+    "Verification Criteria": {"type": "list of criteria"},
+    "Instructions": {"type": "text"}
+  }
+}

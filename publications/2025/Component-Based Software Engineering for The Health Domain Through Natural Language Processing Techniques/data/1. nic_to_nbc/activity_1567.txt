@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Nasogastric Tube Irrigation": {
+    "Irrigation Schedule": {"Type": "datetime"},
+    "Saline Solution Details": {"Type": "text"},
+    "Irrigation Technique": {"Type": ["text", "video"]},
+    "Irrigation Reminders": {"Type": "boolean"},
+    "Irrigation Log": {"Type": ["text", "table"]}
+  }
+}
+
+
+Note that I removed the non-applicable parameters and only kept the `{{ NO-CODE ELEMENT NAME }}` and `{{ PARAMETER ESPECIFICATIONS }}` as per your request.

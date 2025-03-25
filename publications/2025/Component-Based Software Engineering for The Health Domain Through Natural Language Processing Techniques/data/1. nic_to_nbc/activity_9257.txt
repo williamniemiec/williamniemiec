@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Symptom Checker": {
+    "parameters": {
+      "Symptom List": {},
+      "Body Area": {},
+      "Pain Level": {},
+      "Duration": {},
+      "Additional Information": {}
+    }
+  }
+}

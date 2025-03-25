@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "No-code Element Name": "Guide",
+  "Parameters": {
+    "title": {
+      "Description": "Title of the guide",
+      "Required": true,
+      "Type": "text"
+    },
+    "pages": {
+      "Description": "List of pages with infection prevention guidelines",
+      "Required": true,
+      "Type": "book-page"
+    }
+  }
+}

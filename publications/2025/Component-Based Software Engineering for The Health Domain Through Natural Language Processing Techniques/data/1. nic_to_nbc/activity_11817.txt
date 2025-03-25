@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+    "Hypoglycemia Symptom Tracker": {
+        "Parameters": {
+            "Symptom List": {"Type": "list of text"},
+            "Symptom Severity": {"Type": "options (e.g., mild, moderate, severe)"},
+            "Symptom Frequency": {"Type": "options (e.g., daily, weekly, monthly)"},
+            "Symptom Duration": {"Type": "options (e.g., minutes, hours, days)"},
+            "Alerts": {"Type": "boolean (true/false)"},
+            "Tracking History": {"Type": "list of objects"}
+        }
+    }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Topical Ointment Application and Pain Relief",
+  "description": "Involves the application of ointments for pain relief and skin care, including techniques for applying analgesic ointments, injecting blebs, and relieving itching or discomfort in specific areas of the body.",
+  "type": "non-periodic",
+  "input": ["Topical ointment", "Application techniques", "Analgesia", "Injection of blebs", "Itching relief"],
+  "output": ["Ointment application confirmation", "Pain relief status", "Skin condition improvement"],
+  "preconditions": ["User requires topical ointment for pain or skin condition relief"],
+  "postconditions": ["Effective application of ointment with pain relief"],
+  "dependencies": ["Ointment products", "Application guidance", "Pain relief monitoring tools"]
+}

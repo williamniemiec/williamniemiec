@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Reminder": {
+    "parameters": {
+      "name": "Eye Protection Reminder",
+      "content": "Remember to protect your eyes",
+      "frequency": "Before surgery" or "As needed"
+    }
+  }
+}

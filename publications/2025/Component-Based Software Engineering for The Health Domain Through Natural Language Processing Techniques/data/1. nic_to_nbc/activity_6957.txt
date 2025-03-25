@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Catheter Care Log": {
+    "Parameters": {
+      "title": {"Type": "text"},
+      "Catheter Size": {"Type": ["text", "options"]},
+      "Catheter Type": {"Type": ["text", "options"]},
+      "Bulb Fill Amount": {"Type": "number"},
+      "Date": {"Type": "date"},
+      "Time": {"Type": "time"},
+      "Notes": {"Type": "text"}
+    }
+  }
+}

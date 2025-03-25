@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Birth Experience Reflection": {
+    "Parameters": {
+      "Feelings": {},
+      "Perceptions": {},
+      "Concerns": {}
+    }
+  }
+}
+
+
+Note: I removed the non-required parameters (`Support System` and `Lessons Learned`) as per your request.

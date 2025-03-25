@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+  "Exercise": {
+    "Parameters": {
+      "Exercise type": "",
+      "Body part": "",
+      "Instructions": "",
+      "Image or video": "",
+      "Frequency": "",
+      "Duration": ""
+    }
+  },
+  "Task": {
+    "Parameters": {
+      "Exercise type": "",
+      "Body part": "",
+      "Instructions": "",
+      "Image or video": "",
+      "Frequency": "",
+      "Duration": "",
+      "Reminder": ""
+    }
+  }
+}

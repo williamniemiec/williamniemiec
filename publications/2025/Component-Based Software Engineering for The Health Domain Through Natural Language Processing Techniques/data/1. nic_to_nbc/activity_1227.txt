@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+  "Bowel Movement Tracker": {
+    "Parameters": {
+      "Date": {
+        "Type": "datetime"
+      },
+      "Frequency": {
+        "Type": "options",
+        "Options": ["daily", "every other day", "weekly"]
+      },
+      "Notes": {
+        "Type": "text"
+      }
+    }
+  }
+}
+
+
+Let me know if this is what you were expecting!

@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Planning Activity": {
+    "Parameters": {
+      "Story Scenario": {"type": "text"},
+      "Current Step": {"type": "number"},
+      "Next Step Options": {"type": "list"},
+      "Child's Guess": {"type": "text"},
+      "Other Possible Choices": {"type": "list"},
+      "Frequency": {"type": "options", "options": ["daily", "every other day", "weekly"]},
+      "Deadline Date": {"type": "datetime"}
+    }
+  }
+}

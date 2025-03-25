@@ -1,0 +1,36 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Teaching Strategy",
+  "parameters": [
+    {
+      "name": "Previous Strategy",
+      "type": "text"
+    },
+    {
+      "name": "New Strategy",
+      "type": "options",
+      "options": [
+        { value: "video", label: "Video-based learning" },
+        { value: "interactive", label: "Interactive simulations" }
+      ]
+    },
+    {
+      "name": "Learning Objective",
+      "type": "text"
+    },
+    {
+      "name": "Patient Profile",
+      "type": "text"
+    },
+    {
+      "name": "Evaluation Criteria",
+      "type": "options",
+      "options": [
+        { value: "knowledge_gain", label: "Knowledge gain" },
+        { value: "behavior_change", label: "Behavior change" }
+      ]
+    }
+  ]
+}

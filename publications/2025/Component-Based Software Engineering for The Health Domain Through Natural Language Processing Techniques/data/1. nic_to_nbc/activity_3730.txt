@@ -1,0 +1,47 @@
+Here is the output in JSON format:
+
+
+{
+    "Nonpharmacological Technique Guide": {
+        "Technique": {
+            "type": "options",
+            "options": [
+                {"value": "biofeedback", "label": "Biofeedback"},
+                {"value": "TENS", "label": "TENS"},
+                {"value": "hypnosis", "label": "Hypnosis"},
+                {"value": "relaxation", "label": "Relaxation"},
+                {"value": "guidedImagery", "label": "Guided Imagery"},
+                {"value": "musicTherapy", "label": "Music Therapy"},
+                {"value": "distraction", "label": "Distraction"},
+                {"value": "playTherapy", "label": "Play Therapy"},
+                {"value": "activityTherapy", "label": "Activity Therapy"},
+                {"value": "acupressure", "label": "Acupressure"},
+                {"value": "hotColdApplication", "label": "Hot/Cold Application"},
+                {"value": "massage", "label": "Massage"}
+            ]
+        },
+        "Instructions": {
+            "type": "text"
+        },
+        "Frequency": {
+            "type": "options",
+            "options": [
+                {"value": "daily", "label": "Daily"},
+                {"value": "onlyOnce", "label": "Only once"},
+                {"value": "everyHours", "label": "Every x hours"},
+                {"value": "everyDays", "label": "Every x days"}
+            ]
+        },
+        "Timing": {
+            "type": "options",
+            "options": [
+                {"value": "beforePainfulActivity", "label": "Before painful activity"},
+                {"value": "afterPainfulActivity", "label": "After painful activity"},
+                {"value": "duringPainfulActivity", "label": "During painful activity"},
+                {"value": "beforePainOccurs", "label": "Before pain occurs"},
+                {"value": "beforePainIncreases", "label": "Before pain increases"},
+                {"value": "withOtherMeasures", "label": "Along with other pain relief measures"}
+            ]
+        }
+    }
+}

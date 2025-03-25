@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Second Opinion Guide": {
+    "Benefits of Second Opinion": {"Type": "list of benefits (each with description)"},
+    "Second Opinion Process": {"Type": "list of process steps (each with description)"}
+  },
+  "Second Opinion Provider Directory": {
+    "Provider Types": {"Type": "list of provider types (each with name and description)"},
+    "Provider Listings": {"Type": "list of provider listings (each with name, specialty, location, and contact information)"}
+  },
+  "Second Opinion Request": {
+    "Request Form": {"Type": "request form (with patient name, contact information, and medical history)"},
+    "Provider Selection": {"Type": "provider selection (with preferred provider and reason for seeking second opinion)"}
+  }
+}

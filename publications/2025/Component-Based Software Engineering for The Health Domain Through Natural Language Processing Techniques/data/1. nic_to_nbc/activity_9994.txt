@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Sensation Guide": {
+    "Parameters": {
+      "Sensation Description": {},
+      "Sensation Type": {},
+      "Sensation Location": {},
+      "Sensation Duration": {},
+      "Sensation Management": {},
+      "What to Expect": {}
+    }
+  }
+}

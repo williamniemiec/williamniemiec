@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Wound Care Guide": {
+    "guide_type": "",
+    "steps": [],
+    "images": [],
+    "notes": ""
+  },
+  "Task": {
+    "name": "",
+    "instructions": "",
+    "frequency": "",
+    "reminders": []
+  }
+}

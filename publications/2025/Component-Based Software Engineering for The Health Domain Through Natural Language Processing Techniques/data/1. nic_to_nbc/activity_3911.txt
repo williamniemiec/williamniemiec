@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Discussion Guide": {
+    "Topic": {"type": "text"},
+    "Questions": {"type": "list of text", "example": ["What are your expectations for my behavior?", "How can we work together to achieve these expectations?", "etc."]},
+    "Conversation Flow": {"type": "options", "options": ["linear", "branching", "free-form"]},
+    "Family/Significant Others": {"type": "list of text", "example": ["Spouse", "Caregiver", "Sibling", "etc."]},
+    "Frequency": {"type": "options", "options": ["daily", "weekly", "monthly", "as needed"]}
+  }
+}
+
+
+I removed the `Deadline Date` parameter as it's not applicable (datetime type is not a valid parameter specification). Let me know if this meets your requirements!

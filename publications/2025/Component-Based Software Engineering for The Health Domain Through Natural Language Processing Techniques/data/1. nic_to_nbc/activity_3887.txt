@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+  "Pronator Drift Monitoring": {
+    "Parameters": {
+      "Pronator Drift Status": {
+        "Name": "Pronator Drift Status",
+        "Description": "Enter current pronator drift status (e.g. present, absent)",
+        "Required": true,
+        "Type": "options",
+        "Options": ["present", "absent", {"other": "with text field for description"}]
+      },
+      "Frequency": {
+        "Name": "Frequency",
+        "Description": "Specify how often to monitor for pronator drift",
+        "Required": true,
+        "Type": "options",
+        "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+      }
+    }
+  }
+}
+
+
+I removed the `Deadline Date` parameter as it was marked as not required (`"Required": false`). Let me know if you need any further assistance!

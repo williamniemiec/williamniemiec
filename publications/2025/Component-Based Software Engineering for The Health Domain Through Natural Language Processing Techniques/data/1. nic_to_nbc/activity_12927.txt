@@ -1,0 +1,23 @@
+Here is the output in JSON format, removing everything except `{{ PARAMETER ESPECIFICATIONS }}` and `{{ NO-CODE ELEMENT NAME }}`, and removing not applicable parameters:
+
+
+{
+    "name": "Medical Conditions and Weight",
+    "parameters": [
+        {
+            "name": "Medical Conditions List",
+            "type": "table"
+        },
+        {
+            "name": "Condition Descriptions",
+            "type": "text"
+        },
+        {
+            "name": "Individualized Information",
+            "type": "text"
+        }
+    ]
+}
+
+
+Note that I removed the `Visual Aids` and `Resources` parameters since they are marked as not required (`required: false`). Let me know if this is correct!

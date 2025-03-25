@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Peek-a-Boo Play": {
+    "Parameters": {
+      "Play Activity": {},
+      "Objective of Play": {},
+      "Instructions": {},
+      "Duration": {},
+      "Frequency": {}
+    }
+  }
+}

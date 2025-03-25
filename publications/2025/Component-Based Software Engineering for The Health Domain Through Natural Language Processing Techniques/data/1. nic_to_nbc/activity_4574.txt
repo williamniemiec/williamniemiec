@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+    "Body Surface Area": {
+        "type": "number"
+    },
+    "Size of Burn": {
+        "type": "number"
+    },
+    "Fluid Needs Formula": {
+        "type": "formula"
+    },
+    "Calculator": {}
+}

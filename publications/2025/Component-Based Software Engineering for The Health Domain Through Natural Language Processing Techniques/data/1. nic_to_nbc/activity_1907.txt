@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Incident Reporting": {
+        "parameters": [
+            {"name": "incidentType", "description": "Type of incident", "required": true, "type": "options", "options": [{"value": "malignantHyperthermia", "label": "Malignant Hyperthermia"}, {"value": "anesthesiaRelated", "label": "Anesthesia-Related"}]}
+        ]
+    }
+}
+
+
+Let me know if you need any further assistance!

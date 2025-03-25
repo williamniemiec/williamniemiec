@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Viewing Arrangement": {
+    "Task Title": {},
+    "Task Description": {},
+    "Family Contact Information": {},
+    "Viewing Details": {},
+    "Support Options": {},
+    "Task Frequency": {},
+    "Deadline Date": {}
+  }
+}
+
+
+Note that I removed the `Content Type` parameter as it's not a part of the `PARAMETER ESPECIFICATIONS`. Also, I didn't include the `Description` and `Required` fields for each parameter as they are not requested in the output. Let me know if you need any further modifications!

@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+    "Lab Result Tracker": {
+        "parameters": ["name", "lab_result_type", "result_value", "result_date"]
+    },
+    "Risk Assessment": {
+        "parameters": ["name", "risk_factors"]
+    },
+    "Alert": {
+        "parameters": ["name", "alert_type", "alert_threshold"]
+    },
+    "Guide": {
+        "parameters": ["name", "pages"]
+    },
+    "At-Risk Population": {
+        "parameters": []
+    },
+    "Calcium Level Thresholds": {
+        "parameters": []
+    },
+    "Lab Result Frequency": {
+        "parameters": []
+    }
+}

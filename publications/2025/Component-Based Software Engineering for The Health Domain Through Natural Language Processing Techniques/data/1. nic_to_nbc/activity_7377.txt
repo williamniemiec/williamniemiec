@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+    "Home Assessment": {
+        "Name": {"type": "text"},
+        "Description": {"type": "text"},
+        "Assessment Questions": {"type": "text or multiple choice"},
+        "Hazard Identification": {"type": "text or checkbox"},
+        "Risk Level Assessment": {"type": "rating scale or text"},
+        "Recommendations": {"type": "text or video"},
+        "Follow-up": {"type": "datetime or text"}
+    }
+}
+
+
+Let me know if this meets your requirements!

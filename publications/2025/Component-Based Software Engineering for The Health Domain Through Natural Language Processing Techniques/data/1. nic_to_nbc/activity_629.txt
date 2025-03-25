@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+  "Cardiac Disease Education": {
+    "Parameters": {
+      "Title": {"Type": "text"},
+      "Content": {"Type": ["text", "HTML"]},
+      "Signs and Symptoms": {"Type": "list of options"},
+      "Education Materials": {"Type": "list of text or options"},
+      "Quiz": {"Type": "list of questions and answers"},
+      "Resources": {"Type": "list of text or options"},
+      "Frequency": {"Type": "options"},
+      "Deadline Date": {"Type": "datetime"}
+    }
+  }
+}
+
+
+Let me know if this is what you were looking for!

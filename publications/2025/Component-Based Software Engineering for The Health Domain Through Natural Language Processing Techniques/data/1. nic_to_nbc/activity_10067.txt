@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Fatigue Recognition Guide": {
+    "parameters": [
+      {"Title": "A parameter that specifies the title of the fatigue recognition guide."},
+      {"Content": "A parameter that specifies the content of the fatigue recognition guide, including signs and symptoms of fatigue that require reduction in activity."},
+      {"Signs and Symptoms": "A parameter that specifies the specific signs and symptoms of fatigue that require reduction in activity, such as dizziness, shortness of breath, or muscle weakness."},
+      {"Action Plan": "A parameter that specifies the actions to take when fatigue is recognized, such as reducing activity levels or seeking medical attention."},
+      {"Frequency": "A parameter that specifies how often the patient should monitor for signs and symptoms of fatigue."}
+    ]
+  }
+}
+
+Note: I removed the `Examples` and `Deadline Date` parameters since they are marked as not required. Let me know if you want to include them anyway!

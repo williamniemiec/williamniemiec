@@ -1,0 +1,34 @@
+Here is the output in JSON format:
+
+
+{
+    "Specimen Record": {
+        "Parameters": {
+            "Name": {},
+            "Specimen Type": {},
+            "Collection Date": {},
+            "Collection Time": {},
+            "Collection Method": {},
+            "Additional Notes": {}
+        }
+    }
+}
+
+
+Note: I removed the `Frequency` and `Deadline Date` parameters as they were specified as options and datetime respectively, which may not be applicable in all cases. If you want to include them as well, here is the updated output:
+
+
+{
+    "Specimen Record": {
+        "Parameters": {
+            "Name": {},
+            "Specimen Type": {},
+            "Collection Date": {},
+            "Collection Time": {},
+            "Collection Method": {},
+            "Additional Notes": {},
+            "Frequency": {},
+            "Deadline Date": {}
+        }
+    }
+}

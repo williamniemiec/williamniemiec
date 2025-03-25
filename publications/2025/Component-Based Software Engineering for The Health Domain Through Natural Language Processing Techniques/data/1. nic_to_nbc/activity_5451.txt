@@ -1,0 +1,10 @@
+Here is the output in JSON format:
+
+{
+    "Report": {
+        "Content": {"type": "text"},
+        "Recipient": {"type": "text"},
+        "Deadline Date": {"type": "datetime"},
+        "Frequency": {"options": ["daily", "onlyOnce", "everyHours", "everyDays"]}
+    }
+}

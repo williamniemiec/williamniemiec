@@ -1,0 +1,10 @@
+{
+  "name": "Bowel Incontinence and Movement Monitoring",
+  "description": "Monitors bowel incontinence episodes, including frequency, intervals, and characteristics such as rectal movement, stool consistency, and associated sounds, with focus on fecal incontinence.",
+  "type": "periodic",
+  "input": ["Incontinence episode details", "Stool characteristics", "Interval between episodes", "Sound of movement"],
+  "output": ["Incontinence episode report", "Stool analysis", "Movement pattern report"],
+  "preconditions": ["User experiences bowel movement or incontinence episode"],
+  "postconditions": ["Episodes are tracked, and necessary interventions are identified"],
+  "dependencies": ["Bowel monitoring system", "Stool analysis tools", "Incontinence tracking platform"]
+}

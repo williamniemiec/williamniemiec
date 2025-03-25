@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Baseline Establishment",
+    "parameters": [
+        {
+            "name": "Measurement Type",
+            "type": "options"
+        },
+        {
+            "name": "Measurement Tool",
+            "type": "text"
+        },
+        {
+            "name": "Baseline Value",
+            "type": ["number", "text"]
+        },
+        {
+            "name": "Measurement Frequency",
+            "type": "options"
+        },
+        {
+            "name": "Data Storage",
+            "type": "options"
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Anger Management": {
+    "Cognitive Functioning Level": {"type": "options"},
+    "Physical Functioning Level": {"type": "options"},
+    "Anger Expression Expectations": {"type": "text or video content"},
+    "Relaxation Techniques": {"type": "text, audio, or video content"},
+    "Communication Strategies": {"type": "text or video content"}
+  }
+}

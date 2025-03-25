@@ -1,0 +1,9 @@
+Here is the output in JSON format:
+
+
+{
+  "Vessel Protection": {
+    "Hazard Type": {"Description": "Type of hazard to be prevented", "Options": ["localPressure", "trauma", "infection", "sepsis"]},
+    "Prevention Method": {"Description": "Method to prevent injury to vessel lumen"}
+  }
+}

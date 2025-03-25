@@ -1,0 +1,17 @@
+
+
+
+{
+  "Significant Others Tracker": {
+    "parameters": {
+      "name": "Significant Others Tracker",
+      "description": "Record involvement of significant others, as appropriate",
+      "type": ["table", "list"],
+      "required": true,
+      "significant_other": "text",
+      "involvement_details": "text",
+      "date": "datetime",
+      "notes": "text"
+    }
+  }
+}

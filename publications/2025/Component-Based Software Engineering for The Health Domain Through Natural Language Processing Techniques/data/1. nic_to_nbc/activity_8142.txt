@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Caregiver Preference": {
+    "Parameters": {
+      "Caregiver List": {"Type": "unordered list"},
+      "Caregiver Relationship": {"Type": "text"},
+      "Caregiver Availability": {"Type": "options"},
+      "Priority": {"Type": "number"}
+    }
+  }
+}

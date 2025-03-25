@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Procedure": {
+    "parameters": {
+      "name": {},
+      "device": {},
+      "instructions": {},
+      "frequency": {},
+      "deadline_date": {}
+    }
+  }
+}

@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Loss Identification": {
+    "Parameters": {
+      "Loss Type": {"Type": "options"},
+      "Loss Description": {"Type": "text"},
+      "Emotional Response": {"Type": "options"},
+      "Reflection": {"Type": "text"}
+    }
+  }
+}

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Quieting Techniques Guide": {
+        "Name": {"type": "text"},
+        "Techniques": {"type": "list of options", "options": ["swaddling", "shushing", "white noise", "etc."]},
+        "Videos": {"type": "list of video files"},
+        "Descriptions": {"type": "list of text"},
+        "Frequency": {"type": "options", "options": ["daily", "every other day", "weekly", "etc."]},
+        "Practice Exercises": {"type": "list of interactive exercises"},
+        "Self-Assessment": {"type": "quiz with multiple-choice questions"}
+    }
+}

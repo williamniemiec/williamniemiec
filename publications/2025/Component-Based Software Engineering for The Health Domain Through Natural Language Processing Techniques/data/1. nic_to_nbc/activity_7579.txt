@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Clarification Request": {
+    "parameters": {
+      "name": {"type": "text"},
+      "prompt": {"type": "text"},
+      "request_type": {"type": "options", "values": ["text", "audio", "etc."]},
+      "response_type": {"type": "options", "values": ["text", "audio", "etc."]}
+    }
+  },
+  "Question": {
+    "parameters": {
+      "name": {"type": "text"},
+      "prompt": {"type": "text"},
+      "answer_type": {"type": "options", "values": ["text", "rating", "etc."]},
+      "clarification": {"type": "boolean"}
+    }
+  }
+}

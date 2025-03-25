@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Needle Positioning": {
+    "parameters": {
+      "Needle Angle": {},
+      "Skin Surface": {},
+      "Needle Orientation": {},
+      "Additional Instructions": {}
+    }
+  }
+}

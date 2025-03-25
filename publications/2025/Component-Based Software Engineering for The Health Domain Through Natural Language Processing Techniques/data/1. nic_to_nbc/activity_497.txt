@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Skin-to-Skin Activity Guide": {
+    "activity guide title": {},
+    "Content": {},
+    "Activity List": {},
+    "Frequency": {
+      "options": [
+        { "value": "daily", "label": "Daily" },
+        { "value": "onlyOnce", "label": "Only once" },
+        { "value": "everyHours", "label": "Every x hours" },
+        { "value": "everyDays", "label": "Every x days" }
+      ]
+    }
+  }
+}

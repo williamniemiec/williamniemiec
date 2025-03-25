@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Acid-Base Monitor": {
+    "parameters": {
+      "name": {"type": "text"},
+      "acid_base_type": {"type": "options"},
+      "compensation_type": {"type": "options"},
+      "parameter_values": {"type": "object"},
+      "threshold_values": {"type": "object"},
+      "frequency": {"type": "options"},
+      "notes": {"type": "text"}
+    }
+  }
+}

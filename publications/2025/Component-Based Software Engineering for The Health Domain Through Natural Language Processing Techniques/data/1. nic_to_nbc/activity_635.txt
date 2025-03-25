@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Dietary Guide": {
+    "Parameters": {
+      "Title": {"Type": "text"},
+      "Dietary Recommendations": {"Type": "list of dietary recommendations"},
+      "Food Examples": {"Type": "list of food examples"},
+      "Tips and Reminders": {"Type": "list of tips and reminders"}
+    }
+  }
+}
+
+
+Let me know if you need any further assistance!

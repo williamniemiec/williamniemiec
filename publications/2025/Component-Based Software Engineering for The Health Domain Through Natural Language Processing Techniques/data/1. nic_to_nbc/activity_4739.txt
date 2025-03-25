@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Reflective Inquiry": {
+    "parameters": {
+      "question_type": {"type": "options"},
+      "question_text": {"type": "text"},
+      "response_type": {"type": "options"},
+      "reflection_prompt": {"type": "text"},
+      "emotional_intelligence": {"type": "boolean"}
+    }
+  }
+}

@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+    "Advance Care Planning": {
+        "parameters": {
+            "Advance Directive": {"type": "boolean"},
+            "Organ Donor": {"type": "boolean"},
+            "Healthcare Wishes": {"type": "text"}
+        }
+    }
+}

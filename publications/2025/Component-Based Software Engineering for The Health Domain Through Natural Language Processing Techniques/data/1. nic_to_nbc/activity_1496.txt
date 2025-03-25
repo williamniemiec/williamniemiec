@@ -1,0 +1,30 @@
+Here is the output in JSON format:
+
+
+{
+    "Nail Trimming Assistance": {
+        "parameters": {
+            "Self-Care Ability": {
+                "type": "options",
+                "options": ["Independent", "Assistance Needed", "Unable"]
+            },
+            "Nail Trimming Frequency": {
+                "type": "options",
+                "options": ["Weekly", "Bi-Weekly", "Monthly", "Custom"]
+            },
+            "Nail Trimming Reminders": {
+                "type": "boolean"
+            },
+            "Nail Trimming Assistance Type": {
+                "type": "options",
+                "options": ["Verbal Guidance", "Visual Aids", "Physical Assistance", "Other"]
+            },
+            "Nail Trimming Technique": {
+                "type": "options",
+                "options": ["Clippers", "File", "Other"]
+            }
+        }
+    }
+}
+
+Let me know if you need any further assistance!

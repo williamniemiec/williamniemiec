@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+    "Breathing Game": {
+        "Parameters": {
+            "Name": "",
+            "Description": "",
+            "Instructions": "",
+            "Images or Videos": "",
+            "Interactive Elements": "",
+            "Rewards": ""
+        }
+    }
+}

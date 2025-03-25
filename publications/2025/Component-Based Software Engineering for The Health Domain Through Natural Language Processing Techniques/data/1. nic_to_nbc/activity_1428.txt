@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+  "Comfort Tracker": {
+    "Parameters": {
+      "Comfort Level": {"Type": "options", "Options": ["Very uncomfortable", "Uncomfortable", "Neutral", "Comfortable", "Very comfortable"]},
+      "Notes": {"Type": "text"},
+      "Frequency": {"Type": "options", "Options": ["daily", "everyHours", "everyDays"]}
+    }
+  },
+  "Fever Tracker": {
+    "Parameters": {
+      "Temperature": {"Type": "number"},
+      "Notes": {"Type": "text"},
+      "Frequency": {"Type": "options", "Options": ["daily", "everyHours", "everyDays"]}
+    }
+  },
+  "Anxiety Tracker": {
+    "Parameters": {
+      "Anxiety Level": {"Type": "options", "Options": ["Very anxious", "Anxious", "Neutral", "Calm", "Very calm"]},
+      "Notes": {"Type": "text"},
+      "Frequency": {"Type": "options", "Options": ["daily", "everyHours", "everyDays"]}
+    }
+  }
+}

@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Stress Reduction Technique": {
+    "Technique Name": {"Required": true, "Type": "text"},
+    "Description": {"Required": true, "Type": "text"},
+    "Instructions": {"Required": true, "Type": ["text", "video", "audio"]},
+    "Frequency": {"Required": true, "Type": "options", "Options": ["daily", "everyOtherDay", "threeTimesAWeek", "etc."]},
+    "Duration": {"Required": true, "Type": ["text", "number"]}
+  }
+}
+
+
+Note that I removed the `Reminders` parameter since it was marked as not required (`false`).

@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Bed Control Accessibility": {
+    "Switch Type": {"Type": "options", "Options": ["manual", "electronic"]},
+    "Reach Zone": {"Type": "text"},
+    "Image/Video": {"Type": "image or video"},
+    "Switch Location": {"Type": "text"}
+  }
+}

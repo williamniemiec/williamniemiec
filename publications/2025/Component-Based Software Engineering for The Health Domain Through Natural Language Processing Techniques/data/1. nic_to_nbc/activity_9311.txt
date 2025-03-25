@@ -1,0 +1,8 @@
+Here is the output in JSON format:
+
+
+{
+  "Guided Content": {
+    "parameters": ["title", "content", "discussion prompts", "resources"]
+  }
+}

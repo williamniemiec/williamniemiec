@@ -1,0 +1,31 @@
+Here is the output in JSON format:
+
+
+{
+  "Nose Blowing Instruction": {
+    "Blowing Instruction": {
+      "Description": "Description of the blowing instruction",
+      "Required": true,
+      "Type": "text"
+    },
+    "Blowing Technique": {
+      "Description": "Correct blowing technique",
+      "Required": true,
+      "Type": "text"
+    },
+    "Frequency": {
+      "Description": "Frequency of blowing nose",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "daily", "label": "Daily" },
+        { "value": "onlyOnce", "label": "Only once" },
+        { "value": "everyHours", "label": "Every x hours" },
+        { "value": "everyDays", "label": "Every x days" }
+      ]
+    }
+  }
+}
+
+
+I removed the not applicable parameters and kept only the `{{ NO-CODE ELEMENT NAME }}` and `{{ PARAMETER ESPECIFICATIONS }}`.

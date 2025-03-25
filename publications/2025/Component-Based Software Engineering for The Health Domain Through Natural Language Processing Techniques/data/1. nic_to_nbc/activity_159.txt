@@ -1,0 +1,56 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Pregnancy Readiness Assessment",
+  "parameters": [
+    {
+      "name": "Name",
+      "type": "text"
+    },
+    {
+      "name": "Questions",
+      "type": "form"
+    },
+    {
+      "name": "Answer Type",
+      "type": "options",
+      "options": [
+        { value: "text", label: "Text" },
+        { value: "checkbox", label: "Checkbox" },
+        { value: "dropdown", label: "Dropdown" }
+      ]
+    },
+    {
+      "name": "Partner 1 Responses",
+      "type": "form"
+    },
+    {
+      "name": "Partner 2 Responses",
+      "type": "form"
+    },
+    {
+      "name": "Comparison",
+      "type": "options",
+      "options": [
+        { value: "compare answers", label: "Compare answers" },
+        { value: "identify areas of agreement", label: "Identify areas of agreement" },
+        { value: "identify areas of disagreement", label: "Identify areas of disagreement" }
+      ]
+    },
+    {
+      "name": "Frequency",
+      "type": "options",
+      "options": [
+        { value: "daily", label: "Daily" },
+        { value: "onlyOnce", label: "Only once" },
+        { value: "everyHours", label: "Every x hours" },
+        { value: "everyDays", label: "Every x days" }
+      ]
+    },
+    {
+      "name": "Deadline Date",
+      "type": "datetime"
+    }
+  ]
+}

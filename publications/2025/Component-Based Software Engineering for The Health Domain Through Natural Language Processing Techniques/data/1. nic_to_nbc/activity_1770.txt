@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Social Interaction Opportunity": {
+    "parameters": [
+      {"Name": {"type": "text"}},
+      {"Type": {"type": "options", "options": ["videoCall", "phoneCall", "inPersonVisit"]}},
+      {"Schedule": {"type": "datetime"}},
+      {"Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]}}
+    ]
+  }
+}

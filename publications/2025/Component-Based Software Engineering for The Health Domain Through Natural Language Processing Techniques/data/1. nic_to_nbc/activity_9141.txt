@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Trigger Area Assessment",
+  "parameters": [
+    {
+      "name": "trigger_areas",
+      "type": "list"
+    },
+    {
+      "name": "assessment_criteria",
+      "type": "text"
+    },
+    {
+      "name": "response_threshold",
+      "type": "text"
+    },
+    {
+      "name": "frequency",
+      "type": "options"
+    }
+  ]
+}
+
+
+I removed the `description`, `content_type`, and `deadline_date` parameters as they were not requested. I also removed the `required`, `default`, `options`, and `label` properties as they were not part of the original request. Let me know if you need any further modifications!

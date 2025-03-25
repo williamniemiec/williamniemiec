@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Fluid Administration Record": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Amount of Fluid Used": {"Type": "number"},
+      "Unit": {"Type": "options"},
+      "Characteristics of Fluid": {"Type": "text"},
+      "Amount Returned": {"Type": "number"},
+      "Unit": {"Type": "options"},
+      "Patient Responsiveness": {"Type": "text"},
+      "Frequency": {"Type": "options"},
+      "Deadline Date": {"Type": "datetime"},
+      "Notes": {"Type": "text"}
+    }
+  }
+}

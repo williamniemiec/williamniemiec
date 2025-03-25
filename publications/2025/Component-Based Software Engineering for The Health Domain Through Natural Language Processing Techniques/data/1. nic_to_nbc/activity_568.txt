@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Assistance Request": {
+    "parameters": {
+      "Movement Assessment": {"type": "form"},
+      "Assistance Guidelines": {"type": "text"},
+      "Call for Assistance Instructions": {"type": "text"},
+      "Safety Precautions": {"type": "text"},
+      "Frequency": {"type": "options"},
+      "Deadline Date": {"type": "datetime"}
+    }
+  }
+}

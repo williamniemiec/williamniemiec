@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Family Education": {
+    "Parameters": {
+      "Education Topic": {},
+      "Teaching Method": {},
+      "Family Member": {},
+      "Frequency": {}
+    }
+  }
+}

@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "IRB Compliance",
+  "parameters": [
+    {
+      "name": "IRB Information"
+    },
+    {
+      "name": "Consent"
+    },
+    {
+      "name": "Data Sharing"
+    }
+  ]
+}

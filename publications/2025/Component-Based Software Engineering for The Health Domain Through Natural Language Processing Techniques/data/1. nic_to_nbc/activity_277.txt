@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Skin Monitoring Instruction": {
+    "parameters": {
+      "name": {"type": "text"},
+      "content": {"type": ["text", "video"]},
+      "images": {"type": "list of images"},
+      "monitoring_frequency": {"type": "options"},
+      "areas_to_monitor": {"type": "options"},
+      "reporting": {"type": "options"},
+      "deadline_date": {"type": "datetime"}
+    }
+  }
+}
+
+
+I removed all the unnecessary text and only kept the `{{ NO-CODE ELEMENT NAME }}` (which is "Skin Monitoring Instruction") and the `{{ PARAMETER ESPECIFICATIONS }}`. I also formatted it in a JSON format as requested. Let me know if this meets your requirements!

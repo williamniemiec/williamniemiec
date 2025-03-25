@@ -1,0 +1,29 @@
+
+
+
+{
+  "Living Will Information": {
+    "parameters": [
+      {
+        "name": "state",
+        "description": "Select your state",
+        "required": true,
+        "type": "options",
+        "options": [
+          { "value": "AL", "label": "Alabama" },
+          { "value": "AK", "label": "Alaska" },
+          { "value": "AZ", "label": "Arizona" }
+        ]
+      },
+      {
+        "name": "living_will_info",
+        "description": "Information about living wills in your state",
+        "required": true,
+        "type": "text"
+      }
+    ]
+  }
+}
+
+
+Note: I removed the non-applicable parameters and only kept the `parameters` section. Let me know if you need any further modifications!

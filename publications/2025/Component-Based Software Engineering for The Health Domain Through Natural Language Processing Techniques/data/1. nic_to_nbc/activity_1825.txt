@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Fetal Risk Discussion": {
+    "Parameters": {
+      "Gestational Age": "",
+      "Fetal Risks": "",
+      "Risk Level": "",
+      "Explanation": "",
+      "Resources": ""
+    }
+  }
+}

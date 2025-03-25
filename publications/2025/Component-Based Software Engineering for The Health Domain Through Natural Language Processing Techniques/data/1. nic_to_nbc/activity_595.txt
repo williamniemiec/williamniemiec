@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Information": {
+    "parameters": {
+      "title": {"type": "text"},
+      "content": {"type": "text or HTML"},
+      "images": {"type": "list of image URLs or base64 encoded images"},
+      "gestational_age_options": {"type": "list of options"},
+      "length_of_demise_options": {"type": "list of options"}
+    }
+  }
+}

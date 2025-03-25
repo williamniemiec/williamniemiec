@@ -1,0 +1,33 @@
+Here is the output in JSON format:
+
+
+{
+    "Perception Questionnaire": {
+        "parameters": [
+            {"name": "Name", "value": "Perception of Fatigue Causes Questionnaire"},
+            {"name": "Questions", "value": ["What do you think is the main cause of your fatigue?", "How often do you feel that your fatigue is related to your medical condition?"]},
+            {"name": "Answer Type", "value": "options"},
+            {"name": "Frequency", "value": "how often the patient or significant other should complete the questionnaire"},
+            {"name": "Deadline Date", "value": "specify the due date for completing the questionnaire"}
+        ]
+    },
+    "Causal Attribution Scale": {
+        "parameters": [
+            {"name": "Name", "value": "Causal Attribution Scale"},
+            {"name": "Scale Type", "value": "the type of causal attribution scale used, such as the Causal Attribution Scale for Fatigue (CAS-F)"},
+            {"name": "Items", "value": ["My fatigue is caused by my medical condition", "My fatigue is caused by my medication"]},
+            {"name": "Answer Type", "value": "options"},
+            {"name": "Frequency", "value": "how often the patient or significant other should complete the scale"},
+            {"name": "Deadline Date", "value": "specify the due date for completing the scale"}
+        ]
+    },
+    "Open-Ended Reflection": {
+        "parameters": [
+            {"name": "Name", "value": "Open-Ended Reflection on Fatigue Causes"},
+            {"name": "Prompt", "value": "Please describe what you think is the main cause of your fatigue"},
+            {"name": "Answer Type", "value": "open-ended text"},
+            {"name": "Frequency", "value": "how often the patient or significant other should reflect on their perception of fatigue causes"},
+            {"name": "Deadline Date", "value": "specify the due date for reflection"}
+        ]
+    }
+}

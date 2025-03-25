@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Trunk Stabilization Exercise": {
+    "Name": {"Type": "text"},
+    "Description": {"Type": "text"},
+    "Step-by-Step Instructions": {"Type": ["text", "video"], "Steps": ["Move to sitting position", "Stabilize trunk with arms placed at side on bed/chair", "Rock trunk over supporting arms"]},
+    "Photos or Videos": {"Type": ["image", "video"]},
+    "Frequency": {"Type": "options", "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"Type": "datetime"},
+    "Tips and Precautions": {"Type": "text"}
+  }
+}

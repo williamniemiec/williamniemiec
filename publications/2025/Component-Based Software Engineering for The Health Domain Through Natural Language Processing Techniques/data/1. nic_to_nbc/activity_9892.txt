@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Personalized Connection": {
+    "patient_strengths": {"type": "text"},
+    "connection_type": {"type": "options"},
+    "personalized_message": {"type": "text"},
+    "engagement_strategy": {"type": "options"}
+  }
+}

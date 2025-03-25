@@ -1,0 +1,39 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Emotional Expression",
+    "parameters": [
+        { 
+            "name": "Name", 
+            "type": "text"
+        },
+        { 
+            "name": "Prompt", 
+            "type": "text"
+        },
+        { 
+            "name": "Response Type", 
+            "type": "options",
+            "options": [
+                { value: "text", label: "Text" },
+                { value: "audio", label: "Audio" },
+                { value: "video", label: "Video" },
+            ]
+        },
+        { 
+            "name": "Emotion Categories", 
+            "type": "list of text"
+        },
+        { 
+            "name": "Frequency", 
+            "type": "options",
+            "options": [
+                { value: "daily", label: "Daily" },
+                { value: "onlyOnce", label: "Only once" },
+                { value: "everyHours", label: "Every x hours" },
+                { value: "everyDays", label: "Every x days" },
+            ]
+        }
+    ]
+}

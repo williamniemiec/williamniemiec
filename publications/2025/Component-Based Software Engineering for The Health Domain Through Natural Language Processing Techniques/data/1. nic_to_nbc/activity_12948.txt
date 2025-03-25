@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Role Clarification": {
+    "Parameters": {
+      "Healthcare Provider Role": {"Type": "text"},
+      "Individual Role": {"Type": "text"},
+      "Explanation": {"Type": "text"}
+    }
+  }
+}

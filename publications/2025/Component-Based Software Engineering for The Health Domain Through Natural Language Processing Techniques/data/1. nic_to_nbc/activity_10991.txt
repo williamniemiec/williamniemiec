@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+{
+  "Relaxation Guide": {
+    "Technique": [
+      "Deep breathing exercises",
+      "Progressive muscle relaxation",
+      "Visualization",
+      "Meditation"
+    ],
+    "Instructions": {
+      "Type": ["text", "multimedia content (e.g. video, audio)"]
+    },
+    "Frequency": {
+      "Options": ["daily", "everyHours", "everyDays"]
+    },
+    "Duration": {
+      "Type": ["time interval (e.g. 5 minutes, 10 minutes)"]
+    }
+  }
+}

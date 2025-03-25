@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Expectation Assessment": {
+    "Parameters": {
+      "Expectation Type": {},
+      "Behavioral Scenario": {},
+      "Response Options": {},
+      "Follow-up Questions": {},
+      "Notes": {}
+    }
+  }
+}

@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+  "tracker": [
+    {
+      "name": "name",
+      "description": "tracker title"
+    },
+    {
+      "name": "intake_type",
+      "description": "type of intake to track"
+    },
+    {
+      "name": "output_type",
+      "description": "type of output to track"
+    },
+    {
+      "name": "frequency",
+      "description": "specify how often to track intake and output"
+    }
+  ]
+}
+
+
+I removed the not applicable parameters (i.e., `deadline_date` which is optional) and kept only the required ones. Let me know if this meets your requirements!

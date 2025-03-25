@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+    "perianal skin monitoring": {
+        "parameters": [
+            {"name": "inspection frequency", "description": "specify how often the perianal skin should be inspected"},
+            {"name": "inspection criteria", "description": "specify the criteria to inspect for (e.g., redness, swelling, warmth, pain)"},
+            {"name": "reporting", "description": "specify how to report any findings or concerns"}
+        ]
+    }
+}
+
+
+I removed the not applicable parameter `"deadline_date"` because it is optional (`"required": false`). I also removed the other unnecessary elements from the original text.

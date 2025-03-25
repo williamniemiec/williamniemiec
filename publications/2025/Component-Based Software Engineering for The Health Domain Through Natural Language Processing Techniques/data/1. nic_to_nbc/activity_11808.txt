@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Comfort Options": {
+    "parameters": [
+      {"name": "Comfort Options List", "type": "list of comfort options"},
+      {"name": "Patient Selection", "type": "list of selected comfort options"},
+      {"name": "Comfort Level", "type": "scale"},
+      {"name": "Relaxation Techniques", "type": "text or multimedia content"},
+      {"name": "Environmental Controls", "type": "list of environmental controls"}
+    ]
+  }
+}
+
+
+Note: I removed the "Not Applicable" parameters as per your request. Let me know if you need any further assistance!

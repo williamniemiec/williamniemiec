@@ -1,0 +1,34 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "task",
+    "parameters": [
+        { 
+            "name": "name", 
+            "description": "A parameter that specifies the title or name of the task.", 
+            "type": "text"
+        },
+        { 
+            "name": "content", 
+            "description": "A parameter that specifies the description or instructions for the task.", 
+            "type": "text"
+        },
+        { 
+            "name": "frequency", 
+            "description": "A parameter that specifies how often the task should be repeated.", 
+            "type": "options",
+            "options": [
+                { value: "daily", label: "Daily" },
+                { value: "onlyOnce", label: "Only once" },
+                { value: "everyHours", label: "Every x hours" },
+                { value: "everyDays", label: "Every x days" },
+            ]
+        },
+        { 
+            "name": "deadline_date", 
+            "description": "A parameter that specifies the due date for the task.", 
+            "type": "datetime"
+        }
+    ]
+}

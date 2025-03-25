@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Connection Guidance": {
+    "parameters": {
+      "name": {"type": "text"},
+      "connection_type": {"type": "options", "options": ["IV tubing", "saline lock"]},
+      "agency_protocol": {"type": "text"},
+      "image_url": {"type": "url"},
+      "video_url": {"type": "url"},
+      "notes": {"type": "text"}
+    }
+  }
+}

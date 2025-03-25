@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Symbolic Navigation": {
+    "symbol_type": {"type": "options"},
+    "location_type": {"type": "options"},
+    "symbol_placement": {"type": "text"},
+    "symbol_description": {"type": "text or HTML"}
+  }
+}

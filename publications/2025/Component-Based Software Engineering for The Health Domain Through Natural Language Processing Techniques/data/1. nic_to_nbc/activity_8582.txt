@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+  "Advisor Type": {
+    "type": "options",
+    "options": ["priest", "minister", "rabbi", "imam", "etc."]
+  },
+  "Advisor Name": {
+    "type": "text"
+  },
+  "Advisor Contact": {
+    "type": "text"
+  },
+  "Referral Request": {
+    "type": "boolean"
+  },
+  "Referral Status": {
+    "type": "options",
+    "options": ["pending", "approved", "denied"]
+  },
+  "Spiritual Advisor Referral": {}
+}

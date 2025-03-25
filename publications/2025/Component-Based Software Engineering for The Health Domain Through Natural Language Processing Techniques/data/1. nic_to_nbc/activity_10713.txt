@@ -1,0 +1,22 @@
+
+
+
+{
+    "Family Support": {
+        "Parameters": {
+            "Family Member/Significant Other": {},
+            "Relationship": {
+                "Options": [
+                    {"value": "spouse", "label": "Spouse"},
+                    {"value": "parent", "label": "Parent"},
+                    {"value": "child", "label": "Child"},
+                    {"value": "sibling", "label": "Sibling"},
+                    {"value": "friend", "label": "Friend"},
+                    {"value": "other", "label": "Other"}
+                ]
+            },
+            "Contact Information": {},
+            "Notes": {}
+        }
+    }
+}

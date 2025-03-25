@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Fluid and Electrote Tracker": {
+    "Symptoms": {"type": "options"},
+    "Frequency": {"type": "options"},
+    "Intensity": {"type": "options"},
+    "Notes": {"type": "text"}
+  }
+}

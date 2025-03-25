@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Breastfeeding Complications Guidance": {
+    "Complication": {"type": "options", "options": ["Plugged ducts", "Mastitis", "Candidiasis infection"]},
+    "Signs and Symptoms": {"type": "checklist"},
+    "Management Strategies": {"type": "checklist"},
+    "Additional Resources": {"type": "text or link", "optional": true},
+    "Frequency": {"type": "options", "options": ["everyFeeding", "everyXFeedings", "atWill"]},
+    "Deadline Date": {"type": "datetime", "optional": true}
+  }
+}
+
+
+Let me know if this meets your requirements!

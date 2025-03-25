@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Arm Swelling Monitoring": {
+    "Parameters": [
+      {"Arm Swelling": {"Type": "boolean", "Options": ["yes/no"]}},
+      {"Increased Warmth": {"Type": "boolean", "Options": ["yes/no"]}},
+      {"Severity": {"Type": "options", "Options": ["mild", "moderate", "severe"]}},
+      {"Frequency": {"Type": "options", "Options": ["daily", "weekly", "with each scheduled checkup visit"]}},
+      {"Deadline Date": {"Type": "datetime"}}
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Positive Response Identification",
+    "parameters": [
+        {
+            "name": "Social Interaction",
+            "type": "options"
+        },
+        {
+            "name": "Positive Response Description",
+            "type": "text"
+        },
+        {
+            "name": "Emotions Associated",
+            "type": "options"
+        },
+        {
+            "name": "Reflection Prompt",
+            "type": "text"
+        }
+    ]
+}

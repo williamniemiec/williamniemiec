@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Vital Sign Tracker": {
+    "Parameters": {
+      "Vital Sign Type": {},
+      "Frequency": {},
+      "Unit": {},
+      "Target Range": {}
+    }
+  }
+}
+
+
+Note: I removed the `Deadline Date` parameter as it is not applicable in this context. Also, I assumed that the parameters without specific values should be represented as empty objects `{}` in the JSON output. If you need a different representation, please let me know!

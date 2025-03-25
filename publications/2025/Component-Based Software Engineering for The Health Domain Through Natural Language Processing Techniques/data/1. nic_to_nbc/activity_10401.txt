@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Family Inclusion",
+    "parameters": [
+        {
+            "name": "title"
+        },
+        {
+            "name": "inclusion"
+        },
+        {
+            "name": "family_members"
+        },
+        {
+            "name": "roles"
+        },
+        {
+            "name": "resources"
+        }
+    ]
+}

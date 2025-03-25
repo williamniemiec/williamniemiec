@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Cooling Application": {
+    "Device Type": {},
+    "Application Instructions": {},
+    "Duration": {},
+    "Frequency": {},
+    "Special Precautions": {}
+  }
+}

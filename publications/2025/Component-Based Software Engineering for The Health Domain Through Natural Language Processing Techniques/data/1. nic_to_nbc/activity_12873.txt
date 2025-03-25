@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "dressing": {
+        "parameters": [
+            {"name": "location", "description": "specify the area where the dressing should be applied", "required": true, "type": "text", "default": "venipuncture site"},
+            {"name": "type", "description": "specify the type of dressing or bandage", "required": true, "type": "options", "options": [{"value": "pressureBandage", "label": "Pressure Bandage"}, {"value": "dressing", "label": "Dressing"}]}
+        ]
+    }
+}
+
+
+Note that I removed the `instructions` parameter since it's not applicable (i.e., its `required` field is set to `false`). Let me know if you'd like me to include it anyway!

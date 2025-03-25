@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Therapeutic Diet Plan": {
+    "Parameters": {
+      "Dietary Recommendations": [],
+      "Meal Planning": [],
+      "Nutrient Goals": [],
+      "Food Diary": [],
+      "Reminders": [],
+      "Resources": []
+    }
+  }
+}

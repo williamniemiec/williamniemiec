@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+    "Heparinized Saline Flush for Implanted Ports": {
+        "parameters": {
+            "name": {"type": "text"},
+            "device_type": {"type": "options"},
+            "instructions": {"type": "text or video"},
+            "frequency": {"type": "options"},
+            "deadline_date": {"type": "datetime"},
+            "heparin_strength": {"type": "text or options"},
+            "volume": {"type": "number"},
+            "confirmation": {"type": "boolean"}
+        }
+    }
+}

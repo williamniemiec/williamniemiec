@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Listening Support": {
+    "Family Member": {"type": "text"},
+    "Concerns": {"type": "text"},
+    "Emotional Support": {"type": "options", "options": ["active listening", "empathy", "etc."]},
+    "Follow-up": {"type": "boolean"}
+  }
+}

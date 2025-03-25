@@ -1,0 +1,31 @@
+Here is the output in JSON format:
+
+
+{
+  "positioning_reminder": {
+    "parameters": {
+      "Positioning Frequency": {
+        "description": "How often the patient should change their position.",
+        "required": true,
+        "type": "options",
+        "options": [
+          { "value": "every1hour", "label": "Every 1 hour" },
+          { "value": "every2hours", "label": "Every 2 hours" }
+        ]
+      },
+      "Reminder Message": {
+        "description": "Customizable reminder message to encourage the patient to change their position.",
+        "required": true,
+        "type": "text"
+      },
+      "Start Time": {
+        "description": "The start time for the positioning reminders.",
+        "required": true,
+        "type": "datetime"
+      }
+    }
+  }
+}
+
+
+I removed the `End Time` parameter since it's not required. Let me know if this meets your requirements!

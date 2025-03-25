@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Bracing Device Care Guide": {
+    "Parameters": [
+      {"Name": "Bracing Device Care Guide", "Description": "Title of the guide"},
+      {"Pages": "List of pages with instructions", "Description": "List of HTML texts with instructions on how to care for the bracing device"},
+      {"Frequency": "Specify how often the patient should review the guide", "Description": "Frequency of reviewing the guide"}
+    ]
+  }
+}

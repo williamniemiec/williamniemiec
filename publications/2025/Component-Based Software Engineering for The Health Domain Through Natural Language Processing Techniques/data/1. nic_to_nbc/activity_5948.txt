@@ -1,0 +1,32 @@
+Here is the output in JSON format:
+
+
+{
+  "Family Involvement": {
+    "Parameters": {
+      "Family Member": {
+        "Type": "family member demographics and contact information",
+        "Required": true
+      },
+      "Involvement Type": {
+        "Type": "options (list of involvement types)",
+        "Required": true
+      },
+      "Care Plan": {
+        "Type": "care plan document",
+        "Required": true
+      },
+      "Communication Method": {
+        "Type": "options (list of communication methods)",
+        "Required": true
+      },
+      "Frequency of Involvement": {
+        "Type": "options (list of frequencies)",
+        "Required": true
+      }
+    }
+  }
+}
+
+
+I removed the not applicable parameters, such as `Progress Updates` since it's not required. Let me know if you need any further assistance!

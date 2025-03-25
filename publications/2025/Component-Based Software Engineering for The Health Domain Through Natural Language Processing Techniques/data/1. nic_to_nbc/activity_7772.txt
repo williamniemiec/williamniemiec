@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+    "Optimal Analgesia Planning": {
+        "Analgesic Options": {"Type": "list"},
+        "Route Options": {"Type": "list"},
+        "Dosage Options": {"Type": "list"},
+        "Pain Goals": {"Type": "text"},
+        "Medical History": {"Type": "text"},
+        "Preferred Analgesic": {"Type": "text"},
+        "Preferred Route": {"Type": "text"},
+        "Preferred Dosage": {"Type": "text"}
+    }
+}

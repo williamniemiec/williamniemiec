@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Parental Adaptation Assessment": {
+    "parameters": [
+      {"Adaptation Scale": {"type": "numeric"}},
+      {"Open-Ended Questions": {"type": "text"}},
+      {"Checklist": {"type": "options"}},
+      {"Reflection and Feedback": {"type": "text"}}
+    ]
+  }
+}

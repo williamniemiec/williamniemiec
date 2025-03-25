@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Fatigue Education": {
+    "Parameters": {
+      "Fatigue Overview": {},
+      "Common Symptoms": {},
+      "Latent Recurrences": {},
+      "Self-Care Strategies": {}
+    }
+  }
+}

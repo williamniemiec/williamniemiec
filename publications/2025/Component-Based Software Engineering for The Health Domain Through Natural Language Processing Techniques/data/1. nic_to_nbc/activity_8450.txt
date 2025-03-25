@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Agitation Monitor": {
+    "Warning Signs": {"type": "options", "options": ["raised voice", "pacing", "restlessness", "etc."]},
+    "Frequency": {"type": "options", "options": ["daily", "weekly", "monthly", "etc."]},
+    "Assessment Type": {"type": "options", "options": ["self-report", "caregiver observation", "etc."]},
+    "Threshold": {"type": "options", "options": ["mild", "moderate", "severe"]},
+    "Deadline Date": {"type": "datetime"}
+  }
+}

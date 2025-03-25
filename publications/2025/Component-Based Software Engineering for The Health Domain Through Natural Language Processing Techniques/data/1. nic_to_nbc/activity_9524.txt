@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Support System Reminder": {
+    "Parameters": {
+      "Title": {"Type": "text"},
+      "Message": {"Type": "text"},
+      "Support System": {"Type": "options", "Options": ["emotional support", "financial support", "practical support"]},
+      "Frequency": {"Type": "options", "Options": ["daily", "weekly", "monthly"]}
+    }
+  }
+}
+
+
+I removed the `Contact Information` parameter since it's a complex object and not applicable in this context. Let me know if you need any further assistance!

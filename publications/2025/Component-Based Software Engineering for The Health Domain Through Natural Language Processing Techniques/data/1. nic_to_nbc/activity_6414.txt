@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Stimulation Adjustment": {
+    "Current Method": {"Type": "text"},
+    "Current Site": {"Type": "text"},
+    "Alternative Methods": {"Type": "unordered list"},
+    "Alternative Sites": {"Type": "unordered list"},
+    "Instructions": {"Type": "text or multimedia"}
+  }
+}
+
+
+Let me know if this meets your requirements!

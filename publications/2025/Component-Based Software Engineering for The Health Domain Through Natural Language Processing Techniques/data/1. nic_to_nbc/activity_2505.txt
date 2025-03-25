@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Electronic Communication": {
+    "Communication Options": {"type": "list of text"},
+    "Friend List": {"type": "list of text"},
+    "Frequency": {"options": ["daily", "weekly", "monthly", "etc."]},
+    "Tips": {"type": "list of text or HTML content"}
+  },
+  "Task": {
+    "Name": {"type": "text"},
+    "Content": {"type": "text"},
+    "Frequency": {"options": ["daily", "weekly", "monthly", "etc."]}
+  },
+  "Resource": {
+    "Name": {"type": "text"},
+    "Description": {"type": "text"},
+    "Link": {"type": "URL"}
+  }
+}

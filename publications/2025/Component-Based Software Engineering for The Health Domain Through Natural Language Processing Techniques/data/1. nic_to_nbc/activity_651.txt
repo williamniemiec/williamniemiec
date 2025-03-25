@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+    "Bowel Movement Tracker": {
+        "Name": {"Type": "text"},
+        "Abnormality List": {"Type": "list"},
+        "Frequency": {"Type": "options"},
+        "Deadline Date": {"Type": "datetime"},
+        "Description": {"Type": "text"}
+    },
+    "Symptom Checker": {
+        "Name": {"Type": "text"},
+        "Symptom List": {"Type": "list"},
+        "Severity Scale": {"Type": "scale"},
+        "Frequency": {"Type": "options"},
+        "Deadline Date": {"Type": "datetime"}
+    }
+}
+
+
+Let me know if this meets your requirements!

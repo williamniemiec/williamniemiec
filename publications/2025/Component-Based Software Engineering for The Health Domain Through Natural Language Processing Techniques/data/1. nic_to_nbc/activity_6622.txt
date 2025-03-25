@@ -1,0 +1,33 @@
+Here is the output in JSON format:
+
+
+{
+    "Questionnaire": {
+        "parameters": {
+            "name": "",
+            "questions": [],
+            "question_types": []
+        }
+    },
+    "Decision Tree": {
+        "parameters": {
+            "name": "",
+            "rules": [],
+            "outcomes": []
+        }
+    },
+    "Recommendation": {
+        "parameters": {
+            "name": "",
+            "strategy": "",
+            "explanation": ""
+        }
+    },
+    "Resource": {
+        "parameters": {
+            "name": "",
+            "resource_type": "",
+            "resource_url": ""
+        }
+    }
+}

@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Health Condition Analysis": {
+    "parameters": [
+      {"name": "Health Condition", "type": "text"},
+      {"name": "Analysis Criteria", "type": "list of text"},
+      {"name": "Condition Characteristics", "type": "list of text"},
+      {"name": "Risk Factors", "type": "list of text"},
+      {"name": "Treatment Options", "type": "list of text"},
+      {"name": "Frequency", "type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      {"name": "Deadline Date", "type": "datetime"}
+    ]
+  }
+}

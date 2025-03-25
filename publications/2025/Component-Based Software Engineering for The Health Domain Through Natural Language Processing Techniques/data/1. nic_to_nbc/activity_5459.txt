@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Positioning Guidance",
+    "parameters": [
+        { 
+            "name": "Description", 
+            "description": "A parameter that specifies the description of the desired sitting position and orientation.",
+            "type": "text or HTML"
+        },
+        { 
+            "name": "Image", 
+            "description": "A parameter that specifies an image or diagram to illustrate the desired sitting position and orientation.",
+            "type": "image"
+        },
+        { 
+            "name": "Tips", 
+            "description": "A parameter that specifies additional tips or reminders to help the patient achieve the desired sitting position and orientation.",
+            "type": "list of text or HTML"
+        }
+    ]
+}
+
+
+Let me know if this meets your requirements!

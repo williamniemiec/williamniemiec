@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Sleep and Rest Plan": {
+    "parameters": [
+      {"name": "Sleep duration", "type": "number"},
+      {"name": "Sleep quality", "type": "options", "options": [{"value": "good", "label": "Good"}, {"value": "fair", "label": "Fair"}, {"value": "poor", "label": "Poor"}]},
+      {"name": "Sleep disturbances", "type": "multiselect", "options": [{"value": "insomnia", "label": "Insomnia"}, {"value": "sleepApnea", "label": "Sleep Apnea"}, {"value": "restlessLegSyndrome", "label": "Restless Leg Syndrome"}, {"value": "other", "label": "Other (please specify)"}]},
+      {"name": "Sleep schedule", "type": "datetime"},
+      {"name": "Relaxation techniques", "type": "multiselect", "options": [{"value": "meditation", "label": "Meditation"}, {"value": "deepBreathing", "label": "Deep Breathing"}, {"value": "progressiveMuscleRelaxation", "label": "Progressive Muscle Relaxation"}, {"value": "other", "label": "Other (please specify)"}]},
+      {"name": "Rest breaks", "type": "datetime"},
+      {"name": "Review plan", "type": "text"}
+    ]
+  }
+}
+
+
+Note that I removed the "Submit plan" parameter as it's a button type, which is not typically considered a parameter. Let me know if you'd like me to include it anyway!

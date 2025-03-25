@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Thought Explorer": {
+        "Parameters": {
+            "Thought Identification": {"Type": "text"},
+            "Distortion Detection": {"Type": "interactive quiz or game with examples and scenarios"},
+            "Evidence Evaluation": {"Type": "interactive table or chart with columns for evidence, assumptions, and conclusions"},
+            "Alternative Perspectives": {"Type": "interactive exercise with prompts and examples"},
+            "Reflection": {"Type": "text or audio reflection"}
+        }
+    }
+}

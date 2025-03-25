@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+  "Identity Verification Hold": {
+    "Error Detection": {
+      "Options": ["patientReport", "systemFlag", "other"]
+    },
+    "Hold Action": {
+      "Type": "text"
+    },
+    "Verification Method": {
+      "Options": ["phoneCall", "inPersonMeeting", "biometricScan", "other"]
+    },
+    "Timeout Period": {
+      "Type": "datetime"
+    },
+    "Escalation Protocol": {
+      "Type": "text"
+    }
+  }
+}

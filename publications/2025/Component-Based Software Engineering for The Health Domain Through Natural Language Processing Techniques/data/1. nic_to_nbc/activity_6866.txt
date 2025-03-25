@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Healthy Habits Guide": {
+    "Parameters": {
+      "Title": {"Type": "text"},
+      "Pages": {"Type": "book-page", "book-page": "list of HTML texts"},
+      "Target Audience": {"Type": "options", "Options": ["individuals", "families", "groups"]},
+      "Focus Area": {"Type": "options", "Options": ["healthy eating", "sleeping", "exercising", "stress management", "etc."]},
+      "Resources": {"Type": "list of resources", "Resource": {"type": "video/image/link", "url": "resource URL"}}
+    }
+  }
+}
+
+
+Let me know if this meets your requirements!

@@ -1,0 +1,30 @@
+Here is the output in JSON format:
+
+
+{
+  "GECS Maintenance": {
+    "Maintenance Status": ["Yes", "No"],
+    "GECS Type": ["Stockings", "Sleeves"],
+    "GECS Size": "numeric value",
+    "GECS Compression Level": "numeric value",
+    "Adherence Status": ["Adherent", "Non-adherent"],
+    "Reasons for Non-Adherence": ["Forgot", "Difficulty with maintenance", "Other"]
+  },
+  "GECS Inspection": {
+    "Inspection Status": ["Yes", "No"],
+    "Inspection Frequency": ["Daily", "Weekly", "Monthly", "Other"],
+    "Inspection Findings": ["Holes", "Tears", "Fading", "Other"]
+  },
+  "GECS Replacement": {
+    "Replacement Status": ["Yes", "No"],
+    "Replacement Frequency": ["Every 3-6 months", "Every 6-12 months", "Other"],
+    "Reasons for Non-Replacement": ["Forgot", "Difficulty with replacement", "Other"]
+  },
+  "PTS Risk Assessment": {
+    "PTS Symptoms": ["Pain", "Swelling", "Redness", "Warmth", "Other"],
+    "PTS Severity": ["Mild", "Moderate", "Severe"]
+  }
+}
+
+
+I removed all unnecessary text and kept only the `{{ NO-CODE ELEMENT NAME }}` and `{{ PARAMETER ESPECIFICATIONS }}`. I also removed not applicable parameters. Let me know if you need any further assistance!

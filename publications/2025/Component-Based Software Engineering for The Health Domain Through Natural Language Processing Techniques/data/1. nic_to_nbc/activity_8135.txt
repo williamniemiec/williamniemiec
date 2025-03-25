@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Symptom Checker": {
+    "parameters": [
+      {"name": "name", "description": "title of the symptom checker"},
+      {"name": "symptoms", "description": "list of symptoms to check"},
+      {"name": "answer type", "description": "type of answer expected"},
+      {"name": "frequency", "description": "how often to check for symptoms"}
+    ]
+  }
+}
+
+I removed the `deadline_date` parameter since it's not applicable (i.e., its `required` property is set to `false`). Let me know if you have any further questions or clarifications!

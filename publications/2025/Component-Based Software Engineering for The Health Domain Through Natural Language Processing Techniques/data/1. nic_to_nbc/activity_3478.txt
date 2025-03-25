@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+    "Pressure Application": {
+        "Parameters": {
+            "Pressure Duration": {"Type": "text"},
+            "Application Instructions": {"Type": "text"},
+            "Image": {"Type": "image"},
+            "Video": {"Type": "video"},
+            "Frequency": {"Type": "options"},
+            "Deadline Date": {"Type": "datetime"}
+        }
+    }
+}

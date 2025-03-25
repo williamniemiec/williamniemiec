@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Labeling": {
+    "parameters": [
+      {"item_type": "A parameter that specifies the type of item to be labeled (e.g., appliance, medication bottle, clothing)."},
+      {"labeling_method": "A parameter that specifies the method of labeling (e.g., color-coding, high-contrasting colors, rubber bands, safety pins)."},
+      {"frequency": "A parameter that specifies how often the labeling task should be repeated."},
+      {"deadline_date": "A parameter that specifies the due date for the labeling task."},
+      {"notes": "A parameter that allows the patient to add any additional notes or comments about the labeling task."}
+    ]
+  }
+}

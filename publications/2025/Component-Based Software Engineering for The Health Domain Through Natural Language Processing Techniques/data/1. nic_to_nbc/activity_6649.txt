@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Dressing Change": {
+    "Name": {"Type": "text"},
+    "Instructions": {"Type": "text or multimedia"},
+    "Frequency": {"Type": "options"},
+    "Deadline Date": {"Type": "datetime"},
+    "Gauze Type": {"Type": "text or options"}
+  }
+}

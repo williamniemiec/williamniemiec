@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "TENS Settings": {
+    "Parameters": {
+      "Amplitude Setting": {"Type": "numeric"},
+      "Rate Setting": {"Type": "numeric"},
+      "Pulse Width Setting": {"Type": "numeric"},
+      "Settings Confirmation": {"Type": "boolean"},
+      "Frequency": {"Type": "options", "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"Type": "datetime"}
+    }
+  }
+}
+
+
+I removed all the unnecessary text and only kept the `{{ NO-CODE ELEMENT NAME }}` and `{{ PARAMETER ESPECIFICATIONS }}`. I also reformatted the parameters to be more readable in JSON format. Let me know if you need any further adjustments!

@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+    "Rest Period Schedule": {
+        "Type": "time range"
+    },
+    "Notification Message": {
+        "Type": "text"
+    },
+    "Interruption Exceptions": {
+        "Type": "options",
+        "Options": ["emergency", "medication administration", "etc."]
+    }
+}
+
+
+Let me know if this is what you were looking for!

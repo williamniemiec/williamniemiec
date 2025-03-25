@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Guide": {
+    "Parameters": {
+      "Name": "title of the guide (e.g., \"Importance of Wearing Eye Wear During Laser Use\")",
+      "Pages": "list of HTML texts or instructional content explaining the importance of wearing eye wear during laser use, including the risks of not wearing it and how to properly use it"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+Here is the output in JSON format:
+
+{
+  "Dietitian Consultation": {
+    "Consultation Topic": {"Type": "text"},
+    "Dietitian Recommendations": {"Type": "text"},
+    "Action Plan": {"Type": "text"},
+    "Follow-up": {"Type": "datetime"}
+  }
+}

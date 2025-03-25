@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Contraindication Guide": {
+        "Pessary Type": {"type": "options", "options": [{"value": "ring", "label": "Ring"}, {"value": "dish", "label": "Dish"}, {"value": "cube", "label": "Cube"}]},
+        "Contraindications": {"type": "unordered list"},
+        "Intercourse": {"type": "boolean"},
+        "Douching": {"type": "boolean"}
+    }
+}
+
+
+Note that I removed the `Additional Info` parameter since it was marked as not required. Let me know if you have any further questions!

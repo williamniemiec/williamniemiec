@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Nutritional Supplement Selection": {
+    "Patient Needs": {},
+    "Supplement Options": {},
+    "Supplement Selection": {},
+    "Dosage and Frequency": {},
+    "Interactions and Contraindications": {}
+  }
+}

@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Self-Care for Minor Foot Problems": {
+    "Parameters": [
+      {"Name": "Self-Care for Minor Foot Problems", "Description": "Guide title", "Required": true, "Type": "text"},
+      {"Minor Foot Problems": {"Description": "Select the minor foot problems to learn about self-care measures", "Required": true, "Type": "checklist", "Options": ["cuts", "scrapes", "blisters", "ingrownToenails", "fungalInfections", "other"]}},
+      {"Self-Care Measures": {"Description": "Select the self-care measures to learn about", "Required": true, "Type": "checklist", "Options": ["cleaning", "antibioticOintment", "bandaging", "elevation", "rest", "overTheCounterMedications"]}},
+      {"Resources": {"Description": "Select the resources to use for learning about self-care measures", "Required": true, "Type": "options", "Options": ["video", "article", "infographic", "quiz"]}}
+    ]
+  }
+}

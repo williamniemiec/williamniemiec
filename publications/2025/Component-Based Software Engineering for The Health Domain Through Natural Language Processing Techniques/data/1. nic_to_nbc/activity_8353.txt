@@ -1,0 +1,37 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Education",
+    "parameters": [
+        { 
+            "name": "title", 
+            "type": "text"
+        },
+        { 
+            "name": "content", 
+            "type": "text"
+        },
+        { 
+            "name": "contraception_info", 
+            "type": "text"
+        },
+        { 
+            "name": "resources", 
+            "type": "list of resources",
+            "resources": [
+                { 
+                    "text": "Educational brochure on sexual function and therapy", 
+                    "type": "text"
+                },
+                { 
+                    "text": "Support group for patients with sexual dysfunction", 
+                    "type": "text"
+                }
+            ]
+        }
+    ]
+}
+
+
+Note that I removed the "description" field as it was not requested in the output. Also, I assumed that all parameters are required and didn't include a "required" field. Let me know if you need any further adjustments!

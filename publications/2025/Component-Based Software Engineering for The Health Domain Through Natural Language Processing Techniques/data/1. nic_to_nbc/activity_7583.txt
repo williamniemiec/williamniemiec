@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Forgiveness Exploration": {
+    "parameters": {
+      "Reflection Prompt": {},
+      "Journaling": {},
+      "Forgiveness Stage": {},
+      "Frequency": {}
+    }
+  }
+}
+
+
+Note: I removed `Deadline Date` as it's not applicable, and only kept the parameter names without their descriptions and types.

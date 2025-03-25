@@ -1,0 +1,14 @@
+
+
+
+{
+  "Self-Care Responsibility Tracker": {
+    "parameters": [
+      {"name": "Self-Care Tasks"},
+      {"name": "Responsibility Level"},
+      {"name": "Frequency"},
+      {"name": "Deadline Date"},
+      {"name": "Notes"}
+    ]
+  }
+}

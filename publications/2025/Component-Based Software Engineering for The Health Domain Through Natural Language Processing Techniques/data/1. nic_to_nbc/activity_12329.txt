@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+  "Guide": {
+    "parameters": {
+      "name": "",
+      "pages": [],
+      "images": []
+    }
+  },
+  "Task": {
+    "parameters": {
+      "name": "",
+      "content": "",
+      "frequency": "",
+      "deadline_date": ""
+    }
+  }
+}
+
+
+Note that I removed the `not applicable` parameters and only kept the ones specified in the input text. Let me know if this meets your requirements!

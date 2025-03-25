@@ -1,0 +1,10 @@
+{
+  "name": "Catheterization and Tube Management",
+  "description": "Manages catheter insertion, flushing, and maintenance, including monitoring for leakage and ensuring proper ambulation.",
+  "type": "non-periodic",
+  "input": ["Catheter type", "Insertion procedure", "Flushing schedule", "Leakage detection"],
+  "output": ["Catheter maintenance report", "Leakage and blockage alerts", "Flushing status"],
+  "preconditions": ["Catheter is inserted and requires monitoring"],
+  "postconditions": ["Catheter function is maintained and potential issues are addressed"],
+  "dependencies": ["Medical monitoring system", "Flushing schedule tracker", "Leakage detection tools"]
+}

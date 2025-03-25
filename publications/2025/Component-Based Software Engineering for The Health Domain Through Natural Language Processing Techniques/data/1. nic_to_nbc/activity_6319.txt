@@ -1,0 +1,52 @@
+Here is the output in JSON format:
+
+
+{
+  "Administer medication": {
+    "Medication type": {
+      "Description": "select the type of medication to administer",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        {"value": "prophylactic antibiotic", "label": "Prophylactic antibiotic"},
+        {"value": "vaccination", "label": "Vaccination"},
+        {"value": "antihistamine", "label": "Antihistamine"},
+        {"value": "antiinflammatory", "label": "Antiinflammatory"},
+        {"value": "analgesic", "label": "Analgesic"},
+        {"value": "other", "label": "Other (specify)"}
+      ]
+    },
+    "Medication name": {
+      "Description": "enter the name of the medication",
+      "Required": true,
+      "Type": "text"
+    },
+    "Dosage": {
+      "Description": "enter the dosage of the medication",
+      "Required": true,
+      "Type": "text"
+    },
+    "Frequency": {
+      "Description": "select how often to take the medication",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        {"value": "once", "label": "Once"},
+        {"value": "twice a day", "label": "Twice a day"},
+        {"value": "three times a day", "label": "Three times a day"},
+        {"value": "four times a day", "label": "Four times a day"},
+        {"value": "other", "label": "Other (specify)"}
+      ]
+    },
+    "Duration": {
+      "Description": "select how long to take the medication",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        {"value": "until symptoms resolve", "label": "Until symptoms resolve"},
+        {"value": "for a specified number of days", "label": "For a specified number of days"},
+        {"value": "other", "label": "Other (specify)"}
+      ]
+    }
+  }
+}

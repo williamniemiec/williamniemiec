@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "trimming recommendation",
+    "parameters": [
+        { 
+            "name": "recommendation", 
+            "description": "recommendation for trimming (yes/no)", 
+            "required": true, 
+            "type": "boolean"
+        },
+        { 
+            "name": "reason", 
+            "description": "reason for the recommendation (e.g. high risk of injury)", 
+            "required": true, 
+            "type": "text"
+        },
+        { 
+            "name": "specialist info", 
+            "description": "information about the specialist (e.g. name, contact info)", 
+            "required": true, 
+            "type": "text"
+        }
+    ]
+}

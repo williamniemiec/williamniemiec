@@ -1,0 +1,43 @@
+Here is the output in JSON format:
+
+
+{
+  "Nausea Assessment": {
+    "Frequency": {
+      "Description": "How often do you experience nausea?",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "daily", "label": "Daily" },
+        { "value": "everyHours", "label": "Every x hours" },
+        { "value": "everyDays", "label": "Every x days" }
+      ]
+    },
+    "Duration": {
+      "Description": "How long do you experience nausea?",
+      "Required": true,
+      "Type": "text"
+    },
+    "Severity": {
+      "Description": "How severe is your nausea?",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "mild", "label": "Mild" },
+        { "value": "moderate", "label": "Moderate" },
+        { "value": "severe", "label": "Severe" }
+      ]
+    },
+    "Precipitating Factors": {
+      "Description": "What triggers your nausea?",
+      "Required": true,
+      "Type": "checklist",
+      "Options": [
+        { "value": "food", "label": "Food" },
+        { "value": "smell", "label": "Smell" },
+        { "value": "stress", "label": "Stress" },
+        { "value": "other", "label": "Other" }
+      ]
+    }
+  }
+}

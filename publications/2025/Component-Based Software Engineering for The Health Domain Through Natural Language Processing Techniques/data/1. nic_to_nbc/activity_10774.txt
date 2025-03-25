@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Dietary Plan Tracker": {
+    "Parameters": {
+      "Dietary Plan Overview": {"Type": "text or interactive elements"},
+      "Monitoring Schedule": {"Type": "calendar or schedule view"},
+      "Progress Tracking": {"Type": "interactive form or chart"},
+      "Alerts and Reminders": {"Type": "push notifications or in-app reminders"},
+      "Care Team Notifications": {"Type": "messaging platform or notification system"}
+    }
+  }
+}
+
+
+Let me know if you need any further assistance!

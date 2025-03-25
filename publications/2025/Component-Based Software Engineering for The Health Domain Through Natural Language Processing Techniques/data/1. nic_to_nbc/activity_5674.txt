@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Drug Interaction Checker": {
+    "Medications": {},
+    "Interactions": {},
+    "Severity": {},
+    "Frequency": {},
+    "Deadline Date": {},
+    "Notes": {}
+  }
+}

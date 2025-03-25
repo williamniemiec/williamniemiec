@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Self-Care Assistant": {
+    "parameters": [
+      {"name": "Self-Care Tasks", "type": "options"},
+      {"name": "Guidance Type", "type": "options"},
+      {"name": "Frequency", "type": "options"}
+    ]
+  }
+}
+
+
+Note that I removed the `Deadline Date` and `Additional Resources` parameters as they were marked as not applicable.

@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Pain Management": {
+    "Medication": {"type": "text"},
+    "Dosage": {"type": "text"},
+    "Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Pain Assessment": {"type": "options", "options": ["numerical rating scale (e.g., 0-10)", "verbal rating scale (e.g., mild, moderate, severe)"]},
+    "Hypoventilation Risk": {"type": "text"},
+    "Reminders": {"type": "boolean"}
+  }
+}

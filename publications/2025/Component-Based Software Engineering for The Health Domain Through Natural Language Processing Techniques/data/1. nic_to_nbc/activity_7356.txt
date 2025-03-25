@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+    "CNS Symptom Tracking": {
+        "Parameters": {
+            "Symptom": {"Type": "options"},
+            "Severity": {"Type": "options"},
+            "Frequency": {"Type": "options"},
+            "Duration": {"Type": "numeric"},
+            "Notes": {"Type": "text"},
+            "Alert Threshold": {"Type": "options"}
+        }
+    }
+}

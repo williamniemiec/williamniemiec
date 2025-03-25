@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Instruction": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Content": {"Type": "text"},
+      "Image": {"Type": "image"},
+      "Condition": {"Type": "options", "Options": ["when using specific medical device", "when in specific location", "always"]}
+    }
+  }
+}

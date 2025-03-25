@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Breast Monitoring": {
+    "parameters": {
+      "Temperature": {},
+      "Color": {},
+      "Nipple Condition": {},
+      "Frequency": {},
+      "Instructions": {}
+    }
+  }
+}
+
+
+Note: I removed `Deadline Date` and `Resources` as they are not applicable parameters.

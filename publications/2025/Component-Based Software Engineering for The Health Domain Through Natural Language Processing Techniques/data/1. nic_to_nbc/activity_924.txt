@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Motivation Assessment": {
+    "parameters": {
+      "question": {"type": "text"},
+      "answer_type": {"type": "options", "values": ["Likert scale (e.g., 1-5)", "Yes/No", "Text", "etc."]},
+      "options": {"type": "list of option objects", "option_object": {
+        "label": {"type": "text"},
+        "value": {"type": "numeric or text"}
+      }},
+      "frequency": {"type": "options", "values": ["daily", "everyOtherDay", "every2Days", "every3Days", "etc."]},
+      "deadline_date": {"type": "datetime"}
+    }
+  }
+}

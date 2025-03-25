@@ -1,0 +1,33 @@
+Here is the output in JSON format:
+
+
+{
+  "Instruction Adjustment": {
+    "Parameters": {
+      "Learning Style": {
+        "Type": "options"
+      },
+      "Instruction Type": {
+        "Type": "options"
+      },
+      "Instruction Content": {
+        "Type": "text"
+      },
+      "Adjustment Type": {
+        "Type": "options"
+      },
+      "Adjusted Instruction": {
+        "Type": "text or multimedia content"
+      },
+      "Frequency": {
+        "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+      },
+      "Deadline Date": {
+        "Type": "datetime"
+      }
+    }
+  }
+}
+
+
+Note that I removed the "Not Applicable" parameters as per your request. Let me know if you need anything else!

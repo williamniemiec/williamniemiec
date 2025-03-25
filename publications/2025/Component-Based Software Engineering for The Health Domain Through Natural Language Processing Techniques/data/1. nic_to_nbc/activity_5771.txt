@@ -1,0 +1,33 @@
+Here is the output in JSON format:
+
+
+{
+  "Antiembolism Stocking Application": {
+    "Parameters": {
+      "Stocking Type": {
+        "Description": "Specify the type of antiembolism stocking",
+        "Required": true,
+        "Type": "options",
+        "Options": [
+          {"value": "kneeHigh", "label": "Knee-High"},
+          {"value": "thighHigh", "label": "Thigh-High"},
+          {"value": "waistHigh", "label": "Waist-High"},
+          {"value": "other", "label": "Other (please specify)"}
+        ]
+      },
+      "Application Instructions": {
+        "Description": "Provide instructions for applying the antiembolism stocking",
+        "Required": true,
+        "Type": "text"
+      },
+      "Application Time": {
+        "Description": "Record the time the antiembolism stocking was applied",
+        "Required": true,
+        "Type": "datetime"
+      }
+    }
+  }
+}
+
+
+Note that I removed the "Notes" parameter since it's not required.

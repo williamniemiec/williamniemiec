@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Safety Guide": {
+    "Parameters": {
+      "Title": {"Type": "text"},
+      "Safety Tips": {"Type": "list", "Example": ["Move glass furniture out of reach", "Pad sharp edges on furniture", "Secure unstable furniture to walls", "Keep appliances out of reach"]},
+      "Images": {"Type": "list"}
+    }
+  }
+}

@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Assessment": {
+    "Physiological Limitations": {"Type": "form"},
+    "Psychological Limitations": {"Type": "form"},
+    "Background": {"Type": "form"},
+    "Culture": {"Type": "form"},
+    "Frequency": {"Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"Type": "datetime"}
+  }
+}

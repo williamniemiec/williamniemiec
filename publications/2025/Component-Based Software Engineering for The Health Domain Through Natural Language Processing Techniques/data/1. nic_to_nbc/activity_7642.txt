@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Rectal Prolapse Identifier": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Medical History": {"Type": ["boolean", "text"]},
+      "Rectal Prolapse History": {"Type": ["date picker", "text"]},
+      "Symptoms": {"Type": ["checklist", "text"]},
+      "Treatment History": {"Type": ["checklist", "text"]}
+    }
+  }
+}
+
+
+Let me know if this meets your requirements!

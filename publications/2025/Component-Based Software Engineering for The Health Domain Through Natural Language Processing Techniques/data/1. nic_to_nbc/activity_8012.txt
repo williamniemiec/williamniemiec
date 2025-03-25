@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Symptom Checker": {
+    "parameters": [
+      {"name": "apprehension", "description": "Do you feel apprehensive?", "required": true, "type": "options"},
+      {"name": "anxiety", "description": "Do you feel anxious?", "required": true, "type": "options"},
+      {"name": "mental_status", "description": "Have you noticed any changes in your mental status?", "required": true, "type": "options"},
+      {"name": "agitation", "description": "Do you feel agitated?", "required": true, "type": "options"},
+      {"name": "oliguria", "description": "Have you noticed a decrease in urine output?", "required": true, "type": "options"},
+      {"name": "periphery", "description": "Do you have cool, mottled skin on your periphery?", "required": true, "type": "options"}
+    ]
+  }
+}

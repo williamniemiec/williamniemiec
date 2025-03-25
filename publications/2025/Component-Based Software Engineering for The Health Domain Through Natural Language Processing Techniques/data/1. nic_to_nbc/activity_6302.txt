@@ -1,0 +1,26 @@
+Here is the output in JSON format, removing everything except `PARAMETER ESPECIFICATIONS` and `NO-CODE ELEMENT NAME`:
+
+
+{
+    "name": "Goal Tracking Flowchart",
+    "parameters": [
+        {
+            "name": "Goal List"
+        },
+        {
+            "name": "Flowchart Template"
+        },
+        {
+            "name": "Tracking Metrics"
+        },
+        {
+            "name": "Flowchart Elements"
+        },
+        {
+            "name": "Instructions"
+        },
+        {
+            "name": "Examples"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Peer Connector": {
+    "parameters": [
+      {"name": "Title", "type": "text"},
+      {"name": "Amputation Type", "type": "options"},
+      {"name": "Peer Matching", "type": "list"},
+      {"name": "Interaction Type", "type": "options"},
+      {"name": "Moderation", "type": "boolean"}
+    ]
+  }
+}

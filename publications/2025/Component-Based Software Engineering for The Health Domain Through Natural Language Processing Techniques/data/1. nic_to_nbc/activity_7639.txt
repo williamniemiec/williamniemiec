@@ -1,0 +1,38 @@
+Here is the output in JSON format:
+
+
+{
+  "Body Image Assessment": {
+    "parameters": {
+      "Body Image Questionnaire": {},
+      "Body Image Score": {}
+    }
+  },
+  "Realistic Body Image Education": {
+    "parameters": {
+      "Educational Content": {},
+      "Myth-Busting": {}
+    }
+  },
+  "Goal Setting": {
+    "parameters": {
+      "Goal Description": {},
+      "Goal Priority": {}
+    }
+  },
+  "Progress Tracking": {
+    "parameters": {
+      "Progress Journal": {},
+      "Milestone Tracking": {}
+    }
+  },
+  "Support Network": {
+    "parameters": {
+      "Peer Support": {},
+      "Professional Guidance": {}
+    }
+  }
+}
+
+
+I removed all the unnecessary text and kept only the `{{ NO-CODE ELEMENT NAME }}` and `{{ PARAMETER ESPECIFICATIONS }}`. I also removed any parameters that were not applicable. Let me know if you need anything else!

@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+  "Prewarming": {
+    "Warming Device": {
+      "Type": "options",
+      "Options": ["forced-air warming", "electric warming blanket", "etc."]
+    },
+    "Duration": {
+      "Type": "number",
+      "Minimum value": 15
+    },
+    "Temperature Target": {
+      "Type": "number"
+    },
+    "Monitoring": {
+      "Type": "options",
+      "Options": ["continuous", "every 5 minutes", "every 10 minutes", "etc."]
+    },
+    "Notes": {
+      "Type": "text"
+    }
+  }
+}
+
+
+Let me know if this is what you were expecting!

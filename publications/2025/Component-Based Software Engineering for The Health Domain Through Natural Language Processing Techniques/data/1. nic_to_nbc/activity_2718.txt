@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Skill Builder": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Skill Type": {"Type": "options", "Options": ["Mindfulness", "Deep breathing", "Cognitive restructuring", "Problem-solving", "Communication skills", "Other"]},
+      "Lesson Content": {"Type": "rich text"},
+      "Practice Exercise": {"Type": "text"},
+      "Reflection Question": {"Type": "text"},
+      "Frequency": {"Type": "options", "Options": ["daily", "every other day", "weekly", "monthly"]},
+      "Deadline Date": {"Type": "datetime"}
+    }
+  }
+}

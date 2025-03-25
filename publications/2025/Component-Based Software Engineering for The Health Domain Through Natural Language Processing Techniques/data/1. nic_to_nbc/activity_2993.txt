@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Expectation Correction",
+    "parameters": [
+        {
+            "name": "Procedure/Treatment",
+            "type": "text"
+        },
+        {
+            "name": "Unrealistic Expectations",
+            "type": "list",
+            "list_type": "text"
+        },
+        {
+            "name": "Corrected Expectations",
+            "type": "list",
+            "list_type": "text"
+        },
+        {
+            "name": "Rationale",
+            "type": "text"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+Here is the output in JSON format:
+
+
+{
+  "body positioning": {
+    "Position": {
+      "Description": "specify the body position to assume (left side with knees flexed)",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "leftSideKneesFlexed", "label": "Left side with knees flexed" }
+      ]
+    },
+    "Duration": {
+      "Description": "specify the duration for which the patient should maintain the position",
+      "Required": false,
+      "Type": "text"
+    },
+    "Frequency": {
+      "Description": "specify how often the patient should assume the position",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "daily", "label": "Daily" },
+        { "value": "everyHours", "label": "Every x hours" },
+        { "value": "everyDays", "label": "Every x days" }
+      ]
+    }
+  }
+}
+
+
+Note that I removed the `Deadline Date` parameter since it's not applicable (Required: false). Let me know if this is what you were expecting!

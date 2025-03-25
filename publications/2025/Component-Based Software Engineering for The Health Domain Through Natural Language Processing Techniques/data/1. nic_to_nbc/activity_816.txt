@@ -1,0 +1,37 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "log",
+  "parameters": [
+    { 
+      "name": "name", 
+      "description": "log title", 
+      "required": true, 
+      "type": "text"
+    },
+    { 
+      "name": "unit", 
+      "description": "unit of measurement for the logged data", 
+      "required": true, 
+      "type": "options",
+      "options": [
+        { value: "ml", label: "Milliliters" },
+        { value: "oz", label: "Ounces" },
+        { value: "other", label: "Other (please specify)" }
+      ]
+    },
+    { 
+      "name": "frequency", 
+      "description": "specify how often the data should be logged", 
+      "required": true, 
+      "type": "options",
+      "options": [
+        { value: "daily", label: "Daily" },
+        { value: "onlyOnce", label: "Only once" },
+        { value: "everyHours", label: "Every x hours" },
+        { value: "everyDays", label: "Every x days" },
+      ]
+    }
+  ]
+}

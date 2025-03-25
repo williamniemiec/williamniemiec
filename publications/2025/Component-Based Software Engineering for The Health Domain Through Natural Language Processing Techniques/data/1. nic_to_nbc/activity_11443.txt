@@ -1,0 +1,6 @@
+Since there is no `PARAMETER ESPECIFICATIONS` and `NO-CODE ELEMENT NAME` in the input text, I will assume it's a malformed input.
+
+However, if you meant to provide a different input, please go ahead and provide it. If not, my output would be an empty JSON:
+
+
+{}

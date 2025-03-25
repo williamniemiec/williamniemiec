@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Bed Linen Reminder": {
+    "Reminder Title": {},
+    "Reminder Message": {},
+    "Reminder Image": {},
+    "Reminder Frequency": {},
+    "Deadline Date": {}
+  }
+}

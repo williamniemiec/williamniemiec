@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "ECG Tracker": {
+    "parameters": [
+      {"name": "ecg_reading", "description": "Enter your current ECG reading", "required": true, "type": "file"},
+      {"name": "timestamp", "description": "When was the reading taken?", "required": true, "type": "datetime"}
+    ]
+  },
+  "Device Integration": {
+    "parameters": [
+      {"name": "device_id", "description": "Device ID", "required": true, "type": "text"},
+      {"name": "reading_frequency", "description": "How often do you want to take readings?", "required": true, "type": "options", "options": [{"value": "manual", "label": "Manual"}, {"value": "everyHour", "label": "Every hour"}, {"value": "every4Hours", "label": "Every 4 hours"}, {"value": "everyDay", "label": "Every day"}]}
+    ]
+  }
+}

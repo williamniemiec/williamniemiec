@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Vaccination Reminder": {
+        "parameters": [
+            {"Vaccine Name": {"type": "text"}},
+            {"Administration Date": {"type": "datetime"}},
+            {"Instructions": {"type": "text"}},
+            {"Reminders": {"type": "boolean", "required": false}}
+        ]
+    }
+}

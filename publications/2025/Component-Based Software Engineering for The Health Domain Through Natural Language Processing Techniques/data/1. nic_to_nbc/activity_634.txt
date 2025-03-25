@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Verification and Consent": {
+    "Parameters": {
+      "Identity Verification": {
+        "Type": "boolean"
+      },
+      "Permission to Share": {
+        "Type": "boolean"
+      },
+      "Authorized Representative": {
+        "Type": "text"
+      }
+    }
+  }
+}

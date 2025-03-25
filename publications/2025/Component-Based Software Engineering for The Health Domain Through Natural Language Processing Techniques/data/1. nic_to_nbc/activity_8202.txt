@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Neighbor Alert": {
+    "Neighbor Contact": {"Type": "options", "Options": ["nextDoor", "acrossStreet", "nearbyResident", "other"]},
+    "Alert Method": {"Type": "options", "Options": ["inPerson", "phone", "email", "letter"]},
+    "Alert Message": {"Type": "text"},
+    "Frequency": {"Type": "options", "Options": ["oneTime", "daily", "everyHours", "everyDays"]}
+  }
+}

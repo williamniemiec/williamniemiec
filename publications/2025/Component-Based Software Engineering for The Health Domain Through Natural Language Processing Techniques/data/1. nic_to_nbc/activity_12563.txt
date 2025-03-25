@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Transportation Assistant": {
+    "Name": {"type": "text"},
+    "Recreational Activity": {"type": "text"},
+    "Transportation Options": {"type": "options"},
+    "Schedule": {"type": "date and time picker"},
+    "Pickup Location": {"type": "text or location picker"},
+    "Drop-off Location": {"type": "text or location picker"},
+    "Special Requests": {"type": "text"}
+  }
+}

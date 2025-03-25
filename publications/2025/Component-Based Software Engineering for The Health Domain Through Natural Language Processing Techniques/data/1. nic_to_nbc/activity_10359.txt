@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Controlled Substance Count": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "RN Information": {"Type": "text"},
+      "Shift Information": {"Type": "text"},
+      "Controlled Substance List": {"Type": "list of text"},
+      "Count Results": {"Type": "list of text"},
+      "Discrepancy Reporting": {"Type": "text"},
+      "Verification": {"Type": "boolean"}
+    }
+  }
+}

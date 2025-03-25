@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+  "Monitoring": {
+    "Urine Output": {
+      "type": "number",
+      "unit": "mL or other relevant unit"
+    },
+    "CVP/PCWP": {
+      "type": "number",
+      "unit": "mmHg or other relevant unit"
+    },
+    "Adventitious Breath Sounds": {
+      "type": "options",
+      "options": ["present", "absent"]
+    },
+    "Frequency": {
+      "type": "options",
+      "options": ["daily", "every 12 hours", "every 8 hours", "etc."]
+    },
+    "Deadline Date": {
+      "type": "datetime"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Learning Module": {
+    "Name": {"type": "text"},
+    "Content": {"type": "rich text or multimedia"},
+    "Objectives": {"type": "text"},
+    "Time Allocation": {"type": "time duration"},
+    "Frequency": {"type": "options"}
+  }
+}
+
+
+Note that I removed the `Deadline Date` parameter as it was marked as `datetime` which is not applicable in this context.

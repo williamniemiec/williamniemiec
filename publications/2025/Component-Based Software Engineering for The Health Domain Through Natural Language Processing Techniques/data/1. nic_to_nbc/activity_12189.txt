@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+    "Electrolyte Imbalance Monitoring": {
+        "Parameters": {
+            "Electrolyte": {"Type": "options"},
+            "Level": {"Type": "numeric", "Unit": "mEq/L"},
+            "Imbalance Type": {"Type": "options"},
+            "Associated Condition": {"Type": "options"},
+            "Frequency": {"Type": "options"},
+            "Target Range": {"Type": "range", "Min": "", "Max": ""},
+            "Notes": {"Type": "text"},
+            "Alert Threshold": {"Type": "numeric", "Unit": "mEq/L"}
+        }
+    }
+}

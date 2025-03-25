@@ -1,0 +1,45 @@
+Here is the output in JSON format:
+
+
+[
+    {
+        "name": "Cleanse site with circular motion",
+        "parameters": {
+            "name": "Cleanse site with circular motion",
+            "content": "",
+            "type": "text" || "video"
+        }
+    },
+    {
+        "name": "Video Demonstration",
+        "parameters": {
+            "name": "Cleansing the site",
+            "videos": [],
+            "type": "video"
+        }
+    },
+    {
+        "name": "Interactive Guide",
+        "parameters": {
+            "name": "Cleansing the site",
+            "pages": [],
+            "type": "interactive-page"
+        }
+    },
+    {
+        "name": "Animated Illustration",
+        "parameters": {
+            "name": "Cleansing the site animation",
+            "animation": "",
+            "type": "animation"
+        }
+    },
+    {
+        "name": "Step-by-Step Guide",
+        "parameters": {
+            "name": "Cleansing the site step-by-step",
+            "steps": [],
+            "type": "step-by-step"
+        }
+    }
+]

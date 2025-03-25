@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Storage Guide": {
+    "Parameters": {
+      "Title": {"Type": "text"},
+      "Storage Tips": {"Type": "list", "Example": ["Store cleaning supplies in a high cabinet", "Keep medications in a locked cabinet", "Place personal care products on a high shelf"]},
+      "Categories": {"Type": "list", "Example": ["Cleaning Supplies", "Medications", "Personal Care Products"]},
+      "Images": {"Type": "list"},
+      "Frequency": {"Type": "options"}
+    }
+  }
+}

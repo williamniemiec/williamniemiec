@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Incubator Placement": {
+    "Current Incubator Location": {"type": "options"},
+    "Noise Sources": {"type": "options"},
+    "Desired Incubator Location": {"type": "options"},
+    "Action Plan": {"type": "text"},
+    "Reminder": {"type": "options"}
+  }
+}

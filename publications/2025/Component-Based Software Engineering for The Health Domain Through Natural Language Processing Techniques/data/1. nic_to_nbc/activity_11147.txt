@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "PARAMETER ESPECIFICATIONS": {
+    "* Identify potential signs of extreme compliance, such as passive submission or unusual acquiescence.": "",
+    "* Evaluate the child's or dependent adult's emotional regulation and coping mechanisms, including factors such as tone, body language, and verbal responses.": "",
+    "* Make a professional judgment about the appropriateness of the child's or dependent adult's behavior and the potential risks to their well-being.": ""
+  },
+  "NO-CODE ELEMENT NAME": null
+}
+
+
+Note: Since there is no specific no-code element name mentioned in the text, I set it to `null`. Also, I removed the not applicable parameters from the output.

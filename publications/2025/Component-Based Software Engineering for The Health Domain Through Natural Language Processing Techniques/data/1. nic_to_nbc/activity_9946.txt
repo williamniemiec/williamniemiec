@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Family Interaction Assessment": {
+    "Name": {"type": "text"},
+    "Questions": {
+      "type": "list of survey questions",
+      "question": {
+        "Text": {},
+        "Type": {},
+        "Options": {}
+      }
+    },
+    "Frequency": {
+      "type": "options",
+      "options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+    },
+    "Deadline Date": {"type": "datetime"}
+  }
+}

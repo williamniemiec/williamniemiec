@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Needle Pull-Through": {
+    "Parameters": {
+      "Needle Path": {},
+      "Pulling Technique": {},
+      "Tissue Resistance": {},
+      "Suturing Speed": {},
+      "Additional Instructions": {}
+    }
+  }
+}

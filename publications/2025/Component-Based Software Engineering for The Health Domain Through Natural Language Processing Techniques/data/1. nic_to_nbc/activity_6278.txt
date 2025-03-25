@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Safety Education Guide": {
+    "title": {},
+    "why_education_is_important": {},
+    "dangers_of_throwing_and_hitting": {},
+    "teaching_strategies": {},
+    "age_appropriate_resources": {},
+    "frequency": {}
+  }
+}

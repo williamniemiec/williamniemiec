@@ -1,0 +1,32 @@
+Here is the output in JSON format:
+
+
+{
+  "Cardiopulmonary Tracker": {
+    "Parameters": {
+      "Parameter 1": {
+        "Description": "Track presence and severity of arrhythmias (e.g., irregular heartbeat)",
+        "Required": true,
+        "Type": "options"
+      },
+      "Parameter 2": {
+        "Description": "Track presence and severity of decreased cardiac output (e.g., fatigue, dizziness)",
+        "Required": true,
+        "Type": "options"
+      },
+      "Parameter 3": {
+        "Description": "Track presence and severity of hyperventilation (e.g., rapid breathing, shortness of breath)",
+        "Required": true,
+        "Type": "options"
+      },
+      "Parameter 4": {
+        "Description": "Specify how often cardiopulmonary symptoms should be tracked",
+        "Required": true,
+        "Type": "options"
+      }
+    }
+  }
+}
+
+
+I removed `Parameter 5` because it was marked as not required. Let me know if you need anything else!

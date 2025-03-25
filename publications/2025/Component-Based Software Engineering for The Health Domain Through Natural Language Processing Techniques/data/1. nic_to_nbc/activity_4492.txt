@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Family Time": {
+        "title": {"type": "text"},
+        "description": {"type": "text or HTML content"},
+        "tips": {"type": "list of text or HTML content, with optional images or illustrations"},
+        "goal_setting": {"type": "goal-setting configuration, with optional parameters for goal tracking and reminders"},
+        "reflection_questions": {"type": "list of text or HTML content, with optional images or illustrations"},
+        "journaling": {"type": "journaling configuration, with optional parameters for text or audio entries, and image or video uploads"}
+    }
+}

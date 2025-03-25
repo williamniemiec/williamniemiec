@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+    "Timely Entry": {
+        "Entry Type": "",
+        "Entry Date": "",
+        "Entry Content": "",
+        "Promptness Threshold": "",
+        "Reminders": ""
+    }
+}

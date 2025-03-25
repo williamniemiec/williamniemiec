@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+[
+  {
+    "name": "Medical History",
+    "parameters": [
+      {"name": "medical_conditions"},
+      {"name": "surgeries"},
+      {"name": "hospitalizations"},
+      {"name": "medications"}
+    ]
+  },
+  {
+    "name": "Allergy History",
+    "parameters": [
+      {"name": "allergy_type"},
+      {"name": "allergy_description"},
+      {"name": "reaction_description"},
+      {"name": "severity_level"}
+    ]
+  }
+]

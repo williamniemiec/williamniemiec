@@ -1,0 +1,52 @@
+Here is the output in JSON format:
+
+
+{
+  "Bedtime Routine": {
+    "Routine Activities": {
+      "Name": "routine activities",
+      "Description": "Select activities to include in your bedtime routine",
+      "Type": "multi-select",
+      "Options": [
+        { "value": "reading", "label": "Reading" },
+        { "value": "meditation", "label": "Meditation" },
+        { "value": "deep breathing", "label": "Deep Breathing" },
+        { "value": "stretching", "label": "Stretching" },
+        { "value": "listening to music", "label": "Listening to Music" },
+        { "value": "other", "label": "Other (please specify)" }
+      ]
+    },
+    "Routine Duration": {
+      "Name": "routine duration",
+      "Description": "How long should your bedtime routine last?",
+      "Type": "options",
+      "Options": [
+        { "value": "15 minutes", "label": "15 minutes" },
+        { "value": "30 minutes", "label": "30 minutes" },
+        { "value": "45 minutes", "label": "45 minutes" },
+        { "value": "60 minutes", "label": "60 minutes" }
+      ]
+    },
+    "Bedtime": {
+      "Name": "bedtime",
+      "Description": "What time do you want to go to bed?",
+      "Type": "time"
+    },
+    "Frequency": {
+      "Name": "frequency",
+      "Description": "How often should you perform your bedtime routine?",
+      "Type": "options",
+      "Options": [
+        { "value": "daily", "label": "Daily" },
+        { "value": "onlyOnce", "label": "Only once" },
+        { "value": "everyHours", "label": "Every x hours" },
+        { "value": "everyDays", "label": "Every x days" }
+      ]
+    },
+    "Deadline Date": {
+      "Name": "deadline date",
+      "Description": "Specify the due date for establishing your bedtime routine",
+      "Type": "datetime"
+    }
+  }
+}

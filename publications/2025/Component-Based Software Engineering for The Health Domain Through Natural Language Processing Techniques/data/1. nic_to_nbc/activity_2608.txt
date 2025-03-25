@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+  "Warning": {
+    "parameters": {
+      "name": "Avoid forcing the catheter into an abdominal wound",
+      "content": "Important: Do not force the catheter into an abdominal wound to prevent perforation of the intestine",
+      "content_type": "text",
+      "reason": "text",
+      "frequency": "onlyOnce"
+    }
+  },
+  "Guided Warning": {
+    "parameters": {
+      "name": "Avoid forcing the catheter into an abdominal wound",
+      "content": "Why it's important to avoid forcing the catheter into an abdominal wound: [brief explanation]",
+      "content_type": "text or video",
+      "reason": "text",
+      "frequency": "onlyOnce"
+    }
+  }
+}

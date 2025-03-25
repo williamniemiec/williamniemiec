@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Specimen Collection": {
+    "parameters": {
+      "name": {"type": "text"},
+      "specimen_type": {"type": "options"},
+      "collection_instructions": {"type": ["text", "multimedia"]},
+      "frequency": {"type": "options"},
+      "deadline_date": {"type": "datetime"}
+    }
+  }
+}

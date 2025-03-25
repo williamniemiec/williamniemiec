@@ -1,0 +1,42 @@
+Here is the output in JSON format:
+
+
+{
+  "No-code Element Name": "Rest Period",
+  "Parameters": {
+    "Rest Period Title": {
+      "Description": "Title of the rest period reminder",
+      "Required": true,
+      "Type": "text"
+    },
+    "Before": {
+      "Description": "Specify whether the rest period is before eating or exercising",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "eating", "label": "Eating" },
+        { "value": "exercise", "label": "Exercise" },
+        { "value": "both", "label": "Both" }
+      ]
+    },
+    "Duration": {
+      "Description": "Specify the duration of the rest period",
+      "Required": true,
+      "Type": "text"
+    },
+    "Frequency": {
+      "Description": "Specify how often the rest period should be taken",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "daily", "label": "Daily" },
+        { "value": "onlyOnce", "label": "Only once" },
+        { "value": "everyHours", "label": "Every x hours" },
+        { "value": "everyDays", "label": "Every x days" }
+      ]
+    }
+  }
+}
+
+
+Note that I removed the `Deadline Date` parameter since it was marked as not required (`Required: false`).

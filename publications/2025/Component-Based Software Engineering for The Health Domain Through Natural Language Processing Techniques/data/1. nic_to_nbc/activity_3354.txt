@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+{
+    "name": "Guide",
+    "parameters": [
+        {
+            "name": "Name",
+            "type": "text"
+        },
+        {
+            "name": "Pages",
+            "type": "book-page",
+            "book-page": [
+                {}
+            ]
+        }
+    ]
+}
+
+I removed all unnecessary information and only kept the `{{ NO-CODE ELEMENT NAME }}` ("Guide") and `{{ PARAMETER ESPECIFICATIONS }}` (the parameters with their types). I also removed the "Not Applicable" parameters.

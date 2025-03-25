@@ -1,0 +1,31 @@
+Here is the output in JSON format:
+
+
+{
+  "guide": {
+    "parameters": {
+      "Content": [
+        "Text",
+        "Images",
+        "Videos"
+      ],
+      "Format": [
+        "HTML",
+        "PDF"
+      ],
+      "Target audience": [
+        "Patients with specific conditions",
+        "Patients of a certain age range"
+      ],
+      "Frequency": [
+        "daily",
+        "onlyOnce",
+        "everyHours",
+        "everyDays"
+      ],
+      "Deadline Date": {
+        "type": "datetime"
+      }
+    }
+  }
+}

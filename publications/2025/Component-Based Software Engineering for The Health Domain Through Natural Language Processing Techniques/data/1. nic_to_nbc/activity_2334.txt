@@ -1,0 +1,38 @@
+Here is the output in JSON format:
+
+
+{
+  "Education Module": {
+    "Parameters": {
+      "Type of Electrolyte Imbalance": {
+        "type": "options",
+        "options": [
+          { "value": "potassiumDeficiency", "label": "Potassium Deficiency" },
+          { "value": "sodiumExcess", "label": "Sodium Excess" },
+          { "value": "other", "label": "Other (please specify)" }
+        ]
+      },
+      "Causes of Electrolyte Imbalance": {
+        "type": "list",
+        "example": [
+          { "cause": "Dehydration", "reason": "Lack of fluids" },
+          { "cause": "Medication side effects", "reason": "Certain medications can affect electrolyte levels" }
+        ]
+      },
+      "Treatments for Electrolyte Imbalance": {
+        "type": "list",
+        "example": [
+          { "treatment": "Medication", "reason": "To restore electrolyte balance" },
+          { "treatment": "Dietary changes", "reason": "To manage electrolyte intake" }
+        ]
+      },
+      "Family Involvement": {
+        "type": "boolean"
+      },
+      "Resources": {
+        "type": "text",
+        "example": "Visit our website for more information on electrolyte imbalance and its management"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+  "Check-in": {
+    "Parameters": {
+      "Title": {"Type": "text"},
+      "Message": {"Type": "text"},
+      "Frequency": {"Type": "options", "Options": ["daily", "weekly", "monthly", "oneTime"]},
+      "Deadline Date": {"Type": "datetime"},
+      "Response Type": {"Type": "options", "Options": ["text", "audio", "video"]},
+      "Healthcare Provider": {"Type": "text"}
+    }
+  },
+  "Journal": {
+    "Parameters": {
+      "Title": {"Type": "text"},
+      "Entry": {"Type": "text"},
+      "Frequency": {"Type": "options", "Options": ["daily", "weekly", "monthly", "oneTime"]},
+      "Deadline Date": {"Type": "datetime"},
+      "Healthcare Provider": {"Type": "text"}
+    }
+  }
+}
+
+
+Note that I removed the `Introduction` and `Conclusion` sections, as well as the `NO-CODE ELEMENT DESCRIPTION` parts. I also removed the `NUMBER` prefixes (e.g., "**1.**") and only kept the essential information about each no-code element and its parameters.

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Administration": {
+    "Parameters": {
+      "Medication Name": {"Type": "text"},
+      "Dosage": {"Type": "text"},
+      "Frequency": {"Type": "options", "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Duration": {"Type": "text"},
+      "Route": {"Type": "options", "Options": ["oral", "intravenous", "subcutaneous"]}
+    }
+  }
+}

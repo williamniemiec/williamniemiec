@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Indication Assessment": {
+    "Medical Indications": {"Type": "list of options"},
+    "Obstetrical Indications": {"Type": "list of options"},
+    "Assessment Questions": {"Type": "list of text or HTML"},
+    "Decision Logic": {"Type": "conditional logic or algorithm"},
+    "Result": {"Type": "text or HTML"}
+  }
+}

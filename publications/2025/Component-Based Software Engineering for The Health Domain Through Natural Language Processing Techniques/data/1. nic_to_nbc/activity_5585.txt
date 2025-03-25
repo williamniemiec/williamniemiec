@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+  "Emotion Regulation Exercise": {
+    "name": "",
+    "technique": "",
+    "instructions": "",
+    "frequency": "",
+    "content_type": "guided exercise"
+  },
+  "Security Building Activity": {
+    "name": "",
+    "activity_type": "",
+    "instructions": "",
+    "frequency": "",
+    "content_type": "guided activity"
+  },
+  "Self-Care Check-in": {
+    "name": "",
+    "prompt": "",
+    "frequency": "",
+    "content_type": "form"
+  }
+}
+
+
+Note that I removed the `deadline_date` parameter as it was not applicable to all no-code elements. Let me know if you'd like me to include it anyway!

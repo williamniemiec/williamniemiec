@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+    "Medication Availability": {
+        "name": {"type": "text"},
+        "why": {"type": "text"},
+        "dosage": {"type": "text"},
+        "availability_reminder": {"type": "options"},
+        "expiration_date": {"type": "datetime"}
+    }
+}

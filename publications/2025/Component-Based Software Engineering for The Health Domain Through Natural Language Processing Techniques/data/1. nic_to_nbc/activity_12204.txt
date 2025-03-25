@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "Questionnaire": {
+    "parameters": {
+      "name": "Infant Temperament Questionnaire",
+      "questions": ["How would you describe your infant's mood most of the time?", "How does your infant respond to new people or environments?", "How would you describe your infant's energy level?"],
+      "answer type": "options",
+      "resources": [],
+      "frequency": "onlyOnce"
+    }
+  },
+  "Guide": {
+    "parameters": {
+      "name": "Understanding Infant Temperament Guide",
+      "pages": [],
+      "frequency": "onlyOnce"
+    }
+  }
+}
+
+
+Let me know if this is what you were looking for!

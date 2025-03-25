@@ -1,0 +1,37 @@
+Here is the output in JSON format:
+
+
+{
+  "Sexual Health Reassurance": {
+    "Current Practices": {
+      "Description": "Describe current sexual practices to assess their healthiness",
+      "Required": true,
+      "Type": "text"
+    },
+    "New Practices": {
+      "Description": "Describe new sexual practices to assess their healthiness",
+      "Required": false,
+      "Type": "text"
+    },
+    "Healthy Practices": {
+      "Description": "Educational content about healthy sexual practices",
+      "Required": true,
+      "Type": "article"
+    },
+    "Reassurance": {
+      "Description": "Reassuring message about healthy sexual practices",
+      "Required": true,
+      "Type": "text"
+    },
+    "Frequency": {
+      "Description": "Specify how often to review healthy sexual practices",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "daily", "label": "Daily" },
+        { "value": "weekly", "label": "Weekly" },
+        { "value": "monthly", "label": "Monthly" }
+      ]
+    }
+  }
+}

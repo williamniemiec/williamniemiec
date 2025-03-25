@@ -1,0 +1,30 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Preparation Alert",
+    "parameters": [
+        {
+            "name": "Change Description",
+            "type": "text"
+        },
+        {
+            "name": "Change Date",
+            "type": "datetime"
+        },
+        {
+            "name": "Preparation Instructions",
+            "type": "text or HTML"
+        },
+        {
+            "name": "Reminder Frequency",
+            "type": "options",
+            "options": [
+                "daily",
+                "onlyOnce",
+                "everyHours",
+                "everyDays"
+            ]
+        }
+    ]
+}

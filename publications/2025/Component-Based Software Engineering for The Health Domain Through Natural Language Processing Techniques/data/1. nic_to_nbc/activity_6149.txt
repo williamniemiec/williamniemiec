@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+    "TENS Discontinuation": {
+        "Sensation Level": {
+            "type": "numeric"
+        },
+        "Tolerance Confirmation": {
+            "type": "boolean"
+        },
+        "Discontinuation Instructions": {
+            "type": "text or multimedia"
+        },
+        "Frequency": {
+            "type": "options",
+            "options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+        },
+        "Deadline Date": {
+            "type": "datetime"
+        }
+    }
+}

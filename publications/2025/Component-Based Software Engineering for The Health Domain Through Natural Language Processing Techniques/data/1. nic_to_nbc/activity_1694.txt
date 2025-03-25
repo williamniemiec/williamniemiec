@@ -1,0 +1,14 @@
+
+
+
+{
+  "Resource Finder": {
+    "parameters": {
+      "Resource Type": {"type": "options"},
+      "Location": {"type": "options"},
+      "Description": {"type": "text"},
+      "Contact Information": {"type": "text"},
+      "Frequency": {"type": "options"}
+    }
+  }
+}

@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Flow Rate Monitoring": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Flow Rate": {"Type": "number"},
+      "Unit": {"Type": "options"},
+      "Frequency": {"Type": "options"},
+      "Deadline Date": {"Type": "datetime"},
+      "Notes": {"Type": "text"}
+    }
+  }
+}

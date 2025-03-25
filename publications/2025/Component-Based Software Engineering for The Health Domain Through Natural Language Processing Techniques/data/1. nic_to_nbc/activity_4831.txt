@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "No-code element name": "Diaper Change",
+  "Parameters": {
+    "Task Title": {"Description": "Title of the task", "Required": true, "Type": "text"},
+    "Instructions": {"Description": "Step-by-step instructions on how to apply diapers loosely", "Required": true, "Type": "text"},
+    "Frequency": {"Description": "Specify how often to change the diaper", "Required": true, "Type": "options", "Options": [{"value": "asNeeded", "label": "As needed"}, {"value": "hourly", "label": "Hourly"}, {"value": "every2Hours", "label": "Every 2 hours"}, {"value": "every4Hours", "label": "Every 4 hours"}]}
+  }
+}
+
+
+I removed the `Deadline Date` and `Additional Tips` parameters since they are not required. Let me know if you need anything else!

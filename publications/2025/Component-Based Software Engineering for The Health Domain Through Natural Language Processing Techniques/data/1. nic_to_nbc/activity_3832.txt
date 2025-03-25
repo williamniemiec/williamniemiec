@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Bladder Distention Monitoring Guide": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Instructions": {"Type": ["text", "multimedia"]},
+      "Symptom Checker": {"Type": ["checklist", "questionnaire"]},
+      "Frequency": {"Type": ["options"]},
+      "Reminders": {"Type": ["options"]}
+    }
+  }
+}
+
+
+I removed the "Reporting" parameter as it was marked as "not applicable" (boolean type with yes/no values). Let me know if this is correct!

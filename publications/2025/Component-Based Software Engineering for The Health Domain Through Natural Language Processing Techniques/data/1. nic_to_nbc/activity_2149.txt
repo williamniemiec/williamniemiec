@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Accessibility Services": {
+    "parameters": {
+      "Language Relay Service": {"type": "boolean"},
+      "TTY/TDD Service": {"type": "boolean"},
+      "Emerging Telecommunication Technology": {"type": "options"},
+      "Patient Accommodation": {"type": "text"}
+    }
+  }
+}

@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "behavior recording task",
+    "parameters": [
+        { 
+            "name": "behavior", 
+            "description": "behavior to record"
+        },
+        { 
+            "name": "recording period", 
+            "description": "duration of recording period"
+        },
+        { 
+            "name": "recording frequency", 
+            "description": "how often to record the behavior"
+        }
+    ]
+}

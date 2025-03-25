@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+  "Environmental Factor Tracking": {
+    "parameters": ["environmental factor type", "data source"]
+  },
+  "Disease Transmission Risk Assessment": {
+    "parameters": ["disease type", "environmental factor data", "risk level"]
+  },
+  "Weather Alert": {
+    "parameters": ["weather alert message", "weather condition type"]
+  },
+  "Air Quality Index": {
+    "parameters": ["air quality index value", "health risk level"]
+  },
+  "Environmental Health Education": {
+    "parameters": ["educational materials", "topic"]
+  }
+}

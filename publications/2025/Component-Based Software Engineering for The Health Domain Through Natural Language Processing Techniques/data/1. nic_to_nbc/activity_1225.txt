@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Informed Consent": {
+    "parameters": [
+      {"name": "information", "description": "Information about the treatment/procedure", "required": true, "type": "article"},
+      {"name": "risks_benefits", "description": "Risks and benefits of the treatment/procedure", "required": true, "type": "list"},
+      {"name": "consent", "description": "Do you consent to the treatment/procedure?", "required": true, "type": "boolean"},
+      {"name": "signature", "description": "Electronic signature", "required": true, "type": "signature"}
+    ]
+  }
+}

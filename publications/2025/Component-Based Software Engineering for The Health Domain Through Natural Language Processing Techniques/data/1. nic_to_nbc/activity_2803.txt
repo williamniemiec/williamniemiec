@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Communication Analysis": {
+    "Conversation Text": "text",
+    "Avoided Words": "text",
+    "Nonverbal Message": "options",
+    "Reflection Questions": "list of text",
+    "Insight": "text"
+  }
+}

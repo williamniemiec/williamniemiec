@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Counseling Referral Tracker",
+    "parameters": [
+        {
+            "name": "Counseling Need",
+            "type": "options"
+        },
+        {
+            "name": "Referral Status",
+            "type": "options"
+        },
+        {
+            "name": "Reason for Referral",
+            "type": "text"
+        },
+        {
+            "name": "Reflection",
+            "type": "text"
+        },
+        {
+            "name": "Frequency",
+            "type": "options"
+        }
+    ]
+}

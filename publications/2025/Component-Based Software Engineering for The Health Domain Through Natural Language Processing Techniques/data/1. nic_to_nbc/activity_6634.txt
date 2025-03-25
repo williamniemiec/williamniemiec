@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Oral Supplement Tracker": {
+    "parameters": [
+      {"name": "supplement type", "description": "Specify the type of oral magnesium supplement", "required": true, "type": "text"},
+      {"name": "dosage", "description": "Specify the dosage of the oral magnesium supplement", "required": true, "type": "number", "unit": "mg"},
+      {"name": "administration frequency", "description": "Specify how often to take the oral magnesium supplement", "required": true, "type": "options", "options": [
+        {"value": "daily", "label": "Daily"},
+        {"value": "twice daily", "label": "Twice Daily"},
+        {"value": "three times daily", "label": "Three Times Daily"}
+      ]},
+      {"name": "magnesium level", "description": "Specify the current magnesium level", "required": true, "type": "number", "unit": "mg/dL"},
+      {"name": "supplement duration", "description": "Specify the duration of oral magnesium supplement administration", "required": true, "type": "number", "unit": "days"}
+    ]
+  }
+}

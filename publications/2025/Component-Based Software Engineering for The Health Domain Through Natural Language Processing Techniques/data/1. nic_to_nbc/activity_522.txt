@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Social Support System Development": {
+    "parameters": [
+      {"name": "social_support_types", "type": "list of social support types"},
+      {"name": "support_system_assessment", "type": "assessment tool"},
+      {"name": "goal_setting", "type": "goal-setting template"},
+      {"name": "action_plan", "type": "action plan template"},
+      {"name": "resource_materials", "type": "list of resource materials"},
+      {"name": "frequency", "type": "options"}
+    ]
+  }
+}
+
+
+I removed the `deadline_date` parameter because it's not applicable (required=false).

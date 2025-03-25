@@ -1,0 +1,10 @@
+{
+  "name": "Wound Care and Dressing Management",
+  "description": "Focuses on wound care, including dressing changes, suture management, and monitoring wound depth and healing.",
+  "type": "non-periodic",
+  "input": ["Wound type", "Incision depth", "Suture details", "Bandage type"],
+  "output": ["Wound healing status", "Dressing change schedule", "Care recommendations"],
+  "preconditions": ["Wound requires care or monitoring"],
+  "postconditions": ["Wound condition is evaluated and appropriate care steps are taken"],
+  "dependencies": ["Wound care system", "Dressing and suture management tools", "Medical care guidelines"]
+}

@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+  "Assessment": {
+    "parameters": [
+      {"name": "readinessState", "description": "Select the newborn's current readiness state", "required": true, "type": "options", "options": [{"value": "alert", "label": "Alert"}, {"value": "active", "label": "Active"}, {"value": "quiet", "label": "Quiet"}, {"value": "sleeping", "label": "Sleeping"}]},
+      {"name": "behavioralCues", "description": "Observe and select the newborn's behavioral cues", "required": true, "type": "multiselect", "options": [{"value": "rooting", "label": "Rooting"}, {"value": "sucking", "label": "Sucking"}, {"value": "calm", "label": "Calm"}, {"value": "fussy", "label": "Fussy"}]}
+    ]
+  },
+  "Guide": {
+    "parameters": [
+      {"name": "pages", "description": "List of pages", "required": true, "type": "book-page", "book-page": "list of HTML texts"},
+      {"name": "readinessStateTips", "description": "List of tips to determine readiness state", "required": true, "type": "list", "list": [{"value": "observeBehavioralCues", "label": "Observe behavioral cues"}, {"value": "checkForPhysicalCues", "label": "Check for physical cues"}, {"value": "useYourInstincts", "label": "Use your instincts"}]}
+    ]
+  }
+}
+
+
+Let me know if this meets your requirements!

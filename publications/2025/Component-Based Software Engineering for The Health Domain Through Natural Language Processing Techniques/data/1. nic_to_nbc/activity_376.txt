@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+
+{
+    "Activity Library": {
+        "Parameters": {
+            "Activity Category": ""
+        }
+    }
+}

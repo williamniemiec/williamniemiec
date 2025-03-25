@@ -1,0 +1,31 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Exercise Restriction",
+    "parameters": [
+        {
+            "name": "Name",
+            "type": "text"
+        },
+        {
+            "name": "Exercise Type",
+            "type": "options"
+        },
+        {
+            "name": "Condition",
+            "type": "options"
+        },
+        {
+            "name": "Temperature Range",
+            "type": "range"
+        },
+        {
+            "name": "Additional Instructions",
+            "type": "text"
+        }
+    ]
+}
+
+
+Note that I removed the `description` field and the `required` field, as well as the `options` array for the `Exercise Type` and `Condition` parameters, since they were not specified in the original request. Let me know if you need anything else!

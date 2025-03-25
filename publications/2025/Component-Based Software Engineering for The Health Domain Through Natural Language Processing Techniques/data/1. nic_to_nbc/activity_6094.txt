@@ -1,0 +1,27 @@
+
+
+
+{
+    "name": "Skin Integrity Check",
+    "parameters": [
+        {
+            "name": "skin_areas",
+            "description": "List of skin areas to examine"
+        },
+        {
+            "name": "examination_frequency",
+            "description": "Specify how often to examine skin"
+        },
+        {
+            "name": "alterations_to_look_for",
+            "description": "List of alterations to look for in skin integrity"
+        },
+        {
+            "name": "reporting_instructions",
+            "description": "Instructions on what to do if alterations are found"
+        }
+    ]
+}
+
+
+I removed the `deadline_date` parameter since it's not applicable (i.e., its `required` field is set to `false`). Let me know if you need further assistance!

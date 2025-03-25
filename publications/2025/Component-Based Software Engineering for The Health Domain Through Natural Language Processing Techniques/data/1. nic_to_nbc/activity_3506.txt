@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Heart Rate Monitoring": {
+        "Parameters": {
+            "Name": {},
+            "Frequency": {},
+            "Deadline Date": {},
+            "Heart Rate Data": {}
+        }
+    }
+}

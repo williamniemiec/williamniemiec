@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Food Diary Tracker": {
+    "parameters": {
+      "Food Diary Template": {},
+      "Recording Method": {},
+      "Education and Tips": {},
+      "Goal Setting": {},
+      "Tracking and Monitoring": {}
+    }
+  }
+}

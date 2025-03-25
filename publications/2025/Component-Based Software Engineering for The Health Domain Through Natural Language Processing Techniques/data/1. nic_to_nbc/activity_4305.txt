@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+    "Suctioning Instruction": {
+        "parameters": {
+            "name": "Suctioning Instruction",
+            "description": "Suction the oropharynx after completion of tracheal suctioning",
+            "type": "text",
+            "required": true
+        }
+    },
+    "Procedure Checklist": {
+        "parameters": {
+            "name": "Suctioning Procedure",
+            "description": "Confirm completion of suctioning procedure",
+            "type": "checkbox",
+            "options": [
+                { "value": "trachealSuctioning", "label": "Tracheal suctioning" },
+                { "value": "oropharyngealSuctioning", "label": "Oropharyngeal suctioning" }
+            ],
+            "required": true
+        }
+    }
+}

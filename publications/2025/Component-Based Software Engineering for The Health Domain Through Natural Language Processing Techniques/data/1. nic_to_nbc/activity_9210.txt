@@ -1,0 +1,38 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Praise",
+    "parameters": [
+        { 
+            "name": "Sibling's Name", 
+            "description": "A parameter that specifies the name of the sibling being praised.",
+            "required": true, 
+            "type": "text"
+        },
+        { 
+            "name": "Reason for Praise", 
+            "description": "A parameter that specifies the reason for praising the sibling (e.g., being patient, sacrificing, or being helpful).",
+            "required": true, 
+            "type": "text"
+        },
+        { 
+            "name": "Frequency", 
+            "description": "A parameter that specifies how often the praise should be given.",
+            "required": true, 
+            "type": "options",
+            "options": [
+                { value: "daily", label: "Daily" },
+                { value: "onlyOnce", label: "Only once" },
+                { value: "everyHours", label: "Every x hours" },
+                { value: "everyDays", label: "Every x days" },
+            ]
+        },
+        { 
+            "name": "Deadline Date", 
+            "description": "A parameter that specifies the due date for giving praise.",
+            "required": false, 
+            "type": "datetime"
+        }
+    ]
+}

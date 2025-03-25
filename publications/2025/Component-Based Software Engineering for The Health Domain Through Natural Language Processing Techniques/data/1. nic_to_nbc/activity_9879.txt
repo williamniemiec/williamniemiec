@@ -1,0 +1,29 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Reminder",
+    "parameters": [
+        {
+            "name": "Name",
+            "type": "text"
+        },
+        {
+            "name": "Content",
+            "type": "text"
+        },
+        {
+            "name": "Frequency",
+            "type": "options",
+            "options": [
+                { value: "daily", label: "Daily" },
+                { value: "every2Days", label: "Every 2 days" },
+                { value: "weekly", label: "Weekly" }
+            ]
+        },
+        {
+            "name": "Deadline Date",
+            "type": "datetime"
+        }
+    ]
+}

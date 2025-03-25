@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Consequence Awareness",
+    "parameters": [
+        {
+            "name": "Consequence List"
+        },
+        {
+            "name": "Explanation"
+        },
+        {
+            "name": "Examples"
+        },
+        {
+            "name": "Reflection Prompt"
+        },
+        {
+            "name": "Frequency"
+        }
+    ]
+}
+
+
+I removed the `Deadline Date` parameter since it's not applicable (its required property is set to false). Let me know if you need any further assistance!

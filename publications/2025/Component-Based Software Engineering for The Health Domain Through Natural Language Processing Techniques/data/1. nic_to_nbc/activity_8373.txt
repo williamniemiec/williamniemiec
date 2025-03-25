@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "EKG Tracker": {
+    "parameters": {
+      "EKG Status": {"type": "boolean"},
+      "EKG Date": {"type": "date"},
+      "Reminder": {"type": "datetime"}
+    }
+  }
+}

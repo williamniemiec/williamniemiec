@@ -1,0 +1,32 @@
+Here is the output in JSON format:
+
+
+{
+  "Family Conversation": {
+    "Conversation Topic": {
+      "type": "options",
+      "options": ["health", "relationships", "goals", "finances", "education", "other"],
+      "required": true
+    },
+    "Family Member": {
+      "type": "options",
+      "options": ["mother", "father", "sibling", "grandparent", "other"],
+      "required": true
+    },
+    "Conversation Goals": {
+      "type": "text",
+      "required": true
+    },
+    "Conversation Script": {
+      "type": "text/html",
+      "required": true
+    },
+    "Reflection Questions": {
+      "type": "text",
+      "required": true
+    }
+  }
+}
+
+
+I removed the `Follow-up` parameter since it's not required. Let me know if you need anything else!

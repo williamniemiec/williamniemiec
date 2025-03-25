@@ -1,0 +1,65 @@
+{
+  "name": "Critical Patient",
+  "description": "The 'Critical Patient' element coordinates medical treatment, emergency preparedness, surveillance, and discharge care for patients in critical condition. It tracks patient outcomes, manages emergency responses, monitors vital data, and ensures proper discharge planning and follow-up care.",
+  "type": "non-periodic",
+  "input": [
+    "Patient details",
+    "Treatment type",
+    "Intervention methods",
+    "Admission data",
+    "Emergency contact details",
+    "Shelter information",
+    "First aid instructions",
+    "Emergency phone numbers",
+    "Police and aid coordination",
+    "Surveillance data",
+    "Observation timestamps",
+    "Trend analysis",
+    "Data visualization",
+    "Discharge plan",
+    "Follow-up appointment details",
+    "Medications",
+    "Care instructions",
+    "Readiness for discharge assessment"
+  ],
+  "output": [
+    "Treatment outcomes",
+    "Surgical success rates",
+    "Therapy progress reports",
+    "Emergency preparedness plan",
+    "Disaster response status",
+    "Shelter availability confirmation",
+    "Surveillance report",
+    "Data trends visualization",
+    "Analysis feedback",
+    "Discharge report",
+    "Follow-up care instructions",
+    "Appointment reminder"
+  ],
+  "preconditions": [
+    "Patient is admitted and treatment is initiated",
+    "User is preparing for or responding to an emergency or disaster situation",
+    "User is conducting surveillance or data monitoring",
+    "User is preparing for discharge or follow-up care"
+  ],
+  "postconditions": [
+    "Treatment outcomes are verified and documented",
+    "Emergency response plan is activated, and necessary contacts and resources are mobilized",
+    "Clear trends and visualized data to support decisions",
+    "Successful discharge and readiness for follow-up care"
+  ],
+  "dependencies": [
+    "Medical database",
+    "Patient management system",
+    "Therapy and surgery tracking tools",
+    "Emergency contact system",
+    "Shelter management platform",
+    "First aid and police coordination tools",
+    "Surveillance data system",
+    "Data visualization tools",
+    "Trend analysis platform",
+    "Discharge planning system",
+    "Follow-up care platform",
+    "Appointment management tools"
+  ]
+}

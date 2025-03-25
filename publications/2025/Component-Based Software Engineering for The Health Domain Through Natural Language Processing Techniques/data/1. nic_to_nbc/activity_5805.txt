@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Parameters": [
+    {
+      "Name": "Stress Management Questions",
+      "Description": "Answer questions to identify your methods of handling stress"
+    },
+    {
+      "Name": "Stress Management Profile",
+      "Description": "View your stress management profile"
+    }
+  ],
+  "NoCodeElementName": "Stress Management Assessment"
+}
+
+
+I removed the not applicable parameters and only kept the `{{ PARAMETER ESPECIFICATIONS }}` and `{{ NO-CODE ELEMENT NAME }}` as per your request. Let me know if this is what you were looking for!

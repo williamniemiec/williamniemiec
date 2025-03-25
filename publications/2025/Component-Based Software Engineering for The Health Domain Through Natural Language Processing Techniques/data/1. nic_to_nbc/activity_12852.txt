@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Protocol": {
+    "parameters": [
+      {"name": "steps", "description": "list of steps to follow", "required": true, "type": "list"},
+      {"name": "aseptic_techniques", "description": "list of aseptic techniques to use when handling IV lines", "required": true, "type": "list"},
+      {"name": "frequency", "description": "specify how often the protocol should be repeated", "required": true, "type": "options"},
+    ]
+  }
+}
+
+
+I removed the `deadline_date` parameter since it's not required. Let me know if you need anything else!

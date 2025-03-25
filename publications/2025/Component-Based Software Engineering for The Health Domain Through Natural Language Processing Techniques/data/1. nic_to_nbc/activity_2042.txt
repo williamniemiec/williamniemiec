@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Motor Activity Plan": {
+    "parameters": {
+      "activity_type": {"type": "options"},
+      "muscle_group": {"type": "options"},
+      "duration": {"type": "text"},
+      "frequency": {"type": "options"},
+      "intensity_level": {"type": "options"},
+      "instructions": {"type": "text"},
+      "videos_or_images": {"type": "media"}
+    }
+  }
+}

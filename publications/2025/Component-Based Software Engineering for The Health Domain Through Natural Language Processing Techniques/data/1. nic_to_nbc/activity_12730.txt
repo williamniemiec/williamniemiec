@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Nerve Protection Guide": {
+    "Name": {"type": "text"},
+    "Nerve Location": {"type": "options"},
+    "Padding Type": {"type": "options"},
+    "Image": {"type": "image or diagram"},
+    "Instructions": {"type": "text or video"},
+    "Reminders": {"type": "options"},
+    "Deadline Date": {"type": "datetime"}
+  }
+}

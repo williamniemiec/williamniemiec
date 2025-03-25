@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Parameter Specifications": {
+    "Positioning Illustrations": {"type": "interactive images or illustrations"},
+    "Step-by-Step Instructions": {"type": "text"},
+    "Tips and Considerations": {"type": "text"},
+    "Frequency": {"type": "options"},
+    "Deadline Date": {"type": "datetime"},
+    "Self-Assessment": {"type": "boolean"|"rating scale"}
+  },
+  "No-Code Element Name": "Feeding Positioning Guide"
+}

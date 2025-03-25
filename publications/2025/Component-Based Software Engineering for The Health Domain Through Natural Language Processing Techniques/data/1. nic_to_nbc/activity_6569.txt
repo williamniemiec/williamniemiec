@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Body Acceptance": {
+    "Altered body part": ["Scars", "Amputations", "Disfigurements"],
+    "Aversion behavior": ["Avoiding touch", "Negative self-talk", "Hiding the altered body part"],
+    "Acceptance strategies": ["Positive self-talk", "Exposure therapy", "Mindfulness exercises"],
+    "Support system": ["Family support", "Friend support", "Mental health professional"],
+    "Frequency": ["daily", "onlyOnce", "everyHours", "everyDays"],
+    "Deadline Date": {
+      "type": "datetime"
+    }
+  }
+}

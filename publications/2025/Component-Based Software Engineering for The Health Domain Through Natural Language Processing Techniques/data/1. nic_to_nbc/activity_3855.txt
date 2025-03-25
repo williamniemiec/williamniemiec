@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+[
+  {
+    "name": "Medication Instillation",
+    "parameters": [
+      {"name": "medication_name"},
+      {"name": "medication_dosage"},
+      {"name": "instillation_method"}
+    ]
+  },
+  {
+    "name": "Aseptic Technique",
+    "parameters": [
+      {"name": "hand_washing"},
+      {"name": "sterile_equipment"},
+      {"name": "clean_environment"}
+    ]
+  }
+]

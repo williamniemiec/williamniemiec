@@ -1,0 +1,31 @@
+Here is the output in JSON format:
+
+
+{
+  "Solution Temperature Check": {
+    "Temperature Range": {
+      "Description": "Specify the acceptable temperature range",
+      "Required": true,
+      "Type": "range",
+      "Range": {
+        "min": 35,
+        "max": 40,
+        "unit": "°C"
+      }
+    },
+    "Temperature Measurement": {
+      "Description": "Take the temperature of the irrigating solution",
+      "Required": true,
+      "Type": "number",
+      "Unit": "°C"
+    },
+    "Confirmation": {
+      "Description": "Confirm that the temperature is within the acceptable range",
+      "Required": true,
+      "Type": "boolean"
+    }
+  }
+}
+
+
+Let me know if you need any further assistance!

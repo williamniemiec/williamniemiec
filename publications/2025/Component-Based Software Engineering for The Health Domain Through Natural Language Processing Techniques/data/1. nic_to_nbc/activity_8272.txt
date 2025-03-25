@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Infusion Control": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Medication": {"Type": "text"},
+      "Dosage": {"Type": "text"},
+      "Frequency": {"Type": "options", "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"Type": "datetime"},
+      "Instructions": {"Type": "text"}
+    }
+  }
+}
+
+
+Let me know if this meets your requirements!

@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+[
+    {
+        "Bioterrorism Screening Protocol": {
+            "name": {"type": "text"},
+            "event_type": {"type": "options", "options": ["anthrax", "smallpox", "botulism", "plague", "etc."]},
+            "screening_criteria": {"type": "text"},
+            "screening_procedure": {"type": "text"},
+            "reporting_requirements": {"type": "text"},
+            "personal_protective_equipment": {"type": "text"},
+            "notes": {"type": "text", "optional": true}
+        }
+    },
+    {
+        "Protocol": {
+            "name": {"type": "text"},
+            "steps": {"type": "list of text"},
+            "criteria": {"type": "text"},
+            "reporting_requirements": {"type": "text"},
+            "personal_protective_equipment": {"type": "text"},
+            "notes": {"type": "text", "optional": true}
+        }
+    }
+]

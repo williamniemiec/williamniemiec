@@ -1,0 +1,20 @@
+
+
+
+{
+  "name": "Monitoring Setup",
+  "parameters": [
+    {
+      "name": "Monitoring Lines"
+    },
+    {
+      "name": "Invasive Monitoring"
+    },
+    {
+      "name": "Noninvasive Monitoring"
+    },
+    {
+      "name": "Patient Data"
+    }
+  ]
+}

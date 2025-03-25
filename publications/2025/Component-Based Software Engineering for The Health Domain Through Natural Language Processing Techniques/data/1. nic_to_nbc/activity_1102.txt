@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Habit Tracker": {
+    "Undesirable Habit": {"type": "text"},
+    "Desirable Habit": {"type": "text"},
+    "Frequency": {"options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"type": "datetime"},
+    "Tracking Method": {"type": "options", "options": ["checkbox", "ratingScale", "textInput"]},
+    "Reminders": {"type": "boolean"}
+  }
+}

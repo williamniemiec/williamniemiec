@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Administration Guidance": {
+    "Parameters": {
+      "Administration Timing": [],
+      "Preferred Tablet Type": [],
+      "Dosing Schedule": {},
+      "Additional Instructions": {}
+    }
+  }
+}

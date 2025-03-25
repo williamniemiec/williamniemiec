@@ -1,0 +1,7 @@
+Here is the output in JSON format:
+
+
+{
+"PARAMETER ESPECIFICATIONS": "",
+"NO-CODE ELEMENT NAME": "Monitoring for diaphragmatic muscle fatigue, as indicated by paradoxical motion"
+}

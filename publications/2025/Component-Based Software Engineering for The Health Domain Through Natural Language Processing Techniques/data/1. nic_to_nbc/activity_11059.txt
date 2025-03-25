@@ -1,0 +1,10 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Storage Guide": {
+    "title of the guide": {"Type": "text", "Required": true},
+    "Pages": {"Type": "book-page", "Required": true, "Book-page": "list of HTML texts"},
+    "Tips": {"Type": "text", "Required": false}
+  }
+}

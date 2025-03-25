@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Fluid Container Reference Chart": {
+    "Parameters": {
+      "Container Type": {"Type": "options"},
+      "Measurement Units": {"Type": "options"},
+      "Reference Chart": {"Type": "image or table"}
+    }
+  }
+}

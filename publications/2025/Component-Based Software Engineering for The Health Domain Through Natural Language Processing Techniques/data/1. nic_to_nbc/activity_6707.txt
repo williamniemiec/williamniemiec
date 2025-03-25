@@ -1,0 +1,35 @@
+Here is the output in JSON format:
+
+
+{
+  "Care Plan Overview": {
+    "parameters": {
+      "name": "Aims of Care",
+      "content": "list of HTML texts, videos, or links to external resources",
+      "type": "specify the type of content (e.g., article, video, infographic)"
+    }
+  },
+  "Goal Setting": {
+    "parameters": {
+      "name": "Set Goals for Care Plan",
+      "goal": "specify the goal (e.g., \"Improve mobility\", \"Manage pain\")",
+      "target_date": "specify the target date for achieving the goal",
+      "progress": "track the patient's progress towards their goal"
+    }
+  },
+  "Progress Tracking": {
+    "parameters": {
+      "name": "Track Progress",
+      "metrics": "list of metrics to track progress (e.g., pain levels, mobility scores)",
+      "frequency": "specify how often to track progress (e.g., daily, weekly)",
+      "notes": "space for patients to record notes or questions about their progress"
+    }
+  },
+  "Education Resource": {
+    "parameters": {
+      "name": "Education Resources",
+      "resources": "list of HTML texts, videos, or links to external resources",
+      "type": "specify the type of resource (e.g., article, video, infographic)"
+    }
+  }
+}

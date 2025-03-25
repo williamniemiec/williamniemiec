@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Controlled Substance Dispensing and Administration": {
+    "Name": {"Type": "text"},
+    "Protocol Steps": {"Type": "list of text"},
+    "Verification": {"Type": "boolean"},
+    "Witness": {"Type": "text"},
+    "Medication Information": {"Type": "text"},
+    "Administration Record": {"Type": "text"},
+    "Audit Trail": {"Type": "text"}
+  }
+}

@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "redirect",
+  "parameters": [
+    { "name": "unacceptable_behavior" },
+    { "name": "alternative_behavior" },
+    { "name": "explanation" },
+    { "name": "frequency" },
+  ]
+}

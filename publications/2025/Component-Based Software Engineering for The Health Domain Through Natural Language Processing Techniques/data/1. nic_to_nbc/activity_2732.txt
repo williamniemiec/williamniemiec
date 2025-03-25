@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Parameters": {
+    "Title": {"Type": "text"},
+    "Content": {"Type": "form"},
+    "Desired Daily Weight Gain": {"Type": "text"},
+    "Reason": {"Type": "text"},
+    "Frequency": {"Type": "options", "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]}
+  },
+  "No-Code Element Name": "Weight Gain Goal"
+}

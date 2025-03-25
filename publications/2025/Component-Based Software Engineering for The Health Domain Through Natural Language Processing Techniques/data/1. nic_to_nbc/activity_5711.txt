@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Risk Assessment": {
+    "Trigger Situations": {"type": "list of trigger situations (text)"},
+    "Emotional States": {"type": "options (list of emotional states)"},
+    "Coping Mechanisms": {"type": "list of coping mechanisms (text)"},
+    "Intervention Plan": {"type": "text"}
+  }
+}

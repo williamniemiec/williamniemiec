@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Discussion": {
+    "Topic": {"type": "text"},
+    "Questions": {"type": "unordered list", "Question": {"type": "text"}},
+    "Family Members": {"type": "options", "options": ["parent", "caregiver", "sibling", "other"]},
+    "Format": {"type": "options", "options": ["in-person", "video call", "messaging"]},
+    "Notes": {"type": "text or audio/video recording"}
+  }
+}

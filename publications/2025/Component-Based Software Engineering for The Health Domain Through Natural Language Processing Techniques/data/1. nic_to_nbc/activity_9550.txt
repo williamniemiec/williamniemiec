@@ -1,0 +1,17 @@
+
+
+
+{
+  "name": "Knowledge Assessment",
+  "parameters": [
+    {
+      "name": "condition"
+    },
+    {
+      "name": "questions"
+    },
+    {
+      "name": "score"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Resource Library": {
+    "Topic": {"type": "text", "example": ["Adolescent Development", "Sexual Health", "Mental Health"]},
+    "Resource Type": {"type": "options", "options": ["Article", "Brochure", "Fact Sheet", "Video Transcript"]},
+    "Resource Content": {"type": "text or HTML", "example": ["A PDF article on adolescent development", "a brochure on sexual health", "or a fact sheet on mental health resources."]},
+    "Reading Level": {"type": "options", "options": ["Easy", "Moderate", "Advanced"]},
+    "Language": {"type": "options", "options": ["English", "Spanish", "French", "etc."]}
+  }
+}
+
+
+Let me know if this meets your requirements!

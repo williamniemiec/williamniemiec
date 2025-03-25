@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "Nutrition Assessment": {
+    "name": "nutrition assessment title",
+    "description": "instructions for providing nutritional information",
+    "food_diary": "option to track daily food intake (e.g., log of meals, snacks, and beverages)",
+    "frequency": "how often the patient should provide nutritional information",
+    "deadline_date": "due date for nutrition assessment"
+  },
+  "Nutrition Questionnaire": {
+    "name": "nutrition questionnaire title",
+    "description": "instructions for completing the questionnaire",
+    "questions": "list of questions about nutritional habits and needs (e.g., \"Do you have difficulty swallowing?\", \"Do you have a history of malnutrition?\")",
+    "answer_type": "type of answer required for each question (e.g., yes/no, multiple choice, text)"
+  },
+  "Nutrition Goal Setting": {
+    "name": "nutrition goal setting title",
+    "description": "instructions for setting nutritional goals",
+    "goal_type": "type of nutritional goal (e.g., increase calorie intake, reduce sugar consumption, etc.)",
+    "target_value": "target value for the nutritional goal (e.g., \"consume 2000 calories per day\")",
+    "tracking_frequency": "how often the patient should track progress towards the nutritional goal"
+  }
+}

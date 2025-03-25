@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Family Support": {
+    "parameters": {
+      "Family Activity Options": {"type": ["text", "images", "videos"]},
+      "Family Goal Setting": {"type": ["interactive goal-setting tool", "text"]},
+      "Resource Library": {"type": ["links", "PDFs", "multimedia content"]},
+      "Progress Tracking": {"type": ["dashboard", "graph view"]},
+      "Family Feedback": {"type": ["text", "rating scales"]}
+    }
+  }
+}
+
+
+Note: I removed the "Healthcare Professional Guidance" parameter as it's not applicable in this context.

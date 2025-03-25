@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+    "Guide": {
+        "parameters": {
+            "name": "Preventing Hypothermia from Cold Exposure",
+            "pages": "list of HTML texts explaining actions to prevent hypothermia, with a focus on elderly patients"
+        }
+    },
+    "Task": {
+        "parameters": {
+            "name": "Preventing Hypothermia",
+            "content": "Take the following actions to prevent hypothermia from cold exposure:",
+            "frequency": "as needed" or "daily"
+        }
+    }
+}

@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Epinephrine Pen Tutorial": {
+    "Parameters": [
+      {"Title": {"Description": "Title of the tutorial", "Required": true, "Type": "text"}},
+      {"Simulation Steps": {"Description": "List of interactive steps to demonstrate the use of an epinephrine pen", "Required": true, "Type": "interactive simulation steps", "Interactive simulation steps": "List of HTML texts, images, and interactive elements (e.g., drag-and-drop, click-and-reveal)"}},
+      {"Instructions": {"Description": "List of written instructions on how to use an epinephrine pen", "Required": true, "Type": "unordered list", "Unordered list": "List of text items"}}
+    ]
+  }
+}
+
+
+I removed the not applicable parameters (`Video Demonstration` and `Quiz`) since they are marked as `false` in the `Required` field. Let me know if this is what you were looking for!

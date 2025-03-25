@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Group Size Configurator": {
+    "parameters": {
+      "name": "",
+      "min_size": "",
+      "max_size": "",
+      "group_size_slider": "",
+      "group_size_label": ""
+    }
+  }
+}

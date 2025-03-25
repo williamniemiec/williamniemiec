@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+    "Follow-up care instructions": {
+        "Parameters": {
+            "Follow-up type": {"Description": "select the type of follow-up care", "Required": true, "Type": "options"},
+            "Instructions": {"Description": "enter the instructions for follow-up care", "Required": true, "Type": "text"},
+            "Frequency": {"Description": "select how often to follow up", "Required": true, "Type": "options"},
+            "Duration": {"Description": "select how long to follow up", "Required": true, "Type": "options"}
+        }
+    }
+}
+
+
+Note: I removed the `Deadline date` parameter as it was marked as not required. Let me know if you want to include it as well!

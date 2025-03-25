@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Nursing Process Guide": {
+    "parameters": {
+      "name": "",
+      "patient_info": "",
+      "nursing_process_steps": ["Assessment", "Diagnosis", "Planning", "Implementation", "Evaluation"],
+      "case_studies": "",
+      "type": "",
+      "deadline_date": ""
+    }
+  }
+}

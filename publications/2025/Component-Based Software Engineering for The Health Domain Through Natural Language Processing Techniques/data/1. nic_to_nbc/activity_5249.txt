@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Proper Positioning": {
+    "Task Name": {"Description": "Task to ensure proper positioning", "Required": true, "Type": "text"},
+    "Positioning Options": {"Description": "Select proper positioning options to facilitate chewing and swallowing", "Required": true, "Type": "checkbox", "Options": [{"value": "upright", "label": "Upright position"}, {"value": "slightlyReclined", "label": "Slightly reclined position"}, {"value": "other", "label": "Other (please specify)"}]},
+    "Other Positioning Options": {"Description": "Enter other positioning options to facilitate chewing and swallowing", "Required": false, "Type": "text"},
+    "Frequency": {"Description": "Specify how often to ensure proper positioning", "Required": true, "Type": "options", "Options": [{"value": "daily", "label": "Daily"}, {"value": "everyOtherDay", "label": "Every other day"}, {"value": "weekly", "label": "Weekly"}, {"value": "custom", "label": "Custom (please specify)"}]},
+    "Custom Frequency": {"Description": "Enter custom frequency", "Required": false, "Type": "text"}
+  }
+}

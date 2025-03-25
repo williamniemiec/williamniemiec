@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Tubing Configuration": {
+        "Parameters": {
+            "Tubing Type": {},
+            "Length Requirement": {},
+            "Mobility Considerations": {},
+            "Image/Video": {},
+            "Tips for Securement": {}
+        }
+    }
+}

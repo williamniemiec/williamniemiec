@@ -1,0 +1,4 @@
+Since there are no `PARAMETER ESPECIFICATIONS` and `NO-CODE ELEMENT NAME` to extract from the input text, my output will be an empty JSON object:
+
+
+{}

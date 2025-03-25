@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Behavior Direction": {
+    "Parameters": {
+      "Target Behavior": {"Type": "text"},
+      "Direction": {"Options": ["increase", "decrease", "learn"]},
+      "Reasoning": {"Type": "text"},
+      "Goal Setting": {"Type": "boolean"}
+    }
+  }
+}

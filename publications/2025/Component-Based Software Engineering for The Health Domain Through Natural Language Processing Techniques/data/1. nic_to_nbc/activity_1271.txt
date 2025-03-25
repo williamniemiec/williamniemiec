@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Pointer Shot Photography": {
+    "parameters": {
+      "Photograph Type": {},
+      "Image": {},
+      "Pointer Placement": {},
+      "Photograph Notes": {}
+    }
+  }
+}

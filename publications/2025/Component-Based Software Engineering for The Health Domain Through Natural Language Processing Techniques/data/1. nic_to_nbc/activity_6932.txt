@@ -1,0 +1,32 @@
+Here is the output in JSON format:
+
+
+{
+  "Stimulation Method Selection": {
+    "parameters": {
+      "name": "",
+      "methods": []
+    }
+  },
+  "Intermittent Stimulation Information": {
+    "parameters": {
+      "name": "",
+      "benefits": [],
+      "usage_instructions": ""
+    }
+  },
+  "Schedule": {
+    "parameters": {
+      "name": "",
+      "reminder_time": "",
+      "stimulation_duration": "",
+      "rest_duration": ""
+    }
+  },
+  "Tracking": {
+    "parameters": {
+      "name": "",
+      "tracking_fields": []
+    }
+  }
+}

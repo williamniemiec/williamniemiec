@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+  "Alone Time Reminder": {
+    "Frequency": {
+      "Type": "options",
+      "Options": ["daily", "every other day", "3 times a week", "etc."]
+    },
+    "Duration": {
+      "Type": "text",
+      "Example": "15-30 minutes"
+    },
+    "Tips": {
+      "Type": "unordered list",
+      "Examples": [
+        "Take a few deep breaths",
+        "Practice relaxation techniques",
+        "Engage in a hobby or activity you enjoy",
+        "Write in a journal"
+      ]
+    }
+  }
+}
+
+
+I removed the `Deadline Date` parameter as it's not applicable to no-code elements. Let me know if this is what you were looking for!

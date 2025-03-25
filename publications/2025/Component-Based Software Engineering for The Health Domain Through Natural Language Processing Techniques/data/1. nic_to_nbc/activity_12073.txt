@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Test Result": {
+    "parameters": {
+      "result": "",
+      "description": "",
+      "interpretation": ""
+    }
+  }
+}

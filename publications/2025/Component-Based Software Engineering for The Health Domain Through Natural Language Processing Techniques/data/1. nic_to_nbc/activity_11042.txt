@@ -1,0 +1,37 @@
+Here is the output in JSON format:
+
+
+{
+  "Vital Sign Tracker": {
+    "Parameters": {
+      "Vital Signs": {
+        "Type": "options",
+        "Options": ["blood pressure", "heart rate", "respiratory rate"]
+      },
+      "Frequency": {
+        "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+      },
+      "Units": {
+        "Type": "options",
+        "Options": ["mmHg", "bpm", "breaths/min"]
+      }
+    }
+  },
+  "Symptom Tracker": {
+    "Parameters": {
+      "Symptoms": {
+        "Type": "options",
+        "Options": ["shortness of breath", "chest pain", "nausea"]
+      },
+      "Frequency": {
+        "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+      },
+      "Severity": {
+        "Type": "options",
+        "Options": ["mild", "moderate", "severe"]
+      }
+    }
+  }
+}
+
+Note that I removed the introduction, conclusion, and other unnecessary parts of the text, leaving only the no-code element names and their corresponding parameter specifications.

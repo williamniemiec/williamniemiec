@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+    "Weight Tracker": {
+        "Parameters": {
+            "Weight": {
+                "Type": "numeric"
+            },
+            "Unit": {
+                "Type": "options",
+                "Options": ["kg", "lbs"]
+            },
+            "Frequency": {
+                "Type": "options",
+                "Options": ["daily", "weekly", "monthly"]
+            },
+            "Goal": {
+                "Type": "numeric"
+            },
+            "Graph": {
+                "Type": "boolean"
+            }
+        }
+    }
+}

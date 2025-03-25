@@ -1,0 +1,29 @@
+Here is the output in JSON format:
+
+
+{
+    "Value Identification": {
+        "Value Statement": {},
+        "Value Rating": {},
+        "Frequency": {
+            "options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+        },
+        "Deadline Date": {}
+    },
+    "Conflict Assessment": {
+        "Conflict Description": {},
+        "Conflict Impact": {},
+        "Frequency": {
+            "options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+        },
+        "Deadline Date": {}
+    },
+    "Resolution Strategy": {
+        "Strategy Description": {},
+        "Strategy Steps": {},
+        "Frequency": {
+            "options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+        },
+        "Deadline Date": {}
+    }
+}

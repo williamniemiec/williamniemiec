@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+  "Emergency Guide": {
+    "Parameters": {
+      "Title": {
+        "Type": "text"
+      },
+      "Content": {
+        "Type": "html or article"
+      },
+      "Warning Signs": {
+        "Type": "list of warning signs"
+      },
+      "What to Do": {
+        "Type": "text"
+      },
+      "Emergency Contact": {
+        "Type": "text"
+      }
+    }
+  }
+}
+
+
+Let me know if you need anything else!

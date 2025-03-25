@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+[
+    {
+        "element_name": "Task",
+        "parameters": {
+            "name": "Elevate Affected Limb",
+            "content": "Please elevate your affected limb 20 degrees or greater, above the level of the heart, to improve venous return.",
+            "frequency": "asNeeded"
+        }
+    },
+    {
+        "element_name": "Guide",
+        "parameters": {
+            "name": "Elevating Affected Limb",
+            "pages": "A list of HTML texts or images that provide guidelines and instructions on how to properly elevate the affected limb, including the recommended angle and positioning."
+        }
+    }
+]

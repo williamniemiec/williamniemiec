@@ -1,0 +1,13 @@
+
+
+
+{
+  "Comfort Settings": {
+    "Parameters": {
+      "Privacy": {"Type": "options"},
+      "Draft Prevention": {"Type": "options"},
+      "Modesty Preservation": {"Type": "options"},
+      "Notes": {"Type": "text"}
+    }
+  }
+}

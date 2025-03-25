@@ -1,0 +1,31 @@
+Here is the output in JSON format:
+
+
+{
+    "referral information": {
+        "parameters": [
+            { 
+                "name": "Name", 
+                "type": "text"
+            },
+            { 
+                "name": "Referring Nurse", 
+                "type": "text"
+            },
+            { 
+                "name": "Location", 
+                "type": "text"
+            },
+            { 
+                "name": "Optional Fields", 
+                "type": "list of objects",
+                "objects": [
+                    {
+                        "label": "Label",
+                        "type": "text"
+                    }
+                ]
+            }
+        ]
+    }
+}

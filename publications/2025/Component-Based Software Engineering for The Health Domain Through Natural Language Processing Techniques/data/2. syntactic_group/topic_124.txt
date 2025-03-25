@@ -1,0 +1,10 @@
+{
+  "name": "Community Resource and Referral",
+  "description": "Helps users access and refer community resources, including eligibility filtering and contact information. Focuses on assisting users with finding available services and making referrals.",
+  "type": "non-periodic",
+  "input": ["Community resources", "Referral process", "Eligibility criteria", "Listings and availability", "Contact information"],
+  "output": ["Referral report", "Community resource guide", "Eligibility filter"],
+  "preconditions": ["User needs community resources or is referring someone"],
+  "postconditions": ["Successful connection to relevant community resources"],
+  "dependencies": ["Resource directory", "Eligibility assessment tools", "Referral platform"]
+}

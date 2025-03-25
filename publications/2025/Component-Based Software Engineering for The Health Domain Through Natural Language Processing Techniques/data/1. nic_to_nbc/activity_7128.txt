@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Oral Airway Maintenance": {
+    "Current Status": {},
+    "Obstruction Risks": {},
+    "Suctioning Frequency": {},
+    "Suctioning Technique": {},
+    "Oral Care": {}
+  }
+}

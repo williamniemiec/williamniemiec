@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Education",
+  "parameters": [
+    {
+      "name": "title",
+      "type": "text"
+    },
+    {
+      "name": "content",
+      "type": "html text or video"
+    },
+    {
+      "name": "images",
+      "type": "list of image URLs"
+    },
+    {
+      "name": "quiz",
+      "type": "list of questions with answer options"
+    }
+  ]
+}

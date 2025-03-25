@@ -1,0 +1,36 @@
+Here is the output in JSON format:
+
+
+{
+  "Grooming Assistance": {
+    "Request Grooming Assistance": {
+      "Description": "Request help with grooming",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "yes", "label": "Yes, I need help with grooming" },
+        { "value": "no", "label": "No, I don't need help with grooming" }
+      ]
+    },
+    "Grooming Type": {
+      "Description": "Select the type of grooming needed",
+      "Required": false,
+      "Type": "options",
+      "Options": [
+        { "value": "barber", "label": "Barber" },
+        { "value": "beautician", "label": "Beautician" },
+        { "value": "other", "label": "Other (please specify)" }
+      ]
+    },
+    "Other Grooming Type": {
+      "Description": "Enter other grooming type",
+      "Required": false,
+      "Type": "text"
+    },
+    "Schedule": {
+      "Description": "Schedule grooming appointment",
+      "Required": false,
+      "Type": "datetime"
+    }
+  }
+}

@@ -1,0 +1,31 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Mediation Process Tracker",
+    "parameters": [
+        { 
+            "name": "Mediation Process", 
+            "type": "options"
+        },
+        { 
+            "name": "Progress Notes", 
+            "type": "text"
+        },
+        { 
+            "name": "Next Steps", 
+            "type": "text"
+        },
+        { 
+            "name": "Deadline Date", 
+            "type": "datetime"
+        },
+        { 
+            "name": "Frequency", 
+            "type": "options"
+        }
+    ]
+}
+
+
+Let me know if you need anything else!

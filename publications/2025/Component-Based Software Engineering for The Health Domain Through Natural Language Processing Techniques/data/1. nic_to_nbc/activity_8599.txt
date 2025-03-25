@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+[
+    {
+        "Symptom Checker": {
+            "Parameters": {
+                "Symptom List": [],
+                "Frequency": ["daily", "every 12 hours", "every 8 hours", "etc."],
+                "Deadline Date": {"Type": "datetime"},
+                "Additional Notes": {"Type": "text"}
+            }
+        }
+    },
+    {
+        "Question": {
+            "Parameters": {
+                "Question 1": {"Answer Type": "Yes/No"},
+                "Question 2": {"Answer Type": "Yes/No"},
+                "Question 3": {"Answer Type": "Yes/No"},
+                "Frequency": ["daily", "every 12 hours", "every 8 hours", "etc."],
+                "Deadline Date": {"Type": "datetime"}
+            }
+        }
+    }
+]

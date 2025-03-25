@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+    "Pressure Line Insertion Assistance": {
+        "Line Type": {"Type": "options", "Options": ["arterial line", "central venous pressure line"]},
+        "Insertion Site": {"Type": "text"},
+        "Assistance Instructions": {"Type": "text"},
+        "Deadline Date": {"Type": "datetime"},
+        "Special Precautions": {"Type": "text"}
+    }
+}

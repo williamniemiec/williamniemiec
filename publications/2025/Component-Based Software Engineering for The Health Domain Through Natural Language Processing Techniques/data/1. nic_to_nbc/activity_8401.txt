@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "Bleeding Control": {
+    "Method": {
+      "Type": "options",
+      "Options": ["pressure", "pressure dressing", "positioning", "other"]
+    },
+    "Instructions": {
+      "Type": "text"
+    },
+    "Frequency": {
+      "Type": "options",
+      "Options": ["as needed", "every 15 minutes", "every 30 minutes", "every hour", "other"]
+    },
+    "Duration": {
+      "Type": "text"
+    }
+  }
+}
+
+
+I removed the `Deadline Date` parameter as it's not applicable (no specific value is provided). Let me know if this meets your requirements!

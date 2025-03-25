@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+    "Rolling Exercise": {
+        "Parameters": {
+            "Exercise Name": {"Type": "text", "Required": true},
+            "Video Demonstration": {"Type": "video", "Required": true},
+            "Step-by-Step Instructions": {"Type": "text", "Required": true},
+            "Frequency and Duration": {"Type": "text", "Required": true},
+            "Position": {"Type": "options", "Options": ["back", "tummy"], "Required": true}
+        }
+    }
+}
+
+
+I removed the non-applicable parameters, which are `Tips and Precautions` and `Tracking`. Let me know if this is what you were expecting!

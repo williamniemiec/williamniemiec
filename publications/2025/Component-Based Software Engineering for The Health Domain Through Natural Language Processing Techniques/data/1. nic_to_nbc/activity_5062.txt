@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+"Pain Tracker": {
+"Name": {"Type": "text"},
+"Description": {"Type": "text"},
+"Frequency": {"Type": "options", "Options": ["daily", "every12Hours", "every8Hours", "custom"]},
+"Pain Scale": {"Type": "options", "Options": ["numerical scale", "verbal scale", "visual scale"]},
+"Additional Notes": {"Type": "text"}
+}
+}

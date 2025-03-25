@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Neurological Symptom Checker": {
+    "Symptoms": ["Drowsiness", "Lethargy", "Confusion", "Coma"],
+    "Severity": ["mild", "moderate", "severe"],
+    "Frequency": ["daily", "every 2 hours", "etc."],
+    "Deadline Date": {"Type": "datetime"}
+  },
+  "Cognitive Function Assessment": {
+    "Assessment Questions": ["Can you remember your name and address?", "Can you count backwards from 10?", "Can you recognize familiar faces?"],
+    "Scoring": ["1-5", "with 5 being normal"],
+    "Frequency": ["daily", "every 2 hours", "etc."],
+    "Deadline Date": {"Type": "datetime"}
+  }
+}

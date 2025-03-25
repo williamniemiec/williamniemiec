@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Injury Report": {
+    "Injury Status": {
+      "Type": "options",
+      "Options": ["yes", "no", "unsure"]
+    },
+    "Injury Description": {
+      "Type": "text"
+    },
+    "Seek Assistance": {
+      "Type": "options",
+      "Options": ["yes", "no"]
+    }
+  }
+}

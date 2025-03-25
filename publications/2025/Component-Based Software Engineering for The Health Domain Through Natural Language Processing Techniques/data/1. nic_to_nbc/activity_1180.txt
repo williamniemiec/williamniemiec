@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+  "Guide": {
+    "parameters": [
+      { "name": "pages", "description": "List of pages", "required": true, "type": "book-page" },
+      { "name": "metabolicDisorders", "description": "List of metabolic disorders to screen for", "required": true, "type": "list" }
+    ]
+  },
+  "Screening Tracker": {
+    "parameters": [
+      { "name": "screeningType", "description": "Select the type of screening", "required": true, "type": "options" },
+      { "name": "screeningResult", "description": "Enter the screening result", "required": true, "type": "text" },
+      { "name": "followUp", "description": "Schedule a follow-up appointment", "required": true, "type": "date" }
+    ]
+  },
+  "Resource Directory": {
+    "parameters": [
+      { "name": "resources", "description": "List of resources", "required": true, "type": "list" }
+    ]
+  }
+}

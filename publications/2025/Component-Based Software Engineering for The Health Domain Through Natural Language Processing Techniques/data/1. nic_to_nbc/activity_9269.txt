@@ -1,0 +1,33 @@
+Here is the output in JSON format:
+
+
+{
+  "Guideline": {
+    "Parameters": {
+      "Title": {
+        "Type": "text",
+        "Required": true
+      },
+      "Content": {
+        "Type": "text",
+        "Required": true
+      },
+      "Checklist": {
+        "Type": "list of checklist items",
+        "Required": true
+      }
+    }
+  },
+  "Checklist Item": {
+    "Parameters": {
+      "Text": {
+        "Type": "text",
+        "Required": true
+      },
+      "Image": {
+        "Type": "image file",
+        "Required": false
+      }
+    }
+  }
+}

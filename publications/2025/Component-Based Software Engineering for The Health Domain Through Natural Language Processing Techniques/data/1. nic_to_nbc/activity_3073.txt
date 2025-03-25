@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Virtual Coaching": {
+    "Parameters": {
+      "Coaching Topic": {"Type": ["text", "selection from a list of predefined topics"]},
+      "Coaching Content": {"Type": ["text", "video", "audio", "interactive content"]},
+      "Personalized Feedback": {"Type": ["text", "audio", "video response from a healthcare professional"]},
+      "Scheduling": {"Type": ["calendar integration", "scheduling tool"]}
+    }
+  }
+}
+
+
+Note: I removed the not applicable parameters as per your request. Let me know if you need any further assistance!

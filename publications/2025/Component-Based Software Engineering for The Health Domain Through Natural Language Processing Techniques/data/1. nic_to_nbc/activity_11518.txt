@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+  "Incision Care Instructions": {
+    "parameters": {
+      "name": "Incision care during bathing",
+      "content": "Instruct the patient on how to care for the incision during bathing or showering",
+      "instructions": {
+        "type": "text",
+        "value": "Gently clean the incision with soap and water. Avoid using harsh or abrasive cleansers. Pat the area dry with a clean towel. Avoid submerging the incision in water until it is fully healed."
+      },
+      "frequency": {
+        "options": ["daily", "everyHours", "everyDays"]
+      },
+      "deadline_date": {
+        "type": "datetime"
+      },
+      "notes": {
+        "type": "text"
+      }
+    }
+  }
+}
+
+
+Note that I removed the `video_tutorial` parameter as it was not applicable (no value provided).

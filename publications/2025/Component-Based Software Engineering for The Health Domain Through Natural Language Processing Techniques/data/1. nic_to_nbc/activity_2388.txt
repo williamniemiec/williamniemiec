@@ -1,0 +1,10 @@
+
+
+
+{
+  "Plain Language": {
+    "text": {"type": "text"},
+    "jargon_level": {"type": "options", "options": ["minimal", "moderate", "extreme"]},
+    "acronym_replacement": {"type": "boolean"}
+  }
+}

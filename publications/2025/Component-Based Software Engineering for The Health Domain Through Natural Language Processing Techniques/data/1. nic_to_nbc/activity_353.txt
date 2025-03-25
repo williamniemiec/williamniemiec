@@ -1,0 +1,19 @@
+
+
+
+{
+  "Environmental Assessment": {
+    "Name": {"Type": "text"},
+    "Questions": {"Type": "list of questions", 
+      "Properties": {
+        "Question Text": {"Type": "text"},
+        "Answer Options": {"Type": "list of options"},
+        "Answer Type": {"Type": "options", "Options": ["multipleChoice", "freeText", "ratingScale"]}
+      }
+    },
+    "Categories": {"Type": "list of categories"},
+    "Frequency": {"Type": "options", "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"Type": "datetime"},
+    "Analysis": {"Type": "options", "Options": ["automatic analysis", "manual review", "scoring system"]}
+  }
+}

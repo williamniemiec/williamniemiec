@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+    "Tube/Catheter Type": {
+        "Type": "options",
+        "Options": ["nasogastric tube", "rectal tube", "urinary catheter"]
+    },
+    "Insertion Instructions": {
+        "Type": "text"
+    },
+    "Necessary": {
+        "Type": "boolean"
+    },
+    "Deadline Date": {
+        "Type": "datetime"
+    },
+    "Special Precautions": {
+        "Type": "text"
+    },
+    "Element Name": "Tube and Catheter Insertion"
+}

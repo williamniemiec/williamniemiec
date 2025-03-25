@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+    "Procedure": {
+        "title": "",
+        "steps": [],
+        "precautions": [],
+        "tips": []
+    },
+    "Task": {
+        "title": "",
+        "instructions": "",
+        "frequency": "",
+        "deadline": ""
+    }
+}

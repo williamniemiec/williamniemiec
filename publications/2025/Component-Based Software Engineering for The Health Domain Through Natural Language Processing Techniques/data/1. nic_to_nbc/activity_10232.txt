@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Growth Chart Analyzer": {
+    "Parameters": {
+      "Growth Chart Type": "",
+      "Measurement Data": "",
+      "Frequency": ["daily", "weekly", "biweekly", "monthly"],
+      "Trend Analysis": "",
+      "Alerts": ""
+    }
+  }
+}

@@ -1,0 +1,32 @@
+Here is the output in JSON format:
+
+
+{
+  "Lens Care Guide": {
+    "Step-by-Step Instructions": {
+      "type": "ordered list",
+      "example": [
+        "Step 1: Wash your hands thoroughly with soap and water.",
+        "Step 2: Rinse the lens case with sterile solution.",
+        "Step 3: Soak the lenses in the recommended cleaning solution for 15 minutes.",
+        "Step 4: Rinse the lenses with sterile solution.",
+        "Step 5: Disinfect the lenses with the recommended disinfecting solution."
+      ]
+    },
+    "Recommended Solutions": {
+      "type": "unordered list",
+      "example": ["Sterile solution", "Cleaning solution", "Disinfecting solution"]
+    },
+    "Frequency": {
+      "type": "options",
+      "options": ["daily", "every other day", "weekly"]
+    },
+    "Tips and Precautions": {
+      "type": "unordered list",
+      "example": ["Always wash your hands before handling lenses", "Avoid touching the lenses with your fingers", "Do not share lens care solutions"]
+    },
+    "Visual Aids": {
+      "type": "list of URLs or embedded media"
+    }
+  }
+}

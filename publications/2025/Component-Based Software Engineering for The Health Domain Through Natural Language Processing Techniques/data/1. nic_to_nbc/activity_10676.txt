@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+    "Goal Setting": {
+        "area_of_life": {"type": "options"},
+        "goal": {"type": "text"},
+        "steps": {"type": "list of text"},
+        "progress_tracking": {"type": "text or numeric"},
+        "reflection": {"type": "text"}
+    }
+}

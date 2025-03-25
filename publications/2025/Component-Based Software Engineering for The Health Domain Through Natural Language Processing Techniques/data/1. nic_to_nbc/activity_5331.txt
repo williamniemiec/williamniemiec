@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+  "No-code Element Name": "Weaning Predictor Assessment",
+  "Parameter Specifications": {
+    "Degree of Shunt": {"Type": "number", "Required": true},
+    "Vital Capacity": {"Type": "number", "Required": true},
+    "Vd/Vt": {"Type": "number", "Required": true},
+    "MVV": {"Type": "number", "Required": true},
+    "Inspiratory Force": {"Type": "number", "Required": true},
+    "FEV1": {"Type": "number", "Required": true},
+    "Negative Inspiratory Pressure": {"Type": "number", "Required": true},
+    "Weaning Predictor Score": {"Type": "calculated", "Required": true},
+    "Interpretation": {"Type": "text", "Required": false}
+  }
+}
+
+
+Note that I removed the "Calculation" field for the "Weaning Predictor Score" parameter as it's not a direct specification of the parameter. Let me know if you'd like me to include it or make any other changes!

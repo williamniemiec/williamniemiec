@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Injection Angle Guidance": {
+    "Parameters": {
+      "Injection Angle": {},
+      "Injection Speed": {},
+      "Visual Aid": {}
+    }
+  }
+}
+
+
+I removed `Frequency` and `Deadline Date` as they are not applicable to the no-code element. Let me know if this meets your requirements!

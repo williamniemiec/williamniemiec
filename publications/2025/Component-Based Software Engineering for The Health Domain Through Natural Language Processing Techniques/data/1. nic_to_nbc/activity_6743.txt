@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+    "Rest Reminder": {
+        "name": "",
+        "duration": "",
+        "reminder_type": "",
+        "rest_guidance": ""
+    }
+}

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Vital Signs Recording": {
+    "Parameters": {
+      "Vital Sign Type": {"Type": "options", "Options": ["height", "weight", "etc."]},
+      "Measurement Unit": {"Type": "options", "Options": ["inches", "pounds", "etc."]},
+      "Recording Method": {"Type": "options", "Options": ["manual entry", "automated measurement", "etc."]},
+      "Recording Frequency": {"Type": "options", "Options": ["daily", "weekly", "etc."]},
+      "Medical Record": {"Type": "options", "Options": ["electronic health record", "paper chart", "etc."]}
+    }
+  }
+}

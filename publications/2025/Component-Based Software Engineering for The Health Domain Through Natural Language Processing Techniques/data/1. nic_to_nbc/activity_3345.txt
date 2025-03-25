@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Edema Support Guide": {
+    "Parameters": {
+      "Edema Support Guide Title": {},
+      "Affected Area": {},
+      "Support Method": {},
+      "Support Instructions": {},
+      "Edema Support Guide Media": {},
+      "Frequency": {}
+    }
+  }
+}
+
+
+I removed all unnecessary information and kept only the `{{ NO-CODE ELEMENT NAME }}` and `{{ PARAMETER ESPECIFICATIONS }}`. I also removed the `Deadline Date` parameter since it's not required. Let me know if you need further assistance!

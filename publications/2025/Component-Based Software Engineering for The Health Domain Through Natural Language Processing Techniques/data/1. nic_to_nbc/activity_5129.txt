@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Lubricating Eyedrops Application": {
+    "Task Title": {"type": "text", "description": "Apply Lubricating Eyedrops"},
+    "Task Steps": {"type": "text", "description": "Step 1: Wash your hands thoroughly. Step 2: Tilt your head back and pull the lower eyelid down. Step 3: Place one drop of lubricating eyedrops into the pocket between your eye and lower eyelid."},
+    "Frequency": {"type": "options", "options": ["daily", "weekly", "bi-weekly", "monthly"], "description": "How often should you apply lubricating eyedrops?"},
+    "Reason": {"type": "text", "description": "To lubricate and soothe dry, irritated eyes"}
+  },
+  "Lubricating Eyedrops Guide": {
+    "Page Title": {"type": "text", "description": "Lubricating Eyedrops Guide"},
+    "Page Content": {"type": "text", "description": "Lubricating eyedrops can help soothe and moisturize dry, irritated eyes. Follow these steps to ensure proper application techniques."},
+    "Image": {"type": "image", "description": "An image illustrating the proper application of lubricating eyedrops"}
+  }
+}

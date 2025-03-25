@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Rape Protocol Information": {
+    "parameters": {
+      "content": "text or multimedia content explaining the rape protocol (e.g., steps involved, purpose of each step)",
+      "consent": "boolean parameter indicating patient consent to proceed with the protocol",
+      "signature": "digital signature or acknowledgement from the patient indicating their understanding and consent"
+    }
+  }
+}

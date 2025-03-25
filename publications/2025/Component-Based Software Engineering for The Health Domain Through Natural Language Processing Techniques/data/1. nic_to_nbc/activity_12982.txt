@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Fetal Parameter Monitoring": {
+    "parameters": [
+      {"name": "fetal_number", "description": "Enter the number of fetuses"},
+      {"name": "fetal_size", "description": "Enter the size of the fetus(es)"},
+      {"name": "cardiac_activity", "description": "Enter the cardiac activity of the fetus(es)"},
+      {"name": "presentation", "description": "Enter the presentation of the fetus(es)"},
+      {"name": "position", "description": "Enter the position of the fetus(es)"},
+      {"name": "frequency", "description": "Specify how often you should track and report your fetal parameters"},
+      {"name": "deadline_date", "description": "Specify the due date for tracking and reporting your fetal parameters"}
+    ]
+  }
+}

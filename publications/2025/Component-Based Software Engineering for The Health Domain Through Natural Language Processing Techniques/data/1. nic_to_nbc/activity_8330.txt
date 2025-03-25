@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+{
+  "Preapproval Record": {
+    "parameters": {
+      "Preapproval Information": {},
+      "Patient Chart": {},
+      "Recording Method": {},
+      "Recording Date": {},
+      "Verification Status": {}
+    }
+  }
+}

@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+  "Behavior Modification Strategy": {
+    "Parameters": {
+      "Target Behavior": {
+        "Type": "text"
+      },
+      "Current Level": {
+        "Type": "numerical value"
+      },
+      "Desired Outcome": {
+        "Type": "text"
+      },
+      "Modification Strategy": {
+        "Options": ["increase", "decrease", "maintain"]
+      },
+      "Rationale": {
+        "Type": "text"
+      }
+    }
+  }
+}
+
+
+Let me know if this meets your requirements!

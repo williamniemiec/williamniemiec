@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Fluid Restriction": {
+    "Name": {"type": "text"},
+    "Serum Na Level": {"type": "number"},
+    "Restriction Type": {"type": "options", "options": [{"value": "waterIntake", "label": "Water Intake"}, {"value": "fluidIntake", "label": "Fluid Intake"}]},
+    "Restriction Amount": {"type": "number"},
+    "Frequency": {"type": "options", "options": [{"value": "daily", "label": "Daily"}, {"value": "onlyOnce", "label": "Only once"}, {"value": "everyHours", "label": "Every x hours"}, {"value": "everyDays", "label": "Every x days"}]},
+    "Deadline Date": {"type": "datetime"},
+    "Notes": {"type": "text"}
+  }
+}
+
+
+Note that I removed the "not applicable" parameters, which in this case means all parameters were included.

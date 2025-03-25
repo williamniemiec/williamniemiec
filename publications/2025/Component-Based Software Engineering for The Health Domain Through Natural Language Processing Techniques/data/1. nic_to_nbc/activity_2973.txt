@@ -1,0 +1,55 @@
+Here is the output in JSON format:
+
+{
+    "name": "Education",
+    "parameters": [
+        { 
+            "name": "title", 
+            "description": "A parameter that specifies the title of the educational content.", 
+            "required": true, 
+            "type": "text"
+        },
+        { 
+            "name": "content", 
+            "description": "A parameter that specifies the educational content on techniques of energy management.", 
+            "required": true, 
+            "type": "text"
+        },
+        { 
+            "name": "techniques", 
+            "description": "A parameter that specifies the specific techniques of energy management to be taught.", 
+            "required": true, 
+            "type": "list of techniques",
+            "techniques": [
+                { 
+                    "text": "Pacing activities", 
+                    "type": "text"
+                },
+                { 
+                    "text": "Prioritizing tasks", 
+                    "type": "text"
+                },
+                { 
+                    "text": "Taking regular breaks", 
+                    "type": "text"
+                }
+            ]
+        },
+        { 
+            "name": "resources", 
+            "description": "A parameter that specifies the resources to be provided to the patient and family.", 
+            "required": true, 
+            "type": "list of resources",
+            "resources": [
+                { 
+                    "text": "Educational brochure on energy management", 
+                    "type": "text"
+                },
+                { 
+                    "text": "Support group for patients with fatigue", 
+                    "type": "text"
+                }
+            ]
+        }
+    ]
+}

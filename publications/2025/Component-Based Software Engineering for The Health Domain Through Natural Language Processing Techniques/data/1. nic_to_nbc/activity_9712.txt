@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "safety reminder",
+  "parameters": [
+    {
+      "name": "title",
+      "type": "text"
+    },
+    {
+      "name": "content",
+      "type": "text"
+    },
+    {
+      "name": "objectTypes",
+      "type": "list"
+    },
+    {
+      "name": "image",
+      "type": "image"
+    }
+  ]
+}

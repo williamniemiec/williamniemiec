@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Pain Relief Medication": {
+    "Medication Name": {"type": "text", "required": true},
+    "Dosage": {"type": "text", "required": true},
+    "Frequency": {"type": "options", "options": ["as needed", "daily", "every x hours", "every x days"], "required": true},
+    "Notes": {"type": "text", "required": false}
+  }
+}
+
+
+Note that I removed the `Deadline Date` parameter as it is not applicable (i.e., its required field is set to false).

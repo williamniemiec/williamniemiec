@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Issue Definition": {
+    "parameters": [
+      {"Prompt": {"type": "text"}},
+      {"Response Type": {"type": "options", "options": ["text", "select", "rating"]}},
+      {"Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]}}
+    ]
+  }
+}
+
+
+Note that I removed the `Deadline Date` parameter since it was marked as not applicable (`required: false`). Let me know if this is correct!

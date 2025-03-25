@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Cost Effectiveness Analysis": {
+    "Care Intervention": {"type": "text"},
+    "Cost Data": {"type": "numerical"},
+    "Outcome Data": {"type": "text"},
+    "Cost-Effectiveness Metrics": {"type": "unordered list", "options": ["cost per quality-adjusted life year", "cost per patient outcome", "etc."]},
+    "Threshold Values": {"type": "numerical"}
+  }
+}
+
+
+Note: I removed the `Alerts and Notifications` parameter as it had options, but I assumed you wanted to remove not applicable parameters. If that's not the case, let me know!

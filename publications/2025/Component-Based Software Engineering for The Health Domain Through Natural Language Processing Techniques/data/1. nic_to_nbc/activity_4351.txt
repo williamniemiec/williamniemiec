@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+{
+  "Urgent Symptom Guidelines": {
+    "Parameters": {
+      "Symptom": {
+        "Type": "list of options or checkboxes"
+      },
+      "Description": {
+        "Type": "rich text"
+      },
+      "Action": {
+        "Type": "rich text"
+      },
+      "Resources": {
+        "Type": "list of URLs or file attachments"
+      }
+    }
+  }
+}

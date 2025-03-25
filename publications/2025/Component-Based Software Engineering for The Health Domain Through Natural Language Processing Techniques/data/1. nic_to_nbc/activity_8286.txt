@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Equipment Troubleshooter": {
+    "Parameters": {
+      "Equipment Type": {"Type": "options"},
+      "Issue Description": {"Type": "text"},
+      "Troubleshooting Steps": {"Type": ["checklist", "text"]},
+      "Resolution Status": {"Type": ["yes/no", "text"]},
+      "Additional Notes": {"Type": "text"}
+    }
+  }
+}

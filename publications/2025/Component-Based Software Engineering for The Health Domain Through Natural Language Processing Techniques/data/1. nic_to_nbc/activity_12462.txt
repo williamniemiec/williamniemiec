@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Faith Tradition Resource": {
+        "title of the faith tradition resource": {"Type": "text"},
+        "brief description of the faith tradition ritual": {"Type": "text"},
+        "list of faith tradition rituals (e.g., anointing, confession, reconciliation)": {"Type": "list of text"},
+        "list of resources (e.g., prayers, scriptures, videos) for each ritual": {"Type": "list of text or URLs"},
+        "specify how often the patient should engage with the faith tradition ritual": {"Type": "options (daily, onlyOnce, everyHours, everyDays)"},
+        "specify the due date for the patient to engage with the faith tradition ritual": {"Type": "datetime"}
+    }
+}

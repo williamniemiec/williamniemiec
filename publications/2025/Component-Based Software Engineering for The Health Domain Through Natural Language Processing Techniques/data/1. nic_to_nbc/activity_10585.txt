@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Cardiac Dysrhythmia Documentation": {
+    "Dysrhythmia Type": {"type": "options"},
+    "Onset Date": {"type": "date"},
+    "Duration": {"type": "time"},
+    "Symptoms": {"type": "options"},
+    "ECG Results": {"type": "ECG data"},
+    "Treatment": {"type": "text"},
+    "Follow-up": {"type": "date and time"}
+  }
+}

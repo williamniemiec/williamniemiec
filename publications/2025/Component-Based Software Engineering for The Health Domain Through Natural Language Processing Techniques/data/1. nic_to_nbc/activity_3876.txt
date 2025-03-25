@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Procedure Instruction": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Content": {"Type": "text"},
+      "Steps": {"Type": "list"},
+      "Image/Video": {"Type": "image or video"},
+      "FAQs": {"Type": "list"}
+    }
+  }
+}
+
+
+Let me know if this meets your requirements!

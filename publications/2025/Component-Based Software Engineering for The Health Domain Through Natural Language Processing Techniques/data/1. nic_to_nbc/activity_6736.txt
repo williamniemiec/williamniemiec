@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Toxic Substance Assessment": {
+    "Substance": {},
+    "Exposure Route": {},
+    "Amount": {},
+    "Time": {},
+    "Symptoms": {}
+  }
+}

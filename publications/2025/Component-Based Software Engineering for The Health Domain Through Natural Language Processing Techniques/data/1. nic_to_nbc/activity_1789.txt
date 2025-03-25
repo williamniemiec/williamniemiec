@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "guide": {
+    "Parameters": {
+      "Name": "",
+      "Pages": "",
+      "Techniques": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+{
+  "Mobility Encourager": {
+    "Parameters": {
+      "Mobility Guidelines": {"Type": "text"},
+      "Mobility Goals": {"Type": "text"},
+      "Motivational Message": {"Type": "text"},
+      "Frequency": {"Type": "options"},
+      "Deadline Date": {"Type": "datetime"},
+      "Progress Tracking": {"Type": "form"}
+    }
+  }
+}

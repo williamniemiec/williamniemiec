@@ -1,0 +1,33 @@
+Here is the output in JSON format:
+
+
+{
+  "Safety Precautions": {
+    "parameters": {
+      "Fall Prevention": {
+        "type": "list",
+        "example": [
+          {"measure": "Remove tripping hazards", "reason": "To prevent falls"},
+          {"measure": "Install handrails", "reason": "To provide support"}
+        ]
+      },
+      "Seizure Precautions": {
+        "type": "list",
+        "example": [
+          {"measure": "Have a seizure action plan", "reason": "To know what to do in case of a seizure"},
+          {"measure": "Keep emergency medication nearby", "reason": "To have it readily available"}
+        ]
+      },
+      "Environmental Modifications": {
+        "type": "list",
+        "example": [
+          {"modification": "Adjust lighting", "reason": "To reduce stimulation"},
+          {"modification": "Adjust temperature", "reason": "To promote comfort"}
+        ]
+      },
+      "Caregiver Support": {
+        "type": "boolean"
+      }
+    }
+  }
+}

@@ -1,0 +1,32 @@
+Here is the output in JSON format:
+
+
+{
+  "Guide": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Pages": {"Type": "book-page", "book-page": "list of HTML texts"},
+      "Importance of Notification": {"Type": "text"},
+      "Benefits of Notification": {"Type": "list of text"},
+      "Resources": {"Type": "list of URLs or file uploads"}
+    }
+  },
+  "Tip": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Content": {"Type": "text"},
+      "Type": {"Type": "options"}
+    }
+  },
+  "FAQ": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Questions": {"Type": "list of text"},
+      "Answers": {"Type": "list of text"},
+      "Resources": {"Type": "list of URLs or file uploads"}
+    }
+  }
+}
+
+
+Let me know if you need any further assistance!

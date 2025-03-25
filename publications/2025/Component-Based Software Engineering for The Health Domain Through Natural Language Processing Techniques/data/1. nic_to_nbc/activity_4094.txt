@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Emotional State Assessment",
+    "parameters": [
+        {
+            "name": "Emotion Options"
+        },
+        {
+            "name": "Intensity Scale"
+        },
+        {
+            "name": "Additional Comments"
+        },
+        {
+            "name": "Frequency"
+        }
+    ]
+}

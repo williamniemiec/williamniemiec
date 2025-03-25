@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+    "Exercise Guide": {
+        "Parameters": {
+            "Name": {"Type": "text"},
+            "Exercise Type": {"Type": "options", "Options": [{"value": "PROM", "label": "Passive Range of Motion"}, {"value": "AROM", "label": "Active Range of Motion"}, {"value": "Active ROM", "label": "Active Range of Motion"}]},
+            "Instructions": {"Type": "text"},
+            "Frequency": {"Type": "options", "Options": [{"value": "daily", "label": "Daily"}, {"value": "onlyOnce", "label": "Only once"}, {"value": "everyHours", "label": "Every x hours"}, {"value": "everyDays", "label": "Every x days"}]},
+            "Deadline Date": {"Type": "datetime"},
+            "Videos/Pictures": {"Type": "media"}
+        }
+    }
+}

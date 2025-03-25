@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Gradual Change Plan": {
+    "Change Description": {
+      "Type": "text"
+    },
+    "Step-by-Step Plan": {
+      "Type": "ordered list"
+    },
+    "Timeline": {
+      "Type": "datetime"
+    },
+    "Reminders": {
+      "Type": "options"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+    "unacceptable behaviors": {
+        "parameters": [
+            {"name": "title"},
+            {"name": "behaviors"},
+            {"name": "explanation"}
+        ]
+    }
+}

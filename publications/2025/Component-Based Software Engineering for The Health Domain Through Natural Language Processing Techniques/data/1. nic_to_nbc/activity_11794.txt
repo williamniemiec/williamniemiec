@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Perception Challenging Statement": {
+    "Parameters": {
+      "Statement/Question": {"Type": "text"},
+      "Reflection": {"Type": "text"},
+      "Insight": {"Type": "text"},
+      "Action Plan": {"Type": "text"}
+    }
+  }
+}

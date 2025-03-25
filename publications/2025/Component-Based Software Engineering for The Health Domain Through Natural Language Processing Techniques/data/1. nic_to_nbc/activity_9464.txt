@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Procedure Tutor": {
+    "parameters": {
+      "name": {},
+      "procedure_steps": {
+        "name": {},
+        "description": {},
+        "multimedia_content": {}
+      },
+      "frequency": {
+        "options": ["daily", "weekly", "biweekly", "monthly"]
+      },
+      "deadline_date": {
+        "type": "datetime"
+      }
+    }
+  }
+}

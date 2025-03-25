@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Educational Material": {
+    "Parameters": {
+      "Title": {"Type": "text"},
+      "Content": {"Type": "rich text or multimedia"},
+      "Risk Factor": {"Type": "text"},
+      "Surveillance Tests and Procedures": {"Type": "text or list of options"},
+      "Resources": {"Type": "list of URLs or file attachments"}
+    }
+  }
+}

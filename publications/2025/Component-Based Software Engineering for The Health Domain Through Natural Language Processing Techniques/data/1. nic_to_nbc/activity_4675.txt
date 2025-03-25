@@ -1,0 +1,34 @@
+Here is the output in JSON format:
+
+
+{
+  "Wheelchair Time Frame": {
+    "parameters": {
+      "Health Status": {
+        "type": "options",
+        "options": [
+          {"value": "stable", "label": "Stable"},
+          {"value": "unstable", "label": "Unstable"},
+          {"value": "improving", "label": "Improving"},
+          {"value": "declining", "label": "Declining"},
+          {"value": "other", "label": "Other (please specify)"}
+        ]
+      },
+      "Time Frame": {
+        "type": "options",
+        "options": [
+          {"value": "30Minutes", "label": "30 minutes"},
+          {"value": "1Hour", "label": "1 hour"},
+          {"value": "2Hours", "label": "2 hours"},
+          {"value": "custom", "label": "Custom (please specify)"}
+        ]
+      },
+      "Deadline Date": {
+        "type": "datetime"
+      },
+      "Instructions": {
+        "type": "text"
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Safe Sex Guide": {
+    "Content": {},
+    "Topics": {},
+    "Resources": {},
+    "Quiz": {},
+    "Notes": {}
+  }
+}

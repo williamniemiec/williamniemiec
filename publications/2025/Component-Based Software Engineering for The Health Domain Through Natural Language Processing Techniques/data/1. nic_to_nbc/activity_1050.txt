@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+    "Meal Plan": {
+        "Name": {"type": "text"},
+        "Meal Schedule": {
+            "type": "unordered list",
+            "items": {
+                "Meal Time": {"type": "datetime"},
+                "Meal Type": {"type": "text"},
+                "Food Items": {
+                    "type": "unordered list",
+                    "items": {
+                        "Food Item": {"type": "text"},
+                        "Portion Size": {"type": "text"}
+                    }
+                }
+            }
+        },
+        "Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+        "Deadline Date": {"type": "datetime"}
+    }
+}
+
+
+I removed the introduction, conclusion, and not applicable parameters from the input text. Let me know if you need any further assistance!

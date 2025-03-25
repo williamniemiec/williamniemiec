@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Splint Padding": {
+    "Parameters": {
+      "Name": {},
+      "Splint Type": {},
+      "Padding Material": {},
+      "Padding Instructions": {},
+      "Padding Amount": {}
+    }
+  }
+}

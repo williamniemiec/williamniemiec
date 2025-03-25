@@ -1,0 +1,3 @@
+Since the input is empty, there's nothing to process. The output would also be an empty JSON object:
+
+`{}`

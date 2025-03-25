@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+    "Outcome Tracker": {
+        "Parameters": {
+            "Title": {"Type": "text"},
+            "Outcome Measures": {
+                "Type": "list of outcome measures",
+                "Outcome Measure": {
+                    "Name": {"Type": "text"},
+                    "Description": {"Type": "text"},
+                    "Type": {"Type": "options", "Options": ["quantitative", "qualitative"]},
+                    "Frequency": {"Type": "options", "Options": ["daily", "weekly", "monthly", "etc."]}
+                }
+            },
+            "Assessment Schedule": {
+                "Type": "list of assessment dates",
+                "Assessment Date": {
+                    "date": {"Type": "datetime"},
+                    "outcome_measures": {"Type": "list of outcome measures"}
+                }
+            },
+            "Data Collection Method": {"Type": "options", "Options": ["surveys", "interviews", "wearable devices", "etc."]},
+            "Analysis and Reporting": {"Type": "text"}
+        }
+    }
+}

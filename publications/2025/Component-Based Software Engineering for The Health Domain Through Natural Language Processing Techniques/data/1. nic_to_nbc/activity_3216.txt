@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+  "IPC Device": {
+    "Device Settings": {"type": "text"},
+    "Frequency": {"type": "options", "options": [
+      {"value": "daily", "label": "Daily"},
+      {"value": "onlyDuringDay", "label": "Only during the day"},
+      {"value": "onlyDuringNight", "label": "Only during the night"}
+    ]},
+    "Duration": {"type": "text"},
+    "Reminders": {"type": "options", "options": [
+      {"value": "morning", "label": "Morning"},
+      {"value": "evening", "label": "Evening"},
+      {"value": "custom", "label": "Custom"}
+    ]},
+    "Protocol": {"type": "text"}
+  }
+}
+
+
+Let me know if you need any further assistance!

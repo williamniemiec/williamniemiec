@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Eye Care Task": {
+    "Task Title": {},
+    "Content": {},
+    "Frequency": {
+      "options": [
+        { "value": "daily", "label": "Daily" },
+        { "value": "onlyOnce", "label": "Only once" },
+        { "value": "everyHours", "label": "Every x hours" },
+        { "value": "everyDays", "label": "Every x days" }
+      ]
+    }
+  }
+}

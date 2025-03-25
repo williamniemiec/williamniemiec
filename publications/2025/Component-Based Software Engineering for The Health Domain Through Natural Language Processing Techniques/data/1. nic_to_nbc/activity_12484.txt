@@ -1,0 +1,32 @@
+
+
+
+{
+    "name": "Goal Setting",
+    "parameters": [
+        {
+            "name": "goal",
+            "type": "text"
+        },
+        {
+            "name": "why",
+            "type": "text"
+        },
+        {
+            "name": "steps",
+            "type": "list of text"
+        },
+        {
+            "name": "target_date",
+            "type": "datetime"
+        },
+        {
+            "name": "frequency",
+            "type": "options"
+        },
+        {
+            "name": "reminders",
+            "type": "boolean"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Communication Journal": {
+        "Parameters": {
+            "Journal Title": {"Type": "text", "Required": true},
+            "Communication Type": {"Type": "options", "Options": ["daily", "weekly", "monthly"], "Required": true},
+            "Prompt Questions": {"Type": "list of text", "Required": true, "Example": ["What did you do today?", "How are you feeling?", "What do you need help with?"]},
+            "Response Type": {"Type": "options", "Options": ["text", "audio", "video"], "Required": true},
+            "Frequency": {"Type": "options", "Options": ["daily", "weekly", "monthly"], "Required": true}
+        }
+    }
+}

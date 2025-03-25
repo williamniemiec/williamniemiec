@@ -1,0 +1,20 @@
+
+
+
+{
+  "name": "Communication Self-Awareness",
+  "parameters": [
+    {
+      "name": "strengths"
+    },
+    {
+      "name": "limitations"
+    },
+    {
+      "name": "situations"
+    },
+    {
+      "name": "goals"
+    }
+  ]
+}

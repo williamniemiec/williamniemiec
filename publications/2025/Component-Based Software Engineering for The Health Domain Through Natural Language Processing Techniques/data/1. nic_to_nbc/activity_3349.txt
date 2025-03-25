@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Sensory Information",
+    "parameters": [
+        {
+            "name": "Senses",
+            "type": "options"
+        },
+        {
+            "name": "Description",
+            "type": "text"
+        },
+        {
+            "name": "Event",
+            "type": "text"
+        },
+        {
+            "name": "Frequency",
+            "type": "options"
+        }
+    ]
+}
+
+
+Note that I removed the `Deadline Date` parameter as it was marked as not required, and also removed other unnecessary information from the input text. Let me know if you have any further questions or need any modifications!

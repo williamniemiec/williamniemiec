@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "parameters": [
+    { 
+        "name": "Title", 
+        "type": "text"
+    },
+    { 
+        "name": "Questions", 
+        "type": "list of text"
+    },
+    { 
+        "name": "Answer Type", 
+        "type": "list of options"
+    },
+    { 
+        "name": "Scale", 
+        "type": "options"
+    }
+  ],
+  "no-code element name": "Assessment"
+}

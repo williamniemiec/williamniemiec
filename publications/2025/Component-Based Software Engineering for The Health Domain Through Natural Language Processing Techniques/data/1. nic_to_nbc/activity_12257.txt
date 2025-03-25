@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Dehydration Symptom Checker": {
+    "Symptom Questions": {"Type": "list of questions or tasks"},
+    "Symptom Indicators": {"Type": "list of indicators with corresponding images or descriptions"},
+    "Frequency": {"Options": ["daily", "every 12 hours", "per protocol"]},
+    "Results": {"Type": "text or checkbox list"}
+  }
+}

@@ -1,0 +1,29 @@
+
+
+
+{
+    "name": "Hope Conversations",
+    "parameters": [
+        {
+            "name": "Conversational Themes",
+            "type": "list of text"
+        },
+        {
+            "name": "Hope Messages",
+            "type": "list of text"
+        },
+        {
+            "name": "Conversation Guides",
+            "type": "list of text"
+        },
+        {
+            "name": "Family Engagement",
+            "type": "list of text"
+        },
+        {
+            "name": "Progress Tracking",
+            "type": "options",
+            "options": ["self-reporting", "caregiver reporting", "sensor data"]
+        }
+    ]
+}

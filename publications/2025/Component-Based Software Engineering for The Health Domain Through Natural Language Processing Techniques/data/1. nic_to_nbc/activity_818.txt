@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Safety Assessment": {
+    "parameters": {
+      "name": {"type": "text"},
+      "questions": {"type": "list of questions"},
+      "answer_type": {"type": "options", "options": ["yes/no", "scale", "text", "etc."]},
+      "scoring": {"type": "options", "options": ["risk level", "score", "etc."]}
+    }
+  }
+}

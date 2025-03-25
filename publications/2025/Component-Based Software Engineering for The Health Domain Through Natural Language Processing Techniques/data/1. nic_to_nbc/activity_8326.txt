@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+[
+  {
+    "name": "Fetal Heart Pattern Monitoring",
+    "parameters": {
+      "name": "Fetal Heart Pattern Monitoring",
+      "unit": "description",
+      "frequency": ["every 15 minutes", "every 30 minutes"],
+      "deadline_date": null
+    }
+  },
+  {
+    "name": "Changes in Fetal Heart Pattern Documentation",
+    "parameters": {
+      "name": "Changes in Fetal Heart Pattern Documentation",
+      "unit": ["free text", "options"],
+      "frequency": ["every 15 minutes", "every 30 minutes"],
+      "deadline_date": null
+    }
+  }
+]

@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Educational Material Selection": {
+    "Learning Objectives": {},
+    "Learning Style": {},
+    "Material Types": {},
+    "Material Options": {},
+    "Selection Criteria": {},
+    "Recommended Materials": {}
+  }
+}
+
+
+Note that I removed all parameters that were marked as "Not Applicable" or didn't have a corresponding parameter specification. Let me know if you need any further assistance!

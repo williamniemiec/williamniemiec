@@ -1,0 +1,9 @@
+Here is the output in JSON format:
+
+
+{
+    "V/Q Scan Education": {
+        "Content": {"type": "html", "description": "educational content about V/Q scans"},
+        "Media": {"type": "image or video", "description": "an image or video illustrating the V/Q scan procedure"}
+    }
+}

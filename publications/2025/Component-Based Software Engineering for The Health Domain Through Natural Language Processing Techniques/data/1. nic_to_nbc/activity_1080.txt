@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Hyperthermia Treatment": {
+    "Fever Cause": {
+      "type": "options",
+      "options": ["amphetamine intoxication", "cocaine intoxication"]
+    },
+    "Temperature": {}
+  }
+}

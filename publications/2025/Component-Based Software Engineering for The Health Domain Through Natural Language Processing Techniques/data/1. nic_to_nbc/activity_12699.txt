@@ -1,0 +1,35 @@
+Here is the output in JSON format:
+
+
+{
+  "Family Situation Assessment": {
+    "parameters": {
+      "name": "",
+      "questions": [],
+      "answer_type": "",
+      "scoring": ""
+    }
+  },
+  "Support Network Evaluation": {
+    "parameters": {
+      "name": "",
+      "questions": [],
+      "answer_type": "",
+      "scoring": ""
+    }
+  },
+  "Monitoring Dashboard": {
+    "parameters": {
+      "name": "",
+      "data": [],
+      "visualization": ""
+    }
+  },
+  "Personalized Alerts": {
+    "parameters": {
+      "name": "",
+      "triggers": [],
+      "content": ""
+    }
+  }
+}

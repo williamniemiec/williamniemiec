@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Adverse Response Tracker": {
+    "parameters": [
+      {"Symptoms": "A list of potential adverse symptoms to track"},
+      {"Severity Scale": "A parameter that specifies the severity scale for each symptom"},
+      {"Frequency": "A parameter that specifies how often the patient should track and report adverse symptoms"},
+      {"Deadline Date": "A parameter that specifies the due date for tracking and reporting adverse symptoms"},
+      {"Notes": "A parameter that allows the patient to add additional notes or comments about their adverse symptoms"}
+    ]
+  }
+}

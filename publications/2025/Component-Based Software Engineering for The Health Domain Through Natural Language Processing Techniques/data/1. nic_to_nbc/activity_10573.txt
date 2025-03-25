@@ -1,0 +1,32 @@
+Here is the output in JSON format:
+
+
+{
+  "Guide": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Pages": {"Type": "book-page", "book-page": "list of HTML texts"},
+      "Condom Use Steps": {"Type": "options", "Options": ["How to choose a condom", "How to keep the condom intact", "How to apply a condom", "How to remove a condom", "Other"]},
+      "Tips and Reminders": {"Type": "list of text"},
+      "Resources": {"Type": "list of URLs or file uploads"},
+      "Visual Aids": {"Type": "list of file uploads"}
+    }
+  },
+  "Step-by-Step Guide": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Steps": {"Type": "list of text"},
+      "Visual Aids": {"Type": "list of file uploads"}
+    }
+  },
+  "Tip": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Content": {"Type": "text"},
+      "Type": {"Type": "options"}
+    }
+  }
+}
+
+
+I removed all unnecessary information and kept only the `{{ NO-CODE ELEMENT NAME }}` and `{{ PARAMETER ESPECIFICATIONS }}`. I also formatted the output as a JSON object. Let me know if you need any further assistance!

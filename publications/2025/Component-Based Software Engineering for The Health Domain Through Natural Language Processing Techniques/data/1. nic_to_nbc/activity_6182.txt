@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Perspective Selection": {
+    "parameters": [
+      {"name": "Perspective Options", "type": "list of options"},
+      {"name": "Description", "type": "text"},
+      {"name": "Frequency", "type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      {"name": "Deadline Date", "type": "datetime"}
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "tourniquet_application_instruction",
+    "parameters": [
+        { 
+            "name": "application_criteria", 
+            "description": "specify the criteria for applying the tourniquet", 
+            "required": true, 
+            "type": "text"
+        },
+        { 
+            "name": "tourniquet_type", 
+            "description": "specify the type of tourniquet to be used", 
+            "required": true, 
+            "type": "text"
+        },
+        { 
+            "name": "intravenous_site", 
+            "description": "specify the peripheral intravenous site", 
+            "required": true, 
+            "type": "text"
+        },
+        { 
+            "name": "frequency", 
+            "description": "specify how often to remind the patient to apply the tourniquet", 
+            "required": true, 
+            "type": "options",
+            "options": [
+                { value: "daily", label: "Daily" },
+                { value: "everyHours", label: "Every x hours" },
+                { value: "everyDays", label: "Every x days" }
+            ]
+        }
+    ]
+}
+
+
+I removed the `deadline_date` parameter since it's not required. Let me know if you have any further questions!

@@ -1,0 +1,40 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Reinforcer Timing",
+    "parameters": [
+        {
+            "name": "Reinforcer",
+            "type": "text"
+        },
+        {
+            "name": "Delivery Timing",
+            "type": "options",
+            "options": [
+                { value: "immediate" },
+                { value: "delayed" },
+                { value: "fixed interval" },
+                { value: "variable interval" }
+            ]
+        },
+        {
+            "name": "Timing Details",
+            "type": "text"
+        },
+        {
+            "name": "Frequency",
+            "type": "options",
+            "options": [
+                { value: "daily" },
+                { value: "onlyOnce" },
+                { value: "everyHours" },
+                { value: "everyDays" }
+            ]
+        },
+        {
+            "name": "Deadline Date",
+            "type": "datetime"
+        }
+    ]
+}

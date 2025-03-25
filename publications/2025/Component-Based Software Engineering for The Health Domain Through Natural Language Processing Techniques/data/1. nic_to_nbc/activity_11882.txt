@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Oxygen Therapy Monitoring": {
+    "parameters": {
+      "Name": {"type": "text"},
+      "Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"type": "datetime"},
+      "Oxygen Saturation Level": {"type": "number"},
+      "Symptoms": {"type": "text"},
+      "Notes": {"type": "text"}
+    }
+  }
+}

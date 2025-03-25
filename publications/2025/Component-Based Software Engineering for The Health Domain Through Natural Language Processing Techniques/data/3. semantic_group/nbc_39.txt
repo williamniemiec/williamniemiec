@@ -1,0 +1,10 @@
+{
+  "name": "Resource Finder and Directory Search",
+  "description": "Helps users find resources through a filtered search mechanism. Organizes resources into categories, allowing for efficient exploration of directories and contact information for various needs.",
+  "type": "non-periodic",
+  "input": ["Search criteria", "Filtering options", "Resource categories", "Directory entries", "Contact details"],
+  "output": ["Filtered resource list", "Category-specific resources", "Contact information report"],
+  "preconditions": ["User is searching for specific resources or contacts within a directory"],
+  "postconditions": ["Relevant resources are identified and categorized for easy access"],
+  "dependencies": ["Search and filtering platform", "Resource directory management system", "Contact information database"]
+}

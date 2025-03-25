@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+  "Reinforcer Choice": {
+    "Parameters": {
+      "Reinforcer Options": {
+        "Type": "list of reinforcer options"
+      },
+      "Patient Input": {
+        "Type": "options (e.g., survey, interview, ranking, etc.)"
+      },
+      "Criteria": {
+        "Type": "text"
+      },
+      "Frequency": {
+        "Type": "options (e.g., daily, weekly, monthly, etc.)"
+      },
+      "Reinforcer Ranking": {
+        "Type": "boolean (true/false)"
+      },
+      "Reinforcer Customization": {
+        "Type": "boolean (true/false)"
+      }
+    }
+  }
+}

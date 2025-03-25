@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Follow-up Check-in": {
+    "parameters": {
+      "name": {"type": "text"},
+      "question": {"type": "text"},
+      "answer_type": {"type": "options", "options": ["yes/no", "text", "etc."]},
+      "frequency": {"type": "options", "options": ["daily", "weekly", "monthly", "etc."]}
+    }
+  }
+}
+
+
+Note: I removed the `deadline_date` parameter as it's not applicable since it's a datetime type and doesn't fit with the other parameters.

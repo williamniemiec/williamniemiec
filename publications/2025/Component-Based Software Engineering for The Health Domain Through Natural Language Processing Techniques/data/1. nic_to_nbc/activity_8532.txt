@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Visit Log": {
+        "Parameters": {
+            "Visit Date": "datetime",
+            "Visit Time": "time",
+            "Duration": "duration",
+            "Visitor": "text",
+            "Relationship": "text"
+        }
+    }
+}

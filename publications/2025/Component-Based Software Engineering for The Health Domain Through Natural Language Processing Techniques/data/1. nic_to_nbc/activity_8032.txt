@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+  "Breathing Exercise": {
+    "parameters": {
+      "name": {"type": "text"},
+      "instructions": {"type": "text"},
+      "frequency": {"type": "options", "values": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "deadline_date": {"type": "datetime"},
+      "audio_guide": {"type": "audio file"}
+    }
+  },
+  "Relaxation Technique": {
+    "parameters": {
+      "name": {"type": "text"},
+      "instructions": {"type": "text"},
+      "frequency": {"type": "options", "values": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "deadline_date": {"type": "datetime"},
+      "video_guide": {"type": "video file"}
+    }
+  }
+}

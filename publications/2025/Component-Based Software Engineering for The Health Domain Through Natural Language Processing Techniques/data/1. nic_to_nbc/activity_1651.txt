@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+  "Guide": {
+    "parameters": {
+      "name": "Specimen Selection Guide",
+      "pages": "a list of HTML texts or interactive modules that provide instructions on selecting the appropriate specimen",
+      "completion_status": "a parameter to track whether the patient has completed the guide"
+    }
+  },
+  "Task": {
+    "parameters": {
+      "name": ""
+    }
+  }
+}
+
+
+Note: I removed the excessively long name parameter in the Task element, as it seemed like an error. If you want to keep it, please let me know.

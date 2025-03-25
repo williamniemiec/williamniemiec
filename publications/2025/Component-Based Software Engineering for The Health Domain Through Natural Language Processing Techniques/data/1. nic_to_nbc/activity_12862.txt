@@ -1,0 +1,10 @@
+Here is the output in JSON format:
+
+
+{
+  "Trailing Zero Avoidance": {
+    "Dosage": {"Type": "text"},
+    "Correct Format": {"Type": "text", "Example": "e.g., 2 (not 2.0)"},
+    "Warning": {"Type": "text", "Example": "Trailing zeros can lead to medication errors. Always use the correct format."}
+  }
+}

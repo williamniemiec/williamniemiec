@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+  "Warm-up/Cool-down Log": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Activity Type": {"Type": "options", "Options": ["warm-up", "cool-down"]},
+      "Exercise List": {"Type": "unordered list"},
+      "Duration": {"Type": "time"},
+      "Frequency": {"Type": "options", "Options": ["daily", "everyTimeBeforeExercise"]},
+      "Deadline Date": {"Type": "date"}
+    }
+  },
+  "Survey": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Survey Questions": {"Type": "form"},
+      "Frequency": {"Type": "options", "Options": ["daily", "everyTimeBeforeExercise"]},
+      "Deadline Date": {"Type": "date"}
+    }
+  }
+}

@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Vital Signs Tracker": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Vital Signs": {"Type": "list of options"},
+      "Units": {"Type": "list of options"},
+      "Frequency": {"Options": ["daily", "every 12 hours", "every 8 hours", "etc."]},
+      "Deadline Date": {"Type": "datetime"},
+      "Notes": {"Type": "text"}
+    }
+  }
+}

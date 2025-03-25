@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Video Guidance": {
+    "parameters": {
+      "name": {"type": "text"},
+      "video_url": {"type": "url"},
+      "frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "notes": {"type": "text"}
+    }
+  }
+}
+
+
+Note: I removed the `deadline_date` parameter since it's not applicable in this context. Let me know if you need any further assistance!

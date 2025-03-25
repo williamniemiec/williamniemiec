@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+    "Action Guidance": {
+        "parameters": {
+            "name": {"type": "text"},
+            "action_type": {"type": "text"},
+            "description": {"type": "text"},
+            "frequency": {"type": "options", "values": ["onlyOnce"]},
+            "deadline_date": {"type": "datetime"},
+            "notes": {"type": "text"}
+        }
+    }
+}

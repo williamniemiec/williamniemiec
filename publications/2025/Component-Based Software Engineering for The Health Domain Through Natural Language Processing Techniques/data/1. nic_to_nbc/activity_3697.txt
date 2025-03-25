@@ -1,0 +1,36 @@
+Here is the output in JSON format:
+
+
+{
+  "Care Plan Sharing": {
+    "parameters": {
+      "name": "Care Plan Sharing",
+      "care_plan": "share the patient's care plan with all staff",
+      "access_control": "specify the access control settings for staff (e.g., read-only, edit)"
+    }
+  },
+  "Staff Education on Care Plan": {
+    "parameters": {
+      "name": "Staff Education on Care Plan",
+      "content": "list of HTML texts, videos, or links to external resources",
+      "type": "specify the type of content (e.g., article, video, infographic)"
+    }
+  },
+  "Collaboration Tool for Care Plan": {
+    "parameters": {
+      "name": "Collaboration Tool for Care Plan",
+      "messaging": "enable staff to send messages and comments about the patient's care plan",
+      "task_assignment": "enable staff to assign tasks and responsibilities to each other"
+    }
+  },
+  "Care Plan Updates": {
+    "parameters": {
+      "name": "Care Plan Updates",
+      "notification": "send notifications to staff when the care plan is updated",
+      "update_history": "track the update history of the care plan"
+    }
+  }
+}
+
+
+Let me know if you need any further assistance!

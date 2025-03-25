@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+  "Comfort Measures Guide": {
+    "Guide Title": {"type": "text"},
+    "Guide Content": {"type": "list of guide pages (with text and images)"},
+    "Comfort Measures List": {"type": "list of comfort measures (with descriptions)"},
+    "Tips and Reminders": {"type": "list of tips and reminders (with text and images)"}
+  },
+  "Question": {
+    "Question": {"type": "text"},
+    "Answer Type": {"type": "options (e.g., rating scale, text)"},
+    "Comfort Measures": {"type": "list of comfort measures (with descriptions)"},
+    "Follow-up Questions": {"type": "list of questions (with parameters)"}
+  }
+}
+
+
+Let me know if you need any further assistance!

@@ -1,0 +1,38 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Commitment Agreement",
+    "parameters": [
+        {
+            "name": "title",
+            "type": "text"
+        },
+        {
+            "name": "commitment_statement",
+            "type": "text"
+        },
+        {
+            "name": "terms_and_conditions",
+            "type": "list of text"
+        },
+        {
+            "name": "signature",
+            "type": "signature"
+        },
+        {
+            "name": "frequency",
+            "type": "options",
+            "options": [
+                { value: "daily" },
+                { value: "onlyOnce" },
+                { value: "everyHours" },
+                { value: "everyDays" }
+            ]
+        },
+        {
+            "name": "deadline_date",
+            "type": "datetime"
+        }
+    ]
+}

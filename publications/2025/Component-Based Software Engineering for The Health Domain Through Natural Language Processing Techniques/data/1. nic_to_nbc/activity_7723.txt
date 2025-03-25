@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+    "Self-Assessment Quiz": {
+        "parameters": {
+            "name": "",
+            "questions": [],
+            "correct_answers": [],
+            "feedback": ""
+        }
+    },
+    "Interactive Diagram": {
+        "parameters": {
+            "name": "",
+            "diagram": {},
+            "hotspots": [],
+            "feedback": ""
+        }
+    },
+    "Reflection Journal": {
+        "parameters": {
+            "name": ""
+        }
+    }
+}

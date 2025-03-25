@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Assertiveness Guide": {
+    "parameters": [
+      {"name": "scenarios"},
+      {"name": "assertive_responses"},
+      {"name": "tips"},
+      {"name": "frequency"},
+      {"name": "deadline_date"}
+    ]
+  }
+}

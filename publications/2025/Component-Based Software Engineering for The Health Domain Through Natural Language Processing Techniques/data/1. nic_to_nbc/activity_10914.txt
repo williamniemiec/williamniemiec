@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Craving Resistance Plan": {
+    "Method": {
+      "type": "options",
+      "options": ["Spend time with nonsmoking friends", "Frequent places where smoking is not allowed", "Relaxation exercises", "Other"]
+    },
+    "Frequency": {
+      "type": "options",
+      "options": ["Daily", "Only once", "Every x hours", "Every x days"]
+    },
+    "Reminders": {
+      "type": "boolean"
+    },
+    "Notes": {
+      "type": "text"
+    }
+  }
+}

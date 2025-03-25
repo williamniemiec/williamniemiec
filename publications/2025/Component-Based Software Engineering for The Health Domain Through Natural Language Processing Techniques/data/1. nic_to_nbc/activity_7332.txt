@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Volunteer Surveillance": {
+    "parameters": {
+      "Volunteer Type": {"type": "options"},
+      "Volunteer Availability": {"type": "schedule"},
+      "Patient Status": {"type": "options"},
+      "Surveillance Frequency": {"type": "options"},
+      "Communication Method": {"type": "options"}
+    }
+  }
+}

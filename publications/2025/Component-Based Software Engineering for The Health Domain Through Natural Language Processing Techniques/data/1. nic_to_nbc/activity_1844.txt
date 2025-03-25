@@ -1,0 +1,40 @@
+Here is the output in JSON format:
+
+
+{
+    "Relaxation Techniques": {
+        "parameters": {
+            "name": {
+                "type": "text"
+            },
+            "technique_type": {
+                "type": "options",
+                "options": [
+                    {"value": "deep_breathing", "label": "Deep Breathing"},
+                    {"value": "progressive_muscle_relaxation", "label": "Progressive Muscle Relaxation"},
+                    {"value": "visualization", "label": "Visualization"},
+                    {"value": "meditation", "label": "Meditation"},
+                    {"value": "other", "label": "Other"}
+                ]
+            },
+            "instructions": {
+                "type": "text"
+            },
+            "audio_guide": {
+                "type": "boolean"
+            },
+            "frequency": {
+                "type": "options",
+                "options": [
+                    {"value": "daily", "label": "Daily"},
+                    {"value": "every_2_days", "label": "Every 2 days"},
+                    {"value": "every_3_days", "label": "Every 3 days"},
+                    {"value": "weekly", "label": "Weekly"}
+                ]
+            },
+            "duration": {
+                "type": "text"
+            }
+        }
+    }
+}

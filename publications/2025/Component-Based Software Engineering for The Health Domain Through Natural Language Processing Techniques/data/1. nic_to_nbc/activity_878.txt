@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Financial Assistance": {
+    "Parameters": {
+      "Financial Difficulty": {"Type": "options"},
+      "Solution Options": {"Type": "list of text or HTML content"},
+      "Eligibility Criteria": {"Type": "list of text or HTML content"},
+      "Application Process": {"Type": "list of text or HTML content"},
+      "Additional Resources": {"Type": "list of text or HTML content"}
+    }
+  }
+}

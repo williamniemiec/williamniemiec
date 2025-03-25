@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Guide": {
+    "parameters": {
+      "Name": {"type": "text"},
+      "Pages": {"type": "book-page (list of HTML texts)"},
+      "Type": {"type": "text"}
+    }
+  },
+  "Tracker": {
+    "parameters": {
+      "Name": {"type": "text"},
+      "Fields": {"type": "list of text"},
+      "Frequency": {"type": "options"}
+    }
+  }
+}

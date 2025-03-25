@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Safety Tip": {
+    "Parameters": {
+      "Title": {"Type": "text"},
+      "Message": {"Type": "text"},
+      "Image": {"Type": "image URL"},
+      "Frequency": {"Options": ["daily", "weekly", "monthly"]}
+    }
+  }
+}

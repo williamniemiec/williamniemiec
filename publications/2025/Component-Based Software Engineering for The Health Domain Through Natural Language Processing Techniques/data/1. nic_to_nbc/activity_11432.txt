@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Allergy Check": {
+        "Parameters": {
+            "Name": {"Type": "text"},
+            "Drugs": {"Type": "list of text"},
+            "Allergy Status": {"Type": "options"},
+            "Notes": {"Type": "text"}
+        }
+    }
+}

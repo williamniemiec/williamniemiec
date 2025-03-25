@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+  "Readiness Assessment": {
+    "parameters": {
+      "Problem Identification": {"type": "text"},
+      "Readiness Scale": {"type": "numeric"},
+      "Motivation Level": {"type": "numeric"},
+      "Confidence Level": {"type": "numeric"},
+      "Goals and Objectives": {"type": "text"},
+      "Strategies for Change": {
+        "type": "checklist",
+        "options": [
+          {"value": "counseling", "label": "Counseling"},
+          {"value": "medication", "label": "Medication"},
+          {"value": "lifestyleChanges", "label": "Lifestyle changes"}
+        ]
+      }
+    }
+  }
+}

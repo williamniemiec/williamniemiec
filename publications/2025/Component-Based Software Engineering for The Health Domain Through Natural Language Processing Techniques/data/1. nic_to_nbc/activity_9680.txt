@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Blood Sample Handling": {
+    "Guideline Title": {},
+    "Guidelines": {},
+    "Timing": {},
+    "Preservation": {},
+    "Manufacturer": {},
+    "Frequency": {},
+    "Deadline Date": {}
+  }
+}

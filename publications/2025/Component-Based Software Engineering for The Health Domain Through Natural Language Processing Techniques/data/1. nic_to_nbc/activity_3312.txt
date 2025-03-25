@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+    "Sterile Gowning Guide": {
+        "Aseptic Technique": {"Type": "text or video"},
+        "Step-by-Step Instructions": {"Type": "video or interactive tutorial"},
+        "Gowning Sequence": {"Type": "text or image"},
+        "Gloving Sequence": {"Type": "text or image"},
+        "Quality Control": {"Type": "boolean or rating scale"}
+    }
+}

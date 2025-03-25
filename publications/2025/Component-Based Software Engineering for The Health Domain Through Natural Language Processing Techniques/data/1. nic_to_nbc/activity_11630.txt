@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "Fluid Tracker": {
+    "Intake": {
+      "type": ["text", "numeric"]
+    },
+    "Output": {
+      "type": ["text", "numeric"]
+    },
+    "Frequency": {
+      "type": "options",
+      "options": ["hourly", "every 2 hours", "every 4 hours", "daily"]
+    },
+    "Units": {
+      "type": "options",
+      "options": ["mL", "oz", "cups", "others"]
+    },
+    "Goal": {
+      "type": "numeric"
+    }
+  }
+}

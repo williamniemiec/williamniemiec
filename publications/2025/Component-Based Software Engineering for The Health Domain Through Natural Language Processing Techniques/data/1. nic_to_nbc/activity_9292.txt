@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+"Cognitive Assessment": {
+    "parameters": {
+        "name": "",
+        "tasks": [],
+        "scoring": ""
+    }
+},
+"Quiz": {
+    "parameters": {
+        "name": "",
+        "questions": [],
+        "scoring": ""
+    }
+},
+"Log": {
+    "parameters": {
+        "name": "",
+        "entries": []
+    }
+}
+}

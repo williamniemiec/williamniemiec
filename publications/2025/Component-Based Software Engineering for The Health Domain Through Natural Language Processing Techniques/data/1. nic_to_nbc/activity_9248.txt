@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Hypoventilation Education": {
+    "Parameters": {
+      "Name": {
+        "Type": "text"
+      },
+      "Content": {
+        "Type": "text or multimedia"
+      },
+      "Questions": {
+        "Type": "list of questions with answer options"
+      }
+    }
+  }
+}

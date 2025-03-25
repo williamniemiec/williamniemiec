@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+  "Catheterization Education": {
+    "Parameters": {
+      "Title": {
+        "Description": "Title of the catheterization guide",
+        "Required": true,
+        "Type": "text"
+      },
+      "Procedure": {
+        "Description": "Step-by-step explanation of the catheterization procedure",
+        "Required": true,
+        "Type": "text"
+      },
+      "Rationale": {
+        "Description": "Explanation of the reasons why catheterization is necessary",
+        "Required": true,
+        "Type": "text"
+      }
+    }
+  }
+}
+
+
+I removed all non-applicable parameters (i.e., those with `Required: false`) and kept only the `Name` and `Parameters` sections. Let me know if this meets your requirements!

@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Family Involvement": {
+    "parameters": {
+      "Message": {"type": "text"},
+      "Frequency": {"options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Family Members": {"type": "list of text"},
+      "Involvement Type": {"type": "options"}
+    }
+  }
+}

@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Grief Education": {
+    "Parameters": {
+      "Grief Overview": {"Type": "text with images or illustrations"},
+      "Grief Stages": {"Type": "interactive accordion or carousel with text and images"},
+      "Emotion Identification": {"Type": "interactive emotion wheel or feelings chart"},
+      "Grief Expression": {"Type": "interactive journaling or drawing exercise"},
+      "Coping Strategies": {"Type": "interactive list with text and images"},
+      "Reflection": {"Type": "text or audio reflection"}
+    }
+  }
+}

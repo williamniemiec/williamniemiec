@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Symptom Tracker": {
+    "Parameters": [
+      {"Parameter 1": "Paresthesias"},
+      {"Parameter 2": "Tetany"},
+      {"Parameter 3": "Seizures"},
+      {"Parameter 4": "Frequency"}
+    ]
+  }
+}

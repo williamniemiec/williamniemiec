@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Calorie Boost": {
+    "Goal": {"type": "number"},
+    "Food Suggestions": {"type": "list of text"},
+    "Meal Frequency": {"type": "options", "options": ["3 meals", "3 meals + 2 snacks", "3 meals + 3 snacks"]},
+    "Tips and Reminders": {"type": "text"},
+    "Tracking": {"type": "boolean"},
+    "Frequency": {"type": "options", "options": ["daily", "weekly", "monthly"]}
+  }
+}

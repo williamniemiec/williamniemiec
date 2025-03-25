@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Name Writing and Recognition": {
+    "Child's Name": {"type": "text"},
+    "Activity Type": {"type": "options", "options": ["writing", "recognition", "tracing"]},
+    "Letter Focus": {"type": "options", "options": ["first letter", "entire name"]},
+    "Difficulty Level": {"type": "options", "options": ["easy", "medium", "hard"]},
+    "Frequency": {"type": "options", "options": ["daily", "every other day", "weekly"]},
+    "Deadline Date": {"type": "datetime"}
+  }
+}

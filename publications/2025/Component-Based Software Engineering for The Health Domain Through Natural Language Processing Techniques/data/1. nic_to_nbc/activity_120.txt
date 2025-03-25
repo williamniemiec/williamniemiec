@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Temperature Modality Use",
+    "parameters": [
+        {
+            "name": "temperature_modality",
+            "description": "Type of temperature modality to use or avoid"
+        },
+        {
+            "name": "devices_to_avoid",
+            "description": "List of devices to avoid or carefully monitor"
+        },
+        {
+            "name": "monitoring_instructions",
+            "description": "Instructions on how to carefully monitor temperature modality use"
+        },
+        {
+            "name": "contraindications",
+            "description": "List of contraindications for temperature modality use"
+        },
+        {
+            "name": "frequency",
+            "description": "Specify how often to use or avoid temperature modality"
+        }
+    ]
+}

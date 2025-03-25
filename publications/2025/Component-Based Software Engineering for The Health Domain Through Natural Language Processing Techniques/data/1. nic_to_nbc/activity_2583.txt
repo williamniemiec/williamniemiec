@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Temperature Risk Factor Assessment": {
+    "Risk Factors": {"type": "list of options", "options": ["general anesthesia", "major regional anesthesia", "age", "major trauma", "burns", "low body weight", "personal or familial risk for malignant hyperthermia", "etc."]},
+    "Risk Factor Details": {"type": "list of text"},
+    "Temperature Monitoring Plan": {"type": "text"},
+    "Interventions": {"type": "text"}
+  }
+}
+
+
+Let me know if this meets your requirements!

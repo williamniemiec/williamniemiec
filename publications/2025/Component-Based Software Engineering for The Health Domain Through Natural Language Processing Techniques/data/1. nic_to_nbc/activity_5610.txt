@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Avoid Heat Applications": {
+    "Parameters": {
+      "Task Title": {},
+      "Reason for Avoidance": {},
+      "Alternative Methods": {},
+      "Duration": {}
+    }
+  }
+}
+
+
+Note that I removed the `Deadline Date` parameter since it was marked as not required. Let me know if you have any further questions!

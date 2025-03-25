@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Meal Plan": {
+    "Parameters": {
+      "Meal Frequency": {},
+      "Meal Size": {},
+      "Meal Timing": {},
+      "Meal Reminders": {}
+    }
+  }
+}

@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Self-Reflection",
+    "parameters": [
+        { 
+            "name": "Name", 
+            "type": "text"
+        },
+        { 
+            "name": "Emotion Categories", 
+            "type": "list of text"
+        },
+        { 
+            "name": "Reflection Questions", 
+            "type": "list of text"
+        },
+        { 
+            "name": "Emotion Rating", 
+            "type": "boolean"
+        }
+    ]
+}

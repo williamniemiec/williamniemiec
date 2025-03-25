@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Knowledge Check": {
+    "parameters": [
+      {"name": "question", "description": "What is the purpose of injection and skin testing?", "required": true, "type": "text"},
+      {"name": "answer", "description": "Patient's answer", "required": true, "type": "text"},
+      {"name": "correct_answer", "description": "Correct answer", "required": true, "type": "text"},
+      {"name": "feedback", "description": "Feedback for incorrect answers", "required": false, "type": "text"}
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+Here is the output in JSON format:
+
+
+{
+  "Questionnaire": {
+    "parameters": {
+      "name": "",
+      "questions": [
+        {
+          "text": "",
+          "answer_type": "",
+          "options": []
+        }
+      ],
+      "psychological_responses": [
+        {
+          "description": "",
+          "severity_scale": ""
+        }
+      ]
+    }
+  },
+  "Resource": {
+    "parameters": {
+      "name": "",
+      "type": "",
+      "content": ""
+    }
+  }
+}
+
+
+Note that I removed the not applicable parameters and only kept the `{{ NO-CODE ELEMENT NAME }}` and `{{ PARAMETER ESPECIFICATIONS }}`. Let me know if this is what you were expecting!

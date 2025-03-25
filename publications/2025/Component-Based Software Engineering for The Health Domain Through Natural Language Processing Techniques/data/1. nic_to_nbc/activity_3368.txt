@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Habit Tracker": {
+    "Parameters": {
+      "Habit Type": {"Type": "options", "Required": true},
+      "Goal Setting": {"Type": "text", "Required": true},
+      "Tracking Frequency": {"Type": "options", "Required": true},
+      "Feedback Type": {"Type": "options", "Required": true},
+      "Feedback Schedule": {"Type": "options", "Required": true}
+    }
+  }
+}

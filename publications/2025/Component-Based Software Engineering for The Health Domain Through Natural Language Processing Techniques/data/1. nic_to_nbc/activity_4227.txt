@@ -1,0 +1,10 @@
+Here is the output in JSON format:
+
+
+{
+  "Oral Hygiene Education": {
+    "Parameters": {
+      "Content Type": "Instructional Page"
+    }
+  }
+}

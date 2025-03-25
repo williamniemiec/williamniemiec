@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Lab Result Tracker": {
+    "Lab Result Types": {"type": "list of text fields"},
+    "Result Values": {"type": "list of numerical fields"},
+    "Reference Ranges": {"type": "list of numerical fields"},
+    "Educational Content": {"type": "text field"}
+  }
+}

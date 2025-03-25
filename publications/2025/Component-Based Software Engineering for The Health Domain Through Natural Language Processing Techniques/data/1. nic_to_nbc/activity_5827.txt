@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "screening_results",
+  "parameters": [
+    {
+      "name": "screening_type",
+      "type": "options"
+    },
+    {
+      "name": "results",
+      "type": "object"
+    },
+    {
+      "name": "interpretation",
+      "type": "text"
+    },
+    {
+      "name": "next_steps",
+      "type": "text"
+    },
+    {
+      "name": "resources",
+      "type": "list"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Ambulatory Aid Instruction": {
+    "Parameters": {
+      "Ambulatory Aid Type": {},
+      "Instructional Content": {},
+      "Demonstration": {},
+      "Proper Use Techniques": {},
+      "Safety Precautions": {},
+      "Tips and Reminders": {}
+    }
+  }
+}
+
+
+Note that I removed the `Practice Exercises` parameter as it was not applicable in this context. Let me know if you have any further questions!

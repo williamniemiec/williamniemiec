@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Self-Care Plan": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Goals": {"Type": "list of text"},
+      "Tasks": {"Type": "list of text or multimedia content"},
+      "Frequency": {"Type": "options"},
+      "Reminders": {"Type": "options or custom schedule"},
+      "Tracking": {"Type": "options"},
+      "Resources": {"Type": "list of text or multimedia content"}
+    }
+  }
+}

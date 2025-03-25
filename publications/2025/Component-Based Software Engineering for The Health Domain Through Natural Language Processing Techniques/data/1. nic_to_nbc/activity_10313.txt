@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Facility Tour": {
+        "parameters": [
+            {"name": "room_type"},
+            {"name": "images"},
+            {"name": "description"},
+            {"name": "interactive_elements"}
+        ]
+    }
+}

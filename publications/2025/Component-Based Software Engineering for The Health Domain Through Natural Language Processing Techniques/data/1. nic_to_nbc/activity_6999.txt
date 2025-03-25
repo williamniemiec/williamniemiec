@@ -1,0 +1,14 @@
+
+
+
+{
+  "Self-Assessment": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Questions": {"Type": "list of questions"},
+      "Answer Type": {"Options": ["yes/no", "scale", "text"]},
+      "Frequency": {"Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"Type": "datetime"}
+    }
+  }
+}

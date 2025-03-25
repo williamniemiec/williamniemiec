@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Fluid Tracker": {
+    "parameters": {
+      "Fluid Intake": {"type": ["text", "number", "timestamp"]},
+      "Fluid Output": {"type": ["text", "number", "timestamp"]},
+      "Balance": {"type": "number"},
+      "Notes": {"type": "text"}
+    }
+  }
+}

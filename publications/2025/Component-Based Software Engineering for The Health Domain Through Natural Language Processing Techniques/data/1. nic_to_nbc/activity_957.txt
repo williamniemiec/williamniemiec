@@ -1,0 +1,20 @@
+
+
+
+{
+    "name": "social support reward planner",
+    "parameters": [
+        { 
+            "name": "social support options", 
+            "description": "list of ways in which nurse, family, or friends can assist in behavior change"
+        },
+        { 
+            "name": "reward ideas", 
+            "description": "list of potential rewards that involve social support"
+        },
+        { 
+            "name": "support person", 
+            "description": "identify the person who will provide social support (nurse, family, friend)"
+        }
+    ]
+}

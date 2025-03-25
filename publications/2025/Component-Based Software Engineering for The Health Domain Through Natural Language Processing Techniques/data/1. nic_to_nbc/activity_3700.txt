@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Frequent Cueing and Close Supervision": {
+    "parameters": [
+      {"name": "Name", "type": "text"},
+      {"name": "Type", "type": "options", "options": ["verbal", "visual", "physical"]},
+      {"name": "Frequency", "type": "options", "options": ["frequently", "occasionally", "asNeeded"]},
+      {"name": "Duration", "type": "number"},
+      {"name": "Instructions", "type": "text"},
+      {"name": "Appropriateness", "type": "boolean", "default": false}
+    ]
+  }
+}

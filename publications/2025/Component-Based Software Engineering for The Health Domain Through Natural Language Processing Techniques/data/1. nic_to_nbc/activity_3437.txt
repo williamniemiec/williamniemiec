@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Goal Setting": {
+    "parameters": {
+      "name": "",
+      "description": "",
+      "target_date": "",
+      "reminders": ""
+    }
+  }
+}

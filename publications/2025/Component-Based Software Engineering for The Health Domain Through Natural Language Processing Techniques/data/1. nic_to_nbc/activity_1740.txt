@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+    "Medication Adjustment Request": {
+        "parameters": [
+            {"name": "reason", "description": "Reason for requesting a medication adjustment", "required": true, "type": "text"},
+            {"name": "recommended_change", "description": "Specific recommendation for medication adjustment based on equianalgesic principles", "required": true, "type": "text"},
+            {"name": "physician_notification", "description": "Notify physician of medication adjustment request", "required": true, "type": "checkbox"}
+        ]
+    },
+    "Equianalgesic Principles Guide": {
+        "parameters": [
+            {"name": "guide_content", "description": "Equianalgesic principles guide content", "required": true, "type": "text"}
+        ]
+    }
+}

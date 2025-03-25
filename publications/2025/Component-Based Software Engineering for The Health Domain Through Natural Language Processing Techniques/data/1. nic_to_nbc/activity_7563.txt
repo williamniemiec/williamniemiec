@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Deposition Prep": {
+    "Clinical Chart Review": {
+      "type": "boolean"
+    },
+    "Document List": {
+      // no specification provided, removing this parameter
+    }
+  }
+}

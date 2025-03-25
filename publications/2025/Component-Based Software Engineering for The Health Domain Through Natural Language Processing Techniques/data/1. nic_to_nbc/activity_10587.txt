@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Breathing Techniques": {
+    "Parameters": {
+      "Technique": {"Type": "options", "Options": ["diaphragmaticBreathing", "boxBreathing", "alternateNostrilBreathing", "etc."]},
+      "Instructions": {"Type": "text"},
+      "Video Tutorial": {"Type": "video"},
+      "Practice Exercises": {"Type": "text"},
+      "Reminders": {"Type": "boolean"},
+      "Tracking": {"Type": "boolean"}
+    }
+  }
+}

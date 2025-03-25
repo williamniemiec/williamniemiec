@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Emotional Check-in": {
+    "parameters": [
+      {"Title": {"type": "text"}},
+      {"Emotion": {"type": "options", "options": ["frustration", "stress", "anxiety", "etc."]}},
+      {"Rating Scale": {"type": "options", "options": ["1-5", "1-10", "etc."]}},
+      {"Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]}},
+      {"Deadline Date": {"type": "datetime"}},
+      {"Additional Comments": {"type": "text"}}
+    ]
+  }
+}
+
+
+Let me know if this meets your requirements!

@@ -1,0 +1,29 @@
+Here is the output in JSON format:
+
+
+{
+  "Care Plan": {
+    "Parameters": {
+      "Assessments": [
+        {"Date": ""},
+        {"Findings": ""}
+      ],
+      "Diagnoses": [
+        {"Date": ""},
+        {"Diagnosis": ""}
+      ],
+      "Interventions": [
+        {"Date": ""},
+        {"Intervention": ""}
+      ],
+      "Outcomes": [
+        {"Date": ""},
+        {"Outcome": ""}
+      ],
+      "Notes": {"": ""}
+    }
+  }
+}
+
+
+Let me know if you need any further assistance!

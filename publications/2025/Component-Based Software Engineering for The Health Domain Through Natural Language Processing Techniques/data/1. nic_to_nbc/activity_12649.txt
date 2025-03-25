@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+    "Reference Range Guide": {
+        "Tests": {
+            "Test Name": "",
+            "Reference Range": ""
+        },
+        "Laboratory": "",
+        "Frequency": ""
+    }
+}
+
+
+Note that I removed the `Description` and other unnecessary parameters, as well as the `INTRODUCTION` and `CONCLUSION` sections. I also removed the `Content Type` parameter since it's not a part of the `PARAMETER ESPECIFICATIONS`. Let me know if you need any further assistance!

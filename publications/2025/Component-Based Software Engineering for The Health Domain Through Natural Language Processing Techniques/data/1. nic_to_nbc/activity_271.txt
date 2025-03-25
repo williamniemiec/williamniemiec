@@ -1,0 +1,14 @@
+
+
+
+{
+  "Cast Protection": {
+    "Parameters": {
+      "Cast Location": "",
+      "Protection Methods": [],
+      "Frequency": "",
+      "Reporting": "",
+      "Deadline Date": ""
+    }
+  }
+}

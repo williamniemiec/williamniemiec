@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Quiet Sitting Instruction": {
+        "parameters": {
+            "Sitting Position Guidance": {"type": "text"},
+            "Comfort Assessment": {"type": "form"},
+            "Relaxation Techniques": {"type": "list"},
+            "Breathing Exercises": {"type": "audio or video"},
+            "Timer": {"type": "timer"}
+        }
+    }
+}

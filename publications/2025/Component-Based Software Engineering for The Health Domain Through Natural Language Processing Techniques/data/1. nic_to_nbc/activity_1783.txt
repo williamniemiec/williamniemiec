@@ -1,0 +1,8 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Remove small items from crib",
+  "content": "Please remove small items from your crib, such as syringe covers and alcohol wipes, to ensure a safe sleep environment.",
+  "frequency": "onlyOnce"
+}

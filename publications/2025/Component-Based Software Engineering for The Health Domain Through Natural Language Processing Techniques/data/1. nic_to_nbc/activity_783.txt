@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Vital Signs Monitor": {
+    "Parameters": {
+      "Vital signs list": {"Type": "list of text"},
+      "Measurement frequency": {"Type": "options"},
+      "Alert thresholds": {"Type": "list of numerical values"},
+      "Data visualization": {"Type": "options"},
+      "Customization": {"Type": "boolean"}
+    }
+  }
+}

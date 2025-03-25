@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+    "Injection Site Assessment": {
+        "Assessment Questions": {},
+        "Scarring/Bruising/Abrasion/Infection": {},
+        "Injection Site Image": {},
+        "Frequency": {}
+    }
+}

@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+
+{
+  "Oxygen Therapy Guide": {
+    "Parameters": {
+      "Oxygen Therapy Instructions": {
+        "Type": "text"
+      },
+      "Visual Aids": {
+        "Type": "image or video"
+      },
+      "FAQs": {
+        "Type": "list of questions and answers"
+      }
+    }
+  }
+}

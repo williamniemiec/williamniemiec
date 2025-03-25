@@ -1,0 +1,33 @@
+Here is the output in JSON format:
+
+
+{
+  "Support Group Directory": {
+    "Parameters": {
+      "Support Group List": {"Type": "list of support groups with descriptions and contact information"},
+      "Filtering Options": {"Type": "selection from a list of options or text-based search"}
+    }
+  },
+  "Support Group Details": {
+    "Parameters": {
+      "Support Group Description": {"Type": "text with images or videos"},
+      "Meeting Schedule": {"Type": "calendar or scheduling tool"},
+      "Contact Information": {"Type": "text with links to contact forms or maps"}
+    }
+  },
+  "Reviews and Ratings": {
+    "Parameters": {
+      "Rating System": {"Type": "rating system with stars or numbers"},
+      "Review Form": {"Type": "text-based review form"}
+    }
+  },
+  "Personalized Recommendations": {
+    "Parameters": {
+      "Recommendation Algorithm": {"Type": "algorithm-based recommendation system"},
+      "Recommended Support Groups": {"Type": "list of support groups with descriptions and contact information"}
+    }
+  }
+}
+
+
+Note that I removed the introduction, conclusion, and numbering from the original text, as per your request.

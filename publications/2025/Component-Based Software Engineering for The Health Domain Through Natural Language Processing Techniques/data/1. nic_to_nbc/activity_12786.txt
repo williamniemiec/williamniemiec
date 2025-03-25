@@ -1,0 +1,31 @@
+Here is the output in JSON format:
+
+
+{
+  "Sensory Therapy": {
+    "parameters": {
+      "Sensory Modality": {
+        "type": "options",
+        "options": ["aroma", "music", "both"]
+      },
+      "Aroma Options": {
+        "type": "options",
+        "options": ["lavender", "vanilla", "peppermint"]
+      },
+      "Music Options": {
+        "type": "options",
+        "options": ["nature sounds", "classical music", "soft instrumental"]
+      },
+      "Intensity": {
+        "type": ["slider", "options"]
+      },
+      "Duration": {
+        "type": ["timer", "options"],
+        "options": ["5 minutes", "10 minutes", "15 minutes"]
+      }
+    }
+  }
+}
+
+
+Let me know if you need any further modifications!

@@ -1,0 +1,30 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "exercise caution",
+    "parameters": [
+        {
+            "name": "Name",
+            "type": "text"
+        },
+        {
+            "name": "Caution Text",
+            "type": "text"
+        },
+        {
+            "name": "Caution Items",
+            "type": "list of text"
+        },
+        {
+            "name": "Frequency",
+            "type": "options",
+            "options": [
+                { value: "daily" },
+                { value: "onlyOnce" },
+                { value: "everyHours" },
+                { value: "everyDays" }
+            ]
+        }
+    ]
+}

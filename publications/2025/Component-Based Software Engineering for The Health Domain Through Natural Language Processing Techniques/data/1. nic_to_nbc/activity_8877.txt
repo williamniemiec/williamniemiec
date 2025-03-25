@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+    "Exercise Guide": {
+        "Name": {},
+        "Exercise Type": {},
+        "Muscle Group": {},
+        "Exercise Instructions": {},
+        "Frequency": {},
+        "Duration": {}
+    }
+}
+
+
+I removed the `Deadline Date` and `Reminders` parameters as they are not applicable to the exercise guide. Let me know if this meets your requirements!

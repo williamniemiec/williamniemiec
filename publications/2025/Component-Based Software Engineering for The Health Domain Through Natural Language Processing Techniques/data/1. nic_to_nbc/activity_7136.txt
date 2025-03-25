@@ -1,0 +1,40 @@
+Here is the output in JSON format:
+
+
+{
+  "Resource Directory": {
+    "parameters": {
+      "name": "",
+      "resources": "",
+      "frequency": "",
+      "deadline_date": ""
+    }
+  },
+  "Personalized Resource List": {
+    "parameters": {
+      "name": "",
+      "caregiver_info": "",
+      "resources": "",
+      "frequency": "",
+      "deadline_date": ""
+    }
+  },
+  "Resource Alert": {
+    "parameters": {
+      "name": "",
+      "resource_info": "",
+      "caregiver_info": "",
+      "frequency": "",
+      "deadline_date": ""
+    }
+  },
+  "Resource Review": {
+    "parameters": {
+      "name": "",
+      "resources": "",
+      "rating_criteria": "",
+      "frequency": "",
+      "deadline_date": ""
+    }
+  }
+}

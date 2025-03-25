@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+    "noCodeElementName": "Questionnaire",
+    "parameters": {
+        "Questions": [
+            "How did you prepare your sibling(s) for the arrival of the new baby?",
+            "What activities did you do with your sibling(s) to prepare them?",
+            "How did you explain the concept of a new baby to your sibling(s)?"
+        ],
+        "Answer Type": ["Text", "Multiple Choice", "Rating Scale"],
+        "Frequency": ["Only once", "Daily", "Weekly"],
+        "Deadline Date": ["A specific date", "A range of dates"]
+    }
+}

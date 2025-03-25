@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Goal Setting Assistant": {
+    "parameters": {
+      "Goal Category": {"type": "options list"},
+      "Goal Statement": {"type": "text"},
+      "Priority Level": {"type": "options list"},
+      "Target Date": {"type": "date"},
+      "Resources": {"type": "list of resources with descriptions"}
+    }
+  }
+}

@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Asthma Attack Tracker": {
+    "parameters": {
+      "Symptom Checklist": {"type": "unordered list"},
+      "Symptom Rating": {"type": "scale"},
+      "Response Plan": {"type": "text"},
+      "Action Steps": {"type": "ordered list"},
+      "Emergency Contact": {"type": "text"},
+      "Review Frequency": {"options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"type": "datetime"}
+    }
+  }
+}
+
+
+Let me know if this meets your requirements!

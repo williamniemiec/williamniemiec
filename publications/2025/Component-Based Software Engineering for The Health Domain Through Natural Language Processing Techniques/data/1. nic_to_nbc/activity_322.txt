@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Child Response Assessment": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Assessment Type": {"Type": "options"},
+      "Questions": {"Type": "list of text questions"},
+      "Response Type": {"Type": "options"},
+      "Parent Reaction Categories": {"Type": "list of text categories"},
+      "Child Response Categories": {"Type": "list of text categories"},
+      "Scoring": {"Type": "text"}
+    }
+  }
+}

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Gender Identity Symbol Prompt": {
+    "Parameters": [
+      {"Gender Identity": {"Type": "options"}},
+      {"Symbolic Object": {"Type": "options"}},
+      {"Prompt Message": {"Type": "text"}},
+      {"Frequency": {"Type": "options"}},
+      {"Object Image": {"Type": "image"}}
+    ]
+  }
+}

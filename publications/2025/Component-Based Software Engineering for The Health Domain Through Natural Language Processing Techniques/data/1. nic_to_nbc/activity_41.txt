@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Universal Precautions Reminder": {
+        "Parameters": {
+            "Name": {"Type": "text"},
+            "Content": {"Type": "text"},
+            "Checklist": {"Type": "list"},
+            "Image": {"Type": "image"}
+        }
+    }
+}

@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Observation Tracker": {
+    "Parameters": {
+      "Medication": {"Type": ["text", "options"], "Options": ["Opioids (e.g., fentanyl, morphine)", "Non-opioids (e.g., nitrous oxide, benzodiazepines)", "Local anesthetics (e.g., epidural, spinal)"]},
+      "Maternal Effects": {"Type": ["list of text", "numerical values"]},
+      "Fetal Effects": {"Type": ["list of text", "numerical values"]},
+      "Observation Frequency": {"Type": "options", "Options": ["Every 15 minutes", "Every 30 minutes", "Every hour", "Custom (allow healthcare provider to set their own frequency)"]},
+      "Start Time": {"Type": "datetime"},
+      "End Time": {"Type": "datetime"}
+    }
+  }
+}

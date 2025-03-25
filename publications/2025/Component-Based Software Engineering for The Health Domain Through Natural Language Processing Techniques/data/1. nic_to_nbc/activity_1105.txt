@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Goal Setting": {
+    "parameters": {
+      "Goal Type": {},
+      "Goal Description": {},
+      "Objective": {},
+      "Target Audience": {},
+      "Priority": {}
+    }
+  }
+}

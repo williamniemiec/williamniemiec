@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Test Result Tracker": {
+    "Parameters": {
+      "Test Result Status": {"Type": "text"},
+      "Expected Return Date": {"Type": "date"},
+      "Actual Return Date": {"Type": "date"},
+      "Delay Notification": {"Type": "boolean"},
+      "Pursuit Protocol": {"Type": "text"},
+      "Test Result Summary": {"Type": "text"},
+      "View Full Results": {"Type": "link or downloadable file"},
+      "Follow-up Instructions": {"Type": "text"}
+    }
+  }
+}

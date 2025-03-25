@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Emotional Expression": {
+    "Emotion Identification": {},
+    "Expression Method": {},
+    "Guided Prompts": {},
+    "Frequency": {
+      "daily": {},
+      "onlyOnce": {},
+      "everyHours": {},
+      "everyDays": {}
+    },
+    "Deadline Date": {},
+    "Resources": {}
+  }
+}

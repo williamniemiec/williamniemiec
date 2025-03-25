@@ -1,0 +1,11 @@
+
+
+
+{
+"Urinary Output Tracker": {
+    "Unit": {"Type": "options"},
+    "Frequency": {"Type": "options"},
+    "Duration": {"Type": "datetime range"},
+    "Method": {"Type": "options"}
+}
+}

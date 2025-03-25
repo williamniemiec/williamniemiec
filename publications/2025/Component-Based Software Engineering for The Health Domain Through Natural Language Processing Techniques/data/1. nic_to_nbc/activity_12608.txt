@@ -1,0 +1,41 @@
+Here is the output in JSON format:
+
+
+{
+  "medication administration": {
+    "Medication Type": {
+      "Description": "specify the type of medication to be administered (laxative, suppository, or enema)",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "laxative", "label": "Laxative" },
+        { "value": "suppository", "label": "Suppository" },
+        { "value": "enema", "label": "Enema" }
+      ]
+    },
+    "Medication Name": {
+      "Description": "specify the name of the medication to be administered",
+      "Required": true,
+      "Type": "text"
+    },
+    "Dosage Instructions": {
+      "Description": "provide instructions for administering the correct dosage",
+      "Required": true,
+      "Type": "text"
+    },
+    "Frequency": {
+      "Description": "specify how often the medication should be administered",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "daily", "label": "Daily" },
+        { "value": "onlyOnce", "label": "Only once" },
+        { "value": "everyHours", "label": "Every x hours" },
+        { "value": "everyDays", "label": "Every x days" }
+      ]
+    }
+  }
+}
+
+
+Note that I removed the `Deadline Date` parameter since it's not required. Let me know if you need anything else!

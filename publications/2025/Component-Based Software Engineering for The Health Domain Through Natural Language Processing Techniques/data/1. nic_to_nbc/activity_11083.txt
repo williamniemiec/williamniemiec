@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Dignity and Respect": {
+    "Respectful Communication": {"Type": "boolean", "Default": true},
+    "Cultural Sensitivity": {"Type": "boolean", "Default": true},
+    "Privacy and Confidentiality": {"Type": "boolean", "Default": true},
+    "Personalized Care": {"Type": "boolean", "Default": true}
+  }
+}

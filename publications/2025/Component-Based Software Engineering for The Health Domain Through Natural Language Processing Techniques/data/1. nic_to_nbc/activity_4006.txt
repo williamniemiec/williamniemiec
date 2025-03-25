@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Controllable Reinforcer": {
+    "Reinforcer Type": {"type": "options"},
+    "Behavioral Criterion": {"type": "text"},
+    "Delivery Schedule": {"type": "options"},
+    "Control Mechanism": {"type": "options"},
+    "Reinforcer Escalation": {"type": "boolean"},
+    "Reinforcer De-escalation": {"type": "boolean"}
+  }
+}

@@ -1,0 +1,43 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Personalized Relaxation Pattern",
+    "parameters": [
+        { 
+            "name": "Name", 
+            "type": "text"
+        },
+        { 
+            "name": "Prompt", 
+            "type": "text"
+        },
+        { 
+            "name": "Response Type", 
+            "type": "options",
+            "options": [
+                { value: "text" },
+                { value: "audio" },
+                { value: "video" }
+            ]
+        },
+        { 
+            "name": "Frequency", 
+            "type": "options",
+            "options": [
+                { value: "daily" },
+                { value: "onlyOnce" },
+                { value: "everyHours" },
+                { value: "everyDays" }
+            ]
+        },
+        { 
+            "name": "Deadline Date", 
+            "type": "datetime"
+        },
+        { 
+            "name": "Example Patterns", 
+            "type": "list of text or audio files"
+        }
+    ]
+}

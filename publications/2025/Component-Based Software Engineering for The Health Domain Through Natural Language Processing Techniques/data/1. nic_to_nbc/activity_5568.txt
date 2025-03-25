@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Community Education": {
+    "parameters": {
+      "Program Topic": {},
+      "Program Format": {},
+      "Program Schedule": {},
+      "Program Location": {},
+      "Program Resources": {},
+      "Program Evaluation": {}
+    }
+  }
+}

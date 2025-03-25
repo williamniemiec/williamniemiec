@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Fetal Heart Rate Education": {
+    "Content": {
+      "type": "text or multimedia (e.g., video, image)"
+    },
+    "Title": {
+      "type": "text"
+    }
+  }
+}

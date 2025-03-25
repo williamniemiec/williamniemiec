@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Sexual Health Information": {
+        "Introduction": {"Type": "text"},
+        "Effects of Illness": {"Type": "text or image"},
+        "Effects of Medications": {"Type": "text or image"},
+        "Effects of Stress": {"Type": "text or image"},
+        "Other Factors": {"Type": "text or image"},
+        "Resources": {"Type": "list of links or text"}
+    }
+}

@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Referral Information Sharing": {
+        "parameters": [
+            {"name": "referral_info", "description": "Referral information"},
+            {"name": "recipient_type", "description": "Recipient of the referral information"},
+            {"name": "delivery_method", "description": "Method of delivery"},
+            {"name": "notes", "description": "Additional notes or comments about the referral information"}
+        ]
+    }
+}

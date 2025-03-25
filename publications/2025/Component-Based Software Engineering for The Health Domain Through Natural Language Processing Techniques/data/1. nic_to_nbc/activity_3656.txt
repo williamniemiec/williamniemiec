@@ -1,0 +1,33 @@
+Here is the output in JSON format:
+
+
+{
+  "No-code element name": "Toilet Hygiene",
+  "Parameters": {
+    "Task Title": {
+      "Description": "Title of the task",
+      "Required": true,
+      "Type": "text"
+    },
+    "Hygiene Instructions": {
+      "Description": "Step-by-step instructions for maintaining toilet hygiene",
+      "Required": true,
+      "Type": "text"
+    },
+    "Frequency": {
+      "Description": "Specify how often to perform toilet hygiene",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "afterEachUse", "label": "After each use" },
+        { "value": "daily", "label": "Daily" },
+        { "value": "everyOtherDay", "label": "Every other day" }
+      ]
+    },
+    "Additional Tips": {
+      "Description": "Optional additional tips for maintaining toilet hygiene",
+      "Required": false,
+      "Type": "text"
+    }
+  }
+}

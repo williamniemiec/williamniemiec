@@ -1,0 +1,34 @@
+Here is the output in JSON format:
+
+
+{
+  "Action": {
+    "parameters": [
+      { 
+        "name": "name", 
+        "type": "text"
+      },
+      { 
+        "name": "instruction", 
+        "type": "text"
+      },
+      { 
+        "name": "frequency", 
+        "type": "options",
+        "options": [
+          { value: "daily" },
+          { value: "onlyOnce" },
+          { value: "everyHours" },
+          { value: "everyDays" }
+        ]
+      },
+      { 
+        "name": "deadline_date", 
+        "type": "datetime"
+      }
+    ]
+  }
+}
+
+
+I removed the non-applicable parameters and only kept the `{{ NO-CODE ELEMENT NAME }}` which is "Action" and `{{ PARAMETER ESPECIFICATIONS }}`. Let me know if this meets your requirements!

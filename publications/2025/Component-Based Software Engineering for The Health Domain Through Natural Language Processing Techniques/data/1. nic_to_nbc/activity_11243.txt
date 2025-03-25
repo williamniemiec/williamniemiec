@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "Emotion Acceptance": {
+    "Feeling Identification": {
+      "Type": "options",
+      "Options": ["happy", "sad", "angry", "scared", "surprised"]
+    },
+    "Acceptance Message": {
+      "Type": "text"
+    },
+    "Emotion Labeling": {
+      "Type": "options",
+      "Options": ["happy", "sad", "angry", "scared", "surprised"]
+    },
+    "Reflection Prompt": {
+      "Type": "text"
+    },
+    "Frequency": {
+      "Type": "options",
+      "Options": ["everyPlaySession", "onlyOnce", "everyXMinutes"]
+    }
+  }
+}

@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+  "Repeat Back": {
+    "Information": {
+      "Description": "Information that the patient should repeat back",
+      "Required": true,
+      "Type": "text"
+    },
+    "Question Type": {
+      "Description": "Type of question to ask the patient (e.g. open-ended, multiple choice)",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "openEnded", "label": "Open-Ended" },
+        { "value": "multipleChoice", "label": "Multiple Choice" }
+      ]
+    },
+    "Correct Answer": {
+      "Description": "Correct answer to the question",
+      "Required": true,
+      "Type": "text"
+    }
+  }
+}

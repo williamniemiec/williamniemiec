@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "Neurological Status Checker": {
+    "Parameters": {
+      "Symptoms to Check": {
+        "Type": "options",
+        "Options": ["paralysis", "paresthesia", "bowel incontinence", "bladder incontinence", "other"]
+      },
+      "Frequency of Checking": {
+        "Type": "options",
+        "Options": ["every 15 minutes", "every 30 minutes", "every hour", "other"]
+      },
+      "Duration of Checking": {"Type": "text"},
+      "Deadline Date": {"Type": "datetime"},
+      "Presence of Symptoms": {"Type": "boolean"},
+      "Severity of Symptoms": {
+        "Type": "options",
+        "Options": ["mild", "moderate", "severe", "other"]
+      },
+      "Notes": {"Type": "text"}
+    }
+  }
+}

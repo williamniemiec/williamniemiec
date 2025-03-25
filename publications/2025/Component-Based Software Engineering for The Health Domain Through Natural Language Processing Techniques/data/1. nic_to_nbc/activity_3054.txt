@@ -1,0 +1,13 @@
+
+
+
+{
+  "Symptom Checker": {
+    "Parameters": {
+      "Symptoms": ["Foul-smelling cast", "Erythema", "Fever"],
+      "Frequency": "",
+      "Deadline Date": "",
+      "Reporting": ""
+    }
+  }
+}

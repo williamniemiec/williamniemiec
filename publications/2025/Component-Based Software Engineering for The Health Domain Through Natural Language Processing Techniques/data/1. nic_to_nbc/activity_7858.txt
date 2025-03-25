@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Infant Features": {
+    "parameters": {
+      "normal_features": {},
+      "anomaly_discussion": {},
+      "anomaly_types": {},
+      "image_gallery": {},
+      "interactive_elements": {}
+    }
+  }
+}

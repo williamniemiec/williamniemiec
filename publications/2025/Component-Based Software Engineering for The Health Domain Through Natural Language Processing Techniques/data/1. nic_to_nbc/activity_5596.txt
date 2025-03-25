@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Guide": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Medication Information": {"Type": "rich text or HTML"},
+      "Pages": {"Type": "list of HTML texts"},
+      "Quiz": {"Type": "list of questions with answer options"},
+      "Additional Resources": {"Type": "list of URLs or PDFs"}
+    }
+  }
+}

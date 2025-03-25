@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Wound Care": {
+        "parameters": [
+            {"Name": "text"},
+            {"Description": "text"},
+            {"Protocol": "text"},
+            {"Frequency": "options"},
+            {"Deadline Date": "datetime"}
+        ]
+    }
+}

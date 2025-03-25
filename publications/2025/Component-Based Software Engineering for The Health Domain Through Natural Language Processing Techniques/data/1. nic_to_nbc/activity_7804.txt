@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Name": "Self-Awareness Reflection",
+  "Parameters": {
+    "Prompts": {"Type": "text", "Required": true},
+    "Entry Type": {"Type": "options", "Required": true},
+    "Frequency": {"Type": "options", "Required": true}
+  }
+}
+
+
+Note that I removed the non-applicable parameters ("Mood Tracking" and "Insight Questions") as per your request.

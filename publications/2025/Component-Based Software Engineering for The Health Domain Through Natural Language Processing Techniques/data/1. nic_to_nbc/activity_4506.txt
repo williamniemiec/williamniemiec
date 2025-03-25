@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+  "Fluid Overload Monitoring": {
+    "Symptoms": {
+      "type": "multi-select options"
+    },
+    "Weight Tracking": {
+      "type": "options"
+    },
+    "Fluid Intake Tracking": {
+      "type": "options"
+    },
+    "Output Tracking": {
+      "type": "options"
+    },
+    "Deadline Date": {
+      "type": "datetime"
+    }
+  }
+}

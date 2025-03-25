@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "instruction": {
+    "Parameters": {
+      "Position": {"Type": "text", "Value": "left side-lying Sim position with upper leg flexed upward"},
+      "Image": {"Type": "image"},
+      "Description": {"Type": "text"},
+      "Frequency": {"Type": "options", "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"Type": "datetime"}
+    }
+  }
+}

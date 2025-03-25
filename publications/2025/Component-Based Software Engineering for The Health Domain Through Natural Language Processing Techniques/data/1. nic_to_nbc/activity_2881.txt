@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+    "Coagulation Study Monitoring": {
+        "Parameters": {
+            "Name": {"Type": "text"},
+            "Coagulation Studies": {"Type": "options"},
+            "Frequency": {"Type": "options"},
+            "Deadline Date": {"Type": "datetime"},
+            "Notes": {"Type": "text"},
+            "Reference Ranges": {"Type": "options"},
+            "Alert Threshold": {"Type": "options"}
+        }
+    }
+}

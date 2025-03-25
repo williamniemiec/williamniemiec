@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Survey": {
+    "Questions": {"type": "list of questions"},
+    "Education Levels": {"type": "options"},
+    "Frequency": {"type": "options"},
+    "Deadline Date": {"type": "datetime"}
+  },
+  "Question": {
+    "Name": {"type": "text"},
+    "Answer Type": {"type": "options"},
+    "Options": {"type": "list of options"},
+    "Frequency": {"type": "options"},
+    "Deadline Date": {"type": "datetime"}
+  }
+}

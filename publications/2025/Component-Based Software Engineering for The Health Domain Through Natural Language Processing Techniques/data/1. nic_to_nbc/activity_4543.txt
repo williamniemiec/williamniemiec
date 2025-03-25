@@ -1,0 +1,29 @@
+Here is the output in JSON format:
+
+
+{
+  "Educational Article": {
+    "parameters": {
+      "name": "",
+      "content": "",
+      "images": "",
+      "key_points": ""
+    }
+  },
+  "Video Tutorial": {
+    "parameters": {
+      "name": "",
+      "video": "",
+      "instructions": "",
+      "feedback": ""
+    }
+  },
+  "Sleep Tracker": {
+    "parameters": {
+      "name": "",
+      "tracking": "",
+      "reminders": "",
+      "feedback": ""
+    }
+  }
+}

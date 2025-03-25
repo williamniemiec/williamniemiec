@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+    "Resource Directory": {
+        "Parameters": {
+            "Resource Category": {"Type": "options"},
+            "Resource Name": {"Type": "text"},
+            "Resource Description": {"Type": "text"},
+            "Contact Information": {"Type": "text"}
+        }
+    },
+    "Referral Form": {
+        "Parameters": {
+            "Caregiver Information": {"Type": "form"},
+            "Resource Request": {"Type": "options"},
+            "Referral Reason": {"Type": "text"}
+        }
+    },
+    "Resource Connection": {
+        "Parameters": {
+            "Message": {"Type": "text"},
+            "Response": {"Type": "text"}
+        }
+    }
+}

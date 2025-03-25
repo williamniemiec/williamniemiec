@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "Fecal Management Device": {
+    "Device Type": [
+      {"value": "rectalTube", "label": "Rectal Tube"},
+      {"value": "analPlug", "label": "Anal Plug Device"},
+      {"value": "fecalCollection", "label": "Fecal Collection Device (e.g., FlexiSeal, Zossi)"}
+    ],
+    "Device Instructions": {},
+    "Frequency": [
+      {"value": "asNeeded", "label": "As needed"},
+      {"value": "daily", "label": "Daily"},
+      {"value": "everyHours", "label": "Every x hours"},
+      {"value": "everyDays", "label": "Every x days"}
+    ],
+    "Duration": {},
+    "Monitoring": {}
+  }
+}
+
+
+I removed the introduction, conclusion, and non-applicable parameters from the input text. The output is a JSON object with the no-code element name as the key, and its parameter specifications as values.

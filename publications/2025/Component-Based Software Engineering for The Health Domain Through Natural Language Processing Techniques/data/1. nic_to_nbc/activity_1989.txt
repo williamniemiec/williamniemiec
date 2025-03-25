@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+  "Nutrition Guide": {
+    "Content": {
+      "type": "HTML text or multimedia content (e.g., images, videos)"
+    },
+    "Topics": {
+      "type": "list of topics"
+    },
+    "Resources": {
+      "type": "list of resources (with URLs or file attachments)"
+    },
+    "Quiz": {
+      "type": "multiple-choice questions or true/false questions"
+    },
+    "Deadline Date": {
+      "type": "datetime"
+    }
+  }
+}

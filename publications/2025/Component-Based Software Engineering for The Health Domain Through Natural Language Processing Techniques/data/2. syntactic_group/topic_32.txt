@@ -1,0 +1,10 @@
+{
+  "name": "Medication Effects and Interaction Management",
+  "description": "Manages the administration of medications, tracking their effects, side effects, dosage, and potential drug interactions, while providing information on their purpose and proper use.",
+  "type": "periodic",
+  "input": ["Medication name", "Dosage information", "Side effect tracking", "Drug interaction details"],
+  "output": ["Medication effect report", "Interaction alerts", "Side effect management recommendations"],
+  "preconditions": ["Medication is prescribed and administered to the patient"],
+  "postconditions": ["Medication effects and interactions are monitored and managed"],
+  "dependencies": ["Medication tracking system", "Drug interaction database", "Side effect monitoring tools"]
+}

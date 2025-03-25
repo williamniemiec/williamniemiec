@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+{
+  "Guide": {
+    "name": {"type": "text"},
+    "pages": {"type": "book-page", "book-page": "list of HTML texts"},
+    "quiz": {"type": "quiz", "quiz": "list of questions with answer options and correct answers"}
+  },
+  "Video": {
+    "name": {"type": "text"},
+    "url": {"type": "url"}
+  },
+  "Quiz": {
+    "name": {"type": "text"},
+    "questions": {"type": "quiz", "quiz": "list of questions with answer options and correct answers"}
+  }
+}

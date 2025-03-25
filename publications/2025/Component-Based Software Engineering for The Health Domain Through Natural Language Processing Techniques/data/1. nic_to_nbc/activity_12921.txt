@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Journal Review": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Interval": {"Options": ["daily", "weekly", "monthly", "custom"]},
+      "Entry Selection": {"Options": ["random", "most recent", "specific date range"]},
+      "Review Questions": {"Type": "list of questions"},
+      "Reflection Type": {"Options": ["text", "audio", "video"]}
+    }
+  }
+}

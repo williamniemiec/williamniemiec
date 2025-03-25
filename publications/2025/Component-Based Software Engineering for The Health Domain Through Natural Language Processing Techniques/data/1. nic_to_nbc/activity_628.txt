@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+{
+  "Exercise": {
+    "Muscle Groups": {
+      "type": "options",
+      "options": ["neck", "shoulders", "arms", "hands", "back", "abdomen", "legs", "feet"]
+    },
+    "Tensing Duration": {
+      "type": "numeric",
+      "value": "5-10 seconds"
+    },
+    "Instructions": {
+      "type": "text"
+    },
+    "Visual Aids": {
+      "type": "media (image or video)"
+    },
+    "Frequency": {
+      "type": "options",
+      "options": ["daily", "everyHours", "everyDays"]
+    }
+  }
+}
+
+Note that I removed the `Deadline Date` parameter since it's not applicable to the `Exercise` no-code element.

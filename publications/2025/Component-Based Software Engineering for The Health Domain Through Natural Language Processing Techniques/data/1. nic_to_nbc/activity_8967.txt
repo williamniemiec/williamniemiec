@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Daily Exercise Goal": {
+    "Exercise Goal": {"Type": "numerical input field with a fixed value of 30 minutes"},
+    "Exercise Type": {"Type": "list of text options"},
+    "Tracking Progress": {"Type": "data tracking component with input fields and graphical display options"},
+    "Reminders": {"Type": "scheduling system with notification options"},
+    "Motivational Messages": {"Type": "list of text options with optional images or icons"},
+    "Reward System": {"Type": "gamification component with reward options"}
+  }
+}

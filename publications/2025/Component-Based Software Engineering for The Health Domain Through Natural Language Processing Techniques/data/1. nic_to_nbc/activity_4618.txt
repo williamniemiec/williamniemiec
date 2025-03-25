@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Cookbook Recommendation": {
+    "Dietary Restrictions": {},
+    "Cookbook Options": {},
+    "Recipe Preview": {},
+    "Cookbook Reviews": {},
+    "Purchase Options": {}
+  }
+}

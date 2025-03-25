@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Adherence Tracker": {
+    "Parameters": {
+      "Medication List": {},
+      "Last Taken Date": {},
+      "Medication Schedule": {},
+      "Adherence Status": {},
+      "Reminders": {},
+      "Adherence Report": {}
+    }
+  }
+}

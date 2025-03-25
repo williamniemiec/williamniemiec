@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Fluid Administration": {
+    "Parameters": {
+      "Fluid Type": {},
+      "Volume": {},
+      "Frequency": {},
+      "Deadline Date": {}
+    }
+  }
+}
+
+
+Note: I removed the "Notes" parameter as it's not applicable, and also removed the other text from the input except for the `{{ NO-CODE ELEMENT NAME }}` and `{{ PARAMETER ESPECIFICATIONS }}`.

@@ -1,0 +1,10 @@
+Here is the output in JSON format:
+
+
+{
+  "Status Update Notification": {
+    "Notification Message": {"type": "text"},
+    "Contact Information": {"type": "contact information"},
+    "Frequency of Updates": {"type": "options", "options": ["daily", "weekly", "as needed"]}
+  }
+}

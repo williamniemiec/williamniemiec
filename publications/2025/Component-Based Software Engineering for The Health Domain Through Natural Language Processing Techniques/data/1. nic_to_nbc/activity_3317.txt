@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Cyanosis Monitoring": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Description": {"Type": "text"},
+      "Frequency": {"Type": "options", "Values": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Reporting Method": {"Type": "options", "Values": ["photo", "text", "rating scale"]},
+      "Rating Scale": {"Type": "options"}
+    }
+  }
+}

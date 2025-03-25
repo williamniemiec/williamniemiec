@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Offer": {
+    "parameters": {
+      "name": "",
+      "description": "",
+      "instructions": "",
+      "frequency": "",
+      "duration": "",
+      "contraindications": "",
+      "acceptance": ""
+    }
+  }
+}

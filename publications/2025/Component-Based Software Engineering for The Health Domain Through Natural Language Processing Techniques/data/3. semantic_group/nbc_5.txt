@@ -1,0 +1,49 @@
+{
+  "name": "Reminder",
+  "description": "The 'Reminder' element manages a variety of reminder tasks, including scheduling personal tasks and appointments, sending hydration reminders, and facilitating neighbor communication alerts. It ensures timely notifications for tasks, hydration needs, and urgent messages, improving overall organization and communication.",
+  "type": "periodic",
+  "input": [
+    "Task details",
+    "Appointment date and time",
+    "Reminder frequency",
+    "Beverage reminders",
+    "Hydration icons",
+    "Liquid types",
+    "Straw usage",
+    "Warm liquids",
+    "Juice and broth suggestions",
+    "Alert messages",
+    "Recipient communication",
+    "Urgency trigger"
+  ],
+  "output": [
+    "Reminder notifications",
+    "Task schedule overview",
+    "Hydration reminder notification",
+    "Liquid consumption tracking",
+    "Beverage preparation tips",
+    "Alert notification",
+    "Actionable instructions for recipients",
+    "Neighbor communication feedback"
+  ],
+  "preconditions": [
+    "User sets a task or appointment",
+    "User needs hydration reminders",
+    "User needs to send an alert or message"
+  ],
+  "postconditions": [
+    "Reminder is triggered at the scheduled time",
+    "Improved hydration tracking and beverage consumption",
+    "Timely and efficient neighbor communication"
+  ],
+  "dependencies": [
+    "Notification system",
+    "Calendar service",
+    "User schedule data",
+    "Hydration tracking tools",
+    "Beverage icon system",
+    "Alert notification system",
+    "Messaging platform",
+    "Recipient tracking system"
+  ]
+}

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+
+{
+"Alternative Sucking Options": {
+    "Parameters": {
+        "Alternatives": {"Type": "list"},
+        "Description": {"Type": "text"},
+        "Benefits": {"Type": "text"},
+        "Tips": {"Type": "text"}
+    }
+}
+}

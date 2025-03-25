@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+[
+    {
+        "name": "Alert",
+        "parameters": [
+            {"name": "name", "description": "Refrain from arguing"},
+            {"name": "description", "description": "Alert the patient to refrain from arguing"},
+            {"name": "content_type", "description": "text"},
+            {"name": "reason", "description": "explain why arguing should be avoided", "required": true, "type": "text"}
+        ]
+    },
+    {
+        "name": "Guide",
+        "parameters": [
+            {"name": "name", "description": "Refrain from arguing"},
+            {"name": "description", "description": "Guide the patient on effective communication techniques to avoid arguing"},
+            {"name": "content_type", "description": "book"},
+            {"name": "pages", "description": "list of pages with instructions on effective communication techniques to avoid arguing", "required": true, "type": "book-page"}
+        ]
+    }
+]

@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Catheter Education Module": {
+    "Content": {"Type": "text"},
+    "Quiz": {"Type": "form"},
+    "Acknowledgement": {"Type": "checkbox"},
+    "Additional Notes": {"Type": "text"}
+  },
+  "Catheter Information Sheet": {
+    "Summary": {"Type": "text"},
+    "FAQs": {"Type": "list"},
+    "Additional Resources": {"Type": "list"},
+    "Acknowledgement": {"Type": "checkbox"}
+  }
+}

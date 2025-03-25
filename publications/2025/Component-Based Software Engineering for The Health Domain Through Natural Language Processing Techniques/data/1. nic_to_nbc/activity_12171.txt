@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+    "Simple Direction Guidance": {
+        "parameters": [
+            {"Name": {"type": "text"}},
+            {"Direction Script": {"type": "rich text"}},
+            {"Tips": {"type": "list of text"}},
+            {"Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]}},
+            {"Deadline Date": {"type": "datetime"}}
+        ]
+    }
+}
+
+
+Note that I removed the `not applicable` parameters, which in this case were none. Let me know if you have any further questions!

@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+  "Airway Clearance Tracker": {
+    "Activity List": {"type": "multi-select"},
+    "Frequency": {"type": "options"},
+    "Duration": {"type": "number"}
+  },
+  "Symptom Checker": {
+    "Symptom List": {"type": "multi-select"},
+    "Severity": {"type": "options"},
+    "Frequency": {"type": "options"}
+  },
+  "Question": {
+    "Question": {"type": "text"},
+    "Answer Type": {"type": "options"}
+  }
+}
+
+
+Let me know if you need any further modifications!

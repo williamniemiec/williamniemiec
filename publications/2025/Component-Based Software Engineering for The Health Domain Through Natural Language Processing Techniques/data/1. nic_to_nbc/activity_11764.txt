@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Protective Garment Provision": {
+    "Garment Types": {"type": "text with icons or images", "required": true},
+    "Garment Sizes": {"type": "text with dropdown menus", "required": true},
+    "Garment Quantities": {"type": "interactive form or dropdown menus", "required": true},
+    "Ordering and Delivery": {"type": "interactive form or button", "required": true},
+    "Garment Instructions": {"type": "text with images or videos", "required": true}
+  }
+}

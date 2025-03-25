@@ -1,0 +1,30 @@
+Here is the output in JSON format:
+
+
+{
+  "Education": {
+    "Content": {
+      "type": "text or multimedia (e.g., video, image)"
+    },
+    "Format": {
+      "options": ["article", "video", "infographic", "quiz", "etc."]
+    },
+    "Frequency": {
+      "options": ["daily", "weekly", "monthly", "etc."]
+    },
+    "Target Audience": {
+      "type": "text or selection from a list of options"
+    }
+  },
+  "Quiz": {
+    "Questions": {
+      "type": "list of questions with answer options"
+    },
+    "Scoring": {
+      "options": ["percentage-based", "points-based", "etc."]
+    },
+    "Feedback": {
+      "type": "text or multimedia (e.g., video, image)"
+    }
+  }
+}

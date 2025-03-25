@@ -1,0 +1,32 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Food Placement for Visual-Field Defect",
+    "parameters": [
+        {
+            "name": "Visual-Field Defect",
+            "type": "boolean"
+        },
+        {
+            "name": "Food Placement Instructions",
+            "type": "text"
+        },
+        {
+            "name": "Visual Aids",
+            "type": "multimedia"
+        },
+        {
+            "name": "Reminders",
+            "type": "boolean"
+        },
+        {
+            "name": "Frequency",
+            "type": "options",
+            "options": [
+                { value: "daily", label: "Daily" },
+                { value: "weekly", label: "Weekly" }
+            ]
+        }
+    ]
+}

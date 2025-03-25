@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Creative Activity Plan": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Description": {"Type": "text"},
+      "Activity Types": {"Type": "options", "Options": ["building", "drawing", "clay modeling", "painting", "coloring"]},
+      "Materials": {"Type": "text"},
+      "Frequency": {"Type": "options", "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"Type": "datetime"},
+      "Tips": {"Type": "text"}
+    }
+  }
+}

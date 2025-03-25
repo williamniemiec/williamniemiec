@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Massage Guidance": {
+    "Parameters": {
+      "Massage Area": {"Type": "options"},
+      "Massage Technique": {"Type": "options"},
+      "Massage Pressure": {"Type": "options"},
+      "Purpose of Massage": {"Type": "options"},
+      "Comfort Level": {"Type": "options"},
+      "Frequency": {"Type": "options"}
+    }
+  }
+}
+
+
+I removed the `Deadline Date` parameter since it's not applicable (its type is `datetime`, not `options`). Let me know if this meets your requirements!

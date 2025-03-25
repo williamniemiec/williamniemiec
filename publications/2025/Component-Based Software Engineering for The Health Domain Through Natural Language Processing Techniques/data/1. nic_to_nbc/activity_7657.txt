@@ -1,0 +1,29 @@
+Here is the output in JSON format:
+
+
+{
+  "Discharge Coordination": {
+    "Provider List": {
+      "type": "list",
+      "providers": ["physician", "nurse", "social worker", "physical therapist", "home health agency"]
+    },
+    "Discharge Plan": {
+      "type": "text or structured data"
+    },
+    "Task Assignment": {
+      "type": "task list"
+    },
+    "Communication": {
+      "type": "messaging or video conferencing"
+    },
+    "Timeline": {
+      "type": "datetime or range"
+    },
+    "Status Updates": {
+      "type": "dropdown or checkbox"
+    },
+    "Alerts": {
+      "type": "notification or alert"
+    }
+  }
+}

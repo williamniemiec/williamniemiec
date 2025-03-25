@@ -1,0 +1,45 @@
+Here is the output in JSON format:
+
+
+[
+    {
+        "name": "Medical History",
+        "parameters": {
+            "Medical Conditions": {"type": "unordered list"},
+            "Allergies": {"type": "unordered list"},
+            "Medications": {"type": "unordered list"},
+            "Surgeries": {"type": "unordered list"},
+            "Family Medical History": {"type": "text"}
+        }
+    },
+    {
+        "name": "Medical Conditions",
+        "parameters": {
+            "Conditions": {"type": "unordered list"}
+        }
+    },
+    {
+        "name": "Allergies",
+        "parameters": {
+            "Allergies": {"type": "unordered list"}
+        }
+    },
+    {
+        "name": "Medications",
+        "parameters": {
+            "Medications": {"type": "unordered list"}
+        }
+    },
+    {
+        "name": "Surgeries",
+        "parameters": {
+            "Surgeries": {"type": "unordered list"}
+        }
+    },
+    {
+        "name": "Family Medical History",
+        "parameters": {
+            "Family Medical History": {"type": "text"}
+        }
+    }
+]

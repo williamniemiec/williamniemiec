@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+  "Vector Control Education": {
+    "parameters": ["educational materials", "topic"]
+  },
+  "Animal Reservoir Host Education": {
+    "parameters": ["educational materials", "topic"]
+  },
+  "Vector Control Tips": {
+    "parameters": ["tip content", "vector type"]
+  },
+  "Animal Reservoir Host Control Tips": {
+    "parameters": ["tip content", "animal reservoir host type"]
+  },
+  "Disease Prevention Quiz": {
+    "parameters": ["quiz questions", "answer options", "feedback content"]
+  }
+}

@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+    "Medication Allergy Alert": {
+        "Parameters": {
+            "Medication Allergy List": {"Type": "list of medications"},
+            "Prescription Alert": {"Type": "text"},
+            "Question Prompt": {"Type": "text"},
+            "Response Options": {"Type": "list of options"}
+        }
+    },
+    "Guide": {
+        "Parameters": {
+            "Content": {"Type": "text"},
+            "Medication Allergy List": {"Type": "list of medications"},
+            "Questioning Prescriptions": {"Type": "text"},
+            "Resources": {"Type": "list of resources"}
+        }
+    }
+}

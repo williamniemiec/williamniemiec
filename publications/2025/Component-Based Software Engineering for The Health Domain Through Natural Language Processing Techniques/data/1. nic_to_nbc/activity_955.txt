@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Diarrhea Monitoring": {
+    "Symptom Tracking": {
+      "Stool Frequency": {"type": "numerical value"},
+      "Stool Consistency": {"type": "text or options"},
+      "Abdominal Pain": {"type": "boolean value (yes/no) or numerical value (e.g. 1-10)"},
+      "Bloating": {"type": "boolean value (yes/no) or numerical value (e.g. 1-10)"}
+    },
+    "Sign Assessment": {
+      "Stool Appearance": {"type": "text or options"},
+      "Rectal Examination": {"type": "text or options"}
+    },
+    "Monitoring Schedule": {
+      "Frequency": {"type": "text or options"},
+      "Duration": {"type": "numerical value or text"}
+    }
+  }
+}

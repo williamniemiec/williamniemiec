@@ -1,0 +1,26 @@
+
+
+
+{
+  "Environment Setup": {
+    "Music": {
+      "type": "options",
+      "options": ["quiet", "soothing", "calming", "nature sounds"]
+    },
+    "Decor": {
+      "type": "options",
+      "options": ["nonvivid", "simple", "familiar patterns"]
+    },
+    "Performance Expectations": {
+      "type": "options",
+      "options": ["low", "moderate", "high"]
+    },
+    "Dining Arrangement": {
+      "type": "options",
+      "options": ["small groups", "individual", "buffet"]
+    },
+    "Additional Tips": {
+      "type": "text"
+    }
+  }
+}

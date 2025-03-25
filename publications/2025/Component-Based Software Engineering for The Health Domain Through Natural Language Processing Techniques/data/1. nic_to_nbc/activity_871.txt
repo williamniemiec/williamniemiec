@@ -1,0 +1,44 @@
+Here is the output in JSON format:
+
+
+{
+  "Anger Management": {
+    "Technique": {
+      "Description": "specify the anger management technique to be used",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "deepBreathing", "label": "Deep Breathing" },
+        { "value": "progressiveMuscleRelaxation", "label": "Progressive Muscle Relaxation" },
+        { "value": "journaling", "label": "Journaling" },
+        { "value": "physicalActivity", "label": "Physical Activity" }
+      ]
+    },
+    "Guided Content": {
+      "Description": "provide guided content for the selected anger management technique",
+      "Required": true,
+      "Type": "text"
+    },
+    "Frequency": {
+      "Description": "specify how often the individual should practice the anger management technique",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "daily", "label": "Daily" },
+        { "value": "onlyOnce", "label": "Only once" },
+        { "value": "everyHours", "label": "Every x hours" },
+        { "value": "everyDays", "label": "Every x days" }
+      ]
+    },
+    "Reflection Questions": {
+      "Description": "provide reflection questions to help individual process their anger",
+      "Required": true,
+      "Type": "list",
+      "List items": [
+        { "value": "What triggered my anger?", "label": "Trigger" },
+        { "value": "How did I feel during the anger episode?", "label": "Feeling" },
+        { "value": "What would I do differently next time?", "label": "Learning" }
+      ]
+    }
+  }
+}

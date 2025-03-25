@@ -1,0 +1,10 @@
+
+
+
+{
+  "Finger Food Recommendation": {
+    "food_list": {"type": "list", "description": "A list of finger foods that are easy to consume and nutritious, e.g., fruits, nuts, energy bars, etc."},
+    "frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "notes": {"type": "text", "description": "Provide any additional information or tips for the patient, e.g., \"Choose foods that are high in protein and fiber\""}
+  }
+}

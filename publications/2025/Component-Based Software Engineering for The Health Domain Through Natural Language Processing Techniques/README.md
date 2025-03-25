@@ -1,18 +1,19 @@
 # Nursing Basic Components (NBCs)
 
-| **Category**                         | **NBCs**                                                                                                  |
-|--------------------------------------|------------------------------------------------------------------------------------------------------------------|
-| **Planning and Routine Management**  | Scheduling, Task, Reminder, Alarm                                                                               |
-| **Communication and Shared Care**    | Shared care, Communication, HCP contact, Referral, Listen and speak                                             |
-| **Social and Behavioral Well-being** | Social, Abuse, Sexual health, Habits                                                                           |
-| **Rest and Sleep**                   | Sleep time, Rest time, Fatigue, Respiratory control                                                            |
-| **Entertainment and Motivation**     | Gaming, Music, Leisure, Rewards, Quiz, Audio, Progress                                                         |
-| **Education and Health Guides**      | Guide, Consent, Stimulation, Multimedia, Religion, Makeup, Contraceptive methods, Safety                      |
-| **Physical Activities and Mobility** | Physical activities, Wheelchair                                                                                |
-| **Hygiene and Physical Health**      | Personal Hygiene, Oral hygiene, Foot care, Hair hygiene, Smoking cessation, Eye care                           |
-| **Vital Signs Monitoring and Control** | Vital Signs, Temperature control, Blood pressure control, Measurement tracker, Fluid control, Toilet tracker, Hydration, Glucose/insulin control, Electrolyte, Capillarity, Blood, Allergy, Bowel, Equipment, Emergency |
-| **Medication and Treatment Management** | Medication, Injection, Pain control, Therapy, Sedation, Laboratory exams, Laboratory tests, Vaccination         |
-| **Symptoms and Diagnosis**           | Symptoms tracker, Symptom Checker, Neurological assessment                                                     |
-| **Clinical Care and Procedures**     | Catheter, Drainage, Tracheal care, Tube ventilation                                                            |
-| **Mental Health and Well-being**     | Emotion tracker, Anxiety, Stress management, Emotional support, Anger management, Suicide risk, Reflection, Meditation, Motivation |
-| **Nutrition and Eating Habits**      | Nutrition, Food control, Breastfeeding, Weight control                                                          |
+
+| **Category**                          | **NBCs\***                                                                                              | **Total** |
+|---------------------------------------|--------------------------------------------------------------------------------------------------------|---------|
+| Clinical Care and Procedures          | Critical patient, Tracheal care, Drainage, Neurological assessment, Therapy, Fetal care, Equipment, Bowel, Blood, Safety, Tube ventilation | 11      |
+| Medication and Treatment Management   | Medication control, Pain control, Sedation, Injection, Glucose / insulin control, Allergy, Vaccination, Laboratory tests, Fluid control | 9       |
+| Mental Health and Well-being          | Emotion tracker, Anxiety control, Emotional support, Anger management, Suicide risk, Meditation       | 6       |
+| Vital Signs Monitoring and Control    | Vital Signs, Temperature control, Measurement tracker, Electrolyte, Capillarity                        | 5       |
+| Planning and Routine Management       | Reminder, Scheduling, Task, Goal, Progress                                                             | 5       |
+| Social and Behavioral Well-being      | Social, Behavior tracker, Smoking cessation, Abuse, Religion                                          | 5       |
+| Entertainment and Motivation          | Gaming, Reward, Hobby, Makeup                                                                          | 4       |
+| Hygiene and Physical Health           | Oral hygiene, Skin, Feet control, Eye care                                                             | 4       |
+| Communication and Shared Care         | Shared care, HCP contact, Message, Audio recording                                                    | 4       |
+| Nutrition and Eating Habits           | Nutrition, Hydration, Fluid control, Weight control                                                   | 4       |
+| Education and Health Guides           | Guide, Resources, Form                                                                                | 3       |
+| Physical Activities and Mobility      | Exercise, Breathing control, Stimulation                                                              | 3       |
+| Symptoms and Diagnosis                | Symptom Checker, Symptoms Tracker                                                                     | 2       |
+| Rest and Sleep                        | Sleep control, Fatigue                                                                                | 2       |

@@ -1,0 +1,10 @@
+Here is the output in JSON format:
+
+
+{
+  "Posture Tracker": {
+    "title of the posture tracker": {"type": "text", "required": true},
+    "Assessment Questions": {"type": "list of questions", "required": true, "example": ["Do you experience back pain?", "Do you have difficulty standing up straight?", "Do you have a history of falls?"]},
+    "Scoring System": {"type": "scoring system", "required": true, "example": "1-5 scale, with 1 being \"poor\" and 5 being \"excellent\""}
+  }
+}

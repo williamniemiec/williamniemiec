@@ -1,0 +1,10 @@
+Here is the output in JSON format:
+
+
+{
+  "Communication Tool": {
+    "Tool Type": ["Text-based messaging", "Voice-to-text messaging", "Emoji-based communication", "Simple phrase selection"],
+    "Customization": ["Adding custom phrases or words", "Configuring the tool for specific languages or dialects"],
+    "Accessibility": ["Font size and color adjustment", "High contrast mode", "Audio output for visually impaired patients"]
+  }
+}

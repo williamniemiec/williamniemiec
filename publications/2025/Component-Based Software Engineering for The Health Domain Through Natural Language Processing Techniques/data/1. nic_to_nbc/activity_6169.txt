@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+    "Pelvic Examination Guidance": {
+        "parameters": [
+            {"name": "Title", "type": "text"},
+            {"name": "Content", "type": "text"},
+            {"name": "Indications", "type": "list of indications"},
+            {"name": "Contraindications", "type": "list of contraindications"},
+            {"name": "Instructions", "type": "text"}
+        ]
+    }
+}
+
+
+I removed the `Resources` parameter since it's not required. Let me know if you need any further assistance!

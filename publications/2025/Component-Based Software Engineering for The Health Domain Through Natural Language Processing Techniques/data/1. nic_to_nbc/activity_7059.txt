@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Consent for Transfer": {
+    "parameters": [
+      {"Patient's Name": {"type": "text"}},
+      {"Transfer Details": {"type": "text"}},
+      {"Risks and Benefits": {"type": "text"}},
+      {"Consent": {"type": "digital signature"}},
+      {"Relationship to Patient": {"type": "options"}},
+      {"Date and Time of Consent": {"type": "datetime"}}
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+  "parameters": {
+    "temperature check title": {},
+    "Temperature Range": {
+      "range": {
+        "min": {},
+        "max": {}
+      }
+    },
+    "Frequency": {
+      "options": [
+        {"value": "daily"},
+        {"value": "onlyOnce"},
+        {"value": "everyHours"},
+        {"value": "everyDays"}
+      ]
+    }
+  },
+  "no-code element name": "Temperature Check"
+}

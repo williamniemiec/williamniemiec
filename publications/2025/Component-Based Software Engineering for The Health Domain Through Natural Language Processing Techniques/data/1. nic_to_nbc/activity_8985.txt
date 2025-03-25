@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Fatigue Assessment": {
+        "parameters": [
+            {"Question": {"type": "text"}},
+            {"Answer Type": {"type": "options", "options": ["scale", "text", "selection"]}},
+            {"Scale Options": {"type": "options", "options": ["1", "2", "3", ..., "10"]}},
+            {"Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]}}
+        ]
+    }
+}

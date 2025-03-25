@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Orientation Tools": {
+    "Parameters": {
+      "Calendar": {"Type": "calendar"},
+      "Reminders": {"Type": "reminders"},
+      "Orientation Exercises": {"Type": "list", "Example": [
+        {"exercise": "Daily puzzle", "reason": "To improve cognitive function"},
+        {"exercise": "Memory game", "reason": "To improve memory"}
+      ]},
+      "Environmental Cues": {"Type": "list", "Example": [
+        {"cue": "Clock", "reason": "To keep track of time"},
+        {"cue": "Calendar", "reason": "To keep track of dates"}
+      ]}
+    }
+  }
+}

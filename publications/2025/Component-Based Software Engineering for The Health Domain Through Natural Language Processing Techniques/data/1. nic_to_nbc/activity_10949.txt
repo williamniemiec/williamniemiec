@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Mattress Elevation Guidance": {
+    "parameters": {
+      "Name": {"type": "text"},
+      "Elevation Instructions": {"type": "text"},
+      "Elevation Angle": {"type": "number", "unit": "degrees"}
+    }
+  }
+}

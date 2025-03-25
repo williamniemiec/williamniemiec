@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Airway Patency Guide": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Techniques": {"Type": "options"}
+    }
+  }
+}

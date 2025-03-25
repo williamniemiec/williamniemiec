@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "Reflection and Exploration": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Situation": {"Type": "text", "Example": "A recent hospitalization" or "A diagnosis of a chronic illness."},
+      "Reflection Questions": {"Type": "list of text", "Example": ["What was going through my mind when I first learned about my diagnosis?", "How did I feel about the situation?", "What did I do to cope with the situation?", etc.]},
+      "Multiple-Choice Questions": {"Type": "list of multiple-choice questions", "Example": ["How did I feel about the situation?", "What did I do to cope with the situation?", etc.]},
+      "Open-Ended Question": {"Type": "text input", "Example": "What did I learn about myself and my coping mechanisms from this experience?"}
+    }
+  },
+  "CBT Worksheet": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Situation": {"Type": "text", "Example": "A recent hospitalization" or "A diagnosis of a chronic illness."},
+      "Thoughts": {"Type": "table", "Example": ["What was I thinking?", "What did I say to myself?", etc.]},
+      "Feelings": {"Type": "table", "Example": ["How did I feel?", "What emotions did I experience?", etc.]},
+      "Behaviors": {"Type": "table", "Example": ["What did I do?", "How did I react?", etc.]},
+      "Reflection": {"Type": "text input", "Example": "What did I learn about myself and my coping mechanisms from this experience?"}
+    }
+  }
+}

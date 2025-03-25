@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Cast Care Instructions Documentation": {
+    "parameters": [
+      {"name": "instructions", "description": "Cast care instructions", "required": true, "type": "text"},
+      {"name": "patient_signature", "description": "Patient signature", "required": true, "type": "signature"},
+      {"name": "date", "description": "Date of instruction", "required": true, "type": "datetime"}
+    ]
+  }
+}

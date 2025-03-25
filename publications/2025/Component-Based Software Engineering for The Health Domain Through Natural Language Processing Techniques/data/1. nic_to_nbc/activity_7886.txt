@@ -1,0 +1,37 @@
+Here is the output in JSON format:
+
+
+{
+    "Mastery Experience": {
+        "Parameters": {
+            "Name": {"Type": "text"},
+            "Behavior": {"Type": "text"},
+            "Task": {"Type": "text"},
+            "Criteria": {"Type": "text"},
+            "Feedback": {
+                "Type": "options",
+                "Options": [
+                    {"value": "positiveReinforcement", "label": "Positive Reinforcement"},
+                    {"value": "constructiveCriticism", "label": "Constructive Criticism"},
+                    {"value": "none", "label": "No Feedback"}
+                ]
+            },
+            "Reward": {
+                "Type": "options",
+                "Options": [
+                    {"value": "badge", "label": "Badge"},
+                    {"value": "points", "label": "Points"},
+                    {"value": "unlockContent", "label": "Unlock Content"}
+                ]
+            },
+            "Frequency": {
+                "Type": "options",
+                "Options": [
+                    {"value": "daily", "label": "Daily"},
+                    {"value": "weekly", "label": "Weekly"},
+                    {"value": "monthly", "label": "Monthly"}
+                ]
+            }
+        }
+    }
+}

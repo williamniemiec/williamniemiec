@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Feelings Expression": {
+    "parameters": {
+      "name": {"description": "title of the feelings expression assessment", "required": true, "type": "text"},
+      "prompt": {"description": "open-ended prompt to encourage verbalization of feelings about exercise", "required": true, "type": "text"},
+      "answer_type": {"description": "type of answer required (e.g. open-ended text, audio recording, video recording)", "required": true, "type": "options", "options": [
+        {"value": "open_ended_text", "label": "Open-Ended Text"},
+        {"value": "audio_recording", "label": "Audio Recording"},
+        {"value": "video_recording", "label": "Video Recording"}
+      ]}
+    }
+  }
+}

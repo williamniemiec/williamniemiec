@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "Hygiene Reminder": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Hygiene Measure": {"Type": "options", "Options": [
+        {"value": "deodorant", "label": "Use deodorant"},
+        {"value": "perfume", "label": "Use perfume"},
+        {"value": "other", "label": "Other (please specify)"}
+      ]},
+      "Frequency": {"Type": "options", "Options": [
+        {"value": "daily", "label": "Daily"},
+        {"value": "onlyOnce", "label": "Only once"},
+        {"value": "everyHours", "label": "Every x hours"},
+        {"value": "everyDays", "label": "Every x days"}
+      ]},
+      "Deadline Date": {"Type": "datetime"}
+    }
+  }
+}
+
+
+Let me know if this is what you were expecting!

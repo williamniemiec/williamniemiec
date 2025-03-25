@@ -1,0 +1,34 @@
+Here is the output in JSON format:
+
+
+{
+    "Procedure": {
+        "parameters": {
+            "name": "Flush wound gently with solution",
+            "content": "Step-by-step instructions on how to flush the wound gently with solution",
+            "content_type": "text" or "video",
+            "steps": [
+                {"name": "Hold syringe tip 1 inch above wound", "description": "Hold the syringe tip 1 inch above the wound"},
+                {"name": "Rinse from least to most contaminated area", "description": "Rinse the wound from the least to most contaminated area"},
+                {"name": "Flush until solution in bin runs clear", "description": "Continue flushing until the solution in the bin runs clear"}
+            ],
+            "frequency": "onlyOnce"
+        }
+    },
+    "Guided Procedure": {
+        "parameters": {
+            "name": "Flush wound gently with solution",
+            "content": "Step-by-step instructions on how to flush the wound gently with solution, with important tips and warnings",
+            "content_type": "text" or "video",
+            "steps": [
+                {"name": "Hold syringe tip 1 inch above wound", "description": "Hold the syringe tip 1 inch above the wound to avoid touching the wound with the syringe", "warning": "Important: Avoid touching the wound with the syringe to prevent infection"},
+                {"name": "Rinse from least to most contaminated area", "description": "Rinse the wound from the least to most contaminated area to prevent spreading infection", "tip": "Start from the cleanest area and work your way towards the most contaminated area"},
+                {"name": "Flush until solution in bin runs clear", "description": "Continue flushing until the solution in the bin runs clear to ensure the wound is properly cleaned", "warning": "Important: Do not stop flushing until the solution in the bin runs clear to ensure the wound is properly cleaned"}
+            ],
+            "frequency": "onlyOnce"
+        }
+    }
+}
+
+
+I removed anything except `{{ PARAMETER ESPECIFICATIONS }}` and `{{ NO-CODE ELEMENT NAME }}`. I also removed not applicable parameters.

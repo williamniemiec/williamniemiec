@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Phone Assistance": {
+    "parameters": {
+      "Phone Directory": {"type": "list of phone numbers"},
+      "Call Request": {"type": "text"},
+      "Call Log": {"type": "list of call logs"}
+    }
+  }
+}

@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+"Wound Care Reminder": {
+    "Reminder Message": {"Type": "text"},
+    "Frequency": {"Options": ["daily", "every 12 hours", "every 8 hours", "etc."]},
+    "Care Instructions": {"Type": "list of options"},
+    "Photos": {"Type": "camera"},
+    "Notes": {"Type": "text"},
+    "Deadline Date": {"Type": "datetime"}
+}
+}
+
+
+Let me know if this meets your requirements!

@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+    "Financial Transparency": {
+        "Service Information": {},
+        "Charge Estimator": {},
+        "FAQs": {},
+        "Contact Information": {}
+    }
+}

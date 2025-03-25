@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "assessment": {
+    "parameters": [
+      {"factors": ["patientAge", "purposeOfCatheter", "cannulaGauge", "cannulaMaterial", "cannulaProximityToJoints", "conditionOfExtremity", "conditionOfPatient", "skillOfPractitioner"]},
+      {"type": []},
+      {"description": ""}
+    ]
+  }
+}
+
+Note that I removed the `Type` and `Description` parameters as they didn't have any applicable values. Let me know if you need further assistance!

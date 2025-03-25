@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+    "Forbidden Water Sources": {
+        "Type": "unordered list",
+        "Example": ["Tap water", "Swimming pool water", "Spa water"]
+    },
+    "Reasons to Avoid": {
+        "Type": "text",
+        "Example": "Exposing your eyes to tap water, swimming pool water, or spa water when wearing contact lenses can increase the risk of eye infections and other complications."
+    },
+    "Safe Alternatives": {
+        "Type": "unordered list",
+        "Example": ["Multipurpose solution", "Contact lens cleaning solution", "Sterile saline solution specifically designed for contact lens care"]
+    },
+    "Visual Aids": {
+        "Type": "list of URLs or embedded media"
+    },
+    "Frequency of Reminder": {
+        "Type": "options",
+        "Options": ["daily", "weekly", "monthly"]
+    },
+    "Water Exposure Warning": {}
+}

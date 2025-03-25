@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Exercise Program": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Description": {"Type": "text"},
+      "Goals": {"Type": "text"},
+      "Activities": {"Type": "options", "Options": ["list of exercise activities"]},
+      "Frequency": {"Type": "options", "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Duration": {"Type": "text"},
+      "Intensity": {"Type": "options", "Options": ["low", "moderate", "high"]},
+      "Progress Tracking": {"Type": "text"}
+    }
+  }
+}

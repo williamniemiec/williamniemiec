@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Respiratory Alkalosis Monitor": {
+    "lab_results": "",
+    "vital_signs": "",
+    "symptoms": "",
+    "threshold!s": "",
+    "interpretation": ""
+  }
+}

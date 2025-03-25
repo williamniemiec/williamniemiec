@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Education": {
+        "parameters": {
+            "name": "Urine Bag Handling Education",
+            "content": "Learn about the importance of proper urine bag handling and how to prevent ascending contamination.",
+            "type": ["text", "video"],
+            "pages": "list of HTML texts or video content"
+        }
+    }
+}

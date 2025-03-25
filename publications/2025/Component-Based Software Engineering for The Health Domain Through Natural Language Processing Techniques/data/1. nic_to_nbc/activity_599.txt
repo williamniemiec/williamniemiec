@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+    "Humor Therapy": {
+        "Parameters": {
+            "Humor Style": {},
+            "Humor Topics": {},
+            "Joke Library": {},
+            "Create Your Own": {},
+            "Frequency": {}
+        }
+    }
+}
+
+
+I removed the not applicable parameters (`Deadline Date`) and kept only the required ones. Let me know if this meets your requirements!

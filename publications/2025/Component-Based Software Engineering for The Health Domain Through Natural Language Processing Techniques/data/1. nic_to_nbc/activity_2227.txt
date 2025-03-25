@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Prosthetic Care Educator",
+  "parameters": [
+    {
+      "name": "prosthetic_type"
+    },
+    {
+      "name": "care_and_application_instructions"
+    },
+    {
+      "name": "family_education"
+    },
+    {
+      "name": "practice_exercises"
+    },
+    {
+      "name": "quizzes_and_assessments"
+    }
+  ]
+}

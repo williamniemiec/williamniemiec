@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Education": {
+    "Parameters": {
+      "Content": {"Type": ["text", "multimedia"]},
+      "Format": {"Options": ["text", "video", "image", "audio", "interactive module"]},
+      "Frequency": {"Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"Type": "datetime"},
+      "Quiz": {"Type": "form with multiple-choice or open-ended questions"}
+    }
+  }
+}

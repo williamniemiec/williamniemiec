@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+    "Visit Scheduling": {
+        "parameters": {
+            "visit_location": {"type": "options"},
+            "visit_date": {"type": "date"},
+            "visit_time": {"type": "time"},
+            "visit_duration": {"type": "number"},
+            "patient_preferences": {"type": "text"},
+            "provider_availability": {"type": "text"}
+        }
+    }
+}

@@ -1,0 +1,10 @@
+Here is the output in JSON format:
+
+
+{
+  "Bathing Guidance": {
+    "Reason": {"type": "text"},
+    "Duration": {"type": "duration"},
+    "Alternative": {"type": "text"}
+  }
+}

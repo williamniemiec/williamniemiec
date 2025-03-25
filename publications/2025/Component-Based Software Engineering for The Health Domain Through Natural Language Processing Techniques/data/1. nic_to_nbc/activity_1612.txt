@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+
+{
+  "Transfer Assistance": {
+    "Name": "text",
+    "Description": "text",
+    "Transfer Type": "options",
+    "Assistance Level": "options",
+    "Frequency": "options",
+    "Trigger": "options"
+  }
+}

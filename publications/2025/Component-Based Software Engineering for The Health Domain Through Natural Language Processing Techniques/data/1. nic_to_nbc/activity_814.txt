@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+    "Skin Cleansing Guide": {
+        "parameters": {
+            "guide_type": "",
+            "steps": [],
+            "images": [],
+            "notes": ""
+        }
+    },
+    "Task": {
+        "parameters": {
+            "name": "",
+            "instructions": "",
+            "frequency": "",
+            "reminders": []
+        }
+    },
+    "Question": {
+        "parameters": {
+            "name": "",
+            "answer_type": "",
+            "options": []
+        }
+    }
+}

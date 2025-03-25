@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+[
+  {
+    "name": "Guide",
+    "parameters": {
+      "name": "Minimizing Friction and Shearing Forces",
+      "pages": "A list of HTML texts or images"
+    }
+  },
+  {
+    "name": "Video",
+    "parameters": {
+      "name": "Minimizing Friction and Shearing Forces",
+      "video_url": "The URL of the video tutorial",
+      "description": "A brief description of the video tutorial"
+    }
+  }
+]

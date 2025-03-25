@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+    "noCodeElementName": "Behavior Tracker",
+    "parameterSpecifications": {
+        "Behavior Types": "",
+        "Frequency": "",
+        "Tracking Method": "",
+        "Goal Setting": ""
+    }
+}

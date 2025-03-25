@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Tummy Time Exercise": {
+    "Exercise Name": {"type": "text", "required": true},
+    "Step-by-Step Instructions": {"type": "illustrated guide", "required": true},
+    "Frequency and Duration": {"type": "text", "required": true}
+  }
+}
+
+
+I removed the non-applicable parameters (i.e., those with `Required: false`) and kept only the required parameters, along with their types. Let me know if this meets your requirements!

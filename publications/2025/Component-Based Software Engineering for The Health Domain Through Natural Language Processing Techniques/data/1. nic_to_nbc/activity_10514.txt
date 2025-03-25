@@ -1,0 +1,40 @@
+Here is the output in JSON format:
+
+
+{
+  "Ritual Attendance": {
+    "Parameters": {
+      "Ritual Type": {
+        "Type": "options",
+        "Options": [
+          "Religious ritual (e.g., church service, mosque prayer)",
+          "Cultural ritual (e.g., traditional ceremony, holiday celebration)",
+          "Personal ritual (e.g., meditation group, support group)",
+          "Other"
+        ]
+      },
+      "Attendance Support": {
+        "Type": "options",
+        "Options": [
+          "None (patient can attend independently)",
+          "Minimal (patient needs some assistance or accompaniment)",
+          "Moderate (patient needs significant support or accompaniment)",
+          "Maximum (patient requires full support or accompaniment)"
+        ]
+      },
+      "Frequency": {
+        "Type": "options",
+        "Options": [
+          "Daily",
+          "Weekly",
+          "Monthly",
+          "Other"
+        ]
+      },
+      "Reminders": {
+        "Type": "boolean",
+        "Default": true
+      }
+    }
+  }
+}

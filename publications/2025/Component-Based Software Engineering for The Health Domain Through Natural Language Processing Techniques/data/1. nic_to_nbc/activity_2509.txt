@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Fluid Challenge Guide": {
+    "Parameters": {
+      "Name": {},
+      "Fluid Type": {},
+      "Fluid Volume": {},
+      "Administration Rate": {},
+      "Monitoring Parameters": {},
+      "Monitoring Frequency": {},
+      "Instructions": {}
+    }
+  }
+}

@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+    "Behavior Monitoring": {
+        "Parameters": {
+            "Name": {"Type": "text"},
+            "Description": {"Type": "text"},
+            "Tracking Type": {"Type": "options", "Options": ["checkbox", "ratingScale", "freeText"]},
+            "Frequency": {"Type": "options", "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]}
+        }
+    }
+}
+
+
+Note that I removed the `Deadline Date` parameter as it was not applicable (no value was provided).

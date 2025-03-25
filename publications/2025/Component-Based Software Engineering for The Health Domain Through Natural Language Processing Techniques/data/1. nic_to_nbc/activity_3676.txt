@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Fatigue Assessment Guide": {
+    "Name": {"Type": "text"},
+    "Fatigue Assessment Questions": {"Type": "list", "Items": ["list of fatigue assessment questions"]},
+    "Fatigue Threshold": {"Type": "number"},
+    "Postponement Instructions": {"Type": "text"},
+    "Frequency": {"Type": "options", "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]}
+  }
+}

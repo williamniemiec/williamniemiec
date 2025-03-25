@@ -1,0 +1,29 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Consent Form",
+  "parameters": [
+    {
+      "name": "Title",
+      "type": "text"
+    },
+    {
+      "name": "Content",
+      "type": "text or HTML"
+    },
+    {
+      "name": "Checkboxes",
+      "type": "list",
+      "list_type": "checkbox",
+      "checkbox": {
+        "label": "string",
+        "required": "boolean"
+      }
+    },
+    {
+      "name": "Signature",
+      "type": "electronic signature"
+    }
+  ]
+}

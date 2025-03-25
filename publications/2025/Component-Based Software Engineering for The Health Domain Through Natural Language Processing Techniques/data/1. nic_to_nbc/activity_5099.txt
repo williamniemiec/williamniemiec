@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Tone of Voice Guidance": {
+    "Parameters": [
+      {"Clear Tone": {"Type": "boolean"}},
+      {"Low Tone": {"Type": "boolean"}},
+      {"Warm Tone": {"Type": "boolean"}},
+      {"Respectful Tone": {"Type": "boolean"}},
+      {"Tone Examples": {"Type": "text"}},
+      {"How would you describe your typical tone of voice when communicating with healthcare providers?": {"Type": "options", "Options": ["clear and respectful", "loud and assertive", "soft and hesitant"]}},
+      {"What do you think is the most important aspect of tone of voice when communicating with healthcare providers?": {"Type": "options", "Options": ["clarity", "respect", "warmth", "confidence"]}}
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Identification and Disclosure": {
+    "Healthcare Professional Name": {"Type": "text"},
+    "Credentials": {"Type": "text"},
+    "Organization": {"Type": "text"},
+    "Call Recording Disclosure": {"Type": "boolean"},
+    "Recording Purpose": {"Type": "text"}
+  }
+}

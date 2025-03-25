@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Weaning Guide": {
+    "Reason": {"Type": "text", "Example": "Bottle feeding can lead to tooth decay and affect your child's dental health."},
+    "Steps": {"Type": "list of steps", "Example": ["Gradually reduce the number of bottles per day", "Introduce a cup or straw", "Offer water or milk in a cup instead of a bottle"]},
+    "Tips": {"Type": "list of tips", "Example": ["Be consistent and patient", "Offer plenty of praise and encouragement", "Make it a team effort with your child"]},
+    "Resources": {"Type": "list of resources", "Example": ["Weaning from the bottle: A guide for parents", "Tips for successful weaning", "Support hotline for parents"]},
+    "Tracking": {"Type": "tracking feature", "Example": "A calendar or checklist to track the number of bottles per day, with reminders to reduce the number of bottles over time"}
+  }
+}

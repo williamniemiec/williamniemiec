@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Habit Formation Plan": {
+    "Desired Behavior": {},
+    "Existing Stimulus or Cue": {},
+    "Pairing Schedule": {},
+    "Tracking Progress": {},
+    "Reflection": {},
+    "Adjustment Plan": {}
+  }
+}

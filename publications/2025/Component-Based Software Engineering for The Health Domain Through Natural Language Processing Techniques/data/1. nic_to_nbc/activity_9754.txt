@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "Device Tutorial": {
+    "Parameters": {
+      "Device Type": {
+        "Type": "options"
+      },
+      "Tutorial Content": {
+        "Type": "interactive tutorial or video"
+      },
+      "Steps": {
+        "Type": "list of HTML texts or interactive tutorial steps"
+      },
+      "Tips and Precautions": {
+        "Type": "list of HTML texts"
+      },
+      "Quiz": {
+        "Type": "list of questions with answer options"
+      }
+    }
+  }
+}

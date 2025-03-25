@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Device Insertion/Implantation Guide": {
+    "parameters": {
+      "Name": {"type": "text"},
+      "Device Type": {"type": "options", "options": ["pacemaker", "ICD", "CRT", "other"]},
+      "Insertion/Implantation Instructions": {"type": "text"},
+      "Pre-Procedure Checklist": {"type": "options", "options": ["yes", "no"]},
+      "Post-Procedure Instructions": {"type": "text"},
+      "Notes": {"type": "text"},
+      "Deadline Date": {"type": "datetime"}
+    }
+  }
+}

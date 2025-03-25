@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+    "Consent": {
+        "Permission Type": {
+            "Type": "options",
+            "Options": ["dataCollection", "interaction", "other"]
+        },
+        "Patient Confirmation": {
+            "Type": "boolean"
+        },
+        "Proxy Confirmation": {
+            "Type": "boolean"
+        },
+        "Proxy Relationship": {
+            "Type": "options",
+            "Options": ["familyMember", "caregiver", "healthcareProvider", "other"]
+        }
+    }
+}

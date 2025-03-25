@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Pleasant Meal Environment": {
+    "Ambiance": {},
+    "Lighting": {},
+    "Temperature": {},
+    "Noise Level": {},
+    "Comfort Items": {},
+    "Instructions": {}
+  }
+}

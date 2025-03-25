@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Fluid Intake Tracker": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Fluid Goal": {"Type": "number"},
+      "Fluid Types": {"Type": "multi-select options"},
+      "Tracking Frequency": {"Options": ["daily", "everyOtherDay", "every3Days", "weekly"]},
+      "Reminder": {"Type": "boolean"},
+      "Notes": {"Type": "text"}
+    }
+  }
+}

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Physician Order": {
+    "parameters": {
+      "Physician's Name": {"type": "text"},
+      "Patient's Name": {"type": "text"},
+      "Transportation Details": {"type": "text"},
+      "Order Date and Time": {"type": "datetime"},
+      "Physician's Signature": {"type": "digital signature"}
+    }
+  }
+}

@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Clear Expectations": {
+    "Parameters": {
+      "Behavior Category": {"Type": "options"},
+      "Expectation Statement": {"Type": "text"},
+      "Reasoning": {"Type": "text"},
+      "Consequences": {"Type": "text"},
+      "Positive Reinforcement": {"Type": "unordered list"},
+      "Frequency": {"Type": "options"}
+    }
+  }
+}

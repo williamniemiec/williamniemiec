@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+    "Electronic Prescribing": {
+        "Prescription Method": {
+            "type": "options",
+            "options": [
+                { "value": "ePrescription", "label": "ePrescription" },
+                { "value": "Online Portal", "label": "Online Portal" },
+                { "value": "Mobile App", "label": "Mobile App" },
+                { "value": "Other", "label": "Other (please specify)" }
+            ]
+        },
+        "Benefits": {
+            "type": "text",
+            "example": "Electronic prescribing methods can reduce errors, improve safety, and increase convenience."
+        },
+        "Instructions": {
+            "type": "text",
+            "example": "To use our ePrescription system, simply log in to your online portal and follow the prompts."
+        }
+    }
+}

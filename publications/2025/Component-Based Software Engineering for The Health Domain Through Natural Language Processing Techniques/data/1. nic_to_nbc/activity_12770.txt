@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Seizure Log": {
+        "Date and Time": {"Type": "datetime"},
+        "Description": {"Type": "text"},
+        "Duration": {"Type": "number"},
+        "Triggers": {"Type": "text"},
+        "Medications": {"Type": "text"},
+        "Frequency": {"Options": ["daily", "onlyOnce", "everyHours", "everyDays"]}
+    }
+}

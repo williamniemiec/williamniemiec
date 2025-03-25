@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+    "ADL Guide": {
+        "Title": {"type": "text"},
+        "Content": {"type": "text or HTML"},
+        "ADL Activities": {"type": "list of options"},
+        "Special Considerations": {"type": "text or list of options"},
+        "Rest Periods": {"type": "duration"},
+        "Frequency": {"type": "options"}
+    }
+}
+
+
+Note that I removed the `Deadline Date` parameter as it's not applicable in this context.

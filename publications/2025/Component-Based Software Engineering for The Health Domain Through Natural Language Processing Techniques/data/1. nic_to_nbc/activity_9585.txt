@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Vital Signs": {
+    "Heart Rate": {"type": "number", "unit": "bpm"},
+    "Blood Pressure": {"type": "number", "unit": "mmHg"},
+    "Respiratory Rate": {"type": "number", "unit": "breaths/min"},
+    "Temperature": {"type": "number", "unit": "°C or °F"},
+    "Pain Level": {"type": "options", "options": ["e.g., 0-10 scale"]},
+    "Height": {"type": "number", "unit": "cm or in"},
+    "Weight": {"type": "number", "unit": "kg or lbs"}
+  },
+  "Physical Examination": {
+    "General Appearance": {"type": "text", "description": "e.g., \"Please describe your general appearance\""}
+  }
+}

@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Environment Preparation": {
+    "Parameters": {
+      "Checklist": {},
+      "Tips": {},
+      "Image": {},
+      "Confirmation": {}
+    }
+  }
+}

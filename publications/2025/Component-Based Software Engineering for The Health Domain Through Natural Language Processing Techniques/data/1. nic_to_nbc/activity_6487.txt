@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+  "Cultural and Demographic Factors Assessment": {
+    "Demographic Factors List": {
+      "Type": "list of text",
+      "Example": ["Culture", "Religion", "Race", "Sex", "Age"]
+    },
+    "Effects on Body Image Questions": {
+      "Type": "list of text",
+      "Example": ["How does your culture influence your body image?", "How does your religion impact your self-perception?", "How does your race affect your body image?", "How does your sex influence your body image?", "How does your age impact your body image?"]
+    },
+    "Rating Scale": {
+      "Type": "rating scale",
+      "Example": "On a scale of 1-5, how much does your culture influence your body image?"
+    },
+    "Reflection Prompt": {
+      "Type": "text",
+      "Example": "How do you think your cultural background has shaped your body image?"
+    },
+    "Frequency": {
+      "Type": "options",
+      "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+    }
+  }
+}

@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Assertive Suggestion",
+    "parameters": [
+        { 
+            "name": "Suggestions", 
+            "type": "list of text or HTML"
+        },
+        { 
+            "name": "Confidence Level", 
+            "type": "slider or rating scale"
+        },
+        { 
+            "name": "Rationale", 
+            "type": "list of text or HTML"
+        }
+    ]
+}

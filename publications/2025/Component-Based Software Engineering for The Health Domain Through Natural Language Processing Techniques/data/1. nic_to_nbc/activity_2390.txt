@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Relaxation Companion": {
+    "Parameters": {
+      "Name": {},
+      "Pain Management Plan": {},
+      "Relaxation Technique": {},
+      "Guided Session": {},
+      "Session Duration": {},
+      "Reminders": {},
+      "Tracking": {}
+    }
+  }
+}

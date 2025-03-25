@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "behavioral communication recognition": {
+    "Parameters": {
+      "Behavior Type": {},
+      "Communication Mode": {},
+      "Education Content": {},
+      "Quiz": {},
+      "Certification": {},
+      "Reflection Tool": {}
+    }
+  }
+}

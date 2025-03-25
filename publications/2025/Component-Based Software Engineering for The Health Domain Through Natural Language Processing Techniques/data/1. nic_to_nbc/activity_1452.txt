@@ -1,0 +1,21 @@
+
+
+
+{
+  "Checklist": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Criteria": {"Type": "ordered list", "list items": "text"},
+      "Descriptions": {"Type": "ordered list", "list items": "text"},
+      "Rating Scale": {"Type": "options"}
+    }
+  },
+  "Questionnaire": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Questions": {"Type": "ordered list", "list items": "text"},
+      "Answer Types": {"Type": "options"},
+      "Help Text": {"Type": "text"}
+    }
+  }
+}

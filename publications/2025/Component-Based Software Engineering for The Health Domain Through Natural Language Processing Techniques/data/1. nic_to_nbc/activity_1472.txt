@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Food Temperature Controller": {
+    "Parameters": {
+      "Food Type": {},
+      "Temperature Range": {},
+      "Meal Times": {},
+      "Instructions": {}
+    }
+  }
+}
+
+
+Note: I removed the "Reminders" parameter as it has a default value of false, which can be considered as not applicable.

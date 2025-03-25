@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+  "Oxygen Sensor Monitoring": {
+    "Parameters": {
+      "Sensor Type": {
+        "Options": ["finger", "nose", "forehead"]
+      },
+      "Patient Risk Factors": {
+        "Type": "options"
+      },
+      "Alarm Thresholds": {
+        "Type": "number"
+      },
+      "Alarm Settings": {
+        "Type": "options"
+      },
+      "Agency Policy": {
+        "Type": "text"
+      }
+    }
+  }
+}
+
+
+I removed the parameters that were not applicable (Device Settings) and formatted the remaining information according to your request.

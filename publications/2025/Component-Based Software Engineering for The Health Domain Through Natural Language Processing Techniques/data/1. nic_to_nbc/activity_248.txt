@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Water Immersion": {
+    "parameters": {
+      "Reason for Immersion": {"type": "text"},
+      "Water Temperature": {"type": "text"},
+      "Immersion Duration": {"type": "text"},
+      "Shivering Monitoring": {"type": "boolean"},
+      "Confirmation": {"type": "boolean"},
+      "Deadline Date": {"type": "datetime"},
+      "Notes": {"type": "text"}
+    }
+  }
+}

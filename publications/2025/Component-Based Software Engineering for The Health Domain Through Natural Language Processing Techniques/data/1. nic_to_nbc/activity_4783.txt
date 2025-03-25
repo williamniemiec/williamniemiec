@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+  "Behavioral Expectations": {
+    "Parameters": {
+      "Expectations": {
+        "Description": "A list of clear expectations for the patient's behavior.",
+        "Required": true,
+        "Type": "list",
+        "Items": [
+          {
+            "name": "Expectation",
+            "description": "Clear expectation for patient's behavior",
+            "required": true,
+            "type": "text"
+          }
+        ]
+      }
+    }
+  }
+}

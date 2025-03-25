@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "IV Site Care Guide": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Steps": {"Type": "ordered list of text or images"},
+      "Frequency": {"Options": ["daily", "every 12 hours", "every 8 hours", "..."]},
+      "Agency Protocol": {"Type": "text or PDF"}
+    }
+  }
+}
+
+
+Note: I removed the `Deadline Date` parameter as it was not applicable (its type is `datetime`, but there were no specific options listed).

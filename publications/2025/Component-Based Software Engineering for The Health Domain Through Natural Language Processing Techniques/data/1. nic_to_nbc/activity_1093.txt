@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Physical Therapy Consult": {
+        "Exercise Type": {"type": "text"},
+        "Movement Pattern": {"type": "text"},
+        "Optimal Position": {"type": "text"},
+        "Repetitions": {"type": "number"},
+        "Sets": {"type": "number"},
+        "Frequency": {"type": "text"}
+    }
+}

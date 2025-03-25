@@ -1,0 +1,14 @@
+
+
+
+{
+  "Welcoming Environment": {
+    "Parameters": {
+      "Empathetic Messaging": {"Type": "text or video"},
+      "Warmth and Acceptance Statement": {"Type": "text or audio"},
+      "Non-Judgmental Language": {"Type": "text or interactive scenario"},
+      "Emotional Support Resources": {"Type": "list or link to external resources"},
+      "Personalized Encouragement": {"Type": "text or audio"}
+    }
+  }
+}

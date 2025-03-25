@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+  "Weekly Weight Loss Goal": {
+    "parameters": {
+      "Current Weight": {"type": "number"},
+      "Desired Weight Loss": {"type": "number"},
+      "Realistic Goal": {"type": "options", "options": ["yes", "no"]},
+      "Recommended Goal": {"type": "calculated", "calculation": "1-2 pounds per week"},
+      "Goal Setting": {
+        "type": "goal-setting",
+        "properties": {
+          "Goal Type": {"type": "options", "options": ["weight loss"]},
+          "Target Value": {"type": "number"},
+          "Timeframe": {"type": "options", "options": ["1 week", "2 weeks", "3 weeks", "4 weeks"]}
+        }
+      },
+      "Frequency": {"type": "options", "options": ["daily", "weekly", "biweekly", "monthly"]},
+      "Deadline Date": {"type": "datetime"}
+    }
+  }
+}

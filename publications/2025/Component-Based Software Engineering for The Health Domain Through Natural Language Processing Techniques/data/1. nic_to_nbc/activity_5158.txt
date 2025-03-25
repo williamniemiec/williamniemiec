@@ -1,0 +1,46 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Strength Acknowledgement",
+    "parameters": [
+        { 
+            "name": "Sibling's Name", 
+            "description": "A parameter that specifies the name of the sibling being acknowledged.", 
+            "required": true, 
+            "type": "text"
+        },
+        { 
+            "name": "Personal Strengths", 
+            "description": "A parameter that specifies the personal strengths of the sibling (e.g., resilience, empathy, problem-solving).", 
+            "required": true, 
+            "type": "text",
+            "multiple": true
+        },
+        { 
+            "name": "Coping Abilities", 
+            "description": "A parameter that specifies the ways in which the sibling copes with stress successfully (e.g., exercise, meditation, talking to friends).", 
+            "required": true, 
+            "type": "text",
+            "multiple": true
+        },
+        { 
+            "name": "Frequency", 
+            "description": "A parameter that specifies how often the acknowledgement should be given.", 
+            "required": true, 
+            "type": "options",
+            "options": [
+                { value: "daily", label: "Daily" },
+                { value: "onlyOnce", label: "Only once" },
+                { value: "everyHours", label: "Every x hours" },
+                { value: "everyDays", label: "Every x days" },
+            ]
+        },
+        { 
+            "name": "Deadline Date", 
+            "description": "A parameter that specifies the due date for giving acknowledgement.", 
+            "required": false, 
+            "type": "datetime"
+        }
+    ]
+}

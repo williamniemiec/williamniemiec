@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Respiratory Health Education": {
+    "Content": "",
+    "Title": ""
+  },
+  "Respiratory Symptom Tracker": {
+    "Symptoms": "",
+    "Frequency": "",
+    "Deadline Date": ""
+  }
+}

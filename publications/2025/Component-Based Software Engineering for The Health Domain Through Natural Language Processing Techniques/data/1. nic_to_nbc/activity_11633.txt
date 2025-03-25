@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+    "Congratulations Message": {
+        "Message": {"Type": "text"},
+        "Image": {"Type": "image"}
+    },
+    "Outcome Tracking": {
+        "Outcome Metric": {"Type": "options"},
+        "Target Value": {"Type": "numeric"},
+        "Trigger": {"Type": "options"}
+    },
+    "Reward or Incentive": {
+        "Reward Type": {"Type": "options"},
+        "Reward Value": {"Type": "numeric"}
+    }
+}

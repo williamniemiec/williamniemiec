@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "Mental Device Repetition": {
+    "Parameters": {
+      "Mental Device": {
+        "Type": "text"
+      },
+      "Repetition Instructions": {
+        "Type": ["text", "multimedia content"]
+      },
+      "Breathing Instructions": {
+        "Type": ["text", "multimedia content"]
+      },
+      "Duration": {
+        "Type": "time interval"
+      },
+      "Frequency": {
+        "Type": "options"
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Alert": {
+    "Parameters": {
+      "Trigger": {},
+      "Message": {},
+      "Recipient": {},
+      "Urgency Level": {},
+      "Data": {}
+    }
+  }
+}

@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+"Caretaker Risk Assessment": {
+"Physical Health": {},
+"Mental Health": {},
+"Financial Problems": {},
+"Financial Dependency": {},
+"Understanding of Patient's Condition": {},
+"Attitude towards Patient": {},
+"Burnout": {},
+"Threats towards Patient": {}
+}
+}

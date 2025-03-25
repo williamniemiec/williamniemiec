@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Consultation": {
+    "Parameters": {
+      "Name": {},
+      "Description": {},
+      "Consultant Type": {},
+      "Consultation Reason": {},
+      "Trigger": {},
+      "Method": {}
+    }
+  }
+}

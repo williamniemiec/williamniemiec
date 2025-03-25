@@ -1,0 +1,44 @@
+Here is the output in JSON format:
+
+
+{
+    "Symptom Checker": {
+        "name": "Hypermagnesemia Symptom Checker",
+        "symptoms": [
+            "Muscle weakness",
+            "Inability to swallow",
+            "Hyporeflexia",
+            "Hypotension",
+            "Bradycardia",
+            "CNS depression",
+            "Respiratory depression",
+            "Lethargy",
+            "Coma",
+            "Depression"
+        ],
+        "answer type": ["boolean (yes/no)", "severity scale (e.g., 1-5)"],
+        "frequency": "",
+        "deadline_date": ""
+    },
+    "Vital Sign Tracker": {
+        "name": "Hypermagnesemia Vital Sign Tracker",
+        "vital signs": [
+            "Blood pressure",
+            "Heart rate",
+            "Respiratory rate"
+        ],
+        "frequency": "",
+        "deadline_date": ""
+    },
+    "Neurological Assessment": {
+        "name": "Neurological Assessment",
+        "assessment": [
+            "Level of consciousness",
+            "Orientation to time and place",
+            "Muscle strength and coordination",
+            "Reflexes"
+        ],
+        "frequency": "",
+        "deadline_date": ""
+    }
+}

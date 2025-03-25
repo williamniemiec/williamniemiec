@@ -1,0 +1,45 @@
+Here is the output in JSON format:
+
+
+{
+  "Follow-up Plan": {
+    "Parameters": {
+      "Title": {
+        "Type": "text"
+      },
+      "Follow-up Events": {
+        "Type": "list of follow-up events",
+        "Follow-up Event": {
+          "Date": {
+            "Type": "datetime"
+          },
+          "Type": {
+            "Type": "options",
+            "Options": ["phone call", "video conference", "in-person visit"]
+          },
+          "Content": {
+            "Type": "HTML text"
+          },
+          "Goals": {
+            "Type": "list of goals",
+            "Goal": {
+              "Description": "text",
+              "Target": "text"
+            }
+          }
+        }
+      },
+      "Frequency": {
+        "Type": "options",
+        "Options": ["weekly", "monthly", "quarterly"]
+      },
+      "Reminders": {
+        "Type": "list of reminders",
+        "Reminder": {
+          "Type": "email/sms",
+          "Content": "text"
+        }
+      }
+    }
+  }
+}

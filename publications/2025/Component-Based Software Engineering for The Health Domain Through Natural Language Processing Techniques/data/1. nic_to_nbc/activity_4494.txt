@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+    "Roadmap": {
+        "parameters": {
+            "name": "",
+            "stages": [],
+            "tasks": [],
+            "goals": [],
+            "resources": []
+        }
+    },
+    "Guide": {
+        "parameters": {
+            "name": "",
+            "pages": [],
+            "tasks": [],
+            "goals": [],
+            "resources": [],
+            "reflection": []
+        }
+    }
+}
+
+
+I removed all the unnecessary text and kept only the `{{ NO-CODE ELEMENT NAME }}` and `{{ PARAMETER ESPECIFICATIONS }}`. I also removed the not applicable parameters.

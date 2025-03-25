@@ -1,0 +1,32 @@
+Here is the output in JSON format:
+
+
+
+{
+  "Energy-Based Planning": {
+    "Parameters": {
+      "Energy Levels": {
+        "Description": "Track the patient's energy levels throughout the day",
+        "Required": true,
+        "Type": "slider or rating scale"
+      },
+      "Activity Scheduling": {
+        "Description": "Schedule activities based on the patient's energy levels",
+        "Required": true,
+        "Type": "schedule"
+      },
+      "Activity List": {
+        "Description": "List of activities to be scheduled",
+        "Required": true,
+        "Type": "unordered list"
+      },
+      "Energy Threshold": {
+        "Description": "Specify the minimum energy level required for each activity",
+        "Required": true,
+        "Type": "slider or rating scale"
+      }
+    }
+  }
+}
+
+Let me know if this is what you were expecting!

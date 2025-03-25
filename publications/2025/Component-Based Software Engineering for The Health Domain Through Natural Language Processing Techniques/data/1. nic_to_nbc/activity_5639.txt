@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Nutritional Status Assessment": {
+    "Dietary Intake": {"Type": "text", "Required": true},
+    "Macronutrient Breakdown": {"Type": "text", "Required": true},
+    "Non-Protein Caloric Source": {"Type": "number", "Required": true},
+    "Nutritional Goals": {"Type": "text", "Required": true},
+    "Collaboration Notes": {"Type": "text", "Required": false},
+    "Nutritional Status": {"Type": "calculated", "Required": true, "Calculation": "based on the values entered for dietary intake, macronutrient breakdown, and non-protein caloric source"}
+  }
+}

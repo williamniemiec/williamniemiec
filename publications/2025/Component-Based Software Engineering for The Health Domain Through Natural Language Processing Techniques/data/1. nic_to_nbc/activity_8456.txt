@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Lab Result Tracker": {
+    "parameters": {
+      "Lab Test": {},
+      "Result": {},
+      "Reference Range": {},
+      "Frequency": {
+        "options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+      },
+      "Notes": {}
+    }
+  }
+}

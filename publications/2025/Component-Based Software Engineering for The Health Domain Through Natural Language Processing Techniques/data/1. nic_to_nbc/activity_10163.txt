@@ -1,0 +1,53 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Condition Communication",
+    "parameters": [
+        {
+            "name": "Information Type",
+            "options": [
+                { value: "medical history", label: "Medical History" },
+                { value: "allergies", label: "Allergies" },
+                { value: "special needs", label: "Special Needs" },
+                { value: "medication regimen", label: "Medication Regimen" }
+            ]
+        },
+        {
+            "name": "Recipients",
+            "options": [
+                { value: "teachers", label: "Teachers" },
+                { value: "caregivers", label: "Caregivers" },
+                { value: "healthcare providers", label: "Healthcare Providers" },
+                { value: "family members", label: "Family Members" }
+            ]
+        },
+        {
+            "name": "Communication Method",
+            "options": [
+                { value: "verbal", label: "Verbal" },
+                { value: "written", label: "Written" },
+                { value: "electronic", label: "Electronic" },
+                { value: "phone call", label: "Phone Call" },
+                { value: "email", label: "Email" }
+            ]
+        },
+        {
+            "name": "Frequency",
+            "options": [
+                { value: "daily", label: "Daily" },
+                { value: "weekly", label: "Weekly" },
+                { value: "monthly", label: "Monthly" },
+                { value: "as needed", label: "As Needed" }
+            ]
+        },
+        {
+            "name": "Deadline Date",
+            "type": "datetime"
+        },
+        {
+            "name": "Support Needed",
+            "type": "text"
+        }
+    ]
+}

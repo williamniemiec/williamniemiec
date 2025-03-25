@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Urine Specimen Collection Guide": {
+    "Name": {"type": "text"},
+    "Steps": {"type": "ordered list of text or images"},
+    "Symptom Checker": {"type": "checklist of symptoms"},
+    "Specimen Collection Log": {"type": "table or form with columns for date, time, and notes"},
+    "Additional Resources": {"type": "text or link to external resource"}
+  }
+}

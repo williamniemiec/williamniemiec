@@ -1,0 +1,13 @@
+
+
+
+{
+  "Family Reflection": {
+    "Parameters": {
+      "Prompt": {"Type": "text"},
+      "Answer Type": {"Type": "options", "Options": ["text", "audio", "video"]},
+      "Frequency": {"Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Family Member": {"Type": "text"}
+    }
+  }
+}

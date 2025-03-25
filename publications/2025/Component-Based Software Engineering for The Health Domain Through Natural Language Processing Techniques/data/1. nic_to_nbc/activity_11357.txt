@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Sensory Aid Tracker": {
+    "Parameters": {
+      "Aid Type": {"Type": "options"},
+      "Usage Tracking": {"Type": "interactive calendar or log"},
+      "Reminders": {"Type": "internal feature or integration with existing platforms"},
+      "Tips and Resources": {"Type": "text or interactive tutorial"},
+      "Frequency": {"Type": "options"},
+      "Deadline Date": {"Type": "datetime"}
+    }
+  }
+}

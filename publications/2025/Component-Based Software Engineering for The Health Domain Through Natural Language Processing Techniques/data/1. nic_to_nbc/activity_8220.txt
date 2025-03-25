@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Fluid Intake and Output Tracking": {
+    "tracking_frequency": {"type": "options"},
+    "fluid_intake_unit": {"type": "text"},
+    "fluid_output_unit": {"type": "text"},
+    "notes": {"type": "text"},
+    "goal_range": {"type": "text"}
+  }
+}

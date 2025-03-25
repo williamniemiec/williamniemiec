@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "Messaging": {
+    "name": {"type": "text"},
+    "type": {"options": ["text", "video", "audio"]},
+    "frequency": {"options": ["daily", "weekly", "monthly"]}
+  },
+  "Virtual Visits": {
+    "name": {"type": "text"},
+    "type": {"options": ["video", "audio"]},
+    "frequency": {"options": ["daily", "weekly", "monthly"]}
+  },
+  "Emotional Support": {
+    "name": {"type": "text"},
+    "type": {"options": ["counseling", "support groups"]},
+    "frequency": {"options": ["daily", "weekly", "monthly"]}
+  },
+  "Education": {
+    "name": {"type": "text"},
+    "type": {"options": ["articles", "videos", "tutorials"]},
+    "frequency": {"options": ["daily", "weekly", "monthly"]}
+  }
+}

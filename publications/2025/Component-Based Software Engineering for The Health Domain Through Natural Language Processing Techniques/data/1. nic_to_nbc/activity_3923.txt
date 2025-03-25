@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Ice Chip and Oral Intake Management": {
+    "Gastric Tube Details": {"type": "text"},
+    "Ice Chip Consumption Tracking": {"type": "number"},
+    "Oral Intake Tracking": {"type": "number"},
+    "Intake Goals": {"type": "number"},
+    "Reminders": {"type": "boolean"},
+    "Intake Log": {"type": "text or table"}
+  }
+}

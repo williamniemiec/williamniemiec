@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Communication Skills Guide": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Description": {"Type": "text"},
+      "Effective Communication Strategies": {"Type": "list", "Items": ["list of effective communication strategies, with descriptions and examples"]},
+      "Goal Setting": {"Type": "boolean"},
+      "Reflection Exercises": {"Type": "list", "Items": ["list of reflection exercises, with space for patient response"]},
+      "Resources": {"Type": "list", "Items": ["list of resources, with descriptions and contact information"]}
+    }
+  }
+}
+
+
+Note: I removed the `Reminders` parameter as it was marked as not applicable (boolean type without any items). Let me know if you need to include it.

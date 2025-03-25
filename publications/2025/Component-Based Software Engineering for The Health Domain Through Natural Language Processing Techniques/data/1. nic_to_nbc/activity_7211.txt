@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Warm-up/Cool-down Activities": {
+    "Parameters": {
+      "Warm-up Activities": {},
+      "Cool-down Activities": {},
+      "Exercise Protocol": {},
+      "Frequency": {}
+    }
+  }
+}

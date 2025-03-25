@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Location Readiness": {
+    "parameters": [
+      {"Location Type": {}},
+      {"Location Details": {}},
+      {"Equipment and Supplies": {}},
+      {"Staff Availability": {}},
+      {"Readiness Status": {}}
+    ]
+  }
+}

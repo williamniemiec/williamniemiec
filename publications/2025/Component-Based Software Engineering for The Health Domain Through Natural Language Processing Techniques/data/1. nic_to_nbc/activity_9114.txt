@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Footdrop Prevention Guide": {
+    "Guide Title": {},
+    "Appliances": {},
+    "Instructions": {},
+    "Illustrations": {},
+    "Frequency": {},
+    "Deadline Date": {}
+  }
+}

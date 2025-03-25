@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "positioning_guide",
+    "parameters": [
+        { 
+            "name": "title", 
+            "description": "guide title", 
+            "required": true, 
+            "type": "text"
+        },
+        { 
+            "name": "image_url", 
+            "description": "url of the image illustrating the correct positioning of hips and arms", 
+            "required": true, 
+            "type": "url"
+        },
+        { 
+            "name": "description", 
+            "description": "step-by-step instructions on how to position infant's hips and arms", 
+            "required": true, 
+            "type": "text"
+        }
+    ]
+}

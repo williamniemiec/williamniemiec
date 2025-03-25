@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Order Verification Guide": {
+        "parameters": [
+            {"name": "Order Type"},
+            {"name": "Order Details"},
+            {"name": "Verification Steps"},
+            {"name": "Frequency"},
+            {"name": "Deadline Date"}
+        ]
+    }
+}

@@ -1,0 +1,11 @@
+
+
+
+{
+  "Comfortable Clothing": {
+    "Clothing Type": {"type": "text"},
+    "Comfort Level": {"type": "options", "values": ["relaxed", "comfortable", "pain-free"]},
+    "Instructions": {"type": "text"},
+    "Assistance": {"type": "boolean"}
+  }
+}

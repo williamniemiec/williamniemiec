@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Heart Rate and Rhythm Monitoring": {
+    "Frequency": {
+      "Options": ["every 15 minutes", "every 30 minutes", "every 1 hour"]
+    },
+    "Condition": {
+      "Options": ["with medication administration", "with changes in symptoms"]
+    },
+    "Heart Rate": {
+      "Type": "numeric",
+      "Units": "beats per minute"
+    },
+    "Heart Rhythm": {
+      "Type": "text or options",
+      "Options": ["normal", "atrial fibrillation", "ventricular tachycardia"]
+    }
+  }
+}

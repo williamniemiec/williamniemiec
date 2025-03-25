@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Discharge Instructions": {
+    "Instructions": {"description": "Written instructions for post-discharge care", "required": true, "type": ["pdf", "html"]},
+    "Reseek Care Criteria": {"description": "Explicit directions for reseeking medical care (e.g., symptoms, conditions)", "required": true, "type": "list of text"},
+    "Contact Info": {"description": "Contact information for reseeking medical care (e.g., phone number, email, website)", "required": true, "type": "text"}
+  }
+}
+
+
+Let me know if this is what you were expecting!

@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Class Finder": {
+    "Parameters": {
+      "Class Information": {"Type": ["text", "images", "videos"]},
+      "Class Finder Tool": {"Type": ["interactive search tool", "filter"]},
+      "Benefits of Classes": {"Type": ["text", "images", "videos"]},
+      "Testimonials": {"Type": ["text", "images", "videos"]},
+      "Reminders": {"Type": ["reminder schedule with customizable frequency and content"]},
+      "Registration": {"Type": ["interactive registration form"]}
+    }
+  }
+}

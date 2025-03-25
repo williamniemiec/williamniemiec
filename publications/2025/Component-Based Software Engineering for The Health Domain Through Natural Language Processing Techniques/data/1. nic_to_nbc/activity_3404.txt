@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Sensory Aid Reminder": {
+    "Aid Type": {"type": "options"},
+    "Reminder Message": {"type": "text"},
+    "Frequency": {"type": "options"},
+    "Deadline Date": {"type": "datetime"}
+  }
+}

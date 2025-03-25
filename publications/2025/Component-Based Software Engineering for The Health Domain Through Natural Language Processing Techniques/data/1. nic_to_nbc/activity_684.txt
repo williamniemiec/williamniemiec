@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Toothbrush Maintenance": {
+    "Parameters": {
+      "Rinse After Use": {"Type": "boolean"},
+      "Change Interval": {"Type": "options", "Options": ["weekly", "monthly", "etc."]},
+      "Next Change Date": {"Type": "datetime"},
+      "Frequency": {"Type": "options", "Options": ["daily", "weekly", "monthly"]},
+      "Reminder": {"Type": "boolean"}
+    }
+  }
+}
+
+
+Let me know if you need any further modifications!

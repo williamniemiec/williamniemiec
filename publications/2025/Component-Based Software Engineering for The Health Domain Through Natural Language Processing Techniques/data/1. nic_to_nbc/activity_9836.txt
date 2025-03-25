@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Product Evaluation": {
+    "parameters": [
+      {"name": "Product", "type": "text"},
+      {"name": "Efficacy Questions", "type": "list of questions"},
+      {"name": "Safety Questions", "type": "list of questions"},
+      {"name": "Rating Scale", "type": "rating scale"},
+      {"name": "Frequency", "type": "options"},
+    ]
+  }
+}

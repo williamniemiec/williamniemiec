@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Resuscitation Equipment Check": {
+    "Oxygen Source": {"type": "boolean"},
+    "Emergency Medications": {"type": "boolean"},
+    "Defibrillator": {"type": "boolean"},
+    "Equipment Inspection": {"type": "text"},
+    "Inspection Date and Time": {"type": "datetime"},
+    "Inspection Questions": {"type": "list of text or multiple-choice questions"},
+    "Inspection Answers": {"type": "list of text or multiple-choice answers"}
+  }
+}

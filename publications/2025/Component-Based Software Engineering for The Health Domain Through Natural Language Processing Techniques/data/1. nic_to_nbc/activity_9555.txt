@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+"Guide": {
+"name": "Thermoregulation and Excess Chilling",
+"pages": "list of HTML texts explaining the importance of thermoregulation and the possible negative effects of excess chilling"
+},
+"Question": {
+"name": "Thermoregulation and Excess Chilling",
+"answer type": "text or multiple choice",
+"content": "What do you know about thermoregulation and the risks of excess chilling?"
+}
+}

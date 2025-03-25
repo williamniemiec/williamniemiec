@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Concern Clarifier": {
+    "parameters": {
+      "Concern Statement": {"type": "text"},
+      "Fear Rating": {"type": "scale"},
+      "Coping Strategies": {"type": "options"},
+      "Strategy Selection": {"type": "options"},
+      "Reflection and Evaluation": {"type": "text"},
+      "Frequency": {"type": "options", "options": ["daily", "weekly", "monthly", "onlyOnce"]}
+    }
+  }
+}

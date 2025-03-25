@@ -1,0 +1,35 @@
+
+
+
+{
+  "parameters": {
+    "Item to store": {
+      "description": "Specify the item to be stored safely",
+      "required": true,
+      "type": "text"
+    },
+    "Storage Location": {
+      "description": "Choose a safe location to store the item",
+      "required": true,
+      "type": "options",
+      "options": [
+        { "value": "safe", "label": "Safe" },
+        { "value": "lockedCabinet", "label": "Locked Cabinet" },
+        { "value": "secureRoom", "label": "Secure Room" },
+        { "value": "other", "label": "Other (please specify)" }
+      ]
+    },
+    "Frequency": {
+      "description": "Choose how often to check on the stored item",
+      "required": true,
+      "type": "options",
+      "options": [
+        { "value": "daily", "label": "Daily" },
+        { "value": "weekly", "label": "Weekly" },
+        { "value": "monthly", "label": "Monthly" },
+        { "value": "other", "label": "Other (please specify)" }
+      ]
+    }
+  },
+  "noCodeElementName": "Safe Storage"
+}

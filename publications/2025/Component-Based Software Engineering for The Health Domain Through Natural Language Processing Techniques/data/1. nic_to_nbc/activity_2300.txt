@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "IV Administration": {
+    "parameters": {
+      "IV Solution": {},
+      "Flow Rate": {},
+      "Administration Instructions": {},
+      "Duration": {}
+    }
+  }
+}

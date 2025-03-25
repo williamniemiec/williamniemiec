@@ -1,0 +1,22 @@
+
+
+
+{
+    "Medication Administration": {
+        "Parameters": {
+            "Medication name": "Promethazine",
+            "Dilution instructions": "Administer in a 25cc to 50cc saline solution",
+            "Rate of administration": "At a slow rate",
+            "Minimum dilution volume": "Avoid giving in less than 10cc saline dilution"
+        }
+    },
+    "Task": {
+        "Parameters": {
+            "Medication name": "Promethazine",
+            "Dilution instructions": "Administer in a 25cc to 50cc saline solution",
+            "Rate of administration": "At a slow rate",
+            "Minimum dilution volume": "Avoid giving in less than 10cc saline dilution",
+            "Reminder": "A parameter that allows the patient to set a reminder"
+        }
+    }
+}

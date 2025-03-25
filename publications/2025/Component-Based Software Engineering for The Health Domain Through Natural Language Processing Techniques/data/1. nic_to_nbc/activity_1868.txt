@@ -1,0 +1,32 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Effective Communication",
+  "parameters": [
+    {
+      "name": "Introduction"
+    },
+    {
+      "name": "Verbal Communication"
+    },
+    {
+      "name": "Nonverbal Communication"
+    },
+    {
+      "name": "Written Communication"
+    },
+    {
+      "name": "Cultural Competence"
+    },
+    {
+      "name": "Technology-Based Communication"
+    },
+    {
+      "name": "Barriers to Communication"
+    },
+    {
+      "name": "Overcoming Barriers"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Solution Administration": {
+    "Squeeze Confirmation": {"Description": "Confirm that you have squeezed the bottle until all solution has entered your rectum and colon", "Required": true, "Type": "boolean"},
+    "Solution Flow": {"Description": "Monitor the flow of solution into your rectum and colon", "Required": true, "Type": "instruction"},
+    "Completion Confirmation": {"Description": "Confirm that all solution has entered your rectum and colon", "Required": true, "Type": "boolean"}
+  }
+}
+
+
+Let me know if you need any further assistance!

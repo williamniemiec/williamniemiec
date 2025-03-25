@@ -1,0 +1,37 @@
+Here is the output in JSON format:
+
+
+{
+  "Program Overview": {
+    "parameters": {
+      "Program type": "options (e.g., short-term inpatient residential therapy, detoxification program, or residential therapeutic community treatment)",
+      "Program description": "text",
+      "Program goals": "text",
+      "Program objectives": "text"
+    }
+  },
+  "Program Schedule": {
+    "parameters": {
+      "Schedule": "text or table",
+      "Activity or event": "text",
+      "Date and time": "datetime"
+    }
+  },
+  "Program Staff": {
+    "parameters": {
+      "Staff member": "text",
+      "Role": "text",
+      "Contact information": "text"
+    }
+  },
+  "Program Progress Tracking": {
+    "parameters": {
+      "Progress tracking": "options (e.g., percentage, checklist)",
+      "Milestones": "text",
+      "Achievements": "text"
+    }
+  }
+}
+
+
+I removed the introduction and conclusion sections, as well as the not applicable parameters. Let me know if you need further assistance!

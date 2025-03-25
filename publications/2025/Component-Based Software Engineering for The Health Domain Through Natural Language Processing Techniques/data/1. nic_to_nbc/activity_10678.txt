@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Fetal Movement Counts": {
+    "Instructions": {},
+    "Counting Methods": {},
+    "Frequency": {},
+    "Recording": {},
+    "Resources": {}
+  }
+}

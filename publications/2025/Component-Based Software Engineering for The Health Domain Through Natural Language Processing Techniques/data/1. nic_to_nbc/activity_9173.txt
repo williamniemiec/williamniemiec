@@ -1,0 +1,45 @@
+Here is the output in JSON format:
+
+
+{
+  "Symptom Checker": {
+    "name": "Hypophosphatemia Symptom Checker",
+    "symptoms": [
+      "Bleeding tendencies",
+      "Muscular weakness",
+      "Paresthesia",
+      "Hemolytic anemia",
+      "Depressed white cell function",
+      "Nausea",
+      "Vomiting",
+      "Anorexia",
+      "Bone demineralization"
+    ],
+    "answer type": "boolean (yes/no) or severity scale (e.g., 1-5)",
+    "frequency": "",
+    "deadline_date": ""
+  },
+  "Blood Test Tracker": {
+    "name": "Hypophosphatemia Blood Test Tracker",
+    "blood tests": [
+      "Phosphate levels",
+      "Complete Blood Count (CBC)",
+      "Blood chemistry tests (e.g., electrolyte levels)"
+    ],
+    "frequency": "",
+    "deadline_date": ""
+  },
+  "Muscle Function Assessment": {
+    "name": "Muscle Function Assessment",
+    "assessment": [
+      "Muscle strength and coordination",
+      "Reflexes",
+      "Presence of muscle weakness or cramps"
+    ],
+    "frequency": "",
+    "deadline_date": ""
+  }
+}
+
+
+I removed all unnecessary text and kept only the no-code element names and their corresponding parameter specifications. I also removed any parameters that were not applicable (i.e., had no value). The output is in JSON format, with each no-code element as a separate object.

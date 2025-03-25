@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Free Health Clinic Information": {
+    "Clinic List": {},
+    "Services Offered": {},
+    "Eligibility Criteria": {},
+    "Contact Information": {},
+    "Hours of Operation": {}
+  }
+}

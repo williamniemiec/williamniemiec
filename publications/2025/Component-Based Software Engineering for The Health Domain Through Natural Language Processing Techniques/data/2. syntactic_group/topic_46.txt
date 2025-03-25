@@ -1,0 +1,10 @@
+{
+  "name": "Hygiene and Cleaning Management",
+  "description": "Manages hygiene practices, including hand washing, bathing, foot cleaning, and proper drying techniques, with an emphasis on using soap and other cleaning tools like sponges.",
+  "type": "periodic",
+  "input": ["Hygiene tasks", "Soap usage", "Sponge or cloth", "Washing and drying techniques"],
+  "output": ["Hygiene completion report", "Cleaning status", "Skin condition assessment"],
+  "preconditions": ["User is performing hygiene tasks such as washing, bathing, or cleaning"],
+  "postconditions": ["Hygiene tasks are completed, and cleanliness is maintained"],
+  "dependencies": ["Hygiene tracking system", "Soap and cleaning product availability", "Drying tools or methods"]
+}

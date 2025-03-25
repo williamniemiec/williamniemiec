@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Infusion Management": {
+    "parameters": [
+      {"name": "name", "type": "text"},
+      {"name": "infusion_type", "type": "options"},
+      {"name": "medication", "type": "text"},
+      {"name": "dosage", "type": "text"},
+      {"name": "rate", "type": "text"},
+      {"name": "duration", "type": "text"},
+      {"name": "monitoring", "type": "boolean"}
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Journal",
+  "parameters": [
+    {
+      "name": "title",
+      "type": "text"
+    },
+    {
+      "name": "slip_description",
+      "type": "text"
+    },
+    {
+      "name": "cause",
+      "type": "text"
+    },
+    {
+      "name": "lesson_learned",
+      "type": "text"
+    },
+    {
+      "name": "frequency",
+      "type": "options",
+      "options": [
+        { value: "daily" },
+        { value: "weekly" },
+        { value: "monthly" }
+      ]
+    }
+  ]
+}

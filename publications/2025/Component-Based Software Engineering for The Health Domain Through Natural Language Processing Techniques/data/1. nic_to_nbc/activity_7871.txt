@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Emotional Expression Journal": {
+    "Entry Type": {"type": "options", "values": ["text", "audio", "video"]},
+    "Emotion Selection": {"type": "list of options", "values": ["loneliness", "powerlessness", "sadness", "fear"]},
+    "Expression Prompt": {"type": "text"},
+    "Frequency": {"type": "options", "values": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Reflection": {"type": "text"}
+  }
+}
+
+
+Let me know if this meets your requirements!

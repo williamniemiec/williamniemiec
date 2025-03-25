@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+    "Medicated Powder Application": {
+        "Parameters": {
+            "Name": {"Type": "text"},
+            "Content": {"Type": ["text", "image", "video"]},
+            "Frequency": {"Type": "text"},
+            "Powder Type": {"Type": "text"},
+            "Application Technique": {"Type": "text"}
+        }
+    }
+}
+
+
+Let me know if this meets your requirements!

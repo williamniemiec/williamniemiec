@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+    "Resin Administration": {
+        "Parameters": {
+            "Resin Type": {"Type": "options"},
+            "Dosage": {"Type": "number"},
+            "Frequency": {"Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+            "Duration": {"Type": "duration"},
+            "Notes": {"Type": "text"}
+        }
+    },
+    "Resin Administration Control": {
+        "Parameters": {
+            "Resin Name": {"Type": "text"},
+            "Dosage": {"Type": "number"},
+            "Frequency": {"Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+            "Duration": {"Type": "duration"},
+            "Notes": {"Type": "text"}
+        }
+    }
+}

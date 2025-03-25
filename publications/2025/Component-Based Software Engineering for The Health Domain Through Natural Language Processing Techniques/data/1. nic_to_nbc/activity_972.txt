@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+    "Suicidal Risk Assessment": {
+        "assessment frequency": "",
+        "assessment method": ""
+    },
+    "Risk Level Determination": {
+        "risk level": "",
+        "risk factors": ""
+    },
+    "Suicide Precautions Adjustment": {
+        "precautions adjustment": "",
+        "justification": ""
+    },
+    "Patient Monitoring": {
+        "monitoring frequency": "",
+        "monitoring method": ""
+    },
+    "Care Team Notification": {
+        "notification method": "",
+        "notification content": ""
+    }
+}

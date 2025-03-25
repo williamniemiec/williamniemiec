@@ -1,0 +1,41 @@
+Here is the output in JSON format:
+
+
+{
+  "Parameters": {
+    "New Person": {
+      "Description": "Information about the new person, including name, role, and contact details",
+      "Required": true,
+      "Type": "object",
+      "Object": {
+        "name": "text",
+        "role": "text",
+        "phone": "phone number",
+        "email": "email address"
+      }
+    },
+    "Staff Members": {
+      "Description": "List of staff members to be introduced to the new person",
+      "Required": true,
+      "Type": "unordered list",
+      "Unordered list": "list of objects",
+      "Object": {
+        "name": "text",
+        "role": "text",
+        "phone": "phone number",
+        "email": "email address"
+      }
+    },
+    "Introduction Method": {
+      "Description": "Method of introduction (e.g. in-person, video conference, etc.)",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "inPerson", "label": "In-Person" },
+        { "value": "videoConference", "label": "Video Conference" },
+        { "value": "phoneCall", "label": "Phone Call" }
+      ]
+    }
+  },
+  "Name": "Staff Introduction"
+}

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Supportive Touch": {
+    "Touch Area": {"Type": "options"},
+    "Touch Type": {"Type": "options"},
+    "Frequency": {"Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Duration": {"Type": "time interval"}
+  }
+}
+
+
+Note that I removed the "Guided Audio" parameter since it was marked as optional and did not have a specific value specified.

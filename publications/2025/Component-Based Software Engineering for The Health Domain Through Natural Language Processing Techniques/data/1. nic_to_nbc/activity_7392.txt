@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Sensation Tracker": {
+    "Parameters": {
+      "Sensation Type": {},
+      "Sensation Location": {},
+      "Sensation Description": {},
+      "Frequency": {},
+      "Deadline Date": {}
+    }
+  },
+  "Questionnaire": {
+    "Parameters": {
+      "Questions": {},
+      "Frequency": {},
+      "Deadline Date": {}
+    }
+  }
+}

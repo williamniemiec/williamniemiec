@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Breast Examination Positioning Guide": {
+    "parameters": {
+      "Positioning Instructions": {"type": ["text", "multimedia"]},
+      "Pillow/Towel Placement Guidance": {"type": ["text", "multimedia"]},
+      "Arm Abduction Guidance": {"type": ["text", "multimedia"]},
+      "Hand Placement Guidance": {"type": ["text", "multimedia"]},
+      "Image Capture": {"type": ["camera", "image upload"]},
+      "Frequency": {"options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"type": "datetime"}
+    }
+  }
+}

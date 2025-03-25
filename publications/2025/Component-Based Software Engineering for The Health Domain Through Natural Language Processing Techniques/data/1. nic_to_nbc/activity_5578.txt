@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+{
+    "name": "Donor Site Dressing",
+    "parameters": [
+        { 
+            "name": "Dressing Type", 
+            "type": "options"
+        },
+        { 
+            "name": "Agency Protocol", 
+            "type": "text"
+        },
+        { 
+            "name": "Postoperative Care", 
+            "type": "text"
+        },
+        { 
+            "name": "Dressing Change Frequency", 
+            "type": "options"
+        }
+    ]
+}

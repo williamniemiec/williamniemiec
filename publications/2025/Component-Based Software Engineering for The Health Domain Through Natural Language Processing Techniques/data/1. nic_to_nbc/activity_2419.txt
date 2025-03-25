@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Guide": {
+    "parameters": [
+      {"name": "pages", "description": "List of pages", "required": true, "type": "book-page"},
+      {"name": "infectionPreventionTips", "description": "List of tips to prevent infections", "required": true, "type": "list"}
+    ]
+  },
+  "Checklist": {
+    "parameters": [
+      {"name": "tasks", "description": "List of tasks", "required": true, "type": "list"}
+    ]
+  }
+}

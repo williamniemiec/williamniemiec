@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+    "Staff Assignment Tracker": {
+        "Name": {"type": "text"},
+        "Staff List": {"type": "table or list"},
+        "Assignment History": {"type": "table or list"},
+        "Consistency Metric": {"type": "numeric or rating scale"},
+        "Alerts and Notifications": {"type": "boolean"}
+    },
+    "Schedule": {
+        "Name": {"type": "text"},
+        "Staff Assignments": {"type": "table or calendar"},
+        "Consistency Indicator": {"type": "icon or indicator"},
+        "Alerts and Notifications": {"type": "boolean"}
+    }
+}
+
+
+I removed all the unnecessary text and kept only the `{{ NO-CODE ELEMENT NAME }}` and `{{ PARAMETER ESPECIFICATIONS }}`. I also removed the "Not Applicable" parameters.

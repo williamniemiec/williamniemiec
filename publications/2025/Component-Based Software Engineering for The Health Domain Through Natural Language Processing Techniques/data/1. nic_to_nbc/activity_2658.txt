@@ -1,0 +1,35 @@
+Here is the output in JSON format:
+
+
+{
+  "Self-Palpation Guide": {
+    "parameters": {
+      "name": "",
+      "content": "",
+      "description": "",
+      "steps": [
+        {
+          "label": "",
+          "description": "",
+          "image or video": ""
+        }
+      ],
+      "frequency": "",
+      "deadline_date": ""
+    }
+  },
+  "Guide": {
+    "parameters": {
+      "name": "",
+      "pages": []
+    }
+  },
+  "Task": {
+    "parameters": {
+      "name": "",
+      "content": "",
+      "frequency": "",
+      "deadline_date": ""
+    }
+  }
+}

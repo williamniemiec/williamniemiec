@@ -1,0 +1,10 @@
+{
+  "name": "Perineal Pad Application and Cleansing",
+  "description": "Involves the application and removal of perineal pads, as well as the cleansing and care of the perineal area. Includes guidelines for proper cleansing and the use of appropriate care products.",
+  "type": "non-periodic",
+  "input": ["Perineal", "Pad", "Cleansing", "Removal", "Apply", "Care"],
+  "output": ["Perineal care report", "Cleansing feedback", "Pad application confirmation"],
+  "preconditions": ["User requires assistance with perineal care"],
+  "postconditions": ["Perineal care is properly administered"],
+  "dependencies": ["Perineal care guidelines", "Cleansing products"]
+}

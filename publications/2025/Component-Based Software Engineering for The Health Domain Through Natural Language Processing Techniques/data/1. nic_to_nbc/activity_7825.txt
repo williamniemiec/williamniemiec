@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Clothing Modification Guide": {
+    "Body Part": {"Type": "text"},
+    "Clothing Type": {"Type": "options", "Options": ["shirts", "pants", "dresses", "others"]},
+    "Modification Needs": {"Type": "checkbox list"},
+    "Adaptive Clothing Options": {"Type": "options", "Options": ["adaptive shirts", "adaptive pants", "prosthetic-friendly clothing", "others"]},
+    "Modification Ideas": {"Type": "text"},
+    "Resource Links": {"Type": "links"}
+  }
+}
+
+
+Note that I removed the `Goal Setting` parameter as it was not applicable. Let me know if you need any further assistance!

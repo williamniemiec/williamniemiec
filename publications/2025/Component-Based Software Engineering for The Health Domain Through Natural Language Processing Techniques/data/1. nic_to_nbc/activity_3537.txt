@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Cushing Triad Monitoring": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Description": {"Type": "text"},
+      "Frequency": {"Type": "options", "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Blood Pressure Measurement": {"Type": "numeric", "Units": "mmHg"},
+      "Pulse Measurement": {"Type": "numeric", "Units": "beats per minute"},
+      "Bradycardia Indicator": {"Type": "boolean"},
+      "Notes": {"Type": "text"}
+    }
+  }
+}

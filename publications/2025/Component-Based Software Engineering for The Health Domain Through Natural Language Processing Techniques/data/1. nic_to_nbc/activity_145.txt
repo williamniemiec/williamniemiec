@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Healthcare System Navigator": {
+        "parameters": {
+            "Healthcare System Overview": {"type": "multimedia content (e.g., videos, tutorials, guides) or links to external resources"},
+            "Provider Directory": {"type": "searchable database or integration with existing provider directories"},
+            "Service Information": {"type": "searchable database or integration with existing service information systems"},
+            "Insurance and Billing Information": {"type": "searchable database or integration with existing insurance and billing systems"},
+            "Patient Rights and Responsibilities": {"type": "multimedia content (e.g., videos, tutorials, guides) or links to external resources"}
+        }
+    }
+}

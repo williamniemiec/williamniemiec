@@ -1,0 +1,35 @@
+Here is the output in JSON format:
+
+
+{
+    "Demonstration": {
+        "Parameters": {
+            "Skill": {"Type": "text"},
+            "Video": {"Type": "video"},
+            "Description": {"Type": "text"},
+            "Step-by-Step Instructions": {"Type": "text"},
+            "Frequency": {"Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+            "Deadline Date": {"Type": "datetime"}
+        }
+    },
+    "Return Demonstration": {
+        "Parameters": {
+            "Skill": {"Type": "text"},
+            "Video": {"Type": "video"},
+            "Description": {"Type": "text"},
+            "Feedback": {"Type": "text"},
+            "Frequency": {"Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+            "Deadline Date": {"Type": "datetime"}
+        }
+    },
+    "Interactive Simulation": {
+        "Parameters": {
+            "Skill": {"Type": "text"},
+            "Simulation": {"Type": "interactive simulation"},
+            "Description": {"Type": "text"},
+            "Feedback": {"Type": "text"},
+            "Frequency": {"Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+            "Deadline Date": {"Type": "datetime"}
+        }
+    }
+}

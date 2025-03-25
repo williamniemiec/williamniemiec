@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+    "Behavior Identification": {
+        "Parameters": {
+            "Name": {"Type": "text"},
+            "Behaviors": {"Type": "list of options"},
+            "Description": {"Type": "text"},
+            "Communication": {"Type": "list of options"},
+            "Condition": {"Type": "conditional statement"},
+            "Frequency": {"Type": "text"}
+        }
+    }
+}

@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Awareness Tracker": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Medication Types": {"Type": "options"},
+      "Instructions": {"Type": "text"},
+      "Frequency": {"Type": "options"},
+      "Deadline Date": {"Type": "datetime"},
+      "Input Fields": {"Type": "form"}
+    }
+  },
+  "Symptom Tracker": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Symptoms": {"Type": "options"},
+      "Frequency": {"Type": "options"},
+      "Deadline Date": {"Type": "datetime"},
+      "Input Fields": {"Type": "form"}
+    }
+  }
+}

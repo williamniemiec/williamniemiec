@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+  "Nonverbal Communication Guide": {
+    "Name": {"type": "text"},
+    "Scenarios": {"type": "list of video or interactive simulation"},
+    "Tips": {"type": "list of text"},
+    "Self-Assessment": {"type": "quiz or survey"}
+  },
+  "Role-Play": {
+    "Name": {"type": "text"},
+    "Scenario": {"type": "text"},
+    "Nonverbal Cues": {"type": "list of text"},
+    "Feedback": {"type": "text or video"}
+  }
+}
+
+
+Let me know if this is what you were expecting!

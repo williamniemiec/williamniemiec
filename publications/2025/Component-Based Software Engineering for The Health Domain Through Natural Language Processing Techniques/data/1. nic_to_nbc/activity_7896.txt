@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Oral Rinse Selection": {
+    "Mucositis/Altered Oral Mucosa": {"type": "boolean"},
+    "Rinse Selection": {"type": "text"},
+    "Rinse Type": {"type": "options", "options": ["water", "debriding agent"]},
+    "Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"type": "datetime"},
+    "Confirmation": {"type": "boolean"}
+  }
+}

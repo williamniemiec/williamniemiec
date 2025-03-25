@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Needle Withdrawal": {
+    "Withdrawal Instructions": {"type": "text"},
+    "Image": {"type": "image"},
+    "Video": {"type": "video"},
+    "Frequency": {"type": "options"},
+    "Deadline Date": {"type": "datetime"}
+  }
+}

@@ -1,0 +1,16 @@
+
+
+
+{
+    "Conversation Starter": {
+        "Previous Summary": {"Type": "text"},
+        "Review Summary": {"Type": "boolean"},
+        "Update Summary": {"Type": "text"},
+        "New Discussion Topic": {"Type": "text"},
+        "Related to Previous": {"Type": "boolean"},
+        "Notes": {"Type": "text"}
+    }
+}
+
+
+Let me know if this is what you were expecting!

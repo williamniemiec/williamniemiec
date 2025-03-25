@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Food Diary": {
+    "Parameters": {
+      "Food Entry": {"Type": "text or selection from a list of common foods"},
+      "Meal Type": {"Type": "options (e.g., breakfast, lunch, dinner, snack)"},
+      "Date and Time": {"Type": "datetime"},
+      "Diet Compliance": {"Type": "boolean (yes/no) or options (e.g., compliant, non-compliant, unsure)"},
+      "Notes": {"Type": "text"}
+    }
+  }
+}
+
+
+Let me know if this meets your requirements!

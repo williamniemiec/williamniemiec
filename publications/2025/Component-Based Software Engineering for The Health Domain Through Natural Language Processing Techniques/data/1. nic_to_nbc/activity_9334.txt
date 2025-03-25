@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Analgesic Selection": {
+    "Prescribed Analgesics": {"type": "list"},
+    "Analgesic Options": {"type": "list"},
+    "Combination Options": {"type": "list"},
+    "Selection Criteria": {"type": "text"},
+    "Recommended Analgesic": {"type": "text"}
+  }
+}

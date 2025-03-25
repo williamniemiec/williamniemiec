@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Rib Spring Technique": {
+    "Parameters": {
+      "Technique Instructions": {"Type": "text"},
+      "Cough Phase": {"Type": "options", "Options": ["expiration phase"]},
+      "Frequency": {"Type": "options", "Options": ["daily", "weekly", "as prescribed"]},
+      "Reminders": {"Type": "boolean"},
+      "Tracking": {"Type": "boolean"},
+      "Video Demonstration": {"Type": "video"}
+    }
+  }
+}

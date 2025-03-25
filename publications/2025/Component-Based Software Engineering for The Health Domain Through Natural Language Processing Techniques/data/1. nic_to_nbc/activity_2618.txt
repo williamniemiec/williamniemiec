@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "Continence Specification Record": {
+    "Record Template": {
+      "Type": "template with fields"
+    },
+    "Recording Period": {
+      "Type": "duration"
+    },
+    "Entry Frequency": {
+      "Type": "options"
+    },
+    "Reminders": {
+      "Type": "boolean"
+    },
+    "Data Analysis": {
+      "Type": "boolean"
+    },
+    "Data Visualization": {
+      "Type": "options"
+    }
+  }
+}

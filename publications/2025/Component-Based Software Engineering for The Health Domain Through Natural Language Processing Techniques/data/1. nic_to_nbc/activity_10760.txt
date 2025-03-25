@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Bed Elevation (Foot)": {
+    "Elevation Height": {"type": "options", "options": ["6 inches", "12 inches", "other"]},
+    "Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"type": "datetime"},
+    "Reminder": {"type": "text"}
+  }
+}

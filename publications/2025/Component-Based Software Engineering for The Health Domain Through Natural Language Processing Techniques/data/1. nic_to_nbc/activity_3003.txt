@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Ethical Decision Making": {
+    "parameters": [
+      {"name": "name"},
+      {"name": "options"},
+      {"name": "ethical principles"},
+      {"name": "ethical analysis"},
+      {"name": "decision criteria"},
+      {"name": "chosen option"},
+      {"name": "rationale"}
+    ]
+  }
+}
+
+
+I removed the `deadline_date` parameter since it was marked as not required. Let me know if this meets your requirements!

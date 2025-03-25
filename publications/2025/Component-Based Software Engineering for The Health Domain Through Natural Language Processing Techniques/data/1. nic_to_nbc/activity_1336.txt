@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Anesthesia Discussion": {
+    "Parameters": {
+      "Anesthesia Type": {"Type": "options", "Options": ["general anesthesia", "regional anesthesia", "local anesthesia", "sedation", "etc."]},
+      "Surgical Team Members": {"Type": "list of text"},
+      "Discussion Notes": {"Type": "text"},
+      "Patient Education": {"Type": "text"},
+      "Consent": {"Type": "boolean"}
+    }
+  }
+}

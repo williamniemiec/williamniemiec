@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Suicide Risk Assessment": {
+    "Assessment Questions": {},
+    "Risk Level": {},
+    "Risk Factors": {},
+    "Intervention Plan": {}
+  }
+}

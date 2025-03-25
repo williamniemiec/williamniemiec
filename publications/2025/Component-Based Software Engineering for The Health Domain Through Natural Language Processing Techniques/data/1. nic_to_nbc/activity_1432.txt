@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Ulcer Cleansing": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Instructions": {"Type": "text"},
+      "Solution Type": {"Type": "options", "Options": ["saline", "sterile water", "antimicrobial solution", "other"]},
+      "Frequency": {"Type": "options", "Options": ["daily", "everyHours", "everyDays", "onlyOnce"]},
+      "Deadline Date": {"Type": "datetime"},
+      "Cleansing Technique": {"Type": "text"},
+      "Additional Tips": {"Type": "text"}
+    }
+  }
+}

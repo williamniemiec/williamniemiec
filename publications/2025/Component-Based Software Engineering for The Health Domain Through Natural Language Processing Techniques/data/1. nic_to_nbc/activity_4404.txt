@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+  "Incisional Care": {
+    "parameters": [
+      {"name": "insertion_site", "description": "Where is your pacemaker insertion site?", "required": true, "type": "options", "options": [{"value": "chest", "label": "Chest"}, {"value": "abdomen", "label": "Abdomen"}, {"value": "other", "label": "Other (please specify)"}]},
+      {"name": "dressing_type", "description": "What type of dressing do you need to change?", "required": true, "type": "options", "options": [{"value": "antimicrobial", "label": "Antimicrobial dressing"}, {"value": "sterile_occlusive", "label": "Sterile occlusive dressing"}, {"value": "other", "label": "Other (please specify)"}]},
+      {"name": "dressing_change_frequency", "description": "How often do you need to change your dressing?", "required": true, "type": "options", "options": [{"value": "daily", "label": "Daily"}, {"value": "everyOtherDay", "label": "Every other day"}, {"value": "weekly", "label": "Weekly"}]}
+    ]
+  },
+  "Dressing Change Instructions": {
+    "parameters": [
+      {"name": "step1", "description": "Step 1: Wash your hands", "required": true, "type": "text"},
+      {"name": "step2", "description": "Step 2: Remove the old dressing", "required": true, "type": "text"},
+      {"name": "step3", "description": "Step 3: Clean the insertion site", "required": true, "type": "text"},
+      {"name": "step4", "description": "Step 4: Apply the new dressing", "required": true, "type": "text"}
+    ]
+  },
+  "Facility Protocol": {
+    "parameters": [
+      {"name": "facility_name", "description": "What is the name of your facility?", "required": true, "type": "text"},
+      {"name": "protocol_document", "description": "Facility protocol document", "required": true, "type": "pdf"}
+    ]
+  }
+}

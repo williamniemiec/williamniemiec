@@ -1,0 +1,43 @@
+Here is the output in JSON format:
+
+
+{
+  "Lab Test Tracker": {
+    "lab_tests": {
+      "Description": "List of laboratory tests to track",
+      "Required": true,
+      "Type": "unordered list",
+      "Items": [
+        "Blood Urea Nitrogen (BUN)",
+        "Serum Creatinine",
+        "Serum Sodium (Na)",
+        "Serum Potassium (K)",
+        "Serum Phosphate (PO4)",
+        "Other tests ( specify )"
+      ]
+    },
+    "results": {
+      "Description": "Results of laboratory tests",
+      "Required": true,
+      "Type": "table",
+      "Columns": [
+        "Test Name",
+        "Result",
+        "Reference Range",
+        "Date"
+      ]
+    },
+    "frequency": {
+      "Description": "How often to draw laboratory samples",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        "Daily",
+        "Weekly",
+        "Bi-Weekly",
+        "Monthly",
+        "Other ( specify )"
+      ]
+    }
+  }
+}

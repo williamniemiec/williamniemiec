@@ -1,0 +1,10 @@
+Here is the output in JSON format:
+
+
+{
+  "Moisturizing Task": {
+    "task title": {"Description": "title of the task", "Required": true, "Type": "text"},
+    "Content": {"Description": "text describing how to moisturize dry, unbroken skin", "Required": true, "Type": "text"},
+    "Frequency": {"Description": "specify how often the patient should moisturize", "Required": true, "Type": "options", "Options": [{"value": "daily", "label": "Daily"}, {"value": "everyHours", "label": "Every x hours"}, {"value": "everyDays", "label": "Every x days"}, {"value": "asNeeded", "label": "As needed"}]}
+  }
+}

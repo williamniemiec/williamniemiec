@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Resource Directory": {
+    "parameters": {
+      "Resource List": {
+        "type": "list of resources with descriptions and contact information"
+      },
+      "Filter Options": {
+        "type": "list of filter options"
+      }
+    }
+  }
+}

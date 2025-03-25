@@ -1,0 +1,19 @@
+
+
+
+{
+  "Noise Reduction": {
+    "noise_sources": {
+      "type": "list",
+      "description": "A list of noise sources, e.g., \"paging systems\", \"call lights that ring or buzz\", etc."
+    },
+    "alternative_methods": {
+      "type": "list",
+      "description": "A list of alternative methods, e.g., \"use vibrating pagers\", \"use visual call lights\", \"use silent notifications\", etc."
+    },
+    "environmental_adjustments": {
+      "type": "list",
+      "description": "A list of environmental adjustments, e.g., \"close doors to reduce hallway noise\", \"use white noise machines\", \"add sound-absorbing materials\", etc."
+    }
+  }
+}

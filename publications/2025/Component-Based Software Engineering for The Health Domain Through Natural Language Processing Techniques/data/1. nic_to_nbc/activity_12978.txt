@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "No-code element name": "Instruction",
+  "Parameters": {
+    "title of the instruction": {"Type": "text", "Required": true},
+    "Steps": {"Type": "ordered list", "Required": true, "Example": ["Move your feet first", "Then, turn your body"]},
+    "Frequency": {"Type": "options", "Required": true, "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]}
+  }
+}
+
+
+I removed the "Description" parameter as it was not applicable (Required: false).

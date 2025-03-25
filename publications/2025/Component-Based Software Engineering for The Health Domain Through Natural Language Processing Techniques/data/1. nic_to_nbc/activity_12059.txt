@@ -1,0 +1,9 @@
+Here is the output in JSON format:
+
+
+{
+  "Fetal Age Education": {
+    "Methods": ["last menstrual period", "early sonogram", "fundal height measurements", "date of quickening", "date of audible fetal heart tones"],
+    "Description": ["brief description of each method and its relevance to determining fetal age"]
+  }
+}

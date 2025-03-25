@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+    "Learning Module": {
+        "Parameters": {
+            "Title": {"Type": "text"},
+            "Content": {"Type": "multimedia (video, image, text)"},
+            "Repetition": {"Type": "number"},
+            "Practice Exercises": {"Type": "list of practice exercises (e.g., multiple-choice questions, fill-in-the-blank)"},
+            "Reinforcement": {"Type": "text or multimedia (image, video)"},
+            "Pacing": {"Type": "time interval (e.g., 10 minutes, 30 minutes)"}
+        }
+    },
+    "Quiz": {
+        "Parameters": {
+            "Questions": {"Type": "list of questions (e.g., multiple-choice, true/false)"},
+            "Answers": {"Type": "list of answers"},
+            "Reinforcement": {"Type": "text or multimedia (image, video)"}
+        }
+    },
+    "Motivational Message": {
+        "Parameters": {
+            "Message": {"Type": "text"},
+            "Trigger": {"Type": "trigger event (e.g., completion of learning module, specific date)"}
+        }
+    }
+}

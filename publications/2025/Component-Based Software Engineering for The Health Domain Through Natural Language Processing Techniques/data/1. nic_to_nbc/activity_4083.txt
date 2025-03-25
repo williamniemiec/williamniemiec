@@ -1,0 +1,4 @@
+Since there is no no-code element associated with the intervention, I will return an empty JSON:
+
+{}
+Please note that if there were parameters specified in the input, they would be included in the output. But since there are none, the output is empty.

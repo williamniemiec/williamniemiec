@@ -1,0 +1,17 @@
+
+
+
+{
+  "name": "Boundary Exploration",
+  "parameters": [
+    {
+      "name": "scenario"
+    },
+    {
+      "name": "questions"
+    },
+    {
+      "name": "reflection"
+    }
+  ]
+}

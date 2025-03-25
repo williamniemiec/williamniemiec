@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Instruction": {
+    "instruction title": {},
+    "instruction content": {},
+    "reason for the instruction": {},
+    "frequency of the instruction": {
+      "options": [
+        { "value": "once", "label": "Once" },
+        { "value": "daily", "label": "Daily" },
+        { "value": "weekly", "label": "Weekly" },
+        { "value": "monthly", "label": "Monthly" }
+      ]
+    },
+    "deadline for the instruction": {}
+  }
+}

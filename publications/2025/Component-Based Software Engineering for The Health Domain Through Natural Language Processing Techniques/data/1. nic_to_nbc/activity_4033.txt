@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Consent Signature": {
+    "form title": {},
+    "patient_info": {},
+    "release_of_info": {},
+    "signature": {},
+    "date": {},
+    "submit": {}
+  }
+}

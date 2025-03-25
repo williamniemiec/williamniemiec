@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Caregiver Support Assessment": {
+    "Parameters": {
+      "Questions": [
+        "Do you and your partner have a system in place for taking over caregiving responsibilities when one of you is too tense, tired, or angry to deal with a dependent family member?",
+        "How often do you take over caregiving responsibilities when your partner is unable to do so?",
+        "Do you feel confident in your ability to take over caregiving responsibilities when your partner is unable to do so?",
+        "Do you and your partner communicate effectively about your needs and limitations when it comes to caregiving?"
+      ],
+      "Answer type": [
+        "Scale (e.g., 1-5, where 1 is \"rarely\" and 5 is \"almost always\")",
+        "Open-ended text response"
+      ]
+    }
+  }
+}

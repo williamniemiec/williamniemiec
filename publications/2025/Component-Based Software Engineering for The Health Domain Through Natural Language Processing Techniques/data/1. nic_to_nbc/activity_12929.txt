@@ -1,0 +1,42 @@
+Here is the output in JSON format:
+
+
+{
+  "Family Reinforcement Instruction": {
+    "Reinforcement Type": {
+      "type": "options",
+      "options": [
+        {"value": "verbalPraise", "label": "Verbal Praise"},
+        {"value": "rewards", "label": "Rewards"},
+        {"value": "other", "label": "Other"}
+      ]
+    },
+    "Reinforcement Description": {
+      "type": "text"
+    },
+    "Activity Trigger": {
+      "type": "text"
+    },
+    "Family Member": {
+      "type": "text"
+    },
+    "Instruction": {
+      "type": "text or video"
+    },
+    "Frequency": {
+      "type": "options",
+      "options": [
+        {"value": "immediately", "label": "Immediately"},
+        {"value": "daily", "label": "Daily"},
+        {"value": "weekly", "label": "Weekly"},
+        {"value": "monthly", "label": "Monthly"}
+      ]
+    },
+    "Deadline Date": {
+      "type": "datetime"
+    },
+    "Resources": {
+      "type": "file or URL"
+    }
+  }
+}

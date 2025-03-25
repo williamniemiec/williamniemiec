@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+  "Family Time": {
+    "Parameters": {
+      "Family Notification": {
+        "Description": "Notify family members of the opportunity to speak with the patient prior to transport",
+        "Required": true,
+        "Type": "text"
+      },
+      "Time Allocation": {
+        "Description": "Specify the amount of time allocated for family members to speak with the patient",
+        "Required": true,
+        "Type": "duration"
+      },
+      "Family Instructions": {
+        "Description": "Provide instructions to family members on how to make the most of their time with the patient",
+        "Required": true,
+        "Type": "text"
+      }
+    }
+  }
+}
+
+
+I removed the `Deadline Date` parameter since it's not required. Let me know if you have any further requests!

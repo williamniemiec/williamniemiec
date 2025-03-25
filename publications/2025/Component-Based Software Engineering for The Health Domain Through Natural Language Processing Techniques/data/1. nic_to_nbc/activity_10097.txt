@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Mobility Assessment": {
+        "Parameters": {
+            "Mobility Level": {},
+            "Limitations of Movement": {},
+            "Pain or Discomfort": {},
+            "Assistance Needed": {},
+            "Additional Notes": {}
+        }
+    }
+}

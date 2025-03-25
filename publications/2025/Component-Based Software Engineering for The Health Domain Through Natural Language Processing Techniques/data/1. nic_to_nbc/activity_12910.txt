@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+  "Iliac Crest Alignment Check": {
+    "parameters": {
+      "Photo/Video Instructions": {
+        "type": "text"
+      },
+      "Iliac Crest Alignment": {
+        "type": "boolean",
+        "options": ["true/false"]
+      },
+      "Alignment Adjustment": {
+        "type": "text"
+      },
+      "Frequency": {
+        "type": "options",
+        "options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+      },
+      "Deadline Date": {
+        "type": "datetime"
+      }
+    }
+  }
+}

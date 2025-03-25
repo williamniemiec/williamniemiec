@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+  "Sensory Discrimination Monitoring": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Task Type": {"Type": "options"},
+      "Stimulus": {"Type": "physical object or temperature control"},
+      "Response": {"Type": "text or multiple choice"},
+      "Accuracy": {"Type": "percentage or score"},
+      "Frequency": {"Type": "options"}
+    }
+  },
+  "Sharp/Dull Discrimination Monitoring": {},
+  "Hot/Cold Discrimination Monitoring": {}
+}
+
+
+Note that I removed the `Deadline Date` parameter as it is not applicable in this context. I also included the alternative no-code elements (`Sharp/Dull Discrimination Monitoring` and `Hot/Cold Discrimination Monitoring`) with empty parameter objects, as they do not have any specified parameters.

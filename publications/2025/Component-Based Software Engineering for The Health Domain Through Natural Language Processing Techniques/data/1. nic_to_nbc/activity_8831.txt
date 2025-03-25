@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Lab Test Monitoring": {
+    "Parameters": {
+      "Lab Test Type": {"Type": "text"},
+      "Monitoring Frequency": {"Type": "text"},
+      "Monitoring Purpose": {"Type": "text"},
+      "Result Tracking": {"Type": "table or graph"}
+    }
+  }
+}

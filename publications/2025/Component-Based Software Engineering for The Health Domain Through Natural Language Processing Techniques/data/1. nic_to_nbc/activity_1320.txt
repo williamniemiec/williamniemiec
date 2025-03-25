@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+    "Coach Profile": {
+        "Parameters": {
+            "Coach Name": {"Type": "text"},
+            "Qualifications": {"Type": "list (text or options)"},
+            "Expected Behavior": {"Type": "list (text or options)"},
+            "Contact Information": {"Type": "text or list (text or options)"}
+        }
+    },
+    "Notification": {},
+    "Search": {},
+    "Rating": {}
+}
+
+
+Note: I removed the `Content Type` parameter as it was not specified in the output format. Also, the no-code elements without parameters (`Notification`, `Search`, and `Rating`) are included with empty objects to maintain the structure.

@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Weight Tracker": {
+    "Parameters": {
+      "Name": "Weight Tracker",
+      "Content": "Enter your current weight",
+      "Type": "number",
+      "Frequency": "options (e.g., daily, weekly, monthly)"
+    }
+  }
+}

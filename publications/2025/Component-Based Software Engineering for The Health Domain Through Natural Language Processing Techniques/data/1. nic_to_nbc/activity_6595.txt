@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Coping Mechanisms Survey": {
+    "Parameters": {
+      "Coping Mechanisms": {
+        "Type": "options"
+      },
+      "Frequency": {
+        "Type": "options"
+      },
+      "Effectiveness": {
+        "Type": "options"
+      },
+      "Reflection": {
+        "Type": "text"
+      }
+    }
+  }
+}

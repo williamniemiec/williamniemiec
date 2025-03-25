@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+
+{
+    "Spiritual Reflection": {
+        "Prompt": {"Type": "text"},
+        "Questions": {"Type": "list of text"},
+        "Beliefs": {"Type": "text"},
+        "Values": {"Type": "text"},
+        "Goals": {"Type": "text"},
+        "Reflection Type": {"Type": "options", "Options": [
+            {"value": "daily", "label": "Daily"},
+            {"value": "weekly", "label": "Weekly"},
+            {"value": "monthly", "label": "Monthly"}
+        ]}
+    }
+}

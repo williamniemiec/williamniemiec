@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Diuretic and Laxative Food and Drink Management": {
+    "parameters": [
+      {"Food and Drink List": {"type": "text or list"}},
+      {"Intake Tracking": {"type": "number"}},
+      {"Intake Goals": {"type": "number"}},
+      {"Reminders": {"type": "boolean (yes/no)"}},
+      {"Intake Log": {"type": "text or table"}}
+    ]
+  }
+}

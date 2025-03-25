@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Sensation Description": {
+    "parameters": {
+      "Sensation Type": {"type": "text"},
+      "Patient Descriptions": {"type": "list", "fields": [{"name": "description", "label": "Description", "type": "text"}]},
+      "Objective Terms": {"type": "text"},
+      "Examples": {"type": "text"},
+      "Illustrations": {"type": "media"}
+    }
+  }
+}

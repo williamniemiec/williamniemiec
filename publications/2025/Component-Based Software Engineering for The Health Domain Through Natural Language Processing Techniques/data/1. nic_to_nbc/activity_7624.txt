@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Swallowing Safety Reminder": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Reminder Text": {"Type": "text"},
+      "Image/Icon": {"Type": "image/icon"},
+      "Frequency": {"Type": "options", "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Distraction Examples": {"Type": "list"}
+    }
+  }
+}

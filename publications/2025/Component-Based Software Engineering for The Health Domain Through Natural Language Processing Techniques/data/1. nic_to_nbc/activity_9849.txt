@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "Atmosphere Setter": {
+    "Environmental Factors": {
+      "type": "options"
+    },
+    "Verbal Cues": {
+      "type": "text"
+    },
+    "Nonverbal Cues": {
+      "type": "text"
+    },
+    "Empathy Statement": {
+      "type": "text"
+    },
+    "Atmosphere Check": {
+      "type": "rating scale and text"
+    }
+  }
+}
+
+
+I removed all the unnecessary information and kept only the `{{ NO-CODE ELEMENT NAME }}` and `{{ PARAMETER ESPECIFICATIONS }}`. I also removed the "Not Applicable" parameters, as there were none in this input.

@@ -1,0 +1,10 @@
+Here is the output in JSON format:
+
+
+{
+  "Tracker": {
+    "Tracking Item": {"type": "text"},
+    "Frequency": {"type": "options", "options": ["daily", "weekly", "monthly", "as needed"]},
+    "Target": {"type": "text or number"}
+  }
+}

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Hemodynamic Status Tracker": {
+    "parameters": [
+      {"Parameter Type": {"type": "options", "options": [{"value": "CVP", "label": "Central Venous Pressure (CVP)"}, {"value": "MAP", "label": "Mean Arterial Pressure (MAP)"}, {"value": "PAP", "label": "Pulmonary Artery Pressure (PAP)"}, {"value": "PCWP", "label": "Pulmonary Capillary Wedge Pressure (PCWP)"}, {"value": "other", "label": "Other (please specify)"}]}},
+      {"Value": {"type": "number"}},
+      {"Unit": {"type": "options", "options": [{"value": "mmHg", "label": "mmHg"}, {"value": "cmH2O", "label": "cmH2O"}, {"value": "other", "label": "Other (please specify)"}]}},
+      {"Frequency": {"type": "options", "options": [{"value": "daily", "label": "Daily"}, {"value": "everyHours", "label": "Every x hours"}, {"value": "everyDays", "label": "Every x days"}]}},
+      {"Deadline Date": {"type": "datetime"}}
+    ]
+  }
+}

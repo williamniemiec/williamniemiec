@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+  "GI Symptom Tracker": {
+    "Symptom List": [],
+    "Severity Scale": {"type": "options"},
+    "Frequency": {"options": ["daily", "everyHours", "everyDays"]},
+    "Duration": {"type": "time interval"},
+    "Notes": {"type": "text"}
+  },
+  "Liver Function Test Tracker": {
+    "Test Results": {"type": "numerical values"},
+    "Test Dates": {"type": "date"},
+    "Notes": {"type": "text"}
+  }
+}
+
+
+Note that I removed the "Not Applicable" parameters and only kept the ones with specified types or options. Let me know if you need further modifications!

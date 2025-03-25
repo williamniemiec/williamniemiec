@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Chin Support": {
+    "Support Instructions": {
+      "Description": "Step-by-step instructions on how to provide chin support",
+      "Required": true,
+      "Type": "text"
+    },
+    "Support Technique": {
+      "Description": "Technique to provide chin support",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "gentlePressure", "label": "Applying gentle pressure to the chin" },
+        { "value": "cuppingChin", "label": "Cupping the chin with the hand" }
+      ]
+    }
+  }
+}

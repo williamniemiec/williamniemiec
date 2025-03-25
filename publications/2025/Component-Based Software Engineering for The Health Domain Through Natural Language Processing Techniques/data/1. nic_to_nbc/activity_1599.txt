@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Reminder": {
+    "Message": {},
+    "Frequency": {},
+    "Deadline Date": {}
+  },
+  "Question": {
+    "Question": {},
+    "Answer Options": {},
+    "Frequency": {},
+    "Deadline Date": {}
+  }
+}

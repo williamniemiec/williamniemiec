@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Anger Consequences Identification Tool",
+  "parameters": [
+    {
+      "name": "Consequence Identification Questions"
+    },
+    {
+      "name": "Scenario-Based Exercise"
+    },
+    {
+      "name": "Emotion Mapping"
+    },
+    {
+      "name": "Pattern Identification"
+    },
+    {
+      "name": "Reflection Prompt"
+    }
+  ]
+}

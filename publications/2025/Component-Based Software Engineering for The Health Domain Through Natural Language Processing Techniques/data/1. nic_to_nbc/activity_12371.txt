@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Tube Care Instruction": {
+    "parameters": {
+      "name": {"type": "text"},
+      "purpose": {"type": "text"},
+      "care_instructions": {"type": ["text", "multimedia"]},
+      "images": {"type": ["image", "multimedia"]},
+      "video_tutorial": {"type": "video"},
+      "FAQs": {"type": "list of questions and answers"}
+    }
+  }
+}
+
+
+Let me know if this is what you were expecting!

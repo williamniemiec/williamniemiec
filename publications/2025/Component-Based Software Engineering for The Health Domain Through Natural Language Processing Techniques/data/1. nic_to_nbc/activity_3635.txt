@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Body Image Reflection": {
+    "Prompt": {"type": "text", "example": "How do you feel about your body since the recent physical change?"},
+    "Response Type": {"type": "options", "options": ["text", "rating scale", "emoji-based scale"]},
+    "Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"type": "datetime"},
+    "Resources": {"type": "text or multimedia"}
+  }
+}

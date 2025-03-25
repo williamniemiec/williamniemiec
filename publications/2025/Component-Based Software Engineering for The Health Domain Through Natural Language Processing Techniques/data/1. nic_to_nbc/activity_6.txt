@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+  "Stimulus Control": {
+    "Parameters": {
+      "Stimulus Types": {
+        "Type": "options",
+        "Options": ["lights", "sounds", "visitors", "telephone calls"]
+      },
+      "Stimulus Levels": {
+        "Type": "scale"
+      },
+      "Stimulus Control Methods": {
+        "Type": "text or multimedia"
+      },
+      "Environmental Settings": {
+        "Type": "text or multimedia"
+      }
+    }
+  }
+}

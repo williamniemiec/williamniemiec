@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Environmental Safety Assessment": {
+    "Parameters": {
+      "Environmental Hazards": {"Type": "list of text"},
+      "Patient Environment": {"Type": "options", "Options": ["home", "hospital room", "other"]},
+      "Dangerous Items": {"Type": "list of text"},
+      "Removal Instructions": {"Type": "list of text"},
+      "Frequency": {"Type": "options", "Options": ["daily", "weekly", "monthly", "as needed"]},
+      "Deadline Date": {"Type": "datetime"},
+      "Caregiver Involvement": {"Type": "options", "Options": ["high", "medium", "low", "other"]}
+    }
+  }
+}

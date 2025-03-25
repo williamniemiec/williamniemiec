@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Administration": {
+    "Right Patient": {"Type": "text", "Value": "Verify patient identity"},
+    "Right Medication": {"Type": "text", "Value": "Verify medication name and dosage"},
+    "Right Dose": {"Type": "text", "Value": "Verify medication dose and frequency"},
+    "Right Route": {"Type": "text", "Value": "Verify medication administration route (e.g. oral, IV, etc.)"},
+    "Right Time": {"Type": "text", "Value": "Verify medication administration time and frequency"}
+  }
+}

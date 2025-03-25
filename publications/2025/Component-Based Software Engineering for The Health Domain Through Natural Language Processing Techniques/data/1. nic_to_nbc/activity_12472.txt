@@ -1,0 +1,40 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Exercise Progression Plan",
+    "parameters": [
+        {
+            "name": "Name",
+            "type": "text"
+        },
+        {
+            "name": "Muscle Group",
+            "type": "options"
+        },
+        {
+            "name": "Current Resistance",
+            "type": "number"
+        },
+        {
+            "name": "Current Repetitions",
+            "type": "number"
+        },
+        {
+            "name": "Current Sets",
+            "type": "number"
+        },
+        {
+            "name": "Progression Goal",
+            "type": "options"
+        },
+        {
+            "name": "Progression Rate",
+            "type": "options"
+        },
+        {
+            "name": "Progression Schedule",
+            "type": "table"
+        }
+    ]
+}

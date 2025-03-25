@@ -1,0 +1,32 @@
+Here is the output in JSON format:
+
+
+{
+  "Vital Sign Tracker": {
+    "Parameters": {
+      "Vital Signs to Track": {
+        "type": "options",
+        "options": ["temperature", "pulse", "blood pressure", "respiratory rate", "oxygen saturation", "other"]
+      },
+      "Frequency of Tracking": {
+        "type": "options",
+        "options": ["every 15 minutes", "every 30 minutes", "every hour", "other"]
+      },
+      "Duration of Tracking": {
+        "type": "text"
+      },
+      "Deadline Date": {
+        "type": "datetime"
+      },
+      "Value": {
+        "type": "number or text"
+      },
+      "Notes": {
+        "type": "text"
+      }
+    }
+  }
+}
+
+
+Let me know if this is what you were expecting!

@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Parenting Confidence Assessment": {
+    "Handling Comfort": {},
+    "Assistance Needed": {},
+    "Verbalized Discomfort": {},
+    "Demonstrated Discomfort": {}
+  }
+}

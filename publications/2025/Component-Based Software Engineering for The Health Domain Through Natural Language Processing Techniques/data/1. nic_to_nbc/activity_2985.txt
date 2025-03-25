@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Social Connection Assessment": {
+    "Parameters": {
+      "Questions": [
+        "How often do you spend time with family members or close friends?",
+        "Do you feel like you have someone to talk to about important issues?",
+        "How many close relationships do you have with family members or friends?",
+        "Do you feel isolated or disconnected from others in your family?"
+      ],
+      "Answer type": [
+        "Scale (e.g., 1-5, where 1 is \"rarely\" and 5 is \"almost always\")",
+        "Open-ended text response"
+      ]
+    }
+  }
+}

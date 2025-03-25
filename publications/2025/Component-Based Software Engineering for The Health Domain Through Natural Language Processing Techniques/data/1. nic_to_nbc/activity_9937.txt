@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Partner Support Guide": {
+    "Guide Content": {"type": "rich text or HTML"},
+    "Supportive Roles": {"type": "list of text items"},
+    "Tips and Reminders": {"type": "list of text items"},
+    "Video or Audio Resources": {"type": "video or audio file"},
+    "Partner Checklist": {"type": "checklist or to-do list"}
+  }
+}

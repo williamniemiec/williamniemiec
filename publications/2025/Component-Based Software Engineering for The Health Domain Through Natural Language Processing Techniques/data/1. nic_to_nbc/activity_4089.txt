@@ -1,0 +1,34 @@
+Here is the output in JSON format:
+
+
+{
+  "Guided Meditation": {
+    "name": {"type": "text"},
+    "audio": {},
+    "duration": {"type": "time interval"},
+    "frequency": {"options": ["daily", "weekly", "monthly"]}
+  },
+  "Breathing Exercises": {
+    "name": {"type": "text"},
+    "instructions": {},
+    "duration": {"type": "time interval"},
+    "frequency": {"options": ["daily", "weekly", "monthly"]}
+  },
+  "Progressive Muscle Relaxation": {
+    "name": {"type": "text"},
+    "instructions": {},
+    "duration": {"type": "time interval"},
+    "frequency": {"options": ["daily", "weekly", "monthly"]}
+  },
+  "Yoga and Stretching": {
+    "name": {"type": "text"},
+    "instructions": {},
+    "duration": {"type": "time interval"},
+    "frequency": {"options": ["daily", "weekly", "monthly"]}
+  },
+  "Journaling": {
+    "name": {"type": "text"},
+    "prompts": {},
+    "frequency": {"options": ["daily", "weekly", "monthly"]}
+  }
+}

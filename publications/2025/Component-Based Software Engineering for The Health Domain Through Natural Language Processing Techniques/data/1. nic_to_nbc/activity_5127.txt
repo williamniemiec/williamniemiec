@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "headphone provision": {
+        "parameters": [
+            {"name": "title"},
+            {"name": "headphone_type"},
+            {"name": "volume_limit"},
+            {"name": "usage_instructions"}
+        ]
+    }
+}

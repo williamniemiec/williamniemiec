@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Reflection": {
+    "Prompt": {"type": "text"},
+    "Reflection type": {"type": "options", "options": ["open-ended question", "empathetic statement", "paraphrasing", "summarizing", "etc."]},
+    "Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline date": {"type": "datetime"}
+  }
+}
+
+
+Let me know if this meets your requirements!

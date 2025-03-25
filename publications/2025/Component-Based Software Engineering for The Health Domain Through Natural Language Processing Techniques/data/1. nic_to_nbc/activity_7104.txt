@@ -1,0 +1,34 @@
+Here is the output in JSON format:
+
+
+{
+  "Hemodynamic Optimizer": {
+    "parameters": {
+      "positioning": {
+        "type": "options"
+      },
+      "medication_adjustments": {
+        "type": "options"
+      },
+      "hemodynamic_monitoring": {
+        "type": "options"
+      },
+      "oxygenation_goals": {
+        "type": "options"
+      }
+    }
+  },
+  "Patient Profile": {
+    "parameters": {
+      "patient_id": {
+        "type": "text"
+      },
+      "medical_history": {
+        "type": "text"
+      },
+      "current_status": {
+        "type": "text"
+      }
+    }
+  }
+}

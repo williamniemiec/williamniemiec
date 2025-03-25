@@ -1,0 +1,48 @@
+Here is the output in JSON format:
+
+
+{
+  "Pressure Exercise": {
+    "Exercise Title": {
+      "Description": "Title of the exercise",
+      "Required": true,
+      "Type": "text"
+    },
+    "Instructions": {
+      "Description": "Step-by-step instructions on how to apply intermittent pressure",
+      "Required": true,
+      "Type": "text"
+    },
+    "Frequency": {
+      "Description": "How often to perform the exercise",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "daily", "label": "Daily" },
+        { "value": "onlyOnce", "label": "Only once" },
+        { "value": "everyHours", "label": "Every x hours" },
+        { "value": "everyDays", "label": "Every x days" }
+      ]
+    },
+    "Pressure Location": {
+      "Description": "Location where to apply pressure (e.g., arm, leg, etc.)",
+      "Required": true,
+      "Type": "text"
+    },
+    "Pressure Duration": {
+      "Description": "Duration of each pressure application",
+      "Required": true,
+      "Type": "text"
+    },
+    "Pressure Frequency": {
+      "Description": "How often to apply pressure within the exercise",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "everyMinute", "label": "Every minute" },
+        { "value": "every5Minutes", "label": "Every 5 minutes" },
+        { "value": "every10Minutes", "label": "Every 10 minutes" }
+      ]
+    }
+  }
+}

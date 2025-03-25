@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "Device Site Monitoring": {
+    "parameters": {
+      "Redness": {
+        "type": "boolean",
+        "options": ["yes", "no"]
+      },
+      "Swelling": {
+        "type": "boolean",
+        "options": ["yes", "no"]
+      },
+      "Severity": {
+        "type": "options",
+        "options": ["mild", "moderate", "severe"]
+      },
+      "Frequency": {
+        "type": "options",
+        "options": ["daily", "weekly", "with each scheduled checkup visit"]
+      }
+    }
+  }
+}

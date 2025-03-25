@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Helmet Instruction": {
+    "Parameters": {
+      "Helmet Information": {"Type": "text"},
+      "Wearing Instructions": {"Type": "text"},
+      "Frequency": {"Options": ["always", "onlyWhenSupervised", "onlyOnCertainDays"]},
+      "Deadline Date": {"Type": "datetime"},
+      "Reminder": {"Type": "boolean"}
+    }
+  }
+}

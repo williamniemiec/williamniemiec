@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Guide": {
+    "parameters": {
+      "title": "",
+      "sections": {},
+      "resources": {}
+    }
+  },
+  "Resource List": {
+    "parameters": {
+      "title": "",
+      "resources": {}
+    }
+  }
+}

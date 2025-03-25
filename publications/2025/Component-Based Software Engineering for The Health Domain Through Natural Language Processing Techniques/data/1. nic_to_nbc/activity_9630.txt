@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Respiratory Monitor": {
+    "parameters": {
+      "Respiratory Status": {},
+      "Laryngeal Spasm Symptoms": {},
+      "Tetany Symptoms": {},
+      "Emergency Airway Management": {},
+      "Notes": {}
+    }
+  }
+}

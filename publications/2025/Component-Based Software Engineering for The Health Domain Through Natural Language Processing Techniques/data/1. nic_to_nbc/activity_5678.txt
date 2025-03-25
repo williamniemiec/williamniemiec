@@ -1,0 +1,55 @@
+Here is the output in JSON format, removing anything except `{{ PARAMETER ESPECIFICATIONS }}` and `{{ NO-CODE ELEMENT NAME }}`, and removing not applicable parameters:
+
+
+{
+  "name": "Diagnostic Test Acquisition",
+  "parameters": [
+    {
+      "name": "Diagnostic Test",
+      "type": "options",
+      "options": [
+        { value: "blood work", label: "Blood work" },
+        { value: "imaging study", label: "Imaging study" }
+      ]
+    },
+    {
+      "name": "Indication",
+      "type": "text"
+    },
+    {
+      "name": "Priority",
+      "type": "options",
+      "options": [
+        { value: "stat", label: "Stat" },
+        { value: "urgent", label: "Urgent" },
+        { value: "routine", label: "Routine" }
+      ]
+    },
+    {
+      "name": "Ordering Provider",
+      "type": "text"
+    },
+    {
+      "name": "Test Schedule",
+      "type": "options",
+      "options": [
+        { value: "ASAP", label: "ASAP" },
+        { value: "within 24 hours", label: "Within 24 hours" }
+      ]
+    },
+    {
+      "name": "Result Notification",
+      "type": "options",
+      "options": [
+        { value: "phone", label: "Phone" },
+        { value: "email", label: "Email" }
+      ]
+    },
+    {
+      "name": "Deadline Date",
+      "type": "datetime"
+    }
+  ]
+}
+
+Let me know if this is what you were expecting!

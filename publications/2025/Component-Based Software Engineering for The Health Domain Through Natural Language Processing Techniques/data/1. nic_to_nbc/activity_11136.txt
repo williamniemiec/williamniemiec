@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Infant Crying Management Education": {
+    "Crying Management Strategies": {"type": "list of strategies"},
+    "Shaken Baby Syndrome Warning": {"type": "warning message"},
+    "Coping Mechanisms": {"type": "list of coping mechanisms"},
+    "Resource Library": {"type": "list of resources"},
+    "Frequency": {"options": ["daily", "weekly", "monthly", "quarterly"]},
+    "Deadline Date": {"type": "datetime"}
+  }
+}

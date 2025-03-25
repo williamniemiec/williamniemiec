@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Psychosocial Assessment Guide": {
+    "Parameters": {
+      "Title": {"Type": "text"},
+      "Content": {"Type": "text or HTML"},
+      "Psychosocial Resources": {"Type": "list of text or options", "Optional": true}
+    }
+  }
+}
+
+
+I removed all the unnecessary text and kept only the `{{ NO-CODE ELEMENT NAME }}` (which is "Psychosocial Assessment Guide") and the `{{ PARAMETER ESPECIFICATIONS }}`. I also removed the "Not Applicable" parameters. Let me know if this meets your requirements!

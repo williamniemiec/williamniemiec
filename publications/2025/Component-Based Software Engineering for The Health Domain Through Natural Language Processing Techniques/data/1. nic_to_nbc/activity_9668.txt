@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Assessment": {
+        "parameters": [
+            {"name": "Name", "type": "text"},
+            {"name": "Description", "type": "text"},
+            {"name": "Question", "type": "options", "options": ["yes", "no", "unsure"]},
+            {"name": "Frequency", "type": "options", "options": ["daily", "every 12 hours", "every 8 hours"]}
+        ]
+    }
+}

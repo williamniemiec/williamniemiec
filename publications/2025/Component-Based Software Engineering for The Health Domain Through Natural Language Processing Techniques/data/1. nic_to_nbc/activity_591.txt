@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Generic Medication Information": {
+    "Medication Name": {},
+    "Brand Name vs. Generic": {},
+    "Possible Changes": {},
+    "Image Comparison": {},
+    "Dosage Instructions": {},
+    "Additional Resources": {}
+  }
+}

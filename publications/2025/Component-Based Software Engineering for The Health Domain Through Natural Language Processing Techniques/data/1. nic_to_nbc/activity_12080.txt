@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+    "counseling": [
+        {"name": "title", "description": "counseling title"},
+        {"name": "content", "description": "counseling content about avoiding pregnancy"},
+        {"name": "treatment", "description": "specify the treatment that needs to be given before pregnancy", "options": ["rubellaVaccine", "rhoDImmuneGlobulin", "immuneSerumGlobulin", "antibiotics", "other"]},
+        {"name": "notes", "description": "additional notes or instructions"}
+    ]
+}

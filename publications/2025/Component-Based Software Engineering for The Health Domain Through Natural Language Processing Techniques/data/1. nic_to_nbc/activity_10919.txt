@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+    "question about self-care ability": {
+        "name": "question about self-care ability",
+        "answer type": "",
+        "frequency": "",
+        "deadline_date": ""
+    },
+    "task": {
+        "name": "task title",
+        "content": "",
+        "frequency": "",
+        "deadline_date": ""
+    }
+}
+
+
+I removed all the unnecessary text and kept only the `{{ NO-CODE ELEMENT NAME }}` and their corresponding `{{ PARAMETER ESPECIFICATIONS }}`. I also removed any "not applicable" parameters. Let me know if this is what you were looking for!

@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Vomiting Management Tracker",
+  "parameters": [
+    {
+      "name": "Symptom Tracking"
+    },
+    {
+      "name": "Medication Adherence"
+    },
+    {
+      "name": "Nonpharmacological Interventions"
+    },
+    {
+      "name": "Quality of Life"
+    },
+    {
+      "name": "Alerts and Notifications"
+    }
+  ]
+}

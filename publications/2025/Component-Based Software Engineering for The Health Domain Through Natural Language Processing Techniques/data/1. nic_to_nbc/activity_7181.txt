@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Myth-Busting": {
+        "parameters": {
+            "Myth category": ["Sexual function", "Sexual orientation", "Sexual health"],
+            "Myth statement": ["I'm not attractive enough for sex", "Sex is only for reproduction", "Masturbation is harmful to my health"],
+            "Factual information": ["Sexual attraction is not solely based on physical appearance", "Sex is a natural and healthy part of human relationships", "Masturbation is a normal and healthy part of human sexuality"],
+            "Information source": ["American Sexual Health Association", "World Health Organization", "National Institutes of Health"],
+            "Frequency": ["daily", "onlyOnce", "everyHours", "everyDays"]
+        }
+    }
+}

@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "Communication Tool": {
+    "parameters": [
+      {"name": "name", "type": "text"},
+      {"name": "communication method", "options": ["virtual alphabet board", "text-based input", "etc."]}
+    ]
+  },
+  "Message Composer": {
+    "parameters": [
+      {"name": "name", "type": "text"},
+      {"name": "message input", "type": "text-based input"},
+      {"name": "recipient selection", "options": ["healthcare provider", "caregiver", "etc."]}
+    ]
+  },
+  "Message Log": {
+    "parameters": [
+      {"name": "name", "type": "text"},
+      {"name": "message log", "type": "list of sent and received messages"}
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Eye Closure Instruction": {
+    "parameters": [
+      {"eye_closure_method": "method of eye closure (e.g., gentle, soft, etc.)"},
+      {"eye_closure_duration": "duration of eye closure (e.g., 1-2 minutes, etc.)"}
+    ]
+  }
+}
+
+
+Let me know if this meets your requirements!

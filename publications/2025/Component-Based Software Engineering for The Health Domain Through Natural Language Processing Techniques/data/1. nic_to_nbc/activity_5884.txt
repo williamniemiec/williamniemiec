@@ -1,0 +1,41 @@
+Here is the output in JSON format:
+
+
+{
+  "Cardiac Program Referral": {
+    "Program Options": {
+      "Description": "Select a program for referral",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "heartFailureProgram", "label": "Heart Failure Program" },
+        { "value": "cardiacRehabilitationProgram", "label": "Cardiac Rehabilitation Program" }
+      ]
+    },
+    "Referral Reason": {
+      "Description": "Specify the reason for referral",
+      "Required": true,
+      "Type": "text"
+    },
+    "Program Details": {
+      "Description": "View program details and schedule",
+      "Required": true,
+      "Type": "program-details",
+      "Program-details": {
+        "label": "Heart Failure Program",
+        "description": "A comprehensive program for managing heart failure",
+        "schedule": "Monday, Wednesday, Friday, 9:00 AM - 12:00 PM"
+      }
+    },
+    "Referral Status": {
+      "Description": "Track the status of the referral",
+      "Required": true,
+      "Type": "status",
+      "Status": [
+        { "value": "pending", "label": "Pending" },
+        { "value": "approved", "label": "Approved" },
+        { "value": "denied", "label": "Denied" }
+      ]
+    }
+  }
+}

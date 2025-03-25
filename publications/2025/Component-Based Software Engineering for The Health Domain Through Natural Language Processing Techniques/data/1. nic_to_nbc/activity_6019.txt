@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "instruction": {
+    "parameters": {
+      "Name": {"type": "text"},
+      "Description": {"type": "text"},
+      "Task": {"type": "options", "options": ["Transfer process", "Ambulation", "Balance exercises", "Fall prevention", "Other ( specify )"]},
+      "Positioning": {"type": "options", "options": ["Sitting", "Standing", "Lying down", "Transferring from bed to chair", "Transferring from chair to bed", "Other ( specify )"]},
+      "Step-by-Step Instructions": {"type": "text"},
+      "Visual Aids": {"type": "boolean"},
+      "Frequency": {"type": "options", "options": ["One-time", "Daily", "Weekly", "Monthly", "As needed"]}
+    }
+  }
+}
+
+
+Note that I removed the "Not Applicable" parameters as per your request. Let me know if you need any further assistance!

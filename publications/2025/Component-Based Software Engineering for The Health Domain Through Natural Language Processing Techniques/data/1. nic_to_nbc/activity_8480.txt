@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+{
+  "Parameters": {
+    "Title": {"Type": "text"},
+    "Content": {"Type": "text or video"},
+    "Questions": {"Type": "list of text"},
+    "Reflection": {"Type": "text"}
+  },
+  "No-code element name": "Discussion"
+}

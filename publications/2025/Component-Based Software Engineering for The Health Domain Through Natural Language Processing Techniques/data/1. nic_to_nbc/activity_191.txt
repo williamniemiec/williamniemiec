@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Caregiver Handoff": {
+    "Patient Information": {
+      "Type": ["text", "structured data (e.g. JSON)"]
+    },
+    "Caregiver Instructions": {
+      "Type": ["text", "multimedia content (e.g. images, videos)"]
+    },
+    "Handoff Notes": {
+      "Type": ["text"]
+    }
+  }
+}

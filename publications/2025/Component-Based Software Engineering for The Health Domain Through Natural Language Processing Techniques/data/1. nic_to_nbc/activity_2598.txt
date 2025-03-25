@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+  "Orientation Quiz": {
+    "Name": {"type": "text"},
+    "Questions": {"type": "list of questions", 
+      "question": {
+        "Question Text": {"type": "text"},
+        "Answer Options": {"type": "list of options"},
+        "Correct Answer": {"type": "text"}
+      }
+    },
+    "Feedback": {"type": "text"},
+    "Frequency": {"type": "options", 
+      "options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+    },
+    "Deadline Date": {"type": "datetime"}
+  }
+}

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Nighttime Drainage Bag Connection Guide": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Trigger": {"Type": "options"},
+      "Instructions": {"Type": "text or multimedia"},
+      "Checklist": {"Type": "list of tasks"},
+      "Reminders": {"Type": "options"}
+    }
+  }
+}

@@ -1,0 +1,12 @@
+
+
+
+{
+  "Decision Support": {
+    "parameters": [
+      {"name": "information", "description": "Important factors to consider when deciding about amputation"},
+      {"name": "questions", "description": "Questions to ask your healthcare provider about amputation"},
+      {"name": "decision_aid", "description": "Tool to help you make a decision about amputation"}
+    ]
+  }
+}

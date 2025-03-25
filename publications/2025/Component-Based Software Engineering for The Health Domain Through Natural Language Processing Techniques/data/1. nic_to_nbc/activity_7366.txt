@@ -1,0 +1,12 @@
+
+
+
+{
+  "Guide": {
+    "Parameters": {
+      "Name": "",
+      "Pages": [],
+      "Type": ["book", "educational content"]
+    }
+  }
+}

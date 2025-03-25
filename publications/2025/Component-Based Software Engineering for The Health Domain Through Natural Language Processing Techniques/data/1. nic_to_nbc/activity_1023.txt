@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Anxiety Trigger Tracker": {
+        "Name": {"Type": "text"},
+        "Description": {"Type": "text"},
+        "Trigger Type": {"Type": "options", "Options": ["people", "places", "events", "thoughts", "emotions", "etc."]},
+        "Trigger Description": {"Type": "text"},
+        "Anxiety Level": {"Type": "scale"},
+        "Frequency": {"Type": "options", "Options": ["daily", "weekly", "monthly", "rarely", "etc."]},
+        "Notes": {"Type": "text"}
+    }
+}

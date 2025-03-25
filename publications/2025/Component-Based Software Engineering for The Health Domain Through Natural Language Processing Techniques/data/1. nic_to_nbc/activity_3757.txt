@@ -1,0 +1,38 @@
+Here is the output in JSON format, keeping only the `PARAMETER ESPECIFICATIONS` and `NO-CODE ELEMENT NAME`:
+
+
+{
+    "name": "Consequence List",
+    "parameters": [
+        {
+            "name": "title",
+            "type": "text"
+        },
+        {
+            "name": "positive_consequences",
+            "type": "list of text"
+        },
+        {
+            "name": "negative_consequences",
+            "type": "list of text"
+        },
+        {
+            "name": "reflection_prompt",
+            "type": "text"
+        },
+        {
+            "name": "frequency",
+            "type": "options",
+            "options": [
+                { value: "daily" },
+                { value: "onlyOnce" },
+                { value: "everyHours" },
+                { value: "everyDays" }
+            ]
+        },
+        {
+            "name": "deadline_date",
+            "type": "datetime"
+        }
+    ]
+}

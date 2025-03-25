@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Provider Recommendation": {
+    "Recommendation type": {"Type": "options"},
+    "Provider input": {"Type": "text or selection from a list"}
+  },
+  "Referral Criteria": {
+    "Rules": {"Type": "list of conditional statements"},
+    "Thresholds": {"Type": "list of numerical values or text"}
+  },
+  "Referral Decision": {
+    "Decision logic": {"Type": "conditional statement"},
+    "Referral outcome": {"Type": "text or selection from a list"}
+  }
+}

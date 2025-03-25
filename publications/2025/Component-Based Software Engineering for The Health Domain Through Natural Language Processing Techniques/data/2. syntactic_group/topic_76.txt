@@ -1,0 +1,10 @@
+{
+  "name": "Book and Page Navigation",
+  "description": "Supports users in navigating through book-like resources, including pages, sections, and multimedia content. Provides tips for effective reading and understanding.",
+  "type": "non-periodic",
+  "input": ["Book sections", "Pages and multimedia content", "Navigation tips", "Reading aids"],
+  "output": ["Navigation report", "Reading progress summary", "Multimedia integration feedback"],
+  "preconditions": ["User is navigating through a book or resource with multiple pages"],
+  "postconditions": ["Effective navigation and improved understanding of book contents"],
+  "dependencies": ["Book navigation platform", "Content management system", "Multimedia integration tools"]
+}

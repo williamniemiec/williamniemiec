@@ -1,0 +1,33 @@
+Here is the output in JSON format:
+
+
+{
+  "Makeup Request": {
+    "Request Makeup": {
+      "Description": "Request makeup, if needed",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "yes", "label": "Yes, I need makeup" },
+        { "value": "no", "label": "No, I don't need makeup" }
+      ]
+    },
+    "Makeup Type": {
+      "Description": "Select the type of makeup needed",
+      "Required": false,
+      "Type": "options",
+      "Options": [
+        { "value": "foundation", "label": "Foundation" },
+        { "value": "eyeshadow", "label": "Eyeshadow" },
+        { "value": "mascara", "label": "Mascara" },
+        { "value": "lipstick", "label": "Lipstick" },
+        { "value": "other", "label": "Other (please specify)" }
+      ]
+    },
+    "Other Makeup Type": {
+      "Description": "Enter other makeup type",
+      "Required": false,
+      "Type": "text"
+    }
+  }
+}

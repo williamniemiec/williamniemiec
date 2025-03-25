@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+  "Depression Symptom Assessment": {
+    "Assessment Tool": {
+      "type": "options",
+      "options": ["PHQ-9", "Beck Depression Inventory", "etc."]
+    },
+    "Symptom Questions": {
+      "type": "list of text"
+    },
+    "Response Options": {
+      "type": "list of options"
+    },
+    "Frequency": {
+      "type": "options",
+      "options": ["daily", "weekly", "monthly", "quarterly"]
+    },
+    "Deadline Date": {
+      "type": "datetime"
+    },
+    "Results": {
+      "type": "object"
+    }
+  }
+}

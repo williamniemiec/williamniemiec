@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Family Accommodation": {
+    "Name": {"type": "text"},
+    "Family Member Information": {"type": "form"},
+    "Accommodation Options": {"type": "checklist or dropdown menu"},
+    "Visiting Hours": {"type": "text or numeric"},
+    "Support Resources": {"type": "text or link"}
+  },
+  "Visitor Management": {
+    "Name": {"type": "text"},
+    "Visitor List": {"type": "table or list"},
+    "Accommodation Requests": {"type": "form"},
+    "Visiting Hours": {"type": "text or numeric"},
+    "Communication Tools": {"type": "link or button"}
+  }
+}

@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+    "Ventilator Education": {
+        "FiO2 Explanation": {"Type": "text"},
+        "Mode Explanation": {"Type": "text"},
+        "PEEP Explanation": {"Type": "text"},
+        "Additional Resources": {"Type": "text"}
+    }
+}

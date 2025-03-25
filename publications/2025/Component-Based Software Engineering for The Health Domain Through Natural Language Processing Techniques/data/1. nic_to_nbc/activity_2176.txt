@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Solid Foods Guide": {
+        "Content": {"Type": "text, images, videos, or interactive simulations"},
+        "Introduction Timeline": {"Type": "list of milestones"},
+        "Food Groups": {"Type": "list of food groups"},
+        "Food Safety": {"Type": "list of food safety guidelines"},
+        "Nutrition Information": {"Type": "list of nutrition information"},
+        "FAQs": {"Type": "list of FAQs"}
+    }
+}

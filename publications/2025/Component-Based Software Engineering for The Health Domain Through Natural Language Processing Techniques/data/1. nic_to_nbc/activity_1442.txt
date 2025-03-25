@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Needle Securement": {
+    "agency_protocol": {},
+    "securement_steps": [],
+    "dressing_type": {},
+    "dressing_application": [],
+    "reminders": {}
+  }
+}

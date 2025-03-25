@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+    "Ulcer Assessment": {
+        "Size": {},
+        "Location": {},
+        "Discharge": {},
+        "Color": {},
+        "Bleeding": {},
+        "Pain": {},
+        "Odor": {},
+        "Edema": {}
+    }
+}

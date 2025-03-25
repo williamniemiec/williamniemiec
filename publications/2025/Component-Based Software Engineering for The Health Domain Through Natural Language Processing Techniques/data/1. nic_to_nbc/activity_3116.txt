@@ -1,0 +1,30 @@
+Here is the output in JSON format:
+
+
+{
+    "Lens Examination Guide": {
+        "Examination Steps": {
+            "type": "ordered list",
+            "example": [
+                "Step 1: Hold the lens up to a light source to inspect for cracks or breaks.",
+                "Step 2: Look for any signs of wear or tear, such as scratches or rough edges.",
+                "Step 3: Check the lens for any debris or residue."
+            ]
+        },
+        "What to Look For": {
+            "type": "text",
+            "example": "Cracks, breaks, scratches, rough edges, debris, or residue."
+        },
+        "Visual Aids": {
+            "type": "list of URLs or embedded media"
+        },
+        "Frequency of Examination": {
+            "type": "options",
+            "options": ["daily", "weekly", "monthly"]
+        },
+        "What to Do If Damage Is Found": {
+            "type": "text",
+            "example": "If you find any damage, discontinue use of the lens and contact your eye care professional for guidance."
+        }
+    }
+}

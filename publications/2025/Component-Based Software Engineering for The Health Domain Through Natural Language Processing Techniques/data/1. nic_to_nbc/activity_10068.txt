@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Personalized Discharge Plan": {
+    "Plan Title": {},
+    "Patient Profile": {},
+    "Discharge Instructions": {},
+    "Follow-up Care": {},
+    "Frequency": {},
+    "Resources": {}
+  }
+}

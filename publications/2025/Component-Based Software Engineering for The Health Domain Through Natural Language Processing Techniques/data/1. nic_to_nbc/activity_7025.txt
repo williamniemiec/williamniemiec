@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Confirmation Question": {
+    "parameters": [
+      {"name": "question", "type": "text"},
+      {"name": "answer type", "type": ["yes/no", "text", "selection"]}
+    ]
+  }
+}

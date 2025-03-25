@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Magnification Assistance": {
+        "parameters": [
+            {"device_type": null},
+            {"device_settings": null},
+            {"frequency": null},
+            {"deadline_date": null},
+            {"notes": null}
+        ]
+    }
+}

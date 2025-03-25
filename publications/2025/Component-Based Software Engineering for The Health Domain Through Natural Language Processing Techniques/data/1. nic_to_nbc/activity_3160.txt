@@ -1,0 +1,40 @@
+Here is the output in JSON format:
+
+
+{
+  "Sexual Guilt Assessment": {
+    "Question": {
+      "Description": "Patient's perception of the causative factors of illness",
+      "Required": true,
+      "Type": "text"
+    },
+    "Guilt Scale": {
+      "Description": "Assess the patient's level of sexual guilt associated with their illness perception",
+      "Required": true,
+      "Type": "slider",
+      "Min": 0,
+      "Max": 10
+    },
+    "Guilt Reasons": {
+      "Description": "Identify the reasons for the patient's sexual guilt",
+      "Required": true,
+      "Type": "checkbox",
+      "Options": [
+        {"value": "past sexual behavior", "label": "Past sexual behavior"},
+        {"value": "current sexual behavior", "label": "Current sexual behavior"},
+        {"value": "sexual orientation", "label": "Sexual orientation"},
+        {"value": "other", "label": "Other (please specify)"}
+      ]
+    },
+    "Frequency": {
+      "Description": "Specify how often the patient should reassess their sexual guilt",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        {"value": "daily", "label": "Daily"},
+        {"value": "weekly", "label": "Weekly"},
+        {"value": "monthly", "label": "Monthly"}
+      ]
+    }
+  }
+}

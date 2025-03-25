@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+  "surveillance": {
+    "Surveillance Frequency": {
+      "Type": "options",
+      "Options": ["continuous", "frequent", "periodic"]
+    },
+    "Environment": {
+      "Type": "options",
+      "Options": ["patientRoom", "commonAreas", "outdoorAreas", "other"]
+    },
+    "Fire-Setting Materials": {
+      "Type": "list of options",
+      "Options": ["matches", "lighters", "candles", "electricalCords", "other"]
+    },
+    "Intervention Threshold": {
+      "Type": "options",
+      "Options": ["immediateIntervention", "notificationOfStaff", "other"]
+    },
+    "Surveillance Method": {
+      "Type": "options",
+      "Options": ["visualObservation", "electronicMonitoring", "other"]
+    }
+  }
+}

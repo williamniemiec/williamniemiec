@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+    "Forgiveness and Healing": {
+        "Reflection Prompt": {"type": "text"},
+        "Journaling": {"type": "text"},
+        "Health Benefits": {"type": "text"},
+        "Healing Dimension": {"type": "options", "options": ["physical", "emotional", "spiritual", "other"]},
+        "Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]}
+    }
+}
+
+
+I removed the "Deadline Date" parameter since it's not applicable, and only kept the `{{ NO-CODE ELEMENT NAME }}` and `{{ PARAMETER ESPECIFICATIONS }}` as per your request. Let me know if this is what you were looking for!

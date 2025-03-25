@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Environmental Safety Assessment": {
+    "Parameters": {
+      "Environmental Factors": {},
+      "Hazard Identification": {},
+      "Risk Level": {},
+      "Mitigation Strategies": {},
+      "Frequency": {}
+    }
+  }
+}

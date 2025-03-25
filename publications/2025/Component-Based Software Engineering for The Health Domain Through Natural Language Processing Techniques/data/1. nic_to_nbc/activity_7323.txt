@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Administration Tracking": {
+    "parameters": [
+      {"name": "medication_name", "description": "Select medication name", "required": true, "type": "options"},
+      {"name": "dose", "description": "Enter dose of medication", "required": true, "type": "numeric"},
+      {"name": "frequency", "description": "Specify how often to take medication", "required": true, "type": "options"},
+      {"name": "administration_time", "description": "Enter time of medication administration", "required": true, "type": "datetime"}
+    ]
+  },
+  "Serum Ionized Calcium Level Tracking": {
+    "parameters": [
+      {"name": "calcium_level", "description": "Enter serum ionized calcium level", "required": true, "type": "numeric"},
+      {"name": "frequency", "description": "Specify how often to track serum ionized calcium levels", "required": true, "type": "options"}
+    ]
+  }
+}

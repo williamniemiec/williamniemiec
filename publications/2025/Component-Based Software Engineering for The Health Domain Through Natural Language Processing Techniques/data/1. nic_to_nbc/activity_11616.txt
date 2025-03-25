@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Side Effect Monitoring": {
+    "Medication Name": {},
+    "Side Effects": {},
+    "Frequency": {},
+    "Reporting": {},
+    "Deadline Date": {}
+  }
+}

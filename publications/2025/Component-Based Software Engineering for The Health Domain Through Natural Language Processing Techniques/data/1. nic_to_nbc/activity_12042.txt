@@ -1,0 +1,30 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Conversation Redirect",
+  "parameters": [
+    {
+      "name": "Main Subject",
+      "type": "text"
+    },
+    {
+      "name": "Conversation Flow",
+      "type": "options",
+      "options": [
+        { value: "linear" },
+        { value: "branching" },
+        { value: "free-form" }
+      ]
+    },
+    {
+      "name": "Redirect Trigger",
+      "type": "options",
+      "options": [
+        { value: "keywordDetection" },
+        { value: "timeBased" },
+        { value: "userInput" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+Here is the output in JSON format:
+
+
+{
+  "Ventilator Setup Guide": {
+    "parameters": [
+      {
+        "name": "video",
+        "description": "Video demonstration of ventilator setup and application",
+        "required": true,
+        "type": "video"
+      },
+      {
+        "name": "instructions",
+        "description": "Step-by-step instructions",
+        "required": true,
+        "type": "text"
+      },
+      {
+        "name": "ventilator_settings",
+        "description": "Ventilator settings and parameters",
+        "required": true,
+        "type": "options",
+        "options": [
+          { "value": "mode", "label": "Mode (e.g. CPAP, BiPAP)" },
+          { "value": "pressure", "label": "Pressure (e.g. IPAP, EPAP)" },
+          { "value": "rate", "label": "Rate (e.g. breaths per minute)" },
+          { "value": "oxygen", "label": "Oxygen percentage" }
+        ]
+      }
+    ]
+  }
+}

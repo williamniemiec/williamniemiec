@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Professional Standard Incorporation",
+    "parameters": [
+        {
+            "name": "Professional Group"
+        },
+        {
+            "name": "Standard Category"
+        },
+        {
+            "name": "Standard Description"
+        },
+        {
+            "name": "Standard Requirements"
+        },
+        {
+            "name": "Implementation Plan"
+        },
+        {
+            "name": "Notes"
+        }
+    ]
+}

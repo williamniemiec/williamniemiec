@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+    "Toilet Timer": {
+        "parameters": {
+            "name": {"type": "text"},
+            "description": {"type": "text"},
+            "timer_duration": {"type": "numeric"},
+            "timer_trigger": {"type": "options", "options": ["patient sits on toilet", "etc."]},
+            "alert_type": {"type": "options", "options": ["notification", "alarm", "etc."]},
+            "caregiver_notification": {"type": "boolean"}
+        }
+    }
+}

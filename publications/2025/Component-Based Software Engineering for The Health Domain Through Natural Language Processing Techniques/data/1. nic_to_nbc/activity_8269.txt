@@ -1,0 +1,41 @@
+Here is the output in JSON format:
+
+
+{
+    "Energy Work Log": {
+        "parameters": [
+            { 
+                "name": "Name", 
+                "type": "text"
+            },
+            { 
+                "name": "Fields", 
+                "type": "list of objects",
+                "objects": [
+                    {
+                        "label": "Label",
+                        "type": "text"
+                    },
+                    {
+                        "label": "Type",
+                        "type": "text"
+                    }
+                ]
+            },
+            { 
+                "name": "Frequency", 
+                "type": "options",
+                "options": [
+                    { value: "daily", label: "Daily" },
+                    { value: "onlyOnce", label: "Only once" },
+                    { value: "everyHours", label: "Every x hours" },
+                    { value: "everyDays", label: "Every x days" }
+                ]
+            },
+            { 
+                "name": "Deadline Date", 
+                "type": "datetime"
+            }
+        ]
+    }
+}

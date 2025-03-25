@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Profile Evaluator": {
+    "Parameters": [
+      {"Name": "Medication List", "Type": "List of medications"},
+      {"Name": "Gastrointestinal Side Effects", "Type": "Boolean"},
+      {"Name": "Frequency", "Type": "Options"},
+      {"Name": "Deadline Date", "Type": "datetime"},
+      {"Name": "Notes", "Type": "Text"}
+    ]
+  }
+}
+
+
+I removed the introduction, conclusion, and non-parameter information from the original text. I also removed the "Required" and "Description" fields from each parameter, as well as the medications list and options array, to simplify the output. Let me know if you'd like me to include any of that information in the output!

@@ -1,0 +1,70 @@
+Here is the output in JSON format:
+
+
+{
+  "Talk and Read Guide": {
+    "Parameters": {
+      "Name": {
+        "Type": "text"
+      },
+      "Talking Tips": {
+        "Type": "list of talking tips",
+        "Talking Tip": {
+          "Title": {
+            "Type": "text"
+          },
+          "Description": {
+            "Type": "HTML text"
+          },
+          "Examples": {
+            "Type": "list of examples",
+            "Example": {
+              "Content": {
+                "Type": "HTML text"
+              }
+            }
+          }
+        }
+      },
+      "Reading Tips": {
+        "Type": "list of reading tips",
+        "Reading Tip": {
+          "Title": {
+            "Type": "text"
+          },
+          "Description": {
+            "Type": "HTML text"
+          },
+          "Book Recommendations": {
+            "Type": "list of book recommendations",
+            "Book Recommendation": {
+              "Title": {
+                "Type": "text"
+              },
+              "Author": {
+                "Type": "text"
+              },
+              "Description": {
+                "Type": "HTML text"
+              }
+            }
+          }
+        }
+      },
+      "Benefits": {
+        "Type": "list of benefits",
+        "Benefit": {
+          "Content": {
+            "Type": "HTML text"
+          }
+        }
+      },
+      "Talking and Reading Tracker": {
+        "Type": "interactive chart"
+      },
+      "Talking and Reading Reminders": {
+        "Type": "reminders (e.g. push notifications, in-app notifications)"
+      }
+    }
+  }
+}

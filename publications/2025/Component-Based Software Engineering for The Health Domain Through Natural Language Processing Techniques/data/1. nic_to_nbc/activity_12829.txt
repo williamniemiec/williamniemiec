@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Availability": {
+    "Parameters": {
+      "Medication List": {"Type": "text or options"},
+      "Location": {"Type": "text"},
+      "Expiration Date": {"Type": "date"},
+      "Refill Reminder": {"Type": "boolean"}
+    }
+  }
+}

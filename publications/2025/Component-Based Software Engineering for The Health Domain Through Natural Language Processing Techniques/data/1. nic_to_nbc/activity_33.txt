@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Dietary Instruction": {
+    "parameters": [
+      {"Name": {"type": "text"}},
+      {"Dietary Requirements": {"type": "options", "options": ["low-fiber", "high-protein", "high-calorie", "other"]}},
+      {"Food Recommendations": {"type": "list"}},
+      {"Meal Planning": {"type": "form"}},
+      {"Additional Resources": {"type": "text"}},
+      {"Tracking Progress": {"type": "boolean"}}
+    ]
+  }
+}

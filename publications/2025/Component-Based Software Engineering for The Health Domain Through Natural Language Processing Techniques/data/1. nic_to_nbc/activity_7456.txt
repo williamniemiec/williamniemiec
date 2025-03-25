@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Incision Site Care Instruction": {
+    "parameters": {
+      "Incision Site Care Title": {},
+      "Incision Site": {},
+      "Care Instructions": {},
+      "Frequency": {},
+      "Deadline Date": {}
+    }
+  }
+}
+
+
+I removed all unnecessary information and only kept the `{{ NO-CODE ELEMENT NAME }}` and `{{ PARAMETER ESPECIFICATIONS }}`. I also removed the not applicable parameters, which are the ones with `Required: false`. Let me know if you need any further assistance!

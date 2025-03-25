@@ -1,0 +1,47 @@
+Here is the output in JSON format:
+
+
+{
+  "Skin Hydration": {
+    "Frequency": {
+      "Description": "Specify how often to hydrate your skin",
+      "Type": "options",
+      "Options": [
+        {"value": "daily", "label": "Daily"},
+        {"value": "onlyOnce", "label": "Only once"},
+        {"value": "everyHours", "label": "Every x hours"},
+        {"value": "everyDays", "label": "Every x days"}
+      ]
+    },
+    "Deadline Date": {
+      "Description": "Specify the due date for hydrating your skin",
+      "Type": "datetime"
+    },
+    "Hydration Method": {
+      "Description": "Select the method to use for hydrating your skin",
+      "Type": "options",
+      "Options": [
+        {"value": "soaking", "label": "Brief soaking"},
+        {"value": "bathing", "label": "Bathing"}
+      ]
+    },
+    "Water Temperature": {
+      "Description": "Select the water temperature for hydrating your skin",
+      "Type": "options",
+      "Options": [
+        {"value": "roomTemperature", "label": "Room temperature"},
+        {"value": "warm", "label": "Warm"},
+        {"value": "cold", "label": "Cold"}
+      ]
+    },
+    "Emollient Application": {
+      "Description": "Select the emollient to apply after hydrating your skin",
+      "Type": "options",
+      "Options": [
+        {"value": "moisturizer", "label": "Moisturizer"},
+        {"value": "lotion", "label": "Lotion"},
+        {"value": "cream", "label": "Cream"}
+      ]
+    }
+  }
+}

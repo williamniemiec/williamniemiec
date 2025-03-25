@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "Drainage Bag Manager": {
+    "Parameters": {
+      "Name": {},
+      "Frequency": {},
+      "Type": {},
+      "Status": {},
+      "Notes": {}
+    }
+  },
+  "Drainage Bag Entry": {
+    "Parameters": {
+      "Date": {},
+      "Time": {},
+      "Type": {},
+      "Notes": {}
+    }
+  }
+}
+
+
+Let me know if you need any further assistance!

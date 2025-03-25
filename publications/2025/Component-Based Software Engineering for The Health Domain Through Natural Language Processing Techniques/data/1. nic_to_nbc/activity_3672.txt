@@ -1,0 +1,35 @@
+Here is the output in JSON format:
+
+
+{
+  "Protocol": {
+    "parameters": [
+      {
+        "name": "steps",
+        "description": "list of steps to follow",
+        "required": true,
+        "type": "list",
+        "list": [
+          {"label": "Step 1: Prepare the insertion site", "description": "brief description of the step"},
+          {"label": "Step 2: Don personal protective equipment (PPE)", "description": "brief description of the step"},
+          {"label": "Step 3: Clean and disinfect the insertion site", "description": "brief description of the step"},
+          {"label": "Step 4: Insert the central line using aseptic technique", "description": "brief description of the step"}
+        ]
+      },
+      {
+        "name": "environmental_controls",
+        "description": "list of environmental controls to maintain",
+        "required": true,
+        "type": "list",
+        "list": [
+          {"label": "Temperature control", "description": "brief description of the control"},
+          {"label": "Humidity control", "description": "brief description of the control"},
+          {"label": "Airflow control", "description": "brief description of the control"}
+        ]
+      }
+    ]
+  }
+}
+
+
+I removed all unnecessary information and kept only the `{{ PARAMETER ESPECIFICATIONS }}` and `{{ NO-CODE ELEMENT NAME }}`. I also removed the not applicable parameters. Let me know if this meets your requirements!

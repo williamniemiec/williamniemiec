@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Nutritional Status Assessment",
+    "parameters": [
+        { 
+            "name": "Assessment Questions", 
+            "type": "text"
+        },
+        { 
+            "name": "Anthropometric Measurements", 
+            "type": "options"
+        },
+        { 
+            "name": "Dietary Habits", 
+            "type": "text"
+        },
+        { 
+            "name": "Nutritional Risk Factors", 
+            "type": "options"
+        }
+    ]
+}

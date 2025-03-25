@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Lactation Support": {
+        "Parameters": {
+            "Resource List Title": {"Description": "Title of the resource list", "Required": true, "Type": "text"},
+            "Resources": {"Description": "List of resources to support continued lactation upon return to work or school", "Required": true, "Type": "resource-list"},
+            "Tips": {"Description": "List of tips for continued lactation upon return to work or school", "Required": true, "Type": "tip-list"},
+            "Frequency": {"Description": "Specify how often the patient should check-in for lactation support", "Required": true, "Type": "options", "Options": [{"value": "daily", "label": "Daily"}, {"value": "weekly", "label": "Weekly"}, {"value": "monthly", "label": "Monthly"}]}
+        }
+    }
+}

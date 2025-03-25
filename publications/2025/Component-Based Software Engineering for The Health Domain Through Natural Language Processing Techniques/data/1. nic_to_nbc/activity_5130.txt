@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Tube or Catheter Insertion": {
+    "Parameters": {
+      "Tube or Catheter Type": {"Description": "Specify the type of tube or catheter", "Required": true, "Type": "options", "Options": [{"value": "NGTube", "label": "NG Tube"}, {"value": "FoleyCatheter", "label": "Foley Catheter"}, {"value": "other", "label": "Other (please specify)"}]},
+      "Insertion Instructions": {"Description": "Provide instructions for inserting the tube or catheter", "Required": true, "Type": "text"},
+      "Insertion Time": {"Description": "Record the time the tube or catheter was inserted", "Required": true, "Type": "datetime"}
+    }
+  }
+}
+
+
+I removed the `Notes` parameter since it's not required. Let me know if you have any further requests!

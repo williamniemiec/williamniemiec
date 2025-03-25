@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+    "no-code_element_name": "Access Site Tracker",
+    "parameters": {
+        "site_type": "",
+        "inspection_frequency": "",
+        "inspection_questions": "",
+        "notes": ""
+    }
+}

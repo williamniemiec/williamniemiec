@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+    "Collaborative Design Tool": {
+        "parameters": {
+            "name": {"type": "text"},
+            "design_elements": {"type": "list", "list": [{"element": {"type": "text"}, "options": {"type": "list", "list": [{"label": {"type": "text"}, "value": {"type": "text"}}]}]},
+            "content_modules": {"type": "list", "list": [{"module": {"type": "text"}, "description": {"type": "text"}, "content": {"type": "content"}]}
+        }
+    },
+    "Survey": {
+        "parameters": {
+            "name": {"type": "text"},
+            "questions": {"type": "list", "list": [{"question": {"type": "text"}, "answer_type": {"type": "text"}, "options": {"type": "list", "list": [{"label": {"type": "text"}, "value": {"type": "text"}}]}]}
+        }
+    },
+    "Content Contribution Tool": {
+        "parameters": {
+            "name": {"type": "text"},
+            "content_types": {"type": "list", "list": [{"type": {"type": "text"}, "description": {"type": "text"}]},
+            "submission_form": {"type": "form", "form": {"fields": {"type": "list", "list": [{"label": {"type": "text"}, "type": {"type": "text"}}]}}
+        }
+    }
+}

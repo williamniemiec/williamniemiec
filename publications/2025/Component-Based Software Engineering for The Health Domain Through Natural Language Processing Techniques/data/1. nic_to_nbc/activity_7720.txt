@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+    "Lifestyle Impact Assessment": {
+        "Medication Name": {"type": "text"},
+        "Lifestyle Areas": {"type": "options", "options": ["work", "relationships", "sleep", "daily activities", "etc."]},
+        "Impact Scale": {"type": "options", "options": [1, 2, 3, 4, 5]},
+        "Frequency": {"type": "options", "options": ["daily", "weekly", "monthly"]},
+        "Notes": {"type": "text"}
+    },
+    "Lifestyle Impact Question": {
+        "Question": {"type": "text"},
+        "Answer Type": {"type": "options", "options": ["text", "scale", "etc."]},
+        "Frequency": {"type": "options", "options": ["daily", "weekly", "monthly"]},
+        "Notes": {"type": "text"}
+    }
+}
+
+
+Note that I removed the non-applicable parameters and only kept the `{{ PARAMETER ESPECIFICATIONS }}` and `{{ NO-CODE ELEMENT NAME }}`. Let me know if you need any further modifications!

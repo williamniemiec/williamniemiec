@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Dyspnea Tracker": {
+    "Parameters": {
+      "Dyspnea Level": {"Type": "options"},
+      "Events that Improve Dyspnea": {"Type": "text"},
+      "Events that Worsen Dyspnea": {"Type": "text"},
+      "Frequency": {"Type": "options"},
+      "Notes": {"Type": "text"}
+    }
+  }
+}
+
+
+Let me know if this is what you were looking for!

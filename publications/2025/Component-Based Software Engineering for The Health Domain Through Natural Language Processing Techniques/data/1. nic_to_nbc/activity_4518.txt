@@ -1,0 +1,37 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Safety Alert",
+    "parameters": [
+        { 
+            "name": "name", 
+            "description": "A parameter that specifies the title or name of the safety alert.",
+            "required": true, 
+            "type": "text"
+        },
+        { 
+            "name": "content", 
+            "description": "A parameter that specifies the safety alert message to be displayed to the patient.",
+            "required": true, 
+            "type": "text"
+        },
+        { 
+            "name": "area", 
+            "description": "A parameter that specifies the affected area to be protected (e.g., arm, leg, back).",
+            "required": true, 
+            "type": "text"
+        },
+        { 
+            "name": "frequency", 
+            "description": "A parameter that specifies how often the patient should be reminded of the safety alert.",
+            "required": true, 
+            "type": "options",
+            "options": [
+                { value: "daily", label: "Daily" },
+                { value: "everyHours", label: "Every x hours" },
+                { value: "everyDays", label: "Every x days" },
+            ]
+        }
+    ]
+}

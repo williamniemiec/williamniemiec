@@ -1,0 +1,43 @@
+Here is the output in JSON format:
+
+
+{
+  "Respiratory and Cardiac Status Evaluation": {
+    "Symptom Checklist": {
+      "type": "list",
+      "parameters": [
+        "New-onset wheezing",
+        "Hemoptysis",
+        "Dyspnea",
+        "Tachypnea",
+        "Tachycardia",
+        "Syncope"
+      ]
+    },
+    "Assessment Questions": {
+      "type": "list",
+      "parameters": [
+        "How often do you experience shortness of breath?",
+        "Do you have chest pain or discomfort?",
+        "Have you noticed any changes in your heart rate or rhythm?"
+      ]
+    },
+    "Vital Sign Monitoring": {
+      "type": "text or multimedia (e.g., images, videos)",
+      "parameters": [
+        "Heart rate",
+        "Respiratory rate",
+        "Blood pressure",
+        "Oxygen saturation"
+      ]
+    },
+    "Risk Assessment": {
+      "type": "text or multimedia (e.g., images, videos)",
+      "parameters": [
+        "Calculating a risk score",
+        "Identifying high-risk patients",
+        "Generating a personalized care plan"
+      ]
+    }
+  }
+}

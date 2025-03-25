@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Cough Tracker": {
+    "Parameters": {
+      "Cough Onset": {"Type": "datetime"},
+      "Cough Characteristics": {"Type": "text"},
+      "Cough Duration": {"Type": "numeric"},
+      "Cough Frequency": {"Type": "numeric"},
+      "Cough Severity": {"Type": "scale"},
+      "Tracking Frequency": {"Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"Type": "datetime"}
+    }
+  }
+}

@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+  "No-code Element Name": "Self-Care Coach",
+  "Parameters": {
+    "Emotional Needs": {
+      "Type": "options",
+      "Options": ["feeling loved and supported", "managing feelings of guilt and anxiety", "developing self-esteem"]
+    },
+    "Developmental Needs": {
+      "Type": "options",
+      "Options": ["building social skills", "developing independence", "improving communication skills"]
+    },
+    "Strategies": {
+      "Type": "interactive module"
+    },
+    "Reflection and Feedback": {
+      "Type": "text"
+    },
+    "Frequency": {
+      "Type": "options",
+      "Options": ["daily", "weekly", "monthly", "onlyOnce"]
+    }
+  }
+}

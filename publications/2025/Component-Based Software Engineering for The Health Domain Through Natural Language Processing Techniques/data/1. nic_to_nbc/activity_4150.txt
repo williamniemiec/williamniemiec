@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Contract": {
+    "parameters": {
+      "Contract Statement": {"type": "text"},
+      "Duration": {"type": "options", "values": ["24 hours", "1 week", "1 month"]},
+      "Reminders": {"type": "options", "values": ["daily", "weekly"]},
+      "Support Contacts": {"type": "list", "values": ["therapist", "support group", "emergency services"]}
+    }
+  }
+}
+
+
+Let me know if this is what you were expecting!

@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+
+{
+  "Environmental Comfort": {
+    "Bedding": {},
+    "Room Cleanliness": {},
+    "Temperature Control": {},
+    "Lighting": {},
+    "Noise Level": {}
+  }
+}

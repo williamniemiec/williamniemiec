@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Test Result Tracker": {
+    "Parameters": {
+      "Test Information": {"Type": "text"},
+      "Status": {"Type": "text"},
+      "Expected Date": {"Type": "date"},
+      "Notification Preferences": {"Type": "options"},
+      "Result Summary": {"Type": "text"},
+      "View Full Results": {"Type": "link or downloadable file"},
+      "Follow-up Instructions": {"Type": "text"}
+    }
+  }
+}

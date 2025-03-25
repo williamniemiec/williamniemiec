@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Sensory Stimulation",
+    "parameters": [
+        {
+            "name": "Sensory Activities",
+            "type": "options"
+        },
+        {
+            "name": "Stimulation Guidelines",
+            "type": "text"
+        },
+        {
+            "name": "Examples",
+            "type": "text"
+        },
+        {
+            "name": "Tips",
+            "type": "text"
+        },
+        {
+            "name": "Reminders",
+            "type": "options"
+        }
+    ]
+}

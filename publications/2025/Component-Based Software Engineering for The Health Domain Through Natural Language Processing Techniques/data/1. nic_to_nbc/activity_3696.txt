@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Drainage Tracking": {
+    "Parameters": {
+      "Drainage Measurement": "",
+      "Marking Method": [
+        "Using a pen or marker to draw a line around the drainage",
+        "Taking a photo of the drainage with a measuring tape or ruler"
+      ],
+      "Frequency": "",
+      "Reporting": "",
+      "Deadline Date": ""
+    }
+  }
+}

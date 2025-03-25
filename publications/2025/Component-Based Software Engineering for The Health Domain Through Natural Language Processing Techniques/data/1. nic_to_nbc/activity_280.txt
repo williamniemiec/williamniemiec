@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Financial Planning Guide": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Content": {"Type": "text or HTML"},
+      "Resources": {"Type": "list of URLs or text"},
+      "Tips": {"Type": "list of text or HTML"}
+    }
+  },
+  "Question": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Answer Type": {"Type": "options (e.g., yes/no, text)"},
+      "Resources": {"Type": "list of URLs or text"},
+      "Follow-up Questions": {"Type": "list of questions (with parameters)"}
+    }
+  }
+}

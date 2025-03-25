@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Emotion Identification",
+    "parameters": [
+        {
+            "name": "Emotions",
+            "type": "options"
+        },
+        {
+            "name": "Description",
+            "type": "text"
+        },
+        {
+            "name": "Reflection Prompt",
+            "type": "text"
+        },
+        {
+            "name": "Frequency",
+            "type": "options"
+        }
+    ]
+}
+
+
+Note that I removed the `Deadline Date` parameter since it was marked as not applicable (`required: false`). Let me know if you need any further modifications!

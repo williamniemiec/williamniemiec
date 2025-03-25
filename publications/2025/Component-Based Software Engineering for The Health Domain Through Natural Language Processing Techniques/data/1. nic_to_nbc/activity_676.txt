@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Fetal Heart Rate Monitoring": {
+    "Monitoring Methods": {},
+    "Frequency": {},
+    "Normal Ranges": {},
+    "Abnormalities": {}
+  }
+}

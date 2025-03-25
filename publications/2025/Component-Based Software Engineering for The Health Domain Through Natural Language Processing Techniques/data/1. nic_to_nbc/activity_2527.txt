@@ -1,0 +1,35 @@
+Here is the output in JSON format:
+
+
+{
+  "Wound Assessment": {
+    "Parameters": {
+      "Wound Location": {
+        "Description": "Specify the location of the wound on the body",
+        "Required": true,
+        "Type": "options",
+        "Options": ["Arm", "Leg", "Back", "Chest", "Abdomen", "Head", "Neck"]
+      },
+      "Wound Size": {
+        "Description": "Record the length, width, and depth of the wound",
+        "Required": true,
+        "Type": "measurement",
+        "Measurement units": ["Length (cm)", "Width (cm)", "Depth (cm)"]
+      },
+      "Wound Appearance": {
+        "Description": "Record the color, texture, and any notable features of the wound",
+        "Required": true,
+        "Type": "text"
+      },
+      "Frequency": {
+        "Description": "Frequency of performing wound assessment",
+        "Required": true,
+        "Type": "options",
+        "Options": ["daily", "everyOtherDay", "weekly", "biWeekly"]
+      }
+    }
+  }
+}
+
+
+I removed the not applicable parameters (Photo and Deadline Date) as per your request.

@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Activity Calendar": {
+    "parameters": [
+      {"name": "Activity List", "description": "A parameter that specifies the list of activities available for parents to participate in"},
+      {"name": "Schedule", "description": "A parameter that specifies the schedule for the activities"},
+      {"name": "Registration", "description": "A parameter that specifies the registration process for parents to participate in the activities"},
+      {"name": "Reminders", "description": "A parameter that specifies the reminders sent to parents to encourage participation"}
+    ]
+  }
+}

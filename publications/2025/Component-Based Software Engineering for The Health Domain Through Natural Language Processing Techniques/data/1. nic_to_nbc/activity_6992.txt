@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "Educational Content": {
+    "Parameters": {
+      "Title": {"Type": "text"},
+      "Text": {"Type": "text"},
+      "Media": {"Type": "image or video"}
+    }
+  },
+  "Interactive Quiz": {
+    "Parameters": {
+      "Questions": {"Type": "form", "Options": ["multiple-choice", "true/false", "etc."]},
+      "Answers": {"Type": "text"},
+      "Feedback": {"Type": "text"}
+    }
+  },
+  "Guide": {
+    "Parameters": {
+      "Steps": {"Type": "list of text"},
+      "Tips": {"Type": "text"}
+    }
+  }
+}

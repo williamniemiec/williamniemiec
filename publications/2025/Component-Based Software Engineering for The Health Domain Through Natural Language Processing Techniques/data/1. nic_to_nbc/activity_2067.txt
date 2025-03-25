@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Cuff Suctioning Guide": {
+    "Suctioning Steps": {"Type": "text or multimedia"},
+    "Cuff Deflation": {"Type": "boolean"},
+    "Suctioning Frequency": {"Type": "options", "Options": ["every time before deflation", "as needed", "custom schedule"]},
+    "Suctioning Log": {"Type": "table or chart"}
+  }
+}

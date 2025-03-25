@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Tracking": {
+    "parameters": {
+      "Medication Name": {"type": "text"},
+      "Start Date": {"type": "date"},
+      "Stop Date": {"type": "date"},
+      "Dosage": {"type": "text"},
+      "Frequency": {"options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Notes": {"type": "text"}
+    }
+  }
+}

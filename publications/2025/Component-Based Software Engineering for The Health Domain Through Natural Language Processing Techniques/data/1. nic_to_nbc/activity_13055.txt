@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+  "Motivational Message": {
+    "Message": {"type": "text"},
+    "Image": {"type": "image"}
+  },
+  "Goal Tracking": {
+    "Goal": {"type": "text"},
+    "Progress Metric": {"type": "options"},
+    "Target Value": {"type": "numeric"}
+  },
+  "Behavioral Reinforcement": {
+    "Reinforcement Type": {"type": "options"},
+    "Reinforcement Value": {"type": "numeric"}
+  },
+  "Motivational Reminders": {
+    "Reminder Message": {"type": "text"},
+    "Reminder Frequency": {"type": "options"}
+  }
+}

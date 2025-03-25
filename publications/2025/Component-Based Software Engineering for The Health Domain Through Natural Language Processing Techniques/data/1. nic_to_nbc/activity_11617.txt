@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Positioning Guide": {
+        "parameters": {
+            "Position Description": {"type": "text"},
+            "Step-by-Step Instructions": {"type": "ordered list"},
+            "Frequency": {"options": ["daily", "weekly", "as prescribed"]},
+            "Reminders": {"type": "boolean"},
+            "Tracking": {"type": "boolean"}
+        }
+    }
+}

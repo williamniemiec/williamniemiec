@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Safety Plan": {
+    "Parameters": {
+      "Triggers": {},
+      "Safety Measures": {},
+      "Emergency Contact": {},
+      "Frequency of Check-ins": {}
+    }
+  }
+}

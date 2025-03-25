@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Wound Tracker": {
+    "wound_type": "",
+    "drainage": "",
+    "color": "",
+    "size": "",
+    "odor": "",
+    "photo": "",
+    "notes": ""
+  },
+  "Question": {
+    "name": "",
+    "answer_type": "",
+    "options": []
+  }
+}

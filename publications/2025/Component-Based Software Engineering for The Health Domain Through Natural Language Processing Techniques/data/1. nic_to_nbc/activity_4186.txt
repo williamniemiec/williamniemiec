@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+json
+{
+    "name": "Cultural Support",
+    "parameters": [
+        { 
+            "name": "Custom", 
+            "type": "text"
+        },
+        { 
+            "name": "Importance", 
+            "type": "options"
+        },
+        { 
+            "name": "Frequency", 
+            "type": "options"
+        },
+        { 
+            "name": "Resources", 
+            "type": "text"
+        }
+    ]
+}

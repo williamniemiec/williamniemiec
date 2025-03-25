@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Vital Sign Monitoring": {
+    "Parameters": {
+      "Vital Signs": {},
+      "Monitoring Frequency": {},
+      "Thresholds": {},
+      "Alerts": {},
+      "Documentation": {}
+    }
+  }
+}

@@ -1,0 +1,30 @@
+Here is the output in JSON format:
+
+
+{
+    "Supply List": {
+        "name": {},
+        "item list": {},
+        "categorization": {}
+    },
+    "Medication List": {
+        "name": {},
+        "medication list": {},
+        "filtering options": {}
+    },
+    "Equipment List": {
+        "name": {},
+        "equipment list": {},
+        "categorization": {}
+    },
+    "Supply Chain Management": {
+        "name": {},
+        "inventory management": {},
+        "logistics management": {}
+    },
+    "Patient Care Protocols": {
+        "name": {},
+        "protocol list": {},
+        "updating options": {}
+    }
+}

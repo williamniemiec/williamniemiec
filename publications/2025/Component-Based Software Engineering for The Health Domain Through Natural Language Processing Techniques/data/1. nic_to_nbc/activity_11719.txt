@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Care Update": {
+    "Parameters": {
+      "Care Summary": {},
+      "Care Plan": {},
+      "Progress Updates": {},
+      "Care Team Members": {},
+      "Parental Questions and Concerns": {}
+    }
+  }
+}

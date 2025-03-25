@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "noCodeElementName": "Pain Management",
+  "parameterSpecifications": {
+    "name": "medication name (e.g., \"Pain Medication\")",
+    "why": "explanation of why the medication should be taken",
+    "dosage": "description of the medication dosage that should be taken",
+    "frequency": "specify how often the medication should be taken (e.g., as needed, every 4 hours, etc.)",
+    "deadline_date": "specify the due date of the medication administration",
+    "notes": "additional notes or instructions for the patient"
+  }
+}

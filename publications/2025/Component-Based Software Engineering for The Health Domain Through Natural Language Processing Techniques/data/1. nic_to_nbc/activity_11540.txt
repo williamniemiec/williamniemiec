@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+{
+  "Colestead Selector": {
+    "parameters": {
+      "name": "",
+      "coleader_criteria": [],
+      "coleader_options": [],
+      "selection_method": "",
+      "selection_reason": ""
+    }
+  }
+}

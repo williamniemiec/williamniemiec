@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Air Emboli Prevention": {
+    "Parameters": {
+      "Air bubble removal": {
+        "Type": "boolean",
+        "Default value": false
+      },
+      "Balloon rupture protocol": {
+        "Type": "options",
+        "Options": ["refrainFromReinflation", "clampBalloonPort", "other"]
+      }
+    }
+  }
+}

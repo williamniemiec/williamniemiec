@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "noCodeElementName": "Schedule Appointment",
+  "parameterSpecifications": {
+    "Service Provider": {"type": "text"},
+    "Service Type": {"type": "options"},
+    "Appointment Date": {"type": "datetime"},
+    "Frequency": {"type": "options"},
+    "Reminder": {"type": "boolean"}
+  }
+}
+
+
+Let me know if this meets your requirements!

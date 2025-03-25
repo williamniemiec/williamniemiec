@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+  "Immobilization Guidance": {
+    "parameters": {
+      "Extremity": {
+        "type": "options",
+        "options": [
+          { "value": "arm", "label": "Arm" },
+          { "value": "leg", "label": "Leg" }
+        ]
+      },
+      "Immobilization Method": {
+        "type": "options",
+        "options": [
+          { "value": "cast", "label": "Cast" },
+          { "value": "splint", "label": "Splint" }
+        ]
+      },
+      "Instructions": {
+        "type": "text"
+      }
+    }
+  }
+}

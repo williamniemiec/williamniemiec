@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Importance of Inspection": {
+    "Parameters": {
+      "Education Title": {},
+      "Content": {},
+      "Reasons": {},
+      "Frequency": {}
+    }
+  }
+}

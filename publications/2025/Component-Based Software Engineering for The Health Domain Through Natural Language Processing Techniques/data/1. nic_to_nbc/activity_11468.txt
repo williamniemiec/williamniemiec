@@ -1,0 +1,35 @@
+Here is the output in JSON format:
+
+
+{
+  "Safety Restraint Plan": {
+    "Restraint Type": {
+      "Type": "options",
+      "Options": ["mitts", "splints", "helmets", "other"]
+    },
+    "Indications": {
+      "Type": "list of text"
+    },
+    "Contraindications": {
+      "Type": "list of text"
+    },
+    "Application Instructions": {
+      "Type": "list of text"
+    },
+    "Monitoring Frequency": {
+      "Type": "options",
+      "Options": ["continuous", "frequent", "periodic", "other"]
+    },
+    "Duration": {
+      "Type": "options",
+      "Options": ["short-term", "long-term", "other"]
+    },
+    "Caregiver Involvement": {
+      "Type": "options",
+      "Options": ["high", "medium", "low", "other"]
+    }
+  }
+}
+
+
+Note: I removed the not applicable parameters and kept only the relevant information. Let me know if you need any further modifications!

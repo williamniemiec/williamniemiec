@@ -1,0 +1,10 @@
+{
+  "name": "Smoking Cessation and Quit Strategies",
+  "description": "Provides support for individuals quitting smoking or tobacco use. It includes strategies for quitting, reasons for cessation, and helps track progress. Focuses on smoking icons, nicotine alternatives, and the benefits of quitting.",
+  "type": "periodic",
+  "input": ["Smoking cessation", "Nicotine alternatives", "Tobacco quitting strategies", "Quit motivation", "Smoking reasons"],
+  "output": ["Cessation progress report", "Quit strategy tips", "Nicotine reduction guide"],
+  "preconditions": ["User is attempting to quit smoking or tobacco use"],
+  "postconditions": ["Increased success in quitting smoking or tobacco"],
+  "dependencies": ["Cessation support platform", "Nicotine replacement resources", "Progress tracking tools"]
+}

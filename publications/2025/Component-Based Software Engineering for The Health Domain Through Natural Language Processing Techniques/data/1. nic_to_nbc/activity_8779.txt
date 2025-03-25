@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+    "Referral Service": {
+        "Referral Type": {
+            "Type": "options",
+            "Options": ["social work", "art therapy", "counseling", "etc"]
+        },
+        "Referral Reason": {
+            "Type": "text"
+        },
+        "Referral Provider": {
+            "Type": "text or structured data (e.g., JSON)"
+        },
+        "Referral Instructions": {
+            "Type": "text"
+        }
+    }
+}

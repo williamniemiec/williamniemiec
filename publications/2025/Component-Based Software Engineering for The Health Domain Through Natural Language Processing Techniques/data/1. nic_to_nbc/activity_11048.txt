@@ -1,0 +1,29 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Comorbidity Assessment",
+    "parameters": [
+        {
+            "name": "Comorbidity Screening",
+            "options": [
+                { "value": "Questionnaire" },
+                { "value": "Assessment Scale" }
+            ]
+        },
+        {
+            "name": "Comorbidity Identification",
+            "options": [
+                { "value": "Algorithm" },
+                { "value": "Clinical Review" }
+            ]
+        },
+        {
+            "name": "Treatment Adjustment",
+            "options": [
+                { "value": "Treatment Plan" },
+                { "value": "Medication Management" }
+            ]
+        }
+    ]
+}

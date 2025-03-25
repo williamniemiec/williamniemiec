@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Trachea Care Task": {
+    "parameters": {
+      "name": "Trachea Care",
+      "content": "Clean the inner cannula, clean and dry the area around the stoma, and change tracheostomy ties",
+      "frequency": "options for how often the task should be performed (e.g., every 4 to 8 hours)"
+    }
+  }
+}

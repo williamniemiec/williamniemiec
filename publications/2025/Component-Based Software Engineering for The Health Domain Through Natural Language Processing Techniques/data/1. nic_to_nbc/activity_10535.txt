@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Discharge Plan Communication": {
+    "parameters": {
+      "Discharge Plan": {},
+      "Communication Channels": {},
+      "Recipients": {},
+      "Communication Content": {},
+      "Confirmation": {},
+      "Documentation": {}
+    }
+  }
+}

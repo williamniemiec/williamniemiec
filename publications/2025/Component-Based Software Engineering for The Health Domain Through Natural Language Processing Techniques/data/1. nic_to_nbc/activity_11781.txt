@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Target Population Characteristics": {
+    "Demographics": {},
+    "Learning Style": {},
+    "Health Literacy": {},
+    "Cultural Background": {},
+    "Technology Proficiency": {},
+    "Patient Input": {}
+  }
+}

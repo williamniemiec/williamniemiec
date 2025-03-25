@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Fluid Management",
+    "parameters": [
+        { 
+            "name": "Fluid Intake Goal"
+        },
+        { 
+            "name": "Fluid Type"
+        },
+        { 
+            "name": "Hydration Monitoring"
+        },
+        { 
+            "name": "Reminders"
+        },
+        { 
+            "name": "Education"
+        }
+    ]
+}

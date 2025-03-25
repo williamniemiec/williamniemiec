@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+    "REM Sleep-Friendly Medication Guide": {
+        "Name": {"Type": "text"},
+        "Medication List": {"Type": "unordered list"},
+        "Medication Details": {"Type": "table"},
+        "REM Sleep Suppressor Information": {"Type": "rich text"},
+        "Alternative Medication Options": {"Type": "unordered list"}
+    }
+}

@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+    "Parent/Caretaker Education": {
+        "name": "",
+        "content": "",
+        "format": "",
+        "frequency": "",
+        "deadline_date": ""
+    },
+    "Parent/Caretaker Involvement Activity": {
+        "name": "",
+        "activity_type": "",
+        "instructions": "",
+        "frequency": "",
+        "deadline_date": ""
+    },
+    "Progress Update": {
+        "name": "",
+        "update_type": "",
+        "frequency": "",
+        "deadline_date": ""
+    }
+}
+
+
+Let me know if this is what you were expecting!

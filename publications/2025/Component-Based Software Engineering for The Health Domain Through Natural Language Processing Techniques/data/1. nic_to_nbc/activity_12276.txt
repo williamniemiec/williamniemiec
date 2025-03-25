@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Body Alignment Guide": {
+        "title of the guide": {"Type": "text"},
+        "Images": {"Type": "list of images"},
+        "Steps": {"Type": "list"},
+        "Tips": {"Type": "list"},
+        "Frequency": {"Type": "options", "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+        "Deadline Date": {"Type": "datetime"},
+        "Reminder": {"Type": "boolean"}
+    }
+}

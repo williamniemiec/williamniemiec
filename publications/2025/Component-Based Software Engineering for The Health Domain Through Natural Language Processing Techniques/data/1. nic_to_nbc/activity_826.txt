@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Cough Diary": {
+    "Onset Time": {"Type": "datetime"},
+    "Cough Characteristics": {"Type": "options"},
+    "Duration": {"Type": "numerical value"},
+    "Frequency": {"Type": "options"},
+    "Notes": {"Type": "text"}
+  }
+}

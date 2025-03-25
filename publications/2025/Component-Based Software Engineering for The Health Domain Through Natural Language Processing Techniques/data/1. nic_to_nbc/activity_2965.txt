@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Orientation": {
+    "Time Orientation": {"Description": "Display the current time and ask the patient to confirm", "Type": "time display"},
+    "Place Orientation": {"Description": "Display the patient's current location and ask them to confirm", "Type": "location display"},
+    "Person Orientation": {"Description": "Display the patient's caregiver or companion and ask them to confirm", "Type": "person display"},
+    "Frequency": {"Description": "How often the patient would like to engage in this orientation activity", "Type": "options", "Options": [{"value": "daily", "label": "Daily"}, {"value": "weekly", "label": "Weekly"}, {"value": "monthly", "label": "Monthly"}]}
+  }
+}

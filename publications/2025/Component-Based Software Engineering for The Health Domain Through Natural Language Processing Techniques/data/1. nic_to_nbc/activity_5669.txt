@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+  "Goal Setting": {
+    "name": {"type": "text"},
+    "target": {},
+    "deadline": {"type": "date and time"}
+  },
+  "Tracking": {
+    "name": {"type": "text"},
+    "type": {},
+    "frequency": {"options": ["daily", "weekly", "monthly", "etc."]}
+  },
+  "Motivational Message": {
+    "name": {"type": "text"},
+    "content": {},
+    "trigger": {}
+  },
+  "Quiz": {
+    "name": {"type": "text"},
+    "questions": {},
+    "answers": {}
+  }
+}
+
+
+I removed all the unnecessary information and kept only the `{{ NO-CODE ELEMENT NAME }}` and `{{ PARAMETER ESPECIFICATIONS }}`. I also removed any parameters that were marked as "not applicable". Let me know if you need anything else!

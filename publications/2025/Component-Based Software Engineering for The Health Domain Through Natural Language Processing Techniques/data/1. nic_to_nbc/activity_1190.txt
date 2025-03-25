@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Consent Form",
+  "parameters": [
+    {
+      "name": "Form Content",
+      "type": "text or multimedia"
+    },
+    {
+      "name": "Patient Information",
+      "type": "text"
+    },
+    {
+      "name": "Signature",
+      "type": "boolean"
+    },
+    {
+      "name": "Submission",
+      "type": "options"
+    }
+  ]
+}
+
+
+I removed the introduction, conclusion, and example JSON structure from the input text. I also removed the description, required, and options fields from the parameters to match the specified format. Let me know if you need any further modifications!

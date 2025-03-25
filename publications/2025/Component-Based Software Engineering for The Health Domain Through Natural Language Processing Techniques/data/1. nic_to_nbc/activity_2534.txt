@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Fluid Restriction": {
+    "Parameters": {
+      "Condition": {"Type": "text"},
+      "Reason": {"Type": "text"},
+      "Alternative": {"Type": "text"}
+    }
+  }
+}

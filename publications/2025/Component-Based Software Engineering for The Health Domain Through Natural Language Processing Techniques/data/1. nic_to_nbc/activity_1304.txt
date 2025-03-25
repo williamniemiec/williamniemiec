@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Resource Referral": {
+    "Parameters": {
+      "Resource Type": {},
+      "Referral Reason": {},
+      "Referral Frequency": {},
+      "Contact Information": {}
+    }
+  }
+}
+
+
+Note that I removed the "Follow-up" parameter because it was marked as a boolean type, which doesn't have any specific options or values.

@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Health Tip": {
+    "Parameters": {
+      "Name": "Avoid Smoking and Alcohol",
+      "Content": "Avoid smoking and alcohol use to improve your health",
+      "Type": "text",
+      "Frequency": "options (e.g., daily, weekly, monthly)"
+    }
+  }
+}
+
+
+Note that I removed the `Deadline Date` parameter since it was marked as "not applicable". Let me know if you have any further questions!

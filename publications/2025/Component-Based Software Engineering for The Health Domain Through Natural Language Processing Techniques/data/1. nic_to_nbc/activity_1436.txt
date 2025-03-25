@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Hypertonic Saline Administration Guide": {
+    "Patient Weight": {"type": "number"},
+    "Saline Concentration": {"type": "options", "options": ["3%", "4%", "5%"]},
+    "Administration Rate": {"type": "text"},
+    "Observation Notes": {"type": "text"}
+  }
+}

@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "goal_setting": {
+        "parameters": [
+            {"name": "short_term_goals"},
+            {"name": "long_term_goals"},
+            {"name": "exercise_plan"},
+            {"name": "commitment"}
+        ]
+    }
+}

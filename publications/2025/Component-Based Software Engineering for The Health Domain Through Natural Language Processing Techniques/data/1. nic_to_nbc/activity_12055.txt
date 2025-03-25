@@ -1,0 +1,13 @@
+
+
+
+{
+  "Comfort Assessment": {
+    "Parameters": {
+      "Comfort Scale": {"Type": "numeric"},
+      "Comfort Description": {"Type": "text", "Optional": true},
+      "Pain Location": {"Type": "options"},
+      "Pain Intensity": {"Type": "options"}
+    }
+  }
+}

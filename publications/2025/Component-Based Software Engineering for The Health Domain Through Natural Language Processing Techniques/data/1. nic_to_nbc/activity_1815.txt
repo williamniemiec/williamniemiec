@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Adapted Call System Recommendation": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Motor Function Level": {"Type": "options", "Options": ["high", "moderate", "low", "etc."]},
+      "Adapted Call System Type": {"Type": "options", "Options": ["low pressure", "voice control", "sip-and-puff straw like switch", "chin movement switch", "etc."]},
+      "Instructions": {"Type": "text or multimedia"},
+      "Frequency": {"Type": "options", "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"Type": "datetime"}
+    }
+  }
+}

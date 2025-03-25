@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Learning Needs Assessment": {
+    "Parameters": {
+      "Staff Role": {"Type": ["text", "options"]},
+      "Learning Need": {"Type": ["text", "options"]},
+      "Priority Level": {"Type": ["text", "options"]},
+      "Current Knowledge": {"Type": ["text", "options"]},
+      "Learning Objective": {"Type": ["text", "options"]}
+    }
+  },
+  "Training Module": {},
+  "Knowledge Check": {},
+  "Performance Metrics": {}
+}

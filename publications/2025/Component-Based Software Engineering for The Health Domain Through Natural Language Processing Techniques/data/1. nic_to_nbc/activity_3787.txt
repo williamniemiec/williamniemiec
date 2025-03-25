@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Empathy Message": {
+    "parameters": {
+      "message": {"type": "text"},
+      "tone": {"type": "options"},
+      "frequency": {"type": "options"},
+      "deadline_date": {"type": "datetime"}
+    }
+  }
+}

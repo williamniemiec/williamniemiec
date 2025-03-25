@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+    "Urine Specimen Collection Guide": {
+        "Parameters": {
+            "Name": {"Type": "text"},
+            "Instructions": {"Type": "text or multimedia"},
+            "Port Identification": {"Type": "image or video"},
+            "Specimen Collection": {"Type": "checklist or questionnaire"},
+            "Reminders": {"Type": "options"},
+            "Verification": {"Type": "boolean"}
+        }
+    }
+}

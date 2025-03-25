@@ -1,0 +1,29 @@
+{
+  "name": "Capillarity",
+  "description": "Monitors capillary refill, peripheral circulation, and edema to assess blood flow efficiency and detect circulatory issues. Helps manage swelling and maintain healthy circulation.",
+  "type": "periodic",
+  "input": [
+    "Capillary refill time",
+    "Peripheral circulation checks",
+    "Edema symptoms",
+    "Pulse readings",
+    "Swelling and sensation monitoring"
+  ],
+  "output": [
+    "Capillary refill assessment",
+    "Peripheral circulation analysis",
+    "Edema status report",
+    "Swelling and pulse feedback"
+  ],
+  "preconditions": [
+    "User is monitoring circulation, capillary refill, or edema"
+  ],
+  "postconditions": [
+    "Capillary function is assessed, and circulation health is monitored"
+  ],
+  "dependencies": [
+    "Circulation monitoring system",
+    "Capillary refill tracking tools",
+    "Edema and swelling management platform"
+  ]
+}

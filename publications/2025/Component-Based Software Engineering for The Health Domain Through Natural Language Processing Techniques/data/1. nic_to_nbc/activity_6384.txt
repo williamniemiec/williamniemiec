@@ -1,0 +1,6 @@
+Since there is no applicable {{ PARAMETER ESPECIFICATIONS }} in the input text, and {{ NO-CODE ELEMENT NAME }} are "Education Material" and "Treatment Plan Tracker", the output will be:
+
+
+{
+    "no-code-element-names": ["Education Material", "Treatment Plan Tracker"]
+}

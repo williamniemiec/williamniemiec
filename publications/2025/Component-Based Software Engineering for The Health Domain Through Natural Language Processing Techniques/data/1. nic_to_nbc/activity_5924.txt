@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+  "Enteral Tube Feeding Assessment": {
+    "Assessment Questions": {
+      "Type": "form",
+      "Questions": []
+    },
+    "Scoring System": {
+      "Type": "options",
+      "Options": []
+    },
+    "Threshold Value": {
+      "Type": "number",
+      "Value": null
+    },
+    "Recommendation": {
+      "Type": "text",
+      "Options": []
+    }
+  }
+}

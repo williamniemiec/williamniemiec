@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Discipline Strategies",
+  "parameters": [
+    {
+      "name": "Strategy Type"
+    },
+    {
+      "name": "Description"
+    },
+    {
+      "name": "Encouragement"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+"Alert": {
+    "Name": {"type": "text"},
+    "Description": {"type": "text"},
+    "Condition": {"type": "text"},
+    "Action": {"type": "text"},
+    "Frequency": {"type": "options"},
+    "Deadline Date": {"type": "datetime"}
+}
+}

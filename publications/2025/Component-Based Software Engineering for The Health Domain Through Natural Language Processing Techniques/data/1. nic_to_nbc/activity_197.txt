@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Contract": {
+        "parameters": [
+            {"name": "contract_title"},
+            {"name": "contract_terms"},
+            {"name": "patient_signature"},
+            {"name": "date_signed"}
+        ]
+    }
+}

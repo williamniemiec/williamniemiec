@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "Emotional Support": {
+    "name": "title of the emotional support session",
+    "content": "text or audio/video message from a healthcare professional offering emotional support",
+    "type": "options for type of emotional support (e.g., coping strategies, referral, etc.)",
+    "frequency": "how often the patient wants to receive emotional support (e.g., daily, weekly, etc.)",
+    "deadline_date": "due date for the patient to respond or engage with the emotional support"
+  },
+  "Journaling": {
+    "name": "title of the journal entry",
+    "content": "text input for patients to write their thoughts and emotions",
+    "frequency": "how often the patient wants to journal (e.g., daily, weekly, etc.)",
+    "deadline_date": "due date for the patient to submit their journal entry"
+  },
+  "Resource Referral": {
+    "name": "title of the resource or referral",
+    "content": "text or link to the resource or referral",
+    "type": "options for type of resource or referral (e.g., counseling, support groups, etc.)",
+    "frequency": "how often the patient wants to receive new resources or referrals (e.g., daily, weekly, etc.)",
+    "deadline_date": "due date for the patient to engage with the resource or referral"
+  }
+}

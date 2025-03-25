@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+  "Intake and Output Record Guidance": {
+    "Instructions": {
+      "Type": "text"
+    },
+    "Record Template": {
+      "Type": "table or form"
+    },
+    "Tracking Frequency": {
+      "Type": "options (e.g., daily, every 8 hours, as needed)"
+    },
+    "Reminders": {
+      "Type": "boolean (yes/no)"
+    },
+    "Education": {
+      "Type": "text or multimedia (image, video)"
+    }
+  }
+}

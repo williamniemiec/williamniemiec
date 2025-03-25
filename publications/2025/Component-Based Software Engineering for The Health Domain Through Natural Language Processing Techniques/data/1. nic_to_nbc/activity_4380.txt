@@ -1,0 +1,48 @@
+Here is the output in JSON format:
+
+{
+    "name": "Normalcy Focus",
+    "parameters": [
+        {
+            "name": "Focus Area",
+            "options": [
+                { value: "daily routines", label: "Daily Routines" },
+                { value: "social interactions", label: "Social Interactions" },
+                { value: "physical activities", label: "Physical Activities" },
+                { value: "emotional well-being", label: "Emotional Well-being" },
+                { value: "cognitive development", label: "Cognitive Development" }
+            ]
+        },
+        {
+            "name": "Normalization Strategy",
+            "options": [
+                { value: "reframing", label: "Reframing" },
+                { value: "distraction", label: "Distraction" },
+                { value: "normalization techniques", label: "Normalization Techniques" },
+                { value: "positive reinforcement", label: "Positive Reinforcement" },
+                { value: "role-playing", label: "Role-Playing" }
+            ]
+        },
+        {
+            "name": "Frequency",
+            "options": [
+                { value: "daily", label: "Daily" },
+                { value: "onlyOnce", label: "Only once" },
+                { value: "everyHours", label: "Every x hours" },
+                { value: "everyDays", label: "Every x days" }
+            ]
+        },
+        {
+            "name": "Deadline Date",
+            "type": "datetime"
+        },
+        {
+            "name": "Support Needed",
+            "type": "text"
+        },
+        {
+            "name": "Goal",
+            "type": "text"
+        }
+    ]
+}

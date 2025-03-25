@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+    "Emotion Explorer": {
+        "Emotion identification": {"Type": "text or options"},
+        "Trigger identification": {"Type": "text"},
+        "Function exploration": {"Type": "text or options"},
+        "Reflection prompts": {"Type": "text"},
+        "Pattern identification": {"Type": "algorithm or conditional logic"}
+    }
+}

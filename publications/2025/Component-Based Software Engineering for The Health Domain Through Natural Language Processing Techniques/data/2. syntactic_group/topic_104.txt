@@ -1,0 +1,10 @@
+{
+  "name": "Bed and Mattress Positioning",
+  "description": "Covers the proper positioning of beds and mattresses, including air mattress switching, degree elevation, and alternating placement techniques for optimal patient comfort.",
+  "type": "non-periodic",
+  "input": ["Bed positioning", "Mattress elevation", "Air mattress switching", "Patient placement techniques"],
+  "output": ["Positioning and placement feedback", "Mattress adjustment guide", "Elevation technique report"],
+  "preconditions": ["User is adjusting bed and mattress positioning for patients"],
+  "postconditions": ["Comfortable and safe patient positioning with optimal mattress settings"],
+  "dependencies": ["Mattress adjustment tools", "Patient care management systems"]
+}

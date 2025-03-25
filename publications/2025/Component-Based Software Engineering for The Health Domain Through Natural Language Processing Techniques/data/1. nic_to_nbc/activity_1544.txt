@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Property Description": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Clothing Description": {"Type": "text"},
+      "Jewelry Description": {"Type": "text"},
+      "Personal Property Description": {"Type": "text"},
+      "Frequency": {"Type": "options", "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"Type": "datetime"}
+    }
+  }
+}

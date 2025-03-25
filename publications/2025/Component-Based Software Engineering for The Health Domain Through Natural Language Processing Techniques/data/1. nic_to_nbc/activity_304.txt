@@ -1,0 +1,10 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Decontamination Guide",
+    "parameters": {
+        "pages": "A list of HTML texts explaining the decontamination policies, procedures, and protocols",
+        "required_reading": "A boolean parameter indicating whether the patient must read the guide before proceeding"
+    }
+}

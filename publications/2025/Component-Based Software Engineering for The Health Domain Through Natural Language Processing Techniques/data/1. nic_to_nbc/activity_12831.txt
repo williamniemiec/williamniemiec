@@ -1,0 +1,37 @@
+Here is the output in JSON format:
+
+
+{
+  "Pain Management Share": {
+    "Nonpharmacologic strategies": {
+      "type": "multiselect",
+      "options": [
+        {"value": "meditation", "label": "Meditation"},
+        {"value": "deepBreathing", "label": "Deep Breathing"},
+        {"value": "physicalTherapy", "label": "Physical Therapy"},
+        {"value": "other", "label": "Other (please specify)"}
+      ]
+    },
+    "Healthcare team": {
+      "type": "multiselect",
+      "options": [
+        {"value": "primaryCarePhysician", "label": "Primary Care Physician"},
+        {"value": "painManagementSpecialist", "label": "Pain Management Specialist"},
+        {"value": "nursePractitioner", "label": "Nurse Practitioner"},
+        {"value": "other", "label": "Other (please specify)"}
+      ]
+    },
+    "Family members": {
+      "type": "multiselect",
+      "options": [
+        {"value": "spouse", "label": "Spouse"},
+        {"value": "child", "label": "Child"},
+        {"value": "parent", "label": "Parent"},
+        {"value": "other", "label": "Other (please specify)"}
+      ]
+    }
+  }
+}
+
+
+I removed the introduction, number, description, and conclusion sections, as well as the "Content type" and "Share" parameters, which are not applicable. The resulting JSON object contains only the relevant parameter specifications and the no-code element name.

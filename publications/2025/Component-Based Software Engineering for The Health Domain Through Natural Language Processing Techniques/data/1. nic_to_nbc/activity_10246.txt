@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+  "Keepsake Creator": {
+    "parameters": {
+      "keepsake_types": {
+        "type": "list of options"
+      },
+      "keepsake_templates": {
+        "type": "list of template objects"
+      },
+      "patient_info": {
+        "type": "patient information object"
+      },
+      "family_input": {
+        "type": "list of input objects"
+      },
+      "keepsake_design": {
+        "type": "design object"
+      },
+      "presentation_options": {
+        "type": "list of options"
+      }
+    }
+  }
+}

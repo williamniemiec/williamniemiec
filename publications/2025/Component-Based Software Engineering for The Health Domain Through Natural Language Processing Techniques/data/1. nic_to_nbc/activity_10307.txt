@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Pacemaker Placement Confirmation": {
+    "Chest X-ray Image": {"type": "image upload"},
+    "Radiology Report": {"type": "text or PDF upload"},
+    "Pacemaker Placement Confirmation": {"type": "boolean (true/false)"},
+    "Date of Confirmation": {"type": "date"},
+    "Healthcare Provider": {"type": "text"}
+  }
+}

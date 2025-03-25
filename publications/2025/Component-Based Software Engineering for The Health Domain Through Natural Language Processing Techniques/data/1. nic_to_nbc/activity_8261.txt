@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+    "instruction": {
+        "parameters": [
+            {"name": "instruction", "type": "text"},
+            {"name": "reason", "type": "text"}
+        ]
+    }
+}

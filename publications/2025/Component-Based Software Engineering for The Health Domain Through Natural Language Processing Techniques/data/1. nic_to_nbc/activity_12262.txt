@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+  "Learning Environment": {
+    "parameters": {
+      "Physical Environment": {"type": "options"},
+      "Distraction Level": {"type": "options"},
+      "Technology Availability": {"type": "options"},
+      "Learning Aids": {"type": "options"},
+      "Environmental Adjustments": {"type": "text"},
+      "Conducive Environment": {"type": "text"},
+      "Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"type": "datetime"}
+    }
+  }
+}
+
+
+Let me know if this is what you were looking for!

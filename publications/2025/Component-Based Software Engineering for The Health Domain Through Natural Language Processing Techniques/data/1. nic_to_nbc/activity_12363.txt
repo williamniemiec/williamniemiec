@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Chain of Evidence Protocol": {
+    "Name": {"type": "text"},
+    "Specimen Type": {"type": "text or options"},
+    "Protocol Steps": {"type": "text or multimedia"},
+    "Handler Information": {"type": "text"},
+    "Date and Time": {"type": "date and time"},
+    "Signature": {"type": "digital signature"},
+    "Frequency": {"type": "options"},
+    "Deadline Date": {"type": "datetime"}
+  }
+}

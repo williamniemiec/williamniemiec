@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Police Contact Encouragement",
+  "parameters": [
+    {
+      "name": "Safety Threat",
+      "type": "options"
+    },
+    {
+      "name": "Police Contact Information",
+      "type": "text"
+    },
+    {
+      "name": "Emergency Instructions",
+      "type": "text"
+    },
+    {
+      "name": "Follow-up",
+      "type": "datetime"
+    },
+    {
+      "name": "Confidentiality",
+      "type": "boolean"
+    }
+  ]
+}

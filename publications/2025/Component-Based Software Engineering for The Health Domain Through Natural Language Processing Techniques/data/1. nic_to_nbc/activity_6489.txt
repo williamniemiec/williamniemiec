@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+  "Bleeding Observation": {
+    "Signs of Bleeding": {
+      "Type": "list of signs of bleeding"
+    },
+    "Observation Frequency": {
+      "Type": "text or options"
+    },
+    "Thresholds": {
+      "Type": "list of threshold values with corresponding signs of bleeding"
+    },
+    "Alerts": {
+      "Type": "options"
+    },
+    "Documentation": {
+      "Type": "text or options"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Emotion Identification": {
+    "parameters": []
+  }
+}
+
+
+Note: Since there are no applicable parameters specified, the `parameters` array is empty. If you want to remove it altogether, here is the updated output:
+
+
+{
+  "Emotion Identification": {}
+}

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Caregiver Appreciation": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Appreciation Messages": {"Type": "list of text messages"},
+      "Message Frequency": {"Type": "options"},
+      "Message Tone": {"Type": "options"},
+      "Personalization": {"Type": "boolean"}
+    }
+  }
+}

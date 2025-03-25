@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Positioning Guide": {
+    "Parameters": {
+      "Position": {"Type": "text"},
+      "Instructions": {"Type": "text"},
+      "Image": {"Type": "image"},
+      "Frequency": {"Type": "options", "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"Type": "datetime"}
+    }
+  },
+  "Reminder": {
+    "Parameters": {
+      "Message": {"Type": "text"},
+      "Frequency": {"Type": "options", "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"Type": "datetime"}
+    }
+  }
+}

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Staffing Allocation": {
+    "parameters": {
+      "Staffing Levels": {"type": "numeric"},
+      "Staff Roles": {"type": "dropdown menu or checkbox list"},
+      "Staff Availability": {"type": "calendar or scheduling system"},
+      "Restraint Application Protocol": {"type": "text or checklist"},
+      "Staff Training": {"type": "checkbox list or toggle button"}
+    }
+  }
+}

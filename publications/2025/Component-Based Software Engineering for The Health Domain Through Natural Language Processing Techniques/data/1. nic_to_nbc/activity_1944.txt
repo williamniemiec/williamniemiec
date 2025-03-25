@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "NO-CODE ELEMENT NAME": "",
+  "PARAMETER ESPECIFICATIONS": [
+    "* Communicate their needs and availability",
+    "* Negotiate and agree on a work schedule",
+    "* Address any conflicts or concerns with the nurse manager",
+    "* Ensure that their work schedule aligns with the needs of the group practice meetings"
+  ]
+}

@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "warning": {
+        "parameters": [
+            {"Name": {"type": "text"}},
+            {"Content": {"type": "text"}},
+            {"Reason": {"type": "text"}},
+            {"Image": {"type": "image"}}
+        ]
+    }
+}

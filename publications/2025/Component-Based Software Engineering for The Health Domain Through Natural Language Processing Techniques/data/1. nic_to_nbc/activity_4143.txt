@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+  "Agency Form": {
+    "Parameters": {
+      "Form Type": [],
+      "Fields": {
+        "Text fields": [],
+        "Checkbox fields": [],
+        "Date fields": []
+      },
+      "Agency Specific": [],
+      "Care Activities": [],
+      "Baseline Assessments": [],
+      "Validation Rules": []
+    }
+  }
+}
+
+
+Note that I removed the introduction and conclusion, as well as the number and description of the no-code element. I also removed the "not applicable" parameters, which in this case were none. The resulting JSON object has the no-code element name "Agency Form" with its corresponding parameters.

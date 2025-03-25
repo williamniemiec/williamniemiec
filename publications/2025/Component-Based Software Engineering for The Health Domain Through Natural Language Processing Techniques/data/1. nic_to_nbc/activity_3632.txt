@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Social Connection Guide": {
+    "Guide Content": {"type": ["text", "multimedia"]},
+    "Social Connection Strategies": {"type": ["text", "options"]},
+    "Frequency": {"options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"type": "datetime"}
+  }
+}

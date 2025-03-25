@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Comfortable Eating Position Guide": {
+    "Position": {"type": "options", "options": ["upright", "reclined", "withPillows", "other"]},
+    "Support": {"type": "options", "options": ["pillows", "wedges", "straps", "other"]},
+    "Instructions": {"type": "text or multimedia"},
+    "Reminders": {"type": "boolean", "default": false}
+  }
+}

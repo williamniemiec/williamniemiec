@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Bleeding Risk Tracker": {
+    "parameters": {
+      "Bleeding Episodes": {},
+      "Bleeding Risk Factors": {},
+      "Vital Signs": {},
+      "Bruising or Petechiae": {},
+      "Frequency": {},
+      "Deadline Date": {}
+    }
+  }
+}
+
+
+Note that I removed the `Additional Notes` parameter as it is not applicable (it's a free-text field, not a specific parameter). Let me know if you have any further questions!

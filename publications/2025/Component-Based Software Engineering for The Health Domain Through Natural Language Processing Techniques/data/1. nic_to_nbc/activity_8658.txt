@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Breath Sound Assessment": {
+    "parameters": {
+      "Breath Sound Quality": {"type": "text"},
+      "Areas of Decreased/Absent Ventilation": {"type": "text"},
+      "Adventitious Sounds": {"type": "text"},
+      "Sound Location": {"type": "text"},
+      "Assessment Frequency": {"options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"type": "datetime"}
+    }
+  }
+}

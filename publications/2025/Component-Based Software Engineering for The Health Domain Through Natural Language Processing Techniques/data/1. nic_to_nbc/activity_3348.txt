@@ -1,0 +1,48 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Thermal Application",
+    "parameters": [
+        {
+            "name": "Thermal Agent",
+            "type": "options",
+            "options": [
+                { value: "cold", label: "Cold" },
+                { value: "heat", label: "Heat" }
+            ]
+        },
+        {
+            "name": "Application Site",
+            "type": "text"
+        },
+        {
+            "name": "Application Method",
+            "type": "text"
+        },
+        {
+            "name": "Duration",
+            "type": "text"
+        },
+        {
+            "name": "Frequency",
+            "type": "options",
+            "options": [
+                { value: "daily", label: "Daily" },
+                { value: "onlyOnce", label: "Only once" },
+                { value: "everyHours", label: "Every x hours" },
+                { value: "everyDays", label: "Every x days" }
+            ]
+        },
+        {
+            "name": "Deadline Date",
+            "type": "datetime"
+        },
+        {
+            "name": "Contraindications",
+            "type": "text"
+        }
+    ]
+}
+
+Let me know if this meets your requirements!

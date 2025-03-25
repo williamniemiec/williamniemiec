@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+{
+  "Proxy Identification": {
+    "parameters": {
+      "Proxy Type": ["familyMember", "goodFriend"],
+      "Proxy Information": {"type": "text"},
+      "Patient Information": {"type": "text"},
+      "Verification Method": ["phoneCall", "inPersonMeeting", "other"],
+      "Frequency": ["daily", "onlyOnce", "everyHours", "everyDays"],
+      "Deadline Date": {"type": "datetime"}
+    }
+  }
+}

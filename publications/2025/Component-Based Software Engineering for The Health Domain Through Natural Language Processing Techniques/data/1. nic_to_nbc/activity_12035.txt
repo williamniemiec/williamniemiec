@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Airflow Bed Recommendation": {
+        "Name": {"Type": "text"},
+        "Airflow Bed Type": {"Type": "options"},
+        "Instructions": {"Type": "text or multimedia"},
+        "Frequency": {"Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+        "Deadline Date": {"Type": "datetime"},
+        "Availability": {"Type": "boolean"}
+    }
+}

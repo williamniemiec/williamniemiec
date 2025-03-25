@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "PCA Adjustment Consultation": {
+    "Parameters": {
+      "Current Settings": "",
+      "Patient Responsiveness": "",
+      "Adjustment Options": "",
+      "Consultation Notes": "",
+      "Next Review Date": ""
+    }
+  }
+}

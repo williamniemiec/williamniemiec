@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Symptom Inquiry": {
+    "Parameters": [
+      {"Name": {"Type": "text"}},
+      {"Symptom List": {"Type": "list of options", "Options": ["Pain", "Fatigue", "Dizziness", "etc."]}},
+      {"Question Type": {"Type": "options", "Options": ["Yes/No", "Scale (1-5)", "Text", "etc."]}},
+      {"Frequency": {"Type": "options", "Options": ["Daily", "Only Once", "Every x hours", "Every x days", "etc."]}},
+      {"Deadline Date": {"Type": "datetime"}}
+    ]
+  }
+}

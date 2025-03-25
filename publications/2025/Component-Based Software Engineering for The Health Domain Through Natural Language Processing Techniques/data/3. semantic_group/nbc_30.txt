@@ -1,0 +1,30 @@
+{
+  "name": "Bowel",
+  "description": "Monitors bowel movements, incontinence episodes, stool characteristics, and toileting schedules to support digestive health and improve continence management.",
+  "type": "periodic",
+  "input": [
+    "Bowel movement details",
+    "Stool consistency",
+    "Incontinence episodes",
+    "Toileting schedule",
+    "Custom timing adjustments"
+  ],
+  "output": [
+    "Bowel movement report",
+    "Stool consistency analysis",
+    "Incontinence tracking report",
+    "Toileting schedule recommendations"
+  ],
+  "preconditions": [
+    "User experiences bowel movements or requires toileting management"
+  ],
+  "postconditions": [
+    "Bowel activity is tracked, and necessary interventions or scheduling adjustments are made"
+  ],
+  "dependencies": [
+    "Bowel monitoring system",
+    "Stool analysis tools",
+    "Toileting reminder system",
+    "Continence management platform"
+  ]
+}

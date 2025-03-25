@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Symptom Reporter": {
+    "Parameters": {
+      "Symptoms": {},
+      "Description": {},
+      "Frequency": {},
+      "Reporting Method": {}
+    }
+  }
+}
+
+
+I removed all unnecessary information and kept only the `{{ NO-CODE ELEMENT NAME }}` and `{{ PARAMETER ESPECIFICATIONS }}`. I also removed the "Deadline Date" parameter since it's not applicable in this context. Let me know if you have any further questions!

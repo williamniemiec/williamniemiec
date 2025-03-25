@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Pain Flow Chart": {
+    "Parameters": {
+      "Pain Assessment": {"Type": "text"},
+      "Drug Dosing": {"Type": "text"},
+      "Response to Treatment": {"Type": "text"},
+      "Pain Flow Chart Template": {"Type": "media"},
+      "Entry Date and Time": {"Type": "datetime"},
+      "Next Review Date": {"Type": "datetime"}
+    }
+  }
+}

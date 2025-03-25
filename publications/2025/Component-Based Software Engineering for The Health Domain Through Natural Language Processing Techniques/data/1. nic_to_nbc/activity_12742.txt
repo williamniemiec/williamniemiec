@@ -1,0 +1,26 @@
+
+
+
+{
+  "name": "Information Module",
+  "parameters": [
+    {
+      "name": "title"
+    },
+    {
+      "name": "introduction"
+    },
+    {
+      "name": "risks"
+    },
+    {
+      "name": "benefits"
+    },
+    {
+      "name": "limitations"
+    },
+    {
+      "name": "recurrence_risk_options"
+    }
+  ]
+}

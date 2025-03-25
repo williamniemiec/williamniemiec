@@ -1,0 +1,23 @@
+Here is the output in JSON format, removing everything except `{{ PARAMETER ESPECIFICATIONS }}` and `{{ NO-CODE ELEMENT NAME }}`, and also removing not applicable parameters:
+
+
+{
+    "name": "Hair Drying",
+    "parameters": [
+        {
+            "name": "Hair Dryer Selection"
+        },
+        {
+            "name": "Low Setting Instruction"
+        },
+        {
+            "name": "Scalp Protection Tips"
+        },
+        {
+            "name": "Drying Time"
+        },
+        {
+            "name": "Scalp Comfort"
+        }
+    ]
+}

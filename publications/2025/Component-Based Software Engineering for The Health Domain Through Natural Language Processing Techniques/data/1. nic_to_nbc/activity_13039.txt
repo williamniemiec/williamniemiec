@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Electrode Holster": {
+    "Holster Application": {
+      "Type": "options"
+    },
+    "Electrode Storage": {
+      "Type": "boolean"
+    },
+    "Holster Inspection": {
+      "Type": "boolean"
+    },
+    "Additional Instructions": {
+      "Type": "text"
+    }
+  }
+}

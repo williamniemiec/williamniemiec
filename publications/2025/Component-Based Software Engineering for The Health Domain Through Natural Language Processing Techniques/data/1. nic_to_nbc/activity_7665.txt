@@ -1,0 +1,33 @@
+Here is the output in JSON format:
+
+{
+  "name": "Leaderless Session",
+  "parameters": [
+    {
+      "name": "Session Topic",
+      "type": "text"
+    },
+    {
+      "name": "Session Type",
+      "type": "options",
+      "options": [
+        { value: "discussion", label: "Discussion" },
+        { value: "brainstorming", label: "Brainstorming" },
+        { value: "problem-solving", label: "Problem-Solving" }
+      ]
+    },
+    {
+      "name": "Duration",
+      "type": "time interval"
+    },
+    {
+      "name": "Participation Guidelines",
+      "type": "text or list of guidelines"
+    },
+    {
+      "name": "Resources",
+      "type": "list of resources or materials",
+      "required": false
+    }
+  ]
+}

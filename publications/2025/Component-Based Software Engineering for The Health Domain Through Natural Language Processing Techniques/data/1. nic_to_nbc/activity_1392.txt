@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "noCodeElementName": "Self-Massage",
+    "parameterSpecifications": {
+        "name": "",
+        "description": "",
+        "frequency": "",
+        "deadline_date": "",
+        "video/tutorial": ""
+    }
+}

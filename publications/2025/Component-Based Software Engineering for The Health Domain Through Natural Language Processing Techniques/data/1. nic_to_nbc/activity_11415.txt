@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "Chest X-ray Request": {
+    "Reason": {
+      "type": "options",
+      "options": ["lead fracture", "patch crinkling", "lead dislodgement", "lead migration", "others"]
+    },
+    "Urgency": {
+      "type": "options",
+      "options": ["immediate", "urgent", "routine"]
+    },
+    "Deadline Date": {
+      "type": "datetime"
+    },
+    "Notes": {
+      "type": "text"
+    },
+    "Request Status": {
+      "type": "options",
+      "options": ["pending", "completed", "cancelled"]
+    }
+  }
+}

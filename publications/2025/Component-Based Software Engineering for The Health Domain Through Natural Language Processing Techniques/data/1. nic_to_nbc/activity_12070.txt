@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Health Data Tracker": {
+    "parameters": [
+      "Data type (e.g., laboratory test results, vital signs, etc.)",
+      "Previous values (stored data)",
+      "Current values (new data)",
+      "Comparison logic (e.g., calculate differences, identify trends, etc.)"
+    ]
+  }
+}

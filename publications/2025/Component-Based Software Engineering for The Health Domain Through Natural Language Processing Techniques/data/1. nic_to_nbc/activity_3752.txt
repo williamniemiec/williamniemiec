@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Food Supply Assessment": {
+        "parameters": [
+            {"name": "Name", "type": "text"},
+            {"name": "Questions", "type": "form", "options": ["Do you have enough food for the next 3 days?", "Do you have a variety of fruits and vegetables?"]},
+            {"name": "Frequency", "type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+            {"name": "Deadline Date", "type": "datetime"}
+        ]
+    }
+}

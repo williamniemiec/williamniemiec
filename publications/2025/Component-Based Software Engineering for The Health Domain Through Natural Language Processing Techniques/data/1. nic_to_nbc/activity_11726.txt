@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Problem Identification Tool": {
+    "parameters": {
+      "Distress Type": {"type": "options"},
+      "Problem Description": {"type": "text"},
+      "Causal Factors": {"type": "text"},
+      "Impact": {"type": "text"},
+      "Goals": {"type": "text"}
+    }
+  }
+}

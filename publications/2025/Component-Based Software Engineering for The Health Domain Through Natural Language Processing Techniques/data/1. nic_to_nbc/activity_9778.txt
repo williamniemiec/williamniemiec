@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Cervical Culture Guidance": {
+    "parameters": [
+      {"Title": {"type": "text"}},
+      {"Content": {"type": "text"}},
+      {"Indications": {"type": "list of indications"}},
+      {"Contraindications": {"type": "list of contraindications"}},
+      {"Instructions": {"type": "text"}},
+      {"Resources": {"type": "list of URLs or text"}},
+      {"Specimen Collection": {"type": "text"}},
+      {"Lab Submission": {"type": "text"}}
+    ]
+  }
+}

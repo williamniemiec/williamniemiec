@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Cardiorespiratory Monitoring": {
+        "Parameters": {
+            "Vital Signs": {"Type": "options"},
+            "Activity Level": {"Type": "options"},
+            "Response Parameters": {"Type": "options"},
+            "Thresholds": {"Type": "number"},
+            "Frequency": {"Type": "options"}
+        }
+    }
+}

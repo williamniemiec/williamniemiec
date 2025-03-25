@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Information": {
+    "Parameters": {
+      "Title": {"Type": "text"},
+      "Content": {"Type": ["text", "image", "video", "combination of these"]},
+      "Target Audience": {"Type": "options"},
+      "Call to Action": {"Type": "options"}
+    }
+  }
+}

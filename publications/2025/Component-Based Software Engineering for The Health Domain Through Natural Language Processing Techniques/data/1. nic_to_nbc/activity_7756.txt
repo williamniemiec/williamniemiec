@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Comfort Measure Tracking": {
+    "parameters": {
+      "name": "",
+      "comfort_measures": [],
+      "frequency": "",
+      "tracking_type": ""
+    }
+  }
+}

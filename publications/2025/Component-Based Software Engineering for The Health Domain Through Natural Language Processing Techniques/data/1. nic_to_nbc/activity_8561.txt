@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+  "Interactive Lesson": {
+    "Parameters": {
+      "Title": {
+        "Type": "text"
+      },
+      "Content": {
+        "Type": "interactive lesson content (e.g., HTML, JSON)"
+      },
+      "Pages": {
+        "Type": "list of interactive lesson pages (e.g., HTML, JSON)"
+      },
+      "Quiz Questions": {
+        "Type": "list of quiz questions (e.g., multiple-choice, true/false)"
+      },
+      "Frequency": {
+        "Options": ["daily", "onlyOnce", "everyDays"]
+      },
+      "Deadline Date": {
+        "Type": "datetime"
+      }
+    }
+  }
+}

@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "Low-Stimulation Environment": {
+    "Voice Guidance": {
+      "type": "audio file"
+    },
+    "Reassurance Messages": {
+      "type": "unordered list",
+      "example": ["You are safe", "I am here to help", "Everything will be okay"]
+    },
+    "Environmental Settings": {
+      "type": "unordered list",
+      "example": ["Darkened room", "Quiet atmosphere", "Comfortable temperature", "Minimal noise"]
+    },
+    "Relaxation Techniques": {
+      "type": "audio file or video"
+    },
+    "Frequency": {
+      "type": "options",
+      "options": ["As needed", "Daily", "Weekly"]
+    }
+  }
+}

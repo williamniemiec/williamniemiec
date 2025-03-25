@@ -1,0 +1,33 @@
+Here is the output in JSON format:
+
+
+{
+    "Lab Result Tracker": {
+        "parameters": {
+            "name": "",
+            "tests": [],
+            "result": "",
+            "units": [],
+            "frequency": ""
+        }
+    },
+    "Question": {
+        "parameters": {
+            "name": "",
+            "answer_type": "",
+            "options": [],
+            "frequency": ""
+        }
+    },
+    "Alert System": {
+        "parameters": {
+            "name": "",
+            "thresholds": [],
+            "notification_type": "",
+            "frequency": ""
+        }
+    }
+}
+
+
+Note that I removed the introduction, conclusion, and any other unnecessary text. I also removed the "not applicable" parameters (i.e., the ones without a specific value). Let me know if this is what you were looking for!

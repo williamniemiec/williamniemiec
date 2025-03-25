@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+  "Toy Selection Guide": {
+    "Parameters": {
+      "Title": {
+        "Type": "text"
+      },
+      "Toy Selection Tips": {
+        "Type": "list",
+        "Example": ["Check the manufacturer's age recommendation on the toy label", "Choose toys that are designed for your infant's age and developmental stage", "Avoid toys with small parts that can be a choking hazard", "Select toys that are made from non-toxic materials"]
+      },
+      "Age Ranges": {
+        "Type": "list",
+        "Example": ["0-3 months", "4-6 months", "7-9 months", "10-12 months"]
+      },
+      "Images": {
+        "Type": "list"
+      },
+      "Frequency": {
+        "Type": "options"
+      }
+    }
+  }
+}

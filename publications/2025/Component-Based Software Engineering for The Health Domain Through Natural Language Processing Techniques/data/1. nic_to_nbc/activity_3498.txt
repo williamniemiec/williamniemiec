@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+    "Verification Process": {
+        "Retrieve the patient's information from the identification device (e.g., wristbands, bed tag, fingerprint recognition software, palm vein scanner) and medical record.": {},
+        "Compare the retrieved information with the information provided by the patient.": {},
+        "Verify that the information matches.": {},
+        "If the information does not match, prompt the healthcare professional to take appropriate action (e.g., update the medical record, notify the patient).": {}
+    }
+}

@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "hygiene guide": [
+    {"name": "bed cleaning instructions", "description": "step-by-step instructions for keeping the bed clean"},
+    {"name": "clothing cleaning instructions", "description": "step-by-step instructions for keeping clothing clean"},
+    {"name": "frequency", "description": "specify how often the bed and clothing should be cleaned", "options": [{"value": "daily", "label": "Daily"}, {"value": "everyHours", "label": "Every x hours"}, {"value": "everyDays", "label": "Every x days"}]}
+  ]
+}
+
+
+I removed all non-applicable parameters, including the `required` and `type` fields, as well as the `deadline_date` parameter since it was marked as not required. Let me know if this meets your requirements!

@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Mood Reflection": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Prompt": {"Type": "text", "Example": "What do you think might be contributing to your current mood?"},
+      "Precipitant Options": {"Type": "options", "Options": ["Chemical imbalances", "Situational stressors", "Grief/loss", "Physical problems", "Other"]},
+      "Frequency": {"Type": "options", "Options": ["daily", "every other day", "weekly", "monthly"]}
+    }
+  }
+}
+
+
+I removed the `Deadline Date` parameter since it's not applicable in this context. Let me know if you have any further questions!

@@ -1,0 +1,12 @@
+
+
+
+{
+    "Reminder": {
+        "Name": {},
+        "Affected Body Part": {},
+        "Warning Message": {},
+        "Frequency": {},
+        "Deadline Date": {}
+    }
+}

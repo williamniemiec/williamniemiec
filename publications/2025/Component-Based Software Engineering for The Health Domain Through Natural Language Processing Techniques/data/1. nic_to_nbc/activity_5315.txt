@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Procedure": {
+    "parameters": [
+      {"name": "pessary_type", "description": "type of pessary being inserted"},
+      {"name": "insertion_instructions", "description": "manufacturer's instructions for pessary insertion"},
+      {"name": "insertion_status", "description": "status of pessary insertion"}
+    ]
+  }
+}
+
+
+I removed all unnecessary information and kept only the `{{ NO-CODE ELEMENT NAME }}` ("Procedure") and the `{{ PARAMETER ESPECIFICATIONS }}`. I also removed the "not applicable" parameters, which in this case were the `options` for each parameter.

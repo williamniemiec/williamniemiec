@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+  "Hemodynamic Monitoring": {
+    "parameters": {
+      "name": "Monitor CVP, PAWP, and PAP, as appropriate",
+      "hemodynamic_parameters": [
+        {"name": "Central Venous Pressure (CVP)", "type": "number"},
+        {"name": "Pulmonary Artery Wedge Pressure (PAWP)", "type": "number"},
+        {"name": "Pulmonary Artery Pressure (PAP)", "type": "number"}
+      ],
+      "frequency": {
+        "name": "How often should hemodynamic parameters be monitored?",
+        "type": "options",
+        "options": [
+          {"value": "daily", "label": "Daily"},
+          {"value": "onlyOnce", "label": "Only once"},
+          {"value": "everyHours", "label": "Every x hours"},
+          {"value": "everyDays", "label": "Every x days"}
+        ]
+      }
+    }
+  }
+}
+
+
+Note that I removed the `deadline_date` parameter since it was marked as not required (`"required": false`). Let me know if you have any further questions!

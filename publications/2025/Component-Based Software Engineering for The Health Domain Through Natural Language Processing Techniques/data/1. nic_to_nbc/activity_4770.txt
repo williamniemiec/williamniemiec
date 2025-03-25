@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "Vital Sign Monitoring": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Monitoring Instructions": {"Type": "text or multimedia (e.g., image, video)"},
+      "Frequency": {"Type": "options (daily, onlyOnce, everyHours, everyDays)"},
+      "Deadline Date": {"Type": "datetime"},
+      "Temperature": {"Type": "number"},
+      "WBC Count": {"Type": "number"},
+      "Findings": {"Type": "text or options (list of possible findings)"}
+    }
+  },
+  "Vital Sign Tracker": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Tracker Fields": {"Type": "list of text items"},
+      "Frequency": {"Type": "options (daily, onlyOnce, everyHours, everyDays)"},
+      "Deadline Date": {"Type": "datetime"},
+      "Graphical Display": {"Type": "boolean (yes/no)"}
+    }
+  }
+}

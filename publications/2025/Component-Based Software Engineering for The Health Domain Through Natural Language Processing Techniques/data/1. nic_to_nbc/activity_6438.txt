@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Remove tick": {
+    "instruction title": {"Description": "title of the instruction", "Required": true, "Type": "text"},
+    "Content": {"Description": "instruction content", "Required": true, "Type": "text"},
+    "Removal tool": {"Description": "select the tool to use for removing the tick", "Required": true, "Type": "options", "Options": [{"value": "tweezers", "label": "Tweezers"}, {"value": "tick-removal tool", "label": "Specialized tick-removal tool"}]},
+    "Grasp location": {"Description": "specify where to grasp the tick", "Required": true, "Type": "options", "Options": [{"value": "as close to the skin as possible", "label": "As close to the skin as possible"}]},
+    "Pull direction": {"Description": "specify the direction to pull the tick", "Required": true, "Type": "options", "Options": [{"value": "upwards", "label": "Upwards"}]},
+    "Cleanse site": {"Description": "specify whether to cleanse the site after removal", "Required": true, "Type": "options", "Options": [{"value": "yes", "label": "Yes"}, {"value": "no", "label": "No"}]}
+  }
+}
+
+
+I removed all non-applicable parameters and kept only the `{{ NO-CODE ELEMENT NAME }}` ("Remove tick") and `{{ PARAMETER ESPECIFICATIONS }}`. Let me know if this is what you were looking for!

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Sleep Medication Inventory": {
+        "Parameters": {
+            "Name": {},
+            "Medications": {},
+            "Medication Details": {},
+            "Prescribing Provider": {},
+            "Reason for Taking": {}
+        }
+    }
+}

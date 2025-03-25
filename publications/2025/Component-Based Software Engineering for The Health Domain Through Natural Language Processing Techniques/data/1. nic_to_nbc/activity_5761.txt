@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "food preference accommodation",
+  "parameters": [
+    {
+      "name": "food_preferences",
+      "description": "list of food preferences"
+    },
+    {
+      "name": "dietary_restrictions",
+      "description": "list of dietary restrictions"
+    },
+    {
+      "name": "meal_planning",
+      "description": "meal planning suggestions"
+    },
+    {
+      "name": "recipe_suggestions",
+      "description": "recipe suggestions"
+    }
+  ]
+}

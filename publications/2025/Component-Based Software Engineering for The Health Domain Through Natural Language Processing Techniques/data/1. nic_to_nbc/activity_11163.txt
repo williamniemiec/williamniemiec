@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+    "Nutrition Assessment": {
+        "Dietary Intake": {},
+        "Nutrient Deficiencies": {},
+        "Nutritional Goals": {},
+        "Food Preferences": {},
+        "Meal Planning": {}
+    },
+    "Food Diary": {
+        "Food Entry": {},
+        "Portion Size": {},
+        "Nutrient Tracking": {},
+        "Reminders": {}
+    }
+}

@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "search": {
+    "Items to Search": {
+      "type": "list of options",
+      "options": ["matches", "lighters", "other"]
+    },
+    "Frequency": {
+      "type": "options",
+      "options": ["onAdmission", "onReturn", "daily", "onlyOnce"]
+    },
+    "Search Location": {
+      "type": "options",
+      "options": ["careEnvironment", "patientRoom", "other"]
+    }
+  }
+}

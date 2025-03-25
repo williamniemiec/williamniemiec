@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+  "Irrigating Solution Preparation": {
+    "Solution Type": {
+      "type": "options",
+      "options": ["premade packet", "household ingredients"]
+    },
+    "Instructions": {
+      "type": "text",
+      "default value": "Follow the instructions on the premade packet or mix 1 teaspoon of salt with 8 ounces of warm water"
+    },
+    "Quantity": {
+      "type": "number",
+      "default value": 1
+    },
+    "Notes": {
+      "type": "text",
+      "optional": true
+    }
+  }
+}

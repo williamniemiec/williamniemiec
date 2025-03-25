@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+  "Treatment Report": {
+    "Parameters": {
+      "Treatment Details": {"Type": "text"},
+      "Patient Response": {"Type": "options"},
+      "Complications": {"Type": "options"},
+      "Date and Time": {"Type": "datetime"}
+    }
+  },
+  "Handoff Report": {
+    "Parameters": {
+      "Patient Status": {"Type": "options"},
+      "Care Instructions": {"Type": "text"},
+      "Treatment Plan": {"Type": "text"},
+      "Date and Time": {"Type": "datetime"}
+    }
+  },
+  "Report Transmission": {
+    "Parameters": {
+      "Report Format": {"Type": "options"},
+      "Transmission Method": {"Type": "options"},
+      "Date and Time": {"Type": "datetime"}
+    }
+  }
+}

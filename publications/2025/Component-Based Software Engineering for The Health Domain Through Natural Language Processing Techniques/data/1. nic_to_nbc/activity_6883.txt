@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Relapse Prevention Plan": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Contracting": {"Type": "boolean"},
+      "Resources": {"Type": "list of resources"},
+      "Health Promoting Activities": {"Type": "list of activities"},
+      "Coping Strategies": {"Type": "list of coping strategies"},
+      "Review Frequency": {"Options": ["daily", "weekly", "monthly", "quarterly"]},
+      "Deadline Date": {"Type": "datetime"}
+    }
+  }
+}

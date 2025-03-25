@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Eye Care Guidance": {
+    "parameters": {
+      "Name": {},
+      "Eye Care Instructions": {},
+      "Eye Care Schedule": {},
+      "Eye Care Completion": {},
+      "Eye Care Products": {}
+    }
+  }
+}

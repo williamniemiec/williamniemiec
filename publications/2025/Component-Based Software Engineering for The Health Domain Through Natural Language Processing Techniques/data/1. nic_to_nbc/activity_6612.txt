@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Welcome Message": {
+        "parameters": {
+            "name": {"type": "text"},
+            "message": {"type": "text"},
+            "resources": {"type": "list of objects", "object_fields": ["name", "description", "link"]},
+            "contact_info": {"type": "list of objects", "object_fields": ["name", "role", "email", "phone"]}
+        }
+    }
+}

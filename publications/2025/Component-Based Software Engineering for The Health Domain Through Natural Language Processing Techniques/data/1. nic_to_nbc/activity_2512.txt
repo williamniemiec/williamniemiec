@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+    "Guideline": {
+        "Name": {"Type": "text"},
+        "Content": {"Type": "text"},
+        "Trigger": {"Type": "options", "Options": ["when inserting new CVAD", "when preparing IV solution", "always"]},
+        "Resources": {"Type": "list of URLs or documents"}
+    }
+}

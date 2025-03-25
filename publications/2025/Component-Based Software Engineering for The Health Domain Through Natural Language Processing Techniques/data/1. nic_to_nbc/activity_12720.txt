@@ -1,0 +1,35 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Thought Record",
+    "parameters": [
+        {
+            "name": "Thought Prompt",
+            "type": "text"
+        },
+        {
+            "name": "Thought Type",
+            "type": "options",
+            "options": [
+                { "value": "negative", "label": "Negative self-statement" },
+                { "value": "positive", "label": "Positive self-statement" },
+                { "value": "neutral", "label": "Neutral thought" }
+            ]
+        },
+        {
+            "name": "Frequency",
+            "type": "options",
+            "options": [
+                { "value": "daily" },
+                { "value": "onlyOnce" },
+                { "value": "everyHours" },
+                { "value": "everyDays" }
+            ]
+        },
+        {
+            "name": "Deadline Date",
+            "type": "datetime"
+        }
+    ]
+}

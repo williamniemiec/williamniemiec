@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Parenting Strengths Reinforcement": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Strengths Identification": {"Type": "options", "Options": ["self-assessment quiz", "caregiver feedback", "nurse assessment", "etc."]},
+      "Personalized Feedback": {"Type": "text", "Examples": ["You're doing a great job with feeding!", "Your baby loves the way you soothe them!"]},
+      "Encouragement": {"Type": "list of text", "Examples": ["You're a great parent!", "Keep up the good work, you're making a difference!"]},
+      "Frequency": {"Type": "options", "Options": ["daily", "every other day", "weekly", "etc."]},
+      "Strengths Tracker": {"Type": "tracker with input fields for date, strength, and notes"},
+      "Goal Setting": {"Type": "goal-setting feature with input fields for goal, deadline, and progress tracking"}
+    }
+  }
+}

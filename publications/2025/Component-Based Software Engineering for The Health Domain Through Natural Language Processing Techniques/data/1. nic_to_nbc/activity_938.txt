@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Nurturing Feeding": {
+    "Parameters": {
+      "Nurturing Feeding": {"Type": "text/html with images or illustrations"},
+      "Eye Contact": {"Type": "text/html with images or illustrations"},
+      "Physical Closeness": {"Type": "text/html with images or illustrations"},
+      "Reflective Exercise": {"Type": "text input field or selection from a list of options"},
+      "Tips for Nurturing Feeding": {"Type": "list of text/html with images or illustrations"}
+    }
+  }
+}

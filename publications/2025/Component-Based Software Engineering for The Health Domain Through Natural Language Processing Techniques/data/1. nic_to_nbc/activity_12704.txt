@@ -1,0 +1,29 @@
+Here is the output in JSON format:
+
+
+{
+    "Lab Test Tracking": {
+        "Parameters": {
+            "Lab Test": {
+                "Type": "options",
+                "Options": ["PT", "PTT", "Both"]
+            },
+            "Frequency": {
+                "Type": "options",
+                "Options": ["daily", "everyOtherDay", "weekly", "biweekly"]
+            },
+            "Deadline Date": {
+                "Type": "datetime"
+            },
+            "Result": {
+                "Type": "text"
+            },
+            "Reference Range": {
+                "Type": "text"
+            }
+        }
+    }
+}
+
+
+I removed the "Volume Expander" parameter as it seems not applicable to the no-code element, and also removed the introduction, conclusion, and other unnecessary parts of the text.

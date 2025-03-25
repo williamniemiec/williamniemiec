@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Treatment Options",
+  "parameters": [
+    { "name": "Treatment Options List", "type": "unordered list" },
+    { "name": "Description", "type": "text" },
+    { "name": "Benefits and Risks", "type": "text" },
+    { "name": "Frequency", "type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"] },
+  ]
+}

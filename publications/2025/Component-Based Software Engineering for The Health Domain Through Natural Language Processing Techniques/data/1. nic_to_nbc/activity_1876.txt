@@ -1,0 +1,52 @@
+Here is the output in JSON format:
+
+
+{
+  "Return to Work Plan": {
+    "Plan Title": {
+      "Description": "Title of the return to work plan",
+      "Required": true,
+      "Type": "text"
+    },
+    "Return to Work Date": {
+      "Description": "Expected date of returning to work",
+      "Required": true,
+      "Type": "datetime"
+    },
+    "Work Schedule": {
+      "Description": "Expected work schedule (e.g., full-time, part-time, flexible)",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "full-time", "label": "Full-time" },
+        { "value": "part-time", "label": "Part-time" },
+        { "value": "flexible", "label": "Flexible" }
+      ]
+    },
+    "Childcare Arrangements": {
+      "Description": "Childcare arrangements (e.g., daycare, nanny, family member)",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "daycare", "label": "Daycare" },
+        { "value": "nanny", "label": "Nanny" },
+        { "value": "familyMember", "label": "Family Member" }
+      ]
+    },
+    "Support System": {
+      "Description": "Support system (e.g., partner, family, friends)",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "partner", "label": "Partner" },
+        { "value": "family", "label": "Family" },
+        { "value": "friends", "label": "Friends" }
+      ]
+    },
+    "Notes": {
+      "Description": "Additional notes or comments about the return to work plan",
+      "Required": false,
+      "Type": "text"
+    }
+  }
+}

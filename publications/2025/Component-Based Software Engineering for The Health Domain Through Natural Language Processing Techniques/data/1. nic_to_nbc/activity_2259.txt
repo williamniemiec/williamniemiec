@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Response Monitoring": {
+        "Parameters": {
+            "Response Criteria": {},
+            "Monitoring Frequency": {},
+            "Tracking Tool": {},
+            "Alerts and Notifications": {}
+        }
+    }
+}

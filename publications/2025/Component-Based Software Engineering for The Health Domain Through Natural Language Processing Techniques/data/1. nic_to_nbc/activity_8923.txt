@@ -1,0 +1,11 @@
+
+
+
+{
+  "Diversional Activity": {
+    "Activity Type": ["television", "read to patient", "visitors", "mobiles", "games", "music", "others"],
+    "Frequency": ["daily", "onlyOnce", "everyHours", "everyDays"],
+    "Duration": "text",
+    "Notes": "text"
+  }
+}

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Equipment Information": {
+        "Parameters": {
+            "Equipment Name": {"Type": "text"},
+            "Expected Outcomes": {"Type": "text or HTML with bullet points or lists"},
+            "Side Effects": {"Type": "text or HTML with bullet points or lists"},
+            "Risks and Warnings": {"Type": "text or HTML with bullet points or lists"},
+            "FAQs": {"Type": "list of questions and answers"}
+        }
+    }
+}

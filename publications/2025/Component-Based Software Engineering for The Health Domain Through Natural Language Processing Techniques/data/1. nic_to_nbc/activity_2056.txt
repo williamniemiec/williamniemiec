@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "Complication Tracker": {
+    "parameters": {
+      "name": "",
+      "complications": [
+        {
+          "name": "",
+          "description": "",
+          "symptoms": [
+            {
+              "name": "",
+              "description": ""
+            }
+          ]
+        }
+      ],
+      "frequency": "",
+      "deadline_date": "",
+      "action_plan": ""
+    }
+  }
+}

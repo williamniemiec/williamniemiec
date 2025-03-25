@@ -1,0 +1,30 @@
+Here is the output in JSON format:
+
+
+{
+    "Skin Care Guide": {
+        "parameters": {
+            "name": {"type": "text"},
+            "instructions": {"type": "ordered list of text or images"},
+            "products": {"type": "list of text or images"},
+            "frequency": {"type": "options"},
+            "reminders": {"type": "boolean"}
+        }
+    },
+    "Wound Photo Tracker": {
+        "parameters": {
+            "name": {"type": "text"},
+            "frequency": {"type": "options"},
+            "deadline_date": {"type": "datetime"}
+        }
+    },
+    "Skin Care Log": {
+        "parameters": {
+            "name": {"type": "text"},
+            "entries": {"type": "list of text or images"}
+        }
+    }
+}
+
+
+Let me know if you need any further assistance!

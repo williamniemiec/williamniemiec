@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Value Clarification": {
+    "Situation Description": {},
+    "Patient Values": {},
+    "Family Values": {},
+    "Health Care Team Values": {},
+    "Institutional Values": {},
+    "Value Alignment": {}
+  }
+}

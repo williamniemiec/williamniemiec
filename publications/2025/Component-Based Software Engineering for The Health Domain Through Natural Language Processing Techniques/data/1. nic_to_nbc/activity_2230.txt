@@ -1,0 +1,23 @@
+Here is the JSON output:
+
+
+{
+  "Fluid Tracker": {
+    "Intake": {"Type": "number"},
+    "Unit": {"Type": "options", "Options": ["mL", "L", "oz", "etc."]},
+    "Output": {"Type": "number"},
+    "Unit": {"Type": "options", "Options": ["mL", "L", "oz", "etc."]},
+    "Frequency": {"Type": "options", "Options": ["daily", "weekly", "monthly", "oneTime"]},
+    "Deadline Date": {"Type": "datetime"},
+    "Target Range": {"Type": "range"},
+    "Alert Threshold": {"Type": "range"}
+  },
+  "Data Entry": {
+    "Intake Value": {"Type": "number"},
+    "Intake Unit": {"Type": "options", "Options": ["mL", "L", "oz", "etc."]},
+    "Output Value": {"Type": "number"},
+    "Output Unit": {"Type": "options", "Options": ["mL", "L", "oz", "etc."]},
+    "Frequency": {"Type": "options", "Options": ["daily", "weekly", "monthly", "oneTime"]},
+    "Deadline Date": {"Type": "datetime"}
+  }
+}

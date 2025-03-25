@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+  "No-code Element Name": "Cause Clarifier",
+  "Parameters": {
+    "Story Theme": {
+      "Type": "options",
+      "Options": ["I'm not to blame", "My brother/sister's illness is not my fault"]
+    },
+    "Story Content": {
+      "Type": "interactive story"
+    },
+    "Interactive Elements": {
+      "Type": "interactive elements"
+    },
+    "Reflection and Feedback": {
+      "Type": "text"
+    },
+    "Frequency": {
+      "Type": "options",
+      "Options": ["daily", "weekly", "monthly", "onlyOnce"]
+    }
+  }
+}
+
+
+I removed the introduction, number, description, and conclusion parts of the text, as well as the "Content Type" parameter, which is not applicable. Let me know if this meets your requirements!

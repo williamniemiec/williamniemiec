@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+  "Surgery Information Guide": {
+    "title": {"type": "text"},
+    "sections": {
+      "type": "ordered list",
+      "parameters": {
+        "title": {"type": "text"},
+        "content": {"type": "text or HTML"}
+      }
+    },
+    "sensations": {
+      "type": "ordered list",
+      "parameters": {
+        "description": {"type": "text"},
+        "explanation": {"type": "text or HTML"}
+      }
+    }
+  }
+}

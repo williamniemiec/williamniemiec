@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+    "Incline Seat": {
+        "Angle": {"type": "options", "options": [{"value": "10", "label": "10 degrees"}]},
+        "Direction": {"type": "options", "options": [{"value": "towardBack", "label": "Toward the back"}]},
+        "Frequency": {"type": "options", "options": [
+            {"value": "daily", "label": "Daily"},
+            {"value": "onlyOnce", "label": "Only once"},
+            {"value": "everyHours", "label": "Every x hours"},
+            {"value": "everyDays", "label": "Every x days"}
+        ]},
+        "Deadline Date": {"type": "datetime"},
+        "Instructions": {"type": "text"}
+    }
+}

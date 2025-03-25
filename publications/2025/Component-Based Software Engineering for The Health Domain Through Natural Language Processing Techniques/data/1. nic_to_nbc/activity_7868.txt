@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Procedure Notification",
+  "parameters": [
+    {
+      "name": "Procedure Name",
+      "type": "text"
+    },
+    {
+      "name": "Reason",
+      "type": "text"
+    },
+    {
+      "name": "Instructions",
+      "type": "text"
+    },
+    {
+      "name": "What to Expect",
+      "type": "text"
+    },
+    {
+      "name": "Deadline Date",
+      "type": "datetime"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+Here is the output in JSON format:
+
+
+{
+  "Locus of Control Alignment": {
+    "parameters": {
+      "Patient Locus of Control": {
+        "type": "options"
+      },
+      "Information to Provide": {
+        "type": "text or list of texts"
+      },
+      "Compatibility Criteria": {
+        "type": "object",
+        "properties": {
+          "Internal Locus Language": {
+            "type": "text"
+          },
+          "External Locus Language": {
+            "type": "text"
+          },
+          "Mixed Locus Language": {
+            "type": "text"
+          },
+          "Empowerment Focus": {
+            "type": "boolean"
+          }
+        }
+      }
+    }
+  }
+}

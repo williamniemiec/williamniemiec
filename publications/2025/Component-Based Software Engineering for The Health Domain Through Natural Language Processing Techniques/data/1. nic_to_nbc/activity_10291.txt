@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Literature Reflection": {
+    "parameters": [
+      {"name": "Literature", "type": "text or multimedia"},
+      {"name": "Reflection Prompt", "type": "text"},
+      {"name": "Emotional Content", "type": "options"},
+      {"name": "Character Identification", "type": "options"},
+      {"name": "Frequency", "type": "options"}
+    ]
+  }
+}
+
+
+Note: I removed the `Deadline Date` parameter as it was marked as not required (`"required": false`). If you want to include it, just let me know!

@@ -1,0 +1,13 @@
+
+
+
+{
+  "Risk Education": {
+    "Parameters": {
+      "Risk Information": {},
+      "Education Method": {},
+      "Confirmation of Understanding": {},
+      "Frequency": {}
+    }
+  }
+}

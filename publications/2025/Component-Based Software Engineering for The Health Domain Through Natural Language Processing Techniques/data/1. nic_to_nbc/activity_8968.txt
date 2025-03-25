@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Functional Ability Monitoring": {
+    "Parameters": {
+      "Name": { "Type": "text" },
+      "Frequency": { "Type": "options", "Options": [ {"value": "daily", "label": "Daily"}, {"value": "onlyOnce", "label": "Only once"}, {"value": "everyHours", "label": "Every x hours"}, {"value": "everyDays", "label": "Every x days"} ] },
+      "Deadline Date": { "Type": "datetime" },
+      "Instructions": { "Type": "text" },
+      "Functional Ability Assessment": { "Type": "options", "Options": [ {"value": "independent", "label": "Independent"}, {"value": "needsAssistance", "label": "Needs assistance"}, {"value": "unable", "label": "Unable"}, {"value": "other", "label": "Other (please specify)"} ] }
+    }
+  }
+}

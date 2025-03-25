@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Social Connection Rebuilder": {
+    "parameters": [
+      {"Name": "name", "Type": "text"},
+      {"Modules": "modules", "Type": "program-module"},
+      {"Activities": "activities", "Type": "activity"},
+      {"Reflection Prompts": "reflection_prompts", "Type": "reflection-prompt"},
+      {"Frequency": "frequency", "Type": "options"},
+      {"Deadline Date": "deadline_date", "Type": "datetime"}
+    ]
+  }
+}
+
+
+Let me know if this meets your requirements!

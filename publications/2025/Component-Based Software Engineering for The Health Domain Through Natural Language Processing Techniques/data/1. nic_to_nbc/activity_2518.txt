@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Environmental Hazard Education": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Description": {"Type": "text"},
+      "High-Risk Groups": {"Type": "options", "Options": ["children", "elderly", "..."]},
+      "Hazard Types": {"Type": "options", "Options": ["lead", "radon", "..."]},
+      "Education Method": {"Type": "options", "Options": ["video", "brochure", "..."]},
+      "Resources": {"Type": "text or link to external resource"},
+      "Quiz or Assessment": {"Type": "boolean"}
+    }
+  }
+}

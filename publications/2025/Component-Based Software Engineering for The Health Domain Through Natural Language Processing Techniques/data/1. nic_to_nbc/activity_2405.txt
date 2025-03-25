@@ -1,0 +1,15 @@
+
+
+
+{
+  "Electrolyte Imbalance Symptom Checker": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Symptom List": {"Type": "checklist", "Options": ["Muscle weakness", "Fatigue", "Dizziness", "Headache", "Nausea", "Vomiting", "Abdominal cramps"]},
+      "Severity Scale": {"Type": "options", "Options": ["Mild", "Moderate", "Severe"]},
+      "Frequency": {"Type": "options", "Options": ["Daily", "Several times a week", "About once a week", "Less than once a week"]},
+      "Deadline Date": {"Type": "datetime"},
+      "Notes": {"Type": "text"}
+    }
+  }
+}

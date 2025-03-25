@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Postextubation Complication Monitoring": {
+    "Complication Type": {"type": "options"},
+    "Monitoring Frequency": {"type": "options"},
+    "Monitoring Duration": {"type": "numeric value"},
+    "Stridor": {"type": "boolean"},
+    "Glottic Swelling": {"type": "boolean"},
+    "Laryngospasm": {"type": "boolean"},
+    "Tracheal Stenosis": {"type": "boolean"},
+    "Additional Complications": {"type": "text"},
+    "Interventions": {"type": "text"},
+    "Date and Time": {"type": "datetime"}
+  }
+}

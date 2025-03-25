@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Resource Explorer": {
+    "parameters": {
+      "Resource Categories": {},
+      "Resource Options": {},
+      "Filtering Criteria": {},
+      "Action Plan": {}
+    }
+  }
+}
+
+
+Note that I removed the `Resource Rating` parameter as it was marked as "not applicable" (it had a rating system type, but no specific values or options were provided). Let me know if you'd like me to clarify anything!

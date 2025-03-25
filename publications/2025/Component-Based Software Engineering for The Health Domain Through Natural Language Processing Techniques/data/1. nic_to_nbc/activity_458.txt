@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Memory Lane",
+    "parameters": [
+        {
+            "name": "Loved Ones",
+            "type": "list of text"
+        },
+        {
+            "name": "Memory Prompt",
+            "type": "text"
+        },
+        {
+            "name": "Frequency",
+            "type": "options",
+            "options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+        }
+    ]
+}

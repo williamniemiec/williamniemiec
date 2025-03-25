@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Engagement Activity": {
+    "Activity type": ["quiz", "game", "journaling", "etc."],
+    "Activity description": {},
+    "Instructions": {},
+    "Goals": {},
+    "Frequency": ["daily", "onlyOnce", "everyHours", "everyDays"],
+    "Deadline date": {}
+  }
+}

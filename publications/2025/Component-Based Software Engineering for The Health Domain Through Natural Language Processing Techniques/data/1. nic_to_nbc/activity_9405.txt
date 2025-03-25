@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "IV Access Guide": {
+    "Parameters": {
+      "Name": {
+        "Type": "text"
+      },
+      "IV Type": {
+        "Type": "options",
+        "Options": [
+          { "value": "largeBoreIV", "label": "Large-Bore IV" },
+          { "value": "peripheralIV", "label": "Peripheral IV" }
+        ]
+      }
+    }
+  }
+}

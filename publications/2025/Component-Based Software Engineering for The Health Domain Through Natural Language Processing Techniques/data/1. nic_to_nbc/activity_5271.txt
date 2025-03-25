@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Feedback Loop": {
+    "feedback_name": {},
+    "trigger": {},
+    "feedback_message": {},
+    "corrective_actions": {},
+    "frequency": {},
+    "deadline_date": {}
+  }
+}
+
+
+Note: I removed the `Description` and other non-parameter fields, as well as the `Required` and `Type` information for each parameter. Let me know if you'd like me to include any of that information in the output!

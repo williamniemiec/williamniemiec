@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+    "Activity Planner": {
+        "Goal": {"type": "text"},
+        "Activities": {"type": "list of text"},
+        "Time Slots": {"type": "list of time ranges"},
+        "Prioritization": {"type": "ranking system"},
+        "Reminders": {"type": "boolean"},
+        "Tips": {"type": "list of text or HTML content"}
+    },
+    "Guide": {
+        "Name": {"type": "text"},
+        "Pages": {"type": "list of HTML texts"}
+    },
+    "Task": {
+        "Name": {"type": "text"},
+        "Content": {"type": "text"},
+        "Frequency": {"options": ["daily", "onlyOnce", "everyHours", "everyDays"]}
+    }
+}

@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Infant Cues": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Cues": {"Type": "list", "Examples": ["Eye contact", "Smiling", "Cooing or babbling", "Leaning towards the parent", "Reaching out to touch", "Other"]},
+      "Descriptions": {"Type": "text"},
+      "Videos": {"Type": "video"},
+      "Tips for Response": {"Type": "text"},
+      "Reflection Questions": {"Type": "text"}
+    }
+  }
+}

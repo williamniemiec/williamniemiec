@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Conflict Resolution Guide": {
+    "parameters": {
+      "Conflict Description": {"type": "text"},
+      "Conflict Parties": {"type": "text"},
+      "Conflict Resolution Goals": {"type": "text"},
+      "Reflection Prompts": {"type": "list of text"},
+      "Action Plan": {"type": "text"},
+      "Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"type": "datetime"}
+    }
+  }
+}

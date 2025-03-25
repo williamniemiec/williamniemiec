@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "Skin Reaction Monitoring": {
+    "Parameters": {
+      "Skin Reaction": {
+        "Type": "options"
+      },
+      "Severity": {
+        "Type": "options"
+      },
+      "Location": {
+        "Type": "text"
+      },
+      "Essential Oil": {
+        "Type": "text"
+      },
+      "Notes": {
+        "Type": "text"
+      }
+    }
+  }
+}

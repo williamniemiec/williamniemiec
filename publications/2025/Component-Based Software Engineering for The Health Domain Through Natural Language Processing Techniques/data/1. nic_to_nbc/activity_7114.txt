@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+    "Ritual Accommodations": {
+        "Parameters": {
+            "Ritual Type": {"Type": "text or selection from a list"},
+            "Accommodation Options": {"Type": "list of text or videos"},
+            "Condition": {"Type": "text or selection from a list"},
+            "Personalized Recommendations": {"Type": "text or video"}
+        }
+    },
+    "Ritual Coach": {
+        "Parameters": {
+            "Ritual Goal": {"Type": "text"},
+            "Condition": {"Type": "text or selection from a list"},
+            "Coaching Sessions": {"Type": "number and frequency"},
+            "Personalized Guidance": {"Type": "text or video"}
+        }
+    }
+}

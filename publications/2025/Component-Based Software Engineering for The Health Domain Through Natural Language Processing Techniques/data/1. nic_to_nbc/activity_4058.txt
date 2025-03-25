@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Safe Footwear": {
+    "Parameters": {
+      "Reminder Message": {},
+      "Frequency": {},
+      "Footwear Options": {}
+    }
+  }
+}

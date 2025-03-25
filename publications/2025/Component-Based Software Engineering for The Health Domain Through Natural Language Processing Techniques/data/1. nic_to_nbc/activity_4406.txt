@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "Diagnostic Indicator": {
+    "Type": "options",
+    "Options": ["vitalSigns", "glucoseReadings", "EKGs", "etc."]
+  },
+  "Result Value": {
+    "Type": "numeric or text"
+  },
+  "Reference Range": {
+    "Type": "list of numeric values"
+  },
+  "Interpretation Criteria": {
+    "Type": "list of text"
+  },
+  "Interpretation Result": {
+    "Type": "options",
+    "Options": ["normal", "abnormal", "critical", "etc."]
+  },
+  "Actionable Insights": {
+    "Type": "list of text"
+  }
+}

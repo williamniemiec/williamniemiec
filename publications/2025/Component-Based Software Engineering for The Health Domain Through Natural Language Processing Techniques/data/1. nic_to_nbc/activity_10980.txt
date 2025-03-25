@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Risk Factor Modifier": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Risk Factors": {"Type": "list"},
+      "Modification Activities": {"Type": "list"},
+      "Activity Schedule": {"Type": "list"},
+      "Tracking": {"Type": "options"},
+      "Resources": {"Type": "list"},
+      "Reminders": {"Type": "options"}
+    }
+  }
+}

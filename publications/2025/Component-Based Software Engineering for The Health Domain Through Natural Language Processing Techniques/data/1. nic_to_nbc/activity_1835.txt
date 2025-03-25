@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Personalized Interaction": {
+    "parameters": [
+      {"Patient Profile": {}},
+      {"Interaction Type": {}},
+      {"Familiar Topics": {}},
+      {"Interaction Frequency": {}}
+    ]
+  }
+}

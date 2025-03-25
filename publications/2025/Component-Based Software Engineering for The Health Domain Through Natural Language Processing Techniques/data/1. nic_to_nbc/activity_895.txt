@@ -1,0 +1,31 @@
+Here is the output in JSON format:
+
+
+{
+  "Secretion Blood Check": {
+    "parameters": {
+      "Secretion Type": {
+        "type": "options",
+        "options": ["sputum", "urine", "stool", "other"]
+      },
+      "Frequency": {
+        "type": "options",
+        "options": ["daily", "everyHours", "everyDays", "asNeeded"]
+      },
+      "Method": {
+        "type": "options",
+        "options": ["visualInspection", "guaiacTest", "other"]
+      },
+      "Result": {
+        "type": "options",
+        "options": ["positive", "negative", "unclear"]
+      },
+      "Actions to Take": {
+        "type": "text"
+      },
+      "Notes": {
+        "type": "text"
+      }
+    }
+  }
+}

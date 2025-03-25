@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Tracker": {
+    "Metric": {"type": "options"},
+    "Data Source": {"type": "options"},
+    "Frequency": {"type": "options"},
+    "Target": {"type": "numeric value or percentage"}
+  },
+  "Alert": {
+    "Condition": {"type": "options"},
+    "Message": {"type": "text"},
+    "Recipient": {"type": "user reference"}
+  }
+}

@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+    "eye_care": {
+        "parameters": [
+            {"name": "prescription_check"},
+            {"name": "cleaning_schedule"},
+            {"name": "storage_method"}
+        ]
+    }
+}

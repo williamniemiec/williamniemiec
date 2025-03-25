@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+    "Safety Checklist": {
+        "Room Type": {"Type": "options", "Options": ["living room", "bedroom", "etc."]},
+        "Object Type": {"Type": "options", "Options": ["chair", "table", "etc."]},
+        "Elevated Surface": {"Type": "options", "Options": ["table", "counter", "etc."]},
+        "Reminder": {"Type": "text"}
+    }
+}

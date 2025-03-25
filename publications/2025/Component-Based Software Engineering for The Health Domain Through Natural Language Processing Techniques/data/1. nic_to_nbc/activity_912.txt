@@ -1,0 +1,14 @@
+
+
+
+{
+    "Medication Administration": {
+        "name": {"type": "text"},
+        "why": {"type": "text"},
+        "dosage": {"type": "text"},
+        "frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+        "route": {"type": "text"},
+        "deadline_date": {"type": "datetime"},
+        "ordered_by": {"type": "text"}
+    }
+}

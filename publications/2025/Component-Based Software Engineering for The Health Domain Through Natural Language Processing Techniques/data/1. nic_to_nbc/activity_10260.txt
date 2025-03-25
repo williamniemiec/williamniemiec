@@ -1,0 +1,36 @@
+Here is the output in JSON format:
+
+
+{
+  "New Learning Activity": {
+    "Parameters": {
+      "Learning Topic": {
+        "Options": ["geographical features", "history", "science", "language", "etc."]
+      },
+      "Learning Material": {
+        "Type": ["text", "image", "video", "interactive simulation", "etc."]
+      },
+      "Instructions": {
+        "Type": "text"
+      },
+      "Activity Type": {
+        "Options": ["reading", "watching", "interacting", "practicing", "etc."]
+      },
+      "Frequency": {
+        "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+      },
+      "Deadline Date": {
+        "Type": "datetime"
+      },
+      "Feedback": {
+        "Options": ["yes", "no"]
+      },
+      "Scoring": {
+        "Options": ["percentage correct", "number of correct answers", "time taken to complete"]
+      }
+    }
+  }
+}
+
+
+Let me know if this meets your requirements!

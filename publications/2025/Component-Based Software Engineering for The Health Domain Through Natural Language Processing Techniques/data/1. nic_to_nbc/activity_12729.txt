@@ -1,0 +1,12 @@
+
+
+
+{
+  "Parameter Specifications": {
+    "Title": {"Type": "text"},
+    "Content": {"Type": "HTML text or article"},
+    "Steps": {"Type": "ordered list or numbered list"},
+    "Resources": {"Type": "list of resources (e.g., URLs, file uploads)"}
+  },
+  "No-code Element Name": "Instruction"
+}

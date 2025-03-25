@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Protocol": {
+    "Name": {"Type": "text"},
+    "Content": {"Type": "text"},
+    "Trigger": {"Type": "options", "Options": ["when using non-tunneled devices", "always"]},
+    "Dressing Type": {"Type": "text", "Value": "Transparent semi-permeable dressings"},
+    "Change Frequency": {"Type": "options", "Options": ["every 7 days", "sooner if wet or dirty", "per agency policy"]},
+    "Agency Policy": {"Type": "text"}
+  }
+}

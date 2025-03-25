@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Triage Explanation": {
+    "Explanation Text": {
+      "Type": "text"
+    },
+    "Format": {
+      "Type": "options",
+      "Options": ["video", "audio", "text"]
+    }
+  }
+}

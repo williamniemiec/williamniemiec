@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "parameters": [
+    {
+      "name": "Medical Condition",
+      "description": "Specify the medical condition that warrants refraining from rectal/vaginal examination",
+      "required": true,
+      "type": "Text"
+    },
+    {
+      "name": "Examination Type",
+      "description": "Specify the type of examination to refrain from"
+    }
+  ],
+  "noCodeElementName": "Rectal/Vaginal Examination Referral"
+}

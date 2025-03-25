@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+{
+    "name": "human crutch guide",
+    "parameters": [
+        {
+            "name": "Human Crutch Instructions",
+            "type": "ordered list"
+        },
+        {
+            "name": "Safety Precautions",
+            "type": "unordered list"
+        },
+        {
+            "name": "Patient Selection",
+            "type": "unordered list"
+        },
+        {
+            "name": "Frequency",
+            "type": "options"
+        }
+    ]
+}
+
+I removed all the unnecessary information and only kept the `{{ NO-CODE ELEMENT NAME }}` and `{{ PARAMETER ESPECIFICATIONS }}`. I also reformatted the output to match the example JSON structure. Let me know if you need any further assistance!

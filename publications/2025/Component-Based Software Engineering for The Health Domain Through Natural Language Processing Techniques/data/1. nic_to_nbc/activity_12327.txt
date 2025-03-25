@@ -1,0 +1,37 @@
+Here is the output in JSON format:
+
+
+{
+  "Symptom Reporter": {
+    "Parameters": {
+      "Symptoms": {
+        "Description": "list of symptoms that the patient should report",
+        "Required": true,
+        "Type": "unordered list",
+        "Options": [
+          { "value": "discomfort", "label": "Discomfort" },
+          { "value": "dysuria", "label": "Dysuria" },
+          { "value": "vaginalDischargeColor", "label": "Changes in vaginal discharge color" },
+          { "value": "vaginalDischargeConsistency", "label": "Changes in vaginal discharge consistency" },
+          { "value": "vaginalDischargeFrequency", "label": "Changes in vaginal discharge frequency" }
+        ]
+      },
+      "Reporting Instructions": {
+        "Description": "instructions on how to report symptoms, including who to contact and when",
+        "Required": true,
+        "Type": "text"
+      },
+      "Frequency": {
+        "Description": "specify how often the patient should report symptoms",
+        "Required": true,
+        "Type": "options",
+        "Options": [
+          { "value": "daily", "label": "Daily" },
+          { "value": "weekly", "label": "Weekly" },
+          { "value": "monthly", "label": "Monthly" },
+          { "value": "asNeeded", "label": "As needed" }
+        ]
+      }
+    }
+  }
+}

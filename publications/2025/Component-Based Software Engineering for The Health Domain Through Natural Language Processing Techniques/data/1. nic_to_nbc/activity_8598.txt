@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Equipment Guide": {
+    "Name": {"type": "text"},
+    "Equipment List": {
+      "type": ["list", "unordered list"],
+      "items": {
+        "Equipment Name": {"type": "text"},
+        "Safety Instructions": {"type": "text"},
+        "Image or Video": {"type": ["image", "video"]}
+      }
+    },
+    "Frequency": {"type": "options"},
+    "Deadline Date": {"type": "datetime"}
+  }
+}

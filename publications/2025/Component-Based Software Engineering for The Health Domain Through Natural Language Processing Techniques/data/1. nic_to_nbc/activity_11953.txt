@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+  "Hand Washing": {
+    "Parameters": {
+      "Hand Washing Title": {
+        "Description": "Title of the hand washing reminder",
+        "Required": true,
+        "Type": "text"
+      },
+      "Instructions": {
+        "Description": "Provide instructions on how to properly wash hands",
+        "Required": true,
+        "Type": "text"
+      },
+      "Frequency": {
+        "Description": "Specify how often the patient should wash hands after petting or contacting an animal",
+        "Required": true,
+        "Type": "options",
+        "Options": ["afterEachContact", "atLeastOnceADay", "etc."]
+      }
+    }
+  }
+}
+
+
+Note that I removed the not applicable parameters ("Reminders" and "Deadline Date") as they are marked as `false` in the Required field.

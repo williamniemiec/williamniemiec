@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Flexible Learning": {
+    "Learning content": {"type": "text"},
+    "Adaptive difficulty": {"options": ["yes", "no"]},
+    "Pacing control": {"options": ["patient-controlled", "system-controlled"]},
+    "Feedback": {"options": ["yes", "no"]}
+  }
+}
+
+
+Note that I removed the "Deadline" parameter since it has an option "no deadline" which is considered as not applicable. Let me know if this meets your requirements!

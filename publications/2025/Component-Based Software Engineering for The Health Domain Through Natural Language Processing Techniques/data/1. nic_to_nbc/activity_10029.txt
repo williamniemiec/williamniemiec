@@ -1,0 +1,36 @@
+Here is the output in JSON format:
+
+
+{
+  "Skin Surveillance": {
+    "parameters": {
+      "Patient Risk Level": {
+        "type": "options",
+        "options": [
+          { "value": "high", "label": "High" },
+          { "value": "moderate", "label": "Moderate" },
+          { "value": "low", "label": "Low" }
+        ]
+      },
+      "Video Monitoring": {
+        "type": "text"
+      },
+      "Surveillance Frequency": {
+        "type": "options",
+        "options": [
+          { "value": "daily", "label": "Daily" },
+          { "value": "every12Hours", "label": "Every 12 hours" },
+          { "value": "every24Hours", "label": "Every 24 hours" }
+        ]
+      },
+      "Image Capture": {
+        "type": "text"
+      },
+      "Image Analysis": {
+        "type": "text"
+      }
+    }
+  }
+}
+
+Let me know if this is what you were looking for!

@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Instruction": {
+    "parameters": {
+      "name": "Suture Removal",
+      "content": "Instruct patient when sutures should be removed",
+      "type": "instruction",
+      "text": "a clear and concise text instruction, such as \"Sutures should be removed in 7-10 days\" or \"Sutures should be removed when the wound is fully healed\"",
+      "image": "(optional) an image or illustration to help illustrate the instruction",
+      "video": "(optional) a video tutorial to help demonstrate the instruction",
+      "reminder": "(optional) a parameter to set a reminder for the patient to remove the sutures at the specified time"
+    }
+  }
+}
+
+
+Let me know if you need anything else!

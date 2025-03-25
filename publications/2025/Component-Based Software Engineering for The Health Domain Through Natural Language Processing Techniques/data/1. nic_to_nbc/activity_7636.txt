@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+  "Family Empowerment": {
+    "Information Need": {
+      "type": "options"
+    },
+    "Assertiveness Level": {
+      "type": "options"
+    },
+    "Empowerment Strategy": {
+      "type": "options"
+    },
+    "Resource Connection": {
+      "type": "options"
+    },
+    "Follow-up": {
+      "type": "options"
+    }
+  }
+}

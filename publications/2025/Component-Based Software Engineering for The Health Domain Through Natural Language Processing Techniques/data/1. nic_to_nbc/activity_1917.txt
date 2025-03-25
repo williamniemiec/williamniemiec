@@ -1,0 +1,35 @@
+Here is the output in JSON format:
+
+
+{
+  "Program Referral": {
+    "parameters": {
+      "name": "Program Referral",
+      "program_type": "",
+      "program_details": ""
+    }
+  },
+  "Education Module": {
+    "parameters": {
+      "name": "Education on Heart Failure and Cardiac Rehabilitation",
+      "content": [],
+      "type": ""
+    }
+  },
+  "Evaluation Tool": {
+    "parameters": {
+      "name": "Evaluation Tool for Heart Failure and Cardiac Rehabilitation",
+      "metrics": [],
+      "frequency": "",
+      "notes": ""
+    }
+  },
+  "Guided Support": {
+    "parameters": {
+      "name": "Guided Support for Heart Failure and Cardiac Rehabilitation",
+      "coaching": "",
+      "goal_setting": "",
+      "progress_tracking": ""
+    }
+  }
+}

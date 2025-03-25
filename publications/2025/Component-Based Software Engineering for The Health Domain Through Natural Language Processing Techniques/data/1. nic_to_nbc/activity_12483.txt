@@ -1,0 +1,30 @@
+Here is the output in JSON format:
+
+
+{
+  "Adjust Backrest": {
+    "Angle": {
+      "type": "options",
+      "options": [
+        { "value": "10", "label": "10 degrees" },
+        { "value": "15", "label": "15 degrees" },
+        { "value": "custom", "label": "Custom angle" }
+      ]
+    },
+    "Frequency": {
+      "type": "options",
+      "options": [
+        { "value": "daily", "label": "Daily" },
+        { "value": "onlyOnce", "label": "Only once" },
+        { "value": "everyHours", "label": "Every x hours" },
+        { "value": "everyDays", "label": "Every x days" }
+      ]
+    },
+    "Deadline Date": {
+      "type": "datetime"
+    },
+    "Instructions": {
+      "type": "text"
+    }
+  }
+}

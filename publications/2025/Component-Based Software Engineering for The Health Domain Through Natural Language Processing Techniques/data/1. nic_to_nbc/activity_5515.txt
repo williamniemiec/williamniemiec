@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Health Information": {
+    "Diagnosis": "Diagnosis Information",
+    "Treatment": "Treatment Information",
+    "Prognosis": "Prognosis Information",
+    "Additional Resources": "Additional Resources"
+  }
+}

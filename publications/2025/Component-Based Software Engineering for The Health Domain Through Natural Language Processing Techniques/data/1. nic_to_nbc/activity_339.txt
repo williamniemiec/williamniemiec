@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+{
+  "Fairness Tracker": {
+    "Child List": {"type": "list of text"},
+    "Discipline Incidents": {"type": "table with columns for date, reason, and action"},
+    "Resource Allocation": {"type": "table with columns for resource type, amount/duration, and date"},
+    "Attention and Quality Time": {"type": "table with columns for activity/interaction type, duration, and date"},
+    "Reflection and Goal Setting": {"type": "text"}
+  }
+}

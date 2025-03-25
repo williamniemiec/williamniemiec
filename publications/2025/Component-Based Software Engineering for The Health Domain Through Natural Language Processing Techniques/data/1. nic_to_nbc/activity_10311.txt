@@ -1,0 +1,34 @@
+Here is the output in JSON format:
+
+
+{
+  "Culture and Sensitivity Testing Guidance": {
+    "parameters": {
+      "name": "Culture and Sensitivity Testing Guidance",
+      "description": "Send secretions for culture and sensitivity tests, as appropriate",
+      "type": "text",
+      "required": true
+    }
+  },
+  "Specimen Collection": {
+    "parameters": {
+      "name": "Specimen Collection",
+      "description": "Collect and prepare secretions for culture and sensitivity testing",
+      "type": "checkbox",
+      "required": true
+    }
+  },
+  "Test Ordering": {
+    "parameters": {
+      "name": "Test Ordering",
+      "description": "Order culture and sensitivity tests",
+      "type": "options",
+      "options": [
+        { "value": "culture", "label": "Culture" },
+        { "value": "sensitivity", "label": "Sensitivity" },
+        { "value": "both", "label": "Both" }
+      ],
+      "required": true
+    }
+  }
+}

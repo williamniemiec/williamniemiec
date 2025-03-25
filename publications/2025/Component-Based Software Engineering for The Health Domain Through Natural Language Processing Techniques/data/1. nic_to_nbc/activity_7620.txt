@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+  "Dress Extremity": {
+    "Extremity": {
+      "Description": "Specify the affected extremity (e.g. left arm, right leg)",
+      "Required": true,
+      "Type": "text"
+    },
+    "Frequency": {
+      "Description": "Specify how often the patient should be reminded to dress the affected extremity first",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "daily", "label": "Daily" },
+        { "value": "onlyOnce", "label": "Only once" },
+        { "value": "everyHours", "label": "Every x hours" },
+        { "value": "everyDays", "label": "Every x days" }
+      ]
+    }
+  }
+}
+
+
+I removed the introduction, conclusion, and not applicable parameters (Deadline Date and Additional Tips) as per your request.

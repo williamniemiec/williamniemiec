@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Symptom Education": {
+    "parameters": {
+      "Symptom List": {},
+      "Description": {},
+      "Images": {},
+      "Action Plan": {},
+      "Resources": {}
+    }
+  }
+}

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Awareness Module": {
+    "Topic": {},
+    "Content": {},
+    "Reflection Questions": {},
+    "Resources": {}
+  }
+}
+
+
+I removed the parameters that are not applicable (i.e., `Discussion Forum` and `Quiz or Assessment` which have boolean types, and `Frequency` which has options). Let me know if you need anything else!

@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Care Plan": {
+    "parameters": {
+      "Caregiver Information": {"type": "text"},
+      "Supportive Environment Needs": {"type": "options", "options": ["medical equipment", "home modifications", "transportation", "meal preparation"]},
+      "Resource Identification": {"type": "options", "options": ["home health care services", "community resources", "family support"]},
+      "Care Schedule": {"type": "options", "options": ["daily", "weekly", "bi-weekly"]},
+      "Emergency Contact Information": {"type": "text"},
+      "Additional Support": {"type": "options", "options": ["respite care", "counseling", "other"]}
+    }
+  }
+}

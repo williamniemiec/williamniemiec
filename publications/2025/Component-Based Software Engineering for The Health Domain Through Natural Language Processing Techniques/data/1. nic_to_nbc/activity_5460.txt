@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Intake-Output Tracker": {
+    "Parameters": {
+      "Name": {},
+      "Intake Fields": {},
+      "Output Fields": {},
+      "Frequency": {},
+      // removed Deadline Date as it's not applicable
+    }
+  }
+}

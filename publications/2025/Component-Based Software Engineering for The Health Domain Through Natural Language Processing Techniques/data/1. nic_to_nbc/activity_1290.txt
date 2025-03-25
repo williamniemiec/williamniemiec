@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+    "Element Name": "Education",
+    "Parameters": {
+        "Topic": {"Type": "text", "Example": "Guilt as a common reaction to trauma, abuse, grief, catastrophic illness, or accidents"},
+        "Content": {"Type": "text or html", "Example": "Guilt is a normal emotional response to traumatic events. It's common to feel guilty about things that are not within your control. Recognizing and accepting these feelings can help you move forward."},
+        "Format": {"Type": "options", "Options": ["text", "video", "image", "audio", "interactive quiz"]},
+        "Resources": {"Type": "list of URLs or file attachments", "Example": ["https://www.mentalhealth.org.uk/a-to-z/g/guilt", "Guilt_and_Trauma.pdf"]}
+    }
+}
+
+
+Let me know if you need any further assistance!

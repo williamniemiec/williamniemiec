@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+  "Questionnaire": {
+    "Parameters": {
+      "Questions": [
+        "Have you had another child removed from your home?",
+        "Have you placed previous children with relatives for extended periods?",
+        "If yes, how many children have been removed or placed?",
+        "If yes, what were the reasons for removal or placement?"
+      ],
+      "Answer type": [
+        "Yes/No",
+        "Number",
+        "Text"
+      ]
+    }
+  }
+}

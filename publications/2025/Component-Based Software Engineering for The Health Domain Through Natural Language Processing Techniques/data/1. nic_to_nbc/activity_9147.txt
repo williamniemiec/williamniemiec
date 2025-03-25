@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Risk Reduction Guide": {
+    "Dysrhythmia Type": {},
+    "Risk Factors": {},
+    "Lifestyle Modifications": {},
+    "Medication Adherence": {},
+    "Monitoring and Follow-up": {},
+    "FAQs": {}
+  }
+}

@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Respectful Tone": {
+    "Parameters": {
+      "Instructions": {"Type": "text"},
+      "Tips": {"Type": "list", "Examples": ["speak clearly", "use a gentle tone", "avoid condescending language", "etc."]},
+      "Reminder": {"Type": "options", "Options": ["daily", "weekly", "monthly", "onlyOnce"]}
+    }
+  }
+}

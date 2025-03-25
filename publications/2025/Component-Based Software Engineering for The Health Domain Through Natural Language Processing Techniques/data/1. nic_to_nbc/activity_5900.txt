@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Memory Technique": {
+        "Parameters": {
+            "Technique": ["visual imagery", "mnemonic devices", "memory games", "memory cues", "association techniques", "making lists", "using computers", "using name tags", "rehearsing information"],
+            "Instructions": {"Type": "text"},
+            "Frequency": ["daily", "onlyOnce", "everyHours", "everyDays"],
+            "Deadline Date": {"Type": "datetime"},
+            "Resources": {"Type": "list of URLs or file attachments"}
+        }
+    }
+}

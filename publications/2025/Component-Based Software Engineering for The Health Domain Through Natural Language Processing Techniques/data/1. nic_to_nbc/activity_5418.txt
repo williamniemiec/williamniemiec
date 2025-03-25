@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "Stool Tracker": {
+    "Parameters": {
+      "Stool Characteristics": {
+        "Type": "form or table"
+      },
+      "Recording Method": {
+        "Type": "options or toggle"
+      },
+      "Education and Tips": {
+        "Type": "rich text or multimedia"
+      },
+      "Goal Setting": {
+        "Type": "text or numeric input"
+      },
+      "Tracking and Monitoring": {
+        "Type": "graph or chart"
+      }
+    }
+  }
+}

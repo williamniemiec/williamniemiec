@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "Barrier Identification": {
+    "Barrier Type": {
+      "type": "options",
+      "options": ["cost", "side effects", "forgetfulness", "lack of understanding", "other"]
+    },
+    "Barrier Description": {
+      "type": "text"
+    },
+    "Frequency": {
+      "type": "options",
+      "options": ["daily", "weekly", "monthly", "rarely", "never"]
+    },
+    "Impact": {
+      "type": "options",
+      "options": ["minor", "moderate", "significant", "extreme"]
+    },
+    "Additional Comments": {
+      "type": "text"
+    }
+  }
+}

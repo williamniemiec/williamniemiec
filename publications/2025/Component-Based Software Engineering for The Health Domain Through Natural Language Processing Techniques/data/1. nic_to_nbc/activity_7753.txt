@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Hospital Visit": {
+    "parameters": {
+      "Mother's Information": {"type": "form", "fields": ["name", "contact information", "etc."]},
+      "Hospital Visit Details": {"type": "text", "description": "notes about the visit, concerns, etc."},
+      "Follow-up Visit Schedule": {"type": "datetime", "description": "schedule follow-up visit date and time"},
+      "Relationship Building": {"type": "options", "options": ["yes/no indicator for relationship building progress"]},
+      "Next Steps": {"type": "text", "description": "instructions, recommendations, etc."}
+    }
+  },
+  "Follow-up Visit": {
+    "parameters": {
+      "Follow-up Visit Date": {"type": "datetime"},
+      "Reminder Message": {"type": "text", "description": "personalized message reminding the mother about the follow-up visit"},
+      "Visit Details": {"type": "text", "description": "location, duration, etc."}
+    }
+  }
+}

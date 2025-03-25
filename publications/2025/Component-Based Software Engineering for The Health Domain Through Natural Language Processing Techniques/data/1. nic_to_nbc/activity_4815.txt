@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Energy Management Plan": {
+    "Activity Types": {"type": "list of text options", "required": true},
+    "Rest Periods": {"type": "numeric value (in minutes) and options", "required": true},
+    "Activity Durations": {"type": "numeric value (in minutes)", "required": true},
+    "Schedule": {"type": "calendar-based schedule with time slots", "required": true}
+  }
+}
+
+
+I removed the non-applicable parameters (`Energy Levels` and `Reminders`) as they are not required. Let me know if this meets your requirements!

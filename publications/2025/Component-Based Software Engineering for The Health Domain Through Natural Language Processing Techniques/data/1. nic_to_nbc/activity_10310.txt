@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Dietary Plan": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Diet Type": {"Type": "options"},
+      "Meal Plan": {"Type": "list of meal plan items"},
+      "Progressive Plan": {"Type": "list of progressive plan items"},
+      "Resources": {"Type": "list of resources"},
+      "Notes": {"Type": "text"}
+    }
+  }
+}

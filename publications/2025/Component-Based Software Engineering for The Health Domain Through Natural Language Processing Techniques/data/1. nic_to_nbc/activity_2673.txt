@@ -1,0 +1,24 @@
+Here is the output in JSON format, removing everything except `PARAMETER ESPECIFICATIONS` and `NO-CODE ELEMENT NAME`, and removing not applicable parameters:
+
+
+{
+  "name": "Information Hierarchy",
+  "parameters": [
+    {
+      "name": "information_content",
+      "type": "text"
+    },
+    {
+      "name": "hierarchy_type",
+      "type": "text"
+    },
+    {
+      "name": "complexity_level",
+      "type": "list of complexity levels"
+    },
+    {
+      "name": "arranged_information",
+      "type": "list of information content in a specific order"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Community Resources": {
+    "Resource Type": {"type": "options", "required": true},
+    "Resource List": {"type": "list of resource names, descriptions, and contact information", "required": true},
+    "Location": {"type": "geographic location", "required": true},
+    "Eligibility Criteria": {"type": "text", "required": true},
+    "Referral Process": {"type": "text", "required": true}
+  }
+}

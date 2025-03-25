@@ -1,0 +1,10 @@
+{
+  "name": "Caregiver Support and Task Management",
+  "description": "Focuses on caregiver support, task assignments, and care plans, including respite care and team coordination.",
+  "type": "periodic",
+  "input": ["Caregiver details", "Care plan", "Task assignments", "Support requirements"],
+  "output": ["Task completion reports", "Caregiver feedback", "Respite care scheduling"],
+  "preconditions": ["Care plan is created and caregiver tasks are assigned"],
+  "postconditions": ["Caregiver tasks are completed and support needs are addressed"],
+  "dependencies": ["Caregiver management system", "Task tracking tools", "Respite care resources"]
+}

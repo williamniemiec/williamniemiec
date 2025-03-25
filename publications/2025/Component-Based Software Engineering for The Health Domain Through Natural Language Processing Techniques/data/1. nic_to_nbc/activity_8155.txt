@@ -1,0 +1,38 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "teratogens_info_service",
+    "parameters": [
+        { 
+            "name": "service_name", 
+            "description": "name of the teratogens information service"
+        },
+        { 
+            "name": "service_url", 
+            "description": "URL of the teratogens information service"
+        },
+        { 
+            "name": "search_criteria", 
+            "description": "search criteria for environmental agents"
+        },
+        { 
+            "name": "search_results", 
+            "description": "search results from the teratogens information service",
+            "list": [
+                { 
+                    "label": "Agent name"
+                },
+                { 
+                    "label": "Description"
+                },
+                { 
+                    "label": "Risks"
+                }
+            ]
+        }
+    ]
+}
+
+
+Note that I removed the `required` and `type` fields from the parameters, as they were not requested in the output. If you need them, let me know!

@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Clear Goal Statement": {
+    "Goal Statement": {"type": "text"},
+    "Goal Clarity": {"type": "options", "options": ["clear", "somewhat clear", "unclear"]},
+    "Alternative Phrases": {"type": "list of text", "examples": ["I'll try to...", "I'll do my best...", "Maybe I'll..."]},
+    "Specificity Prompts": {"type": "list of text", "examples": ["What exactly do you want to achieve?", "How will you know when you've reached your goal?", "What specific actions will you take to achieve your goal?"]},
+    "Goal Refinement": {"type": "text"}
+  }
+}

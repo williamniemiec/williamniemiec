@@ -1,0 +1,29 @@
+Here is the output in JSON format:
+
+
+{
+  "Incontinence Confidence": {
+    "Parameters": {
+      "Confidence Statement": {
+        "Type": "text"
+      },
+      "Frequency": {
+        "Type": "options",
+        "Options": [
+          { "value": "daily", "label": "Daily" },
+          { "value": "onlyOnce", "label": "Only once" },
+          { "value": "everyHours", "label": "Every x hours" },
+          { "value": "everyDays", "label": "Every x days" }
+        ]
+      },
+      "Delivery Method": {
+        "Type": "options",
+        "Options": [
+          { "value": "verbal", "label": "Verbal communication" },
+          { "value": "written", "label": "Written communication" },
+          { "value": "digital", "label": "Digital communication (e.g. app, email)" }
+        ]
+      }
+    }
+  }
+}

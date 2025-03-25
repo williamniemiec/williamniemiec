@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Microlearning": {
+    "Topic": {"type": "text"},
+    "Content": {"type": "rich text or multimedia"},
+    "Duration": {"type": "time duration"},
+    "Frequency": {"type": "options"}
+  }
+}
+
+
+I removed the `Deadline Date` parameter as it's not applicable in this context. Let me know if you need further assistance!

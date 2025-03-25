@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Administration": {
+    "Parameters": {
+      "Medication Name": ["Heparin", "Clopidogrel", "Warfarin", "Aspirin", "Dipyridamole", "Dextran", "Other"],
+      "Dosage": "numeric value",
+      "Frequency": ["Once daily", "Twice daily", "Three times daily", "Other"],
+      "Administration Time": "datetime",
+      "Adherence Status": ["Adherent", "Non-adherent"],
+      "Reasons for Non-Adherence": ["Forgot", "Side effects", "Difficulty with administration", "Other"]
+    }
+  },
+  "Medication Schedule": {
+    "Parameters": {
+      "Medication Schedule": ["Daily", "Every 12 hours", "Every 8 hours", "Other"],
+      "Start Date": "datetime",
+      "End Date": "datetime"
+    }
+  },
+  "Medication Side Effects": {
+    "Parameters": {
+      "Side Effects": ["Bleeding", "Bruising", "Rash", "Nausea", "Vomiting", "Diarrhea", "Other"],
+      "Severity": ["Mild", "Moderate", "Severe"]
+    }
+  }
+}

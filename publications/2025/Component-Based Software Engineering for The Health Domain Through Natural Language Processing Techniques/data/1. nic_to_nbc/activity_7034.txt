@@ -1,0 +1,12 @@
+
+
+
+{
+    "practice_session": {
+        "parameters": [
+            {"name": "name"},
+            {"name": "description"},
+            {"name": "frequency"}
+        ]
+    }
+}

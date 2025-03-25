@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication and Equipment Tutorial": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Content": {},
+      "Step-by-Step Instructions": {},
+      "Videos and Animations": {},
+      "Quizzes and Assessments": {},
+      "Personalization": {}
+    }
+  }
+}

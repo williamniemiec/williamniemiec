@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Chest Discomfort Tracker": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Pain Rating": {"Type": "number"},
+      "Pain Description": {"Type": "text"},
+      "Location": {"Type": "options", "Options": ["left side", "right side", "center", "radiating to arm/leg", "other"]},
+      "Duration": {"Type": "options", "Options": ["less than 1 minute", "1-5 minutes", "5-30 minutes", "more than 30 minutes"]},
+      "Frequency": {"Type": "options", "Options": ["constantly", "frequently", "occasionally", "rarely"]},
+      "Notes": {"Type": "text"}
+    }
+  }
+}
+
+
+I removed the `Deadline Date` parameter as it's not applicable to the no-code element. Let me know if you have any further requests!

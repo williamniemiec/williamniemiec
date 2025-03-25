@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+    "Symptom Tracker": {
+        "Parameters": {
+            "Symptoms": ["Anorexia", "Nausea", "Cramps", "Constipation", "Distention", "Paralytic ileus"],
+            "Frequency": ["daily", "everyHours", "everyDays"],
+            "Severity": {"type": "options"},
+            "Notes": {"type": "text"}
+        }
+    }
+}
+
+
+Let me know if this is what you were expecting!

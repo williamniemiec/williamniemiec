@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Fit Monitoring",
+    "parameters": [
+        {
+            "name": "devices_to_monitor"
+        },
+        {
+            "name": "monitoring_frequency"
+        },
+        {
+            "name": "fit_criteria"
+        },
+        {
+            "name": "reporting_instructions"
+        }
+    ]
+}
+
+
+I removed the not applicable parameters (i.e., `deadline_date` since it's not required) and only kept the `name` and `parameters` fields. Let me know if this is what you were expecting!

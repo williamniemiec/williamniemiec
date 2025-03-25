@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+    "Medication Management": {
+        "Parameters": {
+            "Medication Type": {"Type": "options"},
+            "Indication": {"Type": "options"},
+            "Anticholinergic Risk": {"Type": "options"},
+            "Medication Selection": {"Type": "algorithm-based selection"},
+            "Dosing and Frequency": {"Type": "options"},
+            "Monitoring": {"Type": "options"}
+        }
+    }
+}

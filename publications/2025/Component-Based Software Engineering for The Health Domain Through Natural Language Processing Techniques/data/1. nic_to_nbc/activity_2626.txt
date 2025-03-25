@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+{
+  "Reminder": {
+    "Frequency": ["every 8 hours", "per organizational policy and protocol"],
+    "Duration": ["15 minutes", "20 minutes"],
+    "Notification": []
+  },
+  "Task": {
+    "Instruction text": ["Remove graduated elastic compression stockings or sleeves for 15 to 20 minutes every 8 hours or per organizational policy and protocol."],
+    "Frequency": ["every 8 hours", "per organizational policy and protocol"],
+    "Duration": ["15 minutes", "20 minutes"],
+    "Reminder": []
+  }
+}
+
+Let me know if this is what you were expecting!

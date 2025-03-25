@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Defibrillator Issue Reporting": {
+    "Parameters": {
+      "Issue Types": {},
+      "Reporting Instructions": {},
+      "Frequency": {},
+      "Symptom Checker": {},
+      "Urgency Level": {}
+    }
+  }
+}

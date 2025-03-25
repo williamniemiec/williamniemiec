@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+  "Data-Driven Reassessment": {
+    "Machine-Derived Data": {
+      "Type": "text or options"
+    },
+    "Alteration Threshold": {
+      "Type": "number or range"
+    },
+    "Reassessment Questions": {
+      "Type": "text or ordered list"
+    },
+    "Reassessment Frequency": {
+      "Type": "options"
+    },
+    "Deadline Date": {
+      "Type": "datetime"
+    }
+  }
+}

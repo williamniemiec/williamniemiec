@@ -1,0 +1,31 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "meal_frequency_encouragement",
+  "parameters": [
+    {
+      "name": "breakfast_encouragement"
+    },
+    {
+      "name": "small_meals_frequency",
+      "range": {
+        "min": 4,
+        "max": 5,
+        "unit": "meals"
+      }
+    },
+    {
+      "name": "meal_size",
+      "options": [
+        { value: "small", label: "Small" }
+      ]
+    },
+    {
+      "name": "frequency",
+      "options": [
+        { value: "daily", label: "Daily" }
+      ]
+    }
+  ]
+}

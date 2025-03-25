@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Data Deduplication": {
+    "Parameters": {
+      "Data Type": "",
+      "Data Source": "",
+      "Duplicate Detection": "",
+      "Merge Rules": "",
+      "Alerts": ""
+    }
+  }
+}

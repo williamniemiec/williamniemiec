@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Incremental Exercise Plan": {
+    "parameters": {
+      "Exercise Goal": {"type": "numerical input field"},
+      "Incremental Periods": {"type": "list of numerical input fields"},
+      "Frequency": {"type": "numerical input field"},
+      "Exercise Type": {"type": "list of text options"},
+      "Tracking Progress": {"type": "data tracking component"},
+      "Reminders": {"type": "scheduling system"},
+      "Motivational Messages": {"type": "list of text options"}
+    }
+  }
+}

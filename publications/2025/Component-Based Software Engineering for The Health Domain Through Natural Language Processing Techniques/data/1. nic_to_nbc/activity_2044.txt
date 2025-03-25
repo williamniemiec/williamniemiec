@@ -1,0 +1,29 @@
+Here is the output in JSON format:
+
+{
+  "name": "Diapering After Circumcision",
+  "parameters": [
+    {
+      "name": "Instructions",
+      "type": "ordered list of text"
+    },
+    {
+      "name": "Images",
+      "type": "list of image URLs or base64 encoded images"
+    },
+    {
+      "name": "Tips",
+      "type": "list of text"
+    },
+    {
+      "name": "Frequency",
+      "type": "options",
+      "options": [
+        { value: "every2-3Hours", label: "Every 2-3 hours" },
+        { value: "asNeeded", label: "As needed" }
+      ]
+    }
+  ]
+}
+
+Let me know if you need any further modifications!

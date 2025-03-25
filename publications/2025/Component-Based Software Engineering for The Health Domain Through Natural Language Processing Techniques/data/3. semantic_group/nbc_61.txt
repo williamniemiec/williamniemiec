@@ -1,0 +1,29 @@
+{
+  "name": "Injection",
+  "description": "Covers the administration of injections, including techniques for subcutaneous, intramuscular, and intravenous injections. Also includes monitoring for occlusion, proper dosage administration, and post-injection care.",
+  "type": "non-periodic",
+  "input": [
+    "Injection techniques",
+    "Subcutaneous injection",
+    "Intramuscular injection",
+    "Intravenous injection",
+    "Pain relief",
+    "Occlusion monitoring"
+  ],
+  "output": [
+    "Injection confirmation",
+    "Dosage administration log",
+    "Injection site monitoring report"
+  ],
+  "preconditions": [
+    "User is administering or receiving an injection"
+  ],
+  "postconditions": [
+    "Proper injection administration and site monitoring"
+  ],
+  "dependencies": [
+    "Injection guidance tools",
+    "IV access monitoring system",
+    "Pain relief management tools"
+  ]
+}

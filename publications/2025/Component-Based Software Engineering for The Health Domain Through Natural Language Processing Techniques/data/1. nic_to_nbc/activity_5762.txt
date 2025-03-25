@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Follow-up": {
+    "Symptom Checker": {"type": "list of symptoms", "severity levels": ["mild", "moderate", "severe"]},
+    "Medication Management": {"type": "list of medications"},
+    "Vital Signs": {"type": "list of vital signs"},
+    "Pain Level": {"type": "options", "options": ["none", "mild", "moderate", "severe"]},
+    "Frequency": {"type": "options", "options": ["daily", "every 2 days", "every 3 days", "as needed"]},
+    "Deadline Date": {"type": "datetime"},
+    "Resources": {"type": "list of resources"}
+  }
+}

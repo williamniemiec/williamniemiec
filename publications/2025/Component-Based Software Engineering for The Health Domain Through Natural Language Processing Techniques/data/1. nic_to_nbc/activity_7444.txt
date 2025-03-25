@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Bleeding Education Plan": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Signs of Bleeding": {"Type": "list of options"},
+      "Appropriate Actions": {"Type": "list of options"},
+      "Reason for Education": {"Type": "text"},
+      "Resources": {"Type": "list of URLs or file uploads"},
+      "Review Date": {"Type": "datetime"},
+      "Reminders": {"Type": "frequency or specific dates and times"}
+    }
+  }
+}

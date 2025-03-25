@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+    "Ostomy Appliance": {
+        "Task Title": {"Description": "Title of the task", "Required": true, "Type": "text"},
+        "Ostomy Type": {"Description": "Specify the type of ostomy (e.g. colostomy, urostomy, ileostomy)", "Required": true, "Type": "options", "Options": [{"value": "colostomy", "label": "Colostomy"}, {"value": "urostomy", "label": "Urostomy"}, {"value": "ileostomy", "label": "Ileostomy"}]},
+        "Appliance Size": {"Description": "Specify the size of the ostomy appliance", "Required": true, "Type": "text"},
+        "Application Instructions": {"Description": "Step-by-step instructions for applying the ostomy appliance", "Required": true, "Type": "text"},
+        "Frequency": {"Description": "Specify how often to change the ostomy appliance", "Required": true, "Type": "options", "Options": [{"value": "daily", "label": "Daily"}, {"value": "everyOtherDay", "label": "Every other day"}, {"value": "every2Days", "label": "Every 2 days"}]}
+    }
+}
+
+
+I removed the parameters that are not applicable (i.e., `Deadline Date` since it's not required) and kept only the `Name` of the no-code element and its corresponding `Parameters`.

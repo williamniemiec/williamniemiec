@@ -1,0 +1,37 @@
+Here is the output in JSON format:
+
+
+{
+  "noCodeElementName": "Discomfort Assessment",
+  "parameters": [
+    {
+      "name": "Discomfort level",
+      "type": "options",
+      "options": [
+        { "value": "mild", "label": "Mild" },
+        { "value": "moderate", "label": "Moderate" },
+        { "value": "severe", "label": "Severe" },
+        { "value": "extreme", "label": "Extreme" }
+      ]
+    },
+    {
+      "name": "Discomfort description",
+      "type": "text"
+    },
+    {
+      "name": "Changes since last assessment",
+      "type": "options",
+      "options": [
+        { "value": "yes", "label": "Yes" },
+        { "value": "no", "label": "No" }
+      ]
+    },
+    {
+      "name": "Additional comments",
+      "type": "text"
+    }
+  ]
+}
+
+
+Note that I removed the "Submit report" parameter as it's a button type, which is not typically considered a parameter. Let me know if you have any further questions!

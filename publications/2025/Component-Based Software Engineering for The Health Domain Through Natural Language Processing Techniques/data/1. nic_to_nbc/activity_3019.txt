@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Equipment Check": {
+    "parameters": [
+      {"name": "equipment 1", "description": "Check the condition and functionality of equipment 1 (e.g. first aid kit)", "required": true, "type": "options", "options": [{"value": "functional", "label": "Functional"}, {"value": "nonFunctional", "label": "Non-Functional"}, {"value": "needsMaintenance", "label": "Needs Maintenance"}]},
+      {"name": "equipment 2", "description": "Check the condition and functionality of equipment 2 (e.g. oxygen tank)", "required": false, "type": "options", "options": [{"value": "functional", "label": "Functional"}, {"value": "nonFunctional", "label": "Non-Functional"}, {"value": "needsMaintenance", "label": "Needs Maintenance"}]},
+      {"name": "equipment 3", "description": "Check the condition and functionality of equipment 3 (e.g. defibrillator)", "required": false, "type": "options", "options": [{"value": "functional", "label": "Functional"}, {"value": "nonFunctional", "label": "Non-Functional"}, {"value": "needsMaintenance", "label": "Needs Maintenance"}]},
+      {"name": "notes", "description": "Add any additional notes or comments", "required": false, "type": "text"},
+      {"name": "frequency", "description": "Specify how often the equipment check should be performed", "required": true, "type": "options", "options": [{"value": "daily", "label": "Daily"}, {"value": "weekly", "label": "Weekly"}, {"value": "monthly", "label": "Monthly"}, {"value": "quarterly", "label": "Quarterly"}]}
+    ]
+  }
+}

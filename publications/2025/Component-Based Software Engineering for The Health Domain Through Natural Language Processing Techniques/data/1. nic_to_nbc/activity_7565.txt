@@ -1,0 +1,40 @@
+Here is the output in JSON format:
+
+
+{
+    "Emotional Support Configuration": {
+        "parameters": [
+            { 
+                "name": "emotions to monitor", 
+                "list items": [
+                    { 
+                        "name": "anxiety"
+                    },
+                    { 
+                        "name": "anger"
+                    },
+                    { 
+                        "name": "fear"
+                    },
+                    { 
+                        "name": "other"
+                    }
+                ]
+            },
+            { 
+                "name": "care provider contact information", 
+                "list items": [
+                    { 
+                        "name": "care provider name"
+                    },
+                    { 
+                        "name": "care provider role"
+                    },
+                    { 
+                        "name": "care provider contact method"
+                    }
+                ]
+            }
+        ]
+    }
+}

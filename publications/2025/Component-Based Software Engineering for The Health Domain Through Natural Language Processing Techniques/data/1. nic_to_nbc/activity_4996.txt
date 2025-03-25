@@ -1,0 +1,35 @@
+Here is the output in JSON format:
+
+
+{
+    "Family Support": {
+        "parameters": [
+            { 
+                "name": "Name", 
+                "description": "A parameter that specifies the title or name of the family support task."
+            },
+            { 
+                "name": "Description", 
+                "description": "A parameter that provides a brief description of why family support is important."
+            },
+            { 
+                "name": "Frequency", 
+                "description": "A parameter that specifies how often the patient's family should stay with them.",
+                "options": [
+                    { value: "daily" },
+                    { value: "onlyOnce" },
+                    { value: "everyHours" },
+                    { value: "everyDays" }
+                ]
+            },
+            { 
+                "name": "Deadline Date", 
+                "description": "A parameter that specifies the due date for the family support task."
+            },
+            { 
+                "name": "Notes", 
+                "description": "A parameter that allows the patient or healthcare provider to add additional notes or comments about the family support task."
+            }
+        ]
+    }
+}

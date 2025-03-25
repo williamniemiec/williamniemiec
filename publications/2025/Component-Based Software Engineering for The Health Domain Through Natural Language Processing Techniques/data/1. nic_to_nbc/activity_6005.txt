@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Infusion Monitor": {
+    "parameters": {
+      "Infusion Rate": {"type": "numeric"},
+      "Adverse Effect Monitoring": {"type": "options", "options": ["yes/no"]},
+      "IV Infiltration Risk": {"type": "options", "options": ["low", "moderate", "high"]},
+      "Tissue Sloughing Risk": {"type": "options", "options": ["low", "moderate", "high"]},
+      "Notes": {"type": "text"}
+    }
+  }
+}

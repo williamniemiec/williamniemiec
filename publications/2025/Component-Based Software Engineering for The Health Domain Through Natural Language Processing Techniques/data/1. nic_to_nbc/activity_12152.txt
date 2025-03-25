@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Document Upload": {
+    "parameters": {
+      "name": "Document Name",
+      "description": "Please upload your [document name] document",
+      "type": "file",
+      "required": true,
+      "claim_type": "options",
+      "deadline_date": "datetime"
+    }
+  }
+}

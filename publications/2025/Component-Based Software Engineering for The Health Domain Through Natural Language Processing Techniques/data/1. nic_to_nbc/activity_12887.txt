@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+    "Acid-Base Balance Tracker": {
+        "Name": {"type": "text"},
+        "pH Levels to Monitor": {"type": "unordered list"},
+        "Frequency of Testing": {"type": "options"},
+        "Normal Ranges": {"type": "text or table"},
+        "Result Tracking": {"type": "table or graph"},
+        "Alerts and Notifications": {"type": "boolean"},
+        "Deadline Date": {"type": "datetime"},
+        "Resources": {"type": "links or attachments"}
+    }
+}

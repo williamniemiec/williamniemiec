@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+  "Bowel Habit Tracker": {
+    "Schedule": {
+      "Type": "list of objects",
+      "Parameters": {
+        "Day": "text or options",
+        "Time": "time"
+      }
+    },
+    "Tracking": {
+      "Type": "list of objects",
+      "Parameters": {
+        "Date": "date",
+        "Time": "time",
+        "Bowel Movement": "text or options"
+      }
+    },
+    "Reminders": {
+      "Type": "boolean"
+    },
+    "Tips": {
+      "Type": "list of text or multimedia"
+    }
+  }
+}

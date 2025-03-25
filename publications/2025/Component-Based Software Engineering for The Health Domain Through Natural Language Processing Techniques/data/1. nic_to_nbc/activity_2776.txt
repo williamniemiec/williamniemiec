@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Pressure Application Guide": {
+    "parameters": [
+      {"Site Location": ""},
+      {"Pressure Technique": ""},
+      {"Trigger Events": ""},
+      {"Frequency": ""},
+      {"Deadline Date": ""}
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Exercise Buddy": {
+    "Parameters": {
+      "Name": {},
+      "Description": {},
+      "Exercise Type": {},
+      "Intensity Level": {},
+      "Duration": {},
+      "Virtual Buddy": {},
+      "Audio/Video Guidance": {},
+      "Real-time Feedback": {}
+    }
+  }
+}

@@ -1,0 +1,10 @@
+Here is the output in JSON format:
+
+
+{
+  "Report Safety Concerns": {
+    "Safety Concern": {"type": "text"},
+    "Date": {"type": "datetime"},
+    "Notes": {"type": "text"}
+  }
+}

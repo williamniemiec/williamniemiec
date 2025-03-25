@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+    "IV Medication Education": {
+        "Medication Information": {"type": "text"},
+        "Physician Consultation": {"type": "text"},
+        "Administration Instructions": {"type": "text"},
+        "Monitoring": {"type": "text"}
+    }
+}

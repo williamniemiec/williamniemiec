@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Vital Sign Tracker": {
+    "Potassium Level": {"Type": "number"},
+    "ECG Results": {"Type": "text"},
+    "Symptoms": {"Type": "multi-select"},
+    "Medication Adherence": {"Type": "boolean"}
+  },
+  "Question": {
+    "Question": {"Type": "text"},
+    "Answer Type": {"Type": "options"}
+  }
+}

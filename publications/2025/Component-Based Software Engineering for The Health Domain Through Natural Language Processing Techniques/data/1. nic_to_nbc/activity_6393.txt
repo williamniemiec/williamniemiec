@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Caregiver Guidance": {
+    "Parameters": {
+      "Caregiver Guidance Title": {},
+      "Positioning Instructions": {},
+      "Feeding Instructions": {},
+      "Monitoring Instructions": {},
+      "Frequency": {}
+    }
+  }
+}

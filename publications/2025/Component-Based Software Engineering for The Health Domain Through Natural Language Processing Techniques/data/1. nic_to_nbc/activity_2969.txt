@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+  "Community Advocacy": {
+    "Parameters": {
+      "Event Calendar": {
+        "Type": "calendar or event listing"
+      },
+      "Advocacy Opportunities": {
+        "Type": "list of volunteer opportunities, petitions, or campaigns"
+      },
+      "Resource Directory": {
+        "Type": "list of links, contacts, or organizations"
+      },
+      "News Feed": {
+        "Type": "news feed or blog"
+      },
+      "Call to Action": {
+        "Type": "button, link, or prompt"
+      },
+      "Impact Tracker": {
+        "Type": "counter, badge, or leaderboard"
+      }
+    }
+  }
+}

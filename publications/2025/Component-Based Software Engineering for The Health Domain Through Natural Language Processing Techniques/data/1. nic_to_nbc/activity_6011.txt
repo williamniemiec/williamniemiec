@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Education Module": {
+    "Parameters": {
+      "Title": "",
+      "Content": "",
+      "Format": "",
+      "Target Audience": ""
+    }
+  }
+}

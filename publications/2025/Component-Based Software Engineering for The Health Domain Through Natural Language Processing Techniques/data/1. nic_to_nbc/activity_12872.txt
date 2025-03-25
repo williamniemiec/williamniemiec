@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Lift Assistance": {
+    "Parameters": {
+      "Lift Type": {"Type": "options"},
+      "Patient Weight": {"Type": "numeric"},
+      "Lift Instructions": {"Type": "text"},
+      "Visual Aids": {"Type": "multimedia"},
+      "Safety Checks": {"Type": "checklist"}
+    }
+  }
+}

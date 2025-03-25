@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Device Care Guide": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Device Type": {"Type": "options"},
+      "Care Instructions": {"Type": "book-page"},
+      "Frequency": {"Type": "options"},
+      "Deadline Date": {"Type": "datetime"}
+    }
+  }
+}

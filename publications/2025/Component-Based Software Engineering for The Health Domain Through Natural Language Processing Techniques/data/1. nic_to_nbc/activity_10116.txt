@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+    "Energy-Based Prioritization": {
+        "Activities": {"type": "list of text"},
+        "Energy Levels": {"type": "text or numerical value"},
+        "Priority Ranking": {"type": "ranking system"},
+        "Energy Allocation": {"type": "numerical value"},
+        "Tips": {"type": "list of text or HTML content"}
+    },
+    "Question": {
+        "Name": {"type": "text"},
+        "Answer Type": {"type": "text or numerical value"}
+    },
+    "Task": {
+        "Name": {"type": "text"},
+        "Content": {"type": "text"},
+        "Frequency": {"options": ["daily", "onlyOnce", "everyHours", "everyDays"]}
+    }
+}

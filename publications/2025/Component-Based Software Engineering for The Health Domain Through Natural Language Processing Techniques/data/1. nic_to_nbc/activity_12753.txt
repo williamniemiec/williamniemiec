@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "noCodeElementName": "Symptom Tracker",
+  "parameters": {
+    "Drug": {"type": "text"},
+    "Symptoms": {"type": "options", "options": ["constricted pupils", "hypotension", "bradycardia", "nausea", "vomiting", "diaphoresis", "right upper quadrant pain", "dilated pupils", "tachycardia", "seizures", "chest pain", "etc."]},
+    "Frequency": {"type": "options", "options": ["daily", "everyHours", "everyDays"]},
+    "Duration": {"type": "text"},
+    "Severity": {"type": "options", "options": ["mild", "moderate", "severe"]},
+    "Notes": {"type": "text"}
+  }
+}

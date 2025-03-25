@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Assessment Guidance": {
+    "parameters": {
+      "Maternal Assessment Checklist": {"type": "list of text/html"},
+      "Newborn Assessment Checklist": {"type": "list of text/html"},
+      "Assessment Protocol": {"type": "text/html with images or illustrations"},
+      "Tips for Providers": {"type": "list of text/html"},
+      "Time Allocation": {"type": "time interval"}
+    }
+  }
+}

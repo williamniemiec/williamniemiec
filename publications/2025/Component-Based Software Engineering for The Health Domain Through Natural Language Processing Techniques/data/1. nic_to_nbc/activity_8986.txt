@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+  "Prolapse Positioning Guide": {
+    "parameters": [
+      {"name": "name", "type": "text"},
+      {"name": "pages", "type": "list of HTML texts or video URLs"}
+    ]
+  },
+  "Positioning Reminder": {
+    "parameters": [
+      {"name": "name", "type": "text"},
+      {"name": "trigger condition", "type": "text"},
+      {"name": "reminder message", "type": "text"}
+    ]
+  },
+  "Positioning Log": {
+    "parameters": [
+      {"name": "name", "type": "text"},
+      {"name": "frequency", "type": "text"},
+      {"name": "deadline_date", "type": "datetime"}
+    ]
+  }
+}
+
+Let me know if this is what you were looking for!

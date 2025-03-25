@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+    "Seating Arrangement": {
+        "parameters": [
+            {"name": "chair_arrangement", "description": "arrangement of chairs"},
+            {"name": "proximity", "description": "distance between chairs"}
+        ]
+    }
+}

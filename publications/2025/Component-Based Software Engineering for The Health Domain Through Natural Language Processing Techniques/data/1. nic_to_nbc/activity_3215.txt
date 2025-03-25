@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Distraction Response Evaluation": {
+    "parameters": {
+      "Name": {},
+      "Distraction Method": {},
+      "Response Criteria": {},
+      "Response Scale": {},
+      "Evaluation Frequency": {},
+      "Documentation": {},
+      "Notes": {}
+    }
+  }
+}

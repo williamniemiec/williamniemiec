@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Fluid and Electrolyte Loss Tracker": {
+        "Name": {"Type": "text"},
+        "Fluid Loss Indicators": {"Type": "unordered list"},
+        "Electrolyte Loss Indicators": {"Type": "unordered list"},
+        "Frequency of Monitoring": {"Type": "options"},
+        "Threshold Values": {"Type": "table"},
+        "Alerts and Notifications": {"Type": "boolean"},
+        "Resources": {"Type": "links or attachments"}
+    }
+}

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Specimen Collection and Packaging": {
+    "Name": {"Type": "text"},
+    "Specimen Type": {"Type": "text or options"},
+    "Collection Instructions": {"Type": "text or multimedia"},
+    "Packaging Instructions": {"Type": "text or multimedia"},
+    "Label Information": {"Type": "text"},
+    "Frequency": {"Type": "options"},
+    "Deadline Date": {"Type": "datetime"}
+  }
+}

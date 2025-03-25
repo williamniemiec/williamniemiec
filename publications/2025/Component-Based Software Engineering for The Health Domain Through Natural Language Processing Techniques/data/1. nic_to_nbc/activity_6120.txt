@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Oral Cavity Self-Assessment Guide": {
+    "Parameters": {
+      "guide title": {
+        "Description": "title of the oral cavity self-assessment guide",
+        "Required": true,
+        "Type": "text"
+      },
+      "Self-Assessment Instructions": {
+        "Description": "step-by-step instructions on how to self-assess the oral cavity",
+        "Required": true
+      }
+    }
+  }
+}

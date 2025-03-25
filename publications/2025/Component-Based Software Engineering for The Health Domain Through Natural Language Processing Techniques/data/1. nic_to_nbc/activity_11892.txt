@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Educational Material Development": {
+    "Material Type": {"type": "options", "values": ["video", "brochure", "website"]},
+    "Content Outline": {"type": "list of text values"},
+    "Target Audience": {"type": "options", "values": ["patients", "caregivers", "healthcare professionals"]},
+    "Learning Objectives": {"type": "list of text values"},
+    "Design Requirements": {"type": "list of text values"},
+    "Development Timeline": {"type": "date range"},
+    "Resources": {"type": "list of text values"}
+  }
+}

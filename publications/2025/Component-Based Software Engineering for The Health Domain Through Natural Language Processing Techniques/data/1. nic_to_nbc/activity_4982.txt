@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+  "Symptom Assessment": {
+    "Guideline": {
+      "Type": "options",
+      "Options": ["CTCAE", "NCCN", "NIH"]
+    },
+    "Symptom Data": {
+      "Type": "list of symptoms with corresponding severity levels"
+    },
+    "Urgency Thresholds": {
+      "Type": "list of urgency levels with corresponding thresholds"
+    },
+    "Evaluation Logic": {
+      "Type": "algorithmic expression"
+    },
+    "Output": {
+      "Type": "text or numerical value"
+    }
+  }
+}
+
+
+Let me know if you need any further assistance!

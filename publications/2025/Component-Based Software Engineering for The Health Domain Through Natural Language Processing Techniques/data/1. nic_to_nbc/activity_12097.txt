@@ -1,0 +1,25 @@
+
+
+
+{
+  "Humidification Guide": {
+    "parameters": {
+      "Humidification Type": {
+        "type": "options",
+        "options": ["inspired air", "oxygen", "gas", "etc."]
+      },
+      "Humidification Instructions": {
+        "type": ["text", "video"]
+      },
+      "Humidification Scenarios": {
+        "type": ["text", "images"]
+      },
+      "Humidification Reminders": {
+        "type": ["notification", "alert"]
+      }
+    }
+  }
+}
+
+
+Let me know if this is what you were expecting!

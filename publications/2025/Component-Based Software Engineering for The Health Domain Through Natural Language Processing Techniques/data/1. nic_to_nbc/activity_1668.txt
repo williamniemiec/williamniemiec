@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Guided Hand Placement Duration": {
+    "duration_range": {"type": "time interval range"},
+    "energy_flow_guidance": {"type": "text or multimedia (e.g., video, audio)"},
+    "intuition_prompt": {"type": "text or multimedia (e.g., video, audio)"},
+    "timer": {"type": "timer (e.g., countdown timer)"},
+    "next_step_guidance": {"type": "text or multimedia (e.g., video, audio)"},
+    "relaxation_music": {"type": "audio file"},
+    "breathing_exercise": {"type": "text or multimedia (e.g., video, audio)"},
+    "reflection_journal": {"type": "text or multimedia (e.g., video, audio)"}
+  }
+}

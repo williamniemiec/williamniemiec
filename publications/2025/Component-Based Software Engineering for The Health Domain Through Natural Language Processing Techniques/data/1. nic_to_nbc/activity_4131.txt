@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Art Interpretation": {
+    "Parameters": {
+      "Name": {},
+      "Artwork": {},
+      "Interpretation": {},
+      "Emotions": {}
+    }
+  }
+}

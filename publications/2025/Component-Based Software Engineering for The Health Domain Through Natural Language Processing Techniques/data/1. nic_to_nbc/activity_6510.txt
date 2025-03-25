@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+  "Drainage Tracker": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Units": {"Type": "text"},
+      "Frequency": {"Options": ["daily", "every 12 hours", "every 8 hours", "custom"]},
+      "Data Points": {"Type": "list of text"},
+      "Graph": {"Type": "chart or graph component"}
+    }
+  },
+  "Drainage Entry": {
+    "Parameters": {
+      "Date": {"Type": "date"},
+      "Time": {"Type": "time"},
+      "Amount": {"Type": "number"},
+      "Notes": {"Type": "text"}
+    }
+  }
+}

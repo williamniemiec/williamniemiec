@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Activity Plan": {
+    "Parameters": {
+      "Activity Type": {"Type": "options", "Options": ["lecture", "discussion", "group work", "hands-on practice", "other"]},
+      "Activity Objective": {"Type": "reference to a \"Learning Objective\" no-code element"},
+      "Activity Description": {"Type": "text"},
+      "Activity Materials": {"Type": "list of resources"},
+      "Activity Duration": {"Type": "text or numeric"},
+      "Activity Assessment": {"Type": "options", "Options": ["quiz", "project", "participation", "other"]}
+    }
+  }
+}
+
+
+Let me know if this meets your requirements!

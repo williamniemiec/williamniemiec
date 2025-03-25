@@ -1,0 +1,33 @@
+Here is the output in JSON format:
+
+
+{
+  "Discharge Planner": {
+    "Parameters": {
+      "Discharge Plan": {
+        "Type": "text or HTML"
+      },
+      "Review Type": {
+        "Type": "options",
+        "Options": [
+          {"value": "medication", "label": "Medication"},
+          {"value": "followUp", "label": "Follow-up Appointments"},
+          {"value": "therapy", "label": "Therapy"},
+          {"value": "other", "label": "Other (please specify)"}
+        ]
+      },
+      "Review Questions": {
+        "Type": "list of text"
+      },
+      "Patient Response": {
+        "Type": "list of text"
+      },
+      "Care Team Input": {
+        "Type": "text"
+      },
+      "Discharge Date": {
+        "Type": "datetime"
+      }
+    }
+  }
+}

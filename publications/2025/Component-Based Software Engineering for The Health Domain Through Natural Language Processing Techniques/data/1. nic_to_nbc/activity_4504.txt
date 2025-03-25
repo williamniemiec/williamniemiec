@@ -1,0 +1,4 @@
+Since the input text does not contain the specified format, I will assume that it's an empty input. Therefore, my output will be:
+
+
+{}

@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Standard Precautions": {
+    "parameters": [
+      {"name": "Precaution Type"},
+      {"name": "Frequency"},
+      {"name": "Deadline Date"},
+      {"name": "Instructions"}
+    ]
+  }
+}

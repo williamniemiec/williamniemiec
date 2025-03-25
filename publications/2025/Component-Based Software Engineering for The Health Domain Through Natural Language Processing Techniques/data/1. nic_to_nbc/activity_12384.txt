@@ -1,0 +1,35 @@
+Here is the output in JSON format:
+
+
+{
+  "Residual Check": {
+    "Parameters": {
+      "Timeframe": {
+        "Description": "Specify the timeframe for checking residual",
+        "Required": true,
+        "Type": "options",
+        "Options": [
+          {"value": "first24hours", "label": "First 24 hours"},
+          {"value": "after24hours", "label": "After 24 hours"}
+        ]
+      },
+      "Frequency": {
+        "Description": "Specify the frequency of checking residual",
+        "Required": true,
+        "Type": "options",
+        "Options": [
+          {"value": "every4to6hours", "label": "Every 4 to 6 hours"},
+          {"value": "every8hours", "label": "Every 8 hours"}
+        ]
+      },
+      "Residual Amount": {
+        "Description": "Record the residual amount",
+        "Required": true,
+        "Type": "number"
+      }
+    }
+  }
+}
+
+
+I removed the `Notes` and `Deadline Date` parameters since they are not required. Let me know if you need anything else!

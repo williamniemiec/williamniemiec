@@ -1,0 +1,10 @@
+Here is the output in JSON format:
+
+
+{
+  "Concern Discussion": {
+    "Question": {"Description": "Ask the patient to express their main concern about the ulcer", "Required": true, "Type": "text"},
+    "Response": {"Description": "Record the patient's response to the question", "Required": true, "Type": "text"},
+    "Follow-up": {"Description": "Guide a follow-up discussion with the patient to address their concern", "Required": true, "Type": "text"}
+  }
+}

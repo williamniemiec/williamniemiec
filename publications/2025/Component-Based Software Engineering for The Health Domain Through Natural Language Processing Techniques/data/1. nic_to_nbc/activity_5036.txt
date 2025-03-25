@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Attorney Referral": {
+    "Legal Issue": {"type": "text"},
+    "Location": {"type": "text"},
+    "Attorney Specialty": {"type": "options"},
+    "Referral Method": {"type": "options"}
+  }
+}

@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "task": {
+    "Parameters": {
+      "Name": "Check ventilator connections",
+      "Content": "Please check all ventilator connections regularly to ensure they are secure and functioning properly.",
+      "Frequency": "Every [insert frequency, e.g. hour, 2 hours, etc.]"
+    }
+  }
+}

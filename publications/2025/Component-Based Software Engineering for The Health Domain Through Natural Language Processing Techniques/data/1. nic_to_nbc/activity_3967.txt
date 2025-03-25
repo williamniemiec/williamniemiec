@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Equipment Availability Check",
+  "parameters": [
+    {
+      "name": "Equipment List",
+      "type": "list"
+    },
+    {
+      "name": "Availability Status",
+      "type": "list"
+    },
+    {
+      "name": "Location",
+      "type": "list"
+    }
+  ]
+}
+
+
+I removed the `Expiration Date` parameter since it's not applicable (i.e., its `required` property is set to `false`). Let me know if you have any further questions!

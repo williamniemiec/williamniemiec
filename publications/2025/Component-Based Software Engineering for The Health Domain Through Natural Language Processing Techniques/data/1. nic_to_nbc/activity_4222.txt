@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Behavioral Observation": {
+    "Contract/Agreement": {"type": "text"},
+    "Behavioral Indicators": {"type": "list of text", "examples": ["lack of engagement", "inconsistent statements", "avoidance of responsibilities"]},
+    "Observation Frequency": {"type": "options", "options": ["daily", "weekly", "monthly"]},
+    "Observation Notes": {"type": "text"},
+    "Incongruence Score": {"type": "number"},
+    "Alert Threshold": {"type": "number"}
+  }
+}

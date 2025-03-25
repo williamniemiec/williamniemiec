@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Reflection Prompt": {
+    "parameters": {
+      "name": {"type": "text"},
+      "prompt": {"type": "text"},
+      "questions": {"type": "list of objects", "contents": {"question": "", "type": ""}},
+      "resources": {"type": "list of objects", "contents": {"name": "", "description": "", "link": ""}}
+    }
+  }
+}

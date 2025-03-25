@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Tobacco Use Prevention and Cessation": {
+    "Educational Content": {},
+    "Prevention Measures": {},
+    "Cessation Assistance": {},
+    "Quit Plan": {},
+    "Follow-up": {}
+  }
+}

@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Stress Reduction Before Bedtime": {
+    "Parameters": {
+      "Stressful Situations": {},
+      "Strategies to Eliminate Stress": {},
+      "Bedtime Routine": {},
+      "Frequency": {}
+    }
+  }
+}

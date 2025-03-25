@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Family Support Invitation": {
+    "parameters": {
+      "Invitation Message": {"type": "text"},
+      "Invitation Method": {"type": "options"},
+      "Relationship": {"type": "options"},
+      "Appointment Details": {"type": "structured data"}
+    }
+  }
+}

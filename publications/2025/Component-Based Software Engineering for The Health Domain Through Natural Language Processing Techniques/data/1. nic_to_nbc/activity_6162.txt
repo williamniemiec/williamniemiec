@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Feeling Expression": {
+    "Parameters": {
+      "Feeling Type": {"Type": "options"},
+      "Feeling Description": {"Type": "text"},
+      "Intensity": {"Type": "options"},
+      "Emotional Response": {"Type": "text"},
+      "Reflection Prompt": {"Type": "text"},
+      "Creative Expression": {"Type": "multimedia"}
+    }
+  }
+}
+
+
+Let me know if this is what you were expecting!

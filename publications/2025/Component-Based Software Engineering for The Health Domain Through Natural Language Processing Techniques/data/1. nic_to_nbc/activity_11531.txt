@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+  "Alignment Guide": {
+    "Name": {"Type": "text"},
+    "Instructions": {"Type": "text or video"},
+    "Images": {"Type": "image or diagram"},
+    "Tips": {"Type": "text"},
+    "Frequency": {"Type": "options"},
+    "Deadline Date": {"Type": "datetime"}
+  },
+  "Photo": {
+    "Name": {"Type": "text"},
+    "Instructions": {"Type": "text"},
+    "Frequency": {"Type": "options"},
+    "Deadline Date": {"Type": "datetime"}
+  }
+}
+
+
+Let me know if this is what you were looking for!

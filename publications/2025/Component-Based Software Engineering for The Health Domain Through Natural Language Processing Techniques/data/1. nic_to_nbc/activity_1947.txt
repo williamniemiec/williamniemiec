@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "Strengths Reinforcement": {
+    "Identified Strengths": {
+      "type": "list of text"
+    },
+    "Reinforcement Message": {
+      "type": "text"
+    },
+    "Message Frequency": {
+      "type": "options",
+      "options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+    },
+    "Message Format": {
+      "type": "options",
+      "options": ["notification", "email", "in-app message"]
+    }
+  }
+}
+
+
+I removed the `Deadline Date` parameter as it was marked as "not applicable" since there is no value provided for it in the input text.

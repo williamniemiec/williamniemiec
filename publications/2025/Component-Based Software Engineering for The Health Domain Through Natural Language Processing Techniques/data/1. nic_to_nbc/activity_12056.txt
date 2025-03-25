@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Consequence Agreement": {
+    "Behavior": {"type": "text"},
+    "Consequence Type": {"options": ["reward", "penalty", "reminder", "etc."]},
+    "Consequence Description": {"type": "text"},
+    "Patient Input": {"type": "options", "options": ["agree", "disagree", "suggest alternative"]},
+    "Frequency": {"options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"type": "datetime"}
+  }
+}

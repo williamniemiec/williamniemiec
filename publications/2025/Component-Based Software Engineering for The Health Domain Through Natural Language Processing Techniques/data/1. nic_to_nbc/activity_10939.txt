@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Device Monitoring": {
+    "parameters": {
+      "device_type": {},
+      "device_setup": {},
+      "monitoring_frequency": {},
+      "alert_threshold": {},
+      "alert_notification": {}
+    }
+  }
+}

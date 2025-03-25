@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Practice Exercise": {
+    "Content": {"type": "multimedia"},
+    "Skill or Task": {"type": "text"},
+    "Repetition": {"type": "integer"},
+    "Feedback": {"type": "boolean"},
+    "Assessment": {"type": "boolean"}
+  }
+}

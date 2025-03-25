@@ -1,0 +1,57 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Prompted Voiding Schedule Timing",
+    "parameters": [
+        { 
+            "name": "Name", 
+            "description": "A parameter that specifies the title or name of the prompted voiding schedule timing.", 
+            "required": true, 
+            "type": "text"
+        },
+        { 
+            "name": "Schedule Type", 
+            "description": "A parameter that specifies the type of prompted voiding schedule (e.g., daytime, nighttime, custom).", 
+            "required": true, 
+            "type": "options",
+            "options": [
+                { value: "daytime", label: "Daytime" },
+                { value: "nighttime", label: "Nighttime" },
+                { value: "custom", label: "Custom" },
+            ]
+        },
+        { 
+            "name": "Beginning Time", 
+            "description": "A parameter that specifies the beginning time for the prompted voiding schedule.", 
+            "required": true, 
+            "type": "time"
+        },
+        { 
+            "name": "Ending Time", 
+            "description": "A parameter that specifies the ending time for the prompted voiding schedule.", 
+            "required": true, 
+            "type": "time"
+        },
+        { 
+            "name": "Duration", 
+            "description": "A parameter that specifies the duration of the prompted voiding schedule.", 
+            "required": true, 
+            "type": "numeric"
+        },
+        { 
+            "name": "Frequency", 
+            "description": "A parameter that specifies how often the patient should follow the prompted voiding schedule.", 
+            "required": true, 
+            "type": "options",
+            "options": [
+                { value: "daily", label: "Daily" },
+                { value: "everyOtherDay", label: "Every other day" },
+                { value: "weekly", label: "Weekly" },
+                { value: "monthly", label: "Monthly" },
+            ]
+        }
+    ]
+}
+
+Note that I removed the `Deadline Date` parameter since it was marked as not required.

@@ -1,0 +1,38 @@
+Here is the output in JSON format:
+
+
+[
+  {
+    "name": "Vital Sign Tracking",
+    "parameters": [
+      {
+        "name": "Temperature"
+      },
+      {
+        "name": "Other Vital Signs"
+      }
+    ]
+  },
+  {
+    "name": "Alert System",
+    "parameters": [
+      {
+        "name": "Alert Thresholds"
+      },
+      {
+        "name": "Alert Notifications"
+      }
+    ]
+  },
+  {
+    "name": "Data Visualization",
+    "parameters": [
+      {
+        "name": "Chart Type"
+      },
+      {
+        "name": "Data Range"
+      }
+    ]
+  }
+]

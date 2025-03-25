@@ -1,0 +1,12 @@
+Here is the JSON output:
+
+
+{
+  "log": {
+    "parameters": [
+      { "name": "name" },
+      { "name": "unit" },
+      { "name": "frequency" }
+    ]
+  }
+}

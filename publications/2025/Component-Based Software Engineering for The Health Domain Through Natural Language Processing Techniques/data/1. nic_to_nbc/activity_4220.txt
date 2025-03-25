@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Decision Support": {
+    "Parameters": {
+      "Question": {"Type": "text"},
+      "Options": {"Type": "list of options"},
+      "Pros and Cons": {"Type": "list of pros and cons for each option"},
+      "Healthcare Provider Input": {"Type": "text or audio/video recording"},
+      "Patient Input": {"Type": "text or audio/video recording"},
+      "Decision Deadline": {"Type": "datetime"}
+    }
+  }
+}

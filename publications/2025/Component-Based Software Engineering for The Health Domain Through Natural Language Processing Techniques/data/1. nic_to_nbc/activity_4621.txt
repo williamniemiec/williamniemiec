@@ -1,0 +1,3 @@
+Since there are no applicable parameters in the given input, my output will be an empty JSON:
+
+{}

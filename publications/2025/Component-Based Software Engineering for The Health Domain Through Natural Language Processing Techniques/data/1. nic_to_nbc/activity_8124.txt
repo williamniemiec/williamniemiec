@@ -1,0 +1,26 @@
+Here is the output in JSON format, removing everything except `{{ PARAMETER ESPECIFICATIONS }}` and `{{ NO-CODE ELEMENT NAME }}`, and removing not applicable parameters:
+
+
+{
+    "name": "Valsalva Maneuver Management",
+    "parameters": [
+        { 
+            "name": "medication_name"
+        },
+        { 
+            "name": "rationale"
+        },
+        { 
+            "name": "dosage"
+        },
+        { 
+            "name": "frequency"
+        },
+        { 
+            "name": "deadline_date"
+        },
+        { 
+            "name": "additional_instructions"
+        }
+    ]
+}

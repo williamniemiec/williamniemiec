@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Resource Identification and Acquisition": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Activity selection": {"Type": "text", "Example": ["Walking", "Swimming", "Yoga"]},
+      "Resource identification prompts": {"Type": "list of text", "Example": ["What equipment do you need for this activity?", "What training or instruction do you need?", "What support system do you need in place?"]},
+      "Resource options": {"Type": "list of text", "Example": ["Walking shoes", "Swim goggles", "Yoga mat", "Personal trainer", "Online tutorial"]},
+      "Resource acquisition options": {"Type": "list of text", "Example": ["Purchase online", "Borrow from a friend", "Rent from a local store", "Take a class or workshop"]},
+      "Frequency": {"Type": "options", "Options": ["Daily", "Weekly", "Monthly"]},
+      "Deadline date": {"Type": "datetime"}
+    }
+  }
+}
+
+
+I removed the introduction, description, and conclusion sections, as well as the not applicable parameters. The output is a JSON object with the no-code element name as the key, and its parameters as the value. Each parameter has its type and example values (if available) listed.

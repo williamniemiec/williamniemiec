@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+
+{
+"Emotion Exploration": {
+    "Parameters": {
+        "Emotion": {"Type": "text"},
+        "Reflection Prompt": {"Type": "text"},
+        "Journaling": {"Type": "text"},
+        "Emotion Intensity": {"Type": "number"},
+        "Triggers": {"Type": "text"},
+        "Frequency": {"Type": "options", "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+        "Deadline Date": {"Type": "datetime"}
+    }
+}
+}

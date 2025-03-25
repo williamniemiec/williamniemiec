@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+  "Cleaning Schedule": {
+    "Parameters": {
+      "Cleaning Frequency": {
+        "Options": ["daily", "weekly", "biweekly", "monthly"]
+      },
+      "Cleaning Tasks": {
+        "Type": "options"
+      },
+      "Supply Area": {
+        "Type": "text"
+      },
+      "Cleaning Date": {
+        "Type": "datetime"
+      },
+      "Reminder": {
+        "Type": "boolean"
+      },
+      "Notes": {
+        "Type": "text"
+      }
+    }
+  }
+}

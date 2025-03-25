@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Breast Tissue Palpation Guide": {
+    "parameters": {
+      "Palpation Instructions": {},
+      "Hand Positioning Guidance": {},
+      "Systematic Approach Guidance": {},
+      "Breast Tissue Quadrants": {},
+      "Palpation Technique Feedback": {},
+      "Image Capture": {},
+      "Frequency": {
+        "options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+      },
+      "Deadline Date": {}
+    }
+  }
+}

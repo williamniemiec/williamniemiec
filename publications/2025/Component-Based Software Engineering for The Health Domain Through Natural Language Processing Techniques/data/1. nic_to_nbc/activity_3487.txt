@@ -1,0 +1,33 @@
+Here is the output in JSON format:
+
+
+{
+  "Task": {
+    "parameters": {
+      "name": "",
+      "description": "",
+      "meeting_details": {
+        "location": "",
+        "schedule": "",
+        "contact": ""
+      }
+    }
+  },
+  "Resource": {
+    "parameters": {
+      "name": "",
+      "type": "",
+      "content": ""
+    }
+  },
+  "Reminder": {
+    "parameters": {
+      "name": "",
+      "trigger": "",
+      "message": ""
+    }
+  }
+}
+
+
+Let me know if you need any further assistance!

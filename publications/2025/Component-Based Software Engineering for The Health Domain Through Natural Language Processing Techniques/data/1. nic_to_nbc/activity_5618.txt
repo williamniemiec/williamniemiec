@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Reminder": {
+    "Parameters": {
+      "Medication Name": {"Type": "text"},
+      "Dosage": {"Type": "text"},
+      "Frequency": {"Type": "options", "Options": ["daily", "every other day", "3 times a week", "etc."]},
+      "Time of Day": {"Type": "text"},
+      "Duration": {"Type": "text"},
+      "Prescription Details": {"Type": "text"},
+      "Reminders": {"Type": "boolean"},
+      "Tracking": {"Type": "boolean"}
+    }
+  }
+}

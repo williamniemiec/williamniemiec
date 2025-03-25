@@ -1,0 +1,49 @@
+Here is the output in JSON format:
+
+
+{
+  "Symptom Checker": {
+    "parameters": {
+      "name": "Shortness of Breath or Abnormal Breath Sounds",
+      "description": "Report any shortness of breath or unusual breathing sounds",
+      "type": "options",
+      "options": [
+        { "value": "yes", "label": "Yes" },
+        { "value": "no", "label": "No" },
+        { "value": "unsure", "label": "Unsure" }
+      ],
+      "frequency": "specify how often the patient should report on this symptom",
+      "deadline_date": "specify the due date for the patient to report on this symptom"
+    }
+  },
+  "Survey": {
+    "parameters": {
+      "name": "Breathing Symptoms Survey",
+      "description": "Please answer the following questions about your breathing symptoms",
+      "questions": [
+        {
+          "name": "shortness_of_breath",
+          "description": "Are you experiencing shortness of breath?",
+          "type": "options",
+          "options": [
+            { "value": "yes", "label": "Yes" },
+            { "value": "no", "label": "No" },
+            { "value": "unsure", "label": "Unsure" }
+          ]
+        },
+        {
+          "name": "abnormal_breath_sounds",
+          "description": "Are you experiencing any unusual breathing sounds?",
+          "type": "options",
+          "options": [
+            { "value": "yes", "label": "Yes" },
+            { "value": "no", "label": "No" },
+            { "value": "unsure", "label": "Unsure" }
+          ]
+        }
+      ],
+      "frequency": "specify how often the patient should complete this survey",
+      "deadline_date": "specify the due date for the patient to complete this survey"
+    }
+  }
+}

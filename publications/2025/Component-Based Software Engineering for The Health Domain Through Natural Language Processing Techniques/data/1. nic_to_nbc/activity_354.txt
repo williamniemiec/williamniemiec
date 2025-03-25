@@ -1,0 +1,41 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Treatment Plan",
+    "parameters": [
+        {
+            "name": "Problem Statement",
+            "type": "text"
+        },
+        {
+            "name": "Goals",
+            "type": "text"
+        },
+        {
+            "name": "Interventions",
+            "type": "list",
+            "items": {
+                "type": "text"
+            }
+        },
+        {
+            "name": "Frequency",
+            "type": "options",
+            "options": [
+                { "value": "daily" },
+                { "value": "onlyOnce" },
+                { "value": "everyHours" },
+                { "value": "everyDays" }
+            ]
+        },
+        {
+            "name": "Deadline Date",
+            "type": "datetime"
+        },
+        {
+            "name": "Notes",
+            "type": "text"
+        }
+    ]
+}

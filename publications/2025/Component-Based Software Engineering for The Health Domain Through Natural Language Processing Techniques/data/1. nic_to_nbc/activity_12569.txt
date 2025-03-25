@@ -1,0 +1,34 @@
+Here is the output in JSON format:
+
+
+{
+    "List": {
+        "parameters": {
+            "items": ["Nurse-guided", "Taped", "Self-guided", "Group-guided"],
+            "description": "optional parameter to provide a brief description for each technique"
+        }
+    },
+    "Question": {
+        "parameters": {
+            "name": "Which guided imagery technique would you like to try?",
+            "answer type": "select one or multiple options from the list"
+        }
+    },
+    "Rating Scale": {
+        "parameters": {
+            "name": "How interested are you in trying nurse-guided imagery?",
+            "answer type": "rating scale (e.g., 1-5, where 1 is \"Not at all interested\" and 5 is \"Very interested\")"
+        }
+    },
+    "Menu": {
+        "parameters": {
+            "items": ["Nurse-guided", "Taped", "Self-guided", "Group-guided"],
+            "description": "optional parameter to provide a brief description for each technique"
+        }
+    },
+    "Informational Content": {
+        "parameters": {
+            "content": "a brief description of each technique, its benefits, and how it works"
+        }
+    }
+}

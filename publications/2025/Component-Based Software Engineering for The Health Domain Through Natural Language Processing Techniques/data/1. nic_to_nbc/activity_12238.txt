@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Comfort Measures": {
+    "GI Symptoms": {"Type": "list of GI symptoms"},
+    "Comfort Measures": {"Type": "list of comfort measures"},
+    "Instructions": {"Type": "text"},
+    "Resources": {"Type": "list of resources (link, description)"},
+    "Tracking": {"Type": "boolean"}
+  }
+}

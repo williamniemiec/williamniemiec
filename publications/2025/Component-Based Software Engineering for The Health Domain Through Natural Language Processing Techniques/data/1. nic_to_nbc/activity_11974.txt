@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Emotional Check-in": {
+    "Parameters": {
+      "Question": {"Type": "text"},
+      "Answer Type": {"Type": "options"},
+      "Frequency": {"Type": "options"},
+      "Concerns": {"Type": "text or list of options"},
+      "Resources": {"Type": "list of URLs or PDFs"}
+    }
+  }
+}

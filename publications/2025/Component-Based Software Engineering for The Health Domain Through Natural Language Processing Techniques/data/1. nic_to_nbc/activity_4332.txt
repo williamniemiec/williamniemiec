@@ -1,0 +1,34 @@
+Here is the output in JSON format:
+
+
+{
+  "Estrogen Requirement Calculator": {
+    "parameters": {
+      "name": {},
+      "patient_data": {
+        "age": {},
+        "medical_history": {},
+        "current_symptoms": {}
+      },
+      "estrogen_options": [
+        {
+          "name": {},
+          "description": {},
+          "dosage": {}
+        }
+      ],
+      "calculation_algorithm": {},
+      "result": {
+        "recommended_dosage": {},
+        "frequency_of_administration": {}
+      },
+      "frequency": {
+        "daily": {},
+        "weekly": {},
+        "biweekly": {},
+        "monthly": {}
+      },
+      "deadline_date": {}
+    }
+  }
+}

@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Program Guide": {
+    "Title": {"type": "text"},
+    "Content": {"type": ["html", "article"]},
+    "Program Benefits": {"type": "list of benefits"},
+    "Program Options": {"type": "list of program options"},
+    "How to Participate": {"type": "text"}
+  }
+}

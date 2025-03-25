@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Antimicrobial Soap Instruction",
+    "parameters": [
+        { 
+            "name": "Antimicrobial Soap Type", 
+            "type": "options"
+        },
+        { 
+            "name": "Hand Washing Technique", 
+            "type": "options"
+        },
+        { 
+            "name": "Indications", 
+            "type": "text or HTML"
+        },
+        { 
+            "name": "Contraindications", 
+            "type": "text or HTML"
+        }
+    ]
+}
+
+
+Let me know if this meets your requirements!

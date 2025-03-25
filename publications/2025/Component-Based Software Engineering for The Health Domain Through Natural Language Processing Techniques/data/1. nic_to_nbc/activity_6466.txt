@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "NoCodeElementName": "Blood Glucose Review",
+  "Parameters": {
+    "Blood Glucose Data": {"Type": "list of blood glucose readings (with dates and times)"},
+    "Time Period": {"Type": "options (e.g., daily, weekly, monthly)"},
+    "Graph Type": {"Type": "options (e.g., line graph, bar chart, scatter plot)"},
+    "Trend Identification": {"Type": "list of rules (e.g., if level > 180 for 3 consecutive days, then \"high trend\")"},
+    "Notes": {"Type": "text"}
+  }
+}

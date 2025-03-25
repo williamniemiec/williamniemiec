@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Explanation": {
+    "Parameters": {
+      "Procedure": {"Type": "text"},
+      "Age Group": {"Type": "options", "Options": ["toddler", "preschooler", "school-age"]},
+      "Language Level": {"Type": "options", "Options": ["simple", "moderate", "complex"]},
+      "Content": {"Type": "text or video"}
+    }
+  }
+}

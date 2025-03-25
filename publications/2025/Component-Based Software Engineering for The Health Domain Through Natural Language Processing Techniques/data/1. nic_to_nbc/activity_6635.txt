@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "no-code-element-name": "Medical Alert",
+  "parameter-specifications": {
+    "Medical Alert Tag": {
+      "type": "options",
+      "options": ["yes", "no"]
+    },
+    "Medical Conditions": {
+      "type": "unordered list"
+    },
+    "Allergies": {
+      "type": "unordered list"
+    }
+  }
+}

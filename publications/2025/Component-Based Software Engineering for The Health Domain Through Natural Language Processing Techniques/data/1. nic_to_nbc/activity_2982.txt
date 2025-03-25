@@ -1,0 +1,10 @@
+Here is the output in JSON format:
+
+
+{
+  "Bladder Emptying Timer": {
+    "Duration": {"type": "numeric"},
+    "Reminder": {"type": "boolean"},
+    "Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]}
+  }
+}

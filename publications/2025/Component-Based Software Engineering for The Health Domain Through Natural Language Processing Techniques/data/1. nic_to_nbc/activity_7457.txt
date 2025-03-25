@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Social Support Planner": {
+        "Identify Triggers": {"type": "text"},
+        "Coping Strategies": {"type": "options", "options": ["Avoiding certain situations", "Finding non-smoking friends", "Practicing relaxation techniques", "Other"]},
+        "Support Network": {"type": "text"},
+        "Avoidance Plan": {"type": "text"}
+    }
+}
+
+
+Let me know if this meets your requirements!

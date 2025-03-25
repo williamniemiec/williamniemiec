@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Administration": {
+    "Parameters": {
+      "Medication Type": {"Type": "options"},
+      "Administration Instructions": {"Type": "text or multimedia content"},
+      "Contraindications": {"Type": "text or multimedia content"},
+      "Side Effects": {"Type": "text or multimedia content"},
+      "Follow-up Care": {"Type": "text or multimedia content"}
+    }
+  }
+}

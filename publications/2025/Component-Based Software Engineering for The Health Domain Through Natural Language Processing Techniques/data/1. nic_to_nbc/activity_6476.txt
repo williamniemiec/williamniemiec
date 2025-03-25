@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Warm-up Activity Selector": {
+    "title of the warm-up activity selector": {"Type": "text", "Required": true},
+    "Questions": {"Type": "list of questions", "Required": true, "Example": ["What type of exercise or work will you be doing?", "How long will you be doing it for?", "Do you have any physical limitations or injuries?"]},
+    "Warm-up Activity Options": {"Type": "list of warm-up activity options", "Required": true, "Example": ["Light Cardio", "Stretching", "Muscle Activation"]},
+    "Recommendations": {"Type": "algorithm", "Required": true},
+    "Frequency": {"Type": "options", "Required": true, "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]}
+  }
+}
+
+
+Note: I removed the `Deadline Date` parameter since it's not required.

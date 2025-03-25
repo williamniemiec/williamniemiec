@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Culturally Adapted Interventions": {
+    "Intervention Type": {},
+    "Cultural Adaptations": {},
+    "Language Support": {},
+    "Patient Feedback": {}
+  }
+}

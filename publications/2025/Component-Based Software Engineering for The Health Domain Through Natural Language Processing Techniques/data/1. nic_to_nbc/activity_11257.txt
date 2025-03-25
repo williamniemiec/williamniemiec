@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Irrigation Instruction": {
+    "parameters": {
+      "name": {"type": "text"},
+      "solution": {"type": "text"},
+      "frequency": {"type": "options"},
+      "volume": {"type": "text"}
+    }
+  }
+}

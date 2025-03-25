@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Permission Form": {
+    "parameters": {
+      "permission": {"type": "boolean"},
+      "contact_person": {"type": "text"},
+      "contact_method": {"type": "text"}
+    }
+  }
+}

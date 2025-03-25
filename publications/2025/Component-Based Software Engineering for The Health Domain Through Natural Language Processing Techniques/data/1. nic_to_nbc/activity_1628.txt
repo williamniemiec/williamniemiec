@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Alternative Communication Method": {
+    "Parameters": {
+      "Method": {"Type": "options", "Options": ["Writing tablet", "Flash cards", "Eye blinking", "Communication board with pictures and letters", "Hand signals or other gestures", "Computer"]},
+      "Description": {"Type": "text"},
+      "Instructions": {"Type": "text"},
+      "Resources": {"Type": "url or text"},
+      "Frequency": {"Type": "options", "Options": ["Daily", "Only once", "Every x hours", "Every x days"]}
+    }
+  }
+}
+
+
+Note that I removed the `Deadline Date` parameter since it's not applicable (it doesn't have a value). Let me know if you need any further assistance!

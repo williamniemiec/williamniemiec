@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+  "Procedure/Treatment Provider": {
+    "procedure_name": {"type": "text"},
+    "provider_name": {"type": "text"},
+    "provider_title": {"type": "text"},
+    "provider_specialty": {"type": "text"},
+    "additional_info": {"type": "text or HTML"},
+    "significant_others": {
+      "type": "list of objects",
+      "properties": {
+        "name": {"type": "text"},
+        "relationship": {"type": "text"}
+      }
+    },
+    "notes": {"type": "text"}
+  }
+}

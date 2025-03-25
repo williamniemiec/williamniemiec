@@ -1,0 +1,20 @@
+It looks like you've provided some example JSON structures for different no-code elements. Each element has a consistent structure with the following properties:
+
+1. `name`: a string representing the name of the element.
+2. `description`: a string providing a brief description of the element.
+3. `content_type`: a string indicating the type of content associated with the element (e.g., "quizzes", "forum", "notifications").
+4. `parameters`: an array of objects, each representing a parameter or option for the element.
+
+Each parameter object typically has the following properties:
+
+1. `name`: a string representing the name of the parameter.
+2. `description`: a string providing a brief description of the parameter.
+3. `required`: a boolean indicating whether the parameter is required.
+4. `type`: a string indicating the data type of the parameter (e.g., "text", "boolean", "list", "options").
+
+In some cases, additional properties are present, such as:
+
+1. `quiz types`, `forum categories`, or `notification types`: an array of objects, each representing a specific type or category.
+2. `options`: an array of objects, each representing an option for the parameter.
+
+These JSON structures seem to define a flexible and modular system for building no-code elements with various parameters and options.

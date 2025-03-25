@@ -1,0 +1,36 @@
+Here is the output in JSON format:
+
+
+{
+  "Tactile Stimulation": {
+    "Stimulation Type": {
+      "type": "options",
+      "options": [
+        {"value": "tactile", "label": "Tactile"},
+        {"value": "tapping", "label": "Tapping"},
+        {"value": "both", "label": "Both Tactile and Tapping"}
+      ]
+    },
+    "Stimulation Location": {
+      "type": "multiselect",
+      "options": [
+        {"value": "neck", "label": "Neck"},
+        {"value": "back", "label": "Back"},
+        {"value": "shoulder", "label": "Shoulder"},
+        {"value": "arm", "label": "Arm"},
+        {"value": "leg", "label": "Leg"}
+      ]
+    },
+    "Frequency": {
+      "type": "options",
+      "options": [
+        {"value": "asNeeded", "label": "As Needed"},
+        {"value": "everyHours", "label": "Every x hours"},
+        {"value": "everyDays", "label": "Every x days"}
+      ]
+    },
+    "Duration": {
+      "type": "text"
+    }
+  }
+}

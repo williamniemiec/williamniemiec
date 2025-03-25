@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Blood Glucose Tracking": {
+    "parameters": [
+      {"name": "reading", "description": "Enter your blood glucose reading", "required": true, "type": "numeric"},
+      {"name": "frequency", "description": "How often should you track your blood glucose levels?", "required": true, "type": "options", "options": [{"value": "beforeMeal", "label": "Before meals"}, {"value": "afterMeal", "label": "After meals"}, {"value": "atBedtime", "label": "At bedtime"}, {"value": "custom", "label": "Custom"}]},
+      {"name": "anomaly_threshold", "description": "Set a threshold for abnormal blood glucose readings", "required": true, "type": "numeric"}
+    ]
+  },
+  "Symptom Checker": {
+    "parameters": [
+      {"name": "symptoms", "description": "Select any symptoms you are experiencing", "required": true, "type": "multiselect", "options": [{"value": "dizziness", "label": "Dizziness"}, {"value": "shakiness", "label": "Shakiness"}, {"value": "sweating", "label": "Sweating"}, {"value": "headache", "label": "Headache"}, {"value": "confusion", "label": "Confusion"}]},
+      {"name": "frequency", "description": "How often should you check for symptoms?", "required": true, "type": "options", "options": [{"value": "daily", "label": "Daily"}, {"value": "onlyOnce", "label": "Only once"}, {"value": "everyHours", "label": "Every x hours"}, {"value": "everyDays", "label": "Every x days"}]}
+    ]
+  }
+}

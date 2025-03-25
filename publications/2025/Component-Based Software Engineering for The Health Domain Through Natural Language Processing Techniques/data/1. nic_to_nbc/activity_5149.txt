@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Conflict Resolution": {
+    "Parameters": {
+      "Conflict Description": {"Type": "text", "Required": true},
+      "Feelings and Needs": {"Type": "list of text", "Required": true},
+      "Resolution Strategies": {"Type": "list of text", "Required": true},
+      "Reflection Prompt": {"Type": "text", "Required": true}
+    }
+  }
+}
+
+
+I removed the `Caregiver Support` and `Frequency` parameters as they have options, which are not applicable in this case. Let me know if you need anything else!

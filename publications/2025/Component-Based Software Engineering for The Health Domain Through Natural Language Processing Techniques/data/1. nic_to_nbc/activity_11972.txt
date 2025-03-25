@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Mealtime Negotiation": {
+    "Desired Mealtimes": {
+      "type": "datetime"
+    },
+    "Standard Hospital Schedules": {
+      "type": "datetime"
+    },
+    "Negotiated Mealtimes": {
+      "type": "datetime"
+    },
+    "Reason for Request": {
+      "type": "text"
+    }
+  }
+}

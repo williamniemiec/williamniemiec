@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+    "Bowel Sound Alert": {
+        "Parameters": {
+            "Bowel Sound Change": {},
+            "Description": {},
+            "Duration": {},
+            "Severity": {},
+            "Report": {},
+            "Date": {}
+        }
+    }
+}

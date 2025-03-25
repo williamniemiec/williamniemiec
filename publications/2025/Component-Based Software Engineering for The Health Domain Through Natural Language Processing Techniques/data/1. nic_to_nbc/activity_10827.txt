@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "Bedside Essentials": {
+    "Essential Items": {
+      "Description": "List of essential items to be placed at bedside or in bathroom",
+      "Required": true,
+      "Type": "unordered list"
+    },
+    "Location": {
+      "Description": "Location where essential items should be placed (bedside or bathroom)",
+      "Required": true,
+      "Type": "options"
+    },
+    "Frequency": {
+      "Description": "Frequency of restocking essential items",
+      "Required": true,
+      "Type": "options"
+    }
+  }
+}
+
+
+Let me know if you need any further assistance!

@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Environmental Assessment": {
+    "parameters": [
+      {"name": "barriers", "description": "List of environmental barriers"},
+      {"name": "frequency", "description": "How often to assess the environment"},
+      {"name": "deadline_date", "description": "Specify the due date for the assessment"}
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Physical Status Monitoring": {
+        "Parameters": {
+            "Physical Status Indicators": {"Type": "list of indicators"},
+            "Monitoring Frequency": {"Options": ["daily", "weekly", "biweekly"]},
+            "Threshold Values": {"Type": "list of threshold values"},
+            "Intervention Criteria": {"Type": "list of intervention criteria"},
+            "Notes": {"Type": "text"}
+        }
+    }
+}

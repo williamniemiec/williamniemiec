@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+    "Oral Examination": {},
+    "Abnormality Identification": {},
+    "Dental Appliance Assessment": {},
+    "Documentation": {},
+    "Referral": {},
+    "Parameters": {
+        "Oral Examination": {
+            "type": ["text", "interactive content (e.g., quizzes, games)"]
+        },
+        "Abnormality Identification": {
+            "type": ["text", "interactive content (e.g., quizzes, games)"]
+        },
+        "Dental Appliance Assessment": {
+            "type": ["text", "interactive content (e.g., quizzes, games)"]
+        },
+        "Documentation": {
+            "type": ["text", "multimedia content (e.g., images, videos)"]
+        },
+        "Referral": {
+            "type": ["text", "interactive content (e.g., quizzes, games)"]
+        }
+    }
+}

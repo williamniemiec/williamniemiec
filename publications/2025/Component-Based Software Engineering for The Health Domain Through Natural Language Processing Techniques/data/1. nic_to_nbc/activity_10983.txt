@@ -1,0 +1,15 @@
+
+
+
+{
+  "Continuous Temperature Monitoring": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Device": {"Type": "text"},
+      "Frequency": {"Type": "options"},
+      "Unit": {"Type": "text"},
+      "Threshold": {"Type": "number"},
+      "Notes": {"Type": "text"}
+    }
+  }
+}

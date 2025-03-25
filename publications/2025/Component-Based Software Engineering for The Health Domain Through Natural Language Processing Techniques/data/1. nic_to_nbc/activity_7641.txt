@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Security Factors": {
+    "parameters": {
+      "Prompt": {"type": "text"},
+      "Factors": {"type": "text or list"},
+      "Ranking": {"type": "ranking or scale"},
+      "Description": {"type": "text"},
+      "Action Plan": {"type": "text"}
+    }
+  }
+}

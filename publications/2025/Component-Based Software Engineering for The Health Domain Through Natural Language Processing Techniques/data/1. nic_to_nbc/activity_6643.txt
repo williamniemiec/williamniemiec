@@ -1,0 +1,29 @@
+Here is the output in JSON format:
+
+
+{
+  "Expression Encouragement": {
+    "Parameters": {
+      "Expression Method": {
+        "Type": "options",
+        "Options": [
+          {"value": "writing", "label": "Writing"},
+          {"value": "speaking", "label": "Speaking"},
+          {"value": "drawing", "label": "Drawing"}
+        ]
+      },
+      "Time Allocation": {
+        "Type": "duration"
+      },
+      "Guided Questions": {
+        "Type": "text"
+      },
+      "Non-Judgmental Feedback": {
+        "Type": "text"
+      },
+      "Reflection": {
+        "Type": "text"
+      }
+    }
+  }
+}

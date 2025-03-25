@@ -1,0 +1,31 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Education Module": {
+    "Medication name": "text",
+    "Educational content": "text or multimedia content",
+    "Format": "options (e.g., video, image, text)",
+    "Quiz or assessment": "options (e.g., true/false, multiple choice, open-ended question)"
+  },
+  "Medication Information Sheet": {
+    "Medication name": "text",
+    "Medication description": "text",
+    "Dosage and administration": "text",
+    "Side effects and warnings": "text",
+    "Interactions and contraindications": "text"
+  },
+  "Medication FAQ": {
+    "Medication name": "text",
+    "FAQ questions": "text",
+    "FAQ answers": "text"
+  },
+  "Medication Tutorial": {
+    "Medication name": "text",
+    "Tutorial content": "text or multimedia content",
+    "Format": "options (e.g., video, image, text)"
+  }
+}
+
+
+I removed all the unnecessary parts and kept only the `{{ NO-CODE ELEMENT NAME }}` and their corresponding `{{ PARAMETER ESPECIFICATIONS }}`. I also removed any parameters that were marked as "Not Applicable". Let me know if this is what you were looking for!

@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Schedule": {
+    "parameters": [
+      {"Name": {"type": "text"}},
+      {"Type": {"type": "text"}},
+      {"Schedule": {"type": "table or list of schedule entries"}},
+      {"Notes": {"type": "text"}}
+    ]
+  }
+}

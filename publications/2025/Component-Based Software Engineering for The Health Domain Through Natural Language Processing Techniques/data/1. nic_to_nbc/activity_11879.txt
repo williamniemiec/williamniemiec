@@ -1,0 +1,42 @@
+Here is the output in JSON format:
+
+
+{
+  "Leg Elevation": {
+    "parameters": {
+      "Elevation Angle": {
+        "name": "elevation_angle",
+        "description": "How high should you elevate your legs?",
+        "type": "options",
+        "options": [
+          "10-15 degrees",
+          "20-30 degrees",
+          "Other (specify)"
+        ]
+      },
+      "Duration": {
+        "name": "duration",
+        "description": "How long should you elevate your legs?",
+        "type": "options",
+        "options": [
+          "15-30 minutes",
+          "30-60 minutes",
+          "Other (specify)"
+        ]
+      },
+      "Frequency": {
+        "name": "frequency",
+        "description": "How often should you elevate your legs?",
+        "type": "options",
+        "options": [
+          "Every hour",
+          "Every 2 hours",
+          "Other (specify)"
+        ]
+      }
+    }
+  }
+}
+
+
+Let me know if this is what you were expecting!

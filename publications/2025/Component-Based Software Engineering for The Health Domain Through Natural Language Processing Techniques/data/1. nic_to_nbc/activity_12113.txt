@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Equipment Checker": {
+        "Parameters": {
+            "Equipment List": {},
+            "Availability Questions": {},
+            "Safety Check Questions": {},
+            "Equipment Status": {}
+        }
+    }
+}

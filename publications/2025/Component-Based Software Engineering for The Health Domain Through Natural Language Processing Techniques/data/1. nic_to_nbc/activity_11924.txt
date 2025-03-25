@@ -1,0 +1,14 @@
+
+
+
+{
+  "Medication Reminder": {
+    "parameters": {
+      "Medication Name": {"type": "text"},
+      "Dosage": {"type": "text"},
+      "Frequency": {"options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"type": "datetime"},
+      "Notes": {"type": "text"}
+    }
+  }
+}

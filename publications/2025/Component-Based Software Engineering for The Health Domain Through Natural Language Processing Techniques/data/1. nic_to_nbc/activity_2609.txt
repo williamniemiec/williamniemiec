@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Suicide Risk Assessment": {
+    "Questions": {"type": "multiple choice or Likert scale"},
+    "Risk Level": {"type": "numerical value or categorical label"},
+    "Resources": {"type": "text"},
+    "Frequency": {"type": "options", "options": ["daily", "everyHours", "everyDays"]}
+  }
+}

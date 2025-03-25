@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Oral Nutrition Tracker": {
+        "parameters": {
+            "Food/Drink Item": {"type": "text or options"},
+            "Quantity": {"type": "numerical value"},
+            "Frequency": {"type": "options"},
+            "Deadline Date": {"type": "datetime"},
+            "Notes": {"type": "text"}
+        }
+    }
+}

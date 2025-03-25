@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Head Position Adjustment": {
+    "Parameters": {
+      "Adjustment Instruction": {},
+      "Head Position": {},
+      "Drainage Avoidance": {},
+      "Frequency": {}
+    }
+  }
+}

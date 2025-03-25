@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Grounding Exercise": {
+    "parameters": {
+      "Visualization Script": {"type": "text or audio file"},
+      "Breathing Exercise": {"type": "text or video"},
+      "Sensory Prompt": {"type": "text"},
+      "Image or Video": {"type": "URL or base64 encoded image/video"},
+      "Reflection Prompt": {"type": "text"}
+    }
+  }
+}

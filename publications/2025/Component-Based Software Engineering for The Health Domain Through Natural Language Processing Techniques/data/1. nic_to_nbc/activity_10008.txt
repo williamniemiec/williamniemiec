@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Exercise Scheduler": {
+    "Age": {"type": "number"},
+    "Physical Status": {"type": "text or options"},
+    "Goals": {"type": "text or options"},
+    "Motivation": {"type": "text or options"},
+    "Lifestyle": {"type": "text or options"},
+    "Exercise Preferences": {"type": "text or options"},
+    "Schedule": {"type": "calendar or schedule format"}
+  }
+}

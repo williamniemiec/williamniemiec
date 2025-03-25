@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Emotion Tracker": {
+    "parameters": {
+      "Emotion Type": {
+        "type": "options"
+      },
+      "Intensity Level": {
+        "type": "options"
+      },
+      "Frequency": {
+        "type": "options"
+      }
+    }
+  }
+}
+
+
+I removed the not applicable parameters (`Deadline Date` and `Resources`) as they don't seem to be relevant to the no-code element. Let me know if you need any further modifications!

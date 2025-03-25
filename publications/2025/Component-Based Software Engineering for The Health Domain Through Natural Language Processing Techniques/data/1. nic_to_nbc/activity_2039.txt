@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Side Rail Safeguarding": {
+    "parameters": [
+      {"Name": {"type": "text"}},
+      {"Side Rail Type": {"type": "options", "options": ["Full-length", "Half-length", "Custom"]}},
+      {"Padding Type": {"type": "options", "options": ["Foam", "Gel", "Custom"]}},
+      {"Installation Instructions": {"type": "text"}}
+    ]
+  }
+}

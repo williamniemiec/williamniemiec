@@ -1,0 +1,29 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Safety Check",
+    "parameters": [
+        {
+            "name": "Question",
+            "type": "text"
+        },
+        {
+            "name": "Risk Level",
+            "type": "options",
+            "options": ["low", "moderate", "high"]
+        },
+        {
+            "name": "Guidance",
+            "type": "text"
+        },
+        {
+            "name": "Frequency",
+            "type": "options",
+            "options": ["daily", "every 2 days", "every 3 days"]
+        }
+    ]
+}
+
+
+I removed the `Deadline Date` parameter since it was marked as not applicable (i.e., `required`: `false`). Let me know if you need any further assistance!

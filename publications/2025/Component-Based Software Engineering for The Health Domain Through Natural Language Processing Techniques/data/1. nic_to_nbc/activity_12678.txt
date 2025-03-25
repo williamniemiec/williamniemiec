@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Assessment Schedule": {
+        "Parameters": {
+            "Assessment Type": {},
+            "Frequency": {},
+            "Start Date": {},
+            "End Date": {},
+            "Custom Schedule": {}
+        }
+    }
+}

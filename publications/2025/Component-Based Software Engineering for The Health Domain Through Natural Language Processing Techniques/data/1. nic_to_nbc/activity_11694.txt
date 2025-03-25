@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Specimen Collection": {
+    "name": {"description": "specimen name", "required": true, "type": "text"},
+    "instructions": {"description": "step-by-step instructions for collecting the specimen", "required": true, "type": "text"},
+    "label": {"description": "label to be attached to the specimen", "required": true, "type": "text"},
+    "transport": {"description": "instructions for transporting the specimen", "required": true, "type": "text"},
+    "deadline_date": {"description": "due date for collecting the specimen", "required": false, "type": "datetime"},
+    "frequency": {"description": "how often the specimen should be collected", "required": true, "type": "options", "options": [
+      {"value": "daily", "label": "Daily"},
+      {"value": "onlyOnce", "label": "Only once"},
+      {"value": "everyHours", "label": "Every x hours"},
+      {"value": "everyDays", "label": "Every x days"}
+    ]}
+  }
+}

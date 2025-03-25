@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+  "Support Request": {
+    "Trigger": {
+      "type": "options"
+    },
+    "Description": {
+      "type": "text"
+    },
+    "Support Type": {
+      "type": "options"
+    },
+    "Urgency": {
+      "type": "options"
+    },
+    "Notification": {
+      "type": "options"
+    }
+  }
+}

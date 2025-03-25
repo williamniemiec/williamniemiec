@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Anaphylaxis Prevention and Response Guide": {
+    "Parameters": {
+      "Title": {"Description": "Title of the guide", "Required": true, "Type": "text"},
+      "Modules": {"Description": "List of interactive modules on anaphylaxis prevention and response", "Required": true, "Type": "interactive module"},
+      "Risk Situations": {"Description": "List of situations that put patients at risk of anaphylaxis", "Required": true, "Type": "unordered list"},
+      "Response Steps": {"Description": "List of steps to take in case of an anaphylactic reaction", "Required": true, "Type": "ordered list"},
+      "Emergency Contacts": {"Description": "List of emergency contacts to call in case of an anaphylactic reaction", "Required": true, "Type": "unordered list"}
+    }
+  }
+}

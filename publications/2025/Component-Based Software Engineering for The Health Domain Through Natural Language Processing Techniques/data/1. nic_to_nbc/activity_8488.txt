@@ -1,0 +1,32 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Patient Monitoring",
+  "parameters": [
+    {
+      "name": "patient_status",
+      "type": "options"
+    },
+    {
+      "name": "monitoring_frequency",
+      "type": "options"
+    },
+    {
+      "name": "assessment_parameters",
+      "type": "list"
+    },
+    {
+      "name": "intervention_thresholds",
+      "type": "list"
+    },
+    {
+      "name": "notification_criteria",
+      "type": "list"
+    },
+    {
+      "name": "deadline_date",
+      "type": "datetime"
+    }
+  ]
+}

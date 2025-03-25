@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+    "Treatment Guide": {
+        "treatment_plan": {"type": "text"},
+        "medications": {"type": "list of objects"},
+        "lifestyle_changes": {"type": "list of objects"},
+        "follow_up_instructions": {"type": "text"}
+    },
+    "Treatment Tracker": {
+        "treatment_progress": {"type": "number"},
+        "medication_adherence": {"type": "boolean"},
+        "lifestyle_change_adherence": {"type": "boolean"},
+        "follow_up_reminders": {"type": "list of objects"}
+    }
+}

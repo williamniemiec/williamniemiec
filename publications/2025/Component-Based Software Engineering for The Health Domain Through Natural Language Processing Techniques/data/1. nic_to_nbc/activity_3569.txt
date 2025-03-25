@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Food Restriction": {
+    "Title": {"Description": "title of the food restriction guidance", "Required": true, "Type": "text"},
+    "Restricted Foods": {"Description": "list of spicy, salty, acidic, dry, rough, or hard foods that the patient should avoid", "Required": true, "Type": "list", "Options": [{"value": "spicy", "label": "Spicy foods"}, {"value": "salty", "label": "Salty foods"}, {"value": "acidic", "label": "Acidic foods"}, {"value": "dry", "label": "Dry foods"}, {"value": "rough", "label": "Rough foods"}, {"value": "hard", "label": "Hard foods"}]},
+    "Reason": {"Description": "brief explanation of why these foods should be avoided", "Required": true, "Type": "text"},
+    "Frequency": {"Description": "specify how often the patient should be reminded to avoid these foods", "Required": true, "Type": "options", "Options": [{"value": "daily", "label": "Daily"}, {"value": "onlyOnce", "label": "Only once"}, {"value": "everyHours", "label": "Every x hours"}, {"value": "everyDays", "label": "Every x days"}]}
+  }
+}

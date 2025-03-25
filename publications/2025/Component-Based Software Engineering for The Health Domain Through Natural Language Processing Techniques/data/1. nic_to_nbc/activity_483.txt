@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Parenting Skills Education": {
+    "parameters": {
+      "Skill Modules": {"type": "list of educational modules"},
+      "Resource Library": {"type": "list of resources"},
+      "Referral Options": {"type": "list of referral options"},
+      "Progress Tracking": {"type": "progress tracking metrics"},
+      "Frequency": {"options": ["daily", "weekly", "monthly", "quarterly"]},
+      "Deadline Date": {"type": "datetime"}
+    }
+  }
+}
+
+
+Let me know if this is what you were looking for!

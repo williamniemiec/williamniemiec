@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Administration": {
+    "Guidelines": {},
+    "Agent": {},
+    "Dosage": {},
+    "Administration Route": {},
+    "Administration Rate": {},
+    "Monitoring": {},
+    "Verification": {}
+  }
+}

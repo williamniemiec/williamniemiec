@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Value-Based Goal Alignment": {
+    "Personal Values": {"type": "list of text"},
+    "Belief System": {"type": "text"},
+    "Goal": {"type": "text"},
+    "Alignment Questions": {"type": "list of text", "examples": ["How does this goal align with my personal values?", "Is this goal consistent with my belief system?", "What are the potential consequences of achieving this goal on my values and beliefs?"]},
+    "Reflection Prompts": {"type": "list of text", "examples": ["What is most important to me in life?", "What do I stand for?", "What kind of person do I want to be?"]}
+  }
+}

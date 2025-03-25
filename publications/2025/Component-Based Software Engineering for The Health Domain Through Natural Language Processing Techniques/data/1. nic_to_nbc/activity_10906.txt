@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+    "Equipment Guidance": {
+        "parameters": {
+            "name": "Trapeze or Slide Board Guidance",
+            "description": "Guidance on using trapeze or slide board to assist with transfer",
+            "content_type": ["video", "image", "text"],
+            "equipment_type": ["trapeze", "slide board"],
+            "instructions": "step-by-step instructions on how to use the equipment",
+            "frequency": "specify how often the equipment should be used"
+        }
+    }
+}
+
+
+Note: I removed `deadline_date` as it is not applicable since there is no specific date provided.

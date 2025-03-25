@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Procedure",
+  "parameters": [
+    { 
+        "name": "Title", 
+        "type": "text"
+    },
+    { 
+        "name": "Description", 
+        "type": "text"
+    },
+    { 
+        "name": "Steps", 
+        "type": "list of text or images or videos"
+    },
+    { 
+        "name": "Tips", 
+        "type": "text"
+    }
+  ]
+}

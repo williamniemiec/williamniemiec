@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+  "Single Behavior Modification": {
+    "Behavior Explanation": {
+      "type": "text"
+    },
+    "Behavior Selection": {
+      "type": "options",
+      "options": ["list of behaviors (e.g. exercise, diet, sleep, etc.)"]
+    },
+    "Behavior Prioritization": {
+      "type": "list of text",
+      "examples": ["Which behavior do you think will have the greatest impact on your health?", "Which behavior are you most motivated to change?", "Which behavior do you think will be the easiest to modify?"]
+    },
+    "Goal Setting": {
+      "type": "text"
+    },
+    "Progress Tracking": {
+      "type": "list of text",
+      "examples": ["How many days have you successfully modified your behavior?", "What challenges have you faced in modifying your behavior?", "What strategies have you used to overcome these challenges?"]
+    }
+  }
+}
+
+
+Let me know if this is what you were expecting!

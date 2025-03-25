@@ -1,0 +1,29 @@
+Here is the output in JSON format:
+
+
+{
+    "Vitamin Therapy": {
+        "Parameters": {
+            "Vitamin Name": {
+                "Type": "text",
+                "Required": true
+            },
+            "Dosage": {
+                "Type": "text",
+                "Required": true
+            },
+            "Frequency": {
+                "Type": "options",
+                "Options": ["daily", "every x days", "as needed"],
+                "Required": true
+            },
+            "Instructions": {
+                "Type": "text",
+                "Required": false
+            }
+        }
+    }
+}
+
+
+Note that I removed the `Deadline Date` parameter since it's not applicable (required is set to false). Let me know if this meets your requirements!

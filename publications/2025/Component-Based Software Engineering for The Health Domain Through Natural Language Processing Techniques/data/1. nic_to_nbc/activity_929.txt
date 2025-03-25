@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Control Options": {
+    "parameters": [
+      {"Weaning Mode": {"type": "options", "options": [{"value": "gradual", "label": "Gradual weaning"}, {"value": "stepwise", "label": "Stepwise weaning"}, {"value": "custom", "label": "Custom weaning plan"}]}},
+      {"Medication Adjustment": {"type": "form", "fields": ["Medication name", "Current dosage", "Desired dosage", "Current frequency", "Desired frequency"]}},
+      {"Pain Management": {"type": "form", "fields": ["Pain level (scale: 1-10)", "Pain management option (e.g., medication, breathing exercise, relaxation technique)"]}},
+      {"Feedback": {"type": "text", "content": "How do you feel about your current weaning and medication administration plan? Do you have any concerns or suggestions?"}}
+    ]
+  }
+}

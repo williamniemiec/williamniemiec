@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "Resource Referral": {
+    "parameters": {
+      "Resource Type": {
+        "type": "options",
+        "options": ["socialWorker", "homeHealthCare", "nutritionist", "others"]
+      },
+      "Resource List": {
+        "type": "list of objects with properties"
+      },
+      "Referral Reason": {
+        "type": "text"
+      },
+      "Instructions": {
+        "type": "text"
+      },
+      "Follow-up": {
+        "type": "datetime"
+      }
+    }
+  }
+}

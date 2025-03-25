@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Reassurance Guide": {
+    "parameters": {
+      "title": "",
+      "content": "",
+      "images": ""
+    }
+  }
+}

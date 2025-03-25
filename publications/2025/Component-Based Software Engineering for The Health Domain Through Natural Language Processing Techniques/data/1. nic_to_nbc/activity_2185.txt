@@ -1,0 +1,7 @@
+Since there is no no-code element specified in the input text, the output will be an empty JSON object:
+
+{}
+
+If you want to explicitly indicate that there are no parameters, you can return:
+
+{ "PARAMETER ESPECIFICATIONS": [] }

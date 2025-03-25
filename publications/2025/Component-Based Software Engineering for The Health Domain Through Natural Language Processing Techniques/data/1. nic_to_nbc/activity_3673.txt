@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "Procedure Guide": {
+    "parameters": {
+      "name": {},
+      "steps": {
+        "name": {},
+        "description": {},
+        "required": {},
+        "timer": {}
+      },
+      "frequency": {
+        "daily": {},
+        "onlyOnce": {},
+        "everyHours": {},
+        "everyDays": {}
+      },
+      "deadline_date": {
+        "type": "datetime"
+      }
+    }
+  }
+}

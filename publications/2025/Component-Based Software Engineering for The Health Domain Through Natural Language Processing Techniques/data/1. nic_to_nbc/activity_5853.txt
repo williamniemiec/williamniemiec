@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "Cuff Pressure Monitor": {
+    "Pressure Range": {
+      "Type": "range",
+      "Min": 15,
+      "Max": 25
+    },
+    "Ventilation Status": {
+      "Type": "boolean"
+    },
+    "Feeding Status": {
+      "Type": "boolean"
+    },
+    "Reminders": {
+      "Type": "options",
+      "Options": ["during ventilation", "during feeding", "after feeding", "custom schedule"]
+    },
+    "Pressure Log": {
+      "Type": "table or chart"
+    }
+  }
+}

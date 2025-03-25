@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Weaning Options": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Content": {"Type": "rich text or multimedia"},
+      "Options": {"Type": "unordered list or table"},
+      "Pros and Cons": {"Type": "table or list"},
+      "Decision Support": {"Type": "form or questionnaire"}
+    }
+  }
+}

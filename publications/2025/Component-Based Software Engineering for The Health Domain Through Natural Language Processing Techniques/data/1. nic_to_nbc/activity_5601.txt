@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Substance Abuse Prevention Guide": {
+    "Name": {"type": "text"},
+    "Description": {"type": "text"},
+    "Risks of Substance Abuse": {"type": "list", "items": ["list of risks, with descriptions and statistics"]},
+    "Alternatives to Substance Abuse": {"type": "list", "items": ["list of alternatives, with descriptions and resources"]},
+    "Goal Setting": {"type": "boolean"}
+  }
+}
+
+
+Note that I removed the unnecessary parameters and reformatted the output in a more readable JSON format. Let me know if you have any further requests!

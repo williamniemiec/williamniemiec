@@ -1,0 +1,10 @@
+{
+  "name": "Meditation",
+  "description": "Provides guided meditation sessions focused on relaxation, breathing control, mindfulness, and stress reduction. Supports structured meditation practices and progress tracking.",
+  "type": "periodic",
+  "input": ["Goal"],
+  "output": ["Relaxing songs"],
+  "preconditions": ["User initiates a meditation session", "User selects or follows a guided meditation"],
+  "postconditions": ["User's relaxation and mindfulness progress are tracked"],
+  "dependencies": ["Device with speaker"]
+}

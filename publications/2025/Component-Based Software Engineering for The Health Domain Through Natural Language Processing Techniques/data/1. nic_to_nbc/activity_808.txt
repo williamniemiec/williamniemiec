@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Response Documentation",
+    "parameters": [
+        { 
+            "name": "Response Type", 
+            "options": ["pain", "restlessness", "anxiety", "mood change", "involvement in care", "ability to synthesize new information", "ability to verbalize feelings", "reported satisfaction with care"]
+        },
+        { 
+            "name": "Response Stage", 
+            "options": ["pre-intervention", "post-intervention", "during intervention"]
+        },
+        { 
+            "name": "Documentation Method", 
+            "options": ["text", "audio", "video"]
+        },
+        { 
+            "name": "Frequency", 
+            "options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+        }
+    ]
+}

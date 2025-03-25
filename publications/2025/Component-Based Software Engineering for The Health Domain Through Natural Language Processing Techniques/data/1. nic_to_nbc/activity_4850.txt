@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+
+{
+    "Test Expectations Guide": {
+        "Parameters": {
+            "Test Overview": {"Type": "text"},
+            "Pre-Test Instructions": {"Type": "unordered list"},
+            "During the Test": {"Type": "text"},
+            "After the Test": {"Type": "text"},
+            "Possible Results": {"Type": "text"},
+            "FAQs": {"Type": "unordered list"},
+            "Visual Aids": {"Type": "image or video"},
+            "Downloadable Resources": {"Type": "link or downloadable file"}
+        }
+    }
+}

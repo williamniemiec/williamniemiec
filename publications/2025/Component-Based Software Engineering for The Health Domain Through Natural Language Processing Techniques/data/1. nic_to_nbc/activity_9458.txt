@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Referral Coordinator": {
+    "Title": {"type": "text"},
+    "Referral Services": {"type": "list of options"},
+    "Referral Providers": {"type": "list of text or options"},
+    "Contact Information": {"type": "list of text or options"},
+    "Referral Status": {"type": "list of options"},
+    "Referral Dates": {"type": "list of dates"},
+    "Notes": {"type": "text"}
+  }
+}

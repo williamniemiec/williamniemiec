@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Ice Pack Application": {
+    "Parameters": {
+      "Title": {},
+      "Instructions": {},
+      "Duration": {},
+      "Frequency": {},
+      "Precautions": {}
+    }
+  }
+}

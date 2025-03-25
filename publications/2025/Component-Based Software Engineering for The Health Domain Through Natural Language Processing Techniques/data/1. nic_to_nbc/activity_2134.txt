@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "Personal Interests": {
+    "Hobbies and Interests": {
+      "Description": "List your individual hobbies and outside interests",
+      "Required": true,
+      "Type": "list"
+    },
+    "Goal Setting": {
+      "Description": "Set specific, measurable, and achievable goals for pursuing your hobbies and interests",
+      "Required": true,
+      "Type": "goal setting template"
+    },
+    "Schedule": {
+      "Description": "Schedule time for pursuing your hobbies and interests",
+      "Required": true,
+      "Type": "calendar or scheduling tool"
+    }
+  }
+}
+
+
+I removed the not applicable parameters (`Reminders` and `Reflection`) since they are marked as `false` in the `Required` field. Let me know if you need anything else!

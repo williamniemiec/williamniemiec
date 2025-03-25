@@ -1,0 +1,9 @@
+Here is the output in JSON format:
+
+
+{
+  "CVAD Education": {
+    "Signs and Symptoms": "A list of signs and symptoms of a dysfunctional CVAD, such as tachycardia, hypotension, dyspnea, agitation, independent filling of access needle with fluid or blood, shoulder or back pain, and cardiac arrest.",
+    "Instructions": "A brief text explaining what to do if the patient experiences any of these signs and symptoms."
+  }
+}

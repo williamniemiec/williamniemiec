@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Form": {
+    "Fields": [
+      "Pretreatment instructions",
+      "Medications to avoid",
+      "Dietary restrictions",
+      "Other preparations"
+    ],
+    "Frequency": ["daily", "onlyOnce", "everyHours", "everyDays"],
+    "Deadline Date": "datetime"
+  }
+}

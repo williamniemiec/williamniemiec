@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Feeding Transition Tracker": {
+    "Current Feeding Method": {"type": "options"},
+    "Target Feeding Method": {"type": "options"},
+    "Transition Steps": {"type": ["text", "list of steps"]},
+    "Transition Schedule": {"type": "options"},
+    "Progress Tracking": {"type": ["text", "numerical values"]},
+    "Deadline Date": {"type": "datetime"},
+    "Notes": {"type": "text"}
+  }
+}
+
+
+Let me know if you need anything else!

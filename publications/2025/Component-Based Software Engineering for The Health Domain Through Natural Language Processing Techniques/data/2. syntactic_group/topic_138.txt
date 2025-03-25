@@ -1,0 +1,10 @@
+{
+  "name": "Contraception Methods and Side Effects",
+  "description": "Provides information on various contraception methods, their descriptions, effects, and side effects. Aims to assist users in understanding different contraceptive options and their impact on health and pregnancy.",
+  "type": "non-periodic",
+  "input": ["Contraceptive methods", "Side effects", "Pregnancy prevention", "Cycle cessation", "Resources on contraception"],
+  "output": ["Contraceptive method recommendations", "Side effect summary", "Pregnancy prevention guidance"],
+  "preconditions": ["User is exploring contraceptive options or learning about side effects"],
+  "postconditions": ["Informed decision-making on contraception methods and their effects"],
+  "dependencies": ["Contraception resource platform", "Side effect tracker", "Health guidance system"]
+}

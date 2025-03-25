@@ -1,0 +1,37 @@
+Here is the output in JSON format:
+
+
+{
+  "Fingernail Polish Request": {
+    "Parameters": [
+      {
+        "Name": "Request Fingernail Polish",
+        "Description": "Request fingernail polish, if needed",
+        "Required": true,
+        "Type": "options",
+        "Options": [
+          { "value": "yes", "label": "Yes, I need fingernail polish" },
+          { "value": "no", "label": "No, I don't need fingernail polish" }
+        ]
+      },
+      {
+        "Name": "Color Preference",
+        "Description": "Select a preferred color of fingernail polish",
+        "Required": false,
+        "Type": "options",
+        "Options": [
+          { "value": "red", "label": "Red" },
+          { "value": "pink", "label": "Pink" },
+          { "value": "purple", "label": "Purple" },
+          { "value": "other", "label": "Other (please specify)" }
+        ]
+      },
+      {
+        "Name": "Other Color",
+        "Description": "Enter other color preference",
+        "Required": false,
+        "Type": "text"
+      }
+    ]
+  }
+}

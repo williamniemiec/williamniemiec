@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+    "Bonding Guidance": {
+        "Parameters": {
+            "Name": {"Type": "text"},
+            "Steps": {"Type": "list of options"},
+            "Instructions": {"Type": "text"},
+            "Tips": {"Type": "text"},
+            "Condition": {"Type": "conditional statement"},
+            "Frequency": {"Type": "options", "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+            "Deadline Date": {"Type": "datetime"}
+        }
+    }
+}

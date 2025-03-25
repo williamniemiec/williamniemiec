@@ -1,0 +1,12 @@
+
+
+
+{
+    "Lab Test": {
+        "Test Name": {"type": "text"},
+        "Test Description": {"type": "text"},
+        "Frequency": {"options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+        "Deadline Date": {"type": "datetime"},
+        "Test Results": {"type": ["file", "text"]}
+    }
+}

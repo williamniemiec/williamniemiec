@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Decision Support": {
+    "parameters": {
+      "Care Plan Options": {},
+      "Family Member Input": {},
+      "Decision Deadline": {},
+      "Care Plan Explanation": {}
+    }
+  }
+}

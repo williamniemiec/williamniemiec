@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Radiology Test": {
+    "parameters": [
+      { "name": "name", "description": "The name of the radiological test (e.g., chest x-ray)" },
+      { "name": "description", "description": "A brief description of the test" },
+      { "name": "type", "description": "The type of radiological test (e.g., x-ray, CT scan, MRI)" },
+      { "name": "frequency", "description": "How often the test should be repeated (e.g., once, daily, weekly)" },
+      { "name": "deadline_date", "description": "The due date for the test" },
+      { "name": "instructions", "description": "Any specific instructions for the patient to follow before or during the test" }
+    ]
+  }
+}

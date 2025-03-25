@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Distraction Technique": {
+    "Name": {"type": "text"},
+    "Technique": {"type": "options", "options": ["play", "activityTherapy", "readingStories", "singingSongs", "rhythmActivities"]},
+    "Sensory Appeal": {"type": "options", "options": ["visual", "auditory", "tactile", "olfactory", "multisensory"]},
+    "Novelty": {"type": "options", "options": ["novel", "familiar"]},
+    "Frequency": {"type": "options", "options": ["asNeeded", "daily", "everyHours", "everyDays"]},
+    "Deadline Date": {"type": "datetime"}
+  }
+}

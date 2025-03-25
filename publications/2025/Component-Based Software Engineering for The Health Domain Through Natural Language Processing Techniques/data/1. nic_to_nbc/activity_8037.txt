@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Stressor Assessment": {
+    "parameters": [
+      {"Financial Stressors": {"type": "list of text (checkboxes)"}},
+      {"Emotional Stressors": {"type": "list of text (checkboxes)"}},
+      {"Social Stressors": {"type": "list of text (checkboxes)"}},
+      {"Caregiving Stressors": {"type": "list of text (checkboxes)"}},
+      {"Other Stressors": {"type": "text (open-ended question)"}}      
+    ]
+  }
+}
+
+
+Let me know if this meets your requirements!

@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Positioning Reminder": {
+    "Parameters": {
+      "Positioning Angle": {},
+      "Reminder Frequency": {}
+    }
+  }
+}

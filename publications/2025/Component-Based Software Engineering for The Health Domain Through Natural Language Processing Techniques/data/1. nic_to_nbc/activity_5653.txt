@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Airway Suctioning Assessment": {
+    "Parameters": {
+      "Airway Status": {"Type": "options", "Required": true, "Options": ["patent", "obstructed"]},
+      "Suctioning Indication": {"Type": "options", "Required": true, "Options": ["secretions", "bleeding", "other (please specify)"]},
+      "Suctioning Frequency": {"Type": "options", "Required": true, "Options": ["as needed", "scheduled"]}
+    }
+  }
+}
+
+
+I removed the `Suctioning Technique` and `Complications` parameters since they are not applicable (i.e., their required field is set to false). I also removed the `Notes` parameter since it's optional. Let me know if this meets your requirements!

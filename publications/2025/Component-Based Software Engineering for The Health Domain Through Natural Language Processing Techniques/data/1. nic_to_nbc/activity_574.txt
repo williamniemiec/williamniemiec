@@ -1,0 +1,6 @@
+Since there is no specific `{{ PARAMETER ESPECIFICATIONS }}` mentioned in the input text, I will assume it's not applicable. Also, there is only one `{{ NO-CODE ELEMENT NAME }}` mentioned, which is:
+
+
+{
+  "no-code-element-name": "guides the caregiver to use spirits of wintergreen in a bedpan or urinal"
+}

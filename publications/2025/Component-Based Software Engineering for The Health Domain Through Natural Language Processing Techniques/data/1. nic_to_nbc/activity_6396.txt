@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Change Discussion Guide": {
+    "Parameters": {
+      "Name": {
+        "Type": "text"
+      },
+      "Change Types": {}
+    }
+  }
+}

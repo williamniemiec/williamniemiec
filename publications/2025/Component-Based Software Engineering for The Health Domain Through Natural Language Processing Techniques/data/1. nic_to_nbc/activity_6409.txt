@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Ostomy Care Assessment",
+    "parameters": [
+        { 
+            "name": "Questions", 
+            "type": "ordered list"
+        },
+        { 
+            "name": "Response Type", 
+            "type": "options"
+        },
+        { 
+            "name": "Scoring", 
+            "type": "numeric"
+        },
+        { 
+            "name": "Feedback", 
+            "type": "text"
+        },
+        { 
+            "name": "Resources", 
+            "type": "text or link"
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Personal Goal Exploration": {
+    "parameters": {
+      "Reflection Prompt": {},
+      "Free Text Response": {},
+      "Goal Categorization": {},
+      "Importance Rating": {}
+    }
+  }
+}

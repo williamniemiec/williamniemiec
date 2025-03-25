@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Overnight Stay Support": {
+    "parameters": {
+      "Eligibility Criteria": {"type": "list of eligibility criteria"},
+      "Accommodation Options": {"type": "list of accommodation options"},
+      "Logistical Support": {"type": "list of logistical support options"},
+      "Emotional Support": {"type": "list of emotional support resources"},
+      "Check-in Reminders": {"type": "options"}
+    }
+  }
+}

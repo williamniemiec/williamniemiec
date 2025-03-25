@@ -1,0 +1,30 @@
+Here is the output in JSON format:
+
+
+{
+  "Packing List": {
+    "parameters": {
+      "name": "packing list title",
+      "items": "list of personal belongings to pack (e.g., text, images)",
+      "categories": "categories for the personal belongings (e.g., clothing, toiletries, medications)",
+      "notes": "additional notes or instructions for packing"
+    }
+  },
+  "Task": {
+    "parameters": {
+      "name": "task title",
+      "content": "instructions for packing personal belongings",
+      "frequency": "how often the task should be done (e.g., daily, weekly)",
+      "deadline_date": "due date for packing personal belongings"
+    }
+  },
+  "Checklist": {
+    "parameters": {
+      "name": "checklist title",
+      "items": "list of personal belongings to pack (e.g., text, images)",
+      "status": "status of each item (e.g., packed, not packed)"
+    }
+  }
+}
+
+Let me know if this meets your requirements!

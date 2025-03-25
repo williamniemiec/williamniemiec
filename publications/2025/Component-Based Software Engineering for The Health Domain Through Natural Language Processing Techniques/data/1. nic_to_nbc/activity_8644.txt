@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+    "Medication Knowledge Quiz": {
+        "parameters": {
+            "questions": {"type": "list of questions with answer options"},
+            "medication": {"type": "text or selection from a list of medications"},
+            "administration method": {"type": "text or selection from a list of administration methods"}
+        }
+    },
+    "Medication Education": {
+        "parameters": {
+            "content": {"type": "text, image, video, or interactive module"},
+            "medication": {"type": "text or selection from a list of medications"},
+            "administration method": {"type": "text or selection from a list of administration methods"}
+        }
+    }
+}

@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+  "Parameters": {
+    "Drugs": {
+      "Type": "list of objects",
+      "Required": true,
+      "Drug": {
+        "Description": "Name of the drug (prescription or over-the-counter)",
+        "Required": true,
+        "Type": "text"
+      },
+      "Effect": {
+        "Description": "Description of how the drug can affect laboratory values",
+        "Required": true,
+        "Type": "text"
+      }
+    },
+    "Laboratory Values": {
+      "Description": "List of laboratory values that can be affected by drugs",
+      "Required": true,
+      "Type": "list of text"
+    }
+  },
+  "Name": "Drug Interference Guide"
+}

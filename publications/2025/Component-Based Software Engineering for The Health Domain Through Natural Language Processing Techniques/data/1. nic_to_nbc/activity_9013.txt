@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Surrounding Bruising and Discolorations": {
+    "parameters": [
+      { "name": "bruising_description", "description": "Describe any surrounding bruising (e.g. size, shape, color, location)", "required": false, "type": "text" },
+      { "name": "discoloration_description", "description": "Describe any surrounding discolorations (!e.g. size, shape, color, location)", "required": false, "type": "text" },
+      { "name": "muzzle_imprint", "description": "Is there a muzzle imprint present?", "required": true, "type": "options", "options": [ {"value": "yes", "label": "Yes"}, {"value": "no", "label": "No"} ] },
+      { "name": "muzzle_imprint_description", "description": "Describe the muzzle imprint (e.g. size, shape, location)", "required": false, "type": "text" },
+      { "name": "notes", "description": "Add any additional notes about the surrounding bruising or discolorations", "required": false, "type": "text" }
+    ]
+  }
+}
+
+Note that I removed the `content_type` parameter as it was not applicable.

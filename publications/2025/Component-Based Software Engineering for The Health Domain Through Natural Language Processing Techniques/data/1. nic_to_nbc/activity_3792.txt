@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Anxiety Assessment": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Verbal Signs": {"Type": "multiple choice or Likert scale"},
+      "Nonverbal Signs": {"Type": "multiple choice or Likert scale"},
+      "Frequency": {"Type": "multiple choice or Likert scale"},
+      "Severity": {"Type": "multiple choice or Likert scale"},
+      "Triggers": {"Type": "multiple choice or open-ended text"},
+      "Notes": {"Type": "text"}
+    }
+  }
+}

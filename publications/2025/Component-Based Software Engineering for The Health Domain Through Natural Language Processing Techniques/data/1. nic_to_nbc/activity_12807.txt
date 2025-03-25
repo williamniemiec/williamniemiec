@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Psychological Well-being Tracker": {
+    "Mood Tracker": {"Type": "options", "Options": ["happy", "sad", "anxious", "depressed", "other"]},
+    "Anxiety and Depression Screening": {"Type": "questionnaire"},
+    "Body Image Assessment": {"Type": "questionnaire"},
+    "Coping Mechanisms": {"Type": "text"},
+    "Resources": {"Type": "text"},
+    "Progress Tracking": {"Type": "text"}
+  }
+}

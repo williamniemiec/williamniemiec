@@ -1,0 +1,31 @@
+Here is the output in JSON format:
+
+
+{
+  "Resource Guide": {
+    "parameters": [
+      {"name": "Name", "type": "text"},
+      {"name": "Content", "type": "text or HTML"},
+      {"name": "Resources", 
+       "type": "list",
+       "items": {
+         "type": "object",
+         "properties": {
+           "name": {"type": "text"},
+           "description": {"type": "text"},
+           "link": {"type": "url"},
+           "phone": {"type": "phone"},
+           "address": {"type": "text"}
+         }
+       }},
+      {"name": "Frequency", 
+       "type": "options",
+       "options": [
+         { "value": "daily" },
+         { "value": "onlyOnce" },
+         { "value": "everyHours" },
+         { "value": "everyDays" }
+       ]}
+    ]
+  }
+}

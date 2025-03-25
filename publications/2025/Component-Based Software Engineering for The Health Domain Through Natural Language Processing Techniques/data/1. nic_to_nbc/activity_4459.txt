@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Lab Result Tracking": {
+    "parameters": {
+      "Lab Test": {"type": "text"},
+      "Result": {"type": "text or file upload"},
+      "Frequency": {"options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"type": "datetime"},
+      "Notes": {"type": "text"}
+    }
+  }
+}

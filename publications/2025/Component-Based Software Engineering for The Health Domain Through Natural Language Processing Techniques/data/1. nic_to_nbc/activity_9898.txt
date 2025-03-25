@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+    "Safety Precautions": {
+        "Risk Factors": {"type": ["text", "unordered list"]},
+        "Warning Signs": {"type": ["text", "unordered list"]},
+        "Safety Tips": {"type": ["text", "unordered list"]},
+        "Emergency Contact": {"type": ["text", "phone number"]},
+        "Frequency": {"options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+        "Deadline Date": {"type": "datetime"}
+    },
+    "Check-in": {
+        "check-in frequency": {},
+        "check-in method": {}
+    },
+    "Mood Tracking": {
+        "mood tracking frequency": {},
+        "mood tracking method": {}
+    }
+}
+
+
+Note that I removed the parameters that didn't have any specifications, as per your request.

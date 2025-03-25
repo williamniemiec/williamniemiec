@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Comfortable Positioning": {
+    "parameters": [
+      {"Position Options": {}},
+      {"Position Instructions": {}},
+      {"Position Images": {}},
+      {"Comfort Level": {}}
+    ]
+  }
+}
+
+
+I removed `Deadline Date` as it's not applicable to the no-code element, and also removed the descriptions, types, and other details to simplify the output. Let me know if you need any further modifications!

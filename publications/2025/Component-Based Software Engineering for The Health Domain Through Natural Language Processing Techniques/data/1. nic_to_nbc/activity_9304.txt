@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+  "Reminder": {
+    "parameters": {
+      "name": "",
+      "description": "",
+      "frequency": "",
+      "deadline_date": "",
+      "type": ""
+    }
+  },
+  "Task": {
+    "parameters": {
+      "name": "",
+      "content": "",
+      "frequency": "",
+      "deadline_date": "",
+      "response_type": ""
+    }
+  }
+}
+
+
+Let me know if you need any further modifications!

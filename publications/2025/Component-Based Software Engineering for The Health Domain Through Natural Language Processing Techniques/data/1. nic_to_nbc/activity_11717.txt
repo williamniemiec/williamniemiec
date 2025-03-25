@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Assessment": {
+    "Parameters": {
+      "Question": {},
+      "Answer Type": {},
+      "Frequency": {},
+      "Deadline Date": {}
+    }
+  }
+}

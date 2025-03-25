@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Mealtime Ambiance": {
+    "Ambiance Type": {},
+    "Environmental Adjustments": {},
+    "Mealtime Tips": {},
+    "Frequency": {},
+    "Personal Preferences": {}
+  }
+}

@@ -1,0 +1,32 @@
+Here is the output in JSON format:
+
+
+[
+  {
+    "name": "Sleep Schedule",
+    "parameters": {
+      "name": "",
+      "nap_time": "",
+      "nighttime": "",
+      "reminders": ""
+    }
+  },
+  {
+    "name": "Environmental Control",
+    "parameters": {
+      "name": "",
+      "noise_level": "",
+      "lighting": "",
+      "temperature": ""
+    }
+  },
+  {
+    "name": "Sleep Diary",
+    "parameters": {
+      "name": "",
+      "sleep_quality": "",
+      "sleep_duration": "",
+      "notes": ""
+    }
+  }
+]

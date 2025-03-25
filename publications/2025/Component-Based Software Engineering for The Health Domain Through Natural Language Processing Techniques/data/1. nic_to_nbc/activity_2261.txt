@@ -1,0 +1,31 @@
+Here is the output in JSON format:
+
+
+{
+  "Procedure": {
+    "Steps": {
+      "Type": "list of text",
+      "Values": [
+        "Lubricate gloved index finger of dominant hand",
+        "Lubricate rounded end of suppository"
+      ]
+    },
+    "Image": {
+      "Type": "list of images"
+    },
+    "Description": {
+      "Type": "list of text"
+    },
+    "Frequency": {
+      "Options": [
+        "daily",
+        "onlyOnce",
+        "everyHours",
+        "everyDays"
+      ]
+    },
+    "Deadline Date": {
+      "Type": "datetime"
+    }
+  }
+}

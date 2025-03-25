@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Referral Management": {
+    "Reason for Referral": {"Type": "text"},
+    "Referral Type": {"Type": "options", "Options": ["specialist", "therapy", "testing", "etc."]},
+    "Provider List": {"Type": "list of objects"},
+    "Referral Status": {"Type": "options", "Options": ["pending", "completed", "cancelled"]},
+    "Referral Date": {"Type": "datetime"},
+    "Follow-up": {"Type": "list of objects"}
+  }
+}

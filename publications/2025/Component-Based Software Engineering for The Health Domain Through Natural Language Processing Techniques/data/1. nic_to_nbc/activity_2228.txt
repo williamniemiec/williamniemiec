@@ -1,0 +1,30 @@
+Here is the output in JSON format:
+
+
+{
+  "Mindfulness Exercise": {
+    "Title": {
+      "Description": "Title of the guided meditation",
+      "Required": true,
+      "Type": "text"
+    },
+    "Content": {
+      "Description": "Text or audio content guiding the patient to focus on their inner self",
+      "Required": true,
+      "Type": "text or audio"
+    },
+    "Duration": {
+      "Description": "Length of the guided meditation",
+      "Required": true,
+      "Type": "time (e.g. 5 minutes)"
+    },
+    "Focus Prompt": {
+      "Description": "Prompt to help the patient focus their awareness",
+      "Required": true,
+      "Type": "text"
+    }
+  }
+}
+
+
+Note that I removed the "Relaxation Technique" parameter since it's not required. Let me know if you need any further assistance!

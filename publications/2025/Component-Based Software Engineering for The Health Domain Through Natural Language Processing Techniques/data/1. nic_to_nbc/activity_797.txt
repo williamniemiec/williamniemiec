@@ -1,0 +1,30 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Readiness Monitoring",
+    "parameters": [
+        {
+            "name": "Question",
+            "type": "text"
+        },
+        {
+            "name": "Answer Type",
+            "type": "options",
+            "options": ["scale (e.g., 1-5)", "yes/no", "text"]
+        },
+        {
+            "name": "Frequency",
+            "type": "options",
+            "options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+        },
+        {
+            "name": "Deadline Date",
+            "type": "datetime"
+        },
+        {
+            "name": "Threshold",
+            "type": "number"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+  "Weight Monitoring": {
+    "Monitoring Frequency": {
+      "Type": "options",
+      "Options": ["daily", "every12Hours", "every24Hours"]
+    },
+    "Deadline Date": {
+      "Type": "datetime"
+    },
+    "Unit of Measurement": {
+      "Type": "text"
+    },
+    "Target Range": {
+      "Type": "text"
+    },
+    "Alert Threshold": {
+      "Type": "text"
+    }
+  }
+}

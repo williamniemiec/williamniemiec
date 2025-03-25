@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Confidence Assessment": {
+    "Question": {"type": "text"},
+    "Rating Scale": {"type": "options", "options": ["Not at all confident", "Somewhat confident", "Neutral", "Somewhat unconfident", "Not at all unconfident"]},
+    "Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"type": "datetime"}
+  }
+}

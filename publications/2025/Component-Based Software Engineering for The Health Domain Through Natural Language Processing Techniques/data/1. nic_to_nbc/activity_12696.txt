@@ -1,0 +1,10 @@
+Here is the output in JSON format:
+
+
+{
+  "Bedrest Reminder": {
+    "Frequency": {"Type": "options", "Options": ["every 2 hours", "every 4 hours", "every 6 hours", "etc."]},
+    "Duration": {"Type": "text", "Description": "specify the duration of bedrest (e.g., 2 days, 1 week, etc.)"},
+    "Position Change Instructions": {"Type": "text", "Description": "provide instructions on how to change position while on bedrest (e.g., \"Turn to your left side\", \"Use pillows for support\", etc.)"}
+  }
+}

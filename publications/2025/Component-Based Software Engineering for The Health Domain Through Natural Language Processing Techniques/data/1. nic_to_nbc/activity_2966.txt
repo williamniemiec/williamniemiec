@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Assertiveness Guide": {
+    "parameters": {
+      "Assertiveness Tips": {"type": "list of text fields"},
+      "Communication Scenarios": {"type": "list of text fields"},
+      "Role-Playing Exercises": {"type": "interactive module"},
+      "Confidence Building": {"type": "list of text fields"},
+      "Frequency": {"options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"type": "datetime"},
+      "Name": {"type": "text"}
+    }
+  }
+}

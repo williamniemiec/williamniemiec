@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+
+{
+    "Motivational Activity": {
+        "Activity type": {"type": "options"},
+        "Theme": {"type": "text"},
+        "Duration": {"type": "time interval"},
+        "Frequency": {"type": "options"},
+        "Reflection prompt": {"type": "text"}
+    }
+}

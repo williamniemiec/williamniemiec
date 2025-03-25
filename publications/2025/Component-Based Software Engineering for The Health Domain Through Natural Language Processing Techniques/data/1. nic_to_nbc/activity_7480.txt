@@ -1,0 +1,37 @@
+Here is the output in JSON format:
+
+
+{
+  "Eating Behavior Guidelines": {
+    "Guideline": {},
+    "Description": {},
+    "Frequency": {},
+    "Deadline Date": {}
+  },
+  "Food and Fluid Intake Goals": {
+    "Food Item": {},
+    "Portion Size": {},
+    "Unit": {},
+    "Fluid Intake": {},
+    "Unit": {},
+    "Frequency": {},
+    "Deadline Date": {}
+  },
+  "Physical Activity Goals": {
+    "Activity Type": {},
+    "Duration": {},
+    "Unit": {},
+    "Frequency": {},
+    "Deadline Date": {}
+  },
+  "Data Entry": {
+    "Eating Behavior": {},
+    "Food Item": {},
+    "Portion Size": {},
+    "Fluid Intake": {},
+    "Physical Activity": {},
+    "Duration": {},
+    "Frequency": {},
+    "Deadline Date": {}
+  }
+}

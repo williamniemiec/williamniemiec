@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Caregiver Support": {
+    "Parameters": {
+      "Medical Aspects": {"Type": "list of text or HTML"},
+      "Educational Content": {"Type": "list of text or HTML"},
+      "Task List": {"Type": "list of text or HTML"},
+      "Reminders": {"Type": "datetime"},
+      "Tracking Tools": {"Type": "list of text or HTML"},
+      "Resources": {"Type": "list of text or HTML"}
+    }
+  }
+}

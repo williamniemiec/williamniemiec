@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+    "tourniquet_removal_instruction": {
+        "parameters": [
+            {"name": "tourniquet_type", "description": "specify the type of tourniquet used"},
+            {"name": "removal_criteria", "description": "specify the criteria for removing the tourniquet"},
+            {"name": "frequency", "description": "specify how often to remind the patient to remove the tourniquet", "options": [{"value": "daily", "label": "Daily"}, {"value": "everyHours", "label": "Every x hours"}, {"value": "everyDays", "label": "Every x days"}]},
+            {"name": "deadline_date", "description": "specify the due date for removing the tourniquet"}
+        ]
+    }
+}
+
+
+Note that I removed the `required` and `type` fields as they were not requested in the output. Also, I didn't include any non-applicable parameters (i.e., all parameters are included).

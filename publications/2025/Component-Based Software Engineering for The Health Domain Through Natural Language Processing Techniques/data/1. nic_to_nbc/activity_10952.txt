@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "Attachment Assessment": {
+    "Questions": {
+      "type": "list of questions with answer options"
+    },
+    "Behaviors": {
+      "type": "list of attachment behaviors"
+    },
+    "Frequency": {
+      "options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+    },
+    "Deadline Date": {
+      "type": "datetime"
+    },
+    "Threshold": {
+      "type": "numerical value or percentage"
+    },
+    "Alert": {
+      "type": "text or notification template"
+    }
+  }
+}

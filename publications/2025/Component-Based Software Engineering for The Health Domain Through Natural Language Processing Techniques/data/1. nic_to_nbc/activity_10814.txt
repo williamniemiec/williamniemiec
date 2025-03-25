@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Assessment": {
+    "Target": {"type": "options", "values": ["patient", "family", "group", "community"]},
+    "Life Skills": {"type": "multi-select options", "values": []},
+    "Questions": {"type": "list of questions"},
+    "Frequency": {"type": "options", "values": ["daily", "onlyOnce", "everyHours", "everyDays"]}
+  }
+}
+
+
+Note: I removed the "Deadline Date" parameter since it's not applicable (no specific values are provided). Also, I left the "Life Skills" parameter with an empty list of values, as it's supposed to be a list of life skills but no specific values were provided in the input.

@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "task": {
+    "title": {"type": "text"},
+    "description": {
+      "change_frequency": {"type": "text"},
+      "change_times": {"type": "text"}
+    },
+    "rationale": {"type": "text"}
+  }
+}

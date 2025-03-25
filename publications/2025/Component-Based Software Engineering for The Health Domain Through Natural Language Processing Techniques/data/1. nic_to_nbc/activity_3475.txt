@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Meditative Environment": {
+        "Background": {"type": "image or video"},
+        "Music": {"type": "audio"},
+        "Guided Meditation": {"type": "audio or video"},
+        "Reflection Prompt": {"type": "text"},
+        "Journaling": {"type": "text"},
+        "Timer": {"type": "timer"}
+    }
+}

@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+  "Aseptic Site Preparation": {
+    "Step-by-Step Instructions": {
+      "type": "interactive animation or video",
+      "content": "a step-by-step guide on how to properly prepare the site using aseptic technique"
+    },
+    "Solution Selection": {
+      "type": "multiple choice or dropdown list",
+      "options": "list of possible solutions (e.g., antiseptic wipes, sterile saline, etc.)"
+    },
+    "Aseptic Technique Checklist": {
+      "type": "checklist",
+      "options": "list of aseptic technique steps (e.g., washing hands, using sterile gloves, etc.)"
+    },
+    "Site Preparation Verification": {
+      "type": "yes/no question or image upload",
+      "content": "a prompt to confirm the site is clean and ready for further procedures"
+    }
+  }
+}

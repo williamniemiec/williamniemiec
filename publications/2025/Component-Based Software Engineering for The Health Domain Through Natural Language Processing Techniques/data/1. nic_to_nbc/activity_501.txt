@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Audio Recording": {
+    "Name": {"type": "text"},
+    "Description": {"type": "text"},
+    "Recording": {"type": "audio recording"},
+    "Frequency": {"type": "options", "values": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"type": "datetime"}
+  }
+}

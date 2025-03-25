@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Safe Space Planner": {
+    "Parameters": {
+      "Safe Space Location": {"Type": "text"},
+      "Safe Space Features": {"Type": "text"},
+      "Pacing and Wandering Goals": {"Type": "text"},
+      "Safety Precautions": {"Type": "text"},
+      "Virtual Walking Path": {"Type": "interactive simulation"},
+      "Relaxation Environment": {"Type": "interactive simulation"}
+    }
+  }
+}

@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "ParameterSpecifications": {
+    "Precaution Steps": {"type": "list of text or bullet points"},
+    "Tips": {"type": "list of text or bullet points"},
+    "Checklist": {"type": "list of objects", "objectProperties": {
+      "Item": {"type": "text"},
+      "Status": {"type": "text or boolean"}
+    }},
+    "Reminders": {"type": "list of text or bullet points"}
+  },
+  "NoCodeElementName": "Interruption Prevention"
+}

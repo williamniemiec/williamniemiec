@@ -1,0 +1,51 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Physical Abuse Assessment",
+  "parameters": [
+    {
+      "name": "Name",
+      "type": "text"
+    },
+    {
+      "name": "Questions",
+      "type": "form"
+    },
+    {
+      "name": "Answer Type",
+      "type": "options",
+      "options": [
+        { value: "text", label: "Text" },
+        { value: "checkbox", label: "Checkbox" },
+        { value: "dropdown", label: "Dropdown" }
+      ]
+    },
+    {
+      "name": "Abuse History",
+      "type": "form"
+    },
+    {
+      "name": "Current Safety",
+      "type": "form"
+    },
+    {
+      "name": "Resources",
+      "type": "list"
+    },
+    {
+      "name": "Frequency",
+      "type": "options",
+      "options": [
+        { value: "daily", label: "Daily" },
+        { value: "onlyOnce", label: "Only once" },
+        { value: "everyHours", label: "Every x hours" },
+        { value: "everyDays", label: "Every x days" }
+      ]
+    },
+    {
+      "name": "Deadline Date",
+      "type": "datetime"
+    }
+  ]
+}

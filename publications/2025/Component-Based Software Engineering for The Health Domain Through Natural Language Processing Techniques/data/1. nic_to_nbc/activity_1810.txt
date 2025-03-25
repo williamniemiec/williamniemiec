@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+  "AED Implementation": {
+    "parameters": {
+      "AED Attachment": {
+        "type": "list of objects",
+        "properties": {
+          "Step": {"type": "text"},
+          "Instructions": {"type": "text"}
+        }
+      },
+      "AED Analysis": {"type": "text"},
+      "Shock Delivery": {"type": "text"},
+      "Post-Shock Care": {"type": "text"},
+      "AED Troubleshooting": {
+        "type": "list of objects",
+        "properties": {
+          "Error": {"type": "text"},
+          "Solution": {"type": "text"}
+        }
+      }
+    }
+  }
+}

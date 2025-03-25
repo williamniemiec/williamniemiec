@@ -1,0 +1,30 @@
+Here is the output in JSON format:
+
+
+{
+  "Rectal Device Emptying": {
+    "Device Type": {
+      "type": "options",
+      "options": [
+        {"value": "rectalTube", "label": "Rectal Tube"},
+        {"value": "analPlug", "label": "Anal Plug Device"},
+        {"value": "fecalCollection", "label": "Fecal Collection Device (e.g., FlexiSeal, Zossi)"}
+      ]
+    },
+    "Emptying Instructions": {
+      "type": "text"
+    },
+    "Frequency": {
+      "type": "options",
+      "options": [
+        {"value": "asNeeded", "label": "As needed"},
+        {"value": "daily", "label": "Daily"},
+        {"value": "everyHours", "label": "Every x hours"},
+        {"value": "everyDays", "label": "Every x days"}
+      ]
+    },
+    "Monitoring": {
+      "type": "text"
+    }
+  }
+}

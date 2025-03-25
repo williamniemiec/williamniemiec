@@ -1,0 +1,32 @@
+Here is the output in JSON format:
+
+
+{
+  "Policy Guide": {
+    "parameters": {
+      "name": "",
+      "content": "",
+      "type": "",
+      "deadline_date": ""
+    }
+  },
+  "Procedure Tutorial": {
+    "parameters": {
+      "name": "",
+      "content": "",
+      "type": "",
+      "deadline_date": ""
+    }
+  },
+  "Quiz": {
+    "parameters": {
+      "name": "",
+      "questions": "",
+      "type": "",
+      "deadline_date": ""
+    }
+  }
+}
+
+
+Note that I removed the non-applicable parameters and only kept the `{{ NO-CODE ELEMENT NAME }}` and `{{ PARAMETER ESPECIFICATIONS }}`. The values for the parameters are empty strings, as there were no specific values provided in the input text.

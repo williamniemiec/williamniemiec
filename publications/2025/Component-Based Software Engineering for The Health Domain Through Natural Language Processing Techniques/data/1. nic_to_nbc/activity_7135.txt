@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Appointment Scheduling": {
+        "Parameters": {
+            "Name": {"Type": "text"},
+            "Date and Time": {"Type": "datetime"},
+            "Frequency": {"Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+            "Notes": {"Type": "text"},
+            "Reminder": {"Type": "boolean"}
+        }
+    }
+}

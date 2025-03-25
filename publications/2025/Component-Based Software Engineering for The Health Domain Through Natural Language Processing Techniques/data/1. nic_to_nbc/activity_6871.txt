@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+  "Care Plan Editor": {
+    "parameters": {
+      "Care Plan": {"type": "text or HTML"},
+      "Revision Type": {"type": "options", "options": [
+        {"value": "addGoal", "label": "Add New Goal"},
+        {"value": "updateMedication", "label": "Update Medication"},
+        {"value": "changeIntervention", "label": "Change Intervention"},
+        {"value": "other", "label": "Other (please specify)"}
+      ]},
+      "Revision Details": {"type": "text"},
+      "Reason for Revision": {"type": "text"},
+      "Care Plan Version": {"type": "text"},
+      "Revision Date": {"type": "datetime"},
+      "Care Team Notification": {"type": "boolean"}
+    }
+  }
+}
+
+Let me know if you need any further assistance!

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "topical_application": {
+        "parameters": [
+            {"name": "title", "description": "topical application title"},
+            {"name": "body_area", "description": "body area to apply the medicated cream or lotion"},
+            {"name": "medication", "description": "medicated cream or lotion to apply"},
+            {"name": "frequency", "description": "frequency of application"},
+            {"name": "appropriateness", "description": "determine if the application is appropriate for the patient"}
+        ]
+    }
+}

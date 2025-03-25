@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Policy and Procedure Overview": {
+    "parameters": [
+      {"Content": {"type": "text or html"}},
+      {"Manuals": {"type": "list of objects", 
+        "items": [{"Manual": {"type": "text"}}, {"Description": {"type": "text"}}, {"Purpose": {"type": "text"}}]}},
+      {"Resources": {"type": "list of objects", 
+        "items": [{"Resource": {"type": "text or html"}}, {"Description": {"type": "text"}}]}}
+    ]
+  }
+}

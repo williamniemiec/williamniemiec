@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Self-Esteem Tracker": {
+    "parameters": {
+      "Self-esteem scale": {
+        "type": "survey"
+      },
+      "Frequency": {
+        "type": "options"
+      },
+      "Tracking": {
+        "type": "interactive tracker"
+      },
+      "Reflection prompts": {
+        "type": "text"
+      }
+    }
+  }
+}

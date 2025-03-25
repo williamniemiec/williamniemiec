@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Decision Support": {
+    "Name": {"type": "text"},
+    "Options": {"type": "options"},
+    "Criteria": {"type": "text"},
+    "Questions": {"type": "form"},
+    "Resources": {"type": "list"},
+    "Deadline Date": {"type": "datetime"}
+  }
+}

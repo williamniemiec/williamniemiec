@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Cognitive Development Reflection": {
+    "stage": {"type": "options", "options": ["concrete operational", "formal operational", "other"]},
+    "strengths": {"type": "text"},
+    "challenges": {"type": "text"},
+    "strategies": {"type": "text"},
+    "scenario": {"type": "text"},
+    "self_assessment": {"type": "text"}
+  }
+}

@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+    "Discipline Reflection": {
+        "Prompt": {},
+        "Reflection Type": {},
+        "Discipline Experiences": {},
+        "Emotional Response": {},
+        "Influence on Parenting": {}
+    }
+}
+
+
+I removed the `Deadline Date` parameter as it's not applicable in a no-code element. Let me know if you have any further questions!

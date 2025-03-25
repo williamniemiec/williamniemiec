@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Pacemaker Problem Monitoring": {
+    "Problem Description": {"type": "text"},
+    "Problem Type": {"type": "options", "options": ["device malfunction", "battery depletion", "lead issue", "others"]},
+    "Date of Problem": {"type": "datetime"},
+    "Frequency": {"type": "options", "options": ["daily", "weekly", "with each scheduled checkup visit"]},
+    "Next Checkup Visit": {"type": "datetime"},
+    "Notes": {"type": "text"}
+  }
+}

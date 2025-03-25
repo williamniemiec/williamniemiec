@@ -1,0 +1,32 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Moist Wound Healing",
+    "parameters": [
+        { 
+            "name": "Wound Type", 
+            "description": "A parameter that specifies the type of wound being treated (e.g., skin autograft, burn, surgical)", 
+            "required": true, 
+            "type": "options"
+        },
+        { 
+            "name": "Moist Wound Healing Technique", 
+            "description": "A parameter that specifies the moist wound healing technique being used (e.g., occlusive dressing, hydrocolloid dressing, foam dressing)", 
+            "required": true, 
+            "type": "options"
+        },
+        { 
+            "name": "Dressing Change Frequency", 
+            "description": "A parameter that specifies the frequency of dressing changes (e.g., daily, every other day, weekly)", 
+            "required": true, 
+            "type": "options"
+        },
+        { 
+            "name": "Wound Assessment", 
+            "description": "A parameter that specifies the wound assessment details (e.g., wound size, wound depth, wound appearance)", 
+            "required": true, 
+            "type": "text"
+        }
+    ]
+}

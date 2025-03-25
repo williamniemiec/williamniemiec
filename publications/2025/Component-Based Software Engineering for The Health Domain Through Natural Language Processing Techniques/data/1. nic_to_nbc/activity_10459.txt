@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+{
+    "Airway Management Guide": {
+        "parameters": [
+            {"name": "Name", "type": "text"},
+            {"name": "Instructions", "type": "text"},
+            {"name": "Techniques", "type": "list"},
+            {"name": "Indications", "type": "list"},
+            {"name": "Contraindications", "type": "list"},
+            {"name": "Complications", "type": "list"}
+        ]
+    }
+}

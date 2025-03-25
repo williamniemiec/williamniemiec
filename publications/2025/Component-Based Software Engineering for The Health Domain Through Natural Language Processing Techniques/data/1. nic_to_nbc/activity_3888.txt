@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Mental Device Selection": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Options": {"Type": "list of options"},
+      "Description": {"Type": "list of text descriptions"},
+      "Selection": {"Type": "single-select option"},
+      "Repetition Instructions": {"Type": "text or multimedia content"}
+    }
+  }
+}

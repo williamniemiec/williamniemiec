@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Community-Level Services": {
+    "Transportation Assistance": {},
+    "Translation Services": {},
+    "Health Fairs and Cultural Events": {},
+    "Public Service Announcements": {},
+    "Community Partnerships": {}
+  }
+}

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Learning Experience Recommendation": {
+    "parameters": {
+      "name": {"type": "text"},
+      "course_objectives": {"type": "list of objects", "object_keys": ["objective", "description"]},
+      "patient_assignments": {"type": "list of objects", "object_keys": ["assignment", "description"]},
+      "recommendation_criteria": {"type": "list of objects", "object_keys": ["criterion", "description"]},
+      "rationale": {"type": "text"}
+    }
+  }
+}

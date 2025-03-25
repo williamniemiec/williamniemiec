@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+    "No-code Element Name": "Tubing Check",
+    "Parameters": {
+        "Tubing Connections": {"Type": "list of tubing connections"},
+        "Secure Attachment": {"Type": "boolean response"},
+        "Taping": {"Type": "boolean response"},
+        "Reporting": {"Type": "text or multimedia content"},
+        "Frequency": {"Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+        "Deadline Date": {"Type": "datetime"},
+        "Reminders": {"Type": "boolean"}
+    }
+}

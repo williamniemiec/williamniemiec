@@ -1,0 +1,15 @@
+
+
+
+{
+  "Water Boiling Reminder": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Frequency": {"Type": "options", "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"Type": "datetime"},
+      "Instructions": {"Type": "text"},
+      "Confirmation": {"Type": "boolean"},
+      "Indication": {"Type": "text"}
+    }
+  }
+}

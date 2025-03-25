@@ -1,0 +1,38 @@
+{
+  "name": "HCP Contact",
+  "description": "Facilitates communication between healthcare providers and patients, assisting with referrals, specialist consultations, registry interactions, and community resource access.",
+  "type": "non-periodic",
+  "input": [
+    "Referral reason",
+    "Specialist contact",
+    "Consultation request",
+    "Call outcomes",
+    "Community resources",
+    "Referral process",
+    "Eligibility criteria",
+    "Contact information"
+  ],
+  "output": [
+    "Referral confirmation",
+    "Consultation outcomes",
+    "Specialist feedback",
+    "Call outcome report",
+    "Referral report",
+    "Community resource guide",
+    "Eligibility filter"
+  ],
+  "preconditions": [
+    "User requires specialist consultation or community resources",
+    "User is engaging with a registry or hotline"
+  ],
+  "postconditions": [
+    "Referral is completed, and consultation is scheduled or performed",
+    "User is successfully connected with community resources"
+  ],
+  "dependencies": [
+    "Referral management system",
+    "Specialist contact database",
+    "Community resource directory",
+    "Eligibility assessment tools"
+  ]
+}

@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+    "Vital Sign Tracker": {
+        "parameters": [
+            {"name": "blood_pressure", "description": "Enter your blood pressure", "required": true, "type": "number"},
+            {"name": "heart_rate", "description": "Enter your heart rate", "required": true, "type": "number"},
+            {"name": "heart_rhythm", "description": "Enter your heart rhythm (e.g. regular, irregular)", "required": true, "type": "text"},
+            {"name": "pulses", "description": "Enter your pulse rate", "required": true, "type": "number"}
+        ]
+    }
+}
+
+
+Let me know if this is what you were expecting!

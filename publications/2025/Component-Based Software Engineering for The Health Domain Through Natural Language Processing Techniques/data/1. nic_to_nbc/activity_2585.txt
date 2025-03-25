@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Activated Clotting Time (ACT) Monitoring": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "ACT Value": {"Type": "number"},
+      "Time of Measurement": {"Type": "datetime"},
+      "Frequency": {"Type": "options", "Options": ["every hour", "every 2 hours", "every 4 hours", "other"]},
+      "Notes": {"Type": "text"},
+      "Deadline Date": {"Type": "datetime"}
+    }
+  }
+}

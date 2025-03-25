@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Positive Goal Statement": {
+    "Original Goal": {"type": "text"},
+    "Rephrased Goal": {"type": "text"},
+    "Guiding Questions": {"type": "list of text", "examples": ["What do I want to achieve?", "How can I phrase this goal in a positive way?", "What are the benefits of achieving this goal?"]},
+    "Examples": {"type": "list of text", "examples": ["Instead of 'I don't want to be in pain', say 'I want to manage my pain effectively'", "Instead of 'I'm not going to smoke', say 'I want to stay smoke-free'"]}
+  }
+}

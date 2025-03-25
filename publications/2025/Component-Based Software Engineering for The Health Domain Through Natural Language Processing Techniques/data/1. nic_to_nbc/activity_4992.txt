@@ -1,0 +1,21 @@
+
+
+
+{
+  "Cervical Status Assessment": {
+    "parameters": {
+      "Cervical Status": {
+        "type": "options"
+      },
+      "Presentation": {
+        "type": "options"
+      },
+      "Frequency": {
+        "type": "options"
+      },
+      "Notes": {
+        "type": "text"
+      }
+    }
+  }
+}

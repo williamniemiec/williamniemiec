@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Food Diary": {
+    "parameters": {
+      "Food Log": {},
+      "Caloric Intake Calculation": {},
+      "Frequency": {
+        "options": ["daily", "everyMeal", "everySnack"]
+      },
+      "Deadline Date": {}
+    }
+  }
+}

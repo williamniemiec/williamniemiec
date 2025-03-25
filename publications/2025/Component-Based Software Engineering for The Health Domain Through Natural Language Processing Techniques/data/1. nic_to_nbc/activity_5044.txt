@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Education Module": {
+    "Content Type": {"type": "options", "options": ["text", "video", "images", "audio", "interactive simulation", "etc."]},
+    "Topic": {"type": "text"},
+    "Target Audience": {"type": "options", "options": ["patient", "significant others", "both"]},
+    "Format": {"type": "options", "options": ["tutorial", "quiz", "game", "interactive simulation", "etc."]},
+    "Assessment": {"type": "boolean"}
+  }
+}

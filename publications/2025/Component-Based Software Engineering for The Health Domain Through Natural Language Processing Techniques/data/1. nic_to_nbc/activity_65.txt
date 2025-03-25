@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+  "Guide": {
+    "parameters": {
+      "name": "Special Care for Infant Guide",
+      "pages": [],
+      "frequency": "onlyOnce"
+    }
+  },
+  "Task": {
+    "parameters": {
+      "name": "Perform Special Care for Infant",
+      "content": "Please perform the following special care tasks for your infant: [list specific tasks, e.g. oxygen therapy, suctioning, etc.].",
+      "tasks": ["Oxygen therapy", "Suctioning", "Wound care"],
+      "frequency": "daily" || "everyDays"
+    }
+  }
+}
+
+
+Note that I removed the `deadline_date` parameter since it was specified as "not required". Also, I didn't include any other elements except for the `parameters` section. Let me know if you need anything else!

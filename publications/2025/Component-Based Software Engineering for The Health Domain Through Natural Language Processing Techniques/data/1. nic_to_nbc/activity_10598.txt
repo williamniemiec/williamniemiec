@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+    "Contract Agreement": {
+        "parameters": {
+            "Contract Terms": {"type": ["text", "table"]},
+            "Patient Responsibilities": {"type": ["text", "list"]},
+            "Healthcare Provider Responsibilities": {"type": ["text", "list"]},
+            "Payment Terms": {"type": ["text", "table"]},
+            "Dispute Resolution": {"type": ["text", "options"]},
+            "Termination Clause": {"type": ["text", "options"]},
+            "Effective Date": {"type": "datetime"},
+            "Expiration Date": {"type": "datetime"}
+        }
+    }
+}

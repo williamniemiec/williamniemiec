@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Dairy Product Guidance": {
+    "Parameters": {
+      "Title": {"Type": "text"},
+      "Dairy Product Information": {"Type": "rich text or multimedia"},
+      "Tips for Consumption": {"Type": "list of text items"},
+      "Alternative Options": {"Type": "list of text items"}
+    }
+  }
+}

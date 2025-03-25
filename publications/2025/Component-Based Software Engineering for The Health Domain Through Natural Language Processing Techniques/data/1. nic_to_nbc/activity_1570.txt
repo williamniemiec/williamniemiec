@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Daily Weight Tracker": {
+    "weight": {
+      "Description": "Daily weight measurement",
+      "Required": true,
+      "Type": "number",
+      "Unit": "kg or lb"
+    },
+    "Date": {
+      "Description": "Date of measurement",
+      "Required": true,
+      "Type": "datetime"
+    }
+  }
+}
+
+
+I removed the `Notes` parameter since it's not required. Let me know if you need anything else!

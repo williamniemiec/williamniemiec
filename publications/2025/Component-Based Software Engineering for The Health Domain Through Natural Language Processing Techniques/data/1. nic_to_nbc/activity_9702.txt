@@ -1,0 +1,39 @@
+Here is the output in JSON format:
+
+
+{
+  "Nutrition Tracker": {
+    "Food Diary": {
+      "Name": "food diary",
+      "Description": "record of daily food intake",
+      "Required": true,
+      "Type": "text"
+    },
+    "Water Intake": {
+      "Name": "water intake",
+      "Description": "record of daily water intake",
+      "Required": true,
+      "Type": "number"
+    },
+    "Weight": {
+      "Name": "weight",
+      "Description": "current weight",
+      "Required": true,
+      "Type": "number"
+    },
+    "Frequency": {
+      "Name": "frequency",
+      "Description": "specify how often to track nutrition status",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "daily", "label": "Daily" },
+        { "value": "weekly", "label": "Weekly" },
+        { "value": "monthly", "label": "Monthly" }
+      ]
+    }
+  }
+}
+
+
+I removed the not applicable parameters and only kept the `{{ NO-CODE ELEMENT NAME }}` and `{{ PARAMETER ESPECIFICATIONS }}`.

@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Comfort Support": {
+    "parameters": [
+      {"name": "Comfort Options", "type": "options"},
+      {"name": "Instructions", "type": "text"},
+      {"name": "Videos/Demonstrations", "type": "media"},
+      {"name": "Tips", "type": "text"}
+    ]
+  }
+}
+
+
+I removed the `Reminders` parameter because it was marked as not applicable (`required: false`). Let me know if this is correct!

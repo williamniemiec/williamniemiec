@@ -1,0 +1,3 @@
+Since there is no no-code element associated with this intervention, I will output an empty JSON object.
+
+{}

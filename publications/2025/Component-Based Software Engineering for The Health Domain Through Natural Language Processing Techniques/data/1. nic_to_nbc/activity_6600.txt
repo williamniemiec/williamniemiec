@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Fluid Balance Record": {
+    "record_instruction": {},
+    "table_template": {},
+    "calculation_tool": {},
+    "data_entry": {},
+    "graphical_display": {}
+  }
+}

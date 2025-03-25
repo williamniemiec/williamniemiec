@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Reinforcer Shift": {
+    "parameters": {
+      "Undesired Behavior": {"type": "text"},
+      "Desirable Replacement Behavior": {"type": "text"},
+      "Reinforcer Type": {"type": "options"},
+      "Schedule": {"type": "options"},
+      "Criteria": {"type": "text"},
+      "Gradual Withdrawal": {"type": "boolean"},
+      "Reinforcer Strength": {"type": "numeric"}
+    }
+  }
+}

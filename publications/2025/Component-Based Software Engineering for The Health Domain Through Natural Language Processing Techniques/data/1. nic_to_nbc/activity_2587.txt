@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Monitoring": {
+    "parameters": [
+      {"name": "Parameter to monitor", "type": "text"},
+      {"name": "Frequency", "type": "options", "options": ["every4Hours", "asAppropriate", "custom"]},
+      {"name": "Monitoring method", "type": "options", "options": ["visually", "usingDevice", "other"]},
+      {"name": "Notes", "type": "text"}
+    ]
+  }
+}

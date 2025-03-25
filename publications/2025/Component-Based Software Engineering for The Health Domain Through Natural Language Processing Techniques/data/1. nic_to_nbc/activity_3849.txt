@@ -1,0 +1,10 @@
+Here is the output in JSON format:
+
+
+{
+    "Vital Sign Tracking": {
+        "name": "Vital Sign Tracking",
+        "content": "Please take your vital signs using your wearable device or mobile app.",
+        "frequency": "daily"
+    }
+}

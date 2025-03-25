@@ -1,0 +1,29 @@
+Here is the output in JSON format:
+
+
+{
+  "Interaction Skills Guide": {
+    "parameters": {
+      "Interaction Skills Tips": {},
+      "Role Modeling Examples": {}
+    }
+  },
+  "Role Modeling Exercise": {
+    "parameters": {
+      "Scenario": {},
+      "Interaction Skills Options": {}
+    }
+  },
+  "Child Observation": {
+    "parameters": {
+      "Observation Prompt": {},
+      "Observation Notes": {}
+    }
+  },
+  "Feedback and Encouragement": {
+    "parameters": {
+      "Feedback": {},
+      "Encouragement": {}
+    }
+  }
+}

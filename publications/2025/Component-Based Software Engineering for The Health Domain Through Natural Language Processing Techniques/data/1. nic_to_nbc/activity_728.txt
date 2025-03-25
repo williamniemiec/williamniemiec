@@ -1,0 +1,37 @@
+Here is the output in JSON format:
+
+
+{
+    "Image Selection": {
+        "parameters": {
+            "images": "list of relaxing images (e.g., \"Lying on a beach\", \"Watching a new snowfall\", \"Floating on a raft\", \"Watching the sun set\")",
+            "description": "optional parameter to provide a brief description of each image"
+        }
+    },
+    "Open-Ended Question": {
+        "parameters": {
+            "question": "the question to be asked (e.g., \"Can you describe a time when you felt completely relaxed and at peace?\")",
+            "answer type": "text"
+        }
+    },
+    "Rating Scale": {
+        "parameters": {
+            "question": "the question to be asked (e.g., \"How relaxing do you find the image of lying on a beach?\")",
+            "answer type": "rating scale (e.g., 1-5, where 1 is \"Not at all relaxing\" and 5 is \"Very relaxing\")"
+        }
+    },
+    "Guided Imagery": {
+        "parameters": {
+            "script": "the guided imagery script to be played (e.g., \"Imagine yourself lying on a warm beach, feeling the sand between your toes and the sun on your skin...\")"
+        }
+    },
+    "Personalized Imagery": {
+        "parameters": {
+            "prompt": "the prompt to be displayed (e.g., \"Create your own relaxing image by combining elements from the following list...\")",
+            "elements": "list of elements to be combined (e.g., \"Beach\", \"Snowfall\", \"Raft\", \"Sunset\")"
+        }
+    }
+}
+
+
+Note that I removed the introduction and conclusion sections, as well as any unnecessary text. I also reformatted the output into a JSON object with each no-code element name as a key, and its corresponding parameters as values.

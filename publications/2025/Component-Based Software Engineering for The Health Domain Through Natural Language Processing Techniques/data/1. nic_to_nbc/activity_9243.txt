@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+  "medication knowledge questionnaire": {
+    "Questions": {
+      "Description": "list of questions to assess patient's knowledge and understanding",
+      "Required": true,
+      "Type": "list of text"
+    },
+    "Answer Type": {
+      "Description": "specify the answer type for each question",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "text", "label": "Text" },
+        { "value": "select", "label": "Select" },
+        { "value": "trueFalse", "label": "True/False" }
+      ]
+    }
+  }
+}

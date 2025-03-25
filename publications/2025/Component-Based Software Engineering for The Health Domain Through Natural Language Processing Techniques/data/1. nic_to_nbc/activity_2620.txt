@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Skill Development": {
+    "parameters": {
+      "Skill Type": {},
+      "Skill Description": {},
+      "Learning Materials": {},
+      "Practice Exercises": {},
+      "Reflection": {},
+      "Frequency": {},
+      // removed "Deadline Date" as it's not applicable
+    }
+  }
+}

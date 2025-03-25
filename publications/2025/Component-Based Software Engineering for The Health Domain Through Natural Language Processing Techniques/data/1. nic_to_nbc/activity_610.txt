@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+    "Family/Significant Others Assessment": {
+        "Caregiver roles": {"type": "list of text or selection from a list of roles"},
+        "Caregiver strengths": {"type": "list of text or selection from a list of strengths"},
+        "Caregiver weaknesses": {"type": "list of text or selection from a list of weaknesses"}
+    },
+    "Caregiver Evaluation": {
+        "Evaluation criteria": {"type": "list of text or selection from a list of criteria"},
+        "Evaluation score": {"type": "numerical value or selection from a list of ratings"}
+    },
+    "Caregiver Recommendation": {
+        "Recommendation logic": {"type": "conditional statement (e.g., if-then statement)"},
+        "Recommendation output": {"type": "list of text or selection from a list of recommendations"}
+    }
+}
+
+
+I removed the introduction, conclusion, and any other unnecessary text, leaving only the no-code element names and their corresponding parameter specifications. I also formatted the output in JSON format as requested.

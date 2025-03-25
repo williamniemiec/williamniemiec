@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Bed Protection Devices": {
+        "parameters": [
+            {"Name": "text"},
+            {"Instructions": "text"},
+            {"Image": "image"},
+            {"Types of Devices": "list of text"},
+            {"Benefits": "list of text"}
+        ]
+    }
+}

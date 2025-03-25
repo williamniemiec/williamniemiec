@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+    "Stretching Exercise": {
+        "name": {"type": "text"},
+        "instructions": {"type": "text or multimedia"},
+        "frequency": {"type": "options"},
+        "duration": {"type": "time"}
+    }
+}

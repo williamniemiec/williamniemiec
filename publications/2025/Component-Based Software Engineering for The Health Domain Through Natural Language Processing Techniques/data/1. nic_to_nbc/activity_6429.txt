@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+{
+  "Parameter Specifications": {
+    "Resource Type": {"type": "options"},
+    "Resource Name": {"type": "text"},
+    "Resource Description": {"type": "text"},
+    "Location": {"type": "geolocation"},
+    "Filter Options": {"type": "options"},
+    "Resource List": {"type": "list"},
+    "Procurement Guidance": {"type": "text or multimedia content"}
+  },
+  "No-Code Element Name": "Resource Finder"
+}
+
+I removed all unnecessary information and kept only the `Parameter Specifications` and `No-Code Element Name`. I also reformatted the parameter specifications to be more concise and easy to read. Let me know if you need any further modifications!

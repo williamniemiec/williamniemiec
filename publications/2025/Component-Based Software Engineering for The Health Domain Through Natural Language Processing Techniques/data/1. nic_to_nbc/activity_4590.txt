@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Quit Date Setter": {
+    "Parameters": {
+      "Quit Date": {"Type": "datetime"},
+      "Reasons for Quitting": {"Type": "text"},
+      "Confidence Level": {
+        "Type": "options",
+        "Options": ["Very confident", "Somewhat confident", "Not very confident", "Not at all confident"]
+      },
+      "Support System": {
+        "Type": "options",
+        "Options": ["Family and friends", "Healthcare provider", "Support group", "Online resources", "Other"]
+      }
+    }
+  }
+}

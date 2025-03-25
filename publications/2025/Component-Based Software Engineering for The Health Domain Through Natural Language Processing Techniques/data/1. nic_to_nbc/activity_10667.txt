@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Family Rapport Builder": {
+    "parameters": {
+      "name": {},
+      "family_member": {},
+      "abuse_history": {},
+      "rapport_building_strategies": {},
+      "frequency": {
+        "options": ["daily", "everyOtherDay", "everyWeek", "everyMonth"]
+      },
+      "deadline_date": {
+        "type": "datetime"
+      }
+    }
+  }
+}

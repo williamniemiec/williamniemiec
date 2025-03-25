@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Renal Function Tracker": {
+    "BUN Levels": {"Type": "number", "Units": "mg/dL"},
+    "Cr Levels": {"Type": "number", "Units": "mg/dL"},
+    "eGFR": {"Type": "number", "Units": "mL/min"},
+    "Notes": {"Type": "text"}
+  }
+}

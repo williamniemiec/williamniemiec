@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Waste Disposal": {
+    "Parameters": {
+      "Waste Type": {
+        "Type": "options"
+      },
+      "Container Type": {
+        "Type": "options"
+      },
+      "Disposal Confirmation": {
+        "Type": "boolean"
+      },
+      "Additional Instructions": {
+        "Type": "text"
+      }
+    }
+  }
+}

@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Risk Assessment": {
+    "Questions": [],
+    "Answer type": "",
+    "Scoring": "",
+    "Interpretation": ""
+  },
+  "Guide": {
+    "Content": "",
+    "Risk Assessment": {},
+    "Resources": []
+  }
+}

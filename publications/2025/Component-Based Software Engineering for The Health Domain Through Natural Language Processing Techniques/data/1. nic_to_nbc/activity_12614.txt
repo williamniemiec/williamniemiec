@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Symptom Reporting": {
+        "parameters": {
+            "symptoms": {"type": "list of options"},
+            "reporting_method": {"type": "options"},
+            "reporting_frequency": {"type": "options"},
+            "notification_criteria": {"type": "list of options"}
+        }
+    }
+}

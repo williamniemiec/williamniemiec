@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Misconception Clarification": {
+    "parameters": {
+      "Misconception Type": {"type": "options"},
+      "Clarification Content": {"type": "multimedia"},
+      "Questions": {"type": "list of text"},
+      "Resources": {"type": "list of text"},
+      "Follow-up": {"type": "boolean"}
+    }
+  }
+}

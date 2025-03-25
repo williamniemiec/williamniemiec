@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Activity Plan": {
+    "Parameters": {
+      "Name": {"Type": "text", "Required": true},
+      "Goal": {"Type": "text", "Required": true},
+      "Activities": {"Type": "unordered list", "Required": true},
+      "Frequency": {"Type": "options", "Required": true, "Options": ["daily", "everyOtherDay", "every2Days", "every3Days", "weekly"]},
+      "Duration": {"Type": "duration", "Required": true},
+      "Reminders": {"Type": "text", "Required": true},
+      "Tracking": {"Type": "options", "Required": true, "Options": ["checkbox", "rating scale", "free text"]}
+    }
+  }
+}

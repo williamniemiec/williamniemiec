@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Parameters": {
+    "Preparation Steps": {"Type": "list of text or bullet points"},
+    "Tips": {"Type": "list of text or bullet points"},
+    "Checklist": {"Type": "list of objects", "Item": {"Type": "text"}, "Status": {"Type": "text or boolean"}},
+    "Reminders": {"Type": "list of text or bullet points"}
+  },
+  "No-code Element Name": "Environment Preparation"
+}

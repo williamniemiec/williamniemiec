@@ -1,0 +1,11 @@
+
+
+
+{
+  "Therapeutic Touch": {
+    "Title": {"Required": true, "Type": "text"},
+    "Content": {"Required": true, "Type": "text or image"},
+    "Hand Position": {"Required": true, "Type": "text"},
+    "Distance": {"Required": true, "Type": "text"}
+  }
+}

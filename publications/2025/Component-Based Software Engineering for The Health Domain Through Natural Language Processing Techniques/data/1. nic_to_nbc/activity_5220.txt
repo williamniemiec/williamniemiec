@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+    "Monitoring": {
+        "parameters": {
+            "method": {"type": "options"},
+            "frequency": {"type": "options"},
+            "notes": {"type": "text"}
+        }
+    }
+}

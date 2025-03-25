@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Vital Sign Tracking": {
+    "parameters": [
+      {"name": "blood_pressure", "description": "Enter your blood pressure reading", "required": true, "type": "number"},
+      {"name": "heart_rate", "description": "Enter your heart rate reading", "required": true, "type": "number"},
+      {"name": "dialysis_session", "description": "Specify the dialysis session (e.g., pre-dialysis, post-dialysis)", "required": true, "type": "options", "options": [{"value": "pre_dialysis", "label": "Pre-dialysis"}, {"value": "post_dialysis", "label": "Post-dialysis"}]},
+      {"name": "frequency", "description": "Specify how often to track and report hemodynamic response", "required": true, "type": "options", "options": [{"value": "everySession", "label": "Every dialysis session"}, {"value": "daily", "label": "Daily"}]}
+    ]
+  }
+}

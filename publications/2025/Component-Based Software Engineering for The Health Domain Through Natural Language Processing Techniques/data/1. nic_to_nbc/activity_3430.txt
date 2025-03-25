@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Food Placement",
+    "parameters": [
+        {
+            "name": "Affected Side",
+            "type": "options"
+        },
+        {
+            "name": "Food Placement Instructions",
+            "type": "text"
+        },
+        {
+            "name": "Visual Aids",
+            "type": "multimedia"
+        },
+        {
+            "name": "Reminders",
+            "type": "boolean"
+        },
+        {
+            "name": "Frequency",
+            "type": "options"
+        }
+    ]
+}

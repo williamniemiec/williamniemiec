@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "Health Screening Instrument": {
+    "Parameters": {
+      "Instrument Name": {"Type": "text"},
+      "Instrument Description": {"Type": "text"},
+      "Questions": {"Type": "list of questions", "Properties": {
+        "Question Text": {"Type": "text"},
+        "Answer Type": {"Type": "options"},
+        "Options": {"Type": "list of options", "Properties": {
+          "Label": {"Type": "text"},
+          "Value": {"Type": "text or number"}
+        }}
+      }},
+      "Scoring": {"Type": "text"},
+      "Interpretation": {"Type": "text"}
+    }
+  }
+}
+
+
+Let me know if this meets your requirements!

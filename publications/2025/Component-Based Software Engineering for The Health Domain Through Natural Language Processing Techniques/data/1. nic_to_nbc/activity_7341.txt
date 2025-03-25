@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Personalized Guide": {
+    "parameters": {
+      "name": "",
+      "content": {
+        "page_text": "",
+        "media": ""
+      },
+      "conditions": "",
+      "frequency": "",
+      "deadline_date": ""
+    }
+  }
+}

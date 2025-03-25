@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Supply Checklist": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Procedure Type": {"Type": "options"},
+      "Supply List": {"Type": "list of text or multimedia content"},
+      "Quantity": {"Type": "numeric value"},
+      "Checkoff": {"Type": "boolean"},
+      "Reminders": {"Type": "options"}
+    }
+  }
+}

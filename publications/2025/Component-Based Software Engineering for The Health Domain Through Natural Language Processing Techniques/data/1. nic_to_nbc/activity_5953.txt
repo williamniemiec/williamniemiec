@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Disposal": {
+    "Parameters": {
+      "Medications": {"Type": "checklist"},
+      "Reason": {"Type": "options"},
+      "Instructions": {"Type": "text"},
+      "Deadline Date": {"Type": "datetime"},
+      "Confirmation": {"Type": "boolean"}
+    }
+  }
+}

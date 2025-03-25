@@ -1,0 +1,32 @@
+Here is the output in JSON format:
+
+
+{
+    "Support Group Invitation": {
+        "parameters": {
+            "name": "",
+            "description": "",
+            "group_info": "",
+            "frequency": "",
+            "deadline_date": ""
+        }
+    },
+    "Resource List": {
+        "parameters": {
+            "name": "",
+            "resources": [],
+            "type": "",
+            "frequency": "",
+            "deadline_date": ""
+        }
+    },
+    "Personalized Message": {
+        "parameters": {
+            "name": "",
+            "content": "",
+            "recipient_info": "",
+            "frequency": "",
+            "deadline_date": ""
+        }
+    }
+}

@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Guidance": {
+    "parameters": {
+      "Topic": {"type": "text"},
+      "Content": {"type": "text or multimedia"},
+      "Frequency": {"type": "options", "options": ["daily", "weekly", "monthly", "as needed"]}
+    }
+  },
+  "Chat": {
+    "parameters": {
+      "Provider": {"type": "text or provider ID"},
+      "Topic": {"type": "text"},
+      "Frequency": {"type": "options", "options": ["daily", "weekly", "monthly", "as needed"]}
+    }
+  }
+}

@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Cast Care Instruction",
+    "parameters": [
+        {
+            "name": "Instruction",
+            "type": "text",
+            "value": "Do not insert objects into the cast opening to scratch your skin"
+        },
+        {
+            "name": "Reason",
+            "type": "text",
+            "value": "Inserting objects into the cast opening can cause skin irritation, infection, or damage to the cast"
+        },
+        {
+            "name": "Warning",
+            "type": "text",
+            "value": " Failure to follow this instruction may lead to skin complications or cast damage, which can prolong your recovery time"
+        }
+    ]
+}

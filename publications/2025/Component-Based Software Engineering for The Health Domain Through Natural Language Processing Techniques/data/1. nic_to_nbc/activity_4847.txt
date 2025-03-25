@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Temperature Preference": {
+    "Parameters": {
+      "Desired Temperature": {"Type": "range"},
+      "Temperature Adjustment": {"Type": "options", "Options": ["warmer", "cooler", "maintain current temperature"]},
+      "Temperature Check": {"Type": "numeric value"}
+    }
+  }
+}

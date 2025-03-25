@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Metabolic Alkalosis Cause Monitor": {
+    "medical_history": "",
+    "medications": "",
+    "lab_results": "",
+    "vital_signs": "",
+    "symptoms": "",
+    "causes": "",
+    "rules": "",
+    "probability": "",
+    "interpretation": ""
+  }
+}

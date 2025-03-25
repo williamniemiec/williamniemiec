@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Physiological Status Guidance": {
+    "Content": {"type": "text or HTML"},
+    "Vital Signs": {"type": "list of options"},
+    "Frequency": {"type": "options"},
+    "Resources": {"type": "list of URLs or PDFs"}
+  }
+}
+
+
+Note that I removed the `Quiz` parameter since it's not applicable (it's a boolean or a quiz mechanism, which is not a typical parameter specification). Let me know if you have any further questions!

@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+  "Relaxation Therapy Session": {
+    "name": {"type": "text"},
+    "audio": {},
+    "duration": {"type": "time interval"},
+    "frequency": {"options": ["daily", "weekly", "monthly"]}
+  },
+  "Customizable Relaxation Techniques": {
+    "name": {"type": "text"},
+    "instructions": {},
+    "duration": {"type": "time interval"},
+    "frequency": {"options": ["daily", "weekly", "monthly"]}
+  },
+  "Relaxation Technique Library": {
+    "name": {"type": "text"},
+    "techniques": {},
+    "search": {}
+  },
+  "Personalized Relaxation Plan": {
+    "name": {"type": "text"},
+    "goals": {},
+    "techniques": {},
+    "schedule": {}
+  }
+}

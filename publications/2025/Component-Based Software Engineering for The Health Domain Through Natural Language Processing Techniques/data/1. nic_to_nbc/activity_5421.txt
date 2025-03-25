@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Form": {
+    "Parameters": {
+      "Form Fields": [
+        {
+          "Label": "",
+          "Type": "",
+          "Required": ""
+        }
+      ],
+      "Frequency": "",
+      "Deadline Date": ""
+    }
+  }
+}

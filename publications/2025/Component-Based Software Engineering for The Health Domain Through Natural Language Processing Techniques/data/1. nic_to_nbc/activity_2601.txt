@@ -1,0 +1,46 @@
+Here is the output in JSON format:
+
+
+{
+  "Hair Removal": {
+    "Parameters": {
+      "Hair Removal Method": {
+        "Description": "Select the hair removal method to be used",
+        "Required": true,
+        "Type": "options",
+        "Options": [
+          { "value": "scissors", "label": "Scissors" },
+          { "value": "hairClippers", "label": "Hair Clippers" },
+          { "value": "chemicalDepilatory", "label": "Chemical Depilatory Agents" }
+        ]
+      },
+      "Institutional Policy": {
+        "Description": "Verify that the hair removal procedure adheres to institutional policy",
+        "Required": true,
+        "Type": "boolean"
+      },
+      "Physician's Order": {
+        "Description": "Verify that the hair removal procedure is in accordance with the physician's order",
+        "Required": true,
+        "Type": "boolean"
+      },
+      "Surgical Procedure": {
+        "Description": "Select the surgical procedure for which hair removal is being performed",
+        "Required": true,
+        "Type": "text"
+      },
+      "Hair Removal Area": {
+        "Description": "Select the area of the body where hair removal is to be performed",
+        "Required": true,
+        "Type": "options",
+        "Options": [
+          { "value": "head", "label": "Head" },
+          { "value": "face", "label": "Face" },
+          { "value": "neck", "label": "Neck" },
+          { "value": "body", "label": "Body" },
+          { "value": "other", "label": "Other (please specify)" }
+        ]
+      }
+    }
+  }
+}

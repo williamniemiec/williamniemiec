@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+    "Checklist": {
+        "parameters": {
+            "name": "",
+            "items": [
+                {
+                    "name": "",
+                    "description": "",
+                    "required": true
+                }
+            ],
+            "frequency": ["daily", "onlyOnce", "everyHours", "everyDays"],
+            "deadline_date": ""
+        }
+    }
+}

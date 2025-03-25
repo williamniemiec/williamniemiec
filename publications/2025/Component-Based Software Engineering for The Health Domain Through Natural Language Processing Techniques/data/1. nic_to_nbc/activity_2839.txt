@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Safety Signage": {
+    "Parameters": {
+      "Sign Type": {},
+      "Placement Instructions": {},
+      "Purpose": {},
+      "Duration": {}
+    }
+  }
+}

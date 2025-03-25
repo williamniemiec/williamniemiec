@@ -1,0 +1,23 @@
+Here is the output in JSON format, removing anything except `{{ PARAMETER ESPECIFICATIONS }}` and `{{ NO-CODE ELEMENT NAME }}`, and also removing not applicable parameters:
+
+
+{
+    "Staff Introduction": {
+        "parameters": [
+            { 
+                "name": "staff_members", 
+                "type": "list",
+                "staff_member": {
+                    "name": "text",
+                    "role": "text",
+                    "photo": "image",
+                    "bio": "text"
+                }
+            },
+            { 
+                "name": "introduction", 
+                "type": "text"
+            }
+        ]
+    }
+}

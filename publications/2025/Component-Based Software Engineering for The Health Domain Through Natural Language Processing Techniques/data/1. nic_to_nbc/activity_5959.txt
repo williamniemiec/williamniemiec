@@ -1,0 +1,13 @@
+
+
+
+{
+    "Enema Administration": {
+        "Parameters": {
+            "Enema Type": {"Type": "text"},
+            "Instructions": {"Type": "text"},
+            "Frequency": {"Type": "options"},
+            "Appropriateness": {"Type": "boolean"}
+        }
+    }
+}

@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "DVT Prevention": {
+    "parameters": {
+      "Leg Exercises": {"type": "boolean"},
+      "Compression Boot Application": {"type": "boolean"},
+      "Frequency": {"options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"type": "datetime"},
+      "Instructions": {"type": "text"},
+      "Resources": {"type": "URL or HTML text"}
+    }
+  }
+}

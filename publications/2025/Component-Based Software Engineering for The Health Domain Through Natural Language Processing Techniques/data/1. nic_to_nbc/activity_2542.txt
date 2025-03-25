@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Specimen Storage Guide": {
+    "parameters": {
+      "Specimen Type": {"type": ["text", "selection from a list of options"], "required": true},
+      "Storage Protocol": {"type": ["text", "selection from a list of options"], "required": true},
+      "Storage Container": {"type": ["text", "selection from a list of options"], "required": true},
+      "Labeling and Identification": {"type": ["text", "selection from a list of options"], "required": true},
+      "Storage Location": {"type": ["text", "selection from a list of options"], "required": true}
+    }
+  }
+}

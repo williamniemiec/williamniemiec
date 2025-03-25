@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+  "Food Location Descriptor": {
+    "Parameters": {
+      "Food Item": {
+        "Type": "options",
+        "Options": ["meat", "vegetable", "fruit", "dessert", "beverage", "other"]
+      },
+      "Location": {
+        "Type": "options",
+        "Options": ["topLeft", "topRight", "bottomLeft", "bottomRight", "center", "other"]
+      },
+      "Description": {
+        "Type": "text"
+      }
+    }
+  }
+}
+
+
+I removed the introduction, conclusion, and not applicable parameters (like `Audio Output` which has a default value of false). Let me know if this meets your requirements!

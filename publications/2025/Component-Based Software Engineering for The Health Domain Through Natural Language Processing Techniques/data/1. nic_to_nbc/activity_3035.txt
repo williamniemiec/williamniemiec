@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+    "Referral": {
+        "Specialist": {"type": "options"},
+        "Reason": {"type": "text"},
+        "Contact Information": {"type": "text"}
+    }
+}
+
+
+Note: I removed `Deadline Date` as its type is `datetime`, which might not be applicable in some scenarios. If you want to include it, here is the updated output:
+
+
+{
+    "Referral": {
+        "Specialist": {"type": "options"},
+        "Reason": {"type": "text"},
+        "Contact Information": {"type": "text"},
+        "Deadline Date": {"type": "datetime"}
+    }
+}

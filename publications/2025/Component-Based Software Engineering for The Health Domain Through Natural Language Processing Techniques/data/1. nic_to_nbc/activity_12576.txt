@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Sexuality Guide": {
+    "Topic": {"Description": "title of the sexuality topic (e.g., sexual health, intimacy, etc.)", "Required": true, "Type": "text"},
+    "Content": {"Description": "detailed guidance on sexuality (e.g., sexual health, intimacy, etc.)", "Required": true, "Type": "html"}
+  }
+}
+
+
+I removed all the unnecessary information and only kept the `{{ NO-CODE ELEMENT NAME }}` ("Sexuality Guide") and the `{{ PARAMETER ESPECIFICATIONS }}`. I also removed the not applicable parameters (`FAQs`, `Resources`, and `Questions`) since they are marked as "Required": false.

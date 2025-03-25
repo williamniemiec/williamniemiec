@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Hygiene Reminder": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Hygiene Rituals": {"Type": "unordered list", "Options": ["Wash hands with soap and water", "Brush teeth at least twice a day", "Take a bath or shower regularly", "Use deodorant or antiperspirant"]},
+      "Frequency": {"Type": "options", "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"Type": "datetime"},
+      "Notes": {"Type": "text"}
+    }
+  }
+}

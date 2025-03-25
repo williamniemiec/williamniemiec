@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "notification",
+    "parameters": [
+        { 
+            "name": "title", 
+            "description": "notification title"
+        },
+        { 
+            "name": "content", 
+            "description": "notification content"
+        },
+        { 
+            "name": "schedule", 
+            "description": "specify the schedule for the notification"
+        }
+    ]
+}

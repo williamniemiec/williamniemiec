@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Decision Making Reflection": {
+    "scenario": {"type": "text"},
+    "factors": {"type": "text"},
+    "strengths": {"type": "text"},
+    "challenges": {"type": "text"},
+    "strategies": {"type": "text"},
+    "self_assessment": {"type": "text"},
+    "goal_setting": {"type": "text"}
+  }
+}

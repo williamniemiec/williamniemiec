@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "guide",
+    "parameters": [
+        { 
+            "name": "name", 
+            "description": "guide title", 
+            "required": true, 
+            "type": "text"
+        },
+        { 
+            "name": "pages", 
+            "description": "list of pages", 
+            "required": true, 
+            "type": "book-page",
+            "book-page": "list of html texts"
+        },
+        { 
+            "name": "tips", 
+            "description": "list of tips to avoid constipation or stool impaction", 
+            "required": true, 
+            "type": "unordered list",
+            "unordered list": "list of text items"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Antibiotic Administration": {
+    "Parameters": {
+      "Antibiotic Name": {"Type": "text"},
+      "Dosage": {"Type": "text"},
+      "Frequency": {"Type": "options", "Options": ["asNeeded", "daily", "everyHours", "everyDays"]},
+      "Duration": {"Type": "text"},
+      "Route": {"Type": "options", "Options": ["oral", "IV", "IM", "etc."]},
+      "Notes": {"Type": "text"}
+    }
+  }
+}

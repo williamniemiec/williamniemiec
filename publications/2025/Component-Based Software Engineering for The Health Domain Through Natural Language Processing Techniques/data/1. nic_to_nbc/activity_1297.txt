@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Guide": {
+    "parameters": {
+      "name": {"type": "text"},
+      "medication_name": {"type": "text"},
+      "purpose": {"type": "text"},
+      "administration": {"type": "text"},
+      "what_to_expect": {"type": "text"},
+      "side_effects": {"type": "unordered list"},
+      "frequently_asked_questions": {"type": "FAQ list"}
+    }
+  }
+}
+
+
+Let me know if this meets your requirements!

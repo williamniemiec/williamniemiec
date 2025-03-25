@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Emergency Alert": {
+    "Parameters": {
+      "alert title": {
+        "Type": "text",
+        "Required": true
+      },
+      "Message": {
+        "Type": "text",
+        "Required": true
+      },
+      "Condition": {
+        "Type": "conditional statement",
+        "Required": true
+      }
+    }
+  }
+}

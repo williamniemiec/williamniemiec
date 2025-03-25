@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Smoking Status and History": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Current Smoking Status": {"Type": "options", "Options": ["current smoker", "former smoker", "never smoker"]},
+      "Smoking History": {"Type": "table", "Example": "a table with columns for start date, end date, average number of cigarettes smoked per day, and total years smoked"},
+      "Quit Attempts": {"Type": "table", "Example": "a table with columns for quit date, method used, and duration of abstinence"},
+      "Motivation to Quit": {"Type": "rich text", "Example": "a brief description of the patient's motivation to quit smoking, including their reasons for quitting and their confidence in their ability to quit"}
+    }
+  }
+}

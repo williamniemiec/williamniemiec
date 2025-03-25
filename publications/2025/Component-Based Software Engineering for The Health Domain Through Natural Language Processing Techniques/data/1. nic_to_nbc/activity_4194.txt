@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Pre-Donation Checklist": {
+    "parameters": {
+      "name": {"type": "text"},
+      "question": {"type": "text"},
+      "response": {"type": "boolean"},
+      "warning": {"type": "text"}
+    }
+  }
+}

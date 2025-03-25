@@ -1,0 +1,37 @@
+Here is the output in JSON format:
+
+
+{
+    "Allergy Documentation": {
+        "Parameters": {
+            "Allergy List": {
+                "Type": "list of allergies"
+            },
+            "Clinical Record": {
+                "Type": "options"
+            },
+            "Protocol": {
+                "Type": "text"
+            },
+            "Documentation Status": {
+                "Type": "options"
+            }
+        }
+    },
+    "Form": {
+        "Parameters": {
+            "Questions": {
+                "Type": "list of questions"
+            },
+            "Answers": {
+                "Type": "list of answers"
+            },
+            "Clinical Record": {
+                "Type": "options"
+            },
+            "Protocol": {
+                "Type": "text"
+            }
+        }
+    }
+}

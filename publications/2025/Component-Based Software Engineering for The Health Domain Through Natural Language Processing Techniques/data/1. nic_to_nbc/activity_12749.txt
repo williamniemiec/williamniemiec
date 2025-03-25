@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "ParameterSpecifications": {
+    "Title": {"Type": "text"},
+    "Content": {"Type": "text"},
+    "Image": {"Type": "image"},
+    "Frequency": {"Type": "options", "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]}
+  },
+  "NoCodeElementName": "Instruction"
+}
+
+
+Note that I removed the `Deadline Date` parameter since it was marked as "Not applicable" in the input text.

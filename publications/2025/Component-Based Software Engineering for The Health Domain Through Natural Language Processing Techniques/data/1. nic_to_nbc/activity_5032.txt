@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Stress Checker": {
+    "Parameters": {
+      "Stress Assessment": {},
+      "Stress Threshold": {},
+      "Decision-Making Alert": {},
+      "Alternative Action": {},
+      "Frequency": {},
+      // removed Deadline Date as it's not applicable
+    }
+  }
+}

@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Vital Sign Tracker": {
+    "Parameters": {
+      "Parameter 1": {"Description": "Track PaO2 level", "Required": true, "Type": "number"},
+      "Parameter 2": {"Description": "Track respiratory muscle fatigue", "Required": true, "Type": "options"},
+      "Parameter 3": {"Description": "Track SaO2/SvO2 level", "Required": true, "Type": "number"},
+      "Parameter 4": {"Description": "Specify how often vital signs should be tracked", "Required": true, "Type": "options"}
+    }
+  }
+}
+
+
+Note: I removed Parameter 5 (Deadline Date) since it's not required. Let me know if you need to include non-required parameters as well!

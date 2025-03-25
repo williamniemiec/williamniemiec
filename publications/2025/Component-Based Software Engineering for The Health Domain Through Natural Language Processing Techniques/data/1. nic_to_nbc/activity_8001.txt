@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Comfort Technique": {
+    "Technique": {"type": "options"},
+    "Instructions": {"type": "text or video"},
+    "Demonstration": {"type": "boolean"},
+    "Frequency": {"type": "options"},
+    "Duration": {"type": "options"},
+    "Monitoring": {"type": "boolean"}
+  }
+}

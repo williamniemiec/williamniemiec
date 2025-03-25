@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "action_plan": {
+        "parameters": [
+            {"name": "goal"},
+            {"name": "tasks"},
+            {"name": "time_frame"},
+            {"name": "reminders"}
+        ]
+    }
+}

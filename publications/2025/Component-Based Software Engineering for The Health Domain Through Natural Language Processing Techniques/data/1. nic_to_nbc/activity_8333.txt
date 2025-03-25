@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "element_name": "Catheter Patency Assessment",
+  "parameters": {
+    "assessment_instruction": {"type": "text or HTML text"},
+    "images": {"type": "image or list of images"},
+    "video": {"type": "video or URL to a video"},
+    "inflow_outflow_assessment": {"type": "boolean (yes/no) or numerical value (e.g., flow rate)"},
+    "difficulty_notes": {"type": "text or HTML text"}
+  }
+}
+
+
+Let me know if this meets your requirements!

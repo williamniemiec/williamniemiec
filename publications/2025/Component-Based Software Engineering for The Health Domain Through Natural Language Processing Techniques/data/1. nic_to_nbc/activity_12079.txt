@@ -1,0 +1,29 @@
+Here is the output in JSON format:
+
+
+{
+  "Airway Maintenance": {
+    "Parameters": {
+      "Title": {
+        "Description": "Title of the airway maintenance instruction",
+        "Required": true,
+        "Type": "text"
+      },
+      "Instructions": {
+        "Description": "Instructions on how to maintain a patent airway",
+        "Required": true,
+        "Type": "text"
+      },
+      "Frequency": {
+        "Description": "How often to check and maintain a patent airway",
+        "Required": true,
+        "Type": "options",
+        "Options": [
+          { "value": "daily", "label": "Daily" },
+          { "value": "everyHours", "label": "Every x hours" },
+          { "value": "everyDays", "label": "Every x days" }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Positioning Guide": {
+    "Parameters": {
+      "Title": { "Type": "text" },
+      "Content": { "Type": "text or HTML" },
+      "Position Options": { 
+        "Type": "options", 
+        "Options": [
+          { "value": "sitting", "label": "Sitting" },
+          { "value": "supine", "label": "Lying down (supine)" }
+        ]
+      }
+    }
+  }
+}
+
+
+Note that I removed the `Image or Video` parameter since it was marked as not required (`Required: false`). Let me know if you have any further questions!

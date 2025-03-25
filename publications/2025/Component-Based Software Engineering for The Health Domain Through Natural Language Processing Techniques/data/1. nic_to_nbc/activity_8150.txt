@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Blood Product Verification": {
+    "parameters": {
+      "Patient Information": {"type": "text"},
+      "Blood Type": {"type": "text"},
+      "Rh Type": {"type": "text"},
+      "Unit Number": {"type": "text"},
+      "Expiration Date": {"type": "datetime"},
+      "Verification Status": {"type": "options"}
+    }
+  }
+}

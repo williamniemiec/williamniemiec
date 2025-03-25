@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Escalation Plan": {
+    "Parameters": {
+      "Name": {},
+      "Current Level": {},
+      "Escalation Criteria": {},
+      "Next Level": {},
+      "Rationale": {},
+      "Documentation": {}
+    }
+  }
+}

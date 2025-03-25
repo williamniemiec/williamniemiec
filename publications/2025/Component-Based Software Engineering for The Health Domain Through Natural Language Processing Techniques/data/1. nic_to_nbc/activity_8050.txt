@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Name": "Sexual Protection Methods Discussion",
+  "Parameters": {
+    "Methods": {"Type": "checklist", "Required": true},
+    "Knowledge": {"Type": "multiple-choice questions", "Required": true},
+    "Understanding": {"Type": "multiple-choice questions", "Required": true},
+    "Motivation": {"Type": "Likert scale (e.g., 1-5)", "Required": true},
+    "Commitment": {"Type": "Likert scale (e.g., 1-5)", "Required": true},
+    "Frequency": {"Type": "options (e.g., daily, weekly, monthly)", "Required": true}
+  }
+}

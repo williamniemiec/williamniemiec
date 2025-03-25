@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Urinary Assessment": {
+    "title": {"type": "text"},
+    "Urinary Output": {"type": "number", "units": "mL"},
+    "Urinary Voiding Pattern": {"type": ["text", "options"]},
+    "Cognitive Function": {"type": ["text", "options"]},
+    "Preexistent Urinary Problems": {"type": ["text", "options"]},
+    "Additional Information": {"type": "text", "optional": true}
+  }
+}
+
+
+Note that I removed the "Submit" parameter as it's not a relevant specification for the no-code element. Also, I combined the type and units (if applicable) into a single object for each parameter. Let me know if you need any further modifications!

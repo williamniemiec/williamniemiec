@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Family Support": {
+    "parameters": {
+      "Family Member": {"type": "options", "options": ["mother", "father", "sibling", "grandparent", "other"], "required": true},
+      "Support Type": {"type": "options", "options": ["emotional", "financial", "educational", "practical", "other"], "required": true},
+      "Communication Method": {"type": "options", "options": ["phone call", "text message", "in-person meeting", "video call", "email", "other"], "required": true},
+      "Frequency": {"type": "options", "options": ["daily", "weekly", "monthly", "as needed", "other"], "required": true},
+      "Reflection Question": {"type": "text", "required": true}
+    }
+  }
+}
+
+
+Note that I removed the "Resources" parameter since it's not applicable (required: false).

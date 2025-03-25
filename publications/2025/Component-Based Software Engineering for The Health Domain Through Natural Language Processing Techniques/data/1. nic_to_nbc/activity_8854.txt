@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Financial Aid Information": {
+    "Aid Types": {},
+    "Eligibility Criteria": {},
+    "Application Process": {},
+    "Benefits": {},
+    "Resources": {}
+  }
+}

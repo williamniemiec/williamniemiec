@@ -1,0 +1,30 @@
+Here is the output in JSON format:
+
+
+{
+  "STI Risk Factors": {
+    "Risk Factors": {
+      "type": "checklist",
+      "required": true
+    },
+    "Description": {
+      "type": "text",
+      "required": true
+    },
+    "Examples": {
+      "type": "text",
+      "required": true
+    },
+    "Prevention Strategies": {
+      "type": "text",
+      "required": true
+    },
+    "Frequency": {
+      "type": "options",
+      "required": true
+    }
+  }
+}
+
+
+I removed the non-applicable parameters (i.e., those with `required: false`) and kept only the necessary information. Let me know if this meets your requirements!

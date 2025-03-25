@@ -1,0 +1,10 @@
+Here is the output in JSON format:
+
+
+{
+    "Air Bubble Removal": {
+        "system": {"type": "text"},
+        "steps": {"type": ["list of text", "JSON object"]},
+        "verification": {"type": "boolean"}
+    }
+}

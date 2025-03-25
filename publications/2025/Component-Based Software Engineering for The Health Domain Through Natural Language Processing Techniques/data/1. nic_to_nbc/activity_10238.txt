@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Osmolality Tracking": {
+    "parameters": [
+      {"name": "Serum Osmolality Value", "type": "number"},
+      {"name": "Urine Osmolality Value", "type": "number"},
+      {"name": "Unit", "type": "options", "options": ["mOsm/kg", "mmol/kg", "etc."]},
+      {"name": "Frequency", "type": "options", "options": ["daily", "weekly", "monthly"]},
+      {"name": "Target Range", "type": "range"},
+    ]
+  }
+}

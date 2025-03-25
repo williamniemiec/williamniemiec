@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "Environmental Hazard Assessment": {
+    "Hazard Type": {
+      "Type": "options",
+      "Options": ["trippingHazards", "fallRisks", "electricalHazards", "other"]
+    },
+    "Hazard Location": {
+      "Type": "text"
+    },
+    "Removal Method": {
+      "Type": "options",
+      "Options": ["removeObject", "secureObject", "installSafetyFeature", "other"]
+    },
+    "Frequency": {
+      "Type": "options",
+      "Options": ["ongoing", "daily", "everyHours", "everyDays"]
+    }
+  }
+}
+
+
+I removed the introduction, conclusion, and any non-parameter specifications. I also reformatted the output to be a JSON object with the no-code element name as the top-level key, and each parameter as a sub-object. Let me know if you'd like me to make any changes!

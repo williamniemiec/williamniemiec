@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+    "Alert": {
+        "parameters": [
+            {"name": "reason", "description": "explain why decision making should be avoided when under severe stress", "required": true, "type": "text"}
+        ]
+    },
+    "Guide": {
+        "parameters": [
+            {"name": "pages", "description": "list of pages with instructions on stress management techniques and decision making strategies", "required": true, "type": "book-page", "book-page": "list of HTML texts"}
+        ]
+    }
+}

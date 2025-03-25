@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+    "Visit Summary": {
+        "Parameters": {
+            "Visit Date": {"Type": "date"},
+            "Provider": {"Type": "text or provider profile"},
+            "Summary": {"Type": "text"},
+            "Action Items": {"Type": "text or list of tasks"},
+            "Next Steps": {"Type": "text or list of appointments"},
+            "Shared with": {"Type": "text or list of providers"}
+        }
+    }
+}

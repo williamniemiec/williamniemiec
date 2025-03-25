@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Decision Analysis": {
+        "Problem Statement": {"type": "text"},
+        "Possible Actions": {"type": "unordered list"},
+        "Costs/Benefits Table": {"type": "table or unordered list"},
+        "Weighting Criteria": {"type": "unordered list"},
+        "Reflection Questions": {"type": "unordered list"},
+        "Frequency": {"options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+        "Deadline Date": {"type": "datetime"}
+    }
+}

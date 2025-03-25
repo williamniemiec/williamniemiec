@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+    "Home Procedure Instruction": {
+        "Parameters": {
+            "Name": {"Type": "text"},
+            "Procedure Steps": {"Type": "ordered list of text"},
+            "Modifications": {"Type": "options"},
+            "Visual Aids": {"Type": "media (image or video)"},
+            "Tips and Reminders": {"Type": "options"}
+        }
+    }
+}
+
+
+Note that I removed the `Importance of Hand Washing` parameter as it is not applicable.

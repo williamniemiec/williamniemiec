@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Ostomy Care Education",
+  "parameters": [
+    { 
+      "name": "Content", 
+      "type": "text or multimedia"
+    },
+    { 
+      "name": "Format", 
+      "type": "options"
+    },
+    { 
+      "name": "Personalization", 
+      "type": "boolean"
+    },
+    { 
+      "name": "Quizzes", 
+      "type": "boolean"
+    },
+    { 
+      "name": "Resources", 
+      "type": "text or link"
+    }
+  ]
+}

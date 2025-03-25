@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Cord Assessment",
+  "parameters": [
+    {
+      "name": "Instructions",
+      "type": "ordered list of text"
+    },
+    {
+      "name": "Images",
+      "type": "list of image URLs or base64 encoded images"
+    },
+    {
+      "name": "Cord Condition Options",
+      "type": "list of options"
+    },
+    {
+      "name": "Assessment Result",
+      "type": "text or option selection"
+    },
+    {
+      "name": "Next Steps",
+      "type": "text or conditional logic"
+    }
+  ]
+}

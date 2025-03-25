@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Schedule": {
+    "Parameters": {
+      "Sessions": {
+        "Date": "",
+        "Time": "",
+        "Place": "",
+        "Description": ""
+      },
+      "Frequency": {
+        "Options": ["daily", "weekly", "monthly"]
+      },
+      "Deadline Date": {
+        "Type": "datetime"
+      }
+    }
+  }
+}

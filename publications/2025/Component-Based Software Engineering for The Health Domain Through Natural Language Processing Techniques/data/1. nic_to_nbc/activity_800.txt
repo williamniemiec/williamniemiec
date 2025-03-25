@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Bowel Rest Plan": {
+    "Plan Name": {},
+    "Instructions": {},
+    "Dietary Restrictions": {},
+    "Duration": {},
+    "Monitoring": {}
+  }
+}
+
+
+Note that I removed the `Reminders` parameter since it's not applicable (Required: false). Let me know if you have any further questions!

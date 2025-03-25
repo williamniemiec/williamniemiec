@@ -1,0 +1,10 @@
+{
+  "name": "Patient Education and Instructional Literature",
+  "description": "Offers patient-focused reading materials and instructional content, including categorized literature for various levels such as beginners. Provides customization options and keys for understanding complex topics in patient care.",
+  "type": "non-periodic",
+  "input": ["Patient literature", "Categorized reading materials", "Customization options", "Instructional keys", "Beginner-level resources"],
+  "output": ["Patient comprehension report", "Customized reading experience", "Instructional material feedback"],
+  "preconditions": ["User is engaged in learning or reading patient-related literature"],
+  "postconditions": ["Improved patient understanding and engagement with educational materials"],
+  "dependencies": ["Literature management platform", "Customization tools", "Instructional content library"]
+}

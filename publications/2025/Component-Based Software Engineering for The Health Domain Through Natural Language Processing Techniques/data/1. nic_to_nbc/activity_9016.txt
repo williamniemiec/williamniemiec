@@ -1,0 +1,32 @@
+Here is the output in JSON format:
+
+
+{
+    "Basic Care Assistance": {
+        "Care Needs": {
+            "description": "Identify the specific care needs that require assistance (e.g. nutrition, elimination, hydration, personal hygiene)",
+            "required": true,
+            "type": "options",
+            "options": [
+                { "value": "nutrition", "label": "Nutrition" },
+                { "value": "elimination", "label": "Elimination" },
+                { "value": "hydration", "label": "Hydration" },
+                { "value": "hygiene", "label": "Personal Hygiene" }
+            ]
+        },
+        "Assistance": {
+            "description": "Specify the type of assistance provided for each care need (e.g. feeding, toileting, bathing)",
+            "required": true,
+            "type": "text"
+        },
+        "Frequency": {
+            "description": "Specify how often assistance is needed for each care need",
+            "required": true,
+            "type": "options",
+            "options": [
+                { "value": "asNeeded", "label": "As Needed" },
+                { "value": "scheduled", "label": "Scheduled" }
+            ]
+        }
+    }
+}

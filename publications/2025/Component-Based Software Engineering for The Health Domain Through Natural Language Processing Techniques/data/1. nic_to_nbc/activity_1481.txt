@@ -1,0 +1,58 @@
+Here is the output in JSON format:
+
+
+{
+  "Pain Control Plan": {
+    "Parameters": {
+      "Step 1: Current Pain Level": {
+        "Pain level": {
+          "Type": "options",
+          "Options": [
+            { "value": "mild", "label": "Mild" },
+            { "value": "moderate", "label": "Moderate" },
+            { "value": "severe", "label": "Severe" },
+            { "value": "extreme", "label": "Extreme" }
+          ]
+        }
+      },
+      "Step 2: Current Pain Control Measures": {
+        "Current measures": {
+          "Type": "multiselect",
+          "Options": [
+            { "value": "medication", "label": "Medication" },
+            { "value": "relaxationTechniques", "label": "Relaxation Techniques" },
+            { "value": "physicalTherapy", "label": "Physical Therapy" },
+            { "value": "other", "label": "Other (please specify)" }
+          ]
+        }
+      },
+      "Step 3: Adjust Pain Control Measures": {
+        "Adjust measures": {
+          "Type": "options",
+          "Options": [
+            { "value": "yes", "label": "Yes" },
+            { "value": "no", "label": "No" }
+          ]
+        }
+      },
+      "Step 4: Select New Measures (if applicable)": {
+        "New measures": {
+          "Type": "multiselect",
+          "Options": [
+            { "value": "alternativeMedication", "label": "Alternative Medication" },
+            { "value": "newRelaxationTechnique", "label": "New Relaxation Technique" },
+            { "value": "other", "label": "Other (please specify)" }
+          ]
+        }
+      },
+      "Step 5: Review and Submit": {
+        "Review plan": {
+          "Type": "text"
+        },
+        "Submit plan": {
+          "Type": "button"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,33 @@
+Here is the output in JSON format:
+
+
+{
+  "Bilateral Activity": {
+    "Activity Name": {
+      "Description": "Name of the bilateral activity",
+      "Required": true,
+      "Type": "text"
+    },
+    "Instructions": {
+      "Description": "Step-by-step instructions for the bilateral activity",
+      "Required": true,
+      "Type": "text"
+    },
+    "Frequency": {
+      "Description": "How often the activity should be performed",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "daily", "label": "Daily" },
+        { "value": "onlyOnce", "label": "Only once" },
+        { "value": "everyHours", "label": "Every x hours" },
+        { "value": "everyDays", "label": "Every x days" }
+      ]
+    },
+    "Example": {
+      "Description": "A video or image demonstrating the bilateral activity",
+      "Required": true,
+      "Type": "video or image"
+    }
+  }
+}

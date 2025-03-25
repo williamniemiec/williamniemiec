@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Endotracheal Bandage Assessment": {
+    "Instructions": { "name": "Instructions", "description": "Please assess the tightness of the endotracheal bandages", "required": true, "type": "text" },
+    "Assessment type": { "name": "Assessment type", "description": "Please select the type of assessment to perform", "required": true, "type": "options", "options": [ { "value": "visual", "label": "Visual inspection" }, { "value": "manual", "label": "Manual palpation" } ] },
+    "Assessment frequency": { "name": "Assessment frequency", "description": "How often should the endotracheal bandages be assessed?", "required": true, "type": "options", "options": [ { "value": "hourly", "label": "Hourly" }, { "value": "every2hours", "label": "Every 2 hours" }, { "value": "every4hours", "label": "Every 4 hours" } ] },
+    "Deadline date": { "name": "Deadline date", "description": "Please assess the endotracheal bandages by", "required": true, "type": "datetime" },
+    "Assessment results": { "name": "Assessment results", "description": "Please enter the results of the endotracheal bandage assessment", "required": true, "type": "text" }
+  },
+  "Endotracheal Bandage Tightness Tracker": {
+    "Instructions": { "name": "Instructions", "description": "Please track the tightness of the endotracheal bandages", "required": true, "type": "text" },
+    "Tracking frequency": { "name": "Tracking frequency", "description": "How often should the endotracheal bandages be tracked?", "required": true, "type": "options", "options": [ { "value": "hourly", "label": "Hourly" }, { "value": "every2hours", "label": "Every 2 hours" }, { "value": "every4hours", "label": "Every 4 hours" } ] },
+    "Deadline date": { "name": "Deadline date", "description": "Please track the endotracheal bandages by", "required": true, "type": "datetime" },
+    "Reminders": { "name": "Reminders", "description": "Would you like to receive reminders to track the endotracheal bandages?", "required": true, "type": "boolean" }
+  }
+}

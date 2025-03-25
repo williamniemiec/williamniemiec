@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Feelings Sharing": {
+    "Parameters": {
+      "Reflection Prompt": {"Type": "text"},
+      "Emotional Support": {"Type": "text"},
+      "Sharing Options": {"Type": "options"},
+      "Private Journaling": {"Type": "boolean"}
+    }
+  }
+}

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+"Guide": {
+"name": "Positioning to Avoid Wound Tension",
+"pages": ["A list of HTML texts or images"]
+},
+"Video": {
+"name": "Positioning to Avoid Wound Tension",
+"video_url": [],
+"description": []
+}
+}

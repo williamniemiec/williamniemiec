@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Symptom Checker": {
+    "parameters": {
+      "name": "Monitor for confusion, changes in mentation, complaints of dizziness, syncope",
+      "questions": [...],
+      "frequency": {...},
+      // removed deadline_date as it's not applicable (required: false)
+    }
+  }
+}
+
+
+Let me know if you need any further modifications!

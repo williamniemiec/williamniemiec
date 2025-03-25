@@ -1,0 +1,10 @@
+{
+  "name": "Vital Sign Monitoring",
+  "description": "Monitors and analyzes vital signs such as blood pressure, heart rate, and ECG for cardiac health.",
+  "type": "periodic",
+  "input": ["ECG data", "Blood pressure readings", "Heart rate signals"],
+  "output": ["Vital sign trends", "Cardiac health indicators"],
+  "preconditions": ["Patient is connected to monitoring devices"],
+  "postconditions": ["Vital sign data is recorded and analyzed"],
+  "dependencies": ["ECG sensors", "Blood pressure monitors", "Medical database"]
+}

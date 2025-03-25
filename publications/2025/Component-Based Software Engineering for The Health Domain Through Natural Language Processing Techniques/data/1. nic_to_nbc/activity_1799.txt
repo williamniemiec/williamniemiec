@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Phosphate Level Monitoring": {
+    "Parameters": {
+      "Phosphate Level": {"Type": "numeric"},
+      "Reason for Decrease": {"Type": "options"},
+      "Frequency": {"Type": "options"},
+      "Target Range": {"Type": "range"},
+      "Notes": {"Type": "text"},
+      "Alert Threshold": {"Type": "numeric"}
+    }
+  }
+}

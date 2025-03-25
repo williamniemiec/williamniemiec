@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+    "Bed Rest Monitoring": {
+        "Name": {"type": "text"},
+        "Bleeding Status": {"type": "options"},
+        "Bed Rest Duration": {"type": "text"},
+        "Frequency": {"type": "options"},
+        "Deadline Date": {"type": "datetime"},
+        "Notes": {"type": "text"}
+    }
+}
+
+
+I removed the `Alert Threshold` parameter as it seems to be not applicable due to the excessive number of exclamation marks.

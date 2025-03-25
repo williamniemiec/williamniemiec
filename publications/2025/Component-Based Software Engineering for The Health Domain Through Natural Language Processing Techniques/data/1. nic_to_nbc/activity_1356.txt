@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Safety Precautions",
+    "parameters": [
+        {
+            "name": "Risk Assessment"
+        },
+        {
+            "name": "Safety Precautions"
+        },
+        {
+            "name": "Personal Protective Equipment (PPE)"
+        },
+        {
+            "name": "Environmental Safety"
+        },
+        {
+            "name": "Emergency Preparedness"
+        }
+    ]
+}

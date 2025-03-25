@@ -1,0 +1,32 @@
+Here is the output in JSON format:
+
+
+{
+  "Remove Compression": {
+    "Compression Type": {
+      "Description": "Type of compression to be removed",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "stockings", "label": "Stockings" },
+        { "value": "sleeves", "label": "Sleeves" },
+        { "value": "intermittentPneumaticCompressionDevice", "label": "Intermittent Pneumatic Compression Device" }
+      ]
+    },
+    "Duration": {
+      "Description": "Duration for which the compression should be removed",
+      "Required": true,
+      "Type": "text",
+      "Example": "15 to 20 minutes"
+    },
+    "Frequency": {
+      "Description": "Frequency at which the compression should be removed",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "every8Hours", "label": "Every 8 hours" },
+        { "value": "perOrganizationalPolicy", "label": "Per organizational policy and protocol" }
+      ]
+    }
+  }
+}

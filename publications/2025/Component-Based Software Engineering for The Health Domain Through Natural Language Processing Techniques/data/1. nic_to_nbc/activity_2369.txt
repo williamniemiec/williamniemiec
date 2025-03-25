@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Continuing Education and Training": {
+    "parameters": {
+      "name": {"type": "text"},
+      "topic": {"type": "text"},
+      "format": {"type": "options"},
+      "duration": {"type": "text"},
+      "frequency": {"type": "options"},
+      "deadline_date": {"type": "datetime"}
+    }
+  }
+}
+
+
+Let me know if this meets your requirements!

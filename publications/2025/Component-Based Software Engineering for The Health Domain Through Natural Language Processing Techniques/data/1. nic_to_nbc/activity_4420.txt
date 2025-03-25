@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "parameters": {
+    "Risk Factor Assessment": {"type": ["questionnaire", "survey"]},
+    "Smoking Cessation": {"type": ["article", "video"]},
+    "Dietary Modifications": {"type": ["article", "video"]},
+    "Exercise Program": {"type": ["article", "video"]},
+    "Goal Setting": {"type": ["text", "interactive goal-setting tool"]},
+    "Resources": {"type": ["list of resources with links or descriptions"]}
+  },
+  "no-code_element_name": "Cardiac Risk Factor Modification"
+}

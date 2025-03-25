@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+    "Incision Viewing": {
+        "parameters": {
+            "name": "View incision",
+            "content": "Facilitate the patient's viewing of the incision",
+            "instructions": {
+                "type": "text",
+                "value": "Gently remove the dressing to view the incision. Observe for any signs of infection, such as redness, swelling, or discharge."
+            },
+            "frequency": {
+                "options": ["daily", "everyHours", "everyDays"]
+            },
+            "deadline_date": {
+                "type": "datetime"
+            },
+            "notes": {
+                "type": "text"
+            },
+            "photo_upload": {
+                "type": "image"
+            }
+        }
+    }
+}

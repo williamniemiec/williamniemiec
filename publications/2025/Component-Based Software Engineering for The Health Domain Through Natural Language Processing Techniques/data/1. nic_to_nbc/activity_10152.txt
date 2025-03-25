@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "No-code Element Name": "Guide",
+  "Parameters": {
+    "Name": {"Type": "text"},
+    "Pages": {"Type": "book-page", "book-page": "list of HTML texts"},
+    "Section 1: Introduction": {"Type": "HTML text"},
+    "Section 2: Normal Elimination Patterns": {"Type": "HTML text"},
+    "Section 3: Changes to Expect": {"Type": "HTML text"},
+    "Section 4: Tips and Advice": {"Type": "HTML text"}
+  }
+}

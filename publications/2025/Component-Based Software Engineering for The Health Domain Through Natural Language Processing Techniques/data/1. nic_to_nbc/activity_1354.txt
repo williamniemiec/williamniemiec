@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+  "Cuff Inflation": {
+    "Tube Type": {
+      "Description": "Specify the type of tube",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "endotracheal", "label": "Endotracheal tube" },
+        { "value": "tracheostomy", "label": "Tracheostomy tube" }
+      ]
+    },
+    "Cuff Inflation": {
+      "Description": "Indicate if the cuff is inflated during feeding",
+      "Required": true,
+      "Type": "boolean"
+    },
+    "Feeding Time": {
+      "Description": "Record the time of feeding",
+      "Required": true,
+      "Type": "datetime"
+    }
+  }
+}

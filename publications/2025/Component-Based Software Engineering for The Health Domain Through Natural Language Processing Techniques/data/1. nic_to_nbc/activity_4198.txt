@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Cultural Accommodations": {
+    "Cultural Elements": {
+      "Type": "options"
+    },
+    "Patient Preferences": {
+      "Type": "text or options"
+    },
+    "Environmental Adjustments": {
+      "Type": "text or options"
+    },
+    "Cultural Resources": {
+      "Type": "text or options"
+    }
+  }
+}

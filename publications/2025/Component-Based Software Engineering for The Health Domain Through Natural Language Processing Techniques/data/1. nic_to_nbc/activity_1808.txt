@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Personalized Meal Plan": {
+    "meal plan title": {},
+    "Food Preferences": {},
+    "Dietary Restrictions": {},
+    "Meal Frequency": {},
+    "Special Requests": {}
+  }
+}

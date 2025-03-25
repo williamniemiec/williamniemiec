@@ -1,0 +1,31 @@
+Here is the output in JSON format:
+
+
+{
+  "safety lock installation": {
+    "Door Locations": {
+      "description": "Select doors to install safety locks on",
+      "required": true,
+      "type": "checklist",
+      "options": [
+        { "value": "outsideDoors", "label": "Outside Doors" },
+        { "value": "basementDoors", "label": "Basement Doors" }
+      ]
+    },
+    "Lock Type": {
+      "description": "Select type of safety lock to install",
+      "required": true,
+      "type": "options",
+      "options": [
+        { "value": "deadbolt", "label": "Deadbolt" },
+        { "value": "chainLock", "label": "Chain Lock" },
+        { "value": "smartLock", "label": "Smart Lock" }
+      ]
+    },
+    "Installation Instructions": {
+      "description": "View installation instructions for safety locks",
+      "required": true,
+      "type": "text"
+    }
+  }
+}

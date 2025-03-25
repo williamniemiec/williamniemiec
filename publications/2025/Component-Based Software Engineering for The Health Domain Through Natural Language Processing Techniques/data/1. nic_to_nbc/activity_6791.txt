@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Vehicle Safety Guide": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Description": {"Type": "text"},
+      "Safe Driving Tips": {"Type": "list", "Items": []},
+      "Vehicle Maintenance": {"Type": "list", "Items": []},
+      "Road Safety Resources": {"Type": "list", "Items": []}
+    }
+  }
+}
+
+
+I removed the not applicable parameters ("Goal Setting" and "Reminders") as they are boolean types and don't have any additional information. Let me know if you need anything else!

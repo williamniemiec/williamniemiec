@@ -1,0 +1,30 @@
+Here is the output in JSON format:
+
+
+{
+  "Guide": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Content": {"Type": ["HTML/text", "image", "video"]},
+      "Pages": {"Type": ["list of HTML/text", "image", "video"]},
+      "Key Points": {"Type": ["list of text"]},
+      "Resources": {"Type": ["URL", "PDF", "or other file types"]}
+    }
+  },
+  "Tutorial": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Content": {"Type": ["HTML/text", "image", "video"]},
+      "Pages": {"Type": ["list of HTML/text", "image", "video"]},
+      "Key Points": {"Type": ["list of text"]},
+      "Resources": {"Type": ["URL", "PDF", "or other file types"]}
+    }
+  },
+  "Checklist": {
+    "Parameters": {
+      "Item": {"Type": "text"},
+      "Description": {"Type": "text"},
+      "Status": {"Type": "boolean"}
+    }
+  }
+}

@@ -1,0 +1,39 @@
+Here is the output in JSON format:
+
+
+{
+  "Instruction": {
+    "Parameters": {
+      "Content": {},
+      "Frequency": {
+        "Options": ["daily", "everyHours", "everyDays"]
+      },
+      "Deadline Date": {
+        "Type": "datetime"
+      }
+    }
+  },
+  "Task": {
+    "Parameters": {
+      "Name": {},
+      "Content": {},
+      "Frequency": {
+        "Options": ["daily", "everyHours", "everyDays"]
+      },
+      "Deadline Date": {
+        "Type": "datetime"
+      }
+    }
+  },
+  "Photo": {
+    "Parameters": {
+      "Name": {},
+      "Frequency": {
+        "Options": ["daily", "everyHours", "everyDays"]
+      },
+      "Deadline Date": {
+        "Type": "datetime"
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Behavioral Reflection": {
+    "Parameters": {
+      "Behavior Type": {"Type": "options"},
+      "Reflection Prompts": {"Type": "list of text"},
+      "Goal Setting": {"Type": "boolean"},
+      "Tracking": {"Type": "boolean"},
+      "Frequency": {"Options": ["daily", "onlyOnce", "everyHours", "everyDays"]}
+    }
+  }
+}

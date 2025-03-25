@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "Decision Support Tool": {
+    "parameters": {
+      "name": {"type": "text"},
+      "description": {"type": "text"},
+      "options": {
+        "type": "unordered list",
+        "items": {
+          "option": {"type": "text"},
+          "description": {"type": "text"},
+          "resources": {"type": "list of resources"}
+        }
+      },
+      "frequency": {
+        "type": "options",
+        "options": ["daily", "weekly", "monthly", "quarterly"]
+      },
+      "deadline_date": {"type": "datetime"}
+    }
+  }
+}

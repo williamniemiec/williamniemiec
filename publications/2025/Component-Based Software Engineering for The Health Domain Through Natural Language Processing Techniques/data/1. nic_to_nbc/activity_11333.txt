@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+    "ET Tube Maintenance": {
+        "Tape/Tie Change Frequency": {},
+        "Skin and Oral Mucosa Inspection": {},
+        "ET Tube Repositioning": {},
+        "Maintenance Log": {}
+    }
+}

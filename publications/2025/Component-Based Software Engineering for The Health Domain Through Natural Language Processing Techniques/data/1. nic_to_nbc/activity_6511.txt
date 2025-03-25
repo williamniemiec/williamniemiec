@@ -1,0 +1,31 @@
+Here is the output in JSON format:
+
+
+{
+    "Patient Profile": {
+        "name": "title of the patient profile",
+        "demographics": "patient demographics (e.g., age, gender, medical history)",
+        "willingness": "patient's willingness to participate in pain relief strategies",
+        "ability": "patient's ability to participate in pain relief strategies",
+        "preferences": "patient's preferences for pain relief strategies"
+    },
+    "Pain Relief Options": {
+        "name": "title of the pain relief options",
+        "options": "list of pain relief strategies, each with a description, benefits, risks, and contraindications"
+    },
+    "Support Network": {
+        "name": "title of the support network",
+        "contacts": "list of significant others, each with a name, relationship, and contact information",
+        "roles": "list of roles for each significant other (e.g., caregiver, emotional support)"
+    },
+    "Contraindication Checker": {
+        "name": "title of the contraindication checker",
+        "medical_history": "patient's medical history",
+        "pain_relief_strategy": "selected pain relief strategy",
+        "contraindications": "list of contraindications, each with a description and warning"
+    },
+    "Personalized Recommendations": {
+        "name": "title of the personalized recommendations",
+        "recommendations": "list of recommended pain relief strategies, each with a description and rationale"
+    }
+}

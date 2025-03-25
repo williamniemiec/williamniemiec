@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+  "Catheter Removal Observation": {
+    "observation title": {"Description": "title of the catheter removal observation", "Required": true, "Type": "text"},
+    "Signs": {"Description": "list of signs to observe for catheter removal", "Required": true, "Type": "checkbox", "Options": [
+      {"value": "pulselessLeg", "label": "Pulseless leg"},
+      {"value": "darkeningToes", "label": "Darkening of toes"},
+      {"value": "hypertension", "label": "Hypertension"},
+      {"value": "rednessAroundUmbilicus", "label": "Redness around umbilicus"},
+      {"value": "visibleClots", "label": "Visible clots in catheter"}
+    ]},
+    "Frequency": {"Description": "specify how often to observe for signs requiring catheter removal", "Required": true, "Type": "options", "Options": [
+      {"value": "hourly", "label": "Hourly"},
+      {"value": "every2hours", "label": "Every 2 hours"},
+      {"value": "every4hours", "label": "Every 4 hours"}
+    ]}
+  }
+}

@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Administration Log": {
+    "Parameters": {
+      "Medication Name": {},
+      "Dosage": {},
+      "Administration Time": {},
+      "Administration Method": {
+        "Options": [
+          { "value": "oral", "label": "Oral" },
+          { "value": "IV", "label": "Intravenous" },
+          { "value": "other", "label": "Other (please specify)" }
+        ]
+      },
+      "Notes": {}
+    }
+  }
+}
+
+
+Let me know if this meets your requirements!

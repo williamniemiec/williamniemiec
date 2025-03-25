@@ -1,0 +1,38 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Medication Administration",
+    "parameters": [
+        { 
+            "name": "Medication", 
+            "type": "text"
+        },
+        { 
+            "name": "Indication", 
+            "type": "text"
+        },
+        { 
+            "name": "Dosage", 
+            "type": "text"
+        },
+        { 
+            "name": "Frequency", 
+            "type": "options",
+            "options": [
+                { value: "daily" },
+                { value: "onlyOnce" },
+                { value: "everyHours" },
+                { value: "everyDays" }
+            ]
+        },
+        { 
+            "name": "Deadline Date", 
+            "type": "datetime"
+        },
+        { 
+            "name": "Notes", 
+            "type": "text"
+        }
+    ]
+}

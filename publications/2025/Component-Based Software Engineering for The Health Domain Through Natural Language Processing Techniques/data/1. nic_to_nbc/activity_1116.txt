@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+    "Diversional Activity": {
+        "Parameters": {
+            "Name": {"Type": "text"},
+            "Activities": {"Type": "list of options", "Options": ["Television", "Visitors", "Music", "Reading", "Other"]},
+            "Description": {"Type": "text"},
+            "Condition": {"Type": "conditional statement"},
+            "Frequency": {"Type": "options", "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]}
+        }
+    }
+}
+
+
+Note that I removed the `Deadline Date` parameter as it's not applicable (there is no specific value provided in the input text).

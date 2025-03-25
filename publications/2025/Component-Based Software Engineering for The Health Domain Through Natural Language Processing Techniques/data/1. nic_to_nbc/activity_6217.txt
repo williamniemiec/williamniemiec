@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Calm and Reassuring Message": {
+    "Parameters": {
+      "Message": {},
+      "Tone": {},
+      "Frequency": {}
+    }
+  }
+}
+
+
+Note: I removed `Deadline Date` as it's not applicable to the no-code element, and only kept the essential parameters that are relevant to the element.

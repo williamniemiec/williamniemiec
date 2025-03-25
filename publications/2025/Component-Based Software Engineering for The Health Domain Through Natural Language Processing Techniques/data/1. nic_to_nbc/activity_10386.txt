@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Self-Reinforcement Tracker": {
+        "Goal": {"type": "text"},
+        "Reward": {"type": "text"},
+        "Self-Reinforcement Criteria": {"type": "options", "options": ["daily", "weekly", "monthly", "custom"]},
+        "Reflection Prompt": {"type": "text"},
+        "Frequency": {"type": "options", "options": ["daily", "weekly", "monthly", "custom"]},
+        "Deadline Date": {"type": "datetime"}
+    }
+}

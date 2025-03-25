@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Catheter Securement": {
+        "parameters": [
+            {"Securement Method": {}},
+            {"Securement Location": {}},
+            {"Securement Instructions": {}},
+            {"Catheter Type": {}}
+        ]
+    }
+}

@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Infusion Phlebitis and Local Infection Monitor": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Symptoms": {"Type": "list of options"},
+      "Severity": {"Type": "list of options"},
+      "Time": {"Type": "datetime"},
+      "Notes": {"Type": "text"},
+      "Alert Threshold": {"Type": "number or list of options"}
+    }
+  }
+}

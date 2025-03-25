@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+  "CSF Drainage Recorder": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Frequency": {"Options": ["daily", "every 12 hours", "every 8 hours", "custom"]},
+      "Data Points": {"Type": "list of text"},
+      "Units": {"Type": "text"},
+      "Notes": {"Type": "text"}
+    }
+  },
+  "CSF Drainage Entry": {
+    "Parameters": {
+      "Date": {"Type": "date"},
+      "Time": {"Type": "time"},
+      "Amount": {"Type": "number"},
+      "Rate": {"Type": "number"},
+      "Notes": {"Type": "text"}
+    }
+  }
+}
+
+
+I removed the introduction, conclusion, and any unnecessary text, leaving only the no-code element names and their corresponding parameter specifications. I also formatted the output as a JSON object for easier readability.

@@ -1,0 +1,30 @@
+Here is the output in JSON format:
+
+
+{
+  "Aspiration and Injection Technique Guide": {
+    "parameters": [
+      {
+        "name": "aspiration",
+        "properties": {
+          "aspiration_technique": "",
+          "aspiration_result": ""
+        }
+      },
+      {
+        "name": "injection",
+        "properties": {
+          "injection_speed": "",
+          "injection_timing": ""
+        }
+      },
+      {
+        "name": "needle_withdrawal",
+        "properties": {
+          "withdrawal_technique": "",
+          "skin_release": ""
+        }
+      }
+    ]
+  }
+}

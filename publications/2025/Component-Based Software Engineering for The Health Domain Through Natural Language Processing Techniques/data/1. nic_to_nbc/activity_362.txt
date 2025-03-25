@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Guide": {
+    "Content": {"Type": "book-page (list of HTML texts)"},
+    "Test explanations": {"Type": "list of text or HTML texts"}
+  },
+  "Anxiety Reduction": {
+    "Content": {"Type": "text, audio, or video"},
+    "Frequency": {"Type": "options (e.g., daily, every 2 hours, on demand)"}
+  }
+}

@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+    "Diet Restrictions": {
+        "type": "text"
+    },
+    "Notification Locations": {
+        "type": "checklist"
+    },
+    "Notification Format": {
+        "type": "options"
+    },
+    "Update Frequency": {
+        "type": "options"
+    },
+    "Instructions": {
+        "type": "text"
+    },
+    "Diet Restriction Notification": {}
+}

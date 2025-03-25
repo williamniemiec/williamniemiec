@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Object Removal and Replacement": {
+    "parameters": [
+      {"Name": {"type": "text"}},
+      {"Instructions": {"type": "text"}},
+      {"Container Type": {"type": "options", "options": ["basket", "box", "cup"]}},
+      {"Object List": {"type": "unordered list"}},
+      {"Tips": {"type": "text"}},
+      {"Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]}}
+    ]
+  }
+}

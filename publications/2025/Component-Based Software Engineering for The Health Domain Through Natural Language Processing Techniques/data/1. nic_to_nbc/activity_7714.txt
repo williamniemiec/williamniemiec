@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Defense Mechanism Assessment": {
+    "Parameters": {
+      "Age Group": {"Type": "options"},
+      "Defense Mechanisms": {"Type": "unordered list"},
+      "Frequency": {"Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"Type": "datetime"},
+      "Questions": {"Type": "form"}
+    }
+  }
+}

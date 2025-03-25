@@ -1,0 +1,36 @@
+Here is the output in JSON format:
+
+
+{
+  "Nasogastric Tube Management": {
+    "Tube Management Plan Name": {
+      "Description": "Name of the nasogastric tube management plan",
+      "Required": true,
+      "Type": "text"
+    },
+    "Clamping Instructions": {
+      "Description": "Step-by-step instructions for clamping the nasogastric tube",
+      "Required": true,
+      "Type": "text or list of text"
+    },
+    "Tolerance Monitoring": {
+      "Description": "Instructions for monitoring the patient's tolerance to the clamped tube",
+      "Required": true,
+      "Type": "text or list of text"
+    },
+    "Clamping Duration": {
+      "Description": "Length of time the tube should be clamped",
+      "Required": true,
+      "Type": "text or number"
+    },
+    "Monitoring Frequency": {
+      "Description": "How often to monitor the patient's tolerance",
+      "Required": true,
+      "Type": "options",
+      "Options": ["every15Minutes", "every30Minutes", "everyHour"]
+    }
+  }
+}
+
+
+Let me know if this is what you were expecting!

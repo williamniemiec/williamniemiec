@@ -1,0 +1,33 @@
+Here is the output in JSON format:
+
+
+{
+  "Motivational Message": {
+    "parameters": {
+      "name": "",
+      "message": "",
+      "image": ""
+    }
+  },
+  "Goal Setting": {
+    "parameters": {
+      "name": "",
+      "goals": [],
+      "progress": []
+    }
+  },
+  "Success Stories": {
+    "parameters": {
+      "name": "",
+      "stories": [],
+      "filters": []
+    }
+  },
+  "Reflection Journal": {
+    "parameters": {
+      "name": "",
+      "entries": [],
+      "tags": []
+    }
+  }
+}

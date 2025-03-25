@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Heart Rate and Rhythm Log": {
+    "Parameters": {
+      "Heart Rate": {"Type": "number"},
+      "Rhythm": {"Type": "options", "Options": ["normal", "irregular", "atrial fibrillation", "etc."]},
+      "Date and Time": {"Type": "datetime"},
+      "Notes": {"Type": "text"}
+    }
+  }
+}

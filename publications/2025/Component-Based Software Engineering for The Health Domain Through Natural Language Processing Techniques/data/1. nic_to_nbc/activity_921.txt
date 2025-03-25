@@ -1,0 +1,29 @@
+Here is the output in JSON format:
+
+
+{
+    "Goal Setting": {
+        "Parameters": {
+            "Goal Type": {"Options": ["selection from a list of options"]},
+            "Goal Description": {"Type": "text"},
+            "Target Date": {"Type": "datetime"},
+            "Tracking Method": {"Options": ["journal", "mobile app", "wearable device", "etc."]}
+        }
+    },
+    "Resource Link": {
+        "Parameters": {
+            "Resource Type": {"Options": ["selection from a list of options"]},
+            "Resource URL": {"Type": "URL"},
+            "Description": {"Type": "text"}
+        }
+    },
+    "Motivational Message": {
+        "Parameters": {
+            "Message Type": {"Options": ["selection from a list of options"]},
+            "Message Content": {"Type": "text"},
+            "Frequency": {"Options": ["daily", "weekly", "monthly", "etc."]}
+        }
+    }
+}
+
+Let me know if you need any further assistance!

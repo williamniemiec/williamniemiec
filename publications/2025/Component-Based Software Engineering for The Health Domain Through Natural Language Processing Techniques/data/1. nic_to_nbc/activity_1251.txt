@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Athlete Profile": {
+    "Parameters": {
+      "Athlete Name": {"Type": "text"},
+      "Health Concerns": {"Type": "list (text or options)"},
+      "Medical History": {"Type": "text or list (text or options)"},
+      "Care Plan": {"Type": "text or list (text or options)"},
+      "Alerts": {"Type": "list (text or options)"}
+    }
+  }
+}

@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Value Alignment": {
+    "Patient Values": {"type": "list of text"},
+    "Family/Significant Others' Values": {"type": "list of text"},
+    "Alignment": {"type": "options (agree, disagree, partially agree)"},
+    "Conflict Resolution": {"type": "text"},
+    "Frequency": {"type": "options (daily, onlyOnce, everyHours, everyDays)"},
+    "Deadline Date": {"type": "datetime"}
+  }
+}

@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "Symptom Tracker": {
+    "Parameters": {
+      "Symptoms": [
+        {"value": "weakness", "label": "Feeling weak or lacking energy"},
+        {"value": "lethargy", "label": "Feeling drowsy or sluggish"},
+        {"value": "rapidBreathing", "label": "Breathing rapidly or deeply"},
+        {"value": "coma", "label": "Loss of consciousness or unresponsiveness"}
+      ],
+      "Severity": {
+        "Options": ["mild", "moderate", "severe"]
+      },
+      "Frequency": {
+        "Options": ["daily", "everyHours", "everyDays"]
+      },
+      "Deadline Date": {
+        "Type": "datetime"
+      }
+    }
+  }
+}

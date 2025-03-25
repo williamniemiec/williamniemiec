@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+    "Call Process Information and Consent": {
+        "Parameters": {
+            "Call Process Information": {
+                "Type": "text"
+            },
+            "Consent": {
+                "Type": "boolean"
+            }
+        }
+    }
+}

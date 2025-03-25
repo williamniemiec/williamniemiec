@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Surveillance Plan": {
+        "parameters": [
+            {"name": "Surveillance Level", "type": "options"},
+            {"name": "Frequency", "type": "options"},
+            {"name": "Method", "type": "options"},
+            {"name": "Responsibility", "type": "text"},
+            {"name": "Notes", "type": "text"}
+        ]
+    }
+}

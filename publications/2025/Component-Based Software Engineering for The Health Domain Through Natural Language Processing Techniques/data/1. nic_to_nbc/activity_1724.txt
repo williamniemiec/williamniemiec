@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Spiritual Support": {
+    "Parameters": {
+      "Service Type": {},
+      "Service Provider": {},
+      "Service Location": {},
+      "Service Schedule": {},
+      "Additional Requests": {}
+    }
+  }
+}

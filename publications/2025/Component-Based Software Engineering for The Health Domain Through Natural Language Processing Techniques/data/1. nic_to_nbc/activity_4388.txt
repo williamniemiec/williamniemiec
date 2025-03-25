@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Vital Sign Tracker": {
+    "Name": {"type": "text"},
+    "Type": {"type": "options"},
+    "Unit": {"type": "options"},
+    "Goal": {"type": "number or range"},
+    "Frequency": {"type": "options"},
+    "Deadline Date": {"type": "datetime"},
+    "Notes": {"type": "text"}
+  }
+}

@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Animal Therapy Assessment": {
+        "Introduction to Animal Therapy": {"Type": "text or video"},
+        "Patient Attitudes and Beliefs": {"Type": "survey or questionnaire"},
+        "Comfort Level with Animals": {"Type": "survey or questionnaire"},
+        "Previous Experience with Animals": {"Type": "text or survey"},
+        "Acceptance of Animal Therapy": {"Type": "boolean (yes/no)"},
+        "Reasons for Acceptance or Decline": {"Type": "text"}
+    }
+}

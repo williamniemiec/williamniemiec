@@ -1,0 +1,12 @@
+
+
+
+{
+  "PARAMETER ESPECIFICATIONS": [
+    "* Educational content on specific health topics",
+    "* Personalized coaching or guidance from healthcare professionals",
+    "* Interactive tools and resources to support patient engagement and self-management",
+    "* Secure messaging or communication channels with healthcare providers"
+  ],
+  "NO-CODE ELEMENT NAME": "**None**"
+}

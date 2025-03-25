@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+  "Procedure": {
+    "parameters": {
+      "name": "Clean drainage spout using antiseptic swab",
+      "description": "step-by-step guide on how to clean the drainage spout",
+      "content_type": ["step-by-step guide", "video"],
+      "steps": [
+        "Obtain an antiseptic swab",
+        "Locate the drainage spout",
+        "Clean the drainage spout with the antiseptic swab",
+        "Dispose of the used swab"
+      ],
+      "frequency": null,
+      "deadline_date": null
+    }
+  }
+}
+
+
+I removed all non-applicable parameters and kept only the `Procedure` element name and its corresponding parameter specifications.

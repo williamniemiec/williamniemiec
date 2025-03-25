@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Aseptic Technique Guidance": {
+    "Hand Hygiene": {"type": "boolean"},
+    "Sterile Equipment": {"type": "boolean"},
+    "Personal Protective Equipment (PPE)": {"type": "boolean"},
+    "Clean and Disinfect": {"type": "boolean"},
+    "Proper Waste Disposal": {"type": "boolean"}
+  }
+}

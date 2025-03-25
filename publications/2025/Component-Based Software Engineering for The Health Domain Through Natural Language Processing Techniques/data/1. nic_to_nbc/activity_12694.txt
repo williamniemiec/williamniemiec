@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+{
+    "Medication Educator": {
+        "Parameters": {
+            "Name": {"Type": "text"},
+            "Medication List": {"Type": "list of text"},
+            "Educational Content": {"Type": "list of multimedia content"},
+            "Learning Objectives": {"Type": "list of text"},
+            "Quizzes and Assessments": {"Type": "list of interactive exercises"},
+            "Resources": {"Type": "list of text or URLs"},
+            "Frequency": {"Type": "options"},
+            "Deadline Date": {"Type": "datetime"}
+        }
+    }
+}

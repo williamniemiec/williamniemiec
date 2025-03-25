@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Device Inspection": {
+    "parameters": {
+      "name": "",
+      "inspection_steps": []
+    }
+  },
+  "Device Maintenance": {
+    "parameters": {
+      "name": "",
+      "maintenance_steps": []
+    }
+  }
+}

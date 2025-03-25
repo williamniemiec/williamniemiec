@@ -1,0 +1,31 @@
+Here is the output in JSON format:
+
+
+{
+  "No-code element name": "Infant Feeding Positioning",
+  "Parameters": {
+    "Positioning Instructions": {
+      "Description": "Step-by-step instructions on how to position the infant in a semi-Fowler's position for feeding",
+      "Required": true,
+      "Type": "text"
+    },
+    "Image": {
+      "Description": "Image illustrating the semi-Fowler's position for feeding",
+      "Required": true,
+      "Type": "image"
+    },
+    "Frequency": {
+      "Description": "How often the infant should be fed in a semi-Fowler's position",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "daily", "label": "Daily" },
+        { "value": "everyHours", "label": "Every x hours" },
+        { "value": "everyDays", "label": "Every x days" }
+      ]
+    }
+  }
+}
+
+
+Note that I removed the not applicable parameters, which are `Deadline Date` and `Tips`, since they have a `Required` value of `false`. Let me know if you need any further assistance!

@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+  "no_code_element_name": "Illustrated Guide",
+  "parameter_especifications": {
+    "name": "Fetal Head Rotation Guide",
+    "illustrations": "A series of images or diagrams illustrating the steps for performing manual rotation of the fetal head",
+    "instructions": "A brief text description accompanying each illustration to provide additional guidance",
+    "frequency": {
+      "options": ["daily", "every 12 hours", "every 8 hours"]
+    },
+    "deadline_date": {
+      "type": "datetime"
+    }
+  }
+}
+
+
+I removed the non-applicable parameters and kept only the required information. Let me know if this meets your requirements!

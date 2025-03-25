@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+    "noCodeElementName": "Resource Directory",
+    "parameterSpecifications": {
+        "Resource List": {
+            "type": "unordered list with links or contact information"
+        },
+        "Filter": {
+            "type": "options or search bar"
+        },
+        "Description": {
+            "type": "text"
+        }
+    }
+}
+
+
+Let me know if this is what you were expecting!

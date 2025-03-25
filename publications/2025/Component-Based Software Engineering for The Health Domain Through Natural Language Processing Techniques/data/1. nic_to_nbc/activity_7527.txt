@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Safety Checklist": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Items": {"Type": "checklist items"},
+      "Frequency": {"Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"Type": "datetime"}
+    }
+  }
+}

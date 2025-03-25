@@ -1,0 +1,36 @@
+Here is the output in JSON format:
+
+
+{
+  "Caregiver Assessment Tool": {
+    "name": "",
+    "assessment_content": "",
+    "scoring_system": "",
+    "frequency": "",
+    "deadline_date": ""
+  },
+  "Intervention Trigger": {
+    "name": "",
+    "trigger_criteria": "",
+    "intervention_type": "",
+    "frequency": "",
+    "deadline_date": ""
+  },
+  "Respite Care Arrangement": {
+    "name": "",
+    "service_provider": "",
+    "service_type": "",
+    "frequency": "",
+    "deadline_date": ""
+  },
+  "Counseling Session": {
+    "name": "",
+    "counselor_info": "",
+    "session_type": "",
+    "frequency": "",
+    "deadline_date": ""
+  }
+}
+
+
+Note: I removed the not applicable parameters and only kept the `{{ NO-CODE ELEMENT NAME }}` and `{{ PARAMETER ESPECIFICATIONS }}`.

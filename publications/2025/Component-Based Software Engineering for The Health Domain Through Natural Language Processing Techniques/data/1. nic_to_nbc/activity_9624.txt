@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Parameters": {
+    "Fears and Concerns": {"Type": "text"},
+    "Questions": {"Type": "text"},
+    "Reassurance": {"Type": "text"},
+    "Resources": {"Type": "list of links or text"}
+  },
+  "No-Code Element Name": "Open Discussion"
+}

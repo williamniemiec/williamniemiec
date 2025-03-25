@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Infant's Profile": {
+    "Parameters": {
+      "Infant's Condition": {},
+      "Treatment Plan": {},
+      "Needs and Care": {}
+    }
+  }
+}

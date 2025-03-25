@@ -1,0 +1,37 @@
+Here is the output in JSON format:
+
+{
+    "name": "Value Prioritization",
+    "parameters": [
+        {
+            "name": "Value Options",
+            "type": "list of text"
+        },
+        {
+            "name": "Ranking Type",
+            "type": "options",
+            "options": [
+                { value: "numerical", label: "Numerical Ranking" },
+                { value: "drag-and-drop", label: "Drag-and-Drop Ranking" }
+            ]
+        },
+        {
+            "name": "Instructions",
+            "type": "text"
+        },
+        {
+            "name": "Frequency",
+            "type": "options",
+            "options": [
+                { value: "daily", label: "Daily" },
+                { value: "onlyOnce", label: "Only once" },
+                { value: "everyHours", label: "Every x hours" },
+                { value: "everyDays", label: "Every x days" }
+            ]
+        },
+        {
+            "name": "Deadline Date",
+            "type": "datetime"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+
+
+
+{
+  "Safety Planner": {
+    "Parameters": {
+      "Safety Needs": {"Type": "text or multiple-choice selection"},
+      "Routine Establishment": {"Type": "interactive schedule or calendar"},
+      "Support Network": {"Type": "interactive list or diagram"},
+      "Coping Strategies": {"Type": "interactive list or exercise"},
+      "Safety Plan": {"Type": "interactive form or template"},
+      "Reflection": {"Type": "text or audio reflection"}
+    }
+  }
+}

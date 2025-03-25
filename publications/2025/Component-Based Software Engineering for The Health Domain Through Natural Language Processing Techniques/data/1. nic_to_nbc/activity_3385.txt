@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Goal Setter": {
+    "Parameters": {
+      "Title": {
+        "Type": "text"
+      },
+      "Goal Categories": {
+        "Type": "list of goal category objects"
+      },
+      "Goal Options": {
+        "Type": "list of goal option"
+      }
+    }
+  }
+}

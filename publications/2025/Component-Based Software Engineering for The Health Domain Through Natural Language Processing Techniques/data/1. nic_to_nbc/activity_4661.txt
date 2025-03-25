@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Whirlpool Bath Therapy": {
+    "Therapy Instructions": {},
+    "Therapy Schedule": {},
+    "Pain and Discomfort": {},
+    "Wound Assessment": {},
+    "Progress Tracking": {}
+  }
+}

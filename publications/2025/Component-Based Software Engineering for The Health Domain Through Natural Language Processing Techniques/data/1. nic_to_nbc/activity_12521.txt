@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Family Liaison": {
+    "parameters": {
+      "Family Members": {
+        "type": "list of names and relationships"
+      },
+      "Communication Method": {
+        "type": "list of options"
+      }
+    }
+  }
+}

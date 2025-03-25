@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+    "Mood Tracker": {
+        "Rating Scale": {
+            "Type": "slider or numerical input"
+        },
+        "Journaling": {
+            "Type": "text input or writing prompt"
+        },
+        "Mood Tracking Frequency": {
+            "Type": "dropdown menu or scheduling tool"
+        },
+        "Mood Insights": {
+            "Type": "graph or chart"
+        },
+        "Personalized Reminders": {
+            "Type": "notification center or reminder system"
+        },
+        "Mood Management Tips": {
+            "Type": "educational content or resource library"
+        }
+    }
+}

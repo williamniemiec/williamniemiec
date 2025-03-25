@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Dressing for Toilet Training": {
+    "Loose Clothing": {"Type": "boolean"},
+    "Easy-to-Remove Clothing": {"Type": "boolean"},
+    "Avoid Overalls and Snap Pants": {"Type": "boolean"},
+    "Dress for Success": {"Type": "boolean"},
+    "Additional Tips": {"Type": "text"}
+  }
+}

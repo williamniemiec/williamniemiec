@@ -1,0 +1,26 @@
+
+
+
+{
+  "Guide": {
+    "parameters": ["name", "pages"]
+  },
+  "Food Diary": {
+    "parameters": ["name", "entries"]
+  },
+  "Warning": {
+    "parameters": ["name", "content", "type"]
+  },
+  "Question": {
+    "parameters": ["name", "answer type", "frequency", "deadline_date"]
+  },
+  "Phosphate-Rich Foods List": {
+    "parameters": []
+  },
+  "Food Substitutions": {
+    "parameters": []
+  },
+  "Dietary Recommendations": {
+    "parameters": []
+  }
+}

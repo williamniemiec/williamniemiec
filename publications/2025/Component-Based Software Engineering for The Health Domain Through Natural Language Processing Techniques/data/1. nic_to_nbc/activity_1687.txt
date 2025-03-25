@@ -1,0 +1,31 @@
+Here is the output in JSON format:
+
+
+{
+  "Respiratory Training": {
+    "Name": {"type": "text"},
+    "Type": {"type": "options", "options": [
+      {"value": "strength", "label": "Strength Training"},
+      {"value": "endurance", "label": "Endurance Training"},
+      {"value": "both", "label": "Both Strength and Endurance Training"}
+    ]},
+    "Frequency": {"type": "options", "options": [
+      {"value": "daily", "label": "Daily"},
+      {"value": "everyOtherDay", "label": "Every Other Day"},
+      {"value": "threeTimesAWeek", "label": "Three Times a Week"},
+      {"value": "custom", "label": "Custom"}
+    ]},
+    "Duration": {"type": "text"},
+    "Exercises": {"type": "list of exercises", 
+                  "exercise properties": {
+                    "Name": {"type": "text"},
+                    "Description": {"type": "text"},
+                    "Instructions": {"type": "text"},
+                    "Repetitions": {"type": "number"},
+                    "Sets": {"type": "number"}
+                  }},
+    "Deadline Date": {"type": "datetime"}
+  }
+}
+
+Note that I removed the "Content Type" parameter as it was not applicable. Also, I formatted the JSON output to make it more readable. Let me know if you need any further modifications!

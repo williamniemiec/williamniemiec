@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Result Tracker": {
+        "Parameters": {
+            "Result type": ["Blood glucose level", "Blood pressure", "Weight"],
+            "Target range": ["70-100 mg/dL", "90-120 mmHg"],
+            "Frequency": ["daily", "onlyOnce", "everyHours", "everyDays"],
+            "Repeat criteria": ["If result is outside target range", "If result shows a significant change"]
+        }
+    }
+}

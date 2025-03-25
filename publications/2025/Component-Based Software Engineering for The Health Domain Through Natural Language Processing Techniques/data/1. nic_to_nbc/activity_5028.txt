@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+    "Tube Insertion Protocol": {
+        "Protocol": {"Type": ["text", "video"]},
+        "Step-by-Step Instructions": {"Type": ["list of text", "list of video"]},
+        "Checklist": {"Type": ["list of text"]},
+        "Complications": {"Type": ["list of text"]}
+    }
+}

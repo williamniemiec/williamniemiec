@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Reminder": {
+    "parameters": [
+      {"name": "medication_name", "description": "Medication name", "required": true, "type": "text"},
+      {"name": "dosage", "description": "Dosage instructions", "required": true, "type": "text"},
+      {"name": "frequency", "description": "How often to take the medication", "required": true, "type": "options", "options": [{"value": "daily", "label": "Daily"}, {"value": "onlyOnce", "label": "Only once"}, {"value": "everyHours", "label": "Every x hours"}, {"value": "everyDays", "label": "Every x days"}]}
+    ]
+  }
+}

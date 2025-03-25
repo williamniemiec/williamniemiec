@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Risk Assessment": {
+    "parameters": [
+      {"name": "name", "description": "title or name of the risk assessment"},
+      {"name": "options", "description": "a list of options to be assessed"},
+      {"name": "risk factors", "description": "a list of risk factors to be considered"},
+      {"name": "risk levels", "description": "specifies the level of risk associated with each option"},
+      {"name": "risk mitigation strategies", "description": "specifies strategies to mitigate the risks associated with each option"},
+      {"name": "deadline_date", "description": "specifies the due date for the risk assessment"}
+    ]
+  }
+}

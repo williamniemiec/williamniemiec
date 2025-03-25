@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Instruction": {
+    "Parameters": {
+      "Title": {"Type": "text"},
+      "Introduction": {"Type": "text"},
+      "Steps": {"Type": "ordered list of text and/or images"},
+      "Videos": {"Type": "list of video URLs or embedded videos"},
+      "Images": {"Type": "list of image URLs or embedded images"},
+      "FAQs": {"Type": "list of question-answer pairs"},
+      "Tips": {"Type": "list of text"}
+    }
+  }
+}

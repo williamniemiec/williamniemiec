@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Mobility Status": {
+    "parameters": {
+      "Mobility Status": {"type": "options", "options": ["walks without assistance", "walks with assistance of an assistive device", "does not walk-uses a wheelchair"]},
+      "Assistive Device": {"type": "text"},
+      "Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"type": "datetime"},
+      "Notes": {"type": "text"}
+    }
+  }
+}

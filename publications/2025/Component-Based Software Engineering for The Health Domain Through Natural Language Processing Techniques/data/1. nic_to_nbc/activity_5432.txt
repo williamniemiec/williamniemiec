@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Support System Guide": {
+    "Name": {"type": "text"},
+    "Introduction": {"type": "rich text or HTML"},
+    "Support System Options": {"type": "options", "options": ["Family", "Friends", "Spiritual resources", "Support groups", "Counseling"]},
+    "Resources": {"type": "list of URLs or PDFs"},
+    "Action Plan": {"type": "list of action plan items"},
+    "Tracking": {"type": "boolean", "options": ["yes", "no"]}
+  }
+}

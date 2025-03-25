@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Soothing Actions Survey": {
+    "Question": {"type": "text", "example": "What actions do you commonly use to soothe and calm your child?"},
+    "Answer Type": {"type": "options", "options": ["multiple choice", "free text", "ranking"]},
+    "Response Options": {"type": "list of options", "example": ["rocking", "swaddling", "singing", "other (please specify)"]},
+    "Additional Comments": {"type": "text"}
+  }
+}

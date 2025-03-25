@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Elevated Burping": {
+    "parameters": [
+      {"Name": {"type": "text"}},
+      {"Burping Success": {"type": "boolean"}},
+      {"Number of Burps": {"type": "number"}},
+      {"Notes": {"type": "text"}}
+    ]
+  }
+}

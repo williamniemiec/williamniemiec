@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Occupational Therapy Referral": {
+    "Parameters": {
+      "Referral Reason": {"Type": "text"},
+      "Therapy Goals": {"Type": "text"},
+      "Therapist Information": {"Type": "text"},
+      "Appointment Schedule": {"Type": "date and time"},
+      "Frequency": {"Options": ["daily", "weekly", "biweekly", "monthly"]},
+      "Duration": {"Type": "time"},
+      "Feedback": {"Options": ["yes", "no"]}
+    }
+  }
+}

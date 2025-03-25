@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+    "Exercise Guidance": {
+        "Parameters": {
+            "Exercise Type": {"Type": "list of text options"},
+            "Exercise Routine": {"Type": "text field with formatting options"},
+            "Progressive Plan": {"Type": "table or chart with incremental values"},
+            "Demonstration Videos": {"Type": "multimedia files"},
+            "Tips and Reminders": {"Type": "list of text options with optional images or icons"},
+            "Tracking Progress": {"Type": "data tracking component with input fields and graphical display options"}
+        }
+    }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Respiratory Monitoring and Ventilation Management",
+  "description": "Monitors respiratory function, ventilator settings, breathing patterns, and lung sounds to assess pulmonary health.",
+  "type": "periodic",
+  "input": ["Respiratory rate", "Ventilator mode", "Breathing pattern", "Lung sound analysis", "Secretion levels"],
+  "output": ["Respiratory status report", "Ventilator adjustment recommendations", "Cough and secretion analysis"],
+  "preconditions": ["Patient is undergoing respiratory monitoring or ventilator support"],
+  "postconditions": ["Respiratory function is assessed and necessary adjustments are made"],
+  "dependencies": ["Ventilator system", "Pulmonary monitoring tools", "Respiratory health database"]
+}

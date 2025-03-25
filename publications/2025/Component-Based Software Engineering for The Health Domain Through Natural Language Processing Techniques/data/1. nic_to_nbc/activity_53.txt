@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "Skin Inspection": {
+    "Parameters": {
+      "Name": {},
+      "Instructions": {},
+      "Abnormality Questions": {},
+      "Photo": {},
+      "Frequency": {},
+      "Deadline Date": {}
+    }
+  },
+  "Symptom Checker": {
+    "Parameters": {
+      "Name": {},
+      "Symptom List": {},
+      "Severity Scale": {},
+      "Frequency": {},
+      "Deadline Date": {}
+    }
+  }
+}

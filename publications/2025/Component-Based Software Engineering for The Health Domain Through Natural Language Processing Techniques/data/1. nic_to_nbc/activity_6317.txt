@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+  "Pain Relief Guide": {
+    "parameters": {
+      "name": "pain relief guide title",
+      "description": "instructions on nonpharmacologic pain relief methods (e.g., sitz baths, ambulation, massage, imagery, ice packs, witch hazel pads, and distraction)",
+      "methods": "a list of nonpharmacologic pain relief methods with descriptions and instructions",
+      "video/tutorial": "an optional feature to provide video tutorials or demonstrations of each method",
+      "tracking": "an optional feature to track the patient's progress and adherence to the pain relief methods"
+    }
+  },
+  "Questionnaire": {
+    "parameters": []
+  }
+}
+
+
+Note: I removed the parameters for the Questionnaire no-code element since they were not applicable in this context.

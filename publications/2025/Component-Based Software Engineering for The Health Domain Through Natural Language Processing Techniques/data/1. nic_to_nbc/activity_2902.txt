@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Nutrition Tracker": {
+    "Food Diary": {},
+    "Nutrient Tracking": {},
+    "Frequency": {
+      "Options": ["daily", "everyMeal", "everyDay"]
+    },
+    "Deadline Date": {},
+    "Additional Notes": {}
+  }
+}

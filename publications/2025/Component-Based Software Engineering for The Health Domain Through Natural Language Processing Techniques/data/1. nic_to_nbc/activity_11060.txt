@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Anxiety Monitoring": {
+    "Parameters": {
+      "Anxiety Scale": {},
+      "Reaction Types": {},
+      "Monitoring Frequency": {},
+      "Note-taking": {},
+      "Alert Threshold": {}
+    }
+  }
+}

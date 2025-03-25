@@ -1,0 +1,39 @@
+Here is the output in JSON format:
+
+
+{
+  "Exercise Plan": {
+    "title of the exercise plan": {
+      "Type": "text",
+      "Required": true
+    },
+    "Exercises": {
+      "Type": "list of exercises",
+      "Required": true,
+      "Example": [
+        {
+          "exercise": "Knee Bends",
+          "frequency": "3 times a day",
+          "repetitions": "10-15"
+        },
+        {
+          "exercise": "Shoulder Rolls",
+          "frequency": "2 times a day",
+          "repetitions": "5-10"
+        }
+      ]
+    },
+    "Additional Instructions": {
+      "Type": "list of text",
+      "Required": false
+    },
+    "Reminders": {
+      "Type": "boolean",
+      "Required": false
+    },
+    "Tracking": {
+      "Type": "boolean",
+      "Required": false
+    }
+  }
+}

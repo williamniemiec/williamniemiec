@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+  "Strategy Explorer": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Strategies": {"Type": "ordered list", "list items": "text"},
+      "Scenarios": {"Type": "ordered list", "list items": "text or image"},
+      "Feedback": {"Type": "text"},
+      "Resources": {"Type": "unordered list", "list items": "text or URL"}
+    }
+  },
+  "Quiz": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Questions": {"Type": "ordered list", "list items": "text"},
+      "Answers": {"Type": "ordered list", "list items": "text or multiple choice options"},
+      "Results": {"Type": "text"},
+      "Resources": {"Type": "unordered list", "list items": "text or URL"}
+    }
+  }
+}

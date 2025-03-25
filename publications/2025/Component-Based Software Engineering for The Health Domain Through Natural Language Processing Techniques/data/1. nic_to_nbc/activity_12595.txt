@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Bed Positioning Switch Guide": {
+    "Guide Title": {},
+    "Switch Placement Instructions": {},
+    "Switch Illustrations": {},
+    "Switch Check Frequency": {},
+    "Switch Check Deadline": {}
+  }
+}

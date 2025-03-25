@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+  "Parameters": {
+    "title of the forgiveness reflection": {
+      "Type": "text"
+    },
+    "brief description of the forgiveness reflection": {
+      "Type": "text"
+    },
+    "list of prayers, scriptures, and other readings related to forgiveness": {
+      "Type": "list of text or audio"
+    },
+    "list of questions to guide the patient's reflection on forgiveness": {
+      "Type": "list of text"
+    },
+    "specify how often the patient should engage with the forgiveness reflection": {
+      "Type": "options (daily, onlyOnce, everyHours, everyDays)"
+    },
+    "specify the due date for the patient to engage with the forgiveness reflection": {
+      "Type": "datetime"
+    }
+  },
+  "No-code Element Name": "Forgiveness Reflection"
+}

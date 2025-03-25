@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Nutrition Requirements Assessment": {
+    "parameters": {
+      "Patient Information": {"type": "form with multiple fields"},
+      "Nutrition Goals": {"type": "text or selection from a list"},
+      "Caloric Needs": {"type": "calculated field (using a nutrition algorithm or API)"},
+      "Macronutrient Requirements": {"type": "calculated field (using a nutrition algorithm or API)"},
+      "Micronutrient Requirements": {"type": "calculated field (using a nutrition algorithm or API)"},
+      "Dietitian Review": {"type": "checkbox or boolean"}
+    }
+  }
+}
+
+
+Note: I removed the `*` symbols and reformatted the output to conform to JSON syntax.

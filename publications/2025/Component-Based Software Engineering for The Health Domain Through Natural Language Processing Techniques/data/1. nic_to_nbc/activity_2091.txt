@@ -1,0 +1,37 @@
+Here is the output in JSON format:
+
+
+{
+  "Symptom Checker": {
+    "Parameters": {
+      "Symptoms": {
+        "Type": "checklist (multiple selection)"
+      },
+      "Frequency": {
+        "Options": ["daily", "every 12 hours", "every 8 hours", "etc."]
+      },
+      "Deadline Date": {
+        "Type": "datetime"
+      },
+      "Additional Notes": {
+        "Type": "text"
+      }
+    }
+  },
+  "Photo Assessment": {
+    "Parameters": {
+      "Photo": {
+        "Type": "camera"
+      },
+      "Frequency": {
+        "Options": ["daily", "every 12 hours", "every 8 hours", "etc."]
+      },
+      "Deadline Date": {
+        "Type": "datetime"
+      },
+      "Additional Notes": {
+        "Type": "text"
+      }
+    }
+  }
+}

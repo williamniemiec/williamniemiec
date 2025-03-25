@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+{
+  "Vehicular Injury Risk Assessment": {
+    "Parameters": {
+      "Demographics": {},
+      "Driving Habits": {},
+      "Medical Conditions": {},
+      "Medications": {},
+      "Risk Level": {},
+      "Personalized Recommendations": {},
+      "Frequency": {}
+    }
+  }
+}
+
+Note that I removed the `Deadline Date` parameter as it is not applicable (datetime type). Let me know if you need further assistance!

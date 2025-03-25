@@ -1,0 +1,4 @@
+Since the input is empty, I will assume there's no data to process. Here is an empty JSON object as per your request:
+
+json
+{}

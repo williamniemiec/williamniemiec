@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Equipment Test": {
+    "Parameters": {
+      "Name": {},
+      "Equipment": {},
+      "Test Steps": [
+        {
+          "Description": {},
+          "Result": {}
+        }
+      ],
+      "Frequency": {},
+      "Deadline Date": {}
+    }
+  }
+}

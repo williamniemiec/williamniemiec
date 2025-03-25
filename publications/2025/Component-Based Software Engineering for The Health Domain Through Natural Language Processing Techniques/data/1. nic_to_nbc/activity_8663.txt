@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Bowel Movement Tracker": {
+    "parameters": {
+      "Bowel Movement Log": {},
+      "Symptom Tracking": {},
+      "Reminders": {
+        "options": ["daily", "everyHours", "everyDays"]
+      },
+      "Education": {}
+    }
+  }
+}

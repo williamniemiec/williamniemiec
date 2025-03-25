@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+  "Insertion Site Monitoring": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Monitoring Instructions": {"Type": ["text", "multimedia"]},
+      "Frequency": {"Type": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"Type": "datetime"},
+      "Findings": {"Type": ["text", "options"]}
+    }
+  },
+  "Insertion Site Inspection Checklist": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Checklist Items": {"Type": "list of text items"},
+      "Frequency": {"Type": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"Type": "datetime"},
+      "Confirmation": {"Type": "boolean"}
+    }
+  }
+}

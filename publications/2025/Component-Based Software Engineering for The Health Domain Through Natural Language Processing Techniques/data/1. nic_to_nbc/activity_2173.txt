@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Vital Signs Monitoring": {
+    "Temperature": {"Type": "number"},
+    "Blood Pressure": {"Type": "number"},
+    "Heart Rate": {"Type": "number"},
+    "Respiratory Rate": {"Type": "number"},
+    "Oxygen Saturation": {"Type": "number"},
+    "Pain Level": {"Type": "number"},
+    "Monitoring Frequency": {"Type": "options"},
+    "Abnormalities": {"Type": "boolean or options"}
+  }
+}

@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Research Purpose": {
+    "parameters": [
+      {"Research Description": {}},
+      {"Data Collection": {}},
+      {"Relevance": {}}
+    ]
+  }
+}

@@ -1,0 +1,10 @@
+Here is the output in JSON format:
+
+
+{
+  "Lab Result Reporting": {
+    "lab_result": {"type": "text or numerical value"},
+    "abnormality_description": {"type": "text"},
+    "physician_notification": {"type": "boolean"}
+  }
+}

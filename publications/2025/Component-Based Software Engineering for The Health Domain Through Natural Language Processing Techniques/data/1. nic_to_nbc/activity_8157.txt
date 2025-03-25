@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Cognitive Support": {
+    "Parameters": {
+      "Illness or fatigue detection": {},
+      "Simplified content": {},
+      "Prioritized tasks": {},
+      "Cognitive assistance tools": {},
+      "Energy conservation tips": {}
+    }
+  }
+}

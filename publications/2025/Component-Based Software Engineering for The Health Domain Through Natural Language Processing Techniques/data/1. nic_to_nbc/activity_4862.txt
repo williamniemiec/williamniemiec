@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Elevation Instruction": {
+    "Limb": {"Type": "options"},
+    "Elevation Angle": {"Type": "text"},
+    "Duration": {"Type": "text"},
+    "Frequency": {"Type": "options"}
+  }
+}

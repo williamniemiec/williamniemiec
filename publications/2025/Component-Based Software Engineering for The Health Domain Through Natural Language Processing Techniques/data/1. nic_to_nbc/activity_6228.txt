@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Exercise Guide": {
+    "Name": {"type": "text"},
+    "Exercise Type": {"type": "options"},
+    "Instructions": {"type": "text or video"},
+    "Frequency": {"type": "options"},
+    "Duration": {"type": "text or numeric"}
+  }
+}
+
+
+Note that I removed the `Reminders` parameter as it's a boolean or options type, which can be considered not applicable in this context.

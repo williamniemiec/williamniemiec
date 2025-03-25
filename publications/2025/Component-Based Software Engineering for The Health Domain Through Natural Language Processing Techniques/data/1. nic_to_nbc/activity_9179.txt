@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Companion": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Availability": {"Type": "options"},
+      "Duration": {"Type": "options"},
+      "Instructions": {"Type": "text"}
+    }
+  }
+}

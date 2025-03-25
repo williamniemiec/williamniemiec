@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "parameters": [
+    {"name": "Developmental Stage"},
+    {"name": "Dietary Needs"},
+    {"name": "Nutrient Requirements"},
+    {"name": "Food Sources"},
+    {"name": "Meal Planning"}
+  ]
+}

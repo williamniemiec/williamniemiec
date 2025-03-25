@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "eating_technique_instruction": {
+    "parameters": [
+      {"name": "bite_size"},
+      {"name": "eating_speed"},
+      {"name": "chewing_instruction"}
+    ]
+  }
+}

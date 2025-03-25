@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Parental Expectations Assessment": {
+    "parameters": {
+      "name": {},
+      "expectation_type": {},
+      "expectation_description": {},
+      "expectation_realism": {},
+      "frequency": {
+        "options": ["daily", "everyOtherDay", "everyWeek", "everyMonth"]
+      },
+      "deadline_date": {
+        "type": "datetime"
+      }
+    }
+  }
+}

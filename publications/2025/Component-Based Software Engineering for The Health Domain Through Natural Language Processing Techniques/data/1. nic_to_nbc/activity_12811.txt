@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "Stylet Removal": {
+    "Parameters": {
+      "Removal Indication": {
+        "Type": "yes/no question or multiple choice",
+        "Options": "list of possible indications for removal (e.g., completion of procedure, difficulty with insertion, etc.)"
+      },
+      "Removal Technique Guidance": {
+        "Type": "interactive animation or video",
+        "Content": "a step-by-step guide on how to properly remove the inner stylet"
+      },
+      "Stylet Removal Verification": {
+        "Type": "yes/no question or image upload",
+        "Content": "a prompt to confirm the inner stylet has been removed"
+      },
+      "Post-Removal Instructions": {
+        "Type": "text or interactive animation",
+        "Content": "instructions on how to properly dispose of the stylet, clean the area, etc."
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Routine Establishment": {
+        "Parameters": {
+            "Routine Type": {},
+            "Repetition Schedule": {},
+            "Reminders": {},
+            "Tracking Method": {}
+        }
+    }
+}

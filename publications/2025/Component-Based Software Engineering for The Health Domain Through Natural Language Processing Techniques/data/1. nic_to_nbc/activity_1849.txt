@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+    "Sensory Stimulation": {
+        "Type": {"Description": "Select the type of stimulation", "Required": true, "Type": "options", "Options": [{"value": "music", "label": "Recorded Instrumental Music"}, {"value": "mobile", "label": "Mobiles"}, {"value": "massage", "label": "Massage"}, {"value": "rocking", "label": "Rocking"}, {"value": "touch", "label": "Touch"}]},
+        "Duration": {"Description": "Specify the duration of the stimulation", "Required": true, "Type": "time"},
+        "Frequency": {"Description": "Specify how often the stimulation should be repeated", "Required": true, "Type": "options", "Options": [{"value": "daily", "label": "Daily"}, {"value": "onlyOnce", "label": "Only once"}, {"value": "everyDays", "label": "Every x days"}]},
+        "Intensity": {"Description": "Specify the intensity of the stimulation (e.g. gentle, moderate, strong)", "Required": false, "Type": "text"},
+        "Notes": {"Description": "Additional notes or instructions for the stimulation", "Required": false, "Type": "text"}
+    }
+}

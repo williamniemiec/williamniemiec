@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Nasal Insertion Guide": {
+        "Parameters": {
+            "Insertion Instruction": {},
+            "Image/Video": {},
+            "Comfort Check": {},
+            "Septum Avoidance": {},
+            "Frequency": {},
+        }
+    }
+}

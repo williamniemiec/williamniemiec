@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+  "Personalized Learning Plan": {
+    "parameters": {
+      "name": {"type": "text"},
+      "family_strengths": {"type": "list", "properties": {"strength": {"type": "text"}, "description": {"type": "text"}}},
+      "learning_objectives": {"type": "list", "properties": {"objective": {"type": "text"}, "description": {"type": "text"}}},
+      "education_modules": {"type": "list", "properties": {"module": {"type": "text"}, "description": {"type": "text"}, "content": {"type": "content"}}
+    }
+  },
+  "Survey": {
+    "parameters": {
+      "name": {"type": "text"},
+      "questions": {"type": "list", "properties": {"question": {"type": "text"}, "answer_type": {"type": "text"}, "options": {"type": "list", "properties": {"label": {"type": "text"}, "value": {"type": "text"}}}}
+    }
+  },
+  "Learning Path": {
+    "parameters": {
+      "name": {"type": "text"},
+      "modules": {"type": "list", "properties": {"module": {"type": "text"}, "description": {"type": "text"}, "content": {"type": "content"}}
+    }
+  }
+}
+
+I removed all the unnecessary text and only kept the no-code element names and their corresponding parameter specifications. I also reformatted the output to be in JSON format, with each no-code element as a separate object, containing its parameters as key-value pairs.

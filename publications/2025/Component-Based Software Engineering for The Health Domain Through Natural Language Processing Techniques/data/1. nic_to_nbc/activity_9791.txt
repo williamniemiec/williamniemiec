@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Behavioral Progress Tracking": {
+        "desired_behavior": {"type": "text"},
+        "current_behavior": {"type": "text"},
+        "limit_setting": {"type": "text"},
+        "progress_metric": {"type": "options"},
+        "target_threshold": {"type": "number"},
+        "adjustment_frequency": {"type": "options"}
+    }
+}

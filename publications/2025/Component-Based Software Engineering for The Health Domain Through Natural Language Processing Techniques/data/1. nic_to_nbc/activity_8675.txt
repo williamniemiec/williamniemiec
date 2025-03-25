@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+  "Transportation Request": {
+    "Parameters": {
+      "Transportation Options": {"Type": "options"},
+      "Hospital Information": {"Type": "text or dropdown list"},
+      "Pickup Location": {"Type": "text or map integration"},
+      "Additional Notes": {"Type": "text"}
+    }
+  },
+  "Transportation Scheduling": {
+    "Parameters": {
+      "Date and Time": {"Type": "datetime"},
+      "Transportation Provider": {"Type": "text or dropdown list"},
+      "Confirmation": {"Type": "boolean (true/false)"}
+    }
+  }
+}

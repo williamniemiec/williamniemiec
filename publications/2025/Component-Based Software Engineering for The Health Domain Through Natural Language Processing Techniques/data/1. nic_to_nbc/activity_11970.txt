@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Financial Assessment": {
+        "parameters": [
+            {"name": "insurance", "description": "Do you have insurance?", "required": true, "type": "options", "options": [{"value": "yes", "label": "Yes"}, {"value": "no", "label": "No"}]},
+            {"name": "insurance_type", "description": "What type of insurance do you have?", "required": false, "type": "options", "options": [{"value": "private", "label": "Private"}, {"value": "government", "label": "Government"}, {"value": "other", "label": "Other (please specify)"}]},
+            {"name": "financial_assistance", "description": "Do you have any financial assistance programs?", "required": false, "type": "options", "options": [{"value": "yes", "label": "Yes"}, {"value": "no", "label": "No"}]},
+            {"name": "financial_notes", "description": "Additional notes or comments about your financial resources", "required": false, "type": "text"}
+        ]
+    }
+}

@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+  "noCodeElementName": "Diet Order Review",
+  "parameters": {
+    "Diet Order": {
+      "type": "text or table"
+    },
+    "Nutritional Needs": {
+      "type": "text or table"
+    },
+    "Verification": {
+      "type": "checkbox or boolean"
+    },
+    "Frequency": {
+      "options": ["daily", "weekly", "monthly"]
+    },
+    "Deadline Date": {
+      "type": "datetime"
+    }
+  }
+}
+
+
+I removed all the unnecessary text and only kept the `noCodeElementName` and the `parameters`. I also removed the parameters that didn't have any specifications, such as `Diet type`, `Food restrictions`, etc. Let me know if you need anything else!

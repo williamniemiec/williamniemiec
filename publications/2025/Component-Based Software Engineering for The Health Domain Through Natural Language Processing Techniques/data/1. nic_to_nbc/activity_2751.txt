@@ -1,0 +1,14 @@
+
+
+
+{
+  "Plain Language": {
+    "Parameters": {
+      "Text Simplification": {},
+      "Jargon Filter": {},
+      "Readability Level": {},
+      "Language Tone": {},
+      "Definitions": {}
+    }
+  }
+}

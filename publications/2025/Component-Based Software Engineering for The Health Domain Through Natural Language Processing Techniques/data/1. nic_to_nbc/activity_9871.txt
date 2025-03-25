@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "Call Button": {
+    "name": "Call Nurse",
+    "button_type": "",
+    "call_destination": ""
+  },
+  "Notification System": {
+    "name": "Nurse Notification System",
+    "notification_type": "",
+    "notification_message": ""
+  },
+  "Education Module": {
+    "name": "Summoning a Nurse Education",
+    "content": "",
+    "type": ""
+  },
+  "Response Time Guarantee": {
+    "name": "Response Time Guarantee",
+    "response_time": "",
+    "guarantee_message": ""
+  }
+}

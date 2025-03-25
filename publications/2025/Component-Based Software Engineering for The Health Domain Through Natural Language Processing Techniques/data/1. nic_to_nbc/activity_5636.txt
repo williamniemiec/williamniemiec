@@ -1,0 +1,36 @@
+Here is the output in JSON format:
+
+
+{
+  "Food Options": {
+    "parameters": {
+      "Food List": {
+        "type": "list of objects",
+        "properties": [
+          {"name": "food name", "type": "text"},
+          {"name": "calorie count", "type": "number"},
+          {"name": "nutrient information", "type": "text or list of objects"}
+        ]
+      },
+      "Food Categories": {
+        "type": "list of text"
+      },
+      "Search Function": {
+        "type": "boolean"
+      },
+      "Filter Options": {
+        "type": "list of objects",
+        "properties": [
+          {"name": "filter name", "type": "text"},
+          {"name": "filter criteria", "type": "text or number"}
+        ]
+      },
+      "Meal Planning": {
+        "type": "boolean"
+      }
+    }
+  }
+}
+
+
+I removed the introduction, conclusion, and any non-parameter specifications from the input text. I also reformatted the output in JSON format, with each parameter specification listed under the "parameters" key. Let me know if this meets your requirements!

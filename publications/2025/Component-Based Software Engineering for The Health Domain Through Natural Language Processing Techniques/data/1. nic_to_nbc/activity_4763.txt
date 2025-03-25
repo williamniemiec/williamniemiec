@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+    "Environmental Hazard Notification": {
+        "Name": {"type": "text"},
+        "Hazard Type": {"type": "options"},
+        "Risk Level": {"type": "options"},
+        "Notification Message": {"type": "text"}
+    },
+    "Target Population Identification": {
+        "Name": {"type": "text"},
+        "Demographic Factors": {"type": "options"},
+        "Geographic Factors": {"type": "options"}
+    },
+    "Notification Channel": {
+        "Name": {"type": "text"},
+        "Channel Type": {"type": "options"}
+    }
+}

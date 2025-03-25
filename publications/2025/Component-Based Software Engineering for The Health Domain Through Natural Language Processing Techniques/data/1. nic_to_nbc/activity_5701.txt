@@ -1,0 +1,4 @@
+Since there is no `PARAMETER ESPECIFICATIONS` section in the input text, and there is no applicable `NO-CODE ELEMENT NAME`, the output would be an empty JSON object:
+
+
+{}

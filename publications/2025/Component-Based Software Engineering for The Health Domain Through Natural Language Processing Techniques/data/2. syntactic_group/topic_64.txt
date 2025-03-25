@@ -1,0 +1,10 @@
+{
+  "name": "Decision Evaluation and Analysis",
+  "description": "Evaluates decisions through a systematic analysis of pros, cons, and criteria. Utilizes data-driven approaches, weighting various factors to support decision-making processes.",
+  "type": "non-periodic",
+  "input": ["Decision criteria", "Pros and cons analysis", "Data for evaluation", "Weighting factors", "Support tools for decision-making"],
+  "output": ["Evaluation report", "Weighted decision analysis", "Decision-making support summary"],
+  "preconditions": ["User is making or evaluating a decision based on specific criteria and data"],
+  "postconditions": ["Decision outcomes are supported with structured analysis and data evaluation"],
+  "dependencies": ["Decision analysis tools", "Data evaluation platforms", "Decision support systems"]
+}

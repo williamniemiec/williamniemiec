@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Hemodynamic Monitoring": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Pulmonary Artery Pressure": {"Type": "number"},
+      "Systemic Pressure": {"Type": "number"},
+      "Cardiac Output": {"Type": "number"},
+      "Systemic Vascular Resistance": {"Type": "number"},
+      "Notes": {"Type": "text"},
+      "Deadline Date": {"Type": "datetime"}
+    }
+  }
+}

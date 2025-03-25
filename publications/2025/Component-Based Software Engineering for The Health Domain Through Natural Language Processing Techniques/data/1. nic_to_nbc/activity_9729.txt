@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Energy Flow Assessment": {
+    "Parameters": [
+      {"Title": {"Required": true, "Type": "text"}},
+      {"Content": {"Required": true, "Type": "text or audio"}},
+      {"Energy Flow Pattern": {"Required": true, "Type": "text"}},
+      {"Disturbances": {"Required": true, "Type": "text"}},
+      {"Subtle Cues": {"Required": true, "Type": "text"}},
+      {"Reflection Questions": {"Required": true, "Type": "text"}}
+    ]
+  }
+}
+
+
+I removed the not applicable parameters (i.e., those with `Required: false`) and kept only the essential information. Let me know if this meets your requirements!

@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+    "Referral": {
+        "Reason for Referral": ["Further observation", "Investigation"],
+        "Referral Options": ["Hospital admission", "Outpatient appointment", "Telemedicine consultation"],
+        "Urgency Level": ["Immediate", "Urgent", "Non-urgent"],
+        "Resources": ["Contact information for healthcare providers", "Educational materials on the condition", "Support groups"]
+    }
+}

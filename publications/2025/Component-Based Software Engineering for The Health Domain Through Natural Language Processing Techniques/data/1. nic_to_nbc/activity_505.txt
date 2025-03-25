@@ -1,0 +1,46 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Chronic Complications Description",
+  "parameters": [
+    {
+      "name": "Condition",
+      "type": "text"
+    },
+    {
+      "name": "Complications",
+      "type": "unordered list"
+    },
+    {
+      "name": "Descriptions",
+      "type": "text"
+    },
+    {
+      "name": "Risks",
+      "type": "unordered list"
+    },
+    {
+      "name": "Prevention",
+      "type": "text"
+    },
+    {
+      "name": "Resources",
+      "type": "text or link"
+    },
+    {
+      "name": "Frequency",
+      "type": "options",
+      "options": [
+        { value: "daily" },
+        { value: "weekly" },
+        { value: "monthly" },
+        { value: "quarterly" }
+      ]
+    },
+    {
+      "name": "Deadline Date",
+      "type": "datetime"
+    }
+  ]
+}

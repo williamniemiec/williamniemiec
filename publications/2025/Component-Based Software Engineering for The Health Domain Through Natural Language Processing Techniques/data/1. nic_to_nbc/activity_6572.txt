@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Environmental Consistency": {
+    "parameters": {
+      "environmental_elements": {"type": "options"},
+      "daily_routine": {"type": "text or schedule"},
+      "consistency_instructions": {"type": "text or HTML"},
+      "reminders": {"type": "options"}
+    }
+  }
+}

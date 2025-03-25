@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Immobility Complication Monitoring": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Instructions": {"Type": "text or multimedia"},
+      "Complication Questions": {"Type": "form", "Options": ["multiple-choice", "Likert scale", "open-ended questions"]},
+      "Frequency": {"Type": "options", "Options": ["daily", "everyOtherDay", "every3Days", "custom"]},
+      "Deadline Date": {"Type": "datetime"},
+      "Symptom Checker": {"Type": "form", "Options": ["multiple-choice", "Likert scale", "open-ended questions"]},
+      "Risk Factor Assessment": {"Type": "form", "Options": ["multiple-choice", "Likert scale", "open-ended questions"]}
+    }
+  }
+}

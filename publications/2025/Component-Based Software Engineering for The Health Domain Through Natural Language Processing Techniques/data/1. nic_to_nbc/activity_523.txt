@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Self-Directed Affirmations": {
+    "Parameters": {
+      "Statements": {"Type": "text"},
+      "Body Parts": {"Type": "options", "Options": [{"value": "arms", "label": "Arms"}, {"value": "legs", "label": "Legs"}, {"value": "back", "label": "Back"}]},
+      "Feelings": {"Type": "options", "Options": [{"value": "heaviness", "label": "Heaviness"}, {"value": "lightness", "label": "Lightness"}, {"value": "relaxation", "label": "Relaxation"}]},
+      "Frequency": {"Type": "options", "Options": [{"value": "daily", "label": "Daily"}, {"value": "onlyOnce", "label": "Only once"}, {"value": "everyHours", "label": "Every x hours"}, {"value": "everyDays", "label": "Every x days"}]},
+      "Deadline Date": {"Type": "datetime"}
+    }
+  }
+}

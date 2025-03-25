@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Level Tracking": {
+    "parameters": [
+      {"name": "name", "type": "text"},
+      {"name": "medication", "type": "medication object"},
+      {"name": "target_range", "type": "range object"},
+      {"name": "tracking_frequency", "type": "frequency object"},
+      {"name": "results", "type": "list of result objects"}
+    ]
+  }
+}

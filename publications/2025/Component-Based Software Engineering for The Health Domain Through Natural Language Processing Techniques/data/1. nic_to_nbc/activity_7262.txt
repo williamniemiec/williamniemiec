@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Perceptual Deficit Feedback": {
+    "parameters": {
+      "Deficit Type": {"type": "options"},
+      "Feedback Content": {"type": "text"},
+      "Feedback Method": {"type": "options"},
+      "Frequency": {"type": "options"},
+      // removed "Deadline Date" as it's not applicable (datetime is not a valid parameter type)
+    }
+  }
+}

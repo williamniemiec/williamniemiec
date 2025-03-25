@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "Vital Sign Monitoring": {
+    "Parameters": {
+      "Vital Signs": {
+        "type": "multi-select options"
+      },
+      "Frequency": {
+        "type": "options"
+      },
+      "Units": {
+        "type": "text"
+      },
+      "Target Range": {
+        "type": "text"
+      }
+    }
+  }
+}
+
+
+Note: I removed the `Deadline Date` parameter as it was marked as "datetime" which is not applicable in this context.

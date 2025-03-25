@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Incontinent Pad Placement": {
+    "parameters": [
+      {"Name": "Pad Placement Instructions", "Description": "Step-by-step instructions for placing the incontinent pad", "Required": true, "Type": "text"},
+      {"Name": "Frequency", "Description": "Specify how often the patient should be reminded to place the incontinent pad", "Required": true, "Type": "options", "Options": [
+        { "value": "daily", "label": "Daily" },
+        { "value": "onlyOnce", "label": "Only once" },
+        { "value": "everyHours", "label": "Every x hours" },
+        { "value": "everyDays", "label": "Every x days" }
+      ]},
+      {"Name": "Pad Type", "Description": "Specify the type of incontinent pad to use", "Required": true, "Type": "options", "Options": [
+        { "value": "adultDiaper", "label": "Adult Diaper" },
+        { "value": "incontinentPad", "label": "Incontinent Pad" },
+        { "value": "other", "label": "Other (please specify)" }
+      ]}
+    ]
+  }
+}

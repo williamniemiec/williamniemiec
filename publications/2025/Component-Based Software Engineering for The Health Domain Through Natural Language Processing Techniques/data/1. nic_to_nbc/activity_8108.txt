@@ -1,0 +1,33 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Mental Imagery Exercise",
+  "parameters": [
+    {
+      "name": "Scene",
+      "type": "text or image"
+    },
+    {
+      "name": "Guided Questions",
+      "type": "list of text questions"
+    },
+    {
+      "name": "Description",
+      "type": "text"
+    },
+    {
+      "name": "Frequency",
+      "type": "options",
+      "options": [
+        { "value": "daily" },
+        { "value": "onlyOnce" },
+        { "value": "everyHours" },
+        { "value": "everyDays" }
+      ]
+    }
+  ]
+}
+
+
+Note that I removed the `Deadline Date` parameter since it's not applicable, and also removed the `required` and `description` fields as they were not specified in the output format.

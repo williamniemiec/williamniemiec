@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Hair and Scalp Assessment": {
+    "parameters": [
+      {"name": "Hair Condition"},
+      {"name": "Scalp Condition"},
+      {"name": "Photos", "type": "camera"},
+      {"name": "Frequency"},
+      {"name": "Deadline Date", "type": "datetime"}
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "IV Access Maintenance": {
+    "Flushing Schedule": ["every 4 hours", "every 8 hours", "other"],
+    "Flushing Solution": ["saline solution", "heparin solution", "other"],
+    "Line Inspection": ["every 4 hours", "every 8 hours", "other"],
+    "Additional Instructions": "text"
+  }
+}
+
+Let me know if this meets your requirements!

@@ -1,0 +1,68 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "planning",
+    "parameters": [
+        { 
+            "name": "goal", 
+            "description": "goal of the planning activity", 
+            "required": true, 
+            "type": "text"
+        },
+        { 
+            "name": "rest_periods", 
+            "description": "frequency and duration of rest periods to be planned", 
+            "required": true, 
+            "type": "list of rest periods",
+            "rest periods": [
+                { 
+                    "frequency": "every 2 hours", 
+                    "duration": "30 minutes", 
+                    "type": "text"
+                },
+                { 
+                    "frequency": "after each meal", 
+                    "duration": "1 hour", 
+                    "type": "text"
+                }
+            ]
+        },
+        { 
+            "name": "activity_spacing", 
+            "description": "spacing of activities to be planned", 
+            "required": true, 
+            "type": "list of activity spacings",
+            "activity spacings": [
+                { 
+                    "activity": "bathing", 
+                    "spacing": "every other day", 
+                    "type": "text"
+                },
+                { 
+                    "activity": "cooking", 
+                    "spacing": "twice a week", 
+                    "type": "text"
+                }
+            ]
+        },
+        { 
+            "name": "daily_demands", 
+            "description": "daily demands to be limited", 
+            "required": true, 
+            "type": "list of daily demands",
+            "daily demands": [
+                { 
+                    "demand": "household chores", 
+                    "limitation": "1 hour per day", 
+                    "type": "text"
+                },
+                { 
+                    "demand": "social activities", 
+                    "limitation": "2 times per week", 
+                    "type": "text"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Environmental Assessment": {
+    "Name": {"type": "text"},
+    "Assessment Questions": {"type": "form"},
+    "Frequency": {"options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"type": "datetime"},
+    "Photo/Video Evidence": {"type": "camera or video"}
+  },
+  "Survey": {
+    "Name": {"type": "text"},
+    "Survey Questions": {"type": "form"},
+    "Frequency": {"options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"type": "datetime"}
+  }
+}

@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Follow-up Call": {
+    "Call Reason": {},
+    "Call Date and Time": {},
+    "Call Frequency": {},
+    "Call Questions": {},
+    "Call Notes": {}
+  }
+}

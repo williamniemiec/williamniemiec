@@ -1,0 +1,14 @@
+
+
+
+{
+  "Activity Restriction Guide": {
+    "parameters": [
+      {"name": "Activity Type"},
+      {"name": "Restriction Level"},
+      {"name": "Duration"},
+      {"name": "Frequency"},
+      {"name": "Deadline Date"}
+    ]
+  }
+}

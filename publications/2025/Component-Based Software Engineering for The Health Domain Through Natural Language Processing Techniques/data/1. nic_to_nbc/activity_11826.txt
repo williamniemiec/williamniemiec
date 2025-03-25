@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "IO Line Insertion Guidance": {
+    "parameters": [
+      {"Step-by-Step Instructions": {"type": "video or interactive animation", "content": "a step-by-step guide on how to properly insert an IO line"}},
+      {"Pre-Insertion Checklist": {"type": "checklist", "options": "list of pre-insertion steps (e.g., cleaning the site, preparing the equipment, etc.)"}},
+      {"Insertion Site Selection": {"type": "interactive image or 3D model", "content": "an interactive image or 3D model of the relevant anatomy, highlighting possible insertion sites"}},
+      {"Post-Insertion Care": {"type": "text or interactive animation", "content": "instructions on how to properly care for the IO line and surrounding area"}}
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+  "Diagnostic Test Result Explanation": {
+    "Parameters": {
+      "Test Results": {},
+      "Explanation Method": {},
+      "Explanation Content": {},
+      "Patient Education Materials": {},
+      "Family Involvement": {}
+    }
+  },
+  "Test Result Communicator": {
+    "Parameters": {
+      "Test Results": {},
+      "Explanation Method": {},
+      "Explanation Content": {},
+      "Patient Education Materials": {},
+      "Family Involvement": {}
+    }
+  }
+}

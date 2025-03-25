@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Content Area": {
+    "Parameters": {
+      "Title": {"Type": "text"},
+      "Description": {"Type": "text"},
+      "Subtopics": {"Type": "list of text values"},
+      "Priority": {"Type": "options", "Values": ["high", "medium", "low"]},
+      "Relationships": {"Type": "list of relationships", "Values": ["prerequisite", "related to", "builds upon"]}
+    }
+  }
+}

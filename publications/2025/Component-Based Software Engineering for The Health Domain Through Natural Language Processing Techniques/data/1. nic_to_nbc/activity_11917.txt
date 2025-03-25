@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Cooling Technique": {
+    "Instructions": {"type": "text"},
+    "Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"type": "datetime"},
+    "Tips": {"type": "text"}
+  }
+}

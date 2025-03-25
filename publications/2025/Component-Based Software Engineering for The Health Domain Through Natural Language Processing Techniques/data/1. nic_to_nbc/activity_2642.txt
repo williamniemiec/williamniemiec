@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Therapeutic Touch Assessment": {
+    "Parameters": {
+      "Title": {},
+      "Content": {},
+      "Duration": {},
+      "Hand Movement": {}
+    }
+  }
+}

@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+    "Nutrition Guide": {
+        "name": {"type": "text"},
+        "dietary_recommendations": {"type": "list of text or images"},
+        "meal_planning": {"type": "list of text or images"},
+        "frequency": {"type": "options"},
+        "reminders": {"type": "boolean"}
+    },
+    "Fluid Intake Tracker": {
+        "name": {"type": "text"},
+        "goal": {"type": "numerical value"},
+        "entries": {"type": "list of text or images"}
+    },
+    "Food Diary": {
+        "name": {"type": "text"},
+        "entries": {"type": "list of text or images"}
+    }
+}

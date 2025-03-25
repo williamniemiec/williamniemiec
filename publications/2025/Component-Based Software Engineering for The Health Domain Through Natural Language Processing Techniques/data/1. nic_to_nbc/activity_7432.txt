@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Skin-to-Skin Contact": {
+        "Name": {"type": "text"},
+        "Methods": {"type": "list", "examples": ["Kangaroo care", "Massaging", "Co-bathing", "Other"]},
+        "Instructions": {"type": "text"},
+        "Videos": {"type": "video"},
+        "Benefits": {"type": "text"},
+        "Tips and Reminders": {"type": "text"}
+    }
+}

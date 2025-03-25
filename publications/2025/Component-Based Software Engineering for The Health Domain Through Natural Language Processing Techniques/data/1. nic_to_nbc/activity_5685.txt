@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Hygiene Assistance Guide": {
+    "parameters": [
+      {"name": "hygiene_measure", "description": "Specify the hygiene measure to be assisted with (e.g., deodorant, perfume, etc.)", "required": true, "type": "text"},
+      {"name": "assistance_instructions", "description": "Step-by-step instructions for assisting with the hygiene measure", "required": true, "type": ["text", "video"]},
+      {"name": "frequency", "description": "Specify how often to assist with the hygiene measure", "required": true, "type": "options", "options": [
+        { value: "daily", label: "Daily" },
+        { value: "everyOtherDay", label: "Every other day" },
+        { value: "weekly", label: "Weekly" },
+        { value: "custom", label: "Custom" }
+      ]}
+    ]
+  }
+}

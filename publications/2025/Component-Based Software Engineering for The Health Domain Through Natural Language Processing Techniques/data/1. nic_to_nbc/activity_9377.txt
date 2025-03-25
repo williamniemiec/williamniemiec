@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+    "Values Explorer": {
+        "Importance Scale": {"type": "rating scale"},
+        "Prioritization": {"type": "ranking or selection from a list"},
+        "Reflection Questions": {"type": "list of text"},
+        "Personalized Insights": {"type": "text or audio/video message"}
+    },
+    "Life Map": {
+        "Life Categories": {"type": "selection from a list or text"},
+        "Importance Indicators": {"type": "interactive diagram or mind map"},
+        "Reflection Questions": {"type": "list of text"},
+        "Personalized Insights": {"type": "text or audio/video message"}
+    }
+}

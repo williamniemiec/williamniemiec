@@ -1,0 +1,9 @@
+Here is the output in JSON format:
+
+
+{
+  "Support Hotline": {
+    "Phone Number": {"Description": "The phone number to call for assistance.", "Type": "phone number"},
+    "Description": {"Description": "A brief description of the support hotline and when to call.", "Type": "text"}
+  }
+}

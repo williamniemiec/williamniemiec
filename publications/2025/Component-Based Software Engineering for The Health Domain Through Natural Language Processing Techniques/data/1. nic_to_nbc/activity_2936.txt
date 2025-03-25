@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Vaccine Series Manager": {
+    "parameters": [
+      {"name": "vaccine_series", "description": "select the vaccine series (e.g. MMR, DTaP, etc.)", "required": true, "type": "options", "options": [{"value": "MMR", "label": "Measles, Mumps, and Rubella (MMR)"}, {"value": "DTaP", "label": "Diphtheria, Tetanus, and Pertussis (DTaP)"}]},
+      {"name": "administration_schedule", "description": "view the administration schedule for the selected vaccine series", "required": true, "type": "table"},
+      {"name": "delay_in_administration", "description": "indicate if there was a delay in administration", "required": true, "type": "options", "options": [{"value": "yes", "label": "Yes"}, {"value": "no", "label": "No"}]},
+      {"name": "restart_schedule", "description": "display whether the schedule needs to be restarted (true or false)", "required": true, "type": "boolean"}
+    ]
+  }
+}
+
+
+I removed all unnecessary parts of the text and kept only the `{{ NO-CODE ELEMENT NAME }}` and `{{ PARAMETER ESPECIFICATIONS }}`. I also formatted the output as a JSON object. Let me know if this is what you were looking for!

@@ -1,0 +1,28 @@
+Here is the output in JSON format, removing anything except `{{ PARAMETER ESPECIFICATIONS }}` and `{{ NO-CODE ELEMENT NAME }}`, and removing not applicable parameters:
+
+
+{
+    "name": "Private Conversation Setting",
+    "parameters": [
+        {
+            "name": "Virtual Room",
+            "type": "virtual room"
+        },
+        {
+            "name": "Audio/Video Settings",
+            "type": "options"
+        },
+        {
+            "name": "Conversation Guidelines",
+            "type": "text"
+        },
+        {
+            "name": "Duration",
+            "type": "time interval"
+        },
+        {
+            "name": "Frequency",
+            "type": "options"
+        }
+    ]
+}

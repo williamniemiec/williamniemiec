@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Form Template": {
+    "Parameters": {
+      "Template Type": "",
+      "Fields": [
+        "Text fields",
+        "Checkbox fields",
+        "Date fields"
+      ],
+      "Format": "",
+      "Required Fields": "",
+      "Validation Rules": ""
+    }
+  }
+}

@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+    "Reflex Demo": {
+        "Parameters": {
+            "Reflex Type": {
+                "Type": "options"
+            },
+            "Demonstration": {
+                "Type": ["interactive simulation", "video", "animation"]
+            },
+            "Explanation": {
+                "Type": ["text", "multimedia"]
+            },
+            "Tips and Resources": {
+                "Type": "list of resources"
+            }
+        }
+    }
+}

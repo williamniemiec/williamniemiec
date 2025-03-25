@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Environmental Preparation": {
+    "parameters": [
+      {"Quiet Environment": {"type": "text or selection from a list of options"}},
+      {"Comfortable Seating": {"type": "text or selection from a list of options"}},
+      {"Minimize Distractions": {"type": "text or selection from a list of options"}},
+      {"Relaxing Ambiance": {"type": "text or selection from a list of options"}},
+      {"Additional Preparations": {"type": "text"}}
+    ]
+  }
+}

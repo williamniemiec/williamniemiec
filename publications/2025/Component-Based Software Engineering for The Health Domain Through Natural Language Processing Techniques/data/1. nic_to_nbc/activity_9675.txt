@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Result Information",
+    "parameters": [
+        {
+            "name": "Result Type",
+            "type": "text"
+        },
+        {
+            "name": "Availability",
+            "type": "text"
+        },
+        {
+            "name": "Location",
+            "type": "text"
+        },
+        {
+            "name": "Explainator",
+            "type": "text"
+        },
+        {
+            "name": "Contact Information",
+            "type": "text"
+        }
+    ]
+}

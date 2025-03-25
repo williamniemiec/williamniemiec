@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+
+{
+  "Renal Manifestation Monitoring": {
+    "Manifestations to Monitor": ["acidic urine", "reduced urine osmolality", "nocturia", "polyuria", "polydipsia", "other"],
+    "Monitoring Frequency": ["daily", "every 2 days", "weekly", "other"],
+    "Assessment Tools": ["urine pH test", "urine osmolality test", "voiding diary", "other"],
+    "Additional Instructions": "text"
+  }
+}

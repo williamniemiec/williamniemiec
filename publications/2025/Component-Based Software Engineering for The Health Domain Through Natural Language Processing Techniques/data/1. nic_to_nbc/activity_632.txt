@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Tourniquet Cuff Selection": {
+    "parameters": {
+      "Extremity": {"type": "options", "values": ["arm", "leg"]},
+      "Width": {"type": "options", "values": ["small", "medium", "large"]},
+      "Length": {"type": "options", "values": ["small", "medium", "large"]},
+      "Guidance": {"type": "text or multimedia"}
+    }
+  }
+}
+
+
+Let me know if this meets your requirements!

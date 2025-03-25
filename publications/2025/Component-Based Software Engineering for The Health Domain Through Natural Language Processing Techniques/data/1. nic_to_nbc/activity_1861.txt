@@ -1,0 +1,10 @@
+Here is the output in JSON format:
+
+
+{
+  "Ulcer Care Demonstration": {
+    "Care Procedure": {"Description": "Step-by-step instructions for caring for the ulcer", "Type": "text"},
+    "Demonstration": {"Description": "Video demonstration of the ulcer care procedure", "Type": "video"},
+    "Target Audience": {"Description": "Who is the demonstration intended for (patient, family member, caregiver)?", "Type": "options", "Options": [{"value": "patient", "label": "Patient"}, {"value": "familyMember", "label": "Family Member"}, {"value": "caregiver", "label": "Caregiver"}]}
+  }
+}

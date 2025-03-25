@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Feeding Readiness Assessment": {
+    "Parameters": {
+      "Alertness": {"Type": "options"},
+      "Eye and Mouth Position": {"Type": "options"},
+      "Facial and Mouth Movements": {"Type": "options"},
+      "Feeding Readiness": {"Type": "boolean"}
+    }
+  }
+}

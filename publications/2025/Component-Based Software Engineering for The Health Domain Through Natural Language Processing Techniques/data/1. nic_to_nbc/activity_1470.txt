@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+    "Fluid Tracker": {
+        "Intake": {},
+        "Output": {},
+        "Frequency": {},
+        "Deadline Date": {}
+    }
+}

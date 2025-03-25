@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+    "Alternate Medication Route": {
+        "Name": {"type": "text"},
+        "Medication": {"type": "text"},
+        "Alternate Route": {"type": "options", "options": [
+            {"value": "topical", "label": "Topical"},
+            {"value": "rectal", "label": "Rectal"},
+            {"value": "sublingual", "label": "Sublingual"}
+        ]},
+        "Dosage": {"type": "text"},
+        "Frequency": {"type": "options", "options": [
+            {"value": "daily", "label": "Daily"},
+            {"value": "everyHours", "label": "Every x hours"},
+            {"value": "everyDays", "label": "Every x days"}
+        ]},
+        "Swallowing Problem Criteria": {"type": "text"}
+    }
+}
+
+Let me know if this meets your requirements!

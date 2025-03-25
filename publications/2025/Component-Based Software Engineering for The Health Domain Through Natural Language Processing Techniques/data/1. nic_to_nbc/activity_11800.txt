@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Play Session Scheduling": {
+    "parameters": {
+      "Play Session Frequency": {},
+      "Play Session Duration": {},
+      "Equipment or Treatment Exposure": {},
+      "Trust Building Activities": {},
+      "Fear Reduction Strategies": {}
+    }
+  }
+}

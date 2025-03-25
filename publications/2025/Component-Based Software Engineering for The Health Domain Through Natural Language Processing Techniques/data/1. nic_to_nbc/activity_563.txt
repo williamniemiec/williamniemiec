@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Sleep Management Plan": {
+    "parameters": [
+      {"name": "Sleep Disturbance/Disorder", "type": "options"},
+      {"name": "Child's Age", "type": "number"},
+      {"name": "Severity", "type": "options"},
+      {"name": "Current Treatments", "type": "text"},
+      {"name": "Lifestyle Changes", "type": "checklist"}
+    ]
+  }
+}
+
+
+Let me know if this is what you were expecting!

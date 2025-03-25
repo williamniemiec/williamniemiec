@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Pacemaker Education": {
+    "Parameters": {
+      "Indications": {"Type": "list of HTML texts"},
+      "Functions": {"Type": "list of HTML texts"},
+      "Universal Programming Codes": {"Type": "list of HTML texts"},
+      "Potential Complications": {"Type": "list of HTML texts"},
+      "FAQs": {"Type": "list of HTML texts"},
+      "Resources": {"Type": "list of HTML texts"}
+    }
+  }
+}

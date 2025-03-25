@@ -1,0 +1,28 @@
+Here is the output in JSON format, keeping only the `PARAMETER ESPECIFICATIONS` and `NO-CODE ELEMENT NAME`:
+
+
+{
+    "name": "Success Identification",
+    "parameters": [
+        {
+            "name": "Goal List",
+            "type": "list"
+        },
+        {
+            "name": "Success Criteria",
+            "type": "list"
+        },
+        {
+            "name": "Reflection Questions",
+            "type": "list"
+        },
+        {
+            "name": "Success Journal",
+            "type": "text"
+        },
+        {
+            "name": "Frequency",
+            "type": "options"
+        }
+    ]
+}

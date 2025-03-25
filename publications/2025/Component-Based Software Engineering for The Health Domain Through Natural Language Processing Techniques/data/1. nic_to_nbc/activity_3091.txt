@@ -1,0 +1,8 @@
+
+
+
+{
+    "Educational Content": {
+        "parameters": ["title", "content (text, images, videos)", "age range", "educational level"]
+    }
+}

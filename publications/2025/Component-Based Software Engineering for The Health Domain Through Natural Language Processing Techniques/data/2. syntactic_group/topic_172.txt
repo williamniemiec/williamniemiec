@@ -1,0 +1,10 @@
+{
+  "name": "Report and Seminar Documentation",
+  "description": "Involves creating reports and keeping track of seminar activities, including generating keepsakes, objects, or diagrams for attendees. Includes amendments and rotation of generated content during or after the seminar.",
+  "type": "non-periodic",
+  "input": ["Report", "Seminar", "Keepsake", "Objects", "Rotation", "Generator", "Diagram", "Amended"],
+  "output": ["Seminar report", "Attendee keepsake", "Amended diagram"],
+  "preconditions": ["Seminar or report needs to be documented and shared"],
+  "postconditions": ["Report and keepsakes are successfully created and shared with attendees"],
+  "dependencies": ["Seminar management tools", "Report generation system"]
+}

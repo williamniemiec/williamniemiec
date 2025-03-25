@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Vital Signs Tracker": {
+    "Blood Pressure": {"Type": "number", "Required": true},
+    "Heart Rate": {"Type": "number", "Required": true},
+    "Respiratory Rate": {"Type": "number", "Required": true},
+    "Temperature": {"Type": "number", "Required": true},
+    "Oxygen Saturation": {"Type": "number", "Required": true},
+    "EKG Readings": {"Type": "file (ECG waveform)", "Required": true},
+    "Frequency": {"Type": "options", "Required": true, "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+  },
+  "Level of Consciousness Tracker": {
+    "Level of Consciousness": {"Type": "options", "Required": true, "Options": ["alert", "lethargic", "stuporous", "comatose"]},
+    "Frequency": {"Type": "options", "Required": true, "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]}
+  }
+}

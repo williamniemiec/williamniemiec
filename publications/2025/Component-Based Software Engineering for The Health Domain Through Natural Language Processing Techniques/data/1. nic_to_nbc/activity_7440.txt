@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Reminder": {
+    "Name": {"Type": "text"},
+    "Description": {"Type": "text"},
+    "Trigger": {"Type": "options", "Options": ["during meal times", "before eating", "custom"]},
+    "Instructions": {"Type": "text"}
+  }
+}
+
+
+Note that I removed the "Guide" and "Task" elements as they were not part of the original request. Also, I only kept the parameters that were applicable to the "Reminder" element. Let me know if you need anything else!

@@ -1,0 +1,32 @@
+Here is the output in JSON format:
+
+
+{
+  "Diagnostic Test and Assessment Assistance": {
+    "Parameters": {
+      "Diagnostic Tests": {
+        "Type": "list",
+        "Values": ["Electrocardiogram (ECG)", "Chest X-ray", "Computed Tomography (CT) scan", "Magnetic Resonance Imaging (MRI)", "Blood tests (e.g., troponin, D-dimer)"]
+      },
+      "Assessments": {
+        "Type": "list",
+        "Values": ["Physical examination", "Medical history", "Vital sign monitoring"]
+      },
+      "Conditions to Rule Out": {
+        "Type": "list",
+        "Values": ["Acute myocardial infarction", "Pericarditis", "Aortic dissection", "Pneumonia", "Pneumothorax", "Anxiety with hyperventilation", "Asthma", "Heart failure", "Pericardial tamponade", "Gastrointestinal abnormalities (e.g., peptic ulcer, esophageal rupture, gastritis)"]
+      },
+      "Test and Assessment Results": {
+        "Type": "text or multimedia",
+        "Values": ["Electronic health record (EHR)", "Database", "Cloud storage"]
+      },
+      "Differential Diagnosis": {
+        "Type": "text or multimedia",
+        "Values": ["Generating a list of possible diagnoses", "Ranking diagnoses by probability", "Providing guidance for further testing or treatment"]
+      }
+    }
+  }
+}
+
+
+Let me know if this is what you were expecting!

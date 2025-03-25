@@ -1,0 +1,17 @@
+Here is the output in JSON format, removing everything except `{{ PARAMETER ESPECIFICATIONS }}` and `{{ NO-CODE ELEMENT NAME }}`, and removing not applicable parameters:
+
+
+{
+    "name": "Family Education",
+    "parameters": [
+        {
+            "name": "title"
+        },
+        {
+            "name": "education"
+        },
+        {
+            "name": "family_members"
+        }
+    ]
+}

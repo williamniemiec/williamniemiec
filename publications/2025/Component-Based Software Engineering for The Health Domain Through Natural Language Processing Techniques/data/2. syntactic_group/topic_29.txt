@@ -1,0 +1,10 @@
+{
+  "name": "Medication Administration and Verification",
+  "description": "Manages medication administration, including dosage verification, route of administration, and prophylactic use, with emphasis on proper labeling and stocking.",
+  "type": "periodic",
+  "input": ["Medication label", "Dosage details", "Administration route", "Stocking information"],
+  "output": ["Medication verification report", "Administered dosage confirmation", "Prophylactic treatment status"],
+  "preconditions": ["Medication is stocked and prepared for administration"],
+  "postconditions": ["Medication is verified and properly administered to the patient"],
+  "dependencies": ["Medication verification system", "Stock management tools", "Barcoding system for dosage tracking"]
+}

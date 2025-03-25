@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+  "Family Presence Option": {
+    "parameters": {
+      "name": "",
+      "description": "",
+      "consent": "",
+      "notification": ""
+    }
+  },
+  "Consent": {
+    "parameters": {
+      "name": "",
+      "description": "",
+      "agreement": ""
+    }
+  },
+  "Notification": {
+    "parameters": {
+      "name": "",
+      "message": "",
+      "recipients": ""
+    }
+  }
+}

@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+  "Theme Identification": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Text Input": {"Type": "text input", "Example": "What's been on your mind lately?"},
+      "Theme Options": {"Type": "list of text", "Example": ["Anxiety", "Depression", "Stress", "Hope", "etc."]},
+      "Identification Questions": {"Type": "list of text", "Example": ["What emotions do you experience most often?", "What thoughts do you have most frequently?"]},
+      "Reflection": {"Type": "text input", "Example": "What did I learn about myself from this exercise?"}
+    }
+  },
+  "Word Cloud": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Text Input": {"Type": "text input", "Example": "What's been on your mind lately?"},
+      "Word Cloud Options": {"Type": "list of text", "Example": ["Anxiety", "Depression", "Stress", "Hope", "etc."]},
+      "Reflection": {"Type": "text input", "Example": "What did I learn about myself from this exercise?"}
+    }
+  }
+}

@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Patient Information Sharing": {
+    "parameters": {
+      "Patient Information": {"type": "list of text fields"},
+      "Family Member Access": {"type": "list of names and relationships"},
+      "Information Sharing Preferences": {"type": "list of text fields"},
+      "Consent and Authorization": {"type": "boolean"},
+      "Frequency of Updates": {"options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"type": "datetime"},
+      "Name": {"type": "text"}
+    }
+  }
+}

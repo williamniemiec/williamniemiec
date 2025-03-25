@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+    "Respiratory Exercise": {
+        "parameters": [
+            {"Name": {"type": "text"}},
+            {"Description": {"type": "text"}},
+            {"Exercises": {"type": "checklist", "options": ["coughing", "deep breathing", "turning"]}},
+            {"Frequency": {"type": "options", "options": ["every 2 hours", "every 4 hours"]}}
+        ]
+    }
+}
+
+
+Note that I removed the `Deadline Date` parameter since it was marked as not applicable (`required: false`). Let me know if you have any further questions!

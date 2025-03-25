@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Adherence Tracker": {
+    "Schedule": {"type": "text or table format"},
+    "Goals": {"type": "text or options"},
+    "Progress Tracking": {"type": "text or table format"},
+    "Monitoring Tools": {"type": "text or options"},
+    "Reminders": {"type": "text or notification"}
+  }
+}

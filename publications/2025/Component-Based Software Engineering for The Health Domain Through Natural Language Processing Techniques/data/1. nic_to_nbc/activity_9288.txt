@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Urine Output Monitoring": {
+    "Frequency": {"type": "options", "options": ["hourly", "daily", "every 2 hours", "every 4 hours"]},
+    "Measurement Unit": {"type": "options", "options": ["milliliters (mL)", "liters (L)"]},
+    "Target Range": {"type": "text"},
+    "Deadline Date": {"type": "datetime"},
+    "Special Instructions": {"type": "text"}
+  }
+}

@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Grounding Pad Application": {
+    "Application Site": {
+      "Type": "options"
+    },
+    "Skin Condition": {
+      "Type": "options"
+    },
+    "Proximity to Operative Site": {
+      "Type": "options"
+    },
+    "Additional Instructions": {
+      "Type": "text"
+    }
+  }
+}

@@ -1,0 +1,68 @@
+Here is the output in JSON format:
+
+
+{
+    "Treatment Knowledge Module": {
+        "Parameters": {
+            "Name": {},
+            "Description": {},
+            "Treatment List": {},
+            "Rationale": {},
+            "Alternatives": {},
+            "Standards of Care": {},
+            "Evidence-Based Practice": {},
+            "Side Effects": {},
+            "Monitoring": {},
+            "State Regulations or Policy Issues": {}
+        }
+    },
+    "Treatment Rationale": {
+        "Parameters": {
+            "Name": {},
+            "Description": {},
+            "Treatment List": {},
+            "Rationale": {}
+        }
+    },
+    "Treatment Alternatives": {
+        "Parameters": {
+            "Name": {},
+            "Description": {},
+            "Treatment List": {},
+            "Alternatives": {}
+        }
+    },
+    "Standards of Care": {
+        "Parameters": {
+            "Name": {},
+            "Description": {},
+            "Treatment List": {},
+            "Standards of Care": {}
+        }
+    },
+    "Evidence-Based Practice": {
+        "Parameters": {
+            "Name": {},
+            "Description": {},
+            "Treatment List": {},
+            "Evidence-Based Practice": {}
+        }
+    },
+    "Side Effects and Monitoring": {
+        "Parameters": {
+            "Name": {},
+            "Description": {},
+            "Treatment List": {},
+            "Side Effects": {},
+            "Monitoring": {}
+        }
+    },
+    "State Regulations or Policy Issues": {
+        "Parameters": {
+            "Name": {},
+            "Description": {},
+            "Treatment List": {},
+            "State Regulations or Policy Issues": {}
+        }
+    }
+}

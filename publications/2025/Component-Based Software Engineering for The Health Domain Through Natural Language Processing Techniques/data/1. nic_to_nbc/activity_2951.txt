@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Care Partner",
+    "parameters": [
+        {
+            "name": "Care Tasks",
+            "type": "list of text"
+        },
+        {
+            "name": "Task Frequency",
+            "options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+        },
+        {
+            "name": "Task Reminders",
+            "type": "boolean"
+        },
+        {
+            "name": "Care Plan",
+            "type": "text"
+        },
+        {
+            "name": "Progress Tracking",
+            "options": ["self-reporting", "caregiver reporting", "sensor data"]
+        }
+    ]
+}

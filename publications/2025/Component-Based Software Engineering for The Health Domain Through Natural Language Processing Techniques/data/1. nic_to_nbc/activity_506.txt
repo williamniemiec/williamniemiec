@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Family Relationship Monitoring": {
+    "parameters": [
+      {"name": "family_members", "type": "list of text"},
+      {"name": "relationship_metrics", "type": "options"},
+      {"name": "monitoring_frequency", "type": "options"},
+      {"name": "monitoring_method", "type": "options"},
+      {"name": "alert_threshold", "type": "options"}
+    ]
+  }
+}
+
+
+I removed the `deadline_date` parameter since it's not applicable (i.e., its required field is set to false). Let me know if you have any further questions!

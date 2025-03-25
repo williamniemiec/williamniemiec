@@ -1,0 +1,40 @@
+Here is the output in JSON format:
+
+
+{
+  "Trapeze Assistance": {
+    "Parameters": {
+      "trapeze title": {
+        "Description": "title of the trapeze assistance",
+        "Required": true,
+        "Type": "text"
+      },
+      "trapeze instructions": {
+        "Description": "text describing how to use the trapeze to shift weight",
+        "Required": true,
+        "Type": "text"
+      },
+      "Frequency": {
+        "Description": "specify how often the patient should use the trapeze to shift their weight",
+        "Required": true,
+        "Type": "options",
+        "Options": [
+          { "value": "every15Minutes", "label": "Every 15 minutes" },
+          { "value": "every30Minutes", "label": "Every 30 minutes" },
+          { "value": "everyHour", "label": "Every hour" },
+          { "value": "asNeeded", "label": "As needed" }
+        ]
+      },
+      "Trapeze Type": {
+        "Description": "specify the type of trapeze to be used",
+        "Required": true,
+        "Type": "options",
+        "Options": [
+          { "value": "ceilingMounted", "label": "Ceiling-mounted trapeze" },
+          { "value": "bedMounted", "label": "Bed-mounted trapeze" },
+          { "value": "other", "label": "Other (please specify)" }
+        ]
+      }
+    }
+  }
+}

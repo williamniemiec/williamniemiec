@@ -1,0 +1,10 @@
+{
+  "name": "Team Collaboration and Communication",
+  "description": "Facilitates communication and collaboration among care team members, including therapists. Ensures roles are clearly defined, and plans are shared on a collaborative platform.",
+  "type": "non-periodic",
+  "input": ["Team communication", "Care plan details", "Therapist collaboration", "Role definition", "Platform sharing"],
+  "output": ["Collaborative care plan", "Team communication feedback", "Roles clarification report"],
+  "preconditions": ["User is part of a care team"],
+  "postconditions": ["Clear communication and shared responsibilities among team members"],
+  "dependencies": ["Care team collaboration platform", "Role definition tools", "Shared platform management"]
+}

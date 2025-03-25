@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+  "Muscle Care": {
+    "Affected Limb": {
+      "Description": "Limb affected by the condition",
+      "Type": "options",
+      "Options": [
+        { "value": "arm", "label": "Arm" },
+        { "value": "leg", "label": "Leg" }
+      ]
+    },
+    "Prohibited Actions": {
+      "Description": "Actions to avoid on the affected limb muscles",
+      "Type": "options",
+      "Options": [
+        { "value": "massage", "label": "Massage" },
+        { "value": "compress", "label": "Compress" }
+      ]
+    }
+  }
+}
+
+
+Let me know if this meets your requirements!

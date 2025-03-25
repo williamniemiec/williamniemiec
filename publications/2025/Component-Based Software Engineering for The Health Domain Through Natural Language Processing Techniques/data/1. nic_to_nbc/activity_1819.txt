@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "No-Code Element Name": "Behavioral Expectations",
+  "Parameters": {
+    "Situation": {"Type": "text"},
+    "Patient Profile": {"Type": "patient profile data"},
+    "Expected Behavior": {"Type": "text"},
+    "Realistic Goals": {"Type": "list of text or measurable targets"},
+    "Rationale": {"Type": "text"},
+    "Patient Agreement": {"Type": "options (agree, disagree) or text"}
+  }
+}

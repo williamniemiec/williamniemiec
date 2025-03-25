@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "PARAMETER ESPECIFICATIONS": [
+    "* Identify potential signs of underreaction or overreaction, such as inconsistencies in the adult's behavior or unusual emotional responses.",
+    "* Evaluate the adult's emotional regulation and coping mechanisms, including factors such as tone, body language, and verbal responses.",
+    "* Make a professional judgment about the appropriateness of the adult's reactions and the potential risks to the child or others."
+  ],
+  "NO-CODE ELEMENT NAME": null
+}
+
+
+Note: Since there is no specific no-code element name mentioned in the input text, I have set it to `null` in the output JSON.

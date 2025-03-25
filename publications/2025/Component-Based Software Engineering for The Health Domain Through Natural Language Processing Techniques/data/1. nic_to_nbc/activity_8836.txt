@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Textured Solids Guide": {
+    "Parameters": {
+      "Introduction": {},
+      "Types of Textures": {},
+      "Introducing Textures": {},
+      "Tips and Precautions": {},
+      "Resources": {}
+    }
+  }
+}

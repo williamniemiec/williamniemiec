@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+"Infection Monitoring": {
+    "Parameters": {
+        "Name": {"Type": "text"},
+        "Instructions": {"Type": "text"},
+        "Edematous Areas": {"Type": "options"},
+        "Infection Signs": {"Type": "options"},
+        "Temperature": {"Type": "number"},
+        "Photo": {"Type": "camera"},
+        "Frequency": {"Type": "options"},
+        "Deadline Date": {"Type": "datetime"},
+        "Notes": {"Type": "text"}
+    }
+}
+}
+
+
+Let me know if you need any further assistance!

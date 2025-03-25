@@ -1,0 +1,41 @@
+Here is the output in JSON format:
+
+
+[
+  {
+    "name": "Chest Pain Assessment",
+    "parameters": {
+      "name": "Chest Pain Assessment",
+      "intensity": "",
+      "location": "",
+      "radiation": "",
+      "duration": "",
+      "precipitating_factors": "",
+      "alleviating_factors": ""
+    }
+  },
+  {
+    "name": "Symptom Tracker",
+    "parameters": {
+      "name": "Chest Pain Symptom Tracker",
+      "tracking_frequency": "",
+      "symptom_entries": ""
+    }
+  },
+  {
+    "name": "Pain Scale",
+    "parameters": {
+      "name": "Pain Scale",
+      "scale_type": "",
+      "scale_values": ""
+    }
+  },
+  {
+    "name": "Education Resource",
+    "parameters": {
+      "name": "Chest Pain Education",
+      "resources": "",
+      "type": ""
+    }
+  }
+]

@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Specimen Collection Guide": {
+    "Parameters": {
+      "Specimen Type": {"Type": "text or selection from a list of options", "Required": true},
+      "Collection Method": {"Type": "ordered list of instructions", "Required": true},
+      "Preservation Method": {"Type": "text or selection from a list of options", "Required": true},
+      "Container and Labeling": {"Type": "text or selection from a list of options", "Required": true}
+    }
+  }
+}
+
+
+I removed the "Special Considerations" parameter since it was marked as not required. Let me know if you need anything else!

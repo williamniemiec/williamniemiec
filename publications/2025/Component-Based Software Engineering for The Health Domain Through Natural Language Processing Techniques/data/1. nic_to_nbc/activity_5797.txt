@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Tracking": {
+    "Metrics": ["Vital capacity", "Maximal inspiratory force", "Forced expiratory volume in 1 second (FEV1)", "FEV1/FVC"],
+    "Unit": [],
+    "Frequency": ["daily", "onlyOnce", "everyHours", "everyDays"],
+    "Deadline Date": []
+  }
+}
+
+
+Note: I removed the `Introduction` and `Conclusion` sections, as well as the `Parameters:` header. I also removed the `Type: datetime` specification for `Deadline Date`, as it's not a parameter value. Let me know if you'd like me to make any changes!

@@ -1,0 +1,5 @@
+Since there is no no-code element associated with the provided intervention, the output will be an empty JSON object:
+
+{}
+
+Please provide another input to process.

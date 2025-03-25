@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Isolation Precautions",
+    "parameters": [
+        { 
+            "name": "Precaution Type", 
+            "type": "options"
+        },
+        { 
+            "name": "Precaution Instructions", 
+            "type": "text or HTML"
+        },
+        { 
+            "name": "Personal Protective Equipment (PPE)", 
+            "type": "unordered list or text"
+        },
+        { 
+            "name": "Duration", 
+            "type": "text or datetime"
+        }
+    ]
+}

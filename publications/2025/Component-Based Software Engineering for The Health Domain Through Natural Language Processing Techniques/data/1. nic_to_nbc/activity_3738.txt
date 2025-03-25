@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Pattern Identifier",
+    "parameters": [
+        { 
+            "name": "Name", 
+            "type": "text"
+        },
+        { 
+            "name": "Situation Categories", 
+            "type": "list of text"
+        },
+        { 
+            "name": "Response Patterns", 
+            "type": "list of text"
+        },
+        { 
+            "name": "Reflection Questions", 
+            "type": "list of text"
+        },
+        { 
+            "name": "Pattern Analysis", 
+            "type": "boolean"
+        }
+    ]
+}

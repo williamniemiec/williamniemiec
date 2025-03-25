@@ -1,0 +1,30 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Effect Monitoring": {
+    "parameters": [
+      {"name": "effect_type", "description": "type of effect to monitor (e.g., local, systemic, adverse)"},
+      {"name": "effect_description", "description": "description of the effect to monitor"},
+      {"name": "monitoring_frequency", "description": "frequency of monitoring (e.g., daily, weekly, etc.)"}
+    ]
+  },
+  "Local Effect Monitoring": {
+    "parameters": [
+      {"name": "local_effect_description", "description": "description of local effect to monitor (e.g., redness, swelling, etc.)"},
+      {"name": "local_effect_severity", "description": "severity of local effect (e.g., mild, moderate, severe)"}
+    ]
+  },
+  "Systemic Effect Monitoring": {
+    "parameters": [
+      {"name": "systemic_effect_description", "description": "description of systemic effect to monitor (e.g., dizziness, nausea, etc.)"},
+      {"name": "systemic_effect_severity", "description": "severity of systemic effect (e.g., mild, moderate, severe)"}
+    ]
+  },
+  "Adverse Effect Monitoring": {
+    "parameters": [
+      {"name": "adverse_effect_description", "description": "description of adverse effect to monitor (e.g., allergic reaction, etc.)"},
+      {"name": "adverse_effect_severity", "description": "severity of adverse effect (e.g., mild, moderate, severe)"}
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+    "Medication Monitor": {
+        "Name": {"Type": "text"},
+        "Medication List": {"Type": "list of text"},
+        "Side Effect Checklist": {"Type": "list of text"},
+        "Behavioral Outcome Tracking": {"Type": "list of text or numerical values"},
+        "Monitoring Frequency": {"Type": "options"},
+        "Alert System": {"Type": "options"},
+        "Reporting Mechanism": {"Type": "options"},
+        "Deadline Date": {"Type": "datetime"}
+    }
+}

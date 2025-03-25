@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+    "Catheter Patency Check": {
+        "parameters": [
+            {"name": "check_fluid_flow", "description": "Check for fluid flow through the catheter", "required": true, "type": "checkbox"},
+            {"name": "check_for_obstructions", "description": "Check for any obstructions in the catheter", "required": true, "type": "checkbox"},
+            {"name": "check_catheter_position", "description": "Check the position of the catheter", "required": true, "type": "checkbox"}
+        ]
+    },
+    "Port Function Check": {
+        "parameters": [
+            {"name": "check_port_access", "description": "Check access to the port", "required": true, "type": "checkbox"},
+            {"name": "check_fluid_flow", "description": "Check for fluid flow through the port", "required": true, "type": "checkbox"},
+            {"name": "check_port_position", "description": "Check the position of the port", "required": true, "type": "checkbox"}
+        ]
+    },
+    "Pump Function Check": {
+        "parameters": [
+            {"name": "check_pump_settings", "description": "Check the settings of the pump", "required": true, "type": "checkbox"},
+            {"name": "check_fluid_flow", "description": "Check for fluid flow through the pump", "required": true, "type": "checkbox"},
+            {"name": "check_pump_alarm", "description": "Check for any alarms or errors on the pump", "required": true, "type": "checkbox"}
+        ]
+    }
+}

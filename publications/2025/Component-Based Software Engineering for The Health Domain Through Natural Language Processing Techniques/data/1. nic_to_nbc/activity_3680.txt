@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+
+{
+"Immobilization Instruction": {
+    "Parameters": {
+        "Name": {"Type": "text"},
+        "Body Parts": {"Type": "options"},
+        "Immobilization Method": {"Type": "text"},
+        "Duration": {"Type": "options"},
+        "Frequency": {"Type": "options"}
+    }
+}
+
+
+Note: I removed the "Deadline Date" and "Additional Tips" parameters as they are not applicable.

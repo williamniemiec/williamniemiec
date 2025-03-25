@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+"Grief Support": {
+    "Grief Stage Assessment": {"type": "options"},
+    "Support Resources": {"type": "options"},
+    "Emotional Check-Ins": {"type": "options"},
+    "Personalized Guidance": {"type": "options"}
+},
+"Bereavement Support": {
+    "Grief Journaling": {"type": "text"},
+    "Memory Book": {"type": "multimedia"},
+    "Support Group": {"type": "options"},
+    "Counseling Services": {"type": "options"}
+}
+
+
+Let me know if this meets your requirements!

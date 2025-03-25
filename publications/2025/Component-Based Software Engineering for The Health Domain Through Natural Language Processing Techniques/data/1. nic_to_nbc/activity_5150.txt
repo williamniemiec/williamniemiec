@@ -1,0 +1,39 @@
+Here is the output in JSON format:
+
+
+{
+  "Sensory Stimulation Guide": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Auditory Stimulation": {"Type": "list of auditory stimulation activities", 
+        "auditory stimulation activity": {
+          "Title": {"Type": "text"},
+          "Description": {"Type": "HTML text"},
+          "Examples": {"Type": "list of examples", 
+            "example": {
+              "Content": {"Type": "HTML text"}
+            }
+          }
+        }
+      },
+      "Visual Stimulation": {"Type": "list of visual stimulation activities", 
+        "visual stimulation activity": {
+          "Title": {"Type": "text"},
+          "Description": {"Type": "HTML text"},
+          "Examples": {"Type": "list of examples", 
+            "example": {
+              "Content": {"Type": "HTML text"}
+            }
+          }
+        }
+      },
+      "Benefits": {"Type": "list of benefits", 
+        "benefit": {
+          "Content": {"Type": "HTML text"}
+        }
+      },
+      "Sensory Stimulation Tracker": {"Type": "interactive chart"},
+      "Sensory Stimulation Reminders": {"Type": "reminders"}
+    }
+  }
+}

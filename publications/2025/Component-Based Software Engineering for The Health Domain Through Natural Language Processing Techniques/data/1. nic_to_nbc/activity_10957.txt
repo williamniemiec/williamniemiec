@@ -1,0 +1,32 @@
+Here is the output in JSON format:
+
+
+{
+  "Competency Assessment": {
+    "parameters": {
+      "name": "",
+      "competencies": [
+        {
+          "description": "",
+          "rating_scale": ""
+        }
+      ],
+      "assessment_method": ""
+    }
+  },
+  "Training Plan": {
+    "parameters": {
+      "name": "",
+      "competencies": [
+        {
+          "description": "",
+          "training_method": "",
+          "training_schedule": ""
+        }
+      ]
+    }
+  }
+}
+
+
+Let me know if you need anything else!

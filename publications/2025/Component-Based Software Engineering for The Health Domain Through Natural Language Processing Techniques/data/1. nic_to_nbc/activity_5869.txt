@@ -1,0 +1,45 @@
+Here is the output in JSON format:
+
+
+{
+    "Medication Sign-Out": {
+        "Parameters": {
+            "Medication List": {
+                "Type": "list of medications",
+                "Required": true,
+                "Each medication should have": {
+                    "Medication Name": {
+                        "Type": "text",
+                        "Required": true
+                    },
+                    "Dosage Instructions": {
+                        "Type": "text",
+                        "Required": true
+                    }
+                }
+            },
+            "Agency Protocol": {
+                "Type": "list of steps",
+                "Required": true,
+                "Each step should have": {
+                    "Step Description": {
+                        "Type": "text",
+                        "Required": true
+                    },
+                    "Checkboxes": {
+                        "Type": "boolean",
+                        "Required": true
+                    }
+                }
+            },
+            "Signature": {
+                "Type": "signature",
+                "Required": true
+            },
+            "Date and Time": {
+                "Type": "datetime",
+                "Required": true
+            }
+        }
+    }
+}

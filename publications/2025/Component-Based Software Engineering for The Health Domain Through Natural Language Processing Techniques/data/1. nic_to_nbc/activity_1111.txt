@@ -1,0 +1,30 @@
+Here is the output in JSON format:
+
+
+{
+  "Skill Assessment": {
+    "parameters": {
+      "name": "",
+      "skills": [
+        {"description": "", "rating_scale": ""},
+        ...
+      ],
+      "scenarios": [
+        {"description": "", "required_skills": ["", "..."]},
+        ...
+      ]
+    }
+  },
+  "Competency Matrix": {
+    "parameters": {
+      "name": "",
+      "roles": [
+        {"description": "", "competencies": [
+          {"description": "", "rating_scale": ""},
+          ...
+        ]},
+        ...
+      ]
+    }
+  }
+}

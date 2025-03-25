@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Assessment Tool": {
+        "Parameters": {
+            "Checklist": {},
+            "Instructions": {},
+            "Data Entry": {},
+            "Scoring and Interpretation": {},
+            "Reminders": {}
+        }
+    }
+}

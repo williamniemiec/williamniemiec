@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+    "Roommate Matching": {
+        "Environmental Concerns": {"type": "list of environmental concerns"},
+        "Roommate Preferences": {"type": "list of roommate preferences"},
+        "Room Assignment": {"type": "text"},
+        "Roommate Matching Algorithm": {"type": "options list"}
+    }
+}

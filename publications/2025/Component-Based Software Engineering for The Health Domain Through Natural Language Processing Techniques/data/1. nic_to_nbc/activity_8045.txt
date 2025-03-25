@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Dietary Preference Survey": {
+    "parameters": {
+      "name": {"type": "text"},
+      "questions": {"type": "list of objects"},
+      "submit_button": {"type": "text"}
+    }
+  },
+  "Personalized Dietary Recommendations": {
+    "parameters": {
+      "name": {"type": "text"},
+      "recommendations": {"type": "text or HTML"}
+    }
+  }
+}

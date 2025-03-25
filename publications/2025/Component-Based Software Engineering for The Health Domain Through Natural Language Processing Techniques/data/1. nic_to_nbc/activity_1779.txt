@@ -1,0 +1,32 @@
+Here is the output in JSON format:
+
+
+{
+    "parameters": [
+        { 
+            "name": "Purpose", 
+            "type": "text"
+        },
+        { 
+            "name": "Goals", 
+            "type": "checklist",
+            "options": [
+                { value: "", label: "" }
+            ]
+        },
+        { 
+            "name": "Agenda", 
+            "type": "text"
+        },
+        { 
+            "name": "Priority", 
+            "type": "ranking",
+            "options": [
+                { value: "high", label: "High" },
+                { value: "medium", label: "Medium" },
+                { value: "low", label: "Low" }
+            ]
+        }
+    ],
+    "name": "Genetic Counseling Session Goals"
+}

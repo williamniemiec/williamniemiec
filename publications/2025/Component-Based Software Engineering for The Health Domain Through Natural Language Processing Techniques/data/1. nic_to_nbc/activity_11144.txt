@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Ventilator Education": {
+    "parameters": {
+      "Ventilator Settings": {"type": "text", "content": "Understanding Ventilator Settings: [insert explanation of different settings, e.g., PEEP, FiO2, rate]"},
+      "Work of Breathing": {"type": "text", "content": "How Ventilator Settings Affect Work of Breathing: [insert explanation of how settings changes can increase work of breathing]"},
+      "Interactive Quiz": {"type": "quiz", "questions": ["What is the purpose of PEEP?", "How does increasing FiO2 affect work of breathing?", "What happens to work of breathing when the ventilator rate is increased?"]},
+      "Ventilator Simulator": {"type": "interactive simulation", "content": "Ventilator Simulator: Adjust settings to see how they affect work of breathing"}
+    }
+  }
+}

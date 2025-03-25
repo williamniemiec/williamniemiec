@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Magnesium Absorption Monitor": {
+    "parameters": [
+      {"name": "medical conditions", "description": "Specify any medical conditions that may affect magnesium absorption", "required": true, "type": "multiselect"},
+      {"name": "dietary intake", "description": "Specify any dietary factors that may affect magnesium absorption", "required": true, "type": "multiselect"},
+      {"name": "magnesium levels", "description": "Specify the current magnesium levels", "required": true, "type": "number", "unit": "mg/dL"},
+      {"name": "risk threshold", "description": "Specify the threshold for decreased magnesium levels", "required": false, "type": "number", "unit": "mg/dL"}
+    ]
+  }
+}

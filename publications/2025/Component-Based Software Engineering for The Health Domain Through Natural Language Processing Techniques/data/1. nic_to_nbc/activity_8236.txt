@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "ANP Administration Guidance": {
+    "Instructions": {"Type": "text"},
+    "Medication List": {"Type": "list of medications"},
+    "Indications": {"Type": "text"},
+    "Contraindications": {"Type": "list of contraindications"},
+    "Monitoring": {"Type": "boolean"}
+  }
+}

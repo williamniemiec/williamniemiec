@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Breathing Exercise": {
+    "parameters": [
+      {"Instructions": {}},
+      {"Frequency": {}},
+      {"Duration": {}},
+      {"Reminders": {}}
+    ]
+  }
+}

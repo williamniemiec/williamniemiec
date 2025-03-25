@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Breastfeeding Guide": {
+    "Parameters": {
+      "Name": {},
+      "Content": {},
+      "Frequency": {},
+      "Deadline Date": {}
+    }
+  }
+}
+
+
+Note that I removed the `Condition` parameter since it was marked as "not applicable" (its type is a conditional statement, which is not a typical parameter type). Let me know if you'd like me to include it anyway!

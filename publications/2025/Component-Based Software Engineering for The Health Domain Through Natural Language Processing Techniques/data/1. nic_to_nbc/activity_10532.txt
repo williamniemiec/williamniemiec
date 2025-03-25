@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Engaged Communication": {
+    "Parameters": {
+      "Instructions": {
+        "Type": "text"
+      },
+      "Tips": {
+        "Type": "list",
+        "Examples": ["maintain eye contact for 3-5 seconds", "avoid distractions", "use non-verbal cues"]
+      }
+    }
+  }
+}

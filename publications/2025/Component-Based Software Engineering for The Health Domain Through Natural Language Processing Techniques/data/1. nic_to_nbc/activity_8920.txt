@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Advocacy Alert": {
+    "Trigger": {"Type": "options"},
+    "Message": {"Type": "text"},
+    "Resources": {"Type": "list of resources"},
+    "Frequency": {"Type": "options"}
+  }
+}

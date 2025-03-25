@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+  "Caregiver Profile": {
+    "parameters": {
+      "Caregiver Information": {"type": "form"},
+      "Caregiver Concerns": {"type": "text"},
+      "Caregiver Goals": {"type": "text"}
+    }
+  },
+  "Secure Messaging": {
+    "parameters": {
+      "Message": {"type": "text"},
+      "Response": {"type": "text"}
+    }
+  },
+  "Caregiver Feedback": {
+    "parameters": {
+      "Feedback": {"type": "text"}
+    }
+  }
+}

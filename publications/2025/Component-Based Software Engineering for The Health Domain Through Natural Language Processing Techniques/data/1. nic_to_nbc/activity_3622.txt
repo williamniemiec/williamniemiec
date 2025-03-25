@@ -1,0 +1,14 @@
+
+
+
+{
+    "Conversation Summary": {
+        "Parameters": {
+            "Discussion Topic": {"Type": "text"},
+            "Key Points": {"Type": "checklist", "Options": [{"value": "topic1", "label": "Topic 1 summary"}, {"value": "topic2", "label": "Topic 2 summary"}]},
+            "Action Items": {"Type": "checklist", "Options": [{"value": "action1", "label": "Action item 1"}, {"value": "action2", "label": "Action item 2"}]},
+            "Next Steps": {"Type": "text"},
+            "Confirmation": {"Type": "boolean"}
+        }
+    }
+}

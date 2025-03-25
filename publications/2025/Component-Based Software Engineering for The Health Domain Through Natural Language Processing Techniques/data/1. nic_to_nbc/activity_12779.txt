@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Practice Reminder": {
+    "Name": {"type": "text"},
+    "Technique": {"type": "text"},
+    "Frequency": {"type": "options"},
+    "Duration": {"type": "text"},
+    "Goal": {"type": "text"},
+    "Tracking": {"type": "boolean or integer"},
+    "Motivation": {"type": "list of text"}
+  }
+}

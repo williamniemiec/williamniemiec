@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Feeding Positioning Tip": {
+    "Illustration": {"type": "image"},
+    "Tip Text": {"type": "text"},
+    "Frequency": {"type": "options"},
+    "Additional Resources": {"type": "text or URL"}
+  }
+}

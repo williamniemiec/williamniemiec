@@ -1,0 +1,13 @@
+
+
+
+{
+  "noCodeElementName": "Constraint",
+  "parametersSpecifications": {
+    "Constraint Type": {"type": "options", "options": ["time", "cost", "equipment availability", "personnel", "facilities", "other"]},
+    "Constraint Description": {"type": "text"},
+    "Constraint Value": {"type": "text or numeric"},
+    "Impact": {"type": "text"},
+    "Mitigation Strategy": {"type": "text"}
+  }
+}

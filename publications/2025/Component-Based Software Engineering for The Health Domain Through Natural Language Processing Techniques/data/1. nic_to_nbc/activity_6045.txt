@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Form Assistant": {
+    "Parameters": {
+      "Form Type": {"Type": "options"},
+      "Form Fields": {"Type": "list of form fields"},
+      "Instructions": {"Type": "text"},
+      "Submission": {"Type": "options"}
+    }
+  }
+}

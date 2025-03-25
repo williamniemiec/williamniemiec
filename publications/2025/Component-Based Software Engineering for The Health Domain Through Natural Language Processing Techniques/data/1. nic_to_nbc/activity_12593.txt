@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "Mood Journal": {
+    "parameters": [
+      {
+        "name": "name",
+        "description": "title of the mood journal"
+      },
+      {
+        "name": "prompt",
+        "description": "a prompt or question to guide the patient's writing"
+      },
+      {
+        "name": "emotion_scale",
+        "description": "a rating scale to help the patient identify their emotions"
+      },
+      {
+        "name": "frequency",
+        "description": "specify how often the patient should write in the journal"
+      }
+    ]
+  }
+}

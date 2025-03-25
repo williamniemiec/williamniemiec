@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Health Status Summary": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Data Sources": {"Type": "options", "Options": ["Electronic health records (EHRs)", "Wearable devices", "Patient-reported outcomes"]},
+      "Data Points": {"Type": "options", "Options": ["Vital signs (e.g., blood pressure, heart rate)", "Laboratory results (e.g., blood glucose, lipid profiles)", "Medication adherence", "Symptom reports"]},
+      "Summary Format": {"Type": "options", "Options": ["Table", "Graph", "Chart", "Narrative text"]},
+      "Care Planning": {"Type": "options", "Options": ["Identifying areas for improvement", "Setting health goals", "Developing personalized care plans"]}
+    }
+  }
+}

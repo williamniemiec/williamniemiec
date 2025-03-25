@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Recreational Activity Matching": {
+    "Patient Profile": {"Type": "text or selection"},
+    "Activity Database": {"Type": "list of text or selection"},
+    "Matching Algorithm": {"Type": "options (e.g., decision tree, machine learning, etc.)"}
+  },
+  "Capability Assessment": {
+    "Physical Capability Questions": {"Type": "list of text questions"},
+    "Psychological Capability Questions": {"Type": "list of text questions"},
+    "Social Capability Questions": {"Type": "list of text questions"}
+  },
+  "Recreational Activity Recommendations": {
+    "Recommended Activities": {"Type": "list of text or selection"},
+    "Rationale": {"Type": "text"}
+  }
+}

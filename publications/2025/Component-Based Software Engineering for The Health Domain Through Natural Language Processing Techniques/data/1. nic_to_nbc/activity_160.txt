@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Restriction": {
+    "parameters": {
+      "name": "Meperidine Hydrochloride (Demerol) Restriction",
+      "description": "Avoid use of Meperidine Hydrochloride (Demerol)",
+      "medication_name": "Meperidine Hydrochloride (Demerol)",
+      "reason": "Avoid use due to potential risks or interactions",
+      "type": "Restriction"
+    }
+  }
+}

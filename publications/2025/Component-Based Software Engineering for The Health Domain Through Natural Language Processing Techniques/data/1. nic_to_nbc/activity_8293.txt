@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Breastfeeding Education": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Content": {"Type": "multimedia"},
+      "Adaptations": {"Type": "list of options", "Options": ["adaptations for mothers with limited arm mobility", "adaptations for mothers with limited hand dexterity"]},
+      "Condition": {"Type": "conditional statement"},
+      "Frequency": {"Type": "options", "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]}
+    }
+  }
+}
+
+
+Note that I removed the `Deadline Date` parameter as it's not applicable in this context. Let me know if you have any further questions!

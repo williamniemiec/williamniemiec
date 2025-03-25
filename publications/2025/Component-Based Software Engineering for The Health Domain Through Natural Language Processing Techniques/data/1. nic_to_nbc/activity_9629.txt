@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Suction Availability": {
+    "parameters": [
+      {"name": "name", "type": "text"},
+      {"name": "suction_type", "type": "suction type object"},
+      {"name": "bedside_location", "type": "text"},
+      {"name": "reminder_frequency", "type": "frequency object"}
+    ]
+  }
+}

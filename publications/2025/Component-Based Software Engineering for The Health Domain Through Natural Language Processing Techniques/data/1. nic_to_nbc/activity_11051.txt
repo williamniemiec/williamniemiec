@@ -1,0 +1,46 @@
+Here is the output in JSON format:
+
+
+[
+  {
+    "name": "Hypomagnesemia Symptom Checker",
+    "parameters": {
+      "symptoms": [
+        "Respiratory muscle depression",
+        "Mental apathy",
+        "Chvostek’s sign (facial muscle spasm)",
+        "Trousseau’s sign (carpal spasm)",
+        "Confusion",
+        "Facial tics",
+        "Spasticity",
+        "Cardiac dysrhythmias"
+      ],
+      "answer type": "boolean (yes/no) or severity scale (e.g., 1-5)",
+      "frequency": "",
+      "deadline_date": ""
+    }
+  },
+  {
+    "name": "Neurological Assessment",
+    "parameters": {
+      "assessment": [
+        "Level of consciousness",
+        "Orientation to time and place",
+        "Muscle strength and coordination",
+        "Reflexes"
+      ],
+      "frequency": "",
+      "deadline_date": ""
+    }
+  },
+  {
+    "name": "Hypomagnesemia ECG Tracker",
+    "parameters": {
+      "ECG readings": [
+        "Cardiac dysrhythmias"
+      ],
+      "frequency": "",
+      "deadline_date": ""
+    }
+  }
+]

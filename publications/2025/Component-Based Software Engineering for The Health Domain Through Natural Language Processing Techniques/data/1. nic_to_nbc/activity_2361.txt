@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+    "Medication Avoidance": {
+        "parameters": {
+            "name": {"type": "text"},
+            "medications_to_avoid": {"type": "list of options"},
+            "why": {"type": "text"},
+            "alternative_medications": {"type": "text"},
+            "reminder_frequency": {"type": "options"}
+        }
+    }
+}
+
+
+Note: I removed the not applicable parameters and kept only the relevant information. Let me know if you need any further modifications!

@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Environmental Aid": {
+    "Aid Type": ["watch", "calendar", "sign", "step-by-step written instructions", "other"],
+    "Aid Description": {"type": "text"},
+    "Frequency": ["daily", "onlyOnce", "everyHours", "everyDays"],
+    "Deadline Date": {"type": "datetime"},
+    "Instructions": {"type": "text"}
+  }
+}

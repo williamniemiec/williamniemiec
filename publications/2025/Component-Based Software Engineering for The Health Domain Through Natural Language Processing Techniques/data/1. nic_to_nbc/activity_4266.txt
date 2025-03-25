@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Concerns Chat": {
+    "Conversation Starter": {"type": "text"},
+    "Family Members": {"type": "selection from a list or text"},
+    "Concerns List": {"type": "list of text"},
+    "Response Options": {"type": "selection from a list or text"}
+  },
+  "Relocation Journal": {
+    "Journal Prompts": {"type": "text"},
+    "Family Members": {"type": "selection from a list or text"},
+    "Entry Types": {"type": "selection from a list"},
+    "Reflection Insights": {"type": "text or audio/video message"}
+  }
+}

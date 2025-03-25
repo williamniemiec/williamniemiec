@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+"Cough Assessment": {
+    "Cough Effectiveness Scale": {"Type": "options"},
+    "Frequency": {"Type": "options"},
+    "Notes": {"Type": "text"}
+}
+
+
+I removed all unnecessary text and kept only the no-code element name ("Cough Assessment") and its parameter specifications. I also removed the "Not applicable" parameters, as there were none in this input.

@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Community Forum": {
+    "parameters": {
+      "name": "",
+      "categories": [],
+      "posts": []
+    }
+  },
+  "Provider Messaging": {
+    "parameters": {
+      "name": "",
+      "message": "",
+      "attachments": ""
+    }
+  }
+}

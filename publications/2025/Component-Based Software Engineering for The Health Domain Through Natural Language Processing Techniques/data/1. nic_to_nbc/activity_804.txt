@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Alert": {
+    "parameters": {
+      "title": {"type": "text"},
+      "content": {
+        "pressure_activities": {"type": "text"},
+        "why_avoid": {"type": "text"}
+      }
+    }
+  }
+}

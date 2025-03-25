@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Acupressure Log": {
+    "Parameters": {
+      "Name": {},
+      "Description": {},
+      "Response": {},
+      "Frequency": {},
+      "Deadline Date": {}
+    }
+  }
+}
+
+
+Note: I removed the "Photo" parameter as it is marked as optional and not applicable. Let me know if you need anything else!

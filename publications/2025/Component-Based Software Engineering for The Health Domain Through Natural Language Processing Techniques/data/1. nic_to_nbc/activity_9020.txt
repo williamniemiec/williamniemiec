@@ -1,0 +1,4 @@
+Since there is no input provided, I will assume it's an empty string. 
+
+
+{}

@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Fiber Administration": {
+    "Prescription Details": {"type": "text"},
+    "Diarrhea Tracking": {"type": "number"},
+    "Fiber Dose": {"type": "number"},
+    "Administration Schedule": {"type": "datetime"},
+    "Administration Reminders": {"type": "boolean"},
+    "Fiber Administration Log": {"type": "text or table"}
+  }
+}

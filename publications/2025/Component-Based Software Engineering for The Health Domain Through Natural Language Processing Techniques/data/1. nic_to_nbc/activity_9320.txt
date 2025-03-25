@@ -1,0 +1,30 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "movement_guide",
+    "parameters": [
+        { 
+            "name": "title", 
+            "description": "guide title"
+        },
+        { 
+            "name": "video_url", 
+            "description": "url of the video illustrating the movement process"
+        },
+        { 
+            "name": "steps", 
+            "description": "list of steps to move infant in and out of binding cloth",
+            "list": [
+                { 
+                    "name": "step 1", 
+                    "description": "step 1 description"
+                },
+                { 
+                    "name": "step 2", 
+                    "description": "step 2 description"
+                }
+            ]
+        }
+    ]
+}

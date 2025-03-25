@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "Instruction": {
+    "parameters": {
+      "name": "instruction title",
+      "content": "instructions on what information is needed (e.g., text, images, videos)",
+      "categories": "categories for the information needed (e.g., medication, food, alcohol)"
+    }
+  },
+  "Guide": {
+    "parameters": {
+      "name": "guide title",
+      "pages": "list of guide pages (e.g., HTML texts, images, videos)",
+      "categories": "categories for the information needed (e.g., medication, food, alcohol)"
+    }
+  },
+  "Log": {
+    "parameters": {
+      "name": "log title",
+      "entries": "list of log entries (e.g., date, time, information provided)"
+    }
+  }
+}

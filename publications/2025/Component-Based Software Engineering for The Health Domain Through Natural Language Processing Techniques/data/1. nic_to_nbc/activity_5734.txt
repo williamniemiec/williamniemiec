@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Misconception Identification": {
+    "Parameters": {
+      "Play Session Theme": {"Type": "text"},
+      "Comment Analysis": {"Type": "options", "Options": ["sentiment analysis", "keyword extraction", "thematic analysis", "other"]},
+      "Misconception Categories": {"Type": "options", "Options": ["medical procedures", "hospital environment", "doctor's role", "other"]},
+      "Comment Collection": {"Type": "options", "Options": ["audio recording", "note-taking", "video recording", "other"]},
+      "Analysis Frequency": {"Type": "options", "Options": ["everyXMinutes", "at specific intervals", "continuously"]}
+    }
+  }
+}

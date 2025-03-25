@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Body Position Change": {
+    "parameters": {
+      "Position Change Frequency": {},
+      "Position Change Type": {},
+      "Body Parts to be Changed": {},
+      "Assistance Needed": {},
+      "Notes": {}
+    }
+  }
+}

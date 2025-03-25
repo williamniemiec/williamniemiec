@@ -1,0 +1,29 @@
+Here is the output in JSON format:
+
+
+{
+  "Relationship Assessment": {
+    "parameters": {
+      "name": "",
+      "questions": [],
+      "answer type": "",
+      "frequency": ""
+    }
+  },
+  "Communication Exercise": {
+    "parameters": {
+      "name": "",
+      "prompts": [],
+      "response fields": [],
+      "frequency": ""
+    }
+  },
+  "Emotional Support Evaluation": {
+    "parameters": {
+      "name": "",
+      "questions": [],
+      "answer type": "",
+      "frequency": ""
+    }
+  }
+}

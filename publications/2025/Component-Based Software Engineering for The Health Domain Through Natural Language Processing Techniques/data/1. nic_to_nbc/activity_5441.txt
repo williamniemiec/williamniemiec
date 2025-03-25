@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "IV Fluid Administration": {
+    "parameters": {
+      "Fluid Type": {"type": "options"},
+      "Dosage": {"type": "text"},
+      "Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"type": "datetime"},
+      "Instructions": {"type": "text"}
+    }
+  }
+}
+
+
+Let me know if this meets your requirements!

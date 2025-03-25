@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Feedback Opportunity": {
+    "name": {"type": "text"},
+    "feedback_type": {"type": "options"},
+    "feedback_topic": {"type": "text"},
+    "frequency": {"type": "options"},
+    "deadline_date": {"type": "datetime"}
+  }
+}

@@ -1,0 +1,129 @@
+Here is the output in JSON format:
+
+
+{
+    "Neglect Screening": {
+        "Hygiene Assessment": [
+            "Personal cleanliness",
+            "Odor",
+            "Skin condition"
+        ],
+        "Clothing Assessment": [
+            "Appropriateness for weather and activity",
+            "Cleanliness",
+            "Condition (e.g., torn, worn out)"
+        ],
+        "Skin Lesion Assessment": [
+            "Presence of untreated skin lesions",
+            "Severity of skin lesions"
+        ],
+        "Mobility and Perception Assessment": [
+            "Use of aids (e.g., canes, glasses, hearing aids)",
+            "Ability to move around safely"
+        ],
+        "Nutrition Assessment": [
+            "Food intake",
+            "Weight loss or gain",
+            "Signs of malnutrition"
+        ],
+        "Dental Assessment": [
+            "Presence of dentures",
+            "Condition of teeth (e.g., decayed, fractured)"
+        ],
+        "Environmental Assessment": [
+            "Cleanliness",
+            "Safety hazards",
+            "Vermin infestation"
+        ],
+        "Medication Assessment": [
+            "Adherence to medication regimen",
+            "Signs of medication deprivation or oversedation"
+        ],
+        "Social Contact Assessment": [
+            "Frequency of social interactions",
+            "Presence of social support"
+        ],
+        "Risk Score": {
+            "Type": "score (e.g., 1-5)"
+        },
+        "Frequency": {
+            "Options": [
+                "daily",
+                "onlyOnce",
+                "everyHours",
+                "everyDays"
+            ]
+        },
+        "Deadline Date": {
+            "Type": "datetime"
+        }
+    },
+    "Hygiene Assessment": {
+        "Parameters": [
+            "Personal cleanliness",
+            "Odor",
+            "Skin condition"
+        ]
+    },
+    "Clothing Assessment": {
+        "Parameters": [
+            "Appropriateness for weather and activity",
+            "Cleanliness",
+            "Condition (e.g., torn, worn out)"
+        ]
+    },
+    "Skin Lesion Assessment": {
+        "Parameters": [
+            "Presence of untreated skin lesions",
+            "Severity of skin lesions"
+        ]
+    },
+    "Mobility and Perception Assessment": {
+        "Parameters": [
+            "Use of aids (e.g., canes, glasses, hearing aids)",
+            "Ability to move around safely"
+        ]
+    },
+    "Nutrition Assessment": {
+        "Parameters": [
+            "Food intake",
+            "Weight loss or gain",
+            "Signs of malnutrition"
+        ]
+    },
+    "Dental Assessment": {
+        "Parameters": [
+            "Presence of dentures",
+            "Condition of teeth (e.g., decayed, fractured)"
+        ]
+    },
+    "Environmental Assessment": {
+        "Parameters": [
+            "Cleanliness",
+            "Safety hazards",
+            "Vermin infestation"
+        ]
+    },
+    "Medication Assessment": {
+        "Parameters": [
+            "Adherence to medication regimen",
+            "Signs of medication deprivation or oversedation"
+        ]
+    },
+    "Social Contact Assessment": {
+        "Parameters": [
+            "Frequency of social interactions",
+            "Presence of social support"
+        ]
+    },
+    "Risk Score Calculation": {
+        "Parameters": {
+            "Risk Score": {
+                "Type": "score (e.g., 1-5)"
+            }
+        }
+    }
+}
+
+
+Note that I removed the introduction and conclusion sections, as well as any unnecessary formatting characters. Let me know if you have any further requests!

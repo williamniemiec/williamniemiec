@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Mood Tracker": {
+    "parameters": [
+      { "name": "Name", "type": "text" },
+      { "name": "Mood Options", "type": "options", "options": ["Happy", "Sad", "Angry", "Fearful", "Neutral"] },
+      { "name": "Frequency", "type": "options", "options": ["daily", "every 2 hours", "every 4 hours"] }
+    ]
+  }
+}
+
+
+Note that I removed the `Deadline Date` parameter since it was marked as not applicable (`required: false`). Let me know if this is what you were looking for!

@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Safety Reminder": {
+    "Surface Type": {"type": "options", "options": ["table", "highchair", "etc."]},
+    "Child Age": {"type": "text"},
+    "Supervision": {"type": "options", "options": ["close supervision", "restraining device", "etc."]},
+    "Reminder": {"type": "text"}
+  }
+}

@@ -1,0 +1,30 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Bib Protection",
+    "parameters": [
+        {
+            "name": "Bib Needed",
+            "type": "boolean"
+        },
+        {
+            "name": "Bib Instructions",
+            "type": "text"
+        },
+        {
+            "name": "Visual Aids",
+            "type": "multimedia"
+        },
+        {
+            "name": "Reminders",
+            "type": "boolean"
+        },
+        {
+            "name": "Frequency",
+            "type": "options"
+        }
+    ]
+}
+
+I removed the not applicable parameters and kept only the `{{ NO-CODE ELEMENT NAME }}` and `{{ PARAMETER ESPECIFICATIONS }}`.

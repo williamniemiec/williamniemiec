@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Sample Collection": {
+    "parameters": {
+      "Sample Type": {"type": "text or selection from a list of options", "required": true},
+      "Protocol Steps": {"type": "ordered list of instructions", "required": true},
+      "Sample Collection Method": {"type": "text or selection from a list of options", "required": true},
+      "Sample Storage": {"type": "text or selection from a list of options", "required": true},
+      "Sample Labeling": {"type": "text or selection from a list of options", "required": true}
+    }
+  }
+}

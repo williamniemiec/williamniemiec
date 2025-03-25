@@ -1,0 +1,10 @@
+{
+  "name": "Infant Development and Parenting",
+  "description": "Focuses on infant development, including feeding, crying patterns, pacifier use, swaddling, and general parenting techniques.",
+  "type": "non-periodic",
+  "input": ["Infant's age", "Feeding details", "Crying pattern", "Parenting actions"],
+  "output": ["Developmental progress report", "Parenting tips", "Infant behavior analysis"],
+  "preconditions": ["Infant is under observation or care"],
+  "postconditions": ["Developmental data is recorded and analyzed"],
+  "dependencies": ["Parenting guidance system", "Feeding tracker", "Infant behavior database"]
+}

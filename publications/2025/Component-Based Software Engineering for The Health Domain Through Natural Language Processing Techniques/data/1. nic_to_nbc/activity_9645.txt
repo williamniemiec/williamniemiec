@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Peer Credential Review": {
+    "parameters": {
+      "name": {"type": "text"},
+      "peer": {"type": "text"},
+      "credentials": {"type": "list of text"},
+      "review_type": {"type": "options"},
+      "frequency": {"type": "options"},
+      "deadline_date": {"type": "datetime"}
+    }
+  }
+}

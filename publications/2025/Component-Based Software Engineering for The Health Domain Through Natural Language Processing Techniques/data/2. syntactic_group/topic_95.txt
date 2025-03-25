@@ -1,0 +1,10 @@
+{
+  "name": "Fluid Intake and Hydration Monitoring",
+  "description": "Monitors hydration levels, including fluid intake, urine output, and insensible fluid loss. Provides information on hydration status and turgor evaluation.",
+  "type": "periodic",
+  "input": ["Fluid intake", "Urine output", "Insensible fluid loss", "Hydration turgor"],
+  "output": ["Hydration report", "Urine and fluid intake feedback", "Turgor evaluation results"],
+  "preconditions": ["User is tracking hydration levels or experiencing hydration-related issues"],
+  "postconditions": ["Proper hydration maintenance and fluid balance"],
+  "dependencies": ["Hydration monitoring tools", "Urine tracking system", "Fluid intake management"]
+}

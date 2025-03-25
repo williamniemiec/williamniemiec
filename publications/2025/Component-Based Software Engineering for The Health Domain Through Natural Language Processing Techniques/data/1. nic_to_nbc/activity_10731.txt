@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+  "Sensory Stimulation Guide": {
+    "Name": {"type": "text"},
+    "Senses": {"type": "options", "options": [
+      {"value": "music", "label": "Music"},
+      {"value": "counting", "label": "Counting"},
+      {"value": "television", "label": "Television"},
+      {"value": "reading", "label": "Reading"},
+      {"value": "videoGames", "label": "Video/Hand-held Games"},
+      {"value": "virtualReality", "label": "Virtual Reality"}
+    ]},
+    "Benefits": {"type": "text"},
+    "Examples": {"type": "text"},
+    "Frequency": {"type": "options", "options": [
+      {"value": "daily", "label": "Daily"},
+      {"value": "onlyOnce", "label": "Only once"},
+      {"value": "everyHours", "label": "Every x hours"},
+      {"value": "everyDays", "label": "Every x days"}
+    ]},
+    "Deadline Date": {"type": "datetime"}
+  }
+}
+
+I removed all unnecessary text and kept only the `{{ NO-CODE ELEMENT NAME }}` and `{{ PARAMETER ESPECIFICATIONS }}`. I also reformatted the output to be a valid JSON object. Let me know if this meets your requirements!

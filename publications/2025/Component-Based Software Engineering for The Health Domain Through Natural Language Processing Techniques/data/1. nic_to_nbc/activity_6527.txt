@@ -1,0 +1,16 @@
+
+
+
+{
+  "Instruction": {
+    "Title": {"Type": "text"},
+    "Content": {"Type": "text"},
+    "Reason": {"Type": "text"},
+    "Tips": {"Type": "list", "list": "list of text"}
+  },
+  "Guide": {
+    "Title": {"Type": "text"},
+    "Pages": {"Type": "book-page", "book-page": "list of HTML texts"},
+    "Steps": {"Type": "list", "list": "list of text"}
+  }
+}

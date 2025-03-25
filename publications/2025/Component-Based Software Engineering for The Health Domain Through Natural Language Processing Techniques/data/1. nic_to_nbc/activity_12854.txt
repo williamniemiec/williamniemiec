@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Laser Setup": {
+    "Protocol": {},
+    "Device Settings": {},
+    "Safety Precautions": {},
+    "Verification": {},
+    "Notes": {}
+  }
+}

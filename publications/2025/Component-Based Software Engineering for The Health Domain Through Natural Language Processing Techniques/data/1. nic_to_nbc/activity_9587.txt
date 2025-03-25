@@ -1,0 +1,31 @@
+Here is the output in JSON format:
+
+
+{
+  "Acid-Base Balance Monitoring": {
+    "Lab Result Tracking": {
+      "type": "options",
+      "values": ["arterial pH", "PaCO2", "HCO3"]
+    },
+    "Trend Analysis": {
+      "type": "options",
+      "values": ["identify patterns", "detect changes"]
+    },
+    "Imbalance Detection": {
+      "type": "options",
+      "values": ["respiratory", "metabolic"]
+    },
+    "Compensatory Mechanism Identification": {
+      "type": "options",
+      "values": ["pulmonary", "renal", "physiological buffers"]
+    },
+    "Reminder Frequency": {
+      "type": "options",
+      "values": ["every 30 minutes", "every 2 hours"]
+    },
+    "Notification Method": {
+      "type": "options",
+      "values": ["in-app notification", "SMS", "email"]
+    }
+  }
+}

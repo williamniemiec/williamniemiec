@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "instruction": {
+    "parameters": {
+      "Title": {"type": "text"},
+      "Content": {"type": "text"},
+      "Reason": {"type": "text"},
+      "Tips": {"type": "list", "list": "list of text"}
+    }
+  }
+}

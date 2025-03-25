@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+    "Goal Exploration": {
+        "Parameters": {
+            "Goal": {
+                "Type": "text"
+            },
+            "Options": {
+                "Type": "list of options (e.g. text, images, or icons)"
+            },
+            "Reflection Prompt": {
+                "Type": "text"
+            }
+        }
+    }
+}

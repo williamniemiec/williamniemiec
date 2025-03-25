@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+  "Digital Signature": {
+    "parameters": {
+      "name": "digital signature title",
+      "form": "the \"sign-out\" form to be signed (e.g., PDF, HTML)",
+      "signature": "the digital signature of the patient or responsible person (e.g., electronic signature, fingerprint)"
+    }
+  },
+  "Form": {
+    "parameters": {
+      "name": "form title",
+      "fields": "list of form fields (e.g., text, checkbox, signature)",
+      "signature": "the digital signature of the patient or responsible person (e.g., electronic signature, fingerprint)"
+    }
+  },
+  "Log": {
+    "parameters": {
+      "name": "log title",
+      "entries": "list of log entries (e.g., date, time, signature, form completion status)"
+    }
+  }
+}
+
+
+Let me know if this is what you were expecting!

@@ -1,0 +1,35 @@
+Here is the output in JSON format:
+
+
+{
+  "Pressure and Friction Check": {
+    "Parameters": {
+      "check title": {
+        "Description": "title of the check",
+        "Required": true,
+        "Type": "text"
+      },
+      "Questions": {
+        "Description": "list of questions to ask the patient to monitor for sources of pressure and friction",
+        "Required": true,
+        "Type": "list of questions",
+        "Questions": [
+          {"name": "pressure areas", "description": "Are there any areas of pressure on your skin?", "type": "boolean"},
+          {"name": "friction sources", "description": "Are there any sources of friction on your skin?", "type": "boolean"},
+          {"name": "pressure relief", "description": "Have you taken steps to relieve pressure on your skin?", "type": "boolean"}
+        ]
+      },
+      "Frequency": {
+        "Description": "specify how often the patient should monitor for sources of pressure and friction",
+        "Required": true,
+        "Type": "options",
+        "Options": [
+          {"value": "daily", "label": "Daily"},
+          {"value": "everyHours", "label": "Every x hours"},
+          {"value": "everyDays", "label": "Every x days"},
+          {"value": "asNeeded", "label": "As needed"}
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Temperature Tracker": {
+        "Name": {"type": "text"},
+        "Temperature": {"type": "number"},
+        "Frequency": {"type": "options"},
+        "Deadline Date": {"type": "datetime"},
+        "Target Range": {"type": "range"},
+        "Notes": {"type": "text"}
+    }
+}

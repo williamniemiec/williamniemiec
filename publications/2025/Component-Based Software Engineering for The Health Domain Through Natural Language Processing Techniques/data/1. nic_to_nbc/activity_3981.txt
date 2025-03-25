@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Journal Entry": {
+    "Parameters": {
+      "Prompt": {"Type": "text"},
+      "Frequency": {"Type": "options", "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"Type": "datetime"},
+      "Entry Type": {"Type": "options", "Options": ["feelings", "perceptions", "concerns", "goals"]},
+      "Entry Content": {"Type": "text"}
+    }
+  }
+}

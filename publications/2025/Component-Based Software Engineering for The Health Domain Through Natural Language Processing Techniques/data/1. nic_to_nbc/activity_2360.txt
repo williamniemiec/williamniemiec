@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+    "Hygiene Instruction": {
+        "Parameters": {
+            "Name": {"Type": "text"},
+            "Content": {"Type": ["text", "multimedia"]},
+            "Steps": {"Type": ["ordered list of text", "multimedia"]},
+            "Frequency": {"Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+            "Deadline Date": {"Type": "datetime"}
+        }
+    }
+}
+
+
+Note: I removed the "Task" element as it was not part of the original request, and also removed the "Not Applicable" parameters. Let me know if you need anything else!

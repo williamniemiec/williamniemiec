@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Bedtime Ritual Support": {
+    "Ritual Identification": {},
+    "Ritual Scheduling": {},
+    "Reminders": {},
+    "Ritual Adaptation": {},
+    "Progress Tracking": {}
+  }
+}

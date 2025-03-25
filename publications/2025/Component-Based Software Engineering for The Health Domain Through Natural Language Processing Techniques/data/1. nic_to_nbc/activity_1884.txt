@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Pressure Avoidance Instruction": {
+    "parameters": {
+      "name": {"type": "text"},
+      "content": {"type": "text or video"},
+      "images": {"type": "list of images"},
+      "affected_body_part": {"type": "options (list of body parts)"},
+      "avoidance_tips": {"type": "list of text"},
+      "frequency": {"type": "options (e.g., always, during certain activities, as needed)"}
+    }
+  }
+}
+
+
+Note that I removed the `deadline_date` parameter since it's not applicable in this context. Let me know if you have any further questions!

@@ -1,0 +1,30 @@
+Here is the output in JSON format:
+
+
+{
+  "Procedure Steps": {
+    "type": "list",
+    "fields": [
+      {"name": "step_name", "label": "Step Name", "type": "text"},
+      {"name": "step_description", "label": "Step Description", "type": "text"},
+      {"name": "step_duration", "label": "Step Duration", "type": "time"}
+    ]
+  },
+  "Environment Description": {
+    "type": "text"
+  },
+  "Key Personnel": {
+    "type": "list",
+    "fields": [
+      {"name": "personnel_name", "label": "Personnel Name", "type": "text"},
+      {"name": "personnel_role", "label": "Personnel Role", "type": "text"}
+    ]
+  },
+  "Special Considerations": {
+    "type": "text"
+  },
+  "Visual Aids": {
+    "type": "media"
+  },
+  "Procedure Timeline": {}
+}

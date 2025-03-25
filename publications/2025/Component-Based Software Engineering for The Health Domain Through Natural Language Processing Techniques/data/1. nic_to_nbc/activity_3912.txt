@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "commitment scale": {
+    "Method": {"type": "text"},
+    "Commitment Questions": {"type": "Likert scale"},
+    "Frequency": {"options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"type": "datetime"}
+  }
+}

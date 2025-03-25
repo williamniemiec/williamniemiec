@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Relaxation Technique": {
+        "Parameters": {
+            "Technique Type": {"Type": "options"},
+            "Guided Audio": {"Type": "audio"},
+            "Instructions": {"Type": "text"},
+            "Frequency": {"Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+            "Duration": {"Type": "time interval"}
+        }
+    }
+}

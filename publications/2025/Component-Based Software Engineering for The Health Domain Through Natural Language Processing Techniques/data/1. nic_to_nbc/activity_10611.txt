@@ -1,0 +1,10 @@
+Here is the output in JSON format:
+
+
+{
+  "Apply Perineal Pad": {
+    "Frequency": "",
+    "Deadline Date": "",
+    "Instructions": ""
+  }
+}

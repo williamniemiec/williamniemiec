@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Positioning Assistant": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Positioning Options": {"Type": "list of positioning options"},
+      "Transfer Techniques": {"Type": "list of transfer techniques"},
+      "Support Devices": {"Type": "list of support devices"},
+      "Caregiver Assistance": {"Type": "list of caregiver assistance tips"},
+      "Patient Education": {"Type": "list of patient education materials"}
+    }
+  }
+}

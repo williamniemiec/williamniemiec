@@ -1,0 +1,29 @@
+Here is the output in JSON format:
+
+
+{
+  "Exercise Plan": {
+    "Parameters": {
+      "Exercise Type": {
+        "Type": "options",
+        "Options": ["ambulation", "stretching", "strengthening", "balance exercises", "etc."]
+      },
+      "Frequency": {
+        "Type": "options",
+        "Options": ["daily", "every other day", "3 times a week", "etc."]
+      },
+      "Duration": {
+        "Type": "text",
+        "Description": "specify the duration of each exercise session (e.g., 15 minutes, 30 minutes, etc.)"
+      },
+      "Physiotherapist Instructions": {
+        "Type": "text",
+        "Description": "provide specific instructions from the physiotherapist on how to perform the exercises, including any modifications or precautions"
+      },
+      "Progress Tracking": {
+        "Type": "boolean",
+        "Description": "allow the patient to track their progress and provide feedback to the physiotherapist"
+      }
+    }
+  }
+}

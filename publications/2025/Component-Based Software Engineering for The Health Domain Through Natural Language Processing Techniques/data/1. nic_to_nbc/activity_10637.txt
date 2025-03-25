@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Decision Support": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Options": {"Type": "options"},
+      "Pros and Cons": {"Type": "list"},
+      "Questions": {"Type": "form"},
+      "Decision Deadline": {"Type": "datetime"},
+      "Resources": {"Type": "list"}
+    }
+  }
+}

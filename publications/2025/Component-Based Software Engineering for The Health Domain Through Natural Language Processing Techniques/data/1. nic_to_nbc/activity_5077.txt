@@ -1,0 +1,36 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Focused Presenter",
+    "parameters": [
+        { 
+            "name": "Main Point", 
+            "type": "text"
+        },
+        { 
+            "name": "Presentation Length", 
+            "type": "options",
+            "options": ["5 minutes", "10 minutes", "15 minutes", "other"]
+        },
+        { 
+            "name": "Focus Areas", 
+            "type": "options",
+            "options": ["key statistics", "personal stories", "expert opinions", "other"]
+        },
+        { 
+            "name": "Supporting Materials", 
+            "type": "options",
+            "options": ["slides", "handouts", "videos", "other"]
+        },
+        { 
+            "name": "Engagement Strategies", 
+            "type": "options",
+            "options": ["questions", "discussions", "interactive activities", "other"]
+        },
+        { 
+            "name": "Notes", 
+            "type": "text"
+        }
+    ]
+}

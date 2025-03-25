@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Invasive Hemodynamic Line Assistant": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Line Type": {"Type": "list of options"},
+      "Insertion Steps": {"Type": "ordered list of text or images"},
+      "Removal Steps": {"Type": "ordered list of text or images"},
+      "Precautions": {"Type": "list of text or images"},
+      "Notes": {"Type": "text"}
+    }
+  }
+}

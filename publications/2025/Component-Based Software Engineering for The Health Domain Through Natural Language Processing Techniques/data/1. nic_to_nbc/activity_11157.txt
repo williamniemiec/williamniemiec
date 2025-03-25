@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+  "Tutorial": {
+    "parameters": {
+      "name": "Suture Line Security",
+      "content": "Secure the suture line with square knots",
+      "type": "interactive tutorial",
+      "steps": [
+        "Step 1: Hold the suture thread in one hand",
+        "Step 2: Create a loop with the thread",
+        "Step 3: Pass the thread through the loop",
+        "Step 4: Pull the thread tight to create a square knot"
+      ],
+      "images": "a series of images or illustrations to help demonstrate each step",
+      "interactive elements": "(optional) interactive elements, such as a virtual suture thread, to help patients practice and learn"
+    }
+  }
+}
+
+
+I removed all unnecessary text and only kept the `{{ NO-CODE ELEMENT NAME }}` (which is "Tutorial") and the `{{ PARAMETER ESPECIFICATIONS }}`. I also removed the "videos" parameter since it was marked as optional. Let me know if you have any further questions!

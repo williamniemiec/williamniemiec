@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Lab Result Tracking": {
+    "parameters": {
+      "lab_test_name": {"type": "text"},
+      "tracking_frequency": {"type": "options"},
+      "result_type": {"type": "options"},
+      "unit_of_measurement": {"type": "text"},
+      "normal_range": {"type": "text"},
+      "notes": {"type": "text"}
+    }
+  }
+}

@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+  "Alert Device": {
+    "name": {"type": "text"},
+    "content": {"type": "text"},
+    "device_type": {"type": "options", "options": ["bracelet", "necklace"]},
+    "device_info": {
+      "type": "object",
+      "properties": {
+        "device_name": {},
+        "device_description": {},
+        "device_image": {}
+      }
+    },
+    "reminder": {"type": "boolean"}
+  }
+}
+
+
+Let me know if this is what you were expecting!

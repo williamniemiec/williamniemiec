@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+  "Weaning Options": {
+    "Parameters": {
+      "Current Weaning Method": {"Type": "text", "Content": "What is your current weaning method?"},
+      "Patient Response": {"Type": "text", "Content": "How are you feeling about your current weaning method?"},
+      "Alternate Weaning Methods": {"Type": "list", "Content": "Consider trying these alternate weaning methods: [insert list of methods, e.g., gradual weaning, stepwise weaning, etc.]"},
+      "Weaning Plan Adjustment": {
+        "Type": "form",
+        "Fields": {
+          "New weaning method": {},
+          "Reason for change": {},
+          "Expected outcome": {}
+        }
+      }
+    }
+  }
+}

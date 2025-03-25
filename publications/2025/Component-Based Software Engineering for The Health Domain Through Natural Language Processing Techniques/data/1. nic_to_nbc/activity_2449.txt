@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+  "resource": {
+    "parameters": [
+      {"name": "Name", "type": "text"},
+      {"name": "Content", "type": "text or pdf"},
+      {"name": "Format", "type": "text"},
+      {"name": "Language", "type": "text"}
+    ]
+  },
+  "link": {
+    "parameters": [
+      {"name": "Name", "type": "text"},
+      {"name": "URL", "type": "url"},
+      {"name": "Description", "type": "text"}
+    ]
+  }
+}
+
+
+Let me know if this meets your requirements!

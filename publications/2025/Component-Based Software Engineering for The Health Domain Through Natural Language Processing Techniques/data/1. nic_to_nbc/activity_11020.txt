@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+  "Alert": {
+    "parameters": [
+      {
+        "name": "name",
+        "value": "Refrain from giving oral stimulants"
+      },
+      {
+        "name": "description",
+        "value": "Alert the patient to avoid giving oral stimulants"
+      },
+      {
+        "name": "content_type",
+        "value": "text"
+      },
+      {
+        "name": "reason",
+        "type": "text",
+        "required": true
+      }
+    ]
+  }
+}

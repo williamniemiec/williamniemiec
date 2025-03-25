@@ -1,0 +1,29 @@
+Here is the output in JSON format:
+
+
+{
+  "Airway Maintenance": {
+    "parameters": [
+      { 
+        "name": "airway maneuver", 
+        "description": "select the airway maneuver to use", 
+        "required": true, 
+        "type": "options",
+        "options": [
+          { value: "head tilt", label: "Head tilt" },
+          { value: "jaw thrust", label: "Jaw thrust" }
+        ]
+      },
+      { 
+        "name": "maneuver instructions", 
+        "description": "provide instructions for the selected airway maneuver", 
+        "required": true, 
+        "type": "conditional",
+        "conditional": {
+          "head tilt": { value: "Tilt the patient's head back to open the airway", label: "Tilt the patient's head back to open the airway" },
+          "jaw thrust": { value: "Perform a jaw thrust to open the airway", label: "Perform a jaw thrust to open the airway" }
+        }
+      }
+    ]
+  }
+}

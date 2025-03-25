@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Learning Assessment": {
+    "Content Presented": {"type": "text"},
+    "Written Materials Provided": {"type": "text or file upload"},
+    "Patient Receptivity": {"type": "options"},
+    "Understanding": {"type": "options"},
+    "Behaviors Indicating Learning": {"type": "text or checklist"}
+  }
+}

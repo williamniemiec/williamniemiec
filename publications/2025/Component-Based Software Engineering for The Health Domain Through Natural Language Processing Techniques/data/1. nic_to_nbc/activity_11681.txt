@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "healthy_diet_progression": {
+    "parameters": [
+      {"name": "food_type"},
+      {"name": "nutrient_criteria"},
+      {"name": "duration", "options": [{"value": "for_life"}]},
+      {"name": "frequency", "options": [{"value": "daily"}]}
+    ]
+  }
+}

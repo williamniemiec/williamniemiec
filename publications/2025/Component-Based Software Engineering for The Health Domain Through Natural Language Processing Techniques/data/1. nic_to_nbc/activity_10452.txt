@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "Assessment Form": {
+    "Parameters": {
+      "Questions": [],
+      "Answer type": [
+        "Text",
+        "Select (from a list of options)",
+        "Boolean (yes/no)"
+      ],
+      "Decision logic": {},
+      "Outcome": [
+        "Acupressure is applicable for treatment",
+        "Acupressure is not applicable for treatment",
+        "Further evaluation is needed to determine applicability"
+      ]
+    }
+  }
+}
+
+
+Let me know if you need any further modifications!

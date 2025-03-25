@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Demographic Data": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Age": {"Type": "number"},
+      "Room Number": {"Type": "text"}
+    }
+  }
+}

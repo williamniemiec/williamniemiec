@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Disease Process Explanation": {
+    "parameters": [
+      {"name": "name", "type": "text", "required": true},
+      {"name": "disease", "type": "text", "required": true},
+      {"name": "explanation", "type": "html", "required": true},
+      {"name": "images", "type": "image", "required": false},
+      {"name": "videos", "type": "video", "required": false}
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Vaccination Reminder": {
+    "parameters": [
+      {"name": "due_date", "description": "Specify the due date for tetanus toxoid vaccination", "required": true, "type": "datetime"},
+      {"name": "frequency", "description": "How often should you receive a reminder for tetanus toxoid vaccination?", "required": true, "type": "options", "options": [
+        {"value": "onlyOnce", "label": "Only once"},
+        {"value": "everyYear", "label": "Every year"},
+        {"value": "every5Years", "label": "Every 5 years"}
+      ]},
+      {"name": "notes", "description": "Add any notes or comments about tetanus toxoid vaccination", "required": false, "type": "text"}
+    ]
+  }
+}

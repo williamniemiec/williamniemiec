@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+  "Health Literacy Assessment": {
+    "assessment_type": {
+      "type": "options",
+      "options": ["informal", "formal", "combination"]
+    },
+    "informal_assessment_questions": {
+      "type": "list of questions"
+    },
+    "formal_assessment_tool": {
+      "type": "options",
+      "options": ["REALM", "NVS", "TOFHLA"]
+    },
+    "scoring_system": {
+      "type": "options",
+      "options": ["low", "moderate", "high"]
+    },
+    "result": {
+      "type": "text"
+    }
+  }
+}
+
+
+I removed everything except the `PARAMETER ESPECIFICATIONS` and `NO-CODE ELEMENT NAME`, and formatted it as a JSON object. I also removed any non-applicable parameters. Let me know if this is what you were looking for!

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Pain Relief Options": {
+    "Parameters": {
+      "Pain Assessment": {"Type": "numerical value or text input field"},
+      "Pain Relief Options": {"Type": "list of text/html with descriptions and potential side effects"},
+      "Benefits and Risks": {"Type": "text/html with bullet points or tables"},
+      "Mother's Preferences": {"Type": "text input field or selection from a list of options"},
+      "Provider Recommendations": {"Type": "text/html with rationale"}
+    }
+  }
+}

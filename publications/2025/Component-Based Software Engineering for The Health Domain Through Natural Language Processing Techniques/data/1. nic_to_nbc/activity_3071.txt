@@ -1,0 +1,42 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Site Inspection",
+    "parameters": [
+        {
+            "name": "Inspection Frequency",
+            "type": "options",
+            "options": [
+                { "value": "everyMinute", "label": "Every minute" },
+                { "value": "every2Minutes", "label": "Every 2 minutes" },
+                { "value": "every5Minutes", "label": "Every 5 minutes" }
+            ]
+        },
+        {
+            "name": "Inspection Method",
+            "type": "text"
+        },
+        {
+            "name": "Signs of Irritation/Damage",
+            "type": "text"
+        },
+        {
+            "name": "Frequency of Ongoing Inspection",
+            "type": "options",
+            "options": [
+                { "value": "every15Minutes", "label": "Every 15 minutes" },
+                { "value": "every30Minutes", "label": "Every 30 minutes" },
+                { "value": "everyHour", "label": "Every hour" }
+            ]
+        },
+        {
+            "name": "Duration of Treatment",
+            "type": "text"
+        },
+        {
+            "name": "Action to Take",
+            "type": "text"
+        }
+    ]
+}

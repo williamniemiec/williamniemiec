@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Patient Space Allocation": {
+    "Parameters": {
+      "Patient Type": {},
+      "CDC Guidelines": {},
+      "Room Dimensions": {},
+      "Calculation": {}
+    }
+  }
+}
+
+
+I removed the not applicable parameters, such as `Notes`, and kept only the required parameters. Let me know if this is what you were expecting!

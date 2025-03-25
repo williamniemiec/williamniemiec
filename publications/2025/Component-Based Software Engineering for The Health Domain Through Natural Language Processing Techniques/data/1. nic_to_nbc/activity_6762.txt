@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Questionnaire": {
+    "parameters": [
+      {
+        "name": "question1",
+        "description": "How often do you engage in sexual activity?"
+      },
+      {
+        "name": "question2",
+        "description": "What type of sexual activity do you engage in?"
+      },
+      {
+        "name": "question3",
+        "description": "Do you experience any discomfort or pain during sexual activity?"
+      }
+    ]
+  }
+}

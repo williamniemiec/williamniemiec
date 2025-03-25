@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Foot Pressure Inspection": {
+    "parameters": {
+      "Pressure Signs": {},
+      "Location": {},
+      "Photo": {},
+      "Frequency": {},
+      "Deadline Date": {},
+      "Notes": {}
+    }
+  }
+}

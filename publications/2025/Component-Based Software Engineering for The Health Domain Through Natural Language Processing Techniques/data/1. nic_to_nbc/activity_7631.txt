@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+{
+  "Denture Reminder": {
+    "Reminder Title": {},
+    "Frequency": {
+      "options": [
+        { "value": "daily", "label": "Daily" },
+        { "value": "onlyOnce", "label": "Only once" },
+        { "value": "everyHours", "label": "Every x hours" },
+        { "value": "everyDays", "label": "Every x days" }
+      ]
+    },
+    "Deadline Date": {}
+  }
+}
+
+Note that I removed the `Description` and `Type` fields, as well as the `Required` field, since they were not requested in the output. I also removed the `Content Type` parameter, as it was not part of the `Parameters` section. Let me know if you have any further questions!

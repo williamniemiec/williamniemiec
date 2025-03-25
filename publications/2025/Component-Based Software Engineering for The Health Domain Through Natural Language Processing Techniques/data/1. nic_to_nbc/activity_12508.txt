@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Dosage Verification": {
+    "parameters": {
+      " Dosage ": { "type": "text" },
+      " Leading Zero ": { "type": "options", "options": [ {"value": "yes", "label": "Yes"}, {"value": "no", "label": "No"} ] },
+      " Example ": { "type": "text", "example": "e.g., 0.2 vs..2" }
+    }
+  }
+}

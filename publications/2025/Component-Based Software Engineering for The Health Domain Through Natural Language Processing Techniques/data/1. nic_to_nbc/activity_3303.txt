@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "considerations guide": {
+    "Parameters": {
+      "Considerations": {"Type": "list of considerations with brief descriptions"},
+      "Questions": {"Type": "open-ended questions or multiple-choice questions"},
+      "Resources": {"Type": "list of resources with links or embedded content"},
+      "Frequency": {"Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"Type": "datetime"}
+    }
+  }
+}

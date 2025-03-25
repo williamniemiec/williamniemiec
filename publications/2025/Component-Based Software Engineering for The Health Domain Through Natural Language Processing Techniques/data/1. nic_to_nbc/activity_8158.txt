@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Guide": {
+    "parameters": {
+      "name": "Good Posture and Body Mechanics",
+      "pages": "A list of HTML texts or images"
+    }
+  },
+  "Video": {
+    "parameters": {
+      "name": "Good Posture and Body Mechanics",
+      "video_url": "The URL of the video tutorial",
+      "description": "A brief description of the video tutorial"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Activity Planner": {
+    "Child's Interests": {"type": "text"},
+    "Developmental Level": {"type": "text"},
+    "Activity Options": {"type": "list of options"},
+    "Schedule": {"type": "calendar or schedule"},
+    "Reminders": {"type": "boolean (yes/no) or frequency (e.g., daily, weekly)"},
+    "Progress Tracking": {"type": "journal or log"}
+  }
+}

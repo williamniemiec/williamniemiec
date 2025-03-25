@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Movement Pattern Practice": {
+    "Parameters": {
+      "Movement Pattern": {},
+      "Practice Instructions": {},
+      "Correct Form Criteria": {},
+      "Practice Repetitions": {},
+      "Feedback and Correction": {}
+    }
+  }
+}

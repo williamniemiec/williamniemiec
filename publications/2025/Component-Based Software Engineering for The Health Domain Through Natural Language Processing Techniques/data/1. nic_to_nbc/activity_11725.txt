@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Payment Source Identification",
+  "parameters": [
+    {
+      "name": "Insurance Information"
+    },
+    {
+      "name": "Eligibility Criteria"
+    },
+    {
+      "name": "Payment Options"
+    },
+    {
+      "name": "Authorization Requirements"
+    },
+    {
+      "name": "Payment Source"
+    }
+  ]
+}

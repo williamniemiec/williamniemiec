@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Control": {
+    "Name": {"type": "text"},
+    "Why": {"type": "text"},
+    "Notes": {"type": "text"},
+    "Dosage": {"type": "text"},
+    "Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"type": "datetime"}
+  },
+  "Fluid Intake Tracking": {
+    "Fluid Type": {"type": "text"},
+    "Volume": {"type": "number"},
+    "Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"type": "datetime"}
+  },
+  "Vital Sign Tracking": {
+    "Vital Sign": {"type": "text"},
+    "Unit": {"type": "text"},
+    "Target Range": {"type": "range"},
+    "Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"type": "datetime"}
+  }
+}

@@ -1,0 +1,51 @@
+Here is the output in JSON format:
+
+
+{
+  "parameters": [
+    {
+      "name": "diet_name",
+      "description": "name of the prescribed diet",
+      "required": true,
+      "type": "text"
+    },
+    {
+      "name": "diet_description",
+      "description": "brief description of the diet",
+      "required": true,
+      "type": "text"
+    },
+    {
+      "name": "educational_content",
+      "description": "list of educational materials",
+      "required": true,
+      "type": "list",
+      "items": [
+        {
+          "type": "text",
+          "content": "Introduction to the diet"
+        },
+        {
+          "type": "image",
+          "content": "Image of a sample meal"
+        },
+        {
+          "type": "video",
+          "content": "Video explaining the benefits of the diet"
+        }
+      ]
+    },
+    {
+      "name": "frequency",
+      "description": "specify how often the educational content should be reviewed",
+      "required": false,
+      "type": "options",
+      "options": [
+        { value: "daily", label: "Daily" },
+        { value: "weekly", label: "Weekly" },
+        { value: "monthly", label: "Monthly" }
+      ]
+    }
+  ],
+  "name": "dietary education"
+}

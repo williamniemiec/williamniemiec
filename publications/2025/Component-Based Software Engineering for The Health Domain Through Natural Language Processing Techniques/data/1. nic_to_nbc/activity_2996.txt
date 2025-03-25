@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Humidity Control",
+  "parameters": [
+    {
+      "name": "Target Humidity"
+    },
+    {
+      "name": "Humidity Unit"
+    },
+    {
+      "name": "Monitoring Frequency"
+    },
+    {
+      "name": "Alert Threshold"
+    }
+  ]
+}

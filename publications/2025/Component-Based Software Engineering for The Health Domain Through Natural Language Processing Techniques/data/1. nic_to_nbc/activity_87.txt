@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Landmark Assessment": {
+    "Parameters": {
+      "Landmark Identification": {
+        "Type": "multiple choice or interactive hotspot",
+        "Options": "list of possible landmarks (e.g., epiphyseal growth plate, bone structure, etc.)"
+      },
+      "Needle Placement Guidance": {
+        "Type": "text or interactive animation",
+        "Content": "step-by-step instructions or visual guidance on how to properly place the needle"
+      },
+      "Image/Model": {
+        "Type": "image or 3D model file",
+        "Content": "an interactive image or 3D model of the relevant anatomy"
+      }
+    }
+  }
+}

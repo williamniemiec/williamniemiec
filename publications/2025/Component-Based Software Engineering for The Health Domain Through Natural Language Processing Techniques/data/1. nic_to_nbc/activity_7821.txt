@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Temperature-Related Symptom Monitoring": {
+    "parameters": {
+      "Name": {"type": "text"},
+      "Symptoms": {"type": "list of symptoms"},
+      "Frequency": {"type": "options"},
+      "Severity": {"type": "options"},
+      "Notes": {"type": "text"}
+    }
+  }
+}

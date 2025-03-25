@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "information",
+    "parameters": [
+        {
+            "name": "title"
+        },
+        {
+            "name": "content"
+        },
+        {
+            "name": "type"
+        }
+    ]
+}

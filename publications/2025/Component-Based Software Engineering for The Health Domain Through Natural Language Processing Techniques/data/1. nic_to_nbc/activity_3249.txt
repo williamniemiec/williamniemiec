@@ -1,0 +1,30 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "motivational message",
+    "parameters": [
+        {
+            "name": "message",
+            "type": "text"
+        },
+        {
+            "name": "situation",
+            "type": "text"
+        },
+        {
+            "name": "frequency",
+            "type": "options",
+            "options": [
+                { value: "daily" },
+                { value: "onlyOnce" },
+                { value: "everyHours" },
+                { value: "everyDays" }
+            ]
+        },
+        {
+            "name": "deadline_date",
+            "type": "datetime"
+        }
+    ]
+}

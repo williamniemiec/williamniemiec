@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+    "IV Access Tracker": {
+        "parameters": {
+            "IV Access Status": {
+                "type": "options",
+                "values": ["established", "not established", "maintained"]
+            },
+            "IV Type": {
+                "type": "options",
+                "values": ["peripheral", "central"]
+            },
+            "Insertion Date": {
+                "type": "datetime"
+            },
+            "Maintenance Schedule": {
+                "type": "options",
+                "values": ["daily", "every 12 hours"]
+            },
+            "Complications": {
+                "type": "text or options",
+                "values": ["infection", "phlebitis"]
+            }
+        }
+    }
+}

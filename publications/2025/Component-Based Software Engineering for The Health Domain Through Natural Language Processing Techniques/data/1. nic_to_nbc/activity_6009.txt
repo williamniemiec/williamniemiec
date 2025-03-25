@@ -1,0 +1,31 @@
+Here is the output in JSON format:
+
+
+{
+  "Care Plan Evaluator": {
+    "parameters": {
+      "Care Plan Data": {"type": "text or HTML"},
+      "Evaluation Criteria": {"type": "options", "options": [
+        {"value": "outcomes", "label": "Patient Outcomes"},
+        {"value": "satisfaction", "label": "Patient Satisfaction"},
+        {"value": "adherence", "label": "Adherence to Care Plan"},
+        {"value": "other", "label": "Other (please specify)"}
+      ]},
+      "Data Type": {"type": "options", "options": [
+        {"value": "numerical", "label": "Numerical"},
+        {"value": "categorical", "label": "Categorical"},
+        {"value": "text", "label": "Text"}
+      ]},
+      "Data Value": {"type": "depends on Data Type"},
+      "Care Team Input": {"type": "text"},
+      "Evaluation Outcome": {"type": "options", "options": [
+        {"value": "successful", "label": "Successful"},
+        {"value": "unsuccessful", "label": "Unsuccessful"},
+        {"value": "inconclusive", "label": "Inconclusive"}
+      ]}
+    }
+  }
+}
+
+
+Let me know if this meets your requirements!

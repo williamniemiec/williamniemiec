@@ -1,0 +1,44 @@
+Here is the output in JSON format:
+
+
+{
+  "Symptom Tracker": {
+    "Symptom List": {
+      "type": "list",
+      "example": [
+        {"symptom": "Dizziness", "severity": "Mild"},
+        {"symptom": "Fatigue", "severity": "Moderate"},
+        {"symptom": "Muscle weakness", "severity": "Severe"}
+      ]
+    },
+    "Frequency": {
+      "type": "options",
+      "options": [
+        {"value": "daily", "label": "Daily"},
+        {"value": "weekly", "label": "Weekly"},
+        {"value": "monthly", "label": "Monthly"}
+      ]
+    },
+    "Threshold": {
+      "type": "options",
+      "options": [
+        {"value": "worsen", "label": "If symptoms worsen"},
+        {"value": "persist", "label": "If symptoms persist for X days"}
+      ]
+    }
+  },
+  "Consultation Request": {
+    "Request Type": {
+      "type": "options",
+      "options": [
+        {"value": "phoneCall", "label": "Phone Call"},
+        {"value": "videoCall", "label": "Video Call"},
+        {"value": "inPersonVisit", "label": "In-Person Visit"}
+      ]
+    },
+    "Request Reason": {
+      "type": "text",
+      "example": "Worsening dizziness and fatigue"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "Adverse Reaction Monitoring": {
+    "parameters": {
+      "adverse_reactions": {
+        "type": "list of options"
+      },
+      "monitoring_frequency": {
+        "type": "options"
+      },
+      "symptom_assessment": {
+        "type": "list of options"
+      },
+      "notification_criteria": {
+        "type": "list of options"
+      },
+      "notification_method": {
+        "type": "options"
+      }
+    }
+  }
+}

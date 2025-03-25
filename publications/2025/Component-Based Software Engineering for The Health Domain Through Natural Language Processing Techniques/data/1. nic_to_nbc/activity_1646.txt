@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "NPO Plan Name": {
+    "Description": "Name of the NPO plan",
+    "Required": true,
+    "Type": "text"
+  },
+  "Instructions": {
+    "Description": "Step-by-step instructions for NPO",
+    "Required": true,
+    "Type": "text or list of text",
+    "Examples": ["Do not eat or drink anything", "Avoid taking medications by mouth", "etc."]
+  },
+  "Duration": {
+    "Description": "Length of time the patient should follow NPO",
+    "Required": true,
+    "Type": "text or number"
+  },
+  "Reason": {
+    "Description": "Reason for NPO",
+    "Required": true
+  }
+}

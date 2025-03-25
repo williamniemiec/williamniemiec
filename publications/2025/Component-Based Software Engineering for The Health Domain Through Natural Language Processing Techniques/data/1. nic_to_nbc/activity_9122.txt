@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Cleaning Reminder": {
+    "Name": {"type": "text"},
+    "Cleaning Tasks": {"type": "unordered list", "options": ["clean utensils", "clean eating area", "wash hands", "etc."]},
+    "Frequency": {"type": "options", "options": ["before each meal", "daily", "weekly"]},
+    "Deadline Date": {"type": "datetime"},
+    "Instructions": {"type": "text or HTML"}
+  },
+  "Task": {
+    "Name": {"type": "text"},
+    "Content": {"type": "text or HTML"},
+    "Frequency": {"type": "options", "options": ["before each meal", "daily", "weekly"]},
+    "Deadline Date": {"type": "datetime"}
+  }
+}

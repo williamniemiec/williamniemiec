@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+
+{
+    "Guide": {
+        "Name": {"Type": "text"},
+        "Pages": {"Type": "book-page", "book-page": "list of HTML texts or multimedia content (e.g., images, videos)"},
+        "Examples": {"Type": "list of text or multimedia content (e.g., images, videos)"},
+        "Tips": {"Type": "list of text or multimedia content (e.g., images, videos)"}
+    }
+}

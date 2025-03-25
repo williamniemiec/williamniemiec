@@ -1,0 +1,36 @@
+Here is the output in JSON format:
+
+
+{
+  "No-code element name": "Hyponatremia Cardiovascular Tracker",
+  "Parameters": {
+    "Symptom List": {
+      "Type": "checklist",
+      "Required": true
+    },
+    "Vital Signs": {
+      "Blood pressure": {
+        "Type": "number",
+        "Required": true
+      },
+      "Heart rate": {
+        "Type": "number",
+        "Required": true
+      },
+      "Body temperature": {
+        "Type": "number",
+        "Required": true
+      }
+    },
+    "Edema Assessment": {
+      "Peripheral edema": {
+        "Type": "boolean",
+        "Required": true
+      },
+      "Pulmonary edema": {
+        "Type": "boolean",
+        "Required": true
+      }
+    }
+  }
+}

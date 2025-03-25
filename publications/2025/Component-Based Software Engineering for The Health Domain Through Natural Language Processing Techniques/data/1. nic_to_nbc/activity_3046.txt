@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Food Presentation Guide": {
+    "parameters": {
+      "Food Presentation Tips": {"type": "text"},
+      "Temperature Control": {"type": "range"},
+      "Frequency": {"options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"type": "datetime"}
+    }
+  }
+}
+
+
+Note that I removed the `Introduction` and `Conclusion` sections, as well as the `NUMBER` and `NO-CODE ELEMENT DESCRIPTION` parts. I also removed the `**Task** element` and `**Guide** element` references since they are not part of the `PARAMETER ESPECIFICATIONS`. Let me know if you need any further modifications!

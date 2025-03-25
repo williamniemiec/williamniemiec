@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+    "knowledge assessment": {
+        "parameters": [
+            { 
+                "name": "questions", 
+                "description": "list of questions to assess knowledge and skills"
+            },
+            { 
+                "name": "skills assessment", 
+                "description": "list of skills to assess related to foot care"
+            }
+        ]
+    }
+}

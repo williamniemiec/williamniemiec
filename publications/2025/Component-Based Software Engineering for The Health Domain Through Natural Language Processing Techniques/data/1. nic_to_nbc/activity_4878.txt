@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+    "Behavior Cue Response Guide": {
+        "parameters": [
+            {"name": "cue_types", "description": "list of behavior cues to recognize and respond to"},
+            {"name": "recognition_exercises", "description": "interactive exercises to help parents recognize behavior cues"},
+            {"name": "response_strategies", "description": "list of response strategies to use when responding to behavior cues"},
+            {"name": "scenario_based_training", "description": "scenario-based training exercises to simulate real-life situations"},
+            {"name": "quizzes_and_assessments", "description": "quizzes and assessments to test parents' knowledge and understanding"},
+            {"name": "frequency", "description": "how often to review and practice responding to behavior cues"}
+        ]
+    }
+}
+
+
+I removed the `deadline_date` parameter as it was marked as not required.

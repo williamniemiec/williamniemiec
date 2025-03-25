@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Health Record": {
+    "Parameters": {
+      "Name": "",
+      "Data": "",
+      "Access": ""
+    }
+  }
+}

@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+    "Care Routine": {
+        "Routine Activities": {"type": "list of text"},
+        "Frequency": {"type": "options", "options": ["daily", "weekly", "monthly", "etc."]},
+        "Reminders": {"type": "boolean"},
+        "Tracking": {"type": "boolean"}
+    }
+}

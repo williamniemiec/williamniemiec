@@ -1,0 +1,14 @@
+
+
+
+{
+  "Post-Hospitalization Instructions": {
+    "Activity Name": {"type": "text"},
+    "Purpose": {"type": "text"},
+    "Location": {"type": ["text", "address"]},
+    "Date and Time": {"type": "datetime"},
+    "Instructions": {"type": "text"},
+    "Additional Resources": {"type": ["text", "URL"]},
+    "Reminders": {"type": ["boolean", "options"]}
+  }
+}

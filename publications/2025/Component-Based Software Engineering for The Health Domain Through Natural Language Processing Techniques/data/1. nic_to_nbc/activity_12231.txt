@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "Needle Flushing": {
+    "Parameters": {
+      "Solution Selection": {
+        "Type": "multiple choice or dropdown list",
+        "Options": "list of possible solutions (e.g., saline, heparin, etc.)"
+      },
+      "Flushing Technique Guidance": {
+        "Type": "interactive animation or video",
+        "Content": "a step-by-step guide on how to properly flush the needle with the selected solution"
+      },
+      "Agency Protocol Compliance": {
+        "Type": "yes/no question or multiple choice",
+        "Options": "list of agency protocol requirements (e.g., use of specific equipment, following specific procedures, etc.)"
+      },
+      "Flushing Verification": {
+        "Type": "yes/no question or image upload",
+        "Content": "a prompt to confirm the needle has been flushed with the correct solution"
+      }
+    }
+  }
+}

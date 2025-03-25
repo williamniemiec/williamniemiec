@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Heparin Injection Site Selection": {
+    "Parameters": {
+      "Injection Site": {"Type": "options", "Default value": "Abdomen"},
+      "Injection Site Location": {"Type": "text"},
+      "Frequency": {"Type": "options"}
+    }
+  }
+}
+
+
+Note: I removed the `Deadline Date` parameter since it's not applicable in this context.

@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Risk Assessment": {
+    "Parameters": {
+      "Symptoms": {
+        "Type": "checklist or multi-select options"
+      },
+      "Severity": {
+        "Type": "options"
+      },
+      "Health Status": {
+        "Type": "options"
+      },
+      "Allergy History": {
+        "Type": "text or options"
+      }
+    }
+  }
+}

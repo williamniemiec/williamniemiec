@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+    "Oxygen Conservation Plan": {
+        "parameters": {
+            "name": {"type": "text"},
+            "strategies": {"type": "unordered list"},
+            "comfort_measures": {"type": "text"},
+            "fever_control": {"type": "text"},
+            "anxiety_reduction": {"type": "text"},
+            "frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+            "deadline_date": {"type": "datetime"}
+        }
+    }
+}

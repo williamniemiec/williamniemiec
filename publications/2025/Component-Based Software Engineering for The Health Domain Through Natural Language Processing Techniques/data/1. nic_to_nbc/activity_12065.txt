@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Respiratory Distress Education": {
+    "parameters": {
+      "Respiratory Distress Information": {
+        "type": "text"
+      },
+      "Visual Aids": {
+        "type": "image or video"
+      },
+      "Emergency Instructions": {
+        "type": "text"
+      }
+    }
+  }
+}

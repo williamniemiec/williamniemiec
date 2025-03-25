@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+    "Organ Suitability Assessment": {
+        "Criteria of Death": {"type": "text"},
+        "Organ List": {"type": "list of text"},
+        "Organ Suitability Criteria": {"type": "list of text"},
+        "Organ Suitability Assessment": {"type": "list of text"}
+    }
+}

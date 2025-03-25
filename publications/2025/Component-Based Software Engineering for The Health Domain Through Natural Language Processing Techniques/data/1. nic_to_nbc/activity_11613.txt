@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "Task": {
+    "parameters": {
+      "name": "Fill irrigating syringe with solution",
+      "content": "Fill the irrigating syringe with the prescribed solution",
+      "content_type": "text",
+      "solution_type": "options",
+      "frequency": "onlyOnce"
+    }
+  },
+  "Guided Task": {
+    "parameters": {
+      "name": "Fill irrigating syringe with solution",
+      "content": "Step-by-step instructions on how to fill the irrigating syringe with the prescribed solution",
+      "content_type": "text or video",
+      "solution_type": "options",
+      "solution_amount": "text or number",
+      "frequency": "onlyOnce"
+    }
+  }
+}

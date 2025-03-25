@@ -1,0 +1,17 @@
+
+
+
+{
+  "Medication Administration Checklist": {
+    "Right Patient": {"Type": "text", "Required": true},
+    "Right Medication": {"Type": "text", "Required": true},
+    "Right Dose": {"Type": "text", "Required": true},
+    "Right Route": {"Type": "options", "Required": true},
+    "Right Time": {"Type": "datetime", "Required": true},
+    "Reason for Administration": {"Type": "text", "Required": true},
+    "Effect Achieved": {"Type": "text", "Required": true}
+  }
+}
+
+
+Let me know if this meets your requirements!

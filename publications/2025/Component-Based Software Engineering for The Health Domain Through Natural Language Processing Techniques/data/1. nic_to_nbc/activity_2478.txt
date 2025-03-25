@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+    "Discharge Instructions": {
+        "Instructions": {"Type": "text", "Required": true},
+        "Medications": {"Type": "list", "Required": true},
+        "Follow-up Care": {"Type": "text", "Required": true},
+        "Agency Protocol": {"Type": "text", "Required": true}
+    },
+    "Patient Acknowledgement": {
+        "Acknowledgement": {"Type": "options", "Required": true},
+        "Date and Time": {"Type": "datetime", "Required": true}
+    },
+    "Instruction Review": {
+        "Review": {"Type": "options", "Required": true},
+        "Notes": {"Type": "text", "Required": false}
+    }
+}

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Policy Reviewer": {
+        "parameters": {
+            "Policy Sources": {},
+            "Review Criteria": {},
+            "Content Analysis": {},
+            "Summary and Recommendations": {},
+            "Updates and Alerts": {}
+        }
+    }
+}

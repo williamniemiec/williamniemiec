@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+  "Specimen Collection": {
+    "parameters": {
+      "Specimen Type": {"type": "options"},
+      "Collection Date": {"type": "datetime"},
+      "Collection Time": {"type": "time"},
+      "Lab Order": {"type": "text"},
+      "Notes": {"type": "text"}
+    }
+  },
+  "Specimen Collection Task": {
+    "parameters": {
+      "Task": {"type": "text"},
+      "Due Date": {"type": "datetime"},
+      "Lab Order": {"type": "text"},
+      "Notes": {"type": "text"}
+    }
+  }
+}

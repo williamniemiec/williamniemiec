@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Priority Setter": {
+    "Goal": {"Type": "text"},
+    "Activity List": {"Type": "list", "Properties": ["description", "importance level", "urgency level"]},
+    "Priority Levels": {"Type": "options", "Options": ["high", "medium", "low"]},
+    "Ranking": {"Type": "list", "Properties": ["activity name", "priority level", "rank"]},
+    "Filter": {"Type": "options", "Options": ["importance", "urgency", "deadline", "etc."]},
+    "Sort": {"Type": "options", "Options": ["ascending", "descending"]}
+  }
+}
+
+
+Let me know if this is what you were looking for!

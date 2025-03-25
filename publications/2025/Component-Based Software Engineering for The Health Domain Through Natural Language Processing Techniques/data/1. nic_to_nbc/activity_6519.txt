@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+    "Parenting Resources": {
+        "Resource Type": {"type": "options", "options": ["pamphlet", "book", "video", "audio", "etc."]},
+        "Resource Title": {"type": "text", "description": "title of the resource"},
+        "Resource Description": {"type": "text", "description": "summary of the resource"},
+        "Resource Content": {"type": "file", "description": "PDF, EPUB, MP3, etc."},
+        "Search Functionality": {"type": "boolean", "description": "yes/no indicator for search functionality"}
+    },
+    "Personalized Reading Plan": {
+        "Parenting Goals": {"type": "text", "description": "goals for child's development"},
+        "Resource Recommendations": {"type": "list", "description": "list of recommended resources"},
+        "Reading Schedule": {"type": "datetime", "description": "schedule for reading resources"},
+        "Progress Tracking": {"type": "boolean", "description": "yes/no indicator for progress tracking"}
+    }
+}
+
+Let me know if this is what you were looking for!

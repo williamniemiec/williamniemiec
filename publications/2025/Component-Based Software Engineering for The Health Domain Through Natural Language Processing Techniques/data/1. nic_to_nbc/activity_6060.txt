@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "application",
+    "parameters": [
+        { 
+            "name": "title", 
+            "description": "application title"
+        },
+        { 
+            "name": "body_part", 
+            "description": "body part to apply the device or material (e.g. hand or elbow)"
+        },
+        { 
+            "name": "device_material", 
+            "description": "device or material to apply (e.g. dressings or splints)"
+        },
+        { 
+            "name": "purpose", 
+            "description": "purpose of applying the device or material (e.g. to limit uncontrollable scratching)"
+        },
+        { 
+            "name": "frequency", 
+            "description": "frequency of application (e.g. during sleep)"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+    "Prenatal Care Education": {
+        "Education Content": {"type": "text"},
+        "Key Messages": {"type": "list of text"},
+        "Visual Aids": {"type": "multimedia"}
+    },
+    "Partner/Family Member Involvement": {
+        "Invitation Message": {"type": "text"},
+        "Role Definition": {"type": "text"},
+        "Resources": {"type": "list of text"}
+    },
+    "Prenatal Care Plan": {
+        "Care Schedule": {"type": "list of datetime"},
+        "Task List": {"type": "list of text"},
+        "Reminders": {"type": "boolean"}
+    }
+}

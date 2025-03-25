@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "no-code-element-name": "Reflection Exercise",
+    "parameters": {
+        "Prompt": {"type": "text"},
+        "Response Type": {"type": "options", "options": ["text", "rating scale", "etc."]},
+        "Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+        "Deadline Date": {"type": "datetime"},
+        "Guided Questions": {"type": "list of text"}
+    }
+}

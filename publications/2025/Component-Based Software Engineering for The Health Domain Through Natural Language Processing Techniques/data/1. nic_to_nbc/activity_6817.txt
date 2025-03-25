@@ -1,0 +1,40 @@
+Here is the output in JSON format:
+
+
+{
+  "Fluid and Electrolyte Monitoring": {
+    "Monitoring Title": {
+      "Description": "Title of the monitoring task",
+      "Required": true,
+      "Type": "text"
+    },
+    "Frequency": {
+      "Description": "Specify how often to monitor fluid and electrolyte status",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "daily", "label": "Daily" },
+        { "value": "everyHours", "label": "Every x hours" },
+        { "value": "everyDays", "label": "Every x days" }
+      ]
+    },
+    "Fluid Intake": {
+      "Description": "Record daily fluid intake",
+      "Required": true,
+      "Type": "number"
+    },
+    "Electrolyte Levels": {
+      "Description": "Record electrolyte levels (e.g. sodium, potassium, etc.)",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "normal", "label": "Normal" },
+        { "value": "abnormal", "label": "Abnormal" },
+        { "value": "other", "label": "Other (please specify)" }
+      ]
+    }
+  }
+}
+
+
+I removed the not applicable parameters (`Deadline Date` and `Notes`) as per your request.

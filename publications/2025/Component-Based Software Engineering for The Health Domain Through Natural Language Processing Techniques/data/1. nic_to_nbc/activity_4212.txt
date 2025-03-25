@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Alarm Setting": {
+    "Equipment": {"type": ["text", "options"]},
+    "Alarm Type": {"type": "options"},
+    "Alarm Limit": {"type": ["number", "range"]},
+    "Frequency": {"type": "options"}
+  }
+}

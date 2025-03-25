@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Mandible Support": {
+    "Parameters": {
+      "Support Instructions": {"Type": ["text", "multimedia content"]},
+      "Correct Position Image": {"Type": ["image", "multimedia content"]},
+      "Tips and Reminders": {"Type": ["text", "multimedia content"]},
+      "Condition for Support": {"Type": ["text", "boolean"]}
+    }
+  }
+}

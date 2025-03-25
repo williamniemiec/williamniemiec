@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Administration": {
+    "medication name": {},
+    "Why": {},
+    "Dosage": {},
+    "Route": {
+      "options": [
+        {"value": "intravenous", "label": "Intravenous"},
+        {"value": "oral", "label": "Oral"},
+        {"value": "subcutaneous", "label": "Subcutaneous"}
+      ]
+    },
+    "Frequency": {
+      "options": [
+        {"value": "daily", "label": "Daily"},
+        {"value": "onlyOnce", "label": "Only once"},
+        {"value": "everyHours", "label": "Every x hours"},
+        {"value": "everyDays", "label": "Every x days"}
+      ]
+    }
+  }
+}

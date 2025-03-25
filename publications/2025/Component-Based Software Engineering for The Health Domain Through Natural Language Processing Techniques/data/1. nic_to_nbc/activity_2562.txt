@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "IV Management": {
+    "Parameters": {
+      "IV Type": {},
+      "IV Size": {},
+      "Insertion Date": {},
+      "Dressing Change": {}
+    }
+  }
+}

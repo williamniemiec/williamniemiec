@@ -1,0 +1,36 @@
+Here is the output in JSON format:
+
+
+{
+  "Procedure": {
+    "parameters": {
+      "name": "Inject medication slowly while watching for small bleb on skin surface",
+      "content": "Inject the medication slowly while watching for a small bleb on the skin surface",
+      "type": "step-by-step guide",
+      "steps": [
+        { 
+          "name": "Step 1", 
+          "description": "Prepare the medication and injection site", 
+          "type": "text"
+        },
+        { 
+          "name": "Step 2", 
+          "description": "Inject the medication slowly", 
+          "type": "text"
+        },
+        { 
+          "name": "Step 3", 
+          "description": "Watch for a small bleb on the skin surface", 
+          "type": "text"
+        }
+      ],
+      "warnings": [
+        { 
+          "name": "Warning", 
+          "description": "If you notice any unusual reactions or side effects, seek medical attention immediately", 
+          "type": "text"
+        }
+      ]
+    }
+  }
+}

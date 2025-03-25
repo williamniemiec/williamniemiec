@@ -1,0 +1,39 @@
+Here is the output in JSON format:
+
+
+{
+  "Vital Signs Monitoring": {
+    "Parameters": {
+      "Vital Signs": {
+        "type": "list",
+        "listItems": [
+          {"value": "temperature", "label": "Temperature"},
+          {"value": "heartRate", "label": "Heart Rate"},
+          {"value": "bloodPressure", "label": "Blood Pressure"},
+          {"value": "respiratoryRate", "label": "Respiratory Rate"}
+        ]
+      },
+      "Thresholds": {
+        "type": "list",
+        "listItems": [
+          {"value": "temperature", "threshold": 38},
+          {"value": "heartRate", "threshold": 100},
+          {"value": "bloodPressure", "threshold": "140/90"}
+        ]
+      },
+      "Frequency": {
+        "type": "options",
+        "options": [
+          {"value": "every15Minutes", "label": "Every 15 minutes"},
+          {"value": "everyHour", "label": "Every hour"},
+          {"value": "every4Hours", "label": "Every 4 hours"}
+        ]
+      }
+    }
+  },
+  "Infection Monitoring": {},
+  "Fluid and Electrolyte Balance Monitoring": {},
+  "Tissue Perfusion Monitoring": {},
+  "Nutrition Monitoring": {},
+  "Elimination Monitoring": {}
+}

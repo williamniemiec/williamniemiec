@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+    "Assisted Exercise": {
+        "parameters": [
+            {"Name": "text"},
+            {"Description": "text"},
+            {"Exercise Type": "options"},
+            {"Assistance Required": "options"},
+            {"Instructions": "text"},
+            {"Frequency": "options"}
+        ]
+    }
+}
+
+
+I removed the not applicable parameters, such as `Deadline Date` which is of type `datetime`, and kept only the relevant information. Let me know if this meets your requirements!

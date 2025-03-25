@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Educational Resource": {
+    "Parameters": {
+      "Title": {"Type": "text"},
+      "Content": {"Type": ["article", "video", "audio"]},
+      "Summary": {"Type": "text"},
+      "Target Audience": {"Type": ["patient", "family member", "caregiver"]}
+    }
+  }
+}

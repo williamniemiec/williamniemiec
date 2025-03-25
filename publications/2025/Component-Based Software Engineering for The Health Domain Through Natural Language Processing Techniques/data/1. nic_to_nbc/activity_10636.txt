@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Choking Emergency Guidance": {
+    "Parameters": {
+      "Choking Emergency Guidance Title": {},
+      "Emergency Measures Instructions": {},
+      "Frequency": {},
+      "Illustrations": {},
+      "Video Tutorial": {},
+      "Deadline Date": {}
+    }
+  }
+}

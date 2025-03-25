@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Screening Test Reminder",
+    "parameters": [
+        {
+            "name": "test_name"
+        },
+        {
+            "name": "test_description"
+        },
+        {
+            "name": "test_frequency"
+        },
+        {
+            "name": "due_date"
+        }
+    ]
+}
+
+
+I removed all the unnecessary information and only kept the `{{ NO-CODE ELEMENT NAME }}` and the required `{{ PARAMETER ESPECIFICATIONS }}`. I also removed the not applicable parameters, which in this case is the `"reminder_message"` parameter since it's not required.

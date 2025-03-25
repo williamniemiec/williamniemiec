@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Resource Library": {
+    "Name": {"Type": "text"},
+    "Description": {"Type": "text"},
+    "Resource Categories": {"Type": "options"},
+    "Resource Types": {"Type": "options"},
+    "Resource List": {"Type": "list of resources"},
+    "Search Function": {"Type": "text input"},
+    "Filtering and Sorting": {"Type": "dropdown menus or checkboxes"},
+    "Rating and Review": {"Type": "rating scale or text input"}
+  }
+}

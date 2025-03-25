@@ -1,0 +1,30 @@
+Here is the output in JSON format:
+
+
+{
+  "Irrigating Solution Mixing": {
+    "Salt Amount": {
+      "type": "number",
+      "default": "1 teaspoon"
+    },
+    "Baking Soda Amount": {
+      "type": "number",
+      "default": "½ teaspoon"
+    },
+    "Water Amount": {
+      "type": "number",
+      "default": "1 pint"
+    },
+    "Water Temperature": {
+      "type": "options",
+      "options": ["lukewarm", "warm", "cool"]
+    },
+    "Salinity Adjustment": {
+      "type": "options",
+      "options": ["increase salinity", "decrease salinity", "no adjustment"]
+    }
+  }
+}
+
+
+I removed the `Notes` parameter because it was marked as optional, and I was instructed to remove not applicable parameters.

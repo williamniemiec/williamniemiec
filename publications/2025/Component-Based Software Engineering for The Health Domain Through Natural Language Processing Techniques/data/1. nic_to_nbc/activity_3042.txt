@@ -1,0 +1,31 @@
+Here is the output in JSON format:
+
+
+{
+  "Access Site Monitoring Tool": {
+    "parameters": [
+      {"name": "Name", "type": "text"},
+      {"name": "Assessment Questions", 
+        "question": [
+          {"text": "Is the access site red or inflamed?", "type": "multiple-choice"},
+          {"text": "Is there swelling or edema at the access site?", "type": "true-false"},
+          {"text": "Is the access site warm or hot to the touch?", "type": "multiple-choice"},
+          {"text": "Is there drainage or bleeding at the access site?", "type": "true-false"},
+          {"text": "Is there a hematoma or bruising at the access site?", "type": "multiple-choice"},
+          {"text": "Is there decreased sensation or numbness at the access site?", "type": "true-false"}
+        ]
+      },
+      {"name": "Abnormality Criteria", 
+        "abnormality-criteria": [
+          {"criterion": "redness", "threshold": 1},
+          {"criterion": "edema", "threshold": 1},
+          {"criterion": "heat", "threshold": 1},
+          {"criterion": "drainage", "threshold": 1},
+          {"criterion": "bleeding", "threshold": 1},
+          {"criterion": "hematoma", "threshold": 1},
+          {"criterion": "decreased sensation", "threshold": 1}
+        ]
+      }
+    ]
+  }
+}

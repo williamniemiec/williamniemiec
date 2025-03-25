@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Group Referral": {
+    "parameters": {
+      "Group Type": {"type": "options", "options": ["Trauma", "Abuse", "Grief", "Illness", "Caregiver", "Survivor"]},
+      "Group Description": {"type": "text"},
+      "Meeting Information": {"type": "text"},
+      "Contact Information": {"type": "text"},
+      "Resources": {"type": "list of URLs or file attachments"},
+      "Next Steps": {"type": "text or options"}
+    }
+  }
+}

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Education Materials": {
+    "Material Type": {"Type": "options"},
+    "Topic": {"Type": "text"},
+    "Language": {"Type": "options"},
+    "Quantity": {"Type": "number"},
+    "Vendor": {"Type": "text"},
+    "Order Date": {"Type": "date"},
+    "Notes": {"Type": "text"}
+  }
+}

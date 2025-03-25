@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+  "Comfortable Positioning": {
+    "Position Options": {
+      "Type": "options",
+      "Description": "a brief text describing the position",
+      "Image": "an image or illustration demonstrating the position"
+    },
+    "Tips": {
+      "Type": "text"
+    },
+    "Adjustments": {
+      "Type": "options",
+      "Description": "use pillows, adjust chair height"
+    },
+    "Confirmation": {
+      "Type": "boolean"
+    }
+  }
+}

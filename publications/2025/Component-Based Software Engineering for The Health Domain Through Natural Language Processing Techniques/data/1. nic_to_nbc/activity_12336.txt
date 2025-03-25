@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Clear Communication",
+    "parameters": [
+        { 
+            "name": "Word Choice", 
+            "type": "text"
+        },
+        { 
+            "name": "Explanation", 
+            "type": "text"
+        },
+        { 
+            "name": "Tone", 
+            "type": "options"
+        },
+        { 
+            "name": "Age Appropriate", 
+            "type": "boolean"
+        },
+        { 
+            "name": "Cultural Sensitivity", 
+            "type": "boolean"
+        }
+    ]
+}

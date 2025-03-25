@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+    "Supervision Level": {
+        "Parameters": {
+            "Supervision Level": {
+                "Type": "options"
+            },
+            "Monitoring Frequency": {
+                "Type": "options"
+            },
+            "Therapeutic Actions": {
+                "Type": "text or list"
+            },
+            "Patient Responsibilities": {
+                "Type": "text or list"
+            }
+        }
+    }
+}

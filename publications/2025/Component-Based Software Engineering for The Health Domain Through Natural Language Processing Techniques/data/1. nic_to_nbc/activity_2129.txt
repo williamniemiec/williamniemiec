@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Feedback": {
+    "parameters": {
+      "name": {"type": "text"},
+      "content": {"type": ["text", "image", "video"]},
+      "frequency": {"type": ["daily", "weekly", "monthly"]},
+      "trigger": {"type": ["task completion", "milestone achievement"]}
+    }
+  }
+}

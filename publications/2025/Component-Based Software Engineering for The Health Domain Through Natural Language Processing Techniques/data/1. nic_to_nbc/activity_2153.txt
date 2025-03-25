@@ -1,0 +1,26 @@
+Here is the output JSON:
+
+
+{
+  "name": "Goal Setting",
+  "parameters": [
+    {
+      "name": "Prompt"
+    },
+    {
+      "name": "Goal Type"
+    },
+    {
+      "name": "SMART Criteria"
+    },
+    {
+      "name": "Frequency"
+    },
+    {
+      "name": "Deadline Date"
+    },
+    {
+      "name": "Goal Description"
+    }
+  ]
+}

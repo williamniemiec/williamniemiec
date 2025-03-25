@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Wound Infection Symptom Checker": {
+    "Fever": {},
+    "Increased Pain": {},
+    "Redness": {},
+    "Warmth": {},
+    "Pus or Discharge": {},
+    "Foul Odor": {},
+    "Swollen Lymph Nodes": {},
+    "Other Symptoms": {}
+  }
+}
+
+
+Let me know if you need any further assistance!

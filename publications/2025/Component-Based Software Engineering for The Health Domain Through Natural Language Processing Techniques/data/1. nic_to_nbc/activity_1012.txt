@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Adverse Event Reporter": {
+    "Event Description": {"type": "text"},
+    "Event Date": {"type": "datetime"},
+    "Event Severity": {"type": "scale", "options": ["Mild", "Moderate", "Severe"]},
+    "Event Category": {"type": "options", "options": ["Allergic reaction", "Medication side effect", "Fall", "Other"]},
+    "Actions Taken": {"type": "text"},
+    "Follow-up": {"type": "text"}
+  }
+}

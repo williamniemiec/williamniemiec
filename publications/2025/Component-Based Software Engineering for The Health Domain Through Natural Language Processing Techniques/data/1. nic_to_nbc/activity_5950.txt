@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+    "Restraint Response Documentation": {
+        "documentation title": {},
+        "infant response": {},
+        "protocol followed": {},
+        "how often to document": {},
+        "documentation deadline": {}
+    }
+}

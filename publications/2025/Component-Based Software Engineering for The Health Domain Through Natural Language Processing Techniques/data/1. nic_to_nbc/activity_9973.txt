@@ -1,0 +1,29 @@
+Here is the output in JSON format:
+
+
+{
+  "Privacy for Toileting": {
+    "parameters": {
+      "Privacy Mode": {
+        "type": "options",
+        "options": [
+          {"value": "privateRoom", "label": "Private room"},
+          {"value": "curtains", "label": "Curtains or dividers"},
+          {"value": "doorSign", "label": "Door sign indicating privacy"}
+        ]
+      },
+      "Duration": {
+        "type": "text"
+      },
+      "Frequency": {
+        "type": "options",
+        "options": [
+          {"value": "daily", "label": "Daily"},
+          {"value": "onlyOnce", "label": "Only once"},
+          {"value": "everyHours", "label": "Every x hours"},
+          {"value": "everyDays", "label": "Every x days"}
+        ]
+      }
+    }
+  }
+}

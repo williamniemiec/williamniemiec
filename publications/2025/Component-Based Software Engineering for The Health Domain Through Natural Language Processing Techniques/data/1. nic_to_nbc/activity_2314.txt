@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+    "Expectation Realignment": {
+        "Parameters": {
+            "Expectation": {"Type": "text"},
+            "Correction": {"Type": ["text", "video", "image"]},
+            "Reason": {"Type": "text"},
+            "Frequency": {"Type": ["once", "daily", "weekly"]},
+            "Trigger": {"Type": "conditional logic"}
+        }
+    }
+}
+
+
+Let me know if this meets your requirements!

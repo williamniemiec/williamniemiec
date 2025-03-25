@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Relaxation Technique": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Description": {"Type": "text"},
+      "Instructions": {"Type": ["text", "video"]},
+      "Frequency": {"Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"Type": "datetime"},
+      "Resources": {"Type": "list of URLs or file uploads"}
+    }
+  }
+}

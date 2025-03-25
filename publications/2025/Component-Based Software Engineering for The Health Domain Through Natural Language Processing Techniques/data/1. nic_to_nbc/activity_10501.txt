@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Gunshot Wound Description": {
+    "parameters": [
+      {"name": "sooting", "description": "Is sooting present?", "required": true, "type": "options"},
+      {"name": "stippling", "description": "Is stippling present?", "required": true, "type": "options"},
+      {"name": "abrasion_ring", "description": "Is an abrasion ring present?", "required": true, "type": "options"},
+      {"name": "other_characteristics", "description": "Describe any other characteristics of the gunshot wound (e.g. powder tattooing, etc.)", "required": false, "type": "text"},
+      {"name": "notes", "description": "Add any additional notes about the gunshot wound", "required": false, "type": "text"}
+    ]
+  }
+}

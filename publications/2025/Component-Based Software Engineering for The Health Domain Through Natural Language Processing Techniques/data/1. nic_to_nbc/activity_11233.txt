@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Autonomy Assessment": {
+    "parameters": {
+      "Autonomy Questions": {"type": "form"},
+      "Restriction Identification": {"type": "form"},
+      "Action Plan": {"type": "text"}
+    }
+  }
+}

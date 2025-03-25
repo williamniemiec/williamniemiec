@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Oral Hygiene Reminder": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Frequency": {"Type": "options", "Options": ["daily", "everyHours", "everyDays", "custom"]},
+      "Deadline Date": {"Type": "datetime"},
+      "Instructions": {"Type": "text"},
+      "Resources": {"Type": "list of URLs or HTML texts"}
+    }
+  }
+}
+
+
+Let me know if this meets your requirements!

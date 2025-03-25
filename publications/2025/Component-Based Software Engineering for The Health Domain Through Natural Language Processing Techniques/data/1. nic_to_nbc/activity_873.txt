@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+    "Hope Inspiration": {
+        "Parameters": {
+            "Inspirational Quotes": {"Type": "text", "Required": true},
+            "Uplifting Images": {"Type": "image", "Required": true},
+            "Hope Stories": {"Type": "text or video", "Required": true},
+            "Reflection Prompts": {"Type": "text", "Required": true}
+        }
+    }
+}
+
+
+I removed the not applicable parameters (i.e., those with `Required: false`) from the output. Let me know if you have any further requests!

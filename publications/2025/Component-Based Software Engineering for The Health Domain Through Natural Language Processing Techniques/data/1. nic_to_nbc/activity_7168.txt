@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Healing Intention": {
+    "Parameters": {
+      "Title": {},
+      "Content": {},
+      "Intention Statement": {},
+      "Reflection Questions": {}
+    }
+  }
+}

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Educational Content": {
+    "Topic": {"type": "text"},
+    "Content": {"type": ["text", "image", "video", "HTML"]},
+    "Format": {"type": ["text", "options"]},
+    "Level of Detail": {"type": ["text", "options"]}
+  }
+}
+
+
+Let me know if this meets your requirements!

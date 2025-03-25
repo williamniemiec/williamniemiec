@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Healthy Snacking Guide": {
+    "Snack Categories": {"type": "list", "description": "Categories of snacks"},
+    "Nutrient-Dense Options": {"type": "list", "description": "Nutrient-dense snack options"},
+    "Portion Control": {"type": "list", "description": "Appropriate portion sizes"},
+    "Snack Ideas": {"type": "interactive", "description": "Healthy snack ideas and recipes"},
+    "Personalization": {"type": "interactive", "description": "Personalized snack recommendations"}
+  }
+}

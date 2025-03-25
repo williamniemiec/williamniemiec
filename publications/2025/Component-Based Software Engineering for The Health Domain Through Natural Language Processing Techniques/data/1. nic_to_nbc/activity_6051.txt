@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Calcification Symptom Tracker": {
+    "Parameters": {
+      "Symptoms": {"Type": "list of symptoms"},
+      "Severity": {"Type": "list of severity levels"},
+      "Frequency": {"Type": "list of frequency levels"},
+      "Impact": {"Type": "list of impact levels"},
+      "Alerts": {"Type": "list of alerts (condition, message, recipient)"},
+      "Recommendations": {"Type": "text or link to additional resources"}
+    }
+  }
+}

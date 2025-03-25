@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Nutrition Requirements Guide": {
+        "Age Group": {"type": "options"},
+        "Nutrient Requirements": {"type": "unordered list"},
+        "Recommended Daily Intake": {"type": "text"},
+        "Food Sources": {"type": "unordered list"},
+        "Visual Aids": {"type": "multimedia"},
+        "Quizzes or Assessments": {"type": "form"}
+    }
+}

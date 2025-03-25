@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+    "Disease and Management Quiz": {
+        "Name": {"Type": "text"},
+        "Questions": {},
+        "Answer Options": {},
+        "Scoring": {},
+        "Feedback": {}
+    }
+}

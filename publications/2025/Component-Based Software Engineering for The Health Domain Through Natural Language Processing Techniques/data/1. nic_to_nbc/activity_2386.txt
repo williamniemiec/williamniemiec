@@ -1,0 +1,14 @@
+
+
+
+{
+  "Medication Tracker": {
+    "Parameters": {
+      "Medication List": {},
+      "Dosage": {},
+      "Frequency": {},
+      "Time": {},
+      "Refill Reminders": {}
+    }
+  }
+}

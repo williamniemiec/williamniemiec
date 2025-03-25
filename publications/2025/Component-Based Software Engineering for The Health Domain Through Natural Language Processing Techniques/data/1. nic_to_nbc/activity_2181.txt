@@ -1,0 +1,35 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "education",
+    "parameters": [
+        { 
+            "name": "title", 
+            "description": "education title"
+        },
+        { 
+            "name": "content", 
+            "description": "education content"
+        },
+        { 
+            "name": "risks", 
+            "description": "risks associated with smoking and tobacco chewing",
+            "items": [
+                "lung cancer",
+                "heart disease",
+                "respiratory problems",
+                "oral health issues"
+            ]
+        },
+        { 
+            "name": "alternatives", 
+            "description": "alternatives to smoking and tobacco chewing",
+            "items": [
+                "nicotine replacement therapy",
+                "counseling",
+                "support groups"
+            ]
+        }
+    ]
+}

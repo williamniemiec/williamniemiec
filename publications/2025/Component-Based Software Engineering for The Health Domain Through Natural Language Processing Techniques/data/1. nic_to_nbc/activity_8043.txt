@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+  "IV Solution Tracker": {
+    "Parameters": {
+      "IV Solution": "",
+      "Flow Rate": "",
+      "Duration": "",
+      "Frequency": "",
+      "Deadline Date": "",
+      "Notes": ""
+    }
+  },
+  "IV Solution Administration": {
+    "Parameters": {
+      "IV Solution Name": "",
+      "Flow Rate": "",
+      "Duration": "",
+      "Frequency": "",
+      "Deadline Date": "",
+      "Notes": ""
+    }
+  }
+}
+
+
+Note: I removed the "Not Applicable" parameters as per your request. Also, I assumed that the parameter values are empty strings since there were no specific values provided in the input text. If you need to handle this differently, please let me know!

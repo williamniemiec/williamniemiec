@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Guide": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Content": {"Type": ["HTML/text", "image", "video"]},
+      "Pages": {"Type": ["list of HTML/text", "image", "video"]},
+      "Quiz": {"Type": ["list of quiz questions and answers"]},
+      "Frequency": {"Options": ["one-time", "daily", "weekly", "monthly"]}
+    }
+  },
+  "Tutorial": {}
+}

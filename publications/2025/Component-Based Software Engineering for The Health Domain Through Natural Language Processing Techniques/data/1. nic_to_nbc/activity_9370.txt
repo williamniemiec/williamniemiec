@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Social Support Network": {
+    "Parameters": {
+      "Support Network": {"Type": "list of text or HTML content"},
+      "Support Type": {"Type": "options (e.g., emotional, practical, etc.)"},
+      "Connection Methods": {"Type": "list of text or HTML content"},
+      "Communication Tips": {"Type": "list of text or HTML content"},
+      "Network Expansion": {"Type": "list of text or HTML content"}
+    }
+  }
+}

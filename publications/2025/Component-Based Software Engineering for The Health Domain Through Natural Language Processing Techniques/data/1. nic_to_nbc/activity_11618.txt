@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Patient Health History": {
+    "parameters": {
+      "Health History Questions": {"type": "list"},
+      "Question Types": {"type": "list"},
+      "Response Storage": {"type": "text"},
+      "Care Planning": {"type": "text or multimedia"}
+    }
+  }
+}

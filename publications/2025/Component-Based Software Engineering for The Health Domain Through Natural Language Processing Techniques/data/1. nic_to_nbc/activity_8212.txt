@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Supervision/Surveillance Configuration": {
+        "parameters": [
+            {"name": "supervision level"},
+            {"name": "supervision method"},
+            {"name": "supervision frequency"},
+            {"name": "supervision personnel"}
+        ]
+    }
+}

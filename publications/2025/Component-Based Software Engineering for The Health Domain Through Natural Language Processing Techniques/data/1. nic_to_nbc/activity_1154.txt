@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+    "Reinforcement": {
+        "Information": {"type": "text or video"},
+        "Source": {"type": "text"},
+        "Frequency": {"type": "options"},
+        "Deadline Date": {"type": "datetime"}
+    }
+}

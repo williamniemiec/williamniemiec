@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Summoning Help Device": {
+    "Device Type": {},
+    "Device Instructions": {},
+    "Caregiver Notification": {},
+    "Test Device": {},
+    "Reminders": {}
+  }
+}

@@ -1,0 +1,39 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "screening_test_info",
+  "parameters": [
+    {
+      "name": "screening_test",
+      "type": "options",
+      "options": [
+        { value: "blood_pressure", label: "Blood Pressure" },
+        { value: "blood_glucose", label: "Blood Glucose" }
+      ]
+    },
+    {
+      "name": "limitations",
+      "type": "text"
+    },
+    {
+      "name": "margin_of_error",
+      "type": "text"
+    },
+    {
+      "name": "interpretation",
+      "type": "text"
+    },
+    {
+      "name": "resources",
+      "type": "list",
+      "items": {
+        "type": "object",
+        "properties": {
+          "title": {"type": "string"},
+          "url": {"type": "string"}
+        }
+      }
+    }
+  ]
+}

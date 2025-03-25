@@ -1,0 +1,29 @@
+Here is the output in JSON format:
+
+
+{
+  "Temperature Monitoring": {
+    "Parameters": {
+      "Temperature Range": {
+        "Type": "range",
+        "Min": "numeric value (e.g., 35)",
+        "Max": "numeric value (e.g., 40)"
+      },
+      "Frequency": {
+        "Type": "options",
+        "Options": [
+          { "value": "daily", "label": "Daily" },
+          { "value": "onlyOnce", "label": "Only once" },
+          { "value": "everyHours", "label": "Every x hours" },
+          { "value": "everyDays", "label": "Every x days" }
+        ]
+      },
+      "Deadline Date": {
+        "Type": "datetime"
+      },
+      "Recording Method": {
+        "Type": "text"
+      }
+    }
+  }
+}

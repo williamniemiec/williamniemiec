@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Fetal Heart Monitoring": {
+    "Interval": {
+      "options": ["every 30-60 minutes", "every 15-30 minutes", "every 5-10 minutes"]
+    },
+    "Labor Stage": {
+      "type": "options",
+      "options": ["early labor", "active labor", "second stage"]
+    },
+    "Risk Status": {
+      "type": "options",
+      "options": ["high risk", "low risk"]
+    },
+    "Deadline Date": {
+      "type": "datetime"
+    }
+  }
+}

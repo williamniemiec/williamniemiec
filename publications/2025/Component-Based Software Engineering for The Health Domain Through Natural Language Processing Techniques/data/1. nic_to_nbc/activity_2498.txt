@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Family Subsystem Restructure": {
+    "Parameters": {
+      "Family Subsystems": {"Type": "list of subsystems"},
+      "Current Structure": {"Type": "text"},
+      "Desired Structure": {"Type": "text"},
+      "Restructuring Strategies": {"Type": "list of strategies"},
+      "Family Member Roles": {"Type": "list of roles and responsibilities"},
+      "Progress Tracking": {"Type": "journal or log"}
+    }
+  }
+}
+
+
+Let me know if this meets your requirements!

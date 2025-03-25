@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+    "Exam Guidance": {
+        "Position": {"options": ["upright", "supine"]},
+        "Instructions": {"type": "text or multimedia"},
+        "Frequency": {"options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+        "Deadline Date": {"type": "datetime"}
+    }
+}

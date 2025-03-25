@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "IV Line Flush Guide": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Steps": {"Type": "ordered list of text or images"},
+      "Incompatible Solutions": {"Type": "list of options"},
+      "Flush Solution": {"Type": "text or option"},
+      "Frequency": {"Options": ["after each administration", "every 12 hours", "etc."]},
+      "Notes": {"Type": "text"}
+    }
+  }
+}

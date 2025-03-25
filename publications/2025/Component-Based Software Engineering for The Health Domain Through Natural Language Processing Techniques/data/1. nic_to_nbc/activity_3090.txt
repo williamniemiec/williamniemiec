@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Ankle Strengthening and Walking Program": {
+    "Parameters": {
+      "Ankle Strengthening Exercises": {"Type": "list of exercise names"},
+      "Walking Program": {"Type": "walking program details"},
+      "Instructions": {"Type": "instructional content"},
+      "Frequency": {"Options": ["daily", "everyOtherDay", "everyWeek", "etc."]},
+      "Progress Tracking": {"Type": "progress tracking method"},
+      "Goal Setting": {"Type": "goal setting"}
+    }
+  }
+}
+
+
+Let me know if you need any further assistance!

@@ -1,0 +1,41 @@
+Here is the output in JSON format:
+
+
+{
+  "Dietary Tracker": {
+    "Food Diary": {
+      "Type": "text"
+    },
+    "Carbohydrate Tracking": {
+      "Type": "numeric"
+    },
+    "Frequency": {
+      "Type": "options"
+    }
+  },
+  "Medication Tracker": {
+    "Medication List": {
+      "Type": "options"
+    },
+    "Dose and Frequency": {
+      "Type": "numeric",
+      "Type": "options"
+    }
+  },
+  "Metabolic Alkalosis Tracker": {
+    "Lab Results": {
+      "Type": "numeric"
+    },
+    "Reference Ranges": {
+      "Type": "options"
+    }
+  },
+  "Alert System": {
+    "Alert Thresholds": {
+      "Type": "options"
+    },
+    "Alert Frequency": {
+      "Type": "options"
+    }
+  }
+}

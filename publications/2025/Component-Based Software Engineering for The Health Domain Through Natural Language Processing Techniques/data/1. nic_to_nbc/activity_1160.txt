@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+    "Goal Evaluator": {
+        "Parameters": {
+            "Goal": {"Type": "text"},
+            "Evaluation Methods": {"Type": "list of options"},
+            "Evaluation Criteria": {"Type": "list of options"},
+            "Target Values": {"Type": "list of values"}
+        }
+    }
+}
+
+
+Let me know if this meets your requirements!

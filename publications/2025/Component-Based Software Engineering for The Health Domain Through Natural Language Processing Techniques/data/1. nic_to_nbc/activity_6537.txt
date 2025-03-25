@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Practice Opportunities": {
+    "parameters": [
+      {"name": "name", "description": "title of the practice opportunities"},
+      {"name": "discussion_topics", "description": "list of discussion topics related to assertive behavior"},
+      {"name": "modeling_videos", "description": "list of videos demonstrating assertive behavior in different scenarios"},
+      {"name": "role_playing_scenarios", "description": "list of role-playing scenarios for patients to practice assertive behavior"},
+      {"name": "feedback_mechanisms", "description": "mechanisms for patients to receive feedback on their practice attempts"},
+      {"name": "frequency", "description": "specify how often the patient should engage in practice opportunities"},
+      {"name": "deadline_date", "description": "specify the due date for completing practice opportunities"}
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Alternative Therapy Information": {
+    "Parameters": {
+      "Therapy List": {"Type": "list of therapy names"},
+      "Therapy Descriptions": {"Type": "text-based descriptions"},
+      "Resource Links": {"Type": "URL links"},
+      "Benefits": {"Type": "list of benefits"},
+      "Getting Started": {"Type": "text-based instructions"}
+    }
+  }
+}

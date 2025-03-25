@@ -1,0 +1,36 @@
+Here is the output in JSON format:
+
+
+{
+  "Glucagon Instruction": {
+    "Parameters": {
+      "Guide Content": {
+        "Description": "Step-by-step guide on the use and administration of glucagon",
+        "Required": true,
+        "Type": "book-page",
+        "Book-page": "list of HTML texts"
+      },
+      "Significant Others": {
+        "Description": "List of significant others to be instructed",
+        "Required": true,
+        "Type": "list",
+        "List items": [
+          { "value": "family_member", "label": "Family Member" },
+          { "value": "caregiver", "label": "Caregiver" },
+          { "value": "friend", "label": "Friend" },
+          { "value": "other", "label": "Other" }
+        ]
+      },
+      "Frequency": {
+        "Description": "Specify how often the significant others should review the glucagon instruction",
+        "Required": true,
+        "Type": "options",
+        "Options": [
+          { "value": "daily", "label": "Daily" },
+          { "value": "weekly", "label": "Weekly" },
+          { "value": "monthly", "label": "Monthly" }
+        ]
+      }
+    }
+  }
+}

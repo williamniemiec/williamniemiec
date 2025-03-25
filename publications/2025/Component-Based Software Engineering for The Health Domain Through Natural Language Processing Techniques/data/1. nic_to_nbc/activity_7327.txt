@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Medical History": {
+    "Parameters": {
+      "Record Type": {"Type": "options", "Options": ["implantation", "frequencyOfUse", "programmingChanges", "parameters"]},
+      "Date of Implantation": {"Type": "datetime"},
+      "Frequency of Use": {"Type": "text"},
+      "Programming Changes": {"Type": "text"},
+      "Parameters": {"Type": "text"}
+    }
+  }
+}

@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "speech processes monitoring": {
+    "Process Type": {
+      "options": ["memory", "hearing", "language", "etc."]
+    },
+    "Assessment Tool": {
+      "type": ["cognitive test", "hearing test", "language assessment", "etc."]
+    },
+    "Frequency": {
+      "options": ["daily", "weekly", "monthly", "etc."]
+    },
+    "Goal Setting": {
+      "type": ["text", "selection from a list of options"]
+    },
+    "Progress Tracking": {
+      "type": ["graph", "chart", "table"]
+    },
+    "Intervention Recommendations": {
+      "type": ["text", "selection from a list of options"]
+    }
+  }
+}

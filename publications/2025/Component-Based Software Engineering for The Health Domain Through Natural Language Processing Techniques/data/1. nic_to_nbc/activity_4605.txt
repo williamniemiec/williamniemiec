@@ -1,0 +1,11 @@
+
+
+
+{
+  "Reciprocal Movements": {
+    "Exercise": {"Type": "options"},
+    "Reciprocal Movement Pattern": {"Type": "options"},
+    "Movement Instructions": {"Type": "text with multimedia support"},
+    "Safety Tips": {"Type": "text"}
+  }
+}

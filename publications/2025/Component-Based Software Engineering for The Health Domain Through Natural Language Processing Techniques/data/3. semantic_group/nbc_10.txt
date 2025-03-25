@@ -1,0 +1,10 @@
+{
+  "name": "Home Safety and Hazard Prevention",
+  "description": "Focuses on preventing hazards, particularly falls and electrical risks, through safety precautions and environmental risk management.",
+  "type": "non-periodic",
+  "input": ["Home environment assessment", "Fall risk factors", "Electrical safety checks", "Hazard identification"],
+  "output": ["Safety recommendations", "Risk level assessment", "Precautionary measures"],
+  "preconditions": ["Home environment is evaluated for risks"],
+  "postconditions": ["Safety measures are implemented and hazards are mitigated"],
+  "dependencies": ["Safety monitoring tools", "Risk assessment system", "Environmental hazard database"]
+}

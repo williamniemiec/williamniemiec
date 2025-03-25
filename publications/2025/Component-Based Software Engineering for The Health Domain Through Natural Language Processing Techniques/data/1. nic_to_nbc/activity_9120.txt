@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Weight Trend Tracker": {
+    "parameters": [
+      {"Weight Log": ""},
+      {"Weight Trend Analysis": ""},
+      {"Goal Setting": ""},
+      {"Progress Tracking": ""},
+      {"Alerts and Notifications": ""}
+    ]
+  }
+}

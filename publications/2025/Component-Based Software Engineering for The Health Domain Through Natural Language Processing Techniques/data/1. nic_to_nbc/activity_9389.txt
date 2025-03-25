@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "CVAD Patency Check": {
+    "parameters": {
+      "name": {"type": "text"},
+      "instructions": {"type": "text"},
+      "frequency": {"type": "options"},
+      "deadline_date": {"type": "datetime"},
+      "result": {"type": "options"}
+    }
+  }
+}

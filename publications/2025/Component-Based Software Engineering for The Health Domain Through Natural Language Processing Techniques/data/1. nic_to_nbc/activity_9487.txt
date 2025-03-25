@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Element Name": "Education Module",
+  "Parameters": {
+    "Title": {"Description": "title of the education module", "Required": true, "Type": "text"},
+    "Content": {"Description": "educational content on the importance of hearing protection during persistent exposure to loud noise", "Required": true, "Type": "text"},
+    "Key Points": {"Description": "key points to highlight in the education module", "Required": true, "Type": "list of text"}
+  }
+}

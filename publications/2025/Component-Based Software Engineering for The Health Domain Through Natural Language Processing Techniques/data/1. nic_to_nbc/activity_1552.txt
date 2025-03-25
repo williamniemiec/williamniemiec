@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Referral to Specialist": {
+    "Specialist Type": {"options": ["audiologist", "ENT", "primary care provider", "etc."]},
+    "Reason for Referral": {"type": "text or selection from a list of options"},
+    "Provider Options": {"type": "list of provider names, addresses, and contact information"},
+    "Appointment Scheduling": {"type": "calendar event or scheduling tool"},
+    "Referral Letter": {"type": "PDF or editable document"}
+  }
+}

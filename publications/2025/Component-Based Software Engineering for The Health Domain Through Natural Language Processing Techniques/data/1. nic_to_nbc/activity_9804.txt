@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Prompt": {
+    "Message": {"Type": "text"},
+    "Frequency": {"Type": "options"},
+    "Type": {"Type": "options"},
+    "Link": {"Type": "reference to another no-code element"},
+    "Personalization": {"Type": "options"},
+    "Incentives": {"Type": "options"}
+  }
+}

@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Anger Exploration",
+    "parameters": [
+        {
+            "name": "Anger Focus",
+            "type": "options"
+        },
+        {
+            "name": "Exploration Prompt",
+            "type": "text"
+        },
+        {
+            "name": "Emotion Identification",
+            "type": "options"
+        },
+        {
+            "name": "Acceptance Reflection",
+            "type": "text"
+        },
+        {
+            "name": "Frequency",
+            "type": "options"
+        }
+    ]
+}

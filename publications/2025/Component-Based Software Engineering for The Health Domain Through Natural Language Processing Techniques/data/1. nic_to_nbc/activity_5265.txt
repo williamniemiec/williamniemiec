@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Demonstration": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Type": {"Type": "options", "Options": ["video", "image", "interactiveSimulation"]},
+      "Content": {"Type": "depends on type of demonstration"},
+      "Behavior": {"Type": "text"},
+      "Instructions": {"Type": "text"},
+      "Frequency": {"Type": "options", "Options": ["daily", "weekly", "monthly"]}
+    }
+  }
+}

@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+    "Anion Gap Calculator": {
+        "Sodium Level": {"Type": "number"},
+        "Chloride Level": {"Type": "number"},
+        "Bicarbonate Level": {"Type": "number"}
+    },
+    "Anion Gap Interpretation": {
+        "Anion Gap Result": {"Type": "number"},
+        "Interpretation": {"Type": "text or table"}
+    }
+}
+
+
+Let me know if this meets your requirements!

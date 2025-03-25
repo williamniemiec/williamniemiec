@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Reiki Mindset": {
+    "parameters": {
+      "Reiki Principle": {},
+      "Trust and Let Go": {},
+      "Non-Doing": {},
+      "Surrender and Receive": {},
+      "Mindfulness Prompt": {}
+    }
+  }
+}

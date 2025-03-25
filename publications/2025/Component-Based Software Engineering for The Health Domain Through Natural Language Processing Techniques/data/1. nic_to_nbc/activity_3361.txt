@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Patient Education Module": {
+    "Test Information": {"Type": "text or HTML content"},
+    "Electronic Fetal Monitoring Information": {"Type": "text or HTML content"},
+    "FAQs": {"Type": "list of text or HTML content"},
+    "Visual Aids": {"Type": "multimedia content"},
+    "Downloadable Resources": {"Type": "PDF or downloadable document"}
+  }
+}

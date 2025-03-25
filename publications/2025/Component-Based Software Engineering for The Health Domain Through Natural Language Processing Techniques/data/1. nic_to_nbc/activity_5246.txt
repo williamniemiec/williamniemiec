@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Question": {
+    "Parameters": {
+      "Question": {"Type": "text"},
+      "Answer Type": {"Type": "options"},
+      "Frequency": {"Type": "options"}
+    }
+  }
+}

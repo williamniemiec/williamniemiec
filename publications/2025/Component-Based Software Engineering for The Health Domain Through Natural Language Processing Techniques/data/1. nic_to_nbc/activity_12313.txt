@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Realistic Expectations": {
+    "Topic": {"type": "text"},
+    "Realistic Information": {"type": "text"},
+    "Evidence-Based": {"type": "boolean"},
+    "Frequency": {"options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"type": "datetime"}
+  }
+}

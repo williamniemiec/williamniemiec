@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "pregnancy_advisability": {
+        "parameters": [
+            {"name": "risk_factors", "description": "list of identified risk factors"},
+            {"name": "pregnancy_risks", "description": "list of potential risks associated with pregnancy"},
+            {"name": "decision_support", "description": "provide guidance and resources for decision making"},
+            {"name": "final_decision", "description": "store the patient's final decision about pregnancy"}
+        ]
+    }
+}

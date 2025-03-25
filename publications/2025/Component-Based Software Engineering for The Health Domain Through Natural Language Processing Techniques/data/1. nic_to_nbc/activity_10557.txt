@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Unit Overview": {
+    "parameters": {
+      "name": {"type": "text"},
+      "description": {"type": "text"},
+      "services": {"type": "list of objects", "objects": [{"name": {}, "description": {}}],
+      "specialties": {"type": "list of objects", "objects": [{"name": {}, "description": {}}],
+      "goals": {"type": "list of objects", "objects": [{"name": {}, "description": {}}]
+    }
+  }
+}
+
+
+Let me know if you need any further modifications!

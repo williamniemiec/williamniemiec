@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Resource List": {
+    "Resources": [
+      {"Name": "", "Description": "", "Link": ""},
+    ],
+    "Filter": {"Type": "options"}
+  }
+}

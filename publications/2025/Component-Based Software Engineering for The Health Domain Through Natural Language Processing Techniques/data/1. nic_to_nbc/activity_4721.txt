@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Learning Environment Configuration": {
+    "Environmental Factors": {"type": "categorical"},
+    "Learning Style": {"type": "categorical"},
+    "Environmental Preferences": {"type": "categorical"},
+    "Configured Environment": {"type": "text or multimedia"}
+  }
+}

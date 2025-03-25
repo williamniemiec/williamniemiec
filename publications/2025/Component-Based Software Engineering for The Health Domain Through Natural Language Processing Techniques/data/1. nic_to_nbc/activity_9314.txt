@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "reminder",
+  "parameters": [
+    { 
+      "name": "name", 
+      "description": "reminder title"
+    },
+    { 
+      "name": "message", 
+      "description": "reminder message"
+    },
+    { 
+      "name": "frequency", 
+      "description": "specify when the reminder should be sent",
+      "options": [
+        { "value": "beforeProcedure", "label": "Before procedure" }
+      ]
+    }
+  ]
+}

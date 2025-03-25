@@ -1,0 +1,14 @@
+
+
+
+{
+  "Culturally Appropriate Food Options": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Cultural Background": {"Type": "options", "Options": [{"value": "asian", "label": "Asian"}, {"value": "african", "label": "African"}, {"value": "latinAmerican", "label": "Latin American"}]},
+      "Food Options": {"Type": "unordered list", "List items": [{"value": "sushi", "label": "Sushi"}, {"value": "jollofRice", "label": "Jollof Rice"}, {"value": "tacos", "label": "Tacos"}]},
+      "Meal Frequency": {"Type": "options", "Options": [{"value": "daily", "label": "Daily"}, {"value": "everyOtherDay", "label": "Every other day"}, {"value": "weekly", "label": "Weekly"}]},
+      "Food Preferences": {"Type": "text"}
+    }
+  }
+}

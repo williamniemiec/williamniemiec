@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "noCodeElementName": "Alert",
+  "parameterSpecifications": {
+    "Message": {"type": "text"},
+    "Affected Arm": {"type": "options", "options": ["left", "right"]},
+    "Frequency": {"type": "options", "options": ["daily", "everyHours", "everyDays"]}
+  }
+}

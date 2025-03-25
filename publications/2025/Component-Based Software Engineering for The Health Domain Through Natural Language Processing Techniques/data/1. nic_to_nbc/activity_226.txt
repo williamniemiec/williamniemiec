@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Nutrition Plan": {
+    "Dietary Recommendations": {"Type": "text", "Format": "list of recommended foods, portion sizes, and meal frequencies"},
+    "Meal Tracking": {"Type": "form", "Fields": ["date", "meal type (e.g., breakfast, lunch, dinner)", "food items", "portion sizes"]},
+    "Nutrient Intake": {"Type": "form", "Fields": ["date", "nutrient type", "amount", "units (e.g., grams, milligrams)"]},
+    "Reminders": {"Type": "boolean", "Default": true}
+  }
+}

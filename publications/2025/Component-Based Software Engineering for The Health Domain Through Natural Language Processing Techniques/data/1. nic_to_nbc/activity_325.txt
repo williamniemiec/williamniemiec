@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Device Tutorial": {
+    "tutorial title": {},
+    "Device": {},
+    "Steps": {},
+    "Frequency": {},
+    "Deadline Date": {}
+  }
+}

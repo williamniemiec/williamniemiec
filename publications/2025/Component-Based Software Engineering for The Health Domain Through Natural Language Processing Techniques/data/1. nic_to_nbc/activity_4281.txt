@@ -1,0 +1,31 @@
+Here is the output in JSON format:
+
+
+{
+    "Beverage Guide": {
+        "parameters": {
+            "title": {},
+            "avoid": {
+                "listItems": {
+                    "fruitDrinks": {},
+                    "flavoredMilk": {}
+                }
+            },
+            "alternatives": {
+                "listItems": {
+                    "water": {},
+                    "lowFatMilk": {}
+                }
+            },
+            "frequency": {
+                "options": {
+                    "daily": {},
+                    "everyDays": {},
+                    "onlyOnce": {}
+                }
+            }
+        }
+    }
+}
+
+Note that I removed the `Content Type` parameter as it was not applicable. Let me know if you have any further questions!

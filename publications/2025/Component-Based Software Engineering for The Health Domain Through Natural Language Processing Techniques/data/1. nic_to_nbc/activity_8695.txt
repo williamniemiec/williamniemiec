@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "House Tour": {
+    "parameters": [
+      {"name": "Name", "type": "text"},
+      {"name": "Instructions", "type": "text"},
+      {"name": "Room List", "type": "unordered list"},
+      {"name": "Object Identification", "type": "unordered list"},
+      {"name": "Frequency", "type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    ]
+  }
+}

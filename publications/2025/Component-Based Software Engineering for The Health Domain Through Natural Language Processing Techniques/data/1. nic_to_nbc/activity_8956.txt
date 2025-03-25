@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+    "Reason for Second Line": {
+        "Type": "text"
+    },
+    "IV Line Type": {
+        "Type": "options",
+        "Options": ["peripheral IV", "central IV", "arterial line"]
+    },
+    "Insertion Site": {
+        "Type": "text"
+    },
+    "Deadline Date": {
+        "Type": "datetime"
+    },
+    "Special Instructions": {
+        "Type": "text"
+    }
+}
+
+
+Let me know if this meets your requirements!

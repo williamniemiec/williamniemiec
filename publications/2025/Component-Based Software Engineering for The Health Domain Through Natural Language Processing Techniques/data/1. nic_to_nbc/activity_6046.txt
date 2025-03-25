@@ -1,0 +1,40 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Medication Reminder",
+    "parameters": [
+        {
+            "name": "Medication Name",
+            "type": "text"
+        },
+        {
+            "name": "Dosage",
+            "type": "text"
+        },
+        {
+            "name": "Frequency",
+            "type": "options",
+            "options": [
+                { value: "daily", label: "Daily" },
+                { value: "onlyOnce", label: "Only once" },
+                { value: "everyHours", label: "Every x hours" },
+                { value: "everyDays", label: "Every x days" },
+            ]
+        },
+        {
+            "name": "Deadline Date",
+            "type": "datetime"
+        },
+        {
+            "name": "Reminder Type",
+            "type": "options",
+            "options": [
+                { value: "pushNotification", label: "Push Notification" },
+                { value: "SMS", label: "SMS" },
+                { value: "email", label: "Email" },
+                { value: "custom", label: "Custom" },
+            ]
+        }
+    ]
+}

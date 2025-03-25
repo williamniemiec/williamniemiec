@@ -1,0 +1,40 @@
+Here is the output in JSON format:
+
+
+{
+    "Photo": {
+        "parameters": {
+            "name": "",
+            "frequency": "",
+            "deadline_date": "",
+            "instructions": ""
+        }
+    },
+    "Musculoskeletal Assessment": {
+        "parameters": {
+            "name": "",
+            "characteristics": [],
+            "presence": "",
+            "severity": "",
+            "frequency": ""
+        }
+    },
+    "Question": {
+        "parameters": {
+            "name": "",
+            "answer_type": "",
+            "options": [],
+            "frequency": ""
+        }
+    },
+    "Pain Tracker": {
+        "parameters": {
+            "name": "",
+            "pain_levels": [],
+            "frequency": ""
+        }
+    }
+}
+
+
+Note that I removed the introduction, conclusion, and any not applicable parameters. The resulting JSON object has the no-code element names as keys, with their corresponding parameter specifications as values.

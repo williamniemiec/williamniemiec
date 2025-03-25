@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+  "Data Collection Schedule": {
+    "Patient Status": {
+      "Type": "options",
+      "Options": ["stable", "unstable", "critical", "etc."]
+    },
+    "Data Collection Frequency": {
+      "Type": "options",
+      "Options": ["realTime", "hourly", "daily", "weekly", "etc."]
+    },
+    "Data Interpretation Frequency": {
+      "Type": "options",
+      "Options": ["realTime", "hourly", "daily", "weekly", "etc."]
+    },
+    "Data Collection Methods": {
+      "Type": "list of options",
+      "Options": ["manual", "automated", "etc."]
+    },
+    "Data Interpretation Criteria": {
+      "Type": "list of text"
+    }
+  }
+}

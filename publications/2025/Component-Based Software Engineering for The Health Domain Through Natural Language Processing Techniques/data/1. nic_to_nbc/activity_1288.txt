@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Ethical Considerations": {
+    "Situation Description": {"type": "text"},
+    "Ethical Principles": {"type": "options"},
+    "Legal Considerations": {"type": "text"},
+    "Reflection Questions": {"type": "text"},
+    "Decision Support": {"type": "text"}
+  }
+}

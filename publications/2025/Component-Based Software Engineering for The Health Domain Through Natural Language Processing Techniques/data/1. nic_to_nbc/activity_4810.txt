@@ -1,0 +1,10 @@
+Here is the output in JSON format:
+
+
+{
+    "Psychological Support": {
+        "Resources": {"type": "list of links or embedded content"},
+        "Journaling": {"type": "text"},
+        "Mood Tracking": {"type": "options"}
+    }
+}

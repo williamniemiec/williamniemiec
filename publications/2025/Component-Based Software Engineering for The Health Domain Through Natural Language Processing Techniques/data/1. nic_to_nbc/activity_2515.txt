@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+  "Fetal Heart Deceleration Monitoring": {
+    "Monitoring Criteria": {
+      "Description": "List of criteria for monitoring fetal heart decelerations",
+      "Required": true,
+      "Type": "unordered list",
+      "Unordered list": "List of text items (e.g., variable decelerations, prolonged decelerations, baseline heart rate, variability)"
+    },
+    "Data Entry": {
+      "Description": "Fields to enter data on fetal heart decelerations",
+      "Required": true,
+      "Type": "data entry",
+      "Data entry": "List of fields with labels and input types (e.g., text, number, checkbox)"
+    },
+    "Alerts": {
+      "Description": "Thresholds for alerting healthcare providers to abnormal fetal heart decelerations",
+      "Required": true,
+      "Type": "alert thresholds",
+      "Alert thresholds": "List of threshold values with corresponding alert messages"
+    }
+  }
+}
+
+
+Note: I removed the "Graphical Display" parameter since it's not required.

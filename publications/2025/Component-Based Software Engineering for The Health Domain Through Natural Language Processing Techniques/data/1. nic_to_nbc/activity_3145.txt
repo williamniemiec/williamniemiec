@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+    "Exercise Plan Generator": {
+        "Musculoskeletal Fitness": {"type": "text or options"},
+        "Pathology": {"type": "text or options"},
+        "Stretching Movements": {"type": "list of stretching movements"},
+        "Hold Phase Duration": {"type": "number or range"},
+        "Repetitions": {"type": "number or range"}
+    }
+}

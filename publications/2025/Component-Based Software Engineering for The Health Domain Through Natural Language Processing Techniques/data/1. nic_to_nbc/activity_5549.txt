@@ -1,0 +1,10 @@
+Here is the output in JSON format:
+
+
+{
+  "Referral Options": {
+    "Condition": {"type": "text"},
+    "Referral Options": {"type": "list of options"},
+    "Intervention Details": {"type": "list of details"}
+  }
+}

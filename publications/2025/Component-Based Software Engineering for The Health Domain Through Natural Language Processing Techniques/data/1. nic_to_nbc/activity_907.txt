@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Deep Breathing Game": {
+    "parameters": {
+      "name": "",
+      "content": "",
+      "game_type": "",
+      "frequency": ""
+    }
+  }
+}

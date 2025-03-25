@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "Leg Bag Strap Constriction Checker": {
+    "Parameters": {
+      "Name": {
+        "Type": "text"
+      },
+      "Interval": {
+        "Type": "options"
+      },
+      "Instructions": {
+        "Type": "text or multimedia"
+      },
+      "Checklist": {
+        "Type": "list of tasks"
+      },
+      "Reminders": {
+        "Type": "options"
+      }
+    }
+  }
+}

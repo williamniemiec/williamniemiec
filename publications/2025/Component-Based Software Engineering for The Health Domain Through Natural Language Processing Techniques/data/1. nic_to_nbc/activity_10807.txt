@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Aspiration Prevention": {
+    "Current Position": {},
+    "Aspiration Risk": {},
+    "Recommended Position": {},
+    "Frequency": {},
+    "Reminders": {}
+  }
+}

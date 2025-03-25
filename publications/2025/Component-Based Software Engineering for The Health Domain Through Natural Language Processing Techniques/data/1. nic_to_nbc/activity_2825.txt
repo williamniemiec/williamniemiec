@@ -1,0 +1,34 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "RICE Therapy",
+    "parameters": [
+        {
+            "name": "Ice Application",
+            "type": "text"
+        },
+        {
+            "name": "Rest Period",
+            "type": "text"
+        },
+        {
+            "name": "Compression Method",
+            "type": "text"
+        },
+        {
+            "name": "Elevation Instructions",
+            "type": "text"
+        },
+        {
+            "name": "Frequency",
+            "type": "options",
+            "options": [
+                { value: "daily" },
+                { value: "onlyOnce" },
+                { value: "everyHours" },
+                { value: "everyDays" }
+            ]
+        }
+    ]
+}

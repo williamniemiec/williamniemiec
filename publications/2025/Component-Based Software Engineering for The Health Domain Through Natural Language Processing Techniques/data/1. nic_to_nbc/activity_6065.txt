@@ -1,0 +1,15 @@
+
+
+
+{
+    "Care Assurance": {
+        "parameters": {
+            "Care Concerns": {"type": "text"},
+            "Care Plan": {"type": "text"},
+            "Care Team": {"type": "text"},
+            "Communication Methods": {"type": "text"},
+            "Family Questions": {"type": "text"},
+            "Care Commitment": {"type": "text"}
+        }
+    }
+}

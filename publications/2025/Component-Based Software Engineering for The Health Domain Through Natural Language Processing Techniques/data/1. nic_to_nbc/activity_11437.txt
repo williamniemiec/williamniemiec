@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "Bowel Sound Monitoring": {
+    "Parameters": {
+      "Monitoring Title": {},
+      "Frequency": {
+        "Options": [
+          {"value": "every4hours", "label": "Every 4 hours"},
+          {"value": "every8hours", "label": "Every 8 hours"}
+        ]
+      },
+      "Result": {
+        "Options": [
+          {"value": "present", "label": "Present"},
+          {"value": "absent", "label": "Absent"}
+        ]
+      }
+    }
+  }
+}
+
+
+I removed the not applicable parameters, such as `Deadline Date` which is optional and has no default value. Let me know if you need any further assistance!

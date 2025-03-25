@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+    "Demographical Information Form": {
+        "parameters": {
+            "name": {"type": "text"},
+            "fields": {"type": "list of form fields"},
+            "required_fields": {"type": "list of field names"}
+        }
+    }
+}

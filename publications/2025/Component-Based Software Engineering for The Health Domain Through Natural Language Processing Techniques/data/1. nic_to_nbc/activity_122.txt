@@ -1,0 +1,29 @@
+Here is the output in JSON format:
+
+
+{
+  "Psychiatric Symptom Management": {
+    "Parameters": {
+      "Psychiatric Symptoms": {
+        "Type": "list of text",
+        "Example": ["Mood disorder", "Hallucinations", "Delusions", "Panic",...]
+      },
+      "Treatment Plan": {
+        "Type": "list of text",
+        "Example": ["Medication for mood disorder", "Cognitive-behavioral therapy for hallucinations", "Dialectical behavior therapy for delusions",...]
+      },
+      "Symptom Severity": {
+        "Type": "options",
+        "Options": [
+          { "value": "mild", "label": "Mild" },
+          { "value": "moderate", "label": "Moderate" },
+          { "value": "severe", "label": "Severe" }
+        ]
+      },
+      "Treatment Goals": {
+        "Type": "list of text",
+        "Example": ["Reduce symptoms of mood disorder", "Improve mood and reduce suicidal ideation", "Increase coping skills for hallucinations",...]
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Exploitation Risk Assessment": {
+        "Basic Needs": {},
+        "Personal Possessions": {},
+        "Social Support Checks": {},
+        "Financial Knowledge": {},
+        "Legal Matters": {},
+        "Frequency": ["daily", "weekly", "monthly", "quarterly"],
+        "Deadline Date": {}
+    }
+}

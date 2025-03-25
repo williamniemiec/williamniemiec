@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Fluid Management Education",
+  "parameters": [
+    {
+      "name": "Fluid Management Plan"
+    },
+    {
+      "name": "Rationale"
+    },
+    {
+      "name": "Hydration Measures"
+    },
+    {
+      "name": "Supplemental Electrolyte Administration"
+    },
+    {
+      "name": "Family Education"
+    }
+  ]
+}
+
+
+I removed the not applicable parameters (`Additional Resources`) and only kept the `{{ NO-CODE ELEMENT NAME }}` and `{{ PARAMETER ESPECIFICATIONS }}`.

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "critical_path_sharing": {
+        "parameters": [
+            {"name": "patient_name"},
+            {"name": "family_members"},
+            {"name": "critical_path"},
+            {"name": "sharing_method"},
+            {"name": "sharing_date"}
+        ]
+    }
+}

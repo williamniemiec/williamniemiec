@@ -1,0 +1,15 @@
+Since there is no `{{ PARAMETER ESPECIFICATIONS }}` or `{{ NO-CODE ELEMENT NAME }}` in the input text, the output will be an empty JSON object:
+
+json
+{}
+
+
+If you want to consider "creating a no-code element that guides the caregiver to insert a urinary catheter" as the `{{ NO-CODE ELEMENT NAME }}`, then the output would be:
+
+json
+{
+  "NO-CODE ELEMENT NAME": "guide the caregiver to insert a urinary catheter"
+}
+
+
+But please note that this is an interpretation of the input text, and it may not be exactly what you are looking for.

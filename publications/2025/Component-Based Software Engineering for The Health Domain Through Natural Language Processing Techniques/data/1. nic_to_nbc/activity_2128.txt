@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Hemodynamic Monitoring": {
+    "Parameter List": {"Type": "list of text"},
+    "Target Range": {"Type": "range (with units, e.g. mmHg, bpm)"},
+    "Monitoring Schedule": {"Type": "text"},
+    "Data Entry": {"Type": "text or numerical input"},
+    "Alerts": {"Type": "boolean (yes/no)"},
+    "Physician Consult": {"Type": "boolean (yes/no)"},
+    "Notes": {"Type": "text"}
+  }
+}
+
+
+I removed all unnecessary text and kept only the `{{ NO-CODE ELEMENT NAME }}` ("Hemodynamic Monitoring") and `{{ PARAMETER ESPECIFICATIONS }}` (the parameters with their types). I also removed the "Not Applicable" parameters, as there were none in this input. Let me know if you need further assistance!

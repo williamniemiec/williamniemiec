@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+    "Instruction": {
+        "parameters": {
+            "name": {"type": "text"},
+            "content": {"type": "text"},
+            "type": {"type": "options"}
+        }
+    },
+    "Guide": {
+        "parameters": {
+            "name": {"type": "text"},
+            "pages": {"type": "book-page"}
+        }
+    }
+}

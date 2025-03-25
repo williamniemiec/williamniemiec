@@ -1,0 +1,32 @@
+Here is the output in JSON format:
+
+
+{
+  "Sleep Routine": {
+    "Routine Name": {
+      "description": "Name of the sleep routine",
+      "required": true,
+      "type": "text"
+    },
+    "Wake Up Time": {
+      "description": "Specify the wake-up time",
+      "required": true,
+      "type": "time"
+    },
+    "Bedtime": {
+      "description": "Specify the bedtime",
+      "required": true,
+      "type": "time"
+    },
+    "Frequency": {
+      "description": "Specify how often the routine should be repeated",
+      "required": true,
+      "type": "options",
+      "options": [
+        { "value": "daily", "label": "Daily" },
+        { "value": "onlyOnce", "label": "Only once" },
+        { "value": "everyDays", "label": "Every x days" }
+      ]
+    }
+  }
+}

@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication History": {
+    "Parameters": {
+      "Medication Vials or List": {"Type": "image or text"},
+      "Patient Verification": {"Type": "questionnaire"},
+      "Family Verification": {"Type": "questionnaire"},
+      "Physician Communication": {"Type": "messaging system or contact information"},
+      "Pharmacy Communication": {"Type": "messaging system or contact information"},
+      "Medication History Report": {"Type": "report"}
+    }
+  }
+}
+
+
+Let me know if this meets your requirements!

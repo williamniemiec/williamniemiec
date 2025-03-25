@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Food Guide",
+  "parameters": [
+    {
+      "name": "guide_type"
+    },
+    {
+      "name": "image"
+    }
+  ]
+}

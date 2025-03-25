@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "parameters": {
+    "wound_location": {},
+    "symptoms_to_monitor": {},
+    "monitoring_frequency": {},
+    "monitoring_deadline": {}
+  },
+  "no_code_element_name": "wound_monitoring"
+}

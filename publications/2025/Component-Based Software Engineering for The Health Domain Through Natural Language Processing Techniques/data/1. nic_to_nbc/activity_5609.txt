@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Behavioral Guidance": {
+        "Parameters": {
+            "Title": {"Type": "text"},
+            "Situations to Avoid": {"Type": "list of text items"},
+            "Alternative Behaviors": {"Type": "list of text items"},
+            "Tips and Reminders": {"Type": "list of text items"}
+        }
+    }
+}

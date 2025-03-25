@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Guide": {
+    "Parameters": {
+      "Medication Name": {"Type": "text"},
+      "Instructions": {"Type": ["text", "multimedia"]},
+      "FAQs": {"Type": ["text", "multimedia"]}
+    }
+  }
+}

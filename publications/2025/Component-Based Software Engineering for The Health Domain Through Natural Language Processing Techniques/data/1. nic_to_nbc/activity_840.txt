@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Theme Identification Exercise": {
+        "Text or Transcript": {"type": "text"},
+        "Theme Options": {"type": "list of text"},
+        "Identification": {"type": "options"},
+        "Supporting Evidence": {"type": "text"},
+        "Reflection Questions": {"type": "list of text"},
+        "Insight": {"type": "text"}
+    }
+}

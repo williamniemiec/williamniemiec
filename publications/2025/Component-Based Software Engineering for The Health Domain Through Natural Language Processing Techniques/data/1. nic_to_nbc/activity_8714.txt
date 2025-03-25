@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Stimulation Method Selector": {
+    "Parameters": {
+      "Stimulation Type": {},
+      "Method Options": {},
+      "Convenience Criteria": {},
+      "Recommendation": {}
+    }
+  }
+}

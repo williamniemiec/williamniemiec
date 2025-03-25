@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Shelter Referral": {
+    "parameters": [
+      {"Reason for Referral": {}},
+      {"Shelter Options": {}},
+      {"Referral Instructions": {}},
+      {"Follow-up": {}},
+      {"Confidentiality": {}}
+    ]
+  }
+}

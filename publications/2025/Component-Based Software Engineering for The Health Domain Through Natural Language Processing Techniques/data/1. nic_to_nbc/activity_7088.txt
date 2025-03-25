@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "oral intake limitation": {
+    "Gastrointestinal System Status": {},
+    "Oral Intake Limitations": {},
+    "Nutrition Guidance": {},
+    "Frequency": {}
+  }
+}

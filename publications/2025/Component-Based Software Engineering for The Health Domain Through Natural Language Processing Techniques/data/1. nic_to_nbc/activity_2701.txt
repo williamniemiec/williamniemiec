@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Meal Planner": {
+    "Parameters": {
+      "Meal Planning Steps": {"Type": "list of tutorial steps"},
+      "Meal Ideas": {"Type": "list of meal ideas or recipes with ingredients and instructions"},
+      "Dietary Restrictions": {"Type": "options or text"},
+      "Meal Planning Template": {"Type": "interactive table or form"},
+      "Tips and Reminders": {"Type": "list of text or interactive elements"}
+    }
+  }
+}
+
+
+I removed all unnecessary information, including the introduction, conclusion, and other elements that are not parameters. I also reformatted the output to be in JSON format, with the no-code element name as a key, and its parameters as values. Let me know if you need any further assistance!

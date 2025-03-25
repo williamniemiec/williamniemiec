@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+    "Vital Sign Tracker": {
+        "parameters": {
+            "name": "Vital Sign Tracker",
+            "description": "Track patient vital signs, including oxygen saturation levels",
+            "content_type": ["form", "chart"],
+            "vital_signs": "list of vital signs to track, including oxygen saturation levels",
+            "frequency": "specify how often to track vital signs",
+            "deadline_date": "specify the due date for tracking vital signs"
+        }
+    }
+}

@@ -1,0 +1,10 @@
+Here is the output in JSON format:
+
+
+{
+  "Health Screening Guide": {
+    "Disease Information": {"type": "text"},
+    "Screening Guidelines": {"type": "text"},
+    "FAQs": {"type": "text"}
+  }
+}

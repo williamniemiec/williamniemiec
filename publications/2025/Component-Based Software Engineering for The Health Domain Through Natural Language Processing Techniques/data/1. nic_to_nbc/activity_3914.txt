@@ -1,0 +1,71 @@
+Here is the output in JSON format:
+
+{
+  "name": "Health Risk Profile",
+  "parameters": [
+    {
+      "name": "Name",
+      "type": "text"
+    },
+    {
+      "name": "Sections",
+      "type": "unordered list"
+    },
+    {
+      "name": "Questions",
+      "type": "form"
+    },
+    {
+      "name": "Answer Type",
+      "type": "options",
+      "options": [
+        { value: "text", label: "Text" },
+        { value: "checkbox", label: "Checkbox" },
+        { value: "dropdown", label: "Dropdown" }
+      ]
+    },
+    {
+      "name": "Medical History",
+      "type": "form"
+    },
+    {
+      "name": "Prescription Drug Use",
+      "type": "form"
+    },
+    {
+      "name": "Ethnic Background",
+      "type": "options",
+      "options": []
+    },
+    {
+      "name": "Occupational and Household Exposures",
+      "type": "form"
+    },
+    {
+      "name": "Diet",
+      "type": "form"
+    },
+    {
+      "name": "Genetic Disorders",
+      "type": "form"
+    },
+    {
+      "name": "Habits",
+      "type": "form"
+    },
+    {
+      "name": "Frequency",
+      "type": "options",
+      "options": [
+        { value: "daily", label: "Daily" },
+        { value: "onlyOnce", label: "Only once" },
+        { value: "everyHours", label: "Every x hours" },
+        { value: "everyDays", label: "Every x days" }
+      ]
+    },
+    {
+      "name": "Deadline Date",
+      "type": "datetime"
+    }
+  ]
+}

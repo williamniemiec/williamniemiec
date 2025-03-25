@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Relaxing Environment": {
+    "parameters": {
+      "name": {"type": "text"},
+      "instructions": {"type": "text"},
+      "suggestions": {"type": "list of text"},
+      "frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "deadline_date": {"type": "datetime"}
+    }
+  }
+}

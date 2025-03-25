@@ -1,0 +1,35 @@
+Here is the output in JSON format:
+
+
+{
+  "Blood Glucose Monitoring": {
+    "parameters": {
+      "name": {"type": "text"},
+      "why": {"type": "text"},
+      "frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "deadline_date": {"type": "datetime"},
+      "notes": {"type": "text"}
+    }
+  },
+  "Insulin Therapy Administration": {
+    "parameters": {
+      "name": {"type": "text"},
+      "why": {"type": "text"},
+      "dosage": {"type": "text"},
+      "frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "deadline_date": {"type": "datetime"},
+      "notes": {"type": "text"}
+    }
+  },
+  "Diabetes Management": {
+    "parameters": {
+      "name": {"type": "text"},
+      "why": {"type": "text"},
+      "blood_glucose_monitoring_frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "insulin_therapy_dosage": {"type": "text"},
+      "insulin_therapy_frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "deadline_date": {"type": "datetime"},
+      "notes": {"type": "text"}
+    }
+  }
+}

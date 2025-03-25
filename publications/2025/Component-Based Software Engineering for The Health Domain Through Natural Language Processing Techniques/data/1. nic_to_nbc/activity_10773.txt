@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Crisis Identification": {
+    "Parameters": {
+      "Crisis Identification Title": {},
+      "Crisis Types": {},
+      "Impact Questions": {},
+      "Frequency": {}
+    }
+  }
+}

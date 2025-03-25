@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+
+{
+"Swaddling Instruction": {
+    "Body Part": {"type": "text"},
+    "Procedure Name": {"type": "text"},
+    "Swaddling Method": {"type": "text"},
+    "Additional Tips": {"type": "text"}
+}

@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Warming Wrap": {
+    "Wrap Type": {"type": "options"},
+    "Application Site": {"type": "options"},
+    "Duration": {"type": "text"},
+    "Frequency": {"type": "options"}
+  }
+}

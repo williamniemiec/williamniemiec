@@ -1,0 +1,33 @@
+Here is the output in JSON format:
+
+
+{
+  "Tutorial": {
+    "title of the tutorial": {
+      "Type": "text",
+      "Required": true
+    },
+    "Steps": {
+      "Type": "list of interactive guide steps",
+      "Required": true
+    },
+    "Media": {
+      "Type": "list of media files",
+      "Required": false
+    }
+  },
+  "Interactive Guide Step": {
+    "Title": {
+      "Type": "text",
+      "Required": true
+    },
+    "Content": {
+      "Type": "text or media file",
+      "Required": true
+    },
+    "Instructions": {
+      "Type": "text",
+      "Required": false
+    }
+  }
+}

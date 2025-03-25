@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+"Open-Ended Question": {
+    "Parameters": {
+        "Question": ["How are you feeling today?", "What's been on your mind lately?", "Can you tell me more about your concerns?"],
+        "Response Type": ["Text", "Audio", "Video"],
+        "Frequency": ["daily", "weekly", "monthly"],
+        "Deadline Date": "datetime"
+    }
+},
+"Reflective Statement": {
+    "Parameters": {
+        "Statement": ["I sense that you're feeling overwhelmed.", "It sounds like you're struggling with...", "I'm here to listen and support you."],
+        "Tone": ["Empathetic", "Non-judgmental", "Supportive"],
+        "Frequency": ["daily", "weekly", "monthly"],
+        "Deadline Date": "datetime"
+    }
+}
+}
+
+
+Note that I removed the "Content Type" parameter as it was not explicitly requested to be included in the output. If you need it, let me know!

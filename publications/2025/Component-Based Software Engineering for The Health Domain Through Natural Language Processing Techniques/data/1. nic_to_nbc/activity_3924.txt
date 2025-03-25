@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+    "Guided Imagery": {
+        "parameters": {
+            "name": {"type": "text"},
+            "script": {"type": "text"},
+            "duration": {"type": "number"},
+            "background_sound": {"type": "audio file or options"},
+            "frequency": {"type": "options"}
+        }
+    }
+}
+
+
+Note that I removed the `deadline_date` parameter as it is not applicable in this context. Let me know if you need any further assistance!

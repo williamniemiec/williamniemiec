@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Instruction": {
+    "Parameters": {
+      "Title": {"Type": "text"},
+      "Content": {"Type": ["video", "article"]},
+      "Pages": {"Type": ["list of HTML texts", "list of video segments"]},
+      "Quiz": {"Type": "list of questions with answer options"}
+    }
+  }
+}

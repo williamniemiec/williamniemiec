@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Behavioral Preparation": {
+    "Name": {"type": "text"},
+    "Behavior": {"type": "text"},
+    "Physiologic States": {"type": "list of text"},
+    "Emotional States": {"type": "list of text"},
+    "Coping Strategies": {"type": "list of text"},
+    "Frequency": {
+      "type": "options",
+      "options": [
+        {"value": "daily", "label": "Daily"},
+        {"value": "weekly", "label": "Weekly"},
+        {"value": "monthly", "label": "Monthly"}
+      ]
+    },
+    "Personalization": {"type": "boolean"}
+  }
+}

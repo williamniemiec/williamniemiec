@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Analgesic Administration Guide": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Medication": {"Type": "options", "Options": ["Opioids (e.g., fentanyl, morphine)", "Non-opioids (e.g., nitrous oxide, benzodiazepines)", "Local anesthetics (e.g., epidural, spinal)"]},
+      "Dosage": {"Type": "text or numerical value"},
+      "Administration Route": {"Type": "options", "Options": ["Oral", "IV", "Epidural", "Spinal"]},
+      "Contraindications": {"Type": "text"},
+      "Monitoring": {"Type": "list of text or numerical values"},
+      "Labor Stage": {"Type": "options", "Options": ["Early Labor", "Active Labor", "Transition", "Pushing"]}
+    }
+  }
+}

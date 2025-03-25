@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+  "Quiz": {
+    "parameters": {
+      "name": "Special Care for Infant Quiz",
+      "questions": ["What is the correct way to administer oxygen therapy to your infant?", "How often should you suction your infant's nose and mouth?", "What are the signs of a wound infection in your infant?"],
+      "answer type": "options",
+      "feedback": true,
+      "frequency": "weekly"
+    }
+  },
+  "Simulation": {
+    "parameters": {
+      "name": "Special Care for Infant Simulation",
+      "scenario": ["Administering oxygen therapy to an infant", "Suctioning an infant's nose and mouth", "Changing a wound dressing on an infant"],
+      "steps": ["Preparing the necessary equipment", "Performing the special care task", "Monitoring the infant's response"],
+      "feedback": true,
+      "frequency": "weekly"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Decision Support": {
+    "Parameters": {
+      "Decisions": {"Type": "unordered list"},
+      "Guidance": {"Type": "text"},
+      "Frequency": {"Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"Type": "datetime"}
+    }
+  }
+}

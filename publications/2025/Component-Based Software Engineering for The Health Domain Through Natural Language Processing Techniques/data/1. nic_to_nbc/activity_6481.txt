@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Developmental Goal": {
+    "name": {"type": "text"},
+    "description": {"type": "text"},
+    "category": {"type": "options", "options": ["physical", "emotional", "social", "cognitive", "other"]},
+    "target_date": {"type": "datetime"},
+    "progress_tracking": {"type": "boolean"}
+  }
+}

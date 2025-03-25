@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+    "barrier_identification": {
+        "parameters": [
+            { 
+                "name": "barriers", 
+                "description": "select the barriers that apply to you" 
+            },
+            { 
+                "name": "solution", 
+                "description": "develop a plan to overcome the selected barriers" 
+            }
+        ]
+    }
+}

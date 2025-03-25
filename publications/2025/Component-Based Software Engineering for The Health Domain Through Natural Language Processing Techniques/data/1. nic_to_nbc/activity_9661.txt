@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Postmortem Care Protocol": {
+    "parameters": {
+      "title": {"type": "text"},
+      "introduction": {"type": "text"},
+      "care_steps": {"type": "checklist"},
+      "cultural_sensitivity": {"type": "table or chart"},
+      "family_support": {"type": "support resources"},
+      "documentation": {"type": "documentation template"},
+      "quality_control": {"type": "quality control checklist"}
+    }
+  }
+}

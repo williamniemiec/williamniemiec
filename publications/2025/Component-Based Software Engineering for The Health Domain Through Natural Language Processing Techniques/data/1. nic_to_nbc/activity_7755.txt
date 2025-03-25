@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Seizure Precaution Instructions": {
+    "parameters": {
+      "name": "",
+      "instruction_type": "",
+      "instruction_content": "",
+      "quiz": "",
+      "deadline_date": ""
+    }
+  }
+}

@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+    "Medication Alert": {
+        "Parameters": {
+            "Medication List": "",
+            "Cautionary Notes": "",
+            "Temperature Threshold": {"Type": "number", "Value": "30 °C"},
+            "Frequency": {"Options": ["daily", "every 12 hours", "every 8 hours"]}
+        }
+    },
+    "Medication Control": {
+        "Parameters": {
+            "Medication List": "",
+            "Dosage": "",
+            "Cautionary Notes": "",
+            "Temperature Threshold": {"Type": "number", "Value": "30 °C"},
+            "Frequency": {"Options": ["daily", "every 12 hours", "every 8 hours"]}
+        }
+    }
+}
+
+
+Note: I removed the `Description` and `Content Type` fields as they are not part of the `PARAMETER ESPECIFICATIONS`. Also, I kept only the parameters that have a specific value or type, and removed the ones with no applicable values. Let me know if you need any further modifications!

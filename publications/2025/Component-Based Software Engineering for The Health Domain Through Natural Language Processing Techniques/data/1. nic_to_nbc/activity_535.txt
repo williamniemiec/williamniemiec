@@ -1,0 +1,29 @@
+Here is the output in JSON format:
+
+
+{
+  "Rupture of Membranes": {
+    "parameters": {
+      "name": "Rupture of Membranes",
+      "unit": "yes/no" or "ruptured/not ruptured",
+      "frequency": "options for how often to check for rupture of membranes (e.g., every hour, etc.)",
+      "deadline_date": "optional due date for checking rupture of membranes"
+    }
+  },
+  "Internal Uterine Pressure Catheter Application": {
+    "parameters": {
+      "name": "Internal Uterine Pressure Catheter Application",
+      "unit": "yes/no" or "applied/not applied",
+      "frequency": "options for how often to apply internal uterine pressure catheter (e.g., only after rupture of membranes, etc.)",
+      "deadline_date": "optional due date for applying internal uterine pressure catheter"
+    }
+  },
+  "Uterine Contractions and Resting Tone Monitoring": {
+    "parameters": {
+      "name": "Uterine Contractions and Resting Tone Monitoring",
+      "unit": "yes/no" or "necessary/not necessary",
+      "frequency": "options for how often to monitor uterine contractions and resting tone (e.g., every 15 minutes, etc.)",
+      "deadline_date": "optional due date for monitoring uterine contractions and resting tone"
+    }
+  }
+}

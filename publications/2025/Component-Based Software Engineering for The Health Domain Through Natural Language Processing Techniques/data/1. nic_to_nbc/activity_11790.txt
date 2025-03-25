@@ -1,0 +1,10 @@
+Here is the output in JSON format:
+
+
+{
+    "ET Tube Holder Maintenance": {
+        "Loosening Frequency": {},
+        "Skin Care Instructions": {},
+        "Maintenance Log": {}
+    }
+}

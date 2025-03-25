@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Caregiver Support Plan": {
+    "parameters": {
+      "Caregiver Information": {"type": "text"},
+      "Caregiver Role": {"type": "options"},
+      "Support Needed": {"type": "options"},
+      "Support Frequency": {"type": "options"},
+      "Support Duration": {"type": "text"},
+      "Resource Allocation": {"type": "options"},
+      "Caregiver Education": {"type": "boolean"}
+    }
+  }
+}

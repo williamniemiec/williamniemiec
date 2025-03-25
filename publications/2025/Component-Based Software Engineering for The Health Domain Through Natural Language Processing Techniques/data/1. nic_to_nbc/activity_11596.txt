@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+    "Environmental Search": {
+        "Search Frequency": {"type": "options", "options": ["daily", "weekly", "biweekly", "monthly"]},
+        "Search Areas": {"type": "list of options", "options": ["patientRoom", "bathroom", "commonAreas", "other"]},
+        "Hazardous Materials": {"type": "list of options", "options": ["matches", "lighters", "candles", "electricalCords", "other"]},
+        "Search Instructions": {"type": "text"}
+    }
+}

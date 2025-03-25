@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Perception Gap Assessment": {
+    "parameters": {
+      "Patient's View": {},
+      "Healthcare Provider's View": {},
+      "Comparison": {},
+      "Notes": {}
+    }
+  }
+}

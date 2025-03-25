@@ -1,0 +1,46 @@
+Here is the output in JSON format:
+
+
+{
+    "Heel Protector Application": {
+        "parameters": [
+            {
+                "name": "Name",
+                "type": "text"
+            },
+            {
+                "name": "Instructions",
+                "type": "text"
+            },
+            {
+                "name": "Image/Video",
+                "type": "media"
+            },
+            {
+                "name": "Frequency",
+                "type": "options",
+                "options": [
+                    { value: "daily" },
+                    { value: "onlyOnce" },
+                    { value: "everyHours" },
+                    { value: "everyDays" }
+                ]
+            },
+            {
+                "name": "Deadline Date",
+                "type": "datetime"
+            },
+            {
+                "name": "Heel Protector Type",
+                "type": "options",
+                "options": [
+                    { value: "foam" },
+                    { value: "gel" }
+                ]
+            }
+        ]
+    }
+}
+
+
+Note that I removed the not applicable parameters and kept only the relevant information.

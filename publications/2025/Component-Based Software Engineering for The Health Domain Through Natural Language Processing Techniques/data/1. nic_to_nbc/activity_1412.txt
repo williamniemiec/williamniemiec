@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+    "element_name": "economic_advocacy",
+    "parameters": [
+        {
+            "name": "patient_economic_needs"
+        },
+        {
+            "name": "conference_objectives"
+        },
+        {
+            "name": "economic_issues_to_address",
+            "sub_parameters": [
+                {
+                    "name": "issue_name"
+                },
+                {
+                    "name": "issue_priority"
+                }
+            ]
+        },
+        {
+            "name": "advocacy_strategies"
+        }
+    ]
+}

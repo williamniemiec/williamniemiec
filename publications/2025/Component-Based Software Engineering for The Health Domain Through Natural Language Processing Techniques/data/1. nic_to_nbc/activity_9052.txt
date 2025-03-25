@@ -1,0 +1,43 @@
+Here is the output in JSON format:
+
+
+{
+  "Leakage Tracker": {
+    "parameters": {
+      "name": "Interpleural Catheter Leakage",
+      "description": "Report any leakage from your interpleural catheter",
+      "type": "options",
+      "options": [
+        { "value": "yes", "label": "Yes, I'm experiencing leakage" },
+        { "value": "no", "label": "No, I'm not experiencing leakage" }
+      ],
+      "frequency": "specify how often the patient should report on leakage",
+      "deadline_date": "specify the due date for the patient to report on leakage",
+      "additional_notes": "optional text field for patient to provide additional details about the leakage"
+    }
+  },
+  "Journal": {
+    "parameters": {
+      "name": "Interpleural Catheter Journal",
+      "description": "Keep a log of your experiences with your interpleural catheter",
+      "entries": [
+        {
+          "name": "leakage",
+          "description": "Did you experience any leakage from your interpleural catheter?",
+          "type": "options",
+          "options": [
+            { "value": "yes", "label": "Yes" },
+            { "value": "no", "label": "No" }
+          ]
+        },
+        {
+          "name": "notes",
+          "description": "Any additional notes or comments about your experience",
+          "type": "text"
+        }
+      ],
+      "frequency": "specify how often the patient should make a journal entry",
+      "deadline_date": "specify the due date for the patient to make a journal entry"
+    }
+  }
+}

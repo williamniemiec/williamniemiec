@@ -1,0 +1,44 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "education",
+    "parameters": [
+        { 
+            "name": "title", 
+            "description": "education title", 
+            "required": true, 
+            "type": "text"
+        },
+        { 
+            "name": "content", 
+            "description": "education content", 
+            "required": true, 
+            "type": "text"
+        },
+        { 
+            "name": "risks", 
+            "description": "risks associated with alcohol consumption", 
+            "required": true, 
+            "type": "unordered list",
+            "items": [
+                "liver damage",
+                "increased risk of cancer",
+                "impaired judgment and coordination",
+                "interactions with medications"
+            ]
+        },
+        { 
+            "name": "alternatives", 
+            "description": "alternatives to alcohol consumption", 
+            "required": true, 
+            "type": "unordered list",
+            "items": [
+                "water",
+                "juice",
+                "soda",
+                "tea or coffee"
+            ]
+        }
+    ]
+}

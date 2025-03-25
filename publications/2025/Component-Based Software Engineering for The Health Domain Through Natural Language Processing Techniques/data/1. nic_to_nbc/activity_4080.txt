@@ -1,0 +1,11 @@
+
+
+
+{
+  "Patient Positioning": {
+    "Positioning Instructions": {"type": "text", "value": "For insertion and removal of non-tunneled CVADs, position the patient supine (on their back) with their head down if possible. This will help reduce the risk of complications."},
+    "Positioning Options": {"type": "list", "values": ["supine", "head down", "alternative positioning (if head down is not possible)"]},
+    "Confirmation": {"type": "boolean", "value": true},
+    "Procedure Enable": {"type": "boolean", "value": true}
+  }
+}

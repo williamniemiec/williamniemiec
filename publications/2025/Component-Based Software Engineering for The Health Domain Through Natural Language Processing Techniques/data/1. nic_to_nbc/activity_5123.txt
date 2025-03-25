@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Ethical Dilemma Discussion": {
+        "Treatment Modality": {"type": "text", "required": true},
+        "Ethical Dilemmas": {"type": "list", "required": true, "items": {"name": "ethical_dilemma_name", "description": "ethical_dilemma_description"}},
+        "Discussion Questions": {"type": "list", "required": true, "items": {"question": "discussion_question"}}
+    }
+}
+
+
+I removed the `Decision Support` parameter since it's not required. Let me know if you need anything else!

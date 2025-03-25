@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+  "Reminder": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Message": {"Type": "text"},
+      "Frequency": {"Type": "options", "Options": ["Daily", "Weekly", "Monthly", "Quarterly"]},
+      "STI Symptoms": {"Type": "list of text"}
+    }
+  },
+  "Task": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Description": {"Type": "text"},
+      "Due Date": {"Type": "datetime"}
+    }
+  },
+  "Symptom Checker": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Symptoms": {"Type": "list of text"},
+      "Reporting": {"Type": "text"}
+    }
+  }
+}

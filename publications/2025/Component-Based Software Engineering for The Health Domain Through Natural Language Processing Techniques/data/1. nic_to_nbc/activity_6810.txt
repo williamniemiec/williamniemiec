@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Vital Sign Tracking": {
+    "parameters": {
+      "name": "",
+      "vital_signs": [],
+      "frequency": "",
+      "reporting_type": ""
+    }
+  }
+}
+
+
+Note that I removed the `deadline_date` parameter as it was not applicable in this context. Let me know if you have any further questions!

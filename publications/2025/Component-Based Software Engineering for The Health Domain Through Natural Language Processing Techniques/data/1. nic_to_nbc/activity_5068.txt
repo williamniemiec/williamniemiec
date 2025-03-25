@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Education",
+    "parameters": [
+        { 
+            "name": "Name", 
+            "type": "text"
+        },
+        { 
+            "name": "Content", 
+            "type": "text or html"
+        },
+        { 
+            "name": "Pages", 
+            "type": "list of html texts"
+        },
+        { 
+            "name": "Quiz", 
+            "type": "list of questions"
+        }
+    ]
+}

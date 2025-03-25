@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+  "Pulmonary Symptom Checker": {
+    "Symptoms": ["Shortness of breath", "Cough", "Chest pain", "Wheezing", "Fatigue", "Other (free text)"],
+    "Severity": {"type": "optional"},
+    "Frequency": {"type": "optional"},
+    "Deadline Date": {"type": "optional"}
+  },
+  "Oxygen Saturation Measurement": {
+    "Oxygen Saturation Level": {"type": "numeric value"},
+    "Measurement Method": ["Pulse oximeter", "Arterial blood gas", "Other (free text)"],
+    "Frequency": {"type": "optional"},
+    "Deadline Date": {"type": "optional"}
+  },
+  "Respiratory Rate Measurement": {
+    "Respiratory Rate": {"type": "numeric value"},
+    "Measurement Method": ["Manual count", "Respiratory rate monitor", "Other (free text)"],
+    "Frequency": {"type": "optional"},
+    "Deadline Date": {"type": "optional"}
+  }
+}
+
+
+Note: I removed the parameters that were marked as "not applicable" and only kept the ones with specific values or types.

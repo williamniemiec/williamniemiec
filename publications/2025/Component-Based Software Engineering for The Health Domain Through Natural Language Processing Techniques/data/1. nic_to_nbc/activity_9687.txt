@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Neighborhood Resource Hub": {
+    "Resource Directory": {"type": ["text", "URL"]},
+    "Resource Categories": {"type": ["text"]},
+    "Resource Map": {"type": ["map", "latitude", "longitude", "description"]},
+    "Resource Reviews": {"type": ["rating", 1, 5], "review": "text"},
+    "Resource Requests": {"type": "text"},
+    "Partnerships": {"type": ["text", "URL"]},
+    "News and Updates": {"type": ["text", "image", "video"]}
+  }
+}

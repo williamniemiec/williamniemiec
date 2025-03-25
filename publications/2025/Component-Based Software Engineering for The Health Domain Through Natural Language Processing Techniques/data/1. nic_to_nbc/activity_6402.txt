@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Conscious Sedation Criteria": {
+    "Parameters": {
+      "Health History": {"Type": "text or structured data"},
+      "Diagnostic Test Results": {"Type": "text or structured data"},
+      "Agency Criteria": {"Type": "text or structured data"},
+      "Eligibility Determination": {"Type": "boolean (true/false)"}
+    }
+  }
+}

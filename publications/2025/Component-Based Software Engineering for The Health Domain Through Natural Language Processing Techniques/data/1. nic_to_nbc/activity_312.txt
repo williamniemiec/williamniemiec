@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Skin Condition Tracker": {
+    "parameters": [
+      { "name": "skin_condition", "description": "Describe the current skin condition", "required": true, "type": "text" },
+      { "name": "skin_condition_rating", "description": "Rate the skin condition (e.g. 1-5)", "required": true, "type": "number" },
+      { "name": "monitoring_frequency", "description": "Specify how often to monitor the skin condition", "required": true, "type": "options", "options": [
+        { "value": "daily", "label": "Daily" },
+        { "value": "everyOtherDay", "label": "Every other day" },
+        { "value": "weekly", "label": "Weekly" },
+        { "value": "custom", "label": "Custom" }
+      ] }
+    ]
+  }
+}

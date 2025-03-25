@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Restraint Alternative": {
+    "Parameters": {
+      "Name": "",
+      "Interventions": [],
+      "Description": "",
+      "Condition": "",
+      "Frequency": "",
+      "Deadline Date": ""
+    }
+  }
+}

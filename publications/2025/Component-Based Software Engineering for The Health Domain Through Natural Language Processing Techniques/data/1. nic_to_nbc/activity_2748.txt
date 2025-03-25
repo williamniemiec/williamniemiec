@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Eye Movement Monitoring": {
+    "parameters": {
+      "Name": {"type": "text"},
+      "Instructions": {"type": "text"},
+      "Eye Movement Type": {"type": "options"},
+      "Gaze Characteristics": {"type": "camera or video with computer vision analysis"},
+      "Frequency": {"type": "options"}
+    }
+  }
+}
+
+
+I removed the `Deadline Date` parameter as it's not applicable in this context. Let me know if you need anything else!

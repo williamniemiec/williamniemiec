@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Cultural Pain Profile": {
+    "parameters": {
+      "Cultural Background": {},
+      "Pain Expression": {},
+      "Pain Coping Mechanisms": {},
+      "Pain Communication": {},
+      "Cultural Beliefs": {},
+      "Accommodations": {}
+    }
+  }
+}

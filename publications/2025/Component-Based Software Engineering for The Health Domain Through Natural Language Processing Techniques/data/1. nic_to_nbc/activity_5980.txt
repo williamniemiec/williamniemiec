@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+    "Patient Rights Education": {
+        "Parameters": {
+            "Rights Document": {
+                "Type": "text or PDF document"
+            },
+            "Rights Summary": {
+                "Type": "text"
+            },
+            "Education Method": {
+                "Options": ["interactiveTutorial", "video", "textBasedInformation", "other"]
+            },
+            "Acknowledgement Method": {
+                "Options": ["electronicSignature", "checkbox", "other"]
+            },
+            "Frequency": {
+                "Options": ["atEachVisit", "annually", "other"]
+            }
+        }
+    }
+}

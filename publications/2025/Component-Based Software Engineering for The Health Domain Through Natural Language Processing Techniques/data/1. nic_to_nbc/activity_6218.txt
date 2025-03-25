@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Peer Connection",
+    "parameters": [
+        {
+            "name": "Peer Profile",
+            "type": "text"
+        },
+        {
+            "name": "Connection Type",
+            "type": "options"
+        },
+        {
+            "name": "Frequency",
+            "type": "options"
+        },
+        {
+            "name": "Resources",
+            "type": "list"
+        }
+    ]
+}

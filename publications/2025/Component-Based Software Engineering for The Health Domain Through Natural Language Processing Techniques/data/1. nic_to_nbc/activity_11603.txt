@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+  "Blood Loss Monitoring": {
+    "Title": {"type": "text", "required": true},
+    "Blood Loss Amount": {"type": "number", "required": true},
+    "Blood Loss Nature": {"type": "options", "required": true, "options": [
+      {"value": "brightRed", "label": "Bright red"},
+      {"value": "darkRed", "label": "Dark red"},
+      {"value": "coffeeGround", "label": "Coffee ground"}
+    ]},
+    "Frequency": {"type": "options", "required": true, "options": [
+      {"value": "every15Minutes", "label": "Every 15 minutes"},
+      {"value": "every30Minutes", "label": "Every 30 minutes"},
+      {"value": "everyHour", "label": "Every hour"}
+    ]},
+    "Thresholds": {"type": "unordered list", "required": true, "items": [
+      {"name": "threshold name", "description": "brief description of the threshold", "value": "threshold value"}
+    ]},
+    "Alerts": {"type": "unordered list", "required": true, "items": [
+      {"name": "alert name", "description": "brief description of the alert", "type": "notification" / "call" / "sms"}
+    ]}
+  }
+}
+
+
+Note that I removed the not applicable parameters and kept only the `PARAMETER ESPECIFICATIONS` and `NO-CODE ELEMENT NAME`. Let me know if this is what you were expecting!

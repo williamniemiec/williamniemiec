@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+  "No-code Element Name": "Schedule Visit",
+  "Parameters": {
+    "Visit Reason": {"Type": "text", "Required": true},
+    "Visit Date and Time": {"Type": "datetime", "Required": true},
+    "Visit Frequency": {"Type": "options", "Required": true, "Options": [
+      {"value": "oneTime", "label": "One-time"},
+      {"value": "weekly", "label": "Weekly"},
+      {"value": "biweekly", "label": "Biweekly"},
+      {"value": "monthly", "label": "Monthly"}
+    ]},
+    "Visit Notes": {"Type": "text", "Required": false}
+  }
+}
+
+
+Let me know if this meets your requirements!

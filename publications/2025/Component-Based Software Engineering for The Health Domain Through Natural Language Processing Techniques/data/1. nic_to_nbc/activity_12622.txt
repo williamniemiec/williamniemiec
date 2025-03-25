@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Flexible Visitation Plan": {
+    "parameters": {
+      "Visitation Schedule": {"type": "calendar or schedule"},
+      "Flexibility Options": {"type": "options", "options": ["reschedule", "adjust time", "cancel", "etc."]},
+      "Notification": {"type": "boolean"},
+      "Reason for Change": {"type": "text or options"},
+      "Alternative Arrangements": {"type": "options", "options": ["video call", "messaging", "phone call", "etc."]}
+    }
+  }
+}

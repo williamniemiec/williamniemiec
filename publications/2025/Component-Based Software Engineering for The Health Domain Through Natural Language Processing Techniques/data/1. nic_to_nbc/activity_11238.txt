@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+    "enuresis assessment": {
+        "parameters": [
+            {"name": "frequency", "description": "how often does enuresis occur"},
+            {"name": "duration", "description": "how long has enuresis been occurring"},
+            {"name": "circumstances", "description": "circumstances surrounding enuresis"}
+        ]
+    }
+}

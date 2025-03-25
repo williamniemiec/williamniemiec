@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Strain Reduction Guide": {
+    "Name": {"type": "text"},
+    "Straining at Stool": {"type": ["text", "video"]},
+    "Lifting": {"type": ["text", "video"]},
+    "Excessive Standing": {"type": ["text", "video"]},
+    "Reminders": {"type": "date and time picker"},
+    "Tracking": {"type": ["boolean", "text"]}
+  }
+}

@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Service Directory": {
+    "service_name": "",
+    "service_description": "",
+    "eligibility_criteria": "",
+    "contact_info": "",
+    "referral_process": "",
+    "service_type": ""
+  }
+}

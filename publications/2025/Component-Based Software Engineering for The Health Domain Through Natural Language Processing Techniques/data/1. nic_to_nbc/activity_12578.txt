@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Active Listening": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Instructions": {"Type": "text"},
+      "Tips": {"Type": "list (of text items)"},
+      "Reflection": {"Type": "text (with a prompt or question)"},
+      "Rating": {"Type": "rating scale (e.g., 1-5)"}
+    }
+  }
+}

@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+
+{
+    "Family System Map": {
+        "Parameters": {
+            "Family Members": {"Type": "list of names"},
+            "Relationship Types": {"Type": "options"},
+            "Hierarchy Levels": {"Type": "options"},
+            "Discussion Prompts": {"Type": "list of questions or statements"},
+            "Reflection Questions": {"Type": "list of questions"}
+        }
+    }
+}

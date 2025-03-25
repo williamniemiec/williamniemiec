@@ -1,0 +1,38 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Suicide Risk Assessment",
+  "parameters": [
+    {
+      "name": "assessmentTool",
+      "type": "options",
+      "options": [
+        { value: "Beck Depression Inventory" },
+        { value: "Columbia-Suicide Severity Rating Scale" }
+      ]
+    },
+    {
+      "name": "frequency",
+      "type": "options",
+      "options": [
+        { value: "daily" },
+        { value: "everyHours" },
+        { value: "everyDays" }
+      ]
+    },
+    {
+      "name": "riskFactors",
+      "type": "options",
+      "options": [
+        { value: "historyOfSuicideAttempts" },
+        { value: "substanceAbuse" },
+        { value: "mentalHealthDiagnosis" }
+      ]
+    },
+    {
+      "name": "thresholds",
+      "type": "text"
+    }
+  ]
+}

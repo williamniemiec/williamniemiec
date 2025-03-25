@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "IV Solution and Tubing Change": {
+    "Frequency": {
+      "options": ["every 24 hours", "every 48 hours", "every 72 hours"]
+    },
+    "Protocol": {
+      "type": "text"
+    },
+    "Notes": {
+      "type": "text"
+    },
+    "Deadline Date": {
+      "type": "datetime"
+    }
+  }
+}

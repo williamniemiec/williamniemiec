@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Health Education": {
+    "title": {"type": "text"},
+    "content": {"type": "text or html"},
+    "type": {"type": "options"},
+    "resources": {"type": "list of resources"}
+  },
+  "Quiz": {
+    "questions": {"type": "list of questions"},
+    "answers": {"type": "list of answers"},
+    "feedback": {"type": "text or html"}
+  },
+  "Resource List": {
+    "resources": {"type": "list of resources"}
+  }
+}

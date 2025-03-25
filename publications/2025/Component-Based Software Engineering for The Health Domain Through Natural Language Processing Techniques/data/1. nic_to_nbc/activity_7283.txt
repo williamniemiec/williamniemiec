@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+  "Clinical Forms and Records Training": {
+    "parameters": [
+      {"name": "Content", "type": "text or html"},
+      {"name": "Forms and Records", "type": "list of objects",
+        "items": [
+          {"Form or Record": "text", "Description": "text", "Instructions": "list of text"}
+        ]
+      },
+      {"name": "Resources", "type": "list of objects",
+        "items": [
+          {"Resource": "text or html", "Description": "text"}
+        ]
+      }
+    ]
+  }
+}

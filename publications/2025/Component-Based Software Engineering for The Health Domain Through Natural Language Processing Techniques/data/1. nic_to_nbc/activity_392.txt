@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Order Tracker": {
+    "Parameters": {
+      "Medications": {"Description": "list of medications with orders and renewal dates", "Required": true, "Type": "list of text"},
+      "Order Date": {"Description": "date the medication was ordered", "Required": true, "Type": "datetime"},
+      "Renewal Date": {"Description": "date the medication order needs to be renewed", "Required": true, "Type": "datetime"},
+      "Status": {"Description": "status of medication order (e.g. active, discontinued, reordered)", "Required": true, "Type": "options", "Options": [{"value": "active", "label": "Active"}, {"value": "discontinued", "label": "Discontinued"}, {"value": "reordered", "label": "Reordered"}]}
+    }
+  }
+}

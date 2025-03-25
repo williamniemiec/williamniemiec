@@ -1,0 +1,9 @@
+Here is the output in JSON format:
+
+
+{
+    "CSF Drainage Sampling": {
+        "Name": {"type": "text"},
+        "Sampling Instructions": {"type": ["text", "multimedia"]}
+    }
+}

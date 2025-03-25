@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+  "Diet Progression Tracker": {
+    "parameters": {
+      "name": {"type": "text"},
+      "diet_plan": {"type": "text or HTML"},
+      "tolerance_scale": {"type": "text or number"},
+      "entry_frequency": {"type": "text or datetime"}
+    }
+  },
+  "Tolerance Rating Reminder": {
+    "parameters": {
+      "name": {"type": "text"},
+      "message": {"type": "text"},
+      "trigger": {"type": "text or datetime"}
+    }
+  }
+}

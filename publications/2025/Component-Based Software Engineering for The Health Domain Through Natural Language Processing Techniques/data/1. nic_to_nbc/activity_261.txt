@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Outcome Reflection": {
+    "Parameters": {
+      "Outcome Evaluation": {},
+      "Reflection Questions": {},
+      "Alternative Behavioral Choices": {},
+      "What Went Wrong": {},
+      "Lessons Learned": {},
+      "Frequency": ["daily", "onlyOnce", "everyHours", "everyDays"],
+      "Deadline Date": {}
+    }
+  }
+}

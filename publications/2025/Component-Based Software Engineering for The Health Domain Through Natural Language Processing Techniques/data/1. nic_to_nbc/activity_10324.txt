@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Item Photography": {
+        "Parameters": {
+            "Name": {},
+            "Item Description": {},
+            "Photo": {},
+            "Frequency": {},
+            "Deadline Date": {}
+        }
+    }
+}

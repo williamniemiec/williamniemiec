@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Home Visit Planning": {
+    "parameters": {
+      "Visit Purpose": {"type": "text"},
+      "Visit Schedule": {"type": "datetime"},
+      "Transportation Needs": {"type": "boolean"},
+      "Caregiver Support": {"type": "boolean"},
+      "Equipment Needs": {"type": "text"}
+    }
+  }
+}

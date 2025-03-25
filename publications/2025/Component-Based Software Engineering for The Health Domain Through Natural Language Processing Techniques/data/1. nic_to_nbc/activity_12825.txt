@@ -1,0 +1,34 @@
+Here is the output in JSON format:
+
+
+{
+  "Patient Preferences": {
+    "Parameters": {
+      "Visitation Preferences": {
+        "Type": "options",
+        "Options": [
+          {"value": "openVisitation", "label": "Open Visitation (anyone can visit)"},
+          {"value": "restrictedVisitation", "label": "Restricted Visitation (only specific individuals can visit)"},
+          {"value": "noVisitation", "label": "No Visitation"}
+        ]
+      },
+      "Authorized Visitors": {
+        "Type": "list of names"
+      },
+      "Release of Information": {
+        "Type": "options",
+        "Options": [
+          {"value": "releaseToAll", "label": "Release information to all healthcare providers and family members"},
+          {"value": "releaseToSpecific", "label": "Release information to specific healthcare providers and family members"},
+          {"value": "noRelease", "label": "Do not release information"}
+        ]
+      },
+      "Authorized Recipients": {
+        "Type": "list of names and relationships"
+      },
+      "Additional Instructions": {
+        "Type": "text"
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Parent Accompaniment": {
+    "parameters": {
+      "Parental Accompaniment Option": {},
+      "Eligibility Criteria": {},
+      "Pre-Operative Instructions": {},
+      "Parental Consent": {},
+      "Due Date": {}
+    }
+  }
+}

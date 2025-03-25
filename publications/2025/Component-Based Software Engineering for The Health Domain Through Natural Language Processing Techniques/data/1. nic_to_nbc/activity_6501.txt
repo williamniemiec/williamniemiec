@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+
+{
+  "Daily Schedule": {
+    "Structured Activities": {"Type": "list of activities"},
+    "Quiet Time": {"Type": "duration"},
+    "Schedule Template": {"Type": "list of time blocks"},
+    "Frequency": {"Options": ["daily", "weekly", "biweekly"]},
+    "Notes": {"Type": "text"}
+  }
+}

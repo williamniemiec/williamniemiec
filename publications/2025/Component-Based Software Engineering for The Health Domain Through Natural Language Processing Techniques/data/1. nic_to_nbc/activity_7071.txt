@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Adolescent Development Education": {
+    "Content": {
+      "type": "text, image, video, or interactive module"
+    },
+    "Topic Selection": {
+      "type": "list of topics (e.g., physical changes, emotional regulation, cognitive development)"
+    },
+    "Quiz or Assessment": {
+      "type": "multiple-choice, true/false, or short-answer questions"
+    },
+    "Additional Resources": {
+      "type": "list of resources (e.g., articles, videos, websites)"
+    }
+  }
+}

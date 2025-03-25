@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Reinforcement",
+    "parameters": [
+        {
+            "name": "title"
+        },
+        {
+            "name": "reinforcement"
+        },
+        {
+            "name": "health_professional"
+        },
+        {
+            "name": "original_info"
+        },
+        {
+            "name": "resources"
+        }
+    ]
+}

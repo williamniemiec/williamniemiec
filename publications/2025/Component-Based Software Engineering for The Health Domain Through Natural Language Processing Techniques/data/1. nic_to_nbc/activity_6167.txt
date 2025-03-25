@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+    "medication_administration": {
+        "parameters": [
+            {"name": "title", "description": "medication administration title"},
+            {"name": "medication", "description": "medication to administer (antipruritics)"},
+            {"name": "indication", "description": "indication for administering the medication (e.g. pruritus)"},
+            {"name": "dosage", "description": "dosage of the medication to administer"},
+            {"name": "frequency", "description": "frequency of administration"},
+            {"name": "route", "description": "route of administration (e.g. oral, topical, etc.)"}
+        ]
+    }
+}

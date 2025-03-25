@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+    "Barrier Identifier": {
+        "Goal": {"Type": "text"},
+        "Barrier Categories": {"Type": "list of options"},
+        "Barrier List": {"Type": "list of barriers"},
+        "Impact Level": {"Type": "scale"}
+    }
+}

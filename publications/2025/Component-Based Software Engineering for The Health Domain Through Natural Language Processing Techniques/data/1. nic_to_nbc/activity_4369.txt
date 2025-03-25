@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Focus Implication": {
+    "Implication": {"type": "text"},
+    "Description": {"type": "text"},
+    "Frequency": {"type": "options", "values": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"type": "datetime"}
+  }
+}

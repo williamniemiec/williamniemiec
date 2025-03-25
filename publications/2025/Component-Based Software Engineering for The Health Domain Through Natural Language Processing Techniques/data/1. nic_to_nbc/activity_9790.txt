@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Equipment Setup Guidance": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Equipment List": {"Type": "list"},
+      "Step-by-Step Instructions": {"Type": "text or video"},
+      "Checklist": {"Type": "form or checklist"},
+      "Reminders": {"Type": "options", "Options": ["daily", "every12Hours", "every8Hours", "asNeeded"]}
+    }
+  }
+}

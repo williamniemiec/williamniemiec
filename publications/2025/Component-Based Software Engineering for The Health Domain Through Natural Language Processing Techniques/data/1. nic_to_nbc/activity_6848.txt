@@ -1,0 +1,43 @@
+Here is the output in JSON format:
+
+
+{
+  "Symptom Checker": {
+    "name": "Hyperkalemia Symptom Checker",
+    "symptoms": [
+      "Irritability",
+      "Restlessness",
+      "Anxiety",
+      "Nausea",
+      "Vomiting",
+      "Abdominal cramps",
+      "Weakness",
+      "Flaccid paralysis",
+      "Circumoral numbness and tingling",
+      "Tachycardia",
+      "Bradycardia",
+      "Ventricular tachycardia/fibrillation"
+    ],
+    "answer type": "boolean (yes/no) or severity scale (e.g., 1-5)",
+    "frequency": "",
+    "deadline_date": ""
+  },
+  "ECG Tracker": {
+    "name": "Hyperkalemia ECG Tracker",
+    "ECG readings": [
+      "Tall peaked T waves",
+      "Flattened P wave",
+      "Broad slurred QRS complex",
+      "Heart block",
+      "Asystole"
+    ],
+    "frequency": "",
+    "deadline_date": ""
+  },
+  "Heart Rate Tracker": {
+    "name": "Heart Rate Tracker",
+    "heart rate": "",
+    "frequency": "",
+    "deadline_date": ""
+  }
+}

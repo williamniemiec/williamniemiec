@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+    "Emergency Alert": {
+        "Parameters": {
+            "Condition": {"Type": "text"},
+            "Contact Information": {"Type": "text"},
+            "Instructions": {"Type": "text"}
+        }
+    }
+}

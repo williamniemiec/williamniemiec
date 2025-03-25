@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+  "Symptom Tracker": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Symptom List": {"Type": "list"},
+      "Severity Scale": {"Type": "scale"},
+      "Frequency": {"Type": "options"},
+      "Deadline Date": {"Type": "datetime"}
+    }
+  },
+  "Journal": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Entry Prompt": {"Type": "text"},
+      "Frequency": {"Type": "options"},
+      "Deadline Date": {"Type": "datetime"}
+    }
+  }
+}

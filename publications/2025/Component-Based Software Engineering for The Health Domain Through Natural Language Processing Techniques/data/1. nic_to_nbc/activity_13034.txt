@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "ElementName": "Education",
+  "Parameters": {
+    "Title": {"Type": "text"},
+    "Content": {"Type": "text or HTML"},
+    "Side Effects": {"Type": "list of options", "Options": ["tremors", "headache", "palpitations", "anxiety", "nausea", "vomiting", "flushing", "warmth"]},
+    "Additional Resources": {"Type": "list of URLs or multimedia files"}
+  }
+}

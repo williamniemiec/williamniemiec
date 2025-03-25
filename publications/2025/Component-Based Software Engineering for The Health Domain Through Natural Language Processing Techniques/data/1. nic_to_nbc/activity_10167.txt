@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Trigger Identification": {
+    "Trigger Type": {"type": "options", "values": ["situation", "feeling", "thought"]},
+    "Trigger Description": {"type": "text"},
+    "Emotion": {"type": "options", "values": ["anxiety", "sadness", "anger"]},
+    "Intensity": {"type": "scale", "range": [1, 5]},
+    "Frequency": {"type": "options", "values": ["daily", "onlyOnce", "everyHours", "everyDays"]}
+  }
+}

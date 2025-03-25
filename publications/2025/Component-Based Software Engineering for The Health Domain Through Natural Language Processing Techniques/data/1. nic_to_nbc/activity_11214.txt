@@ -1,0 +1,29 @@
+Here is the output in JSON format:
+
+
+{
+    "Catheter Connection Tracker": {
+        "parameters": {
+            "name": "Catheter Connection",
+            "description": "Confirm that you have connected your catheter to the medication administration pump",
+            "connection_status": "options",
+            "options": [
+                { "value": "connected", "label": "Yes, I have connected my catheter" },
+                { "value": "not_connected", "label": "No, I have not connected my catheter" }
+            ],
+            "additional_notes": "optional text field for patient to provide additional details about the connection process"
+        }
+    },
+    "Task": {
+        "parameters": {
+            "name": "Connect Catheter to Pump",
+            "description": "Connect your catheter to the medication administration pump",
+            "task_status": "options",
+            "options": [
+                { "value": "completed", "label": "Yes, I have completed the task" },
+                { "value": "not_completed", "label": "No, I have not completed the task" }
+            ],
+            "additional_notes": "optional text field for patient to provide additional details about the task"
+        }
+    }
+}

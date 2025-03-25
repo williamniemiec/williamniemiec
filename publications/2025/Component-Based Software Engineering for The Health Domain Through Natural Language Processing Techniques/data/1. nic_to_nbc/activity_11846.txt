@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Task": {
+    "Parameters": {
+      "Task Name": {"Type": "text"},
+      "Description": {"Type": "text"},
+      "Frequency": {"Type": "options", "Options": ["continuously", "daily", "every 2 hours", "etc."]},
+      "Duration": {"Type": "text"},
+      "Tips": {"Type": "list", "List items": "text or multimedia content"}
+    }
+  }
+}

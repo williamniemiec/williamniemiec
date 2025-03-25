@@ -1,0 +1,35 @@
+Here is the output in JSON format:
+
+
+{
+  "Role-Playing Exercise": {
+    "parameters": {
+      "name": "",
+      "scenarios": [],
+      "type": ""
+    }
+  },
+  "Conflict Management Strategies": {
+    "parameters": {
+      "name": "",
+      "strategies": [],
+      "type": ""
+    }
+  },
+  "Scenario-Based Learning": {
+    "parameters": {
+      "name": "",
+      "scenarios": [],
+      "strategies": [],
+      "type": ""
+    }
+  },
+  "Reflection and Feedback": {
+    "parameters": {
+      "name": "",
+      "prompt": "",
+      "answer_type": "",
+      "feedback": ""
+    }
+  }
+}

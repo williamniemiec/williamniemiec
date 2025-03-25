@@ -1,0 +1,32 @@
+Here is the output in JSON format:
+
+{
+  "name": "Caregiver Self-Care",
+  "parameters": [
+    {
+      "name": "Module 1: Boundary Setting",
+      "type": "interactive guide or video"
+    },
+    {
+      "name": "Module 2: Self-Care Strategies",
+      "type": "interactive guide or video"
+    },
+    {
+      "name": "Reflection Prompts",
+      "type": "text"
+    },
+    {
+      "name": "Goal Setting",
+      "type": "interactive form"
+    },
+    {
+      "name": "Reminders",
+      "type": "options",
+      "options": [
+        { value: "daily" },
+        { value: "weekly" },
+        { value: "monthly" }
+      ]
+    }
+  ]
+}

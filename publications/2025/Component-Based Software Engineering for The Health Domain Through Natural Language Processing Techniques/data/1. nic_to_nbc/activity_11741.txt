@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Verbal Communication Request",
+  "parameters": [
+    {
+      "name": "prompt",
+      "description": "prompt or question to encourage verbal communication",
+      "required": true,
+      "type": "text"
+    },
+    {
+      "name": "response",
+      "description": "space for patient to respond verbally",
+      "required": true,
+      "type": "text"
+    },
+    {
+      "name": "feedback",
+      "description": "feedback or response from the healthcare provider",
+      "required": true,
+      "type": "text"
+    }
+  ]
+}

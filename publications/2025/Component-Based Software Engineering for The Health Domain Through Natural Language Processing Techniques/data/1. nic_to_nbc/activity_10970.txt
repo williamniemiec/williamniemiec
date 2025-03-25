@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Letter Writing": {
+    "Recipient Selection": {},
+    "Letter Template": {},
+    "Letter Content": {},
+    "Emotional Expression": {},
+    "Frequency": {"options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {}
+  }
+}
+
+
+Note: I removed the "Type" information and only kept the parameter names and their corresponding options (if applicable). Let me know if you need anything else!

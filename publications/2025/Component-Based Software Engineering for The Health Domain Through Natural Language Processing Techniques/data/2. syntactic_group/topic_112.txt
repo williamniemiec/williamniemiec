@@ -1,0 +1,10 @@
+{
+  "name": "Infant Feeding and Positioning",
+  "description": "Focuses on feeding infants, including the appropriate amount of formula or food, using the proper feeding position (such as Fowler's position), and steps to ensure optimal nutrition.",
+  "type": "non-periodic",
+  "input": ["Feeding lessons", "Infant nutrition", "Positioning techniques (Fowler's position)", "Formula and food amount", "Feeding steps"],
+  "output": ["Feeding report", "Positioning guide", "Infant nutrition plan"],
+  "preconditions": ["User is feeding an infant or baby"],
+  "postconditions": ["Proper feeding techniques and adequate nutrition for the infant"],
+  "dependencies": ["Feeding guide system", "Positioning tools", "Infant care resources"]
+}

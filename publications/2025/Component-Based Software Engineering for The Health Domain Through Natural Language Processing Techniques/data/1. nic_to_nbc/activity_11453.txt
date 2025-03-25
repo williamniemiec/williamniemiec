@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "no_code_element_name": "Infection Monitoring in Elderly",
+  "parameter_especifications": {
+    "age_threshold": "",
+    "infection_signs": [],
+    "monitoring_frequency": "",
+    "assessment_questions": [],
+    "alert_thresholds": []
+  }
+}

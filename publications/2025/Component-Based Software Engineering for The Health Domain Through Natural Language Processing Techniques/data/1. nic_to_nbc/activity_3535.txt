@@ -1,0 +1,34 @@
+Here is the output in JSON format:
+
+
+{
+  "Suicide Ideation Plan": {
+    "parameters": {
+      "precipitating factors": "",
+      "contact information": "",
+      "help resources": "",
+      "coping mechanisms": ""
+    }
+  },
+  "Trigger Identification": {
+    "parameters": {
+      "trigger prompt": "",
+      "trigger type": ""
+    }
+  },
+  "Coping Mechanism Development": {
+    "parameters": {
+      "coping mechanism prompt": "",
+      "coping mechanism type": ""
+    }
+  },
+  "Safety Plan Review": {
+    "parameters": {
+      "safety plan review prompt": "",
+      "safety plan update": ""
+    }
+  }
+}
+
+
+Note that I removed the not applicable parameters and only kept the `{{ NO-CODE ELEMENT NAME }}` and `{{ PARAMETER ESPECIFICATIONS }}` as per your request.

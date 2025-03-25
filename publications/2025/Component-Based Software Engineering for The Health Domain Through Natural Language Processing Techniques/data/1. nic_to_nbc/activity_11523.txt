@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Vibration Technique Guidance": {
+    "Area to be Drained": {},
+    "Vibration Technique": {},
+    "Body Positioning": {},
+    "Breathing Instructions": {},
+    "Repetitions": {}
+  }
+}

@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Family Work Support": {
+    "parameters": {
+      "Work Arrangement": {"type": "options", "options": ["flexible scheduling", "remote work", "FMLA", "other"]},
+      "Job Requirements": {"type": "text"},
+      "FMLA Eligibility": {"type": "boolean"},
+      "FMLA Documentation": {"type": "boolean"},
+      "Resources": {"type": "text"}
+    }
+  }
+}
+
+
+Note that I removed the non-applicable parameters and reformatted the output in JSON format. Let me know if you have any further requests!

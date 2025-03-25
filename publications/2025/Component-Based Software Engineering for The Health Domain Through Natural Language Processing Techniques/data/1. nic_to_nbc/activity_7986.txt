@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Disaster Risk Assessment": {
+    "Location": {},
+    "Disaster Types": {},
+    "Risk Level": {},
+    "Preparedness Tips": {},
+    "Emergency Contacts": {}
+  }
+}

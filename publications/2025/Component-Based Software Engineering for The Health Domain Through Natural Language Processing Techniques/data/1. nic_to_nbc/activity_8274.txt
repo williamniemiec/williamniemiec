@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Administration Guidance": {
+    "Parameters": {
+      "Medication Name": {},
+      "Orders": {},
+      "Agency Policies": {},
+      "Procedures": {},
+      "Guidance Steps": {},
+      "Frequency": {}
+    }
+  }
+}
+
+
+I removed the not applicable parameters (i.e., `Deadline Date`) and kept only the required parameters. Let me know if this meets your requirements!

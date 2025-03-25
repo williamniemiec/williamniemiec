@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+    "Safety Check": {
+        "Check Type": {
+            "Type": "options",
+            "Options": ["laser-safe instruments", "laser-safe supplies"]
+        },
+        "Description": {
+            "Type": "text"
+        },
+        "Verification Method": {
+            "Type": "text"
+        },
+        "Result": {
+            "Type": "options",
+            "Options": ["pass", "fail", "unknown"]
+        },
+        "Action": {
+            "Type": "text"
+        }
+    }
+}

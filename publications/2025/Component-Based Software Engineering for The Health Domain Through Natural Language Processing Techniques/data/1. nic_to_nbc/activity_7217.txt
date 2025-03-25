@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Communication System Development",
+  "parameters": [
+    {"name": "communication_system_type"},
+    {"name": "system_components"},
+    {"name": "system_settings"},
+    {"name": "training_needs"},
+    {"name": "frequency"},
+    {"name": "deadline_date"},
+    {"name": "notes"}
+  ]
+}

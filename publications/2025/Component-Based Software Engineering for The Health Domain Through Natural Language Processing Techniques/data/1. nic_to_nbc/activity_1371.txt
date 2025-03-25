@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Warm-up/Cooldown Activity": {
+    "Parameters": {
+      "Warm-up/Cooldown Type": {"Type": "options"},
+      "Duration": {"Type": "time"},
+      "Intensity": {"Type": "options"},
+      "Frequency": {"Type": "options"}
+    }
+  }
+}

@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Care Options": {
+    "Parameters": {
+      "Care Options": {"Type": "list of text or HTML"},
+      "Description": {"Type": "list of text or HTML"},
+      "Pros and Cons": {"Type": "list of text or HTML"},
+      "Eligibility Criteria": {"Type": "list of text or HTML"},
+      "Resources": {"Type": "list of text or HTML"},
+      "Decision Support Questions": {"Type": "list of text or HTML"}
+    }
+  }
+}

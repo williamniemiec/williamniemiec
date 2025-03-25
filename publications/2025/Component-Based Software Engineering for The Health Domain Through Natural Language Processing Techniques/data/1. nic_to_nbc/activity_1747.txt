@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+    "Planning Guide": {
+        "parameters": {
+            "name": {"type": "text"},
+            "sections": {"type": "list of sections", 
+                "section": {
+                    "title": {"type": "text"}, 
+                    "questions": {"type": "list of questions", 
+                        "question": {
+                            "text": {"type": "text"}, 
+                            "type": {"type": "text"}, 
+                            "required": {"type": "boolean"}
+                        }
+                    }
+                }
+            }, 
+            "answers": {"type": "list of answers"}
+        }
+    }
+}
+
+
+I removed all the unnecessary text and kept only the `{{ NO-CODE ELEMENT NAME }}` (which is "Planning Guide" in this case) and the `{{ PARAMETER ESPECIFICATIONS }}`. I also reformatted the parameters to be more JSON-like. Let me know if you have any further requests!

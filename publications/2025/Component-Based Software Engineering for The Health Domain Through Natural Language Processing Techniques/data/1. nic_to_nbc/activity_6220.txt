@@ -1,0 +1,48 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Barrier Exploration",
+  "parameters": [
+    {
+      "name": "Barrier Type",
+      "type": "options",
+      "options": [
+        { "value": "physical", "label": "Physical" },
+        { "value": "emotional", "label": "Emotional" },
+        { "value": "social", "label": "Social" },
+        { "value": "financial", "label": "Financial" },
+        { "value": "other", "label": "Other" }
+      ]
+    },
+    {
+      "name": "Barrier Questions",
+      "type": "list of text"
+    },
+    {
+      "name": "Frequency",
+      "type": "options",
+      "options": [
+        { "value": "daily", "label": "Daily" },
+        { "value": "weekly", "label": "Weekly" },
+        { "value": "monthly", "label": "Monthly" },
+        { "value": "quarterly", "label": "Quarterly" }
+      ]
+    },
+    {
+      "name": "Deadline Date",
+      "type": "datetime"
+    },
+    {
+      "name": "Barrier Rating",
+      "type": "options",
+      "options": [
+        { "value": "likertScale", "label": "Likert Scale" },
+        { "value": "numericalRating", "label": "Numerical Rating" },
+        { "value": "other", "label": "Other" }
+      ]
+    }
+  ]
+}
+
+Let me know if this meets your requirements!

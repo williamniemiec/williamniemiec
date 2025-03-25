@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "parameters": [
+    {"name": "question", "description": "question to help clarify values"},
+    {"name": "answerType", "description": "specify the answer type"},
+    {"name": "frequency", "description": "specify how often the question should be repeated"},
+    {"name": "deadlineDate", "description": "specify the due date of the question"}
+  ],
+  "noCodeElementName": "Values Clarification"
+}

@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Infant State Assessment": {
+    "title of the infant state assessment": {"Type": "text", "Required": true},
+    "Questions": {"Type": "list of questions", "Required": true, "Example": ["Is the infant awake and alert?", "Is the infant fussy or crying?", "Is the infant sleepy or lethargic?"]},
+    "State Options": {"Type": "list of options", "Required": true, "Example": ["Awake and alert", "Fussy or crying", "Sleepy or lethargic", "Hungry"]},
+    "Feeding Guidance": {"Type": "text", "Required": true, "Example": "If the infant is awake and alert, proceed with feeding. If the infant is fussy or crying, try to calm them down before feeding."}
+  }
+}

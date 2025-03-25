@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+
+{
+  "Flexibility Framework": {
+    "Parameters": {
+      "Title": {"Type": "text"},
+      "Principles of Flexibility": {"Type": "list of principles"},
+      "Flexibility Strategies": {"Type": "list of flexibility strategies"},
+      "Family Goal Setting": {"Type": "goal setting interface"},
+      "Progress Tracking": {"Type": "progress tracking interface"}
+    }
+  }
+}

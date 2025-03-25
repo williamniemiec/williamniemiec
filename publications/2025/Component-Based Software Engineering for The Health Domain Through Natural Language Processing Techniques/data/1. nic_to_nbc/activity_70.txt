@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Ambulation Encourager": {
+    "Safety Guidelines": {"type": "text"},
+    "Ambulation Goals": {"type": "text"},
+    "Motivational Message": {"type": "text"},
+    "Frequency": {"type": "options"},
+    "Deadline Date": {"type": "datetime"},
+    "Progress Tracking": {"type": "form"}
+  }
+}

@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+  "noCodeElementName": "Observation",
+  "parameters": {
+    "Event": {
+      "type": "text"
+    },
+    "Duration": {
+      "type": "duration"
+    },
+    "Tolerance Assessment": {
+      "type": "options",
+      "options": ["yes", "no", "mild reaction", "severe reaction"]
+    },
+    "Frequency": {
+      "type": "options",
+      "options": ["every 15 minutes", "every 30 minutes", "every 1 hour"]
+    }
+  }
+}

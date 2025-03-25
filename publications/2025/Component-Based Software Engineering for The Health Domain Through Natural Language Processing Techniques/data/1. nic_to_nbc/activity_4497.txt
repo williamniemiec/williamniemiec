@@ -1,0 +1,16 @@
+
+
+
+{
+  "Empathetic Message": {
+    "Message": {"type": "text"},
+    "Tone": {"type": "options"},
+    "Frequency": {"type": "options"},
+    "Deadline Date": {"type": "datetime"}
+  },
+  "Caregiver Prompt": {
+    "Prompt": {"type": "text"},
+    "Frequency": {"type": "options"},
+    "Deadline Date": {"type": "datetime"}
+  }
+}

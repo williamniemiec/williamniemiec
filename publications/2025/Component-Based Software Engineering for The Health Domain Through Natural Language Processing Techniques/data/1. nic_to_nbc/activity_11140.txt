@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+  "Culturally Sensitive Self-Care": {
+    "Parameters": {
+      "Cultural Background": {
+        "Type": "text or options",
+        "Required": true
+      },
+      "Self-Care Activities": {
+        "Type": "list of text or links",
+        "Required": true
+      }
+    }
+  }
+}
+
+
+I removed the not applicable parameters (i.e., "Customization" since it's not required) and kept only the necessary information.

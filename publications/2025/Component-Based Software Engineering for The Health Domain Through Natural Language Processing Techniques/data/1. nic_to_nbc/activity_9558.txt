@@ -1,0 +1,45 @@
+Here is the output in JSON format:
+
+
+{
+  "Object Placement": {
+    "Parameters": {
+      "Object List": {
+        "Description": "List of frequently used objects to place within reach",
+        "Required": true,
+        "Type": "list",
+        "List items": [
+          { "value": "waterGlass", "label": "Water glass" },
+          { "value": "phone", "label": "Phone" },
+          { "value": "remoteControl", "label": "Remote control" },
+          { "value": "book", "label": "Book" },
+          { "value": "other", "label": "Other (please specify)" }
+        ]
+      },
+      "Placement Location": {
+        "Description": "Specify where to place the objects within reach",
+        "Required": true,
+        "Type": "options",
+        "Options": [
+          { "value": "bedsideTable", "label": "Bedside table" },
+          { "value": "wheelchairTray", "label": "Wheelchair tray" },
+          { "value": "lapTray", "label": "Lap tray" },
+          { "value": "other", "label": "Other (please specify)" }
+        ]
+      },
+      "Frequency": {
+        "Description": "Specify how often to review and adjust object placement",
+        "Required": true,
+        "Type": "options",
+        "Options": [
+          { "value": "daily", "label": "Daily" },
+          { "value": "weekly", "label": "Weekly" },
+          { "value": "custom", "label": "Custom frequency" }
+        ]
+      }
+    }
+  }
+}
+
+
+I removed the `Notes` parameter since it's not required. Let me know if you need anything else!

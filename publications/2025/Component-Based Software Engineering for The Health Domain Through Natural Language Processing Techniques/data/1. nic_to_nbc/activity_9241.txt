@@ -1,0 +1,31 @@
+Here is the output in JSON format:
+
+
+{
+  "Gas-Forming Food Tracker": {
+    "Parameters": {
+      "Gas-Forming Foods": {
+        "Description": "List of gas-forming foods to avoid or reduce",
+        "Required": true,
+        "Type": "List of food items",
+        "Food Items": [
+          "Beans",
+          "Broccoli",
+          "Cabbage",
+          "Onions",
+          "Wheat"
+        ]
+      },
+      "Frequency": {
+        "Description": "Specify how often to track gas-forming food intake",
+        "Required": true,
+        "Type": "Options",
+        "Options": [
+          { "value": "daily", "label": "Daily" },
+          { "value": "everyOtherDay", "label": "Every other day" },
+          { "value": "weekly", "label": "Weekly" }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+    "Guide": {
+        "Parameters": {
+            "Name": "title of the guide (e.g., \"Preventing Future Episodes of Anaphylaxis\")",
+            "Pages": ["Identifying and avoiding allergens", "Reading food labels", "Carrying emergency medications", "Recognizing early signs of anaphylaxis"],
+            "Images/Videos": "optional multimedia content to supplement the instructional text"
+        }
+    },
+    "Quiz": {
+        "Parameters": {
+            "Name": "title of the quiz (e.g., \"Preventing Future Episodes of Anaphylaxis: A Quiz\")",
+            "Questions": ["list of questions assessing the patient's and family's knowledge of prevention strategies"],
+            "Answer options": "multiple-choice or true/false options for each question",
+            "Feedback": "optional feedback or explanations for correct and incorrect answers"
+        }
+    }
+}
+
+
+Note that I removed any non-applicable parameters and kept only the relevant information. Let me know if this meets your requirements!

@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Shock Awareness": {
+    "Symptom List": {
+      "type": "list of options"
+    },
+    "Action Plan": {
+      "type": "text or instructions"
+    }
+  }
+}

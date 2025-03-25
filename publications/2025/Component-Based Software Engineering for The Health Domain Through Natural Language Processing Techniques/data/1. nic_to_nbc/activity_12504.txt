@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+    "Exercise Tracker": {
+        "Parameters": {
+            "Name": {"Type": "text"},
+            "Exercise Type": {"Type": "options"},
+            "Frequency": {"Type": "options"},
+            "Duration": {"Type": "text"},
+            "Deadline Date": {"Type": "datetime"},
+            "Log Entry": {"Type": "text"}
+        }
+    }
+}

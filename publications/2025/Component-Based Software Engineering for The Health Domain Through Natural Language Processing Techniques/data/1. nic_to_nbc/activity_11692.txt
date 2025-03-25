@@ -1,0 +1,19 @@
+
+
+
+{
+    "Pacemaker Education": {
+        "Parameters": {
+            "Purpose": {"Type": "text"},
+            "Indications": {"Type": "text"},
+            "Mechanics": {"Type": "text"},
+            "Duration": {"Type": "text"}
+        }
+    },
+    "guide": {
+        "Parameters": {
+            "Pages": {"Type": "list of HTML texts"},
+            "Content": {"Type": "HTML text"}
+        }
+    }
+}

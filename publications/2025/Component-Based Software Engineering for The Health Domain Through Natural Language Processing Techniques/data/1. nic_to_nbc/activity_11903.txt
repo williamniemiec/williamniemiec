@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+    "Peer Support": {
+        "Similar Experience": {"Type": "text"},
+        "Family Matching": {"Type": "options"},
+        "Introduction Method": {"Type": "options"},
+        "Support Goals": {"Type": "options"},
+        "Follow-up": {"Type": "options"}
+    }
+}

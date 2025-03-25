@@ -1,0 +1,17 @@
+Here is the output in JSON format, with only the `PARAMETER ESPECIFICATIONS` and `NO-CODE ELEMENT NAME` retained:
+
+json
+{
+    "Vital Sign Tracker": {
+        "parameters": [
+            {"Vital Sign Type": {}},
+            {"Frequency": {}},
+            {"Deadline Date": {}},
+            {"Unit": {}},
+            {"Target Range": {}}
+        ]
+    }
+}
+
+
+Note that I removed the `description`, `type`, and other details for each parameter, as per your request. If you need those details, please let me know!

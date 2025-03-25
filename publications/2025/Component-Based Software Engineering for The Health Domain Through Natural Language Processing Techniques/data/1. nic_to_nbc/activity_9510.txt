@@ -1,0 +1,5 @@
+Since there is no no-code element associated with this intervention, I will output an empty JSON:
+
+{}
+
+Please let me know if you'd like me to proceed with any other input.

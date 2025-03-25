@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Interaction Preparation": {
+    "parameters": [
+      {"Name": "A parameter that specifies the title or name of the guidance."},
+      {"Eye Contact Guidance": "A parameter that provides guidance on how to use eye contact during interaction."},
+      {"Touch Guidance": "A parameter that provides guidance on how to use touch during interaction."},
+      {"Tips": "A parameter that provides additional tips or recommendations for preparing for interaction."},
+      {"Frequency": "A parameter that specifies how often the patient or caregiver should review the guidance."},
+      // Removed Deadline Date as it's not applicable
+    ]
+  }
+}
+
+
+Note: I removed `Deadline Date` from the output as it's not applicable, and also reformatted the JSON to make it more readable. Let me know if you need any further modifications!

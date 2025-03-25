@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+  "Resuscitation Protocol": {
+    "Type": {
+      "type": "options",
+      "options": [
+        {"value": "CPR", "label": "Cardiopulmonary Resuscitation (CPR)"},
+        {"value": "defibrillation", "label": "Defibrillation"},
+        {"value": "other", "label": "Other (please specify)"}
+      ]
+    },
+    "Instructions": {
+      "type": "text"
+    },
+    "Emergency Contact": {
+      "type": "text"
+    },
+    "Location": {
+      "type": "text"
+    }
+  }
+}
+
+
+I removed the `Deadline Date` parameter since it's not applicable in this case. Let me know if you need anything else!

@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+  "IV Fluid Restriction": {
+    "alert message": {
+      "Description": "Message to alert the patient to avoid hypotonic IV fluids",
+      "Required": true,
+      "Type": "text"
+    },
+    "Reason": {
+      "Description": "Explain why hypotonic IV fluids should be avoided",
+      "Required": true,
+      "Type": "text"
+    }
+  }
+}
+
+
+I removed the "Allowed IV Fluids" parameter since it's not required. Let me know if you need any further assistance!

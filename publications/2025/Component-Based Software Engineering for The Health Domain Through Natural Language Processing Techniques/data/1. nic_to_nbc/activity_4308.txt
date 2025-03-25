@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+    "Preference Questionnaire": {
+        "questions": ["list of questions to be asked"],
+        "answer type": ["text or multiple choice"]
+    },
+    "Image Customization": {
+        "image options": ["list of image options to be customized"],
+        "customization options": ["list of customization options"]
+    },
+    "Personalized Image Generation": {
+        "image template": ["the image template to be used"],
+        "customization parameters": ["the customization options chosen by the patient"]
+    },
+    "Image Library": {
+        "image categories": ["list of image categories"],
+        "image options": ["list of image options within each category"]
+    },
+    "AI-powered Image Generation": {
+        "patient preferences": ["the patient's individual preferences"],
+        "image generation algorithm": ["the algorithm used to generate the personalized image"]
+    }
+}

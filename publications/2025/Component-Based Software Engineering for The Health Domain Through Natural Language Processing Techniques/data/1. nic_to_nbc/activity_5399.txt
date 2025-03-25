@@ -1,0 +1,7 @@
+Here is the output in JSON format:
+
+
+{
+  "Controlling admissions": "",
+  "Varying lengths of medication-free trials": ""
+}

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Splint Material Selection": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Injury Type": {"Type": "text"},
+      "Splint Material Options": {"Type": "options with descriptions and images"},
+      "Selection Criteria": {"Type": "text or multimedia (e.g. video, image)"},
+      "Selected Material": {"Type": "options (e.g. rigid, soft, anatomical, or traction)"}
+    }
+  }
+}

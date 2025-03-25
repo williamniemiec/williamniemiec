@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Contact Lens Handling Assessment": {
+    "Instructions": {"name": "Instructions", "description": "Please follow the instructions to assess your ability to wear, remove, and clean contact lenses", "required": true, "type": "text"},
+    "Assessment type": {"name": "Assessment type", "description": "Please select the type of assessment to perform", "required": true, "type": "options", "options": [{"value": "wear", "label": "Wearing contact lenses"}, {"value": "remove", "label": "Removing contact lenses"}, {"value": "clean", "label": "Cleaning contact lenses"}]},
+    "Assessment duration": {"name": "Assessment duration", "description": "The assessment will take 10 minutes", "required": true, "type": "number"},
+    "Frequency": {"name": "Frequency", "description": "How often should you perform the contact lens handling assessment?", "required": true, "type": "options", "options": [{"value": "daily", "label": "Daily"}, {"value": "weekly", "label": "Weekly"}, {"value": "monthly", "label": "Monthly"}]},
+    "Deadline date": {"name": "Deadline date", "description": "Please perform the contact lens handling assessment by", "required": true, "type": "datetime"},
+    "Assessment results": {"name": "Assessment results", "description": "Please enter the results of the contact lens handling assessment", "required": true, "type": "text"}
+  },
+  "Contact Lens Handling Tracker": {
+    "Instructions": {"name": "Instructions", "description": "Please follow the instructions to track your contact lens handling abilities", "required": true, "type": "text"},
+    "Frequency": {"name": "Frequency", "description": "How often should you track your contact lens handling abilities?", "required": true, "type": "options", "options": [{"value": "daily", "label": "Daily"}, {"value": "weekly", "label": "Weekly"}, {"value": "monthly", "label": "Monthly"}]},
+    "Deadline date": {"name": "Deadline date", "description": "Please track your contact lens handling abilities by", "required": true, "type": "datetime"}
+  }
+}

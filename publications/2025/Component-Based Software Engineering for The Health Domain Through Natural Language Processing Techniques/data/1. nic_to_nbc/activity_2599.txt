@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Notification Protocol": {
+    "Parameters": {
+      "Title": {},
+      "Description": {},
+      "ICP Threshold": {},
+      "Treatment Protocols": {},
+      "Notification Method": {},
+      "Physician Contact Information": {}
+    }
+  }
+}

@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Keloid History": {
+    "parameters": {
+      "Keloid History": {"type": "boolean"},
+      "Keloid Location": {"type": ["text", "structured data"]},
+      "Keloid Severity": {"type": ["text", "structured data"]},
+      "Treatment History": {"type": ["text", "structured data"]}
+    }
+  }
+}

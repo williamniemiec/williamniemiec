@@ -1,0 +1,10 @@
+Here is the output in JSON format:
+
+
+{
+  "Oral Health Guide": {
+    "Title": {"Description": "title of the oral health topic (e.g., brushing, flossing, etc.)", "Required": true, "Type": "text"},
+    "Content": {"Description": "detailed guidance on oral health care (e.g., how to brush, how to floss, etc.)", "Required": true, "Type": "html"},
+    "Frequency": {"Description": "specify how often to practice oral health care (e.g., daily, weekly, etc.)", "Required": true, "Type": "options", "Options": [{"value": "daily", "label": "Daily"}, {"value": "weekly", "label": "Weekly"}]}
+  }
+}

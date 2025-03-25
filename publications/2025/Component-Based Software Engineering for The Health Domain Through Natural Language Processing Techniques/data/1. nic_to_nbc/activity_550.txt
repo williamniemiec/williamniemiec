@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Cognitive Restructuring": {
+    "Undesirable Behavior": {"type": "text"},
+    "Irrational Self-Statement": {"type": "text"},
+    "Rational Alternative": {"type": "text"},
+    "Reflection": {"type": "text"},
+    "Frequency": {"options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"type": "datetime"}
+  }
+}

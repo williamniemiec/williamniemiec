@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Oral Check": {
+    "Parameters": {
+      "Oral Check Title": {},
+      "Instructions": {},
+      "Frequency": {},
+      "Deadline Date": {},
+      "Report": {}
+    }
+  }
+}

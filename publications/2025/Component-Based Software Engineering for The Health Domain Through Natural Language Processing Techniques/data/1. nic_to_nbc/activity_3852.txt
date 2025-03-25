@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Dietary Profile": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Food Preferences": {"Type": "options", "Options": ["vegetarian", "gluten-free", "dairy-free", "..."]},
+      "Likes": {"Type": "unordered list"},
+      "Dislikes": {"Type": "unordered list"},
+      "Cultural Food Preferences": {"Type": "options", "Options": ["halal", "kosher", "..."]},
+      "Dietary Restrictions": {"Type": "unordered list"},
+      "Frequency": {"Type": "options", "Options": ["once", "daily", "weekly", "..."]},
+    }
+  }
+}
+
+
+I removed the introduction, conclusion, and any non-parameter specifications from the original text. I also didn't include the `Deadline Date` parameter as it's not applicable (datetime type is not typically used in a no-code element). Let me know if you need further modifications!

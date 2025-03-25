@@ -1,0 +1,28 @@
+
+
+
+{
+    "Parameters": {
+        "Family Information": {
+            "Type": "form",
+            "Fields": ["family members", "contact information", "etc."]
+        },
+        "Risk Assessment": {
+            "Type": "options",
+            "Options": ["high", "moderate", "low"]
+        },
+        "Program Details": {
+            "Type": "text",
+            "Description": "program description, benefits, etc."
+        },
+        "Enrollment Status": {
+            "Type": "options",
+            "Options": ["enrolled", "not enrolled", "pending"]
+        },
+        "Follow-up Schedule": {
+            "Type": "datetime",
+            "Description": "schedule follow-up dates and times"
+        }
+    },
+    "No-code Element Name": "Enrollment"
+}

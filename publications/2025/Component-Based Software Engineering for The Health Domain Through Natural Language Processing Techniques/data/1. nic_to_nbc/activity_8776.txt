@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Aseptic Handling Guide": {
+    "title": {},
+    "steps": {},
+    "tips": {}
+  }
+}
+
+
+Note: I removed the `video` parameter since it's not applicable (marked as false in the input).

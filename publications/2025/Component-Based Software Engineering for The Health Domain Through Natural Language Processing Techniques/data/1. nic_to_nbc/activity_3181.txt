@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Healthy Reward Guide": {
+    "title": {},
+    "why_avoid_food_rewards": {},
+    "alternative_rewards": {},
+    "tips_for_implementation": {},
+    "frequency": {}
+  }
+}

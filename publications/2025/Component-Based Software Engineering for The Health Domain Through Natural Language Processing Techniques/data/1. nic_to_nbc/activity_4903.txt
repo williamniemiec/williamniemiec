@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+    "Transfer Technique Guide": {
+        "Parameters": [
+            {"Name": "Transfer Technique Guide", "Description": "Title of the guide"},
+            {"Content": "Transfer technique instructions", "Description": "Video or interactive simulation content teaching the patient proper transfer technique"},
+            {"Transfer Type": "Specify the type of transfer", "Description": "Select the type of transfer (e.g., wheelchair, bed, toilet)"},
+            {"Frequency": "How often to review the guide", "Description": "Specify how often the patient should review the transfer technique guide"}
+        ]
+    }
+}
+
+
+I removed all non-applicable parameters and only kept `{{ NO-CODE ELEMENT NAME }}` and `{{ PARAMETER ESPECIFICATIONS }}`. Let me know if this is what you were expecting!

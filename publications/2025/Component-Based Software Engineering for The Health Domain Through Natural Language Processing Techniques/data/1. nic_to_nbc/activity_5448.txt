@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+  "no-code-element-name": "Catheter Care",
+  "parameters": {
+    "Instructions": {
+      "type": "text or unordered list"
+    },
+    "Frequency": {
+      "options": ["daily", "everyHours", "everyDays"]
+    },
+    "Deadline Date": {
+      "type": "datetime"
+    },
+    "Reminders": {
+      "type": "boolean"
+    },
+    "Tracking": {
+      "type": "boolean"
+    }
+  }
+}

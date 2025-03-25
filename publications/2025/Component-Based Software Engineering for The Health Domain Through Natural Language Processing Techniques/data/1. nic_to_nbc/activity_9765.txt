@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Weight Management Plan": {
+    "Goal weight": {"type": "number"},
+    "Current diet": {"type": "text"},
+    "Reduced food intake plan": {"type": "text"},
+    "Increased energy expenditure plan": {"type": "text"},
+    "Frequency": {"type": "options", "options": ["daily", "weekly", "monthly", "etc."]},
+    "Deadline date": {"type": "datetime"},
+    "Tracking method": {"type": "options", "options": ["food diary", "pedometer", "mobile app", "etc."]}
+  }
+}

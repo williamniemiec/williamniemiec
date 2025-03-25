@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Deep Ulcer Irrigation": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Instructions": {"Type": "text"},
+      "Needle Gauge": {"Type": "text", "Value": "19-gauge"},
+      "Syringe Volume": {"Type": "text", "Value": "35-cc"},
+      "Frequency": {"Type": "options", "Options": ["daily", "everyHours", "everyDays", "onlyOnce"]},
+      "Deadline Date": {"Type": "datetime"},
+      "Irrigation Technique": {"Type": "text"},
+      "Additional Tips": {"Type": "text"}
+    }
+  }
+}

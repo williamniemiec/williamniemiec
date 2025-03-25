@@ -1,0 +1,30 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "no-smoking instruction",
+    "parameters": [
+        {
+            "name": "situations",
+            "options": [
+                { value: "inBed", label: "In bed" },
+                { value: "whileReclining", label: "While reclining" },
+                { value: "afterMindAlteringMedication", label: "After taking mind-altering medication" }
+            ]
+        },
+        {
+            "name": "explanation"
+        },
+        {
+            "name": "frequency",
+            "options": [
+                { value: "daily", label: "Daily" },
+                { value: "weekly", label: "Weekly" },
+                { value: "monthly", label: "Monthly" }
+            ]
+        }
+    ]
+}
+
+
+I removed the `deadline_date` parameter since it's not applicable (it has no options specified). Let me know if you need anything else!

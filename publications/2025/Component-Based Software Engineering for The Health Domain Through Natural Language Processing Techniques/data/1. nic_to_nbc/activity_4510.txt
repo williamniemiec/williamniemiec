@@ -1,0 +1,52 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Nutrition Planning",
+  "parameters": [
+    {
+      "name": "age",
+      "description": "Patient's age",
+      "required": true,
+      "type": "number"
+    },
+    {
+      "name": "growth_stage",
+      "description": "Stage of growth and development",
+      "required": true,
+      "type": "options",
+      "options": [
+        { value: "infant", label: "Infant" },
+        { value: "toddler", label: "Toddler" },
+        { value: "child", label: "Child" },
+        { value: "adolescent", label: "Adolescent" },
+        { value: "adult", label: "Adult" },
+        { value: "senior", label: "Senior" }
+      ]
+    },
+    {
+      "name": "eating_experiences",
+      "description": "Past eating experiences",
+      "required": true,
+      "type": "text"
+    },
+    {
+      "name": "injury_disease",
+      "description": "Injury or disease affecting nutrition",
+      "required": true,
+      "type": "text"
+    },
+    {
+      "name": "culture",
+      "description": "Cultural influences on nutrition",
+      "required": true,
+      "type": "text"
+    },
+    {
+      "name": "finances",
+      "description": "Financial constraints on nutrition",
+      "required": true,
+      "type": "text"
+    }
+  ]
+}

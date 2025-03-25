@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Guide": {
+    "parameters": {
+      "name": "Graft Site Care",
+      "pages": "A list of HTML texts explaining how to avoid friction and shearing forces, including tips and best practices for graft site care."
+    }
+  },
+  "Task": {
+    "parameters": {
+      "name": "Graft Site Care",
+      "content": "A brief description of the task, e.g. \"Avoid friction and shearing forces at the new graft site by following these steps...\"",
+      "frequency": "How often the patient should perform this task, e.g. daily"
+    }
+  }
+}

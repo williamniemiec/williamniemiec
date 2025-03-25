@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Infant Standing Exercise",
+  "parameters": [
+    {
+      "name": "Exercise Instructions"
+    },
+    {
+      "name": "Demonstration Video"
+    },
+    {
+      "name": "Frequency"
+    },
+    {
+      "name": "Deadline Date"
+    },
+    {
+      "name": "Reminders"
+    },
+    {
+      "name": "Progress Tracking"
+    }
+  ]
+}

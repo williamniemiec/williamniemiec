@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+  "Outbreak Alert": {
+    "parameters": ["disease type", "outbreak location", "alert message"]
+  },
+  "Exposure Risk Assessment": {
+    "parameters": ["disease type", "patient location", "travel history", "exposure risk level"]
+  },
+  "Symptom Checker": {
+    "parameters": ["symptom list", "disease type", "exposure risk level"]
+  },
+  "Incidence Reporting": {
+    "parameters": ["disease type", "exposure date", "patient identification"]
+  },
+  "Public Health Notification": {
+    "parameters": ["disease type", "exposure date", "patient identification", "public health authority notification"]
+  }
+}

@@ -1,0 +1,15 @@
+
+
+
+{
+  "Oral Care Planner": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Oral Care Schedule": {"Type": "schedule"},
+      "Oral Care Tasks": {"Type": "list of oral care tasks"},
+      "Reminders": {"Type": "list of reminder settings"},
+      "Oral Care Products": {"Type": "list of oral care products"},
+      "Oral Health Tracking": {"Type": "list of oral health tracking data"}
+    }
+  }
+}

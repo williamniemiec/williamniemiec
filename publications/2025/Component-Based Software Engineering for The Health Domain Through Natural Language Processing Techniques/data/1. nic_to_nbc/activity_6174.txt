@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Foot Inspection": {
+    "Parameters": {
+      "Name": {"Description": "Task title", "Required": true, "Type": "text"},
+      "Frequency": {"Description": "Specify how often the foot inspection should be performed", "Required": true, "Type": "options", "Options": [{"value": "daily", "label": "Daily"}, {"value": "onlyOnce", "label": "Only once"}, {"value": "everyHours", "label": "Every x hours"}, {"value": "everyDays", "label": "Every x days"}]},
+      "Inspection Areas": {"Description": "Select the areas to inspect on your feet", "Required": true, "Type": "checklist", "Options": [{"value": "allSurfaces", "label": "All surfaces"}, {"value": "betweenToes", "label": "Between the toes"}]},
+      "Signs to Look For": {"Description": "Select the signs to look for during the foot inspection", "Required": true, "Type": "checklist", "Options": [{"value": "redness", "label": "Redness"}, {"value": "swelling", "label": "Swelling"}, {"value": "warmth", "label": "Warmth"}, {"value": "dryness", "label": "Dryness"}, {"value": "maceration", "label": "Maceration"}, {"value": "tenderness", "label": "Tenderness"}, {"value": "openAreas", "label": "Open areas"}]}
+    }
+  }
+}

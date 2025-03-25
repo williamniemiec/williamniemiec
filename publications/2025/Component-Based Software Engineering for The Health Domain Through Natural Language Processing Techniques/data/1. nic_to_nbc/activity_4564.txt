@@ -1,0 +1,31 @@
+Here is the output in JSON format:
+
+
+{
+    "Feedback": {
+        "parameters": {
+            "name": "",
+            "question": "",
+            "answer type": "",
+            "frequency": "",
+            "deadline_date": ""
+        }
+    },
+    "Self-Assessment": {
+        "parameters": {
+            "name": "",
+            "questions": [],
+            "frequency": "",
+            "deadline_date": ""
+        }
+    },
+    "Family Response": {
+        "parameters": {
+            "name": "",
+            "question": "",
+            "answer type": "",
+            "frequency": "",
+            "deadline_date": ""
+        }
+    }
+}

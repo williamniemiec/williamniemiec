@@ -1,0 +1,41 @@
+Here is the output in JSON format:
+
+
+{
+    "Hypothermia Treatment": {
+        "Parameters": {
+            "Current Temperature": {
+                "Description": "Record the patient's current temperature",
+                "Required": true,
+                "Type": "measurement",
+                "Measurement units": ["Celsius", "Fahrenheit"]
+            },
+            "Target Temperature": {
+                "Description": "Set a target temperature to achieve",
+                "Required": true,
+                "Type": "measurement",
+                "Measurement units": ["Celsius", "Fahrenheit"]
+            },
+            "Warming Method": {
+                "Description": "Choose a warming method to use",
+                "Required": true,
+                "Type": "options",
+                "Options": [
+                    "Warm blankets",
+                    "Heated IV fluids",
+                    "Warm air blankets",
+                    "Other (specify)"
+                ]
+            },
+            "Warming Duration": {
+                "Description": "Record the duration of warming",
+                "Required": true,
+                "Type": "measurement",
+                "Measurement units": ["minutes", "hours"]
+            }
+        }
+    }
+}
+
+
+I removed the `Deadline Date` and `Reminder` parameters since they are marked as not required. Let me know if you need any further assistance!

@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Organ Procurement Protocol": {
+    "parameters": {
+      "title": {},
+      "introduction": {},
+      "procedure_steps": {},
+      "organ_specific_guidelines": {},
+      "procurement_team_roles": {},
+      "communication_plan": {},
+      "quality_control": {}
+    }
+  }
+}

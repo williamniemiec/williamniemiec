@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Social Support Feedback",
+  "parameters": [
+    {
+      "name": "situation",
+      "description": "describe the situation where the patient reached out to others"
+    },
+    {
+      "name": "feedback",
+      "description": "positive feedback for the patient's effort to reach out to others"
+    },
+    {
+      "name": "encouragement",
+      "description": "words of encouragement to continue reaching out to others"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+Here is the output in JSON format:
+
+{
+  "name": "Preoperative Guide",
+  "parameters": [
+    {
+      "name": "Routines",
+      "type": "unordered list",
+      "items": [
+        "Anesthesia",
+        "Diet",
+        "Bowel preparation",
+        "Tests/labs",
+        "Voiding",
+        "Skin preparation",
+        "IV therapy",
+        "Clothing",
+        "Family waiting area",
+        "Transportation to operating room"
+      ]
+    },
+    {
+      "name": "Description",
+      "type": "text"
+    },
+    {
+      "name": "Additional Resources",
+      "type": "list of URLs or file uploads"
+    }
+  ]
+}

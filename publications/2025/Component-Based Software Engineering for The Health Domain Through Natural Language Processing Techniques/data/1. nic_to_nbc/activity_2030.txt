@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Clothing Inspection": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Items to Inspect": {"Type": "options"},
+      "Frequency": {"Type": "options"},
+      "Deadline Date": {"Type": "datetime"},
+      "What to Look For": {"Type": "text"},
+      "Action if Found": {"Type": "text"}
+    }
+  }
+}

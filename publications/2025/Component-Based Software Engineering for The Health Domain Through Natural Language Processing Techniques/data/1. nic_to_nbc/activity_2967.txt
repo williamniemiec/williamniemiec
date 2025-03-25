@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Environmental Alert": {
+    "alert title": {},
+    "reason": {},
+    "affected_areas": {},
+    "action": {}
+  }
+}

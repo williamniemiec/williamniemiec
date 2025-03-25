@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Activity": {
+    "name": {"type": "text"},
+    "description": {"type": "text"},
+    "affected_body_part": {"type": "options", "options": ["arm", "leg", "hand", "foot", "etc."]},
+    "action": {"type": "options", "options": ["touch", "move", "use", "stretch", "etc."]},
+    "frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "duration": {"type": "text or number"},
+    "tips": {"type": "text"}
+  }
+}

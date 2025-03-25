@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Environmental Risk Screening": {
+    "Screening Type": {"type": "options", "options": ["air quality", "water quality", "noise pollution", "radiation exposure", "other"]},
+    "Risk Factors": {"type": "text"},
+    "Assessment Questions": {"type": "text"},
+    "Scoring System": {"type": "options", "options": ["numerical score", "categorical score", "other"]},
+    "Follow-up Actions": {"type": "text"},
+    "Deadline Date": {"type": "datetime"}
+  }
+}

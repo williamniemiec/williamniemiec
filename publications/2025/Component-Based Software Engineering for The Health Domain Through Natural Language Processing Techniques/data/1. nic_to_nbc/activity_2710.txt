@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Guide": {
+    "name": "",
+    "content": "",
+    "pages": [],
+    "notes": ""
+  },
+  "Reminder": {
+    "name": "",
+    "content": "",
+    "frequency": "",
+    "deadline_date": "",
+    "notification_type": ""
+  }
+}

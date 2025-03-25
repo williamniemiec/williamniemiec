@@ -1,0 +1,24 @@
+
+
+
+{
+  "name": "Describe Events in Story Form",
+  "parameters": [
+    { 
+      "name": "Storytelling Prompt", 
+      "type": "text"
+    },
+    { 
+      "name": "Image Association", 
+      "type": "boolean"
+    },
+    { 
+      "name": "Thoughts and Feelings", 
+      "type": "boolean"
+    },
+    { 
+      "name": "Frequency", 
+      "type": "options"
+    }
+  ]
+}

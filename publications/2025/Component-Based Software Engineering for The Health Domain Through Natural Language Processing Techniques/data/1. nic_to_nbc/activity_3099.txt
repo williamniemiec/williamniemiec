@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+    "Game Rule Modifier": {
+        "Parameters": {
+            "Game Type": {},
+            "Age Range": {},
+            "Ability Level": {},
+            "Modification Suggestions": {},
+            "Rule Adjustment": {}
+        }
+    }
+}
+
+
+Note: I removed `Safety Considerations` as it was not applicable, and only kept the parameters that were specified.

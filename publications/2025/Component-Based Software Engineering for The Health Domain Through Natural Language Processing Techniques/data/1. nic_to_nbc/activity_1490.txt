@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Storage Instructions": {
+    "parameters": [
+      {"Name": {"type": "text"}},
+      {"Medication Name": {"type": "text"}},
+      {"Storage Instructions": {"type": "list of text"}},
+      {"Storage Location": {"type": "text"}},
+      {"Special Precautions": {"type": "list of text"}},
+      {"Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]}}
+    ]
+  }
+}

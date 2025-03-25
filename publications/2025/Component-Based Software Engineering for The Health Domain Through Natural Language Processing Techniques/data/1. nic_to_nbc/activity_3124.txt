@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+  "Bleeding and Dehydration Monitoring": {
+    "Parameters": {
+      "Monitoring Type": {
+        "Type": "options",
+        "Options": ["suddenLossOfBlood", "severeDehydration", "persistentBleeding", "other"]
+      },
+      "Frequency": {
+        "Type": "options",
+        "Options": ["daily", "everyHours", "everyDays", "asNeeded"]
+      },
+      "Symptoms to Monitor": {
+        "Type": "nested object",
+        "Properties": {
+          "Symptom": {"Type": "text"},
+          "Threshold": {"Type": "text"}
+        }
+      },
+      "Actions to Take": {"Type": "text"},
+      "Notes": {"Type": "text"}
+    }
+  }
+}

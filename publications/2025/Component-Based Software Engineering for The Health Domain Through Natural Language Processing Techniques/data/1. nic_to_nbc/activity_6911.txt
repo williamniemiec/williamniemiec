@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Medication Administration Plan": {
+        "parameters": [
+            {"name": "Medication List", "type": "list of text items"},
+            {"name": "Administration Schedule", "type": "schedule"},
+            {"name": "As Needed Administration", "type": "options"},
+            {"name": "Medication Reminders", "type": "options"},
+            {"name": "Medication Tracking", "type": "options"}
+        ]
+    }
+}

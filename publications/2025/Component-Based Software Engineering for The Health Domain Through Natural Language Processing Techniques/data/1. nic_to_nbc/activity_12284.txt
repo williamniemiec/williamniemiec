@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Symptom Monitoring": {
+    "parameters": {
+      "name": {},
+      "description": {},
+      "symptoms": {},
+      "frequency": {},
+      "reporting": {}
+    }
+  }
+}
+
+
+Note: I removed the `resources` parameter as it's not applicable in this context, and also didn't include any specific values for the parameters as they were not provided in the input text.

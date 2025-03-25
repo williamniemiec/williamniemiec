@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Symptom Monitoring Tracker": {
+    "Parameters": {
+      "Symptoms": ["Anorexia", "Nausea", "Vomiting", "Changes in taste", "Esophagitis", "Diarrhea"],
+      "Frequency": ["daily", "weekly", "monthly"],
+      "Severity Scale": ["Mild", "Moderate", "Severe"],
+      "Additional Notes": {"Type": "text"},
+      "Reminders": {"Type": "datetime"}
+    }
+  }
+}

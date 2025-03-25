@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+    "Educational Article": {
+        "name": "",
+        "content": "",
+        "images": [],
+        "key_points": []
+    },
+    "Video Tutorial": {
+        "name": "",
+        "video": "",
+        "instructions": "",
+        "feedback": ""
+    },
+    "Interactive Quiz": {
+        "name": "",
+        "questions": [],
+        "correct_answers": {},
+        "feedback": ""
+    }
+}
+
+
+Let me know if this meets your requirements!

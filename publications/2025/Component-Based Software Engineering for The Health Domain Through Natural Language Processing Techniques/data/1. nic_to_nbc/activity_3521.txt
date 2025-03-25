@@ -1,0 +1,4 @@
+Since there is no `PARAMETER ESPECIFICATIONS` section in the input text, and the `NO-CODE ELEMENT NAME` is not applicable according to the text, my output would be:
+
+
+{}

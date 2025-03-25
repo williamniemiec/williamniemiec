@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Relaxation Posture Guidance": {
+    "parameters": [
+      {"Position Guidance": {"type": "options", "options": ["sit comfortably", "lie down", "stand relaxed", "other ( specify )"]}},
+      {"Clothing Guidance": {"type": "options", "options": ["wear loose clothing", "avoid tight clothing", "remove shoes", "other ( specify )"]}},
+      {"Eye Closure Guidance": {"type": "options", "options": ["close eyes", "relax eyes", "focus on breath", "other ( specify )"]}},
+      {"Additional Tips": {"type": "long text"}},
+      {"Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]}},
+      {"Deadline Date": {"type": "datetime"}}
+    ]
+  }
+}

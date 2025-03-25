@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Organ Procurement Alert": {
+    "Patient ID": {"Type": "text"},
+    "Donor Status": {"Type": "boolean"},
+    "Organ Procurement Team": {"Type": "text"},
+    "Alert Message": {"Type": "text"}
+  }
+}

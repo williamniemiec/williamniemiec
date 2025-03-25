@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+    "Guide": {
+        "title": "",
+        "pages": [],
+        "tips": [],
+        "examples": [],
+        "resources": []
+    },
+    "Decision Support": {
+        "title": "",
+        "scenarios": [],
+        "questions": [],
+        "recommendations": [],
+        "resources": []
+    }
+}
+
+
+Note that I removed the introduction and conclusion, as well as any parameters that were not applicable (i.e., had no values). Let me know if you have any further requests!

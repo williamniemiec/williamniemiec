@@ -1,0 +1,34 @@
+Here is the output in JSON format:
+
+
+{
+  "Pain Information": {
+    "parameters": {
+      "name": "",
+      "content": "",
+      "sections": []
+    }
+  },
+  "Procedure Information": {
+    "parameters": {
+      "name": "",
+      "procedure_name": "",
+      "description": "",
+      "discomforts": []
+    }
+  },
+  "FAQs": {
+    "parameters": {
+      "name": "",
+      "questions": []
+    }
+  },
+  "Resource Library": {
+    "parameters": {
+      "name": "",
+      "resources": []
+    }
+  }
+}
+
+Note that I removed the "INTRODUCTION" and "CONCLUSION" sections, as well as the numbering and descriptions of the no-code elements. I also removed any parameters that were not applicable (i.e., empty or not specified). The resulting JSON object has each no-code element name as a key, with its corresponding parameter specifications as values.

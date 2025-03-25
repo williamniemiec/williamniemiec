@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Supervision Guide": {
+        "Title": {"type": "text"},
+        "Equipment": {"type": "text"},
+        "Supervision Instructions": {"type": ["article", "video"]},
+        "Safety Instructions": {"type": ["article", "video"]},
+        "Tips and Reminders": {"type": ["list", "table"]},
+        "Frequency": {"type": ["options"]},
+    }
+}

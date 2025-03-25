@@ -1,0 +1,17 @@
+
+
+
+{
+  "Rest Period Planner": {
+    "rest_period_duration": {"type": "number"},
+    "rest_period_frequency": {"type": "options"},
+    "nursing_care_schedule": {"type": "list of objects"},
+    "visitor_limitations": {"type": "text"},
+    "consultation_schedule": {"type": "list of objects"}
+  },
+  "Rest Period Tracker": {
+    "rest_period_goal": {"type": "number"},
+    "rest_period_progress": {"type": "number"},
+    "reminders": {"type": "list of objects"}
+  }
+}

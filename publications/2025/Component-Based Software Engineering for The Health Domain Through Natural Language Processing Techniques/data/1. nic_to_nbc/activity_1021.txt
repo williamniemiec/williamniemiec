@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Personnel Plan": {
+        "Job Roles": {"Type": "unordered list"},
+        "Job Descriptions": {"Type": "text"},
+        "Staffing Needs": {"Type": "unordered list"},
+        "Recruitment Strategies": {"Type": "unordered list"},
+        "Hiring Timeline": {"Type": "datetime"},
+        "Budget": {"Type": "number"},
+        "Notes": {"Type": "text"}
+    }
+}

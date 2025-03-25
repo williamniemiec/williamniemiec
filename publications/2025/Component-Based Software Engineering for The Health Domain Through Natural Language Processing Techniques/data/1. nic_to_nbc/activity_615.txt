@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Breathing Exercise": {
+    "parameters": {
+      "name": {"type": "text"},
+      "instructions": {"type": "text"},
+      "breathing_rate": {"type": "number"},
+      "frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "deadline_date": {"type": "datetime"}
+    }
+  }
+}
+
+
+Note: I removed the `not applicable` parameters as per your request. Let me know if you need any further assistance!

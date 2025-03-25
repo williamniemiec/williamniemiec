@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Oxygen Delivery Device Education": {
+    "Parameters": {
+      "Oxygen Delivery Device Education Goal": {},
+      "Importance of Leaving Oxygen Delivery Device On": {},
+      "Consequences of Not Leaving Oxygen Delivery Device On": {},
+      "Tips for Leaving Oxygen Delivery Device On": {},
+      "Oxygen Delivery Device Education Frequency": {}
+    }
+  }
+}
+
+
+Note that I removed the `Items` array from the `Tips` parameter and the `Options` array from the `Frequency` parameter, as they are not applicable in this format. Let me know if you need any further assistance!

@@ -1,0 +1,54 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Medication Administration Plan",
+  "parameters": [
+    {
+      "name": "medications",
+      "type": "options",
+      "options": [
+        { value: "benzodiazepines" },
+        { value: "chlorpromazine" },
+        { value: "diazepam" },
+        { value: "nicotineReplacement" },
+        { value: "phenobarbital" },
+        { value: "clonidine" },
+        { value: "trazodone" },
+        { value: "methadone" },
+        { value: "alpha2AdrenergicAgonists" },
+        { value: "antipsychotics" }
+      ]
+    },
+    {
+      "name": "dosage",
+      "type": "text"
+    },
+    {
+      "name": "frequency",
+      "type": "options",
+      "options": [
+        { value: "daily" },
+        { value: "everyHours" },
+        { value: "everyDays" }
+      ]
+    },
+    {
+      "name": "crossTolerance",
+      "type": "options",
+      "options": [
+        { value: "yes" },
+        { value: "no" },
+        { value: "unknown" }
+      ]
+    },
+    {
+      "name": "monitoring",
+      "type": "options",
+      "options": [
+        { value: "vitalSigns" },
+        { value: "laboratoryResults" }
+      ]
+    }
+  ]
+}

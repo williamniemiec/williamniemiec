@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Task Timeline": {
+    "Parameters": {
+      "Task Description": {"Type": "text"},
+      "Start Date": {"Type": "datetime"},
+      "End Date": {"Type": "datetime"},
+      "Duration": {"Type": "text"},
+      "Notes": {"Type": "text"}
+    }
+  }
+}

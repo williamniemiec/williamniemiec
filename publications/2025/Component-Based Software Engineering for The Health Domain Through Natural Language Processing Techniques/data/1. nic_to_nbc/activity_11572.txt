@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Trusting Relationship Assessment": {
+        "Trust Level": {"Type": "options"},
+        "Communication Satisfaction": {"Type": "options"},
+        "Empathy and Understanding": {"Type": "options"},
+        "Confidentiality and Privacy": {"Type": "options"},
+        "Openness and Honesty": {"Type": "options"},
+        "Additional Comments": {"Type": "text"}
+    }
+}

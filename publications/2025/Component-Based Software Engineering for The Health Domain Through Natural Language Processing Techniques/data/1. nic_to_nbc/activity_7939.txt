@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Warning": {
+    "Parameters": {
+      "Reason": {"Type": "text"},
+      "Complication": {"Type": "text"},
+      "Alternative": {"Type": "text or options"},
+      "Instructions": {"Type": "text or video"}
+    }
+  }
+}

@@ -1,0 +1,34 @@
+Here is the output in JSON format:
+
+
+{
+  "Needle Securement": {
+    "Tape Selection": {
+      "Type": "multiple choice or dropdown list",
+      "Options": "list of possible tape types (e.g., medical tape, adhesive tape, etc.)"
+    },
+    "Securement Technique Guidance": {
+      "Type": "interactive animation or video",
+      "Content": "a step-by-step guide on how to properly secure the needle with tape"
+    },
+    "Dressing Selection": {
+      "Type": "multiple choice or dropdown list",
+      "Options": "list of possible dressing types (e.g., gauze, transparent dressing, etc.)"
+    },
+    "Dressing Application Guidance": {
+      "Type": "interactive animation or video",
+      "Content": "a step-by-step guide on how to properly apply the dressing to the needle site"
+    },
+    "Agency Protocol Compliance": {
+      "Type": "yes/no question or multiple choice",
+      "Options": "list of agency protocol requirements (e.g., use of specific equipment, following specific procedures, etc.)"
+    },
+    "Securement Verification": {
+      "Type": "yes/no question or image upload",
+      "Content": "a prompt to confirm the needle is securely in place and the dressing is applied correctly"
+    }
+  }
+}
+
+
+Let me know if this meets your requirements!

@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Form": {
+    "Parameters": {
+      "Fields": "list of form fields",
+      "Field types": "text, checkbox, dropdown, etc."
+    }
+  }
+}

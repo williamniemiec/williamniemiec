@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Blanket Coverage": {
+    "Parameters": {
+      "Blanket Type": {},
+      "Rectal Area Exposure": {}
+    }
+  }
+}

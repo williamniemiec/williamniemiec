@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Acceptance Reflection",
+    "parameters": [
+        {
+            "name": "reflection",
+            "type": "text"
+        },
+        {
+            "name": "reasons",
+            "type": "list of text"
+        },
+        {
+            "name": "benefits",
+            "type": "list of text"
+        },
+        {
+            "name": "frequency",
+            "type": "options"
+        },
+        {
+            "name": "journaling",
+            "type": "boolean"
+        }
+    ]
+}

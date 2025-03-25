@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Wound Assessment": {
+    "parameters": [
+      {"name": "depth", "type": "text"},
+      {"name": "extension", "type": "text"},
+      {"name": "localization", "type": "text"},
+      {"name": "pain", "type": "number"},
+      {"name": "causative_agent", "type": "text"},
+      {"name": "exudation", "type": "text"},
+      {"name": "granulation_or_necrotic_tissue", "type": "options"},
+      {"name": "epithelization", "type": "text"},
+      {"name": "signs_of_infection", "type": "text"},
+      {"name": "photo", "type": "camera"},
+      {"name": "frequency", "type": "options"},
+      {"name": "deadline_date", "type": "datetime"}
+    ]
+  }
+}

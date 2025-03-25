@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Device Securement Reminder": {
+    "Parameters": {
+      "Name": {},
+      "Device Type": {},
+      "Securement Instructions": {},
+      "Frequency": {},
+      "Confirmation": {}
+    }
+  }
+}
+
+
+Note: I removed the `Deadline Date` parameter as it was not applicable.

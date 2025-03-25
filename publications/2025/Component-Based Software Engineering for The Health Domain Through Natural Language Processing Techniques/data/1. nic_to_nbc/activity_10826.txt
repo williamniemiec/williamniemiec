@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Shaving Reminder": {
+    "Parameters": {
+      "Name": {},
+      "Area to Shave": {},
+      "Frequency": {},
+      "Deadline Date": {},
+      "Instructions": {}
+    }
+  }
+}

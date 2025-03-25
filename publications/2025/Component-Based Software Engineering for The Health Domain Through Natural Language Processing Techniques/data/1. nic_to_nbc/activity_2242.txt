@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Reflection": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Prompt": {"Type": "text"},
+      "Previous knowledge": {"Type": "text"},
+      "New content": {"Type": "text"},
+      "Frequency": {"Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline date": {"Type": "datetime"}
+    }
+  }
+}

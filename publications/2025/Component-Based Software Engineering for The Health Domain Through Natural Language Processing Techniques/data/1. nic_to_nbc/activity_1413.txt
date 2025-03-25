@@ -1,0 +1,9 @@
+Since the input text does not contain the specified format, I will assume that the `PARAMETER ESPECIFICATIONS` and `NO-CODE ELEMENT NAME` sections are empty. 
+
+Here is the output in JSON format:
+
+
+{
+  "PARAMETER ESPECIFICATIONS": [],
+  "NO-CODE ELEMENT NAME": []
+}

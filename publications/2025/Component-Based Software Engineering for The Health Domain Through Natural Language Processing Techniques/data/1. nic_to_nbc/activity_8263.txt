@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Treatment Effectiveness Assessment": {
+    "Parameters": {
+      "Treatment List": {"Type": "list of treatments"},
+      "Effectiveness Questions": {"Type": "list of questions"},
+      "Response Options": {"Type": "list of options"},
+      "Frequency": {"Type": "options"},
+      "Output": {"Type": "summary report of treatment effectiveness"}
+    }
+  }
+}

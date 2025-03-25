@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Light Cycle": {
+    "Parameters": {
+      "Current Light Cycle": {
+        "Type": "options"
+      },
+      "Desired Light Cycle": {
+        "Type": "options"
+      },
+      "Lighting Schedule": {
+        "Type": "Not Applicable"
+      }
+    }
+  }
+}

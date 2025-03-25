@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Behavior Breakdown": {
+        "Parameters": {
+            "Target Behavior": {"Type": "text"},
+            "Unit of Measurement": {"Type": "text"},
+            "Measurement Frequency": {"Options": ["daily", "weekly", "monthly", "etc."]},
+            "Goal Setting": {"Type": "boolean"},
+            "Tracking Type": {"Options": ["manual entry", "automated tracking", "etc."]}
+        }
+    }
+}

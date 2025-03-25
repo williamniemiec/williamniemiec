@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Cognitive Stimulation": {
+    "Stimulation Type": {"type": "options"},
+    "Content": {"type": "text or multimedia content"},
+    "Level of Difficulty": {"type": "options"},
+    "Frequency": {"type": "options"},
+    "Deadline Date": {"type": "datetime"},
+    "Goal Alignment": {"type": "text or options"}
+  }
+}
+
+
+Let me know if this meets your requirements!

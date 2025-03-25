@@ -1,0 +1,10 @@
+Here is the output in JSON format:
+
+
+{
+    "Pacemaker Comfort Education": {
+        "Discomfort Information": {"Type": "text"},
+        "Sedation Information": {"Type": "text"},
+        "Comfort Options": {"Type": "text or options"}
+    }
+}

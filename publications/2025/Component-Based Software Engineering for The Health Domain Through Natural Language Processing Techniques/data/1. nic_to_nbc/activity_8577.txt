@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Body Image Perception Assessment": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Assessment Type": {"Type": "options"},
+      "Questions": {"Type": "list of text questions"},
+      "Response Type": {"Type": "options"},
+      "Scoring": {"Type": "text"},
+      "Family Member": {"Type": "options"}
+    }
+  }
+}

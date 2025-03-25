@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+  "Personal Preparedness Plan": {
+    "parameters": [
+      {"name": "emergency telephone numbers", "description": "List of emergency telephone numbers", "type": "text"},
+      {"name": "battery-operated radio", "description": "Confirmation of having a battery-operated radio", "type": "boolean"},
+      {"name": "working flashlight", "description": "Confirmation of having a working flashlight", "type": "boolean"},
+      {"name": "first aid kit", "description": "Confirmation of having a first aid kit", "type": "boolean"},
+      {"name": "medical information", "description": "List of medical information (e.g. allergies, medications)", "type": "text"},
+      {"name": "physician information", "description": "List of physician information (e.g. name, contact details)", "type": "text"},
+      {"name": "persons to be notified in an emergency", "description": "List of persons to be notified in an emergency", "type": "text"},
+      {"name": "review and update", "description": "Review and update personal preparedness plan", "type": "date"}
+    ]
+  }
+}
+
+
+Note that I removed the `required` field as it was not specified to be included in the output. If you need to include it, please let me know!

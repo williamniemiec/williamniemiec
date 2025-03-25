@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Role Expectation Disturbance Assessment": {
+    "Parameters": {
+      "Role Expectations": {},
+      "Disturbances": {},
+      "Description": {},
+      "Impact": {},
+      "Frequency": ["daily", "onlyOnce", "everyHours", "everyDays"],
+      "Deadline Date": {}
+    }
+  }
+}

@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Problem Discussion Forum": {
+    "parameters": {
+      "name": "",
+      "student_info": "",
+      "problem_description": "",
+      "instructor_info": "",
+      "type": "",
+      "deadline_date": ""
+    }
+  }
+}

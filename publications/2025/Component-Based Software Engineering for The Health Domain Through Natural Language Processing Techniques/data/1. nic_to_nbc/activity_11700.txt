@@ -1,0 +1,10 @@
+Here is the output in JSON format:
+
+json
+{
+  "NO-CODE ELEMENT NAME": "Instruct individual about appropriate type",
+  "PARAMETER ESPECIFICATIONS": {}
+}
+
+
+Note that since there were no parameter specifications provided, the `PARAMETER ESPECIFICATIONS` object is empty.

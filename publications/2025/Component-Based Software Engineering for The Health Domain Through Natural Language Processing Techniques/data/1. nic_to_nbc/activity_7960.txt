@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Respite Care Assessment": {
+    "Caregiver Burden": {},
+    "Caregiver Needs": {},
+    "Respite Care Options": {},
+    "Eligibility Criteria": {},
+    "Referral Process": {},
+    "Follow-up": {}
+  }
+}

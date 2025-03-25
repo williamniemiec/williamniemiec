@@ -1,0 +1,35 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Device Preparation",
+    "parameters": [
+        { 
+            "name": "Device Type", 
+            "options": ["pacemaker (with possible sub-options for specific models)"]
+        },
+        { 
+            "name": "Battery Check", 
+            "type": "boolean"
+        },
+        { 
+            "name": "Wire Set Identification", 
+            "type": "text",
+            "options": ["atrial and ventricular wire sets (with possible options for wire set labels)"]
+        },
+        { 
+            "name": "Lead Identification", 
+            "type": "text",
+            "options": ["positive and negative leads for each pair of wires (with possible options for lead labels)"]
+        },
+        { 
+            "name": "Labeling", 
+            "type": "boolean"
+        },
+        { 
+            "name": "Facility Protocol", 
+            "type": "text",
+            "options": ["facility protocol references (with possible options for facility protocol references)"]
+        }
+    ]
+}

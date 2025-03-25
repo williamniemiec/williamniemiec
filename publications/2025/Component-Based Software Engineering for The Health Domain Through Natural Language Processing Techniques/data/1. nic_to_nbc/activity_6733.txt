@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+  "Dashboard": {
+    "Metrics": {
+      "name": "text",
+      "type": ["number", "percentage"]
+    },
+    "Data source": {
+      "connection": {
+        "url": "text",
+        "credentials": {
+          "username": "text",
+          "password": "text"
+        }
+      }
+    },
+    "Filters": {
+      "name": "text",
+      "type": ["dropdown", "date range"]
+    }
+  }
+}
+
+
+I removed all unnecessary text and only kept the `{{ NO-CODE ELEMENT NAME }}` (Dashboard) and `{{ PARAMETER ESPECIFICATIONS }}`. I also removed any non-applicable parameters. Let me know if this is what you were looking for!

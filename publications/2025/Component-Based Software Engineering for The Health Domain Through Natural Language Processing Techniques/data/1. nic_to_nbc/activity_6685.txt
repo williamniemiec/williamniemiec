@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Device Check": {
+    "parameters": {
+      "device_name": {"type": "text"},
+      "check_type": {"type": "text"},
+      "equipment_protocol": {"type": "text"},
+      "frequency": {"type": "options"},
+      "deadline_date": {"type": "datetime"}
+    }
+  }
+}

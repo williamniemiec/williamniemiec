@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Sensory Experience": {
+    "Parameters": {
+      "Procedure Aspect": {"Type": "text"},
+      "Sensory Descriptions": {"Type": "list", "Fields": [
+        {"name": "visual_description", "label": "Visual Description", "type": "text"},
+        {"name": "tactile_description", "label": "Tactile Description", "type": "text"},
+        {"name": "olfactory_description", "label": "Olfactory Description", "type": "text"},
+        {"name": "gustatory_description", "label": "Gustatory Description", "type": "text"},
+        {"name": "auditory_description", "label": "Auditory Description", "type": "text"}
+      ]},
+      "Patient Quotes": {"Type": "text"},
+      "Illustrations": {"Type": "media"}
+    }
+  }
+}

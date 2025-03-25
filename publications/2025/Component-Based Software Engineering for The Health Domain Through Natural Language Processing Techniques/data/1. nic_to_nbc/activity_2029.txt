@@ -1,0 +1,49 @@
+Here is the output in JSON format:
+
+
+{
+  "Lower Extremity Surveillance": {
+    "Surveillance Date": {
+      "Description": "Date of surveillance",
+      "Required": true,
+      "Type": "datetime"
+    },
+    "Lower Extremity Inspection": {
+      "Description": "Inspect your lower extremities for any changes",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "normal", "label": "Normal" },
+        { "value": "abnormal", "label": "Abnormal" },
+        { "value": "unchanged", "label": "Unchanged" }
+      ]
+    },
+    "Referral Needed": {
+      "Description": "Do you need to refer to a healthcare professional?",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "yes", "label": "Yes" },
+        { "value": "no", "label": "No" }
+      ]
+    },
+    "Frequency": {
+      "Description": "How often should you perform surveillance?",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "quarterly", "label": "Every 3 months" },
+        { "value": "biannually", "label": "Every 6 months" },
+        { "value": "annually", "label": "Every 12 months" }
+      ]
+    },
+    "Next Surveillance Date": {
+      "Description": "When should you perform surveillance again?",
+      "Required": true,
+      "Type": "datetime"
+    }
+  }
+}
+
+
+I removed the non-applicable parameters and kept only the `PARAMETER ESPECIFICATIONS` and `NO-CODE ELEMENT NAME`. Let me know if this is what you were looking for!

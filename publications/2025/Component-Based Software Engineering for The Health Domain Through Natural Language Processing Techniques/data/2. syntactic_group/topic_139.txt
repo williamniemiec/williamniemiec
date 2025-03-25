@@ -1,0 +1,10 @@
+{
+  "name": "Learning Style Assessment and Scoring",
+  "description": "Focuses on assessing different learning styles using various question formats, including multiple choice and Likert scales. Aims to evaluate learning preferences and styles for personalized educational approaches.",
+  "type": "non-periodic",
+  "input": ["Learning style assessment", "Likert scale", "Multiple-choice questions", "Solving style questions", "Learning scoring"],
+  "output": ["Learning style report", "Assessment feedback", "Scoring summary"],
+  "preconditions": ["User is taking a learning style assessment"],
+  "postconditions": ["Personalized learning style insights based on assessment results"],
+  "dependencies": ["Learning assessment platform", "Scoring and feedback system", "Survey/questionnaire tools"]
+}

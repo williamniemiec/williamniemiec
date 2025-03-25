@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+    "Care Team Collaboration": {
+        "Care Team Members": {"type": "options", "list of care team members"},
+        "Communication Method": {"type": "options", "list of communication methods"}
+    },
+    "Potassium Preparation Tracker": {
+        "Potassium Preparations": {"type": "options", "list of potassium preparations"},
+        "Indications": {"type": "options", "list of indications"}
+    },
+    "Decision Support System": {
+        "Clinical Guidelines": {"type": "options", "list of clinical guidelines"},
+        "Patient Data": {"type": "options", "list of patient data"}
+    },
+    "Alert System": {
+        "Alert Thresholds": {"type": "options", "list of threshold values"},
+        "Alert Frequency": {"type": "options", "immediately, daily, weekly"}
+    }
+}

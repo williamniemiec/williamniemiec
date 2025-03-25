@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Skin Cleansing": {
+    "Instructions": {"type": ["text", "unordered list"]},
+    "Frequency": {"options": ["daily", "everyHours", "everyDays"]},
+    "Cleansing Solution": {"options": ["soap and water", "antibacterial wipes", "other"]},
+    "Skin Area": {"type": "text"},
+    "Tracking": {"type": "boolean"}
+  }
+}

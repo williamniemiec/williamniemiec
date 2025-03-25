@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Reflection Journal": {
+    "Prompt": "",
+    "Response Type": "",
+    "Frequency": ["daily", "weekly", "biweekly", "monthly"],
+    "Emotion Identification": "",
+    "Concern Categorization": ""
+  }
+}

@@ -1,0 +1,44 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Repeat Instruction",
+    "parameters": [
+        {
+            "name": "Instruction",
+            "description": "A parameter that specifies the instruction to be repeated.",
+            "required": true,
+            "type": "text"
+        },
+        {
+            "name": "Prompt",
+            "description": "A parameter that specifies the prompt to ask the patient to repeat the instruction.",
+            "required": true,
+            "type": "text"
+        },
+        {
+            "name": "Frequency",
+            "description": "A parameter that specifies how often the repeat instruction prompt should be displayed.",
+            "required": true,
+            "type": "options",
+            "options": [
+                { value: "daily", label: "Daily" },
+                { value: "onlyOnce", label: "Only once" },
+                { value: "everyHours", label: "Every hours" },
+                { value: "everyDays", label: "Every days" }
+            ]
+        },
+        {
+            "name": "Deadline Date",
+            "description": "A parameter that specifies the due date for the repeat instruction prompt.",
+            "required": true,
+            "type": "datetime"
+        },
+        {
+            "name": "Verification",
+            "description": "A parameter that specifies whether the patient's response should be verified for accuracy.",
+            "required": true,
+            "type": "boolean"
+        }
+    ]
+}

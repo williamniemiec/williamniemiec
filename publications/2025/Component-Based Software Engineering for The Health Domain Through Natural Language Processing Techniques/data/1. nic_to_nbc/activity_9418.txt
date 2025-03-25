@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+  "Feedback Form": {
+    "parameters": {
+      "name": {"type": "text"},
+      "description": {"type": "text"},
+      "questions": {
+        "type": "unordered list",
+        "items": {
+          "question": {"type": "text"},
+          "type": {"type": "options"},
+          "options": {"type": "list of options"}
+        }
+      },
+      "frequency": {
+        "type": "options",
+        "options": ["daily", "weekly", "monthly", "quarterly"]
+      }
+    }
+  }
+}

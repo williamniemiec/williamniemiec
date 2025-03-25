@@ -1,0 +1,29 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "oral_health_assistance",
+    "parameters": [
+        { 
+            "name": "brushing_assistance", 
+            "description": "assist with brushing teeth, gums, and tongue"
+        },
+        { 
+            "name": "rinsing_assistance", 
+            "description": "assist with rinsing"
+        },
+        { 
+            "name": "flossing_assistance", 
+            "description": "assist with flossing"
+        },
+        { 
+            "name": "frequency", 
+            "description": "how often assistance is needed",
+            "options": [
+                { value: "daily", label: "Daily" },
+                { value: "weekly", label: "Weekly" },
+                { value: "as_needed", label: "As Needed" }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Anesthesia Options Guide": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Anesthesia Options": {"Type": "list of text or options"},
+      "Description": {"Type": "text"},
+      "Referral Information": {"Type": "text or URL"},
+      "Eligibility Criteria": {"Type": "list of text or options"},
+      "Risks and Benefits": {"Type": "list of text or options"},
+      "Patient Questions": {"Type": "text or form"}
+    }
+  }
+}
+
+
+Let me know if this is what you were expecting!

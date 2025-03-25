@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Ability Focus Exercise": {
+        "Name": {"type": "text"},
+        "Deficit reflection prompts": {"type": "list of text", "example": ["What are some things you struggle with?", "What are some areas where you feel limited?", "What are some things you wish you could do but can't?"]},
+        "Ability identification prompts": {"type": "list of text", "example": ["What are some things you're good at?", "What are some areas where you excel?", "What are some things you enjoy doing?"]},
+        "Ability affirmation statements": {"type": "list of text", "example": ["I am capable and competent", "I have many strengths and abilities", "I can accomplish my goals"]},
+        "Frequency": {"type": "options", "options": ["Daily", "Weekly", "Monthly"]},
+        "Deadline date": {"type": "datetime"}
+    }
+}

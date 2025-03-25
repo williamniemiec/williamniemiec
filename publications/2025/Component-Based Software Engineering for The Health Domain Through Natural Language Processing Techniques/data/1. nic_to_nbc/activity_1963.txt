@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Memory Stimulation": {
+    "Last Expressed Thought": {"Type": "text"},
+    "Repetition Prompt": {"Type": "text"},
+    "Memory Stimulation Technique": {"Type": "options"},
+    "Appropriateness Criteria": {"Type": "text or list of options"}
+  }
+}

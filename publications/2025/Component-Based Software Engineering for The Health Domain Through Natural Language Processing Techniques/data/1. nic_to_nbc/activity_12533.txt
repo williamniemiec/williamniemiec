@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Role Expectations": {
+    "Parameters": {
+      "Role": {},
+      "Expectations": {},
+      "Significant Other's Role": {},
+      "Significant Other's Expectations": {},
+      "Realistic Expectations": {}
+    }
+  }
+}

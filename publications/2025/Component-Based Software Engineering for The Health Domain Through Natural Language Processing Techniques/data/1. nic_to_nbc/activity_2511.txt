@@ -1,0 +1,33 @@
+Here is the output in JSON format:
+
+
+{
+  "Safety Information": {
+    "parameters": {
+      "name": "",
+      "content": "",
+      "format": ""
+    }
+  },
+  "FAQs": {
+    "parameters": {
+      "name": "",
+      "questions": [],
+      "answers": []
+    }
+  },
+  "Safety Contract": {
+    "parameters": {
+      "name": "",
+      "rules": [],
+      "signature": ""
+    }
+  },
+  "Education Module": {
+    "parameters": {
+      "name": "",
+      "content": "",
+      "format": ""
+    }
+  }
+}

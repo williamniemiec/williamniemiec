@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Educational Module": {
+    "Parameters": {
+      "Content": [],
+      "Interactive Elements": [],
+      "Personalized Insights": [],
+      "Resources and Next Steps": []
+    }
+  }
+}

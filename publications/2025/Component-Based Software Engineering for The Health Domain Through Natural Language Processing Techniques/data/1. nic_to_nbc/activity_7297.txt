@@ -1,0 +1,29 @@
+Here is the output in JSON format:
+
+
+[
+  {
+    "name": "Lab Result Tracking",
+    "parameters": [
+      {"name": "result", "description": "Enter serum level result", "required": true, "type": "numeric"},
+      {"name": "unit", "description": "Select unit of measurement", "required": true, "type": "options", "options": [{"value": "ng/mL", "label": "ng/mL"}, {"value": "μg/L", "label": "μg/L"}]},
+      {"name": "frequency", "description": "Specify how often to track serum levels", "required": true, "type": "options", "options": [{"value": "daily", "label": "Daily"}, {"value": "onlyOnce", "label": "Only once"}, {"value": "everyHours", "label": "Every x hours"}, {"value": "everyDays", "label": "Every x days"}]}
+    ]
+  },
+  {
+    "name": "Vital Sign Tracking",
+    "parameters": [
+      {"name": "heart_rate", "description": "Enter heart rate", "required": true, "type": "numeric"},
+      {"name": "rhythm", "description": "Select heart rhythm", "required": true, "type": "options", "options": [{"value": "normal", "label": "Normal"}, {"value": "tachycardia", "label": "Tachycardia"}, {"value": "bradycardia", "label": "Bradycardia"}]},
+      {"name": "frequency", "description": "Specify how often to track heart rate and rhythm", "required": true, "type": "options", "options": [{"value": "daily", "label": "Daily"}, {"value": "onlyOnce", "label": "Only once"}, {"value": "everyHours", "label": "Every x hours"}, {"value": "everyDays", "label": "Every x days"}]}
+    ]
+  },
+  {
+    "name": "Side Effect Tracking",
+    "parameters": [
+      {"name": "side_effect", "description": "Select side effect", "required": true, "type": "options", "options": [{"value": "nausea", "label": "Nausea"}, {"value": "vomiting", "label": "Vomiting"}, {"value": "dizziness", "label": "Dizziness"}]},
+      {"name": "severity", "description": "Select severity of side effect", "required": true, "type": "options", "options": [{"value": "mild", "label": "Mild"}, {"value": "moderate", "label": "Moderate"}, {"value": "severe", "label": "Severe"}]},
+      {"name": "frequency", "description": "Specify how often to track side effects", "required": true, "type": "options", "options": [{"value": "daily", "label": "Daily"}, {"value": "onlyOnce", "label": "Only once"}, {"value": "everyHours", "label": "Every x hours"}, {"value": "everyDays", "label": "Every x days"}]}
+    ]
+  }
+]

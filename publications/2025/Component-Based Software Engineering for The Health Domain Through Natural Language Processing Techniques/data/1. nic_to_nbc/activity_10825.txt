@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Acupressure Treatment Plan": {
+    "Parameters": {
+      "Acupressure Technique": {"Type": "options"},
+      "Application Frequency": {"Type": "options"},
+      "Treatment Duration": {"Type": "text or numeric value"},
+      "Pain Assessment": {"Type": "numeric value or text"},
+      "Acupressure Points": {"Type": "text or image"}
+    }
+  }
+}

@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Behavioral Objective Setter": {
+    "Target Behavior": {"type": "text"},
+    "Specific Goal": {"type": "text"},
+    "Measurable Outcome": {"type": "text"},
+    "Achievable Deadline": {"type": "date"},
+    "Relevant Context": {"type": "text"},
+    "Written Objective": {"type": "text"}
+  }
+}

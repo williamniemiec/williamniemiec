@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "NICU Tour": {
+    "Tour Type": {"type": "options"},
+    "NICU Information": {"type": "rich text"},
+    "Preterm Birth Risks": {"type": "list of text or rich text"},
+    "NICU Procedures": {"type": "list of text or rich text"},
+    "Q&A": {"type": "list of Q&A pairs"}
+  }
+}

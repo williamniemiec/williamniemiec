@@ -1,0 +1,37 @@
+Here is the output in JSON format:
+
+
+{
+  "Misperception Assessment": {
+    "misperception_types": {
+      "type": "unordered list"
+    },
+    "stimuli_identification": {
+      "type": "text"
+    }
+  },
+  "Stimulus Removal": {
+    "stimulus_type": {
+      "type": "options (list of predefined stimulus types)"
+    },
+    "removal_method": {
+      "type": "text"
+    }
+  },
+  "Environmental Modification": {
+    "environmental_elements": {
+      "type": "unordered list"
+    },
+    "modification_options": {
+      "type": "unordered list"
+    }
+  },
+  "Misperception Monitoring": {
+    "misperception_frequency": {
+      "type": "rating scale (e.g., 1-5)"
+    },
+    "misperception_severity": {
+      "type": "rating scale (e.g., 1-5)"
+    }
+  }
+}

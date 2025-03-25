@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+{
+  "Transportation Arrangement": {
+    "Mode of Transportation": {
+      "type": "options",
+      "options": ["car", "taxi", "bus", "train", "ambulance", "other"]
+    },
+    "Pickup Location": {
+      "type": "text"
+    },
+    "Drop-off Location": {
+      "type": "text"
+    },
+    "Date and Time": {
+      "type": "datetime"
+    },
+    "Frequency": {
+      "type": "options",
+      "options": ["one-time", "daily", "weekly", "monthly"]
+    },
+    "Notes": {
+      "type": "text"
+    }
+  }
+}

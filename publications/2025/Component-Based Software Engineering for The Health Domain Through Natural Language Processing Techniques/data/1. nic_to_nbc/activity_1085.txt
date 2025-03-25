@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Positioning Assistance": {
+    "Parameters": {
+      "Position": {},
+      "Exercise Protocol": {},
+      "Assistance Method": {},
+      "Safety Precautions": {}
+    }
+  }
+}

@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Activity Tracker": {
+    "Parameters": {
+      "Activity Types": ["Walking", "Running", "Lifting", "Bending"],
+      "Activity Levels": [],
+      "Frequency": ["daily", "every 2 hours"],
+      "Deadline Date": {"Type": "datetime"}
+    }
+  },
+  "Rest Tracker": {
+    "Parameters": {
+      "Rest Periods": ["Time spent in bed", "Time spent sitting"],
+      "Rest Quality": [],
+      "Frequency": ["daily", "every 2 hours"],
+      "Deadline Date": {"Type": "datetime"}
+    }
+  }
+}

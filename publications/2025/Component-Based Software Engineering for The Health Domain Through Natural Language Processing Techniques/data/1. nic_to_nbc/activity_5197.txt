@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Child Visitation Request": {
+    "parameters": {
+      "Child's Name": {"type": "text"},
+      "Visit Date and Time": {"type": "datetime"},
+      "Special Instructions": {"type": "text"},
+      "Approval Status": {"type": "options", "options": ["pending", "approved", "denied"]}
+    }
+  }
+}

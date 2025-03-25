@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Assistive Device Provision": {
+    "Name": {"Type": "text"},
+    "Description": {"Type": "text"},
+    "Device Type": {"Type": "options", "Options": ["Cane", "Walker", "Wheelchair", "Other ( specify )"]},
+    "Indication": {"Type": "options", "Options": ["Unsteadiness", "Weakness", "Balance impairment", "Other ( specify )"]},
+    "Frequency": {"Type": "options", "Options": ["As needed", "Daily", "Weekly", "Monthly"]},
+    "Duration": {"Type": "text"},
+    "Instructions": {"Type": "text"}
+  }
+}

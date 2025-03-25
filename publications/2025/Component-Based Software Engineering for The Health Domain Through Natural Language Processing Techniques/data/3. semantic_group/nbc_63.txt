@@ -1,0 +1,10 @@
+{
+  "name": "Suicide Risk and Crisis Response",
+  "description": "Focuses on assessing suicide risk, planning for crisis intervention, and monitoring suicidal ideation. Includes responses to hospitalization and emergency situations, as well as continuous observation and planning.",
+  "type": "non-periodic",
+  "input": ["Suicide risk assessment", "Crisis intervention planning", "Suicidal ideation tracking", "Emergency response"],
+  "output": ["Crisis response plan", "Hospitalization arrangement", "Suicidal ideation monitoring report"],
+  "preconditions": ["User or patient is under risk of suicidal behavior"],
+  "postconditions": ["Risk management and intervention completed successfully"],
+  "dependencies": ["Crisis intervention systems", "Risk assessment tools", "Emergency support networks"]
+}

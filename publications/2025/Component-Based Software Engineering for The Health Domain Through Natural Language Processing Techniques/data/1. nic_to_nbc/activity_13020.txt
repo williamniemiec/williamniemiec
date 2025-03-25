@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+    "Exercise Session Scheduling": {
+        "Muscle Group": {
+            "type": "options"
+        },
+        "Exercise Session Frequency": {
+            "type": "options"
+        },
+        "Exercise Session Schedule": {
+            "type": "table or calendar"
+        },
+        "Muscle Adaptation Instructions": {
+            "type": "text with multimedia support"
+        }
+    }
+}

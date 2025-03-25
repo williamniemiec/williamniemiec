@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Instruction": {
+    "Parameters": {
+      "Medication Name": {"Type": "text"},
+      "Dosage": {"Type": "text"},
+      "Frequency": {"Type": "options", "Options": ["daily", "every 2 hours", "every 4 hours", "etc."]},
+      "Duration": {"Type": "text"},
+      "Special Instructions": {"Type": "text"},
+      "Why": {"Type": "text"}
+    }
+  }
+}
+
+
+Note that I removed the non-applicable parameters and reformatted the text into a JSON object with the no-code element name as the key, and its parameters as an object with type and options (if applicable).

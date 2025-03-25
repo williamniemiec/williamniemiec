@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Support": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Support Type": {"Type": "options", "Options": ["relaxation therapy", "desensitization exercises", "opportunities to talk about feelings"]},
+      "Support Content": {"Type": "text"},
+      "Frequency": {"Type": "options", "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"Type": "datetime"},
+      "Resources": {
+        "Type": "unordered list",
+        "Items": {
+          "Resource": {"Type": "text"},
+          "Contact Information": {"Type": "text"}
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Pre-ECT Checklist": {
+    "parameters": {
+      "npo_confirmation": {"type": "boolean"},
+      "medication_adherence": {"type": "boolean"},
+      "medication_list": {"type": "list of medications"},
+      "physician_instructions": {"type": "text"}
+    }
+  }
+}

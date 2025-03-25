@@ -1,0 +1,28 @@
+
+
+
+{
+  "name": "Support Group Connection",
+  "parameters": [
+    {
+      "name": "Support Group Options",
+      "type": "list of text"
+    },
+    {
+      "name": "Support Group Schedules",
+      "type": "list of text"
+    },
+    {
+      "name": "Support Group Resources",
+      "type": "list of text"
+    },
+    {
+      "name": "Family Involvement",
+      "type": "text"
+    },
+    {
+      "name": "Progress Tracking",
+      "type": "options"
+    }
+  ]
+}

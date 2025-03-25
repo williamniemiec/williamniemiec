@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+  "Caregiver Follow-up Support": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Support Type": {"Type": "options", "Options": ["phoneCalls", "communityNurseCare", "both"]},
+      "Schedule": {"Type": "schedule object",
+        "Frequency": "",
+        "Time": ""
+      },
+      "Caregiver Profile": {"Type": "caregiver profile object",
+        "Name": "",
+        "Relationship": ""
+      },
+      "Patient Needs": {"Type": "list of patient needs",
+        "Name": "",
+        "Description": ""
+      }
+    }
+  }
+}
+
+
+I removed the not applicable parameters and only kept the `{{ PARAMETER ESPECIFICATIONS }}` and `{{ NO-CODE ELEMENT NAME }}`.

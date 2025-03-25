@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "Crisis Situation Assessment": {
+    "parameters": {
+      "Questions": [
+        "Have you or your family experienced poverty or financial difficulties in the past year?",
+        "Have you or your partner experienced unemployment or job loss in the past year?",
+        "Have you or your partner experienced a divorce or separation in the past year?",
+        "Have you experienced the death of a loved one in the past year?",
+        "Have you experienced any other crisis situations that may have triggered feelings of stress, anxiety, or overwhelm?"
+      ],
+      "Answer type": [
+        "Yes/No",
+        "Scale (e.g., 1-5, where 1 is \"not at all\" and 5 is \"extremely\")",
+        "Open-ended text response"
+      ]
+    }
+  }
+}
+
+
+Let me know if this meets your requirements!

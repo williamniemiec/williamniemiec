@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "STD Awareness Education": {
+        "parameters": [
+            {"name": "Title", "type": "text"},
+            {"name": "Content", "type": "text"},
+            {"name": "Symptom Checker", "type": "symptom checker tool"},
+            {"name": "Treatment Information", "type": "text"},
+            {"name": "Resources", "type": "list of URLs or text"}
+        ]
+    }
+}

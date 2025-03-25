@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+  "Symptom Checker": {
+    "parameters": {
+      "name": "Monitor patient for allergic reaction",
+      "content": "Monitor yourself for signs of an allergic reaction",
+      "type": "symptom checker",
+      "symptoms": [
+        {"name": "Hives", "description": "Red, itchy, and swollen patches on the skin", "type": "checkbox"},
+        {"name": "Itching", "description": "Itching or prickling sensation on the skin", "type": "checkbox"},
+        {"name": "Swelling", "description": "Swelling of the face, lips, tongue, or throat", "type": "checkbox"},
+        {"name": "Difficulty breathing", "description": "Shortness of breath, wheezing, or coughing", "type": "checkbox"},
+        {"name": "Other", "description": "Any other symptoms you're experiencing", "type": "text"}
+      ],
+      "severity": [
+        {"name": "Mild", "label": "Mild"},
+        {"name": "Moderate", "label": "Moderate"},
+        {"name": "Severe", "label": "Severe"}
+      ],
+      "action": [
+        {"name": "Seek medical attention", "description": "If you experience any severe symptoms, seek medical attention immediately", "type": "button"}
+      ]
+    }
+  }
+}

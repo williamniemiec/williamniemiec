@@ -1,0 +1,48 @@
+Here is the output in JSON format:
+
+
+{
+  "Body Assessment Form": {
+    "parameters": [
+      {
+        "name": "vital_signs",
+        "description": "Record vital signs",
+        "content_type": "form",
+        "type": "vital_signs",
+        "vital_signs": [
+          { "label": "Temperature", "unit": "°C" },
+          { "label": "Blood Pressure", "unit": "mmHg" },
+          { "label": "Heart Rate", "unit": "bpm" },
+          { "label": "Respiratory Rate", "unit": "breaths/min" },
+          { "label": "Oxygen Saturation", "unit": "%" }
+        ]
+      },
+      {
+        "name": "head_to_toe_assessment",
+        "description": "Conduct a head-to-toe assessment",
+        "content_type": "form",
+        "type": "options",
+        "options": [
+          { "value": "head", "label": "Head" },
+          { "value": "eyes", "label": "Eyes" },
+          { "value": "ears", "label": "Ears" },
+          { "value": "nose", "label": "Nose" },
+          { "value": "mouth", "label": "Mouth" },
+          { "value": "neck", "label": "Neck" },
+          { "value": "chest", "label": "Chest" },
+          { "value": "abdomen", "label": "Abdomen" },
+          { "value": "back", "label": "Back" },
+          { "value": "extremities", "label": "Extremities" }
+        ]
+      },
+      {
+        "name": "additional_findings",
+        "description": "Add any additional findings",
+        "content_type": "form",
+        "type": "text"
+      }
+    ]
+  }
+}
+
+Let me know if you need any further assistance!

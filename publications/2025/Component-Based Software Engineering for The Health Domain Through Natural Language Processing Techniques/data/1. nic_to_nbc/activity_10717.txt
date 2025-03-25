@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+  "Wound Assessment": {
+    "parameters": [
+      {"name": "wound_size", "description": "What is the size of your wound?", "required": true, "type": "number"},
+      {"name": "wound_depth", "description": "What is the depth of your wound?", "required": true, "type": "number"},
+      {"name": "wound_location", "description": "Where is the wound located?", "required": true, "type": "options", "options": [{"value": "leg", "label": "Leg"}, {"value": "foot", "label": "Foot"}, {"value": "ankle", "label": "Ankle"}, {"value": "other", "label": "Other"}]},
+      {"name": "wound_type", "description": "What type of wound do you have?", "required": true, "type": "options", "options": [{"value": "surgical", "label": "Surgical"}, {"value": "traumatic", "label": "Traumatic"}, {"value": "ulcer", "label": "Ulcer"}, {"value": "other", "label": "Other"}]},
+      {"name": "photo", "description": "Take a photo of the wound", "required": false, "type": "camera"}
+    ]
+  },
+  "Debridement": {
+    "parameters": [
+      {"name": "debridement_method", "description": "What method of debridement did you use?", "required": true, "type": "options", "options": [{"value": "autolytic", "label": "Autolytic"}, {"value": "enzymatic", "label": "Enzymatic"}, {"value": "mechanical", "label": "Mechanical"}, {"value": "other", "label": "Other"}]},
+      {"name": "debridement_frequency", "description": "How often did you perform debridement?", "required": true, "type": "options", "options": [{"value": "daily", "label": "Daily"}, {"value": "everyOtherDay", "label": "Every other day"}, {"value": "weekly", "label": "Weekly"}, {"value": "other", "label": "Other"}]}
+    ]
+  },
+  "Antimicrobial Therapy": {
+    "parameters": [
+      {"name": "antimicrobial_type", "description": "What type of antimicrobial therapy did you use?", "required": true, "type": "options", "options": [{"value": "topical", "label": "Topical"}, {"value": "oral", "label": "Oral"}, {"value": "intravenous", "label": "Intravenous"}, {"value": "other", "label": "Other"}]},
+      {"name": "antimicrobial_frequency", "description": "How often did you administer antimicrobial therapy?", "required": true, "type": "options", "options": [{"value": "daily", "label": "Daily"}, {"value": "everyOtherDay", "label": "Every other day"}, {"value": "weekly", "label": "Weekly"}, {"value": "other", "label": "Other"}]}
+    ]
+  }
+}

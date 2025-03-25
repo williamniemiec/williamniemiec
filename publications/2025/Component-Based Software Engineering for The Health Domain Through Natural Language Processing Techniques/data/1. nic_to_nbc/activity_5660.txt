@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Fluid Tracker": {
+    "parameters": {
+      "name": {"type": "text"},
+      "intake_type": {"type": "options"},
+      "intake_amount": {"type": "number"},
+      "output_type": {"type": "options"},
+      "output_amount": {"type": "number"},
+      "frequency": {"type": "options"},
+      "notes": {"type": "text"}
+    }
+  }
+}

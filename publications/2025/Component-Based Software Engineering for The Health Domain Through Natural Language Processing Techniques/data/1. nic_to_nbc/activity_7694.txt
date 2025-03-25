@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "element_name": "Education",
+  "parameters": {
+    "Content": {"type": ["text", "HTML"]},
+    "Title": {"type": "text"},
+    "Type": {"type": ["text", "image", "video"]}
+  }
+}

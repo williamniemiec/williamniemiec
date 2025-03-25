@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+    "Immunization Schedule": {
+        "parameters": ["vaccination type", "due date", "reminder frequency"]
+    },
+    "Vaccination Status": {
+        "parameters": ["vaccination type", "status (e.g., up-to-date, overdue, incomplete)"]
+    },
+    "Reminder Notification": {
+        "parameters": ["reminder message", "vaccination type", "due date"]
+    },
+    "Immunization History": {
+        "parameters": ["vaccination type", "date", "status (e.g., completed, pending)"]
+    },
+    "Targeted Population Identification": {
+        "parameters": ["population criteria (e.g., age range, health condition)", "patient identification"]
+    }
+}

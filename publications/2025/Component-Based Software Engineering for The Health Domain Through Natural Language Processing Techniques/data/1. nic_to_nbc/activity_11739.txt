@@ -1,0 +1,35 @@
+Here is the output in JSON format:
+
+
+{
+  "Advance Care Planning": {
+    "Parameters": {
+      "Care Planning Questions": {"Type": "care planning questions"},
+      "Care Planning Resources": {"Type": "care planning resources"}
+    }
+  },
+  "Incapacity Planning": {
+    "Parameters": {
+      "Incapacity Scenarios": {"Type": "incapacity scenarios"},
+      "Responsibility Options": {"Type": "responsibility options"}
+    }
+  },
+  "Care Option Exploration": {
+    "Parameters": {
+      "Care Option Questions": {"Type": "care option questions"},
+      "Care Option Resources": {"Type": "care option resources"}
+    }
+  },
+  "Care Preference Assessment": {
+    "Parameters": {
+      "Preference Questions": {"Type": "preference questions"},
+      "Preference Results": {"Type": "preference results"}
+    }
+  },
+  "Care Plan Development": {
+    "Parameters": {
+      "Care Plan Template": {"Type": "care plan template"},
+      "Care Plan Review": {"Type": "care plan review"}
+    }
+  }
+}

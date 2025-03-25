@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+
+{
+  "Play Activity": {
+    "Parameters": {
+      "Name": {},
+      "Equipment": {},
+      "Instructions": {},
+      "Frequency": {
+        "options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+      },
+      "Deadline Date": {}
+    }
+  }
+}

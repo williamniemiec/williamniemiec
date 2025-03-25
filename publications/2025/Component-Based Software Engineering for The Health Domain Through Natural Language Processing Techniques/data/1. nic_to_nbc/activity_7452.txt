@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Information Module": {
+        "Parameters": {
+            "Title": {"Type": "text"},
+            "Content": {"Type": "text or HTML"},
+            "Type": {"Type": "options", "Options": ["diagnosis", "treatment", "prognosis", "other"]},
+            "Resources": {"Type": "list of URLs or PDFs"},
+            "Quiz": {"Type": "quiz", "Quiz questions": "list of questions with correct answers"}
+        }
+    }
+}

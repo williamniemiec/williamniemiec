@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+    "Environmental Context Evaluation": {
+        "Parameters": {
+            "Environmental Factors": {
+                "Type": "checklist",
+                "Options": ["noise level", "privacy", "lighting", "temperature", "presence of others", "etc."]
+            },
+            "Comfort Level": {
+                "Type": "form",
+                "Options": ["Yes/No", "Scale (e.g., 1-5)", "Open-ended text"]
+            },
+            "Frequency": {
+                "Type": "options",
+                "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+            },
+            "Deadline Date": {
+                "Type": "datetime"
+            }
+        }
+    }
+}

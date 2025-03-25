@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+[
+    {
+        "Thought Patterns Assessment": {
+            "parameters": {
+                "name": {},
+                "questions": {},
+                "answer type": {},
+                "frequency": {},
+                "deadline_date": {}
+            }
+        }
+    },
+    {
+        "Cognitive Distortion Identification": {
+            "parameters": {
+                "name": {},
+                "scenarios": {},
+                "identification": {},
+                "frequency": {},
+                "deadline_date": {}
+            }
+        }
+    }
+]

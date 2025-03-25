@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Physical Activity Encouragement": {
+    "activity_type": {"type": "options"},
+    "frequency": {"type": "options"},
+    "duration": {"type": "time interval"},
+    "reminders": {"type": "options"},
+    "goal_setting": {"type": "text or numerical input"}
+  }
+}

@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Schedule": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Task": {"Type": "text"},
+      "Interval": {"Type": "options", "Options": ["every 12 hours", "every 24 hours", "every 72 hours", "custom"]},
+      "Custom Interval": {"Type": "text"}
+    }
+  }
+}

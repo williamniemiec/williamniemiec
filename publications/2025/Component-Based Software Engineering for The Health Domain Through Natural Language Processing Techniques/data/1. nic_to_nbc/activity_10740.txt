@@ -1,0 +1,36 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Exercise Instruction Guide",
+    "parameters": [
+        {
+            "name": "Name",
+            "type": "text"
+        },
+        {
+            "name": "Muscle Group",
+            "type": "options"
+        },
+        {
+            "name": "Illustrations",
+            "type": "image or video"
+        },
+        {
+            "name": "Written Instructions",
+            "type": "text"
+        },
+        {
+            "name": "Movement Form",
+            "type": "text or video"
+        },
+        {
+            "name": "Tips and Precautions",
+            "type": "text"
+        },
+        {
+            "name": "Downloadable",
+            "type": "boolean"
+        }
+    ]
+}

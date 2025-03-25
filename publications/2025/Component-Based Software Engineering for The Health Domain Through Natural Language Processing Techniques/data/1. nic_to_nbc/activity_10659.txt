@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Tube Placement Check": {
+    "Name": {"Type": "text"},
+    "Protocol": {"Type": "text or multimedia"},
+    "Verification Steps": {"Type": "text or multimedia"},
+    "Frequency": {"Type": "options"},
+    "Alerts and Notifications": {"Type": "boolean"}
+  }
+}

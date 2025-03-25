@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Practice Exercise": {
+    "Parameters": {
+      "Title": {"Type": "text"},
+      "Situation": {"Type": "text"},
+      "Goal": {"Type": "text"},
+      "Instructions": {"Type": "text"},
+      "Evaluation Criteria": {"Type": "list of evaluation criteria"},
+      "Frequency": {"Type": "options"},
+      "Deadline Date": {"Type": "datetime"},
+      "Reflection": {"Type": "text"}
+    }
+  }
+}

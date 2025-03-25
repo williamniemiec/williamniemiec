@@ -1,0 +1,24 @@
+Here is the output JSON:
+
+
+{
+    "name": "Cause Elimination",
+    "parameters": [
+        { 
+            "name": "causes", 
+            "type": "list of causes"
+        },
+        { 
+            "name": "identification", 
+            "type": "list of identification steps"
+        },
+        { 
+            "name": "elimination", 
+            "type": "list of elimination steps"
+        },
+        { 
+            "name": "monitoring", 
+            "type": "list of monitoring steps"
+        }
+    ]
+}

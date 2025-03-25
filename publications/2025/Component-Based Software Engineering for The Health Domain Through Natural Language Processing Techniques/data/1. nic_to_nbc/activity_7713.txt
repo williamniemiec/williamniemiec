@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Supplemental Oxygen Administration": {
+    "parameters": {
+      "Supplemental Oxygen Order": {},
+      "Oxygen Flow Rate": {},
+      "Oxygen Delivery Method": {},
+      "Frequency": {},
+      "Duration": {},
+      "Monitoring": {}
+    }
+  }
+}

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Electrode Application": {
+    "Parameters": {
+      "Electrode Type": {},
+      "Application Instructions": {},
+      "Site Confirmation": {},
+      "Frequency": {},
+      "Deadline Date": {}
+    }
+  }
+}

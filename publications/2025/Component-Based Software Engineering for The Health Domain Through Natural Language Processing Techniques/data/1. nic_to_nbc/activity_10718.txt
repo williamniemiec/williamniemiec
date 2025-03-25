@@ -1,0 +1,46 @@
+Here is the output in JSON format:
+
+
+{
+  "Transducer Calibrator": {
+    "parameters": {
+      "Transducer Information": {
+        "Type": "transducer object",
+        "properties": {
+          "Name": "",
+          "Model": "",
+          "Manufacturer": ""
+        }
+      },
+      "Calibration Method": {
+        "Type": "options"
+      },
+      "Calibration Settings": {
+        "Type": "calibration settings object",
+        "properties": {
+          "Frequency": "",
+          "Gain": "",
+          "Offset": ""
+        }
+      },
+      "Calibration Results": {
+        "Type": "calibration results object",
+        "properties": {
+          "Calibration Status": "",
+          "Calibration Values": ""
+        }
+      },
+      "Healthcare Professional": {
+        "Type": "healthcare professional object",
+        "properties": {
+          "Name": "",
+          "Title": "",
+          "Contact Information": ""
+        }
+      }
+    }
+  }
+}
+
+
+Note that I removed the introduction, conclusion, and other unnecessary elements from the input text. I also reformatted the parameter specifications to fit a JSON structure.

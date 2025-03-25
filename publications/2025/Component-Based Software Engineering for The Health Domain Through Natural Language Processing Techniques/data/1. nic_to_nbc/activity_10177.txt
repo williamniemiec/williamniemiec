@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+{
+  "Financial Management Guide": {
+    "Income": {"type": "unordered list", "required": true, "options": ["Salary", "Investments", "Government benefits", "Other"]},
+    "Expenses": {"type": "unordered list", "required": true, "options": ["Rent/mortgage", "Utilities", "Food", "Transportation", "Insurance", "Debt repayment", "Other"]},
+    "Budget": {"type": "table", "required": true, "columns": ["Category", "Budgeted amount", "Actual spending"]},
+    "Financial Goals": {"type": "text", "required": true, "examples": ["Save for emergency fund", "Pay off debt", "Increase savings"]},
+    "Frequency": {"type": "options", "required": true, "options": ["Monthly", "Quarterly", "Annually"]}
+  }
+}
+
+I removed the unnecessary parts of the text and kept only the `{{ NO-CODE ELEMENT NAME }}` and `{{ PARAMETER ESPECIFICATIONS }}`. I also removed the not applicable parameters (`Reminders` and `Deadline Date`) since they are not required. Let me know if this is what you were looking for!

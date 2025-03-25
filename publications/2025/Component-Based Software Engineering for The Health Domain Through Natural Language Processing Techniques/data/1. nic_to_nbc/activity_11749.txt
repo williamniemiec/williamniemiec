@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+  "Drainage Bag Placement": {
+    "parameters": [
+      {
+        "name": "Drainage Bag Location",
+        "type": "options",
+        "options": ["below bladder level", "at bladder level", "above bladder level"]
+      },
+      {
+        "name": "Placement Instructions",
+        "type": "text"
+      },
+      {
+        "name": "Drainage Bag Type",
+        "type": "options",
+        "options": ["bedside drainage bag", "leg bag"]
+      }
+    ]
+  }
+}

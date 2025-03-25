@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Consent Explanation": {
+    "guide title": {"Description": "Title of the consent explanation guide", "Required": true, "Type": "text"},
+    "purpose": {"Description": "Explanation of the purpose of releasing information", "Required": true, "Type": "text"},
+    "types_of_info": {"Description": "List of types of information that may be released", "Required": true, "Type": "list", "Options": ["Medical records", "Treatment plans", "Test results", "Medication lists"]},
+    "recipients": {"Description": "List of individuals or organizations that may receive the information", "Required": true, "Type": "list", "Options": ["Healthcare providers", "Insurance companies", "Family members", "Researchers"]},
+    "risks_and_benefits": {"Description": "Explanation of the risks and benefits of releasing information", "Required": true, "Type": "text"},
+    "consent_form": {"Description": "Consent form for patients to sign", "Required": true, "Type": "form"}
+  }
+}
+
+
+Let me know if this is what you were looking for!

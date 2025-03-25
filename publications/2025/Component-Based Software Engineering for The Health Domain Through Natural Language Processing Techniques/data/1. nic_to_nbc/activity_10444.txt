@@ -1,0 +1,35 @@
+Here is the output in JSON format:
+
+
+{
+  "ADL Assessment": {
+    "Parameters": {
+      "ADL List": {"Type": "list of ADLs"},
+      "Ability Level": {"Type": "ability level"}
+    }
+  },
+  "Goal Setting": {
+    "Parameters": {
+      "Goal List": {"Type": "list of goals"},
+      "Target Date": {"Type": "date"}
+    }
+  },
+  "Task List": {
+    "Parameters": {
+      "Task List": {"Type": "list of tasks and exercises"},
+      "Frequency": {"Type": "frequency"}
+    }
+  },
+  "Progress Tracking": {
+    "Parameters": {
+      "Progress Log": {"Type": "progress log"},
+      "Graphical Representation": {"Type": "graphical representation"}
+    }
+  },
+  "Motivational Messages": {
+    "Parameters": {
+      "Message List": {"Type": "list of messages"},
+      "Trigger": {"Type": "trigger event"}
+    }
+  }
+}

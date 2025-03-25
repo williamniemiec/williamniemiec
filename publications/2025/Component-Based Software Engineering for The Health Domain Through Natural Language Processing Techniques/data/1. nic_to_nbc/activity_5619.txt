@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Knowledge Assessment": {
+    "Parameters": {
+      "Medication Name": {"Type": "text"},
+      "Medication Purpose": {"Type": "text"},
+      "Administration Method": {"Type": "options"},
+      "Dosage Instructions": {"Type": "text"},
+      "Potential Side Effects": {"Type": "unordered list (text)"},
+      "Questions or Concerns": {"Type": "text"}
+    }
+  }
+}
+
+
+Let me know if you need anything else!

@@ -1,0 +1,9 @@
+Here is the output in JSON format:
+
+
+{
+"NO-CODE ELEMENT NAME": "Activity Engagement",
+"PARAMETER ESPECIFICATIONS": {
+    "activity_list": "A list of activities that require attention or skill (e.g., puzzles, games, crafts, reading)"
+}
+}

@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+    "Journal": {
+        "name": "",
+        "content": "",
+        "frequency": "",
+        "deadline_date": ""
+    },
+    "Rating Scale": {
+        "name": "",
+        "question": "",
+        "scale": "",
+        "frequency": "",
+        "deadline_date": ""
+    },
+    "Survey": {
+        "name": "",
+        "questions": [],
+        "frequency": "",
+        "deadline_date": ""
+    }
+}
+
+
+Let me know if you'd like me to make any adjustments!

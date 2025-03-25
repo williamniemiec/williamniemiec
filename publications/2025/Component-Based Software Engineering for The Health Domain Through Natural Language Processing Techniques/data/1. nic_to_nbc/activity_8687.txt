@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Reinforcer Selection",
+    "parameters": [
+        {
+            "name": "Reinforcer Options"
+        },
+        {
+            "name": "Selection Type"
+        },
+        {
+            "name": "Significance Criteria"
+        },
+        {
+            "name": "Frequency"
+        }
+    ]
+}
+
+
+I removed the `Deadline Date` parameter as it is not applicable (i.e., its `required` field is set to `false`). Let me know if you have any further questions!

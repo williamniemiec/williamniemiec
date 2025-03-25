@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+"Coping Strategy": {
+    "Parameters": {
+        "Name": {},
+        "Description": {},
+        "Instructions": {},
+        "Frequency": {},
+        "Resources": {}
+    }
+}
+}

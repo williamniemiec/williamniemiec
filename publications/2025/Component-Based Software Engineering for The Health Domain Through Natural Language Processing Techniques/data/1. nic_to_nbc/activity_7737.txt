@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+    "Artwork Selection": {
+        "artwork_type": {"type": "options", "options": ["landscapes", "scenery", "familiar images", "etc."]},
+        "image_library": {"type": "list", "description": "A list of images, e.g., \"beach scene\", \"mountain landscape\", \"cityscape\", etc."},
+        "patient_preferences": {"type": "list", "description": "A list of patient preferences, e.g., \"calming colors\", \"nature scenes\", \"urban landscapes\", etc."},
+        "artwork_recommendations": {"type": "list", "description": "A list of artwork recommendations, e.g., \"a serene beach scene\", \"a mountain landscape with a lake\", \"a cityscape at sunset\", etc."}
+    }
+}

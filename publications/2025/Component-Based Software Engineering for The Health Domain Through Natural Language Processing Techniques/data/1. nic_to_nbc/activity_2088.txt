@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+  "Activity Selection": {
+    "cognitive_level": {
+      "type": "options",
+      "options": ["simple", "moderate", "complex"]
+    },
+    "interests": {
+      "type": "list",
+      "description": "A list of interests, e.g., \"art\", \"music\", \"reading\", \"games\", etc."
+    },
+    "activity_type": {
+      "type": "options",
+      "options": ["one-to-one", "group"]
+    },
+    "activity_recommendations": {
+      "type": "list",
+      "description": "A list of activity recommendations, e.g., \"one-to-one art therapy\", \"group reading session\", \"individual puzzle activity\", etc."
+    }
+  }
+}

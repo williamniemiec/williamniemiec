@@ -1,0 +1,14 @@
+
+
+
+{
+  "Environmental Stimulation Tracker": {
+    "parameters": [
+      {"name": "Stimulation Type"},
+      {"name": "Level"},
+      {"name": "Frequency"},
+      {"name": "Deadline Date"},
+      {"name": "Notes"}
+    ]
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Tourniquet and Cuff Application",
+  "description": "Covers the application and deflation of tourniquets and cuffs, focusing on physician protocols, vessel dilation, and related policies for proper use.",
+  "type": "non-periodic",
+  "input": ["Tourniquet application", "Cuff inflation/deflation", "Vessel dilation", "Physician protocols", "Policy guidelines"],
+  "output": ["Tourniquet usage report", "Cuff application feedback", "Dilation status guide"],
+  "preconditions": ["User is applying or managing tourniquets and cuffs"],
+  "postconditions": ["Proper application and management of tourniquets and cuffs"],
+  "dependencies": ["Medical equipment tools", "Physician training materials", "Policy management system"]
+}

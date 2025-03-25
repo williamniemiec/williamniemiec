@@ -1,0 +1,13 @@
+
+
+
+{
+  "Swallowing Ability": {
+    "Parameters": {
+      "Swallowing Ability": {"Description": "Assess swallowing ability", "Required": true, "Type": "options", "Options": [{"value": "normal", "label": "Normal"}, {"value": "difficult", "label": "Difficult"}, {"value": "impaired", "label": "Impaired"}]},
+      "Frequency": {"Description": "Specify how often to monitor swallowing ability", "Required": true, "Type": "options", "Options": [{"value": "daily", "label": "Daily"}, {"value": "everyOtherDay", "label": "Every other day"}, {"value": "weekly", "label": "Weekly"}, {"value": "custom", "label": "Custom (please specify)"}]},
+      "Custom Frequency": {"Description": "Enter custom frequency", "Required": false, "Type": "text"},
+      "Notes": {"Description": "Add notes about swallowing ability", "Required": false, "Type": "text"}
+    }
+  }
+}

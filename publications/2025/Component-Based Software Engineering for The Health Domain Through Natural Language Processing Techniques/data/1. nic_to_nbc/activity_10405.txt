@@ -1,0 +1,39 @@
+Here is the output in JSON format:
+
+
+{
+  "Symptom Checker": {
+    "parameters": {
+      "Symptoms": ["Wheezing", "Hemoptysis", "Pain with inspiration", "Chest pain", "Shoulder pain", "Back pain", "Pleuritic pain", "Dyspnea", "Tachypnea", "Tachycardia", "Syncope"],
+      "Frequency": "",
+      "Deadline Date": ""
+    }
+  },
+  "Wheezing Checker": {
+    "parameters": {
+      "frequency": "",
+      "deadline_date": ""
+    }
+  },
+  "Hemoptysis Checker": {
+    "parameters": {
+      "frequency": "",
+      "deadline_date": ""
+    }
+  },
+  "Pain Checker": {
+    "parameters": {
+      "frequency": "",
+      "deadline_date": ""
+    }
+  },
+  "Respiratory Symptom Checker": {
+    "parameters": {
+      "frequency": "",
+      "deadline_date": ""
+    }
+  }
+}
+
+
+Let me know if you'd like me to make any adjustments!

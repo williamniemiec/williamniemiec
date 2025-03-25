@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Behavior Goal Setting": {
+    "Parameters": {
+      "Behavior Goals": {"Type": "unordered list"},
+      "Goal Description": {"Type": "text"},
+      "Target Date": {"Type": "date"},
+      "Progress Tracking": {"Type": "checkbox or toggle"},
+      "Reminders": {"Type": "options"}
+    }
+  }
+}

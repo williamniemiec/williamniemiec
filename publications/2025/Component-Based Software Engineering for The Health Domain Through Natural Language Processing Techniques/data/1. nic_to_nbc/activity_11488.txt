@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Exercise Program": {
+    "Parameters": {
+      "Exercise Program Title": {},
+      "Content": {},
+      "Frequency": {},
+      "Supervisor": {}
+    }
+  }
+}

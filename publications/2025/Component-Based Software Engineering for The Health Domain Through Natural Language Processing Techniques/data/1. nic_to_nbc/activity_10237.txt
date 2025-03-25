@@ -1,0 +1,14 @@
+
+
+
+{
+  "Emotional Expression": {
+    "Parameters": {
+      "Emotional Awareness": {"Type": "options", "Options": ["anxious", "angry", "sad", "frustrated", "other"]},
+      "Expression Method": {"Type": "options", "Options": ["verbalization", "writing", "drawing", "talkingToStaff", "other"]},
+      "Appropriate Expression": {"Type": "text"},
+      "Emotional Support": {"Type": "options", "Options": ["activeListening", "empathy", "validation", "problemSolving", "other"]},
+      "Frequency of Encouragement": {"Type": "options", "Options": ["daily", "weekly", "monthly"]}
+    }
+  }
+}

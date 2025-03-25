@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "TENS Prescription Request": {
+    "Parameters": {
+      "Provider Selection": {},
+      "TENS Request": {},
+      "Prescription Status": {}
+    }
+  }
+}

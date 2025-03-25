@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Emergency Services Connection": {
+    "Parameters": {
+      "Emergency Service": {"Type": "options"},
+      "Organization Protocol": {"Type": "text"},
+      "Call Connection": {"Type": "telephony integration"},
+      "Audio Prompt": {"Type": "audio file"}
+    }
+  }
+}
+
+
+Note: I removed the `Output` parameter as it seems to be a result of the no-code element rather than an input parameter. Let me know if this is incorrect!

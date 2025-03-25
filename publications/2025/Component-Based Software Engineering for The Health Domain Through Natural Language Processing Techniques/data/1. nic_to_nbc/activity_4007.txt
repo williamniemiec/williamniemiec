@@ -1,0 +1,52 @@
+Here is the output in JSON format:
+
+
+{
+  "Weight Monitoring": {
+    "Parameters": {
+      "Weight Monitoring Title": {
+        "Description": "Title of the weight monitoring activity",
+        "Required": true,
+        "Type": "text"
+      },
+      "Weight Measurements": {
+        "Description": "List of weight measurements taken on a routine basis",
+        "Required": true,
+        "Type": "weight-measurements",
+        "Weight-measurements": [
+          {
+            "date": "Date of weight measurement",
+            "value": "Weight value"
+          },
+          {
+            "date": "Date of weight measurement",
+            "value": "Weight value"
+          }
+        ]
+      },
+      "Frequency": {
+        "Description": "Specify how often the patient's weight should be monitored",
+        "Required": true,
+        "Type": "options",
+        "Options": [
+          { "value": "daily", "label": "Daily" },
+          { "value": "weekly", "label": "Weekly" },
+          { "value": "biweekly", "label": "Biweekly" },
+          { "value": "monthly", "label": "Monthly" }
+        ]
+      },
+      "Target Weight Range": {
+        "Description": "Specify the target weight range for the patient",
+        "Required": true,
+        "Type": "weight-range",
+        "Weight-range": {
+          "min": "Minimum weight value",
+          "max": "Maximum weight value"
+        }
+      }
+    }
+  }
+}
+
+
+Note that I removed the "Alerts" parameter since it was not required. Let me know if you need anything else!

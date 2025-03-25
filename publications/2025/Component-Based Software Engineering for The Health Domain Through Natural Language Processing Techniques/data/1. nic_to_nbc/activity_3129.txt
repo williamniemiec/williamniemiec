@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "Documentation": {
+    "Parameters": {
+      "Document Type": {
+        "Type": "options"
+      },
+      "Content": {
+        "Type": "text"
+      },
+      "Date": {
+        "Type": "datetime"
+      },
+      "Institutional Policy": {
+        "Type": "text"
+      },
+      "Regulatory Requirements": {
+        "Type": "text"
+      }
+    }
+  }
+}

@@ -1,0 +1,32 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "avatar",
+  "parameters": [
+    {
+      "name": "posture",
+      "options": [
+        { "value": "uncrossedArms" },
+        { "value": "uncrossedLegs" },
+        { "value": "relaxedShoulders" }
+      ]
+    },
+    {
+      "name": "expression",
+      "options": [
+        { "value": "neutral" },
+        { "value": "smiling" },
+        { "value": "empathetic" }
+      ]
+    },
+    {
+      "name": "frequency",
+      "options": [
+        { "value": "always" },
+        { "value": "occasionally" },
+        { "value": "onlyWhenNeeded" }
+      ]
+    }
+  ]
+}

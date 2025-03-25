@@ -1,0 +1,39 @@
+{
+  "name": "Fluid Control",
+  "description": "Monitors fluid intake, output, and administration to maintain proper hydration balance, ensuring accurate tracking and dosage management.",
+  "type": "periodic",
+  "input": [
+    "Fluid intake amount",
+    "Fluid output amount",
+    "Unit of measurement (oz, ml)",
+    "Fluid administration",
+    "Volume control",
+    "Expander use",
+    "Thickening dosage",
+    "Reservoir management"
+  ],
+  "output": [
+    "Fluid balance report",
+    "Intake and output summary",
+    "Balance assessment",
+    "Fluid volume report",
+    "Expander usage feedback",
+    "Dosage confirmation"
+  ],
+  "preconditions": [
+    "User records fluid intake and output",
+    "User administers or monitors fluid levels and dosage"
+  ],
+  "postconditions": [
+    "Fluid balance is tracked, and necessary adjustments are made",
+    "Proper hydration and dosage control are maintained"
+  ],
+  "dependencies": [
+    "Fluid tracking system",
+    "Measurement tools",
+    "Balance monitoring platform",
+    "Fluid administration system",
+    "Expander tools",
+    "Dosage management system"
+  ]
+}

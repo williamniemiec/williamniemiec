@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+    "Medication Administration": {
+        "Parameters": {
+            "Medication Name": {"Type": "text"},
+            "Indication": {"Options": ["anxiety", "agitation", "others"]},
+            "Dosage": {"Type": "text"},
+            "Frequency": {"Options": ["as needed", "every 4 hours", "every 6 hours", "others"]},
+            "Maximum Dose": {"Type": "text"},
+            "Notes": {"Type": "text"}
+        }
+    }
+}

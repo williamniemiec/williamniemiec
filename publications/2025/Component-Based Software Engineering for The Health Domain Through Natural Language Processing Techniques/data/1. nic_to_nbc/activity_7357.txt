@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Behavioral Insights": {
+    "Parameters": {
+      "Behavioral Characteristic": {"Type": "options"},
+      "Identification Tool": {"Type": "interactive quiz, simulation, or game"},
+      "Explanation": {"Type": "text or multimedia"},
+      "Tips and Resources": {"Type": "list of resources"},
+      "Personalized Feedback": {"Type": "text or multimedia"}
+    }
+  }
+}

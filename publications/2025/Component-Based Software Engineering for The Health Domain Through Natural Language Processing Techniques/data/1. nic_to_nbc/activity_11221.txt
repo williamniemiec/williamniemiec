@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Cuffed ET Consideration": {
+    "Task Title": {},
+    "Instructions": {},
+    "ET Type": {},
+    "Suctioning Type": {},
+    "Deadline Date": {}
+  }
+}

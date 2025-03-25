@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Toileting Interval Adjustment": {
+    "Incontinence Threshold": {},
+    "Custom Threshold": {},
+    "Interval Adjustment": {},
+    "Custom Adjustment": {},
+    "Time Frame": {},
+    "Custom Time Frame": {}
+  }
+}

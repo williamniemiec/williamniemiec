@@ -1,0 +1,32 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "infusion_stop_instruction",
+    "parameters": [
+        { 
+            "name": "infusion_type", 
+            "description": "specify the type of intravenous infusion to stop"
+        },
+        { 
+            "name": "reason", 
+            "description": "explain why the infusion needs to be stopped"
+        },
+        { 
+            "name": "duration", 
+            "description": "specify the duration for which the infusion should be stopped"
+        },
+        { 
+            "name": "custom_duration", 
+            "description": "specify a custom duration"
+        },
+        { 
+            "name": "frequency", 
+            "description": "specify how often to remind the patient to stop the infusion"
+        },
+        { 
+            "name": "deadline_date", 
+            "description": "specify the due date for stopping the infusion"
+        }
+    ]
+}

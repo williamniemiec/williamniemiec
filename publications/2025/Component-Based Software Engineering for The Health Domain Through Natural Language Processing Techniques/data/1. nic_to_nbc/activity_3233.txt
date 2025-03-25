@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Parental Guidance Resource": {
+    "Parameters": {
+      "Title": {"Type": "text"},
+      "Content": {"Type": "educational content (e.g., HTML, JSON)"},
+      "Age Ranges": {"Type": "list of age ranges (e.g., text)"},
+      "Topic Areas": {"Type": "list of topic areas (e.g., text)"},
+      "Tips and Strategies": {"Type": "list of tips and strategies (e.g., text)"},
+      "Resources": {"Type": "list of resources (e.g., text)"},
+      "Frequency": {"Options": ["daily", "onlyOnce", "everyDays"]},
+      "Deadline Date": {"Type": "datetime"}
+    }
+  }
+}

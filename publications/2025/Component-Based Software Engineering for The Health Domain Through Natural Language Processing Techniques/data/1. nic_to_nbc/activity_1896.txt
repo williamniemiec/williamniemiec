@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Skin Integrity Tracker": {
+    "Name": {"Type": "text"},
+    "Skin Assessment": {"Type": "text or selection"},
+    "Frequency": {"Options": ["daily", "weekly", "monthly"]},
+    "Reminders": {"Type": "boolean or frequency"},
+    "Customization": {"Type": "boolean or conditional logic"}
+  }
+}

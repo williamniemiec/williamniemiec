@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+    "Denture Care Guide": {
+        "Parameters": {
+            "Denture Care Instructions": {
+                "Type": "text",
+                "Description": "Enter the instructions for denture care (e.g., \"Rinse your dentures with water after meals\", \"Soak your dentures in a denture cleaner for 15 minutes\", etc.)"
+            },
+            "Denture Cleaning Schedule": {
+                "Type": "options",
+                "Options": ["Daily", "Weekly", "Monthly"],
+                "Description": "Select how often you want to clean your dentures"
+            },
+            "Denture Care Tips": {
+                "Type": "list",
+                "Description": "Enter additional tips for denture care (e.g., \"Avoid using abrasive cleaners\", \"Handle your dentures with care\", etc.)"
+            },
+            "Denture Care Reminders": {
+                "Type": "boolean",
+                "Description": "Do you want to receive reminders for denture care?"
+            }
+        }
+    }
+}

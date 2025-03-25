@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "select media and method",
+    "parameters": [
+        { 
+            "name": "mediaOptions", 
+            "type": "checklist"
+        },
+        { 
+            "name": "methodOptions", 
+            "type": "checklist"
+        },
+        { 
+            "name": "customOption", 
+            "type": "text"
+        },
+        { 
+            "name": "frequency", 
+            "type": "options"
+        }
+    ]
+}
+
+
+Note that I removed the `deadline_date` parameter as it is optional and not applicable in this case.

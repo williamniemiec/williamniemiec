@@ -1,0 +1,37 @@
+Here is the output in JSON format:
+
+
+{
+  "Stress Monitoring": {
+    "Parameters": {
+      "Name": {
+        "Type": "text"
+      },
+      "Stress Indicators": {
+        "Type": "list of stress indicators",
+        "Each indicator can have": {
+          "Name": "",
+          "Description": ""
+        }
+      },
+      "Assessment Questions": {
+        "Type": "list of assessment questions",
+        "Each question can have": {
+          "Text": "",
+          "Type": "",
+          "Options": []
+        }
+      },
+      "Frequency": {
+        "Type": "options",
+        "Options": ["daily", "weekly", "monthly"]
+      },
+      "Threshold": {
+        "Type": "number"
+      }
+    }
+  }
+}
+
+
+Note that I removed the not applicable parameters and only kept the `{{ NO-CODE ELEMENT NAME }}` and `{{ PARAMETER ESPECIFICATIONS }}`.

@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Developmental Milestones Guide": {
+    "Milestone Category": {},
+    "Milestone Description": {},
+    "Associated Behaviors": {}
+  },
+  "Interactive Quiz": {
+    "Quiz Questions": {},
+    "Correct Answers": {}
+  },
+  "Caregiver Reflection": {
+    "Reflection Prompt": {},
+    "Reflection Response": {}
+  }
+}

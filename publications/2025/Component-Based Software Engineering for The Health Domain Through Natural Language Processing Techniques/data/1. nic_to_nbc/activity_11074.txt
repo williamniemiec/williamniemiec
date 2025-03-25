@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+    "Discharge Plan": {
+        "name": "title or name of the discharge plan",
+        "plan description": "text describing the discharge plan",
+        "tasks": "list of tasks the patient needs to complete before discharge",
+        "medications": "list of medications the patient needs to take after discharge",
+        "follow-up": "information about follow-up appointments or care"
+    },
+    "Care Instructions": {
+        "name": "title or name of the care instructions",
+        "instructions": "text describing the care instructions",
+        "frequency": "specifies how often the patient should follow the instructions",
+        "deadline_date": "specifies the due date for completing the instructions"
+    },
+    "Medication List": {
+        "name": "title or name of the medication list",
+        "medications": "list of medications with dosage and frequency information",
+        "reminders": "specifies how often the patient should be reminded to take their medications"
+    },
+    "Follow-up Appointment": {
+        "name": "title or name of the follow-up appointment",
+        "appointment date": "specifies the date and time of the follow-up appointment",
+        "appointment type": "specifies the type of follow-up appointment (e.g., doctor's visit, lab test, etc.)"
+    }
+}

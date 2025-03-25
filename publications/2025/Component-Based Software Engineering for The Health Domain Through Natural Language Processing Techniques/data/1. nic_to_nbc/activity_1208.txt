@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Home Repair Referral": {
+    "Repair Type": {"type": "options"},
+    "Service Options": {"type": "list of text or HTML content"},
+    "Contact Information": {"type": "list of text or HTML content"},
+    "Urgency Level": {"type": "options"},
+    "Additional Resources": {"type": "list of text or HTML content"}
+  }
+}

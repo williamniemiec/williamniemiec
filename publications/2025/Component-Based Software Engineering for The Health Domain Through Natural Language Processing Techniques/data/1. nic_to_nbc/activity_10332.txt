@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+    "Self-Assessment": {
+        "Name": {"type": "text"},
+        "Instructions": {"type": "text"},
+        "Assessment Questions": {"type": "form"},
+        "Frequency": {"type": "options"},
+        "Deadline Date": {"type": "datetime"}
+    },
+    "Photo": {
+        "Name": {"type": "text"},
+        "Instructions": {"type": "text"},
+        "Frequency": {"type": "options"},
+        "Deadline Date": {"type": "datetime"}
+    }
+}

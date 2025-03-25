@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Activity Plan": {
+    "Current Activity Level": {"type": "options"},
+    "Target Activity Level": {"type": "options"},
+    "Activity Type": {"type": "options"},
+    "Duration": {"type": "time"},
+    "Frequency": {"type": "options"},
+    "Rest Periods": {"type": "time"},
+    "Progress Tracking": {"type": "boolean"},
+    "Goal Setting": {"type": "text"}
+  }
+}
+
+
+I removed the introduction, conclusion, and unnecessary parameters, leaving only the no-code element name ("Activity Plan") and its corresponding parameter specifications. Let me know if this meets your requirements!

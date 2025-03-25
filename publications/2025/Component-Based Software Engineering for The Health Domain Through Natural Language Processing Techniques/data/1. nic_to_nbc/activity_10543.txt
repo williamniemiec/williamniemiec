@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Family Integration Guidance": {
+    "Guidance": {"Type": "text"},
+    "Tips": {"Type": "text"},
+    "Family Activities": {"Type": "list"},
+    "Boundary Setting": {"Type": "text"}
+  }
+}

@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Posture Guidance": {
+    "Instructions": {"type": "text"},
+    "Reminders": {"type": ["boolean", "scheduling interface"]},
+    "Frequency": {"type": ["daily", "every 2 hours", "as needed"]}
+  },
+  "Task": {
+    "Task": {"type": "text"},
+    "Frequency": {"type": ["daily", "every 2 hours", "as needed"]],
+    "Deadline Date": {"type": "datetime"}
+  }
+}

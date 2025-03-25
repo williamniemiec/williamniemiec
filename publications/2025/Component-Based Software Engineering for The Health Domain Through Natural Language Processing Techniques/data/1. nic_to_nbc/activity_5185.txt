@@ -1,0 +1,14 @@
+
+
+
+{
+  "Equipment Assembly": {
+    "Procedure": {"type": "text"},
+    "Equipment List": {"type": "checklist", "items": []},
+    "Assembly Steps": {"type": "ordered list", "items": []},
+    "Verification Status": {"type": "boolean", "options": ["yes/no", "assembled/not assembled"]}
+  }
+}
+
+
+Let me know if this is what you were expecting!

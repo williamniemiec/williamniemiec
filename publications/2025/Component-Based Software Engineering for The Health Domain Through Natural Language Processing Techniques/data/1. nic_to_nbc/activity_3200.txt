@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "CO2 Monitoring": {
+    "Parameters": {
+      "Title": {"Type": "text"},
+      "Description": {"Type": "text"},
+      "CO2 Measurement": {"Type": "text"},
+      "Target Range": {"Type": "range"},
+      "Frequency": {"Type": "options", "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Alert Threshold": {"Type": "number"},
+      "Notification": {"Type": "text"}
+    }
+  }
+}

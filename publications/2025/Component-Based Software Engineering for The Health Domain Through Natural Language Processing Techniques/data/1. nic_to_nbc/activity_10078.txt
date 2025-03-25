@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Denture Check": {
+    "parameters": {
+      "Denture Fit Questions": {"type": "options"},
+      "Instructions": {"type": "text"},
+      "Frequency": {"type": "options", "values": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"type": "datetime"},
+      "Denture Adjustment": {"type": "boolean"}
+    }
+  }
+}
+
+
+Note that I removed the "Not Applicable" parameters, as per your request. Let me know if you need any further assistance!

@@ -1,0 +1,30 @@
+
+
+
+{
+  "name": "Check-in",
+  "parameters": [
+    {
+      "name": "Scheduled Time",
+      "type": "datetime"
+    },
+    {
+      "name": "Reminder",
+      "type": "boolean"
+    },
+    {
+      "name": "Message",
+      "type": "text"
+    },
+    {
+      "name": "Frequency",
+      "type": "options",
+      "options": [
+        { "value": "daily" },
+        { "value": "weekly" },
+        { "value": "biweekly" },
+        { "value": "monthly" }
+      ]
+    }
+  ]
+}

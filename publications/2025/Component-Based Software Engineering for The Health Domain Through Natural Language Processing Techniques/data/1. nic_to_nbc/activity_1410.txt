@@ -1,0 +1,41 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Nutritional Status Monitoring",
+    "parameters": [
+        {
+            "name": "Name",
+            "type": "text"
+        },
+        {
+            "name": "Instructions",
+            "type": "text"
+        },
+        {
+            "name": "Frequency",
+            "type": "options",
+            "options": [
+                { "value": "daily" },
+                { "value": "onlyOnce" },
+                { "value": "everyHours" },
+                { "value": "everyDays" }
+            ]
+        },
+        {
+            "name": "Deadline Date",
+            "type": "datetime"
+        },
+        {
+            "name": "Nutritional Status Parameters",
+            "type": "list of parameters",
+            "parameters": [
+                {
+                    "name": "Name",
+                    "unit": "",
+                    "target_value": ""
+                }
+            ]
+        }
+    ]
+}

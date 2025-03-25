@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+  "Progress Tracker": {
+    "name": "",
+    "goal description": "",
+    "progress type": "",
+    "frequency": "",
+    "deadline_date": ""
+  },
+  "Goal Review": {
+    "name": "",
+    "question": "",
+    "answer type": "",
+    "frequency": "",
+    "deadline_date": ""
+  },
+  "Milestone Tracker": {
+    "name": "",
+    "milestone description": "",
+    "achievement type": "",
+    "frequency": "",
+    "deadline_date": ""
+  }
+}

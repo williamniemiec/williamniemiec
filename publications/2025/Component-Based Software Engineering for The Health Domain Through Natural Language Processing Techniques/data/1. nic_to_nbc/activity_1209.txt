@@ -1,0 +1,15 @@
+
+
+
+{
+    "Exacerbation Management Plan": {
+        "Parameters": {
+            "Exacerbation Triggers": {},
+            "Early Warning Signs": {},
+            "Action Plan": {},
+            "Emergency Contact": {},
+            "Review Frequency": ["daily", "onlyOnce", "everyHours", "everyDays"],
+            "Deadline Date": {}
+        }
+    }
+}

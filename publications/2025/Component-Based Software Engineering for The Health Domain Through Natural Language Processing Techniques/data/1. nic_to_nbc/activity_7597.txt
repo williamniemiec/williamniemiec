@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Follow-up Assessment": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Description": {"Type": "text"},
+      "Date and Time": {"Type": "datetime"},
+      "Assessment Questions": {"Type": "list of questions"},
+      "Response Type": {"Type": "options"}
+    }
+  }
+}

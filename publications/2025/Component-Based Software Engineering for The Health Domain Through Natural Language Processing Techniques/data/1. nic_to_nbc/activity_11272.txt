@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Preferred Foods and Drinks": {
+    "parameters": [
+      {"name": "Name", "type": "text"},
+      {"name": "Foods and Drinks", "type": "unordered list", "items": [{"label": "", "value": ""}]},
+      {"name": "Instructions", "type": "text"},
+      {"name": "Frequency", "type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      {"name": "Deadline Date", "type": "datetime"}
+    ]
+  }
+}

@@ -1,0 +1,4 @@
+Since there are no `PARAMETER ESPECIFICATIONS` and `NO-CODE ELEMENT NAME` in the input text, the output will be an empty JSON object:
+
+{}
+Please note that if you provide a different input text with `PARAMETER ESPECIFICATIONS` and `NO-CODE ELEMENT NAME`, I can help you extract those parts.

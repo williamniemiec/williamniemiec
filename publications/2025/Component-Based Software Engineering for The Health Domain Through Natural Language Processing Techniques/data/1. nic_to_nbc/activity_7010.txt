@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+
+{
+  "Body Image Reflection": {
+    "parameters": {
+      "Body Image Changes": {"type": "text"},
+      "Emotional Response": {"type": "text or emoji-based sentiment scale"},
+      "Coping Mechanisms": {"type": "list"},
+      "Challenges": {"type": "text"},
+      "Goals": {"type": "text"}
+    }
+  }
+}

@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+  "Spiritual Support": {
+    "Resources": {
+      "type": "unordered list"
+    },
+    "Contact Information": {
+      "type": "text"
+    },
+    "Frequency": {
+      "options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+    },
+    "Deadline Date": {
+      "type": "datetime"
+    },
+    "Personalized Message": {
+      "type": "text"
+    }
+  }
+}

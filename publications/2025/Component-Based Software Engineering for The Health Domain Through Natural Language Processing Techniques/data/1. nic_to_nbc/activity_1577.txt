@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "parameters": {
+    "Meal Plan Template": {"type": ["PDF", "interactive table"]},
+    "Dietary Needs": {"type": ["options", "text"]},
+    "Meal Plan Duration": {"type": ["options", "text"]},
+    "Meal Plan Content": {"type": ["text", "interactive elements"]},
+    "Customization Options": {"type": ["options", "interactive elements"]}
+  },
+  "no-code element name": "Personalized Meal Plan"
+}

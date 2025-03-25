@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Administration": {
+    "Parameters": {
+      "Medication List": {"Type": "unordered list"},
+      "Medication Instructions": {"Type": "text"},
+      "Dosage Reminders": {"Type": "notification"},
+      "Medication Schedule": {"Type": "calendar"},
+      "Medication Tracking": {"Type": "log"},
+      "Side Effect Reporting": {"Type": "form"},
+      "Frequency": {"Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"Type": "datetime"}
+    }
+  }
+}

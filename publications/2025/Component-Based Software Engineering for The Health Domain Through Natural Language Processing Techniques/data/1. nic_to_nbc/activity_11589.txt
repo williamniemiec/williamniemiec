@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Activity Level Assessment": {
+    "Activity Categories": {"Type": "list"},
+    "Activity Examples": {"Type": "list"},
+    "Current Ability": {"Type": "options", "Options": ["independent", "needs assistance", "unable to perform"]},
+    "Desired Ability": {"Type": "options", "Options": ["independent", "needs assistance", "unable to perform"]},
+    "Deficit Identification": {"Type": "boolean"},
+    "Notes": {"Type": "text"}
+  }
+}

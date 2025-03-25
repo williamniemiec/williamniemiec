@@ -1,0 +1,10 @@
+Here is the output in JSON format:
+
+
+{
+    "Alkaline Substance Administration Avoidance": {
+        "Substances to Avoid": ["IV sodium bicarbonate", "PO antacids", "NG antacids", "other"],
+        "Administration Routes to Avoid": ["IV", "PO", "NG", "other"],
+        "Additional Instructions": "text"
+    }
+}

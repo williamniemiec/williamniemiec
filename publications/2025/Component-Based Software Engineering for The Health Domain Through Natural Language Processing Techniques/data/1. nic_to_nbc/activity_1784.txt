@@ -1,0 +1,31 @@
+Here is the output in JSON format:
+
+
+{
+  "Exercise Response Monitoring": {
+    "Emotional Response": {
+      "Description": "How do you feel emotionally after exercising?",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "anxious", "label": "Anxious" },
+        { "value": "sad", "label": "Sad" },
+        { "value": "neutral", "label": "Neutral" },
+        { "value": "happy", "label": "Happy" },
+        { "value": "energized", "label": "Energized" }
+      ]
+    },
+    "Cardiovascular Response": {
+      "Description": "How does your heart rate and blood pressure respond to exercise?",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "increasedHR", "label": "Increased Heart Rate" },
+        { "value": "decreasedHR", "label": "Decreased Heart Rate" },
+        { "value": "increasedBP", "label": "Increased Blood Pressure" },
+        { "value": "decreasedBP", "label": "Decreased Blood Pressure" },
+        { "value": "noChange", "label": "No Change" }
+      ]
+    }
+  }
+}

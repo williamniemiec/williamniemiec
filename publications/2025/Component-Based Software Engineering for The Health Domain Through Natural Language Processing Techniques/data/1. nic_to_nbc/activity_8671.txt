@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Goal Breakdown": {
+    "parameters": {
+      "Complex Goal": {"type": "text"},
+      "Step": {"type": "text"},
+      "Step List": {"type": "list of text"},
+      "Step Priority": {"type": "options", "options": ["high", "medium", "low"]},
+      "Step Deadline": {"type": "datetime"},
+      "Guiding Questions": {"type": "list of text"}
+    }
+  }
+}

@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+  "Traffic Control": {
+    "parameters": [
+      {
+        "name": "traffic_limit",
+        "description": "maximum number of people allowed in the area"
+      },
+      {
+        "name": "access_control_type",
+        "description": "type of access control"
+      },
+      {
+        "name": "traffic_monitoring_frequency",
+        "description": "how often to monitor traffic"
+      },
+      {
+        "name": "alert_threshold",
+        "description": "traffic threshold for alerting"
+      }
+    ]
+  }
+}
+
+
+Let me know if this is what you were expecting!

@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Deep Breathing Exercise": {
+    "parameters": {
+      "name": {"type": "text"},
+      "instructions": {"type": "text"},
+      "breathing_pattern": {"type": "text"},
+      "duration": {"type": "number"},
+      "frequency": {"type": "options"}
+    }
+  }
+}
+
+
+Note: I removed the `deadline_date` parameter as it's not applicable in this context.

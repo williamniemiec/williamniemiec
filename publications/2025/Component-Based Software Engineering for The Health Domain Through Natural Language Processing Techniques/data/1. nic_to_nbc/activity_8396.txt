@@ -1,0 +1,43 @@
+Here is the output in JSON format:
+
+
+{
+    "Muscle Tightening Exercise": {
+        "parameters": [
+            {
+                "name": "Name",
+                "type": "text"
+            },
+            {
+                "name": "Instructions",
+                "type": "text"
+            },
+            {
+                "name": "Contraction Goal",
+                "type": "number"
+            },
+            {
+                "name": "Contraction Duration",
+                "type": "number"
+            },
+            {
+                "name": "Rest Duration",
+                "type": "number"
+            },
+            {
+                "name": "Frequency",
+                "type": "options",
+                "options": [
+                    { "value": "daily" },
+                    { "value": "onlyOnce" },
+                    { "value": "everyHours" },
+                    { "value": "everyDays" }
+                ]
+            },
+            {
+                "name": "Deadline Date",
+                "type": "datetime"
+            }
+        ]
+    }
+}

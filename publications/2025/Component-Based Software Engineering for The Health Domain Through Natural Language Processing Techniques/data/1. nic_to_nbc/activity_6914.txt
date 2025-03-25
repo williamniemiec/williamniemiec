@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+  "Parameter Specifications": {
+    "Condition": {
+      "Description": "conditions that must be met before considering ear irrigation",
+      "Required": true,
+      "Type": "list of text"
+    },
+    "Action": {
+      "Description": "action to take if the conditions are met",
+      "Required": true,
+      "Type": "text"
+    },
+    "Rationale": {
+      "Description": "brief explanation of why ear irrigation may be necessary",
+      "Required": true,
+      "Type": "text"
+    }
+  },
+  "No-Code Element Name": "Conditional Action"
+}
+
+
+Note that I removed the `Precautions` parameter since it was marked as not required (`Required: false`).

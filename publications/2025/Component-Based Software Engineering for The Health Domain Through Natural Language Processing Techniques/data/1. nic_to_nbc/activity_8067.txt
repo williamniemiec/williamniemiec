@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Blood Product Availability Tracker": {
+    "Parameters": {
+      "Name": {},
+      "Frequency": {},
+      "Deadline Date": {},
+      "Blood Product Type": {},
+      "Availability Status": {},
+      "Transfusion Date and Time": {},
+      "Notes": {}
+    }
+  }
+}

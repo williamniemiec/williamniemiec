@@ -1,0 +1,40 @@
+Here is the output in JSON format:
+
+
+{
+    "physiological monitoring": {
+        "Vital Signs": {
+            "Description": "Track vital signs that may indicate physiological causes of confusion",
+            "Required": true,
+            "Type": "checklist",
+            "Options": [
+                {"value": "temperature", "label": "Temperature"},
+                {"value": "bloodPressure", "label": "Blood Pressure"},
+                {"value": "heartRate", "label": "Heart Rate"},
+                {"value": "respiratoryRate", "label": "Respiratory Rate"},
+                {"value": "oxygenSaturation", "label": "Oxygen Saturation"}
+            ]
+        },
+        "Medication Review": {
+            "Description": "Review medications that may be contributing to confusion",
+            "Required": true,
+            "Type": "text"
+        },
+        "Pain Assessment": {
+            "Description": "Assess pain levels that may be contributing to confusion",
+            "Required": true,
+            "Type": "options",
+            "Options": [
+                {"value": "noPain", "label": "No Pain"},
+                {"value": "mildPain", "label": "Mild Pain"},
+                {"value": "moderatePain", "label": "Moderate Pain"},
+                {"value": "severePain", "label": "Severe Pain"}
+            ]
+        },
+        "Other Factors": {
+            "Description": "Identify other physiological factors that may be contributing to confusion",
+            "Required": true,
+            "Type": "text"
+        }
+    }
+}

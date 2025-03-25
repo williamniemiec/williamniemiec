@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+    "Exercise Education": {
+        "Name": {"type": "text"},
+        "Description": {"type": "text"},
+        "Health Benefits": {"type": "text"},
+        "Physiological Effects": {"type": "text"},
+        "Exercise Types": {"type": "options", "options": ["aerobic", "anaerobic", "flexibility", "etc."]},
+        "Customization": {"type": "boolean"},
+        "Multimedia Content": {"type": "boolean"},
+        "Quizzes and Assessments": {"type": "boolean"}
+    }
+}

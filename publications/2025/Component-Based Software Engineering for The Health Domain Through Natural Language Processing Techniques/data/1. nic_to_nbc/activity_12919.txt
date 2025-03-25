@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Follow-up Evaluation": {
+        "Evaluation Type": {"type": "options"},
+        "Evaluation Schedule": {"type": "datetime"},
+        "Evaluation Provider": {"type": "text"},
+        "Evaluation Location": {"type": "text"},
+        "Patient Instructions": {"type": "text"},
+        "Reminder": {"type": "boolean"}
+    }
+}

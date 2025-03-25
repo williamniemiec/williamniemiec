@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Relationship Termination Guide",
+    "parameters": [
+        {
+            "name": "Relationship Type",
+            "type": "options"
+        },
+        {
+            "name": "Reason for Termination",
+            "type": "text"
+        },
+        {
+            "name": "Emotional Preparation",
+            "type": "text"
+        },
+        {
+            "name": "Practical Steps",
+            "type": "text"
+        },
+        {
+            "name": "Support System",
+            "type": "text"
+        }
+    ]
+}

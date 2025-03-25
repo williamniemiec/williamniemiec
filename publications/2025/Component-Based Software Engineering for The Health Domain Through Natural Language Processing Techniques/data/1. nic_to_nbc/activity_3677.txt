@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Capillary Refill Test": {
+    "parameters": {
+      "Instructions": {"type": "text", "value": "Hold your hand at the same level as your heart and press on the pad of your middle finger for five seconds, then release pressure and count the time until color returns."},
+      "Timer": {"type": "timer"},
+      "Result": {"type": "number"},
+      "Target Value": {"type": "number", "value": 2},
+      "Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]}
+    }
+  }
+}

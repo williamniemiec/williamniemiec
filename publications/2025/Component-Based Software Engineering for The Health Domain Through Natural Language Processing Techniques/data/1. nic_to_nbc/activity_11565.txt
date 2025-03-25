@@ -1,0 +1,3 @@
+Since there's no provided input in the specified format, I'll assume you want me to wait for an actual input. Please provide the text in the specified format, and I'll process it accordingly.
+
+Once I receive the input, I'll remove everything except `{{ PARAMETER ESPECIFICATIONS }}` and `{{ NO-CODE ELEMENT NAME }}`, and output a JSON response.

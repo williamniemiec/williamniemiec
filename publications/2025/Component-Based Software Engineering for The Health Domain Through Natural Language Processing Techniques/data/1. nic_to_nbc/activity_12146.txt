@@ -1,0 +1,11 @@
+
+
+
+{
+  "Home Environment Maintenance": {
+    "Task List": {"type": "list of text"},
+    "Frequency": {"type": "options", "options": ["daily", "weekly", "monthly", "etc."]},
+    "Responsibility": {"type": "options", "options": ["patient", "caregiver", "home health aide", "etc."]},
+    "Resources": {"type": "list of text"}
+  }
+}

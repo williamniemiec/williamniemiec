@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Toileting Schedule": {
+    "parameters": {
+      "Schedule Template": {},
+      "Customization Options": {},
+      "Goal Setting": {},
+      "Tracking and Monitoring": {}
+    }
+  }
+}

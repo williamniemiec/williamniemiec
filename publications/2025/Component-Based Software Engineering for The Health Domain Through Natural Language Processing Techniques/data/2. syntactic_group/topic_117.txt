@@ -1,0 +1,10 @@
+{
+  "name": "Urine Output and Color Tracking",
+  "description": "Monitors urine output and tracks its color (e.g., yellow, amber, or clear). Helps identify potential urinary or hydration issues based on urine characteristics.",
+  "type": "periodic",
+  "input": ["Urine output", "Color tracking", "Urinary characteristics", "Hydration monitoring"],
+  "output": ["Urine output report", "Hydration status feedback", "Color tracking guide"],
+  "preconditions": ["User is monitoring urine output or hydration levels"],
+  "postconditions": ["Accurate urine output and hydration status tracking"],
+  "dependencies": ["Urine color tracking tools", "Hydration monitoring system"]
+}

@@ -1,0 +1,30 @@
+Here is the output in JSON format:
+
+
+{
+    "instruction": {
+        "parameters": [
+            { 
+                "name": "title", 
+                "description": "instruction title"
+            },
+            { 
+                "name": "content", 
+                "description": "instruction content"
+            },
+            { 
+                "name": "frequency", 
+                "description": "specify how often the instruction should be repeated",
+                "options": [
+                    { value: "daily", label: "Daily" },
+                    { value: "onlyOnce", label: "Only once" },
+                    { value: "everyHours", label: "Every x hours" },
+                    { value: "everyDays", label: "Every x days" },
+                ]
+            }
+        ]
+    }
+}
+
+
+I removed the "duration" parameter since it's not applicable (optional and not provided in the input). Let me know if this meets your requirements!

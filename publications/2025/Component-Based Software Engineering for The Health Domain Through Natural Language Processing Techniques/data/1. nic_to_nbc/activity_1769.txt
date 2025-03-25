@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+    "Dependence Assessment": {
+        "Activities of Daily Living (ADLs)": {"Type": "list of text"},
+        "Instrumental Activities of Daily Living (IADLs)": {"Type": "list of text"},
+        "Mobility and Transfer": {"Type": "list of text"},
+        "Cognitive Function": {"Type": "list of text"},
+        "Emotional Support": {"Type": "list of text"}
+    }
+}

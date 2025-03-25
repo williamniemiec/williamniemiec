@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Administration Guide": {
+    "Right 1: Right Patient": {"type": "text or html"},
+    "Right 2: Right Medication": {"type": "text or html"},
+    "Right 3: Right Dose": {"type": "text or html"},
+    "Right 4: Right Route": {"type": "text or html"},
+    "Right 5: Right Time": {"type": "text or html"},
+    "Additional Resources": {"type": "list of URLs or file attachments"}
+  }
+}

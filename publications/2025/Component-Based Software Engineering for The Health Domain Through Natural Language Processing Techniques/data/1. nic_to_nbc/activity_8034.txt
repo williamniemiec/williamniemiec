@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Alternative Intervention": {
+    "Name": {"Type": "text"},
+    "Alternative Options": {"Type": "options"},
+    "Indications": {"Type": "form"},
+    "Contraindications": {"Type": "form"},
+    "Monitoring": {"Type": "options"},
+    "Adjustments": {"Type": "options"}
+  }
+}

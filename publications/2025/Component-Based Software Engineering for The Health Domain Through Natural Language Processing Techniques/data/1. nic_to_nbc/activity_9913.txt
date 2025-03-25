@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+    "Preparation Guide": {
+        "Physical Preparation": {"Type": "text or multimedia content"},
+        "Psychological Preparation": {"Type": "text or multimedia content"},
+        "Medication Instructions": {"Type": "text"},
+        "Fasting Instructions": {"Type": "text"},
+        "What to Expect": {"Type": "text or multimedia content"},
+        "Emotional Support": {"Type": "text or multimedia content"}
+    }
+}
+
+
+Let me know if you need any further assistance!

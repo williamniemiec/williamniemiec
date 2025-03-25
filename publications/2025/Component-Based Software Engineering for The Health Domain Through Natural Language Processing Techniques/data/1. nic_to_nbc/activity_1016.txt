@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "Assistance Assessment": {
+    "Parameters": {
+      "Assistance Type": {
+        "Type": "options"
+      },
+      "Assistance Level": {
+        "Type": "options"
+      },
+      "Assessment Questions": {
+        "Type": "interactive"
+      },
+      "Assessment Scoring": {
+        "Type": "algorithm"
+      },
+      "Assistance Recommendations": {
+        "Type": "text or multimedia"
+      }
+    }
+  }
+}

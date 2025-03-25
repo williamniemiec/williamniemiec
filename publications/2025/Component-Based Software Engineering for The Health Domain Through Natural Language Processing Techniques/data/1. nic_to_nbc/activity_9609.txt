@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+    "Humor Response": {
+        "Response type": {
+            "type": "options",
+            "options": ["laughter", "smiles", "chuckles", "grinning", "etc."]
+        },
+        "Response frequency": {
+            "type": "options",
+            "options": ["always", "often", "sometimes", "rarely", "never"]
+        },
+        "Humor triggers": {
+            "type": "text"
+        }
+    }
+}
+
+
+Let me know if you need any further assistance!

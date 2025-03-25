@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Recent Event Recall": {
+    "Event Type": ["outing", "appointment", "conversation", "activity"],
+    "Event Details": {"type": "text"},
+    "Questions": {"type": "list of text questions"},
+    "Instructions": {"type": "text"},
+    "Frequency": ["daily", "onlyOnce", "everyHours", "everyDays"],
+    "Deadline Date": {"type": "datetime"},
+    "Feedback": ["yes", "no"],
+    "Scoring": ["percentage correct", "number of correct answers", "time taken to complete"]
+  }
+}

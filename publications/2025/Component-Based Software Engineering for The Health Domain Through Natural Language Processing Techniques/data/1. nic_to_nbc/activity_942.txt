@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Environmental Triggers": {
+    "Aversive Smells": {"type": "options"},
+    "Unpleasant Sounds": {"type": "options"},
+    "Unpleasant Visual Stimulation": {"type": "options"},
+    "Other Triggers": {"type": "text"},
+    "Frequency": {"type": "options"},
+    "Impact": {"type": "options"}
+  }
+}
+
+
+Note that I removed the not applicable parameters and only kept the `{{ NO-CODE ELEMENT NAME }}` and `{{ PARAMETER ESPECIFICATIONS }}`.

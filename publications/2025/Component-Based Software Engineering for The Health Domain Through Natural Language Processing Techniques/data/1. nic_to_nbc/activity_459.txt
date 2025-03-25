@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Test Appointment Manager": {
+    "Parameters": {
+      "Test Details": {},
+      "Patient Information": {},
+      "Caregiver Information": {},
+      "Communication Method": {},
+      "Reminders": {},
+      "Confirmation": {},
+      "Test Location Map": {}
+    }
+  }
+}

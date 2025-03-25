@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Reflection": {
+    "Parameters": {
+      "Statement": {"Type": "text"},
+      "Emotion": {"Type": "options", "Options": ["happy", "sad", "anxious", "angry", "etc."]},
+      "Reflection": {"Type": "text"},
+      "Frequency": {"Type": "options", "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"Type": "datetime"}
+    }
+  }
+}

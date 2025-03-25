@@ -1,0 +1,37 @@
+
+
+
+{
+  "name": "High Chair Safety",
+  "parameters": [
+    {
+      "name": "Title",
+      "description": "A parameter that specifies the title of the high chair safety instruction.",
+      "required": true,
+      "type": "text"
+    },
+    {
+      "name": "Content",
+      "description": "A parameter that specifies the safety guidelines for using a high chair.",
+      "required": true,
+      "type": "text"
+    },
+    {
+      "name": "Checklist",
+      "description": "A parameter that specifies a checklist of safety features to look for in a high chair (e.g., sturdy base, secure straps, etc.).",
+      "required": true,
+      "type": "list",
+      "options": [
+        { value: "sturdyBase", label: "Sturdy base" },
+        { value: "secureStraps", label: "Secure straps" },
+        { value: "wideBase", label: "Wide base for stability" }
+      ]
+    },
+    {
+      "name": "Image",
+      "description": "A parameter that specifies an optional image to illustrate the safe use of a high chair.",
+      "required": false,
+      "type": "image"
+    }
+  ]
+}

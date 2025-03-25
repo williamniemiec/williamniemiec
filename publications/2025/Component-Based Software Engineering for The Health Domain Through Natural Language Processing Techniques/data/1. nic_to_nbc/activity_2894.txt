@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Fluid Intake Guide": {
+    "Name": {},
+    "Fluid Recommendations": {},
+    "Hydration Tracker": {},
+    "Fluid Intake Goals": {},
+    "Reminders and Tips": {},
+    "Fluid Intake Calculator": {}
+  }
+}

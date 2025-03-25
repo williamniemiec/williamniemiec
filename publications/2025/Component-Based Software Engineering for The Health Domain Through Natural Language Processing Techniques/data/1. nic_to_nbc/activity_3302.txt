@@ -1,0 +1,21 @@
+
+
+
+{
+  "Restocking": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Items": {
+        "Type": "unordered list",
+        "Item Parameters": {
+          "Label": {"Type": "text"},
+          "Quantity": {"Type": "number"},
+          "Status": {"Type": "options"}
+        }
+      },
+      "Instructions": {"Type": "text"},
+      "Frequency": {"Type": "options"},
+      "Deadline Date": {"Type": "datetime"}
+    }
+  }
+}

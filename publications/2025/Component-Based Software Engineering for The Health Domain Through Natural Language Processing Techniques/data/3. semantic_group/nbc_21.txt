@@ -1,0 +1,10 @@
+{
+  "name": "Visit and Appointment Scheduling",
+  "description": "Manages visitations, follow-up appointments, visitor schedules, and accommodation details, including provider and roommate coordination.",
+  "type": "periodic",
+  "input": ["Visitor details", "Appointment schedule", "Accommodation requirements", "Provider contact information"],
+  "output": ["Visit confirmation", "Appointment reminders", "Accommodation details"],
+  "preconditions": ["Visit or appointment is scheduled"],
+  "postconditions": ["Visitor is confirmed and accommodations are arranged if necessary"],
+  "dependencies": ["Appointment scheduling system", "Visitor management platform", "Accommodation coordination tools"]
+}

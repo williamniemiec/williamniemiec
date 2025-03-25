@@ -1,0 +1,50 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Dialysis Preparation",
+  "parameters": [
+    {
+      "name": "Catheter Placement",
+      "type": "options",
+      "options": [
+        { value: "AV fistula", label: "Arteriovenous (AV) fistula" },
+        { value: "AV graft", label: "Arteriovenous (AV) graft" },
+        { value: "central venous catheter", label: "Central venous catheter" }
+      ]
+    },
+    {
+      "name": "Preparation Steps",
+      "type": "unordered list",
+      "options": [
+        { value: "NPO", label: "NPO (nothing by mouth) for a certain period" },
+        { value: "administer medications", label: "Administer medications" }
+      ]
+    },
+    {
+      "name": "Dialysis Type",
+      "type": "options",
+      "options": [
+        { value: "hemodialysis", label: "Hemodialysis" },
+        { value: "peritoneal dialysis", label: "Peritoneal dialysis" },
+        { value: "CRRT", label: "Continuous renal replacement therapy (CRRT)" }
+      ]
+    },
+    {
+      "name": "Frequency",
+      "type": "options",
+      "options": [
+        { value: "daily", label: "Daily" },
+        { value: "every other day", label: "Every other day" },
+        { value: "3 times a week", label: "3 times a week" }
+      ]
+    },
+    {
+      "name": "Deadline Date",
+      "type": "datetime"
+    }
+  ]
+}
+
+
+I removed the `Additional Instructions` parameter since it was marked as not required. Let me know if you need any further modifications!

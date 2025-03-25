@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+"Family Support": {
+    "parameters": [
+        {"name": "eligibility", "description": "Specify if the family is eligible for postmortem viewing", "required": true, "type": "options", "options": [{"value": "yes", "label": "Yes"}, {"value": "no", "label": "No"}]},
+        {"name": "viewing details", "description": "Provide details about the postmortem viewing", "required": true, "type": "text"}
+    ]
+}
+}

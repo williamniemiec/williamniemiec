@@ -1,0 +1,33 @@
+Here is the output in JSON format:
+
+
+{
+  "Follow-up Appointment": {
+    "Parameters": {
+      "Appointment Type": {
+        "Description": "Specify the type of appointment",
+        "Required": true,
+        "Type": "options",
+        "Options": [
+          { "value": "followUpCare", "label": "Follow-up Care" },
+          { "value": "referralAppointment", "label": "Referral Appointment" }
+        ]
+      },
+      "Date and Time": {
+        "Description": "Schedule a date and time for the appointment",
+        "Required": true,
+        "Type": "datetime"
+      },
+      "Provider Information": {
+        "Description": "Information about the healthcare provider",
+        "Required": true,
+        "Type": "text"
+      },
+      "Location": {
+        "Description": "Location of the appointment",
+        "Required": true,
+        "Type": "text"
+      }
+    }
+  }
+}

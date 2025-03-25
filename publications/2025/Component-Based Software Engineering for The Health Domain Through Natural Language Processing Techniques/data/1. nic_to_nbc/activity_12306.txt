@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Restraint Guidance": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Criteria": {"Type": "text"},
+      "Instructions": {"Type": ["text", "video"]},
+      "Frequency": {"Type": "options", "Options": ["continuously", "every15Minutes", "every30Minutes", "everyHour"]}
+    }
+  }
+}
+
+
+Let me know if this meets your requirements!

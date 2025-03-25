@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Hematoma Tracker": {
+    "parameters": [
+      {"name": "Hematoma Location"},
+      {"name": "Hematoma Size"},
+      {"name": "Hematoma Character"},
+      {"name": "Frequency"},
+      {"name": "Deadline Date"}
+    ]
+  }
+}

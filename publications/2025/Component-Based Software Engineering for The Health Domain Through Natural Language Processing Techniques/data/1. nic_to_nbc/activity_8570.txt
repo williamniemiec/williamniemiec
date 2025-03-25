@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+  "Goal Setting": {
+    "Parameters": {
+      "Goal": ["Health outcome", "Treatment objective", "Other relevant goal details"],
+      "Objective": ["Measurable outcome", "Target date", "Other relevant objective details"],
+      "Priority": ["High", "Medium", "Low"],
+      "Frequency": ["daily", "weekly", "monthly"],
+      "Deadline Date": ["datetime"]
+    }
+  },
+  "Survey": {
+    "Parameters": {
+      "Question 1": ["Text"],
+      "Question 2": ["Text"],
+      "Question 3": ["Scale (e.g. 1-5)"],
+      "Frequency": ["daily", "weekly", "monthly"],
+      "Deadline Date": ["datetime"]
+    }
+  }
+}
+
+
+Note that I removed the not applicable parameters and only kept the relevant information. Let me know if you need any further assistance!

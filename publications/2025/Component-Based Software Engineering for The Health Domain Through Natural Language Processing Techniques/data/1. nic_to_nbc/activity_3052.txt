@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+    "Evaluation Scheduler": {
+        "Evaluation Type": {"Type": "options"},
+        "Evaluation Date and Time": {"Type": "datetime"},
+        "Evaluator": {"Type": "list of evaluator IDs or names"},
+        "Evaluation Criteria": {"Type": "list of evaluation criteria"}
+    },
+    "Evaluation Form": {
+        "Evaluation Questions": {"Type": "list of evaluation questions"},
+        "Response Options": {"Type": "options"},
+        "Scoring System": {"Type": "options"}
+    },
+    "Evaluation Results": {
+        "Evaluation Results": {"Type": "list of evaluation results"},
+        "Data Visualization": {"Type": "options"},
+        "Insights and Recommendations": {"Type": "text"}
+    }
+}

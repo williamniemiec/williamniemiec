@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Fluid Intake and Output Tracking": {
+    "Parameters": {
+      "Intake": {"Type": "text"},
+      "Intake Amount": {"Type": "number"},
+      "Output": {"Type": "text"},
+      "Output Amount": {"Type": "number"},
+      "Frequency": {"Type": "options", "Options": ["daily", "weekly", "monthly"]},
+      "Goal Intake": {"Type": "number"},
+      "Goal Output": {"Type": "number"}
+    }
+  }
+}

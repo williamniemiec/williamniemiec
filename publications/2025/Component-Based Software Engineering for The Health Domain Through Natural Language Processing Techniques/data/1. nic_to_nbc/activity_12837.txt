@@ -1,0 +1,49 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Activity Planner",
+    "parameters": [
+        {
+            "name": "activity_type",
+            "options": [
+                { value: "outdoor play", label: "Outdoor Play" },
+                { value: "arts and crafts", label: "Arts and Crafts" },
+                { value: "socializing with friends", label: "Socializing with Friends" },
+                { value: "reading", label: "Reading" },
+                { value: "games", label: "Games" },
+                { value: "sports", label: "Sports" },
+                { value: "music", label: "Music" },
+                { value: "dance", label: "Dance" }
+            ]
+        },
+        {
+            "name": "frequency",
+            "options": [
+                { value: "daily", label: "Daily" },
+                { value: "onlyOnce", label: "Only once" },
+                { value: "everyHours", label: "Every x hours" },
+                { value: "everyDays", label: "Every x days" }
+            ]
+        },
+        {
+            "name": "deadline_date",
+            "type": "datetime"
+        },
+        {
+            "name": "activity_details",
+            "type": "text"
+        },
+        {
+            "name": "reminders",
+            "options": [
+                { value: "yes", label: "Yes" },
+                { value: "no", label: "No" }
+            ]
+        },
+        {
+            "name": "goal",
+            "type": "text"
+        }
+    ]
+}

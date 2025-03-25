@@ -1,0 +1,35 @@
+Here is the output in JSON format:
+
+
+{
+  "Lifestyle Modification Planner": {
+    "Parameters": {
+      "Lifestyle Area": {
+        "Type": "options",
+        "Options": ["diet", "exercise", "sleep", "stressManagement", "etc."]
+      },
+      "Current Habits": {
+        "Type": "text"
+      },
+      "Goals": {
+        "Type": "text"
+      },
+      "Barriers": {
+        "Type": "text"
+      },
+      "Modification Ideas": {
+        "Type": "list of text"
+      },
+      "Action Plan": {
+        "Type": "text"
+      },
+      "Frequency": {
+        "Type": "options",
+        "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+      },
+      "Deadline Date": {
+        "Type": "datetime"
+      }
+    }
+  }
+}

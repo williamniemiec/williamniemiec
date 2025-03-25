@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Controlled Substance Packaging Inspection": {
+    "Name": {"Type": "text"},
+    "Controlled Substance Information": {"Type": "text"},
+    "Inspection Date and Time": {"Type": "datetime"},
+    "Inspector Information": {"Type": "text"},
+    "Packaging Inspection Results": {"Type": "text"},
+    "Tampering Indicators": {"Type": "list of text"},
+    "Action Taken": {"Type": "text"}
+  }
+}

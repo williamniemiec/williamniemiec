@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Dysrhythmia Symptoms": {
+    "Chest Pain": {"Type": "boolean"},
+    "Syncope": {"Type": "boolean"},
+    "Severity": {"Type": "options", "Values": ["mild", "moderate", "severe"]},
+    "Duration": {"Type": "number or text"}
+  }
+}

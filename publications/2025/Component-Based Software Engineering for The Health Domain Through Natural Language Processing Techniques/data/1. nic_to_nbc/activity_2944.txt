@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "Harmful Substances Guide": {
+    "Parameters": {
+      "Title": {"Type": "text"},
+      "Content": {"Type": "rich text or multimedia"},
+      "Substances": {"Type": "list of substance objects"},
+      "Effects": {"Type": "list of effect objects"},
+      "Risks": {"Type": "list of risk objects"},
+      "Resources": {"Type": "list of resource objects"}
+    }
+  },
+  "Substance Risks": {
+    "Parameters": {
+      "Title": {"Type": "text"},
+      "Substances": {"Type": "list of substance objects"},
+      "Risks": {"Type": "list of risk objects"},
+      "Effects": {"Type": "list of effect objects"},
+      "Resources": {"Type": "list of resource objects"}
+    }
+  }
+}

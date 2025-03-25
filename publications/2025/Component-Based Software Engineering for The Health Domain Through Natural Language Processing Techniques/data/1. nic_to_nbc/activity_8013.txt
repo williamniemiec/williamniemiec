@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+    "Care Arrangement Assessment": {
+        "Caregiver Abilities": {},
+        "Caregiver Characteristics": {},
+        "Competing Responsibilities": {},
+        "Environmental Accommodations": {},
+        "Relationship History": {},
+        "Care Needs Consideration": {},
+        "Duress": {}
+    }
+}
+
+
+Note that I removed the parameter specifications and only kept the no-code element name and its parameters.

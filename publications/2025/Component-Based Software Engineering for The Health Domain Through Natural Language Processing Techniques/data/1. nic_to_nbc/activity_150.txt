@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Simple Questioning": {
+    "Parameters": {
+      "Question Type": {},
+      "Question Phrasing": {},
+      "Aphasia Awareness": {},
+      "Automatic Response Alert": {}
+    }
+  }
+}
+
+
+Note that I removed the `Frequency` and `Deadline Date` parameters as they are not applicable in this context. Let me know if you need any further assistance!

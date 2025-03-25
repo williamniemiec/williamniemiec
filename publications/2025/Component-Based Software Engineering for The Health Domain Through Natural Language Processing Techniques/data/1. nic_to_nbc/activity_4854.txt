@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Topical Estrogen Application": {
+    "Instructions": {},
+    "Frequency": {"options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {},
+    "Notes": {},
+    "Dosage": {}
+  }
+}

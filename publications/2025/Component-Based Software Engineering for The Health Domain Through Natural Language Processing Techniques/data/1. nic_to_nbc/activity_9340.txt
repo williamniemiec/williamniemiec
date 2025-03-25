@@ -1,0 +1,24 @@
+Here is the JSON output:
+
+
+{
+    "name": "Fecal Output Tracking",
+    "parameters": [
+        { 
+            "name": "tracking_frequency", 
+            "type": "options"
+        },
+        { 
+            "name": "tracking_method", 
+            "type": "options"
+        },
+        { 
+            "name": "data_to_collect", 
+            "type": "list of data points"
+        },
+        { 
+            "name": "instructions", 
+            "type": "text"
+        }
+    ]
+}

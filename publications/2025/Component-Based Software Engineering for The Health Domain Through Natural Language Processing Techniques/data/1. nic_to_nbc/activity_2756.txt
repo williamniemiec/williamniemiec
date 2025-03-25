@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Guided Selection": {
+    "Parameters": {
+      "Title": {"Type": "text"},
+      "Criteria": {"Type": "text"},
+      "Options": {"Type": "list or table"},
+      "Instructions": {"Type": "text"}
+    }
+  }
+}

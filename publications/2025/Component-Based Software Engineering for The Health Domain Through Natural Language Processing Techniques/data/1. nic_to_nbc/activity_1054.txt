@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+    "Immunization Scheduler": {
+        "Parameters": {
+            "Immunization Schedule": {"Type": "list of immunization schedules"},
+            "Patient Information": {"Type": "patient object"},
+            "Schedule Options": {"Type": "list of schedule options"},
+            "Reminder System": {"Type": "reminder system"}
+        }
+    },
+    "Guide": {
+        "Parameters": {
+            "Guide Title": {"Type": "text"},
+            "Guide Content": {"Type": "list of guide pages"},
+            "Schedule Tool": {"Type": "schedule tool"},
+            "Resources": {"Type": "list of resources"}
+        }
+    }
+}
+
+
+Let me know if this meets your requirements!

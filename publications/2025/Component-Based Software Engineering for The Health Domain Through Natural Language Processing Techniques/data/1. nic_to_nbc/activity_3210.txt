@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Parameter Specifications": [
+    {"Name": "title", "Type": "text"},
+    {"Name": "Staff Member", "Type": "dropdown list of staff members"},
+    {"Name": "Date", "Type": "date"},
+    {"Name": "Time", "Type": "time"},
+    {"Name": "Technique Assessment", "Type": "rating scale or checkbox list"},
+    {"Name": "Documentation", "Type": "text or attachment"},
+    {"Name": "Notes", "Type": "text"}
+  ],
+  "No-code Element Name": "Intermittent Catheterization Technique Monitoring"
+}

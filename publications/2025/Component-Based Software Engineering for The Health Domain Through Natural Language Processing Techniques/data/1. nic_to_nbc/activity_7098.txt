@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Coaching": {
+    "parameters": {
+      "name": {"type": "text"},
+      "coaching_type": {"type": "options", "options": ["motivational", "educational", "emotional_support", "other"]},
+      "coaching_content": {"type": "text"},
+      "delivery_method": {"type": "options", "options": ["video", "audio", "text", "other"]},
+      "frequency": {"type": "options", "options": ["daily", "every_2_days", "every_3_days", "weekly"]},
+      "duration": {"type": "text"}
+    }
+  }
+}

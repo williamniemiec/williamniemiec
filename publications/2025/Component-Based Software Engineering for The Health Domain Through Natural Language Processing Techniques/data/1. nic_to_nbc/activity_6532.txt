@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Handout": {
+        "Parameters": {
+            "Title": {},
+            "Content": {},
+            "Language": {},
+            "Target Audience": {}
+        }
+    }
+}

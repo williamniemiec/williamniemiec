@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+  "Eye Mask Monitoring": {
+    "Frequency": {
+      "Description": "Specify how often to remove the eye mask to monitor for discharge or corneal irritation",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        {"value": "duringFeedings", "label": "During Feedings"},
+        {"value": "everyHours", "label": "Every x hours"},
+        {"value": "everyDays", "label": "Every x days"}
+      ]
+    },
+    "Monitoring": {
+      "Description": "Specify what to monitor for during eye mask removal",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        {"value": "discharge", "label": "Discharge"},
+        {"value": "cornealIrritation", "label": "Corneal Irritation"},
+        {"value": "both", "label": "Both Discharge and Corneal Irritation"}
+      ]
+    }
+  }
+}

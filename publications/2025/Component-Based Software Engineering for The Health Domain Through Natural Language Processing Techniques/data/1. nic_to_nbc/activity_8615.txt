@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Irrigation Solution Preparation": {
+    "Irrigation Solution Instructions": {},
+    "Warming Instructions": {},
+    "Sterile Container": {},
+    "Temperature Check": {}
+  }
+}

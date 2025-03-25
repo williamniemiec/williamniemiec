@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "pregnancy_preparation": {
+        "parameters": [
+            {"name": "social_demands", "description": "discuss social demands of childbearing and childrearing"},
+            {"name": "financial_demands", "description": "discuss financial demands of childbearing and childrearing"},
+            {"name": "psychological_demands", "description": "discuss psychological demands of childbearing and childrearing"},
+            {"name": "preparation_strategies", "description": "discuss strategies for preparing for pregnancy"}
+        ]
+    }
+}

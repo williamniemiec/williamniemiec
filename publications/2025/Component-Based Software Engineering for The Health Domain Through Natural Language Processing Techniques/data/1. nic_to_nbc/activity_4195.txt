@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Wound Cleaning Instruction": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Content": {"Type": ["text", "image", "video"]},
+      "Frequency": {"Type": "text"},
+      "Soap Type": {"Type": "text"},
+      "Cleaning Technique": {"Type": "text"},
+      "Additional Tips": {"Type": "list of text"}
+    }
+  }
+}

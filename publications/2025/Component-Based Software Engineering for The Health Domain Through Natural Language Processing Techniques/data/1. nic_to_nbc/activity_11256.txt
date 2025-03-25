@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Transfer Confirmation": {
+    "parameters": {
+      "name": {"type": "text"},
+      "transfer_date": {"type": "date"},
+      "transfer_time": {"type": "time"},
+      "confirmation_type": {"type": "options", "options": ["checkbox", "signature", "etc."]}
+    }
+  }
+}

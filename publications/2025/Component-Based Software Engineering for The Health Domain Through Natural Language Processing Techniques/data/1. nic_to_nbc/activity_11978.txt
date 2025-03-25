@@ -1,0 +1,29 @@
+Here is the output in JSON format:
+
+
+{
+  "Video": {
+    "parameters": {
+      "name": "",
+      "content": "",
+      "frequency": "",
+      "deadline_date": ""
+    }
+  },
+  "Story": {
+    "parameters": {
+      "name": "",
+      "content": "",
+      "frequency": "",
+      "deadline_date": ""
+    }
+  },
+  "Quiz": {
+    "parameters": {
+      "name": "",
+      "questions": [],
+      "frequency": "",
+      "deadline_date": ""
+    }
+  }
+}

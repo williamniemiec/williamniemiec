@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Water Mattress Setup": {
+    "Parameters": {
+      "Water Level": {"Type": "options"},
+      "Mattress Size": {"Type": "options"},
+      "Setup Instructions": {"Type": "text or multimedia"},
+      "Duration": {"Type": "options"},
+      "Reminders": {"Type": "boolean"}
+    }
+  }
+}

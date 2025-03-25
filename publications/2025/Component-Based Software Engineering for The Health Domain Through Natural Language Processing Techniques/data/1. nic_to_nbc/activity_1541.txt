@@ -1,0 +1,40 @@
+Here is the output in JSON format:
+
+
+{
+    "Vital Signs Tracker": {
+        "parameters": {
+            "vital_signs": {
+                "description": "List of vital signs to track",
+                "required": true,
+                "type": "unordered list",
+                "items": [
+                    "Blood Pressure",
+                    "Pulse",
+                    "Respirations",
+                    "Temperature",
+                    "Patient Response"
+                ]
+            },
+            "Frequency": {
+                "description": "How often to track vital signs",
+                "required": true,
+                "type": "options",
+                "options": [
+                    "Every 15 minutes",
+                    "Every 30 minutes",
+                    "Every 60 minutes",
+                    "Other ( specify )"
+                ]
+            },
+            "Duration": {
+                "description": "Duration of dialysis session",
+                "required": true,
+                "type": "datetime"
+            }
+        }
+    }
+}
+
+
+Note that I removed the "Notes" parameter since it was marked as not required.

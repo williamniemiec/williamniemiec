@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Intake and Output Monitoring": {
+    "parameters": [
+      {"name": "Intake Measurement"},
+      {"name": "Output Measurement"},
+      {"name": "Frequency of Measurement"},
+      {"name": "Recording Method"}
+    ]
+  }
+}

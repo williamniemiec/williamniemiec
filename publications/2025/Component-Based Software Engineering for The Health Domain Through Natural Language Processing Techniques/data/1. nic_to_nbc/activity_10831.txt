@@ -1,0 +1,45 @@
+Here is the output in JSON format:
+
+
+{
+  "Ritual Planning and Participation": {
+    "Parameters": {
+      "Ritual Type": {
+        "Type": "options",
+        "Options": [
+          "Religious ritual (e.g., prayer, communion)",
+          "Cultural ritual (e.g., traditional ceremony, holiday celebration)",
+          "Personal ritual (e.g., meditation, journaling)",
+          "Other"
+        ]
+      },
+      "Planning Support": {
+        "Type": "options",
+        "Options": [
+          "None",
+          "Minimal",
+          "Moderate",
+          "Maximum"
+        ]
+      },
+      "Participation Support": {
+        "Type": "options",
+        "Options": [
+          "None",
+          "Minimal",
+          "Moderate",
+          "Maximum"
+        ]
+      },
+      "Frequency": {
+        "Type": "options",
+        "Options": [
+          "Daily",
+          "Weekly",
+          "Monthly",
+          "Other"
+        ]
+      }
+    }
+  }
+}

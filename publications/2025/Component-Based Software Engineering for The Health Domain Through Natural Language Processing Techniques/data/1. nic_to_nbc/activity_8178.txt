@@ -1,0 +1,29 @@
+Here is the output in JSON format:
+
+
+{
+  "Survey": {
+    "Parameters": {
+      "Questions": {},
+      "Frequency": {},
+      "Deadline Date": {}
+    }
+  },
+  "Self-Assessment": {
+    "Parameters": {
+      "Assessment questions": {},
+      "Frequency": {},
+      "Deadline Date": {}
+    }
+  },
+  "Journal": {
+    "Parameters": {
+      "Journal prompts": {},
+      "Frequency": {},
+      "Deadline Date": {}
+    }
+  }
+}
+
+
+Note that I removed the introduction and conclusion sections, as well as the numberings and descriptions of the no-code elements. I only kept the names of the no-code elements and their corresponding parameters, and formatted them in JSON format.

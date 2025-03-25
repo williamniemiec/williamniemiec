@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Health History Interview": {
+    "parameters": [
+      {"name": "Interview Questions", "type": "list of text"},
+      {"name": "Patient Responses", "type": "list of text"},
+      {"name": "Health History", "type": "text"},
+      {"name": "Risk Factors", "type": "list of text"},
+      {"name": "Health Goals", "type": "list of text"},
+      {"name": "Frequency", "type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      {"name": "Deadline Date", "type": "datetime"}
+    ]
+  }
+}

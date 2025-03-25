@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Problem Solver": {
+    "Parameters": {
+      "Problem Statement": {"Type": "text"},
+      "Goal": {"Type": "text"},
+      "Brainstorming": {"Type": "list"},
+      "Pros and Cons": {"Type": "table"},
+      "Action Plan": {"Type": "text or checklist"},
+      "Reflection": {"Type": "text"}
+    }
+  }
+}
+
+
+I removed the `Frequency` and `Deadline Date` parameters as they have additional options that are not applicable in this context. Let me know if you need any further modifications!

@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Vital Sign and Lab Value Monitoring": {
+    "Medication Name": {},
+    "Vital Signs": {},
+    "Laboratory Values": {},
+    "Monitoring Frequency": {}
+  }
+}

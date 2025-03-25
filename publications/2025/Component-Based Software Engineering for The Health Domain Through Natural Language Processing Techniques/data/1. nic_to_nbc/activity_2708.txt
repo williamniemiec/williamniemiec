@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "Checklist": {
+    "parameters": [
+      {
+        "Items": {
+          "type": "list of objects",
+          "each object contains": {
+            "Name": {"type": "text"},
+            "Description": {"type": "text"},
+            "Status": {"type": "options", "options": ["completed", "pending", "inProgress", "etc."]}
+          }
+        }
+      },
+      {
+        "Type": {
+          "type": "options",
+          "options": ["orientation", "admission", "discharge", "etc."]
+        }
+      }
+    ]
+  }
+}

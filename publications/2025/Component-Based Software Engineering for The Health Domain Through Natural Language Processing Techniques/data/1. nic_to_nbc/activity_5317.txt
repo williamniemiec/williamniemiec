@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+    "Blood Pressure Tracking": {
+        "parameters": {
+            "name": "Blood Pressure Monitoring",
+            "description": "Track your blood pressure readings",
+            "type": "numeric input",
+            "units": "mmHg",
+            "threshold": [
+                { 
+                    "value": 90, 
+                    "comparison": "lessThan", 
+                    "label": "Systolic blood pressure less than 90 mmHg"
+                },
+                { 
+                    "value": 30, 
+                    "comparison": "fallBy", 
+                    "label": "Fall of 30 mmHg in hypertensive patients"
+                }
+            ]
+        }
+    }
+}

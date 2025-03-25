@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Resource List": {
+    "Name": {"type": "text"},
+    "Resources": {"type": "ordered list", "items": ["text", "URL"]},
+    "Descriptions": {"type": "ordered list", "items": "text"},
+    "Categories": {"type": "ordered list", "items": "text"}
+  },
+  "Map": {
+    "Name": {"type": "text"},
+    "Markers": {"type": "ordered list", "items": ["text", "URL"]},
+    "Descriptions": {"type": "ordered list", "items": "text"},
+    "Categories": {"type": "ordered list", "items": "text"}
+  }
+}

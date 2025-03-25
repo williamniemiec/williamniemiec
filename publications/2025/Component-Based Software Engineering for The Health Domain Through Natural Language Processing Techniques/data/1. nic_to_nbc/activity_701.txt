@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+    "Intrauterine Catheter Flushing": {
+        "Infusate Type": {"Description": "Type of infusate to be used for flushing", "Required": true, "Type": "select"},
+        "Flush Volume": {"Description": "Volume of infusate to be used for flushing", "Required": true, "Type": "number"},
+        "Flush Rate": {"Description": "Rate at which the infusate is to be flushed", "Required": true, "Type": "select"},
+        "Verification": {"Description": "Checkbox to verify that the catheter has been flushed", "Required": true, "Type": "checkbox"},
+        "Timestamp": {"Description": "Timestamp of when the catheter was flushed", "Required": true, "Type": "datetime"}
+    }
+}

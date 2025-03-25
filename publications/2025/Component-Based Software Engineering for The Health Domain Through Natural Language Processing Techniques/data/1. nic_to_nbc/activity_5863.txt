@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Dietitian Referral": {
+        "Parameters": {
+            "Name": "",
+            "Reason for Referral": "",
+            "Dietitian Information": "",
+            "Referral Status": ["pending", "approved", "denied"],
+            "Notes": ""
+        }
+    }
+}

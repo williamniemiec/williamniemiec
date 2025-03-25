@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Problem Identification": {
+    "parameters": {
+      "Symptom Checker": {"type": "multi-select options"},
+      "Problem Description": {"type": "text"},
+      "Duration": {"type": ["text", "options"]},
+      "Severity": {"type": "options"},
+      "Impact": {"type": "text"},
+      "Frequency": {"type": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"type": "datetime"}
+    }
+  }
+}

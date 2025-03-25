@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "noCodeElementName": "Information Resource",
+  "parameterSpecifications": {
+    "parameters": [
+      {"name": "title"},
+      {"name": "content", "type": "HTML text or PDF document"}
+    ]
+  }
+}

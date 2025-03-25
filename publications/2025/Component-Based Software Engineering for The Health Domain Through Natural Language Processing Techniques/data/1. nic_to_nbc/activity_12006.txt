@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Rhythm Strip Discussion": {
+    "parameters": {
+      "rhythm_strip": "",
+      "notes": "",
+      "discussion_topic": ""
+    }
+  }
+}

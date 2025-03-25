@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Infant Stimulation Routine Planner": {
+    "parameters": [
+      {"name": "Routine Activities", "type": "list of routine activities"},
+      {"name": "Schedule Template", "type": "schedule template"},
+      {"name": "Customization Options", "type": "options"},
+      {"name": "Frequency", "type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    ]
+  }
+}
+
+
+I removed the not applicable parameters ("Deadline Date" and "Reminders") and formatted the remaining information according to your request. Let me know if you need any further assistance!

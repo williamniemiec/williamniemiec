@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Thermal Mitt Use",
+    "parameters": [
+        {
+            "name": "mitt_type"
+        },
+        {
+            "name": "utensil_types"
+        },
+        {
+            "name": "handling_instructions"
+        },
+        {
+            "name": "frequency"
+        }
+    ]
+}
+
+
+I removed the `description`, `content_type`, and `deadline_date` parameters as they were not applicable. I also simplified the output to only include the `name` property for each parameter, as per your request.

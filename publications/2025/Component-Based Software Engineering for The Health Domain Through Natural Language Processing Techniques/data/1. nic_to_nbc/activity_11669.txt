@@ -1,0 +1,12 @@
+
+
+
+{
+    "Schedule Adjustment": {
+        "Therapeutic Regime": {"type": "text"},
+        "Current Schedule": {"type": "text"},
+        "Proposed Adjustments": {"type": "text"},
+        "Frequency": {"options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+        "Deadline Date": {"type": "datetime"}
+    }
+}

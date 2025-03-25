@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "IV Fluid and Vasoconstrictor Tracker": {
+    "Parameters": {
+      "IV Fluid Status": {"Type": "options"},
+      "IV Fluid Type": {"Type": "options"},
+      "IV Fluid Rate": {"Type": "number"},
+      "Vasoconstrictor Status": {"Type": "options"},
+      "Vasoconstrictor Type": {"Type": "options"},
+      "Vasoconstrictor Dose": {"Type": "number"},
+      "Administration Date": {"Type": "datetime"}
+    }
+  }
+}
+
+
+Let me know if this meets your requirements!

@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+  "Unit Protocols Discussion": {
+    "Parameters": {
+      "Title": {
+        "Description": "Title of the unit protocol discussion",
+        "Required": true,
+        "Type": "text"
+      },
+      "Content": {
+        "Description": "Text describing the unit protocols",
+        "Required": true,
+        "Type": "text"
+      }
+    }
+  }
+}
+
+
+Note that I removed the `FAQs` parameter since it's not required. Let me know if you have any further questions!

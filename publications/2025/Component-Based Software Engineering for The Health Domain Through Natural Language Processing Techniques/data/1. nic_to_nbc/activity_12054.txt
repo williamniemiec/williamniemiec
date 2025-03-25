@@ -1,0 +1,20 @@
+Here is the output in JSON format, removing unnecessary information and not applicable parameters:
+
+
+{
+  "name": "Risk Assessment",
+  "parameters": [
+    {
+      "name": "Questions",
+      "type": "form"
+    },
+    {
+      "name": "Risk Factors",
+      "type": "list"
+    },
+    {
+      "name": "Frequency",
+      "type": "options"
+    }
+  ]
+}

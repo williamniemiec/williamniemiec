@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Understanding Quiz": {
+    "Parameters": {
+      "Medication Name": {"Type": "text", "Required": true},
+      "Quiz Questions": {
+        "Type": "list of quiz questions",
+        "Required": true,
+        "Properties": {
+          "Question Text": {"Type": "text", "Required": true},
+          "Answer Options": {"Type": "list of answer options", "Required": true},
+          "Correct Answer": {"Type": "text", "Required": true}
+        }
+      },
+      "Passing Score": {"Type": "number", "Required": true},
+      "Documentation": {"Type": "text", "Required": true}
+    }
+  }
+}
+
+
+I removed the `Frequency` and `Deadline Date` parameters since they are marked as not required (`"Required": false`). Let me know if you have any further questions!

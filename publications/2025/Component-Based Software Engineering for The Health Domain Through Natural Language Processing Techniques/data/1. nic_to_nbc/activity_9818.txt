@@ -1,0 +1,44 @@
+Here is the output in JSON format:
+
+
+{
+  "Dietary Recommendation": {
+    "parameters": [
+      {
+        "name": "recommended_fruits",
+        "description": "List of fruits to consume",
+        "required": true,
+        "type": "checkbox",
+        "options": [
+          { "value": "cranberries", "label": "Cranberries" },
+          { "value": "prunes", "label": "Prunes" },
+          { "value": "plums", "label": "Plums" }
+        ]
+      },
+      {
+        "name": "reason",
+        "description": "Reason for dietary recommendation",
+        "required": true,
+        "type": "text"
+      },
+      {
+        "name": "frequency",
+        "description": "How often to remind patient of dietary recommendation",
+        "required": true,
+        "type": "options",
+        "options": [
+          { "value": "daily", "label": "Daily" },
+          { "value": "onlyOnce", "label": "Only once" },
+          { "value": "everyHours", "label": "Every x hours" },
+          { "value": "everyDays", "label": "Every x days" }
+        ]
+      },
+      {
+        "name": "deadline_date",
+        "description": "Specify the due date for dietary recommendation",
+        "required": false,
+        "type": "datetime"
+      }
+    ]
+  }
+}

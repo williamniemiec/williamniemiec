@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "Drainage Log": {
+    "parameters": {
+      "name": "Drainage Log",
+      "description": "record the volume and characteristics of the drainage",
+      "content_type": "form",
+      "fields": [
+        {"Volume": "numerical"},
+        {"Color": "dropdown or text"},
+        {"Consistency": "dropdown or text"},
+        {"Odor": "dropdown or text"},
+        {"Notes": "text"}
+      ],
+      "frequency": "",
+      "deadline_date": ""
+    }
+  }
+}
+
+
+Let me know if this is what you were expecting!

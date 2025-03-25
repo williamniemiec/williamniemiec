@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+  "Fluoride Supplementation Guide": {
+    "Content": {
+      "type": ["text", "images", "videos", "interactive simulations"]
+    },
+    "Importance of Fluoride": {
+      "type": ["text", "multimedia (e.g., images, videos)"]
+    },
+    "Recommended Dosage": {
+      "type": ["list of recommended dosages"]
+    },
+    "Administration Guidelines": {
+      "type": ["list of administration guidelines"]
+    },
+    "Contraindications": {
+      "type": ["list of contraindications"]
+    },
+    "FAQs": {
+      "type": ["list of FAQs"]
+    }
+  }
+}
+
+
+Note that I removed the `Name` and `Pages` parameters as they were not applicable to the original no-code element. Let me know if you need anything else!

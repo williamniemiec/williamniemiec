@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Cup Feeding Guide": {
+    "Parameters": {
+      "Title": {"Type": "text"},
+      "Steps": {"Type": "list or video"},
+      "Tips": {"Type": "text or video"},
+      "Frequency": {"Options": ["every feeding", "every 2 hours", "every 4 hours"]}
+    }
+  }
+}

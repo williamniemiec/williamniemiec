@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+    "No-code Element Name": "Cleansing Instruction",
+    "Parameters": {
+        "Solution": {"Type": "text", "Value": "2% chlorhexidine in 70% isopropyl alcohol solution"},
+        "Frequency": {"Type": "options", "Options": ["at all dressing changes", "prior to CVAD insertion"]},
+        "Allergy Warning": {"Type": "boolean", "Value": "true or false"},
+        "Instructions": {"Type": "text", "Value": "Cleanse the exit wound and catheter with [Solution] at [Frequency]. If you have a known allergy to chlorhexidine, do not use this solution."}
+    }
+}

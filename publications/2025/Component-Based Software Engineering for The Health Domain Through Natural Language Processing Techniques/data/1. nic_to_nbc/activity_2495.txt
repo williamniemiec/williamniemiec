@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Oversight Group": {
+    "parameters": {
+      "Group Name": {"type": "text"},
+      "Members": {"type": "list (text or options)"},
+      "Discussion Topics": {"type": "list (text or options)"},
+      "Resources": {"type": "list (text or options)"},
+      "Meeting Schedule": {"type": "list (datetime or text)"}
+    }
+  },
+  "Course": {},
+  "Quiz": {},
+  "Certificate": {}
+}

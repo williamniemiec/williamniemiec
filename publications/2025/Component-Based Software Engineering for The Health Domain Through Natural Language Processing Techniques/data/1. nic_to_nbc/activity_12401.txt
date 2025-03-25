@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Condition Assessment": {
+    "Parameters": {
+      "Condition List": {"Type": "checkbox or multiselect"},
+      "Severity": {"Type": "options (e.g., mild, moderate, severe)"},
+      "Symptom Impact": {"Type": "options (e.g., minimal, moderate, significant)"},
+      "Medical History": {"Type": "text or checkbox"},
+      "Current Treatment": {"Type": "text or checkbox"}
+    }
+  }
+}

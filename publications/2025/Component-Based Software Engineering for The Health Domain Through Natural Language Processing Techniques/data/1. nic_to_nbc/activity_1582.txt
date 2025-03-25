@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Temperature Protection Instruction": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Body Parts": {"Type": "options"},
+      "Temperature Range": {"Type": "options"},
+      "Protection Methods": {"Type": "text"},
+      "Frequency": {"Type": "options"},
+      "Additional Tips": {"Type": "text"}
+    }
+  }
+}
+
+
+I removed the `Deadline Date` parameter since its type is `datetime`, which is not applicable.

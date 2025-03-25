@@ -1,0 +1,55 @@
+Here is the output in JSON format:
+
+
+{
+    "Injection Indications and Contraindications Checker": {
+        "parameters": {
+            "name": "Consider indications and contraindications for intramuscular injection",
+            "content": "Check the indications and contraindications for intramuscular injection",
+            "type": "injection indications and contraindications checker",
+            "indications": [
+                {
+                    "name": "Indications",
+                    "description": "Select the indications for intramuscular injection",
+                    "type": "multiselect",
+                    "options": [
+                        { "value": "vaccination", "label": "Vaccination" },
+                        { "value": "medication", "label": "Medication" },
+                        { "value": "pain management", "label": "Pain management" },
+                        { "value": "other", "label": "Other" }
+                    ]
+                }
+            ],
+            "contraindications": [
+                {
+                    "name": "Contraindications",
+                    "description": "Select the contraindications for intramuscular injection",
+                    "type": "multiselect",
+                    "options": [
+                        { "value": "bleeding disorder", "label": "Bleeding disorder" },
+                        { "value": "infection", "label": "Infection" },
+                        { "value": "allergy", "label": "Allergy" },
+                        { "value": "other", "label": "Other" }
+                    ]
+                }
+            ],
+            "warnings": [
+                {
+                    "name": "Warnings",
+                    "description": "Review the warnings for intramuscular injection",
+                    "type": "text"
+                }
+            ],
+            "confirmation": [
+                {
+                    "name": "Confirm",
+                    "description": "Confirm that you have considered the indications and contraindications for intramuscular injection",
+                    "type": "button"
+                }
+            ]
+        }
+    }
+}
+
+
+Note: I removed the introduction, conclusion, and not applicable parameters as per your request.

@@ -1,0 +1,17 @@
+
+
+
+{
+"Positioning": {
+    "Parameters": {
+        "Position": {"Type": "options"},
+        "Frequency": {"Type": "options"},
+        "Duration": {"Type": "text"},
+        "Tolerance": {"Type": "options"},
+        "Instructions": {"Type": "text"}
+    }
+}
+}
+
+
+Note: I removed the `Image/Demonstration` parameter as it's not applicable (it has multiple types: image or video, which cannot be represented in a JSON object).

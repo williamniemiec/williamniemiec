@@ -1,0 +1,38 @@
+Here is the output in JSON format:
+
+
+{
+  "Parameters": {
+    "Permission": {
+      "Description": "Permission to make return calls to the patient or designated person",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "yes", "label": "Yes" },
+        { "value": "no", "label": "No" }
+      ]
+    },
+    "Authorized Person": {
+      "Description": "Name of person authorized to receive call information",
+      "Required": true,
+      "Type": "text"
+    },
+    "Relationship": {
+      "Description": "Relationship of authorized person to the patient",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "self", "label": "Self" },
+        { "value": "familyMember", "label": "Family Member" },
+        { "value": "caregiver", "label": "Caregiver" },
+        { "value": "other", "label": "Other" }
+      ]
+    },
+    "Contact Information": {
+      "Description": "Contact information for authorized person (e.g. phone number, email)",
+      "Required": true,
+      "Type": "text"
+    }
+  },
+  "No-code Element Name": "Return Call Permission"
+}

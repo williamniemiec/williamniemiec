@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "ECG Tracker": {
+    "parameters": {
+      "name": {"type": "text"},
+      "ecg_readings": {"type": "list of options"},
+      "frequency": {"type": "options"},
+      "severity_scale": {"type": "options"},
+      "notes": {"type": "text"}
+    }
+  }
+}

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Elevation Guide": {
+        "parameters": [
+            {"Extremity": {"type": "options"}},
+            {"Elevation Angle": {"type": "text"}},
+            {"Duration": {"type": "text"}},
+            {"Frequency": {"type": "options"}},
+            // removed Deadline Date as it's not applicable (required: false)
+        ]
+    }
+}

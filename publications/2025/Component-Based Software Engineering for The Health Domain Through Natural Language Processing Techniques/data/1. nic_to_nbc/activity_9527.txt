@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Home Care Scheduling": {
+        "Care Activities": {"Type": "text"},
+        "Family Routine": {"Type": "text"},
+        "Schedule Frequency": {"Type": "text"},
+        "Schedule Timing": {"Type": "text"},
+        "Caregiver Availability": {"Type": "text"},
+        "Conflict Resolution": {"Type": "text"}
+    }
+}

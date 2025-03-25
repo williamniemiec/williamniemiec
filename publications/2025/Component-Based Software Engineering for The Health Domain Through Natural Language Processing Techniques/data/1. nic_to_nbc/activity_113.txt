@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Polyurethane Foam Pad Instruction": {
+    "parameters": {
+      "name": {"type": "text"},
+      "content": {"type": ["text", "video"]},
+      "images": {"type": "list of images"},
+      "pad_size": {"type": "options (list of pad sizes)"},
+      "positioning": {"type": "options (list of positioning options)"},
+      "frequency": {"type": "options (e.g., daily, every 2 hours, as needed)"},
+      "deadline_date": {"type": "datetime"}
+    }
+  }
+}
+
+
+Let me know if you need any further assistance!

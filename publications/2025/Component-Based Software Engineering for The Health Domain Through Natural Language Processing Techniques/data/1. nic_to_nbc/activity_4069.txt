@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Health Risk Monitoring": {
+    "Parameters": {
+      "Health Risk": {"Type": "text"},
+      "Monitoring Frequency": {"Type": "options", "Options": ["daily", "weekly", "monthly", "quarterly"]},
+      "Monitoring Method": {"Type": "options", "Options": ["self-reporting", "wearable device", "mobile app", "healthcare provider visit"]},
+      "Threshold Values": {"Type": "text"},
+      "Alert System": {"Type": "options", "Options": ["email", "SMS", "in-app notification", "phone call"]},
+      "Follow-up Actions": {"Type": "text"}
+    }
+  }
+}

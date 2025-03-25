@@ -1,0 +1,37 @@
+Here is the output in JSON format:
+
+
+{
+    "Care Plan": {
+        "parameters": {
+            "name": "",
+            "tasks": [],
+            "frequency": "",
+            "deadline_date": ""
+        }
+    },
+    "Visit Schedule": {
+        "parameters": {
+            "name": "",
+            "dates": [],
+            "duration": "",
+            "frequency": ""
+        }
+    },
+    "Communication Log": {
+        "parameters": {
+            "name": "",
+            "entries": [],
+            "frequency": "",
+            "deadline_date": ""
+        }
+    },
+    "Resource Guide": {
+        "parameters": {
+            "name": "",
+            "resources": [],
+            "frequency": "",
+            "deadline_date": ""
+        }
+    }
+}

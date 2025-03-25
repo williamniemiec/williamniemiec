@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Workplace Fundamentals Guide": {
+    "title of the guide": {"type": "text", "required": true},
+    "Job Performance": {"type": "book-page", "required": true},
+    "Workplace Expectations": {"type": "book-page", "required": true},
+    "Socializing": {"type": "book-page", "required": true},
+    "Communication": {"type": "book-page", "required": true},
+    "Time Management": {"type": "book-page", "required": true},
+    "Goal Setting": {"type": "book-page", "required": true},
+    "Frequency": {"type": "options", "required": true, "options": ["Daily", "Every other day", "3 times a week", "Weekly", "As needed"]},
+    "Deadline Date": {"type": "datetime", "required": false}
+  }
+}

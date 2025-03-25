@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Device Maintenance": {
+    "parameters": [
+      {"name": "Device Inspection", "type": "form"},
+      {"name": "Cleaning and Disinfection", "type": "text"},
+      {"name": "Storage and Handling", "type": "text"},
+      {"name": "Scheduled Maintenance", "type": "boolean"},
+      {"name": "Troubleshooting", "type": "text"},
+      {"name": "Frequency", "type": "options"},
+      {"name": "Deadline Date", "type": "datetime"}
+    ]
+  }
+}

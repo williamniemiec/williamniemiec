@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Resource Directory": {
+    "Parameters": {
+      "Service Categories": {"Type": "list of text or multimedia content"},
+      "Provider List": {"Type": "list of text or multimedia content"},
+      "Referral Process": {"Type": "text or multimedia content"},
+      "Eligibility Criteria": {"Type": "text or list of criteria"},
+      "Reviews and Ratings": {"Type": "list of text or multimedia content"},
+      "Filter and Search": {"Type": "interactive filter and search functionality"}
+    }
+  }
+}

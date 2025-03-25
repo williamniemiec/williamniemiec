@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Motivational Message": {
+        "parameters": {
+            "name": {"type": "text"},
+            "content": {"type": "text"},
+            "frequency": {"type": "options"},
+            "deadline_date": {"type": "datetime"}
+        }
+    }
+}

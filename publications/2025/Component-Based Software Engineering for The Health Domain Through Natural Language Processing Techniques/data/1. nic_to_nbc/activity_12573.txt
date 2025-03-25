@@ -1,0 +1,36 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "diagnostic evaluation assistant",
+  "parameters": [
+    {
+      "name": "evaluation_type",
+      "description": "type of diagnostic evaluation",
+      "required": true,
+      "type": "options",
+      "options": [
+        { "value": "physical_exam", "label": "Physical exam" },
+        { "value": "cystogram", "label": "Cystogram" },
+        { "value": "cystoscopy", "label": "Cystoscopy" },
+        { "value": "lab_tests", "label": "Lab tests" }
+      ]
+    },
+    {
+      "name": "evaluation_instructions",
+      "description": "instructions for the diagnostic evaluation",
+      "required": true,
+      "type": "html"
+    },
+    {
+      "name": "results",
+      "description": "results of the diagnostic evaluation",
+      "required": true,
+      "type": "object",
+      "object": {
+        "result": "string",
+        "interpretation": "string"
+      }
+    }
+  ]
+}

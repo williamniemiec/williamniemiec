@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+
+{
+  "Reminiscence Therapy": {
+    "parameters": {
+      "Past Experiences": {"type": ["text", "multimedia content"]},
+      "Reminiscence Prompt": {"type": "text"},
+      "Appropriateness Criteria": {"type": ["text", "list of options"]},
+      "Therapeutic Goals": {"type": ["text", "list of options"]}
+    }
+  }
+}

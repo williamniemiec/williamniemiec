@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Administration Guide": {
+    "Parameters": {
+      "Content": {"Type": "text or html"},
+      "Methods": {"Type": "list of methods"},
+      "Descriptions": {"Type": "list of descriptions"},
+      "Resources": {"Type": "list of resources"},
+      "Frequency": {"Type": "options"}
+    }
+  }
+}
+
+
+Note: I removed the `Deadline Date` parameter as it was marked as a datetime type, which is not applicable in this context.

@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Risk Perception Survey": {
+    "parameters": {
+      "name": {"type": "text"},
+      "behavior": {"type": "text"},
+      "questions": {"type": "list of question objects", "properties": {"text": "", "scale": {"min": "", "max": "", "label": ""}}},
+      "risks": {"type": "list of risk objects", "properties": {"text": ""}}
+    }
+  }
+}

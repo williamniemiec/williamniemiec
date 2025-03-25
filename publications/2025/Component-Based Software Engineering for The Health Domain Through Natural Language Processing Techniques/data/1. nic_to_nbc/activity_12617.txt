@@ -1,0 +1,35 @@
+Here is the output in JSON format:
+
+
+{
+  "Bed Elevation": {
+    "Parameters": {
+      "Task Title": {
+        "Description": "Title of the task",
+        "Required": true,
+        "Type": "text"
+      },
+      "Elevation Angle": {
+        "Description": "Select the elevation angle of the bed",
+        "Required": true,
+        "Type": "options",
+        "Options": [
+          { "value": "30degrees", "label": "30 degrees" },
+          { "value": "45degrees", "label": "45 degrees" }
+        ]
+      },
+      "Feeding Schedule": {
+        "Description": "Specify the feeding schedule",
+        "Required": true,
+        "Type": "options",
+        "Options": [
+          { "value": "everyMeal", "label": "Every meal" },
+          { "value": "specificTimes", "label": "Specific times (please specify)" }
+        ]
+      }
+    }
+  }
+}
+
+
+I removed the not applicable parameters ("Reminders" and "Notes") from the output. Let me know if you need anything else!

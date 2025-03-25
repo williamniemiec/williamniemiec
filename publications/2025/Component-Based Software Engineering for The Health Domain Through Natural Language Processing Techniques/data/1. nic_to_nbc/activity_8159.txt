@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Decision Support": {
+    "parameters": {
+      "Decision Complexity": {"type": "options"},
+      "Patient Frustration Level": {"type": ["options", "sentiment analysis"]},
+      "Decision Simplification": {"type": "options"},
+      "Default Options": {"type": "options"},
+      "Caregiver Support": {"type": "options"}
+    }
+  }
+}
+
+
+Let me know if you need any further assistance!

@@ -1,0 +1,31 @@
+Here is the output in JSON format:
+
+
+{
+  "Fluid Change Symptoms": {
+    "Parameters": {
+      "Name": {"type": "text"},
+      "Thirst": {"type": "boolean"},
+      "Symptoms": {
+        "type": "form",
+        "fields": [
+          {"label": "Dizziness", "type": "boolean"},
+          {"label": "Change of Mentation", "type": "boolean"},
+          {"label": "Lightheadedness", "type": "boolean"},
+          {"label": "Apprehension", "type": "boolean"},
+          {"label": "Irritability", "type": "boolean"},
+          {"label": "Nausea", "type": "boolean"},
+          {"label": "Twitching", "type": "boolean"}
+        ]
+      },
+      "Symptom Severity": {
+        "type": "options",
+        "options": [
+          {"value": "mild", "label": "Mild"},
+          {"value": "moderate", "label": "Moderate"},
+          {"value": "severe", "label": "Severe"}
+        ]
+      }
+    }
+  }
+}

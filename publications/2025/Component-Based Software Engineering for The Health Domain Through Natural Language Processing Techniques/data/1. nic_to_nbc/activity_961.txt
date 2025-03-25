@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+    "meal_instruction": {
+        "parameters": [
+            { 
+                "name": "duration", 
+                "description": "specify the duration of eating well-balanced meals"
+            },
+            { 
+                "name": "meal_plan", 
+                "description": "provide a meal plan or guidelines"
+            },
+            { 
+                "name": "frequency", 
+                "description": "specify how often to remind the patient to eat well-balanced meals"
+            }
+        ]
+    }
+}

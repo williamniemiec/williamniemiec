@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Mouth Care Guide": {
+        "Parameters": {
+            "Mouth Care Instructions": {"Type": "text"},
+            "Frequency": {"Type": "options"},
+            "Reminders": {"Type": "scheduling"},
+            "Tracking": {"Type": "tracking log"}
+        }
+    }
+}

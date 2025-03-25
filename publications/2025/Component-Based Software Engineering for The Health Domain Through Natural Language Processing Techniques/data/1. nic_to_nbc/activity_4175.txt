@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "privacy guide": {
+        "parameters": [
+            {"name": "title", "description": "title of the privacy guide"},
+            {"name": "equipment", "description": "list of equipment to block view of"},
+            {"name": "blocking_method", "description": "method to block the view"},
+            {"name": "frequency", "description": "specify how often the view should be blocked"}
+        ]
+    }
+}

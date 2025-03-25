@@ -1,0 +1,13 @@
+
+
+
+{
+  "Respiratory Depression Monitoring": {
+    "At-Risk Criteria": {"Type": "options", "Options": ["older than 70 years", "history of sleep apnea", "concurrent use of PCA with a central nervous system depressant", "obesity", "upper abdominal or thoracic surgery and PCA bolus of greater than 1mg", "history of renal, hepatic, pulmonary, or cardiac impairment"]},
+    "Respiratory Rate": {"Type": "number"},
+    "Oxygen Saturation": {"Type": "number"},
+    "Monitoring Frequency": {"Type": "options", "Options": ["every 15 minutes", "every 30 minutes", "every 1 hour"]},
+    "Intervention Thresholds": {"Type": "options", "Options": ["respiratory rate < 12 breaths/min", "oxygen saturation < 90%"]},
+    "Next Review Date": {"Type": "datetime"}
+  }
+}

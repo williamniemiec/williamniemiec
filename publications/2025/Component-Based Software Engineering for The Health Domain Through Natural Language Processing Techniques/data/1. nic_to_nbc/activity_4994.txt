@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Document Alert": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Document Type": {"Type": "text"},
+      "Alert Message": {"Type": "text"},
+      "Frequency": {"Type": "options", "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]}
+    }
+  }
+}

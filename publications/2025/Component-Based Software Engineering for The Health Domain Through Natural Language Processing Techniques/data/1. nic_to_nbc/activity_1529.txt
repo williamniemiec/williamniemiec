@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Catheter Flushing": {
+    "Heparinized Solution": {"Type": "text or options"},
+    "Flushing Instructions": {"Type": "text or multimedia"},
+    "Flushing Frequency": {"Type": "text or options"},
+    "Catheter Patency Assessment": {"Type": "text or options"},
+    "Flushing Confirmation": {"Type": "boolean"}
+  }
+}

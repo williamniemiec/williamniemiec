@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Terminal Illness Education": {
+    "parameters": {
+      "Illness Information": {"type": "text"},
+      "Weight Loss Expectations": {"type": "text"},
+      "Symptom Management": {"type": "text"},
+      "Emotional Support": {"type": "text"},
+      "Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"type": "datetime"}
+    }
+  }
+}

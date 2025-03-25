@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Vomiting Control Plan": {
+    "parameters": [
+      {"name": "Nonpharmacological Techniques", "type": "multi-select options"},
+      {"name": "Vomiting Control Measures", "type": "multi-select options"},
+      {"name": "Frequency", "type": "options"},
+      {"name": "Reminders", "type": "boolean"},
+      {"name": "Tracking", "type": "boolean"},
+      {"name": "Resources", "type": "text"}
+    ]
+  }
+}

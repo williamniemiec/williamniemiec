@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+    "Environmental Preparation": {
+        "Parameters": {
+            "Name": {"Type": "text"},
+            "Environmental Factors": {"Type": "list of environmental factors"},
+            "Preparation Steps": {"Type": "list of preparation steps"},
+            "Verification": {"Type": "list of verification methods"}
+        }
+    }
+}
+
+
+Let me know if this meets your requirements!

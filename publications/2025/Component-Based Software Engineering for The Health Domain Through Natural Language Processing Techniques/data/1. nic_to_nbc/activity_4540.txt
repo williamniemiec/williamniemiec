@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Belief Assessment": {
+    "parameters": {
+      "Question": {"type": "text"},
+      "Answer Type": {"type": "options", "options": ["text", "multiple choice", "rating scale (e.g., 1-5)"]},
+      "Issue": {"type": "text"},
+      "Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]}
+    }
+  }
+}
+
+
+Note that I removed the `Deadline Date` parameter since it was not applicable (i.e., there was no corresponding value in the input text). Let me know if this is correct!

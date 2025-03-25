@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Precaution Guide": {
+    "parameters": [
+      {"name": "name", "description": "title of the precaution guide"},
+      {"name": "precautions", "description": "list of precautions to take"},
+      {"name": "instructions", "description": "detailed instructions on how to take each precaution"},
+      {"name": "frequency", "description": "how often to review and follow the precautions"}
+    ]
+  }
+}
+
+
+I removed the `deadline_date` parameter since it was marked as not required. Let me know if this is what you were looking for!

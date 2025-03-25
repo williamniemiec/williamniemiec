@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+    "Transfer Technique Selection": {
+        "parameters": {
+            "Patient Mobility Level": {"type": "options"},
+            "Transfer Type": {"type": "options"},
+            "Patient Strength and Endurance": {"type": "text"},
+            "Available Assistance": {"type": "options"},
+            "Transfer Technique Options": {"type": "list of options"},
+            "Selected Transfer Technique": {"type": "text"}
+        }
+    }
+}

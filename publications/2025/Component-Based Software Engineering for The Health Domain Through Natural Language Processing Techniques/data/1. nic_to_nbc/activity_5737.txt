@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Posture and Body Mechanics Instruction": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Activity Types": {"Type": "unordered list"},
+      "Posture Instructions": {"Type": "ordered list"},
+      "Body Mechanics Instructions": {"Type": "ordered list"},
+      "Tips and Reminders": {"Type": "unordered list"}
+    }
+  }
+}
+
+
+Note that I removed the `Images or Videos` parameter as it was not applicable. Let me know if you need any further assistance!

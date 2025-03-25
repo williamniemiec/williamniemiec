@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Advocacy Support": {
+    "parameters": {
+      "Advocacy Need": {"type": "text", "options": ["communication barriers", "cultural or language differences", "complex medical needs", "etc."]},
+      "Advocacy Goals": {"type": "unordered list", "options": ["improved communication", "access to resources", "resolution of issues", "etc."]},
+      "Advocacy Strategies": {"type": "unordered list", "options": ["facilitating communication", "providing cultural or language support", "navigating healthcare systems", "etc."]},
+      "Resources": {"type": "unordered list", "options": ["patient advocates", "social workers", "language interpreters", "etc."]},
+      "Escalation Protocol": {"type": "ordered list", "options": ["involving a patient advocate", "contacting a supervisor", "filing a complaint", "etc."]}
+    }
+  }
+}

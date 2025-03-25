@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Reminder": {
+    "parameters": {
+      "reminder text": "text",
+      "frequency": ["daily", "every x hours", "etc."]
+    }
+  }
+}

@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Comfort Holding Guidance": {
+    "Parameters": {
+      "Age Range": {"Type": "range"},
+      "Situational Triggers": {"Type": "list of situational triggers"},
+      "Holding Techniques": {"Type": "text or video instructions"},
+      "Tips and Reminders": {"Type": "options"}
+    }
+  }
+}

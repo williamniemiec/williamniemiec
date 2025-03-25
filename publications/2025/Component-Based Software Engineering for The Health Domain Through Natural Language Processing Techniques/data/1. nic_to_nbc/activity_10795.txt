@@ -1,0 +1,29 @@
+Here is the output in JSON format:
+
+
+{
+  "Positive Affirmation": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Behavior": {"Type": "text"},
+      "Statement": {"Type": "text"},
+      "Tone": {
+        "Type": "options",
+        "Options": [
+          {"value": "encouraging", "label": "Encouraging"},
+          {"value": "motivational", "label": "Motivational"},
+          {"value": "supportive", "label": "Supportive"}
+        ]
+      },
+      "Frequency": {
+        "Type": "options",
+        "Options": [
+          {"value": "daily", "label": "Daily"},
+          {"value": "weekly", "label": "Weekly"},
+          {"value": "monthly", "label": "Monthly"}
+        ]
+      },
+      "Personalization": {"Type": "boolean"}
+    }
+  }
+}

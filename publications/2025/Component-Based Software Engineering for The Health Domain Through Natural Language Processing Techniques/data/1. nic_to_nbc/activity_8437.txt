@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+  "Self-Assessment Questionnaire": {
+    "name": {"type": "text"},
+    "questions": {"type": "list of text or images"},
+    "answer_type": {"type": "options (e.g., multiple choice, Likert scale, etc.)"},
+    "frequency": {"type": "options (e.g., daily, weekly, monthly, etc.)"}
+  },
+  "Functional Ability Tracker": {
+    "name": {"type": "text"},
+    "activities": {"type": "list of text or images"},
+    "frequency": {"type": "options (e.g., daily, weekly, monthly, etc.)"},
+    "entries": {"type": "list of text or images"}
+  },
+  "Goal Setting": {
+    "name": {"type": "text"},
+    "goals": {"type": "list of text or images"},
+    "deadline": {"type": "datetime"},
+    "reminders": {"type": "boolean (true/false)"}
+  }
+}

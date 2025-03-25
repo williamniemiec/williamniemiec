@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+  "Task": {
+    "parameters": {
+      "name": "Monitor Traction Devices",
+      "content": "Please check your traction devices to ensure they are set up properly.",
+      "frequency": "daily"
+    }
+  },
+  "Checklist": {
+    "parameters": {
+      "name": "Traction Device Checklist",
+      "items": [
+        "Is the device properly secured?",
+        "Are the weights or pulleys correctly positioned?",
+        "Is the device functioning as intended?"
+      ]
+    }
+  }
+}

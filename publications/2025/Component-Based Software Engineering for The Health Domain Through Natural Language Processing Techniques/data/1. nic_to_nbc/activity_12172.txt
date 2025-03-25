@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Rest Plan": {
+    "parameters": [
+      {"Name": {"type": "text"}},
+      {"Rest Periods": {"type": "schedule"}},
+      {"Protected Rest Times": {"type": "options"}},
+      {"Activity Limitations": {"type": "options"}},
+      {"Frequency": {"type": "options"}}
+    ]
+  }
+}

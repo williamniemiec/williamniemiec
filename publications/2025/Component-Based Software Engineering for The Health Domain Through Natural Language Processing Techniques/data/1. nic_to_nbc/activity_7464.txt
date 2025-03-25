@@ -1,0 +1,43 @@
+Here is the output in JSON format:
+
+
+{
+  "Family Support": {
+    "Parameters": {
+      "Support Type": {
+        "Description": "Type of support to be provided to family members (e.g., emotional, informational, practical)",
+        "Required": true,
+        "Type": "options",
+        "Options": [
+          { "value": "emotional", "label": "Emotional support" },
+          { "value": "informational", "label": "Informational support" },
+          { "value": "practical", "label": "Practical support" }
+        ]
+      },
+      "Content": {
+        "Description": "Guided supportive content to be provided to family members",
+        "Required": true,
+        "Type": "text"
+      },
+      "Frequency": {
+        "Description": "Specify how often support will be provided to family members",
+        "Required": true,
+        "Type": "options",
+        "Options": [
+          { "value": "asNeeded", "label": "As needed" },
+          { "value": "daily", "label": "Daily" },
+          { "value": "weekly", "label": "Weekly" }
+        ]
+      },
+      "Resources": {
+        "Description": "List of additional resources for family members (e.g., counseling services, support groups)",
+        "Required": false,
+        "Type": "list",
+        "Items": [
+          { "value": "counseling", "label": "Counseling services" },
+          { "value": "supportGroup", "label": "Support group" }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,35 @@
+Here is the output in JSON format:
+
+
+{
+  "Self-Esteem Development": {
+    "Parameters": {
+      "Self-Esteem Development Title": {
+        "Description": "Title of the self-esteem development activity",
+        "Required": true,
+        "Type": "text"
+      },
+      "Reflection Prompts": {
+        "Description": "List of prompts to guide patient's reflection on self-esteem",
+        "Required": true,
+        "Type": "reflection-prompts",
+        "Reflection-prompts": [...]
+      },
+      "Journal Entries": {
+        "Description": "List of journal entries for patient to reflect on self-esteem",
+        "Required": true,
+        "Type": "journal-entries",
+        "Journal-entries": [...]
+      },
+      "Frequency": {
+        "Description": "Specify how often the patient should reflect on self-esteem",
+        "Required": true,
+        "Type": "options",
+        "Options": [...]
+      }
+    }
+  }
+}
+
+
+Note that I removed the not applicable parameters (i.e., `Deadline Date` and `Positive Affirmations`) since they are not required. Also, I kept only the necessary information for each parameter, removing unnecessary details.

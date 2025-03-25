@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Urges Tracker": {
+    "prompt": "",
+    "response type": ""
+  },
+  "Care Provider Connection": {
+    "provider list": [],
+    "contact information": []
+  },
+  "Emergency Contact": {
+    "emergency services": [],
+    "contact information": []
+  },
+  "Safety Plan": {
+    "steps": [],
+    "resources": []
+  }
+}

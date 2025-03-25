@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+    "Medication Administration": {
+        "parameters": [
+            {"name": "medication", "description": "Specify the premedication to take"},
+            {"name": "dosage", "description": "Specify the dosage of the premedication"},
+            {"name": "frequency", "description": "Specify how often to take the premedication"}
+        ]
+    }
+}

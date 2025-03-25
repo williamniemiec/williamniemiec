@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Basic Care Assistance": {
+        "Parameters": {
+            "Name": {"Type": "text"},
+            "Basic Care Tasks": {"Type": "unordered list", "List items": ["bathing", "dressing", "grooming"]},
+            "Assistance Frequency": {"Type": "options", "Options": ["daily", "everyOtherDay", "weekly"]},
+            "Assistance Type": {"Type": "options", "Options": ["physicalAssistance", "reminders", "educationalResources"]},
+            "Customization": {"Type": "text"}
+        }
+    }
+}

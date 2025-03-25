@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Immunization Guide": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Immunization Information": {"Type": "text or table with columns for immunization type, dosage, and administration schedule"},
+      "Immunization Tracker": {"Type": "table or form with columns for date, time, immunization administered, and notes"},
+      "Side Effect Monitoring": {"Type": "table or form with columns for date, time, side effect, and severity"},
+      "Vaccination Schedule": {"Type": "text or table with columns for vaccination schedule, recommended immunizations, and administration dates"}
+    }
+  }
+}

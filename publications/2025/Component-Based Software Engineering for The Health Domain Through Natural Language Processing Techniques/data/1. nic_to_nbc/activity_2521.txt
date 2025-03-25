@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Heat Therapy": {
+    "Name": {"type": "text"},
+    "Instructions": {"type": "text"},
+    "Frequency": {"type": "options", "options": ["daily", "everyHours", "everyDays", "onlyOnce"]},
+    "Duration": {"type": "text"}
+  }
+}
+
+
+I removed the `Deadline Date` parameter as it's not applicable to the no-code element, and formatted the remaining parameters in JSON format. Let me know if this meets your requirements!

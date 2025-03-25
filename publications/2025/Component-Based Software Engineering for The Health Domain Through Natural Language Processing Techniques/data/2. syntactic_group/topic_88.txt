@@ -1,0 +1,10 @@
+{
+  "name": "Health Screening and Risk Education",
+  "description": "Conducts screenings for diseases and health risks, such as alcohol and smoking history. Provides educational resources on the risks associated with various health conditions.",
+  "type": "non-periodic",
+  "input": ["Health screening questions", "Alcohol and smoking history", "Disease risk assessment", "Educational resources"],
+  "output": ["Screening report", "Risk analysis feedback", "Educational material"],
+  "preconditions": ["User is undergoing health screening or risk assessment"],
+  "postconditions": ["Informed decisions about health risks and preventative care"],
+  "dependencies": ["Health screening system", "Risk assessment platform", "Educational resource library"]
+}

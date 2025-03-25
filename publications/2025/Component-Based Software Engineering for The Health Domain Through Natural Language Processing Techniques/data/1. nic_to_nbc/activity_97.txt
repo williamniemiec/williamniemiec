@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Strengths and Resources Assessment": {
+    "Family Strengths": {"type": "list of text or HTML"},
+    "Family Member Strengths": {"type": "list of text or HTML"},
+    "Support System Resources": {"type": "list of text or HTML"},
+    "Community Resources": {"type": "list of text or HTML"},
+    "Assessment Questions": {"type": "list of text or HTML"}
+  }
+}

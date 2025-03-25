@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+    "Night Light": {
+        "Parameters": {
+            "Name": {},
+            "Reason": {},
+            "Duration": {},
+            "Specific Hours": {},
+            "Reminder": {},
+            "Specific Time": {}
+        }
+    }
+}

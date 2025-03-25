@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+    "Catheter Size Selection": {
+        "parameters": [
+            {
+                "name": "Catheter Size",
+                "type": "options"
+            },
+            {
+                "name": "Instructions",
+                "type": "text"
+            }
+        ]
+    }
+}

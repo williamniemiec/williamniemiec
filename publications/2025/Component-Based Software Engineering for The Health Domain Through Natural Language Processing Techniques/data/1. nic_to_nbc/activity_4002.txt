@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+    "Parameter Specifications": {
+        "Monitoring Title": {"Description": "Title of the monitoring task", "Required": true, "Type": "text"},
+        "Question": {"Description": "Question to assess the hydration level of feet", "Required": true, "Type": "options", "Options": [{"value": "veryDry", "label": "Very Dry"}, {"value": "dry", "label": "Dry"}, {"value": "normal", "label": "Normal"}, {"value": "moist", "label": "Moist"}, {"value": "veryMoist", "label": "Very Moist"}]},
+        "Frequency": {"Description": "Specify how often to monitor foot hydration", "Required": true, "Type": "options", "Options": [{"value": "daily", "label": "Daily"}, {"value": "onlyOnce", "label": "Only once"}, {"value": "everyDays", "label": "Every x days"}]}
+    },
+    "No-code Element Name": "Foot Hydration Monitoring"
+}

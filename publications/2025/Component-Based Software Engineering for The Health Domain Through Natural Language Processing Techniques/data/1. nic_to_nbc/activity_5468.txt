@@ -1,0 +1,33 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Pre-Transfer Care",
+  "parameters": [
+    {
+      "name": "Care Tasks",
+      "type": "list of text"
+    },
+    {
+      "name": "Patient Needs",
+      "type": "list of text"
+    },
+    {
+      "name": "Care Providers",
+      "type": "list of text"
+    },
+    {
+      "name": "Transfer Date",
+      "type": "datetime"
+    },
+    {
+      "name": "Care Status",
+      "type": "list of options",
+      "options": [
+        { value: "completed" },
+        { value: "in progress" },
+        { value: "pending" }
+      ]
+    }
+  ]
+}

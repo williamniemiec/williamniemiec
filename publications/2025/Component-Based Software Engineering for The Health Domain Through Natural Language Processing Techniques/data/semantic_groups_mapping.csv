@@ -1,0 +1,68 @@
+NBC,NBC Name,Topics
+nbc_0,Vital Signs,0
+nbc_1,Exercise,1
+nbc_2,Nutrition,"2, 58, 112"
+nbc_3,Symptom Checker,"3, 67"
+nbc_4,Symptoms Tracker,4
+nbc_5,Reminder,"5, 111, 121"
+nbc_6,Critical patient,"6, 44, 84, 86"
+nbc_7,Pain control,8
+nbc_8,Shared care,"9, 10"
+nbc_9,Fetal care,11
+nbc_10,Safety,12
+nbc_11,Task,"13, 24, 69, 152"
+nbc_12,Oral hygiene,14
+nbc_13,Social,"15, 89"
+nbc_14,Tube ventilation,"16, 103"
+nbc_15,Temperature control,17
+nbc_16,Emotion tracker,"18, 78, 127"
+nbc_17,Breathing control,"19, 35, 48"
+nbc_18,Goal,"20, 145"
+nbc_19,Guide,"21, 23, 28, 32, 33, 37, 45, 46, 49, 52, 55, 60, 61, 62, 64, 68, 73, 74, 76, 87, 96, 99, 100, 105, 108, 114, 118, 122, 125, 128, 130, 132, 135, 140, 141, 146, 149, 163, 56, 138165, 166, 167, 168, 170, 177, 178, 56, 138"
+nbc_20,HCP contact,"22, 110, 124, 162, 176"
+nbc_21,Scheduling,25
+nbc_22,Reward,26
+nbc_23,Laboratory tests,27
+nbc_24,Medication control,"29, 38, 79, 98, 136, 159"
+nbc_25,Fluid control,"30, 169"
+nbc_26,Meditation,"31, 42, 106, 144"
+nbc_27,Skin,34
+nbc_28,Stimulation,36
+nbc_29,Equipment,"39, 107, 171"
+nbc_30,Bowel,"41, 117, 157, 164"
+nbc_31,Blood,43
+nbc_32,Weight control,47
+nbc_33,Tracheal care,50
+nbc_34,Religion,51
+nbc_35,Sleep control,"53, 104, 147"
+nbc_36,Accessibility,54
+nbc_37,Drainage,57
+nbc_38,Neurological assessment,59
+nbc_39,Resources,63
+nbc_40,Message,"65, 66, 156"
+nbc_41,Eye care,70
+nbc_42,Behavior tracker,71
+nbc_43,Electrolyte,72
+nbc_44,Therapy,75
+nbc_45,Allergy,"77, 119"
+nbc_46,Glucose / insulin control,80
+nbc_47,Quiz,"81, 93, 102, 113, 116, 150, 153, 154, 155"
+nbc_48,Vaccination,82
+nbc_49,Capillarity,"83, 137"
+nbc_50,Anxiety control,94
+nbc_51,Hydration,95
+nbc_52,Progress,"101, 172"
+nbc_53,Hobby,109
+nbc_54,Emotional support,115
+nbc_55,Feet control,120
+nbc_56,Gaming,"123, 139"
+nbc_57,Abuse,126
+nbc_58,Smoking cessation,129
+nbc_59,Sedation,131
+nbc_60,Measurement tracker,"133, 134"
+nbc_61,Injection,"142, 173"
+nbc_62,Makeup,148
+nbc_63,Suicide risk,158
+nbc_64,Fatigue,160
+nbc_65,Anger management,161
+nbc_66,Audio recording,"174, 175"

@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Organ/Tissue Consent Form": {
+    "parameters": {
+      "title": {"type": "text"},
+      "introduction": {"type": "text"},
+      "organ_tissue_list": {"type": "checklist"},
+      "authorization": {"type": "form"},
+      "family_member_info": {"type": "form"},
+      "signature": {"type": "digital signature"},
+      "additional_info": {"type": "text or multimedia"}
+    }
+  }
+}

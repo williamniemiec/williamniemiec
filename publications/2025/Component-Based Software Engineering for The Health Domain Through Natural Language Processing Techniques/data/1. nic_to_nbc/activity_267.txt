@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Instructor": {
+    "Parameters": {
+      "Instructor Type": {"Type": "options", "Options": ["teacher", "coach", "mentor", "peer", "other"]},
+      "Instructor Qualifications": {"Type": "text"},
+      "Instructor Expertise": {"Type": "text"},
+      "Instructor Availability": {"Type": "text or datetime"},
+      "Instructor Style": {"Type": "options", "Options": ["formal", "informal", "interactive", "other"]}
+    }
+  }
+}

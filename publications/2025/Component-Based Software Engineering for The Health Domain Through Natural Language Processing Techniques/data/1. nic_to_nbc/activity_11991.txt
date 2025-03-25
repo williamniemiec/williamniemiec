@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "blood_aspiration_instruction": {
+        "parameters": [
+            {"name": "steps"},
+            {"name": "catheter_type"},
+            {"name": "laboratory_tests_ordered"},
+            {"name": "agency_policy"},
+            {"name": "frequency"}
+        ]
+    }
+}

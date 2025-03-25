@@ -1,0 +1,46 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Resource Finder",
+  "parameters": [
+    {
+      "name": "resource_type",
+      "description": "A parameter that specifies the type of resource materials to be searched for.",
+      "type": "options",
+      "options": [
+        { value: "brochures", label: "Brochures" },
+        { value: "pamphlets", label: "Pamphlets" },
+        { value: "websites", label: "Websites" },
+        { value: "hotlines", label: "Hotlines" }
+      ]
+    },
+    {
+      "name": "organization_type",
+      "description": "A parameter that specifies the type of organization to be contacted.",
+      "type": "options",
+      "options": [
+        { value: "national", label: "National" },
+        { value: "local", label: "Local" },
+        { value: "government", label: "Government" },
+        { value: "non-profit", label: "Non-profit" }
+      ]
+    },
+    {
+      "name": "search_criteria",
+      "description": "A parameter that specifies the search criteria for finding resource organizations.",
+      "type": "text"
+    },
+    {
+      "name": "contact_method",
+      "description": "A parameter that specifies how to contact the resource organizations.",
+      "type": "options",
+      "options": [
+        { value: "phone", label: "Phone" },
+        { value: "email", label: "Email" },
+        { value: "website", label: "Website" },
+        { value: "in-person", label: "In-person" }
+      ]
+    }
+  ]
+}

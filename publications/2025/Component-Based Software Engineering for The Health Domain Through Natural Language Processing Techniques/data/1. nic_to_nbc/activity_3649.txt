@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+  "Body Image Reflection Exercise": {
+    "Introduction": {},
+    "Reflection Prompts": [
+      {
+        "Prompt": {},
+        "Response Type": {}
+      }
+    ],
+    "Loss Incorporation Exercises": [
+      {
+        "Exercise": {},
+        "Instructions": {}
+      }
+    ],
+    "Self-Care Prompts": [
+      {
+        "Prompt": {},
+        "Response Type": {}
+      }
+    ],
+    "Frequency": {}
+  }
+}

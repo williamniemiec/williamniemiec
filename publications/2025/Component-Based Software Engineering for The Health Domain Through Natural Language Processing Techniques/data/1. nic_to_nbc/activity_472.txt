@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Dentistry Consultation": {
+    "Parameters": {
+      "Dental Concerns": {"Type": "text"},
+      "Consultation Need": {"Type": "boolean"},
+      "Consultation Scheduling": {"Type": "text"},
+      "Consultation Date": {"Type": "datetime"},
+      "Confirmation": {"Type": "boolean"}
+    }
+  }
+}

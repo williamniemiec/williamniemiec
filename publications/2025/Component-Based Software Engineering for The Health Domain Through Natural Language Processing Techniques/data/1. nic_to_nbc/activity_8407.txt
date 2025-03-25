@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+    "Guided Hypnosis": {
+        "Parameters": {
+            "Title": {"Type": "text"},
+            "Content": {"Type": "audio or video"},
+            "Duration": {"Type": "time"}
+        }
+    },
+    "Treatment Plan": {
+        "Parameters": {
+            "Modalities": {"Type": "list of options"},
+            "Frequency": {"Type": "options"},
+            "Goals": {"Type": "text"}
+        }
+    }
+}

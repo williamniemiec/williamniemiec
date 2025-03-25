@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Value Explorer": {
+    "parameters": {
+      "Value Identification": {"type": "options"},
+      "Value Ranking": {"type": "ranking"},
+      "Choice Analysis": {"type": "text"},
+      "Consequence Reflection": {"type": "text"},
+      "Value-Choice Alignment": {"type": "text"}
+    }
+  }
+}

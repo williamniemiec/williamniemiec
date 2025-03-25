@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "noCodeElementName": "Form",
+  "parameterSpecifications": {
+    "Fields": [
+      {"name": "Time of initiation of collecting", "type": "datetime"},
+      {"name": "Condition of blood", "type": "text or options"},
+      {"name": "Type of anticoagulants", "type": "text or options"},
+      {"name": "Amount of anticoagulants", "type": "number"},
+      {"name": "Retrieval volume", "type": "number"}
+    ]
+  }
+}

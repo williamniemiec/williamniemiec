@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+    "Developmental Activity": {
+        "Activity Name": {"Description": "Title of the activity", "Required": true, "Type": "text"},
+        "Objective": {"Description": "What the activity aims to achieve", "Required": true, "Type": "text"},
+        "Instructions": {"Description": "How to perform the activity", "Required": true, "Type": "text"},
+        "Frequency": {"Description": "How often the activity should be performed", "Required": true, "Type": "options", "Options": [
+            { "value": "daily", "label": "Daily" },
+            { "value": "everyOtherDay", "label": "Every other day" },
+            { "value": "weekly", "label": "Weekly" },
+            { "value": "custom", "label": "Custom" }
+        ]}
+    }
+}
+
+
+I removed the not applicable parameters (Tips, Visual Aids, Deadline Date) as they are marked as `Required: false`.

@@ -1,0 +1,35 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "urinary continence referral",
+    "parameters": [
+        { 
+            "name": "reason", 
+            "description": "reason for referral to urinary continence specialist", 
+            "required": true, 
+            "type": "text"
+        },
+        { 
+            "name": "specialist_info", 
+            "description": "information about the urinary continence specialist", 
+            "required": true, 
+            "type": "object",
+            "object": {
+                "name": "string",
+                "location": "string",
+                "contact_info": "string"
+            }
+        },
+        { 
+            "name": "appointment_scheduling", 
+            "description": "schedule an appointment with the urinary continence specialist", 
+            "required": true, 
+            "type": "options",
+            "options": [
+                { value: "yes", label: "Yes" },
+                { value: "no", label: "No" }
+            ]
+        }
+    ]
+}

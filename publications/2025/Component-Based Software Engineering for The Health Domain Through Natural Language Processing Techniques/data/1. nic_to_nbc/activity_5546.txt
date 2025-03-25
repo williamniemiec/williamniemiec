@@ -1,0 +1,11 @@
+Since there are no specific `{{ PARAMETER ESPECIFICATIONS }}` or `{{ NO-CODE ELEMENT NAME }}` mentioned in the input text, I will assume that the task is to extract potential no-code element names from the text.
+
+Here is the output in JSON format:
+
+
+{
+  "noCodeElementName": [
+    "educates patients on the importance of proper laboratory collection methodology",
+    "provides general information on how to prepare for laboratory tests"
+  ]
+}

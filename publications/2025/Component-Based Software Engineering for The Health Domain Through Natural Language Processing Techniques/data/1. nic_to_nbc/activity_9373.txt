@@ -1,0 +1,32 @@
+Here is the output in JSON format:
+
+
+{
+  "Oxygen Response Monitoring": {
+    "Vital Signs": {
+      "Description": "Select vital signs to monitor",
+      "Required": true,
+      "Type": "checkboxes"
+    },
+    "Activity List": {
+      "Description": "List of self-care or nursing activities to monitor",
+      "Required": true,
+      "Type": "unordered list"
+    },
+    "Monitoring Schedule": {
+      "Description": "Schedule for monitoring vital signs during activities",
+      "Required": true,
+      "Type": "schedule"
+    },
+    "Data Entry": {
+      "Description": "Enter vital sign data during activities",
+      "Required": true,
+      "Type": "numerical input"
+    },
+    "Graphical Display": {
+      "Description": "Display vital sign data graphically",
+      "Required": true,
+      "Type": "graph or chart"
+    }
+  }
+}

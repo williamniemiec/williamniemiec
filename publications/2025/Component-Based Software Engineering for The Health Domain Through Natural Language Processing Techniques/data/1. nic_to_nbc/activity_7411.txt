@@ -1,0 +1,29 @@
+Here is the output in JSON format:
+
+
+{
+  "Crib Safety Reminder": {
+    "Parameters": {
+      "Reminder": {
+        "Description": "Reminder to keep side rails of crib up when not caring for infant",
+        "Required": true,
+        "Type": "text"
+      },
+      "Frequency": {
+        "Description": "Frequency of reminder (e.g. every time infant is placed in crib, etc.)",
+        "Required": false,
+        "Type": "options",
+        "Options": [
+          { "value": "everyTime", "label": "Every time infant is placed in crib" },
+          { "value": "atBedtime", "label": "At bedtime" },
+          { "value": "custom", "label": "Custom (please specify)" }
+        ]
+      },
+      "Custom Frequency": {
+        "Description": "Custom frequency of reminder (e.g. every 2 hours, etc.)",
+        "Required": false,
+        "Type": "text"
+      }
+    }
+  }
+}

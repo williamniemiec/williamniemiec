@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+    "Discussion Forum": {
+        "name": {"type": "text"},
+        "description": {"type": "text"},
+        "question_type": {"type": "options", "options": ["open-ended", "multiple-choice"]},
+        "response_type": {"type": "options", "options": ["text", "video"]}
+    },
+    "Question": {
+        "question": {"type": "text"},
+        "question_type": {"type": "options", "options": ["open-ended", "multiple-choice"]}
+    },
+    "Response": {
+        "response": {"type": "text or video"},
+        "response_type": {"type": "options", "options": ["text", "video"]}
+    }
+}

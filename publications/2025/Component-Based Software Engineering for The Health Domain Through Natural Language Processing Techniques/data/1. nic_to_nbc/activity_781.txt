@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "Foot Deformity Inspection": {
+    "Deformity Type": {
+      "type": "options",
+      "options": ["cocked-up toes", "prominent metatarsal heads", "high arch", "low arch", "Charcot changes", "other"]
+    },
+    "Photo": {
+      "type": "camera"
+    },
+    "Frequency": {
+      "type": "options",
+      "options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+    },
+    "Deadline Date": {
+      "type": "datetime"
+    },
+    "Notes": {
+      "type": "text"
+    }
+  }
+}

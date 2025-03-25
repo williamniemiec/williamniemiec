@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "noCodeElementName": "Instruction",
+  "parameterSpecifications": {
+    "title": "Dry the skin at the incision site and drains",
+    "content": "Please gently pat the skin around the incision site and drains with a clean towel to remove any excess moisture.",
+    "frequency": "After each dressing change"
+  }
+}

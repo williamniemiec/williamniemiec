@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Patient Education": {
+        "Test Results": {"type": "text"},
+        "Interventions": {"type": "text"},
+        "Education Method": {"type": "options", "options": ["verbal", "written", "visual", "etc."]},
+        "Patient Understanding": {"type": "options", "options": ["understands", "partiallyUnderstands", "doesNotUnderstand"]},
+        "Family Involvement": {"type": "options", "options": ["present", "notPresent", "involved", "notInvolved"]},
+        "Education Materials": {"type": "list of text"}
+    }
+}

@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Attention Redirect": {
+    "Parameters": {
+      "Name": {},
+      "Description": {},
+      "Triggers": {},
+      "Redirect Strategies": {},
+      "Tips": {}
+    }
+  }
+}
+
+
+I removed the `Frequency` and `Deadline Date` parameters as they were marked as "not applicable" since their types are not plain text. Let me know if you need any further assistance!

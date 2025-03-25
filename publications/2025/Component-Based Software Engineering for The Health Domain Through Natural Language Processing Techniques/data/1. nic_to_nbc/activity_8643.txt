@@ -1,0 +1,14 @@
+
+
+
+{
+  "PRN Medication Administration": {
+    "parameters": {
+      "Medication List": {"type": "unordered list"},
+      "Administration Criteria": {"type": "text or table"},
+      "Dosage Instructions": {"type": "text or table"},
+      "Side Effects": {"type": "text or list"},
+      "Monitoring": {"type": "text or table"}
+    }
+  }
+}

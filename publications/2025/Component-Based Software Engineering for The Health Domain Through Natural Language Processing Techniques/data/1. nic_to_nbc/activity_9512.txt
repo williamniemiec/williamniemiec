@@ -1,0 +1,7 @@
+Here is the output in JSON format:
+
+
+{
+  "parameterSpecifications": "personalized self-care plan",
+  "noCodeElementName": "Age-Specific Self-Care"
+}

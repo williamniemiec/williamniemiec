@@ -1,0 +1,29 @@
+{
+  "name": "Sleep Control",
+  "description": "Tracks and optimizes sleep patterns, ensuring adequate rest and recovery. Manages bedtime routines, sleep disturbances, and scheduled rest periods to improve overall sleep quality.",
+  "type": "periodic",
+  "input": [
+    "Sleep duration",
+    "Bedtime routine",
+    "Sleep interruptions",
+    "Wakefulness frequency",
+    "Rest periods and schedules"
+  ],
+  "output": [
+    "Sleep quality report",
+    "Wakefulness analysis",
+    "Rest schedule recommendations",
+    "Bedtime routine optimization"
+  ],
+  "preconditions": [
+    "User is tracking or managing sleep and rest periods"
+  ],
+  "postconditions": [
+    "Improved sleep consistency and rest quality"
+  ],
+  "dependencies": [
+    "Sleep tracking system",
+    "Rest schedule management tool",
+    "Relaxation technique resources"
+  ]
+}

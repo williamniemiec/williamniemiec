@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+
+{
+    "glare_solution": {
+        "description": "select a solution to minimize glare",
+        "type": "options",
+        "options": [
+            { "value": "sunglasses", "label": "Offer sunglasses" },
+            { "value": "window_covering", "label": "Draw window covering" },
+            { "value": "both", "label": "Both" }
+        ]
+    }
+}

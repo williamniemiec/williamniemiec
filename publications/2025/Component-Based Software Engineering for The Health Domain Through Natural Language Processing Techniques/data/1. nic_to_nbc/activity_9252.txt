@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Supportive Message": {
+    "Parameters": {
+      "Message Type": {"Type": "options", "Options": ["encouragement", "empathy", "education", "etc."]},
+      "Message Content": {"Type": "text or video"},
+      "Tone": {"Type": "options", "Options": ["caring", "supportive", "informative", "etc."]},
+      "Frequency": {"Type": "options", "Options": ["daily", "weekly", "monthly", "as needed"]},
+      "Personalization": {"Type": "boolean"}
+    }
+  }
+}

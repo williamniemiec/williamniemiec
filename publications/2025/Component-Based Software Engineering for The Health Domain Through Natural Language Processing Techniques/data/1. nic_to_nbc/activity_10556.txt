@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+  "Activated Carbon Dressing": {
+    "Indication": {
+      "Description": "Reason for using activated carbon dressings (e.g. wound type, odor control)",
+      "Required": true,
+      "Type": "text"
+    },
+    "Instructions": {
+      "Description": "Instructions on how to apply and use activated carbon dressings",
+      "Required": true,
+      "Type": "text"
+    },
+    "Frequency": {
+      "Description": "How often to change the activated carbon dressing",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "daily", "label": "Daily" },
+        { "value": "everyOtherDay", "label": "Every other day" },
+        { "value": "every2Days", "label": "Every 2 days" },
+        { "value": "every3Days", "label": "Every 3 days" }
+      ]
+    }
+  }
+}

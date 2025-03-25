@@ -1,0 +1,50 @@
+{
+  "name": "Emotion Tracker",
+  "description": "The 'Emotion Tracker' element monitors and analyzes users' emotional states and moods over time. It includes tracking emotional expressions, mood intensity, and emotional well-being through reflections and prompts. The element also supports empathetic communication and offers guidance for grief and emotional distress, providing insights into emotional trends and coping strategies.",
+  "type": "non-periodic",
+  "input": [
+    "Emotion type",
+    "Mood intensity",
+    "Reflection prompts",
+    "Feeling identification",
+    "Emotional tone analysis",
+    "Empathetic message content",
+    "Worry and fear responses",
+    "Surgical event communication",
+    "Grief stages",
+    "Coping strategies",
+    "Loss reflection"
+  ],
+  "output": [
+    "Mood tracking report",
+    "Emotional trend analysis",
+    "Reflection insights",
+    "Empathetic support messages",
+    "Emotional well-being report",
+    "Communication effectiveness analysis",
+    "Grief support guide",
+    "Coping strategy feedback",
+    "Emotional reflection suggestions"
+  ],
+  "preconditions": [
+    "User logs or expresses emotional state",
+    "User requires emotional support or is facing a stressful situation",
+    "User is experiencing grief or supporting someone in grief"
+  ],
+  "postconditions": [
+    "Emotional data is recorded and analyzed",
+    "Improved emotional well-being and reduced anxiety through empathetic communication",
+    "Effective grief coping and emotional support"
+  ],
+  "dependencies": [
+    "Mood tracking system",
+    "Emotion analysis tools",
+    "Reflection prompt database",
+    "Emotional support platform",
+    "Empathy-driven communication tools",
+    "Stress response monitoring",
+    "Grief support resources",
+    "Coping strategy platform",
+    "Emotional well-being tools"
+  ]
+}

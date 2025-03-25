@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "Shivering Control": {
+    "Method": {
+      "type": "options",
+      "options": ["medication", "wrappingExtremities"]
+    },
+    "Medication Details": {
+      "properties": {
+        "Medication Name": {"type": "text"},
+        "Dosage": {"type": "text"},
+        "Frequency": {
+          "type": "options",
+          "options": ["asNeeded", "daily", "everyHours", "everyDays"]
+        }
+      }
+    },
+    "Wrapping Instructions": {"type": "text"},
+    "Frequency": {
+      "type": "options"
+    }
+  }
+}

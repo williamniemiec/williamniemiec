@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Orientation Reminder": {
+        "parameters": {
+            "Person": {"type": "text"},
+            "Place": {"type": "text"},
+            "Time": {"type": "datetime"},
+            "Frequency": {"type": "options", "options": ["daily", "everyHours", "onDemand"]}
+        }
+    }
+}

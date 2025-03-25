@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+  "Performance Feedback": {
+    "Interval": {
+      "Description": "Specific interval for providing feedback (e.g. daily, weekly, monthly)",
+      "Required": true,
+      "Type": "select",
+      "Options": "list of interval options (e.g. daily, weekly, monthly)"
+    },
+    "Performance Metrics": {
+      "Description": "List of performance metrics to track and provide feedback on",
+      "Required": true,
+      "Type": "list-item",
+      "List-item": "list of metric objects, each with a name, description, and value"
+    },
+    "Feedback Template": {
+      "Description": "Template for providing feedback on performance",
+      "Required": true,
+      "Type": "text"
+    }
+  }
+}
+
+
+I removed the `Goal Setting` parameter since it's not applicable (required: false). Let me know if you need anything else!

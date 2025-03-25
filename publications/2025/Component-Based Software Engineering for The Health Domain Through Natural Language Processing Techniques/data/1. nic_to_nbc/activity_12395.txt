@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+    "Question": {
+        "parameters": {
+            "name": "Graft Monitoring",
+            "content": ["What is the color of the graft? (Select one: pink, pale, blue, other)", "Is the graft warm to the touch? (Select one: yes, no)", "How is the capillary refill of the graft? (Select one: normal, delayed, absent)", "What is the turgor of the graft? (Select one: normal, decreased, increased)"],
+            "answer type": "Selection (e.g. multiple choice) or text",
+            "frequency": "daily"
+        }
+    },
+    "Task": {
+        "parameters": {
+            "name": "Graft Monitoring",
+            "content": "Please monitor the color, warmth, capillary refill, and turgor of the graft daily and report any changes or concerns.",
+            "frequency": "Daily"
+        }
+    }
+}

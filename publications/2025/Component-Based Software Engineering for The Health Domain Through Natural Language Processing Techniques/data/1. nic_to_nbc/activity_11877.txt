@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Oral Care Plan": {
+    "Name": {"type": "text"},
+    "Brushing Instructions": {"type": ["text", "video"]},
+    "Flossing Instructions": {"type": ["text", "video"]},
+    "Mouthwash Use": {"type": ["boolean", "frequency"]},
+    "Dental Hygiene Reminders": {"type": ["frequency", "specific dates and times"]},
+    "Oral Care Frequency": {"options": ["daily", "everyHours", "everyDays"]},
+    "Deadline Date": {"type": "datetime"},
+    "Resources": {"type": ["list of URLs", "file uploads"]}
+  }
+}

@@ -1,0 +1,43 @@
+Here is the output in JSON format:
+
+
+{
+  "Weight Tracker": {
+    "Parameters": {
+      "Weight": {
+        "Type": "number"
+      },
+      "Time of Day": {
+        "Type": "select from options"
+      },
+      "Frequency": {
+        "Options": ["daily", "every 12 hours", "every 8 hours"]
+      },
+      "Deadline Date": {
+        "Type": "datetime"
+      },
+      "Additional Notes": {
+        "Type": "text"
+      }
+    }
+  },
+  "Question": {
+    "Parameters": {
+      "Question 1": {
+        "Answer Type": "number"
+      },
+      "Question 2": {
+        "Answer Type": "select from options"
+      },
+      "Frequency": {
+        "Options": ["daily", "every 12 hours", "every 8 hours"]
+      },
+      "Deadline Date": {
+        "Type": "datetime"
+      }
+    }
+  }
+}
+
+
+Note that I removed the "Not Applicable" parameters, which were not present in the input text. Let me know if you have any further questions!

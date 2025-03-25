@@ -1,0 +1,10 @@
+Here is the output in JSON format:
+
+
+{
+  "Reporting Requirements": {
+    "State": {"Type": "options", "Options": ["list of states or regions"]},
+    "Reporting Requirements": {"Type": "text or informational content"},
+    "Resources": {"Type": "text or URL"}
+  }
+}

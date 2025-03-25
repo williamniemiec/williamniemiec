@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+    "Chemical Agent Identifier": {
+        "name": {"type": "text"},
+        "agent_type": {"type": "options"},
+        "characteristics": {"type": "text"},
+        "effects": {"type": "text"},
+        "detection_methods": {"type": "text"},
+        "treatment_options": {"type": "text"},
+        "notes": {"type": "text"}
+    },
+    "Knowledge Base": {
+        "name": {"type": "text"},
+        "topic": {"type": "text"},
+        "content": {"type": "text"},
+        "tags": {"type": "text"},
+        "references": {"type": "text"}
+    }
+}

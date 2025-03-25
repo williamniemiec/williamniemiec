@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Nursing Diagnosis Identifier": {
+    "Parameters": {
+      "Name": {},
+      "Data Sources": {},
+      "Clinical Criteria": {},
+      "Diagnosis List": {},
+      "Identification Logic": {}
+    }
+  }
+}

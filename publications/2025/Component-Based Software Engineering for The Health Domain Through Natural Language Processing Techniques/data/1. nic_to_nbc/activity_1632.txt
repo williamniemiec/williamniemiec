@@ -1,0 +1,9 @@
+Here is the output in JSON format:
+
+
+{
+  "Feedback Module": {
+    "Training Situation": {"Type": "text"},
+    "Social Response": {"Type": "text"}
+  }
+}

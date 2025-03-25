@@ -1,0 +1,12 @@
+
+
+
+{
+  "instruction": {
+    "parameters": {
+      "Content": {"type": "text or HTML"},
+      "Image": {"type": "image"},
+      "Title": {"type": "text"}
+    }
+  }
+}

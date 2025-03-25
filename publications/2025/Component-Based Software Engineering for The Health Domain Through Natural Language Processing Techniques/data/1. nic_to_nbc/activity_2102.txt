@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Patient Positioning",
+  "parameters": [
+    {
+      "name": "Extremity"
+    },
+    {
+      "name": "Position"
+    },
+    {
+      "name": "Rationale"
+    }
+  ]
+}

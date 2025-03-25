@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Blood Collection": {
+    "parameters": [
+      {"Test Type": {}},
+      {"Collection Method": {}},
+      {"Collection Device": {}},
+      {"Manufacturer's Specifications": {}},
+      {"Blood Volume": {}}
+    ]
+  }
+}

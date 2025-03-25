@@ -1,0 +1,31 @@
+Here is the output in JSON format:
+
+
+{
+  "Decision Support": {
+    "Parameters": {
+      "Pregnancy Outcome Options": {"Type": "list of options"},
+      "Decision Factors": {"Type": "list of text inputs"},
+      "Significant Other Input": {"Type": "text input or audio/video recording"},
+      "Decision Timeline": {"Type": "datetime"},
+      "Resources": {"Type": "list of links or embedded content"}
+    }
+  },
+  "Question": {
+    "Parameters": {
+      "Pregnancy Outcome Preferences": {"Type": "list of options"},
+      "Decision Factors": {"Type": "list of text inputs"},
+      "Significant Other Input": {"Type": "text input or audio/video recording"},
+      "Decision Timeline": {"Type": "datetime"}
+    }
+  },
+  "Guide": {
+    "Parameters": {
+      "Decision Steps": {"Type": "list of text inputs"},
+      "Resources": {"Type": "list of links or embedded content"}
+    }
+  }
+}
+
+
+Let me know if you need any further modifications!

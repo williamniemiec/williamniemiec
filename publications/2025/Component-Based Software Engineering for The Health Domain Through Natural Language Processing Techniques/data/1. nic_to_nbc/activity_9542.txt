@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+    "Pain Control Options": {
+        "Parameters": {
+            "Pain Control Options": {
+                "Type": "checklist"
+            },
+            "Benefits and Risks": {
+                "Type": "text"
+            },
+            "Mother's Preferences": {
+                "Type": "text"
+            },
+            "Healthcare Provider Recommendations": {
+                "Type": "text"
+            },
+            "Decision Support": {
+                "Type": "text"
+            }
+        }
+    }
+}

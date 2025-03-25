@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Adhesive Tape and Debris Removal": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Content": {"Type": ["text", "image", "video"]},
+      "Frequency": {"Type": "text"},
+      "Removal Technique": {"Type": "text"},
+      "Additional Tips": {"Type": "list of text"}
+    }
+  }
+}

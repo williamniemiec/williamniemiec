@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Position Change Instructions": {
+    "parameters": [
+      {"name": "position_change_frequency", "description": "How often should you change your position?", "required": true, "type": "text", "value": "At least every 2 hours"},
+      {"name": "position_change_steps", "description": "What are the steps to follow for changing your position?", "required": true, "type": "list", "value": ["Turn onto your side, with your affected limb on top.", "Use a pillow or cushion to support your affected limb.", "Stay in this position for at least 30 minutes before changing again."]}
+    ]
+  },
+  "Position Change Reminders": {
+    "parameters": [
+      {"name": "reminder_frequency", "description": "How often should you receive reminders to change your position?", "required": true, "type": "options", "options": [{"value": "every2Hours", "label": "Every 2 hours"}, {"value": "every4Hours", "label": "Every 4 hours"}, {"value": "custom", "label": "Custom"}]}
+    ]
+  }
+}

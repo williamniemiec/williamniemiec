@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+  "Developmental Guidance": {
+    "Parameters": {
+      "Child's Developmental Level": {"Type": "options", "Options": ["infancy", "toddlerhood", "preschool age", "etc."]},
+      "Ability Level": {"Type": "options", "Options": ["typical development", "developmental delay", "disability", "etc."]},
+      "Realistic Expectations": {"Type": "text", "Description": "age-appropriate milestones, developmental norms, etc."},
+      "Parental Guidance": {"Type": "text", "Description": "parenting tips, strategies, and resources"},
+      "Developmental Tracking": {"Type": "form", "Fields": ["developmental milestones", "progress notes", "etc."]}
+    }
+  },
+  "Child Development Guide": {
+    "Parameters": {
+      "Pages": {"Type": "book-page", "Description": "list of HTML texts"},
+      "Topics": {"Type": "options", "Options": ["cognitive development", "language development", "social-emotional development", "etc."]}
+    }
+  }
+}
+
+
+Note: I removed the "Not Applicable" parameters as per your request.

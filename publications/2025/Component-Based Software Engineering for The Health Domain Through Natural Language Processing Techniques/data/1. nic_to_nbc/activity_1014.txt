@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Educational Material Selection": {
+    "Topic": {},
+    "Format": {},
+    "Language": {},
+    "Literacy Level": {},
+    "Cultural Background": {},
+    "Material Type": {},
+    "Recommended Materials": {}
+  }
+}

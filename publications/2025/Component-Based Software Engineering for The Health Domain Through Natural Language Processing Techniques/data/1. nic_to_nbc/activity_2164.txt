@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Puncture Site Selection",
+    "parameters": {
+        "Puncture Site": {
+            "type": "options",
+            "options": ["outer_lower_aspect_of_heel", "sides_of_distal_phalanges_of_fingers", "sides_of_distal_phalanges_of_toes", "alternative_sites"]
+        },
+        "Reason for Selection": {
+            "type": "text"
+        },
+        "Image or Diagram": {
+            "type": "image or multimedia"
+        }
+    }
+}

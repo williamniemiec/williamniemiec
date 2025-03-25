@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Pacemaker Therapy Insights": {
+    "parameters": {
+      "Symptom Tracker": {"type": ["interactive dashboard", "graph"]},
+      "Treatment Effects": {"type": ["infographic", "interactive dashboard"]},
+      "Data Visualization": {"type": ["interactive dashboard", "graph"]},
+      "Frequently Asked Questions": {"type": "list of HTML texts"},
+      "Personalized Insights": {"type": ["interactive dashboard", "personalized report"]}
+    }
+  }
+}

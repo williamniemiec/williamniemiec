@@ -1,0 +1,41 @@
+Here is the output in JSON format:
+
+
+{
+  "Home Visit": {
+    "Risk Assessment": {
+      "Type": "options",
+      "Options": ["high", "moderate", "low"]
+    },
+    "Home Visit Schedule": {
+      "Type": "datetime",
+      "Description": "schedule home visit dates and times"
+    },
+    "Visit Details": {
+      "Type": "text",
+      "Description": "notes about the visit, concerns, etc."
+    },
+    "Care Plan": {
+      "Type": "text",
+      "Description": "instructions, recommendations, etc."
+    },
+    "Next Steps": {
+      "Type": "text",
+      "Description": "instructions, recommendations, etc."
+    }
+  },
+  "Risk Tracker": {
+    "Risk Level": {
+      "Type": "options",
+      "Options": ["high", "moderate", "low"]
+    },
+    "Home Visit Schedule": {
+      "Type": "datetime",
+      "Description": "schedule home visit dates and times"
+    },
+    "Visit History": {
+      "Type": "text",
+      "Description": "notes about previous visits, concerns, etc."
+    }
+  }
+}

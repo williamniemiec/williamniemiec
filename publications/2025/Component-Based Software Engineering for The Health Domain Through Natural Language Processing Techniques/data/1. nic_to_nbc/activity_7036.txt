@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+    "Visitor Limitation": {
+        "Reason": {"type": "text"},
+        "Limitation Details": {"type": "text"},
+        "Acknowledgement": {"type": "boolean"},
+        "Notes": {"type": "text"}
+    }
+}

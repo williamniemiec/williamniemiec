@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Parenting Skills Development Module": {
+    "Developmental Stage Content": {"type": "list of content types"},
+    "Skill-Building Exercises": {"type": "list of skill-building exercise types"},
+    "Task-Specific Guidance": {"type": "list of task-specific guidance types"},
+    "Reflection Exercise": {"type": "list of reflection exercise types"},
+    "Frequency": {"options": ["daily", "weekly", "monthly"]},
+    "Deadline Date": {"type": "datetime"},
+    "Motivational Message": {"type": "text"}
+  }
+}

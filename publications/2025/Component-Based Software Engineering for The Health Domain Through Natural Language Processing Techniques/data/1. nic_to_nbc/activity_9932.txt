@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+  "Tocolysis Administration": {
+    "Medication": {
+      "type": "options",
+      "options": ["oral", "subcutaneous"]
+    },
+    "Dose": {
+      "type": "numeric"
+    },
+    "Frequency": {
+      "type": "options",
+      "options": ["daily", "every 2 hours", "every 4 hours", "as needed"]
+    },
+    "Route": {
+      "type": "options",
+      "options": ["oral", "subcutaneous"]
+    },
+    "Physician Order": {
+      "type": "text or file upload"
+    },
+    "Uterine Quiescence": {
+      "type": "text or numeric"
+    }
+  }
+}

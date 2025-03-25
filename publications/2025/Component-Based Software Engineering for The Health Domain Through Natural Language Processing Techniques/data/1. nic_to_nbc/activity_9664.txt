@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Elimination Pattern Influencer Identifier",
+    "parameters": [
+        { 
+            "name": "Influencer List", 
+            "type": "ordered list"
+        },
+        { 
+            "name": "Patient Input", 
+            "type": "text or multimedia"
+        },
+        { 
+            "name": "Pattern Analysis", 
+            "type": "text or multimedia"
+        },
+        { 
+            "name": "Influencer Ranking", 
+            "type": "ordered list"
+        },
+        { 
+            "name": "Resources", 
+            "type": "text or link"
+        }
+    ]
+}

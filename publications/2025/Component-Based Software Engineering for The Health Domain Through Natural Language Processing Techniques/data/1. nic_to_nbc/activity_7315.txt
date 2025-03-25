@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Balance Instruction Guide": {
+    "Parameters": {
+      "Balance Techniques": {"Type": "list of balance techniques"},
+      "Instructional Content": {"Type": "instructional content"},
+      "Movement Guides": {"Type": "movement guides"},
+      "Balance Exercises": {"Type": "balance exercises"}
+    }
+  }
+}
+
+
+Note that I removed the `Progress Tracking` parameter as it was not applicable to the no-code element.

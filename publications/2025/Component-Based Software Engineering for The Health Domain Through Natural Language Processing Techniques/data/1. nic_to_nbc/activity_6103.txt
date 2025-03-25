@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Traction Device Maintenance Guide",
+    "parameters": [
+        {
+            "name": "Traction Device Maintenance Instructions"
+        },
+        {
+            "name": "Safety Precautions"
+        },
+        {
+            "name": "Traction Device Selection"
+        },
+        {
+            "name": "Frequency"
+        }
+    ]
+}

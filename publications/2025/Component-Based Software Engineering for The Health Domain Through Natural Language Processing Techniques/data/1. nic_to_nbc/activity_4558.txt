@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Fixation Device Monitoring": {
+    "Name": "",
+    "Instructions": "",
+    "Monitoring Questions": {},
+    "Frequency": "",
+    "Deadline Date": ""
+  }
+}

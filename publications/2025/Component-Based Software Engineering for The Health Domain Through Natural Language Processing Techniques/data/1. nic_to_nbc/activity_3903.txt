@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+
+{
+    "Mattress Recommendation": {
+        "Parameters": {
+            "Name": {},
+            "Mattress Type": {},
+            "Firmness Level": {},
+            "Instructions": {},
+            "Frequency": {}
+        }
+    }
+}

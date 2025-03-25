@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Meconium Fluid Documentation": {
+    "Parameters": {
+      "Meconium Fluid Presence": {},
+      "Rupture of Membranes": {},
+      "Timestamp": {}
+    }
+  }
+}

@@ -1,0 +1,40 @@
+Here is the output in JSON format:
+
+
+{
+  "Exercise Instruction Reinforcement": {
+    "Parameters": {
+      "Exercise Instructions": {
+        "Type": "text",
+        "Required": true
+      },
+      "Reinforcement Method": {
+        "Type": "options",
+        "Options": [
+          { "value": "verbalReinforcement", "label": "Verbal reinforcement" },
+          { "value": "demonstration", "label": "Demonstration" },
+          { "value": "writtenInstructions", "label": "Written instructions" },
+          { "value": "videoTutorial", "label": "Video tutorial" },
+          { "value": "other", "label": "Other (specify)" }
+        ]
+      },
+      "Frequency of Reinforcement": {
+        "Type": "options",
+        "Options": [
+          { "value": "daily", "label": "Daily" },
+          { "value": "weekly", "label": "Weekly" },
+          { "value": "monthly", "label": "Monthly" },
+          { "value": "asNeeded", "label": "As needed" }
+        ]
+      },
+      "Patient Understanding": {
+        "Type": "options",
+        "Options": [
+          { "value": "fullyUnderstood", "label": "Fully understood" },
+          { "value": "partiallyUnderstood", "label": "Partially understood" },
+          { "value": "notUnderstood", "label": "Not understood" }
+        ]
+      }
+    }
+  }
+}

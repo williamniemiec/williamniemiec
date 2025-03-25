@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+
+{
+  "Knowledge Assessment": {
+    "Questions": {"Type": "list of text or multiple-choice questions"},
+    "Answers": {"Type": "list of text or multiple-choice answers"},
+    "Motivation Scale": {"Type": "options", "Options": ["Likert scale", "visual analog scale", "etc."]},
+    "Scoring": {"Type": "text or formula"},
+    "Results": {"Type": "text or graph"}
+  }
+}

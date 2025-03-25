@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "Ambu Bag Availability": {
+    "parameters": {
+      "name": {"type": "text"},
+      "Ambu_bag_type": {
+        "type": "Ambu bag type object",
+        "properties": {
+          "name": {"type": "text"},
+          "description": {"type": "text"}
+        }
+      },
+      "bedside_location": {"type": "text"},
+      "reminder_frequency": {
+        "type": "frequency object",
+        "properties": {
+          "unit": {"type": "text"},
+          "value": {"type": "number"}
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Modification Logger": {
+    "Parameters": {
+      "Modification Type": {"Type": "options", "Options": ["medication change", "therapy schedule adjustment", "goal adjustment", "custom"]},
+      "Modification Description": {"Type": "text"},
+      "Reason for Modification": {"Type": "text"},
+      "Date of Modification": {"Type": "datetime"},
+      "Treatment Team Notification": {"Type": "boolean"},
+      "Notification Method": {"Type": "options", "Options": ["email", "in-app notification", "phone call", "custom"]},
+      "Documentation": {"Type": "file or multimedia content"}
+    }
+  }
+}

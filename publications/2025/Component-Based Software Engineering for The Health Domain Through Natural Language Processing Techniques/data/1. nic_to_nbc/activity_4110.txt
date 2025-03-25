@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+  "Food Diary": {
+    "Parameters": {
+      "Food Item": {"Type": "text"},
+      "Portion Size": {"Type": "number"},
+      "Unit": {"Type": "options", "Options": ["grams", "ounces", "cups", "etc."]},
+      "Calories": {"Type": "number"},
+      "Meal Time": {"Type": "time"},
+      "Frequency": {"Type": "options", "Options": ["daily", "weekly", "monthly", "oneTime"]},
+      "Deadline Date": {"Type": "datetime"},
+      "Target Range": {"Type": "range"},
+      "Alert Threshold": {"Type": "range"}
+    }
+  },
+  "Data Entry": {
+    "Parameters": {
+      "Food Item": {"Type": "text"},
+      "Calories": {"Type": "number"},
+      "Frequency": {"Type": "options", "Options": ["daily", "weekly", "monthly", "oneTime"]},
+      "Deadline Date": {"Type": "datetime"}
+    }
+  }
+}

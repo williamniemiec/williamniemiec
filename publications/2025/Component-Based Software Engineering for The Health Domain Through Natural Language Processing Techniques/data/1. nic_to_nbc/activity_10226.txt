@@ -1,0 +1,30 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Bone Marrow Functioning Education",
+    "parameters": [
+        { 
+            "name": "Education Content", 
+            "type": "text or multimedia"
+        },
+        { 
+            "name": "Therapy Type", 
+            "type": "text or list of text"
+        },
+        { 
+            "name": "Bone Marrow Functioning Assessment", 
+            "type": "numerical value or text"
+        },
+        { 
+            "name": "Personalized Recommendations", 
+            "type": "text or list of text"
+        },
+        { 
+            "name": "Family Education", 
+            "type": "text or multimedia"
+        }
+    ]
+}
+
+Note that I removed the `description` and `required` fields, as well as the `content_type` field, since they were not specified in the output format. Let me know if you need anything else!

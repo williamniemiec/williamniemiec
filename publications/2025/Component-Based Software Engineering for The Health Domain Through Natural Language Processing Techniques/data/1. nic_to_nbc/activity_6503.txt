@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Bowel Sound Consultation": {
+    "parameters": [
+      {"name": "Bowel Sound Change"},
+      {"name": "Bowel Sound Frequency"},
+      {"name": "Physician Consultation"},
+      {"name": "Follow-up Plan"}
+    ]
+  }
+}

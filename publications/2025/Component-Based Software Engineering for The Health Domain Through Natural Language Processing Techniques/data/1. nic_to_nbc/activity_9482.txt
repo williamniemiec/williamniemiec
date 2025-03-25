@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+  "Personal Protective Equipment (PPE) Guide": {
+    "parameters": {
+      "PPE Type": {
+        "type": "options",
+        "options": ["gloves", "goggles", "mask", "etc."]
+      },
+      "PPE Instructions": {
+        "type": ["text", "video"]
+      },
+      "PPE Scenarios": {
+        "type": ["text", "images"]
+      },
+      "PPE Reminders": {
+        "type": ["notification", "alert"]
+      }
+    }
+  }
+}

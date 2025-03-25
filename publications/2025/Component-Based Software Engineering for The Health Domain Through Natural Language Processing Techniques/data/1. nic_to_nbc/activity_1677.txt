@@ -1,0 +1,10 @@
+Here is the output in JSON format:
+
+
+{
+    "resource": [
+        {"name": "name", "description": "resource title"},
+        {"name": "content", "description": "written materials content"},
+        {"name": "knowledge_need", "description": "identified knowledge need"}
+    ]
+}

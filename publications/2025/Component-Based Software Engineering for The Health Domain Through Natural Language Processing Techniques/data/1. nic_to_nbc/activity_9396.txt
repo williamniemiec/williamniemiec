@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Guide": {
+    "title": "",
+    "content": "",
+    "pages": [],
+    "notes": ""
+  },
+  "Instruction": {
+    "title": "",
+    "steps": [],
+    "notes": ""
+  }
+}

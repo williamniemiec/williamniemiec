@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+    "Silliness Spark": {
+        "Parameters": {
+            "Playful prompts": {"Type": "text"},
+            "Silliness level": {"Type": "scale"},
+            "Activity selection": {"Type": "options"},
+            "Mood booster": {"Type": "options"}
+        }
+    }
+}
+
+
+Let me know if this meets your requirements!

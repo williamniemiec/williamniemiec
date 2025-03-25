@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "no_code_element_name": "Assessment",
+  "parameter_especifications": {
+    "name": "Skin Inspection",
+    "description": "Inspect skin under the tourniquet cuff after removal of cuff",
+    "content_type": "assessment",
+    "parameters_to_assess": [
+      { 
+        "name": "Skin condition", 
+        "description": "Assess the skin condition under the tourniquet cuff", 
+        "type": "text"
+      },
+      { 
+        "name": "Any signs of injury", 
+        "description": "Check for any signs of injury or damage to the skin", 
+        "type": "boolean"
+      }
+    ],
+    "frequency": "after removal of cuff",
+    "additional_info": "Please refer to agency policy or physician's instructions for specific guidance on skin inspection"
+  }
+}

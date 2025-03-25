@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Body Image Stressors Discussion Guide": {
+        "Stressor List": {},
+        "Discussion Questions": {},
+        "Emotional Response Scale": {},
+        "Coping Mechanisms": {},
+        "Frequency": {},
+        "Deadline Date": {}
+    }
+}

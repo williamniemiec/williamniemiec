@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Dietary Adjustment": {
+    "Lifestyle assessment": {"type": "options", "options": ["busy", "sedentary", "active"]},
+    "Activity level assessment": {"type": "options", "options": ["low", "moderate", "high"]},
+    "Dietary goals": {"type": "options", "options": ["weight loss", "maintenance", "gain"]},
+    "Macronutrient needs": {"type": "calculation"},
+    "Meal planning": {"type": "text or image"},
+    "Tracking method": {"type": "options", "options": ["food diary", "mobile app"]},
+    "Frequency": {"type": "options", "options": ["daily", "weekly", "monthly"]},
+    "Deadline date": {"type": "datetime"}
+  }
+}
+
+
+Note that I removed the parameters that were marked as "Not applicable" (i.e. none in this case). Let me know if you have any further questions!

@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Eye Cosmetic Safety Guide": {
+    "parameters": {
+      "Cosmetic Selection": {},
+      "Application Instructions": {},
+      "Irritating Properties to Avoid": {},
+      "Visual Aids": {}
+    }
+  }
+}
+
+
+Note that I removed the `Frequency of Reminder` parameter since it's marked as "options" which is not applicable in this context.

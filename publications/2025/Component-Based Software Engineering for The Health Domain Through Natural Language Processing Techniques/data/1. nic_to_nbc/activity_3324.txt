@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+    "Tube Securing Guide": {
+        "name": {"type": "text"},
+        "instructions": {"type": "text or multimedia"},
+        "images": {"type": "image or multimedia"},
+        "video_tutorial": {"type": "video"},
+        "checklist": {"type": "checklist"}
+    }
+}

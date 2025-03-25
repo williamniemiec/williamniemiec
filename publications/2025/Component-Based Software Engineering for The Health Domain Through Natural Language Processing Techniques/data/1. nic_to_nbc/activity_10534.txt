@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Pressure Redistribution": {
+        "parameters": [
+            {"Name": {"type": "text"}},
+            {"Type": {"type": "options", "options": ["heel protector", "mattress overlay", "etc."]}},
+            {"Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]}},
+            {"Instructions": {"type": "text"}},
+        ]
+    }
+}

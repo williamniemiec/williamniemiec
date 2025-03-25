@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Heart Sound Recording": {
+        "Recording": {"Type": "audio file"},
+        "Frequency": {"Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+        "Deadline Date": {"Type": "datetime"},
+        "Heart Sound Analysis": {"Type": "text or graph"}
+    }
+}
+
+
+Let me know if this meets your requirements!

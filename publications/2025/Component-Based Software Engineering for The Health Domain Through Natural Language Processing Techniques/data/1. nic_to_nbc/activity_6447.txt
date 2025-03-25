@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Protocol": {
+    "parameters": [
+      {"name": "steps", "description": "list of steps to follow", "type": "list"},
+      {"name": "system_components", "description": "list of system components to maintain", "type": "list"},
+      {"name": "frequency", "description": "specify how often the protocol should be repeated", "type": "options"},
+    ]
+  }
+}
+
+
+I removed all non-applicable parameters, including `content_type`, `deadline_date` (since it's not required), and the inner lists of steps and system components. Let me know if you'd like me to adjust anything!

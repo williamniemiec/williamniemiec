@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+    "Neck Support Guide": {
+        "Parameters": {
+            "Name": {},
+            "Support Method": {},
+            "Instructions": {},
+            "Frequency": {}
+        }
+    }
+}
+
+
+I removed the `Deadline Date` parameter as it's not applicable, and only kept the necessary information: the no-code element name and its parameters.

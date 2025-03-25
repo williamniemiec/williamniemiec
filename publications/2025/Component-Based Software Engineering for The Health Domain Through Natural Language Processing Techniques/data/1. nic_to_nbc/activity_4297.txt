@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Ventilator Education": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Content": {"Type": ["text", "multimedia"]},
+      "Questions": {"Type": ["multiple-choice", "true/false"]}
+    }
+  }
+}

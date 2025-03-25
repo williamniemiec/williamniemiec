@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Data Verification": {
+    "Biomedical Device": {"type": ["text", "options"]},
+    "Downloaded Data": {"type": ["text", "options"]},
+    "Electronic Health Record": {"type": ["text", "options"]},
+    "Verification Criteria": {"type": ["text", "ordered list"]},
+    "Verification Frequency": {"type": "options"},
+    "Deadline Date": {"type": "datetime"}
+  }
+}
+
+
+I removed all the unnecessary text and only kept the `{{ NO-CODE ELEMENT NAME }}` which is `"Data Verification"` and the `{{ PARAMETER ESPECIFICATIONS }}`. I also removed the not applicable parameters.

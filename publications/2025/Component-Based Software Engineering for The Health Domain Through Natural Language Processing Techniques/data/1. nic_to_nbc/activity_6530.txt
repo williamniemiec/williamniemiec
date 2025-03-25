@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+    "Safety Guide": {
+        "Parameters": {
+            "Title": {"Type": "text"},
+            "Content": {"Type": "rich text or HTML"},
+            "Devices": {"Type": "list of text"},
+            "Tips": {"Type": "list of text"},
+            "Images": {"Type": "list of image URLs"},
+            "Videos": {"Type": "list of video URLs"}
+        }
+    }
+}

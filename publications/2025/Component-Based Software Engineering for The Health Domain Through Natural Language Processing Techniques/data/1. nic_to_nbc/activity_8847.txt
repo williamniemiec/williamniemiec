@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+    "Companion Request": {
+        "parameters": {
+            "name": "",
+            "reason": "",
+            "duration": ""
+        }
+    }
+}

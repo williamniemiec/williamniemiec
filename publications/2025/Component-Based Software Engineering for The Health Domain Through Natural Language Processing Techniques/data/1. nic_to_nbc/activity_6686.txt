@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Reinforce Success": {
+    "parameters": {
+      "Praise and Encouragement": {"type": "list of text or multimedia content"},
+      "Reward System": {"type": "list of options"},
+      "Success Tracking": {"type": "boolean"},
+      "Celebration Ideas": {"type": "list of text or multimedia content"},
+      "Customizable Rewards": {"type": "text or multimedia content"}
+    }
+  }
+}

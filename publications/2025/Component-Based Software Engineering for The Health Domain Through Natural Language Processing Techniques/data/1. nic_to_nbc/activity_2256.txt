@@ -1,0 +1,10 @@
+Here is the output in JSON format:
+
+
+{
+    "Media Selection": {
+        "cognitive_level": {"type": "options", "options": ["simple", "moderate", "complex"]},
+        "interests": {"type": "list", "description": "A list of interests, e.g., \"news\", \"sports\", \"music\", \"movies\", etc."},
+        "media_recommendations": {"type": "list", "description": "A list of media recommendations, e.g., \"watch a simple cooking show\", \"listen to a podcast on history\", \"watch a classic movie\", etc."}
+    }
+}

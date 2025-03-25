@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Toileting Schedule Establishment": {
+    "Voiding Pattern Data": {"type": "voiding pattern data"},
+    "Schedule Algorithm": {"type": "algorithm"},
+    "Schedule Format": {"type": "options"},
+    "Schedule Customization": {"type": "boolean"},
+    "Reminders": {"type": "boolean"}
+  }
+}

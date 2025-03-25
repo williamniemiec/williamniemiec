@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+{
+  "Goal Setting": {
+    "parameters": [
+      {"Name": {"type": "text"}},
+      {"Goal Categories": {"type": "list of categories"}},
+      {"Goal Statements": {"type": "list of goal statements"}},
+      {"Patient Input": {"type": "text or rating scale"}},
+      {"Caregiver Input": {"type": "text or rating scale"}},
+      {"Agreement": {"type": "boolean"}}
+    ]
+  }
+}

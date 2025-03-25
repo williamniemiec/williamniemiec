@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+    "Emotion Expression": {
+        "Emotion Identification": {"Type": "form", "Options": ["multiple choice", "Likert scale", "open-ended text"]},
+        "Feeling Expression": {"Type": "form", "Options": ["multiple choice", "Likert scale", "open-ended text"]},
+        "Frequency": {"Type": "options", "Options": ["daily", "weekly"]},
+        "Deadline Date": {"Type": "datetime"},
+        "Notes": {"Type": "text"}
+    },
+    "Emotion Journal": {
+        "Journal Entries": {"Type": "form", "Options": ["multiple choice", "Likert scale", "open-ended text"]},
+        "Frequency": {"Type": "options", "Options": ["daily", "weekly"]},
+        "Deadline Date": {"Type": "datetime"},
+        "Notes": {"Type": "text"}
+    }
+}
+
+
+Let me know if you need any further assistance!

@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Lab Result Tracker": {
+    "Parameters": {
+      "result_type": "",
+      "result_value": "",
+      "result_date": "",
+      "notes": "(optional)"
+    }
+  }
+}

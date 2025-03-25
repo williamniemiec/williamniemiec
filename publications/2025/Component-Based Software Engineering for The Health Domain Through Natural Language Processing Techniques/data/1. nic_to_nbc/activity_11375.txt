@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+    "Medication Adherence Tracker": {
+        "Parameters": {
+            "Medication Name": {"Type": "text"},
+            "Dosage": {"Type": "text"},
+            "Frequency": {"Type": "options", "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+            "Tracking Type": {"Type": "options", "Options": ["checkbox", "log", "other"]},
+            "Reminder": {"Type": "boolean"},
+            "Deadline Date": {"Type": "datetime"}
+        }
+    }
+}

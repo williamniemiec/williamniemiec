@@ -1,0 +1,29 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Positioning Guide",
+  "parameters": [
+    {
+      "name": "Title",
+      "type": "text"
+    },
+    {
+      "name": "Steps",
+      "type": "ordered list of text"
+    },
+    {
+      "name": "Images",
+      "type": "list of image URLs or base64 encoded images"
+    },
+    {
+      "name": "Frequency",
+      "type": "options",
+      "options": [
+        { value: "daily", label: "Daily" },
+        { value: "everyFeeding", label: "Every feeding" },
+        { value: "asNeeded", label: "As needed" }
+      ]
+    }
+  ]
+}

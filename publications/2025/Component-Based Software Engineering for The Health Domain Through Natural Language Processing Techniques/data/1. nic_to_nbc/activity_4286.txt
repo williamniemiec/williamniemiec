@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Button": {
+    "parameters": {
+      "name": "",
+      "action": "",
+      "visible": ""
+    }
+  },
+  "Message": {
+    "parameters": {
+      "name": "",
+      "content": "",
+      "trigger": "",
+      "frequency": "",
+      "deadline_date": ""
+    }
+  }
+}

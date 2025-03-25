@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+    "Reflection Exercise": {
+        "parameters": {
+            "name": "",
+            "prompts": [],
+            "responses": []
+        }
+    },
+    "Journal": {
+        "parameters": {
+            "name": "",
+            "entries": [],
+            "prompts": []
+        }
+    },
+    "Log": {
+        "parameters": {
+            "name": "",
+            "entries": []
+        }
+    }
+}

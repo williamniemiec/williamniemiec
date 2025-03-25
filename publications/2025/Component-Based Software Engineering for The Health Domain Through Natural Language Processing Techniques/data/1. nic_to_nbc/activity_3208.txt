@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Initial Body Photography": {
+    "parameters": {
+      "Photograph Type": {},
+      "Image": {},
+      "Injury Status": {},
+      "Photograph Notes": {}
+    }
+  }
+}

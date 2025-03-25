@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "Alert": {
+    "Trigger": {
+      "Type": "options"
+    },
+    "Message": {
+      "Type": "text"
+    },
+    "Recipient": {
+      "Type": "text"
+    },
+    "Urgency Level": {
+      "Type": "options"
+    },
+    "Data": {
+      "Type": "depends on the specific data being sent"
+    }
+  }
+}
+
+
+Let me know if this meets your requirements!

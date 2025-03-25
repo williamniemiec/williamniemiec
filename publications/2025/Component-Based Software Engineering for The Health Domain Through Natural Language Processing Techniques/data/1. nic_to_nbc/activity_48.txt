@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Conflict and Dissatisfaction Assessment": {
+    "Family Members": {},
+    "Conflict/Dissatisfaction Questions": {},
+    "Conflict/Dissatisfaction Rating": {},
+    "Impact": {},
+    "Frequency": ["daily", "onlyOnce", "everyHours", "everyDays"],
+    "Deadline Date": {}
+  }
+}

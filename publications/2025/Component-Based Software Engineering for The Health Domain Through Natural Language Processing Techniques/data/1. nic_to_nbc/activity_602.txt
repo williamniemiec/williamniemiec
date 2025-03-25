@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Sharps Disposal Guide": {
+    "Name": {"type": "text"},
+    "Disposal Instructions": {"type": "book-page (list of HTML texts)"},
+    "Community Disposal Locations": {"type": "list (of locations with addresses and/or maps)"},
+    "Frequency": {"type": "options (daily, onlyOnce, everyHours, everyDays)"},
+    "Deadline Date": {"type": "datetime"},
+    "Additional Resources": {"type": "list (of URLs or PDFs)"}
+  }
+}

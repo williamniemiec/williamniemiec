@@ -1,0 +1,46 @@
+Here is the output in JSON format:
+
+
+{
+  "Code Review": {
+    "parameters": {
+      "name": "",
+      "description": "",
+      "code_actions": "",
+      "strengths": "",
+      "weaknesses": ""
+    }
+  },
+  "Action Analysis": {
+    "parameters": {
+      "name": "",
+      "description": "",
+      "action_list": "",
+      "analysis_results": ""
+    }
+  },
+  "Strength Identification": {
+    "parameters": {
+      "name": "",
+      "description": "",
+      "strength_criteria": "",
+      "identified_strengths": ""
+    }
+  },
+  "Weakness Identification": {
+    "parameters": {
+      "name": "",
+      "description": "",
+      "weakness_criteria": "",
+      "identified_weaknesses": ""
+    }
+  },
+  "Improvement Plan": {
+    "parameters": {
+      "name": "",
+      "description": "",
+      "improvement_goals": "",
+      "improvement_strategies": ""
+    }
+  }
+}

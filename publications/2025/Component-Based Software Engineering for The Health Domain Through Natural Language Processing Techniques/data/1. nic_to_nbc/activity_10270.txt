@@ -1,0 +1,5 @@
+Since there is no {{ PARAMETER ESPECIFICATIONS }} and {{ NO-CODE ELEMENT NAME }} in the input text, the output would be an empty JSON object:
+
+{}
+
+Note: According to the task description, I should only output a JSON containing {{ PARAMETER ESPECIFICATIONS }} and {{ NO-CODE ELEMENT NAME }}, but since these elements are not present in the input text, the output is an empty JSON object.

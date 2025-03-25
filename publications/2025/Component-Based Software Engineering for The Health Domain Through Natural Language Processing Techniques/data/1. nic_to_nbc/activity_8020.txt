@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Public Announcement": {
+    "Parameters": {
+      "Message": "",
+      "Format": "",
+      "Channel": "",
+      "Target Audience": ""
+    }
+  }
+}

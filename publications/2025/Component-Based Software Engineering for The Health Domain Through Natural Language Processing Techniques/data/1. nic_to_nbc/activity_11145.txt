@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Recovery Assistant": {
+    "parameters": {
+      "Recovery scenario": [],
+      "Action steps": [],
+      "Contact information": []
+    }
+  }
+}

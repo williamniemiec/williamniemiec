@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+"Lab Result Tracker": {
+    "parameters": {
+        "name": {"type": "text"},
+        "results": {"type": "list of text or numeric values"},
+        "units": {"type": "list of text or numeric values"},
+        "reference_range": {"type": "list of text or numeric values"}
+    }
+},
+"Symptom Checker": {
+    "parameters": {
+        "name": {"type": "text"},
+        "symptoms": {"type": "list of text or numeric values"},
+        "severity": {"type": "options (with labels and values)"}
+    }
+}
+}

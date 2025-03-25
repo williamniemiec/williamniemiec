@@ -1,0 +1,33 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Referral to Peer Sibling Group",
+    "parameters": [
+        { 
+            "name": "Group Name", 
+            "description": "A parameter that specifies the name of the peer sibling group being referred to.",
+            "type": "text"
+        },
+        { 
+            "name": "Group Description", 
+            "description": "A parameter that provides a brief description of the peer sibling group and its purpose.",
+            "type": "text"
+        },
+        { 
+            "name": "Meeting Schedule", 
+            "description": "A parameter that specifies the meeting schedule of the peer sibling group (e.g., online, in-person, frequency).",
+            "type": "text"
+        },
+        { 
+            "name": "Contact Information", 
+            "description": "A parameter that provides the contact information of the peer sibling group (e.g., phone number, email, website).",
+            "type": "text"
+        },
+        { 
+            "name": "Referral Reason", 
+            "description": "A parameter that specifies the reason for the referral to the peer sibling group (e.g., emotional support, coping with stress).",
+            "type": "text"
+        }
+    ]
+}

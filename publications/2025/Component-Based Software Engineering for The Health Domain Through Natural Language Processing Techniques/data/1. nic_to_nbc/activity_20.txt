@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Order and Consent Verification": {
+    "Parameters": {
+      "Order Type": {"Type": "text"},
+      "Consent Type": {"Type": "text"},
+      "Verification Method": {"Type": "options", "Options": ["electronic signature", "paper-based", "etc."]},
+      "Verification Status": {"Type": "options", "Options": ["verified", "pending", "etc."]},
+      "Document Storage": {"Type": "options", "Options": ["electronic health record", "paper file", "etc."]}
+    }
+  }
+}

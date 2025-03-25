@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Cardiac Risk Screener": {
+    "Parameters": {
+      "Title": {"Type": "text"},
+      "Content": {"Type": "text or HTML"},
+      "Risk Factors": {"Type": "list of options"},
+      "Assessment Questions": {"Type": "list of text or options"},
+      "Scoring System": {"Type": "text or options"},
+      "Results": {"Type": "text or options"},
+      "Referral Information": {"Type": "text or options"},
+      "Frequency": {"Type": "options"},
+      "Deadline Date": {"Type": "datetime"}
+    }
+  }
+}

@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "warning",
+  "parameters": [
+    {
+      "name": "title",
+      "type": "text"
+    },
+    {
+      "name": "content",
+      "type": "text"
+    },
+    {
+      "name": "risks",
+      "type": "list of text"
+    },
+    {
+      "name": "health_problems",
+      "type": "list of text"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Family Bedtime Participation": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Bedtime Rituals": {"Type": "unordered list", "Options": ["Reading a book together", "Singing a lullaby", "Saying goodnight prayers", "Having a relaxing conversation"]},
+      "Family Members": {"Type": "unordered list", "Options": ["Mother", "Father", "Sibling(s)", "Grandparent(s)"]},
+      "Frequency": {"Type": "options", "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"Type": "datetime"},
+      "Reminders": {"Type": "boolean"},
+      "Notes": {"Type": "text"}
+    }
+  }
+}

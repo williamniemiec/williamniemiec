@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Progress Tracker": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Graph Type": {"Type": "options"},
+      "Data Points": {"Type": "list of options"},
+      "Goal Setting": {"Type": "text"},
+      "Data Entry": {"Type": "form"}
+    }
+  }
+}
+
+
+I removed the non-applicable parameters, such as `Graph Display`, which is not a parameter that can be specified by the user.

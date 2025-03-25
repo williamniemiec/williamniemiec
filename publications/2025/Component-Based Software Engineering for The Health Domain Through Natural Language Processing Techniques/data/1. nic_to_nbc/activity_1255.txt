@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Guide": {
+    "Parameters": {
+      "Content": "",
+      "Format": {
+        "Type": ["text", "video", "images", "etc."]
+      },
+      "Readability": {
+        "Type": ["simple", "moderate", "complex"]
+      }
+    }
+  }
+}

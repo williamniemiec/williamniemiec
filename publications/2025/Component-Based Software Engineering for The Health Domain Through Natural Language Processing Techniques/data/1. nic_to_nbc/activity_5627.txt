@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "Emotional Reaction Assessment": {
+    "Parameters": {
+      "Emotional Reaction Scale": {},
+      "Emotional Reaction Description": {},
+      "Treatment Team Notification": {}
+    }
+  },
+  "Question": {
+    "Parameters": {
+      "Anxiety Level": {},
+      "Sadness Level": {},
+      "Anger Level": {}
+    }
+  },
+  "Guide": {
+    "Parameters": {
+      "Step-by-Step Process": {},
+      "Emotional Reaction Scale": {}
+    }
+  }
+}

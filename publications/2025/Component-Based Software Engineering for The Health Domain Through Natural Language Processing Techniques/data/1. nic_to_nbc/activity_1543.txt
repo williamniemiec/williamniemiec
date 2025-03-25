@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+
+{
+  "Progress Tracker": {
+    "Parameters": {
+      "Goal": "",
+      "Target": "",
+      "Tracking Method": "",
+      "Frequency": ["daily", "weekly", "biweekly", "monthly"],
+      "Evaluation Criteria": "",
+      "Feedback": ""
+    }
+  }
+}

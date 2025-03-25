@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Advocacy Guide": {
+    "parameters": {
+      "Child's Needs": {"type": "text"},
+      "School System Information": {"type": "text"},
+      "Advocacy Steps": {"type": "ordered list"},
+      "Resources": {"type": "list of links or text"},
+      "Checklist": {"type": "checklist"}
+    }
+  }
+}

@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Patient Profile": {
+    "physical_history": {},
+    "social_history": {},
+    "psychological_history": {},
+    "usual_habits": {},
+    "routines": {},
+    "goals_and_preferences": {}
+  }
+}

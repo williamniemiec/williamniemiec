@@ -1,0 +1,29 @@
+Here is the output in JSON format:
+
+
+{
+  "Head of Bed (HOB) Placement Guidance": {
+    "parameters": {
+      "HOB Placement": {
+        "type": "options",
+        "options": ["0 degrees", "15 degrees", "30 degrees"]
+      },
+      "Physician Consultation": {
+        "type": "boolean"
+      },
+      "Response Monitoring": {
+        "type": "text"
+      },
+      "Frequency": {
+        "type": "options",
+        "options": ["daily", "everyOtherDay", "weekly", "biweekly"]
+      },
+      "Deadline Date": {
+        "type": "datetime"
+      }
+    }
+  }
+}
+
+
+Let me know if this meets your requirements!

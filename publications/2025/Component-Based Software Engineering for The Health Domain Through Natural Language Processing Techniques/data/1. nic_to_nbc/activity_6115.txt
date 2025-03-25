@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Temperature Tracker": {
+    "Unit": {
+      "type": "options"
+    },
+    "Frequency": {
+      "type": "options"
+    },
+    "Duration": {
+      "type": "datetime range"
+    }
+  }
+}

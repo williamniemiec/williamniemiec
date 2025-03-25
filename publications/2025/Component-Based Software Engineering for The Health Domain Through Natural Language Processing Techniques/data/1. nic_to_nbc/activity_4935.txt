@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Family and Significant Others Participation": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Family Members": {"Type": "list", "Items": [{"value": "spouse", "label": "Spouse"}, {"value": "children", "label": "Children"}, {"value": "siblings", "label": "Siblings"}, {"value": "friends", "label": "Friends"}]},
+      "Teaching Needs": {"Type": "options", "Options": [{"value": "distractionTechniques", "label": "Distraction Techniques"}, {"value": "copingStrategies", "label": "Coping Strategies"}, {"value": "emotionalSupport", "label": "Emotional Support"}]},
+      "Teaching Methods": {"Type": "options", "Options": [{"value": "verbalInstruction", "label": "Verbal Instruction"}, {"value": "demonstration", "label": "Demonstration"}, {"value": "writtenMaterials", "label": "Written Materials"}]},
+      "Frequency of Participation": {"Type": "options", "Options": [{"value": "daily", "label": "Daily"}, {"value": "weekly", "label": "Weekly"}, {"value": "asNeeded", "label": "As Needed"}]},
+      "Notes": {"Type": "text"}
+    }
+  }
+}

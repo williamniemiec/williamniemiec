@@ -1,0 +1,18 @@
+
+
+
+{
+    "Guide": {
+        "Parameters": {
+            "Name": "",
+            "Pages": [
+                "EEG",
+                "ECG",
+                "Pulse oximeter",
+                "Blood pressure cuff",
+                "Peripheral nerve stimulator"
+            ],
+            "Images": []
+        }
+    }
+}

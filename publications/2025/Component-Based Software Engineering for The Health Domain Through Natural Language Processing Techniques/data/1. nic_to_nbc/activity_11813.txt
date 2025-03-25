@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Readiness Assessment for Intermittent Self-Catheterization": {
+    "Parameters": [
+      {"Name": "title", "Type": "text"},
+      {"Child's Age": "field to enter the child's age", "Type": "number"},
+      {"Cognitive Ability": "field to assess the child's cognitive ability to understand the procedure", "Type": "rating scale or checkbox list of specific cognitive abilities"},
+      {"Motor Skills": "field to assess the child's motor skills to perform the procedure", "Type": "rating scale or checkbox list of specific motor skills"},
+      {"Emotional Maturity": "field to assess the child's emotional maturity to perform the procedure", "Type": "rating scale or checkbox list of specific emotional maturity indicators"},
+      {"Willingness": "field to assess the child's willingness to perform intermittent self-catheterization", "Type": "rating scale or checkbox list of specific willingness indicators"},
+      {"Notes": "field for additional notes or comments about the assessment", "Type": "text"}
+    ]
+  }
+}

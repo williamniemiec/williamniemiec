@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Parameter Specifications": [
+    {"Name": {"Type": "text"}},
+    {"Description": {"Type": "text"}},
+    {"Shape Types": {"Type": "options"}},
+    {"Cutting Tools": {"Type": "text"}},
+    {"Glue Types": {"Type": "text"}},
+    {"Frequency": {"Options": ["daily", "onlyOnce", "everyHours", "everyDays"]}},
+    {"Deadline Date": {"Type": "datetime"}},
+    {"Tips": {"Type": "text"}}
+  ],
+  "No-code Element Name": "Shape Activity"
+}

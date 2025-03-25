@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Administration": {
+    "parameters": [
+      { "name": "solution", "description": "Specify the prehydration solution to take", "required": true, "type": "text" },
+      { "name": "dosage", "description": "Specify the dosage of the prehydration solution", "required": true, "type": "text" },
+      { "name": "frequency", "description": "Specify how often to take the prehydration solution", "required": true, "type": "options", "options": [
+          { "value": "beforeInfusion", "label": "Before infusion" },
+          { "value": "daily", "label": "Daily" },
+          { "value": "asNeeded", "label": "As needed" }
+        ] 
+      }
+    ]
+  }
+}

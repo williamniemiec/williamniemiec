@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Order Verification": {
+    "Parameters": {
+      "Medication Order": {"Type": "text"},
+      "Verification Criteria": {"Type": "list", "Example": [{"criterion": "Accurate medication name"}, {"criterion": "Correct dosage and frequency"}, {"criterion": "Appropriate route of administration"}, {"criterion": "Clear instructions for use"}]},
+      "Warning": {"Type": "text", "Example": "Inaccurate or incomplete medication orders can lead to serious medication errors. Verify all orders carefully to ensure patient safety."}
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Medication Side Effects and Adverse Reactions Monitoring",
+  "description": "Monitors the adverse effects of medications, including severity, dosage adjustments, and allergen alerts, to ensure patient safety.",
+  "type": "periodic",
+  "input": ["Medication type", "Dosage details", "Allergen information", "Side effect severity"],
+  "output": ["Adverse reaction report", "Severity level assessment", "Alert notifications"],
+  "preconditions": ["Medication is prescribed and administered to the patient"],
+  "postconditions": ["Adverse effects are monitored and reported for necessary action"],
+  "dependencies": ["Medication tracking system", "Allergen database", "Side effect monitoring tools"]
+}

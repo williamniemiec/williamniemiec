@@ -1,0 +1,3 @@
+Since there are no no-code elements or parameter specifications in the input text, the output will be an empty JSON object:
+
+{}

@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+    "wait": {
+        "parameters": [
+            {"name": "duration", "description": "specify the duration to wait"},
+            {"name": "position", "description": "specify the position to wait in"}
+        ]
+    }
+}

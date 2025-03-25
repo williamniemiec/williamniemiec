@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Leisure Activity Planner": {
+    "Interests": {"type": "unordered list", "required": true},
+    "Activity Options": {"type": "unordered list", "required": true},
+    "Schedule": {"type": "calendar", "required": true},
+    "Frequency": {"type": "options", "required": true}
+  }
+}
+
+
+I removed the following:
+
+* The introduction and conclusion text
+* The description of the no-code element
+* The content type
+* Parameters that were not applicable (i.e. Reminders and Deadline Date, which were set to false)

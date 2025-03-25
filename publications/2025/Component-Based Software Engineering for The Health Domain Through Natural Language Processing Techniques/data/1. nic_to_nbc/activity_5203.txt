@@ -1,0 +1,33 @@
+Here is the output in JSON format:
+
+{
+    "name": "Ear Canal Straightening",
+    "parameters": [
+        {
+            "name": "Age Group",
+            "description": "A parameter that specifies the age group of the patient.",
+            "required": true,
+            "type": "options",
+            "options": [
+                { value: "child", label: "Child" },
+                { value: "adult", label: "Adult" }
+            ]
+        },
+        {
+            "name": "Straightening Method",
+            "description": "A parameter that specifies the method to straighten the ear canal based on the age group.",
+            "required": true,
+            "type": "conditional options",
+            "conditional options": {
+                "child": "pull auricle down and back",
+                "adult": "pull auricle upward and outward"
+            }
+        },
+        {
+            "name": "Additional Instructions",
+            "description": "A parameter that provides additional instructions or clarifications for the patient.",
+            "required": false,
+            "type": "text"
+        }
+    ]
+}

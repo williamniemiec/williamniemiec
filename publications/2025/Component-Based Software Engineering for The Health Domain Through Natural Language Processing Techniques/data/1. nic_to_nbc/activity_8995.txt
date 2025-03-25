@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Comfortable Bathing Equipment": {
+    "Equipment Type": {
+      "Type": "options",
+      "Options": ["softBrush", "gentleShowerhead", "comfortableSeat", "other"],
+      "Description": "Specifies the type of comfortable bathing equipment to use"
+    },
+    "Equipment Description": {
+      "Type": "text",
+      "Description": "Provides a brief description of the comfortable bathing equipment"
+    },
+    "Frequency": {
+      "Type": "options",
+      "Options": ["duringEachBath", "daily", "everyHours", "everyDays"],
+      "Description": "Specifies how often to use the comfortable bathing equipment during the bath"
+    }
+  }
+}

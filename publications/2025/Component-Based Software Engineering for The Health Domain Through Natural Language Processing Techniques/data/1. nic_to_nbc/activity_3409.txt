@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Room Deodorizer Reminder": {
+        "Deodorizer Type": {"type": "options list"},
+        "Frequency": {"type": "options list", "options": ["daily", "weekly", "as needed"]},
+        "Reminder": {"type": "text"},
+        "Resources": {"type": "list of resources with descriptions"}
+    }
+}
+
+
+Let me know if this meets your requirements!

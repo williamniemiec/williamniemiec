@@ -1,0 +1,24 @@
+
+
+
+{
+  "parameters": [
+    {
+      "name": "Communication Strategy",
+      "type": "options"
+    },
+    {
+      "name": "Frequency",
+      "type": "options"
+    },
+    {
+      "name": "Situation",
+      "type": "options"
+    },
+    {
+      "name": "Notes",
+      "type": "text"
+    }
+  ],
+  "noCodeElementName": "Communication Strategy Tracker"
+}

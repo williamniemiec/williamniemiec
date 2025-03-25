@@ -1,0 +1,30 @@
+Here is the output in JSON format:
+
+
+{
+  "Restriction": {
+    "Parameters": {
+      "Restriction Type": {
+        "Type": "options",
+        "Options": [
+          {"value": "iceChips", "label": "Ice Chips"},
+          {"value": "oralIntake", "label": "Oral Intake"}
+        ]
+      },
+      "Reason": {
+        "Type": "text",
+        "Example": "To prevent complications with your gastric tube"
+      },
+      "Duration": {
+        "Type": "options",
+        "Options": [
+          {"value": "untilFurtherNotice", "label": "Until further notice"},
+          {"value": "forXDays", "label": "For X days"}
+        ]
+      },
+      "Reminders": {
+        "Type": "boolean"
+      }
+    }
+  }
+}

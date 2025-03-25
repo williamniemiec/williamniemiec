@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "One-on-One Interaction Tracker",
+    "parameters": [
+        {
+            "name": "Interaction Type",
+            "type": "options"
+        },
+        {
+            "name": "Interaction Duration",
+            "type": "numeric"
+        },
+        {
+            "name": "Child's Engagement",
+            "type": "options"
+        },
+        {
+            "name": "Caregiver's Reflection",
+            "type": "text"
+        },
+        {
+            "name": "Frequency",
+            "type": "options"
+        }
+    ]
+}

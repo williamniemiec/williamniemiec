@@ -1,0 +1,12 @@
+
+
+
+{
+  "Fluid and Soft Food Reminders": {
+    "Name": {"type": "text"},
+    "Fluid Options": {"type": "unordered list", "list items": [{"value": "water", "label": "Water"}, {"value": "juice", "label": "Juice"}, {"value": "broth", "label": "Broth"}]},
+    "Soft Food Options": {"type": "unordered list", "list items": [{"value": "yogurt", "label": "Yogurt"}, {"value": "pureedFruits", "label": "Pureed Fruits"}, {"value": "scrambledEggs", "label": "Scrambled Eggs"}]},
+    "Frequency": {"type": "options", "options": [{"value": "hourly", "label": "Hourly"}, {"value": "every2Hours", "label": "Every 2 hours"}, {"value": "every4Hours", "label": "Every 4 hours"}]},
+    "Reminder Message": {"type": "text"}
+  }
+}

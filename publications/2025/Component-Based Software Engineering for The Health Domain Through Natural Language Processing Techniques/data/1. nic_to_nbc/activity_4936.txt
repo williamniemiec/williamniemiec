@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Locus of Control Assessment": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Frequency": {"Type": "options", "Options": ["once", "daily", "weekly"]},
+      "Format": {"Type": "options", "Options": ["survey", "questionnaire", "game"]},
+      "Questions": {"Type": "list of text"},
+      "Scoring": {"Type": "options", "Options": ["Likert scale", "numeric scale", "categorical scale"]},
+      "Feedback": {"Type": "boolean"}
+    }
+  }
+}
+
+
+Let me know if you need any further assistance!

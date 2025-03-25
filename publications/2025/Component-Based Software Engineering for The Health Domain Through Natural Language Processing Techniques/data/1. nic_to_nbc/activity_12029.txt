@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "Reinforcement Criteria": {
+    "parameters": {
+      "name": {"type": "text"},
+      "criteria": {"type": "list", "items": [{"type": "text"}, {"type": "options"}, {"type": "options"}]},
+      "reinforcement_type": {"type": "options"},
+      "notes": {"type": "text"}
+    }
+  },
+  "Goal Setting": {
+    "parameters": {
+      "name": {"type": "text"},
+      "goal": {"type": "text"},
+      "criteria": {"type": "list", "items": [{"type": "text"}, {"type": "options"}, {"type": "options"}]},
+      "reinforcement_type": {"type": "options"},
+      "deadline": {"type": "datetime"}
+    }
+  }
+}
+
+Let me know if this meets your requirements!

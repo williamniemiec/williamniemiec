@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+  "Environmental Safety Assessment": {
+    "parameters": {
+      "environment_type": {"type": "options"},
+      "hazards": {"type": "unordered list", 
+                 "properties": {
+                   "description": {"type": "text"}, 
+                   "location": {"type": "text"}
+                  }
+                },
+      "safety_recommendations": {"type": "unordered list", 
+                               "properties": {
+                                 "description": {"type": "text"}, 
+                                 "implementation_steps": {"type": "text"}
+                                }
+                              },
+      "patient_feedback": {"type": "text"}
+    }
+  }
+}

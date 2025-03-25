@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Identification Band Verification": {
+    "parameters": {
+      "identification_band": {"type": "boolean"},
+      "band_verification_instructions": {"type": "text"},
+      "confirmation": {"type": "boolean"}
+    }
+  }
+}

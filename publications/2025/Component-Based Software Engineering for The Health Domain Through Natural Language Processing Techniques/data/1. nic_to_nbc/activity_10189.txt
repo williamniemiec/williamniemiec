@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Immunization Information": {
+    "parameters": [
+      {"Immunization Type": {}},
+      {"Risks": {}},
+      {"Benefits": {}},
+      {"Contraindications": {}},
+      {"Side Effects": {}},
+      {"Additional Resources": {}}
+    ]
+  }
+}

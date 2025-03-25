@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+    "Conversation Guide": {
+        "Name": {"type": "text"},
+        "Topics": {"type": "list of text", "options": ["Sexual history", "Safe sex practices", "STI prevention", "Other"]},
+        "Tips and Reminders": {"type": "list of text"},
+        "Resources": {"type": "list of URLs or file uploads"}
+    },
+    "Question": {
+        "Name": {"type": "text"},
+        "Content": {"type": "text"},
+        "Type": {"type": "options"}
+    },
+    "Safe Sex Practices": {
+        "Name": {"type": "text"},
+        "Items": {"type": "list of text"},
+        "Resources": {"type": "list of URLs or file uploads"}
+    }
+}
+
+
+Note that I removed the `Not Applicable` parameters and only kept the ones with specifications. Let me know if this is what you were looking for!

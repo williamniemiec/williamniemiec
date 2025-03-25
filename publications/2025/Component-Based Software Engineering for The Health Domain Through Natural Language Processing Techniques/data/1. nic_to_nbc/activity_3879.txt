@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Emotion Explorer": {
+    "Feeling Identification": {"type": "options", "options": ["emotional checklist", "feeling thermometer", "open-ended question", "custom"]},
+    "Interpersonal Problem Context": {"type": "text or multimedia content"},
+    "Feeling Expression": {"type": "options", "options": ["writing", "speaking", "drawing", "custom"]},
+    "Reflection and Feedback": {"type": "text or multimedia content"},
+    "Goal Setting": {"type": "text or multimedia content"},
+    "Progress Tracking": {"type": "options", "options": ["automated tracking", "manual tracking", "custom"]}
+  }
+}

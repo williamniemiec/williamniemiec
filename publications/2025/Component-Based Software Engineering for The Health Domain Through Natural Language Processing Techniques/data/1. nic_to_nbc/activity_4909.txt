@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Leech Monitoring": {
+    "Monitoring Duration": {"type": "text"},
+    "Monitoring Instructions": {"type": "text"},
+    "Distension Indicators": {"type": "options"},
+    "Drop-off Notification": {"type": "options"}
+  }
+}

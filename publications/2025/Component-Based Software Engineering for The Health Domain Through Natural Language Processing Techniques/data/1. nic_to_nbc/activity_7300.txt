@@ -1,0 +1,29 @@
+Here is the output in JSON format:
+
+
+{
+  "STD History": {
+    "parameters": {
+      "name": "STD history title",
+      "description": "instructions for providing STD history",
+      "questions": "list of questions about STD history",
+      "answer_type": "type of answer required for each question"
+    }
+  },
+  "Sexual Activity Questionnaire": {
+    "parameters": {
+      "name": "sexual activity questionnaire title",
+      "description": "instructions for completing the questionnaire",
+      "questions": "list of questions about sexual activity and frequency of intercourse",
+      "answer_type": "type of answer required for each question"
+    }
+  },
+  "Risk Assessment": {
+    "parameters": {
+      "name": "risk assessment title",
+      "description": "instructions for reviewing risk assessment results",
+      "risk_level": "level of risk of contracting an STD",
+      "recommendations": "list of personalized recommendations for reducing the risk of contracting an STD"
+    }
+  }
+}

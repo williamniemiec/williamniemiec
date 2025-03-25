@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+  "Photograph Arrangement": {
+    "Parameters": {
+      "Task Title": {},
+      "Content": {},
+      "Photographer Contact Information": {},
+      "Type of Photograph": {
+        "Options": [
+          {"value": "portrait", "label": "Portrait"},
+          {"value": "landscape", "label": "Landscape"},
+          {"value": "other", "label": "Other"}
+        ]
+      },
+      "Task Frequency": {
+        "Options": [
+          {"value": "daily", "label": "Daily"},
+          {"value": "onlyOnce", "label": "Only once"},
+          {"value": "everyHours", "label": "Every x hours"},
+          {"value": "everyDays", "label": "Every x days"}
+        ]
+      }
+    }
+  }
+}

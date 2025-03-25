@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Diet Identification": {
+    "parameters": [
+      {"name": "Diet Type"},
+      {"name": "Dietary Restrictions"},
+      {"name": "Food Groups"},
+      {"name": "Portion Sizes"},
+      {"name": "Meal Frequency"},
+      {"name": "Notes"}
+    ]
+  }
+}

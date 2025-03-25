@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Educational Content": {
+    "Parameters": {
+      "Title": {"Type": "text"},
+      "Content": {"Type": "rich text or multimedia"},
+      "Methods for Alleviation": {"Type": "list of text or multimedia items"},
+      "FAQs": {"Type": "list of question-answer pairs"}
+    }
+  }
+}

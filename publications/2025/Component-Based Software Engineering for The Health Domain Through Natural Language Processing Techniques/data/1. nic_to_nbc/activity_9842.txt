@@ -1,0 +1,37 @@
+Here is the output in JSON format:
+
+
+{
+  "Alert": {
+    "parameters": {
+      "name": "",
+      "message": "",
+      "severity": "",
+      "recipient": ""
+    }
+  },
+  "Form": {
+    "parameters": {
+      "name": "",
+      "fields": [],
+      "validation": []
+    }
+  },
+  "Notification": {
+    "parameters": {
+      "name": "",
+      "message": "",
+      "recipient": ""
+    }
+  },
+  "Escalation": {
+    "parameters": {
+      "name": "",
+      "rules": [],
+      "actions": []
+    }
+  }
+}
+
+
+Let me know if you need any further modifications!

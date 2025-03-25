@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Posture Guide": {
+    "Parameters": {
+      "Posture Guide Title": {},
+      "Instructions": {},
+      "Illustrations/Videos": {},
+      "Frequency": {}
+    }
+  }
+}

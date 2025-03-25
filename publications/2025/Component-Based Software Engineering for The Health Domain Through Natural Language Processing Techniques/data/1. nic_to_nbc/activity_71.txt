@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Fluid Tracking": {
+    "Name": {"type": "text"},
+    "Intake Unit": {"type": ["mL", "oz"]},
+    "Output Unit": {"type": ["mL", "oz"]},
+    "Frequency": {"type": ["daily", "everyHours", "everyDays"]},
+    "Deadline Date": {"type": "datetime"},
+    "Intake Input": {"type": "number"},
+    "Output Input": {"type": "number"},
+    "Type": {"type": ["water", "urine", "medication", "other"]}
+  }
+}

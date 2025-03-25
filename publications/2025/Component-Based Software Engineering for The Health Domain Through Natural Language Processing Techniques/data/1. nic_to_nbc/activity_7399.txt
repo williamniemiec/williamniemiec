@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Alternative Modality Negotiation": {
+    "parameters": {
+      "Payer Refusal Information": {},
+      "Alternative Modality Options": {},
+      "Negotiation Method": {},
+      "Negotiation Content": {},
+      "Negotiation Date": {},
+      "Negotiation Outcome": {}
+    }
+  }
+}

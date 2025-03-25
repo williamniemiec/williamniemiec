@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Task",
+  "parameters": [
+    {
+      "name": "positions",
+      "description": "list of positions to ask patient to change to"
+    },
+    {
+      "name": "frequency",
+      "description": "how often to ask patient to change positions"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+Here is the output in JSON format:
+
+
+{
+  "Emergency Cart Check": {
+    "name": "",
+    "description": "",
+    "agency_protocol": "",
+    "check_frequency": ""
+  },
+  "Cart Inventory": {
+    "name": "",
+    "description": "",
+    "inventory_list": "",
+    "inventory_status": ""
+  },
+  "Expiration Date Check": {
+    "name": "",
+    "description": "",
+    "expiration_date_list": "",
+    "expiration_date_status": ""
+  },
+  "Cart Maintenance": {
+    "name": "",
+    "description": "",
+    "maintenance_tasks": "",
+    "maintenance_status": ""
+  },
+  "Agency Protocol Compliance": {
+    "name": "",
+    "description": "",
+    "protocol_compliance_status": ""
+  }
+}
+
+
+Note that I removed the introduction and conclusion, as well as the numbering and other non-essential information. I also kept only the parameter specifications for each no-code element, without any additional text or descriptions. Let me know if you'd like me to modify this output in any way!

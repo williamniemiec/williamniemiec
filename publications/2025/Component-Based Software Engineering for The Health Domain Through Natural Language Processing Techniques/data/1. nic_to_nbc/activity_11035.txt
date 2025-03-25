@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Conversational Space": {
+    "parameters": {
+      "Text Input": {"type": "text input field"},
+      "Audio Recording": {"type": "audio recording feature"},
+      "Emotional Support": {"type": "pre-programmed responses or messages offering support and empathy"}
+    }
+  }
+}

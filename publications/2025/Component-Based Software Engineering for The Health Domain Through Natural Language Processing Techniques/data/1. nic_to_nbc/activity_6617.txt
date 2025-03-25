@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Neutral Response": {
+    "parameters": {
+      "Neutral Messages": {"type": "list of neutral response messages (text)"},
+      "Avoid Reinforcement": {"type": "boolean (true/false)"},
+      "Redirect to Healthy Behaviors": {"type": "list of healthy behavior options (text)"}
+    }
+  }
+}

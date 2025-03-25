@@ -1,0 +1,14 @@
+
+
+
+{
+"Guided Meditation": {
+    "parameters": {
+        "name": "",
+        "content": "",
+        "duration": "",
+        "frequency": "",
+        "deadline_date": "",
+        "background_audio": ""
+    }
+}

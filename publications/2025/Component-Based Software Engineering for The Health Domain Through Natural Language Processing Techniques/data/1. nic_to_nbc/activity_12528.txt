@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Data Log": {
+    "parameters": {
+      "name": {"type": "text"},
+      "device": {"type": "text"},
+      "reading_type": {"type": "options"},
+      "value": {"type": "numeric"},
+      "unit": {"type": "options"},
+      "frequency": {"type": "options"},
+      "deadline_date": {"type": "datetime"},
+      "notes": {"type": "text"}
+    }
+  }
+}

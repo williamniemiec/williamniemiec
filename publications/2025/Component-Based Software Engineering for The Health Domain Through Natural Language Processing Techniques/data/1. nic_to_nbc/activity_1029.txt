@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Weaning Guidance": {
+    "parameters": {
+      "Signs of Readiness": {
+        "type": "HTML text or multimedia content (e.g., images, videos)"
+      },
+      "Weaning Process": {
+        "type": "HTML text or multimedia content (e.g., images, videos)"
+      },
+      "Tips and Reminders": {
+        "type": "HTML text or multimedia content (e.g., images, videos)"
+      },
+      "Resources": {
+        "type": "list of resources (with URLs or file attachments)"
+      }
+    }
+  }
+}

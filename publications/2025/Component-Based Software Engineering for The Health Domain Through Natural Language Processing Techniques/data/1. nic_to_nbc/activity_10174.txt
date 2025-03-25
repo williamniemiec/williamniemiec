@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+  "Pain Assessment": {
+    "Signs of Pain": {
+      "type": "list of options"
+    },
+    "Frequency": {
+      "type": "options"
+    },
+    "Assessment Tool": {
+      "type": "options"
+    },
+    "Threshold": {
+      "type": "options"
+    },
+    "Intervention": {
+      "type": "text or options"
+    }
+  }
+}

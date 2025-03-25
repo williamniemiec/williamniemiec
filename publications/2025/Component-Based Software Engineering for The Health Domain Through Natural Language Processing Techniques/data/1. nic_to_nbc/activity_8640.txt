@@ -1,0 +1,39 @@
+Here is the output in JSON format:
+
+
+{
+  "Preapproval Explanation": {
+    "guide title": {
+      "Description": "Title of the preapproval explanation guide",
+      "Required": true,
+      "Type": "text"
+    },
+    "reasons": {
+      "Description": "List of reasons for obtaining preapproval",
+      "Required": true,
+      "Type": "list",
+      "Options": [
+        "To ensure coverage for services or equipment",
+        "To confirm medical necessity",
+        "To prevent unexpected costs",
+        "To facilitate timely access to care"
+      ]
+    },
+    "benefits": {
+      "Description": "List of benefits of obtaining preapproval",
+      "Required": true,
+      "Type": "list",
+      "Options": [
+        "Reduced financial burden",
+        "Improved health outcomes",
+        "Increased patient satisfaction",
+        "Enhanced care coordination"
+      ]
+    },
+    "next_steps": {
+      "Description": "Instructions on what to do next",
+      "Required": true,
+      "Type": "text"
+    }
+  }
+}

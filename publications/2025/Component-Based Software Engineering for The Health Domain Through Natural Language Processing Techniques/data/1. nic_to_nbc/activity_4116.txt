@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "Hallucination Diary": {
+    "Diary Entries": {
+      "Type": "form",
+      "Options": ["multiple choice", "Likert scale", "open-ended text"]
+    },
+    "Frequency": {
+      "Type": "options",
+      "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+    },
+    "Deadline Date": {
+      "Type": "datetime"
+    },
+    "Notes": {
+      "Type": "text"
+    }
+  }
+}
+
+
+Note that I removed the non-applicable parameters and kept only the relevant information as per your request.

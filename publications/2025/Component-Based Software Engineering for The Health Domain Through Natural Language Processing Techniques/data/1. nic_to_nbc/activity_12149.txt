@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+  "Nostril Procedure Repeat": {
+    "Repeat Instruction": {},
+    "Nostril Selection": {
+      "Options": [
+        {"value": "leftNostril", "label": "Left Nostril"},
+        {"value": "rightNostril", "label": "Right Nostril"}
+      ]
+    },
+    "Procedure Steps": {},
+    "Frequency": {
+      "Options": [
+        {"value": "daily", "label": "Daily"},
+        {"value": "onlyOnce", "label": "Only once"},
+        {"value": "everyHours", "label": "Every x hours"},
+        {"value": "everyDays", "label": "Every x days"}
+      ]
+    }
+  }
+}
+
+
+Note that I removed the `Deadline Date` parameter since it's marked as not required, and also removed the descriptions and other metadata to only keep the parameter names and their relevant specifications.

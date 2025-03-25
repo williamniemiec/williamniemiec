@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Lymph Node Inspection and Palpation Guide": {
+    "Parameters": {
+      "Instructions": {},
+      "Lymph Node Location Guide": {},
+      "Palpation Technique Guidance": {},
+      "Abnormality Detection": {},
+      "Image Capture": {},
+      "Frequency": {
+        "options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+      },
+      "Deadline Date": {}
+    }
+  }
+}

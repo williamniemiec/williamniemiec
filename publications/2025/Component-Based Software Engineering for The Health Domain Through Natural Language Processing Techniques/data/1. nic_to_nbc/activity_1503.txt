@@ -1,0 +1,33 @@
+Here is the output in JSON format:
+
+{
+    "name": "Temperature Check",
+    "parameters": [
+        {
+            "name": "Temperature Range",
+            "type": "text"
+        },
+        {
+            "name": "Checking Method",
+            "type": "text"
+        },
+        {
+            "name": "Frequency",
+            "type": "options",
+            "options": [
+                { "value": "daily" },
+                { "value": "onlyOnce" },
+                { "value": "everyHours" },
+                { "value": "everyDays" }
+            ]
+        },
+        {
+            "name": "Deadline Date",
+            "type": "datetime"
+        },
+        {
+            "name": "Safety Precautions",
+            "type": "text"
+        }
+    ]
+}

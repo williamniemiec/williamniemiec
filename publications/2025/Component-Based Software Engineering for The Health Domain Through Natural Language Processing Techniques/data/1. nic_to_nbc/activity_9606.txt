@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+  "eye covering": {
+    "Type of Device": {
+      "type": "options",
+      "options": ["polyethyleneCover", "polyacrylamideGel", "hypoallergenicTape", "other"]
+    },
+    "Instructions": {
+      "type": "text"
+    },
+    "Frequency": {
+      "options": ["asNeeded", "everyHours", "everyDays"]
+    },
+    "Deadline Date": {
+      "type": "datetime"
+    },
+    "Additional Notes": {
+      "type": "text"
+    }
+  }
+}

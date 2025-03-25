@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Defense Mechanism Identification": {
+    "parameters": {
+      "name": {"type": "text"},
+      "description": {"type": "text"},
+      "type": {"type": "options", "options": ["denial", "intellectualization", "repression", "projection", "rationalization", "displacement", "sublimation", "other"]},
+      "frequency": {"type": "options", "options": ["often", "sometimes", "rarely", "never"]},
+      "impact": {"type": "text"},
+      "alternative_coping": {"type": "text"}
+    }
+  }
+}

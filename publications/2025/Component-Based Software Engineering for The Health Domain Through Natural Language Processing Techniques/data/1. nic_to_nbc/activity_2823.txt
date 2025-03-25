@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+    "Active Listening Exercise": {
+        "Name": {"Type": "text"},
+        "Scenario": {"Type": "audio or video", "Example": "A video showing a patient talking to a healthcare provider about their symptoms."},
+        "Questions": {"Type": "list of text", "Example": ["What do you think the patient is really trying to say?", "How do you think the patient is feeling?", "What is the main concern of the patient?"]},
+        "Reflection": {"Type": "text input", "Example": "What did you learn about active listening from this exercise?"}
+    },
+    "Conversation Analysis": {
+        "Name": {"Type": "text"},
+        "Conversation": {"Type": "text", "Example": "A transcript of a conversation between a patient and a healthcare provider."},
+        "Analysis Questions": {"Type": "list of text", "Example": ["What is the main topic of the conversation?", "What are the patient's concerns?", "What is the tone of the conversation?"]},
+        "Checkboxes": {"Type": "list of checkboxes", "Example": ["Unexpressed message: fear of diagnosis", "Feeling: anxiety", "Content: symptoms"]}
+    }
+}

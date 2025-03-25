@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+  "Case Study": {
+    "Parameters": {
+      "Case Description": {
+        "Type": "text"
+      },
+      "Problem Statement": {
+        "Type": "text"
+      },
+      "Solution Options": {
+        "Type": "list of options"
+      },
+      "Reflection Questions": {
+        "Type": "list of questions"
+      },
+      "Takeaway Message": {
+        "Type": "text"
+      }
+    }
+  }
+}
+
+
+Note that I removed the `Frequency` parameter as it has options (`daily`, `onlyOnce`, etc.) which are not applicable in this context. Let me know if you have any further questions!

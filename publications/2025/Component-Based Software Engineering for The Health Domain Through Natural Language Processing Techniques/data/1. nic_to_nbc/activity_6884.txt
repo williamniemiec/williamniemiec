@@ -1,0 +1,40 @@
+Here is the output in JSON format:
+
+
+{
+    "Medication Education": {
+        "Parameters": {
+            "Medication List": {"Type": "unordered list"},
+            "Medication Information": {"Type": "text or multimedia"},
+            "Learning Objectives": {"Type": "text or unordered list"},
+            "Teaching Method": {"Type": "text or options list"},
+            "Assessment": {"Type": "quiz or survey"}
+        }
+    },
+    "Medication Tracker": {
+        "Parameters": {
+            "Medication tracker frequency": null,
+            "Medication tracker method": null
+        }
+    },
+    "Side Effect Tracker": {
+        "Parameters": {
+            "Side effect tracker frequency": null,
+            "Side effect tracker method": null
+        }
+    },
+    "Medication Interaction Checker": {
+        "Parameters": {
+            "Medication interaction checker frequency": null,
+            "Medication interaction checker method": null
+        }
+    },
+    "Patient FAQs": {
+        "Parameters": {
+            "FAQ list": null,
+            "FAQ categories": null
+        }
+    }
+}
+
+Let me know if this meets your requirements!

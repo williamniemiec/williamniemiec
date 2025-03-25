@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Sleep Enhancement Pamphlet": {
+    "Name": {},
+    "Pamphlet Content": {},
+    "Technique Descriptions": {},
+    "Images and Illustrations": {},
+    "Downloadable": {}
+  }
+}

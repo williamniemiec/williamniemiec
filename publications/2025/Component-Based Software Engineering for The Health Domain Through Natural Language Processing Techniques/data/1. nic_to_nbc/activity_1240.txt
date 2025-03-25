@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Confidence Reinforcement": {
+    "parameters": {
+      "name": {"type": "text"},
+      "behavior": {"type": "text"},
+      "messages": {"type": "list of message objects", "properties": {"text"}},
+      "success_stories": {"type": "list of success story objects", "properties": {"text"}},
+      "goal_achievement": {"type": "text"},
+      "celebration": {"type": "text"}
+    }
+  }
+}

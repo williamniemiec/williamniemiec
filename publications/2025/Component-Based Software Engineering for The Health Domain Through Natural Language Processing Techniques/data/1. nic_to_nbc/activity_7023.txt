@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Disease Process Quiz": {
+    "Parameters": {
+      "Disease Information": {},
+      "Quiz Questions": {},
+      "Answer Key": {},
+      "Knowledge Gap": {},
+      "Resources": {}
+    }
+  }
+}

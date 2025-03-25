@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Podiatrist Referral": {
+    "Referral Title": {},
+    "Content": {},
+    "Reason": {},
+    "Deadline Date": {},
+    "Podiatrist Info": {}
+  }
+}

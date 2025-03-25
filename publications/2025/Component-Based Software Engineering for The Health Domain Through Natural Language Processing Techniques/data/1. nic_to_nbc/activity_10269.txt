@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Comfort Position": {
+    "Instructions": {"Type": "text"},
+    "Frequency": {"Type": "options"},
+    "Reminders": {"Type": "boolean"},
+    "Deadline Date": {"Type": "datetime"}
+  }
+}

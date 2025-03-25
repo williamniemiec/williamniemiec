@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Procedure Guidance": {
+    "Parameters": {
+      "Procedure Steps": {"Type": "list of text"},
+      "Medication Information": {"Type": "text"},
+      "Dosage Instructions": {"Type": "text"},
+      "Precautions": {"Type": "text"},
+      "Monitoring Instructions": {"Type": "text"}
+    }
+  }
+}

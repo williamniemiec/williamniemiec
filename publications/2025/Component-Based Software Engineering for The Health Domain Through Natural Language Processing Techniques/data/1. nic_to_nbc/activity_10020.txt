@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Physician Order for Self-Medication": {
+    "parameters": {
+      "Patient Information": {"type": "text"},
+      "Medication Information": {"type": "text"},
+      "Physician Information": {"type": "text"},
+      "Order Request": {"type": "text"},
+      "Order Status": {"type": "options", "options": ["pending", "approved", "denied"]},
+      "Order Details": {"type": "text"},
+      "Electronic Signature": {"type": "electronic signature"}
+    }
+  }
+}

@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Sensation Timeline": {
+    "Parameters": {
+      "Sensation": {},
+      "Duration": {},
+      "Change Points": {},
+      "Change Descriptions": {},
+      "Procedural Events": {},
+      "Event Timelines": {}
+    }
+  }
+}

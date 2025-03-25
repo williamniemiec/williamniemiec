@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Emesis Volume Measurement": {
+    "Parameters": {
+      "Name": {},
+      "Description": {},
+      "Measurement Method": {},
+      "Volume": {},
+      "Unit": {},
+      "Notes": {}
+    }
+  }
+}

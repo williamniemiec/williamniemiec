@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "Environmental Safety and Cleanliness": {
+    "parameters": {
+      "Fall Risk Assessment": {
+        "type": "options",
+        "options": ["high", "moderate", "low"]
+      },
+      "Tripping Hazard Identification": {
+        "type": "checklist",
+        "options": ["cords", "wires", "slippery floors", "etc."]
+      },
+      "Cleanliness Checklist": {
+        "type": "checklist",
+        "options": ["bed rails", "bedside table", "floor", "etc."]
+      },
+      "Infection Control Measures": {
+        "type": "options",
+        "options": ["hand sanitizer", "gloves", "mask", "etc."]
+      }
+    }
+  }
+}

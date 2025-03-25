@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+    "procedure_instruction": {
+        "parameters": [
+            {"name": "title", "description": "title of the procedure", "required": true, "type": "text"},
+            {"name": "steps", "description": "step-by-step instructions for the procedure", "required": true, "type": "ordered list"},
+            {"name": "images", "description": "images or diagrams to illustrate the procedure", "required": false, "type": "image list"}
+        ]
+    }
+}
+
+
+Note that I removed the "video" parameter since it was not applicable (i.e., its required field was set to false).

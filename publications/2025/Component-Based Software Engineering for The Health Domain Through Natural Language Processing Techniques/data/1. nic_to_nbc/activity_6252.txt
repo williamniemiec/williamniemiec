@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Bed Cradle Instruction": {
+    "Affected Extremity": {"type": "options", "options": ["left arm", "right arm", "left leg", "right leg", "etc."]},
+    "Bed Cradle Instructions": {"type": "text"},
+    "Frequency": {"type": "options", "options": ["as needed", "every 2 hours", "every 4 hours", "etc."]},
+    "Reminders": {"type": "boolean"}
+  }
+}

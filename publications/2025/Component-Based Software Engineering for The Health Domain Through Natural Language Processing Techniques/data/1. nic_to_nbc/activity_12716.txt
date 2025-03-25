@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Incontinence Product Guide": {
+    "Parameters": {
+      "Product Categories": {"Type": "text with icons or images", "Required": true},
+      "Product Filters": {"Type": "interactive form or dropdown menus", "Required": true},
+      "Product Comparisons": {"Type": "interactive table or chart", "Required": true},
+      "Recommendations": {"Type": "text with images or videos", "Required": true}
+    }
+  }
+}

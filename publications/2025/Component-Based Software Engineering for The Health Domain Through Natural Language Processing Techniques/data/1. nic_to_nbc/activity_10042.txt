@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Cognitive Monitoring": {
+    "parameters": {
+      "assessment_tool": {"type": "options"},
+      "assessment_frequency": {"type": "options"},
+      "patient_responses": {"type": "form with response fields"},
+      "scoring_and_interpretation": {"type": "algorithm or formula"},
+      "results_and_trends": {"type": "graph or chart"},
+      "alerts_and_notifications": {"type": "alerts and notifications"}
+    }
+  }
+}

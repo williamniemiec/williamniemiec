@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Resource Optimization": {
+    "Resource Type": {},
+    "Current Usage": {},
+    "Optimization Goals": {},
+    "Optimization Strategies": {},
+    "Metrics": {},
+    "Implementation Plan": {}
+  }
+}

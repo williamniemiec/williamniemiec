@@ -1,0 +1,29 @@
+Here is the output in JSON format:
+
+
+{
+  "Disaster Preparedness Plan": {
+    "parameters": {
+      "name": {"type": "text"},
+      "agency": {"type": "text"},
+      "hazards": {"type": "list of text"},
+      "risk_assessment": {"type": "text"},
+      "emergency_response_plan": {"type": "text"},
+      "evaluation_criteria": {"type": "text"},
+      "review_cycle": {"type": "text"},
+      "notes": {"type": "text"}
+    }
+  },
+  "Risk Management Plan": {
+    "parameters": {
+      "name": {"type": "text"},
+      "agency": {"type": "text"},
+      "risk_identification": {"type": "text"},
+      "risk_assessment": {"type": "text"},
+      "risk.mitigation_strategies": {"type": "list of text"},
+      "evaluation_criteria": {"type": "text"},
+      "review_cycle": {"type": "text"},
+      "notes": {"type": "text"}
+    }
+  }
+}

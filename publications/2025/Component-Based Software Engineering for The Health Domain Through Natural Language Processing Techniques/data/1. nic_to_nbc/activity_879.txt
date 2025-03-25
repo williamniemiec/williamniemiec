@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "Procedure": {
+    "name": "Cleansing around drain site or drainage tube",
+    "content": "Cleanse the area around any drain site or drainage tube last",
+    "steps": [
+      "Identify the drain site or drainage tube",
+      "Cleanse the surrounding area, working from the outside in",
+      "Avoid touching the drain site or drainage tube with the cleaning solution or applicator"
+    ],
+    "importance": {
+      "type": "text",
+      "value": "Important: Cleanse the area around the drain site or drainage tube last to prevent contamination."
+    },
+    "frequency": {
+      "options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+    },
+    "deadline_date": {
+      "type": "datetime"
+    }
+  }
+}

@@ -1,0 +1,3 @@
+Since there is no no-code element that can be associated with the intervention, I will return an empty JSON object:
+
+{}

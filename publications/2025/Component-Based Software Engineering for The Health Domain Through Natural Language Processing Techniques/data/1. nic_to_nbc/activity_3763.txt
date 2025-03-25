@@ -1,0 +1,47 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Vital Sign Review",
+  "parameters": [
+    {
+      "name": "fluid_intake",
+      "description": "Fluid intake measurements",
+      "required": false,
+      "type": "number"
+    },
+    {
+      "name": "fluid_output",
+      "description": "Fluid output measurements",
+      "required": false,
+      "type": "number"
+    },
+    {
+      "name": "hemoglobin",
+      "description": "Hemoglobin values",
+      "required": false,
+      "type": "number"
+    },
+    {
+      "name": "blood_pressure",
+      "description": "Blood pressure readings",
+      "required": false,
+      "type": "number"
+    },
+    {
+      "name": "weight",
+      "description": "Weight gains and losses",
+      "required": false,
+      "type": "number"
+    },
+    {
+      "name": "notes",
+      "description": "Additional notes or comments",
+      "required": false,
+      "type": "text"
+    }
+  ]
+}
+
+
+Let me know if this is what you were expecting!

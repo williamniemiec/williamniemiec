@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+    "Bed Positioning Switch": {
+        "Switch Location": {"type": "text"},
+        "Easy Reach": {"type": "boolean"},
+        "Patient Needs": {"type": "text"},
+        "Switch Type": {"type": "text"},
+        "Notes": {"type": "text"}
+    }
+}

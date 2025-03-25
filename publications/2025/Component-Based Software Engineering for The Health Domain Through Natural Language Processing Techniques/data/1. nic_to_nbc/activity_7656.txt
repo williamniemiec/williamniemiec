@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Skin Symptom Tracker": {
+    "Parameters": {
+      "Symptoms": {"Type": "checklist"},
+      "Location": {"Type": "text"},
+      "Severity": {"Type": "options"},
+      "Duration": {"Type": "number"},
+      "Photos": {"Type": "file upload"},
+      "Notes": {"Type": "text"}
+    }
+  }
+}

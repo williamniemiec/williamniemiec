@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Pain and Comfort Assessment": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Pain Scale": {"Type": "options"},
+      "Comfort Level": {"Type": "options"},
+      "Anxiety Level": {"Type": "options"},
+      "Tolerance Level": {"Type": "options"},
+      "Frequency": {"Type": "options"}
+    }
+  }
+}
+
+
+I removed the `Deadline Date` parameter as it's not applicable in this context. Let me know if you have any further questions!

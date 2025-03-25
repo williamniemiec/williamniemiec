@@ -1,0 +1,38 @@
+Here is the output in JSON format:
+
+
+{
+  "medication adjustment recommendation": {
+    "Current Medications": {
+      "Description": "List of current medications",
+      "Required": true,
+      "Type": "checklist"
+    },
+    "Medication Concerns": {
+      "Description": "Identify concerns with current medications (e.g. side effects, interactions)",
+      "Required": true,
+      "Type": "text"
+    },
+    "Symptom Assessment": {
+      "Description": "Assess current symptoms (e.g. pain, fatigue, mood)",
+      "Required": true,
+      "Type": "checklist",
+      "Options": [
+        { "value": "pain", "label": "Pain" },
+        { "value": "fatigue", "label": "Fatigue" },
+        { "value": "moodChanges", "label": "Mood Changes" }
+      ]
+    },
+    "Medication Adjustment Options": {
+      "Description": "Get personalized medication adjustment options",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "doseIncrease", "label": "Increase Dose" },
+        { "value": "doseDecrease", "label": "Decrease Dose" },
+        { "value": "switchMedication", "label": "Switch Medication" },
+        { "value": "addMedication", "label": "Add Medication" }
+      ]
+    }
+  }
+}

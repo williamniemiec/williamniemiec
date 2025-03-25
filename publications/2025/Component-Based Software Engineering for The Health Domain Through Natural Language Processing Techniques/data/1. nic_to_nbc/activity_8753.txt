@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Skin Check": {
+        "Parameters": {
+            "Skin Condition": {"Type": "text"},
+            "Changes or Concerns": {"Type": "text"},
+            "Frequency": {"Type": "options"},
+            "Deadline Date": {"Type": "datetime"}
+        }
+    }
+}

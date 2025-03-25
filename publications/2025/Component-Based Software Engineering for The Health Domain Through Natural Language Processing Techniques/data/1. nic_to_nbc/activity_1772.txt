@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Parental Reaction Assessment": {
+    "parameters": {
+      "name": "",
+      "reaction_to_infant": "",
+      "feelings_description": "",
+      "frequency": ["daily", "everyOtherDay", "everyWeek", "everyMonth"],
+      "deadline_date": {"type": "datetime"}
+    }
+  }
+}

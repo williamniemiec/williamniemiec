@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "parameters": [
+    {"name": "bowel_movement_frequency"},
+    {"name": "stool_characteristics"},
+    {"name": "straining"},
+    {"name": "pain"}
+  ]
+}

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Consent Determination": {
+    "parameters": [
+      {"name": "patient_status", "description": "Patient's legal status (e.g., adult, minor, incapacitated)", "required": true, "type": "options", "options": [{"value": "adult", "label": "Adult"}, {"value": "minor", "label": "Minor"}, {"value": "incapacitated", "label": "Incapacitated"}]},
+      {"name": "guardian_present", "description": "Is a legal guardian present?", "required": true, "type": "boolean"},
+      {"name": "guardian_info", "description": "Guardian's name and contact information", "required": false, "type": "text"},
+      {"name": "power_of_attorney", "description": "Does the patient have a power of attorney?", "required": true, "type": "boolean"},
+      {"name": "power_of_attorney_info", "description": "Power of attorney's name and contact information", "required": false, "type": "text"}
+    ]
+  }
+}

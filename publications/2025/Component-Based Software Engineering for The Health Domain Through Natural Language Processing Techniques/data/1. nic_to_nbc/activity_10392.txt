@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Supply Storage and Disposal": {
+    "Name": {"type": "text"},
+    "Storage Instructions": {"type": ["text", "video"]},
+    "Disposal Instructions": {"type": ["text", "video"]},
+    "Supply Organization": {"type": ["text", "interactive tool"]},
+    "Safety Precautions": {"type": ["text", "video"]},
+    "Quiz or Assessment": {"type": ["multiple-choice quiz", "true/false assessment"]},
+    "Notes": {"type": "text"}
+  }
+}

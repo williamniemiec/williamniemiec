@@ -1,0 +1,34 @@
+Here is the output in JSON format:
+
+
+{
+    "Stress Reduction Techniques": {
+        "Technique Options": {
+            "Description": "Select a stress reduction technique to learn more",
+            "Required": true,
+            "Type": "options",
+            "Options": [
+                {"value": "deepBreathing", "label": "Deep Breathing"},
+                {"value": "progressiveMuscleRelaxation", "label": "Progressive Muscle Relaxation"},
+                {"value": "mindfulnessMeditation", "label": "Mindfulness Meditation"},
+                {"value": "yoga", "label": "Yoga"},
+                {"value": "journaling", "label": "Journaling"}
+            ]
+        },
+        "Technique Guide": {
+            "Description": "View a guide on how to practice the selected technique",
+            "Required": true,
+            "Type": "guide",
+            "Guide": {
+                "label": "Deep Breathing Guide",
+                "description": "A step-by-step guide on how to practice deep breathing",
+                "steps": [
+                    {"label": "Step 1: Find a quiet and comfortable place to sit"},
+                    {"label": "Step 2: Close your eyes and take a deep breath in through your nose"},
+                    {"label": "Step 3: Hold your breath for a few seconds"},
+                    {"label": "Step 4: Slowly exhale through your mouth"}
+                ]
+            }
+        }
+    }
+}

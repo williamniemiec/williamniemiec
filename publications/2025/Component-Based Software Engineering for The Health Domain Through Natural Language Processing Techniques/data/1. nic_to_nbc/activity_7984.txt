@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Uterine Activity Monitoring": {
+        "parameters": {
+            "Uterine Activity Scale": {"type": "options"},
+            "Frequency": {"type": "options"},
+            "Duration": {"type": "numeric"},
+            "Notes": {"type": "text"}
+        }
+    }
+}

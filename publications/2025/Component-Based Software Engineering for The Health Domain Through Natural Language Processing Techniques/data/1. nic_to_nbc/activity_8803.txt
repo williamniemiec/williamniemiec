@@ -1,0 +1,30 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Coping Technique Instruction",
+    "parameters": [
+        {
+            "name": "Technique",
+            "type": "text"
+        },
+        {
+            "name": "Instructions",
+            "type": "text"
+        },
+        {
+            "name": "Aspect",
+            "type": "text"
+        },
+        {
+            "name": "Frequency",
+            "type": "options",
+            "options": [
+                { value: "daily", label: "Daily" },
+                { value: "onlyOnce", label: "Only once" },
+                { value: "everyHours", label: "Every x hours" },
+                { value: "everyDays", label: "Every x days" }
+            ]
+        }
+    ]
+}

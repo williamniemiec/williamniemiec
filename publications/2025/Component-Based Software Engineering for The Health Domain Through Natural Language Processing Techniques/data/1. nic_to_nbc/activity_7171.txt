@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+    "Education Module": {
+        "Content": {"type": "text or multimedia"},
+        "Quiz": {"type": "form with multiple-choice questions"},
+        "Notes": {"type": "text"},
+        "Symptom Checker": {"type": "interactive form with conditional logic"}
+    }
+}

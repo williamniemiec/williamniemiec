@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Coping Strategy Identification": {
+    "parameters": {
+      "Stressful Situation Identification": {
+        "type": "text"
+      },
+      "Coping Strategy Assessment": {
+        "type": "text"
+      }
+    }
+  }
+}

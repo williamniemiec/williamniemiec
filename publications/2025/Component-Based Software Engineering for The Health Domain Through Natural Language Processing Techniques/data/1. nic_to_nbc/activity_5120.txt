@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Essential Oil Dilution": {
+    "parameters": {
+      "Essential Oil": {},
+      "Carrier Oil": {},
+      "Dilution Ratio": {},
+      "Instructions": {}
+    }
+  }
+}

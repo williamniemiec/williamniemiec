@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Education Reinforcement": {
+    "Parameters": {
+      "Education Topic": {"Type": "options"},
+      "Education Format": {"Type": "options"},
+      "Target Audience": {"Type": "options"},
+      "Frequency": {"Type": "options"}
+    }
+  }
+}

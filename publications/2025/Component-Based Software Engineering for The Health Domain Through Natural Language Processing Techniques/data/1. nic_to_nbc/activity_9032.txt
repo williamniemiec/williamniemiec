@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Symptom Tracker": {
+    "Parameters": {
+      "Symptom": {"Type": "text"},
+      "Frequency": {"Options": ["daily", "everyHours", "everyDays"]},
+      "Rating Scale": {"Type": "options"},
+      "Deadline Date": {"Type": "datetime"},
+      "Additional Information": {"Type": "text"}
+    }
+  }
+}

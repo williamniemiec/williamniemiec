@@ -1,0 +1,50 @@
+Here is the output in JSON format:
+
+
+{
+  "Parameters": {
+    "Medications": {
+      "Description": "Specify the medications to be sent",
+      "Required": true,
+      "Type": "unordered list",
+      "Items": [
+        {
+          "Medication Name": {
+            "Description": "Specify the name of the medication",
+            "Required": true,
+            "Type": "text"
+          }
+        },
+        {
+          "Dosage": {
+            "Description": "Specify the dosage of the medication",
+            "Required": true,
+            "Type": "text"
+          }
+        }
+      ]
+    },
+    "Equipment": {
+      "Description": "Specify the equipment to be sent",
+      "Required": true,
+      "Type": "unordered list",
+      "Items": [
+        {
+          "Equipment Name": {
+            "Description": "Specify the name of the equipment",
+            "Required": true,
+            "Type": "text"
+          }
+        },
+        {
+          "Quantity": {
+            "Description": "Specify the quantity of the equipment",
+            "Required": true,
+            "Type": "number"
+          }
+        }
+      ]
+    }
+  },
+  "No-code element name": "Medication and Equipment Checklist"
+}

@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Guide": {
+    "parameters": [
+      {"name": "Content", "type": "text"},
+      {"name": "Call to Action", "type": "options"},
+      {"name": "Frequency", "type": "options"},
+      {"name": "Deadline Date", "type": "datetime"}
+    ]
+  }
+}

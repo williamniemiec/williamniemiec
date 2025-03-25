@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "Skin Care Education": {
+    "Parameters": {
+      "Content": {
+        "Type": "text or HTML"
+      },
+      "Images": {
+        "Type": "list of images"
+      },
+      "Tips": {
+        "Type": "list of text"
+      },
+      "FAQs": {
+        "Type": "list of FAQs (question-answer pairs)"
+      }
+    }
+  }
+}
+
+
+Let me know if this is what you were looking for!

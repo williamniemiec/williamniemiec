@@ -1,0 +1,10 @@
+Here is the output in JSON format:
+
+
+{
+    "Resource Directory": {
+        "Shelter List": {"type": "list of text"},
+        "Filter": {"type": "options"},
+        "Confidentiality Statement": {"type": "text"}
+    }
+}

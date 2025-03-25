@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+    "Pain Management Plan": {
+        "Parameters": {
+            "Name": {"type": "text", "required": true},
+            "Pain intensity score": {"type": "numerical value or scale", "required": true},
+            "Current dose": {"type": "numerical value", "required": true},
+            "Dose adjustment rules": {"type": "list of rules or formulas", "required": true},
+            "New dose": {"type": "numerical value", "calculated_or_required": true},
+            "Instructions": {"type": "text or html", "required": true},
+            "Reminders": {"type": "list of reminder settings", "optional": true}
+        }
+    }
+}

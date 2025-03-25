@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+    "Skin-to-Skin Guidance": {
+        "Parameters": {
+            "Initial Duration": {"Type": "numeric value"},
+            "Increment": {"Type": "numeric value"},
+            "Goal Duration": {"Type": "text or HTML"},
+            "Frequency": {"Type": "options"},
+            "Tracking": {"Type": "boolean (true/false) or a tracking mechanism"},
+            "Tips": {"Type": "text or HTML"}
+        }
+    }
+}

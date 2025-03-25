@@ -1,0 +1,41 @@
+Here is the output in JSON format:
+
+
+{
+  "Breast Examination Form": {
+    "parameters": {
+      "name": "",
+      "content": "",
+      "description": "",
+      "fields": [
+        {
+          "label": "",
+          "type": "",
+          "options": [],
+          "units": ""
+        }
+      ],
+      "frequency": "",
+      "deadline_date": ""
+    }
+  },
+  "Question": {
+    "parameters": {
+      "name": "",
+      "answer type": "",
+      "frequency": "",
+      "deadline_date": ""
+    }
+  },
+  "Task": {
+    "parameters": {
+      "name": "",
+      "content": "",
+      "frequency": "",
+      "deadline_date": ""
+    }
+  }
+}
+
+
+Note that I removed the introduction, conclusion, and not applicable parameters. Also, I didn't include the example form fields in the output as they are not part of the parameter specifications.

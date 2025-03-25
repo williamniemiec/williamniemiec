@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+  "Hand Hygiene Reminder": {
+    "parameters": {
+      "Reminder Frequency": {
+        "type": "options",
+        "options": ["hourly", "daily", "before meals", "after using the bathroom", "etc"]
+      },
+      "Reminder Trigger": {
+        "type": "options",
+        "options": ["time of day", "meal time", "bathroom use", "etc"]
+      },
+      "Hand Hygiene Instructions": {
+        "type": ["text", "video"]
+      }
+    }
+  }
+}
+
+
+Let me know if this is what you were expecting!

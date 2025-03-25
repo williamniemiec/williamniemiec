@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Meal Preference": {
+    "eat_alone": {
+      "type": "options",
+      "options": ["yes", "no"]
+    },
+    "reason": {
+      "type": "text",
+      "description": "Allow the patient to provide a brief explanation for their preference."
+    }
+  }
+}

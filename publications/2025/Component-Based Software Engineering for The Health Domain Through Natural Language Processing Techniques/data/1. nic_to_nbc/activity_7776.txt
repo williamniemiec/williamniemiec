@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+    "Healthcare Activity Instructions": {
+        "Activity Name": {"Type": "text"},
+        "Purpose": {"Type": "text"},
+        "Location": {"Type": "text or address"},
+        "Date and Time": {"Type": "datetime"},
+        "Instructions": {"Type": "text"},
+        "Additional Resources": {"Type": "text or URL"},
+        "Reminders": {"Type": "boolean or options"},
+        "Provider Information": {"Type": "text or provider profile"}
+    }
+}

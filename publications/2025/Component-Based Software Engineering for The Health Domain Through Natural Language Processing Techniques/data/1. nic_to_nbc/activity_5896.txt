@@ -1,0 +1,41 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Plan Evaluation",
+    "parameters": [
+        {
+            "name": "Evaluation Questions",
+            "type": "list of text"
+        },
+        {
+            "name": "Rating Scale",
+            "type": "options",
+            "options": [
+                { value: "1-5", label: "1-5 Scale" },
+                { value: "yes/no", label: "Yes/No" }
+            ]
+        },
+        {
+            "name": "Reflection Prompts",
+            "type": "list of text"
+        },
+        {
+            "name": "Instructions",
+            "type": "text"
+        },
+        {
+            "name": "Frequency",
+            "type": "options",
+            "options": [
+                { value: "daily", label: "Daily" },
+                { value: "weekly", label: "Weekly" },
+                { value: "monthly", label: "Monthly" }
+            ]
+        },
+        {
+            "name": "Deadline Date",
+            "type": "datetime"
+        }
+    ]
+}

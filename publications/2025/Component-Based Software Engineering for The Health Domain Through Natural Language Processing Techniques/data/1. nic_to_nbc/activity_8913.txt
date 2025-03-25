@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+    "Secure Wandering Area": {
+        "area_type": {"type": "options"},
+        "safety_features": {"type": "options"},
+        "supervision_level": {"type": "options"},
+        "wandering_boundaries": {"type": "text or map coordinates"}
+    }
+}

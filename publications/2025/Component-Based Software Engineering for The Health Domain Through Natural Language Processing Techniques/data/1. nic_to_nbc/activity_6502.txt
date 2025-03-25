@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Staff Introduction": {
+    "Staff List": {"Type": "list of text inputs"},
+    "Staff Roles": {"Type": "list of text inputs"},
+    "Staff Photos": {"Type": "image uploads"},
+    "Staff Bios": {"Type": "text inputs"}
+  },
+  "Guide": {
+    "Step-by-Step Process": {"Type": "list of text inputs"},
+    "Staff List": {"Type": "list of text inputs"},
+    "Staff Roles": {"Type": "list of text inputs"}
+  }
+}

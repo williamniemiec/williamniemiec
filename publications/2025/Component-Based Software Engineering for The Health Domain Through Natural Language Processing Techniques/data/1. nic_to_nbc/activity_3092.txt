@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Hydration Tracker": {
+    "parameters": [
+      {"Name": {"type": "text"}},
+      {"Fluid Intake": {"type": "number", "units": ["mL", "oz", "etc."]}},
+      {"Urine Output": {"type": "number", "units": ["mL", "oz", "etc."]}},
+      {"Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]}},
+      {"Deadline Date": {"type": "datetime"}},
+      {"Notes": {"type": "text"}}
+    ]
+  }
+}

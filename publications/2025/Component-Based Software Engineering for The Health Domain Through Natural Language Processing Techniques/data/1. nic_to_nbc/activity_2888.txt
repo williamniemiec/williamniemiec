@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+    "Outcome Evaluation": {
+        "parameters": {
+            "name": {"type": "text"},
+            "outcome_criteria": {"type": "options"},
+            "evaluation_method": {"type": "options"},
+            "evaluation_frequency": {"type": "options"},
+            "target_outcome": {"type": "text"},
+            "notes": {"type": "text"}
+        }
+    },
+    "Goal Setting": {
+        "parameters": {
+            "name": {"type": "text"},
+            "goal": {"type": "text"},
+            "outcome_criteria": {"type": "options"},
+            "evaluation_method": {"type": "options"},
+            "evaluation_frequency": {"type": "options"},
+            "target_outcome": {"type": "text"},
+            "deadline": {"type": "datetime"}
+        }
+    }
+}

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Chest Pain Self-Care": {
+    "Parameters": {
+      "Chest Pain Protocol": {"Type": ["text", "video"]},
+      "Medication Instructions": {"Type": ["text", "video"]},
+      "Pain Assessment": {"Type": ["questionnaire", "survey"]},
+      "Emergency Care Instructions": {"Type": ["text", "video"]},
+      "Resources": {"Type": ["list of resources with links or descriptions"]}
+    }
+  }
+}

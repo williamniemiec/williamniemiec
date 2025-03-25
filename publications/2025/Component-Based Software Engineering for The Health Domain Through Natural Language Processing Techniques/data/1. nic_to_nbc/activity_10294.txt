@@ -1,0 +1,32 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "assistance recommendation",
+    "parameters": [
+        { 
+            "name": "vision impairment", 
+            "description": "vision impairment status", 
+            "required": true, 
+            "type": "boolean"
+        },
+        { 
+            "name": "mobility issues", 
+            "description": "mobility issues status", 
+            "required": true, 
+            "type": "boolean"
+        },
+        { 
+            "name": "assistance needed", 
+            "description": "assistance needed with foot care", 
+            "required": true, 
+            "type": "boolean"
+        },
+        { 
+            "name": "significant other info", 
+            "description": "information about the significant other", 
+            "required": true, 
+            "type": "text"
+        }
+    ]
+}

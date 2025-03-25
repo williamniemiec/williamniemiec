@@ -1,0 +1,10 @@
+Here is the output in JSON format:
+
+{
+    "Medical Alert": {
+        "Device/Condition": {"type": "text"},
+        "Wearing Instructions": {"type": "text"},
+        "Frequency": {"options": ["always", "daily", "onlyWhenLeavingHome"]},
+        "Reminders": {"type": "boolean"}
+    }
+}

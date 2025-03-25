@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Relaxation Response Tracker": {
+    "Parameters": {
+      "Name": {},
+      "Relaxation Technique": {},
+      "Response Scale": {},
+      "Frequency": {},
+      "Data Visualization": {},
+      "Insights": {}
+    }
+  }
+}

@@ -1,0 +1,34 @@
+Here is the output in JSON format:
+
+
+{
+  "Stimulation Site Selection": {
+    "Site Options": {
+      "type": "options",
+      "options": [
+        "adjacent to",
+        "distal to",
+        "bracketing the site",
+        "between affected areas and the brain",
+        "contralateral to the pain"
+      ]
+    },
+    "Reason for Selection": {
+      "type": "text"
+    },
+    "Frequency": {
+      "type": "options",
+      "options": [
+        "daily",
+        "onlyOnce",
+        "everyHours",
+        "everyDays"
+      ]
+    },
+    "Deadline Date": {
+      "type": "datetime"
+    }
+  }
+}
+
+Let me know if this meets your requirements!

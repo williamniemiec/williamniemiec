@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Education Module": {
+    "parameters": {
+      "name": "Symptoms to Report",
+      "description": "Learn about the symptoms you should report to your healthcare provider"
+    }
+  }
+}

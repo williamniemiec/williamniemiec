@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Vaccine Administration": {
+    "Indication": {"Description": "Reason for administering Rh immune globulin and Rubella vaccine (e.g. pregnancy, etc.)", "Required": true, "Type": "text"},
+    "Vaccine Information": {"Description": "Details of the Rh immune globulin and Rubella vaccine, including dosage and administration instructions", "Required": true, "Type": "object", "Object": {"Rh immune globulin": {"dosage": "text", "administration instructions": "text"}, "Rubella vaccine": {"dosage": "text", "administration instructions": "text"}}},
+    "Administration Schedule": {"Description": "Schedule for administering the vaccines", "Required": true, "Type": "datetime"},
+    "Side Effects": {"Description": "List of possible side effects of the vaccines", "Required": true, "Type": "unordered list", "Unordered list": "list of text items"}
+  }
+}

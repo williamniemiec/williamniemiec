@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+
+{
+    "Community Resource Directory": {
+        "Agency Categories": {"Type": "list of categories"},
+        "Agency List": {"Type": "list of agencies"},
+        "Filtering Criteria": {"Type": "list of filtering options"},
+        "Rating and Review": {"Type": "rating system and review text input"}
+    }
+}
+
+
+Note that I removed the "Referral Process" parameter as it's not applicable, and also removed any unnecessary information to provide a clean JSON output.

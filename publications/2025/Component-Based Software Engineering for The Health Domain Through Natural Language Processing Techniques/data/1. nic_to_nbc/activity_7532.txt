@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+    "Goal Setting": {
+        "Current Activity Level": {"type": ["text", "options"]},
+        "Desired Activity Level": {"type": ["text", "options"]},
+        "Incremental Goals": {"type": ["text", "options"]},
+        "Timeline": {"type": ["date", "date range"]},
+        "Motivational Message": {"type": ["text", "image"]}
+    }
+}

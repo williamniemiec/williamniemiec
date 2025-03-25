@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+  "Vital Sign Tracker": {
+    "Parameter": {"Type": "options", "Options": ["bloodPressure", "heartRate", "electrolyteLevels", "etc."]},
+    "Unit": {"Type": "options", "Options": ["mmHg", "bpm", "mEq/L", "etc."]},
+    "Frequency": {"Type": "options", "Options": ["daily", "weekly", "monthly", "oneTime"]},
+    "Deadline Date": {"Type": "datetime"},
+    "Target Range": {"Type": "range", "Example": "90-120 mmHg for blood pressure"},
+    "Alert Threshold": {"Type": "range", "Example": "<90 mmHg or >120 mmHg for blood pressure"}
+  },
+  "Data Entry": {
+    "Parameter": {"Type": "options", "Options": ["bloodPressure", "heartRate", "electrolyteLevels", "etc."]},
+    "Value": {"Type": "number"},
+    "Unit": {"Type": "options", "Options": ["mmHg", "bpm", "mEq/L", "etc."]},
+    "Frequency": {"Type": "options", "Options": ["daily", "weekly", "monthly", "oneTime"]},
+    "Deadline Date": {"Type": "datetime"}
+  }
+}

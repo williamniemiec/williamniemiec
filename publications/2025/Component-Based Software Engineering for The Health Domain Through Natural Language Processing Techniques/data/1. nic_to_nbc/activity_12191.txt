@@ -1,0 +1,30 @@
+Here is the output in JSON format:
+
+
+{
+  "Respiratory Monitoring": {
+    "parameters": {
+      "name": {"type": "text"},
+      "monitoring_frequency": {"type": "options", "options": [
+        {"value": "continuous", "label": "Continuous"},
+        {"value": "every_15_minutes", "label": "Every 15 minutes"},
+        {"value": "every_30_minutes", "label": "Every 30 minutes"},
+        {"value": "every_60_minutes", "label": "Every 60 minutes"}
+      ]},
+      "signs_of_fatigue": {"type": "list", "items": [
+        {"value": "abrupt_rise_in_PaCO2", "label": "Abrupt rise in PaCO2"},
+        {"value": "rapid_shallow_ventilation", "label": "Rapid, shallow ventilation"},
+        {"value": "paradoxical_abdominal_wall_motion", "label": "Paradoxical abdominal wall motion"}
+      ]},
+      "hypoxemia_monitoring": {"type": "options", "options": [
+        {"value": "oxygen_saturation_levels", "label": "Oxygen saturation levels"},
+        {"value": "arterial_blood_gas_analysis", "label": "Arterial blood gas analysis"}
+      ]},
+      "tissue_hypoxia_monitoring": {"type": "options", "options": [
+        {"value": "lactate_levels", "label": "Lactate levels"},
+        {"value": "other", "label": "Other"}
+      ]},
+      "instructions": {"type": "text"}
+    }
+  }
+}

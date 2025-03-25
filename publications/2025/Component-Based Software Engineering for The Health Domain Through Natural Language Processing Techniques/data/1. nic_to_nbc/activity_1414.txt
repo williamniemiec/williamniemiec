@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Light Therapy Tracker": {
+    "Session Tracker": {"Type": "checkbox list or calendar"},
+    "Family Participation": {"Type": "checkbox or toggle button"},
+    "Session Duration": {"Type": "numeric"},
+    "Frequency": {"Options": ["daily", "every 12 hours", "per protocol (with a customizable schedule)"]},
+    "Notes": {"Type": "text"}
+  }
+}

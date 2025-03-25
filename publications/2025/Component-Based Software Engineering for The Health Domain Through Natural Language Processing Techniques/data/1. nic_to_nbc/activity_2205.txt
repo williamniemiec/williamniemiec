@@ -1,0 +1,33 @@
+Here is the output in JSON format:
+
+
+{
+  "Emergency Housing Shelter Guide": {
+    "parameters": [
+      {"Name": {"type": "text"}},
+      {"Content": {"type": "text or HTML"}},
+      {"Programs": {"type": "list of objects", "properties": {
+        "Name": {"type": "text"},
+        "Description": {"type": "text"},
+        "Phone": {"type": "phone number"},
+        "Address": {"type": "text"},
+        "Email": {"type": "email"}
+      }}},
+      {"Eligibility Criteria": {"type": "text or HTML"}},
+      {"Application Process": {"type": "text or HTML"}},
+      {"Resources": {"type": "list of objects", "properties": {
+        "Name": {"type": "text"},
+        "Description": {"type": "text"},
+        "Link": {"type": "URL"},
+        "Phone": {"type": "phone number"},
+        "Address": {"type": "text"}
+      }}},
+      {"Frequency": {"type": "options", "options": [
+        {"value": "daily", "label": "Daily"},
+        {"value": "onlyOnce", "label": "Only once"},
+        {"value": "everyHours", "label": "Every x hours"},
+        {"value": "everyDays", "label": "Every x days"}
+      ]}}
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Response Tracker": {
+    "Parameters": {
+      "Event": {
+        "Type": "text"
+      },
+      "Response": {
+        "Type": "text or rich text"
+      },
+      "Date": {
+        "Type": "datetime"
+      },
+      "Emotional State": {
+        "Type": "text"
+      }
+    }
+  }
+}

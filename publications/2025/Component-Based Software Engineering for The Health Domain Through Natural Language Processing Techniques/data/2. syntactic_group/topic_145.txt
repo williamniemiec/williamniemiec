@@ -1,0 +1,10 @@
+{
+  "name": "Outcome Goals and Priority Setting",
+  "description": "Focuses on the setting of outcome goals and aligning them with priorities. This topic includes defining goals, setting priority levels, and ensuring alignment with desired outcomes and settings.",
+  "type": "non-periodic",
+  "input": ["Goal setting", "Priority levels", "Outcome alignment", "Medium setting", "Outcome statements"],
+  "output": ["Goal achievement report", "Priority alignment feedback", "Outcome summary"],
+  "preconditions": ["User is defining or working towards specific outcomes"],
+  "postconditions": ["Clear alignment of goals with priorities and desired outcomes"],
+  "dependencies": ["Goal-setting platform", "Priority tracking tools", "Outcome evaluation system"]
+}

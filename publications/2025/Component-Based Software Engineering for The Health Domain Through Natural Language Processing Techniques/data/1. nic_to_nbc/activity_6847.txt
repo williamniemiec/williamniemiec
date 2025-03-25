@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Comfort Level Assessment": {
+    "name": "comfort level assessment title",
+    "description": "instructions for rating comfort level",
+    "rating_scale": "type of rating scale to be used (e.g., 1-10, 1-5, etc.)",
+    "frequency": "how often the patient should rate their comfort level",
+    "deadline_date": "due date for comfort level assessment"
+  },
+  "Action Plan": {
+    "name": "action plan title",
+    "description": "instructions for taking action based on comfort level rating",
+    "rating_thresholds": "threshold values for different comfort level ratings (e.g., 1-3: low, 4-6: moderate, 7-10: high)",
+    "actions": "list of actions to be taken for each rating threshold (e.g., contact healthcare provider, take medication, etc.)"
+  }
+}

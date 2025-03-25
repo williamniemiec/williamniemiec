@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Responsible Sexuality Guide": {
+        "Name": {"Type": "text"},
+        "Description": {"Type": "text"},
+        "Safe Sex Practices": {"Type": "list", "Items": ["list of resources, such as articles, videos, or websites"]},
+        "Healthy Relationships": {"Type": "list", "Items": ["list of resources, such as articles, videos, or websites"]},
+        "Risk Assessment": {"Type": "questionnaire", "Questions": ["list of questions, such as \"Have you had unprotected sex in the past month?\" or \"Have you been diagnosed with an STI in the past?\""]},
+        "Goal Setting": {"Type": "boolean"},
+        "Reminders": {"Type": "boolean"}
+    }
+}

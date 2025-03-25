@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+    "foot care capacity assessment": [
+        {
+            "name": "visual acuity",
+            "description": "visual acuity assessment"
+        },
+        {
+            "name": "physical mobility",
+            "description": "physical mobility assessment"
+        },
+        {
+            "name": "judgment",
+            "description": "judgment assessment"
+        }
+    ]
+}

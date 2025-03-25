@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Education Module": {
+    "Content": {"Type": "rich text"},
+    "Topic": {"Type": "text"}
+  },
+  "Task List": {
+    "Task List": {"Type": "list of tasks"},
+    "Task Description": {"Type": "text"}
+  },
+  "Question": {
+    "Question": {"Type": "text"},
+    "Answer Type": {"Type": "options"}
+  }
+}

@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Adaptive Device Recommendation": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Description": {"Type": "text"},
+      "Device Types": {"Type": "options", "Options": ["step stools", "handrails", "non-slip mats", "grab bars", ...]},
+      "Room/Area": {"Type": "options", "Options": ["bathroom", "kitchen", "bedroom", ...]},
+      "Reason": {"Type": "options", "Options": ["fall prevention", "mobility assistance", "comfort", ...]}
+    }
+  }
+}
+
+
+Note that I removed the `Resources` parameter as it is not applicable (it's either a text or a link, but there are no specific options provided). Let me know if you need any further clarification!

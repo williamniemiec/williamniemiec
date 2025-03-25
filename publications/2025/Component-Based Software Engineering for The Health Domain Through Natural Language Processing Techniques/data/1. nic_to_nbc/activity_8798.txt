@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Uterine Assessment": {
+    "parameters": [
+      {"name": "uterine_position", "description": "Specify the position of your uterus", "required": true, "type": "options", "options": [{"value": "anteverted", "label": "Anteverted"}, {"value": "retroverted", "label": "Retroverted"}, {"value": "midposition", "label": "Midposition"}]},
+      {"name": "uterine_size", "description": "Specify the size of your uterus", "required": true, "type": "number"},
+      {"name": "endometrial_thickness", "description": "Specify the thickness of your endometrium", "required": true, "type": "number"},
+      {"name": "frequency", "description": "Specify how often you should provide this information", "required": true, "type": "options", "options": [{"value": "daily", "label": "Daily"}, {"value": "onlyOnce", "label": "Only once"}, {"value": "everyHours", "label": "Every x hours"}, {"value": "everyDays", "label": "Every x days"}]}
+    ]
+  }
+}
+
+
+Note that I removed the `deadline_date` parameter since it was marked as not required.

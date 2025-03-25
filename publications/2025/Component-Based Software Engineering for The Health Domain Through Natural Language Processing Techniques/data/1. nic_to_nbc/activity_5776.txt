@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+  "parameters": {
+    "situation": {
+      "description": "Specific situation to be avoided",
+      "required": true,
+      "type": "text"
+    },
+    "precautions": {
+      "description": "List of precautions to avoid the situation",
+      "required": true,
+      "type": "unordered list",
+      "itemType": {
+        "precaution": {
+          "name": "precaution",
+          "description": "Specific precaution to take",
+          "required": true,
+          "type": "text"
+        }
+      }
+    }
+  },
+  "noCodeElementName": "Precaution"
+}

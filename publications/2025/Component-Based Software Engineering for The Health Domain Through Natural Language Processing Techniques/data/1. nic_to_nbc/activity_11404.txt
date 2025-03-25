@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Screening",
+  "parameters": [
+    {
+      "name": "Screening Type"
+    },
+    {
+      "name": "Frequency"
+    },
+    {
+      "name": "Due Date"
+    },
+    {
+      "name": "Result"
+    },
+    {
+      "name": "Notes"
+    }
+  ]
+}

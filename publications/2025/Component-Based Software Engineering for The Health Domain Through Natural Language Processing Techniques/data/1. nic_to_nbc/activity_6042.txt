@@ -1,0 +1,35 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Voiding Pattern Record",
+    "parameters": [
+        { 
+            "name": "Name", 
+            "type": "text"
+        },
+        { 
+            "name": "Instructions", 
+            "type": "text"
+        },
+        { 
+            "name": "Record Template", 
+            "type": "table or form"
+        },
+        { 
+            "name": "Duration", 
+            "type": "numeric"
+        },
+        { 
+            "name": "Frequency", 
+            "type": "options",
+            "options": [
+                { value: "every void", label: "Every void" },
+                { value: "hourly", label: "Hourly" },
+                { value: "every 2 hours", label: "Every 2 hours" }
+            ]
+        }
+    ]
+}
+
+I removed the `Deadline Date` parameter as it was not applicable. Let me know if you need anything else!

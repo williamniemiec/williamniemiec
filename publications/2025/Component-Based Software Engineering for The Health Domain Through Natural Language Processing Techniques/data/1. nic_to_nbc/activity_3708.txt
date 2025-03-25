@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Milk Flow Tracker": {
+    "Title": {"type": "text"},
+    "Flow Rate": {"type": "number"},
+    "Flow Pattern": {"type": "text or options"},
+    "Feeding Time": {"type": "time"},
+    "Frequency": {"options": ["every feeding", "every 2 hours", "every 4 hours"]}
+  }
+}

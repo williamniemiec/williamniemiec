@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+  "Role Transition Planner": {
+    "parameters": {
+      "Role Change Description": {},
+      "Current Role": {},
+      "New Role": {},
+      "Task List": {},
+      "Skill Assessment": {},
+      "Goal Setting": {},
+      "Support Network": {},
+      "Progress Tracking": {}
+    }
+  }
+}
+
+
+Note: I removed the parameters that were marked as "Not Applicable" since there were none in this input.

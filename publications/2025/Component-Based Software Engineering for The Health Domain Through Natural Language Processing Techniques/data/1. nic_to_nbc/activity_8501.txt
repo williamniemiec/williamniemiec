@@ -1,0 +1,37 @@
+Here is the output in JSON format:
+
+
+{
+    "Cold Reduction Tips": {
+        "tip title": {
+            "Description": "title of the cold reduction tip",
+            "Required": true,
+            "Type": "text"
+        },
+        "Tips": {
+            "Description": "list of tips to reduce feelings of being cold during bathing",
+            "Required": true,
+            "Type": "unordered list",
+            "Options": [
+                { "value": "warmTowels", "label": "Provide warm towels" },
+                { "value": "washFaceHairLast", "label": "Wash face and hair last" },
+                { "value": "washFeetFirst", "label": "Wash feet first" },
+                { "value": "beauticianShampoo", "label": "Have a beautician shampoo hair" }
+            ]
+        },
+        "Frequency": {
+            "Description": "specify how often the patient should be reminded of the cold reduction tips",
+            "Required": true,
+            "Type": "options",
+            "Options": [
+                { "value": "daily", "label": "Daily" },
+                { "value": "onlyOnce", "label": "Only once" },
+                { "value": "everyHours", "label": "Every x hours" },
+                { "value": "everyDays", "label": "Every x days" }
+            ]
+        }
+    }
+}
+
+
+I removed the `Deadline Date` parameter since it was marked as not required. Let me know if you need any further adjustments!

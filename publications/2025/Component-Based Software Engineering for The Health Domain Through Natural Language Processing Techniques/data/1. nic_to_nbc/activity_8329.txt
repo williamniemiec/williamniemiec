@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Oral Function Monitoring": {
+    "Taste Assessment": {},
+    "Swallowing Assessment": {},
+    "Voice Quality Assessment": {},
+    "Comfort Assessment": {},
+    "Documentation": {},
+    "Referral": {}
+  }
+}

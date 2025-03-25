@@ -1,0 +1,13 @@
+
+
+
+{
+    "Equipment Checklist": {
+        "Parameters": {
+            "Equipment list": {"Type": "list of text"},
+            "Equipment status": {"Type": "options (available, not available, needs to be restocked)"},
+            "Reminder": {"Type": "boolean (true or false)"},
+            "Customization": {"Type": "boolean (true or false)"}
+        }
+    }
+}

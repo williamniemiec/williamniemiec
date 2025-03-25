@@ -1,0 +1,42 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Self-Evaluation Module",
+    "parameters": [
+        {
+            "name": "Social Interaction",
+            "type": "text"
+        },
+        {
+            "name": "Outcome Evaluation",
+            "type": "options",
+            "options": [
+                { value: "positive", label: "Positive" },
+                { value: "negative", label: "Negative" },
+                { value: "neutral", label: "Neutral" }
+            ]
+        },
+        {
+            "name": "Self-Reward",
+            "type": "text"
+        },
+        {
+            "name": "Problem Solving",
+            "type": "text"
+        },
+        {
+            "name": "Frequency",
+            "type": "options",
+            "options": [
+                { value: "daily", label: "Daily" },
+                { value: "weekly", label: "Weekly" },
+                { value: "monthly", label: "Monthly" }
+            ]
+        },
+        {
+            "name": "Deadline Date",
+            "type": "datetime"
+        }
+    ]
+}

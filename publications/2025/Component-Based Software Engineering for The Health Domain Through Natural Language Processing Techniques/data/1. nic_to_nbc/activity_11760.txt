@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Metabolic Acidosis Cause Monitor": {
+    "parameters": {
+      "medical_history": "",
+      "medications": "",
+      "lab_results": "",
+      "vital_signs": "",
+      "symptoms": "",
+      "causes": "",
+      "rules": "",
+      "probability": "",
+      "interpretation": ""
+    }
+  }
+}
+
+
+I removed all the unnecessary parts and kept only the `{{ NO-CODE ELEMENT NAME }}` and `{{ PARAMETER ESPECIFICATIONS }}`. I also formatted it as a JSON object. Let me know if you need any further assistance!

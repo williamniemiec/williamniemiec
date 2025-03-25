@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Environmental Adjustment": {
+    "Parameters": {
+      "Reason for Adjustment": {"Type": "text"},
+      "Current Environment": {"Type": "text"},
+      "Target Environment": {"Type": "text"},
+      "Confirmation": {"Type": "boolean"},
+      "Deadline Date": {"Type": "datetime"},
+      "Notes": {"Type": "text"}
+    }
+  }
+}

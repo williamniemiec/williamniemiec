@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Intake Assessment": {
+    "Parameters": {
+      "Title": {"Type": "text"},
+      "Questions": {"Type": "form or questionnaire"},
+      "Birth Weight": {"Type": "number"},
+      "Frequency": {"Options": ["every feeding", "every 2 hours", "every 4 hours"]}
+    }
+  }
+}

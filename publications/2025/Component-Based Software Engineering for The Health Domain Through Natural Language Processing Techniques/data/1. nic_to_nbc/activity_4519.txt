@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+    "Risk Assessment": {
+        "Parameters": {
+            "Risk Factors": {
+                "Type": "list of options",
+                "Options": ["medicalHistory", "lifestyle", "familyHistory", "etc."]
+            },
+            "Assessment Questions": {
+                "Type": "list of questions",
+                "Questions": ["Do you have a history of diabetes?", "Do you smoke?", "etc."]
+            },
+            "Risk Level": {
+                "Type": "options",
+                "Options": ["low", "moderate", "high", "unknown"]
+            },
+            "Risk Factors Identified": {
+                "Type": "list of text"
+            }
+        }
+    }
+}

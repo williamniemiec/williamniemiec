@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+
+{
+    "Medication Monitoring": {
+        "Parameters": {
+            "Name": {"Type": "text"},
+            "Type": {"Type": "options", "Options": ["anticholinergic", "alpha-agonist"]},
+            "Frequency": {"Type": "options", "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+            "Dosage": {"Type": "text"},
+            "Notes": {"Type": "text"},
+            "Deadline Date": {"Type": "datetime"}
+        }
+    }
+}

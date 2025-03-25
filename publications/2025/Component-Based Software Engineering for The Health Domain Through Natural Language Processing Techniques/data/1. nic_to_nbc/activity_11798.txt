@@ -1,0 +1,30 @@
+Here is the output in JSON format:
+
+
+{
+  "Care Planning Tool": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Care Plan Components": {
+        "Type": "list of care plan components",
+        "Component Parameters": {
+          "Component Name": {"Type": "text"},
+          "Component Description": {"Type": "text"}
+        }
+      },
+      "Decision-Making Options": {
+        "Type": "list of decision-making options",
+        "Option Parameters": {
+          "Option Name": {"Type": "text"},
+          "Option Description": {"Type": "text"}
+        }
+      },
+      "Care Plan Review": {"Type": "text"},
+      "Frequency": {
+        "Type": "options",
+        "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+      },
+      "Deadline Date": {"Type": "datetime"}
+    }
+  }
+}

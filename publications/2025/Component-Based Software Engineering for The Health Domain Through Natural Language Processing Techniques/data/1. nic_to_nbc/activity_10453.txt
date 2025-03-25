@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+    "Demonstration": {
+        "name": "",
+        "technique": "",
+        "instructions": "",
+        "video/upload": ""
+    },
+    "Task": {
+        "name": "",
+        "instructions": "",
+        "submission": "",
+        "feedback": ""
+    }
+}

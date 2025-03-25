@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Weaning Readiness Assessment": {
+    "Hemodynamic Stability": {},
+    "Condition Resolved": {},
+    "Current Condition": {},
+    "Additional Notes": {},
+    "Weaning Readiness": {}
+  }
+}

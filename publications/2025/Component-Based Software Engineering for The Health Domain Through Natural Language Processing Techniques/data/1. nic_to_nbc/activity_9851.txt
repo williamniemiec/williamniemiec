@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Education Module": {
+    "Parameters": {
+      "Title": {"Type": "text"},
+      "Content": {"Type": "rich text or HTML"},
+      "Pages": {"Type": "list of HTML texts"},
+      "Quiz": {"Type": "list of questions with answer options"},
+      "Frequency": {"Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"Type": "datetime"}
+    }
+  }
+}
+
+
+Let me know if this meets your requirements!

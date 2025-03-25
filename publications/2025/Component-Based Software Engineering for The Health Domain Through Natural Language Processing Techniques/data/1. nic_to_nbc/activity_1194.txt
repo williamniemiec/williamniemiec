@@ -1,0 +1,38 @@
+Here is the output in JSON format, removing anything except `{{ PARAMETER ESPECIFICATIONS }}` and `{{ NO-CODE ELEMENT NAME }}`, and removing not applicable parameters:
+
+
+{
+  "name": "Relocation Discussion",
+  "parameters": [
+    {
+      "name": "Discussion Topic",
+      "type": "text"
+    },
+    {
+      "name": "Patient Information",
+      "type": "text"
+    },
+    {
+      "name": "Significant Others",
+      "type": "list of text"
+    },
+    {
+      "name": "Discussion Format",
+      "type": "options",
+      "options": [
+        { value: "in-person" },
+        { value: "video conference" },
+        { value: "phone call" },
+        { value: "other" }
+      ]
+    },
+    {
+      "name": "Discussion Date",
+      "type": "datetime"
+    },
+    {
+      "name": "Notes",
+      "type": "text"
+    }
+  ]
+}

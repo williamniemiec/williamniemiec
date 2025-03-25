@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+    "application_assistance": {
+        "parameters": [
+            {"name": "resource_type", "description": "type of resource applying for"},
+            {"name": "application_form", "description": "application form for the selected resource"},
+            {"name": "submission_instructions", "description": "instructions for submitting the application"}
+        ]
+    }
+}

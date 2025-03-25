@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+    "group_size_configuration": {
+        "parameters": [
+            {"name": "min_size"},
+            {"name": "max_size"}
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+Here is the output in JSON format:
+
+
+{
+    "Relaxation Activity": {
+        "Parameters": {
+            "Activity": {
+                "Type": "options",
+                "Options": ["warm bath", "warm shower", "relaxation exercise", "meditation", "etc."]
+            },
+            "Frequency": {
+                "Type": "options",
+                "Options": ["daily", "every other day", "3 times a week", "etc."]
+            },
+            "Duration": {
+                "Type": "text",
+                "Example": "20-30 minutes"
+            },
+            "Tips": {
+                "Type": "unordered list",
+                "Examples": [
+                    "Add calming essential oils to the bath water",
+                    "Listen to soothing music during the bath or shower",
+                    "Practice deep breathing exercises during the activity"
+                ]
+            }
+        }
+    }
+}

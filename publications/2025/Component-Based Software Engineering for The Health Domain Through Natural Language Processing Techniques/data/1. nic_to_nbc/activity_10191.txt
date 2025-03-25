@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Infection Prevention Checklist": {
+    "parameters": [
+      {"name": "mask", "description": "Wear a mask", "required": true, "type": "boolean"},
+      {"name": "gown", "description": "Wear a gown", "required": true, "type": "boolean"},
+      {"name": "sterile_gloves", "description": "Wear sterile gloves", "required": true, "type": "boolean"},
+      {"name": "cap", "description": "Wear a cap", "required": true, "type": "boolean"},
+      {"name": "foot_coverings", "description": "Wear foot coverings", "required": true, "type": "boolean"},
+      {"name": "frequency", "description": "How often should you use these physical isolation measures?", "required": true, "type": "options", "options": [
+        {"value": "always", "label": "Always"},
+        {"value": "onlyWhenSick", "label": "Only when sick"},
+        {"value": "onlyInHospital", "label": "Only in hospital"}
+      ]}
+    ]
+  }
+}

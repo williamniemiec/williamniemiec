@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Oral Care Guide": {
+    "title of the oral care guide": {"Type": "text", "Required": true},
+    "Pages": {"Type": "book-page", "Required": true, "Book-page": "list of HTML texts"},
+    "Frequency": {"Type": "options", "Required": true, "Options": ["daily", "twice a day", "three times a day", "etc."]}
+  }
+}
+
+
+Note: I removed the "Videos" and "Deadline Date" parameters as they are optional (Required: false) and the task asked to remove not applicable parameters.

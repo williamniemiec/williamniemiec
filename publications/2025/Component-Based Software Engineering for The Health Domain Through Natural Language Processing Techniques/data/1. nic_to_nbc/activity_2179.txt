@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Peripheral Pulse Monitoring": {
+    "Parameters": {
+      "Pulse Location": {"Type": "options"},
+      "Pulse Rate": {"Type": "numeric field"},
+      "Pulse Quality": {"Type": "options"},
+      "Interval": {"Type": "text or options"},
+      "Facility Protocol": {"Type": "text or PDF upload"},
+      "Paced Beats": {"Type": "numeric field"},
+      "Perfusion Assessment": {"Type": "boolean"}
+    }
+  }
+}

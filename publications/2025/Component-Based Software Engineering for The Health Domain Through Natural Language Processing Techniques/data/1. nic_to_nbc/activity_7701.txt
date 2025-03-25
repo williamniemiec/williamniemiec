@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Symptom Tracking": {
+        "parameters": [
+            {"name": "symptom", "description": "Select GI symptom", "required": true, "type": "options"},
+            {"options": [{"value": "anorexia", "label": "Anorexia"}, {"value": "nausea", "label": "Nausea"}]}
+        ]
+    }
+}
+
+
+Let me know if this is what you were looking for!

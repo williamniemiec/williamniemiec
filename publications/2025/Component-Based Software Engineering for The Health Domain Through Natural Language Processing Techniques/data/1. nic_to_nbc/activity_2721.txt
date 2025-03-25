@@ -1,0 +1,17 @@
+
+
+
+{
+    "Oxygen Therapy Guide": {
+        "Instructions": {"Type": "text"},
+        "Video": {"Type": "video"},
+        "Frequency": {"Type": "options", "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+        "Deadline Date": {"Type": "datetime"}
+    },
+    "Oxygen Flow Rate Tracker": {
+        "Flow Rate": {"Type": "number"},
+        "Unit": {"Type": "text"},
+        "Frequency": {"Type": "options", "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+        "Deadline Date": {"Type": "datetime"}
+    }
+}

@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+    "Conversation Guide": {
+        "parameters": {
+            "title": "",
+            "topics": [],
+            "questions": [],
+            "talking points": [],
+            "resources": []
+        }
+    },
+    "Education": {
+        "parameters": {
+            "title": "",
+            "content": [],
+            "key points": [],
+            "resources": []
+        }
+    }
+}

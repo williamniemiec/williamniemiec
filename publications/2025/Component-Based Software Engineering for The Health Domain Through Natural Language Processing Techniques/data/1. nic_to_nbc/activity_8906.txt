@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+    "Visitation Scheduler": {
+        "visitation_schedule": {"type": "list of objects"},
+        "rest_period_goals": {"type": "number"},
+        "visitor_limitations": {"type": "text"}
+    },
+    "Visitor Coordinator": {
+        "visitor_list": {"type": "list of objects"},
+        "visitation_requests": {"type": "list of objects"},
+        "rest_period_reminders": {"type": "list of objects"}
+    }
+}

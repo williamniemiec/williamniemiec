@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Symbol Navigator": {
+    "Parameters": {
+      "Symbol": {"Description": "Symbol to be used for navigation (e.g. picture of a bed for the room, picture of a toilet for the bathroom)", "Required": true, "Type": "image or icon"},
+      "Location": {"Description": "Location where the symbol should be displayed (e.g. room, bathroom, dining area)", "Required": true, "Type": "options", "Options": ["room", "bathroom", "dining area", "other"]},
+      "Size": {"Description": "Size of the symbol to be displayed", "Required": true, "Type": "options", "Options": ["small", "medium", "large"]}
+    }
+  }
+}

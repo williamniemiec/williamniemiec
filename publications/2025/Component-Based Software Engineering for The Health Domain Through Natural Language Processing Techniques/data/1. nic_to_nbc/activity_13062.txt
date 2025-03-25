@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Nutrition Guide": {
+    "Parameters": {
+      "Title": {"Type": "text"},
+      "Content": {"Type": "book-page (list of HTML texts)"},
+      "Target Audience": {"Type": "options", "Options": ["patient", "significantOthers", "both"]},
+      "Frequency": {"Type": "options", "Options": ["daily", "weekly", "monthly", "oneTime"]}
+    }
+  }
+}
+
+
+Note: I removed the `Deadline Date` parameter as it was not applicable (no value provided).

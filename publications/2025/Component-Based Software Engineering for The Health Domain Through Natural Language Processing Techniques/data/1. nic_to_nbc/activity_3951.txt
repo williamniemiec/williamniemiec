@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Tube and Equipment Check": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Equipment List": {"Type": "list"},
+      "Functionality Questions": {"Type": "questionnaire"},
+      "Frequency": {"Type": "options", "Options": ["daily", "every 12 hours", "every 8 hours", "custom"]},
+      "Deadline Date": {"Type": "datetime"},
+      "Confirmation": {"Type": "boolean"}
+    }
+  }
+}

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Antipyretic Medication Administration": {
+    "Medication Name": {"type": "text"},
+    "Dosage": {"type": "text"},
+    "Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Route": {"type": "options", "options": ["oral", "IV", "IM", "etc."]},
+    "Duration": {"type": "text"},
+    "Temperature Threshold": {"type": "number"},
+    "Notes": {"type": "text"}
+  }
+}

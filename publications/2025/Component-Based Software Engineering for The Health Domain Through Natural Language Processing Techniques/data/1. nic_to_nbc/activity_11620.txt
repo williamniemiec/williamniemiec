@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+    "Dressing Ability Tracker": {
+        "Parameters": {
+            "Dressing Ability": {"Type": "options"},
+            "Frequency": {"Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+            "Notes": {"Type": "text"}
+        }
+    }
+}

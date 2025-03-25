@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Electronic Referral": {
+    "parameters": [
+      {"name": "referral_file", "description": "Written referral file", "required": true, "type": "file"},
+      {"name": "plan_of_care_file", "description": "Patient's plan of care file", "required": true, "type": "file"},
+      {"name": "recipient_email", "description": "Email address of the recipient", "required": true, "type": "email"},
+      {"name": "notes", "description": "Additional notes or comments about the referral", "required": false, "type": "text"}
+    ]
+  }
+}

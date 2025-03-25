@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Physician Consultation Tracker": {
+    "Name": {"type": "text"},
+    "Symptom List": {"type": "checklist", "options": ["Muscle weakness", "Fatigue", "Dizziness", "Headache", "Nausea", "Vomiting", "Abdominal cramps"]},
+    "Severity Scale": {"type": "options", "options": ["Mild", "Moderate", "Severe"]},
+    "Consultation Criteria": {"type": "checklist", "options": ["If symptoms persist for more than 24 hours", "If symptoms worsen over time", "If new symptoms develop"]},
+    "Deadline Date": {"type": "datetime"},
+    "Notes": {"type": "text"}
+  }
+}

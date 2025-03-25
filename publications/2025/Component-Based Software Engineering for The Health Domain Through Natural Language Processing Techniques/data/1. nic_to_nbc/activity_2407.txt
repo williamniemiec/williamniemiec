@@ -1,0 +1,10 @@
+Here is the output in JSON format:
+
+
+{
+  "Skin Protection Reminder": {
+    "Message": {"type": "text"},
+    "Frequency": {"type": "options"},
+    "Deadline": {"type": "datetime"}
+  }
+}

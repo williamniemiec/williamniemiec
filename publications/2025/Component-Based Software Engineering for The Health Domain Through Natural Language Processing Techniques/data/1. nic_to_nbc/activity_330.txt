@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Airway Suctioning Education": {
+    "parameters": {
+      "Airway Suctioning Information": {"type": "text"},
+      "Visual Aids": {"type": "image or video"},
+      "FAQs": {"type": "list of questions and answers"}
+    }
+  }
+}

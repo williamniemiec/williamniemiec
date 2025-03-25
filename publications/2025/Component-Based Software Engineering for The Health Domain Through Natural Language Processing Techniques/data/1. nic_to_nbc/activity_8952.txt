@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+{
+  "name": "Education",
+  "parameters": [
+    {
+      "name": "title",
+      "type": "text"
+    },
+    {
+      "name": "content",
+      "type": "text or HTML"
+    },
+    {
+      "name": "images",
+      "type": "list of image URLs or base64 encoded images"
+    },
+    {
+      "name": "videos",
+      "type": "list of video URLs or base64 encoded videos"
+    }
+  ]
+}

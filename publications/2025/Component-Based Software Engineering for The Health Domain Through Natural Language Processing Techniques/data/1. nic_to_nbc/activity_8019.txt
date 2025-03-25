@@ -1,0 +1,40 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "story",
+  "parameters": [
+    {
+      "name": "content",
+      "type": "text"
+    },
+    {
+      "name": "purpose",
+      "type": "options",
+      "options": [
+        { value: "buildRapport" },
+        { value: "illustratePoint" },
+        { value: "provideEmpathy" }
+      ]
+    },
+    {
+      "name": "frequency",
+      "type": "options",
+      "options": [
+        { value: "daily" },
+        { value: "onlyOnce" },
+        { value: "everyHours" },
+        { value: "everyDays" }
+      ]
+    },
+    {
+      "name": "tone",
+      "type": "options",
+      "options": [
+        { value: "empathetic" },
+        { value: "encouraging" },
+        { value: "supportive" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Family Communication": {
+    "Parameters": {
+      "Communication Method": null,
+      "Frequency": null,
+      "Content": null,
+      "Recipients": null,
+      "Reminders": null
+    }
+  }
+}

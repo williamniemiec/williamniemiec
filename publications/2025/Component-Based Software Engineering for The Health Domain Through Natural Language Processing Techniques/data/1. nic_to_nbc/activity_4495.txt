@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+  "Procedure Guide": {
+    "Parameters": {
+      "Procedure Name": {
+        "Description": "Name of the new procedure",
+        "Required": true,
+        "Type": "text"
+      },
+      "Step-by-Step Instructions": {
+        "Description": "List of step-by-step instructions for the new procedure",
+        "Required": true,
+        "Type": "list-item",
+        "List-item": "list of instruction objects, each with a title, description, and image/video"
+      }
+    }
+  }
+}
+
+
+I removed the "Tips and Reminders" parameter because it's not required. Let me know if you need anything else!

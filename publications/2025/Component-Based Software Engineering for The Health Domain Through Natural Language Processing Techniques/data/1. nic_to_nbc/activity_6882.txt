@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Swaddling Guidance": {
+        "parameters": {
+            "Swaddling Instructions": {},
+            "Swaddling Tips": {},
+            "Visual Aids": {},
+            "Frequency": {}
+        }
+    }
+}

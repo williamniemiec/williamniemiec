@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+  "Respiratory Symptom Checker": {
+    "Symptom List": {"Type": "checklist or accordion list"},
+    "Description": {"Type": "text"},
+    "Visual Aids": {"Type": "multimedia"}
+  },
+  "Symptom Tracker": {
+    "Symptom Questions": {"Type": "multiple-choice questions or yes/no questions"},
+    "Scoring": {"Type": "numerical value or risk level (e.g., low, moderate, high)"},
+    "Recommendations": {"Type": "text or list"}
+  },
+  "Breathing Exercise Tracker": {
+    "Breathing Exercise": {"Type": "text or video"},
+    "Frequency": {"Type": "numerical value"},
+    "Duration": {"Type": "numerical value"}
+  }
+}

@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "reminder",
+    "parameters": [
+        { 
+            "name": "name", 
+            "description": "reminder title"
+        },
+        { 
+            "name": "message", 
+            "description": "reminder message"
+        },
+        { 
+            "name": "frequency", 
+            "description": "specify how often the reminder should be sent",
+            "options": [
+                { value: "daily", label: "Daily" },
+                { value: "onlyOnce", label: "Only once" },
+                { value: "everyHours", label: "Every x hours" },
+                { value: "everyDays", label: "Every x days" },
+            ]
+        }
+    ]
+}

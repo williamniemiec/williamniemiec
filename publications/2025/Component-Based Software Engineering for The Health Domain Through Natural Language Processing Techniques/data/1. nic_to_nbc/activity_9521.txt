@@ -1,0 +1,10 @@
+Here is the output in JSON format:
+
+
+{
+  "Universal Precautions Guide": {
+    "Name": {"type": "text"},
+    "Steps": {"type": "ordered list of text or images"},
+    "Personal Protective Equipment (PPE)": {"type": "list of options"}
+  }
+}

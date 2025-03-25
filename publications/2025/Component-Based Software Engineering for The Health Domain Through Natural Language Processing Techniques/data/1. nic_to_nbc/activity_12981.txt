@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+
+{
+    "Mirror Movement": {
+        "Movement": {"type": ["text", "video"]},
+        "Frequency": {"options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+        "Deadline Date": {"type": "datetime"},
+        "Video Recording": {"type": "video"}
+    }
+}

@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Feeding Tip": {
+    "Parameters": {
+      "Title": {},
+      "Tip": {},
+      "Reason": {}
+    }
+  }
+}
+
+
+I removed all unnecessary text and only kept the `{{ NO-CODE ELEMENT NAME }}` (which is "Feeding Tip") and the relevant parameters from `{{ PARAMETER ESPECIFICATIONS }}`. I also excluded the "Frequency" parameter since it has options that are not applicable.

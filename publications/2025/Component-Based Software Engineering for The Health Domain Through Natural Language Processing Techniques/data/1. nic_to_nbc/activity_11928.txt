@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Empathetic Message": {
+    "Message": {"type": "text"},
+    "Tone": {"type": "options", "options": ["empathetic", "supportive", "encouraging"]},
+    "Personalization": {"type": "boolean"},
+    "Image or Icon": {"type": "url or base64 encoded image"},
+    "Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]}
+  }
+}

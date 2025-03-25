@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "Positioning for Wound Care": {
+    "Parameters": {
+      "Positioning Instructions": {
+        "Type": ["text", "illustration", "video"]
+      },
+      "Gravity Flow": {
+        "Type": ["text", "illustration", "video"]
+      },
+      "Collection Basin": {
+        "Type": ["text", "illustration", "video"]
+      },
+      "Comfort Assessment": {
+        "Type": "question",
+        "Options": [
+          { "value": "yes", "label": "Yes, I am comfortable" },
+          { "value": "no", "label": "No, I am not comfortable" }
+        ]
+      }
+    }
+  }
+}

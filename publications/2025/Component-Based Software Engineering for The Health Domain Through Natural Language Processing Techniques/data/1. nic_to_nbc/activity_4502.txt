@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Safety Guide": {
+    "parameters": [
+      {
+        "name": "Name",
+        "type": "text"
+      },
+      {
+        "name": "Pages",
+        "type": "book-page or unordered list"
+      },
+      {
+        "name": "Precautions",
+        "type": "unordered list"
+      }
+    ]
+  }
+}

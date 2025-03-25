@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Information Resource": {
+    "Parameters": {
+      "Topic": {"Type": "text"},
+      "Information Type": {"Type": "options"},
+      "Content": {"Type": "text"},
+      "Source": {"Type": "text"},
+      "Date": {"Type": "datetime"}
+    }
+  }
+}

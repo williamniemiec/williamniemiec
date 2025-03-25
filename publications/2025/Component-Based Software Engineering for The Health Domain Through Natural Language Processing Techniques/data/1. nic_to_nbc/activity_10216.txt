@@ -1,0 +1,37 @@
+Here is the output in JSON format:
+
+
+{
+  "Vital Sign Tracker": {
+    "Parameters": {
+      "Vital Sign": {
+        "Type": "options",
+        "Options": ["temperature", "blood pressure", "heart rate", "respiratory rate"]
+      },
+      "Value": {
+        "Type": "number"
+      },
+      "Unit": {
+        "Type": "options",
+        "Options": ["Celsius", "Fahrenheit", "mmHg", "beats per minute"]
+      },
+      "Date and Time": {
+        "Type": "datetime"
+      }
+    }
+  },
+  "Vital Sign Chart": {
+    "Parameters": {
+      "Vital Sign": {
+        "Type": "options",
+        "Options": ["temperature", "blood pressure", "heart rate", "respiratory rate"]
+      },
+      "Data": {
+        "Type": "array of objects"
+      }
+    }
+  }
+}
+
+
+Let me know if this is what you were expecting!

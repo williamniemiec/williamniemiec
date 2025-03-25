@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Medical Alert Instruction",
+    "parameters": [
+        { 
+            "name": "rationale", 
+        },
+        { 
+            "name": "bracelet_type", 
+        },
+        { 
+            "name": "wearing_instructions", 
+        },
+        { 
+            "name": "frequency", 
+        },
+        { 
+            "name": "deadline_date", 
+        }
+    ]
+}

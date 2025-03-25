@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Family Routine": {
+    "parameters": [
+      {"Routine Name": {"type": "text", "required": true}},
+      {"Description": {"type": "text", "required": true}},
+      {"Frequency": {"type": "options", "required": true, "options": ["daily", "weekly", "monthly", "yearly", "custom"]}},
+      {"Custom Frequency": {"type": "text", "required": false}},
+      {"Reminders": {"type": "boolean", "required": false}},
+      {"Notes": {"type": "text", "required": false}}
+    ]
+  }
+}

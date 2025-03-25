@@ -1,0 +1,32 @@
+Here is the output in JSON format:
+
+
+{
+  "Symptom Checker": {
+    "name": "Arm Swelling or Warmth",
+    "description": "Please report any arm swelling or increased warmth on the side ipsilateral to the implanted device and leads",
+    "content_type": "form",
+    "required": true,
+    "type": "options",
+    "options": [
+      { "value": "arm_swelling", "label": "Arm Swelling" },
+      { "value": "increased_warmth", "label": "Increased Warmth" },
+      { "value": "both", "label": "Both" },
+      { "value": "none", "label": "None" }
+    ]
+  },
+  "Image Upload": {
+    "name": "Arm Image",
+    "description": "Please upload an image of your arm to monitor for swelling or increased warmth",
+    "content_type": "image",
+    "required": false,
+    "type": "image"
+  },
+  "Text Input": {
+    "name": "Additional Information",
+    "description": "Please provide more details about your symptoms or concerns",
+    "content_type": "text",
+    "required": false,
+    "type": "text"
+  }
+}

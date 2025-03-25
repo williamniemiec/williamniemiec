@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Bonding Moment Guidance": {
+    "parameters": {
+      "Bonding Moment Instructions": {},
+      "Benefits of Bonding": {},
+      "Visual Aids": {},
+      "Tips for Partners": {}
+    }
+  }
+}

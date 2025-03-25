@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+{
+  "Reflection Timer": {
+    "Parameters": {
+      "Information to Process": {},
+      "Reflection Time": {},
+      "Decision Prompt": {},
+      "Notes": {},
+      "Decision": {}
+    }
+  }
+}

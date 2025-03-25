@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+  "Activity Suggestions": {
+    "parameters": {
+      "name": "",
+      "activities": [],
+      "categories": [],
+      "frequency": "",
+      "deadline_date": ""
+    }
+  },
+  "Guide": {
+    "parameters": {
+      "name": "",
+      "pages": []
+    }
+  },
+  "Log": {
+    "parameters": {
+      "name": "",
+      "entries": []
+    }
+  }
+}

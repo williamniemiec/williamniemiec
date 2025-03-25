@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Lab Result Tracking": {
+    "parameters": {
+      "name": "",
+      "lab_results": [],
+      "frequency": "",
+      "reporting_type": ""
+    }
+  }
+}

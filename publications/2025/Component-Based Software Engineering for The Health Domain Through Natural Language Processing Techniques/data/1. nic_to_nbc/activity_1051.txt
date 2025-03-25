@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Accessible Clothing": {
+        "Parameters": {
+            "Name": {"Type": "text"},
+            "Clothing Location": {"Type": "text", "Options": ["Bedside", "Closet", "Dresser", "Shelf"]},
+            "Clothing Items": {"Type": "unordered list", "Options": ["Shirts", "Pants", "Dresses", "Skirts", "Socks", "Undergarments"]},
+            "Accessibility Features": {"Type": "object", "Properties": ["Easy-to-reach shelves", "Closet organizers", "Drawer dividers"]},
+            "Notes": {"Type": "text"}
+        }
+    }
+}

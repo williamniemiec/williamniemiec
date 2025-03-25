@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Vital Sign Tracking": {
+    "Parameters": {
+      "Vital Sign": {"Type": "text"},
+      "Frequency": {"Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"Type": "datetime"},
+      "Unit": {"Type": "text"},
+      "Value": {"Type": "number"}
+    }
+  }
+}

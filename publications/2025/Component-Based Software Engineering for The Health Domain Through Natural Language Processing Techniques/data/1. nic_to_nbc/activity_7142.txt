@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Infant Positioning": {
+    "positioning title": {},
+    "Instructions": {},
+    "Frequency": {
+      "options": [
+        { "value": "always", "label": "Always" },
+        { "value": "duringSleep", "label": "During sleep" },
+        { "value": "asNeeded", "label": "As needed" }
+      ]
+    },
+    "Deadline Date": {},
+    "Additional Resources": {}
+  }
+}
+
+
+I removed the not applicable parameters and only kept the `{{ NO-CODE ELEMENT NAME }}` and `{{ PARAMETER ESPECIFICATIONS }}`. Let me know if this is what you were looking for!

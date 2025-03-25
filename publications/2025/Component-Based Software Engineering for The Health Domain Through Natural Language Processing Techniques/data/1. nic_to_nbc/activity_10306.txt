@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Action Plan Commitment": {
+    "parameters": {
+      "name": {"type": "text"},
+      "behavior": {"type": "text"},
+      "goals": {"type": "list of goal objects", "properties": {"text": ""}},
+      "actions": {"type": "list of action objects", "properties": {"text": ""}},
+      "commitment": {"type": "text"},
+      "reminders": {"type": "text"}
+    }
+  }
+}

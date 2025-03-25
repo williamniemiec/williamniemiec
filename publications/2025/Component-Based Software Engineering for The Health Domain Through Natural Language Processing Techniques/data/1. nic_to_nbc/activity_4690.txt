@@ -1,0 +1,14 @@
+
+
+json
+{
+  "Tone of Voice Guidance": {
+    "parameters": [
+      { "name": "Name", "type": "text" },
+      { "name": "Tone Script", "type": "rich text" },
+      { "name": "Tips", "type": "list of text" },
+      { "name": "Frequency", "type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"] },
+      { "name": "Deadline Date", "type": "datetime" }
+    ]
+  }
+}

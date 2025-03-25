@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Parameter Specifications": {
+    "Title": {"Type": "text"},
+    "Developmental Stages": {"Type": "list", "Items": "text"},
+    "Milestones": {"Type": "list", "Items": "text"},
+    "Images": {"Type": "list", "Items": "image URLs or base64 encoded images"},
+    "Age Ranges": {"Type": "list", "Items": "text"}
+  },
+  "No-Code Element Name": "Infant Development Guide"
+}

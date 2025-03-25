@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Resource Referral": {
+    "parameters": [
+      {"name": "resourceName", "type": "text", "required": true},
+      {"name": "resourceLink", "type": "url", "required": true},
+      {"name": "description", "type": "text", "required": true}
+    ]
+  }
+}

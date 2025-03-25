@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "CNS Symptom Tracker": {
+    "parameters": {
+      "Symptom List": {
+        "type": "list",
+        "listItems": "text, with optional images or icons"
+      },
+      "Frequency": {
+        "type": "options",
+        "options": ["daily", "twiceADay", "threeTimesADay"]
+      },
+      "Severity Scale": {
+        "type": "options",
+        "options": ["mild", "moderate", "severe"]
+      },
+      "Tracking": {
+        "type": "form",
+        "fields": ["date", "time", "symptom", "severity", "notes (optional)"]
+      }
+    }
+  }
+}

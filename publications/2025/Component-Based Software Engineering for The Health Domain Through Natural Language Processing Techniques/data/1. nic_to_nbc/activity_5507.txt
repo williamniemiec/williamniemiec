@@ -1,0 +1,28 @@
+
+
+
+{
+    "name": "Spiritual Support",
+    "parameters": [
+        {
+            "name": "Religious Affiliation",
+            "type": "text"
+        },
+        {
+            "name": "Spiritual Practices",
+            "type": "list of text"
+        },
+        {
+            "name": "Religious Resources",
+            "type": "list of text"
+        },
+        {
+            "name": "Private Space",
+            "type": "boolean"
+        },
+        {
+            "name": "Supportive Staff",
+            "type": "boolean"
+        }
+    ]
+}

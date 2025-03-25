@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Breast Inspection Guide": {
+    "Instructions": {"type": ["text", "multimedia"]},
+    "Checklist": {"type": "list of items"},
+    "Image Capture": {"type": ["camera", "image upload"]},
+    "Frequency": {"options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"type": "datetime"}
+  }
+}

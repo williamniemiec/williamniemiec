@@ -1,0 +1,49 @@
+Here is the output in JSON format:
+
+
+{
+  "Dehydration Indicator Tracker": {
+    "Parameters": {
+      "Dehydration Indicators": {
+        "Type": "checklist",
+        "Required": true
+      },
+      "Sweating": {
+        "Presence of sweating": {
+          "Type": "boolean",
+          "Required": true
+        },
+        "Amount of sweating": {
+          "Type": "options",
+          "Required": true
+        }
+      },
+      "Urine Output": {
+        "Amount of urine output": {
+          "Type": "options",
+          "Required": true
+        },
+        "Color of urine": {
+          "Type": "options",
+          "Required": true
+        }
+      },
+      "Skin Turgor": {
+        "Skin turgor": {
+          "Type": "options",
+          "Required": true
+        }
+      },
+      "Mucous Membranes": {
+        "Moisture level of mucous membranes": {
+          "Type": "options",
+          "Required": true
+        }
+      },
+      "Notes": {
+        "Type": "text",
+        "Required": false
+      }
+    }
+  }
+}

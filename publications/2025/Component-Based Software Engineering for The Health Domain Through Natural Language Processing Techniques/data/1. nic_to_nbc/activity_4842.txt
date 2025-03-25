@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Introduction Reminder": {
+    "Parameters": {
+      "Introduction Script": {"Type": "text"},
+      "Reminder": {"Type": "boolean"},
+      "Tips for Introduction": {"Type": "text"}
+    }
+  }
+}

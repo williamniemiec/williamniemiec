@@ -1,0 +1,31 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "bowel evacuation monitoring",
+  "parameters": [
+    {
+      "name": "monitoring frequency",
+      "type": "options",
+      "options": [
+        { "value": "daily", "label": "Daily" },
+        { "value": "everyHours", "label": "Every x hours" },
+        { "value": "everyDays", "label": "Every x days" }
+      ]
+    },
+    {
+      "name": "monitoring criteria",
+      "type": "options",
+      "options": [
+        { "value": "stoolConsistency", "label": "Stool consistency" },
+        { "value": "stoolFrequency", "label": "Stool frequency" },
+        { "value": "stoolVolume", "label": "Stool volume" },
+        { "value": "other", "label": "Other (please specify)" }
+      ]
+    },
+    {
+      "name": "reporting",
+      "type": "text"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Feelings Journal": {
+    "Parameters": {
+      "Title": {"Type": "text"},
+      "Prompt": {"Type": "text"},
+      "Emotion Options": {"Type": "options"},
+      "Free Text": {"Type": "text"},
+      "Frequency": {"Type": "options"}
+    }
+  }
+}

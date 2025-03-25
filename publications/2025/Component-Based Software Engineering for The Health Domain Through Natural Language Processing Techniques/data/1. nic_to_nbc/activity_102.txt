@@ -1,0 +1,10 @@
+Here is the output in JSON format:
+
+
+{
+  "Avoidance Instruction": {
+    "instruction title": {},
+    "avoidance instruction": {},
+    "why avoid": {}
+  }
+}

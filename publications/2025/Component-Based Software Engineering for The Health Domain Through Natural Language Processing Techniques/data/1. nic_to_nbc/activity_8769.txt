@@ -1,0 +1,12 @@
+
+
+
+{
+    "Home Safety Verification": {
+        "parameters": [
+            {"name": "Safety Equipment", "options": ["smoke detectors", "carbon monoxide detectors", "fire extinguishers", "hot water heater set to 120° F"]},
+            {"name": "Verification Method", "options": ["photo", "video", "text description", "checkbox confirmation"]},
+            {"name": "Frequency", "options": ["daily", "weekly", "monthly"]}
+        ]
+    }
+}

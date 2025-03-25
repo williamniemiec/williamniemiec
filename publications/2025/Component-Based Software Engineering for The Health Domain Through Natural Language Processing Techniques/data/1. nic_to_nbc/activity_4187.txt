@@ -1,0 +1,31 @@
+Here is the output in JSON format:
+
+
+{
+  "Information Module": {
+    "parameters": {
+      "name": "",
+      "content": "",
+      "sections": [],
+      "frequency": "",
+      "deadline_date": ""
+    }
+  },
+  "FAQ": {
+    "parameters": {
+      "name": "",
+      "questions": [],
+      "frequency": "",
+      "deadline_date": ""
+    }
+  },
+  "Device Profile": {
+    "parameters": {
+      "name": "",
+      "device_info": "",
+      "care_instructions": "",
+      "frequency": "",
+      "deadline_date": ""
+    }
+  }
+}

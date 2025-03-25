@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+    "Documentation": {
+        "parameters": [
+            {"Name": {"type": "text"}},
+            {"Description": {"type": "text"}},
+            {"Response": {"type": "text"}},
+            {"Chest Tube and Drainage System": {"type": "checklist", "options": ["swinging", "tidaling", "bubbling"]}},
+            {"Frequency": {"type": "options", "options": ["every 2 hours", "every 4 hours"]}}
+        ]
+    }
+}
+
+
+Note that I removed the `Deadline Date` parameter as it was marked as not required (`"required": false`). Let me know if you have any further questions!

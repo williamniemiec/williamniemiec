@@ -1,0 +1,51 @@
+Here is the output in JSON format:
+
+
+{
+    "mammogram_screening": {
+        "parameters": [
+            { 
+                "name": "age", 
+                "description": "woman's age", 
+                "required": true, 
+                "type": "number"
+            },
+            { 
+                "name": "breastfeeding_plans", 
+                "description": "woman's desire for prolonged breastfeeding", 
+                "required": true, 
+                "type": "options",
+                "options": [
+                    { value: "yes", label: "Yes, I plan to breastfeed for an extended period" },
+                    { value: "no", label: "No, I do not plan to breastfeed for an extended period" }
+                ]
+            },
+            { 
+                "name": "risk_factors", 
+                "description": "list of risk factors for breast cancer", 
+                "required": true, 
+                "type": "list",
+                "list": [
+                    { 
+                        "label": "Family history of breast cancer", 
+                        "type": "boolean"
+                    },
+                    { 
+                        "label": "Previous breast biopsy", 
+                        "type": "boolean"
+                    }
+                ]
+            },
+            { 
+                "name": "mammogram_recommendation", 
+                "description": "recommendation for a screening mammogram", 
+                "required": true, 
+                "type": "options",
+                "options": [
+                    { value: "recommended", label: "Recommended" },
+                    { value: "notRecommended", label: "Not recommended" }
+                ]
+            }
+        ]
+    }
+}

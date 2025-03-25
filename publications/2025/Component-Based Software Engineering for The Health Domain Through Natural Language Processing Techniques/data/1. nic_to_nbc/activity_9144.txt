@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+  "Group Engagement Tracker": {
+    "parameters": {
+      "Engagement Type": {
+        "type": "options",
+        "options": ["discussion participation", "task completion", "attendance", "etc."]
+      },
+      "Engagement Frequency": {
+        "type": "options",
+        "options": ["daily", "weekly", "biweekly", "monthly"]
+      },
+      "Engagement Goal": {
+        "type": "text"
+      },
+      "Reminders": {
+        "type": "boolean"
+      },
+      "Feedback": {
+        "type": "boolean"
+      }
+    }
+  }
+}

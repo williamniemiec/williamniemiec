@@ -1,0 +1,33 @@
+Here is the output JSON:
+
+{
+  "name": "Patient Safety",
+  "parameters": [
+    {
+      "name": "Safety Strap Placement",
+      "type": "string"
+    },
+    {
+      "name": "Patient Safety Checks",
+      "type": "list",
+      "list_type": "patient safety check",
+      "patient safety check": {
+        "frequency": "string",
+        "type": "string"
+      }
+    },
+    {
+      "name": "Anesthesia Phase",
+      "type": "string"
+    },
+    {
+      "name": "Safety Precautions",
+      "type": "list",
+      "list_type": "safety precaution",
+      "safety precaution": {
+        "description": "string",
+        "required": "boolean"
+      }
+    }
+  ]
+}

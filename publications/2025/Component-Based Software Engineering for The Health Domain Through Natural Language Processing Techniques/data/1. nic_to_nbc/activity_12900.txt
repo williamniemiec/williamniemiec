@@ -1,0 +1,10 @@
+Here is the output in JSON format:
+
+
+{
+  "Self-Care": {
+    "Goal": {"type": "text"},
+    "Action Plan": {"type": "text"},
+    "Tracking": {"type": "tracking log or journal"}
+  }
+}

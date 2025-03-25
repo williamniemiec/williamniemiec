@@ -1,0 +1,10 @@
+Here is the output in JSON format:
+
+
+{
+    "Five Rights of Medication Administration": {
+        "Right Patient": {
+            "Type": "text"
+        }
+    }
+}

@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "Catheter Removal Instruction": {
+    "instructions": {
+      "type": "text or HTML text"
+    },
+    "images": {
+      "type": "image or list of images"
+    },
+    "video": {
+      "type": "video or URL to a video"
+    },
+    "frequency": {
+      "type": "options (e.g., daily, onlyOnce, everyHours, everyDays)"
+    },
+    "deadline_date": {
+      "type": "datetime"
+    }
+  }
+}
+
+
+Let me know if this meets your requirements!

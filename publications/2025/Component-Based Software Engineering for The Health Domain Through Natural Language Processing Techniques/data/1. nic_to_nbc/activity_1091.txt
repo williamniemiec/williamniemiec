@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Therapy Animal Play": {
+        "Parameters": {
+            "Therapy Animal Play Title": {},
+            "Animal Type": {},
+            "Play Instructions": {},
+            "Frequency": {},
+            "Duration": {}
+        }
+    }
+}

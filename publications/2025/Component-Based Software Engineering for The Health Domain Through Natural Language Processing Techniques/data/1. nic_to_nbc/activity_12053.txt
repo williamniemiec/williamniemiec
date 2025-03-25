@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Nose Drop Administration Breathing Guidance": {
+    "Breathing Instructions": {
+      "Type": "text"
+    },
+    "Breathing Technique Guidance": {
+      "Type": "text"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+    "Bedside Table Placement Guide": {
+        "Guide Title": {},
+        "Instructions": {},
+        "Illustrations": {},
+        "Frequency": {},
+        "Deadline Date": {}
+    }
+}

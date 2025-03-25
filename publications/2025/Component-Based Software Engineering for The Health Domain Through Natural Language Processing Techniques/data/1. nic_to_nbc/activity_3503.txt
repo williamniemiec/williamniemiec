@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Parameters": {
+        "Name": {"Type": "text"},
+        "Contraceptive Methods": {"Type": "options"},
+        "Fertility Effects": {"Type": "interactive guide"},
+        "Comparison": {"Type": "interactive table or chart"},
+        "Resources": {"Type": "links or attachments"}
+    },
+    "No-code Element Name": "Education"
+}

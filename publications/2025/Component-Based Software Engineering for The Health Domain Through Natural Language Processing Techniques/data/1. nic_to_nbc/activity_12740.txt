@@ -1,0 +1,10 @@
+Here is the output in JSON format:
+
+
+{
+    "Social Function Invitation": {
+        "Event List": {"type": "list-item", "required": true},
+        "Invitation Template": {"type": "text", "required": true},
+        "RSVP Option": {"type": "boolean", "required": true}
+    }
+}

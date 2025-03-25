@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Swaying Exercise": {
+    "Exercise Name": {"type": "text", "required": true},
+    "Video Demonstration": {"type": "video", "required": true},
+    "Step-by-Step Instructions": {"type": "text", "required": true},
+    "Frequency and Duration": {"type": "text", "required": true}
+  }
+}

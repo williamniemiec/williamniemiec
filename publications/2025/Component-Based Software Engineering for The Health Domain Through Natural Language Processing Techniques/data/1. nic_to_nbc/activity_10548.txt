@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Induction Technique Selection",
+    "parameters": [
+        { 
+            "name": "Techniques", 
+            "type": "list of text or HTML"
+        },
+        { 
+            "name": "Descriptions", 
+            "type": "list of text or HTML"
+        },
+        { 
+            "name": "Selection", 
+            "type": "form or checkbox"
+        }
+    ]
+}

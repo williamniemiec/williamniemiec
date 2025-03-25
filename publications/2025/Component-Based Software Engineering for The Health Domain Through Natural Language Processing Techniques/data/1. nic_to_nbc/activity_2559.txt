@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+    "Quiz": {
+        "parameters": {
+            "name": "",
+            "questions": [],
+            "correct_answers": {},
+            "feedback": ""
+        }
+    },
+    "Video Demonstration": {
+        "parameters": {
+            "name": "",
+            "instructions": "",
+            "video_upload": "",
+            "feedback": ""
+        }
+    }
+}

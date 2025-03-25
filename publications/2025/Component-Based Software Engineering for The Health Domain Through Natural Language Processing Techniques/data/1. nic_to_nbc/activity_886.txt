@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Control": {
+    "Parameters": {
+      "Medication name": {"Required": true, "Type": "Text"},
+      "Why": {"Required": true, "Type": "Text"},
+      "Dosage": {"Required": true, "Type": "Text"},
+      "Frequency": {"Required": true, "Type": "Options", "Options": [
+        { "value": "daily", "label": "Daily" },
+        { "value": "onlyOnce", "label": "Only once" },
+        { "value": "everyHours", "label": "Every x hours" },
+        { "value": "everyDays", "label": "Every x days" }
+      ]}
+    }
+  }
+}
+
+
+I removed the `Notes` and `Deadline date` parameters since they were marked as not required. Let me know if you need anything else!

@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Leech Storage": {
+    "Parameters": {
+      "Storage Container": {"Type": "text"},
+      "Salt Solution": {"Type": "options"},
+      "Netting": {"Type": "boolean"},
+      "Storage Instructions": {"Type": "text"}
+    }
+  }
+}

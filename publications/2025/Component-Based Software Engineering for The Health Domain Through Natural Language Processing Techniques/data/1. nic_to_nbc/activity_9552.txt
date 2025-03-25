@@ -1,0 +1,48 @@
+Here is the output in JSON format:
+
+
+{
+  "Animal-Assisted Activity": {
+    "parameters": {
+      "Animal Type": {
+        "type": "options",
+        "options": [
+          {"value": "dog", "label": "Dog"},
+          {"value": "cat", "label": "Cat"},
+          {"value": "bird", "label": "Bird"},
+          {"value": "other", "label": "Other"}
+        ]
+      },
+      "Activity Type": {
+        "type": "options",
+        "options": [
+          {"value": "petting", "label": "Petting"},
+          {"value": "walking", "label": "Walking"},
+          {"value": "playing", "label": "Playing"},
+          {"value": "other", "label": "Other"}
+        ]
+      },
+      "Duration": {
+        "type": "time"
+      },
+      "Frequency": {
+        "type": "options",
+        "options": [
+          {"value": "daily", "label": "Daily"},
+          {"value": "onlyOnce", "label": "Only once"},
+          {"value": "everyHours", "label": "Every x hours"},
+          {"value": "everyDays", "label": "Every x days"}
+        ]
+      },
+      "Deadline Date": {
+        "type": "datetime"
+      },
+      "Resources": {
+        "type": "file or URL"
+      },
+      "Instructions": {
+        "type": "text or video"
+      }
+    }
+  }
+}

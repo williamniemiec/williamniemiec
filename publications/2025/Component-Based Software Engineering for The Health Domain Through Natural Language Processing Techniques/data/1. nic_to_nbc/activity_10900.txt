@@ -1,0 +1,36 @@
+Here is the output JSON:
+
+
+{
+    "name": "task",
+    "parameters": [
+        {
+            "name": "Name",
+            "type": "text"
+        },
+        {
+            "name": "Content",
+            "type": "text"
+        },
+        {
+            "name": "Dressing Type",
+            "type": "options"
+        },
+        {
+            "name": "Application Frequency",
+            "type": "options"
+        },
+        {
+            "name": "Deadline Date",
+            "type": "datetime"
+        },
+        {
+            "name": "Tips",
+            "type": "text"
+        },
+        {
+            "name": "Indications",
+            "type": "options"
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Motivational Support": {
+    "Name": {"Type": "text"},
+    "Type": {"Type": "options", "Options": ["encouragingMessages", "badges", "rewards"]},
+    "Content": {"Type": "depends on the type of motivational support"},
+    "Trigger": {"Type": "options", "Options": ["taskCompletion", "milestoneReached", "setbackEncountered"]},
+    "Frequency": {"Type": "options", "Options": ["daily", "weekly", "monthly"]},
+    "Personalization": {"Type": "boolean"}
+  }
+}

@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+  "Pain Assessment": {
+    "parameters": {
+      "name": "Pain assessment",
+      "description": "Please rate your current pain level",
+      "type": ["slider", "options"],
+      "options": [
+        { "value": "0", "label": "No pain" },
+        { "value": "1", "label": "Mild pain" },
+        { "value": "2", "label": "Moderate pain" },
+        { "value": "3", "label": "Severe pain" },
+        { "value": "4", "label": "Worst possible pain" }
+      ],
+      "required": true
+    }
+  }
+}

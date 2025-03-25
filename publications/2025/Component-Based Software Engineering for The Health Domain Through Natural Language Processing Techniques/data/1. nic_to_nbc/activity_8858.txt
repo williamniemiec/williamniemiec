@@ -1,0 +1,44 @@
+Here is the output in JSON format:
+
+
+{
+  "Interactive Tutorial": {
+    "Name": {"type": "text"},
+    "Content": {"type": "interactive content (e.g., HTML, JSON, etc.)"},
+    "Pages": {
+      "type": "list of objects",
+      "parameters": {
+        "Title": {"type": "text"},
+        "Content": {"type": "content type (e.g., text, image, video, etc.)"}
+      }
+    },
+    "Quiz": {
+      "type": "quiz object",
+      "parameters": {
+        "Questions": {
+          "type": "list of objects",
+          "parameters": {
+            "Question": {"type": "text"},
+            "Options": {
+              "type": "list of objects",
+              "parameters": {
+                "Label": {"type": "text"},
+                "Value": {"type": "text"}
+              }
+            }
+          }
+        },
+        "Correct Answers": {
+          "type": "list of objects",
+          "parameters": {
+            "Question": {"type": "text"},
+            "Answer": {"type": "text"}
+          }
+        }
+      }
+    }
+  }
+}
+
+
+Let me know if you need any further assistance!

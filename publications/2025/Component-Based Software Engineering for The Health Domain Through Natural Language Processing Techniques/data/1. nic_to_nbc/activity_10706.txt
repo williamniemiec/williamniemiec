@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+    "Timed Session": {
+        "parameters": {
+            "name": "",
+            "start_time": "",
+            "end_time": "",
+            "duration": "",
+            "expectation": "",
+            "reminders": ""
+        }
+    },
+    "Schedule": {
+        "parameters": {
+            "name": "",
+            "date": "",
+            "start_time": "",
+            "end_time": "",
+            "duration": "",
+            "expectation": "",
+            "reminders": ""
+        }
+    }
+}

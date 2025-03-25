@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Oral Stimulation Guide": {
+    "title of the guide": {"type": "text"},
+    "Steps": {"type": "list"},
+    "Images": {"type": "list of images or videos"},
+    "Tips": {"type": "list"},
+    "Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"type": "datetime"},
+    "Tracking": {"type": "boolean"}
+  }
+}

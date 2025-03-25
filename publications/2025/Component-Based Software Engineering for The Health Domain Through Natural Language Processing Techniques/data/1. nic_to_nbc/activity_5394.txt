@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Respiratory Monitoring": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Breathing Rate": {"Type": "number"},
+      "Oxygen Saturation": {"Type": "percentage"},
+      "Coughing and Deep Breathing": {"Type": "text or video instructions"},
+      "Frequency": {"Options": ["daily", "everyHours", "everyDays"]},
+      "Deadline Date": {"Type": "datetime"},
+      "Alerts": {"Type": "boolean or threshold values"}
+    }
+  }
+}

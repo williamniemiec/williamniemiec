@@ -1,0 +1,29 @@
+Here is the output in JSON format:
+
+
+{
+  "Check-in": {
+    "parameters": {
+      "schedule": "",
+      "duration": ""
+    }
+  },
+  "Emotional Expression": {
+    "parameters": {
+      "prompt": "",
+      "response type": ""
+    }
+  },
+  "Caring Message": {
+    "parameters": {
+      "message": "",
+      "tone": ""
+    }
+  },
+  "Reflection": {
+    "parameters": {
+      "prompt": "",
+      "response type": ""
+    }
+  }
+}

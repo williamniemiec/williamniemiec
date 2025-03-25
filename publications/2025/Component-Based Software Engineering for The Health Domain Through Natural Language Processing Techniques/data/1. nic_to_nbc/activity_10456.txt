@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Rest Encouragement",
+    "parameters": [
+        { 
+            "name": "Treatment Schedule", 
+            "type": "schedule"
+        },
+        { 
+            "name": "Rest Duration", 
+            "type": "numerical value"
+        },
+        { 
+            "name": "Rest Instructions", 
+            "type": "text or multimedia"
+        },
+        { 
+            "name": "Reminders", 
+            "type": "boolean"
+        }
+    ]
+}

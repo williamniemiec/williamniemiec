@@ -1,0 +1,29 @@
+Here is the output in JSON format:
+
+
+{
+  "Diary": {
+    "Parameters": {
+      "Diary type": {
+        "Type": "options",
+        "Options": ["food diary", "exercise diary", "combined diary"]
+      },
+      "Entry frequency": {
+        "Type": "options",
+        "Options": ["daily", "weekly", "monthly"]
+      },
+      "Entry details": {
+        "Type": "text"
+      },
+      "Reminders": {
+        "Type": "boolean"
+      },
+      "Goal tracking": {
+        "Type": "boolean"
+      },
+      "Deadline date": {
+        "Type": "datetime"
+      }
+    }
+  }
+}

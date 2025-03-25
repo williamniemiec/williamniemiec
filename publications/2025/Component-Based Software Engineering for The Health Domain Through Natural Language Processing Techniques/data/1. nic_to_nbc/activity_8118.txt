@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Dietary Guidance": {
+    "parameters": [
+      {"name": "diet_duration", "type": "text"},
+      {"name": "diet_schedule", "type": "list"}
+    ]
+  }
+}

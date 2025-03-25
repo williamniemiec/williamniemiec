@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+  "Temperature Monitoring Form": {
+    "name": "",
+    "temperature": "",
+    "measurement_method": "",
+    "measurement_time": ""
+  },
+  "Temperature Normal Range Guide": {
+    "name": "",
+    "normal_range": "",
+    "abnormal_range": ""
+  },
+  "Newborn Temperature Tracker": {
+    "name": "",
+    "temperature_results": "",
+    "temperature_chart": "",
+    "notes": ""
+  }
+}

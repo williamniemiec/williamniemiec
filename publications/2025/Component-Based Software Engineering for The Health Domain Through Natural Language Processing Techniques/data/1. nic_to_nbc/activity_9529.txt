@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+  "Safety Precautions": {
+    "parameters": {
+      "Risk Assessment": {
+        "type": "text"
+      },
+      "Precaution Type": {
+        "type": "options",
+        "options": ["environmentalModifications", "behavioralInterventions", "emergencyServices"]
+      },
+      "Precaution Details": {
+        "type": "text"
+      },
+      "Frequency": {
+        "options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+      },
+      "Deadline Date": {
+        "type": "datetime"
+      },
+      "Escalation Protocol": {
+        "type": "text"
+      }
+    }
+  }
+}

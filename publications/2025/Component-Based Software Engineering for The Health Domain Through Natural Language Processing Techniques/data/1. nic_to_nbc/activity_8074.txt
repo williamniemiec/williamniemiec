@@ -1,0 +1,35 @@
+Here is the output in JSON format:
+
+
+{
+  "PaCO2 Level Classification": {
+    "Parameters": [
+      {"Name": {"Type": "text"}},
+      {"PaCO2 Value": {"Type": "numeric value"}},
+      {"Classification Thresholds": {"Type": "numeric ranges", "Respiratory acidosis": "< 35 mmHg", "Respiratory alkalosis": "> 45 mmHg", "Normalcy": "35-45 mmHg"}},
+      {"Classification": {"Type": "options", "Options": ["respiratory acidosis", "respiratory alkalosis", "normalcy"]}},
+      {"Resources": {"Type": "list of URLs or HTML texts"}}
+    ]
+  },
+  "Data Visualization": {
+    "Parameters": [
+      {"Name": {"Type": "text"}},
+      {"Data": {"Type": "list of PaCO2 values with corresponding timestamps"}},
+      {"Visualization Type": {"Type": "e.g., line chart, scatter plot"}}
+    ]
+  },
+  "Notification": {
+    "Parameters": [
+      {"Name": {"Type": "text"}},
+      {"Message": {"Type": "text"}},
+      {"Trigger": {"Type": "e.g., PaCO2 level is respiratory acidosis or alkalosis"}},
+      {"Recipient": {"Type": "e.g., healthcare provider"}}
+    ]
+  },
+  "Guide": {
+    "Parameters": [
+      {"Name": {"Type": "text"}},
+      {"Pages": {"Type": "list of HTML texts"}}
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+
+{
+  "Target Population": {
+    "Description": {"Type": "text"},
+    "Criteria": {"Type": "options", "Values": ["age range", "medical condition", "demographic", "..."]},
+    "Values": {"Type": "text or numeric"},
+    "Frequency": {"Type": "options", "Values": ["daily", "weekly", "monthly", "..."]}
+  }
+}

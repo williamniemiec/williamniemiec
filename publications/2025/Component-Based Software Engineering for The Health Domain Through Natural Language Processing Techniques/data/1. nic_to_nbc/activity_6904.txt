@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Educational Content": {
+    "Topic": {"type": "text"},
+    "Content": {"type": "HTML content or multimedia"},
+    "Tips and Recommendations": {"type": "list of text or HTML content"},
+    "Quiz or Assessment": {"type": "multiple-choice questions or interactive assessment"},
+    "Resources": {"type": "list of text or HTML content"}
+  }
+}

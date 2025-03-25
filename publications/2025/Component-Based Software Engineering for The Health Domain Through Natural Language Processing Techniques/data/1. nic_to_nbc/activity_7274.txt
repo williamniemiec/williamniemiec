@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Lactation Consultant Referral": {
+    "Referral Title": {},
+    "Consultant Info": {},
+    "Reason": {},
+    "Instructions": {},
+    "Frequency": {},
+    "Deadline Date": {}
+  }
+}

@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+  "Treatment Acceptance": {
+    "Parameters": {
+      "Statement": {"Type": "text"},
+      "Agreement": {"Type": "boolean"}
+    }
+  },
+  "Informed Consent": {
+    "Parameters": {
+      "Information": {"Type": "text"},
+      "Consent": {"Type": "boolean"}
+    }
+  },
+  "Confirmation": {
+    "Parameters": {
+      "Message": {"Type": "text"},
+      "Acknowledgement": {"Type": "boolean"}
+    }
+  }
+}

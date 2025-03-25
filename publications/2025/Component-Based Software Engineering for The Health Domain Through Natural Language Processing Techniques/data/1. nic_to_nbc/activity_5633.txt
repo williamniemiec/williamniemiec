@@ -1,0 +1,55 @@
+Here is the output in JSON format:
+
+
+{
+    "Readiness to Learn Assessment": {
+        "title": {
+            "Description": "Title of the readiness to learn assessment",
+            "Required": true,
+            "Type": "text"
+        },
+        "motivation": {
+            "Description": "Assess the patient's motivation to learn",
+            "Required": true,
+            "Type": "options",
+            "Options": [
+                {"Value": "high", "Label": "High"},
+                {"Value": "medium", "Label": "Medium"},
+                {"Value": "low", "Label": "Low"}
+            ]
+        },
+        "attention": {
+            "Description": "Assess the patient's ability to focus and pay attention",
+            "Required": true,
+            "Type": "options",
+            "Options": [
+                {"Value": "high", "Label": "High"},
+                {"Value": "medium", "Label": "Medium"},
+                {"Value": "low", "Label": "Low"}
+            ]
+        },
+        "receptivity": {
+            "Description": "Assess the patient's receptivity to new information",
+            "Required": true,
+            "Type": "options",
+            "Options": [
+                {"Value": "high", "Label": "High"},
+                {"Value": "medium", "Label": "Medium"},
+                {"Value": "low", "Label": "Low"}
+            ]
+        },
+        "frequency": {
+            "Description": "Specify how often the readiness to learn assessment should be repeated",
+            "Required": true,
+            "Type": "options",
+            "Options": [
+                {"Value": "daily", "Label": "Daily"},
+                {"Value": "onlyOnce", "Label": "Only once"},
+                {"Value": "everyHours", "Label": "Every x hours"},
+                {"Value": "everyDays", "Label": "Every x days"}
+            ]
+        }
+    }
+}
+
+I removed the `Deadline Date` parameter since it's not required. Let me know if you need anything else!

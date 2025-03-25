@@ -1,0 +1,35 @@
+Here is the output in JSON format:
+
+
+{
+  "Cast Inspection": {
+    "parameters": [
+      {
+        "name": "inspection_result",
+        "description": "Describe any signs of drainage or issues with the cast",
+        "required": true,
+        "type": "text"
+      },
+      {
+        "name": "photo",
+        "description": "Take a photo of the cast",
+        "required": false,
+        "type": "camera"
+      },
+      {
+        "name": "frequency",
+        "description": "How often should you inspect your cast?",
+        "required": true,
+        "type": "options",
+        "options": [
+          { "value": "daily", "label": "Daily" },
+          { "value": "everyOtherDay", "label": "Every other day" },
+          { "value": "weekly", "label": "Weekly" }
+        ]
+      }
+    ]
+  }
+}
+
+
+Note that I removed the `deadline_date` parameter as it was marked as not applicable (`required`: false).

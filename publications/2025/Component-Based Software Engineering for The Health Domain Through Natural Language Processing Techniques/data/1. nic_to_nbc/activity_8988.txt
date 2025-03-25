@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Foot Support": {
+    "Parameters": {
+      "Name": {},
+      "Footboard Type": {},
+      "Footboard Instructions": {},
+      "Foot Positioning": {}
+    }
+  }
+}
+
+
+I removed the `Deadline Date` parameter as it's not applicable to the no-code element. Let me know if you have any further questions!

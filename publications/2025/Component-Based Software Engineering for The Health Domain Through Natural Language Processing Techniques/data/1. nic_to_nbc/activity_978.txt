@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Self-Care Empowerment": {
+    "Goal": {"type": "text"},
+    "Action Plan": {"type": "unordered list"},
+    "Motivational Message": {"type": "text"},
+    "Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"type": "datetime"}
+  }
+}

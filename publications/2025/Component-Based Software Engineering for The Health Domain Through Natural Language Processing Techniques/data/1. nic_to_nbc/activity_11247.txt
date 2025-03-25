@@ -1,0 +1,11 @@
+
+
+
+{
+  "Knowledge Acknowledgement": {
+    "Condition Information": {"type": "text"},
+    "Patient's Understanding": {"type": "open-ended text"},
+    "Acknowledgement": {"type": "text"},
+    "Next Steps": {"type": "text"}
+  }
+}

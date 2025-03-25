@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+    "Maintenance Phase Initiation": {
+        "Parameters": {
+            "Maintenance Phase Initiation Title": {},
+            "Target Weight Achieved": {},
+            "Consistent Desired Eating Behaviors": {},
+            "Designated Period of Time": {},
+            "Maintenance Phase Treatment Plan": {},
+            "Progress Tracking in Maintenance Phase": {}
+        }
+    }
+}

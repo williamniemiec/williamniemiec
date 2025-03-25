@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+  "Parameters": {
+    "Device Type": {
+      "Options": ["hearing aid", "cochlear implant", "FM system", "etc."]
+    },
+    "Tutorial Type": {
+      "Options": ["video", "interactive simulation", "step-by-step guide", "etc."]
+    },
+    "Tutorial Content": {
+      "Type": ["video", "interactive simulation", "HTML text", "etc."]
+    },
+    "Quiz": {
+      "Type": ["multiple choice", "true/false", "open-ended question", "etc."]
+    },
+    "Certification": {
+      "Type": ["digital badge", "certificate", "acknowledgement message"]
+    }
+  },
+  "NO-CODE ELEMENT NAME": "hearing aid education"
+}

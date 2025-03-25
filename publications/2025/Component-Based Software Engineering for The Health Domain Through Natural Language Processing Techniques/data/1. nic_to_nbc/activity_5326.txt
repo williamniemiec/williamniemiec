@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "family_support",
+    "parameters": [
+        { 
+            "name": "unacceptable_behaviors", 
+            "description": "list of unacceptable sexual behaviors(s)"
+        },
+        { 
+            "name": "family_education", 
+            "description": "list of educational topics for the family"
+        }
+    ]
+}

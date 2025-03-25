@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "noCodeElementName": "Gloving",
+  "parameterSpecifications": {
+    "name": "Use gloves",
+    "description": "Remember to use gloves when handling the infusion product",
+    "content_type": "reminder",
+    "parameters": [
+      {
+        "name": "reason"
+      }
+    ]
+  }
+}

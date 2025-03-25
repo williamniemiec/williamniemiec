@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Temperature Monitoring": {
+    "parameters": [
+      {"name": "temperature", "description": "Enter the temperature of the infusion product storage", "required": true, "type": "number", "unit": "°C"},
+      {"name": "frequency", "description": "Specify how often the temperature should be monitored", "required": true, "type": "options", "options": [{"value": "daily", "label": "Daily"}, {"value": "onlyOnce", "label": "Only once"}, {"value": "everyHours", "label": "Every x hours"}, {"value": "everyDays", "label": "Every x days"}]},
+      {"name": "acceptable_range", "description": "Specify the acceptable temperature range", "required": true, "type": "range", "min": 1, "max": 24}
+    ]
+  }
+}
+
+
+Note: I removed the `deadline_date` parameter as it is not applicable (i.e., its required property is set to false).

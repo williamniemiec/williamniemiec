@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+    "consequences discussion": [
+        {
+            "name": "title"
+        },
+        {
+            "name": "consequences"
+        },
+        {
+            "name": "explanation"
+        },
+        {
+            "name": "reflection question"
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Diagnostic Test Suggestion": {
+    "Test Type": {"type": "options", "options": ["barium cookie swallow", "video fluoroscopy", "etc."]},
+    "Reason for Test": {"type": "text"},
+    "Preparation Instructions": {"type": "text"},
+    "Test Location": {"type": "text"},
+    "Scheduling": {"type": "boolean"},
+    "Additional Information": {"type": "text"}
+  }
+}

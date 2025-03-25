@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Oral Hygiene Task": {
+    "Device": ["Unwaxed floss", "Non-shredding floss", "Sonic toothbrush", "Water pic"],
+    "Frequency": ["daily", "onlyOnce", "everyHours", "everyDays"],
+    "Instructions": ["How to properly floss", "How to use a sonic toothbrush", "How to use a water pic"],
+    "Reminders": {"Type": "datetime"},
+    "Tracking": {"Type": "boolean"}
+  }
+}
+
+Let me know if this is what you were expecting!

@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Administration": {
+    "Parameters": {
+      "Substance": {"Type": "text"},
+      "Symptoms": {"Type": "options", "Options": ["nausea", "vomiting", "diaphoresis", "right upper quadrant pain", "constricted pupils", "hypotension", "bradycardia", "dilated pupils", "tachycardia", "seizures", "chest pain", "etc."]},
+      "Medication": {"Type": "options", "Options": ["antiemetics", "naloxone", "thiamine", "glucose", "flumazenil", "calcium", "vasopressors", "antiarrhythmics", "inotropics", "etc."]},
+      "Dosage": {"Type": "text"},
+      "Frequency": {"Type": "options", "Options": ["daily", "everyHours", "everyDays"]},
+      "Duration": {"Type": "text"},
+      "Instructions": {"Type": "text"}
+    }
+  }
+}
+
+
+Let me know if you need any further assistance!

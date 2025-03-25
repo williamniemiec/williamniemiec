@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Skin Integrity Assessment": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Questions": {"Type": "form", "Options": [{"Question 1": {"Type": "boolean"}}, {"Question 2": {"Type": "boolean"}}, {"Question 3": {"Type": "boolean"}}]},
+      "Frequency": {"Type": "options", "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"Type": "datetime"},
+      "Photo": {"Type": "camera"}
+    }
+  }
+}

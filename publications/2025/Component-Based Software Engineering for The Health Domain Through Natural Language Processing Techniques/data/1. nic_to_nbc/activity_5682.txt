@@ -1,0 +1,23 @@
+
+
+
+{
+    "name": "Event Planner",
+    "parameters": [
+        {
+            "name": "Event Type"
+        },
+        {
+            "name": "Activity Options"
+        },
+        {
+            "name": "Schedule"
+        },
+        {
+            "name": "Location"
+        },
+        {
+            "name": "Registration"
+        }
+    ]
+}

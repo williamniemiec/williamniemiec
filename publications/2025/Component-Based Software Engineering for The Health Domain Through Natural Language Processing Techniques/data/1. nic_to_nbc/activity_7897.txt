@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Perineal Care Guide": {
+    "parameters": {
+      "name": "perineal care guide title",
+      "description": "instructions on perineal care methods (e.g., cleaning, drying, applying topical creams)",
+      "steps": "a list of step-by-step instructions on perineal care with descriptions and illustrations",
+      "video/tutorial": "an optional feature to provide video tutorials or demonstrations of perineal care",
+      "tracking": "an optional feature to track the patient's progress and adherence to perineal care"
+    }
+  },
+  "Questionnaire": {
+    "parameters": {}
+  }
+}

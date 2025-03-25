@@ -1,0 +1,32 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Tracker": {
+    "Parameters": {
+      "Parameter 1": {
+        "Description": "Track administration of sedatives (e.g., name, dosage, frequency)",
+        "Required": true,
+        "Type": "medication tracking"
+      },
+      "Parameter 2": {
+        "Description": "Track administration of pain relief medications (e.g., name, dosage, frequency)",
+        "Required": true,
+        "Type": "medication tracking"
+      },
+      "Parameter 3": {
+        "Description": "Track administration of antipyretics (e.g., name, dosage, frequency)",
+        "Required": true,
+        "Type": "medication tracking"
+      },
+      "Parameter 4": {
+        "Description": "Specify how often medication administration should be tracked",
+        "Required": true,
+        "Type": "options"
+      }
+    }
+  }
+}
+
+
+I removed the introduction, conclusion, and not applicable parameters (Deadline Date). Let me know if you need any further assistance!

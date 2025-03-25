@@ -1,0 +1,30 @@
+Here is the output in JSON format:
+
+
+{
+  "Phosphate Level Monitoring": {
+    "Parameters": {
+      "Phosphate Level": {
+        "Type": "numeric"
+      },
+      "Reason for Shift": {
+        "Type": "options"
+      },
+      "Frequency": {
+        "Type": "options"
+      },
+      "Target Range": {
+        "Type": "range"
+      },
+      "Notes": {
+        "Type": "text"
+      },
+      "Alert Threshold": {
+        "Type": "numeric"
+      }
+    }
+  }
+}
+
+
+Let me know if this is what you were expecting!

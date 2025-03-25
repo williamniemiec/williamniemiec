@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+    "Grip Strength Monitoring": {
+        "Parameters": {
+            "Grip Strength": {},
+            "Frequency": {},
+            "Deadline Date": {}
+        }
+    },
+    "Nonnutritive Sucking Monitoring": {
+        "Parameters": {
+            "Nonnutritive Sucking Status": {},
+            "Frequency": {},
+            "Deadline Date": {}
+        }
+    }
+}
+
+
+Let me know if this meets your requirements!

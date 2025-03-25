@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Wound Description": {
+        "Color": {
+            "Type": "options",
+            "Options": ["red", "blue", "purple", "maroon", "other"]
+        },
+        "Description": {
+            "Type": "text"
+        }
+    }
+}

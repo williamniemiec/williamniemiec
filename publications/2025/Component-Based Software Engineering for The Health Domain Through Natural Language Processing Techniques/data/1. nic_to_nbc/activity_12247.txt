@@ -1,0 +1,17 @@
+
+
+
+{
+  "Respiratory Tracker": {
+    "Parameters": {
+      "Respiratory Rate": {"Type": "number"},
+      "Respiratory Depth": {"Type": "options", "Options": ["shallow", "normal", "deep"]},
+      "Respiratory Rhythm": {"Type": "options", "Options": ["regular", "irregular"]},
+      "Frequency": {"Type": "options", "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Notes": {"Type": "text"}
+    }
+  }
+}
+
+
+Let me know if you need any adjustments!

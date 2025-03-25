@@ -1,0 +1,35 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Coping Strategies",
+    "parameters": [
+        { 
+            "name": "Coping Strategy", 
+            "type": "text"
+        },
+        { 
+            "name": "Effectiveness", 
+            "type": "options",
+            "options": [
+                { value: "very effective" },
+                { value: "somewhat effective" },
+                { value: "not effective" }
+            ]
+        },
+        { 
+            "name": "Frequency", 
+            "type": "options",
+            "options": [
+                { value: "daily" },
+                { value: "onlyOnce" },
+                { value: "everyHours" },
+                { value: "everyDays" }
+            ]
+        },
+        { 
+            "name": "Reflection", 
+            "type": "boolean"
+        }
+    ]
+}

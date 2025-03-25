@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "Satisfaction Survey": {
+    "survey_type": {
+      "type": "options",
+      "options": ["Patient satisfaction", "Family satisfaction", "Overall care satisfaction", "Other"]
+    },
+    "survey_questions": {
+      "type": "list of text"
+    },
+    "response_scale": {
+      "type": "options",
+      "options": ["Likert scale (e.g., 1-5)", "Numerical scale (e.g., 1-10)", "Custom"]
+    },
+    "survey_frequency": {
+      "type": "options",
+      "options": ["Daily", "Weekly", "Monthly", "Custom"]
+    },
+    "survey_results": {
+      "type": "text"
+    }
+  }
+}

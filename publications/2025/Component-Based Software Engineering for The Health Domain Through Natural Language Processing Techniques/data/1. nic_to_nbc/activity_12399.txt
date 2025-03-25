@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+"Virtual Room": {
+    "Room Name": {"Description": "name of the virtual room", "Required": true, "Type": "text"},
+    "Infant's Information": {"Description": "infant's information, such as photos, updates, and vital signs", "Required": true, "Type": "list of text and images"}
+}
+}
+
+
+I removed the not applicable parameters (Parent's Journal and Resources) since they are marked as false in the Required field. Let me know if you need any further assistance!

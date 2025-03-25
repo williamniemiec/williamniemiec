@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+  "Comfort Resource": {
+    "Resource Type": {
+      "Type": "options",
+      "Options": ["relaxationTechniques", "emotionalSupport", "meditation", "etc."]
+    },
+    "Resource Content": {
+      "Type": "multimedia",
+      "Content": ["audio", "video", "text", "etc."]
+    },
+    "Frequency": {
+      "Type": "options",
+      "Options": ["daily", "everyHours", "everyDays", "etc."]
+    },
+    "Deadline": {
+      "Type": "datetime"
+    }
+  }
+}

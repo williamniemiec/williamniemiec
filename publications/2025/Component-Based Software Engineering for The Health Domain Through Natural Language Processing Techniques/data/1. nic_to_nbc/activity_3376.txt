@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Weight Loss Diet Plan": {
+    "parameters": {
+      "Diet Type": {"type": "options", "options": ["low-carb", "low-fat", "Mediterranean", "etc."]},
+      "Meal Plan": {"type": "text"},
+      "Macro-Nutrient Ratios": {"type": "text"},
+      "Calorie Intake": {"type": "number"},
+      "Progress Tracking": {"type": "boolean"},
+      "Goal Setting": {"type": "text"},
+      "Resources": {"type": "text"}
+    }
+  }
+}

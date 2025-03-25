@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Toileting Assistant": {
+    "name": {"type": "text"},
+    "description": {"type": "text"},
+    "toileting_schedule": {"type": "reference"},
+    "prompt_interval": {"type": "numeric"},
+    "prompt_method": {"type": "options", "options": ["notification", "alarm", "etc."]},
+    "assistance_type": {"type": "options", "options": ["physical", "verbal", "etc."]},
+    "caregiver_notification": {"type": "boolean"}
+  }
+}

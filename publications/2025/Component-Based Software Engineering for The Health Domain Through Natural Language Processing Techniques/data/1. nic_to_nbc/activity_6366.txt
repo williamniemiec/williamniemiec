@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Journal or Diary": {
+    "parameters": ["prompt or question", "frequency", "deadline_date"]
+  },
+  "Survey or Questionnaire": {
+    "parameters": ["questions", "frequency", "deadline_date"]
+  }
+}

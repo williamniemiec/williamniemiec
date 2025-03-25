@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Lab and Diagnostic Test Results": {
+        "Test Results": {"Type": "list of text"},
+        "Test Dates": {"Type": "list of datetime"},
+        "Test Types": {"Type": "list of text"}
+    },
+    "Report": {
+        "Report Template": {"Type": "text"},
+        "Data Sources": {"Type": "list of text"}
+    }
+}

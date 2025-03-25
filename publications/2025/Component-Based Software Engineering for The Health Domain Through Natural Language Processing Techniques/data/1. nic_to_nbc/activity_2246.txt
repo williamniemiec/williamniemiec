@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Repositioning Guide": {
+    "Parameters": {
+      "Repositioning Schedule": {},
+      "Frequency": {},
+      "Exceptions": {},
+      "Positions": {},
+      "Reminders": {}
+    }
+  }
+}

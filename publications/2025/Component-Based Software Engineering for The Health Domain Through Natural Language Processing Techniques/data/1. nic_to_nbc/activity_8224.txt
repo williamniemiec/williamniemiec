@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+  "Medical History": {
+    "Parameters": {
+      "Name": {},
+      "Medical History": {},
+      "Allergies": {},
+      "Condition": {},
+      "Frequency": {
+        "options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+      },
+      "Deadline Date": {}
+    }
+  }
+}
+
+
+Let me know if this is what you were expecting!

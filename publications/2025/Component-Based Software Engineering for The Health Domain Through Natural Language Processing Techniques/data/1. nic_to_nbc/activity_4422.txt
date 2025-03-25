@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Thought Record": {
+    "Irrational Self-Statement": {},
+    "Emotion": {},
+    "Rational Self-Statement": {},
+    "Evidence": {},
+    "Alternative Action": {},
+    "Frequency": {
+      "options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+    },
+    "Deadline Date": {}
+  }
+}
+
+
+I removed the introduction, conclusion, and other irrelevant parts of the text, and only kept the `{{ NO-CODE ELEMENT NAME }}` (Thought Record) and `{{ PARAMETER ESPECIFICATIONS }}`. I also removed any parameters that were marked as "Not Applicable" since there were none in this example.

@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+  "Healthcare Usage Survey": {
+    "Parameters": {
+      "Healthcare Services Used": {
+        "Type": "unordered list"
+      },
+      "Frequency of Use": {
+        "Type": "options"
+      },
+      "Cost of Services": {
+        "Type": "numeric"
+      },
+      "Payment Method": {
+        "Type": "options"
+      },
+      "Financial Burden": {
+        "Type": "options"
+      }
+    }
+  }
+}
+
+
+Let me know if this is what you were expecting!

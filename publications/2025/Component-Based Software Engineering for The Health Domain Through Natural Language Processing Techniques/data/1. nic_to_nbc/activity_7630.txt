@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Vital Sign Monitoring": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Vital Signs": {"Type": "list of vital signs"},
+      "Frequency": {"Options": ["every 15 minutes", "every 30 minutes", "every hour", "every 2 hours"]},
+      "Thresholds": {"Type": "list of threshold values"},
+      "Notification": {"Type": "text"},
+      "Intervention": {"Type": "text"}
+    }
+  }
+}
+
+
+Note: I removed the `Deadline Date` parameter as it's not applicable in this context. Let me know if you need any further assistance!

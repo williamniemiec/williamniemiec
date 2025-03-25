@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Conversation Starter": {
+    "parameters": {
+      "Topic": {
+        "type": "options"
+      },
+      "Prompt": {
+        "type": "text"
+      },
+      "Frequency": {
+        "type": "options"
+      },
+      "Reflection": {
+        "type": "text"
+      }
+    }
+  }
+}

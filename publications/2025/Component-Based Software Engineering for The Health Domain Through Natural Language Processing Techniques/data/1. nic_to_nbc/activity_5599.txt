@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Interaction Guide": {
+    "Guide Content": "guide_content",
+    "Diet Section": "diet_section",
+    "Insulin/Oral Agents Section": "insulin_oral_agents_section",
+    "Exercise Section": "exercise_section",
+    "Interactive Quiz": "interactive_quiz",
+    "Frequency": "frequency"
+  }
+}
+
+
+I removed the "Deadline Date" parameter because it's not required. Let me know if you need anything else!

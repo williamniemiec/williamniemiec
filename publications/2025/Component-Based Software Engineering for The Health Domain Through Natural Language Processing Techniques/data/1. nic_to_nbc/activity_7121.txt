@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Nutrition Monitoring": {
+    "Parameters": {
+      "Food Diary": {"Type": "text or table"},
+      "Nutrient Analysis": {"Type": "options"},
+      "Caloric Intake": {"Type": "numeric value"},
+      "Nutrition Goals": {"Type": "text or numeric value"},
+      "Tracking": {"Type": "boolean or rating scale"}
+    }
+  }
+}

@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Mood Assessment": {
+    "Parameters": {
+      "Question": {"Type": "text"},
+      "Scale": {"Type": "options"},
+      "Options": {"Type": "list of text"}
+    }
+  },
+  "Support System Assessment": {
+    "Parameters": {
+      "Question": {"Type": "text"},
+      "Options": {"Type": "list of text"},
+      "Details": {"Type": "text"}
+    }
+  }
+}

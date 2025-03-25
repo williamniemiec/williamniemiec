@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "Education": {
+    "Parameters": {
+      "Title": {
+        "Type": "text"
+      },
+      "Content": {
+        "Type": "html or article"
+      },
+      "Reason": {
+        "Type": "text"
+      },
+      "Consequences": {
+        "Type": "text"
+      }
+    }
+  }
+}
+
+
+Let me know if this is what you were expecting!

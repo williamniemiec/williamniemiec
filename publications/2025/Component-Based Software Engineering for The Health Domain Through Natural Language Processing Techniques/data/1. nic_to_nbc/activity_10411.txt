@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Goal Timeline Planning": {
+    "parameters": {
+      "Goal Statement": {"type": "text"},
+      "Goal Type": {"type": "options"},
+      "Timeframe": {"type": "options"},
+      "Short-term Goal Breakdown": {"type": "list of tasks"},
+      "Long-term Goal Vision": {"type": "text"},
+      "Goal Prioritization": {"type": "rating scale"}
+    }
+  }
+}

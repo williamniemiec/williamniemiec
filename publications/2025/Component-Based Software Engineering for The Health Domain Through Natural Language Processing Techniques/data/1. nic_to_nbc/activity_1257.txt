@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Discrepancy Resolution Protocol": {
+    "Name": {"Type": "text"},
+    "Agency Protocol": {"Type": "text"},
+    "Discrepancy Information": {"Type": "text"},
+    "Resolution Steps": {"Type": "list of text"},
+    "Verification": {"Type": "boolean"},
+    "Resolution Outcome": {"Type": "text"},
+    "Follow-up": {"Type": "text"}
+  }
+}

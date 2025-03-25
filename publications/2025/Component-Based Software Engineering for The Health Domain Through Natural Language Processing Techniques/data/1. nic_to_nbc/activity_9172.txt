@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Electrolyte Imbalance Analyzer": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Electrolytes to Analyze": {"Type": "unordered list"},
+      "Possible Causes": {"Type": "unordered list"},
+      "Risk Factors": {"Type": "unordered list"},
+      "Symptoms": {"Type": "unordered list"},
+      "Resources": {"Type": "links or attachments"}
+    }
+  }
+}

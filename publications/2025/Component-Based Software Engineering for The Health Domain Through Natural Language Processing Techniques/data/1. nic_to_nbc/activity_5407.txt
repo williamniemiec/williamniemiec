@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+    "Reminder": {
+        "parameters": {
+            "name": "reminder title (e.g., \"Use PPE\")",
+            "content": "reminder message (e.g., \"Remember to wear gloves, goggles, and mask when interacting with healthcare professionals or in high-risk situations\")",
+            "frequency": "how often the reminder should be displayed (e.g., every time a patient interacts with a healthcare professional, etc.)"
+        }
+    },
+    "Task": {
+        "parameters": {
+            "name": "task title (e.g., \"Use PPE\")",
+            "content": "task description (e.g., \"Put on gloves, goggles, and mask before interacting with healthcare professionals or in high-risk situations\")",
+            "frequency": "how often the task should be performed (e.g., every time a patient interacts with a healthcare professional, etc.)"
+        }
+    }
+}

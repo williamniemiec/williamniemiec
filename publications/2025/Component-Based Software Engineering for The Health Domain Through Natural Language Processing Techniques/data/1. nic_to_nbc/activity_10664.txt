@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "No-code Element Name": "Sexual History",
+  "Parameters": {
+    "Number of Past Sexual Partners": {
+      "Type": "number",
+      "Required": true
+    },
+    "Frequency of Intercourse": {
+      "Type": "options",
+      "Required": true
+    },
+    "Past STIs": {
+      "Type": "checklist",
+      "Required": true
+    },
+    "STI Treatments": {
+      "Type": "text",
+      "Required": true
+    }
+  }
+}

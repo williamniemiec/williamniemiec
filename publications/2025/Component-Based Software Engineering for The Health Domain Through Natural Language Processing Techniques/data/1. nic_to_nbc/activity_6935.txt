@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Discharge Criteria Assessment": {
+    "Aldrete Scale": {"Type": "checklist", "Required": true},
+    "Score": {"Type": "number", "Required": true},
+    "Discharge Criteria Met": {"Type": "options", "Required": true},
+    "Agency Protocol": {"Type": "text", "Required": true}
+  },
+  "Discharge Instructions": {
+    "Instructions": {"Type": "text", "Required": true},
+    "Medications": {"Type": "list", "Required": true},
+    "Follow-up Care": {"Type": "text", "Required": true}
+  }
+}
+
+
+Note that I removed the "Reason for Not Meeting Criteria" parameter from "Discharge Criteria Assessment" as it was marked as Required: false, and also removed the unnecessary parameters.

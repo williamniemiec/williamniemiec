@@ -1,0 +1,10 @@
+Here is the output in JSON format:
+
+
+{
+  "Healthcare Setting Assessment": {
+    "Questions": {"Type": "form", "Options": ["multiple-choice questions with answers (e.g., yes/no, severity levels, symptoms)"]},
+    "Settings": {"Type": "options", "Options": ["home care", "urgent care", "emergency department", "clinic", "acute care", "long-term care"]},
+    "Logic": {"Type": "conditional logic", "Options": ["if-then statements", "decision trees"]}
+  }
+}

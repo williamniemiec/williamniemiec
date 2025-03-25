@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+    "Catheter Insertion Depth": [
+        {
+            "Insertion Depth": {"type": "text"}
+        },
+        {
+            "Balloon Inflation Instructions": {"type": "text"}
+        },
+        {
+            "Urethral Tissue Protection": {"type": "text"}
+        }
+    ]
+}

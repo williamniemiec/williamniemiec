@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Relapse Risk Factors": {
+    "Name": {"type": "text"},
+    "Risk Factors": {"type": "list of risk factors (with descriptions and examples)"},
+    "Quiz Questions": {"type": "list of quiz questions (with correct answers and explanations)"},
+    "Frequency": {"options": ["daily", "weekly", "monthly", "quarterly"]},
+    "Deadline Date": {"type": "datetime"}
+  }
+}
+
+
+Let me know if this meets your requirements!

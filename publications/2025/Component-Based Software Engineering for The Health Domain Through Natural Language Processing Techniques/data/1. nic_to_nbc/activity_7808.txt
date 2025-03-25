@@ -1,0 +1,16 @@
+
+
+
+{
+    "Puzzle Activity": {
+        "Parameters": {
+            "Name": {"Type": "text"},
+            "Description": {"Type": "text"},
+            "Puzzle Types": {"Type": "options"},
+            "Difficulty Levels": {"Type": "options"},
+            "Frequency": {"Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+            "Deadline Date": {"Type": "datetime"},
+            "Tips": {"Type": "text"}
+        }
+    }
+}

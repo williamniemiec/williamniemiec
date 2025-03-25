@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+    "Symptom Tracker": {
+        "Parameters": {
+            "Symptom": {
+                "Type": "options",
+                "Options": ["Oral Dryness", "Irritation", "Discomfort"]
+            },
+            "Severity": {
+                "Type": "options",
+                "Options": ["Mild", "Moderate", "Severe"]
+            },
+            "Duration": {
+                "Type": "text"
+            },
+            "Frequency": {
+                "Type": "options",
+                "Options": ["Constantly", "Frequently", "Occasionally"]
+            },
+            "Consultation Request": {
+                "Type": "boolean"
+            }
+        }
+    }
+}

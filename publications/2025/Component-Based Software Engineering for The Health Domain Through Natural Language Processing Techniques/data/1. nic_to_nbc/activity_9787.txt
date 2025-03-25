@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Body Hair Shaving": {
+    "Shaving Desired": {},
+    "Risk for Excessive Bleeding": {},
+    "Electric Razor": {},
+    "Shaving Instructions": {},
+    "Shaving Area": {}
+  }
+}

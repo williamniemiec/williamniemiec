@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Vital Sign Tracking": {
+    "Parameters": {
+      "Vital Sign Types": {"Type": "list of text options"},
+      "Tracking Frequency": {"Type": "options"},
+      "Data Entry": {"Type": "numerical input fields for each vital sign type"},
+      "Exercise Tracking": {"Type": "list of exercise types with checkboxes or a free-text field for notes"},
+      "Reminders": {"Type": "scheduling system with notification options"},
+      "Graphical Display": {"Type": "graphical display component"}
+    }
+  }
+}

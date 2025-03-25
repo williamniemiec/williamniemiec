@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Information Module": {
+    "Parameters": {
+      "Title": {"Type": "text"},
+      "Content": {"Type": "rich text or HTML"},
+      "Sections": {"Type": "list of section titles"},
+      "Resources": {"Type": "list of URLs or video IDs"}
+    }
+  }
+}

@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "elementName": "Catheter Tip Culture Instruction",
+  "parameters": {
+    "culture_instruction": {"type": "text or HTML text"},
+    "images": {"type": "image or list of images"},
+    "video": {"type": "video or URL to a video"},
+    "catheter_tip_condition": {"type": "options or text"},
+    "culture_request": {"type": "text or HTML text"}
+  }
+}

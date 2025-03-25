@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+    "Schedule": {
+        "parameters": {
+            "type": {
+                "type": "options"
+            },
+            "description": {
+                "type": "text"
+            },
+            "date": {
+                "type": "datetime"
+            },
+            "frequency": {
+                "type": "options"
+            },
+            "reminders": {
+                "type": "options"
+            },
+            "notes": {
+                "type": "text"
+            }
+        }
+    }
+}

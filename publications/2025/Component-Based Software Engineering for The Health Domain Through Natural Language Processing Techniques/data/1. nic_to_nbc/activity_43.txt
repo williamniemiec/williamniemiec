@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Postictal Period Tracker": {
+    "parameters": {
+      "Postictal Period Start": {"type": "datetime"},
+      "Postictal Period End": {"type": "datetime"},
+      "Duration": {"type": "number"},
+      "Characteristics": {"type": "multi-select or free text"},
+      "Severity": {"type": "options"},
+      "Frequency": {"type": "options", "options": ["daily", "weekly", "biweekly", "monthly"]},
+      "Notes": {"type": "text"}
+    }
+  }
+}

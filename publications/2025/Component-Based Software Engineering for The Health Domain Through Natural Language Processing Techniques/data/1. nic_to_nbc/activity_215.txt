@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "CSF Specimen Collection Guidance": {
+        "Collection Instructions": {},
+        "Collection Method": {},
+        "Collection Volume": {},
+        "Collection Frequency": {},
+        "Order or Protocol": {},
+        "Safety Precautions": {}
+    }
+}

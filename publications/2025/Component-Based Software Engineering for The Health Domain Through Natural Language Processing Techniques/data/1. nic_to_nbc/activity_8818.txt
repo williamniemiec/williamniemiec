@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Sibling Support Guide": {
+    "Parameters": {
+      "Title": {"Type": "text"},
+      "Content": {"Type": "HTML text or article"},
+      "Sections": {"Type": "list of sections"},
+      "Resources": {"Type": "list of resources (e.g., URLs, file uploads)"},
+      "Frequency": {"Type": "options (e.g., daily, onlyOnce, everyHours, everyDays)"}
+    }
+  }
+}
+
+
+Let me know if this meets your requirements!

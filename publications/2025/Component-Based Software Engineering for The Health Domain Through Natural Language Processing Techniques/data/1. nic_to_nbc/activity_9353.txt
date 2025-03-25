@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "CVAD Access Syringe": {
+    "parameters": {
+      "name": {"type": "text"},
+      "device_type": {"type": "options"},
+      "syringe_size": {"type": ["text", "options"]},
+      "instructions": {"type": ["text", "video"]},
+      "warning": {"type": "text"},
+      "confirmation": {"type": "boolean"}
+    }
+  }
+}

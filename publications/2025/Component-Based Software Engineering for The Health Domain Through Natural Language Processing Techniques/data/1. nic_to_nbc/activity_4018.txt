@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Bathing Technique Instruction": {
+    "parameters": {
+      "name": "",
+      "why": "",
+      "water_temperature": "",
+      "drying_technique": "",
+      "notes": ""
+    }
+  }
+}

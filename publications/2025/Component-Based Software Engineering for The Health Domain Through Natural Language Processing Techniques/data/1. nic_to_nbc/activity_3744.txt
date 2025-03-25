@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "guide": {
+    "Parameters": {
+      "Name": "title of the guide (e.g., \"Importance of Not Moving During Laser Use\")",
+      "Pages": "list of HTML texts or instructional content explaining the importance of remaining still during laser use"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Self-Worth Monitoring": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Frequency": {"Type": "options", "Options": [{"value": "daily", "label": "Daily"}, {"value": "weekly", "label": "Weekly"}, {"value": "monthly", "label": "Monthly"}]},
+      "Format": {"Type": "options", "Options": [{"value": "survey", "label": "Survey"}, {"value": "journal", "label": "Journal"}, {"value": "audioRecording", "label": "Audio Recording"}]},
+      "Questions": {"Type": "list of text"},
+      "Sentiment Analysis": {"Type": "boolean"},
+      "Feedback": {"Type": "boolean"}
+    }
+  }
+}
+
+
+Let me know if this meets your requirements!

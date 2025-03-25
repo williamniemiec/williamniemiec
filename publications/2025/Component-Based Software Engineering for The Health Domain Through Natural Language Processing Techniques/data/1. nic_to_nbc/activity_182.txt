@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Personal Issue Exploration": {
+    "Parameters": {
+      "Personal Issue Exploration Title": {},
+      "Reflection Prompt": {},
+      "Reflective Journal Entries": {},
+      "Frequency of Journaling": {}
+    }
+  }
+}

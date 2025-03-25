@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+    "Orientation Cues": {
+        "Current Events": {"type": "text"},
+        "Seasonal Cues": {"type": "image or text"},
+        "Location Cues": {"type": "image or text"},
+        "Name Cues": {"type": "text or image"},
+        "Personalized Cues": {"type": "text or image"}
+    },
+    "Caregiver Orientation Guide": {"type": "text"},
+    "Orientation Cue Library": {"type": "multimedia library"}
+}
+
+
+Let me know if this is what you were expecting!

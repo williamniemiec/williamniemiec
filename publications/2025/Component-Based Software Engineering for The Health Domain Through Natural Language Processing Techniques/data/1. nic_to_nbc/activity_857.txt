@@ -1,0 +1,33 @@
+Here is the output in JSON format:
+
+
+{
+  "Respiratory Tracker": {
+    "Parameters": {
+      "Symptoms": [
+        "Hypoventilation",
+        "Respiratory muscle weakness",
+        "Shortness of breath",
+        "Chest tightness",
+        "Coughing"
+      ],
+      "Respiratory Rate": {
+        "Type": "number"
+      },
+      "Oxygen Saturation": {
+        "Type": "number"
+      },
+      "Peak Expiratory Flow": {
+        "Type": "number"
+      },
+      "Frequency": [
+        "daily",
+        "everyHours",
+        "everyDays"
+      ],
+      "Notes": {
+        "Type": "text"
+      }
+    }
+  }
+}

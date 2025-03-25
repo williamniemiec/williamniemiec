@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Athletic Trainer Verification": {
+    "Name": {"Type": "text"},
+    "Trainer Certification": {"Type": "options", "Options": ["yes", "no"]},
+    "Trainer Information": {"Type": "form"},
+    "Event Information": {"Type": "form"},
+    "Frequency": {"Type": "options", "Options": ["everyEvent", "daily"]},
+    "Deadline Date": {"Type": "date"}
+  },
+  "Survey": {
+    "Name": {"Type": "text"},
+    "Survey Questions": {"Type": "form"},
+    "Frequency": {"Type": "options", "Options": ["everyEvent", "daily"]},
+    "Deadline Date": {"Type": "date"}
+  }
+}

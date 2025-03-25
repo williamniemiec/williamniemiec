@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Compensation Identifier": {
+    "parameters": {
+      "compensation_type": "",
+      "lab_results": [],
+      "patient_data": "",
+      "rules": "",
+      "interpretation": ""
+    }
+  }
+}

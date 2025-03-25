@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+    "Organ Donation Policy Review": {
+        "Policy Document": {"Type": "PDF or HTML text"},
+        "Procedure Overview": {"Type": "text"},
+        "FAQs": {"Type": "list of text"},
+        "Resources": {"Type": "list of links or text"}
+    }
+}

@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Care and Feeding Schedule": {
+    "Current Sleep and Wake Cycle": {"type": "text"},
+    "Care and Feeding Activities": {"type": "options"},
+    "Desired Schedule": {"type": "text"},
+    "Action Plan": {"type": "text"},
+    "Reminder": {"type": "options"}
+  }
+}
+
+
+I removed all unnecessary text and only kept the `{{ NO-CODE ELEMENT NAME }}` and `{{ PARAMETER ESPECIFICATIONS }}`. I also formatted it in JSON format as required. Let me know if you need any further assistance!

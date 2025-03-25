@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Fluid Restriction": {
+    "restriction instruction": {},
+    "Fluid Limit": {},
+    "Frequency": {},
+    "Allowed Fluids": {}
+  }
+}

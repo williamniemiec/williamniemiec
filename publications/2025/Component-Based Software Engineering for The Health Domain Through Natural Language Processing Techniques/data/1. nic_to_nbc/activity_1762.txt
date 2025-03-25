@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+    "Oxygen Therapy Guide": {
+        "parameters": {
+            "name": "Oxygen Therapy Guide",
+            "description": "Instructions on how to use oxygen therapy equipment",
+            "content_type": ["video", "image", "text"],
+            "equipment_type": "list of oxygen therapy equipment, e.g. nasal cannula, mask",
+            "instructions": "step-by-step instructions on how to use the equipment",
+            "safety_precautions": "list of safety precautions to take when using oxygen therapy equipment"
+        }
+    }
+}
+
+
+Let me know if this meets your requirements!

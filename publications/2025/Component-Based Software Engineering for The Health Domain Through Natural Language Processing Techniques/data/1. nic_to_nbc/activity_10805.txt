@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+    "fluid intake tracking": {
+        "parameters": [
+            {"name": "goal", "description": "minimum daily fluid intake goal"},
+            {"name": "unit", "description": "unit of measurement for fluid intake"},
+            {"name": "frequency", "description": "specify how often to track fluid intake"}
+        ]
+    }
+}
+
+
+Note: I removed the `deadline_date` parameter since it's not applicable (required is false).

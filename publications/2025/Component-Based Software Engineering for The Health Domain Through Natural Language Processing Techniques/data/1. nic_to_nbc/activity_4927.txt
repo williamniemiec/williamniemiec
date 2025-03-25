@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Bolus Formation": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Indications": {"Type": "checklist"},
+      "Food/Liquid Type": {"Type": "options", "Options": ["pudding", "yogurt", "thickened liquids", "others"]},
+      "Bolus Formation Instructions": {"Type": "text"},
+      "Frequency": {"Type": "options", "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]}
+    }
+  }
+}
+
+
+Note that I removed the `Deadline Date` parameter as it's not applicable in this context, and reformatted the output to a JSON object with the no-code element name as the key, and its parameters as an inner object. Let me know if you need any further adjustments!

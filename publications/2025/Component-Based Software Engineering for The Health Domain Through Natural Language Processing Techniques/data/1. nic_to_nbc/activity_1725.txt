@@ -1,0 +1,32 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Prescription Writer",
+    "parameters": [
+        {
+            "name": "medication"
+        },
+        {
+            "name": "dose"
+        },
+        {
+            "name": "administration_directions"
+        },
+        {
+            "name": "frequency"
+        },
+        {
+            "name": "duration"
+        },
+        {
+            "name": "refills"
+        },
+        {
+            "name": "special_instructions"
+        }
+    ]
+}
+
+
+I removed all unnecessary information and only kept the `{{ NO-CODE ELEMENT NAME }}` and `{{ PARAMETER ESPECIFICATIONS }}`. I also removed the parameters that were not applicable (i.e. those with a `required` value of `false`).

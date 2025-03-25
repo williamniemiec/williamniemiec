@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+"Dressing Instruction": {
+    "Parameters": {
+        "Name": {"Type": "text"},
+        "Steps": {"Type": "ordered list of text"},
+        "Frequency": {"Type": "options"},
+        "Deadline Date": {"Type": "datetime"},
+        "Photos or Videos": {"Type": "media"}
+    }
+}

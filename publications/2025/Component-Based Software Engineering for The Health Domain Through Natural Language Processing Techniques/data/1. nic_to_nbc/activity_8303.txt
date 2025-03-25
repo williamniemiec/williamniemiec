@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+  "Dental Checkup Scheduler": {
+    "parameters": {
+      "Dental Checkup Frequency": {
+        "type": "options",
+        "options": ["Every 6 months", "Every 12 months", "As needed"],
+        "description": "Select how often you want to schedule dental checkups"
+      },
+      "Dentist Information": {
+        "type": "text",
+        "description": "Enter the dentist's name, phone number, and address"
+      },
+      "Preferred Date and Time": {
+        "type": "datetime",
+        "description": "Select a preferred date and time for the dental checkup"
+      },
+      "Reminder": {
+        "type": "boolean",
+        "description": "Do you want to receive a reminder for the dental checkup?"
+      }
+    }
+  }
+}

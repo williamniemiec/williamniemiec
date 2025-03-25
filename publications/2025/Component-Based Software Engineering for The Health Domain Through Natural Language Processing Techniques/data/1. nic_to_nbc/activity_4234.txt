@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "pureed_food_introduction": {
+        "parameters": [
+            {"name": "food_type"},
+            {"name": "introduction_criteria"},
+            {"name": "frequency"},
+            {"name": "portion_size"}
+        ]
+    }
+}

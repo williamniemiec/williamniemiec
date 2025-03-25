@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Responsibility Assessment": {
+    "Area of Life": {"type": "options"},
+    "Current Level of Responsibility": {"type": "scale"},
+    "Desired Level of Responsibility": {"type": "scale"},
+    "Barriers to Responsibility": {"type": "text"},
+    "Goal Setting": {"type": "text"},
+    "Action Plan": {"type": "unordered list"},
+    "Frequency": {"type": "options"}
+  }
+}

@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Care Duration Guidance": {
+    "Duration": {"type": "numeric value"},
+    "Reasoning": {"type": "text or HTML"},
+    "Frequency": {"type": "options"},
+    "Tracking": {"type": "boolean (true/false) or a tracking mechanism"}
+  }
+}

@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+"Lung Sound Auscultation": {
+"Auscultation Triggers": {"Type": "options", "Options": ["after insertion", "after changing ties", "other"]},
+"Auscultation Technique": {"Type": ["text", "multimedia"]},
+"Lung Sound Log": {"Type": ["table", "chart"]},
+"Bilateral Assessment": {"Type": "boolean"}
+}
+}

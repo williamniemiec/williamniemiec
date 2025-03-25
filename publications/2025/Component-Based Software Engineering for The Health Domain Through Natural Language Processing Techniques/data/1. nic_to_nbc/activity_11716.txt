@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+{
+  "Calibration": {
+    "parameters": {
+      "name": {},
+      "device": {},
+      "reference_point": {},
+      "instructions": {},
+      "frequency": {}
+    }
+  }
+}
+
+Note: I removed `deadline_date` parameter as it's not applicable in this context.

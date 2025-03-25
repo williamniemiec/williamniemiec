@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Tracker",
+  "parameters": [
+    { 
+        "name": "Title", 
+        "type": "text"
+    },
+    { 
+        "name": "Metrics", 
+        "type": "list of text"
+    },
+    { 
+        "name": "Units", 
+        "type": "list of text"
+    },
+    { 
+        "name": "Frequency", 
+        "type": "options"
+    },
+    { 
+        "name": "Notes", 
+        "type": "text"
+    }
+  ]
+}

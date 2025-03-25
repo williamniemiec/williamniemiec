@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+    "Odor Management": {
+        "Parameters": {
+            "Odor Source": {
+                "Type": "options"
+            },
+            "Current Methods": {
+                "Type": "text"
+            },
+            "Tips and Recommendations": {
+                "Type": "list of text or HTML content"
+            },
+            "Frequency": {
+                "Type": "options"
+            }
+        }
+    }
+}
+
+
+Note that I removed the `Reminders` parameter since it's a boolean type and not applicable in this context. Let me know if you need any further adjustments!

@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Reminder": {
+    "Parameters": {
+      "Medication Name": {"Type": "text"},
+      "Dosage": {"Type": "text"},
+      "Frequency": {"Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Time": {"Type": "time"},
+      "Duration": {"Type": "number"},
+      "Notes": {"Type": "text"}
+    }
+  }
+}

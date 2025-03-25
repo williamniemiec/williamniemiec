@@ -1,0 +1,10 @@
+{
+  "name": "Family Support and Relationships",
+  "description": "Focuses on the roles, communication, and involvement of family members in supporting each other, particularly in child-rearing and partnerships.",
+  "type": "non-periodic",
+  "input": ["Family member roles", "Communication patterns", "Support needs", "Child involvement"],
+  "output": ["Family relationship assessment", "Support system effectiveness", "Role analysis"],
+  "preconditions": ["Family members are engaged in the support process"],
+  "postconditions": ["Family support and communication are improved or adjusted"],
+  "dependencies": ["Family counseling system", "Communication tracking tools", "Support network database"]
+}

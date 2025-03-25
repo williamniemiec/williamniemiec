@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Oral Check": {
+        "parameters": [
+            {"name": "Name", "type": "text"},
+            {"name": "Frequency", "type": "options", "options": ["afterEveryMeal", "atSpecificTimes", "daily"]},
+            {"name": "Instructions", "type": "text"},
+            {"name": "Deadline Date", "type": "datetime"},
+            {"name": "Photo Evidence", "type": "camera"}
+        ]
+    }
+}

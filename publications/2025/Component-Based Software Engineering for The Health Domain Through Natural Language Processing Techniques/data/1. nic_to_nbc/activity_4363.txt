@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Nutrition and Hydration Monitoring": {
+    "Fluid Intake": {"type": "list of fluid types and amounts"},
+    "Nutritional Intake": {"type": "list of nutritional types and amounts"},
+    "Monitoring Frequency": {"options": ["daily", "weekly", "biweekly"]},
+    "Threshold Values": {"type": "list of threshold values"},
+    "Intervention Criteria": {"type": "list of intervention criteria"},
+    "Notes": {"type": "text"}
+  }
+}
+
+
+Let me know if this is what you were expecting!

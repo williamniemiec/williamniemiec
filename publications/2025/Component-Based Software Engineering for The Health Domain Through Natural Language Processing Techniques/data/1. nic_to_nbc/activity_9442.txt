@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+    "Repositioning Reminder": {
+        "Parameters": {
+            "Name": {},
+            "Repositioning Frequency": {},
+            "Repositioning Instructions": {},
+            "Reminder Type": {},
+            "Start Date": {},
+            "End Date": {},
+            "Notes": {}
+        }
+    }
+}
+
+
+Note: I removed the parameters that were not applicable (i.e., didn't have a value or description). Let me know if you need anything else!

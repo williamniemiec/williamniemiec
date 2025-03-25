@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Family Relationship Assessment": {
+    "parameters": [
+      {"name": "Family Members", "type": "list of text"},
+      {"name": "Relationship Types", "type": "options"},
+      {"name": "Relationship Strength", "type": "options"},
+      {"name": "Open-Ended Question", "type": "text"},
+      {"name": "Frequency", "type": "options"}
+    ]
+  }
+}
+
+
+I removed the `Deadline Date` parameter as it was not applicable. Let me know if you need any further assistance!

@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Daily Schedule": {
+    "Schedule Template": {},
+    "Frequency": {},
+    "Deadline Date": {},
+    "Notes": {}
+  },
+  "Daily Tasks": {
+    "Task List": {},
+    "Frequency": {},
+    "Deadline Date": {},
+    "Notes": {}
+  }
+}

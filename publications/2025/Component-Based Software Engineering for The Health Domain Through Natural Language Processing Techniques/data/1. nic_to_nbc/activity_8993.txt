@@ -1,0 +1,32 @@
+Here is the output in JSON format:
+
+
+{
+  "Beverage Reminder": {
+    "Parameters": {
+      "Beverage Options": {
+        "Type": "options",
+        "Options": ["tea", "coffee", "hot chocolate", "milk", "broth", "etc."]
+      },
+      "Frequency": {
+        "Type": "options",
+        "Options": ["daily", "every other day", "3 times a week", "etc."]
+      },
+      "Timing": {
+        "Type": "options",
+        "Options": ["morning", "afternoon", "evening", "before bedtime", "etc."]
+      },
+      "Deadline Date": {
+        "Type": "datetime"
+      },
+      "Tips": {
+        "Type": "unordered list",
+        "Examples": [
+          "Drink at least 8 cups of fluid per day",
+          "Avoid caffeinated beverages that can dehydrate",
+          "Try adding honey or lemon to warm fluids for extra comfort"
+        ]
+      }
+    }
+  }
+}

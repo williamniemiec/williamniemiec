@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Social Support Assessment": {
+    "parameters": {
+      "Social Support Sources": {},
+      "Support Types": {},
+      "Frequency of Support": {},
+      "Quality of Support": {},
+      "Gaps in Support": {}
+    }
+  }
+}

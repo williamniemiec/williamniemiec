@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Skin Care Guide for Leg Bag Patients": {
+    "Parameters": {
+      "Name": {},
+      "Instructions": {},
+      "Skin Care Routine": {},
+      "Reminders": {},
+      "Skin Inspection": {}
+    }
+  }
+}

@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+
+{
+  "Lab Result Tracker": {
+    "BUN Level": {"type": "number", "unit": "mg/dL or other relevant unit"},
+    "Cr Level": {"type": "number", "unit": "mg/dL or other relevant unit"},
+    "Frequency": {"type": "options", "options": ["daily", "every 3 days", "weekly", "etc."]},
+    "Deadline Date": {"type": "datetime"},
+    "Notes": {"type": "text"}
+  }
+}

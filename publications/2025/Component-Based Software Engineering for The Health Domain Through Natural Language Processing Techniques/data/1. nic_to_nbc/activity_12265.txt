@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "IV Infusion Initiation": {
+    "iv_fluid_type": {"type": "options", "options": ["Saline", "Lactated Ringer's", "Other (specify)"]},
+    "flow_rate": {"type": "number"},
+    "medication": {"type": "text"},
+    "additional_instructions": {"type": "text"}
+  }
+}

@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+  "Checklist": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Items": {
+        "Type": "list of checklist items",
+        "Checklist Items": {
+          "Fit properly": {"Type": "text"},
+          "Fasten securely": {"Type": "text"},
+          "Nonskid soles": {"Type": "text"}
+        }
+      },
+      "Frequency": {"Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"Type": "datetime"}
+    }
+  }
+}
+
+
+Let me know if this is what you were expecting!

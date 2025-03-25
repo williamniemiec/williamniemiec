@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+  "GECS Application": {
+    "Application Status": ["Yes", "No"],
+    "GECS Type": ["Stockings", "Sleeves"],
+    "GECS Size": "numeric value",
+    "GECS Compression Level": "numeric value",
+    "Adherence Status": ["Adherent", "Non-adherent"],
+    "Reasons for Non-Adherence": ["Forgot", "Difficulty with application", "Other"]
+  },
+  "GECS Guidance": {
+    "Application Instructions": "text",
+    "Application Images": "list of images",
+    "Application Videos": "list of videos"
+  },
+  "GECS Reminders": {
+    "Reminder Frequency": ["Once daily", "Twice daily", "Three times daily", "Other"],
+    "Reminder Time": "datetime"
+  },
+  "GECS Monitoring": {
+    "Issues or Concerns": ["Skin irritation", "Discomfort", "Difficulty with application", "Other"],
+    "Severity": ["Mild", "Moderate", "Severe"]
+  }
+}

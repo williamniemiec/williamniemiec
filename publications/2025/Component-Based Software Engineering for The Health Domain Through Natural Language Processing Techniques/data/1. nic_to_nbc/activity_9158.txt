@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Skeletal Symptom Tracking": {
+    "Parameters": {
+      "Symptom": {"Type": "options"},
+      "Severity": {"Type": "options"},
+      "Frequency": {"Type": "options"},
+      "Duration": {"Type": "numeric"},
+      "Location": {"Type": "options"},
+      "Notes": {"Type": "text"}
+    }
+  }
+}

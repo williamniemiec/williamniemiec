@@ -1,0 +1,10 @@
+{
+  "name": "Glucose and Insulin Management",
+  "description": "Guides users in managing blood glucose levels, focusing on hypoglycemia and insulin administration. Provides information on the range of glucose levels, acting agents, and diabetes management.",
+  "type": "periodic",
+  "input": ["Glucose levels", "Insulin administration", "Hypoglycemia symptoms", "Diabetes management", "Blood glucose range"],
+  "output": ["Glucose level report", "Insulin dosage guidelines", "Hypoglycemia alert system"],
+  "preconditions": ["User is managing diabetes or at risk of hypoglycemia"],
+  "postconditions": ["Stable blood glucose levels and correct insulin usage"],
+  "dependencies": ["Diabetes management platform", "Glucose monitoring system", "Insulin administration tools"]
+}

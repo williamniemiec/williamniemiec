@@ -1,0 +1,10 @@
+{
+  "name": "Goal Setting and Progress Tracking",
+  "description": "Focuses on setting and tracking short-term and long-term goals, prioritizing objectives, and measuring progress against defined criteria.",
+  "type": "non-periodic",
+  "input": ["Goal statement", "Target objectives", "Priority level", "Progress criteria"],
+  "output": ["Progress report", "Goal completion status", "Updated objective list"],
+  "preconditions": ["User defines specific goals and targets"],
+  "postconditions": ["Goal progress is tracked and adjusted as necessary"],
+  "dependencies": ["Goal management system", "Progress tracking tools", "Performance evaluation database"]
+}

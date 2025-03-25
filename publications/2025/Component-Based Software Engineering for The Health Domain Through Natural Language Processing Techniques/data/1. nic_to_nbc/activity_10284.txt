@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Educational Program": {
+    "parameters": {
+      "program_name": "",
+      "program_description": "",
+      "target_risk_group": "",
+      "educational_content": "",
+      "learning_objectives": "",
+      "assessment_tools": "",
+      "resources": ""
+    }
+  }
+}

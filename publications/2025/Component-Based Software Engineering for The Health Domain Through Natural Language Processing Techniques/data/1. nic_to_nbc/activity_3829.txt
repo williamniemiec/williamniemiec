@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Informed Consent": {
+    "Parameters": {
+      "Consent Type": {"Type": "text"},
+      "Patient Capacity": {"Type": "options", "Options": ["yes", "no", "uncertain", "etc."]},
+      "Legal Designee": {"Type": "boolean"},
+      "Education Material": {"Type": "options", "Options": ["brochure", "video", "interactive tutorial", "etc."]},
+      "Assessment": {"Type": "boolean"},
+      "Consent Form": {"Type": "options", "Options": ["digital", "paper", "etc."]}
+    }
+  }
+}

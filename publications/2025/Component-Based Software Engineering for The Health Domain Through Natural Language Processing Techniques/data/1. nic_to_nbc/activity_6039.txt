@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+    "Attendance Policy": {
+        "parameters": [
+            {"name": "mandatory_attendance"},
+            {"name": "attendance_rules"}
+        ]
+    }
+}

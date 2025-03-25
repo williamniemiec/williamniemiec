@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Family History": {
+    "parameters": {
+      "Family Tree Template": {"type": "interactive template"},
+      "Oral History Prompt": {"type": "text"},
+      "Oral History Response": {"type": "text"},
+      "Family Member Information": {"type": "interactive form"},
+      "Storytelling": {"type": "text"},
+      "Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"type": "datetime"}
+    }
+  }
+}

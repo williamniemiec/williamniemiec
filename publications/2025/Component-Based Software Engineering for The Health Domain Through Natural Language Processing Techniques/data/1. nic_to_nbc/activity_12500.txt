@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Self-Care Plan": {
+    "parameters": {
+      "Self-Care Activities": {"type": "options"},
+      "Frequency": {"type": "options"},
+      "Duration": {"type": "text"},
+      "Reminders": {"type": "boolean"},
+      "Resources": {"type": "text"},
+      "Goal Setting": {"type": "text"}
+    }
+  }
+}
+
+
+Note: I removed the `Not Applicable` parameters since there were none in this specific input.

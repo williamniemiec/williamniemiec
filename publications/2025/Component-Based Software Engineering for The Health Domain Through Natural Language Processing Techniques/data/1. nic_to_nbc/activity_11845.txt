@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "no-code-element-name": "Role Clarification",
+  "parameters": {
+    "Healthcare Provider Role": {"type": "text"},
+    "Patient Role": {"type": "text"},
+    "Shared Responsibilities": {"type": "list of text"},
+    "Expectations": {"type": "list of text"},
+    "Responsibility Matrix": {"type": "table"}
+  }
+}

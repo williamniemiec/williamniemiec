@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Support Network": {
+    "parameters": {
+      "Support Persons": {"type": "list of options"},
+      "Contact Method": {"type": "options"},
+      "Instructions": {"type": "text"},
+      "Consent": {"type": "boolean"}
+    }
+  }
+}

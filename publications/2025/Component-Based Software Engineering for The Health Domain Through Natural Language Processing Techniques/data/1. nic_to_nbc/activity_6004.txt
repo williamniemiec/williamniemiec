@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Interaction Insights": {
+    "Parameters": {
+      "Interaction Type": {"Type": "options"},
+      "Content": {"Type": ["text", "multimedia"]},
+      "Tips and Resources": {"Type": "list of resources"},
+      "Developmental Stage": {"Type": "options"},
+      "FAQs": {"Type": "list of FAQs"}
+    }
+  }
+}

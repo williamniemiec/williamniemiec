@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Health Belief Clarification": {
+    "Parameters": {
+      "Health Belief Statement": {"Type": "text"},
+      "Value Rating": {"Type": "rating scale (e.g., 1-5)"},
+      "Reasoning": {"Type": "text"},
+      "Goal Alignment": {"Type": "options"},
+      "Patient Input": {"Type": "text or rating scale (e.g., 1-5)"}
+    }
+  }
+}

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Assisted Activity": {
+    "Name": {"type": "text"},
+    "Description": {"type": "text"},
+    "Activity Type": {"type": "options", "options": ["Sit on side of bed", "Stand up", "Walk", "Other (specify)"]},
+    "Purpose": {"type": "options", "options": ["Facilitate postural adjustments", "Improve balance", "Enhance mobility", "Other (specify)"]},
+    "Frequency": {"type": "options", "options": ["Daily", "Only once", "Every x hours", "Every x days"]},
+    "Duration": {"type": "text"},
+    "Assistance Level": {"type": "options", "options": ["Full assistance", "Partial assistance", "Minimal assistance", "No assistance"]}
+  }
+}

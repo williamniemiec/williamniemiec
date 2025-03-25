@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Medication Management Guide": {
+        "title of the guide": {"type": "text", "required": true},
+        "Medications": {"type": "unordered list", "required": true, "options": ["Prescription medications", "Over-the-counter medications", "Vitamins and supplements", "Other"]},
+        "Dosage Instructions": {"type": "book-page", "required": true, "book-page": "list of HTML texts"},
+        "Frequency": {"type": "options", "required": true, "options": ["Daily", "Every other day", "3 times a week", "Weekly", "As needed"]},
+        "Timing": {"type": "options", "required": false, "options": ["Morning", "Afternoon", "Evening", "Before meals", "After meals"]},
+        "Refills": {"type": "book-page", "required": true, "book-page": "list of HTML texts"},
+        "Side Effects": {"type": "unordered list", "required": true, "options": ["Dizziness", "Nausea", "Headache", "Fatigue", "Other"]}
+    }
+}

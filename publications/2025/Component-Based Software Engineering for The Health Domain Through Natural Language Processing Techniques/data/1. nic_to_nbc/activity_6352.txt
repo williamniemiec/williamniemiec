@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Emotional Support": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Resource Type": {"Type": "options"},
+      "Contact Information": {"Type": "text or multimedia content"},
+      "Availability": {"Type": "text or options"},
+      "Language": {"Type": "options"},
+      "Additional Resources": {"Type": "list of text or multimedia content"}
+    }
+  }
+}

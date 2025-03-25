@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Home Safety Assessment": {
+    "parameters": {
+      "name": "",
+      "questions": [],
+      "answer_type": "",
+      "frequency": ""
+    }
+  }
+}
+
+
+I removed the `deadline_date` parameter as it was marked as optional. Let me know if you need any further assistance!

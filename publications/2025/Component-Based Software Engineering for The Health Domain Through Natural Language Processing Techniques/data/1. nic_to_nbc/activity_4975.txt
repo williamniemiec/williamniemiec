@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+  "Fluid Restriction Guide": {
+    "parameters": {
+      "name": {"type": "text"},
+      "description": {"type": "text"},
+      "fluid_restriction_rules": {"type": "list of objects", "properties": {
+        "time": {"type": "text"},
+        "reason": {"type": "text"}
+      }}
+    }
+  },
+  "Meal Planning Reminder": {
+    "parameters": {
+      "name": {"type": "text"},
+      "message": {"type": "text"},
+      "trigger": {"type": "text or datetime"}
+    }
+  }
+}

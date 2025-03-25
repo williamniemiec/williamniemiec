@@ -1,0 +1,37 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Profile": {
+    "Parameters": {
+      "Medication name": "text",
+      "Dosage": "text",
+      "Frequency": "options",
+      "Start date": "datetime",
+      "End date": "datetime"
+    }
+  },
+  "Medication Reminder": {
+    "Parameters": {
+      "Medication name": "text",
+      "Dosage": "text",
+      "Frequency": "options",
+      "Reminder type": "options"
+    }
+  },
+  "Medication Adherence Tracker": {
+    "Parameters": {
+      "Medication name": "text",
+      "Dosage": "text",
+      "Adherence status": "options",
+      "Date": "datetime"
+    }
+  },
+  "Medication Education": {
+    "Parameters": {
+      "Medication name": "text",
+      "Educational content": "text or multimedia content",
+      "Format": "options"
+    }
+  }
+}

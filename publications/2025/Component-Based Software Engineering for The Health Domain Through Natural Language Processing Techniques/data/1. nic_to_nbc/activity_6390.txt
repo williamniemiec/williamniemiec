@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+{
+    "name": "Language Adaptation",
+    "parameters": [
+        { 
+            "name": "Patient Language", 
+            "type": "text or language code"
+        },
+        { 
+            "name": "App Content", 
+            "type": "text or HTML"
+        },
+        { 
+            "name": "Translation", 
+            "type": "text or HTML"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Mattress Guide": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Description": {"Type": "text"},
+      "Image": {"Type": "image"},
+      "Instructions": {"Type": "text or video"},
+      "Reminders": {"Type": "options"},
+      "Deadline Date": {"Type": "datetime"}
+    }
+  }
+}

@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+  "Goal Prioritization": {
+    "parameters": {
+      "Goal List": {
+        "type": "list of text"
+      },
+      "Weighting Scale": {
+        "type": "options",
+        "options": ["numerical scale (e.g. 1-5)", "categorical scale (e.g. high, medium, low)", "descriptive scale (e.g. very important, somewhat important, not important)"]
+      },
+      "Goal Weighting": {
+        "type": "list of text or numerical values"
+      },
+      "Prioritization Criteria": {
+        "type": "list of text",
+        "examples": ["Urgency", "Importance", "Feasibility", "Impact on daily life"]
+      },
+      "Goal Ranking": {
+        "type": "list of text"
+      }
+    }
+  }
+}

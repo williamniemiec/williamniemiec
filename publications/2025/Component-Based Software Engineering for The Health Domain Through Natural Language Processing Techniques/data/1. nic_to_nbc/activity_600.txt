@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+    "Oral Health Guide": {
+        "Content": {"Type": ["text", "images", "videos", "interactive simulations"]},
+        "Tooth Development": {"Type": "list of tooth development milestones"},
+        "Oral Hygiene Practices": {"Type": "list of oral hygiene practices"},
+        "Common Oral Health Issues": {"Type": "list of common oral health issues"},
+        "Preventive Care": {"Type": "list of preventive care measures"},
+        "FAQs": {"Type": "list of FAQs"}
+    },
+    "Guide": {
+        "Name": {},
+        "Pages": {"Type": ["HTML texts", "multimedia"]}
+    }
+}

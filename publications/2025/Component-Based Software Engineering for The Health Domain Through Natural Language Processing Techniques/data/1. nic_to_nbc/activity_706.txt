@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+  "Self-Care Assessment": {
+    "assessment_questions": {"type": "list of text"},
+    "response_options": {"type": "list of text"},
+    "frequency": {"type": "options"},
+    "deadline_date": {"type": "datetime", "optional": true},
+    "scoring_system": {"type": "text", "optional": true}
+  },
+  "Daily Living Skills Checklist": {
+    "skill_list": {"type": "list of text"},
+    "frequency": {"type": "options"},
+    "deadline_date": {"type": "datetime", "optional": true}
+  },
+  "Self-Care Journal": {
+    "journal_prompts": {"type": "list of text"},
+    "frequency": {"type": "options"},
+    "deadline_date": {"type": "datetime", "optional": true}
+  }
+}

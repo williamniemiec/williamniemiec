@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Activity Restriction Guide": {
+    "Parameters": {
+      "Title": {"Type": "text"},
+      "Pages": {"Type": "book-page (list of HTML texts)"},
+      "Restricted Activities": {"Type": "list (text)"},
+      "Allowed Activities": {"Type": "list (text)"},
+      "Notes": {"Type": "text"}
+    }
+  }
+}

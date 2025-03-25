@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+    "Oxygen Transportation Education": {
+        "Parameters": {
+            "Name": {"Type": "text"},
+            "Content": {"Type": "text or multimedia (e.g., images, videos)"},
+            "Questions": {"Type": "list of questions with answer options (e.g., multiple choice, true/false)"}
+        }
+    },
+    "Oxygen Transportation Checklist": {
+        "Parameters": {
+            "Name": {"Type": "text"},
+            "Checklist Items": {"Type": "list of items with checkboxes"},
+            "Frequency": {"Type": "options (daily, onlyOnce, everyHours, everyDays)"}
+        }
+    }
+}

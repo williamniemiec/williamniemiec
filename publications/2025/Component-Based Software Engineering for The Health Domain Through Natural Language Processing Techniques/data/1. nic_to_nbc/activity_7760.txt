@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Alternative Response Explorer": {
+    "Parameters": {
+      "Situation Description": {"Type": "text"},
+      "Current Response": {"Type": "text"},
+      "Alternative Responses": {"Type": "list"},
+      "Pros and Cons": {"Type": "table"},
+      "Discussion": {"Type": "text or video conferencing"},
+      "Reflection": {"Type": "text"}
+    }
+  }
+}

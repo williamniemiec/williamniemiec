@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "no-code-element-name": "Plasma Expander Administration Guide",
+  "parameters": {
+    "Hypovolemia Status": {"type": "boolean"},
+    "Plasma Expander Type": {"type": "options", "options": ["list of available plasma expanders"]},
+    "Administration Rate": {"type": "text"},
+    "Monitoring Parameters": {"type": "list", "items": ["blood pressure", "heart rate", "etc."]}
+  }
+}
+
+
+Let me know if this is what you were expecting!

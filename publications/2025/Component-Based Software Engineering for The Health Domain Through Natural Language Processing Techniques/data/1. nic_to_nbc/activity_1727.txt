@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Sexual Expression Exploration": {
+    "Current Sexual Expression": {"Description": "Describe current sexual expression to identify areas for exploration", "Required": true, "Type": "text"},
+    "Alternative Forms": {"Description": "Interactive content to explore alternative forms of sexual expression", "Required": true, "Type": "quiz"},
+    "Reassurance": {"Description": "Reassuring message about exploring alternative forms of sexual expression", "Required": true, "Type": "text"},
+    "Permission": {"Description": "Grant permission to experiment with alternative forms of sexual expression", "Required": true, "Type": "boolean"},
+    "Frequency": {"Description": "Specify how often to explore alternative forms of sexual expression", "Required": true, "Type": "options", "Options": [{"value": "daily", "label": "Daily"}, {"value": "weekly", "label": "Weekly"}, {"value": "monthly", "label": "Monthly"}]}
+  }
+}

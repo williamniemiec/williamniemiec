@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+    "Catheter Selection Tool": {
+        "Patient Characteristics": {"Type": "form"},
+        "Catheter Options": {"Type": "list of options"},
+        "Selection Criteria": {"Type": "text"},
+        "Recommendation": {"Type": "text"},
+        "Justification": {"Type": "text"}
+    },
+    "Catheter Selection Algorithm": {
+        "Decision Tree": {"Type": "decision tree"},
+        "Catheter Options": {"Type": "list of options"},
+        "Recommendation": {"Type": "text"},
+        "Justification": {"Type": "text"}
+    }
+}

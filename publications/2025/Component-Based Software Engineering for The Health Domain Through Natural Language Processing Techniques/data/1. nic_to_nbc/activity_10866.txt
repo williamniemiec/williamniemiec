@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Schedule": {
+    "parameters": {
+      "Behavior/Action": {"type": "text"},
+      "Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Time": {"type": "time"},
+      "Duration": {"type": "time"},
+      "Deadline Date": {"type": "datetime"}
+    }
+  }
+}

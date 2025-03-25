@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Protective Device Recommendation": {
+    "Name": {"type": "text"},
+    "Description": {"type": "text"},
+    "Device Types": {"type": "options", "options": ["restraints", "side rails", "locked doors", "fences", "gates", "..."]},
+    "Harmful Situation": {"type": "options", "options": ["falls", "wandering", "access to hazardous areas", "..."]},
+    "Location": {"type": "options", "options": ["home", "hospital", "..."]},
+    "Caregiver Involvement": {"type": "boolean"},
+    "Resources": {"type": "text or link"}
+  }
+}
+
+
+Note that I removed the non-applicable parameters and only kept the `{{ NO-CODE ELEMENT NAME }}` and `{{ PARAMETER ESPECIFICATIONS }}`.

@@ -1,0 +1,35 @@
+Here is the output in JSON format:
+
+
+{
+  "Pain Management Plan": {
+    "parameters": {
+      "name": {},
+      "medications": {},
+      "nonpharmacological_measures": {},
+      "pain_assessment": {},
+      "frequency": {},
+      "reminders": {}
+    }
+  },
+  "Medication Reminder": {
+    "parameters": {
+      "name": {},
+      "medication": {},
+      "dosage": {},
+      "frequency": {},
+      "deadline_date": {}
+    }
+  },
+  "Nonpharmacological Measure Tracker": {
+    "parameters": {
+      "name": {},
+      "measure": {},
+      "frequency": {},
+      "deadline_date": {}
+    }
+  }
+}
+
+
+Let me know if this meets your requirements!

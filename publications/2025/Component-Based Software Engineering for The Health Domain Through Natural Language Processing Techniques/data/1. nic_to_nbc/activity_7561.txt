@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Reward": {
+    "Title": {"Type": "text", "Required": true},
+    "Message": {"Type": "text", "Required": true},
+    "Badge": {"Type": "image file", "Required": false},
+    "Criteria": {"Type": "text", "Required": true}
+  }
+}

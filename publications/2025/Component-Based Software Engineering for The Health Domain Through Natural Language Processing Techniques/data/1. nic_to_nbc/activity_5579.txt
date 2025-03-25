@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Surgical History and Background": {
+    "parameters": [
+      {"Name": {"type": "text"}},
+      {"Instructions": {"type": "text"}},
+      {"Previous Surgical Experiences": {"type": "object", "properties": {"number of surgeries": {"type": "number"}, "types of surgeries": {"type": "text"}, "dates of surgeries": {"type": "date"}}},
+      {"Background and Culture": {"type": "object", "properties": {"ethnicity": {"type": "text"}, "language": {"type": "text"}, "cultural beliefs": {"type": "text"}}},
+      {"Level of Knowledge": {"type": "object", "properties": {"understanding of surgical procedures": {"type": "text"}, "understanding of surgical risks": {"type": "text"}, "understanding of post-operative care": {"type": "text"}}},
+      {"Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]}},
+      {"Deadline Date": {"type": "datetime"}}
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+
+
+
+{
+  "Emergency Alert": {
+    "Alert Message": {"type": "text"},
+    "Emergency Action": {"type": "text"},
+    "Contact Information": {"type": "text"},
+    "Frequency": {"options": ["immediate", "daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"type": "datetime"}
+  }
+}

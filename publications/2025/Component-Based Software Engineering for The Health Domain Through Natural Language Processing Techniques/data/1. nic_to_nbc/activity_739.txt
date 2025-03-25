@@ -1,0 +1,49 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "music provision",
+  "parameters": [
+    { 
+      "name": "title", 
+      "description": "title of the music provision guide", 
+      "required": true, 
+      "type": "text"
+    },
+    { 
+      "name": "music_type", 
+      "description": "type of music preferred by the patient", 
+      "required": true, 
+      "type": "options",
+      "options": [
+        { value: "classical", label: "Classical" },
+        { value: "pop", label: "Pop" },
+        { value: "rock", label: "Rock" },
+        { value: "jazz", label: "Jazz" },
+        { value: "other", label: "Other (please specify)" }
+      ]
+    },
+    { 
+      "name": "music_source", 
+      "description": "source of the music", 
+      "required": true, 
+      "type": "options",
+      "options": [
+        { value: "streamingService", label: "Streaming service" },
+        { value: "cd", label: "CD" },
+        { value: "mp3", label: "MP3" },
+        { value: "other", label: "Other (please specify)" }
+      ]
+    },
+    { 
+      "name": "volume_control", 
+      "description": "volume control options", 
+      "required": true, 
+      "type": "options",
+      "options": [
+        { value: "adjustable", label: "Adjustable" },
+        { value: "fixed", label: "Fixed" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+{
+  "Specialty Item Order": {
+    "Item Type": {"Type": "options"},
+    "Item Description": {"Type": "text"},
+    "Quantity": {"Type": "number"},
+    "Vendor": {"Type": "text"},
+    "Order Date": {"Type": "date"},
+    "Notes": {"Type": "text"}
+  }
+}

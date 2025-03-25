@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Symptom Management Review": {
+    "parameters": [
+      {"name": "name", "type": "text", "required": true},
+      {"name": "symptom", "type": "text", "required": true},
+      {"name": "management_methods", "type": "ordered list", "required": true,
+        "items": [
+          {"question": "", "answer_type": "options", "required": true, "options": ["text", "number", "select", "datetime"]}
+        ]
+      },
+      {"name": "additional_comments", "type": "text", "required": false}
+    ]
+  }
+}

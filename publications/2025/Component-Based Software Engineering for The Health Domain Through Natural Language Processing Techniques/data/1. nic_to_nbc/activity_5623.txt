@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Nasogastric Replacement": {
+    "Parameters": {
+      "Replacement Type": {},
+      "Output Measurement": {},
+      "Replacement Amount": {},
+      "Frequency": {}
+    }
+  }
+}

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Resolution Support": {
+    "parameters": [
+      {"Issue": {}},
+      {"Resolution Plan": {}},
+      {"Resources": {}},
+      {"Progress Tracking": {}},
+      {"Frequency": {}}
+    ]
+  }
+}

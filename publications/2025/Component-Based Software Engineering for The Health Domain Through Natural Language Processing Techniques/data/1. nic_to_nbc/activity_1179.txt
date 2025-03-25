@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Obstetrical History": {
+    "parameters": {
+      "pregnancy_history": "",
+      "risk_factors": "",
+      "family_history": "",
+      "notes": ""
+    }
+  }
+}

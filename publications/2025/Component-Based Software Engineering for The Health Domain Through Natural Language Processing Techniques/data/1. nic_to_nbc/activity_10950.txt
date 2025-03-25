@@ -1,0 +1,12 @@
+
+
+
+{
+"Dietary Instruction": {
+    "Dietary Modification": {"Type": "text"},
+    "Instructions": {"Type": "text or HTML content"},
+    "Food Lists": {"Type": "list of text or HTML content"},
+    "Meal Planning": {"Type": "text or HTML content"},
+    "Tracking": {"Type": "boolean or tracking log"}
+}
+}

@@ -1,0 +1,29 @@
+Here is the output in JSON format:
+
+
+{
+  "Referral": {
+    "Treatment Type": {
+      "type": "options",
+      "options": ["surgical", "medical", "etc."]
+    },
+    "Specialist": {
+      "type": "options",
+      "options": ["surgeon", "oncologist", "etc."]
+    },
+    "Location": {
+      "type": "options",
+      "options": ["nearby", "online", "etc."]
+    },
+    "Provider List": {
+      "type": "list",
+      "list items": ["provider name", "specialty", "location", "contact information", "etc."]
+    },
+    "Referral Details": {
+      "type": "text"
+    },
+    "Appointment Scheduling": {
+      "type": "datetime"
+    }
+  }
+}

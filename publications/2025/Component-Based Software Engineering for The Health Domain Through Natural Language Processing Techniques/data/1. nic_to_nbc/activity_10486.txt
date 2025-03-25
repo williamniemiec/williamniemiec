@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "Wound Care": {
+    "parameters": {
+      "name": {"description": "title of the wound care instructions", "required": true, "type": "text"},
+      "instructions": {"description": "detailed instructions for caring for the wound", "required": true, "type": "text"},
+      "dressing_type": {"description": "type of dressing to be used", "required": true, "type": "options", "options": [
+        {"value": "gauze", "label": "Gauze"},
+        {"value": "bandage", "label": "Bandage"},
+        {"value": "other", "label": "Other (please specify)"}
+      ]},
+      "frequency": {"description": "how often the wound should be cared for", "required": true, "type": "options", "options": [
+        {"value": "daily", "label": "Daily"},
+        {"value": "everyHours", "label": "Every x hours"},
+        {"value": "everyDays", "label": "Every x days"}
+      ]}
+    }
+  }
+}
+
+
+I removed the not applicable parameters (deadline_date and photo) as per your request. Let me know if you need any further modifications!

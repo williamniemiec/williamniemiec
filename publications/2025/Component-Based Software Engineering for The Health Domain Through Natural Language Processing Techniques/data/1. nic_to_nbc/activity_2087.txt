@@ -1,0 +1,34 @@
+Here is the output in JSON format:
+
+
+{
+  "Procedure": {
+    "Parameters": {
+      "Steps": {
+        "Type": "list of text",
+        "Values": [
+          "Insert suppository gently through anus",
+          "Guide suppository past internal anal sphincter",
+          "Position suppository against rectal wall"
+        ]
+      },
+      "Image": {
+        "Type": "list of images"
+      },
+      "Description": {
+        "Type": "list of text"
+      },
+      "Frequency": {
+        "Options": [
+          "daily",
+          "onlyOnce",
+          "everyHours",
+          "everyDays"
+        ]
+      },
+      "Deadline Date": {
+        "Type": "datetime"
+      }
+    }
+  }
+}

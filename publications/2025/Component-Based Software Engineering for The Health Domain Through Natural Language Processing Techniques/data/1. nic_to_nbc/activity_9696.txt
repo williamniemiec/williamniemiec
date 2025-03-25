@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Daily Log": {
+    "parameters": {
+      "name": "",
+      "description": "",
+      "fields": ["date", "time", "continence status", "notes"],
+      "frequency": "",
+      "deadline_date": ""
+    }
+  }
+}

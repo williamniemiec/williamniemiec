@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Fluid Reminder": {
+    "Name": "",
+    "Frequency": "",
+    "Fluid Type": "",
+    "Volume": "",
+    "Reminder Message": ""
+  }
+}

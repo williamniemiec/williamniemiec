@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Food Preference Assessment": {
+        "Parameters": {
+            "Food Preferences": {},
+            "Cultural Preferences": {},
+            "Religious Preferences": {},
+            "Special Requests": {}
+        }
+    }
+}

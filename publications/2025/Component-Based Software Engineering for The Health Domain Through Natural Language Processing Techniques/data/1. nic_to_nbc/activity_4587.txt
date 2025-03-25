@@ -1,0 +1,35 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Guided Imagery Script",
+  "parameters": [
+    {
+      "name": "Script",
+      "type": "text"
+    },
+    {
+      "name": "Directional Phrases",
+      "type": "options",
+      "options": [
+        { value: "perhaps", label: "Perhaps" },
+        { value: "if you wish", label: "If you wish" },
+        { value: "you might like", label: "You might like" }
+      ]
+    },
+    {
+      "name": "Imagery Theme",
+      "type": "text"
+    },
+    {
+      "name": "Frequency",
+      "type": "options",
+      "options": [
+        { value: "daily", label: "Daily" },
+        { value: "onlyOnce", label: "Only once" },
+        { value: "everyHours", label: "Every x hours" },
+        { value: "everyDays", label: "Every x days" }
+      ]
+    }
+  ]
+}

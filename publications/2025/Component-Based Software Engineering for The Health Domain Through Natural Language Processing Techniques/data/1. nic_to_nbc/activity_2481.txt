@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Q&A Forum": {
+    "Parameters": {
+      "Question Field": {
+        "Type": "text"
+      },
+      "Submit Button": {
+        "Type": "button"
+      },
+      "Response Field": {
+        "Type": "text"
+      },
+      "Response Options": {
+        "Type": "list of text values"
+      }
+    }
+  }
+}

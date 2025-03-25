@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+  "Secure Connection Guide": {
+    "parameters": {
+      "steps": {
+        "description": "Steps to anchor connections and tubing securely",
+        "required": true,
+        "type": "ordered list",
+        "items": [
+          "Secure connections to the catheter",
+          "Anchor tubing to the patient's body",
+          "Use securement devices (e.g. tape, straps)",
+          "Check for secure connections and tubing regularly"
+        ]
+      }
+    }
+  }
+}

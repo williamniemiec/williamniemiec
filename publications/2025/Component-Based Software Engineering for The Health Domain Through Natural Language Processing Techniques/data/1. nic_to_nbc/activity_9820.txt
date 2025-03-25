@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Guided Reiki Symbol Visualization": {
+    "symbol_library": {"type": "list of symbol names or images"},
+    "guidance_text": {"type": "text or multimedia (e.g., video, audio)"},
+    "intuition_prompt": {"type": "text or multimedia (e.g., video, audio)"},
+    "visualization_timer": {"type": "time interval (e.g., 30 seconds, 1 minute)"},
+    "drawing_tool": {"type": "digital drawing tool (e.g., canvas, sketchpad)"}
+  }
+}
+
+
+Note that I removed the not applicable parameters (`background_image`, `soothing_music`, and `journaling_prompt`) as per your request.

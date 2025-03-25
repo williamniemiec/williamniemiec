@@ -1,0 +1,14 @@
+Here is the output in JSON format, removing anything except `PARAMETER ESPECIFICATIONS` and `NO-CODE ELEMENT NAME`, and removing not applicable parameters:
+
+
+{
+    "Weight-Gestational Age Comparison": {
+        "parameters": [
+            {"name": "Name", "type": "text"},
+            {"name": "Newborn Weight", "type": "number", "unit_options": ["grams", "pounds"]},
+            {"name": "Estimated Gestational Age", "type": "number", "unit_options": ["weeks", "days"]},
+            {"name": "Comparison Result", "type": "options", "options": ["Appropriate for gestational age", "Small for gestational age", "Large for gestational age"]},
+            {"name": "Notes", "type": "text"}
+        ]
+    }
+}

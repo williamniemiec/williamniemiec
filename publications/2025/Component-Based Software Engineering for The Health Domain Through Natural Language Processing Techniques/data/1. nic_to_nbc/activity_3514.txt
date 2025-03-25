@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Risk Factor Assessment": {
+    "Parameters": {
+      "Risk Factors": ["Airway obstruction", "Depressed ventilation", "CNS depression", "Neurological disease", "Chronic lung disease", "Musculoskeletal disease", "Chest trauma", "Infection", "ARDS", "Cardiac failure", "Acute opioid ingestion", "Use of respiratory depressant drugs"],
+      "Frequency": ["daily", "onlyOnce", "everyHours", "everyDays"],
+      "Deadline Date": "datetime"
+    }
+  },
+  "Question": {
+    "Parameters": {
+      "Question 1": {"Answer type": "Yes/No"},
+      "Question 2": {"Answer type": "Yes/No"},
+      "Question 3": {"Answer type": "Yes/No"},
+      "Frequency": ["daily", "onlyOnce", "everyHours", "everyDays"],
+      "Deadline Date": "datetime"
+    }
+  }
+}

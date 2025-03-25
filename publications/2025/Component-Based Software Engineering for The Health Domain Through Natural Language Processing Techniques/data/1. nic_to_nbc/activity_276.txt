@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Cultural Profile",
+    "parameters": [
+        {
+            "name": "Spiritual Background",
+            "type": "text"
+        },
+        {
+            "name": "Cultural Background",
+            "type": "text"
+        },
+        {
+            "name": "Important Dates",
+            "type": "list of dates"
+        },
+        {
+            "name": "Personal Values",
+            "type": "text"
+        }
+    ]
+}

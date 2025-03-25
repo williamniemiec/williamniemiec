@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Activity Goal Setting": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Capability assessment": {"Type": "list of text", "Example": ["Physical: able to walk 10 minutes", "Psychological: anxious in crowds", "Social: lives alone"]},
+      "Activity options": {"Type": "list of text", "Example": ["Walking", "Swimming", "Yoga", "Gardening", "Reading"]},
+      "Goal setting prompts": {"Type": "list of text", "Example": ["What do you want to achieve with this activity?", "How often do you want to do this activity?", "What steps can you take to make this activity a habit?"]},
+      "Goal type": {"Type": "options", "Options": ["Short-term", "Long-term", "Specific", "Measurable", "Achievable", "Relevant", "Time-bound"]},
+      "Frequency": {"Type": "options", "Options": ["Daily", "Weekly", "Monthly"]},
+      "Deadline date": {"Type": "datetime"}
+    }
+  }
+}

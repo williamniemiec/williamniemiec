@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Allergen Identification and Removal Guide": {
+    "Parameters": {
+      "Name": {"type": "text", "required": true},
+      "Allergen type": {"type": "options", "required": true},
+      "Identification instructions": {"type": "text or html", "required": true},
+      "Removal instructions": {"type": "text or html", "required": true},
+      "Video tutorials": {"type": "list of video URLs", "optional": true},
+      "Images or diagrams": {"type": "list of image URLs", "optional": true},
+      "Common allergen sources": {"type": "list of common sources", "optional": true},
+      "Reminders": {"type": "list of reminder settings", "optional": true}
+    }
+  }
+}

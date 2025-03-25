@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Lab Tracker": {
+    "Parameters": {
+      "Lab Test": {"Type": "text"},
+      "Units": {"Type": "text"},
+      "Target Range": {"Type": "range (min, max)"},
+      "Results": {"Type": "list of lab test results (date, value, units)"},
+      "Trend Analysis": {"Type": "text"},
+      "Alerts": {"Type": "list of alerts (condition, message, recipient)"}
+    }
+  }
+}

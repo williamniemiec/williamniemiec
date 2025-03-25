@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Sexual Function and Contraception Education": {
+    "Therapy Implications": {},
+    "Contraception Guidance": {},
+    "Fertility Preservation": {},
+    "Resources": {}
+  }
+}

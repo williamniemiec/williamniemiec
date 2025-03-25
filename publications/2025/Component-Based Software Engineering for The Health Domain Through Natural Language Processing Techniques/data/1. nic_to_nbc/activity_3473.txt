@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Guilt Feelings Discussion": {
+    "Prompt": {"Description": "Open-ended prompt to explore guilt", "Required": true, "Type": "text"},
+    "Reflection": {"Description": "Reflective response to acknowledge and validate patient's guilt", "Required": true, "Type": "text"},
+    "Non-Judgmental": {"Description": "Flag to ensure non-judgmental language is used in the response", "Required": true, "Type": "boolean"},
+    "Follow-up Questions": {"Description": "Follow-up questions to delve deeper into patient's guilt feelings", "Required": true, "Type": "unordered list", "Items": [{"question": "Can you tell me more about that?", "type": "text"}, {"question": "How does that make you feel?", "type": "text"}]},
+    "Frequency": {"Description": "Specify how often the patient should revisit the guilt feelings discussion", "Required": true, "Type": "options", "Options": [{"value": "daily", "label": "Daily"}, {"value": "weekly", "label": "Weekly"}, {"value": "monthly", "label": "Monthly"}]}
+  }
+}

@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Preparation": {
+    "Protocol": {},
+    "Agent": {},
+    "Dosage": {},
+    "Preparation Steps": {},
+    "Verification": {}
+  }
+}
+
+
+Note: I removed the "Next Step" parameter as it seems not applicable to the no-code element "Preparation". Let me know if you need any further assistance!

@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+    "Social Network Tracker": {
+        "Parameters": {
+            "Social Connections": {"Type": "unordered list"},
+            "Frequency of Contact": {"Options": ["daily", "weekly", "monthly"]},
+            "Support System": {"Type": "unordered list"},
+            "Check-in Reminders": {"Type": "datetime"},
+            "Goal": {"Type": "text"}
+        }
+    },
+    "Journal": {
+        "Parameters": {
+            "Entry Type": {"Options": ["social connection", "support system", "feelings"]},
+            "Entry Content": {"Type": "text or media"},
+            "Frequency": {"Options": ["daily", "weekly", "monthly"]},
+            "Reminders": {"Type": "datetime"}
+        }
+    }
+}

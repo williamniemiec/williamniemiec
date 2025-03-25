@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+  "Boundary Setting": {
+    "Session Duration": {
+      "Type": "time interval"
+    },
+    "Activity Limits": {
+      "Type": "unordered list",
+      "Activity Limit": {
+        "Type": "text"
+      }
+    },
+    "Behavioral Boundaries": {
+      "Type": "unordered list",
+      "Behavioral Boundary": {
+        "Type": "text"
+      }
+    },
+    "Consequences": {
+      "Type": "text"
+    },
+    "Reinforcement": {
+      "Type": "text"
+    }
+  }
+}

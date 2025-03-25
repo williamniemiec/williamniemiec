@@ -1,0 +1,32 @@
+Here is the output in JSON format:
+
+
+{
+  "Music Timer": {
+    "Parameters": {
+      "Music Duration": {
+        "Description": "Set the maximum duration for music playback",
+        "Required": true,
+        "Type": "number",
+        "Unit": "minutes"
+      },
+      "Frequency": {
+        "Description": "Specify how often to set the music timer",
+        "Required": true,
+        "Type": "options",
+        "Options": [
+          { "Value": "daily", "Label": "Daily" },
+          { "Value": "onlyOnce", "Label": "Only once" },
+          { "Value": "everyHours", "Label": "Every x hours" },
+          { "Value": "everyDays", "Label": "Every x days" }
+        ]
+      },
+      "Reminder": {
+        "Description": "Set a reminder to turn off the music",
+        "Required": true,
+        "Type": "boolean",
+        "Default": true
+      }
+    }
+  }
+}

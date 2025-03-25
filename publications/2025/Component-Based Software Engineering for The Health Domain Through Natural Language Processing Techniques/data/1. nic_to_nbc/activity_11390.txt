@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+  "Adjust Bed": {
+    "Instruction": {
+      "Description": " Brief instruction on how to adjust the bed",
+      "Required": true,
+      "Type": "text"
+    },
+    "Frequency": {
+      "Description": "Specify how often the bed should be adjusted",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "daily", "label": "Daily" },
+        { "value": "onlyOnce", "label": "Only once" },
+        { "value": "everyHours", "label": "Every x hours" },
+        { "value": "everyDays", "label": "Every x days" }
+      ]
+    }
+  }
+}
+
+
+I removed the `Deadline Date` parameter since it's not applicable (its required property is set to false). Let me know if you have any further questions!

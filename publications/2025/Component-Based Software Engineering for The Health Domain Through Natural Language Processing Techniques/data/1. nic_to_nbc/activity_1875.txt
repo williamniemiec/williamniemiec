@@ -1,0 +1,17 @@
+
+
+
+{
+    "name": "Fatigue Management Planning",
+    "parameters": [
+        { 
+            "name": "Rest Period Planning"
+        },
+        { 
+            "name": "Activity Scheduling"
+        },
+        { 
+            "name": "Daily Demand Limitation"
+        }
+    ]
+}

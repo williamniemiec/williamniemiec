@@ -1,0 +1,35 @@
+Here is the output in JSON format:
+
+{
+  "name": "Activity Accessibility Assessment",
+  "parameters": [
+    {
+      "name": "activity_type",
+      "options": ["physical", "social", "cognitive", "recreational", "educational"]
+    },
+    {
+      "name": "accessibility_factors",
+      "options": ["physical barriers", "cognitive demands", "social requirements", "emotional demands"]
+    },
+    {
+      "name": "child_abilities",
+      "options": ["physical abilities", "cognitive abilities", "social skills", "emotional regulation"]
+    },
+    {
+      "name": "assessment_method",
+      "options": ["observation", "interview", "standardized assessment", "functional assessment"]
+    },
+    {
+      "name": "frequency",
+      "options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+    },
+    {
+      "name": "deadline_date",
+      "type": "datetime"
+    },
+    {
+      "name": "support_needed",
+      "type": "text"
+    }
+  ]
+}

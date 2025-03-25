@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Write in Chronological Order",
+  "parameters": [
+    { 
+      "name": "Writing Prompt", 
+      "type": "text"
+    },
+    { 
+      "name": "Topic Freedom", 
+      "type": "boolean"
+    },
+    { 
+      "name": "Chronological Order", 
+      "type": "boolean"
+    },
+    { 
+      "name": "Frequency", 
+      "type": "options"
+    },
+    { 
+      "name": "Deadline Date", 
+      "type": "datetime"
+    }
+  ]
+}

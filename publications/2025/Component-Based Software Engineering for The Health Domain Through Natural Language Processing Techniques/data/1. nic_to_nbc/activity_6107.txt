@@ -1,0 +1,30 @@
+Here is the output in JSON format:
+
+
+{
+    "Medication Optimization Plan": {
+        "Parameters": {
+            "Current Medications": {
+                "Type": "list of medications"
+            },
+            "Therapeutic Goals": {
+                "Type": "text"
+            },
+            "Healthcare Professionals": {
+                "Type": "list of healthcare professionals"
+            },
+            "Consultation Notes": {
+                "Type": "text"
+            },
+            "Medication Recommendations": {
+                "Type": "list of medication recommendations"
+            },
+            "Rationale": {
+                "Type": "text"
+            },
+            "Next Steps": {
+                "Type": "text"
+            }
+        }
+    }
+}

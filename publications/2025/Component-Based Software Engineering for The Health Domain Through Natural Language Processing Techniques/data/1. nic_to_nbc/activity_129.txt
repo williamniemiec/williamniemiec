@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "medical clearance",
+    "parameters": [
+        { 
+            "name": "activity", 
+            "description": "specify the activity that requires medical clearance"
+        },
+        { 
+            "name": "reason", 
+            "description": "explain why medical clearance is required"
+        },
+        { 
+            "name": "deadline_date", 
+            "description": "specify the due date for obtaining medical clearance"
+        },
+        { 
+            "name": "upload_document", 
+            "description": "upload the medical clearance document"
+        }
+    ]
+}
+
+
+I removed all unnecessary information and kept only the `{{ NO-CODE ELEMENT NAME }}` and `{{ PARAMETER ESPECIFICATIONS }}`. I also removed the `required` and `type` fields from the parameters as they were not specified to be included in the output.

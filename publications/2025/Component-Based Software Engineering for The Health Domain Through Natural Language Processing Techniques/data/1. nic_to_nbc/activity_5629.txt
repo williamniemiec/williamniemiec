@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+"Behavioral Monitoring": {
+"Desired Behavior": {"Type": "text"},
+"Monitoring Frequency": {"Type": "frequency selection"},
+"Monitoring Method": {"Type": "self-reporting, wearable device, mobile app, or clinician observation"},
+"Behavioral Data": {"Type": "behavioral data log or tracking record"},
+"Alerts and Notifications": {"Type": "alert and notification settings"}
+}
+}

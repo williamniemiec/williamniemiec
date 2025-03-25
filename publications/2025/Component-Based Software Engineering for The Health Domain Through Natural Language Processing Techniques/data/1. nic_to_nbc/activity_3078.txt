@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "parameters": {
+    "Device": {"type": "text"},
+    "Checks": {"type": "list of checks"},
+    "Correct Placement": {"type": "text or image-based content"},
+    "Tube Patency": {"type": "text or image-based content"},
+    "Frequency": {"options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"type": "datetime"},
+    "Reminders": {"type": "boolean"}
+  },
+  "noCodeElementName": "Device Check"
+}
+
+
+Let me know if this meets your requirements!

@@ -1,0 +1,9 @@
+Since there are no `{{ PARAMETER ESPECIFICATIONS }}` or `{{ NO-CODE ELEMENT NAME }}` in the input text, the output will be an empty JSON:
+
+{}
+
+Note: If you want to explicitly indicate that there are no applicable parameters, you could return a JSON with an empty array or object, such as:
+[]
+or
+{}
+But in this case, I'll stick to the simplest representation, which is an empty JSON.

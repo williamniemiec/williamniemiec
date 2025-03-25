@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Stool Tracker": {
+    "parameters": {
+      "name": "",
+      "color": [],
+      "amount": [],
+      "character": [],
+      "frequency": []
+    }
+  }
+}
+
+
+Note that I removed the `deadline_date` and `notes` parameters as they are not applicable in this context. Let me know if you have any further questions!

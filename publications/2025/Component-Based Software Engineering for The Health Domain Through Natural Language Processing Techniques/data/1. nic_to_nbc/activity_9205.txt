@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+    "Medication Indication Identifier": {
+        "parameters": [
+            {"name": "current_problems", "description": "List of current health problems"},
+            {"name": "medications", "description": "List of medications that may be indicated for each problem"},
+            {"name": "indication", "description": "Indication for each medication"}
+        ]
+    }
+}

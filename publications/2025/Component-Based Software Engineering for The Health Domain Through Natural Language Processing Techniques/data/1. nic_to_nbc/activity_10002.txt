@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+    "Observation": {
+        "parameters": [
+            {"Name": "name", "type": "text"},
+            {"Description": "description", "type": "text"},
+            {"Observation Type": "observation type", "type": "options"},
+            {"Observation Frequency": "observation frequency", "type": "options"},
+            {"Recording Method": "recording method", "type": "options"},
+            {"Instructions": "instructions", "type": "text"}
+        ]
+    }
+}

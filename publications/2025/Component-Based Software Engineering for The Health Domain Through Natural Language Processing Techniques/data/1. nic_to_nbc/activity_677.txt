@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Vital Sign Monitoring During Activity": {
+    "Name": {"type": "text"},
+    "Vital Signs": {"type": "list of vital signs"},
+    "Activity": {"type": "text"},
+    "Timing": {"type": "options"},
+    "Unit": {"type": "text"},
+    "Frequency": {"type": "options"},
+    "Notes": {"type": "text"}
+  }
+}

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Equipment Instruction": {
+    "Parameters": {
+      "Equipment Name": {"Type": "text"},
+      "Procedure Name": {"Type": "text"},
+      "Usage Instructions": {"Type": "text"},
+      "Visual Aids": {"Type": "media (image or video)"},
+      "Additional Tips": {"Type": "text"}
+    }
+  }
+}

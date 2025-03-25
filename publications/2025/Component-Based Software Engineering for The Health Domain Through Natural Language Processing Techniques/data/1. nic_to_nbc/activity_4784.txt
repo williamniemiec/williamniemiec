@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Cardiac Dysrhythmia Monitor": {
+    "Electrocardiogram (ECG)": {"Type": "ECG data (e.g., JSON format)"},
+    "Heart Rate Variability": {"Type": "numeric value"},
+    "Rhythm Disturbances": {"Type": "options (list of rhythm disturbances)"},
+    "Conduction Disturbances": {"Type": "options (list of conduction disturbances)"},
+    "Symptoms": {"Type": "options (list of symptoms)"},
+    "Monitoring Frequency": {"Type": "options (list of frequency options)"},
+    "Alert Thresholds": {"Type": "numeric values (e.g., high and low thresholds for each parameter)"}
+  }
+}

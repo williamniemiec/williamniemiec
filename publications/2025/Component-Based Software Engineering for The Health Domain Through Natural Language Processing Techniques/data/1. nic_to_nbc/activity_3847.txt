@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Instruction": {
+    "parameters": {
+      "name": "Leave umbilicus uncovered",
+      "content": "Leave your umbilicus uncovered to promote healing and reduce the risk of infection.",
+      "type": "text"
+    }
+  }
+}

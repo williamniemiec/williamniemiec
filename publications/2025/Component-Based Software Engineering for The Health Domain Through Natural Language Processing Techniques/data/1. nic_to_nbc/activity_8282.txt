@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "long_term_care_planning": {
+        "parameters": [
+            {"name": "care_needs", "description": "patient's long-term care needs"},
+            {"name": "placement_options", "description": "available long-term care placement options"},
+            {"name": "eligibility_criteria", "description": "eligibility criteria for long-term care placement"},
+            {"name": "placement_process", "description": "step-by-step process for long-term care placement"}
+        ]
+    }
+}

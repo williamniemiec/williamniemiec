@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+{
+  "Emergency Preparedness": {
+    "parameters": [
+      {"Content": {"type": "text or html"}},
+      {"Plans": {"type": "list of objects", 
+                 "items": [
+                   {"Plan": {"type": "text"}},
+                   {"Description": {"type": "text"}},
+                   {"Steps": {"type": "list of text"}}
+                 ]
+                }},
+      {"Resources": {"type": "list of objects", 
+                     "items": [
+                       {"Resource": {"type": "text or html"}},
+                       {"Description": {"type": "text"}}
+                     ]
+                    }}
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Footrest Clearance Check": {
+    "parameters": {
+      "Photo/Measurement Instructions": {"type": "text"},
+      "Clearance Measurement": {"type": "numeric", "unit": "inches", "range": "at least 2 inches"},
+      "Clearance Check": {"type": "boolean", "options": ["true/false"]},
+      "Adjustment Guidance": {"type": "text"},
+      "Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]}
+    }
+  }
+}
+
+
+Note: I removed the `Deadline Date` parameter as it's not applicable in this context.

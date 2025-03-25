@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+    "Massage Therapy": {
+        "parameters": [
+            {"Name": "text"},
+            {"Description": "text"},
+            {"Video": "video"},
+            {"Frequency": "options"},
+            {"Deadline Date": "datetime"},
+            {"Notes": "text"}
+        ]
+    }
+}

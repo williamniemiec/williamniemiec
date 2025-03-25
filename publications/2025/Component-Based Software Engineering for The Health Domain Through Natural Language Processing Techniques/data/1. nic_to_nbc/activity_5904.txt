@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Weight Shift Guide": {
+    "parameters": [
+      {"name": "shift_type", "description": "Type of weight shift (e.g. side to side, forward and backward)", "required": true, "type": "options", "options": [{"value": "sideToSide", "label": "Side to side"}, {"value": "forwardAndBackward", "label": "Forward and backward"}, {"value": "custom", "label": "Custom"}]},
+      {"name": "shift_instructions", "description": "Step-by-step instructions for facilitating weight shifts", "required": true, "type": "text" || "video"},
+      {"name": "shift_frequency", "description": "Specify how often to facilitate weight shifts", "required": true, "type": "options", "options": [{"value": "hourly", "label": "Hourly"}, {"value": "every2hours", "label": "Every 2 hours"}, {"value": "every4hours", "label": "Every 4 hours"}, {"value": "custom", "label": "Custom"}]},
+      {"name": "shift_duration", "description": "Specify the duration of each weight shift", "required": true, "type": "number"}
+    ]
+  }
+}

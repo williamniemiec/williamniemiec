@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Interaction Log": {
+    "Parameters": {
+      "Interaction Date": {"Type": "date"},
+      "Interaction Time": {"Type": "time"},
+      "Interaction Type": {"Type": "enum", "Values": ["Feeding", "Play", "Discipline", "Other"]},
+      "Observations": {"Type": "string"},
+      "Notes": {"Type": "string"}
+    }
+  }
+}

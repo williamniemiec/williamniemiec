@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Labor and Delivery Monitoring": {
+    "Fetal Monitoring": {},
+    "Maternal Monitoring": {},
+    "Vital Signs": {},
+    "Uterine Contractions": {},
+    "Other Monitoring": {},
+    "Frequency of Monitoring": {}
+  }
+}

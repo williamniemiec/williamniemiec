@@ -1,0 +1,39 @@
+Here is the output in JSON format:
+
+
+{
+    "Symptom Tracker": {
+        "Parameters": {
+            "Symptom List": {"Type": "options"},
+            "Frequency": {"Type": "options"},
+            "Severity Scale": {"Type": "options"}
+        }
+    },
+    "Stool Tracker": {
+        "Parameters": {
+            "Stool Output": {"Type": "numeric"},
+            "Frequency": {"Type": "options"}
+        }
+    },
+    "Vomiting Tracker": {
+        "Parameters": {
+            "Vomiting Episodes": {"Type": "numeric"},
+            "Frequency": {"Type": "options"}
+        }
+    },
+    "NG Suction Tracker": {
+        "Parameters": {
+            "NG Suction Output": {"Type": "numeric"},
+            "Frequency": {"Type": "options"}
+        }
+    },
+    "Alert System": {
+        "Parameters": {
+            "Alert Thresholds": {"Type": "options"},
+            "Alert Frequency": {"Type": "options"}
+        }
+    }
+}
+
+
+Note that I removed the introduction, conclusion, and other non-relevant text, and only kept the no-code element names and their corresponding parameters. I also removed any "not applicable" or empty parameters. Let me know if you need anything else!

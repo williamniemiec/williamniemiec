@@ -1,0 +1,35 @@
+
+
+
+{
+  "name": "Reflective Summary",
+  "parameters": [
+    {
+      "name": "Patient Input",
+      "type": "options",
+      "options": [
+        { value: "text", label: "Text" },
+        { value: "audio", label: "Audio" },
+        { value: "video", label: "Video" }
+      ]
+    },
+    {
+      "name": "Summary Type",
+      "type": "options",
+      "options": [
+        { value: "brief", label: "Brief" },
+        { value: "detailed", label: "Detailed" },
+        { value: "paraphrased", label: "Paraphrased" }
+      ]
+    },
+    {
+      "name": "Tone",
+      "type": "options",
+      "options": [
+        { value: "empathetic", label: "Empathetic" },
+        { value: "supportive", label: "Supportive" },
+        { value: "encouraging", label: "Encouraging" }
+      ]
+    }
+  ]
+}

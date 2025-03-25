@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Dysrhythmia Log": {
+    "Frequency": {"type": ["text", "options"]},
+    "Duration": {"type": ["number", "text"]},
+    "Start Time": {"type": "datetime"},
+    "End Time": {"type": "datetime"},
+    "Symptoms": {"type": ["text", "options"]}
+  }
+}

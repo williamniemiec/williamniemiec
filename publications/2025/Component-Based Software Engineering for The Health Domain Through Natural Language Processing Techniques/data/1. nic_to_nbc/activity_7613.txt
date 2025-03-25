@@ -1,0 +1,16 @@
+
+
+
+{
+    "Interest Identification": {
+        "Parameters": {
+            "Question": {"Type": "text"},
+            "Options": {"Type": "options", "Options": ["list of options", "e.g., Medication", "Diet", "Exercise", "Symptoms", "etc."]},
+            "Ranking": {"Type": "ranking"},
+            "Frequency": {"Type": "options", "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]}
+        }
+    }
+}
+
+
+Note: I removed the `Deadline Date` parameter as it was marked as `- Type: datetime` which is not applicable in this context. Let me know if you need any further assistance!

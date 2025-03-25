@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Life Support Decision Guide": {
+    "Current Life Support": {"type": "text"},
+    "Goals and Values": {"type": "text"},
+    "Decision Options": {"type": "list of text"},
+    "Pros and Cons": {"type": "text"},
+    "Decision Support": {"type": "list of text"},
+    "Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"type": "datetime"}
+  }
+}

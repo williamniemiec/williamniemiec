@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Follow-up": {
+    "reason": {"type": "options"},
+    "date": {"type": "datetime"},
+    "method": {"type": "options"},
+    "questions": {"type": "list of questions or topics"},
+    "notes": {"type": "text"}
+  }
+}

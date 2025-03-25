@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Nonverbal Cues": {
+    "parameters": {
+      "Name": {"type": "text"},
+      "Observation": {"type": "text"},
+      "Cue Type": {"type": "options", "options": [{"value": "bodyLanguage", "label": "Body Language"}, {"value": "facialExpression", "label": "Facial Expression"}, {"value": "toneOfVoice", "label": "Tone of Voice"}]},
+      "Importance": {"type": "rating scale"},
+      "Notes": {"type": "text"}
+    }
+  }
+}

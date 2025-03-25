@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Care Scheduling": {
+    "Title": {},
+    "Description": {},
+    "Care Activities": {},
+    "Interval": {},
+    "Frequency": {}
+  }
+}

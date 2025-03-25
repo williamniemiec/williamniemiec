@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Risk Assessment": {
+    "Algorithm": {"Type": "options"},
+    "Risk Factors": {"Type": "options"}
+  },
+  "Hospital Admission Recommendation": {
+    "Threshold": {"Type": "numerical value"},
+    "Recommendation Text": {"Type": "text input field"}
+  },
+  "Hospital Information": {
+    "Hospital List": {"Type": "options"},
+    "Hospital Services": {"Type": "options"}
+  },
+  "Transportation Arrangements": {
+    "Transportation Options": {"Type": "options"},
+    "Transportation Booking": {"Type": "integration with transportation services"}
+  }
+}

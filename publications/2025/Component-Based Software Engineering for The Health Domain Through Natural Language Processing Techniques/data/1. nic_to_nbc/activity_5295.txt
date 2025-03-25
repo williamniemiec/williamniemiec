@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Disease Education": {
+    "parameters": {
+      "Disease Information": {"type": "text"},
+      "Anatomy and Physiology": {"type": "text"},
+      "Pathophysiology": {"type": "text"},
+      "Visual Aids": {"type": "multimedia"},
+      "Interactive Elements": {"type": "interactive elements"}
+    }
+  }
+}

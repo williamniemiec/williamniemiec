@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Blood Specimen Collection": {
+    "Specimen Volume": {"type": "text"},
+    "Collection Instructions": {"type": "text"},
+    "Image": {"type": "image"},
+    "Video": {"type": "video"},
+    "Frequency": {"type": "options"},
+    "Deadline Date": {"type": "datetime"}
+  }
+}

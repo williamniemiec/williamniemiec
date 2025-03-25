@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+    "Wheelchair Position Check": {
+        "Parameters": {
+            "Photo/Video Instructions": {},
+            "Pad Selection": {},
+            "Footwear Selection": {},
+            "Position Check": {},
+            "Frequency": {}
+        }
+    }
+}
+
+
+I removed `Deadline Date` as it's not applicable since it's a datetime type and doesn't have any specific options or values associated with it. Let me know if you need anything else!

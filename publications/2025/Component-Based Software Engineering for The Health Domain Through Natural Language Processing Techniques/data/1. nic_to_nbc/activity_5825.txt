@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "HCO3 Calculator": {
+    "parameters": {
+      "name": {"type": "text"},
+      "observed_HCO3": {"type": "number"},
+      "expected_HCO3_change": {"type": "number"},
+      "calculation_formula": {"type": "text"}
+    }
+  }
+}

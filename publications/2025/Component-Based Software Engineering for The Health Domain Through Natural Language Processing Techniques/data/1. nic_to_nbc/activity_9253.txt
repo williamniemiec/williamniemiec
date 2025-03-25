@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Medication Administration",
+    "parameters": [
+        { 
+            "name": "Medication", 
+            "type": "options"
+        },
+        { 
+            "name": "Dosage", 
+            "type": "text"
+        },
+        { 
+            "name": "Frequency", 
+            "type": "options"
+        },
+        { 
+            "name": "Deadline Date", 
+            "type": "datetime"
+        },
+        { 
+            "name": "Instructions", 
+            "type": "text"
+        }
+    ]
+}

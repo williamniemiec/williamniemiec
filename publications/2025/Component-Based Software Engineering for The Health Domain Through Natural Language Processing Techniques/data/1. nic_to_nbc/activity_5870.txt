@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+  "Consent": {
+    "Parameters": {
+      "Name": {},
+      "Description": {},
+      "Risks and Benefits": {},
+      "Consent Options": {
+        "Options": [
+          { "value": "agree", "label": "I agree" },
+          { "value": "disagree", "label": "I disagree" }
+        ]
+      },
+      "Deadline Date": {}
+    }
+  }
+}
+
+
+Let me know if you need any further modifications!

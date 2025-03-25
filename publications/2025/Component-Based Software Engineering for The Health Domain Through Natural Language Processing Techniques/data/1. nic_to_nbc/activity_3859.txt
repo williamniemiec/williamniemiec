@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+  "Cardiac Risk Reduction Guide": {
+    "Therapy Modules": [
+      {"label": "Medication Therapies", "content": "HTML content explaining medication therapies"},
+      {"label": "Blood Pressure Monitoring", "content": "HTML content explaining blood pressure monitoring"},
+      {"label": "Fluid Restrictions", "content": "HTML content explaining fluid restrictions"},
+      {"label": "Alcohol Restrictions", "content": "HTML content explaining alcohol restrictions"},
+      {"label": "Cardiac Rehabilitation", "content": "HTML content explaining cardiac rehabilitation"}
+    ],
+    "Quiz": {
+      "form fields": [
+        {"label": "What is the purpose of medication therapies?", "type": "text"},
+        {"label": "How often should you monitor your blood pressure?", "type": "options", "options": [
+          { "value": "daily", "label": "Daily" },
+          { "value": "weekly", "label": "Weekly" },
+          { "value": "monthly", "label": "Monthly" }
+        ]}
+      ]
+    }
+  }
+}
+
+
+Note: I removed the "Resources" parameter since it's not required. Let me know if you want to include it as well!

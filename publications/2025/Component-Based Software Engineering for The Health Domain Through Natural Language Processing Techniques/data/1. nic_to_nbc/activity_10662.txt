@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+  "Coping Strategies Assessment": {
+    "Parameters": {
+      "Stressful Situation Scenarios": {
+        "Type": "list of scenarios"
+      },
+      "Coping Strategy Options": {
+        "Type": "list of coping strategy options"
+      },
+      "Family Input": {
+        "Type": "text or multimedia content"
+      },
+      "Coping Strategy Ranking": {
+        "Type": "ranking system"
+      },
+      "Resource Library": {
+        "Type": "list of resources"
+      },
+      "Frequency": {
+        "Options": ["daily", "weekly", "monthly", "quarterly"]
+      }
+    }
+  }
+}

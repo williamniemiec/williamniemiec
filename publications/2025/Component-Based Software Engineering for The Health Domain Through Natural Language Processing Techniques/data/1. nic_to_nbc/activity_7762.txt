@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Renal Acid Loss Monitor": {
+    "parameters": {
+      "name": {"type": "text"},
+      "therapy_type": {"type": "options"},
+      "acid_loss_level": {"type": "number"},
+      "threshold_values": {"type": "object"},
+      "frequency": {"type": "options"},
+      "notes": {"type": "text"}
+    }
+  }
+}
+
+
+Let me know if this is what you were expecting!

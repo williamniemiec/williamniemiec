@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+  "Attribution Reframing": {
+    "Parameters": {
+      "Trauma Description": {"Type": "text"},
+      "Attributions": {"Type": "unordered list"},
+      "Attribution Analysis": {
+        "Type": "interactive form with conditional logic",
+        "Questions": [
+          "Is this attribution based on facts or assumptions?",
+          "Is this attribution an example of omen formation (e.g., \"I should have known this would happen\")?",
+          "Is this attribution an example of survivor's guilt (e.g., \"I'm to blame for what happened\")?",
+          "Is this attribution an exaggeration or minimization?"
+        ]
+      },
+      "Reframed Attributions": {"Type": "text"},
+      "Reflection": {"Type": "text"}
+    }
+  }
+}

@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Pain Control",
+    "parameters": [
+        { 
+            "name": "Pain Control Method", 
+            "type": "options"
+        },
+        { 
+            "name": "Pain Level", 
+            "type": "options"
+        },
+        { 
+            "name": "Medication Details", 
+            "type": "text"
+        },
+        { 
+            "name": "Non-Pharmacological Intervention Details", 
+            "type": "text"
+        }
+    ]
+}

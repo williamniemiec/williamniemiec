@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Patient Response to Ventilator": {
+    "Response Type": {"type": "options"},
+    "Response Description": {"type": "text"},
+    "Ventilator Setting": {"type": "text or options"},
+    "Date and Time": {"type": "datetime"},
+    "Responsible Healthcare Professional": {"type": "text"},
+    "Additional Notes": {"type": "text"},
+    "Chest Movement Observation": {"type": "options"},
+    "Auscultation Findings": {"type": "text"},
+    "X-ray Findings": {"type": "text"},
+    "ABG Results": {"type": "table or form"}
+  }
+}

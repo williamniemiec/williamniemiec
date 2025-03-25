@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Lead Safety Guidance",
+  "parameters": [
+    {
+      "name": "Title",
+      "type": "text"
+    },
+    {
+      "name": "Content",
+      "type": "text"
+    },
+    {
+      "name": "Lead Sources",
+      "type": "list"
+    },
+    {
+      "name": "Prevention Tips",
+      "type": "list"
+    }
+  ]
+}

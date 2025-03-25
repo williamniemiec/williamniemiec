@@ -1,0 +1,31 @@
+Here is the output in JSON format:
+
+
+[
+  {
+    "name": "Interactive Guide",
+    "parameters": {
+      "name": "",
+      "content": "",
+      "quizzes": "",
+      "feedback": ""
+    }
+  },
+  {
+    "name": "Video Tutorial",
+    "parameters": {
+      "name": "",
+      "video": "",
+      "instructions": "",
+      "feedback": ""
+    }
+  },
+  {
+    "name": "Infographic",
+    "parameters": {
+      "name": "",
+      "image": "",
+      "hotspots": ""
+    }
+  }
+]

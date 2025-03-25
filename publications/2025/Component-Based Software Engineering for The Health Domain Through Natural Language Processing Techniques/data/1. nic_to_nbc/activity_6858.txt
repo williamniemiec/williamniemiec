@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+
+{
+    "Skin Testing": {
+        "parameters": {
+            "name": {"type": "text"},
+            "why": {"type": "text"},
+            "test_type": {"type": "options", "options": ["prick test", "patch test", "etc."]},
+            "allergens_to_test": {"type": "list"},
+            "frequency": {"type": "options", "options": ["one-time", "recurring"]},
+            "deadline_date": {"type": "datetime"},
+            "notes": {"type": "text"}
+        }
+    }
+}

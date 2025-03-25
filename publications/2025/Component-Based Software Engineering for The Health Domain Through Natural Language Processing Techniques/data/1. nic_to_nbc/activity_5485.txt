@@ -1,0 +1,32 @@
+Here is the output in JSON format:
+
+
+[
+  {
+    "name": "Allergy Review",
+    "parameters": {
+      "name": "Allergy Review",
+      "description": "Review of patient's allergies, including latex",
+      "content_type": "form" or "list",
+      "allergy_list": "list of patient's allergies, including latex",
+      "notes": "additional notes or comments about the patient's allergies",
+      "review_frequency": "specify how often the patient's allergies should be reviewed",
+      "deadline_date": "specify the due date for reviewing the patient's allergies"
+    }
+  },
+  {
+    "name": "Question",
+    "parameters": {
+      "name": "Allergy Question",
+      "description": "Question about patient's allergies, including latex",
+      "content_type": "form",
+      "question": "Do you have any allergies, including latex?",
+      "answer_type": "select" or "text",
+      "options": "list of possible answers, e.g. yes, no, unknown",
+      "notes": "additional notes or comments about the patient's response"
+    }
+  }
+]
+
+
+Let me know if this meets your requirements!

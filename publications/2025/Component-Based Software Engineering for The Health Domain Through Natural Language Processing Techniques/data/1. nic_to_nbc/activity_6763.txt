@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "diarrhea-causing food avoidance",
+  "parameters": [
+    { 
+      "name": "food avoidance list", 
+      "description": "list of foods to avoid that can cause diarrhea", 
+      "required": true, 
+      "type": "text"
+    },
+    { 
+      "name": "frequency", 
+      "description": "specify how often to review and update the food avoidance list", 
+      "required": true, 
+      "type": "options",
+      "options": [
+        { value: "daily", label: "Daily" },
+        { value: "everyHours", label: "Every x hours" },
+        { value: "everyDays", label: "Every x days" },
+      ]
+    }
+  ]
+}
+
+
+I removed all the non-applicable parameters, keeping only the `name` and `parameters` that are required. Let me know if this is what you were expecting!

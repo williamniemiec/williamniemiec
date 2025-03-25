@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "noCodeElementName": "question",
+  "parameterSpecifications": {
+    "name": {"type": "text"},
+    "answer type": {"options": ["yes/no", "text", "select"]},
+    "symptoms": {"type": "list of options"},
+    "frequency": {"options": ["onlyOnce", "everyVisit"]},
+    "deadline_date": {"type": "datetime"}
+  }
+}
+
+
+Note that I removed the "Not Applicable" parameters, which in this case were none. Let me know if you have any further questions!

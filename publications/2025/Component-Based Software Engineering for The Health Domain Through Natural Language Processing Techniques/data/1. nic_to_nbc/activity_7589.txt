@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Activity Commitment Assessment": {
+    "Name": {"type": "text"},
+    "Commitment question": {"type": "list of text", "example": ["How important is it for you to increase your physical activity?", "How confident are you in your ability to increase your physical activity?", "How willing are you to make changes to your daily routine to increase your physical activity?"]},
+    "Response scale": {"type": "options", "options": ["Not at all", "Somewhat", "Very", "Extremely"]},
+    "Goal setting": {"type": "options", "options": ["Yes", "No"]},
+    "Frequency and range goals": {"type": "list of text", "example": ["Walk for 30 minutes, 5 days a week", "Increase daily step count by 1000 steps", "Engage in strength training exercises, 2 times a week"]}
+  }
+}
+
+
+Note: I removed the "Content type" parameter as it was not applicable. Also, I renamed "Commitment question" to make it more concise and clear. Let me know if you need any further modifications!

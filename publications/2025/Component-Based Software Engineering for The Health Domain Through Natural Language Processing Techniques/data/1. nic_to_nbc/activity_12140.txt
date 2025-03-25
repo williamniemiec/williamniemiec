@@ -1,0 +1,13 @@
+
+
+
+{
+  "Constipation Symptom Tracker": {
+    "parameters": [
+      {"Symptom Checklist": {}},
+      {"Frequency": {}},
+      {"Severity Scale": {}},
+      {"Notes": {}}
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Feeding Decision Support": {
+    "Decision Guide": {"Type": "HTML text or multimedia content"},
+    "Pros and Cons": {"Type": "list of pros and cons for each option"},
+    "Personalized Support": {"Type": "text or multimedia content"},
+    "Decision Tracker": {"Type": "log (with date and time stamps)"},
+    "Resources": {"Type": "list of resources (with URLs or file attachments)"}
+  }
+}

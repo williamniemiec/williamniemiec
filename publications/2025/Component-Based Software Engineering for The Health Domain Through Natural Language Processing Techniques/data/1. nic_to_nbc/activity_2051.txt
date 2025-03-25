@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Stimulation Maintenance": {
+        "Parameters": {
+            "Stimulation Mode": {},
+            "Interval Duration": {},
+            "Interval Frequency": {},
+            "Stimulation Confirmation": {},
+            // removed "Deadline Date" as it's not applicable
+        }
+    }
+}

@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+    "CSF Leak Monitoring": {
+        "Name": {
+            "Type": "text"
+        },
+        "Symptoms": {
+            "Type": "list"
+        },
+        "Frequency": {
+            "Type": "options",
+            "Options": ["daily", "every12Hours", "every8Hours", "asNeeded"]
+        },
+        "Tracking": {
+            "Type": "form or log"
+        },
+        "Alerts": {
+            "Type": "text or options"
+        }
+    }
+}

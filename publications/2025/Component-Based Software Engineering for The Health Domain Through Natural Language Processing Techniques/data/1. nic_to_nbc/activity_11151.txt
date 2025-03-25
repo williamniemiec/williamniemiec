@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+
+{
+"Exam Education": {
+    "Parameters": {
+        "Name": {"Type": "text"},
+        "Exam Indications": {"Type": "list"},
+        "Procedure Overview": {"Type": ["text", "video"]},
+        "Pre-Exam Instructions": {"Type": ["text", "list"]},
+        "Post-Exam Care": {"Type": ["text", "list"]},
+        "FAQs": {"Type": ["list", "accordion"]}
+    }
+}
+}
+
+
+Let me know if you need any further assistance!

@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+[
+    {
+        "name": "Symptom Tracker",
+        "parameters": [
+            {"name": "symptoms", "type": "options"},
+            {"name": "frequency", "type": "options"},
+            {"name": "deadline_date", "type": ""}, 
+            {"name": "severity_scale", "type": ""}
+        ]
+    },
+    {
+        "name": "Question",
+        "parameters": [
+            {"name": "question", "type": ""},
+            {"name": "answer_type", "type": "options"},
+            {"name": "frequency", "type": "options"},
+            {"name": "deadline_date", "type": ""}
+        ]
+    }
+]

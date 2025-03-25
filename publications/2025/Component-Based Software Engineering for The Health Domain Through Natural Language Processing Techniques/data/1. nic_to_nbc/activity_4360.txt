@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+
+{
+    "Information": {
+        "parameters": {
+            "title": "",
+            "content": "",
+            "resources": "",
+            "consent": ""
+        }
+    },
+    "Question": {
+        "parameters": {
+            "name": "",
+            "answer type": "",
+            "information": ""
+        }
+    }
+}

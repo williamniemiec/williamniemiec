@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Body Image Support",
+  "parameters": [
+    {
+      "name": "Concerns"
+    },
+    {
+      "name": "Positive Affirmations"
+    },
+    {
+      "name": "Self-Care Activities"
+    },
+    {
+      "name": "Frequency"
+    }
+  ]
+}

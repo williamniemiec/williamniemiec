@@ -1,0 +1,61 @@
+Here is the output in JSON format:
+
+
+{
+  "Symptom Tracker": {
+    "Parameters": {
+      "Symptoms": [
+        "Hand tremor with extensions of arms",
+        "Confusion",
+        "Drowsiness progressing to coma",
+        "Headache",
+        "Slowed verbal response",
+        "Nausea",
+        "Vomiting",
+        "Tachycardia",
+        "Warm sweaty extremities"
+      ],
+      "Vital Signs": [
+        "pH level (less than 7.35)",
+        "PaCO2 level (greater than 45 mm Hg)",
+        "Hypochloremia (associated)",
+        "HCO3 excess (possible)"
+      ],
+      "Frequency": {
+        "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+      },
+      "Deadline Date": {
+        "Type": "datetime"
+      }
+    }
+  },
+  "Question": {
+    "Parameters": {
+      "Questions": [
+        {"Question 1": "Have you experienced hand tremor with extensions of arms?", "Answer type": "Yes/No"},
+        {"Question 2": "Have you experienced confusion?", "Answer type": "Yes/No"},
+        {"Question 3": "Have you experienced drowsiness progressing to coma?", "Answer type": "Yes/No"}
+      ],
+      "Frequency": {
+        "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+      },
+      "Deadline Date": {
+        "Type": "datetime"
+      }
+    }
+  },
+  "Vital Sign Tracker": {
+    "Parameters": {
+      "pH Level": {"Type": "number"},
+      "PaCO2 Level": {"Type": "number"},
+      "Hypochloremia": {"Type": "Yes/No"},
+      "HCO3 Excess": {"Type": "Yes/No"},
+      "Frequency": {
+        "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+      },
+      "Deadline Date": {
+        "Type": "datetime"
+      }
+    }
+  }
+}

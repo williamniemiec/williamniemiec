@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Comfort Feedback": {
+    "parameters": {
+      "Feedback Prompt": {"type": "text"},
+      "Discomfort Scale": {"type": "options"},
+      "Discomfort Description": {"type": "text"},
+      "Frequency": {"type": "options"}
+    }
+  }
+}

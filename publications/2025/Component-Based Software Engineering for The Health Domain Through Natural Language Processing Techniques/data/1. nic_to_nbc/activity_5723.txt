@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Educational Module": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Content": {"Type": "interactive content (e.g., HTML, JSON, etc.)"},
+      "Pages": {
+        "Type": "list of objects",
+        "Properties": {
+          "Title": {"Type": "text"},
+          "Content": {"Type": "text"}
+        }
+      }
+    }
+  }
+}

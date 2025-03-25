@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+    "Oral Cavity Inspection": {
+        "Inspection Method": {"Type": "options", "Options": ["visual inspection", "tongue depressor", "etc."]},
+        "Frequency": {"Type": "options", "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+        "Deadline Date": {"Type": "datetime"},
+        "Reporting": {"Type": "boolean"},
+        "Additional Instructions": {"Type": "text"}
+    }
+}

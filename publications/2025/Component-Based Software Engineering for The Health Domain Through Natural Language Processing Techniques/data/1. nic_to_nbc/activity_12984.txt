@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Supportive Conversation": {
+    "parameters": {
+      "Conversation Topic": {"type": "text"},
+      "Conversation Mode": {"type": "options"},
+      "Support Resources": {"type": "structured data"},
+      "Feedback Mechanism": {"type": "options"}
+    }
+  }
+}

@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+    "Message Interpretation Exercise": {
+        "Parameters": {
+            "Message": {"Type": "text"},
+            "Attitudes": {"Type": "options"},
+            "Past Experiences": {"Type": "text"},
+            "Current Situation": {"Type": "text"},
+            "Interpretation": {"Type": "text"},
+            "Reflection Questions": {"Type": "list of text"},
+            "Insight": {"Type": "text"}
+        }
+    }
+}
+
+
+Let me know if you need any further assistance!

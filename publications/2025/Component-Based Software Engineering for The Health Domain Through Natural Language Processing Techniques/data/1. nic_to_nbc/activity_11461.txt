@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Activity Explorer": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Activity List": {"Type": "list or gallery", 
+        "Properties": {
+          "Activity Name": {"Type": "text"},
+          "Description": {"Type": "text"},
+          "Image or Video": {"Type": "image or video"},
+          "Age and Ability": {"Type": "text"}
+        }
+      },
+      "Rating": {"Type": "rating (e.g., 1-5 stars)"},
+      "Filter": {"Type": "options (e.g., age ranges, ability levels)"},
+      "Schedule": {"Type": "date and time picker"}
+    }
+  }
+}

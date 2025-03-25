@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+"Encouragement": {
+    "Messages": {"type": "text"},
+    "Frequency": {"options": ["everyContractions", "everyMinutes", "everyHours"]},
+    "Tone": {"type": "options", "options": ["calming", "encouraging", "empowering"]},
+    "Breathing Techniques": {"type": "text or audio"}
+}
+}

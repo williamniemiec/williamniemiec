@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Relaxation Therapy Guide": {
+    "Parameters": {
+      "Name": {"type": "text", "required": true},
+      "Therapy type": {"type": "options", "required": true, "options": ["relaxation therapy", "guided imagery", "biofeedback", "etc."]},
+      "Instructions": {"type": "text or html", "required": true},
+      "Audio/Video content": {"type": "audio or video URL", "optional": true},
+      "Guided exercises": {"type": "list of exercises", "optional": true},
+      "Progress tracking": {"type": "tracker or log", "optional": true},
+      "Reminders": {"type": "list of reminder settings", "optional": true}
+    }
+  }
+}
+
+
+Let me know if you need any further assistance!

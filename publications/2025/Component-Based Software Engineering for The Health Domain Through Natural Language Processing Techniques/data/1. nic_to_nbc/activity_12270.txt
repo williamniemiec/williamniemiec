@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Urinary Tract Infection Monitoring",
+    "parameters": [
+        { 
+            "name": "Symptom Assessment", 
+            "type": "text or list of text"
+        },
+        { 
+            "name": "Urinalysis", 
+            "type": "boolean"
+        },
+        { 
+            "name": "Temperature Monitoring", 
+            "type": "numerical value"
+        },
+        { 
+            "name": "Pain Assessment", 
+            "type": "numerical value or text"
+        },
+        { 
+            "name": "Education", 
+            "type": "text or multimedia"
+        }
+    ]
+}

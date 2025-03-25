@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Orthostatic Vital Signs Monitoring": {
+    "parameters": {
+      "vital_signs": {"type": "list of options"},
+      "monitoring_method": {"type": "options"},
+      "ambulation_criteria": {"type": "list of options"},
+      "reminders": {"type": "boolean"}
+    }
+  }
+}
+
+
+Let me know if this meets your requirements!

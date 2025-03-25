@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "parameters": {
+    "Name": {"type": "text"},
+    "Unaffected Side": {"type": "options", "options": ["left", "right"]},
+    "Bed Positioning Steps": {"type": "illustrated guide"},
+    "Room Layout": {"type": "illustrated guide"},
+    "Frequency": {"type": "options", "options": ["daily", "weekly", "as needed"]}
+  },
+  "no-code element name": "Bed Positioning Guide"
+}

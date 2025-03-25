@@ -1,0 +1,10 @@
+Here is the output in JSON format:
+
+
+{
+  "Activity Questionnaire": {
+    "Activities": {"type": "multi-select or checkbox"},
+    "Description": {"type": "text"},
+    "Timing": {"type": "text or datetime"}
+  }
+}

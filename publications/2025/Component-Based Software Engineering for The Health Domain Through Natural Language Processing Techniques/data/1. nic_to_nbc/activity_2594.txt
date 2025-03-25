@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "noCodeElementName": "Learning Resource",
+  "parameterSpecifications": {
+    "name": "",
+    "content": ["text", "video", "image"],
+    "type": ["article", "video", "quiz"]
+  }
+}

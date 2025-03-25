@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Skin Protection Task": {
+        "Parameters": {
+            "Name": "Apply Protective Barrier",
+            "Content": "Apply a protective barrier, such as a cream or moisture-absorbing pad, to remove excess moisture and protect your skin",
+            "Type": "task",
+            "Frequency": "options (e.g., daily, after showering)"
+        }
+    }
+}

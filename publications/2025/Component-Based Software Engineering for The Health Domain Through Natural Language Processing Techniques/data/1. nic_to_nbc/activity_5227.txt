@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Tube Securing": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Body Part": {"Type": "text or options"},
+      "Securing Methods": {"Type": "text or multimedia"},
+      "Comfort Considerations": {"Type": "text or multimedia"},
+      "Skin Integrity": {"Type": "text or multimedia"},
+      "Monitoring": {"Type": "text or multimedia"}
+    }
+  }
+}
+
+
+I removed the `Alerts and Notifications` parameter since it's a boolean type, which is not applicable in this context. Let me know if you need any further assistance!

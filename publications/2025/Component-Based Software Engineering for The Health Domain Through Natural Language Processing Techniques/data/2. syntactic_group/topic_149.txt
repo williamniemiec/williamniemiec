@@ -1,0 +1,10 @@
+{
+  "name": "Postpartum Blues Education and Stigmatization",
+  "description": "Focuses on providing educational content regarding postpartum blues, aiming to reduce stigma and raise awareness. The content is delivered in various formats and emphasizes regular reminders or updates (e.g., once, every hour, every day).",
+  "type": "non-periodic",
+  "input": ["Postpartum blues", "Education", "Article format", "Content", "Stigmatizing topics", "Awareness materials"],
+  "output": ["Educational content", "Stigma reduction messages", "Information reminders"],
+  "preconditions": ["User is seeking or receiving information on postpartum blues"],
+  "postconditions": ["Better understanding of postpartum blues and reduced stigma"],
+  "dependencies": ["Article content", "Awareness campaigns", "Educational platforms"]
+}

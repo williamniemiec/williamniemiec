@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Bed Position Reminder": {
+        "Parameters": {
+            "Name": {"Description": "Title of the reminder", "Required": true, "Type": "text"},
+            "Content": {"Description": "Notification or image content reminding the patient to place the mechanical bed in lowest position", "Required": true, "Type": "notification or image"},
+            "Trigger": {"Description": "Specify when to display the reminder (e.g., when getting into bed)", "Required": true, "Type": "options", "Options": ["whenGettingIntoBed", "atSpecificTime", "whenEnteringBedroom"]},
+            "Frequency": {"Description": "Specify how often to display the reminder", "Required": true, "Type": "options", "Options": ["everyTime", "everyOtherTime", "daily", "weekly"]}
+        }
+    }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Medical Allergies and History",
+  "description": "Focuses on managing a patient's medical history, including allergies, past surgeries, conditions, and current medications. Ensures that allergy and illness information is recorded and saved for future reference.",
+  "type": "non-periodic",
+  "input": ["Allergy history", "Medical conditions", "Past surgeries", "Current medications", "Patient history management"],
+  "output": ["Patient allergy report", "Medical history tracking", "Medication and illness record"],
+  "preconditions": ["User is managing or updating medical patient data"],
+  "postconditions": ["Accurate medical history and allergy tracking"],
+  "dependencies": ["Patient history system", "Medical record management", "Allergy tracking platform"]
+}

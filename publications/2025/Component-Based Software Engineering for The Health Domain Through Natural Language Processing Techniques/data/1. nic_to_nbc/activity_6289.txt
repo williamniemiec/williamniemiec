@@ -1,0 +1,23 @@
+Here is the output in JSON format, removing everything except `{{ PARAMETER ESPECIFICATIONS }}` and `{{ NO-CODE ELEMENT NAME }}`, and excluding not applicable parameters:
+
+
+{
+    "name": "Swallowing Reflex Assessment",
+    "parameters": [
+        {
+            "name": "Assessment Method"
+        },
+        {
+            "name": "Indications"
+        },
+        {
+            "name": "Contraindications"
+        },
+        {
+            "name": "Referral Criteria"
+        },
+        {
+            "name": "Documentation"
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "reminder": {
+    "parameters": [
+      { "name": "name" },
+      { "name": "frequency" },
+      { "name": "deadline_date" }
+    ]
+  }
+}

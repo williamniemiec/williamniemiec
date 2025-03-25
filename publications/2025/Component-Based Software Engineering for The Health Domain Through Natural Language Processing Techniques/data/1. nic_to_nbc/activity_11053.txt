@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+  "nutritional_status_monitoring": {
+    "Weight": {"type": "number", "required": true},
+    "Height": {"type": "number", "required": true},
+    "Body Mass Index (BMI)": {"type": "calculated", "required": true},
+    "Albumin Level": {"type": "number", "required": true},
+    "Other Metrics": {"type": "text", "required": false},
+    "Frequency": {
+      "type": "options",
+      "required": true,
+      "options": [
+        {"value": "daily", "label": "Daily"},
+        {"value": "weekly", "label": "Weekly"},
+        {"value": "monthly", "label": "Monthly"}
+      ]
+    },
+    "Reminders": {"type": "text", "required": false}
+  }
+}

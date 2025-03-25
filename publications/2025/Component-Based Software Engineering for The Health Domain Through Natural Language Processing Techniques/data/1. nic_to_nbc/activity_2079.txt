@@ -1,0 +1,38 @@
+
+
+
+{
+  "Sleep Disturbance Assessment": {
+    "Parameters": {
+      "Symptoms": {
+        "Type": "checklist",
+        "Options": [
+          "Difficulty falling asleep",
+          "Waking up frequently during the night",
+          "Waking up too early in the morning",
+          "Snoring or breathing difficulties during sleep",
+          "Restlessness or movement during sleep",
+          "Other (free text input)"
+        ]
+      },
+      "Frequency": {
+        "Type": "options",
+        "Options": [
+          "Every night",
+          "Most nights",
+          "Some nights",
+          "Rarely"
+        ]
+      },
+      "Duration": {
+        "Type": "text"
+      },
+      "Impact": {
+        "Type": "text"
+      },
+      "Additional Information": {
+        "Type": "text"
+      }
+    }
+  }
+}

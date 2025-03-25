@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Family Trust Builder": {
+    "Regular Check-Ins": ["Daily", "Weekly", "Bi-weekly"],
+    "Open Communication": ["Secure messaging platform", "Video conferencing", "Phone calls"],
+    "Consistent Care Team": [],
+    "Care Plan Transparency": ["Treatment goals and objectives", "Medication management", "Progress updates"],
+    "Family Feedback": ["Satisfaction surveys", "Open-ended feedback forms", "Regular meetings to discuss concerns and suggestions"]
+  }
+}

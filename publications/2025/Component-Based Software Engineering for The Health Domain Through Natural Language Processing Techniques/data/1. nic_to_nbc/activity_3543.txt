@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Circulation and Pain Symptom Alert": {
+    "Parameters": {
+      "Symptom Trigger": {"Type": "list of symptoms with answer types"},
+      "Action Required": {"Type": "list of actions with instructions"},
+      "Urgency Level": {"Type": "options"},
+      "Deadline Date": {"Type": "datetime"},
+      "Notes": {"Type": "text"}
+    }
+  }
+}

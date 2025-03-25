@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Dietary Restriction": {
+    "parameters": [
+      {"name": "restricted_foods", "description": "List of calcium-rich foods to avoid"},
+      {"name": "reason", "description": "Reason for dietary restriction"},
+      {"name": "frequency", "description": "How often to remind patient of dietary restriction"},
+      {"name": "deadline_date", "description": "Specify the due date for dietary restriction"}
+    ]
+  }
+}

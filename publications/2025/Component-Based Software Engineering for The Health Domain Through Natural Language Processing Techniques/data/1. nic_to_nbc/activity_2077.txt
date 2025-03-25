@@ -1,0 +1,32 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Cultural and Hereditary Factors",
+    "parameters": [
+        {
+            "name": "Cultural Factors"
+        },
+        {
+            "name": "Hereditary Factors"
+        },
+        {
+            "name": "Habits and Customs"
+        },
+        {
+            "name": "Individualized Information"
+        },
+        {
+            "name": "Visual Aids",
+            "type": "options",
+            "options": [
+                { value: "diagram" },
+                { value: "chart" },
+                { value: "image" }
+            ]
+        },
+        {
+            "name": "Resources"
+        }
+    ]
+}

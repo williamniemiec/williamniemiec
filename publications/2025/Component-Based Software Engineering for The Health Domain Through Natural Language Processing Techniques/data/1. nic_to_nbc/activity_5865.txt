@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Procedure Discussion",
+    "parameters": [
+        { 
+            "name": "procedures", 
+            "type": "list of procedures"
+        },
+        { 
+            "name": "expected_outcomes", 
+            "type": "list of expected outcomes"
+        },
+        { 
+            "name": "discussion_guide", 
+            "type": "list of discussion guide steps"
+        },
+        { 
+            "name": "patient_education", 
+            "type": "list of patient education resources"
+        }
+    ]
+}

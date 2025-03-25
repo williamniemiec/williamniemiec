@@ -1,0 +1,43 @@
+Here is the output in JSON format:
+
+
+{
+    "bladder irritant tracker": {
+        "parameters": [
+            { 
+                "name": "irritants", 
+                "description": "list of bladder irritants to track", 
+                "required": true, 
+                "type": "list",
+                "list": [
+                    { "label": "Colas", "description": "Limit or avoid cola consumption" },
+                    { "label": "Coffee", "description": "Limit or avoid coffee consumption" },
+                    { "label": "Tea", "description": "Limit or avoid tea consumption" },
+                    { "label": "Chocolate", "description": "Limit or avoid chocolate consumption" }
+                ]
+            },
+            { 
+                "name": "frequency", 
+                "description": "specify how often to track bladder irritant intake", 
+                "required": true, 
+                "type": "options",
+                "options": [
+                    { value: "daily", label: "Daily" },
+                    { value: "onlyOnce", label: "Only once" },
+                    { value: "everyHours", label: "Every x hours" },
+                    { value: "everyDays", label: "Every x days" }
+                ]
+            },
+            { 
+                "name": "goal", 
+                "description": "set a goal for limiting bladder irritant intake", 
+                "required": true, 
+                "type": "options",
+                "options": [
+                    { value: "limit", label: "Limit intake" },
+                    { value: "avoid", label: "Avoid completely" }
+                ]
+            }
+        ]
+    }
+}

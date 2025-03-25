@@ -1,0 +1,36 @@
+Here is the output in JSON format:
+
+
+{
+  "No-Code Element Name": "Infection Signs Education",
+  "Parameters": {
+    "Signs of Infection": {
+      "Description": "List of signs of infection to educate the patient and family about",
+      "Required": true,
+      "Type": "list",
+      "Items": [
+        { "value": "redness", "label": "Redness" },
+        { "value": "swelling", "label": "Swelling" },
+        { "value": "increasedPain", "label": "Increased Pain" },
+        { "value": "warmth", "label": "Warmth" },
+        { "value": "pus", "label": "Pus" },
+        { "value": "fever", "label": "Fever" }
+      ]
+    },
+    "What to Do": {
+      "Description": "Instructions on what to do if signs of infection occur",
+      "Required": true,
+      "Type": "text"
+    },
+    "Target Audience": {
+      "Description": "Who is the education intended for (patient, family member, caregiver)?",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "patient", "label": "Patient" },
+        { "value": "familyMember", "label": "Family Member" },
+        { "value": "caregiver", "label": "Caregiver" }
+      ]
+    }
+  }
+}

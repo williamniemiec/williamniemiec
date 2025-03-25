@@ -1,0 +1,32 @@
+Here is the output in JSON format:
+
+
+{
+  "Guide": {
+    "parameters": {
+      "name": "",
+      "pages": ""
+    }
+  },
+  "Food Diary": {
+    "parameters": {
+      "name": "",
+      "entries": "",
+      "tags": ""
+    }
+  },
+  "Food Introduction Tracker": {
+    "parameters": {
+      "name": "",
+      "foods": "",
+      "reminders": ""
+    }
+  },
+  "Hydration Tracker": {
+    "parameters": {
+      "name": "",
+      "goals": "",
+      "progress": ""
+    }
+  }
+}

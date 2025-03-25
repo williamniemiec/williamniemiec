@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Delirium Rating Scale": {
+    "Scale": {"type": "options"},
+    "Questions": {"type": "list of questions with corresponding answer types"},
+    "Frequency": {"type": "options"},
+    "Deadline Date": {"type": "datetime"}
+  }
+}

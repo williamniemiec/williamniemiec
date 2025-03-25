@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Pain Journal": {
+    "Parameters": {
+      "Pain entry": {"Type": "text"},
+      "Pain rating": {"Type": "options", "Options": [{"value": "mild", "label": "Mild"}, {"value": "moderate", "label": "Moderate"}, {"value": "severe", "label": "Severe"}, {"value": "extreme", "label": "Extreme"}]},
+      "Emotional impact": {"Type": "text"},
+      "Impact on daily activities": {"Type": "text"}
+    }
+  }
+}
+
+
+Note that I removed the "Submit entry" parameter since it's a button type and not applicable as a parameter specification.

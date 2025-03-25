@@ -1,0 +1,39 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Guided Sharing",
+    "parameters": [
+        {
+            "name": "Group Function",
+            "type": "text"
+        },
+        {
+            "name": "Sharing Prompt",
+            "type": "text"
+        },
+        {
+            "name": "Sharing Type",
+            "type": "options",
+            "options": [
+                { value: "text", label: "Text" },
+                { value: "audio", label: "Audio" },
+                { value: "video", label: "Video" }
+            ]
+        },
+        {
+            "name": "Frequency",
+            "type": "options",
+            "options": [
+                { value: "daily", label: "Daily" },
+                { value: "onlyOnce", label: "Only once" },
+                { value: "everyHours", label: "Every x hours" },
+                { value: "everyDays", label: "Every x days" }
+            ]
+        },
+        {
+            "name": "Deadline Date",
+            "type": "datetime"
+        }
+    ]
+}

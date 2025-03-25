@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "CSF Collection Chamber Positioning": {
+    "name": {"type": "text"},
+    "device": {"type": "text"},
+    "position": {"type": "options"},
+    "angle": {"type": "numeric"},
+    "frequency": {"type": "options"},
+    "deadline_date": {"type": "datetime"},
+    "notes": {"type": "text"}
+  }
+}

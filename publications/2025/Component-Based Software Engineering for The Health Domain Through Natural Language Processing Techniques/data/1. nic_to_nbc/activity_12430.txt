@@ -1,0 +1,33 @@
+Here is the output in JSON format:
+
+
+{
+  "Bowel Movement Monitor": {
+    "Frequency": {
+      "Type": "options",
+      "Options": ["daily", "every other day", "2-3 times a week", "less than 2 times a week"]
+    },
+    "Consistency": {
+      "Type": "options",
+      "Options": ["hard", "soft", "watery", "normal"]
+    },
+    "Shape": {
+      "Type": "options",
+      "Options": ["pellet-like", "sausage-like", "flat", "irregular"]
+    },
+    "Volume": {
+      "Type": "options",
+      "Options": ["small", "medium", "large", "very large"]
+    },
+    "Color": {
+      "Type": "options",
+      "Options": ["brown", "green", "yellow", "black", "red"]
+    },
+    "Notes": {
+      "Type": "text"
+    },
+    "Date": {
+      "Type": "datetime"
+    }
+  }
+}

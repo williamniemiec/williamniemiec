@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Consent": {
+    "parameters": {
+      "name": {"type": "text"},
+      "description": {"type": "text"},
+      "content": {"type": "text or PDF"},
+      "acceptance": {"type": "boolean (true/false)"},
+      "deadline_date": {"type": "datetime"}
+    }
+  }
+}

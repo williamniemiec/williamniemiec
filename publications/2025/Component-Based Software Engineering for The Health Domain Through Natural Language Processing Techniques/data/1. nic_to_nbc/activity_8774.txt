@@ -1,0 +1,15 @@
+
+
+
+{
+  "Respiratory Monitoring": {
+    "parameters": {
+      "Respiratory Rate": {"type": "numeric"},
+      "Respiratory Rhythm": {"type": "text"},
+      "Respiratory Depth": {"type": "text"},
+      "Respiratory Effort": {"type": "text"},
+      "Monitoring Frequency": {"options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"type": "datetime"}
+    }
+  }
+}

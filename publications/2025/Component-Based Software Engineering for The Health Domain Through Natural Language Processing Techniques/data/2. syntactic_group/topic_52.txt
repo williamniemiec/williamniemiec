@@ -1,0 +1,10 @@
+{
+  "name": "Clothing and Dressing Assistance",
+  "description": "Assists with clothing and dressing tasks, including changing attire such as shirts, pants, and garments. Focuses on support for dressing in both restrictive and non-restrictive clothing.",
+  "type": "non-periodic",
+  "input": ["Clothing items (shirts, pants, etc.)", "Dressing assistance requirements", "Type of attire (restrictive or not)", "Change of clothes details"],
+  "output": ["Dressing assistance report", "Clothing change log", "Attire fit assessment"],
+  "preconditions": ["User requires assistance with dressing or changing clothes"],
+  "postconditions": ["User is dressed appropriately, with assistance tracked and provided as needed"],
+  "dependencies": ["Clothing management system", "Dressing support platform", "Garment tracking tools"]
+}

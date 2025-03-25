@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Mnemonic Assistant": {
+    "Mnemonic List": {"type": "list of options"},
+    "Mnemonic Description": {"type": "text"},
+    "Causes List": {"type": "list of options"},
+    "Interactive Module": {"type": "interactive module"}
+  }
+}

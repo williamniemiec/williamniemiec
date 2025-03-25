@@ -1,0 +1,40 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Equipment Explanation",
+    "parameters": [
+        {
+            "name": "Equipment",
+            "type": "text"
+        },
+        {
+            "name": "Procedure",
+            "type": "text"
+        },
+        {
+            "name": "Instructions",
+            "type": "list",
+            "items": {
+                "type": "text"
+            }
+        },
+        {
+            "name": "Frequency",
+            "type": "options",
+            "options": [
+                { value: "daily" },
+                { value: "onlyOnce" },
+                { value: "everyHours" },
+                { value: "everyDays" }
+            ]
+        },
+        {
+            "name": "Additional Resources",
+            "type": "list",
+            "items": {
+                "type": "text"
+            }
+        }
+    ]
+}

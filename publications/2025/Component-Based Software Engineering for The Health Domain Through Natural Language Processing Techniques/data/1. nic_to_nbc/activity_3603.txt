@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Follow-up Care Guide": {
+    "Parameters": {
+      "Title": {"Type": "text"},
+      "Content": {"Type": "text or HTML"},
+      "Follow-up Schedule": {"Type": "list of dates and times"},
+      "Care Provider": {"Type": "text or list of options"},
+      "Contact Information": {"Type": "text or list of options"},
+      "Medication Management": {"Type": "text or list of options"},
+      "Symptom Monitoring": {"Type": "text or list of options"},
+      "Frequency": {"Type": "options"},
+      "Deadline Date": {"Type": "datetime"}
+    }
+  }
+}

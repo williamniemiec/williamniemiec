@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "PCA Lockout Interval Setup": {
+    "Lockout Interval": {"type": "text"},
+    "Unit": {"type": "options", "options": ["minutes", "hours"]},
+    "Instructions": {"type": "text"},
+    "Visual Aids": {"type": "media"},
+    "Reason": {"type": "text"},
+    "Deadline Date": {"type": "datetime"}
+  }
+}

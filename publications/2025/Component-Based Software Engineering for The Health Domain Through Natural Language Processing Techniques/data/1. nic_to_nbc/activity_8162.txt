@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Injury Risk Assessment": {
+    "Parameters": [
+      {"Name": "Risk Factors", "Description": "Select the risk factors that apply to you", "Required": true, "Type": "multiselect", "Options": [{"value": "historyOfInjury", "label": "History of injury"}, {"value": "age", "label": "Age"}, {"value": "medication", "label": "Medication"}, {"value": "mobilityIssues", "label": "Mobility issues"}, {"value": "other", "label": "Other (please specify)"}]},
+      {"Name": "Risk Level", "Description": "What is your risk level for injury?", "Required": true, "Type": "options", "Options": [{"value": "low", "label": "Low"}, {"value": "moderate", "label": "Moderate"}, {"value": "high", "label": "High"}]},
+      {"Name": "Referral Needed", "Description": "Do you need to refer to a healthcare professional?", "Required": true, "Type": "options", "Options": [{"value": "yes", "label": "Yes"}, {"value": "no", "label": "No"}]},
+      {"Name": "Referral Reason", "Description": "Why do you need to refer to a healthcare professional?", "Required": false, "Type": "text"}
+    ]
+  }
+}
+
+Let me know if this meets your requirements!

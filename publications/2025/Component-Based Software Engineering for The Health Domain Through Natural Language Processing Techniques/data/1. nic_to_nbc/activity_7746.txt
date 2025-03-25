@@ -1,0 +1,38 @@
+Here is the output in JSON format:
+
+
+{
+  "Guide": {
+    "parameters": [
+      {
+        "name": "pages",
+        "description": "list of pages with instructions on limiting environmental stimuli",
+        "required": true,
+        "type": "book-page",
+        "book-page": "list of HTML texts"
+      }
+    ]
+  },
+  "Task": {
+    "parameters": [
+      {
+        "name": "instructions",
+        "description": "provide instructions on how to limit environmental stimuli",
+        "required": true,
+        "type": "text"
+      },
+      {
+        "name": "frequency",
+        "description": "specify how often the patient should limit environmental stimuli",
+        "required": true,
+        "type": "options",
+        "options": [
+          { "value": "daily", "label": "Daily" },
+          { "value": "onlyOnce", "label": "Only once" },
+          { "value": "everyHours", "label": "Every x hours" },
+          { "value": "everyDays", "label": "Every x days" }
+        ]
+      }
+    ]
+  }
+}

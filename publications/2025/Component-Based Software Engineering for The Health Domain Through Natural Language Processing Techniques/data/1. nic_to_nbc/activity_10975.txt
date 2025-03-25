@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "noCodeElementName": "Tutorial",
+  "parameterSpecifications": {
+    "name": {"type": "text"},
+    "content": {"type": "multimedia"},
+    "steps": {"type": "list of steps", "description": "", "media": ""}
+  }
+}

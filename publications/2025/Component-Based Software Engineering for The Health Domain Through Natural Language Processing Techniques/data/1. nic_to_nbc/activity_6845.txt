@@ -1,0 +1,35 @@
+Here is the output in JSON format:
+
+
+{
+  "Treatment Plan": {
+    "Parameters": {
+      "Treatment Options": {
+        "Type": "options",
+        "Options": [
+          { "value": "restGut", "label": "Rest the gut" },
+          { "value": "changeDiuretic", "label": "Change type of diuretic" },
+          { "value": "administerAntipyretics", "label": "Administer antipyretics" }
+        ]
+      },
+      "Selected Treatment": {
+        "Type": "text"
+      },
+      "Instructions": {
+        "Type": "text"
+      },
+      "Frequency": {
+        "Type": "options",
+        "Options": [
+          { "value": "daily", "label": "Daily" },
+          { "value": "onlyOnce", "label": "Only once" },
+          { "value": "everyHours", "label": "Every x hours" },
+          { "value": "everyDays", "label": "Every x days" }
+        ]
+      },
+      "Deadline Date": {
+        "Type": "datetime"
+      }
+    }
+  }
+}

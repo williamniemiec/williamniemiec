@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "eyelid closure": {
+    "Instructions": {"type": "text"},
+    "Frequency": {"options": ["asNeeded", "everyHours", "everyDays"]},
+    "Deadline Date": {"type": "datetime"},
+    "Reminder": {"type": "boolean"}
+  }
+}

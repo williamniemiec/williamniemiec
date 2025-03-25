@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Strengths Identification": {
+    "Prompt": {"type": "text"},
+    "Response Type": {"type": "options", "options": ["Free text", "Multiple choice", "Checklist"]},
+    "Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"type": "datetime"}
+  }
+}

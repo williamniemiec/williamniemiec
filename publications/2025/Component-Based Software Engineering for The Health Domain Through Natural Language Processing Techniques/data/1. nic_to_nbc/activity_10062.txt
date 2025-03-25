@@ -1,0 +1,41 @@
+Here is the output in JSON format:
+
+
+{
+  "Instruction": {
+    "parameters": {
+      "name": "Maintain strict aseptic technique",
+      "content": "Guidance on maintaining strict aseptic technique",
+      "type": "text"
+    }
+  },
+  "Video Demonstration": {
+    "parameters": {
+      "name": "Aseptic technique demonstration",
+      "videos": "list of video demonstrations",
+      "type": "video"
+    }
+  },
+  "Interactive Guide": {
+    "parameters": {
+      "name": "Aseptic technique guide",
+      "pages": "list of interactive pages",
+      "type": "interactive-page"
+    }
+  },
+  "Checklist": {
+    "parameters": {
+      "name": "Aseptic technique checklist",
+      "items": "list of steps to follow",
+      "type": "checklist"
+    }
+  },
+  "Reminder": {
+    "parameters": {
+      "name": "Aseptic technique reminder",
+      "message": "Remember to maintain strict aseptic technique",
+      "frequency": "customizable frequency",
+      "type": "reminder"
+    }
+  }
+}

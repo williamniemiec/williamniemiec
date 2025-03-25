@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Relationship Development",
+  "parameters": [
+    {
+      "name": "Introduction"
+    },
+    {
+      "name": "Patient Engagement"
+    },
+    {
+      "name": "Family Engagement"
+    },
+    {
+      "name": "Healthcare Provider Collaboration"
+    },
+    {
+      "name": "Communication Plan"
+    },
+    {
+      "name": "Relationship Building Activities"
+    }
+  ]
+}

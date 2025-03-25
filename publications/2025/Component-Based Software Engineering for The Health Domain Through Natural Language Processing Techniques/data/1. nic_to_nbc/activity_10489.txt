@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+  "Role-Playing Equipment": {
+    "Equipment Type": {
+      "Type": "options",
+      "Options": ["costumes", "props", "dolls", "other"]
+    },
+    "Role-Playing Theme": {
+      "Type": "options",
+      "Options": ["family", "occupation", "fantasy", "other"]
+    },
+    "Character Options": {
+      "Type": "unordered list",
+      "Character Option": {
+        "Type": "text"
+      }
+    },
+    "Scenario Suggestions": {
+      "Type": "text or multimedia"
+    },
+    "Imaginative Play": {
+      "Type": "boolean"
+    }
+  }
+}

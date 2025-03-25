@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Culturally Sensitive Content": {
+    "content": {"type": "varies"},
+    "cultural_background": {"type": "options", "options": ["list of cultural backgrounds"]},
+    "age_group": {"type": "options", "options": ["list of age groups"]},
+    "gender": {"type": "options", "options": ["list of genders"]},
+    "tailoring_level": {"type": "options", "options": ["minimal", "moderate", "extensive"]}
+  }
+}

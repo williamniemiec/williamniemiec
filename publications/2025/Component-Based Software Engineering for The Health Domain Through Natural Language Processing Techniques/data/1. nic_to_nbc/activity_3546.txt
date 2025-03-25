@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Exercise Plan": {
+    "parameters": {
+      "name": "",
+      "exercises": [],
+      "frequency": "",
+      "deadline_date": "",
+      "notes": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Barrier Overcomer": {
+    "Parameters": {
+      "Goal": {"Type": "text"},
+      "Barrier": {"Type": "text"},
+      "Solution Categories": {"Type": "list of options"},
+      "Solution List": {"Type": "list of solutions"},
+      "Effectiveness Rating": {"Type": "scale"}
+    }
+  }
+}

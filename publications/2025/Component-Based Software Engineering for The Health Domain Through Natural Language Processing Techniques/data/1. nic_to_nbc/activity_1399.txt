@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+    "foot care plan": {
+        "parameters": [
+            {"name": "assessment schedule", "description": "schedule for daily foot assessment", "required": true, "type": "array of dates"},
+            {"name": "care routine", "description": "daily foot care routine", "required": true, "type": "array of tasks"},
+            {"name": "risk monitoring", "description": "monitoring for signs of risk (e.g. redness, swelling)", "required": true, "type": "array of risk factors"},
+            {"name": "emergency contact", "description": "emergency contact information", "required": true, "type": "contact info"}
+        ]
+    }
+}
+
+
+Let me know if this is what you were expecting!

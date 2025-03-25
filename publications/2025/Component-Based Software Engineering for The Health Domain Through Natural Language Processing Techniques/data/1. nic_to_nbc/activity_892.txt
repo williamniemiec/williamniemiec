@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Turning Schedule": {
+    "Parameters": {
+      "Schedule Name": {},
+      "Turning Frequency": {},
+      "Turning Times": {},
+      "Turning Positions": {}
+    }
+  }
+}

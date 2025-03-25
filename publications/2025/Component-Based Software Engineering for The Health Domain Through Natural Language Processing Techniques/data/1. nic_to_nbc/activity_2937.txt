@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Relaxation Technique": {
+    "Technique": {"type": "options", "options": ["back rub", "shoulder roll", "deep breathing", "progressive muscle relaxation", "etc."]},
+    "Instructions": {"type": "text"},
+    "Duration": {"type": "text", "example": "5-10 minutes"},
+    "Frequency": {"type": "options", "options": ["daily", "every other day", "3 times a week", "etc."]},
+    "Tips": {"type": "unordered list", "examples": ["Find a quiet and comfortable space to relax", "Use calming music or nature sounds to enhance relaxation", "Practice relaxation techniques regularly to reduce stress and anxiety"]}
+  }
+}
+
+
+Note: I removed the `Deadline Date` parameter as it's not applicable in this context, assuming that datetime type parameters are not relevant for no-code elements.

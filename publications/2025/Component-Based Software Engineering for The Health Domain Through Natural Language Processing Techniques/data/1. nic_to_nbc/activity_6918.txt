@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Decision Explanation": {
+        "Parameters": {
+            "Decision": {"Type": "text"},
+            "Audience": {"Type": "list of options"},
+            "Explanation": {"Type": "text or multimedia content"},
+            "Customization": {"Type": "boolean"}
+        }
+    }
+}

@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Guide": {
+    "Exercise Description": {"type": "text"},
+    "Step-by-Step Instructions": {"type": "text"},
+    "Visual Aids": {"type": "media (image or video)"},
+    "Frequency": {"type": "options", "options": ["daily", "everyHours", "everyDays"]},
+    "Deadline Date": {"type": "datetime"}
+  }
+}
+
+
+Let me know if this meets your requirements!

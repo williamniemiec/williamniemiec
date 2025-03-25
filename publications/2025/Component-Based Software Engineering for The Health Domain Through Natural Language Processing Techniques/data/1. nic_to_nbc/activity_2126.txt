@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+    "Ulcer Characterization": {
+        "parameters": [
+            {"name": "Name", "type": "text"},
+            {"name": "Instructions", "type": "text"},
+            {"name": "Frequency", "type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+            {"name": "Deadline Date", "type": "datetime"},
+            {
+                "name": "Ulcer Characteristics",
+                "type": "list of characteristics",
+                "characteristics": [
+                    {"name": "size", "unit": "cm"},
+                    {"name": "stage", "unit": ""},
+                    {"name": "location", "unit": ""},
+                    {"name": "exudate", "unit": ""},
+                    {"name": "granulation or necrotic tissue", "unit": ""},
+                    {"name": "epithelization", "unit": ""}
+                ]
+            }
+        ]
+    }
+}

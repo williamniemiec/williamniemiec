@@ -1,0 +1,39 @@
+Here is the output in JSON format:
+
+
+{
+    "Problem Recognition": {
+        "Parameters": {
+            "Problem": {
+                "Description": "Describe the problem you are experiencing",
+                "Required": true,
+                "Type": "text"
+            },
+            "Awareness": {
+                "Description": "How aware are you of this problem?",
+                "Required": true,
+                "Type": "slider",
+                "Options": [
+                    { "Value": 0, "Label": "Not aware at all" },
+                    { "Value": 50, "Label": "Somewhat aware" },
+                    { "Value": 100, "Label": "Very aware" }
+                ]
+            },
+            "Impact": {
+                "Description": "How does this problem affect your daily life?",
+                "Required": true,
+                "Type": "text"
+            },
+            "Concern": {
+                "Description": "How concerned are you about this problem?",
+                "Required": true,
+                "Type": "slider",
+                "Options": [
+                    { "Value": 0, "Label": "Not concerned at all" },
+                    { "Value": 50, "Label": "Somewhat concerned" },
+                    { "Value": 100, "Label": "Very concerned" }
+                ]
+            }
+        }
+    }
+}

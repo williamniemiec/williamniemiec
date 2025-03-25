@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Problem Solving Assessment": {
+    "Parameters": {
+      "Problem Solving Assessment Title": {"Type": "text", "Required": true},
+      "Problem Solving Questions": {"Type": "text", "Required": true},
+      "Response Options": {"Type": "options", "Required": true, "Options": ["multiple choice", "Likert scale", "etc."]},
+      "Frequency": {"Type": "options", "Required": true, "Options": ["daily", "weekly", "monthly"]}
+    }
+  }
+}
+
+
+Note: I removed the parameters that are not applicable (i.e., `Deadline Date` and `Reminders`) as per your request.

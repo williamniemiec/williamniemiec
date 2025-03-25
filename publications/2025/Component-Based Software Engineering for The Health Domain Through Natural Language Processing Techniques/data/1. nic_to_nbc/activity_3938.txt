@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Treatment Modality Education": {
+    "Treatment Modalities": {"type": "list", "required": true},
+    "Education Content": {"type": "text", "required": true},
+    "Interactive Elements": {"type": "options", "required": false},
+    "Personalization": {"type": "options", "required": false}
+  }
+}

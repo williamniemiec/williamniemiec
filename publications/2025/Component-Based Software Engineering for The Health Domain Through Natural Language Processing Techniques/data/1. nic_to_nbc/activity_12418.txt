@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+  "Form": {
+    "Parameters": {
+      "Name": "Surgical Consent Form",
+      "Description": "Please review and sign the surgical consent form",
+      "Content": ["The surgical consent form with all necessary information and disclosures"],
+      "Signature": ["Electronic signature field for the patient to sign"],
+      "Frequency": ["pre-operative", "as needed"]
+    }
+  },
+  "Task": {
+    "Parameters": {
+      "Name": "Sign Surgical Consent Form",
+      "Description": "Please review and sign the surgical consent form",
+      "Instructions": "Review the surgical consent form and sign it electronically",
+      "Frequency": ["pre-operative", "as needed"]
+    }
+  }
+}

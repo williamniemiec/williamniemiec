@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+  "Voiding or Catheterization": {
+    "voiding_attempt": {
+      "Description": "Attempt to void (urinate) to relieve bladder distention.",
+      "Type": "options",
+      "Options": [
+        "Yes, I was able to void successfully.",
+        "No, I was not able to void."
+      ]
+    },
+    "catheterization": {
+      "Description": "If unable to void, catheterize to relieve bladder distention.",
+      "Type": "options",
+      "Options": [
+        "Yes, I was catheterized.",
+        "No, I was not catheterized."
+      ]
+    },
+    "additional_instructions": {
+      "Description": "Any additional instructions or precautions for voiding or catheterization.",
+      "Type": "text"
+    }
+  }
+}

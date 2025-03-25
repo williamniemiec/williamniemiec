@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Information",
+  "parameters": [
+    {
+      "name": "Title",
+      "type": "text"
+    },
+    {
+      "name": "Content",
+      "type": "text or video or image"
+    },
+    {
+      "name": "Reason",
+      "type": "text"
+    },
+    {
+      "name": "Additional Resources",
+      "type": "list of URLs or file attachments"
+    }
+  ]
+}

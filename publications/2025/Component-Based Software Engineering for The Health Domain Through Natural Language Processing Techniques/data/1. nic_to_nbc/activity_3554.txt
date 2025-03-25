@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Defense Mechanism Tracker": {
+    "Name": {"Type": "text"},
+    "Description": {"Type": "text"},
+    "Defense Mechanism": {"Type": "options", "Options": ["denial", "repression", "projection", "rationalization", "displacement", "etc."]},
+    "Situation": {"Type": "text"},
+    "Effectiveness": {"Type": "scale"},
+    "Frequency": {"Type": "options", "Options": ["daily", "weekly", "monthly", "rarely", "etc."]},
+    "Notes": {"Type": "text"}
+  }
+}

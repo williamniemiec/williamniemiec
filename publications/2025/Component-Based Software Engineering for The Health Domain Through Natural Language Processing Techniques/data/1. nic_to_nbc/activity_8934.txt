@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "lactose_intolerance_monitoring": {
+    "parameters": [
+      {"name": "complication_type"},
+      {"name": "monitoring_frequency"},
+      {"name": "monitoring_method"}
+    ]
+  }
+}

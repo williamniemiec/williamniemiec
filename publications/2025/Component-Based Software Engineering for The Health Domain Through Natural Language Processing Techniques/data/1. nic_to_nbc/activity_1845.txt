@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+"Guide": {
+"name": "title of the guide (e.g., \"Creating a Smoke-Free Environment\")",
+"pages": "list of HTML texts",
+"resources": "list of links or attachments"
+},
+"Quiz": {
+"name": "title of the quiz (e.g., \"Smoke-Free Environment Quiz\")",
+"questions": "list of questions",
+"answers": "list of correct answers and explanations",
+"resources": "list of links or attachments"
+}
+}
+
+Let me know if this meets your requirements!

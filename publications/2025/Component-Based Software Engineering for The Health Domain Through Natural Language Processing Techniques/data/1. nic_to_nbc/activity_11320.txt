@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Motivational Message": {
+    "parameters": {
+      "name": {},
+      "content": {},
+      "trigger": {},
+      "frequency": {}
+    }
+  }
+}

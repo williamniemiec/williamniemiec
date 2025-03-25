@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+  "Ambulation": {
+    "Frequency": {
+      "Type": "options",
+      "Options": ["threeTimesADay", "fourTimesADay", "custom"]
+    },
+    "Duration": {
+      "Type": "text"
+    },
+    "Reminders": {
+      "Type": "boolean"
+    },
+    "Tracking": {
+      "Type": "boolean"
+    },
+    "Goals": {
+      "Type": "text"
+    }
+  }
+}
+
+
+Let me know if this meets your requirements!

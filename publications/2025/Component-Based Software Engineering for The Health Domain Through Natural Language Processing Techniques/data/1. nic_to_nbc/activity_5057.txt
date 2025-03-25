@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Nutrition Guide": {
+    "Dietary Recommendations": {},
+    "Meal Frequency": {},
+    "Snack Options": {},
+    "Nutrition Facts": {},
+    "Visual Aids": {},
+    "Quizzes or Assessments": {}
+  }
+}

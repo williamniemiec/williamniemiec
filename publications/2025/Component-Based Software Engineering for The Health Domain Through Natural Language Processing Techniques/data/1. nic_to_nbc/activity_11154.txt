@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Diagnostic Referral",
+  "parameters": [
+    {
+      "name": "Referral Reason"
+    },
+    {
+      "name": "Diagnostic Tests"
+    },
+    {
+      "name": "Specialist Consultation"
+    },
+    {
+      "name": "Referral Instructions"
+    },
+    {
+      "name": "Follow-up"
+    }
+  ]
+}
+
+
+I removed all the unnecessary information and kept only the `{{ NO-CODE ELEMENT NAME }}` and `{{ PARAMETER ESPECIFICATIONS }}`. I also removed the not applicable parameters. Let me know if this is what you were looking for!

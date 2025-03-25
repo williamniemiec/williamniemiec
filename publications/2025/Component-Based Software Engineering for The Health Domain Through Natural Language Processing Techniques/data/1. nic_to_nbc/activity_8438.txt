@@ -1,0 +1,45 @@
+Here is the output in JSON format:
+
+
+{
+  "Questionnaire": {
+    "parameters": {
+      "name": {"type": "text"},
+      "questions": {
+        "type": "list",
+        "list": [
+          {"question": {"type": "text"}},
+          {"answer_type": {"type": "text"}},
+          {"options": {
+            "type": "list",
+            "list": [
+              {"label": {"type": "text"}},
+              {"value": {"type": "text"}}
+            ]
+          }}
+        ]
+      }
+    }
+  },
+  "Text Input": {
+    "parameters": {
+      "name": {"type": "text"},
+      "placeholder": {"type": "text"}
+    }
+  },
+  "Rating Scale": {
+    "parameters": {
+      "name": {"type": "text"},
+      "labels": {
+        "type": "list",
+        "list": [
+          {"label": {"type": "text"}},
+          {"value": {"type": "text"}}
+        ]
+      }
+    }
+  }
+}
+
+
+I removed all the unnecessary text and only kept the `{{ NO-CODE ELEMENT NAME }}` and `{{ PARAMETER ESPECIFICATIONS }}`. I also removed the not applicable parameters. Let me know if this is what you were looking for!

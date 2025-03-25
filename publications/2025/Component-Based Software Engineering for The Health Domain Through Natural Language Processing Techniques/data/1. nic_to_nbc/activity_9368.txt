@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Abrasions Documentation": {
+    "parameters": [
+      {"name": "photo", "description": "Take a photo of the abrasion", "required": true, "type": "camera"},
+      {"name": "directionality", "description": "Indicate the direction of the force that caused the abrasion", "required": true, "type": "options", "options": [{"value": "up", "label": "Up"}, {"value": "down", "label": "Down"}, {"value": "left", "label": "Left"}, {"value": "right", "label": "Right"}, {"value": "other", "label": "Other (please specify)"}]},
+      {"name": "skin_cell_piling", "description": "Indicate the side where skin cells are piling up (opposite of the force direction)", "required": true, "type": "options", "options": [{"value": "up", "label": "Up"}, {"value": "down", "label": "Down"}, {"value": "left", "label": "Left"}, {"value": "right", "label": "Right"}, {"value": "other", "label": "Other (please specify)"}]},
+      {"name": "notes", "description": "Add any additional notes about the abrasion", "required": false, "type": "text"}
+    ]
+  }
+}

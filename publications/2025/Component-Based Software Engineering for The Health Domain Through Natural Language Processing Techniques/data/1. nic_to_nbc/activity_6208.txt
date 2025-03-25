@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Describe Experiences with Five Senses",
+    "parameters": [
+        { 
+            "name": "Sense Selection", 
+            "type": "checklist"
+        },
+        { 
+            "name": "Experience Description", 
+            "type": "text"
+        },
+        { 
+            "name": "Frequency", 
+            "type": "options"
+        }
+    ]
+}
+
+
+I removed the `Deadline Date` parameter since it was marked as optional in the original text. Let me know if you'd like me to include it anyway!

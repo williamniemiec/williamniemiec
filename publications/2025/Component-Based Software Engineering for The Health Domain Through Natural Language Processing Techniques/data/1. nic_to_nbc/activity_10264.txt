@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Cooling Water Mattress Placement": {
+    "parameters": {
+      "Patient Risk Status": {"type": "boolean"},
+      "Procedure Start Time": {"type": "datetime"},
+      "Cooling Water Mattress Availability": {"type": "boolean"},
+      "Mattress Placement": {"type": "boolean"},
+      "Temperature Setting": {"type": "numeric value"}
+    }
+  }
+}
+
+
+Let me know if this is what you were looking for!

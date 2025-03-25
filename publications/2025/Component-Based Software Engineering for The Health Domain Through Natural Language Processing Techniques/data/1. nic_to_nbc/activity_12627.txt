@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Customized Visiting Plan": {
+    "Name": {"type": "text"},
+    "Visitor Information": {"type": "form"},
+    "Visiting Schedule": {"type": "calendar or scheduling tool"},
+    "Restrictions and Preferences": {"type": "form"},
+    "Special Requests": {"type": "text or HTML"}
+  },
+  "Question": {
+    "Name": {"type": "text"},
+    "Question": {"type": "text or HTML"},
+    "Answer Type": {"type": "options"},
+    "Follow-up Questions": {"type": "conditional logic or branching"}
+  }
+}

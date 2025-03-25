@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Video Guide": {
+    "parameters": {
+      "name": "Perineal Scrub Video Guide",
+      "video": "",
+      "frequency": ["daily", "every 12 hours", "every 8 hours"],
+      "deadline_date": ""
+    }
+  }
+}

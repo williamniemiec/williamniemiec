@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+    "Follow-up Scheduling": {
+        "Interval": {
+            "Type": "options"
+        },
+        "Practitioner Information": {
+            "Type": "text or contact information"
+        },
+        "Reminders": {
+            "Type": "boolean or datetime"
+        },
+        "Notes": {
+            "Type": "text"
+        }
+    }
+}

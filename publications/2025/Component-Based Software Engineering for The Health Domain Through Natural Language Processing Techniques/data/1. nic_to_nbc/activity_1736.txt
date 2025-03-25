@@ -1,0 +1,12 @@
+
+
+
+{
+  "Emergency Alert": {
+    "parameters": {
+      "name": {},
+      "emergency_condition": {},
+      "action_instructions": {}
+    }
+  }
+}

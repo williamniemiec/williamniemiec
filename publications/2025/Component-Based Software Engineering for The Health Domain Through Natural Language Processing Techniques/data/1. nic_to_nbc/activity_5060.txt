@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+    "Guide": {
+        "Content": {"Type": "text or HTML"},
+        "Format": {"Type": "options"}
+    },
+    "Tracker": {
+        "Metric": {"Type": "options"},
+        "Unit": {"Type": "options"},
+        "Frequency": {"Type": "options"},
+        "Deadline Date": {"Type": "datetime"}
+    }
+}

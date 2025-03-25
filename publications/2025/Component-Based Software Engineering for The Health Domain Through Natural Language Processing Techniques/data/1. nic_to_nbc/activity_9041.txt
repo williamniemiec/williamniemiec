@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Balloon Rupture Monitoring": {
+        "parameters": [
+            {"name": "Resistance assessment", "type": "boolean"},
+            {"name": "Deflation method", "type": "options", "options": ["passiveDeflation", "manualDeflation", "other"]},
+            {"name": "Frequency", "type": "options", "options": ["everyInflation", "daily", "every12Hours", "asNeeded", "custom"]},
+            {"name": "Notes", "type": "text"}
+        ]
+    }
+}

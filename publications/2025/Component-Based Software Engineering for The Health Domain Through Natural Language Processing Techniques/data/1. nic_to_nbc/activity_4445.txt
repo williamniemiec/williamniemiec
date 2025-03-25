@@ -1,0 +1,32 @@
+Here is the output in JSON format:
+
+
+{
+  "Therapy Referral": {
+    "Parameters": {
+      "Therapy Type": {
+        "Type": "options",
+        "Required": true
+      },
+      "Reason for Referral": {
+        "Type": "text",
+        "Required": true
+      },
+      "Patient Information": {
+        "Type": "patient demographics and medical history",
+        "Required": true
+      },
+      "Therapist Information": {
+        "Type": "therapist demographics and contact information",
+        "Required": true
+      },
+      "Referral Date": {
+        "Type": "datetime",
+        "Required": true
+      }
+    }
+  }
+}
+
+
+Note that I removed the "Follow-up Instructions" parameter since it's not required.

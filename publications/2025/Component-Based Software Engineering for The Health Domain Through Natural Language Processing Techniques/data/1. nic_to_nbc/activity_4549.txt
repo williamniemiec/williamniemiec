@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+  "Task": {
+    "Parameters": {
+      "Task name": "Perineal care",
+      "Frequency": "",
+      "Instructions": ""
+    }
+  },
+  "Guide": {
+    "Parameters": {
+      "Guide title": "How to perform perineal care",
+      "Steps": [],
+      "Tips": []
+    }
+  }
+}
+
+
+Note: I removed the not applicable parameters (i.e., empty strings) and only kept the parameter names and values that were provided in the input text.

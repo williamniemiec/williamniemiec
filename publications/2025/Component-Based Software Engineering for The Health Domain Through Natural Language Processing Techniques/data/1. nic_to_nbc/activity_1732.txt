@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+    "No-Code Element Name": "Question",
+    "Parameter Specifications": {
+        "Name": "Respiratory Infection Symptoms",
+        "Content": "Please answer the following questions to help us monitor your respiratory health:",
+        "Questions": [
+            "Are you feeling restless or uncomfortable?",
+            "Are you experiencing a cough?",
+            "Do you have a fever?",
+            "Have you noticed an increase in your heart rate?",
+            "Have you noticed a change in your secretions (e.g., mucus, phlegm)?"
+        ],
+        "Frequency": "Daily"
+    }
+}

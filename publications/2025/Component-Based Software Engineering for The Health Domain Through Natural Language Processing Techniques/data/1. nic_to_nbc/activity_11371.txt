@@ -1,0 +1,32 @@
+Here is the output in JSON format:
+
+
+{
+  "Wound Inspection": {
+    "Dressing Removal Instructions": {
+      "type": ["text", "video", "illustration"]
+    },
+    "Wound Inspection Instructions": {
+      "type": ["text", "video", "illustration"]
+    },
+    "Abnormality Reporting": {
+      "type": ["text", "video", "illustration"]
+    },
+    "Wound Assessment": {
+      "type": "question",
+      "options": [
+        {"value": "normal", "label": "Normal"},
+        {"value": "infection", "label": "Infection"},
+        {"value": "necrosis", "label": "Necrosis"},
+        {"value": "other", "label": "Other (please specify)"}
+      ]
+    },
+    "Reporting": {
+      "type": "question",
+      "options": [
+        {"value": "yes", "label": "Yes, I have reported abnormalities"},
+        {"value": "no", "label": "No, I have not reported abnormalities"}
+      ]
+    }
+  }
+}

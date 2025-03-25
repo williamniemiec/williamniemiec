@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Legal Referral": {
+    "Parameters": {
+      "Legal Issue": {"Type": "text"},
+      "Legal Aid Services": {"Type": "list of options"},
+      "Referral Criteria": {"Type": "list of options"},
+      "Referral Process": {"Type": "list of options"},
+      "Follow-up": {"Type": "boolean"}
+    }
+  }
+}

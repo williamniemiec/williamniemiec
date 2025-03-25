@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Nutrition Support": {
+    "Parameters": {
+      "Food Options": {"Type": "list of food options"},
+      "Fluid Options": {"Type": "list of fluid options"},
+      "Portion Sizes": {"Type": "list of portion sizes"},
+      "Frequency": {"Options": ["hourly", "every 2 hours", "every 4 hours"]},
+      "Notes": {"Type": "text"}
+    }
+  }
+}

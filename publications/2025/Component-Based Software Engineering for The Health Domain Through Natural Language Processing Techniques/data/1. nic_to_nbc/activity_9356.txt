@@ -1,0 +1,46 @@
+Here is the output in JSON format:
+
+
+{
+  "Medical History and Allergy Tracker": {
+    "Medical History": {
+      "Type": "text",
+      "Required": true,
+      "Sub-parameters": {
+        "Chronic Conditions": {
+          "Type": "list of conditions",
+          "Required": true
+        },
+        "Previous Illnesses": {
+          "Type": "list of illnesses",
+          "Required": true
+        },
+        "Surgeries": {
+          "Type": "list of surgeries",
+          "Required": true
+        }
+      }
+    },
+    "Allergy History": {
+      "Type": "text",
+      "Required": true,
+      "Sub-parameters": {
+        "Food Allergies": {
+          "Type": "list of food allergies",
+          "Required": true
+        },
+        "Medication Allergies": {
+          "Type": "list of medication allergies",
+          "Required": true
+        },
+        "Environmental Allergies": {
+          "Type": "list of environmental allergies",
+          "Required": true
+        }
+      }
+    }
+  }
+}
+
+
+Note: I removed the "Content Type" parameter as it was not applicable to the specific no-code element. Let me know if you need anything else!

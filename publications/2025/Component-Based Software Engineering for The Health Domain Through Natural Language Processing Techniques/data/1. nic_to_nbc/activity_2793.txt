@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Prokinetic Agent": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Indications": {"Type": "checklist"},
+      "Medication": {"Type": "options", "Options": ["metoclopramide", "erythromycin", "others"]},
+      "Dosage": {"Type": "text"},
+      "Duration": {"Type": "text"},
+      "Instructions": {"Type": "text"},
+      "Frequency": {"Type": "text"}
+    }
+  }
+}

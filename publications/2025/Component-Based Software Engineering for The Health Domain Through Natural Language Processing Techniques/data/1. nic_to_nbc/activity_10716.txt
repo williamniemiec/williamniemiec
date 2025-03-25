@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Lens Storage Guide": {
+    "Storage Instructions": {},
+    "Recommended Solution": {},
+    "Lens Container Type": {},
+    "Visual Aids": {},
+    "Frequency of Reminder": {}
+  }
+}

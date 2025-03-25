@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Cart Check Documentation": {
+        "Name": {"type": "text"},
+        "Agency Policy": {"type": "text"},
+        "Documentation": {"type": "text or form"},
+        "Status": {"type": "options (e.g., completed, pending, unknown)"},
+        "Frequency": {"type": "options (e.g., daily, onlyOnce, everyHours, everyDays)"},
+        "Deadline Date": {"type": "datetime"}
+    }
+}

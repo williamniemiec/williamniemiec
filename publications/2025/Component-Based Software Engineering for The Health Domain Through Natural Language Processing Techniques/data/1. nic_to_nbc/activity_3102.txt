@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+  "Clinical Focus": {
+    "Unit/Agency": {
+      "Description": "Information about the unit/agency, including name and description",
+      "Required": true,
+      "Type": "object",
+      "Object": {
+        "name": "text",
+        "description": "text"
+      }
+    },
+    "Clinical Focus": {
+      "Description": "Description of the clinical focus of the unit/agency",
+      "Required": true,
+      "Type": "text"
+    },
+    "Specialties": {
+      "Description": "List of specialties or services provided by the unit/agency",
+      "Required": true,
+      "Type": "unordered list",
+      "Unordered list": "list of text items"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Treatment Plan": {
+    "Parameters": {
+      "treatment_regimen": {},
+      "self_care_responsibilities": {},
+      "scope_of_practice": {},
+      "established_guidelines": {},
+      "frequency": {}
+    }
+  }
+}

@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Coughing and Inhalation Exercise": {
+    "Parameters": {
+      "Exercise Instructions": {"Type": "text"},
+      "Coughing Phase": {"Type": "options", "Options": ["coughing"]},
+      "Inhalation Phase": {"Type": "options", "Options": ["several maximal inhalation breaths"]},
+      "Frequency": {"Type": "options", "Options": ["daily", "weekly", "as prescribed"]},
+      "Reminders": {"Type": "boolean"},
+      "Tracking": {"Type": "boolean"},
+      "Breathing Technique Guidance": {"Type": "text"}
+    }
+  }
+}

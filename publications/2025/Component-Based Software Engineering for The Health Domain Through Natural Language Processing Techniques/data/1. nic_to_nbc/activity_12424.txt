@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Fetal Heart Rate Auscultation": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Pre-Amniotomy FHR": {"Type": ["numerical value", "text"]},
+      "Post-Amniotomy FHR": {"Type": ["numerical value", "text"]},
+      "Auscultation Method": {"Type": "options", "Options": ["Doppler", "Fetoscope", "Other"]},
+      "Auscultation Frequency": {"Type": "options", "Options": ["Every 15 minutes", "Every 30 minutes", "Custom"]},
+      "Abnormalities": {"Type": ["list of text", "options"]}
+    }
+  }
+}

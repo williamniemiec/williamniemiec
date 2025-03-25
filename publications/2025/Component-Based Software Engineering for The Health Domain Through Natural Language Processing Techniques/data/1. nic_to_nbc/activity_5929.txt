@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+  "Incontinence Pad": {
+    "Task Title": {
+      "Description": "Title of the task",
+      "Required": true,
+      "Type": "text"
+    },
+    "Instructions": {
+      "Description": "Step-by-step instructions on how to place on incontinence pads",
+      "Required": true,
+      "Type": "text"
+    },
+    "Frequency": {
+      "Description": "Specify how often to change the incontinence pad",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "asNeeded", "label": "As needed" },
+        { "value": "hourly", "label": "Hourly" },
+        { "value": "every2Hours", "label": "Every 2 hours" },
+        { "value": "every4Hours", "label": "Every 4 hours" }
+      ]
+    }
+  }
+}

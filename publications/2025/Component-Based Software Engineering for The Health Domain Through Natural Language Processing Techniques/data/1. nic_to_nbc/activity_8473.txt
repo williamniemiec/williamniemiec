@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Membrane Application": {
+    "Name": {"Type": "text"},
+    "Instructions": {"Type": "text"},
+    "Membrane Type": {"Type": "options", "Options": ["hydrocolloid", "hydrogel", "foam", "other"]},
+    "Application Frequency": {"Type": "options", "Options": ["daily", "everyHours", "everyDays", "onlyOnce"]},
+    "Deadline Date": {"Type": "datetime"},
+    "Application Technique": {"Type": "text"},
+    "Additional Tips": {"Type": "text"}
+  }
+}

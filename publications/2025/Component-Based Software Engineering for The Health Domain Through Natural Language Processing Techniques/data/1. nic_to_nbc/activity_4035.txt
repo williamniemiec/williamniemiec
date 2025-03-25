@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+    "Stress Reduction Techniques": {
+        "parameters": [
+            {"Name": {"type": "text"}},
+            {"Technique Type": {"type": "options", "options": ["deep breathing", "progressive muscle relaxation", "meditation", "yoga", "other"]}},
+            {"Instructions": {"type": "text"}},
+            {"Videos/Audios": {"type": "media"}},
+            {"Practice Schedule": {"type": "calendar"}},
+            {"Tracking Progress": {"type": "boolean"}},
+            {"Additional Resources": {"type": "text"}}
+        ]
+    }
+}

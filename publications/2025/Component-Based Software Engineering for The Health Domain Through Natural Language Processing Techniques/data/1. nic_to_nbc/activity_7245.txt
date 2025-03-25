@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+    "Vegetable Guide": {
+        "Parameters": {
+            "Vegetable List": {"Type": "list of text or images"},
+            "Preparation Tips": {"Type": "list of text or HTML"},
+            "Serving Suggestions": {"Type": "list of text or HTML"},
+            "Benefits Information": {"Type": "text or HTML"}
+        }
+    }
+}
+
+
+Note that I removed the "Frequency" parameter as it's marked as "options" which is not applicable in this context.

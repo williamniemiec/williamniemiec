@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Storytelling Circle": {
+    "Parameters": {
+      "Group Type": {"Type": "options"},
+      "Story Themes": {"Type": "text or interactive quiz"},
+      "Discussion Forum": {"Type": "internal feature or integration with existing platforms"},
+      "Audio/Video Recording": {"Type": "internal feature or integration with existing platforms"},
+      "Frequency": {"Type": "options"},
+      "Deadline Date": {"Type": "datetime"}
+    }
+  }
+}
+
+
+I removed all unnecessary text and kept only the `{{ NO-CODE ELEMENT NAME }}` (Storytelling Circle) and `{{ PARAMETER ESPECIFICATIONS }}`. I also removed the not applicable parameters. The output is in JSON format as requested.

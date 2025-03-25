@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Family Reflection": {
+    "Parameters": [
+      {"Name": {"Type": "text"}},
+      {"Prompt": {"Type": "text"}},
+      {"Answer Type": {"Type": "options", "Options": ["text", "ratingScale", "multipleChoice"]}},
+      {"Frequency": {"Type": "options", "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]}},
+      {"Deadline Date": {"Type": "datetime"}}
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Name": "Cultural Considerations",
+  "Parameters": {
+    "Cultural Background": {"Description": "Patient's cultural background and preferences", "Type": "options"},
+    "Religious Beliefs": {"Description": "Patient's religious beliefs and practices", "Type": "options"},
+    "Dietary Restrictions": {"Description": "Patient's dietary restrictions and preferences", "Type": "options"},
+    "Language": {"Description": "Patient's preferred language for communication", "Type": "options"},
+    "Self-Care Preferences": {"Description": "Patient's preferences for self-care activities", "Type": "unordered list"}
+  }
+}

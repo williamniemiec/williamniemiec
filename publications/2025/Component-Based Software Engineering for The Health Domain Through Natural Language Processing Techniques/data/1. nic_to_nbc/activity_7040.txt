@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "Caretaker Statement Analysis": {
+    "Parameters": {
+      "Statement": {"Type": "text"},
+      "Red Flags": {"Values": ["Improbable explanation", "Inconsistent explanation", "Allegation of self-injury", "Blame of others", "Activities beyond elder's physical abilities", "Delay in seeking treatment"]},
+      "Analysis": {"Type": "boolean (yes/no) or score (e.g., 1-5)"},
+      "Frequency": {"Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"Type": "datetime"}
+    }
+  },
+  "Caretaker Statement": {
+    "Parameters": {
+      "Statement": {"Type": "text"}
+    }
+  },
+  "Red Flag Identification": {
+    "Parameters": {
+      "Red Flags": {"Values": ["Improbable explanation", "Inconsistent explanation", "Allegation of self-injury", "Blame of others", "Activities beyond elder's physical abilities", "Delay in seeking treatment"]},
+      "Analysis": {"Type": "boolean (yes/no) or score (e.g., 1-5)"}
+    }
+  }
+}

@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Personalized Daily Routine": {
+    "Name": {},
+    "Activity Schedule": {},
+    "Priority Tasks": {},
+    "Personal Preferences": {},
+    "Caregiver Support": {}
+  },
+  "Task": {
+    "Name": {},
+    "Content": {},
+    "Frequency": {},
+    "Deadline Date": {},
+    "Reminders": {}
+  }
+}

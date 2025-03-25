@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Cerumen Assessment": {
+    "parameters": {
+      "instructions": {"type": "text or html"},
+      "questions": {"type": "list of questions"},
+      "symptoms": {"type": "list of symptoms"},
+      "resources": {"type": "list of resources"}
+    }
+  }
+}

@@ -1,0 +1,22 @@
+Here is the output in JSON format, removing everything except `{{ PARAMETER ESPECIFICATIONS }}` and `{{ NO-CODE ELEMENT NAME }}`, and removing not applicable parameters:
+
+
+{
+  "Activity Guide": {
+    "Parameters": [
+      {"Name": "Name", "Type": "text"},
+      {"Activities": [
+        {"Title": "text", "Description": "text", "Instructions": "text", "Tips": "text", "Frequency": "options"},
+        {"Resources": [
+          {"Type": "text", "Url": "url"}
+        ]}
+      ]},
+      {"Resources": [
+        {"Type": "text", "Url": "url"}
+      ]}
+    ]
+  }
+}
+
+
+Let me know if this is what you were expecting!

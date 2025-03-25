@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Interactive Guide": {
+    "title of the interactive guide": {"type": "text", "required": true},
+    "Steps": {"type": "ordered list", "required": true},
+    "Images/Videos": {"type": "list of media files", "required": true},
+    "Frequency": {"type": "options", "required": true, "options": ["daily", "onlyOnce", "everyHours", "everyDays"]}
+  }
+}
+
+
+I removed the not applicable parameters (`Tips` and `Deadline Date`) as they are not required. Let me know if you need any further assistance!

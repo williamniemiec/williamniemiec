@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Instruction": {
+    "Parameters": {
+      "Name": {},
+      "Body Part": {},
+      "Immobilization/Support Method": {},
+      "Instructions": {},
+      "Frequency": {}
+    }
+  }
+}
+
+
+Note that I removed the `Deadline Date` parameter as it was marked as `- Type: datetime` which is not applicable in this context.

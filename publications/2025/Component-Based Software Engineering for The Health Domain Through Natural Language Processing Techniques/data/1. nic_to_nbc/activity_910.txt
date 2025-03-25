@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Document": {
+    "Parameters": {
+      "document title": {"Type": "text", "Required": true},
+      "Content": {"Type": "pdf or html", "Required": true}
+    }
+  }
+}

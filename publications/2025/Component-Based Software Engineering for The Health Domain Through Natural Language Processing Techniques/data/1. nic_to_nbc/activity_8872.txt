@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Oral Hygiene Task": {
+    "Task Description": {"type": "text"},
+    "Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"type": "datetime"},
+    "Toothbrush Type": {"type": "options", "options": ["soft toothbrush", "suction toothbrush"]},
+    "Toothpaste/Antiseptic": {"type": "options", "options": ["toothpaste", "antiseptic oral rinse"]},
+    "Confirmation": {"type": "boolean"}
+  }
+}

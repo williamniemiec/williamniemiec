@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Nutrition Assessment": {
+    "parameters": {
+      "Dietary Intake": {"type": "text or list of food items"},
+      "Nutrient Analysis": {"type": "algorithm or calculation"},
+      "Nutrient Deficiencies": {"type": "list of nutrients"},
+      "Personalized Recommendations": {"type": "text or list of food items"}
+    }
+  }
+}
+
+
+I removed the "Additional Resources" parameter as it's not applicable to the no-code element. Let me know if you need any further assistance!

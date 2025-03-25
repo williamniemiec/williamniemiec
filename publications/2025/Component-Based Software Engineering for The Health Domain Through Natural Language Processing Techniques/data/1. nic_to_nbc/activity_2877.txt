@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Sensory Exploration": {
+    "parameters": {
+      "name": {"type": "text"},
+      "instructions": {"type": "text"},
+      "sensory_prompts": {"type": "list of text prompts"},
+      "reflection_questions": {"type": "list of text prompts"},
+      "frequency": {"type": "options"},
+      "deadline_date": {"type": "datetime"}
+    }
+  }
+}
+
+
+Note that I removed the `not applicable` parameters, which in this case were none. Let me know if you have any further questions!

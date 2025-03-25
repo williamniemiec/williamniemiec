@@ -1,0 +1,50 @@
+Here is the output JSON:
+
+
+{
+    "name": "Gradual Relaxation Termination",
+    "parameters": [
+        { 
+            "name": "Name", 
+            "description": "A parameter that specifies the title or name of the gradual relaxation termination.", 
+            "required": true, 
+            "type": "text"
+        },
+        { 
+            "name": "Instructions", 
+            "description": "A parameter that provides instructions on how to gradually terminate the relaxation session.", 
+            "required": true, 
+            "type": "text"
+        },
+        { 
+            "name": "Countdown Timer", 
+            "description": "A parameter that specifies a countdown timer to help the patient gradually come out of their relaxed state.", 
+            "required": true, 
+            "type": "numeric"
+        },
+        { 
+            "name": "Audio Guidance", 
+            "description": "A parameter that provides an optional audio guidance to help the patient gradually terminate their relaxation session.", 
+            "required": false, 
+            "type": "audio file"
+        },
+        { 
+            "name": "Frequency", 
+            "description": "A parameter that specifies how often the patient should practice gradual relaxation termination.", 
+            "required": true, 
+            "type": "options",
+            "options": [
+                { value: "daily", label: "Daily" },
+                { value: "onlyOnce", label: "Only once" },
+                { value: "everyHours", label: "Every x hours" },
+                { value: "everyDays", label: "Every x days" },
+            ]
+        },
+        { 
+            "name": "Deadline Date", 
+            "description": "A parameter that specifies the due date for the patient to practice gradual relaxation termination.", 
+            "required": false, 
+            "type": "datetime"
+        }
+    ]
+}

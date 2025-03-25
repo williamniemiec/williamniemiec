@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Reflection Journal": {
+    "Journal prompt": {"type": "text"},
+    "Reflection type": {"options": ["daily", "weekly", "monthly"]},
+    "Sharing options": {"options": ["share with healthcare provider", "share with peers", "keep private"]},
+    "Frequency": {"options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline date": {"type": "datetime"}
+  }
+}
+
+Let me know if this meets your requirements!

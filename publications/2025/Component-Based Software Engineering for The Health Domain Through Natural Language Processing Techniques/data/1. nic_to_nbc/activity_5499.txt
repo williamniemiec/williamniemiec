@@ -1,0 +1,29 @@
+Here is the output in JSON format:
+
+
+{
+  "Warm Blanket Reminder": {
+    "Condition": {},
+    "Frequency": {
+      "options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+    },
+    "Deadline Date": {
+      "type": "datetime"
+    },
+    "Notes": {
+      "type": "text"
+    }
+  },
+  "Warm Blanket Tracking": {
+    "Usage": {},
+    "Frequency": {
+      "options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+    },
+    "Deadline Date": {
+      "type": "datetime"
+    },
+    "Notes": {
+      "type": "text"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Electrolyte Monitoring": {
+    "parameters": {
+      "Electrolyte Type": {},
+      "Frequency": {},
+      "Deadline Date": {},
+      "Reporting Method": {},
+      "Unit of Measurement": {}
+    }
+  }
+}

@@ -1,0 +1,31 @@
+Here is the output in JSON format:
+
+{
+  "name": "Dignity and Respect",
+  "parameters": [
+    {
+      "name": "Introduction"
+    },
+    {
+      "name": "Principles of Dignity"
+    },
+    {
+      "name": "Respectful Communication"
+    },
+    {
+      "name": "Cultural Sensitivity"
+    },
+    {
+      "name": "Empathy and Compassion"
+    },
+    {
+      "name": "Patient-Centered Care"
+    },
+    {
+      "name": "Family Support"
+    },
+    {
+      "name": "Dignity in Care"
+    }
+  ]
+}

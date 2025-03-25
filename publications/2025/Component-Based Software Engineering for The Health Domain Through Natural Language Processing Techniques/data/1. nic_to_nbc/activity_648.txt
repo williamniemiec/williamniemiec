@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+  "Value Clarification": {
+    "Situation Description": {
+      "Description": "Description of the situation that requires value clarification",
+      "Required": true,
+      "Type": "text"
+    },
+    "Value Statement": {
+      "Description": "Statement of the nurse's values related to the situation",
+      "Required": true,
+      "Type": "text"
+    },
+    "Reflection": {
+      "Description": "Reflection on how the nurse's values align with the situation",
+      "Required": true,
+      "Type": "text"
+    },
+    "Insight": {
+      "Description": "Insight gained from clarifying own values",
+      "Required": true,
+      "Type": "text"
+    }
+  }
+}

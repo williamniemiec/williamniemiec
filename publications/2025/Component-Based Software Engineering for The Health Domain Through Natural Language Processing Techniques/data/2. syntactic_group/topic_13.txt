@@ -1,0 +1,10 @@
+{
+  "name": "Task Instructions and Content Management",
+  "description": "Manages instructional content, task details, deadlines, and frequency of execution.",
+  "type": "non-periodic",
+  "input": ["Task details", "Instructional content", "Deadline", "Execution frequency"],
+  "output": ["Task completion status", "Instructional guide", "Content summary"],
+  "preconditions": ["Task is assigned with specific instructions and deadlines"],
+  "postconditions": ["Task is completed and recorded with relevant content"],
+  "dependencies": ["Task management system", "Content storage platform", "Deadline tracking tool"]
+}

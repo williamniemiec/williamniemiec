@@ -1,0 +1,10 @@
+{
+  "name": "Surveillance and Data Visualization",
+  "description": "Tracks surveillance data, including observations, timestamps, and trends. Visualizes this data to assist in decision-making and transfer of information.",
+  "type": "non-periodic",
+  "input": ["Surveillance data", "Observation timestamps", "Trend analysis", "Data visualization"],
+  "output": ["Surveillance report", "Data trends visualization", "Analysis feedback"],
+  "preconditions": ["User is conducting surveillance or data monitoring"],
+  "postconditions": ["Clear trends and visualized data to support decisions"],
+  "dependencies": ["Surveillance data system", "Data visualization tools", "Trend analysis platform"]
+}

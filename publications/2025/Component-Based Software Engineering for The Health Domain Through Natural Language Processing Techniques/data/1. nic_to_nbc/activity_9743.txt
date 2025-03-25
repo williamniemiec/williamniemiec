@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Vomiting Assessment": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Description": {"Type": "text"},
+      "Scale Selection": {"Type": "options"},
+      "Frequency": {"Type": "numeric", "Units": ["episodes per day", "..."]},
+      "Duration": {"Type": "numeric", "Units": ["minutes", "hours", "..."]},
+      "Severity": {"Type": "numeric", "Units": ["mild", "moderate", "severe", "..."]},
+      "Notes": {"Type": "text"}
+    }
+  }
+}

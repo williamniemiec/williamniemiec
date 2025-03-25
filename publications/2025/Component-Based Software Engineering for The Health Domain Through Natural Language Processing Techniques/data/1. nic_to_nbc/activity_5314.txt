@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Specimen Container Request": {
+    "parameters": {
+      "Specimen Type": {"type": "text or selection from a list of options", "required": true},
+      "Container Type": {"type": "text or selection from a list of options", "required": true},
+      "Quantity": {"type": "number", "required": true},
+      "Delivery Method": {"type": "text or selection from a list of options", "required": true}
+    }
+  }
+}
+
+
+I removed the introduction, conclusion, and non-parameter elements. I also excluded the "Instructions" parameter since it's not required. Let me know if you need any further modifications!

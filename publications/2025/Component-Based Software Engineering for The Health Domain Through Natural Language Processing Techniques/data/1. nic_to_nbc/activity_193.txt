@@ -1,0 +1,36 @@
+Here is the output in JSON format:
+
+
+{
+  "Willingness Assessment": {
+    "Assessment Question": {
+      "Description": "Question to assess the patient's willingness",
+      "Required": true,
+      "Type": "text"
+    },
+    "Answer Type": {
+      "Description": "Type of response to assess willingness",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "yes", "label": "Yes, I'm willing" },
+        { "value": "no", "label": "No, I'm not willing" },
+        { "value": "undecided", "label": "Undecided" }
+      ]
+    },
+    "Frequency": {
+      "Description": "How often to assess the patient's willingness",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "daily", "label": "Daily" },
+        { "value": "onlyOnce", "label": "Only once" },
+        { "value": "everyHours", "label": "Every x hours" },
+        { "value": "everyDays", "label": "Every x days" }
+      ]
+    }
+  }
+}
+
+
+I removed the non-essential information and formatted the remaining data into a JSON object. Let me know if this meets your requirements!

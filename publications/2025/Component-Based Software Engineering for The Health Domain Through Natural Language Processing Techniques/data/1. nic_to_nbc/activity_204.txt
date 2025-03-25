@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+    "Incident Report Form": {
+        "Patient Information": {},
+        "Date of Admission": {},
+        "Incident Details": {},
+        "Incident Type": {},
+        "Form Template": {}
+    }
+}

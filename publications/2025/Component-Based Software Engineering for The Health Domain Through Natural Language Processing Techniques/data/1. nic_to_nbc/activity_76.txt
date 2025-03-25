@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Care Team": {
+    "Provider List": "",
+    "Provider Roles": "",
+    "Contact Information": ""
+  },
+  "Care Plan": {
+    "Care Goals": "",
+    "Interventions": "",
+    "Progress Tracking": ""
+  }
+}

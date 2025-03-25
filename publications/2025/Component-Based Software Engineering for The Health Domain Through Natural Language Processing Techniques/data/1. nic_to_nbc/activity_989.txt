@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Eye Care": {
+    "Frequency": {
+      "options": ["atLeastTwiceADay", "everyHours", "everyDays"]
+    },
+    "Instructions": {
+      "type": "text"
+    },
+    "Deadline Date": {
+      "type": "datetime"
+    },
+    "Reminders": {
+      "type": "boolean"
+    }
+  }
+}

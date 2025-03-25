@@ -1,0 +1,49 @@
+Here is the output in JSON format:
+
+
+[
+    {
+        "Medication Administration Log": {
+            "parameters": {
+                "name": "Medication Administration Log",
+                "description": "Log your medication administration in accordance with established agency policies",
+                "medication_name": "text field for patient to enter medication name",
+                "dosage": "text field for patient to enter dosage",
+                "administration_time": "datetime field for patient to enter administration time",
+                "notes": "optional text field for patient to provide additional notes about medication administration"
+            }
+        }
+    },
+    {
+        "Journal": {
+            "parameters": {
+                "name": "Medication Administration Journal",
+                "description": "Keep a log of your medication administration",
+                "entries": [
+                    {
+                        "name": "medication_name",
+                        "description": "Enter the name of the medication",
+                        "type": "text"
+                    },
+                    {
+                        "name": "dosage",
+                        "description": "Enter the dosage of the medication",
+                        "type": "text"
+                    },
+                    {
+                        "name": "administration_time",
+                        "description": "Enter the time of medication administration",
+                        "type": "datetime"
+                    },
+                    {
+                        "name": "notes",
+                        "description": "Enter any additional notes about medication administration",
+                        "type": "text"
+                    }
+                ],
+                "frequency": "specify how often the patient should make a journal entry",
+                "deadline_date": "specify the due date for the patient to make a journal entry"
+            }
+        }
+    }
+]

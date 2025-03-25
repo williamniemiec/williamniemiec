@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Prescription Filling Guide": {
+    "parameters": {
+      "Prescription Details": {"type": "list"},
+      "Filling Instructions": {"type": "text"},
+      "Pharmacy Information": {"type": "text"},
+      "Refill Reminders": {"type": "options"},
+      "Additional Resources": {"type": "list"}
+    }
+  }
+}

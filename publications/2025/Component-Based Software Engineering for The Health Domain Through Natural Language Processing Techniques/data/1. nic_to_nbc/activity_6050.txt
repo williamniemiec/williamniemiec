@@ -1,0 +1,14 @@
+
+
+
+{
+  "Symptom Tracker": {
+    "parameters": {
+      "Symptom List": {"type": "list of text"},
+      "Frequency": {"options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"type": "datetime"},
+      "Rating Scale": {"type": "options", "options": []},
+      "Notes": {"type": "text"}
+    }
+  }
+}

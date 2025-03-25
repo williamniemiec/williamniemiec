@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Event Appraisal Tool": {
+    "Parameters": [
+      {"Event Description": {"Type": "text"}},
+      {"Emotional Response": {"Type": "text or emoji-based sentiment scale"}},
+      {"Facts": {"Type": "list (with add/remove functionality)"}},
+      {"Thoughts": {"Type": "list (with add/remove functionality)"}},
+      {"Feelings": {"Type": "list (with add/remove functionality)"}},
+      {"Objective Appraisal": {"Type": "text"}},
+      {"Reflection": {"Type": "text"}},
+      {"Frequency": {"Type": "options", "Options": ["daily", "weekly", "monthly", "quarterly"]}},
+      {"Deadline Date": {"Type": "datetime"}}
+    ]
+  }
+}

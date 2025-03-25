@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Change Preparation Alert": {
+    "Parameters": {
+      "Change Type": {"Type": "options"},
+      "Change Details": {"Type": "text"},
+      "Alert Message": {"Type": "text"},
+      "Frequency": {"Type": "options"},
+      "Deadline Date": {"Type": "datetime"},
+      "Preparation Tips": {"Type": "list of text"}
+    }
+  }
+}

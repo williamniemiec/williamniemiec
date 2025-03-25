@@ -1,0 +1,30 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Muscle Identification Exercise",
+    "parameters": [
+        {
+            "name": "Name",
+            "type": "text"
+        },
+        {
+            "name": "Instructions",
+            "type": "text"
+        },
+        {
+            "name": "Muscle Identification",
+            "type": "list of text"
+        },
+        {
+            "name": "Frequency",
+            "type": "options",
+            "options": [
+                { value: "daily" },
+                { value: "onlyOnce" },
+                { value: "everyHours" },
+                { value: "everyDays" }
+            ]
+        }
+    ]
+}

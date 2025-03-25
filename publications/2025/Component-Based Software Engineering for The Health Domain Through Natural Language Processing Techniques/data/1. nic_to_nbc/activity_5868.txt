@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Infection Status Assessment": {
+    "Temperature": {"Type": "number", "Required": true},
+    "White Blood Cell Count": {"Type": "number", "Required": true},
+    "Cultures": {"Type": "text", "Required": true},
+    "Infection Signs and Symptoms": {"Type": "options", "Required": true, "Options": ["yes", "no"]},
+    "Antibiotic Therapy": {"Type": "text", "Required": true},
+    "Infection Status": {"Type": "calculated", "Required": true}
+  }
+}
+
+
+I removed the introduction and conclusion sections, as well as the non-parameter specifications. I also excluded the "Notes" parameter since it's not required. Let me know if this meets your requirements!

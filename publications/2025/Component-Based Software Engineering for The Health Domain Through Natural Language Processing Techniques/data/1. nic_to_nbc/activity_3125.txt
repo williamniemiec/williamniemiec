@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Goal Statement": {
+    "name": {"type": "text"},
+    "goal": {"type": "text"},
+    "objectives": {"type": "list of objects", "params": {"name": "", "description": ""}},
+    "key_performance_indicators": {"type": "list of objects", "params": {"name": "", "description": "", "target_value": ""}},
+    "acknowledgement": {"type": "boolean"}
+  }
+}

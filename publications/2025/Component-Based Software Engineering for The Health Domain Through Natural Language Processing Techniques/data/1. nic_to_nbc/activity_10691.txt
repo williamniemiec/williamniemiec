@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Hemolysis Monitoring": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Blood in Urine": {"Type": "options", "Options": ["yes", "no"]},
+      "Hemolyzed Blood Specimens": {"Type": "options", "Options": ["yes", "no"]},
+      "Daily Serum Hemoglobin": {"Type": "number"},
+      "Frank Bleeding": {"Type": "options", "Options": ["yes", "no"]},
+      "Hyperkalemia": {"Type": "options", "Options": ["yes", "no"]},
+      "Notes": {"Type": "text"},
+      "Deadline Date": {"Type": "datetime"}
+    }
+  }
+}

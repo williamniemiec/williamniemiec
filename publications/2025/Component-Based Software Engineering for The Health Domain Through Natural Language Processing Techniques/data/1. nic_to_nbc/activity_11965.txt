@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+  "Resource Referrals": {
+    "referral_types": {
+      "type": "list of options",
+      "description": "A parameter that specifies the types of referrals to be provided."
+    },
+    "referral_list": {
+      "type": "list of referral objects",
+      "description": "A parameter that specifies the list of referrals, including contact information and descriptions."
+    },
+    "filtering_criteria": {
+      "type": "list of filtering criteria",
+      "description": "A parameter that specifies the filtering criteria to determine which referrals are relevant to the patient's specific situation."
+    },
+    "resource_descriptions": {
+      "type": "list of text or HTML content",
+      "description": "A parameter that specifies the descriptions of each referral type, including the services they provide and how they can help."
+    },
+    "contact_info": {
+      "type": "list of contact information objects",
+      "description": "A parameter that specifies the contact information for each referral, including phone numbers, emails, and physical addresses."
+    }
+  }
+}

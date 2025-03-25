@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "pCO2 Level Tracking": {
+    "parameters": {
+      "pCO2 Level": {"type": "number"},
+      "Target Range": {"type": "text"},
+      "Frequency": {"type": "options", "options": ["daily", "everyOtherDay", "weekly", "biweekly"]},
+      "Deadline Date": {"type": "datetime"}
+    }
+  }
+}
+
+
+Note: I removed the `Note:` section and the introduction/conclusion text as per your request.

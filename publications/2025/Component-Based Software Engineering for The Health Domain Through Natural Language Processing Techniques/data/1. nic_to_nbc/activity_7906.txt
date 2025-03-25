@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+  "No-code element name": "Sedation Interruption",
+  "Parameters": {
+    "Task Title": {
+      "Description": "Title of the task",
+      "Required": true,
+      "Type": "text"
+    },
+    "Instructions": {
+      "Description": "Step-by-step instructions on how to facilitate daily interruptions of sedation",
+      "Required": true,
+      "Type": "text"
+    },
+    "Frequency": {
+      "Description": "Specify the frequency of sedation interruptions",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "daily", "label": "Daily" }
+      ]
+    }
+  }
+}

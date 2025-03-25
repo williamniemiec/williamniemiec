@@ -1,0 +1,37 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Post-Procedure Assessment",
+    "parameters": [
+        {
+            "name": "Assessments",
+            "type": "list",
+            "list_type": "text"
+        },
+        {
+            "name": "Rationale",
+            "type": "list",
+            "list_type": "text"
+        },
+        {
+            "name": "Activities",
+            "type": "list",
+            "list_type": "text"
+        },
+        {
+            "name": "Frequency",
+            "type": "options",
+            "options": [
+                { value: "daily" },
+                { value: "onlyOnce" },
+                { value: "everyHours" },
+                { value: "everyDays" }
+            ]
+        },
+        {
+            "name": "Deadline Date",
+            "type": "datetime"
+        }
+    ]
+}

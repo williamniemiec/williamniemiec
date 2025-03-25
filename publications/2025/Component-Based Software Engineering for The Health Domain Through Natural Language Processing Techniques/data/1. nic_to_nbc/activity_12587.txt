@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+    "Housing Locator": {
+        "Parameters": {
+            "Name": {"Type": "text"},
+            "Location": {"Type": "text or options"},
+            "Housing Options": {"Type": "options"},
+            "Budget": {"Type": "number"},
+            "Duration": {"Type": "date range"},
+            "Resources": {"Type": "list of resources"}
+        }
+    },
+    "Resource Directory": {
+        "Parameters": {
+            "Name": {"Type": "text"},
+            "Resources": {"Type": "list of resources"},
+            "Filter": {"Type": "options"}
+        }
+    }
+}

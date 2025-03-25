@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Therapeutic Bed Assignment": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Mattress/Bed Type": {"Type": "options", "Options": [
+        {"value": "pressureRelieving", "label": "Pressure-relieving mattress"},
+        {"value": "lowAirLoss", "label": "Low-air-loss bed"},
+        {"value": "alternatingPressure", "label": "Alternating pressure mattress"},
+        {"value": "other", "label": "Other (please specify)"}
+      ]},
+      "Instructions": {"Type": "text"},
+      "Duration": {"Type": "datetime"}
+    }
+  }
+}

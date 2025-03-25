@@ -1,0 +1,33 @@
+Here is the output in JSON format:
+
+
+{
+    "Vital Signs Recorder": {
+        "vital_signs": {
+            "Description": "List of vital signs to record",
+            "Required": true,
+            "Type": "unordered list",
+            "Items": [
+                "Weight",
+                "Temperature",
+                "Pulse",
+                "Respirations",
+                "Blood Pressure"
+            ]
+        },
+        "Values": {
+            "Description": "Values of vital signs",
+            "Required": true,
+            "Type": "table",
+            "Columns": [
+                "Vital Sign",
+                "Value",
+                "Unit",
+                "Date"
+            ]
+        }
+    }
+}
+
+
+I removed the `Notes` parameter since it's not required. Let me know if you have any further questions!

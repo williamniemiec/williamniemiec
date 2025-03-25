@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+  "Emotion Exploration": {
+    "Memory Prompt": {"type": "text"},
+    "Emotion Identification": {"type": "options"},
+    "Emotion Expression": {"type": "text"},
+    "Reflection": {"type": "text"},
+    "Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"type": "datetime"}
+  },
+  "Self-Compassion Exercise": {
+    "Scenario": {"type": "text"},
+    "Response": {"type": "text"},
+    "Reflection": {"type": "text"},
+    "Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"type": "datetime"}
+  }
+}

@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Positioning Guide": {
+    "Parameters": {
+      "Name": {},
+      "Position Type": {},
+      "Instructions": {},
+      "Image or Video": {}
+    }
+  }
+}
+
+
+Note: I removed the "Frequency" parameter as it was marked as "Not Applicable" since it has options with variables (e.g. "Every x hours", "Every x days") which are not applicable in this context.

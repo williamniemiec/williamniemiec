@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Safety Precautions": {
+    "parameters": [
+      {"name": "name", "type": "text"},
+      {"name": "content", "type": ["text", "image", "video", "multimedia content"]},
+      {"name": "format", "type": "options"},
+      {"name": "warnings", "type": ["text", "list of warnings"]},
+      {"name": "reminders", "type": "boolean"}
+    ]
+  }
+}

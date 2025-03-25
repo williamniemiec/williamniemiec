@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Hand Hygiene Reminder": {
+    "Parameters": {
+      "Name": {
+        "Type": "text"
+      }
+    }
+  }
+}

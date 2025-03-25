@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+    "Physical Description Record": [
+        {"name": "height"},
+        {"name": "weight"},
+        {"name": "eye color", "options": ["blue", "brown", "green", "hazel", "other"]},
+        {"name": "hair color", "options": ["blonde", "brown", "red", "gray", "other"]},
+        {"name": "skin color", "options": ["fair", "medium", "dark", "other"]},
+        {"name": "distinguishing characteristics"}
+    ]
+}
+
+
+Let me know if this meets your requirements!

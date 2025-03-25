@@ -1,0 +1,17 @@
+
+
+
+{
+  "Trance Termination": {
+    "parameters": {
+      "name": {"type": "text"},
+      "counting_script": {"type": "text"},
+      "prearranged_number": {"type": "number"},
+      "termination_instructions": {"type": "text"},
+      "frequency": {"type": "options"}
+    }
+  }
+}
+
+
+Note: I removed the `deadline_date` parameter as it's not applicable in this context.

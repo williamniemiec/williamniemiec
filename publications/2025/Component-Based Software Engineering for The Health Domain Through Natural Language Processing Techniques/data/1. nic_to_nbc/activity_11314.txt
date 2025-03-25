@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Food Presentation": {
+    "parameters": {
+      "Presentation Tips": {"type": "text"},
+      "Food Styling Ideas": {"type": "text"},
+      "Table Setting": {"type": "text"},
+      "Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"type": "datetime"},
+      "Personal Preferences": {"type": "text"}
+    }
+  }
+}

@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+  "Nail Cleaning": {
+    "Parameters": {
+      "Name": {
+        "Type": "text"
+      },
+      "Instructions": {
+        "Type": "text"
+      },
+      "Frequency": {
+        "Type": "options",
+        "Options": ["daily", "everyOtherDay", "everyXDays", "weekly"]
+      },
+      "Nail Areas": {
+        "Type": "options",
+        "Options": ["fingernails", "toenails", "both"]
+      }
+    }
+  }
+}

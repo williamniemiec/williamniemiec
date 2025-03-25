@@ -1,0 +1,32 @@
+Here is the output in JSON format:
+
+
+{
+  "Environmental Cleaning": {
+    "Cleaning Tasks": {
+      "Description": "List of cleaning tasks to be performed after each patient use",
+      "Required": true,
+      "Type": "list",
+      "Options": [
+        { "value": "disinfectSurfaces", "label": "Disinfect surfaces" },
+        { "value": "wipeDownEquipment", "label": "Wipe down equipment" },
+        { "value": "cleanFloors", "label": "Clean floors" },
+        { "value": "changeLinens", "label": "Change linens" },
+        { "value": "restockSupplies", "label": "Restock supplies" }
+      ]
+    },
+    "Frequency": {
+      "Description": "Specify how often the cleaning tasks should be performed",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "afterEachUse", "label": "After each patient use" },
+        { "value": "daily", "label": "Daily" },
+        { "value": "weekly", "label": "Weekly" }
+      ]
+    }
+  }
+}
+
+
+I removed the not applicable parameters (`Reminders` and `Notes`) since they are not required. Let me know if you need anything else!

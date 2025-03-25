@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Adjustment": {
+    "Parameters": {
+      "Name": {},
+      "Description": {},
+      "Parameter to Adjust": {},
+      "Target Value": {},
+      "Frequency": {}
+    }
+  }
+}
+
+
+Note: I removed `Deadline Date` as it's not applicable, and also removed the type information as per your request. Let me know if you need anything else!

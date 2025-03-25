@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Medication Alert Card": {
+        "parameters": [
+            {"name": "name", "type": "text"},
+            {"name": "medications", "type": "list of medication objects"},
+            {"name": "allergies", "type": "list of allergy objects"},
+            {"name": "emergency_contact", "type": "emergency contact object"}
+        ]
+    }
+}

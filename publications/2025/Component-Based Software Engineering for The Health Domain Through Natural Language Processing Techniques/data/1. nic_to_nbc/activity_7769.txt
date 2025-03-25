@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+
+{
+    "Blood Pressure Tracker": {
+        "parameters": {
+            "Systolic Blood Pressure": {
+                "type": "number"
+            },
+            "Diastolic Blood Pressure": {
+                "type": "number"
+            },
+            "Date": {
+                "type": "date"
+            },
+            "Time": {
+                "type": "time"
+            },
+            "Frequency": {
+                "options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+            },
+            "Deadline Date": {
+                "type": "datetime"
+            }
+        }
+    }
+}

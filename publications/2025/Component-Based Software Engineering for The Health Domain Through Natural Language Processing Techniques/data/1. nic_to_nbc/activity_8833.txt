@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+    "Personal Responsibility Prompt": {
+        "parameters": {
+            "Prompt Type": {},
+            "Prompt Text": {},
+            "Frequency": {}
+        }
+    }
+}

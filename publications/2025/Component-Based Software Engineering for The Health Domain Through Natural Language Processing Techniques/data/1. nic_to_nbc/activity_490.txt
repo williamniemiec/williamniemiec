@@ -1,0 +1,38 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Alternative Actions",
+    "parameters": [
+        { 
+            "name": "Current Risky Actions", 
+            "type": "unordered list"
+        },
+        { 
+            "name": "Alternative Actions", 
+            "type": "unordered list"
+        },
+        { 
+            "name": "Rationale", 
+            "type": "text"
+        },
+        { 
+            "name": "Pros and Cons", 
+            "type": "text"
+        },
+        { 
+            "name": "Goal Alignment", 
+            "type": "text"
+        },
+        { 
+            "name": "Frequency", 
+            "type": "options",
+            "options": [
+                { value: "daily" },
+                { value: "onlyOnce" },
+                { value: "everyHours" },
+                { value: "everyDays" }
+            ]
+        }
+    ]
+}

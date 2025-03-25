@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Hallucination Discussion": {
+    "Parameters": {
+      "Discussion Topics": {},
+      "Frequency": {},
+      "Deadline Date": {},
+      "Notes": {}
+    }
+  },
+  "Hallucination Journal": {
+    "Parameters": {
+      "Journal Entries": {},
+      "Frequency": {},
+      "Deadline Date": {},
+      "Notes": {}
+    }
+  }
+}

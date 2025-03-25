@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+  "Repositioning Reminder": {
+    "parameters": [
+      {
+        "name": "repositioning_frequency",
+        "description": "Specify how often to reposition yourself",
+        "required": true,
+        "type": "options",
+        "options": [
+          { "value": "everyHour", "label": "Every hour" },
+          { "value": "every2Hours", "label": "Every 2 hours" },
+          { "value": "every4Hours", "label": "Every 4 hours" }
+        ]
+      },
+      {
+        "name": "repositioning_reminder",
+        "description": "Set a reminder to reposition yourself",
+        "required": true,
+        "type": "boolean"
+      }
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Activity Finder": {
+    "Parameters": {
+      "Activity Categories": {"Type": "options"},
+      "Location": {"Type": "text or geolocation"},
+      "Interest-based Filtering": {"Type": "internal algorithm"},
+      "Activity Details": {"Type": "text or structured data"},
+      "Registration and Reminders": {"Type": "internal feature or integration with existing platforms"},
+      "Frequency": {"Type": "options"},
+      "Deadline Date": {"Type": "datetime"}
+    }
+  }
+}

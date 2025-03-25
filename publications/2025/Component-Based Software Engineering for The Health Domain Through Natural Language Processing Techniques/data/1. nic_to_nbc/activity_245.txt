@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Food Preference Assessor": {
+    "Parameters": {
+      "Food Likes": {},
+      "Food Dislikes": {},
+      "Dietary Restrictions": {},
+      "Cultural or Ethnic Preferences": {},
+      "Food Texture Preferences": {}
+    }
+  },
+  "Food Preference Profile": {
+    "Parameters": {
+      "Profile Name": {},
+      "Food Preferences": {},
+      "Profile Description": {}
+    }
+  }
+}

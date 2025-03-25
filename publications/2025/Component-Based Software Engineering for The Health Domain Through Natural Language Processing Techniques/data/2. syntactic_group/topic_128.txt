@@ -1,0 +1,10 @@
+{
+  "name": "Pressure and Friction Application",
+  "description": "Describes how to apply pressure and friction in different medical or physical settings, including the use of devices like balloons. Focuses on the location and duration of application for effective results.",
+  "type": "non-periodic",
+  "input": ["Pressure application", "Friction application", "Device usage", "Balloon devices", "Point of application"],
+  "output": ["Pressure and friction guide", "Device usage report", "Application location feedback"],
+  "preconditions": ["User is applying pressure or friction in a medical or therapeutic setting"],
+  "postconditions": ["Proper application of pressure and friction for intended results"],
+  "dependencies": ["Pressure and friction tools", "Device management system", "Application guidelines"]
+}

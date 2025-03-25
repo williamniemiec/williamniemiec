@@ -1,0 +1,30 @@
+Here is the output in JSON format:
+
+
+{
+  "Bowel Movement Tracker": {
+    "parameters": {
+      "Bowel Movement Frequency": {
+        "type": "options"
+      },
+      "Bowel Movement Characteristics": {
+        "type": "checklist or text"
+      },
+      "Abdominal Symptoms": {
+        "type": "checklist or text"
+      },
+      "Frequency": {
+        "options": ["daily", "every other day", "2-3 times a week", "etc"]
+      },
+      "Deadline Date": {
+        "type": "datetime"
+      },
+      "Additional Notes": {
+        "type": "text"
+      }
+    }
+  }
+}
+
+
+Note that I removed the "Not Applicable" parameters and kept only the specified ones. Let me know if you need any further assistance!

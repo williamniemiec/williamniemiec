@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Art History Collection": {
+    "parameters": {
+      "Drawing Collection": {},
+      "Complete History": {},
+      "Baseline Drawings": {},
+      "Collection Period": {}
+    }
+  }
+}

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Accident Management": {
+    "parameters": [
+      {"name": "Accident Expectation", "type": "text or multimedia content"},
+      {"name": "Ignoring Accidents", "type": "text or multimedia content"},
+      {"name": "Calm Response", "type": "list of text or multimedia content"},
+      {"name": "Accident Cleanup", "type": "list of text or multimedia content"},
+      {"name": "Emotional Support", "type": "list of text or multimedia content"}
+    ]
+  }
+}

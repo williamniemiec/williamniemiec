@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Dietary Restriction Tracker": {
+    "Parameters": {
+      "Potassium Limit": {"Type": "number"},
+      "Food Diary": {"Type": "list of text"},
+      "Potassium-Rich Foods": {"Type": "list of text"},
+      "Reminders": {"Type": "datetime"}
+    }
+  }
+}

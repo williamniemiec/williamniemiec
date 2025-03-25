@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Tongue Stimulation": {
+    "Parameters": {
+      "Stimulation Instructions": {"Type": ["text", "multimedia content"]},
+      "Correct Technique Image": {"Type": ["image", "multimedia content"]},
+      "Tips and Reminders": {"Type": ["text", "multimedia content"]},
+      "Condition for Stimulation": {"Type": ["text", "boolean"]}
+    }
+  }
+}

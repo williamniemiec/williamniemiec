@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Comfortable Seating": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Seating Options": {"Type": "list of seating options"},
+      "Features": {"Type": "list of features"},
+      "Location": {"Type": "list of locations"}
+    }
+  }
+}

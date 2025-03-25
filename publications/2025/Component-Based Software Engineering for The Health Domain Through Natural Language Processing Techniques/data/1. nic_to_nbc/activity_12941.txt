@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "noCodeElementName": "Message",
+  "parameterSpecifications": {
+    "Message template": {"type": "text"},
+    "Recipient": {"type": "user ID or username"},
+    "Frequency": {"type": "options (e.g., daily, weekly, etc.)"},
+    "Response type": {"type": "options (e.g., text, file, etc.)"}
+  }
+}
+
+
+Note: I removed the "Not Applicable" parameters as per your request.

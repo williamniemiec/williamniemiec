@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Privacy Setting": {
+    "Family Access": {
+      "options": ["full access", "limited access", "no access"]
+    },
+    "Family Members": {
+      "type": "list of names or relationships"
+    },
+    "Information Sharing": {
+      "options": ["medical history", "medication list", "appointment schedule", "etc."]
+    }
+  }
+}

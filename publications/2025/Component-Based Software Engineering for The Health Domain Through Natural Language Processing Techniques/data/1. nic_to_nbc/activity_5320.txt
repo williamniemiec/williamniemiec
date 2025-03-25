@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "ICP and Neurological Response Monitoring": {
+    "parameters": {
+      "name": {},
+      "device": {},
+      "ICP_value": {},
+      "unit": {},
+      "neurological_response": {},
+      "stimuli": {},
+      "frequency": {},
+      "deadline_date": {},
+      "notes": {}
+    }
+  }
+}

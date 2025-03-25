@@ -1,0 +1,29 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Therapeutic Relationship Establishment",
+    "parameters": [
+        { 
+            "name": "Introduction", 
+            "type": "text"
+        },
+        { 
+            "name": "Trust Building Questions", 
+            "type": "checklist",
+            "options": ["What are your concerns about your health?", "What are your goals for your health?"]
+        },
+        { 
+            "name": "Respectful Communication Guidelines", 
+            "type": "text"
+        },
+        { 
+            "name": "Frequency of Check-ins", 
+            "type": "options",
+            "options": ["daily", "weekly", "monthly"]
+        }
+    ]
+}
+
+
+Let me know if this is what you were expecting!

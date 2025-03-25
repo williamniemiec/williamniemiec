@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Mindfulness Exercise": {
+    "Guided Meditation": {"type": "text or audio file"},
+    "Breathing Exercise": {"type": "text or video"},
+    "Reflection Prompt": {"type": "text"},
+    "Timer": {"type": "timer"},
+    "Journaling": {"type": "text input"}
+  }
+}

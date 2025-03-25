@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+    "Notification": {
+        "Recipients": {
+            "type": "list of text"
+        },
+        "Message": {
+            "type": "text"
+        },
+        "Trigger": {
+            "type": "options"
+        },
+        "Urgency Level": {
+            "type": "options"
+        }
+    }
+}

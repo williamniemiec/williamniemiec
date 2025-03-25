@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+    "Tension Reduction Strategies": {
+        "title": "",
+        "content": "",
+        "strategies": [],
+        "quizzes": [],
+        "tracking": ""
+    },
+    "Goal Setting": {
+        "title": "",
+        "goal description": "",
+        "target date": "",
+        "reminders": "",
+        "progress tracking": ""
+    },
+    "Mood Tracking": {
+        "title": "",
+        "mood tracking interface": "",
+        "data visualization": "",
+        "insights and recommendations": ""
+    }
+}

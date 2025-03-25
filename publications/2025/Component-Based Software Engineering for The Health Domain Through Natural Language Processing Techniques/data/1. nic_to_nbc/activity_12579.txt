@@ -1,0 +1,15 @@
+
+
+
+{
+  "Symptom Checker": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Symptoms": {"Type": "checklist"},
+      "Frequency": {"Type": "options"},
+      "Deadline Date": {"Type": "datetime"},
+      "Severity": {"Type": "options"},
+      "Notes": {"Type": "text"}
+    }
+  }
+}

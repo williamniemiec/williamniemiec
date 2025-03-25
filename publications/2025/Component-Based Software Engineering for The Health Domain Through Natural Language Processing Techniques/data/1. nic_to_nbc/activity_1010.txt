@@ -1,0 +1,36 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Self-Criticism Reflection",
+    "parameters": [
+        {
+            "name": "Self-Criticism Statement",
+            "type": "text"
+        },
+        {
+            "name": "Reasons for Self-Criticism",
+            "type": "options",
+            "options": [
+                { value: "fear of failure", label: "Fear of failure" },
+                { value: "perfectionism", label: "Perfectionism" },
+                { value: "past experiences", label: "Past experiences" },
+                { value: "other", label: "Other" }
+            ]
+        },
+        {
+            "name": "Emotions Associated",
+            "type": "options",
+            "options": [
+                { value: "anxiety", label: "Anxiety" },
+                { value: "shame", label: "Shame" },
+                { value: "guilt", label: "Guilt" },
+                { value: "other", label: "Other" }
+            ]
+        },
+        {
+            "name": "Reflection Prompt",
+            "type": "text"
+        }
+    ]
+}

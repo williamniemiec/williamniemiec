@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Ovulation Tracker": {
+    "Basal Body Temperature": {},
+    "Vaginal Secretions": {},
+    "Other Indicators": {},
+    "Ovulation Prediction": {},
+    "Education": {},
+    "Reminders": {}
+  }
+}

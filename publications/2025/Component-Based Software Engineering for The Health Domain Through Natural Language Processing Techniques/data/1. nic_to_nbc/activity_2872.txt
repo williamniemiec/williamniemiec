@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+  "No-code Element": "Diuretic Administration Guide",
+  "Parameters": {
+    "Indication": {
+      "Type": "options",
+      "Options": "list of possible indications"
+    },
+    "Diuretic Type": {
+      "Type": "options",
+      "Options": "list of available diuretics"
+    },
+    "Dosage": {
+      "Type": "text"
+    },
+    "Monitoring Parameters": {
+      "Type": "list",
+      "Items": "list of monitoring parameters"
+    }
+  }
+}

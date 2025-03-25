@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+    "Rapport Builder": {
+        "parameters": {
+            "greeting": {"type": "text"},
+            "empathy_statement": {"type": "text"},
+            "active_listening": {"type": "options"},
+            "personalization": {"type": "options"}
+        }
+    },
+    "Patient Profile": {
+        "parameters": {
+            "patient_id": {"type": "text"},
+            "name": {"type": "text"},
+            "health_goals": {"type": "text"}
+        }
+    }
+}

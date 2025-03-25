@@ -1,0 +1,48 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "stimulus reduction",
+  "parameters": [
+    {
+      "name": "title",
+      "description": "title of the stimulus reduction guide",
+      "required": true,
+      "type": "text"
+    },
+    {
+      "name": "stimuli",
+      "description": "list of environmental stimuli to reduce",
+      "required": true,
+      "type": "unordered list",
+      "options": [
+        { "value": "light", "label": "Light" },
+        { "value": "noise", "label": "Noise" },
+        { "value": "temperature", "label": "Temperature" },
+        { "value": "other", "label": "Other (please specify)" }
+      ]
+    },
+    {
+      "name": "reduction_method",
+      "description": "method to reduce the stimuli",
+      "required": true,
+      "type": "options",
+      "options": [
+        { "value": "dimming", "label": "Dimming" },
+        { "value": "earplugs", "label": "Earplugs" },
+        { "value": "adjustingThermostat", "label": "Adjusting thermostat" },
+        { "value": "other", "label": "Other (please specify)" }
+      ]
+    },
+    {
+      "name": "frequency",
+      "description": "specify how often to reduce environmental stimuli",
+      "required": true,
+      "type": "options",
+      "options": [
+        { "value": "asNeeded", "label": "As needed" },
+        { "value": "regularly", "label": "Regularly" }
+      ]
+    }
+  ]
+}

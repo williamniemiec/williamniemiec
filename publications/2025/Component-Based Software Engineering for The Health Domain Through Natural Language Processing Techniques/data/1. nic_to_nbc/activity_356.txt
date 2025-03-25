@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Goal Setting",
+    "parameters": [
+        { 
+            "name": "goal_categories", 
+            "type": "list of goal categories"
+        },
+        { 
+            "name": "goal_setting_process", 
+            "type": "list of goal setting steps"
+        },
+        { 
+            "name": "goal_prioritization", 
+            "type": "list of goal prioritization steps"
+        },
+        { 
+            "name": "goal_review", 
+            "type": "list of goal review steps"
+        }
+    ]
+}

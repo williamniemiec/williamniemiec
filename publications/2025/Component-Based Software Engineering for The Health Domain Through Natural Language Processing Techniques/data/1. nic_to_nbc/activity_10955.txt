@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+    "Smoking Cessation Plan Development": {
+        "parameters": [
+            {"name": "Plan Template", "type": "text"},
+            {"name": "Psychosocial Aspect Identification", "type": "reference"},
+            {"name": "Goal Setting", "type": "text"},
+            {"name": "Strategy Development", "type": "text"},
+            {"name": "Frequency", "type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+            {"name": "Deadline Date", "type": "datetime"}
+        ]
+    }
+}

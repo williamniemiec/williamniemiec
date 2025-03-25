@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Alternate Eye Patching": {
+    "Parameters": [
+      {"Task Title": {"Type": "text", "Description": "Alternate Eye Patching for Diplopia"}},
+      {"Task Steps": {"Type": "text", "Description": "Step 1: Patch one eye for a specified period of time. Step 2: Switch to patch the other eye for the same period of time."}},
+      {"Frequency": {"Type": "options", "Options": ["daily", "weekly", "bi-weekly", "monthly"], "Description": "How often should you alternate eye patching?"}},
+      {"Duration": {"Type": "text", "Description": "Patch each eye for 30 minutes, then switch"}},
+      {"Reason": {"Type": "text", "Description": "To alleviate diplopia (double vision) symptoms"}}
+    ]
+  },
+  "Alternate Eye Patching Guide": {
+    "Parameters": [
+      {"Page Title": {"Type": "text", "Description": "Alternate Eye Patching for Diplopia"}},
+      {"Page Content": {"Type": "text", "Description": "Alternate eye patching can help alleviate diplopia symptoms. Follow these steps to ensure proper patching techniques."}},
+      {"Image": {"Type": "image", "Description": "An image illustrating the proper alternate eye patching technique"}}
+    ]
+  }
+}

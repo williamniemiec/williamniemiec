@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "no-code element name": "Symptom Checker",
+  "parameter specifications": {
+    "Symptoms": {
+      "type": "unordered list"
+    },
+    "Health Status": {
+      "type": "options",
+      "options": ["good", "fair", "poor"]
+    }
+  }
+}

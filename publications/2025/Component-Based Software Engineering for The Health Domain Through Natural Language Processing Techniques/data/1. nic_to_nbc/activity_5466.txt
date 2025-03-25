@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+[
+    {
+        "name": "Guide",
+        "parameters": {
+            "name": "Log Roll Technique for Turning",
+            "pages": []
+        }
+    },
+    {
+        "name": "Video",
+        "parameters": {
+            "name": "Log Roll Technique for Turning",
+            "video_url": "",
+            "description": ""
+        }
+    }
+]
+
+
+Let me know if you need any further assistance!

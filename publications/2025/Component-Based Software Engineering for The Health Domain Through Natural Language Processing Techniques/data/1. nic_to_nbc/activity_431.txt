@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+  "Home Safety Guide": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Safety Tips": {"Type": "list of text and images"},
+      "Room-by-Room Guide": {"Type": "list of text and images"},
+      "Videos and Images": {"Type": "list of video and image files"},
+      "Interactive Quizzes": {"Type": "quiz with multiple-choice questions"},
+      "Frequency": {"Type": "options", "Options": ["daily", "every other day", "weekly", "etc."]},
+      "Safety Checklist": {"Type": "checklist with input fields for date and completion status"},
+      "Personalized Recommendations": {"Type": "text and images"}
+    }
+  }
+}
+
+
+Note that I removed the non-applicable parameters, which are the introduction, number, description, content type, and conclusion. I also reformatted the parameter specifications to fit a JSON structure.

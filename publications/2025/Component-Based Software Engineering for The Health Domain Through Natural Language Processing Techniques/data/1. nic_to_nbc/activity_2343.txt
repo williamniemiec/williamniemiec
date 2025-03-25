@@ -1,0 +1,31 @@
+Here is the output in JSON format:
+
+{
+    "name": "Behavioral Step Planner",
+    "parameters": [
+        {
+            "name": "Targeted Social Skill",
+            "type": "text"
+        },
+        {
+            "name": "Behavioral Steps",
+            "type": "list of steps"
+        },
+        {
+            "name": "Step Description",
+            "type": "list of texts"
+        },
+        {
+            "name": "Step Order",
+            "type": "list of steps"
+        },
+        {
+            "name": "Frequency",
+            "type": "options"
+        },
+        {
+            "name": "Deadline Date",
+            "type": "datetime"
+        }
+    ]
+}

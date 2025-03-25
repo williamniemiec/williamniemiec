@@ -1,0 +1,10 @@
+Here is the output in JSON format:
+
+
+{
+    "Nipple Pain and Skin Integrity Assessment": {
+        "Pain Assessment": {"Type": "scale", "Optional": false},
+        "Skin Integrity Assessment": {"Type": "text", "Optional": false},
+        "Frequency": {"Type": "options", "Options": ["everyFeeding", "everyXFeedings", "atWill"], "Optional": false}
+    }
+}

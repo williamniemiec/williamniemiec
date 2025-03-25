@@ -1,0 +1,17 @@
+
+
+
+{
+"Dietary Guide": {
+    "Parameters": {
+        "Name": {"Type": "text"},
+        "Description": {"Type": "text"},
+        "Diet Type": {"Type": "options", "Options": ["list of diet types"]},
+        "Food Recommendations": {"Type": "list", "Items": ["list of food items with descriptions and serving sizes"]},
+        "Meal Plan": {"Type": "list", "Items": ["list of meal plans with recipes and instructions"]},
+        "Nutrient Tracking": {"Type": "boolean"},
+        "Reminders": {"Type": "boolean"},
+        "Resources": {"Type": "list", "Items": ["list of resources, such as websites, videos, or articles"]}
+    }
+}
+}

@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+
+{
+  "Controlled Substance Key Management": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Key Information": {"Type": "text"},
+      "Key Holder Information": {"Type": "text"},
+      "Key Status": {"Type": "options", "Options": ["in use", "stored", "missing"]},
+      "Key Check-in/Check-out": {"Type": "datetime"},
+      "Audit Trail": {"Type": "text"}
+    }
+  }
+}

@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Self-Worth Builder": {
+    "parameters": [
+      {"name": "Name", "type": "text"},
+      {"name": "Modules", "type": "program-module", "program-module": []},
+      {"name": "Activities", "type": "activity", "activity": []},
+      {"name": "Reflection Prompts", "type": "reflection-prompt", "reflection-prompt": []},
+      {"name": "Motivational Messages", "type": "motivational-message", "motivational-message": []},
+      {"name": "Goal Setting", "type": "goal-setting", "goal-setting": []},
+      {"name": "Frequency", "type": "options", "options": []},
+      {"name": "Deadline Date", "type": "datetime"}
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+    "Guided Movement": {
+        "Parameters": [
+            {"Task": {"Type": "text"}},
+            {"Guided Movement Type": {"Type": "options"}},
+            {"Step-by-Step Instructions": {"Type": "list of text and multimedia"}},
+            {"Frequency": {"Type": "options"}},
+            {"Deadline Date": {"Type": "datetime"}},
+            {"Reminders": {"Type": "boolean"}}
+        ]
+    }
+}

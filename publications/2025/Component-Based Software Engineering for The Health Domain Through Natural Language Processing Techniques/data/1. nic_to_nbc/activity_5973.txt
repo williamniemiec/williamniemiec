@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Side Effects": {
+    "parameters": [
+      {"Name": {"type": "text"}},
+      {"Medication Name": {"type": "text"}},
+      {"Side Effects": {"type": "list of text"}},
+      {"Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]}},
+    ]
+  }
+}
+
+
+Note: I removed the `Deadline Date` parameter since it's not applicable (i.e., its `required` field is set to `false`).

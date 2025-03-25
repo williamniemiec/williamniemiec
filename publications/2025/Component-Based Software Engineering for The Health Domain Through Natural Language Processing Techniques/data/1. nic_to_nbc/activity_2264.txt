@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "noCodeElementName": "Activity Tips",
+  "parameterSpecifications": {
+    "Title": {"type": "text"},
+    "Description": {"type": "text"},
+    "Tip Type": {"type": "options", "options": ["household chore", "daily activity", "leisure activity", "etc."]},
+    "Activity Idea": {"type": "text"},
+    "Benefits": {"type": "text"},
+    "Frequency": {"type": "options", "options": ["daily", "every other day", "3 times a week", "etc."]},
+    "Reminders": {"type": "boolean"},
+    "Resources": {"type": "text (URL or link)"}
+  }
+}

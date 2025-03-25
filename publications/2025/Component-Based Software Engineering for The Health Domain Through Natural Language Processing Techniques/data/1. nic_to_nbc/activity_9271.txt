@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+    "Color Scale Photo": {
+        "Name": {},
+        "Frequency": {},
+        "Deadline Date": {},
+        "Color Scale Reference": {},
+        "Injury Location": {}
+    }
+}

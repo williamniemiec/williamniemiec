@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Parameter Specifications": {
+    "Cognitive Functioning": {"Type": "options", "Options": ["mild", "moderate", "severe", "other"]},
+    "Self-Control Capacity": {"Type": "options", "Options": ["high", "medium", "low", "other"]},
+    "Behavioral Expectations": {"Type": "list of text"},
+    "Consequences": {"Type": "list of text"},
+    "Reinforcement Strategies": {"Type": "list of text"},
+    "Frequency": {"Type": "options", "Options": ["daily", "weekly", "monthly", "as needed"]},
+    "Deadline Date": {"Type": "datetime"},
+    "Caregiver Involvement": {"Type": "options", "Options": ["high", "medium", "low", "other"]}
+  },
+  "No-Code Element Name": "Behavioral Expectations Plan"
+}

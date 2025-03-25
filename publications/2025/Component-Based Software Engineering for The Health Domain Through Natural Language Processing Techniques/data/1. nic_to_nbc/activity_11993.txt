@@ -1,0 +1,16 @@
+
+
+
+{
+  "Delusion Management Guide": {
+    "guide_title": {"type": "text"},
+    "guide_content": {"type": "rich text or HTML"},
+    "tips_and_strategies": {"type": "list of tips and strategies"},
+    "scenarios": {"type": "list of scenario-based examples"},
+    "quiz": {"type": "list of quiz questions with answers"},
+    "resources": {"type": "list of resources"}
+  }
+}
+
+
+Let me know if this meets your requirements!

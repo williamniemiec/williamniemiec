@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Verify Patient Statement": {
+    "parameters": {
+      "Patient Statement": {"type": "text"},
+      "Verified Statement": {"type": "text"},
+      "Verification Method": {"type": "options", "options": ["Repeating the statement back to the patient", "Asking the patient to confirm the statement", "Documenting the statement in the patient's record"]},
+      "Frequency": {"type": "options", "options": ["During every interaction with the patient", "Only when necessary"]}
+    }
+  }
+}
+
+
+Note: I removed `Deadline Date` parameter as it was not applicable (no specific value was provided).

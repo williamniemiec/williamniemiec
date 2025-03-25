@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Parental Discipline Reflection": {
+    "parameters": {
+      "discipline_methods": {"type": "text"},
+      "effectiveness": {"type": "options", "options": ["very effective", "somewhat effective", "not effective"]},
+      "challenges": {"type": "text"},
+      "feelings_of_success": {"type": "text"},
+      "what_worked": {"type": "text"},
+      "what_didnt_work": {"type": "text"}
+    }
+  }
+}

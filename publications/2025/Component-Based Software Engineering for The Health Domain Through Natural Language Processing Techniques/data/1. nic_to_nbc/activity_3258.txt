@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Diabetes Management During Illness": {
+    "Insulin and Oral Agents": {"type": "text with dosage instructions and illustrations"},
+    "Fluid Intake": {"type": "text with guidelines for fluid intake and illustrations"},
+    "Carbohydrate Replacement": {"type": "text with guidelines for carbohydrate replacement and illustrations"},
+    "Seeking Health Professional Assistance": {"type": "list of criteria with explanations and illustrations"},
+    "Interactive Elements": {"type": "list of interactive elements"},
+    "Resources": {"type": "list of resources (with URLs or PDFs)"}
+  }
+}

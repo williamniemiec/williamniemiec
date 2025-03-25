@@ -1,0 +1,32 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Nonpharmacologic Treatment Identification",
+  "parameters": [
+    {
+      "name": "Treatment Options",
+      "type": "list",
+      "items": [
+        {
+          "treatment name": "",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "name": "Indicated Treatments",
+      "type": "list",
+      "items": [
+        {
+          "treatment name": "",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "name": "Additional Information",
+      "type": "text area"
+    }
+  ]
+}

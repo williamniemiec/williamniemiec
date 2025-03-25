@@ -1,0 +1,33 @@
+Here is the output in JSON format:
+
+
+{
+  "Behavioral Agreement Template": {
+    "Parameters": {
+      "Name": {},
+      "Agreement Sections": {
+        "Type": "list",
+        "Section Name": {},
+        "Section Description": {}
+      },
+      "Behavioral Expectations": {
+        "Type": "list",
+        "Expectation Name": {},
+        "Expectation Description": {}
+      },
+      "Agreement Signatures": {
+        "Type": "list",
+        "Signature Name": {},
+        "Signature Date": {}
+      },
+      "Frequency": {
+        "Type": "options",
+        "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+      },
+      "Deadline Date": {}
+    }
+  }
+}
+
+
+Note: I removed the "not applicable" parameters, which means I didn't include any parameters that don't have a specific value or type definition. Let me know if you need further clarification!

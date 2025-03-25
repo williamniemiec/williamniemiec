@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+  "Instructional Video": {
+    "parameters": {
+      "name": "",
+      "content": "",
+      "description": "",
+      "frequency": ["daily", "onlyOnce", "everyHours", "everyDays"],
+      "deadline_date": ""
+    }
+  },
+  "Task": {
+    "parameters": {
+      "name": "",
+      "content": "",
+      "frequency": "",
+      "deadline_date": ""
+    }
+  },
+  "Guide": {
+    "parameters": {
+      "name": "",
+      "pages": []
+    }
+  }
+}

@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Stump Self-Care Guide": {
+    "Parameters": {
+      "Stump Care Tips": {"Type": "text"},
+      "Stump Inspection": {"Type": "checkbox list"},
+      "Stump Care Reminders": {"Type": "boolean"},
+      "Stump Care Resources": {"Type": "links"},
+      "Stump Care Tracking": {"Type": "checkbox list"},
+      "Goal Setting": {"Type": "text"}
+    }
+  }
+}

@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Dieting Warning": {
+    "parameters": {
+      "Dieting Risks": {"type": "text"},
+      "Weight Management Tips": {"type": "text"},
+      "Healthy Alternatives": {"type": "text"}
+    }
+  }
+}

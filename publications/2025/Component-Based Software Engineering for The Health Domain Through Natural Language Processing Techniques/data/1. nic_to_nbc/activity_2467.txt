@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Psychosocial Resource Hub": {
+    "Resource Type": {},
+    "Psychosocial Topics": {},
+    "Resource Content": {},
+    "Target Audience": {},
+    "Resource Rating": {},
+    "Resource Feedback": {}
+  }
+}

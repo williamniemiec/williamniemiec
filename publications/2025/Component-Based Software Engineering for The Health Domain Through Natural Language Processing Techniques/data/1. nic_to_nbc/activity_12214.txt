@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+    "medication": [
+        {"name": "name", "description": "lubricant name"},
+        {"name": "type", "description": "type of lubricant", "options": [{"value": "lipBalm", "label": "Lip balm"}, {"value": "oralGel", "label": "Oral gel"}, {"value": "salineSolution", "label": "Saline solution"}]},
+        {"name": "application_instructions", "description": "instructions for applying the lubricant"},
+        {"name": "frequency", "description": "how often to apply the lubricant", "options": [{"value": "asNeeded", "label": "As needed"}, {"value": "everyHours", "label": "Every x hours"}, {"value": "everyDays", "label": "Every x days"}]}
+    ]
+}

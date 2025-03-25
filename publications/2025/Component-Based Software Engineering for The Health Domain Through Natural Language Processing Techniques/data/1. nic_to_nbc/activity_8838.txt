@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Tracheal Suctioning": {
+    "Parameters": {
+      "Task Title": {"Type": "text", "Required": true},
+      "Instructions": {"Type": "text", "Required": true},
+      "Suctioning Sequence": {"Type": "options", "Required": true, "Options": [{"value": "tracheaOralNasal", "label": "Trachea, then oral cavity, then nasal pharynx"}]},
+      "Frequency": {"Type": "options", "Required": true, "Options": [{"value": "asNeeded", "label": "As needed"}, {"value": "daily", "label": "Daily"}, {"value": "everyHours", "label": "Every x hours"}, {"value": "everyDays", "label": "Every x days"}]}
+    }
+  }
+}

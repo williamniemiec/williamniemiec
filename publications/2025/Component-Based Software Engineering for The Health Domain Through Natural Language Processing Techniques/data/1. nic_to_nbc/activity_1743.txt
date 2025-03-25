@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+    "Milk Expression Schedule Planner": {
+        "Parameters": {
+            "Name": {"Type": "text"},
+            "Content": {"Type": "rich text or multimedia"},
+            "Individual Factors": {"Type": "form or questionnaire"},
+            "Schedule Options": {"Type": "unordered list or table"},
+            "Personalized Recommendations": {"Type": "text or table"},
+            "Tracking": {"Type": "table or chart"}
+        }
+    }
+}

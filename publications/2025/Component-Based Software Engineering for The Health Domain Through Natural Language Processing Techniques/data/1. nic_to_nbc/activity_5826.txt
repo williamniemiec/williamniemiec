@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+  "Digital Behavior Tracker": {
+    "Parameters": {
+      "Instructions": {},
+      "Tracking type": {},
+      "Tracking duration": {},
+      "Frequency": {},
+      "Deadline date": {},
+      "Reminders": {}
+    }
+  },
+  "Digital Behavior Guide": {
+    "Parameters": {
+      "Instructions": {},
+      "Guide type": {},
+      "Frequency": {},
+      "Deadline date": {}
+    }
+  }
+}

@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Tube Irrigation": {
+    "Parameters": {
+      "Task Title": {"Required": true, "Type": "text"},
+      "Feeding Type": {"Description": "Specify the type of feeding", "Required": true, "Type": "options", "Options": [{"value": "continuous", "label": "Continuous"}, {"value": "intermittent", "label": "Intermittent"}]},
+      "Irrigation Frequency": {"Description": "Specify the frequency of tube irrigation", "Required": true, "Type": "options", "Options": [{"value": "every4hours", "label": "Every 4 hours"}, {"value": "every6hours", "label": "Every 6 hours"}]},
+      "Irrigate Tube": {"Description": "Irrigate the tube", "Required": true, "Type": "boolean"}
+    }
+  }
+}
+
+
+Note: I removed the `Notes` parameter since it was marked as not required. Let me know if you'd like to include it anyway!

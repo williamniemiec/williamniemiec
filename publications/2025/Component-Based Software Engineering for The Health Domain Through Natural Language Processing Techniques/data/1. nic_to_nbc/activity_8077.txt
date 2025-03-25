@@ -1,0 +1,63 @@
+Here is the output in JSON format:
+
+
+{
+    "environmental control": {
+        "parameters": [
+            { 
+                "name": "title", 
+                "description": "title of the environmental control guide", 
+                "required": true, 
+                "type": "text"
+            },
+            { 
+                "name": "factors", 
+                "description": "list of environmental factors to control", 
+                "required": true, 
+                "type": "unordered list",
+                "options": [
+                    { value: "exposure", label: "Exposure" },
+                    { value: "drafts", label: "Drafts" },
+                    { value: "overheating", label: "Overheating" },
+                    { value: "chilling", label: "Chilling" }
+                ]
+            },
+            { 
+                "name": "precautions", 
+                "description": "list of precautions to take", 
+                "required": true, 
+                "type": "unordered list",
+                "precautions": [
+                    { 
+                        "name": "dressappropriately", 
+                        "description": "dress appropriately for the environment", 
+                        "required": true, 
+                        "type": "boolean"
+                    },
+                    { 
+                        "name": "useblankets", 
+                        "description": "use blankets or bedding to maintain comfort", 
+                        "required": true, 
+                        "type": "boolean"
+                    },
+                    { 
+                        "name": "adjustthermostat", 
+                        "description": "adjust the thermostat to maintain a comfortable temperature", 
+                        "required": true, 
+                        "type": "boolean"
+                    }
+                ]
+            },
+            { 
+                "name": "frequency", 
+                "description": "specify how often to check and control environmental factors", 
+                "required": true, 
+                "type": "options",
+                "options": [
+                    { value: "continuously", label: "Continuously" },
+                    { value: "regularly", label: "Regularly" }
+                ]
+            }
+        ]
+    }
+}

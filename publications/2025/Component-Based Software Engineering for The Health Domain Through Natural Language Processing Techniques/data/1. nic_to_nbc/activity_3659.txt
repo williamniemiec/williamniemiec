@@ -1,0 +1,29 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Preparation": {
+    "parameters": {
+      "name": "",
+      "dosage": "",
+      "frequency": "",
+      "deadline_date": "",
+      "responsible_person": ""
+    }
+  },
+  "Instruction": {
+    "parameters": {
+      "name": "",
+      "pages": []
+    }
+  },
+  "Tutorial": {
+    "parameters": {
+      "name": "",
+      "steps": []
+    }
+  }
+}
+
+
+Note that I removed the non-applicable parameters and kept only the no-code element names and their corresponding parameter specifications.

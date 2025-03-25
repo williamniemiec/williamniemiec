@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Vital Sign Monitoring": {
+    "Vital Signs to Monitor": {"type": "list of text"},
+    "Monitoring Frequency": {"type": "recurring schedule"},
+    "Normal Ranges": {"type": "list of text"},
+    "Abnormality Thresholds": {"type": "list of text"},
+    "Notification": {"type": "boolean"}
+  }
+}

@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Prescription Submission": {
+    "parameters": {
+      "Prescription Information": {},
+      "Payer Information": {},
+      "Submission Method": {},
+      "Submission Date": {},
+      "Tracking Information": {},
+      "Follow-up Instructions": {}
+    }
+  }
+}

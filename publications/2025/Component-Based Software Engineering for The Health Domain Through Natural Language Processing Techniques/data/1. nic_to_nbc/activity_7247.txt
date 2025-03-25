@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "Self-Assessment Guide": {
+    "Parameters": {
+      "Title": {
+        "Type": "text"
+      },
+      "Questions": {
+        "Type": "list of questions"
+      },
+      "Response Options": {
+        "Type": "list of response options"
+      },
+      "Instructions": {
+        "Type": "text"
+      },
+      "Warning Signs": {
+        "Type": "list of warning signs"
+      }
+    }
+  }
+}

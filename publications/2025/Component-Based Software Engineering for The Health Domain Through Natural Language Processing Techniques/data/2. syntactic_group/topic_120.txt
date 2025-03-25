@@ -1,0 +1,10 @@
+{
+  "name": "Foot Care and Orthotics",
+  "description": "Focuses on foot care techniques including trimming toenails, managing calluses, wearing orthotics, and the importance of proper shoes and socks. Aims to maintain foot health and prevent injuries.",
+  "type": "non-periodic",
+  "input": ["Foot care", "Shoe and sock maintenance", "Toenail trimming", "Callus management", "Orthotics use"],
+  "output": ["Foot care guidance", "Orthotic recommendation", "Shoe fitting advice"],
+  "preconditions": ["User is managing foot care or selecting appropriate footwear"],
+  "postconditions": ["Improved foot health and comfort"],
+  "dependencies": ["Foot care guide", "Orthotic device recommendations", "Footwear selection tools"]
+}

@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Safety Guideline": {
+    "guideline title": {},
+    "Guidelines": {},
+    "Reason": {},
+    "Frequency": {},
+    "Deadline Date": {}
+  }
+}

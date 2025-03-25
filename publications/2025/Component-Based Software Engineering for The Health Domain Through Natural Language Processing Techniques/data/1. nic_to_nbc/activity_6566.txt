@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Procedure Guide": {
+    "parameters": {
+      "Procedure Description": {"type": "text"},
+      "Step-by-Step Instructions": {"type": "ordered list"},
+      "Visual Aids": {"type": "image or video"},
+      "FAQs": {"type": "list of questions and answers"},
+      "Additional Resources": {"type": "list of links or downloadable files"}
+    }
+  }
+}

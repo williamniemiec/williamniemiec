@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Vocabulary Agreement": {
+    "Choose Simple Words": {"type": "boolean"},
+    "Use Consistent Language": {"type": "boolean"},
+    "Avoid Complex Phrases": {"type": "boolean"},
+    "Use Visual Aids": {"type": "boolean"},
+    "Involve the Child": {"type": "boolean"},
+    "Additional Tips": {"type": "text"}
+  }
+}

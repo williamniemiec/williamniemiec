@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Orthostatic Blood Pressure and Cardiac Rhythm Tracking": {
+    "parameters": [
+      {"name": "Orthostatic Blood Pressure Value", "type": "number"},
+      {"name": "Cardiac Rhythm Value", "type": "text"},
+      {"name": "Change in Cardiac Rhythm", "type": "text"},
+      {"name": "Frequency", "type": "options", "options": ["daily", "weekly", "monthly"]},
+      {"name": "Target Range", "type": "range"},
+      {"name": "Orthostatic Blood Pressure and Cardiac Rhythm History", "type": "graph/chart"}
+    ]
+  }
+}

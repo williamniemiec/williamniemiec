@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Adverse Effects Tracker": {
+    "Adverse Effects": {"Type": "checklist", "Required": true},
+    "Severity": {"Type": "options", "Required": true},
+    "Frequency": {"Type": "options", "Required": true},
+    "Deadline Date": {"Type": "datetime", "Required": false},
+    "Notes": {"Type": "text", "Required": false}
+  },
+  "Symptom Checker": {
+    "Symptoms": {"Type": "checklist", "Required": true},
+    "Severity": {"Type": "options", "Required": true},
+    "Frequency": {"Type": "options", "Required": true},
+    "Deadline Date": {"Type": "datetime", "Required": false}
+  }
+}

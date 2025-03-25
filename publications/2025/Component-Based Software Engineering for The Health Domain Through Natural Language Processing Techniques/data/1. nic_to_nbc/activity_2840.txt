@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Vomiting Factors": {
+    "Medications": {"type": "text", "multipleEntriesAllowed": true},
+    "Procedures": {"type": "text", "multipleEntriesAllowed": true},
+    "Other Factors": {"type": "text", "multipleEntriesAllowed": true},
+    "Frequency": {"options": ["daily", "weekly", "monthly", "onlyOnce"]},
+    "Deadline Date": {"type": "datetime"}
+  }
+}

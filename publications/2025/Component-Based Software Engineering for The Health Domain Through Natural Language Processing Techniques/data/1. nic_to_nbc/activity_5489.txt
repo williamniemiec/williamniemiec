@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Emotional Check-in": {
+    "Emotion Options": {"type": "options"},
+    "Gender Reaction": {"type": "options"},
+    "Free Text": {"type": "text"},
+    "Frequency": {"options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"type": "datetime"}
+  }
+}

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Monitoring": {
+    "Parameters": {
+      "Medication Name": {"Type": "text"},
+      "Effect Type": {"Type": "options", "Options": ["side effects", "benefits", "other"]},
+      "Frequency": {"Type": "options", "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"Type": "datetime"},
+      "Reporting Method": {"Type": "options", "Options": ["survey", "journal", "other"]}
+    }
+  }
+}

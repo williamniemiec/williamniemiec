@@ -1,0 +1,33 @@
+Here is the output in JSON format:
+
+
+[
+  {
+    "name": "Preoperative Checklist",
+    "parameters": {
+      "Name": "Preoperative Checklist",
+      "Description": "Complete this checklist to ensure you're ready for your surgical procedure",
+      "Items": [
+        "Have you stopped taking medications as instructed?",
+        "Have you fasted for the required amount of time?",
+        "Do you have a ride arranged for after the procedure?",
+        "Have you completed all necessary paperwork?"
+      ],
+      "Frequency": "pre-operative or as needed"
+    }
+  },
+  {
+    "name": "Preoperative Task List",
+    "parameters": {
+      "Name": "Preoperative Task List",
+      "Description": "Complete these tasks to ensure you're ready for your surgical procedure",
+      "Tasks": [
+        "Stop taking medications as instructed",
+        "Fast for the required amount of time",
+        "Arrange for a ride after the procedure",
+        "Complete all necessary paperwork"
+      ],
+      "Frequency": "pre-operative or as needed"
+    }
+  }
+]

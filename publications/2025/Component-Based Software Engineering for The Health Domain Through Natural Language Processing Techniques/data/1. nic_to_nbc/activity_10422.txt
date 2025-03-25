@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Activity Plan": {
+    "parameters": {
+      "name": {"type": "text"},
+      "activity_type": {"type": "options"},
+      "duration": {"type": "time"},
+      "frequency": {"type": "options"},
+      "goal": {"type": "text"},
+      "reminders": {"type": "boolean"},
+      "tracking": {"type": "boolean"}
+    }
+  }
+}

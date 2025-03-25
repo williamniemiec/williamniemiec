@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+"Coping Method Explorer": {
+"Parameters": {
+"Coping Method Inventory": {"Type": "options"},
+"Coping Method Ranking": {"Type": "ranking"},
+"Coping Method Reflection": {"Type": "text"},
+"Personalized Coping Plan": {"Type": "text"}
+}
+}
+}

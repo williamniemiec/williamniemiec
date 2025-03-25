@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Financial Concerns Discussion": {
+    "parameters": {
+      "topic": "financial concerns related to medication regimen",
+      "content_type": ["text", "audio/video recording"],
+      "required": true,
+      "type": ["text", "audio/video recording"]
+    }
+  }
+}

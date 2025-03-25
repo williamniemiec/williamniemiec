@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+
+{
+"Care Team Connector": {
+    "Trigger": "",
+    "Care Team Member": "",
+    "Consultation Type": "",
+    "Reason for Referral": "",
+    "Urgency Level": ""
+}
+}

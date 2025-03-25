@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Signs to Report": {
+    "Parameters": {
+      "Sign Description": {"Type": "text or multimedia content"},
+      "Sign Type": {"Type": "options"},
+      "Reporting Instructions": {"Type": "text or multimedia content"},
+      "Urgency Level": {"Type": "options"},
+      "What to Expect": {"Type": "text or multimedia content"}
+    }
+  }
+}
+
+
+Let me know if this meets your requirements!

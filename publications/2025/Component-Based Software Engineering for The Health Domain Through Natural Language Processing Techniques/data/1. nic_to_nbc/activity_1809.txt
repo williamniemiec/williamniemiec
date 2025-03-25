@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+
+{
+  "Lab Result Tracker": {
+    "parameters": {
+      "name": {"type": "text"},
+      "lab_result": {"type": "numerical value"},
+      "at_risk_population": {"type": "options"},
+      "frequency": {"type": "options"},
+      "trend_analysis": {"type": "options"},
+      "alert_threshold": {"type": "numerical value"}
+    }
+  }
+}

@@ -1,0 +1,32 @@
+Here is the output in JSON format:
+
+
+{
+  "Specialty Foot Care Assessment": {
+    "parameters": [
+      {
+        "name": "Foot Care Needs",
+        "description": "Select the foot care services you require",
+        "required": true,
+        "type": "multiselect",
+        "options": [
+          {"value": "orthotics", "label": "Orthotics or prescription footwear"},
+          {"value": "callusTrimming", "label": "Callus trimming"},
+          {"value": "toenailTrimming", "label": "Toenail trimming"},
+          {"value": "mobilityEvaluation", "label": "Mobility evaluation and exercises"},
+          {"value": "footDeformityEvaluation", "label": "Foot deformity evaluation and management"},
+          {"value": "skinOrNailDeformities", "label": "Treatment of skin or nail deformities/infection"},
+          {"value": "abnormalGaitCorrection", "label": "Correction of abnormal gait or weight-bearing"},
+          {"value": "impairedArterialCirculation", "label": "Evaluation and management of impaired arterial circulation"},
+          {"value": "other", "label": "Other (please specify)"}
+        ]
+      },
+      {
+        "name": "Additional Information",
+        "description": "Provide any additional information about your foot care needs",
+        "required": false,
+        "type": "text"
+      }
+    ]
+  }
+}

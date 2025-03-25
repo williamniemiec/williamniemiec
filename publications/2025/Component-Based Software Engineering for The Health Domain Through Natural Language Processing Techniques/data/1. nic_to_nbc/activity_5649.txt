@@ -1,0 +1,40 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Urge Recognition Assessment",
+    "parameters": [
+        { 
+            "name": "Name", 
+            "type": "text"
+        },
+        { 
+            "name": "Instructions", 
+            "type": "text"
+        },
+        { 
+            "name": "Assessment Questions", 
+            "type": "list of text"
+        },
+        { 
+            "name": "Response Options", 
+            "type": "list of options"
+        },
+        { 
+            "name": "Scoring", 
+            "type": "text"
+        },
+        { 
+            "name": "Frequency", 
+            "type": "options",
+            "options": [
+                { value: "daily" },
+                { value: "everyOtherDay" },
+                { value: "weekly" },
+                { value: "monthly" }
+            ]
+        }
+    ]
+}
+
+Note that I removed the `Deadline Date` parameter since it's not applicable in this context, and also removed the `required`, `description`, and other fields as per your request. Let me know if you need any further modifications!

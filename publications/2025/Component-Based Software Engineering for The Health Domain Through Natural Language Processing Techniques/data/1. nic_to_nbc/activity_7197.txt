@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Vaccination Record": {
+    "parameters": [
+      {"name": "vaccine_name", "description": "specify the name of the vaccine", "required": true, "type": "text"},
+      {"name": "manufacturer", "description": "specify the manufacturer of the vaccine", "required": true, "type": "text"},
+      {"name": "lot_number", "description": "specify the lot number of the vaccine", "required": true, "type": "text"},
+      {"name": "expiration_date", "description": "specify the expiration date of the vaccine", "required": true, "type": "datetime"},
+      {"name": "administration_date", "description": "specify the date the vaccine was administered", "required": true, "type": "datetime"},
+      {"name": "notes", "description": "add any additional notes about the vaccination", "required": false, "type": "text"}
+    ]
+  }
+}

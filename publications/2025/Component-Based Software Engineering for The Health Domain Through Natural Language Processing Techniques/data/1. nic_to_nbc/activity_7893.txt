@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Posture Guide": {
+    "Name": {"type": "text"},
+    "Instructions": {"type": "text or video"},
+    "Images": {"type": "image or diagram"},
+    "Frequency": {"type": "options"}
+  }
+}

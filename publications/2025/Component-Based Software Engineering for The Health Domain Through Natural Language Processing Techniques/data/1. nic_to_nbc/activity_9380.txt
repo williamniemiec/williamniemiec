@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+  "Gentle Pat Drying Guide": {
+    "Parameters": {
+      "Drying Instructions": {},
+      "Drying Technique": {},
+      "Importance of Gentle Drying": {}
+    }
+  },
+  "Skin Care Log": {
+    "Parameters": {
+      "Drying Date": {},
+      "Drying Time": {},
+      "Drying Technique Used": {},
+      "Notes": {}
+    }
+  }
+}

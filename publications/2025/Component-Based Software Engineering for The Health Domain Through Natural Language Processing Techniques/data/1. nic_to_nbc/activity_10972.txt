@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Sight Substitution": {
+    "parameters": [
+      {"substitute_type": "options"},
+      {"substitute_settings": "list"},
+      {"frequency": "options"}
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Stress Management Guide": {
+    "title of the guide": {"type": "text", "required": true},
+    "Techniques": {"type": "unordered list", "required": true, "options": ["Deep breathing exercises", "Progressive muscle relaxation", "Meditation", "Yoga", "Journaling", "Other"]},
+    "Instructions": {"type": "book-page", "required": true, "book-page": "list of HTML texts"},
+    "Frequency": {"type": "options", "required": true, "options": ["Daily", "Every other day", "3 times a week", "Weekly", "As needed"]}
+  }
+}
+
+
+Note that I removed the `Deadline Date` parameter since it was marked as not required. Let me know if you need any further assistance!

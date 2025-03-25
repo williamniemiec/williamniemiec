@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Hand/Wrist Positioning": {
+    "parameters": {
+      "Name": {"type": "text"},
+      "Injury Location": {"type": "text"},
+      "Position of Function": {"type": ["text", "options"]},
+      "Positioning Instructions": {"type": ["text", "multimedia"]},
+      "Support Devices": {"type": ["text", "options"]}
+    }
+  }
+}
+
+
+Note that I removed the `Deadline Date` parameter as it is not applicable to the no-code element, and also removed the introduction, number, description, and conclusion parts of the text.

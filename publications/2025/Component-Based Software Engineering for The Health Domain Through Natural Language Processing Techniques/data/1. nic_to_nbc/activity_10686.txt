@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Flexible Feeding Schedule": {
+    "Feeding Frequency": {"Type": "options", "Options": ["six small feedings", "three meals", "other"]},
+    "Feeding Schedule": {"Type": "text"},
+    "Feeding Amount": {"Type": "number"},
+    "Feeding Duration": {"Type": "time"},
+    "Instructions": {"Type": "text"}
+  }
+}

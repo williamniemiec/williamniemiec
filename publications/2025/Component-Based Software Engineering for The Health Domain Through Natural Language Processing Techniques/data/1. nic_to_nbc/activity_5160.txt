@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+  "Monitoring Guide": {
+    "parameters": {
+      "name": {},
+      "instructions": {},
+      "images": {}
+    }
+  },
+  "Data Logger": {
+    "parameters": {
+      "name": {},
+      "data fields": {},
+      "logging frequency": {}
+    }
+  },
+  "Alert System": {
+    "parameters": {
+      "name": {},
+      "alert criteria": {},
+      "notification method": {}
+    }
+  }
+}

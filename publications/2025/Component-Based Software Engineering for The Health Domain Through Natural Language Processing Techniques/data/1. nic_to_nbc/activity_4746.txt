@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Respiratory Tracker": {
+    "Parameters": {
+      "Respiratory Rate": {"Type": "number"},
+      "Respiratory Depth": {"Type": "options"},
+      "Tidal Volume": {"Type": "options"},
+      "Minute Ventilation": {"Type": "options"},
+      "Frequency": {"Options": ["daily", "everyHours", "everyDays"]},
+      "Notes": {"Type": "text"}
+    }
+  }
+}

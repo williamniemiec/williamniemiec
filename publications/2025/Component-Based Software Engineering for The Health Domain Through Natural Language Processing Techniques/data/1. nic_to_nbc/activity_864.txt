@@ -1,0 +1,15 @@
+
+
+
+{
+  "Trigger Avoidance Plan": {
+    "parameters": {
+      "Trigger List": {"type": "unordered list"},
+      "Avoidance Strategies": {"type": "unordered list"},
+      "Trigger Rating": {"type": "scale"},
+      "Avoidance Plan": {"type": "text"},
+      "Frequency": {"options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"type": "datetime"}
+    }
+  }
+}

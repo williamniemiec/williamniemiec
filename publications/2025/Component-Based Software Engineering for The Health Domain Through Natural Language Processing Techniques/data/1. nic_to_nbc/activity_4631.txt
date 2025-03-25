@@ -1,0 +1,10 @@
+Here is the output in JSON format:
+
+
+{
+  "Silent Companion": {
+    "Duration": {"Type": "options"},
+    "Instructions": {"Type": "text"},
+    "Helper's Role": {"Type": "text"}
+  }
+}

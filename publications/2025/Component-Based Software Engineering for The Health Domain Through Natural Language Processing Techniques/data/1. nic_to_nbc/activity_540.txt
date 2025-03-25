@@ -1,0 +1,36 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Injury Protection Instruction",
+    "parameters": [
+        { 
+            "name": "name", 
+            "type": "text"
+        },
+        { 
+            "name": "content", 
+            "type": "text"
+        },
+        { 
+            "name": "images", 
+            "type": "media"
+        },
+        { 
+            "name": "family_involved", 
+            "type": "boolean"
+        },
+        { 
+            "name": "frequency", 
+            "type": "options"
+        },
+        { 
+            "name": "deadline_date", 
+            "type": "datetime"
+        },
+        { 
+            "name": "tracking", 
+            "type": "boolean"
+        }
+    ]
+}

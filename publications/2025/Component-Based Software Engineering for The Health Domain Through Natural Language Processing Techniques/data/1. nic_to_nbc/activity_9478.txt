@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+
+{
+  "Pathology Assessment": {
+    "Parameters": {
+      "Pathology List": {
+        "Type": "list of options"
+      },
+      "Intervention Type": {
+        "Type": "options"
+      },
+      "Assessment Questions": {
+        "Type": "list of questions"
+      },
+      "Scoring System": {
+        "Type": "numerical score or rating system"
+      },
+      "Recommendations": {
+        "Type": "text or list of recommendations"
+      }
+    }
+  }
+}

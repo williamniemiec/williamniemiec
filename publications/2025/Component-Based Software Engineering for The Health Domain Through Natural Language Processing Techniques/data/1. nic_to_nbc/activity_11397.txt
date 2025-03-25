@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Outcome Achievement Tracker": {
+    "Parameters": {
+      "Outcome Goals": {},
+      "Assessment Criteria": {},
+      "Data Collection": {},
+      "Algorithmic Analysis": {},
+      "Outcome Prediction": {},
+      "Intervention Recommendations": {}
+    }
+  }
+}

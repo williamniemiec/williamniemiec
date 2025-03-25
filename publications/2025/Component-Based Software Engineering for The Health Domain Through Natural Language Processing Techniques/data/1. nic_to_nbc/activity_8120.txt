@@ -1,0 +1,51 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Care and Safety Assessment",
+  "parameters": [
+    {
+      "name": "Care and Safety Needs Assessment",
+      "type": "text"
+    },
+    {
+      "name": "Patient Knowledge Assessment",
+      "type": "text"
+    },
+    {
+      "name": "Caretaker Knowledge Assessment",
+      "type": "text"
+    },
+    {
+      "name": "Teaching Plan",
+      "type": "text"
+    },
+    {
+      "name": "Teaching Method",
+      "type": "options",
+      "options": [
+        { "value": "verbal instruction" },
+        { "value": "demonstration" },
+        { "value": "written materials" },
+        { "value": "other" }
+      ]
+    },
+    {
+      "name": "Frequency",
+      "type": "options",
+      "options": [
+        { "value": "daily" },
+        { "value": "onlyOnce" },
+        { "value": "everyHours" },
+        { "value": "everyDays" }
+      ]
+    },
+    {
+      "name": "Deadline Date",
+      "type": "datetime"
+    }
+  ]
+}
+
+
+I removed the introduction, number, no-code element description, and conclusion sections. I also removed the `required` field as it was not specified in the task. Let me know if you need any further modifications!

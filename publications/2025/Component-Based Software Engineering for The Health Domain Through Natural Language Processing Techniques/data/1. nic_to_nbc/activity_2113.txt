@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Coping Support Tool": {
+    "parameters": [
+      {"name": "title", "description": "Title of the coping support tool"},
+      {"name": "coping_strategies", "description": "List of coping strategies to support patients"},
+      {"name": "patient_goals", "description": "Patient's goals for coping with their situation"},
+      {"name": "support_messages", "description": "Supportive messages to encourage patients"}
+    ]
+  }
+}
+
+
+Let me know if you need any further assistance!

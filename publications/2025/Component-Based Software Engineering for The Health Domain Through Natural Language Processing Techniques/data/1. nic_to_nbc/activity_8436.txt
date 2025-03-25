@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+    "Message Clarification": {
+        "Name": {"type": "text"},
+        "Message": {"type": "text", "example": "I'm feeling anxious about my upcoming surgery."},
+        "Clarifying Questions": {"type": "list of text", "example": ["What specifically are you worried about?", "How are you feeling about the surgery?"]},
+        "Feedback Options": {"type": "list of text", "example": ["I'm worried about the pain after surgery.", "I'm scared of the unknown."]},
+        "Reflection": {"type": "text input", "example": "What did I learn about my concerns from this exercise?"}
+    },
+    "Conversation Simulator": {
+        "Name": {"type": "text"},
+        "Message": {"type": "text", "example": "I'm feeling anxious about my upcoming surgery."},
+        "Conversation Script": {"type": "text", "example": "Healthcare Provider: 'What's worrying you about the surgery?' Patient: 'I'm worried about the pain after surgery.'" },
+        "Feedback Options": {"type": "list of text", "example": ["I'm worried about the pain after surgery.", "I'm scared of the unknown."]},
+        "Reflection": {"type": "text input", "example": "What did I learn about my concerns from this exercise?"}
+    }
+}

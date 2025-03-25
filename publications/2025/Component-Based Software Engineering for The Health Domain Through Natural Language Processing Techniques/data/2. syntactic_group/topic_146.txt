@@ -1,0 +1,10 @@
+{
+  "name": "IV Fluid Administration and Rate Control",
+  "description": "Focuses on the administration of intravenous fluids, including the proper flow rates, types of fluids (e.g., hypotonic), and bolus administration. It also involves controlling the temperature and volume of fluids being administered.",
+  "type": "non-periodic",
+  "input": ["IV fluid administration", "Flow rate control", "Hypotonic fluids", "Bolus administration", "Fluid temperature management"],
+  "output": ["Fluid administration report", "Rate control confirmation", "Fluid volume tracking"],
+  "preconditions": ["User is administering or managing IV fluids"],
+  "postconditions": ["Accurate and controlled IV fluid administration"],
+  "dependencies": ["IV fluid management system", "Flow rate controllers", "IV fluid types and specifications"]
+}

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Meaningful Activity Explorer": {
+    "parameters": {
+      "Activity Categories": {"type": "list"},
+      "Activity Examples": {"type": "list"},
+      "Importance Scale": {"type": "options", "options": ["not important", "slightly important", "moderately important", "very important", "extremely important"]},
+      "Personal Significance": {"type": "text"},
+      "Goal Setting": {"type": "text"}
+    }
+  }
+}

@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Immunization Record Audit": {
+    "parameters": [
+      {"name": "student_name", "description": "enter the student's name", "required": true, "type": "text"},
+      {"name": "school_name", "description": "enter the school name", "required": true, "type": "text"},
+      {"name": "academic_year", "description": "select the academic year", "required": true, "type": "options", "options": [{"value": "currentYear", "label": "Current Year"}, {"value": "previousYear", "label": "Previous Year"}]},
+      {"name": "immunization_records", "description": "list of immunization records for the student", "required": true, "type": "list", "list_items": [{"value": "MMR", "label": "Measles, Mumps, and Rubella (MMR)"}, {"value": "DTaP", "label": "Diphtheria, Tetanus, and Pertussis (DTaP)"}, {"value": "Polio", "label": "Polio"}, {"value": "Varicella", "label": "Varicella (Chickenpox)"}]},
+      {"name": "audit_results", "description": "results of the audit (complete/incomplete)", "required": true, "type": "options", "options": [{"value": "complete", "label": "Complete"}, {"value": "incomplete", "label": "Incomplete"}]}
+    ]
+  }
+}
+
+
+Let me know if you need any further modifications!

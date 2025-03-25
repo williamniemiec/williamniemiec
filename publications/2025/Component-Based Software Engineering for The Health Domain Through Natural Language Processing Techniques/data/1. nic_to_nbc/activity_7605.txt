@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+  "Realistic Expectations Module": {
+    "Parameters": {
+      "Expectation Categories": {
+        "Type": "list of expectation categories"
+      },
+      "Realistic Expectations Content": {
+        "Type": "list of content types"
+      },
+      "Self-Assessment Quiz": {
+        "Type": "list of quiz question types"
+      },
+      "Reflection Exercise": {
+        "Type": "list of reflection exercise types"
+      },
+      "Frequency": {
+        "Options": ["daily", "weekly", "monthly"]
+      },
+      "Deadline Date": {
+        "Type": "datetime"
+      }
+    }
+  }
+}

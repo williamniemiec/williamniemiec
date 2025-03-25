@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Values Exploration Guide": {
+    "Title": {"type": "text"},
+    "Content": {"type": "educational content (e.g., HTML, JSON)"},
+    "Values Categories": {"type": "list of values categories (e.g., text)"},
+    "Values Examples": {"type": "list of values examples (e.g., text)"},
+    "Reflection Questions": {"type": "list of reflection question (e.g., text)"},
+    "Interactive Exercises": {"type": "list of interactive exercises (e.g., text)"},
+    "Frequency": {"options": ["daily", "onlyOnce", "everyDays"]},
+    "Deadline Date": {"type": "datetime"}
+  }
+}
+
+
+Note: I removed the not applicable parameters and only kept the `{{ NO-CODE ELEMENT NAME }}` and `{{ PARAMETER ESPECIFICATIONS }}`. Let me know if you need any further assistance!

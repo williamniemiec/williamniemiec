@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Pregnancy Reflection": {
+    "parameters": {
+      "name": {},
+      "feelings_about_pregnancy": {},
+      "expectations_about_child": {},
+      "frequency": {
+        "options": ["daily", "onlyOnce", "everyWeeks", "everyMonths"]
+      },
+      "deadline_date": {
+        "type": "datetime"
+      }
+    }
+  }
+}

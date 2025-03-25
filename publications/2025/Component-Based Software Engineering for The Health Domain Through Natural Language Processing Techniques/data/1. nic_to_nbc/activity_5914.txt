@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Exercise Demonstration": {
+    "parameters": {
+      "Exercise": {"type": "text"},
+      "Video": {"type": "video"},
+      "Coaching": {"type": "text"},
+      "Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"type": "datetime"}
+    }
+  }
+}

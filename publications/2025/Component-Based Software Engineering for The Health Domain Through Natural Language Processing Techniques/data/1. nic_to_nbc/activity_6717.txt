@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+    "Self-Care Guide": {
+        "Content": "",
+        "Topics": "",
+        "Resources": ""
+    },
+    "Self-Care Tracker": {
+        "Activities": "",
+        "Frequency": "",
+        "Goals": ""
+    }
+}

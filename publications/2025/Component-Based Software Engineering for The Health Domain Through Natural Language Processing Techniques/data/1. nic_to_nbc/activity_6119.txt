@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+  "Behavior Tracker": {
+    "Parameters": {
+      "Behavior Type": {
+        "Type": "options",
+        "Options": ["aggression", "anxiety", "etc."]
+      },
+      "Trigger Identification": {
+        "Type": "options",
+        "Options": ["patient self-report", "caregiver observation", "etc."]
+      },
+      "Trigger Categories": {
+        "Type": "options",
+        "Options": ["environmental", "social", "emotional", "etc."]
+      },
+      "Frequency": {
+        "Type": "options",
+        "Options": ["daily", "weekly", "monthly", "etc."]
+      }
+    }
+  }
+}
+
+
+I removed the `Deadline Date` parameter as it has a different type (`datetime`) and is not applicable in this context.

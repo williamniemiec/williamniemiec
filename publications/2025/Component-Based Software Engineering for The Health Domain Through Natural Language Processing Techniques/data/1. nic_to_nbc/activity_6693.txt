@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+
+{
+    "Behavioral Cues": {},
+    "Control Methods": {},
+    "Method Description": {},
+    "Effectiveness Rating": {},
+    "Frequency": {
+        "options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+    },
+    "Deadline Date": {}
+}

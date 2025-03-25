@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Asthma Symptom Tracker": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Symptoms": {"Options": ["Coughing", "Wheezing", "Shortness of breath", "Chest tightness", "Other (free text)"]},
+      "Severity": {"Options": ["Mild", "Moderate", "Severe"]},
+      "Frequency": {"Type": "options", "Options": ["daily", "every 2 hours", "every 4 hours"]},
+      "Deadline Date": {"Type": "datetime"}
+    }
+  }
+}

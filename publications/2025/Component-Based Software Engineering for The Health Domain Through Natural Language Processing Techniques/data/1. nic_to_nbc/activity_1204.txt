@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Rationale": {
+    "skill_name": {},
+    "rationale_text": {},
+    "visual_aids": {}, 
+    "frequency": {},
+    "deadline_date": {}
+  }
+}

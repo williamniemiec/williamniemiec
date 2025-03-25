@@ -1,0 +1,30 @@
+Here is the output in JSON format:
+
+
+{
+    "positioning_instruction": {
+        "parameters": [
+            { 
+                "name": "title", 
+                "description": "instruction title", 
+                "required": true, 
+                "type": "text"
+            },
+            { 
+                "name": "illustration_url", 
+                "description": "url of the illustration showing the correct head position", 
+                "required": true, 
+                "type": "url"
+            },
+            { 
+                "name": "description", 
+                "description": "step-by-step instructions on how to position infant's head", 
+                "required": true, 
+                "type": "text"
+            }
+        ]
+    }
+}
+
+
+Note that I removed the "tips" parameter since it is not required. Let me know if you have any further questions!

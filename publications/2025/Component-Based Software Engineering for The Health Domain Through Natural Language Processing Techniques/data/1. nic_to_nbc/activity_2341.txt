@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "PARAMETER ESPECIFICATIONS": {
+    "parameters": [
+      "vital signs",
+      "lab results",
+      "patient-reported outcomes"
+    ]
+  },
+  "NO-CODE ELEMENT NAME": null
+}

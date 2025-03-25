@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Personalized Learning Guide": {
+    "Parameters": {
+      "Learning Style": {"Type": "options"},
+      "Holistic Approach": {"Type": "options"},
+      "Educational Materials": {"Type": "options"},
+      "Content Adaptation": {"Type": "boolean"},
+      "Feedback Mechanism": {"Type": "options"}
+    }
+  }
+}

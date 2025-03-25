@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Ascites Monitor": {
+    "Abdominal Distension": {},
+    "Abdominal Pain": {},
+    "Nausea and Vomiting": {},
+    "Fever": {},
+    "Weight Gain": {"type": "numeric", "unitOptions": ["kg", "lbs", etc.]},
+    "Frequency": {"options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"type": "datetime"},
+    "Notes": {"type": "text"}
+  }
+}
+
+
+Let me know if this meets your requirements!

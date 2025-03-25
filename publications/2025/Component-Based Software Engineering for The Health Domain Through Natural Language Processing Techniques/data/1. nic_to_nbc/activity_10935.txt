@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "crisis_evaluation": {
+        "parameters": [
+            {"name": "crisis_description"},
+            {"name": "chosen_course"},
+            {"name": "resolution_status"},
+            {"name": "evaluation_criteria"},
+            {"name": "next_steps"}
+        ]
+    }
+}

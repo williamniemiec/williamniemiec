@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Role Play Scenario": {
+    "Parameters": {
+      "Scenario": {"Type": "text", "Example": "You're at a party and someone is pressuring you to have sex."},
+      "Choices": {"Type": "list of options", "Example": ["I'm not comfortable with that.", "I need some time to think about it.", "I'm not ready for sex."]},
+      "Consequences": {"Type": "list of consequences", "Example": ["You feel pressured and unsure of what to do.", "You gain some time to think, but the pressure doesn't go away.", "You assertively communicate your boundaries and feel more confident."]},
+      "Tips": {"Type": "text", "Example": "Remember to prioritize your own feelings and values when making decisions about sex."},
+      "Reflection": {"Type": "text", "Example": "What did you learn from this scenario? How can you apply it to real-life situations?"}
+    }
+  }
+}
+
+
+Let me know if this is what you were expecting!

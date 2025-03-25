@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+{
+  "name": "Waiting Area Guide",
+  "parameters": [
+    {
+      "name": "Waiting Area Location",
+      "type": "text or map"
+    },
+    {
+      "name": "Waiting Area Description",
+      "type": "text"
+    },
+    {
+      "name": "Contact Information",
+      "type": "text"
+    }
+  ]
+}

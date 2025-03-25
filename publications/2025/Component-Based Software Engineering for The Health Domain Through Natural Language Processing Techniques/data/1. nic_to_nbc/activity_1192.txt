@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Developmental Guidance": {
+    "Content": {"type": ["text", "multimedia"]},
+    "Age Range": {"type": "range"},
+    "Frequency": {"options": ["weekly", "biweekly", "monthly", "etc."]},
+    "Deadline Date": {"type": ["datetime", "range"]}
+  },
+  "Guide": {
+    "Name": {},
+    "Pages": {"type": ["list of HTML texts", "multimedia"]},
+    "Age Range": {"type": "range"}
+  }
+}

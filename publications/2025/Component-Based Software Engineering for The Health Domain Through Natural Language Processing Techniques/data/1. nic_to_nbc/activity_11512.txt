@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "UTI Education": {
+    "Content": {"Description": "Educational content about signs and symptoms of urinary tract infection", "Required": true, "Type": "text"},
+    "Quiz": {"Description": "Quiz to test patient's understanding of UTI signs and symptoms", "Required": false, "Type": "quiz"}
+  }
+}
+
+
+Note: I removed the "Resources" parameter since it is marked as not required. If you want to include non-required parameters as well, let me know!

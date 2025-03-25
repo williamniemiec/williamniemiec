@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Ambulation Assistant": {
+    "Distance": {"type": "text"},
+    "Staff Assistance": {"type": "options"},
+    "Frequency": {"type": "options"},
+    "Deadline Date": {"type": "datetime"},
+    "Instructions": {"type": "text"},
+    "Progress Tracking": {"type": "form"}
+  }
+}

@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "Imaging Result": {
+    "name": {"type": "text"},
+    "image": {},
+    "result": {"type": "text"},
+    "frequency": {"options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "deadline_date": {"type": "datetime"}
+  },
+  "Line Status": {
+    "name": {"type": "text"},
+    "status": {"type": "text"},
+    "reason": {"type": "text"},
+    "frequency": {"options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "deadline_date": {"type": "datetime"}
+  },
+  "Alert": {
+    "name": {"type": "text"},
+    "message": {"type": "text"},
+    "frequency": {"options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "deadline_date": {"type": "datetime"}
+  }
+}

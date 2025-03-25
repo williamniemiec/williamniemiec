@@ -1,0 +1,29 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Device Connection",
+    "parameters": [
+        {
+            "name": "Instrumentation Device",
+            "type": "text"
+        },
+        {
+            "name": "Connection Type",
+            "type": "options",
+            "options": [
+                { value: "wired", label: "Wired" },
+                { value: "wireless", label: "Wireless" },
+                { value: "etc", label: "Etc." }
+            ]
+        },
+        {
+            "name": "Patient Preparation",
+            "type": "text"
+        },
+        {
+            "name": "Connection Verification",
+            "type": "boolean"
+        }
+    ]
+}

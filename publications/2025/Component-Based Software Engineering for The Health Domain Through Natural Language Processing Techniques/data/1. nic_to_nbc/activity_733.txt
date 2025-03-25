@@ -1,0 +1,38 @@
+Here is the output in JSON format:
+
+
+{
+  "Subglottic Suctioning": {
+    "Task Title": {
+      "Description": "Title of the task",
+      "Required": true,
+      "Type": "text"
+    },
+    "Suctioning Instructions": {
+      "Description": "Step-by-step instructions on how to perform subglottic suctioning",
+      "Required": true,
+      "Type": "text"
+    },
+    "Trigger Events": {
+      "Description": "Specify when to perform subglottic suctioning",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "repositioningSupine", "label": "Repositioning patient supine (bed, chair, road trip)" },
+        { "value": "repositioningET", "label": "Repositioning endotracheal tube (ET)" },
+        { "value": "deflatingETCuff", "label": "Deflating ET cuff" }
+      ]
+    },
+    "Frequency": {
+      "Description": "How often to perform subglottic suctioning",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "asNeeded", "label": "As needed" },
+        { "value": "daily", "label": "Daily" },
+        { "value": "everyHours", "label": "Every x hours" },
+        { "value": "everyDays", "label": "Every x days" }
+      ]
+    }
+  }
+}

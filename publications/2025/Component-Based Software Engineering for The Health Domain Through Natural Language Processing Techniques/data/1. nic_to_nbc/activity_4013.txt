@@ -1,0 +1,40 @@
+Here is the output in JSON format:
+
+
+{
+  "Universal Precautions Guide": {
+    "parameters": {
+      "name": {"type": "text"},
+      "steps": {"type": "list"},
+      "images/videos": {"type": "multimedia content"},
+      "frequency": {"options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "deadline_date": {"type": "datetime"}
+    }
+  },
+  "Personal Protective Equipment (PPE) Tracker": {
+    "parameters": {
+      "name": {"type": "text"},
+      "PPE_items": {"type": "list"},
+      "usage_status": {"type": "text"},
+      "frequency": {"options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "deadline_date": {"type": "datetime"}
+    }
+  },
+  "Exposure Risk Assessment": {
+    "parameters": {
+      "name": {"type": "text"},
+      "score": {"type": "numerical score"},
+      "risk_level": {"type": "text"},
+      "frequency": {"options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "deadline_date": {"type": "datetime"}
+    }
+  },
+  "Alert": {
+    "parameters": {
+      "name": {"type": "text"},
+      "message": {"type": "text"},
+      "frequency": {"options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "deadline_date": {"type": "datetime"}
+    }
+  }
+}

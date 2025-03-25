@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "noCodeElementName": "Reflection",
+  "parameters": {
+    "Prompt": {"type": "text"},
+    "Response Type": {"type": "options", "options": ["text", "audio", "video"]},
+    "Emotional Support": {"type": "text"},
+    "Resources": {"type": "list", "listItems": ["text or multimedia content"]}
+  }
+}

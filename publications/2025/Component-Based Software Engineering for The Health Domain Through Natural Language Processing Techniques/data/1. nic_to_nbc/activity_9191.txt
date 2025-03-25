@@ -1,0 +1,34 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Caretaker Reflection",
+  "parameters": [
+    {
+      "name": "Reflection Prompt",
+      "type": "text"
+    },
+    {
+      "name": "Feeling Identification",
+      "type": "text"
+    },
+    {
+      "name": "Disturbing Factor Identification",
+      "type": "text"
+    },
+    {
+      "name": "Frequency",
+      "type": "options",
+      "options": [
+        { value: "daily" },
+        { value: "onlyOnce" },
+        { value: "everyHours" },
+        { value: "everyDays" }
+      ]
+    },
+    {
+      "name": "Deadline Date",
+      "type": "datetime"
+    }
+  ]
+}

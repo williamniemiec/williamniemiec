@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Time-Based Measurement": {
+    "Unit of Behavior": {"type": "text"},
+    "Time Period": {"options": ["per day", "per week", "per month", "etc."]},
+    "Measurement Frequency": {"options": ["daily", "weekly", "monthly", "etc."]},
+    "Data Entry Type": {"options": ["numerical value", "checkbox", "etc."]},
+    "Goal Setting": {"type": "boolean"}
+  }
+}

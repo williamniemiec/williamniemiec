@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+{
+  "Infant Alertness": {
+    "Parameters": {
+      "Alertness Techniques": {
+        "Description": "Techniques to increase infant alertness",
+        "Required": true,
+        "Type": "options",
+        "Options": [
+          { "value": "loosenClothes", "label": "Loosen infant's clothes" },
+          { "value": "rubHandsFeet", "label": "Rub hands and feet" },
+          { "value": "talkToInfant", "label": "Talk to infant" }
+        ]
+      },
+      "Instructions": {
+        "Description": "Step-by-step instructions for each alertness technique",
+        "Required": true,
+        "Type": "text"
+      }
+    }
+  }
+}
+
+I removed the non-applicable parameters (`Tips` and `Video`) as they were not required. Let me know if this is what you were looking for!

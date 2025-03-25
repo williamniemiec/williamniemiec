@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Book Exploration": {
+    "Parameters": {
+      "Activity Name": {"Type": "text", "Required": true},
+      "Illustrated Guide": {"Type": "illustrated guide", "Required": true},
+      "Step-by-Step Instructions": {"Type": "text", "Required": true},
+      "Frequency and Duration": {"Type": "text", "Required": true},
+      "Book Type": {"Type": "options", "Options": ["cloth", "soft plastic"], "Required": true}
+    }
+  }
+}

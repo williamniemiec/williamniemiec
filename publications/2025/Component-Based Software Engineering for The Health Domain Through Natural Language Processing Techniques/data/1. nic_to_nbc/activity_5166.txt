@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Gastrointestinal Tube Education": {
+    "Parameters": {
+      "Rationale": {"Type": "text or video"},
+      "Benefits": {"Type": "list of text"},
+      "Risks": {"Type": "list of text"},
+      "Care Instructions": {"Type": "text or video"},
+      "FAQs": {"Type": "list of text"}
+    }
+  }
+}
+
+
+Let me know if this is what you were looking for!

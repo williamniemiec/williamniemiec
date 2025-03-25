@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Preparation": {
+    "parameters": [
+      {"name": "steps", "description": "list of steps to follow"},
+      {"name": "procedure_type", "description": "specify the type of invasive procedure and/or surgery"},
+      {"name": "deadline_date", "description": "specify the due date of the preparation"}
+    ]
+  }
+}
+
+
+I removed all unnecessary text and only kept the `{{ NO-CODE ELEMENT NAME }}` (which is "Preparation" in this case) and the `{{ PARAMETER ESPECIFICATIONS }}`. I also reformatted the parameters to be in a JSON format.

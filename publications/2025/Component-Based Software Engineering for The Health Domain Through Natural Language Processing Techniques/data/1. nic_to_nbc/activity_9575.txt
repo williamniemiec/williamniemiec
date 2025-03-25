@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+    "Valsalva Maneuver Prevention": {
+        "Prohibited Activities": {
+            "Description": "Activities to avoid that may result in the Valsalva maneuver",
+            "Required": true,
+            "Type": "options",
+            "Options": [
+                { "value": "strainingDuringBowelMovement", "label": "Straining during bowel movement" }
+            ]
+        },
+        "Alternative Actions": {
+            "Description": "Alternative actions to take instead of prohibited activities",
+            "Required": true,
+            "Type": "text",
+            "Example": "Take regular breaks to rest and relax during bowel movement"
+        }
+    }
+}

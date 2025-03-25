@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Oral Hygiene Reminder": {
+    "Task": {"Type": "options", "Options": ["brushingTeeth", "flossing", "rinsingWithMouthwash", "other"]},
+    "Frequency": {"Type": "options", "Options": ["beforeEveryMeal", "beforeSpecificMeals"]},
+    "Meal Times": {"Type": "options", "Options": ["breakfast", "lunch", "dinner", "snack"]},
+    "Reminder Time": {"Type": "datetime"},
+    "Additional Instructions": {"Type": "text"}
+  }
+}
+
+
+Let me know if this is what you were expecting!

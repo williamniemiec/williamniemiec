@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Vital Sign Tracking": {
+        "Parameters": {
+            "Vital Signs": {"Type": "list of options"},
+            "Frequency": {"Type": "options"},
+            "Thresholds": {"Type": "list of numeric values or ranges"},
+            "Alerts": {"Type": "boolean (true/false) or a notification mechanism"},
+            "Data Entry": {"Type": "form or data entry field"}
+        }
+    }
+}

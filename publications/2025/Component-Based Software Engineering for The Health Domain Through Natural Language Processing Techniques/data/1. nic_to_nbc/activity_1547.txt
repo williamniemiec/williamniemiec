@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Education": {
+    "parameters": {
+      "content": "text or HTML",
+      "title": "text"
+    }
+  },
+  "Quiz": {
+    "parameters": {
+      "questions": "list of questions with answer options",
+      "correct answers": "list of correct answers"
+    }
+  }
+}

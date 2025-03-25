@@ -1,0 +1,39 @@
+{
+  "name": "Shared Care",
+  "description": "The 'Shared Care' element focuses on coordinating care between family members, caregivers, and support systems, ensuring that roles, responsibilities, and tasks are clearly defined. It aims to improve family communication, support systems, and task management for better care outcomes.",
+  "type": "periodic",
+  "input": [
+    "Family member roles",
+    "Communication patterns",
+    "Support needs",
+    "Child involvement",
+    "Caregiver details",
+    "Care plan",
+    "Task assignments",
+    "Support requirements"
+  ],
+  "output": [
+    "Family relationship assessment",
+    "Support system effectiveness",
+    "Role analysis",
+    "Task completion reports",
+    "Caregiver feedback",
+    "Respite care scheduling"
+  ],
+  "preconditions": [
+    "Family members are engaged in the support process",
+    "Care plan is created and caregiver tasks are assigned"
+  ],
+  "postconditions": [
+    "Family support and communication are improved or adjusted",
+    "Caregiver tasks are completed and support needs are addressed"
+  ],
+  "dependencies": [
+    "Family counseling system",
+    "Communication tracking tools",
+    "Support network database",
+    "Caregiver management system",
+    "Task tracking tools",
+    "Respite care resources"
+  ]
+}

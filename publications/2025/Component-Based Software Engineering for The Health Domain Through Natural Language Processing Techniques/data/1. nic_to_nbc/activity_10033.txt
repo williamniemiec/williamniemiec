@@ -1,0 +1,39 @@
+Here is the output in JSON format:
+
+
+{
+  "Arrest Cause Assessment": {
+    "parameters": [
+      {
+        "name": "arrest cause",
+        "description": "select the most likely cause of arrest",
+        "required": true,
+        "type": "options",
+        "options": [
+          { "value": "cardiac", "label": "Cardiac arrest" },
+          { "value": "respiratory", "label": "Respiratory arrest" },
+          { "value": "other", "label": "Other (please specify)" }
+        ]
+      },
+      {
+        "name": "rescue actions",
+        "description": "select the tailored rescue actions based on the arrest cause",
+        "required": true,
+        "type": "conditional",
+        "conditional": {
+          "cardiac": [
+            { "value": "CPR", "label": "CPR" },
+            { "value": "defibrillation", "label": "Defibrillation" }
+          ],
+          "respiratory": [
+            { "value": "ventilation", "label": "Ventilation" },
+            { "value": "oxygen therapy", "label": "Oxygen therapy" }
+          ],
+          "other": [
+            { "value": "other actions", "label": "Other actions (please specify)" }
+          ]
+        }
+      }
+    ]
+  }
+}

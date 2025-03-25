@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Titration": {
+    "Parameters": {
+      "Medication Name": {"Type": "text"},
+      "Initial Dose": {"Type": "text"},
+      "Titration Schedule": {"Type": "text"},
+      "Target EEG": {"Type": "text"},
+      "EEG Monitoring": {"Type": "text or graph"},
+      "Dose Adjustment": {"Type": "text"},
+      "Notes": {"Type": "text"}
+    }
+  }
+}

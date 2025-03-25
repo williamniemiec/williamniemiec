@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Administration": {
+    "name": {"type": "text"},
+    "medication": {"type": "text"},
+    "dosage": {"type": "text"},
+    "frequency": {"type": "options"},
+    "deadline_date": {"type": "datetime"},
+    "reminders": {"type": "boolean"}
+  },
+  "Fluid Shift Monitoring": {
+    "name": {"type": "text"},
+    "monitoring_frequency": {"type": "options"},
+    "threshold": {"type": "numerical value"},
+    "alerts": {"type": "boolean"}
+  }
+}

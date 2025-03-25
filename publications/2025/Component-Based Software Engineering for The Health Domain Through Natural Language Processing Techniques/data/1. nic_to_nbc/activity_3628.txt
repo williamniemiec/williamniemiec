@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Stimulation Exercise": {
+    "Parameters": {
+      "Side": {"Type": "options"},
+      "Stimuli Type": {"Type": "options"},
+      "Frequency": {"Type": "options"},
+      "Deadline Date": {"Type": "datetime"},
+      "Instructions": {"Type": "text"}
+    }
+  }
+}
+
+
+Let me know if this meets your requirements!

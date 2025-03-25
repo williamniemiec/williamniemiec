@@ -1,0 +1,41 @@
+Here is the output in JSON format:
+
+
+{
+  "dietary_intake_monitoring": {
+    "parameters": {
+      "food_diary": {
+        "description": "Record of the patient's daily food intake.",
+        "required": true,
+        "type": "table",
+        "columns": [
+          {"label": "Date"},
+          {"label": "Food"},
+          {"label": "Portion Size"},
+          {"label": "Calories"}
+        ]
+      },
+      "nutrient_goals": {
+        "description": "Daily nutrient goals for the patient.",
+        "required": true,
+        "type": "table",
+        "columns": [
+          {"label": "Nutrient"},
+          {"label": "Daily Goal"}
+        ]
+      },
+      "monitoring_frequency": {
+        "description": "How often the patient should track their dietary intake.",
+        "required": true,
+        "type": "options",
+        "options": [
+          {"value": "daily", "label": "Daily"},
+          {"value": "weekly", "label": "Weekly"}
+        ]
+      }
+    }
+  }
+}
+
+
+I removed the `reminders` parameter since it's not applicable (required is false). Let me know if you need anything else!

@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Device Recommendations and Guidelines": {
+    "parameters": [
+      {"name": "device_type", "description": "What type of device do you have?", "required": true, "type": "options", "options": [{"value": "CVAD", "label": "Central Venous Access Device"}, {"value": "insulin_pump", "label": "Insulin Pump"}, {"value": "pacemaker", "label": "Pacemaker"}, {"value": "other", "label": "Other"}]},
+      {"name": "manufacturer", "description": "Who is the manufacturer of your device?", "required": true, "type": "options", "options": [{"value": "Medtronic", "label": "Medtronic"}, {"value": "Baxter", "label": "Baxter"}, {"value": "Johnson_and_Johnson", "label": "Johnson and Johnson"}, {"value": "other", "label": "Other"}]},
+      {"name": "agency_recommendations", "description": "What are the agency recommendations for your device?", "required": true, "type": "text"},
+      {"name": "guidelines", "description": "What are the guidelines for your device?", "required": true, "type": "text"},
+      {"name": "protocols", "description": "What are the protocols for your device?", "required": true, "type": "text"},
+      {"name": "policies", "description": "What are the policies for your device?", "required": true, "type": "text"},
+      {"name": "procedures", "description": "What are the procedures for your device?", "required": true, "type": "text"}
+    ]
+  }
+}

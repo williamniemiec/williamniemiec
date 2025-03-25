@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+    "PCA Assessment": {
+        "parameters": {
+            "name": "PCA Assessment",
+            "description": "Evaluate patient's ability to use a PCA device",
+            "questions": [
+                {"text": "Can you communicate your pain level to a healthcare provider?", "type": "Boolean"},
+                {"text": "Do you understand how to use a PCA device?", "type": "Boolean"},
+                {"text": "Can you follow directions to use a PCA device?", "type": "Boolean"}
+            ],
+            "result": "Boolean"
+        }
+    }
+}

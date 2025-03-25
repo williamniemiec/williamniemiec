@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+    "Procedure Discussion": {
+        "Parameters": {
+            "Procedure Name": {"Type": "text", "Required": true},
+            "Procedure Description": {"Type": "text", "Required": true},
+            "Expected Outcomes": {"Type": "unordered list", "Required": true},
+            "Risks and Complications": {"Type": "unordered list", "Required": true}
+        }
+    }
+}
+
+
+Note that I removed the `Frequently Asked Questions` parameter since it's not required. Let me know if you'd like me to include it as well!

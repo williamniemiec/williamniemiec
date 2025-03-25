@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Catheter Care Guide": {
+    "title": {"type": "text"},
+    "Video/Instructional Content": {"type": "video or interactive tutorial"},
+    "Quiz": {"type": "multiple choice or true/false questions"},
+    "Certification": {"type": "boolean (yes/no)"},
+    "Notes": {"type": "text"}
+  }
+}

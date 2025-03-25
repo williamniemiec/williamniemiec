@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Cast Inspection": {
+    "Inspection Frequency": "",
+    "Signs of Drainage": ["Unusual odors", "Staining or discoloration", "Swelling or redness around the cast"],
+    "Reporting": "",
+    "Deadline Date": ""
+  }
+}

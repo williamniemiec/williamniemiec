@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Magnesium GI Loss Monitor": {
+    "parameters": [
+      {"name": "GI conditions", "description": "Specify any GI conditions that may affect magnesium loss", "required": true, "type": "multiselect", "options": [{"value": "NG suctioning", "label": "NG Suctioning"}, {"value": "diarrhea", "label": "Diarrhea"}, {"value": "fistula drainage", "label": "Fistula Drainage"}, {"value": "acute pancreatitis", "label": "Acute Pancreatitis"}]},
+      {"name": "GI loss frequency", "description": "Specify how often GI loss is occurring", "required": true, "type": "options", "options": [{"value": "daily", "label": "Daily"}, {"value": "weekly", "label": "Weekly"}, {"value": "monthly", "label": "Monthly"}]},
+      {"name": "magnesium levels", "description": "Specify the current magnesium levels", "required": true, "type": "number", "unit": "mg/dL"},
+      {"name": "risk threshold", "description": "Specify the threshold for increased GI loss of magnesium", "required": false, "type": "number", "unit": "mg/dL"}
+    ]
+  }
+}

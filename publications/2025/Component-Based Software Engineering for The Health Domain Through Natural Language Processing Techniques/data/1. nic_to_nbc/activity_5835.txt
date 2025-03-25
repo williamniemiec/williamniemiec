@@ -1,0 +1,37 @@
+Here is the output in JSON format:
+
+
+{
+  "Family Participation": {
+    "Activity Type": {
+      "type": "options",
+      "options": [
+        {"value": "recreational", "label": "Recreational"},
+        {"value": "therapeutic", "label": "Therapeutic"},
+        {"value": "educational", "label": "Educational"},
+        {"value": "other", "label": "Other"}
+      ]
+    },
+    "Family Member": {
+      "type": "text"
+    },
+    "Participation Level": {
+      "type": "options",
+      "options": [
+        {"value": "observer", "label": "Observer"},
+        {"value": "assistant", "label": "Assistant"},
+        {"value": "leader", "label": "Leader"},
+        {"value": "other", "label": "Other"}
+      ]
+    },
+    "Activity Schedule": {
+      "type": "datetime"
+    },
+    "Resources": {
+      "type": "file or URL"
+    },
+    "Instructions": {
+      "type": "text or video"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "Handling Guidance": {
+    "Parameters": {
+      "Video Tutorial": {
+        "Type": "video"
+      },
+      "Handling Tips": {
+        "Type": "text"
+      },
+      "Frequency": {
+        "Type": "options"
+      },
+      "Deadline Date": {
+        "Type": "datetime"
+      },
+      "Self-Assessment": {
+        "Type": "boolean"
+      }
+    }
+  }
+}

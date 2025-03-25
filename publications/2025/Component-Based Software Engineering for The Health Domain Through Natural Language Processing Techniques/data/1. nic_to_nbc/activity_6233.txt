@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Phlebotomy Guidance": {
+    "Hematocrit Level": {"type": "number"},
+    "Desired Range": {"type": "text"},
+    "Phlebotomy Frequency": {"type": "options", "options": ["daily", "everyOtherDay", "weekly", "biweekly"]},
+    "Phlebotomy Volume": {"type": "text"},
+    "Deadline Date": {"type": "datetime"}
+  }
+}

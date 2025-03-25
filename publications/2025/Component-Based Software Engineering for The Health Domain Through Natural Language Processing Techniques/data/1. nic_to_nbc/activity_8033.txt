@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+  "Fluid Tracker": {
+    "Entries": {
+      "Type": "list",
+      "List": "list of entry objects",
+      "Entry object": {
+        "date": "datetime",
+        "type": "options",
+        "amount": "number",
+        "unit": "options"
+      }
+    },
+    "Total": {
+      "Type": "object",
+      "Object": {
+        "intake": "number",
+        "output": "number"
+      }
+    },
+    "Balance": {
+      "Type": "number"
+    }
+  }
+}

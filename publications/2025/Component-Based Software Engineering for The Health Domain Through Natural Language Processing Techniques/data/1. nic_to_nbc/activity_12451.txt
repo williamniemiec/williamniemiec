@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Family Involvement Tracker": {
+    "parameters": {
+      "Family Members": {"type": "list of names and relationships"},
+      "Care Activities": {"type": "list of text fields"},
+      "Frequency of Involvement": {"type": "list of text fields"},
+      "Level of Involvement": {"type": "list of text fields"},
+      "Changes in Involvement": {"type": "list of text fields"},
+      "Frequency": {"options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"type": "datetime"},
+      "Name": {"type": "text"}
+    }
+  }
+}

@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+    "Progress Chart": {
+        "Final Goal": {"type": "number"},
+        "Current Progress": {"type": "number"},
+        "Progress Chart": {"type": "graph", "example": "a line graph showing the patient's progress towards their final goal"},
+        "Posting Location": {"type": "options", "options": ["fridge", "bathroom mirror", "phone lock screen", "computer desktop", "other"]},
+        "Posting Frequency": {"type": "options", "options": ["weekly", "biweekly", "monthly"]}
+    }
+}

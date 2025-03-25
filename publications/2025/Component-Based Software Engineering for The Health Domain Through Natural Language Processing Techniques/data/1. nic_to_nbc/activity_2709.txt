@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+
+{
+    "Nose Drop Administration Technique": {
+        "Dropper Positioning Guidance": {},
+        "Drop Instillation Guidance": {},
+        "Number of Drops": {}
+    }
+}

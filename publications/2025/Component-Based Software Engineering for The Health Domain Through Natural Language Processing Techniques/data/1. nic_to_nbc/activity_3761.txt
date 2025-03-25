@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Exercise Plan": {
+    "Parameters": {
+      "Exercise Plan Title": {},
+      "Exercise Type": {},
+      "Frequency": {},
+      "Duration": {},
+      "Intensity": {}
+    }
+  }
+}
+
+
+I removed all non-applicable parameters (i.e., `Deadline Date` and `Reminders`) as per your request. Let me know if you need further assistance!

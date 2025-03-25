@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+  "Rapid Defibrillation": {
+    "Defibrillation Criteria": {},
+    "Defibrillation Instructions": {},
+    "AED Settings": [
+      {
+        "Setting": {},
+        "Value": {}
+      }
+    ],
+    "Defibrillation Timing": {},
+    "Post-Defibrillation Care": {}
+  }
+}
+
+
+Let me know if this is what you were looking for!

@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Treatment Regimen": {
+    "parameters": {
+      "Diet": {"type": "text"},
+      "Fluid Therapy": {"type": "text"},
+      "Medications": {"type": "list of text"},
+      "Exercise": {"type": "text"}
+    }
+  },
+  "Guide": {
+    "parameters": {
+      "Guide Steps": {"type": "list of text"},
+      "Reminders": {"type": "list of datetime"}
+    }
+  }
+}

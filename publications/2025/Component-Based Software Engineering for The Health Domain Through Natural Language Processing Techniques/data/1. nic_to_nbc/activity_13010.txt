@@ -1,0 +1,52 @@
+Here is the output in JSON format:
+
+
+{
+  "Visitation Assessment": {
+    "Patient Status": {
+      "Type": "options",
+      "Options": [
+        {"value": "stable", "label": "Stable"},
+        {"value": "unstable", "label": "Unstable"},
+        {"value": "critical", "label": "Critical"}
+      ]
+    },
+    "Visitor Volume": {
+      "Type": "options",
+      "Options": [
+        {"value": "few", "label": "Few (1-2)"},
+        {"value": "moderate", "label": "Moderate (3-5)"},
+        {"value": "many", "label": "Many (6 or more)"}
+      ]
+    },
+    "Patient Fatigue": {
+      "Type": "options",
+      "Options": [
+        {"value": "none", "label": "None"},
+        {"value": "mild", "label": "Mild"},
+        {"value": "moderate", "label": "Moderate"},
+        {"value": "severe", "label": "Severe"}
+      ]
+    },
+    "Patient Impatience": {
+      "Type": "options",
+      "Options": [
+        {"value": "none", "label": "None"},
+        {"value": "mild", "label": "Mild"},
+        {"value": "moderate", "label": "Moderate"},
+        {"value": "severe", "label": "Severe"}
+      ]
+    },
+    "Other Factors": {
+      "Type": "text"
+    },
+    "Visitation Limitations": {
+      "Type": "options",
+      "Options": [
+        {"value": "none", "label": "No limitations"},
+        {"value": "limited", "label": "Limited visitation recommended"},
+        {"value": "restricted", "label": "Restricted visitation recommended"}
+      ]
+    }
+  }
+}

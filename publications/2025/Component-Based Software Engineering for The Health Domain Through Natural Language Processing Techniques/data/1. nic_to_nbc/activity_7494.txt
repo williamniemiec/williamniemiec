@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Electrolyte Tracker": {
+    "Parameters": {
+      "Electrolyte Levels": {"Type": "number"},
+      "Reference Ranges": {"Type": "text"},
+      "Abnormal Results": {"Type": "boolean"},
+      "Notes": {"Type": "text"}
+    }
+  }
+}

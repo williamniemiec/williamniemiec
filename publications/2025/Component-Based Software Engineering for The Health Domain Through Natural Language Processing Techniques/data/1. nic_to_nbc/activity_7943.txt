@@ -1,0 +1,38 @@
+Here is the output JSON:
+
+
+{
+    "name": "Sequential Instruction",
+    "parameters": [
+        {
+            "name": "Instruction List",
+            "type": "list of text"
+        },
+        {
+            "name": "Instruction Order",
+            "type": "options",
+            "options": [
+                { value: "sequential", label: "Sequential" },
+                { value: "randomized", label: "Randomized" }
+            ]
+        },
+        {
+            "name": "Frequency",
+            "type": "options",
+            "options": [
+                { value: "daily", label: "Daily" },
+                { value: "onlyOnce", label: "Only once" },
+                { value: "everyHours", label: "Every x hours" },
+                { value: "everyDays", label: "Every x days" }
+            ]
+        },
+        {
+            "name": "Deadline Date",
+            "type": "datetime"
+        },
+        {
+            "name": "Verification",
+            "type": "boolean"
+        }
+    ]
+}

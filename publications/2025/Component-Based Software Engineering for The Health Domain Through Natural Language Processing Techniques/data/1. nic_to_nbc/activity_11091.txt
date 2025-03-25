@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Bleeding Monitoring": {
+        "Name": {"type": "text"},
+        "Secretions to Check": {"type": "options"},
+        "Frequency": {"type": "options"},
+        "Deadline Date": {"type": "datetime"},
+        "Notes": {"type": "text"},
+        "Bleeding Symptoms": {"type": "options"},
+        "Alert Threshold": {"type": "options"}
+    }
+}

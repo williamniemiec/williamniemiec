@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Concern Resolver": {
+    "Parameters": {
+      "Concern": {"Type": "text"},
+      "Concern Category": {"Type": "options"},
+      "Response": {"Type": "text"},
+      "Resources": {"Type": "list of resources"},
+      "Follow-up": {"Type": "boolean"}
+    }
+  }
+}

@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Hypnosis Readiness": {
+    "Interest in Hypnosis": {"type": "options", "options": ["very interested", "somewhat interested", "not very interested", "not at all interested"]},
+    "Previous Experience with Hypnosis": {"type": "options", "options": ["yes", "no"]},
+    "Expectations of Hypnosis": {"type": "options", "options": ["very optimistic", "somewhat optimistic", "neutral", "somewhat pessimistic", "very pessimistic"]},
+    "Concerns about Hypnosis": {"type": "text"},
+    "Motivation to Use Hypnosis": {"type": "options", "options": ["very motivated", "somewhat motivated", "not very motivated", "not at all motivated"]},
+    "Openness to Suggestion": {"type": "options", "options": ["very open", "somewhat open", "neutral", "somewhat resistant", "very resistant"]}
+  }
+}

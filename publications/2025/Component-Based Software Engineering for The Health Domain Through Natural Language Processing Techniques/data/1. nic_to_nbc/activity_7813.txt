@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Report Archiver": {
+    "Parameters": {
+      "Report Storage": {},
+      "Protocol Selection": {},
+      "Original Report Upload": {},
+      "Report Organization": {},
+      "Access Control": {}
+    }
+  }
+}

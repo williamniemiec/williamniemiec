@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Community Plan": {
+    "Plan Title": {"type": "text"},
+    "Plan Description": {"type": "text"},
+    "Goals": {"type": "list"},
+    "Objectives": {"type": "list"},
+    "Action Steps": {"type": "list"},
+    "Revision History": {"type": "version control"},
+    "Frequency": {"type": "options"},
+    "Deadline Date": {"type": "datetime"}
+  }
+}

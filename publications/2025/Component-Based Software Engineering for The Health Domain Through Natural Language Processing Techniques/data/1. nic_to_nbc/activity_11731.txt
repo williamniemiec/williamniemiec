@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Caregiver Matching": {
+    "Patient Sex": {
+      "type": "options",
+      "options": ["male", "female", "other"]
+    },
+    "Caregiver Sex": {
+      "type": "options",
+      "options": ["male", "female", "other"]
+    }
+  }
+}

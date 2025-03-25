@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Leadership Development": {
+    "Parameters": {
+      "Leadership Profile": {"Type": "text and multimedia content (e.g., images or videos)"},
+      "Training Modules": {"Type": "online course (with video, text, and interactive content)"},
+      "Mentorship": {"Type": "mentorship program (with matching algorithm and communication tools)"},
+      "Project Development": {"Type": "project management tool (with proposal submission and feedback functionality)"},
+      "Community Feedback": {"Type": "discussion forum (with commenting and liking functionality)"},
+      "Leadership Opportunities": {"Type": "leadership opportunity listing (with application and selection functionality)"}
+    }
+  }
+}

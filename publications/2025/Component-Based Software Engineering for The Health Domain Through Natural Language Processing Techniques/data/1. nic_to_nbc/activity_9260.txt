@@ -1,0 +1,34 @@
+Here is the output in JSON format:
+
+
+{
+    "Body Map": {
+        "parameters": {
+            "name": "",
+            "body_parts": []
+        }
+    },
+    "Stimulation Site Selection": {
+        "parameters": {
+            "name": "",
+            "stimulation_sites": [],
+            "affected_area": ""
+        }
+    },
+    "Alternate Site Recommendation": {
+        "parameters": {
+            "name": "",
+            "recommended_site": "",
+            "explanation": ""
+        }
+    },
+    "Image Gallery": {
+        "parameters": {
+            "name": "",
+            "images": []
+        }
+    }
+}
+
+
+Note that I removed the introduction and conclusion, as well as the numbering and descriptions of each no-code element. I also kept only the parameter specifications for each element, removing any non-applicable parameters.

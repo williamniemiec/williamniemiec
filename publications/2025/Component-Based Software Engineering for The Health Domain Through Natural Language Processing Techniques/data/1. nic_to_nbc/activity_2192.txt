@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "Hypoglycemia Symptom Quiz": {
+    "Quiz Questions": {
+      "type": "text"
+    },
+    "Answer Options": {
+      "type": "options"
+    },
+    "Correct Answers": {
+      "type": "text"
+    },
+    "Score": {
+      "type": "number"
+    },
+    "Feedback": {
+      "type": "text"
+    }
+  }
+}
+
+
+Let me know if you need anything else!

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Range-of-Motion Exercise Guide": {
+    "parameters": [
+      {"name": "exercise_type", "description": "Type of range-of-motion exercise (passive or active)", "required": true, "type": "options"},
+      {"name": "joint_or_muscle", "description": "Specify the joint or muscle to be exercised", "required": true, "type": "text"},
+      {"name": "exercise_instructions", "description": "Step-by-step instructions for the range-of-motion exercise", "required": true, "type": "text" || "video"},
+      {"name": "exercise_frequency", "description": "Specify how often to perform the range-of-motion exercise", "required": true, "type": "options"},
+      {"name": "exercise_duration", "description": "Specify the duration of each range-of-motion exercise", "required": true, "type": "number"}
+    ]
+  }
+}

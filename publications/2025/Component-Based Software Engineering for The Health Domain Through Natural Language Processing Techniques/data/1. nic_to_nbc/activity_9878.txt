@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+    "Drainage Tracker": {
+        "Parameters": {
+            "Drainage Type": {"Type": "options"},
+            "Drainage Amount": {"Type": "numeric"},
+            "Drainage Location": {"Type": "options"},
+            "Changes in Drainage": {"Type": "yes/no or text"},
+            "Frequency": {"Options": ["daily", "every other day", "2-3 times a week", "etc."]},
+            "Deadline Date": {"Type": "datetime"},
+            "Additional Notes": {"Type": "text"}
+        }
+    }
+}
+
+
+I removed the introduction, conclusion, and non-parameter specifications from the input text. I also reformatted the parameter specifications into a JSON object with key-value pairs, where each key is a parameter name and its corresponding value is another object containing the type or options for that parameter. Let me know if this meets your requirements!

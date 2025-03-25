@@ -1,0 +1,43 @@
+Here is the output in JSON format:
+
+
+{
+    "Foot Washing": {
+        "Frequency": {
+            "Description": "Specify how often to wash your feet",
+            "Required": true,
+            "Type": "options",
+            "Options": [
+                {"value": "daily", "label": "Daily"},
+                {"value": "onlyOnce", "label": "Only once"},
+                {"value": "everyHours", "label": "Every x hours"},
+                {"value": "everyDays", "label": "Every x days"}
+            ]
+        },
+        "Deadline Date": {
+            "Description": "Specify the due date for washing your feet",
+            "Required": false,
+            "Type": "datetime"
+        },
+        "Water Temperature": {
+            "Description": "Select the water temperature for washing your feet",
+            "Required": true,
+            "Type": "options",
+            "Options": [
+                {"value": "warm", "label": "Warm"},
+                {"value": "cold", "label": "Cold"},
+                {"value": "hot", "label": "Hot"}
+            ]
+        },
+        "Soap Type": {
+            "Description": "Select the type of soap to use for washing your feet",
+            "Required": true,
+            "Type": "options",
+            "Options": [
+                {"value": "mild", "label": "Mild soap"},
+                {"value": "harsh", "label": "Harsh soap"},
+                {"value": "antibacterial", "label": "Antibacterial soap"}
+            ]
+        }
+    }
+}

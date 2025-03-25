@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Add Item": {
+    "Item Name": {},
+    "Item Description": {},
+    "Quantity": {},
+    "Reorder Point": {},
+    "Reorder Quantity": {},
+    "Category": {},
+    "Notes": {}
+  }
+}

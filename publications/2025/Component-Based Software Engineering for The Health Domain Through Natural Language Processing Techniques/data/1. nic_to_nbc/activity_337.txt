@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Splint Application": {
+    "Parameters": {
+      "Name": {},
+      "Injury Location": {},
+      "Splint Type": {},
+      "Application Instructions": {},
+      "Deadline Date": {}
+    }
+  }
+}

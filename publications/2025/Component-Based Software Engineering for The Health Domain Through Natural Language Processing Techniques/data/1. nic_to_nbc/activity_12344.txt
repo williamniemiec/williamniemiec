@@ -1,0 +1,15 @@
+
+
+
+{
+    "Swaddling Guidance": {
+        "Parameters": {
+            "Name": {"Type": "text"},
+            "Swaddling Instructions": {"Type": "text"},
+            "Swaddling Frequency": {"Type": "options"},
+            "Swaddling Duration": {"Type": "text"},
+            "Swaddling Completion": {"Type": "boolean"},
+            "Swaddling Tips": {"Type": "text"}
+        }
+    }
+}

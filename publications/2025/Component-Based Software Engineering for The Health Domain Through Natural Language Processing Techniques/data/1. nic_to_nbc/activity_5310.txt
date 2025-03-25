@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Lifestyle Guide",
+    "parameters": [
+        {
+            "name": "Name",
+            "type": "text"
+        },
+        {
+            "name": "Pages",
+            "type": "book-page",
+            "book-page": []
+        },
+        {
+            "name": "Customization",
+            "type": "options",
+            "options": []
+        }
+    ]
+}

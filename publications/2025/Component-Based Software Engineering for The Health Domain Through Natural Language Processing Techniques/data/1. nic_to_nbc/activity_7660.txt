@@ -1,0 +1,33 @@
+Here is the output in JSON format:
+
+
+{
+  "Adverse Effects Tracker": {
+    "parameters": {
+      "name": {},
+      "adverse effects fields": {},
+      "tracking frequency": {}
+    }
+  },
+  "Symptom Checker": {
+    "parameters": {
+      "name": {},
+      "symptom list": {},
+      "symptom status": {}
+    }
+  },
+  "Risk Assessment": {
+    "parameters": {
+      "name": {},
+      "risk factors": {},
+      "risk level": {}
+    }
+  },
+  "Alert System": {
+    "parameters": {
+      "name": {},
+      "alert criteria": {},
+      "notification method": {}
+    }
+  }
+}

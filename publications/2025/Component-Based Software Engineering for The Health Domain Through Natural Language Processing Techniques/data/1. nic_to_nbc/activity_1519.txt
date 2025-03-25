@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Laughter Benefits": {
+    "Benefits list": {
+      "Type": "unordered list",
+      "List items": ["reduces stress", "boosts mood", "improves immune system", "etc."]
+    },
+    "Personalized benefits": {
+      "Type": "options",
+      "Options": ["reduces stress", "boosts mood", "improves immune system", "etc."]
+    },
+    "Laughter goals": {
+      "Type": "text",
+      "Example": "I want to laugh for 10 minutes every day"
+    }
+  }
+}

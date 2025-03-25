@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Entryway Control System Activation": {
+        "Parameters": {
+            "System Type": {"Type": "text"},
+            "Activation Instructions": {"Type": ["text", "multimedia"]},
+            "Area Designation": {"Type": "text"},
+            "Frequency": {"Type": ["text", "options"]},
+            "Notes": {"Type": "text"}
+        }
+    }
+}

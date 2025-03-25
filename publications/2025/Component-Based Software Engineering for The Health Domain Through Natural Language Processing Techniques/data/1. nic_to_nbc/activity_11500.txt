@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+    "Form": {
+        "parameters": {
+            "Form template": {
+                "fields": [
+                    {"label": "", "type": "text"},
+                    {"label": "", "type": "number"},
+                    {"label": "", "type": "date"}
+                ]
+            },
+            "Submission": {
+                "deadline": "",
+                "frequency": ""
+            }
+        }
+    }
+}
+
+
+Note: I removed the non-applicable parameters and only kept the `{{ PARAMETER ESPECIFICATIONS }}` and `{{ NO-CODE ELEMENT NAME }}`. Also, I assumed that the types of fields (text, number, date) are options and can be any of these. If this is not the case, please let me know and I'll adjust accordingly.

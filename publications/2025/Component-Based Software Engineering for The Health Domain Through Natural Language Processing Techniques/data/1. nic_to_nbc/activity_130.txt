@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+  "Positioning Guide": {
+    "Parameters": {
+      "Position": {"Type": "text"},
+      "Contraindications": {"Type": "text"},
+      "Instructions": {"Type": "text"},
+      "Image": {"Type": "image"},
+      "Frequency": {"Type": "options", "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"Type": "datetime"}
+    }
+  },
+  "Conditional Question": {
+    "Parameters": {
+      "Question": {"Type": "text"},
+      "Options": {"Type": "options"},
+      "Next Step": {"Type": "conditional logic"}
+    }
+  }
+}

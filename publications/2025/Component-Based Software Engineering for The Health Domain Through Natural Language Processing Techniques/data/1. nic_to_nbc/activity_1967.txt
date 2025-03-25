@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Control": {
+    "parameters": ["name", "why", "notes", "dosage", "frequency", "deadline_date"]
+  },
+  "Task": {
+    "parameters": ["name", "content", "frequency", "deadline_date"]
+  },
+  "Question": {
+    "parameters": ["name", "answer type", "frequency", "deadline_date"]
+  },
+  "Guide": {
+    "parameters": ["name", "pages"]
+  },
+  "Medication Notes": {
+    "type": "text"
+  },
+  "Constipation Prevention Tips": {
+    "type": "text or unordered list"
+  },
+  "Bowel Movement Tracking": {
+    "type": "form or table"
+  }
+}

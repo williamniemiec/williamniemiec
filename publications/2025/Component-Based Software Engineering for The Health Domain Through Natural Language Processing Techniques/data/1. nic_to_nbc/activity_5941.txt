@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Status Comparator": {
+    "Parameters": {
+      "Current Status": {},
+      "Previous Status": {},
+      "Comparison Results": {},
+      "Improvement/Deterioration Indicators": {},
+      "Additional Notes": {}
+    }
+  }
+}

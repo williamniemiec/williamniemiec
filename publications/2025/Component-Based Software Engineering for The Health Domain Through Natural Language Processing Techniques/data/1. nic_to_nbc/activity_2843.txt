@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Ambulation Encouragement": {
+    "Contraindications": {"type": "options"},
+    "Ambulation Instructions": {"type": "text"},
+    "Benefits": {"type": "text"},
+    "Tracking": {"type": "numeric"}
+  }
+}

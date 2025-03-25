@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+[
+  {
+    "name": "Risk Assessment",
+    "parameters": [
+      {"name": "Medical History"},
+      {"name": "Fertility Factors"},
+      {"name": "Risk Score"}
+    ]
+  },
+  {
+    "name": "Referral",
+    "parameters": [
+      {"name": "Referral Reason"},
+      {"name": "Referral Destination"},
+      {"name": "Referral Instructions"}
+    ]
+  }
+]

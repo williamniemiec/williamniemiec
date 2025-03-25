@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Staff Credentials",
+  "parameters": [
+    {
+      "name": "Staff Qualifications",
+      "type": "text or infographic"
+    },
+    {
+      "name": "Staff Experience",
+      "type": "text or infographic"
+    }
+  ]
+}

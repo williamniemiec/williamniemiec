@@ -1,0 +1,33 @@
+Here is the output in JSON format:
+
+
+{
+  "Protective Pants Provision": {
+    "Pant Type": {
+      "type": "options",
+      "options": [
+        {"value": "adultProtectivePants", "label": "Adult Protective Pants"},
+        {"value": "incontinencePants", "label": "Incontinence Pants"},
+        {"value": "briefs", "label": "Briefs"}
+      ]
+    },
+    "Usage Instructions": {
+      "type": "text"
+    },
+    "Frequency": {
+      "type": "options",
+      "options": [
+        {"value": "asNeeded", "label": "As needed"},
+        {"value": "daily", "label": "Daily"},
+        {"value": "everyHours", "label": "Every x hours"},
+        {"value": "everyDays", "label": "Every x days"}
+      ]
+    },
+    "Monitoring": {
+      "type": "text"
+    }
+  }
+}
+
+
+I removed the `Deadline Date` parameter as it is a datetime type, which is not applicable in this context.

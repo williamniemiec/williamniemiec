@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Pad Placement": {
+    "Parameters": {
+      "Pad Type": {},
+      "Frequency": {}
+    }
+  }
+}

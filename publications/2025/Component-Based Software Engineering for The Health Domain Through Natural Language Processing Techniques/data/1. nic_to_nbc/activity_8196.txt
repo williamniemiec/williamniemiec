@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Medication Instillation",
+    "parameters": [
+        {
+            "name": "Dropper Distance",
+            "type": "text",
+            "value": "1 cm"
+        },
+        {
+            "name": "Medication Name",
+            "type": "text"
+        },
+        {
+            "name": "Additional Instructions",
+            "type": "text"
+        }
+    ]
+}

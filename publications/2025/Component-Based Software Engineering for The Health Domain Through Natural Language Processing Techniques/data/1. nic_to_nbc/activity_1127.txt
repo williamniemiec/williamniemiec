@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Item Location Record": {
+        "Parameters": {
+            "Name": {"Type": "text"},
+            "Item Description": {"Type": "text"},
+            "Location": {"Type": "text"},
+            "Frequency": {"Type": "options"},
+            "Deadline Date": {"Type": "datetime"}
+        }
+    }
+}

@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Content Module": {
+    "Topic": {"Type": "text"},
+    "Content Type": {"Type": "options", "Options": ["text", "image", "video", "interactive simulation", "audio", "other"]},
+    "Content Description": {"Type": "text"},
+    "Learning Objective": {"Type": "reference to a \"Learning Objective\" no-code element"},
+    "Resources": {"Type": "list of resources"}
+  }
+}

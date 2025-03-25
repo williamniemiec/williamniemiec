@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+    "Observation": {
+        "parameters": [
+            {"Name": "name"},
+            {"Description": "description"},
+            {"Volume": "numeric"},
+            {"Shade": "options"},
+            {"Color": "options"},
+            {"Consistency": "options"},
+            {"Frequency": "options"}
+        ]
+    }
+}

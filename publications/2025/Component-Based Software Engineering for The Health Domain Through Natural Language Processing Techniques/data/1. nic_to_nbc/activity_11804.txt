@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Instruction": {
+    "instruction title": {"Required": true, "Type": "text"},
+    "Content": {"Required": true, "Type": "text"},
+    "Image": {"Required": false, "Type": "image"},
+    "Frequency": {"Required": true, "Type": "options", "Options": [
+      {"value": "daily", "label": "Daily"},
+      {"value": "onlyOnce", "label": "Only once"},
+      {"value": "everyHours", "label": "Every x hours"},
+      {"value": "everyDays", "label": "Every x days"}
+    ]},
+    "Deadline Date": {"Required": false, "Type": "datetime"}
+  }
+}

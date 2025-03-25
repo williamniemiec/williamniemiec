@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Nonjudgmental Approach Guide": {
+    "Tone": {"type": "options", "required": true, "options": ["Matter-of-fact", "Empathetic", "Supportive", "Nonjudgmental"]},
+    "Language": {"type": "text", "required": true, "examples": ["Avoid using jargon or technical terms", "Use simple and clear language", "Avoid making assumptions or giving unsolicited advice"]},
+    "Body Language": {"type": "text", "required": true, "examples": ["Maintain eye contact", "Use open and relaxed posture", "Avoid crossing arms or legs"]},
+    "Active Listening": {"type": "text", "required": true, "examples": ["Maintain eye contact", "Nod to show understanding", "Paraphrase and summarize what the patient says"]},
+    "Empathy": {"type": "text", "required": true, "examples": ["I can understand why you feel that way", "That sounds really tough", "I'm here to support you"]},
+    "Frequency": {"type": "options", "required": true, "options": ["Daily", "Weekly", "Monthly", "As needed"]}
+  }
+}
+
+
+Note: I removed the `Reminders` and `Deadline Date` parameters as they were not required. Let me know if you need anything else!

@@ -1,0 +1,37 @@
+Here is the output in JSON format:
+
+
+{
+  "Self-Care Device": {
+    "Device List": {
+      "Description": "List of self-care devices to be used by the patient",
+      "Required": true,
+      "Type": "list",
+      "List Items": [
+        { "value": "walker", "label": "Walker" },
+        { "value": "cane", "label": "Cane" },
+        { "value": "wheelchair", "label": "Wheelchair" },
+        { "value": "commode", "label": "Commode" }
+      ]
+    },
+    "Instructions": {
+      "Description": "Provide instructions on how to use the self-care devices",
+      "Required": true,
+      "Type": "text"
+    },
+    "Frequency": {
+      "Description": "Specify how often the patient should use the self-care devices",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "daily", "label": "Daily" },
+        { "value": "onlyOnce", "label": "Only once" },
+        { "value": "everyHours", "label": "Every x hours" },
+        { "value": "everyDays", "label": "Every x days" }
+      ]
+    }
+  }
+}
+
+
+I removed the `Deadline Date` parameter since it's not required. Let me know if you need any further modifications!

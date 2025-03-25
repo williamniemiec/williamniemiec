@@ -1,0 +1,29 @@
+Here is the output in JSON format:
+
+
+{
+  "Support Network Identification": {
+    "parameters": {
+      "support prompt": "",
+      "support type": ""
+    }
+  },
+  "Supportive Persons List": {
+    "parameters": {
+      "person prompt": "",
+      "person information": ""
+    }
+  },
+  "Resource Directory": {
+    "parameters": {
+      "resource prompt": "",
+      "resource information": ""
+    }
+  },
+  "Network Visualization": {
+    "parameters": {
+      "network visualization type": "",
+      "network elements": ""
+    }
+  }
+}

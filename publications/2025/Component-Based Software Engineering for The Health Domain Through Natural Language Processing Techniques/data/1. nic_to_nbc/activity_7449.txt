@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Cough and Gag Reflex Monitoring": {
+    "parameters": [
+      {"name": "Cough Reflex Status", "description": "Enter current cough reflex status (e.g. present, absent, diminished)"},
+      {"name": "Gag Reflex Status", "description": "Enter current gag reflex status (e.g. present, absent, diminished)"},
+      {"name": "Frequency", "description": "Specify how often to monitor cough and gag reflex"},
+      {"name": "Deadline Date", "description": "Specify the due date for monitoring cough and gag reflex"}
+    ]
+  }
+}

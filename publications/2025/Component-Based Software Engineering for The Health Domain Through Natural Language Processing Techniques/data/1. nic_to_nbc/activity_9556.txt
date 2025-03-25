@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Bedtime Food and Beverage Tracker": {
+    "Parameters": {
+      "Food and Beverage Items": {},
+      "Effect on Sleep": {},
+      "Frequency": {}
+    }
+  }
+}

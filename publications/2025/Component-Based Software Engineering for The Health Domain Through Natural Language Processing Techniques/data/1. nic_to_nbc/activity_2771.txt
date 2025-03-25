@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Positive Affirmations": {
+    "Affirmation": {"type": "text"},
+    "Frequency": {"type": "options"},
+    "Customization": {"type": "boolean"},
+    "Reflection prompt": {"type": "text"}
+  }
+}

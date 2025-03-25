@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Positioning Instruction": {
+    "Parameters": {
+      "Procedure Name": {"Type": "text"},
+      "Positioning Instructions": {"Type": "text"},
+      "Visual Aids": {"Type": "media (image or video)"},
+      "Additional Tips": {"Type": "text"}
+    }
+  }
+}

@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Anesthesia Wait Time": {
+    "Wait Time": {"type": "text"},
+    "Anesthesia Type": {"type": "options"},
+    "Area to be Numb": {"type": "text"},
+    "Monitoring Instructions": {"type": "text"},
+    "Additional Instructions": {"type": "text"}
+  }
+}

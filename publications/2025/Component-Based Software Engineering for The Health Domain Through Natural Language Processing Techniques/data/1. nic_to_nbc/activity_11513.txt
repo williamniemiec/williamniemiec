@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Tutorial": {
+    "parameters": [
+      {"name": "title", "description": "title of the tutorial"},
+      {"name": "video_url", "description": "URL of the tutorial video"},
+      {"name": "steps", "description": "step-by-step instructions on safe food preservation and preparation"}
+    ]
+  }
+}

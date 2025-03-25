@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "instruction": {
+    "parameters": [
+      {"name": "title", "description": "instruction title"},
+      {"name": "content", "description": "instruction content"}
+    ]
+  }
+}
+
+
+Note: I removed the `image` parameter since it's not applicable (required=false).

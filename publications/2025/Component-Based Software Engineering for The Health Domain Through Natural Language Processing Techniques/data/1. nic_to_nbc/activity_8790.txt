@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Session Scheduler": {
+    "Parameters": {
+      "Session Frequency": {},
+      "Session Duration": {},
+      "Prolonged Period": {}
+    }
+  }
+}
+
+
+I removed all non-applicable parameters, including "Reminders" since it's not required. Let me know if this meets your requirements!

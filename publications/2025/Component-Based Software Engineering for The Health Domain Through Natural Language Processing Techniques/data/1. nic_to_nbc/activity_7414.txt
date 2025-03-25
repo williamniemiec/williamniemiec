@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Documentation Template": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Sections": {"Type": "list (with section labels and values)"},
+      "Fields": {"Type": "list (with field labels and values)"},
+      "Conditional Logic": {"Type": "options (with specific conditional logic rules)"},
+      "Validation": {"Type": "options (with specific validation rules)"}
+    }
+  }
+}

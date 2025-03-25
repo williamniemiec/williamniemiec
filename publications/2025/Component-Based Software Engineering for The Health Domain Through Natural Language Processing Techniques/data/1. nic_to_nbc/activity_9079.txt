@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "Elevation Guide": {
+    "body_part": {
+      "Description": "Specific body part to be elevated",
+      "Required": true,
+      "Type": "text"
+    },
+    "elevation": {
+      "Description": "Specific elevation instructions",
+      "Required": true,
+      "Type": "text"
+    },
+    "image": {
+      "Description": "Image illustrating the correct elevation",
+      "Required": true,
+      "Type": "image"
+    }
+  }
+}
+
+
+I removed all unnecessary information and only kept the `{{ NO-CODE ELEMENT NAME }}` ("Elevation Guide") and the `{{ PARAMETER ESPECIFICATIONS }}`. I also removed the "Tips" parameter since it's not required.

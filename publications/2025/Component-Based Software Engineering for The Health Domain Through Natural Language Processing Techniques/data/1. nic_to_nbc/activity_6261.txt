@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Relaxation Guide": {
+    "Environment Settings": {"type": "options", "options": ["dim lighting", "quiet", "comfortable temperature", "etc."]},
+    "Relaxation Techniques": {"type": "options", "options": ["guided meditation", "deep breathing exercises", "progressive muscle relaxation", "etc."]},
+    "Comfort Items": {"type": "text"},
+    "Calming Activities": {"type": "options", "options": ["reading", "listening to music", "taking a warm bath", "etc."]},
+    "Personalization": {"type": "text"}
+  }
+}
+
+
+Let me know if this is what you were expecting!

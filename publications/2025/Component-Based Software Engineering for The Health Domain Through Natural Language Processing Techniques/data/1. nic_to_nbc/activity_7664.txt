@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Spiritual Support": {
+        "Parameters": {
+            "Spiritual Care Provider": {"Type": "profile"},
+            "Support Options": {"Type": "list of options"},
+            "Request Support": {"Type": "boolean"},
+            "Contact Information": {"Type": "text"}
+        }
+    }
+}

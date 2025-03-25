@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+
+{
+    "Education": {
+        "name": {"type": "text"},
+        "content": {"type": "rich text"},
+        "symptoms_list": {"type": "list of text items"},
+        "images": {"type": "list of image URLs or base64-encoded images"},
+        "quiz": {"type": "boolean"}
+    }
+}

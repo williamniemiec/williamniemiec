@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Grief Support": {
+    "Parameters": {
+      "Grief Stage": {"Type": "options", "Options": ["denial", "anger", "bargaining", "depression", "acceptance", "others"]},
+      "Emotional Support": {"Type": "text"},
+      "Concealment Options": {"Type": "options", "Options": ["prosthetic devices", "clothing", "accessories", "others"]},
+      "Coping Strategies": {"Type": "checkbox list"},
+      "Resources": {"Type": "links"},
+      "Reflection Prompts": {"Type": "text"}
+    }
+  }
+}

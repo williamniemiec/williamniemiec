@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Observational Experience": {
+    "parameters": {
+      "name": "",
+      "activity_description": "",
+      "skill_level": "",
+      "observer_role": ["Observer", "Assistant"],
+      "type": [],
+      "deadline_date": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Appointment Scheduler": {
+    "parameters": {
+      "name": "Return Visit Scheduler",
+      "content": "Schedule return visit, as appropriate",
+      "type": "appointment scheduler",
+      "available_dates": "a list of available dates and times for the return visit",
+      "healthcare_professional": "the healthcare professional's name and contact information",
+      "reminders": "(optional) a parameter to set reminders for the patient to attend the scheduled return visit"
+    }
+  }
+}

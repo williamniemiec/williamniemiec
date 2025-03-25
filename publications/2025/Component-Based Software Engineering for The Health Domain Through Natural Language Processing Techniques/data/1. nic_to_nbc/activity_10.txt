@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Education": {
+    "Parameters": {
+      "Medication Name": {"Type": "text"},
+      "Expected Action": {"Type": "text"},
+      "Side Effects": {"Type": "unordered list"},
+      "Special Instructions": {"Type": "text"},
+      "Resources": {"Type": "list of URLs or multimedia files"}
+    }
+  }
+}

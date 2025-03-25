@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+  "Stump Care Reminder": {
+    "parameters": [
+      {
+        "name": "message",
+        "description": "Reminder to avoid dependent positioning",
+        "required": true,
+        "type": "text",
+        "text": "Remember to avoid putting your stump in a dependent position to decrease edema and vascular stasis."
+      },
+      {
+        "name": "frequency",
+        "description": "How often to remind the patient",
+        "required": true,
+        "type": "options",
+        "options": [
+          { "value": "daily", "label": "Daily" },
+          { "value": "twiceADay", "label": "Twice a day" },
+          { "value": "threeTimesADay", "label": "Three times a day" }
+        ]
+      }
+    ]
+  }
+}

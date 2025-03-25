@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "checklist",
+    "parameters": [
+        {
+            "name": "items",
+            "type": "unordered list"
+        },
+        {
+            "name": "frequency",
+            "type": "options"
+        },
+        {
+            "name": "deadline_date",
+            "type": "datetime"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+
+
+
+{
+  "Parameters": {
+    "Questions": {
+      "Type": "list of text"
+    },
+    "Response options": {
+      "Type": "list of options"
+    },
+    "Pattern identification": {
+      "Type": "algorithm or conditional logic"
+    },
+    "Reflection": {
+      "Type": "text"
+    }
+  },
+  "No-code element name": "Fear Response Pattern"
+}

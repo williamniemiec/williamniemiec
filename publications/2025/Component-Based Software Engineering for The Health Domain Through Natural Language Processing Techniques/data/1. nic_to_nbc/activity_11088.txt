@@ -1,0 +1,33 @@
+Here is the output in JSON format:
+
+
+{
+    "Condition Selection": {
+        "parameters": {
+            "name": "",
+            "conditions": []
+        }
+    },
+    "Stimulation Type Selection": {
+        "parameters": {
+            "name": "",
+            "stimulation_types": []
+        }
+    },
+    "Recommendation": {
+        "parameters": {
+            "name": "",
+            "recommended_stimulation": "",
+            "explanation": ""
+        }
+    },
+    "Information": {
+        "parameters": {
+            "name": "",
+            "content": ""
+        }
+    }
+}
+
+
+Note: I removed the "Not Applicable" parameters as per your request. Also, I assumed that the parameter values are empty strings or empty lists, as there was no specific value provided in the input text.

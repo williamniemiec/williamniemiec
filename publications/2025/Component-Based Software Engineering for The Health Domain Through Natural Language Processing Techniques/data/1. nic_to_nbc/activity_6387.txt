@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Support Network": {
+    "Parameters": {
+      "Profile": {"Type": "text and multimedia content (e.g., images or videos)"},
+      "Network": {"Type": "social network (with friend request and connection functionality)"},
+      "Groups": {"Type": "list (with group names, descriptions, and membership functionality)"},
+      "Forum": {"Type": "forum (with posting, commenting, and liking functionality)"},
+      "Resource Sharing": {"Type": "file sharing (with upload and download functionality)"},
+      "Event Calendar": {"Type": "calendar (with event listing and RSVP functionality)"},
+      "Moderation": {"Type": "moderation tools (with reporting, blocking, and messaging functionality)"}
+    }
+  }
+}
+
+
+Let me know if this is what you were looking for!

@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "No-code Element Name": "Seizure Precautions Guide",
+  "Parameters": {
+    "Hyponatremia Severity": {
+      "Type": "options",
+      "Options": ["mild", "moderate", "severe"]
+    },
+    "Seizure Risk": {
+      "Type": "options",
+      "Options": ["low", "moderate", "high"]
+    },
+    "Seizure Precautions": {
+      "Type": "list",
+      "Items": ["padding the bed rails", "having oxygen and suction equipment available", "etc."]
+    },
+    "Monitoring Parameters": {
+      "Type": "list",
+      "Items": ["vital signs", "neurological status", "etc."]
+    }
+  }
+}

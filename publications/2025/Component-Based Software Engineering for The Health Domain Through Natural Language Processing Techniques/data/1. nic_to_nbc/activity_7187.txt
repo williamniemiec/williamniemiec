@@ -1,0 +1,33 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Patient Care Record Review",
+    "parameters": [
+        {
+            "name": "Patient Care Record",
+            "type": "text"
+        },
+        {
+            "name": "Documentation Type",
+            "type": "options",
+            "options": ["Medication Administration", "Vital Signs", "Lab Results"]
+        },
+        {
+            "name": "Review Criteria",
+            "type": "text"
+        },
+        {
+            "name": "Findings",
+            "type": "text"
+        },
+        {
+            "name": "Actions",
+            "type": "text"
+        },
+        {
+            "name": "Notes",
+            "type": "text"
+        }
+    ]
+}

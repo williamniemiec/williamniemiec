@@ -1,0 +1,30 @@
+Here is the output in JSON format:
+
+
+{
+  "Activity Guide": {
+    "Parameters": {
+      "Activity Category": {},
+      "Activity Description": {},
+      "Step-by-Step Instructions": {}
+    }
+  },
+  "Video Demonstration": {
+    "Parameters": {
+      "Video URL": {},
+      "Video Description": {}
+    }
+  },
+  "Caregiver Practice": {
+    "Parameters": {
+      "Practice Prompt": {},
+      "Practice Reflection": {}
+    }
+  },
+  "Activity Tracker": {
+    "Parameters": {
+      "Activity Completion": {},
+      "Activity Date": {}
+    }
+  }
+}

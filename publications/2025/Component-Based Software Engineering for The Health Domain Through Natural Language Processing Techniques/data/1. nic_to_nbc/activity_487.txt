@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Intake and Output Record Education": {
+    "parameters": [
+      {"name": "tutorial_steps", "description": "Follow these steps to use an intake and output record", "required": true, "type": "list", "list_items": ["Step 1: Record all fluid intake (e.g., water, juice, medication)", "Step 2: Record all fluid output (e.g., urine, stool, emesis)", "Step 3: Calculate daily fluid balance", "Step 4: Report any concerns or abnormalities to healthcare provider"]},
+      {"name": "example_record", "description": "View an example of a completed intake and output record", "required": true, "type": "image"},
+      {"name": "quiz", "description": "Take a quiz to test your understanding of using an intake and output record", "required": true, "type": "quiz"}
+    ]
+  }
+}
+
+I removed all the unnecessary text and only kept the `{{ NO-CODE ELEMENT NAME }}` and `{{ PARAMETER ESPECIFICATIONS }}`. I also removed the `name` and `description` parameters that were not applicable. Let me know if you need any further assistance!

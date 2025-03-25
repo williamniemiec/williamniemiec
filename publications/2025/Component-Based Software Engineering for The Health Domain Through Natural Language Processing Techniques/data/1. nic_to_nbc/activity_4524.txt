@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Inhaler Guidance": {
+    "parameters": {
+      "Instructions": {"type": ["text", "video"]},
+      "Images": {"type": ["image", "diagram"]},
+      "Frequency": {"options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"type": "datetime"}
+    }
+  }
+}

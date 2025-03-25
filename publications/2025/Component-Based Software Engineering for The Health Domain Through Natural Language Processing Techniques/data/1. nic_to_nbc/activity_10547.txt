@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Administration": {
+    "Parameters": {
+      "Medication Name": {},
+      "Administration Instructions": {},
+      "Flow Control": {},
+      "Medication Dosage": {},
+      "Frequency of Medication Administration": {}
+    }
+  }
+}

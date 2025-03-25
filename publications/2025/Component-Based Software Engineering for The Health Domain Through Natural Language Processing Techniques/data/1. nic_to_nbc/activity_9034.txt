@@ -1,0 +1,32 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Food Diary",
+  "parameters": [
+    {
+      "name": "date",
+      "description": "Date of food diary",
+      "required": true,
+      "type": "date"
+    },
+    {
+      "name": "time",
+      "description": "Time of meal/snack",
+      "required": true,
+      "type": "time"
+    },
+    {
+      "name": "food",
+      "description": "Food eaten",
+      "required": true,
+      "type": "text"
+    },
+    {
+      "name": "portion_size",
+      "description": "Portion size of food eaten",
+      "required": true,
+      "type": "text"
+    }
+  ]
+}

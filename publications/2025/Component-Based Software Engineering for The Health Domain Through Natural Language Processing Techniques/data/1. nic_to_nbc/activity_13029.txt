@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Inhaler Cleaning Guidance": {
+    "Removal Instruction": {},
+    "Cleaning Instruction": {},
+    "Visual Demonstration": {},
+    "Audio Cue": {},
+    "Frequency": {},
+    "Deadline Date": {}
+  }
+}

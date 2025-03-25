@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Cue and Trigger Educator": {
+    "Behavior": {"Type": "text"},
+    "Cues": {"Type": "table"},
+    "Triggers": {"Type": "table"},
+    "Explanation": {"Type": "text"},
+    "Reflection Prompt": {"Type": "text"}
+  }
+}

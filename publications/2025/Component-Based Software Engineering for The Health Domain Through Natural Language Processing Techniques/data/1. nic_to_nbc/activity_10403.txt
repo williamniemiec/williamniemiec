@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Administration Guide": {
+    "Parameters": {
+      "Medication Name": {"Type": "text"},
+      "Administration Method": {"Type": "options", "Options": ["oral", "injection", "topical", "other"]},
+      "Dosage Instructions": {"Type": "text"},
+      "Visual Aids": {"Type": "file upload"},
+      "Tips and Precautions": {"Type": "text"},
+      "Quiz": {"Type": "multiple-choice questions"}
+    }
+  }
+}
+
+
+I removed the "Certification" parameter as it is a boolean type, which is not applicable in this context.

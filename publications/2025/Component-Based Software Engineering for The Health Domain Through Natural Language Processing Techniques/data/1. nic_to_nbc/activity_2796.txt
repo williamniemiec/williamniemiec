@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Seeking Assistance Guide": {
+    "Red Flags": {},
+    "Contact Information": {},
+    "Urgent vs. Non-Urgent": {},
+    "Additional Resources": {},
+    "Emergency Instructions": {}
+  }
+}

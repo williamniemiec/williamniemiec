@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+{
+  "Administration Technique Guide": {
+    "Technique List": {"type": "list of technique names"},
+    "Simultaneous Administration": {"type": "text or html"},
+    "Step-by-Step Instructions": {"type": "list of text or html for each technique"},
+    "Visual Aids": {"type": "list of URLs or file attachments"},
+    "Additional Resources": {"type": "list of URLs or file attachments"}
+  }
+}

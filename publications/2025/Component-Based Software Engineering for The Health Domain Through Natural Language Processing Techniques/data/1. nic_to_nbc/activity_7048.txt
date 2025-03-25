@@ -1,0 +1,30 @@
+Here is the output in JSON format:
+
+
+{
+  "Immobilization Guide": {
+    "Parameters": {
+      "Device to Use": {
+        "Type": "options",
+        "Options": ["cervical collar", "backboard", "other"]
+      },
+      "Technique to Use": {
+        "Type": "options",
+        "Options": ["move patient as a unit", "transport patient in supine position", "other"]
+      },
+      "Instructions": {
+        "Type": "text"
+      },
+      "Frequency of Immobilization": {
+        "Type": "options",
+        "Options": ["continuously", "as needed", "other"]
+      },
+      "Duration of Immobilization": {
+        "Type": "text"
+      }
+    }
+  }
+}
+
+
+I removed the `Deadline Date` and `Notes` parameters as they are not applicable (datetime and text fields respectively). Let me know if you have any further questions!

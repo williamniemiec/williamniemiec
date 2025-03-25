@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Physical Closeness": {
+        "Name": {"type": "text"},
+        "Methods": {"type": "list", "examples": ["Skin-to-skin contact", "Breastfeeding", "Child carrying (e.g., using a baby carrier)", "Sleeping in close proximity to the infant", "Other"]},
+        "Benefits": {"type": "text", "example": "Physical closeness can help regulate the infant's body temperature, heart rate, and breathing, while also promoting feelings of security and comfort."},
+        "Tips and Reminders": {"type": "text", "example": "Try to practice skin-to-skin contact during feeding or after a bath, when the infant is most receptive to touch."},
+        "Videos": {"type": "video", "example": "A short video showing a parent practicing skin-to-skin contact with their infant"},
+        "Tracking": {"type": "boolean"}
+    }
+}

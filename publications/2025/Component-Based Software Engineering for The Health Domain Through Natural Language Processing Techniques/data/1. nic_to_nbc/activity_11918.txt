@@ -1,0 +1,24 @@
+Here is the output in JSON format, removing anything except `PARAMETER ESPECIFICATIONS` and `NO-CODE ELEMENT NAME`, and also removing not applicable parameters:
+
+
+{
+  "name": "Instruction Adjustment",
+  "parameters": [
+    {
+      "name": "Patient Knowledge Level",
+      "type": "rating scale or text"
+    },
+    {
+      "name": "Instruction Content",
+      "type": "text or reference to another no-code element"
+    },
+    {
+      "name": "Adjustment Criteria",
+      "type": "list of criteria"
+    },
+    {
+      "name": "Adjusted Instruction",
+      "type": "text or reference to another no-code element"
+    }
+  ]
+}

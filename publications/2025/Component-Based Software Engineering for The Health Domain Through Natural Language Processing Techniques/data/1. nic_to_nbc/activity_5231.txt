@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+    "Wound Healing Tracker": {
+        "Parameters": {
+            "Wound Assessment": {"Type": "questionnaire"},
+            "Wound Measurement": {"Type": "numerical input"},
+            "Wound Photography": {"Type": "camera"},
+            "Pain and Discomfort": {"Type": "options", "Options": ["mild", "moderate", "severe", "other"]},
+            "Wound Care Instructions": {"Type": "text"},
+            "Progress Tracking": {"Type": "text"}
+        }
+    }
+}

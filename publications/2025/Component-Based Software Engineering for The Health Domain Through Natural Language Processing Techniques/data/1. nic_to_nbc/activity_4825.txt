@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Family Information Portal": {
+    "parameters": {
+      "Patient Information": {"type": "JSON object or patient data"},
+      "Care Updates": {"type": "list of text or HTML"},
+      "Limitations and Implications": {"type": "list of text or HTML"},
+      "Caregiver Resources": {"type": "list of text or HTML"},
+      "Secure Messaging": {"type": "secure messaging platform or API"}
+    }
+  }
+}

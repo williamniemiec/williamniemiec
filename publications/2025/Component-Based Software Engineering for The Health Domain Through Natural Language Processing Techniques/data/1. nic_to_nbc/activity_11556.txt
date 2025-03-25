@@ -1,0 +1,31 @@
+Here is the output in JSON format:
+
+
+{
+  "Preparation for Wound Care": {
+    "Waterproof Pad": {
+      "description": "Instructions for placing waterproof pad under patient",
+      "required": true,
+      "type": ["text", "illustration", "video"]
+    },
+    "Bath Blankets": {
+      "description": "Instructions for placing bath blankets under patient",
+      "required": true,
+      "type": ["text", "illustration", "video"]
+    },
+    "Patient Positioning": {
+      "description": "Instructions for positioning patient to ensure waterproof pad and bath blankets are in place",
+      "required": true,
+      "type": ["text", "illustration", "video"]
+    },
+    "Confirmation": {
+      "description": "Confirmation that waterproof pad and bath blankets are in place",
+      "required": true,
+      "type": "question",
+      "options": [
+        { "value": "yes", "label": "Yes, waterproof pad and bath blankets are in place" },
+        { "value": "no", "label": "No, waterproof pad and bath blankets are not in place" }
+      ]
+    }
+  }
+}

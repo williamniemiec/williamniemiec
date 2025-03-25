@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Nuchal Rigidity Assessment": {
+        "Parameters": {
+            "Name": {"Type": "text"},
+            "Assessment Instructions": {"Type": ["text", "multimedia"]},
+            "Frequency": {"Type": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+            "Deadline Date": {"Type": "datetime"}
+        }
+    }
+}

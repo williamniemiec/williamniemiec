@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Trust Building Activity": {
+        "Parameters": {
+            "Name": {"Type": "text"},
+            "Activity Type": {"Type": "text"},
+            "Content": {"Type": "text"},
+            "Frequency": {"Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+            "Reflection Prompt": {"Type": "text"}
+        }
+    }
+}

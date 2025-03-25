@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+    "Informed Consent": {
+        "Consent Form": {"Type": "digital form with signature capture"},
+        "Consent Information": {"Type": "text or multimedia content (e.g., images, videos)"},
+        "Questions": {"Type": "text or list"},
+        "Confirmation": {"Type": "checkbox or digital signature"}
+    }
+}

@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Sensitivity Setting",
+    "parameters": [
+        { 
+            "name": "Sensitivity Range", 
+            "description": "A parameter that specifies the sensitivity range for the patient.",
+            "type": "text"
+        },
+        { 
+            "name": "Sensing Status", 
+            "description": "A parameter that specifies the sensing status of the pacemaker.",
+            "type": "text"
+        },
+        { 
+            "name": "Adjustment Direction", 
+            "description": "A parameter that specifies the direction of adjustment for the sensitivity setting.",
+            "type": "text"
+        }
+    ]
+}

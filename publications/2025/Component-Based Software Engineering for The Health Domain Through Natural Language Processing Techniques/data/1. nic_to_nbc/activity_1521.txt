@@ -1,0 +1,5 @@
+Since there are no applicable parameters or no-code elements mentioned in the input text, the output will be an empty JSON object:
+
+{}
+
+Please provide another input text if you'd like me to process it.

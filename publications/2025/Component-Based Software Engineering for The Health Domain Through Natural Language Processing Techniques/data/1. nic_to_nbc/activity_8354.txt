@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+    "Session": {
+        "parameters": {
+            "name": "",
+            "duration": [],
+            "frequency": [],
+            "description": ""
+        }
+    },
+    "Schedule": {
+        "parameters": {
+            "name": "",
+            "date": "",
+            "time": "",
+            "duration": [],
+            "frequency": [],
+            "description": ""
+        }
+    }
+}

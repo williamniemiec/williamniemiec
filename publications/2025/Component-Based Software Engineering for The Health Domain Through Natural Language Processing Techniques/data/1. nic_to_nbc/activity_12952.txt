@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Decision Tree",
+    "parameters": [
+        {
+            "name": "Scenario",
+            "type": "text"
+        },
+        {
+            "name": "Options",
+            "type": "list of options"
+        },
+        {
+            "name": "Consequences",
+            "type": "list of consequences"
+        },
+        {
+            "name": "Frequency",
+            "type": "options"
+        }
+    ]
+}
+
+Note that I removed the `Deadline Date` parameter as it was not applicable in this case. Also, I simplified the JSON structure to only include the necessary information.

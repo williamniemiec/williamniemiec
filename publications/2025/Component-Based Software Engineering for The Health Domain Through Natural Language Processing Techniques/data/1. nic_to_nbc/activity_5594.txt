@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+    "Shoe Wear Guidance": {
+        "parameters": [
+            {"shoe_characteristics": "List of characteristics of recommended shoes"},
+            {"shoe_types": "List of recommended shoe types"},
+            {"avoid_shoe_types": "List of shoe types to avoid"},
+            {"frequency": "Specify how often to wear recommended shoes"}
+        ]
+    }
+}
+
+
+I removed the not applicable parameter `"deadline_date"` since it's marked as `required: false`. Let me know if you need any further modifications!

@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Tube Connection": {
+    "Parameters": {
+      "Name": {},
+      "Connection Instructions": {},
+      "Device Type": {},
+      "Verification Method": {},
+      "Frequency": {},
+      "Deadline Date": {},
+      "Confirmation": {},
+      "Additional Notes": {}
+    }
+  }
+}

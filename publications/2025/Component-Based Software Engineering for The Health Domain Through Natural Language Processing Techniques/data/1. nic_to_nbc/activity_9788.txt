@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Role Change Assessment": {
+    "parameters": {
+      "Role Change Questions": {},
+      "Answer Type": {},
+      "Frequency": {},
+      "Deadline Date": {},
+      "Impact Analysis": {}
+    }
+  }
+}

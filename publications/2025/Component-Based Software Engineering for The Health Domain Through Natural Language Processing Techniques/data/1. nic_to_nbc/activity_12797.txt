@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Activity Planner": {
+    "Parameters": {
+      "Activity selection": {"Type": "options", "Options": ["walking", "jogging", "cycling", "etc."]},
+      "Frequency": {"Type": "options", "Options": ["three times a week", "four times a week", "etc."]},
+      "Duration": {"Type": "number"},
+      "Schedule": {"Type": "calendar"},
+      "Reminders": {"Type": "boolean"},
+      "Tracking method": {"Type": "options", "Options": ["mobile app", "wearable device", "etc."]},
+      "Deadline date": {"Type": "datetime"}
+    }
+  }
+}

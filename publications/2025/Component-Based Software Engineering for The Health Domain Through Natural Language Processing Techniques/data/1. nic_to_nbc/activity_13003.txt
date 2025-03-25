@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+  "Rheologic Agent Administration": {
+    "Parameters": {
+      "Rheologic Agent": {
+        "Type": "options",
+        "Options": ["low-dose mannitol", "low molecular weight dextrans"]
+      },
+      "Dosage": {
+        "Type": "text"
+      },
+      "Frequency": {
+        "Type": "options",
+        "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+      },
+      "Deadline Date": {
+        "Type": "datetime"
+      },
+      "Order Reference": {
+        "Type": "text"
+      }
+    }
+  }
+}

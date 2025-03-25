@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Restraint Explanation": {
+    "Parameters": {
+      "Restraint Purpose": {"Type": "text"},
+      "Restraint Benefits": {"Type": "text"},
+      "Alternative Options": {"Type": "text"},
+      "Patient Concerns": {"Type": "text"},
+      "Education Method": {"Type": "options", "Options": ["verbal", "written", "visual", "multimedia"]}
+    }
+  }
+}

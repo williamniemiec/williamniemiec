@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+    "Discharge Log": {
+        "Log Fields": {"type": "list of options"},
+        "Log Format": {"type": "options"},
+        "Frequency": {"type": "options", "options": ["after each discharge", "daily", "weekly"]},
+        "Review Instructions": {"type": "text"},
+        "Example Log Entry": {"type": "text"}
+    }
+}
+
+
+I removed all the unnecessary information and kept only the `PARAMETER ESPECIFICATIONS` and `NO-CODE ELEMENT NAME`. I also formatted it as a JSON object for easier readability.

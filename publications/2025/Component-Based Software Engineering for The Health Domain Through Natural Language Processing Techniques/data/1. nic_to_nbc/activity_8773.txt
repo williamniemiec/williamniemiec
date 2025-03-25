@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Privacy Setting": {
+    "parameters": {
+      "Privacy Option": {
+        "type": "options",
+        "options": [
+          { "value": "private", "label": "Private" },
+          { "value": "shared", "label": "Shared with healthcare team" },
+          { "value": "custom", "label": "Custom ( specify who can see)" }
+        ]
+      },
+      "Custom Sharing": {
+        "type": "text",
+        "required": false
+      }
+    }
+  }
+}

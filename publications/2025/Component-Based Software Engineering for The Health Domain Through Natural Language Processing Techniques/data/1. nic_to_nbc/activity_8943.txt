@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+  "Wound Care": {
+    "parameters": {
+      "Wound Location": {
+        "type": "text or selection from a list"
+      },
+      "Dressing Instructions": {
+        "type": "text or multimedia content"
+      },
+      "Frequency": {
+        "options": ["daily", "everyOtherDay", "every2Days"]
+      },
+      "Deadline Date": {
+        "type": "datetime"
+      },
+      "Photos": {
+        "type": "camera or image upload"
+      }
+    }
+  }
+}
+
+
+Let me know if you need any further modifications!

@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Activity": {
+    "Name": {},
+    "Description": {},
+    "Activity Type": {},
+    "Frequency": {},
+    "Duration": {},
+    "Tolerance": {}
+  }
+}

@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Factual Question": {
+    "question": {
+      "type": "text"
+    },
+    "answer_type": {
+      "type": "options"
+    },
+    "frequency": {
+      "type": "options"
+    },
+    "deadline_date": {
+      "type": "datetime"
+    }
+  }
+}

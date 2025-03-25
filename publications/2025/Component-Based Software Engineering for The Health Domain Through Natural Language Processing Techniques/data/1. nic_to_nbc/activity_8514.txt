@@ -1,0 +1,20 @@
+Here is the output in JSON format, removing anything except `PARAMETER ESPECIFICATIONS` and `NO-CODE ELEMENT NAME`, and removing not applicable parameters:
+
+
+{
+    "name": "Food Preference",
+    "parameters": [
+        {
+            "name": "Favorite Foods"
+        },
+        {
+            "name": "Seasonings"
+        },
+        {
+            "name": "Temperature"
+        },
+        {
+            "name": "Additional Notes"
+        }
+    ]
+}

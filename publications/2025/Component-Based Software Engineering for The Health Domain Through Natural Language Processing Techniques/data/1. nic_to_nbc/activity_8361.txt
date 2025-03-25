@@ -1,0 +1,24 @@
+
+
+
+{
+  "elementName": "Financial Resource Assistance",
+  "parameters": [
+    {
+      "name": "Financial Resource Needs",
+      "description": "What financial resources do you need assistance with?"
+    },
+    {
+      "name": "Assistance Options",
+      "description": "How would you like to receive assistance?"
+    },
+    {
+      "name": "Social Services Contact",
+      "description": "Would you like to contact social services for assistance?"
+    },
+    {
+      "name": "Additional Assistance",
+      "description": "Do you need additional assistance in obtaining financial resources?"
+    }
+  ]
+}

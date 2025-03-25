@@ -1,0 +1,10 @@
+Here is the output in JSON format:
+
+
+{
+  "Cup Placement": {
+    "Lip Position": {"type": "options"},
+    "Cup Angle": {"type": "numerical value"},
+    "Cup Edge Alignment": {"type": "boolean"}
+  }
+}

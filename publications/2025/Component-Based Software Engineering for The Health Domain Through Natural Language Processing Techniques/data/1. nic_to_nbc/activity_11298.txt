@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Ventilator Mode and Pressure Monitoring": {
+    "Instructions": { "name": "Instructions", "description": "Please monitor the mode and pressure of the ventilator", "required": true, "type": "text" },
+    "Monitoring frequency": { "name": "Monitoring frequency", "description": "How often should the ventilator mode and pressure be monitored?", "required": true, "type": "options", "options": [ { "value": "hourly", "label": "Hourly" }, { "value": "every2hours", "label": "Every 2 hours" }, { "value": "every4hours", "label": "Every 4 hours" } ] },
+    "Deadline date": { "name": "Deadline date", "description": "Please monitor the ventilator mode and pressure by", "required": true, "type": "datetime" },
+    "Monitoring results": { "name": "Monitoring results", "description": "Please enter the results of the ventilator mode and pressure monitoring", "required": true, "type": "text" },
+    "Ventilator mode": { "name": "Ventilator mode", "description": "Please select the ventilator mode", "required": true, "type": "options", "options": [ { "value": "volumeControl", "label": "Volume control" }, { "value": "pressureControl", "label": "Pressure control" }, { "value": "pressureSupport", "label": "Pressure support" } ] },
+    "Ventilator pressure": { "name": "Ventilator pressure", "description": "Please enter the ventilator pressure", "required": true, "type": "number" }
+  },
+  "Ventilator Mode and Pressure Tracker": {
+    "Instructions": { "name": "Instructions", "description": "Please track the ventilator mode and pressure", "required": true, "type": "text" },
+    "Tracking frequency": { "name": "Tracking frequency", "description": "How often should the ventilator mode and pressure be tracked?", "required": true, "type": "options", "options": [ { "value": "hourly", "label": "Hourly" }, { "value": "every2hours", "label": "Every 2 hours" }, { "value": "every4hours", "label": "Every 4 hours" } ] },
+    "Deadline date": { "name": "Deadline date", "description": "Please track the ventilator mode and pressure by", "required": true, "type": "datetime" },
+    "Reminders": { "name": "Reminders", "description": "Would you like to receive reminders to track the ventilator mode and pressure?", "required": true, "type": "boolean" }
+  }
+}

@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Cue Restriction Guide": {
+    "Undesirable Behavior": {},
+    "Cues to Restrict": {},
+    "Restriction Plan": {},
+    "Alternative Behaviors": {},
+    "Frequency": {"options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {}
+  }
+}

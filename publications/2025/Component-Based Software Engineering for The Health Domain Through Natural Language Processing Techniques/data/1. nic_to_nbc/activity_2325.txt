@@ -1,0 +1,29 @@
+Here is the output in JSON format:
+
+
+{
+  "Parameters": {
+    "Symptoms": {
+      "type": "list of symptoms"
+    },
+    "Tracking": {
+      "type": "interactive tracking tool"
+    },
+    "Frequency": {
+      "options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+    },
+    "Deadline Date": {
+      "type": "datetime"
+    },
+    "Reminders": {
+      "type": "boolean"
+    },
+    "Alerts": {
+      "type": "boolean"
+    }
+  },
+  "No-code element name": "Resolution Tracker"
+}
+
+
+Let me know if you need anything else!

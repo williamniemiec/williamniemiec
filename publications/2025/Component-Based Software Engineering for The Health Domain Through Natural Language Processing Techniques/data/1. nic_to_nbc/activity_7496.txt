@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Occupational Support": {
+    "parameters": [
+      {"name": "Support Type"},
+      {"name": "Employer Information"},
+      {"name": "Support Request"}
+    ]
+  },
+  "Resource Connection": {
+    "parameters": [
+      {"name": "Resource List"},
+      {"name": "Resource Contact Information"}
+    ]
+  }
+}

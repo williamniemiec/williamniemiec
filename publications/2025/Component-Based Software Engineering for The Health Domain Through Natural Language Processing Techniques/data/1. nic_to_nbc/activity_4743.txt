@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Receiving Facility Verification": {
+    "Parameters": {
+      "Receiving Facility Confirmation": {"Type": "boolean"},
+      "Equipment Availability": {"Type": "options"},
+      "Staff Availability": {"Type": "options"},
+      "Clinical Situation Details": {"Type": "text"},
+      "Verification Date and Time": {"Type": "datetime"},
+      "Verification Method": {"Type": "options"}
+    }
+  }
+}

@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Apical-Radial Pulse Comparison": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Apical Pulse": {"Type": "number"},
+      "Radial Pulse": {"Type": "number"},
+      "Difference": {"Type": "number"},
+      "Frequency": {"Type": "options"},
+      "Notes": {"Type": "text"}
+    }
+  }
+}

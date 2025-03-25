@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+  "parameters": [
+    {
+      "name": "Patient ID",
+      "type": "text"
+    },
+    {
+      "name": "Verification Method",
+      "type": "options",
+      "options": ["password", "fingerprint", "facial_recognition", "other"]
+    },
+    {
+      "name": "Frequency",
+      "type": "options",
+      "options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+    }
+  ],
+  "no_code_element_name": "Patient Identification Verification"
+}

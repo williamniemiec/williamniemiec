@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Referral Form": {
+    "parameters": [
+      {"name": "referral_type", "description": "Type of referral"},
+      {"name": "referral_reason", "description": "Reason for referral"},
+      {"name": "patient_info", "description": "Patient information"},
+      {"name": "provider_info", "description": "Referring provider information"},
+      {"name": "notes", "description": "Additional notes or comments about the referral"}
+    ]
+  }
+}
+
+
+Note that I removed the `required` and `type` fields as they were not requested in the output. If you need them, let me know!

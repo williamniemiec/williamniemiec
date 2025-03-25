@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Activity Restriction": {
+        "Reason for Restriction": {"type": "text"},
+        "Type of Activity": {"type": "text"},
+        "Duration of Restriction": {"type": "text"},
+        "Confirmation": {"type": "boolean"},
+        "Deadline Date": {"type": "datetime"},
+        "Notes": {"type": "text"}
+    }
+}

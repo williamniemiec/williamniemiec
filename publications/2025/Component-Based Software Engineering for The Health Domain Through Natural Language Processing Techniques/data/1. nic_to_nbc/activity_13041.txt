@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "instruction",
+    "parameters": [
+        { 
+            "name": "name", 
+            "description": "instruction title"
+        },
+        { 
+            "name": "content", 
+            "description": "instruction text"
+        },
+        { 
+            "name": "frequency", 
+            "description": "specify how often to have infant join family at meal times",
+            "options": [
+                { value: "atEveryMeal", label: "At every meal" },
+                { value: "atMostMeals", label: "At most meals" }
+            ]
+        }
+    ]
+}

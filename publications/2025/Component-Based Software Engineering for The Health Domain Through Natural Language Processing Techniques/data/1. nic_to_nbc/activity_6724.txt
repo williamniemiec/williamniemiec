@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Specialist Referral": {
+    "Suspected Abuse Type": {"type": "options"},
+    "Specialist Information": {"type": "text"},
+    "Referral Reason": {"type": "text"},
+    "Referral Method": {"type": "options"},
+    "Urgency Level": {"type": "options"},
+    "Follow-up": {"type": "boolean"}
+  }
+}

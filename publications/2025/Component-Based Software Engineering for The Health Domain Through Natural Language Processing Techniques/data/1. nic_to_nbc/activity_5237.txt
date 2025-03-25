@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+"Self-Administration Technique Guide": {
+"Technique Name": {"Type": "text"},
+"Step-by-Step Instructions": {"Type": "ordered list"},
+"Demonstration": {"Type": "media"},
+"Practice Schedule": {"Type": "options"},
+"Monitoring Questions": {"Type": "form"},
+"Feedback": {"Type": "text or video"}
+}
+}

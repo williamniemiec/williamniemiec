@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Procedure Preparation": {
+        "Name": {"type": "text"},
+        "Physical Preparation": {"type": "text or list"},
+        "Emotional Preparation": {"type": "text or video"},
+        "Procedure Overview": {"type": "text or video"},
+        "Support System": {"type": "form or questionnaire"},
+        "Reminders": {"type": "options", "options": ["daily", "every12Hours", "every8Hours", "asNeeded"]}
+    }
+}

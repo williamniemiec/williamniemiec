@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Routine": {
+    "parameters": {
+      "name": "",
+      "steps": [
+        {
+          "description": "",
+          "frequency": "",
+          "reminders": ""
+        }
+      ],
+      "resources": "",
+      "tracking": ""
+    }
+  }
+}

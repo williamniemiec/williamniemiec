@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+    "Treatment Tracker": {
+        "name": "treatment name",
+        "description": "brief description of the treatment",
+        "tracking_type": "options for tracking (e.g., daily, weekly, monthly)",
+        "reminders": "options for reminders (e.g., notifications, alerts)"
+    },
+    "Motivational Message": {
+        "message": "motivational message text",
+        "frequency": "options for message frequency (e.g., daily, weekly, monthly)",
+        "timing": "options for message timing (e.g., morning, evening)"
+    },
+    "Treatment Education": {
+        "content": "educational content about the treatment (e.g., text, video, image)",
+        "format": "options for content format (e.g., article, video, infographic)"
+    },
+    "Goal Setting": {
+        "goal": "goal text",
+        "target_date": "target date for achieving the goal",
+        "reminders": "options for reminders (e.g., notifications, alerts)"
+    }
+}

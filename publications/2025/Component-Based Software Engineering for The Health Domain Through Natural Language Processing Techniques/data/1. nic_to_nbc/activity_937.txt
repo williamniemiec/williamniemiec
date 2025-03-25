@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Paresthesia Monitoring": {
+    "Parameters": {
+      "Name": {},
+      "Symptom Checker": {},
+      "Severity Scale": {},
+      "Location": {},
+      "Frequency": {}
+    }
+  },
+  "Numbness Monitoring": {},
+  "Tingling Monitoring": {}
+}
+
+
+Note: I removed the `Deadline Date` parameter as it is not applicable to the no-code elements.

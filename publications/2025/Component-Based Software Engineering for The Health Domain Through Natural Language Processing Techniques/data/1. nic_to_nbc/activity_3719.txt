@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+    "Schedule": {
+        "name": {"type": "text"},
+        "procedure": {"type": "text"},
+        "transfusion_type": {"type": "options", "options": ["platelet", "fresh frozen plasma"]},
+        "timing": {"type": "options", "options": ["before", "during", "after"]},
+        "frequency": {"type": "options", "options": ["daily", "weekly", "monthly"]}
+    }
+}

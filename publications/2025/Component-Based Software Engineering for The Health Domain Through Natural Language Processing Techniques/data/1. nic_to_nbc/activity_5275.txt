@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Family Consultation": {
+    "parameters": [
+      {"name": "name", "description": "title or name of the family consultation"},
+      {"name": "family members", "description": "a list of family members to be consulted"},
+      {"name": "consultation method", "description": "specifies the method of consultation (e.g., in-person, phone call, video conference, etc.)"},
+      {"name": "cultural considerations", "description": "specifies any cultural considerations that should be taken into account during the consultation"},
+      {"name": "deadline_date", "description": "specifies the due date for the family consultation"}
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Vaccine Program Information": {
+    "Parameters": {
+      "Program Name": {},
+      "Program Description": {},
+      "Eligibility Criteria": {},
+      "Benefits": {},
+      "Resources": {}
+    }
+  },
+  "Guide": {
+    "Parameters": {
+      "Guide Title": {},
+      "Guide Content": {},
+      "Resources": {}
+    }
+  }
+}

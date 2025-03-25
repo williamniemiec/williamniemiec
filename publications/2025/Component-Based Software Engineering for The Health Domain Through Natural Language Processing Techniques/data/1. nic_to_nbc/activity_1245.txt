@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Objective Overview": {
+    "parameters": {
+      "name": {"type": "text"},
+      "objectives": {"type": "list of objects", "contents": {"objective": "", "description": ""}},
+      "rationale": {"type": "text"},
+      "key_takeaways": {"type": "list of objects", "contents": {"takeaway": "", "description": ""}}
+    }
+  }
+}

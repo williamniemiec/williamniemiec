@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Education": {
+    "Parameters": {
+      "Reason for Monitoring": {"Type": "text or HTML content"},
+      "Information to be Obtained": {"Type": "text or list (e.g., bullet points)"},
+      "Additional Resources": {"Type": "text or HTML content"}
+    }
+  }
+}
+
+
+Let me know if this is what you were expecting!

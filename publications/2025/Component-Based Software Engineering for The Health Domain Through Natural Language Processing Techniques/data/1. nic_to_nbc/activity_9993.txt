@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Application Instruction": {
+    "parameters": {
+      "name": "",
+      "substance": "",
+      "application_instructions": "",
+      "frequency": ""
+    }
+  }
+}

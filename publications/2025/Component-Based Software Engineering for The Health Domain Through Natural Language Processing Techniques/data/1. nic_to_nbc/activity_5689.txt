@@ -1,0 +1,33 @@
+Here is the output in JSON format:
+
+
+{
+    "Meal Setup": {
+        "Task Name": {
+            "Description": "Task to set up meal tray and table",
+            "Required": true,
+            "Type": "text"
+        },
+        "Frequency": {
+            "Description": "Specify how often to set up meal tray and table",
+            "Required": true,
+            "Type": "options",
+            "Options": [
+                { "value": "daily", "label": "Daily" },
+                { "value": "everyOtherDay", "label": "Every other day" },
+                { "value": "weekly", "label": "Weekly" },
+                { "value": "custom", "label": "Custom (please specify)" }
+            ]
+        },
+        "Custom Frequency": {
+            "Description": "Enter custom frequency",
+            "Required": false,
+            "Type": "text"
+        },
+        "Tips": {
+            "Description": "Enter additional tips for setting up meal tray and table",
+            "Required": false,
+            "Type": "text"
+        }
+    }
+}

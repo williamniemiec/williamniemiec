@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Experience Reframe": {
+    "parameters": {
+      "Past Experience": {"type": "text"},
+      "Current Situation": {"type": "text"},
+      "Differences": {"type": "text"},
+      "Reassurance": {"type": "text"}
+    }
+  }
+}
+
+
+I removed the `Follow-up` parameter because it's a boolean type, and you asked to remove not applicable parameters.

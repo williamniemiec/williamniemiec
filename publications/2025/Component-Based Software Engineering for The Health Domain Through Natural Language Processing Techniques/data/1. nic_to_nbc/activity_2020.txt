@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+    "Bone Pain Tracking": {
+        "parameters": [
+            {"name": "pain_level", "description": "Select level of bone pain"},
+            {"name": "pain_location", "description": "Select location of bone pain"},
+            {"name": "frequency", "description": "Specify how often to track bone pain"}
+        ]
+    }
+}

@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+    "Relationship Building": {
+        "parameters": [
+            {
+                "name": "Patient Profile",
+                "type": "text or JSON object"
+            },
+            {
+                "name": "Caregiver Profile",
+                "type": "text or JSON object"
+            },
+            {
+                "name": "Communication Channel",
+                "type": "text or options"
+            },
+            {
+                "name": "Frequency of Interaction",
+                "type": "options"
+            }
+        ]
+    }
+}

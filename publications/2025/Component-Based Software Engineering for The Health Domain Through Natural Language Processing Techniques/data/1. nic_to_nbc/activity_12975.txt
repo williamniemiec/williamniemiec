@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Pharmaceutical Representative Consultation": {
+    "Company Representative": {"type": "text", "example": "John Doe, Pfizer Representative"},
+    "Reason for Consultation": {"type": "text", "example": "Seeking information on new medication for patient treatment"},
+    "Consultation Method": {"type": "options", "options": [{"value": "In-person", "label": "In-person meeting"}, {"value": "Phone", "label": "Phone call"}, {"value": "Email", "label": "Email exchange"}]},
+    "Consultation Notes": {"type": "text"}
+  }
+}
+
+
+Let me know if this is what you were looking for!

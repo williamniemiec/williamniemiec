@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Visit Tracker": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Visit Type": {"Type": "options", "Options": ["clinic", "emergency room", "physician's office"]},
+      "Frequency": {"Type": "options", "Options": ["daily", "weekly", "monthly"]},
+      "Reason": {"Type": "text"},
+      "Date": {"Type": "datetime"}
+    }
+  }
+}
+
+
+Let me know if this meets your requirements!

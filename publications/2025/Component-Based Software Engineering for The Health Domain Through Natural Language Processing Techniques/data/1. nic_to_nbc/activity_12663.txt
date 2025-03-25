@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Guideline Consultant": {
+    "parameters": {
+      "Guideline Library": {"type": "list of text values"},
+      "Specialist Directory": {"type": "list of text values"},
+      "Consultation Field": {"type": "text"},
+      "Response Field": {"type": "text"}
+    }
+  }
+}

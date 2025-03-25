@@ -1,0 +1,49 @@
+Here is the output in JSON format:
+
+
+{
+  "Adverse Reaction Monitoring": {
+    "parameters": [
+      {
+        "name": "symptoms",
+        "description": "Select any symptoms you are experiencing",
+        "required": true,
+        "type": "multiselect",
+        "options": [
+          { "value": "nausea", "label": "Nausea" },
+          { "value": "vomiting", "label": "Vomiting" },
+          { "value": "abdominalCramps", "label": "Abdominal Cramps" },
+          { "value": "diarrhea", "label": "Diarrhea" },
+          { "value": "facialFlare", "label": "Facial Flare" },
+          { "value": "arrhythmia", "label": "Arrhythmia" },
+          { "value": "dyspnea", "label": "Dyspnea" },
+          { "value": "other", "label": "Other (please specify)" }
+        ]
+      },
+      {
+        "name": "severity",
+        "description": "Rate the severity of your symptoms",
+        "required": true,
+        "type": "options",
+        "options": [
+          { "value": "mild", "label": "Mild" },
+          { "value": "moderate", "label": "Moderate" },
+          { "value": "severe", "label": "Severe" }
+        ]
+      },
+      {
+        "name": "report_to_provider",
+        "description": "Report symptoms to healthcare provider",
+        "required": true,
+        "type": "options",
+        "options": [
+          { "value": "yes", "label": "Yes, report to provider" },
+          { "value": "no", "label": "No, do not report" }
+        ]
+      }
+    ]
+  }
+}
+
+
+Let me know if this is what you were expecting!

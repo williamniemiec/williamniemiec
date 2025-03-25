@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+  "Correction": {
+    "parameters": {
+      "name": {"type": "text"},
+      "misinformation": {"type": "text"},
+      "corrected_info": {"type": "text"},
+      "trigger": {"type": "options"}
+    }
+  },
+  "Question": {
+    "parameters": {
+      "name": {"type": "text"},
+      "question": {"type": "text"},
+      "answer_type": {"type": "options"}
+    }
+  }
+}
+
+
+Note that I removed the not applicable parameters and only kept the `Correction` and `Question` no-code elements with their respective parameters.

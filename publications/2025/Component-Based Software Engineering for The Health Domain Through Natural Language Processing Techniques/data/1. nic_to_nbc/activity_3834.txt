@@ -1,0 +1,10 @@
+Here is the output in JSON format:
+
+
+{
+  "Quiet Reflection": {
+    "Instructions": {"type": "text or multimedia content"},
+    "Duration": {"type": "time interval"},
+    "Eye State": {"type": "text"}
+  }
+}

@@ -1,0 +1,32 @@
+Here is the output in JSON format:
+
+
+{
+    "Signal Selection": {
+        "name": "title of the signal selection activity",
+        "signal_options": "a list of possible signals for the child to choose from (e.g., raising their hand, saying a specific phrase, etc.)",
+        "description": "a brief explanation of the purpose of the signal",
+        "frequency": "how often the child should review and update their signal",
+        "deadline_date": "the due date for the signal selection activity",
+        "content_type": "selection"
+    },
+    "Signal Practice": {
+        "name": "title of the signal practice activity",
+        "signal_to_practice": "the signal chosen by the child",
+        "practice_steps": "a series of steps to guide the child in practicing their signal (e.g., \"Raise your hand\", \"Say 'I need a break'\", etc.)",
+        "frequency": "how often the child should practice their signal",
+        "deadline_date": "the due date for the signal practice activity",
+        "content_type": "guided practice"
+    },
+    "Overwhelm Check-in": {
+        "name": "title of the overwhelm check-in activity",
+        "prompt": "a guiding question to help the child assess their emotional state (e.g., \"How are you feeling right now?\")",
+        "signal_reminder": "a reminder of the child's chosen signal and its purpose",
+        "frequency": "how often the child should check-in with their emotional state",
+        "deadline_date": "the due date for the overwhelm check-in activity",
+        "content_type": "form"
+    }
+}
+
+
+Note: I removed the "not applicable" parameters, but since there were no explicit "not applicable" parameters in the input text, I left all the original parameters intact. If you want me to remove any specific parameters, please let me know!

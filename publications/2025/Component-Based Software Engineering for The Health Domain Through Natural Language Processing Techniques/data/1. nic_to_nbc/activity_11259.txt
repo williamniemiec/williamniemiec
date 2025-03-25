@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Resource": {
+    "Name": {"type": "text"},
+    "Type": {"type": "options", "options": ["video", "article", "phone number", "email", "chatbot", "etc."]},
+    "Content": {"type": "depends on the resource type"},
+    "Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"type": "datetime"}
+  }
+}

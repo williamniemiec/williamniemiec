@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Observation Period": {
+    "Agent Administered": {"type": "text"},
+    "Observation Duration": {"type": "duration"},
+    "Monitoring Frequency": {"type": "options"},
+    "Signs of Allergic Response": {"type": "list of signs"}
+  },
+  "Timer": {
+    "Duration": {"type": "duration"},
+    "Agent Administered": {"type": "text"},
+    "Signs of Allergic Response": {"type": "list of signs"}
+  }
+}

@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Goal Setter",
+  "parameters": [
+    {
+      "name": "goal type"
+    },
+    {
+      "name": "goal description"
+    },
+    {
+      "name": "target value"
+    },
+    {
+      "name": "unit of measurement"
+    },
+    {
+      "name": "display location"
+    }
+  ]
+}

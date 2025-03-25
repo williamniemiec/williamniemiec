@@ -1,0 +1,36 @@
+Here is the output in JSON format:
+
+
+{
+    "Equipment Coordination": {
+        "Parameters": {
+            "Equipment List": {
+                "Type": "list",
+                "List items": [
+                    {"value": "ECG machine", "label": "ECG Machine"},
+                    {"value": "oxygenTank", "label": "Oxygen Tank"},
+                    {"value": "woundDressing", "label": "Wound Dressing"}
+                ]
+            },
+            "Action": {
+                "Type": "options",
+                "Options": [
+                    {"value": "place", "label": "Place"},
+                    {"value": "replace", "label": "Replace"},
+                    {"value": "setup", "label": "Set up"}
+                ]
+            },
+            "Location": {
+                "Type": "text"
+            },
+            "Schedule": {
+                "Type": "options",
+                "Options": [
+                    {"value": "daily", "label": "Daily"},
+                    {"value": "weekly", "label": "Weekly"},
+                    {"value": "asNeeded", "label": "As Needed"}
+                ]
+            }
+        }
+    }
+}

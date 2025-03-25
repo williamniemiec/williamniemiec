@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Caregiver Guide": {
+    "Guidelines": {"type": "list of text"},
+    "Warning Signs": {"type": "list of text"},
+    "Crisis Intervention": {"type": "text"},
+    "Resources": {"type": "list of multimedia resources"}
+  }
+}
+
+
+Note that I removed the `Quiz` parameter as it was marked as "not applicable" (i.e., it's a multiple-choice question, which is not typically used in this context). Let me know if you have any further questions!

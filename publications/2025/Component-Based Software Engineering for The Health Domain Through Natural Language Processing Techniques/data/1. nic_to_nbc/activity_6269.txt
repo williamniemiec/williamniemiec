@@ -1,0 +1,33 @@
+Here is the output in JSON format:
+
+
+[
+  {
+    "name": "Alert",
+    "parameters": [
+      {"name": "name", "value": "Avoid causing intense emotional situations"},
+      {"name": "description", "value": "Alert the patient to avoid causing intense emotional situations"},
+      {"name": "content_type", "value": "text"},
+      {
+        "name": "parameters",
+        "value": [
+          {"name": "reason", "description": "explain why intense emotional situations should be avoided", "required": true, "type": "text"}
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Guide",
+    "parameters": [
+      {"name": "name", "value": "Avoid causing intense emotional situations"},
+      {"name": "description", "value": "Guide the patient on managing emotions and avoiding intense emotional situations"},
+      {"name": "content_type", "value": "book"},
+      {
+        "name": "parameters",
+        "value": [
+          {"name": "pages", "description": "list of pages with instructions on managing emotions and avoiding intense emotional situations", "required": true, "type": "book-page"}
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Group Planning": {
+    "Activity Idea": {"type": "text", "required": true},
+    "Group Members": {"type": "user selection", "required": true},
+    "Planning Tasks": {"type": "unordered list", "required": true},
+    "Task Assignments": {"type": "task assignment", "required": true},
+    "Deadline": {"type": "datetime", "required": true},
+    "Communication Channel": {"type": "chat or messaging system", "required": true}
+  }
+}

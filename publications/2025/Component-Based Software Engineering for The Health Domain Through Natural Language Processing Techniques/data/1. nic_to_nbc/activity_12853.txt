@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+  "Prenatal Care Reminder": {
+    "parameters": [
+      {"name": "Prenatal Care Schedule", "type": "datetime"},
+      {"name": "Reminder Frequency", "type": "options", "options": ["daily", "weekly", "bi-weekly", "monthly"]},
+      {"name": "Reminder Message", "type": "text"},
+      {"name": "Prenatal Care Information", "type": "text"},
+      {"name": "Tracking", "type": "boolean"}
+    ]
+  },
+  "Prenatal Care Guide": {
+    "parameters": [
+      {"name": "Pages", "type": "book-page"},
+      {"name": "Topics", "type": "options", "options": ["nutrition", "exercise", "pregnancy symptoms"]}
+    ]
+  }
+}

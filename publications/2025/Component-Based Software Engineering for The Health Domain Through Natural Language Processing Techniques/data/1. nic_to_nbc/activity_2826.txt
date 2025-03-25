@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Administration Guide": {
+    "parameters": {
+      "Medication Name": {"type": "text"},
+      "Administration Instructions": {"type": "ordered list", "options": "list of HTML texts or videos"},
+      "Dosage Information": {"type": "text"},
+      "Frequency": {"type": "options", "options": ["daily", "everyHours", "everyDays", "etc."]},
+      "Special Considerations": {"type": "text"}
+    }
+  }
+}

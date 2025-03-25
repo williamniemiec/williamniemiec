@@ -1,0 +1,36 @@
+Here is the output in JSON format:
+
+
+{
+  "Immunization Guidelines": {
+    "parameters": [
+      {
+        "name": "guideline_source",
+        "description": "select the guideline source (AAP, AAFP, USPHS)",
+        "required": true,
+        "type": "options",
+        "options": [
+          { "value": "AAP", "label": "American Academy of Pediatrics" },
+          { "value": "AAFP", "label": "American Academy of Family Physicians" },
+          { "value": "USPHS", "label": "U.S. Public Health Service" }
+        ]
+      },
+      {
+        "name": "immunization_type",
+        "description": "select the type of immunization (e.g. MMR, DTaP, etc.)",
+        "required": true,
+        "type": "options",
+        "options": [
+          { "value": "MMR", "label": "Measles, Mumps, and Rubella (MMR)" },
+          { "value": "DTaP", "label": "Diphtheria, Tetanus, and Pertussis (DTaP)" }
+        ]
+      },
+      {
+        "name": "guideline_content",
+        "description": "display the guideline content for the selected immunization type",
+        "required": true,
+        "type": "text"
+      }
+    ]
+  }
+}

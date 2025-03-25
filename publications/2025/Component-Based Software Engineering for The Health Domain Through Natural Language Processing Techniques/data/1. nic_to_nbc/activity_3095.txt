@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Catheter Connection": {
+    "parameters": [
+      {"name": "Catheter Type", "description": "specify the type of catheter to be connected"},
+      {"name": "Drainage Bag Type", "description": "specify the type of drainage bag to be used"},
+      {"name": "Connection Instructions", "description": "provide additional instructions or guidance for connecting the catheter to the drainage bag"},
+      {"name": "Securement Method", "description": "specify the method for securing the catheter to the drainage bag"}
+    ]
+  }
+}

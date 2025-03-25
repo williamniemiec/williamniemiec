@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+    "Procedure": {
+        "parameters": {
+            "name": "Wound Cleansing",
+            "content": "Cleanse the area before applying an antiseptic or dressing",
+            "type": "procedure",
+            "steps": [
+                "Step 1: Wash your hands thoroughly",
+                "Step 2: Prepare the cleansing solution",
+                "Step 3: Gently clean the wound area",
+                "Step 4: Pat dry with a clean towel"
+            ],
+            "images": "a series of images or illustrations to help demonstrate each step",
+            "videos": "(optional) a video tutorial to help demonstrate each step",
+            "tips": "(optional) additional tips or reminders, such as \"Use sterile gloves\" or \"Avoid using harsh soap\""
+        }
+    }
+}

@@ -1,0 +1,47 @@
+Here is the output in JSON format:
+
+
+{
+    "Injection Tracker": {
+        "parameters": {
+            "name": "Mark injection site and read site at the appropriate interval after the injection",
+            "content": "Mark the injection site and track its progress",
+            "type": "injection tracker",
+            "injection_site": [
+                {
+                    "name": "Mark injection site",
+                    "description": "Take a photo of the injection site",
+                    "type": "camera"
+                }
+            ],
+            "tracking_interval": [
+                {
+                    "name": "48 hours",
+                    "label": "48 hours"
+                },
+                {
+                    "name": "72 hours",
+                    "label": "72 hours"
+                },
+                {
+                    "name": "Custom",
+                    "label": "Custom"
+                }
+            ],
+            "tracking_reminder": [
+                {
+                    "name": "Reminder",
+                    "description": "Set a reminder to track the injection site at the selected interval",
+                    "type": "datetime"
+                }
+            ],
+            "tracking_log": [
+                {
+                    "name": "Log",
+                    "description": "View and track the injection site progress over time",
+                    "type": "log"
+                }
+            ]
+        }
+    }
+}

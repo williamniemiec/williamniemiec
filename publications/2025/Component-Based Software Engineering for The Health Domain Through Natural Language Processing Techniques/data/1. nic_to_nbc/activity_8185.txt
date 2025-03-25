@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Medical History Form": {
+    "parameters": ["form for patients to report their medical history"]
+  },
+  "Electronic Health Record (EHR) Integration": {
+    "parameters": ["integrates with an EHR system to retrieve and display a patient's medical record"]
+  }
+}

@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Equipment Inspection": {
+    "Parameters": {
+      "Equipment Type": {
+        "Type": "options"
+      },
+      "Inspection Checklist": {
+        "Type": "interactive"
+      },
+      "Inspection Guidance": {
+        "Type": "multimedia"
+      }
+    }
+  }
+}

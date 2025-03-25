@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+{
+  "Item Information Record": {
+    "Parameters": {
+      "Name": {},
+      "Item Description": {},
+      "Pertinent Information": {},
+      "Details": {},
+      "Frequency": {},
+      "Deadline Date": {}
+    }
+  }
+}

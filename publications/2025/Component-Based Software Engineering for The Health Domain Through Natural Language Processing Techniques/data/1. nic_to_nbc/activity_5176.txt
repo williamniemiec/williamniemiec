@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+    "sex_education": [
+        {
+            "name": "developmental_level"
+        },
+        {
+            "name": "topics"
+        },
+        {
+            "name": "content"
+        },
+        {
+            "name": "resources"
+        },
+        {
+            "name": "frequency"
+        }
+    ]
+}
+
+
+I removed the parameters that were not applicable (i.e., `deadline_date` since it's not required) and only kept the `name` property of each parameter. Let me know if this meets your requirements!

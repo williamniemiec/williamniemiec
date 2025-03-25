@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Parameters": {
+    "Burping Instructions": {},
+    "Frequency": {
+      "Options": [
+        {"value": "afterEachFeeding", "label": "After each feeding"},
+        {"value": "everyXMinutes", "label": "Every X minutes during feeding"},
+        {"value": "asNeeded", "label": "As needed"}
+      ]
+    }
+  },
+  "No-code Element Name": "Infant Burping"
+}

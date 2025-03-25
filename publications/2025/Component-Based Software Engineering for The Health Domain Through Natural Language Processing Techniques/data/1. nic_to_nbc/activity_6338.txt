@@ -1,0 +1,32 @@
+Here is the output in JSON format:
+
+
+{
+    "Catheter Tip Location": {
+        "parameters": {
+            "name": "",
+            "image": "",
+            "location": "",
+            "risk_level": "",
+            "frequency": "",
+            "deadline_date": ""
+        }
+    },
+    "Risk Assessment": {
+        "parameters": {
+            "name": "",
+            "score": "",
+            "risk_level": "",
+            "frequency": "",
+            "deadline_date": ""
+        }
+    },
+    "Alert": {
+        "parameters": {
+            "name": "",
+            "message": "",
+            "frequency": "",
+            "deadline_date": ""
+        }
+    }
+}

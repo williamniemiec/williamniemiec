@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+    "Lighting Control": {
+        "Parameters": {
+            "Lighting Options": {"Type": "list of options"},
+            "Tips": {"Type": "text"},
+            "Lighting Level": {"Type": "numeric value"}
+        }
+    },
+    "Lighting Meter": {
+        "Parameters": {
+            "Lighting Unit": {"Type": "text"},
+            "Lighting Range": {"Type": "numeric values"}
+        }
+    }
+}

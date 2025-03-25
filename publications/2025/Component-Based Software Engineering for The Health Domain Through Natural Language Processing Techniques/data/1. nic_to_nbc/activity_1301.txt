@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Referral": {
+        "Parameters": {
+            "Name": {"Type": "text"},
+            "Condition": {"Type": "text"},
+            "Partner Treatment": {"Type": "text"},
+            "Instructions": {"Type": "text"},
+            "Deadline Date": {"Type": "datetime"}
+        }
+    }
+}

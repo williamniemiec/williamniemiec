@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Equipment Preparation": {
+    "Parameters": {
+      "Equipment Needed": {"Type": "options"},
+      "Current Location": {"Type": "options"},
+      "Desired Location": {"Type": "options"},
+      "Action Plan": {"Type": "text"},
+      "Reminder": {"Type": "options"}
+    }
+  }
+}

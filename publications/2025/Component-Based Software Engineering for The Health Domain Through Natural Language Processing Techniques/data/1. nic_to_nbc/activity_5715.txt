@@ -1,0 +1,29 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Tutorial",
+    "parameters": [
+        { 
+            "name": "title", 
+            "type": "text"
+        },
+        { 
+            "name": "steps", 
+            "type": "list of tutorial steps"
+        },
+        { 
+            "name": "frequency", 
+            "type": "options",
+            "options": [
+                { value: "daily" },
+                { value: "weekly" },
+                { value: "monthly" }
+            ]
+        },
+        { 
+            "name": "reminders", 
+            "type": "boolean"
+        }
+    ]
+}

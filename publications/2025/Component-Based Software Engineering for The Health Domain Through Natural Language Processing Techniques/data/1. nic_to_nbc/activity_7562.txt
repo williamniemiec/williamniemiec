@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Tutorial": {
+    "title": "",
+    "steps": [],
+    "images": [],
+    "tips": []
+  }
+}
+
+
+Let me know if this meets your requirements!

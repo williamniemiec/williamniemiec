@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+
+{
+  "noCodeElementName": "Goal Setting",
+  "parameterSpecifications": {
+    "goal description": "",
+    "target date": "",
+    "frequency of progress tracking": ""
+  }
+}

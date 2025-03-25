@@ -1,0 +1,31 @@
+Here is the output in JSON format:
+
+
+{
+    "Catheter/Fistula Care": {
+        "Parameters": {
+            "Name": {"Type": "text"},
+            "Type": {"Type": "text"},
+            "Protocol": {"Type": ["text", "reference to an external resource"]},
+            "Steps": {
+                "Type": "ordered list of steps",
+                "Properties": {
+                    "Description": {"Type": "text"},
+                    "Action": {"Type": "text"},
+                    "Frequency": {"Type": "options"},
+                    "Deadline Date": {"Type": "datetime"}
+                }
+            },
+            "Resources": {
+                "Type": "list of resources",
+                "Properties": {
+                    "Type": {"Type": "text"},
+                    "Content": {"Type": "varies depending on the resource type"}
+                }
+            }
+        }
+    }
+}
+
+
+Let me know if this is what you were looking for!

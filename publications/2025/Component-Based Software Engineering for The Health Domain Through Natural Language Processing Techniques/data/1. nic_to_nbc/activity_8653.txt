@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+  "Parenthood Transition": {
+    "Parameters": {
+      "Parenthood Expectations": {"Type": "text", "Description": "realistic expectations, parenting roles, etc."},
+      "Role Transition": {"Type": "text", "Description": "adjusting to new roles, responsibilities, etc."},
+      "Parenting Skills": {"Type": "text", "Description": "parenting techniques, communication strategies, etc."},
+      "Emotional Support": {"Type": "text", "Description": "coping with stress, anxiety, etc."},
+      "Progress Tracking": {"Type": "form", "Fields": "progress notes, self-assessment, etc."}
+    }
+  },
+  "Parenting Community": {
+    "Parameters": {
+      "Discussion Topics": {"Type": "options", "Options": "parenting challenges, parenting tips, emotional support, etc."},
+      "Posts": {"Type": "text", "Description": "share experiences, ask questions, etc."},
+      "Comments": {"Type": "text", "Description": "respond to posts, offer support, etc."},
+      "Moderation": {"Type": "boolean", "Description": "yes/no indicator for moderation"}
+    }
+  }
+}

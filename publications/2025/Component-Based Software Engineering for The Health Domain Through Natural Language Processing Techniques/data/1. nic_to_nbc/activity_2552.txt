@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+  "Soiling Cause Determination": {
+    "parameters": {
+      "Soiling Symptoms": {
+        "type": "checklist",
+        "options": [
+          {"value": "constipation", "label": "Constipation"},
+          {"value": "fecalImpaction", "label": "Fecal Impaction"},
+          {"value": "diarrhea", "label": "Diarrhea"},
+          {"value": "other", "label": "Other (please specify)"}
+        ]
+      },
+      "Soiling Frequency": {
+        "type": "text"
+      },
+      "Soiling Duration": {
+        "type": "text"
+      },
+      "Additional Information": {
+        "type": "text"
+      }
+    }
+  }
+}

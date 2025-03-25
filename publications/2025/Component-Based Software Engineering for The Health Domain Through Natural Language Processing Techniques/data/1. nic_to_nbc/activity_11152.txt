@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "Needle Selection": {
+    "Parameters": {
+      "Needle Type Selection": {
+        "Type": "multiple choice or dropdown list",
+        "Options": "list of possible needle types"
+      },
+      "Needle Size Selection": {
+        "Type": "multiple choice or dropdown list",
+        "Options": "list of possible needle sizes (e.g., 13-gauge, 15-gauge, 18-gauge, etc.)"
+      },
+      "Stylet Verification": {
+        "Type": "yes/no question",
+        "Content": "a prompt to confirm the stylet is included with the selected needle"
+      },
+      "Needle Image/Model": {
+        "Type": "interactive image or 3D model",
+        "Content": "a visual representation of the selected needle, allowing patients to better understand the equipment"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Medication Monitoring": {
+        "Parameters": {
+            "Medication List": {"Description": "List of stimulants and depressants taken", "Type": "unordered list (with text inputs for each medication)"},
+            "Dosage and Frequency": {"Description": "Dosage and frequency of each medication", "Type": "text (with optional units, e.g., mg, mL)"},
+            "Administration Log": {"Description": "Log of medication administration", "Type": "table (with columns for date, time, medication, and dosage)"},
+            "Effect Monitoring": {"Description": "Monitor the effect of each medication", "Type": "rating scale (e.g., 1-5, where 1 is no effect and 5 is significant effect"}
+        }
+    }
+}

@@ -1,0 +1,10 @@
+
+
+
+{
+    "Weight Tracker": {
+        "Name": {"Type": "text"},
+        "Frequency": {"Type": "options"},
+        "Target Weight Range": {"Type": "range"}
+    }
+}

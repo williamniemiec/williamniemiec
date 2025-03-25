@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+    "Follow the Leader": {
+        "parameters": [
+            {"Name": {"type": "text"}},
+            {"Instructions": {"type": "text"}},
+            {"Imitation Options": {"type": "options", "options": ["infant noises", "animals", "songs"]}},
+            {"Examples": {"type": "unordered list"}},
+            {"Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]}}
+        ]
+    }
+}
+
+
+I removed the `Deadline Date` parameter because it was marked as not required in the original JSON structure. Let me know if you want to include it anyway!

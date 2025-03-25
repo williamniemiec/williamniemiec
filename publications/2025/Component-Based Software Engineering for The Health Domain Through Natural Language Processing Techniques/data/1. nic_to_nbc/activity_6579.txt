@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+    "Family Strengths Assessment": {
+        "Parameters": {
+            "Name": {"Type": "text"},
+            "Description": {"Type": "text"},
+            "Questions": {"Type": "list of text"},
+            "Answer Type": {"Type": "options"},
+            "Scoring": {"Type": "options"},
+            "Instructions": {"Type": "text"}
+        }
+    }
+}

@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "Sucking Stimulation": {
+    "Stimulation Instructions": {
+      "Description": "Step-by-step instructions on how to stimulate the rooting reflex to encourage sucking",
+      "Required": true,
+      "Type": "text"
+    },
+    "Stimulation Techniques": {
+      "Description": "Techniques to stimulate the rooting reflex",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "strokingCheek", "label": "Stroking the cheek" },
+        { "value": "touchingLip", "label": "Touching the lip" },
+        { "value": "gentlePressure", "label": "Applying gentle pressure to the mouth" }
+      ]
+    }
+  }
+}
+
+
+I removed the `Tips` and `Video` parameters as they were marked as not required. Let me know if this is correct!

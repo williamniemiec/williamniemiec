@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+    "Group Orientation": {
+        "group_goals": {"type": "text"},
+        "member_responsibilities": {"type": "text"},
+        "leader_responsibilities": {"type": "text"},
+        "FAQs": {"type": "list of questions and answers"}
+    }
+}

@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Success Exploration",
+    "parameters": [
+        {
+            "name": "Success Identification"
+        },
+        {
+            "name": "Reflection Questions"
+        },
+        {
+            "name": "Barrier Identification"
+        },
+        {
+            "name": "Solution Generation"
+        },
+        {
+            "name": "Action Plan"
+        }
+    ]
+}

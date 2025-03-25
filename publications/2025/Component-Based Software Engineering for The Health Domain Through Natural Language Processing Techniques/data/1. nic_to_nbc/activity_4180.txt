@@ -1,0 +1,36 @@
+Here is the output in JSON format:
+
+
+{
+    "Checklist": {
+        "parameters": {
+            "name": {
+                "type": "text"
+            },
+            "items": {
+                "type": "unordered list",
+                "items": {
+                    "provider_experience": {
+                        "type": "checkbox"
+                    },
+                    "provider_training": {
+                        "type": "checkbox"
+                    },
+                    "provider_qualifications": {
+                        "type": "checkbox"
+                    },
+                    "other": {
+                        "type": "text"
+                    }
+                }
+            },
+            "frequency": {
+                "type": "options",
+                "options": ["daily", "weekly", "monthly", "etc."]
+            }
+        }
+    }
+}
+
+
+Let me know if this meets your requirements!

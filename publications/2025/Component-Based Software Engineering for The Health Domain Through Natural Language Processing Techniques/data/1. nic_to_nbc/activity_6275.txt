@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Bed Adjustment Guide": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Bed Type": {"Type": "options"},
+      "Adjustment Type": {"Type": "options"},
+      "Image": {"Type": "image or diagram"},
+      "Instructions": {"Type": "text or video"},
+      "Reminders": {"Type": "options"},
+      "Deadline Date": {"Type": "datetime"}
+    }
+  }
+}

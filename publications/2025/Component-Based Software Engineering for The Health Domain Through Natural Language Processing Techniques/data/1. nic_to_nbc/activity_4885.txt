@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Risk Assessment": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Tool": {"Type": "options"},
+      "Questions": {"Type": "form"},
+      "Frequency": {"Type": "options"},
+      "Deadline Date": {"Type": "datetime"},
+      "Results": {"Type": "text"}
+    }
+  }
+}

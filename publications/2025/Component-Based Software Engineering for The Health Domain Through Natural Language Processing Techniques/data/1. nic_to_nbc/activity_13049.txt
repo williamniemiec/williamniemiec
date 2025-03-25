@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "School Resource": {
+    "parameters": {
+      "School Information": {"type": "text"},
+      "Resource Directory": {"type": ["text", "URL"]},
+      "Event Calendar": {"type": ["date", "time", "description"]},
+      "Testimonials": {"type": ["text", "image", "video"]},
+      "Rating and Review": {"type": ["rating (1-5)", "text"]},
+      "News and Updates": {"type": ["text", "image", "video"]}
+    }
+  }
+}

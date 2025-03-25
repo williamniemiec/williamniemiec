@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "Home Hazard Assessment": {
+    "Rooms": {"type": "list of text"},
+    "Hazards": {"type": "list of text, image, or video"},
+    "Modification Options": {"type": "list of text, image, or video"},
+    "Priority": {"type": "low, medium, high"},
+    "Resources": {"type": "URL, PDF, or other file types"}
+  },
+  "Checklist": {
+    "Rooms": {"type": "list of text"},
+    "Hazards": {"type": "list of text, image, or video"},
+    "Modification Options": {"type": "list of text, image, or video"},
+    "Priority": {"type": "low, medium, high"},
+    "Resources": {"type": "URL, PDF, or other file types"}
+  },
+  "Virtual Home Assessment": {
+    "Room": {"type": "text"},
+    "Hazards": {"type": "list of text, image, or video"},
+    "Recommendations": {"type": "list of text, image, or video"}
+  }
+}

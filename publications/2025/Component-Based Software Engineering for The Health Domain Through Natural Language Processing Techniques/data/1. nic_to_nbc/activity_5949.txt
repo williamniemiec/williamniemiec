@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "Equipment Provision": {
+    "Parameters": {
+      "Equipment Type": {
+        "Type": "options",
+        "Options": ["laser", "fiber", "filter", "lens", "attachment"]
+      },
+      "Equipment Details": {
+        "Type": "text"
+      },
+      "Purpose": {
+        "Type": "text"
+      },
+      "Instructions": {
+        "Type": "text"
+      },
+      "Safety Precautions": {
+        "Type": "text"
+      }
+    }
+  }
+}

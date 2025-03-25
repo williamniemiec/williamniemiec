@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Reassurance Message": {
+        "parameters": [
+            {"name": "Message", "type": "text"},
+            {"name": "Frequency", "type": "options"},
+            {"name": "Trigger", "type": "options"},
+            {"name": "Resources", "type": "text or multimedia content"}
+        ]
+    }
+}

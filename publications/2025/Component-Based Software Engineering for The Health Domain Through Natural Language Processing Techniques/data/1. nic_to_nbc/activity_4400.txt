@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+  "Reflection Journal": {
+    "Parameters": {
+      "Reflection Prompt": {"Type": "text"},
+      "Reflection Response": {"Type": "text"},
+      "Emotional Expression": {"Type": "text"},
+      "Frequency": {"Type": "options", "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"Type": "datetime"}
+    }
+  },
+  "Empathy Exercise": {
+    "Parameters": {
+      "Scenario": {"Type": "text"},
+      "Response": {"Type": "text"},
+      "Feedback": {"Type": "text"},
+      "Frequency": {"Type": "options", "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"Type": "datetime"}
+    }
+  }
+}

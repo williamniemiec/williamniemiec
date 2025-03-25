@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Discharge Planning": {
+        "parameters": [
+            {"name": "Discharge Date", "type": "date"},
+            {"name": "Discharge Destination", "type": "options"},
+            {"name": "Discharge Instructions", "type": "text or form"},
+            {"name": "Medication Reconciliation", "type": "options"},
+            {"name": "Follow-up Care", "type": "options"}
+        ]
+    }
+}

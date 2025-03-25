@@ -1,0 +1,17 @@
+Here is the extracted JSON:
+
+
+{
+  "Intake and Output Tracker": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Intake": {"Type": "list of options with quantity"},
+      "Output": {"Type": "list of options with quantity"},
+      "Time": {"Type": "datetime"},
+      "Notes": {"Type": "text"}
+    }
+  }
+}
+
+
+Let me know if you need any further processing!

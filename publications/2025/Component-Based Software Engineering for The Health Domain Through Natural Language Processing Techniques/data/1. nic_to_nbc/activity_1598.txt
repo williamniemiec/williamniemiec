@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Stress Symptom Checker": {
+    "Physical Symptoms": {"type": "list of text (checkboxes)"},
+    "Symptom Severity": {"type": "list of text (checkboxes or slider)"},
+    "Symptom Frequency": {"type": "list of text (checkboxes or slider)"},
+    "Additional Symptoms": {"type": "text (open-ended question)"}
+  }
+}

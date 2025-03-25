@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Electrolyte Monitor": {
+    "parameters": [
+      {"name": "electrolytes to monitor", "description": "Specify the electrolytes to monitor", "required": true, "type": "multiselect", "options": [{"value": "potassium", "label": "Potassium (Hypokalemia)"}, {"value": "calcium", "label": "Calcium (Hypocalcemia)"}]},
+      {"name": "tracking frequency", "description": "Specify how often to track electrolyte levels", "required": true, "type": "options", "options": [{"value": "daily", "label": "Daily"}, {"value": "weekly", "label": "Weekly"}, {"value": "monthly", "label": "Monthly"}]},
+      {"name": "target ranges", "description": "Specify the target ranges for each electrolyte", "required": false, "type": "object", "object": {"potassium": {"min": 3.5, "max": 5.5}, "calcium": {"min": 8.5, "max": 10.5}}}
+    ]
+  }
+}

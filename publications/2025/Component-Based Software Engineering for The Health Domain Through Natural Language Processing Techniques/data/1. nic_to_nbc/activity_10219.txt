@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Change Briefing": {
+    "Parameters": {
+      "Change Description": {"Type": "text"},
+      "Change Details": {"Type": "text"},
+      "FAQs": {"Type": "list of Q&A pairs"},
+      "Discussion Forum": {"Type": "discussion forum or chat functionality"},
+      "Reminders": {"Type": "options"}
+    }
+  }
+}
+
+
+Let me know if this meets your requirements!

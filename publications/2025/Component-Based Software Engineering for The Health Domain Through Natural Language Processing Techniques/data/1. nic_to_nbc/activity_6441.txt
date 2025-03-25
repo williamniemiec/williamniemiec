@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Invasive Hemodynamic Parameters Tracking": {
+    "Parameter Type": {"Type": "options", "Options": ["central venous pressure", "pulmonary artery pressure", "cardiac output", "etc."]},
+    "Value": {"Type": "number"},
+    "Unit": {"Type": "options", "Options": ["mmHg", "mL/min", "etc."]},
+    "Frequency": {"Type": "options", "Options": ["daily", "weekly", "monthly"]},
+    "Target Range": {"Type": "range"}
+  }
+}

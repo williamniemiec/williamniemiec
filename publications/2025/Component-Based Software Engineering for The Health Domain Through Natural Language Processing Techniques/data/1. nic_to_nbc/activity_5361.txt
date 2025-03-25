@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Solution Inspection": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Content": {"Type": "text"},
+      "Inspection Checklist": {"Type": "list"},
+      "Image": {"Type": "image"}
+    }
+  }
+}

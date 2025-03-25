@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Calculator": {
+    "parameters": {
+      "Total Calcium Levels": {"type": "number"},
+      "Serum Albumin": {"type": "number"},
+      "Formula": {"type": "options"},
+      "Result": {"type": "number"}
+    }
+  }
+}

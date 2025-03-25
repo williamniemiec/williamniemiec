@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Caregiver Assignment": {
+    "caregiver name": {},
+    "caregiver profile": {},
+    "caregiver photo": {},
+    "frequency of caregiver assignment": {
+      "options": [
+        { "value": "daily", "label": "Daily" },
+        { "value": "onlyOnce", "label": "Only once" },
+        { "value": "everyHours", "label": "Every x hours" },
+        { "value": "everyDays", "label": "Every x days" }
+      ]
+    },
+    "deadline for caregiver assignment": {}
+  }
+}

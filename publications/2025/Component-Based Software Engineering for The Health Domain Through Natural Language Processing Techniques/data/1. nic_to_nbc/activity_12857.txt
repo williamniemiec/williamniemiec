@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+{
+  "Health Care Experience Survey": {
+    "parameters": {
+      "questions": {"type": "list of survey questions"},
+      "question_types": {"type": "options", "options": ["multiple choice", "Likert scale", "open-ended"]},
+      "health_care_areas": {"type": "options", "options": ["health promotion", "health protection", "disease prevention", "health care and maintenance", "health care system navigation"]},
+      "response_format": {"type": "options", "options": ["text", "rating", "checkbox"]}
+    }
+  }
+}

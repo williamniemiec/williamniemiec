@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+    "Ad Planner": {
+        "parameters": [
+            {"Ad Type": {}},
+            {"Target Audience": {}},
+            {"Ad Content": {}},
+            {"Ad Placement": {}},
+            {"Budget": {}},
+            {"Duration": {}}
+        ]
+    }
+}

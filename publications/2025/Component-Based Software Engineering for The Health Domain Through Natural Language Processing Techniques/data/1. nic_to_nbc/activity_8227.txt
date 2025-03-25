@@ -1,0 +1,32 @@
+Here is the output in JSON format:
+
+
+[
+  {
+    "name": "Comfort Assessment",
+    "parameters": {
+      "name": "",
+      "assessment_type": "",
+      "frequency": "",
+      "entries": []
+    }
+  },
+  {
+    "name": "Monitoring Plan",
+    "parameters": {
+      "name": "",
+      "frequency": "",
+      "assessment_method": "",
+      "notification_threshold": ""
+    }
+  },
+  {
+    "name": "Notification",
+    "parameters": {
+      "name": "",
+      "trigger": "",
+      "message": "",
+      "recipient": ""
+    }
+  }
+]

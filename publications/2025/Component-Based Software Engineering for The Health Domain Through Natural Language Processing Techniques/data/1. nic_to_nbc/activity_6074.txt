@@ -1,0 +1,49 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Guided Imagery",
+  "parameters": [
+    {
+      "name": "Script",
+      "type": "text or audio content"
+    },
+    {
+      "name": "Voice Modulation",
+      "type": "options",
+      "options": [
+        { value: "calm" },
+        { value: "soothing" },
+        { value: "gentle" },
+        { value: "slow" }
+      ]
+    },
+    {
+      "name": "Background Sound",
+      "type": "options",
+      "options": [
+        { value: "nature sounds" },
+        { value: "calming music" },
+        { value: "white noise" }
+      ]
+    },
+    {
+      "name": "Duration",
+      "type": "time interval"
+    },
+    {
+      "name": "Frequency",
+      "type": "options",
+      "options": [
+        { value: "daily" },
+        { value: "onlyOnce" },
+        { value: "everyHours" },
+        { value: "everyDays" }
+      ]
+    },
+    {
+      "name": "Deadline Date",
+      "type": "datetime"
+    }
+  ]
+}

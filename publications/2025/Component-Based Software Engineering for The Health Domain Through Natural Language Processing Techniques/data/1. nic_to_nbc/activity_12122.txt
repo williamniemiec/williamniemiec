@@ -1,0 +1,32 @@
+Here is the output in JSON format:
+
+
+{
+  "Device Care Instruction": {
+    "Parameters": {
+      "Name": {
+        "Type": "text"
+      },
+      "Device Type": {
+        "Type": "options",
+        "Options": [
+          {"value": "wristSplint", "label": "Wrist Splint"},
+          {"value": "kneeBrace", "label": "Knee Brace"},
+          {"value": "cervicalCollar", "label": "Cervical Collar"}
+        ]
+      },
+      "Care Instructions": {
+        "Type": "ordered list"
+      },
+      "Frequency": {
+        "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+      },
+      "Tips and Reminders": {
+        "Type": "unordered list"
+      },
+      "Resources": {
+        "Type": "unordered list"
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Alert": {
+    "Parameters": {
+      "Condition": {"Type": "text"},
+      "Duration": {"Type": "time interval"},
+      "Message": {"Type": "text"},
+      "Action": {"Type": "text"},
+      "Frequency": {"Type": "options"}
+    }
+  }
+}

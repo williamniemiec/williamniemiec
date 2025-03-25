@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Relaxation Guide": {
+    "parameters": [
+      {"Name": "title of the relaxation guide", "Type": "text"},
+      {"Description": "brief description of the relaxation technique", "Type": "text"},
+      {"Content": "guided relaxation session", "Type": "video or audio"},
+      {"Frequency": "specify how often the patient should practice the relaxation technique", "Type": "options"},
+      {"Deadline Date": "specify the due date for the patient to practice the relaxation technique", "Type": "datetime"}
+    ]
+  }
+}

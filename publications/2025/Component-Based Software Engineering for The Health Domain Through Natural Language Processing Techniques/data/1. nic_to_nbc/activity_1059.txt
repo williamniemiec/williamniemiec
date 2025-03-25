@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+    "Bed Elevation": {
+        "Task Title": {"Description": "Title of the task", "Required": true, "Type": "text"},
+        "Elevation Instructions": {"Description": "Step-by-step instructions on how to elevate the head of the bed", "Required": true, "Type": "text"},
+        "Elevation Angle": {"Description": "Specify the angle of elevation", "Required": true, "Type": "options", "Options": [{"value": "30-45degrees", "label": "30-45 degrees"}]},
+        "Contraindications": {"Description": "Specify the contraindications for elevating the head of the bed", "Required": true, "Type": "options", "Options": [{"value": "hemodynamicInstability", "label": "Hemodynamic instability"}]},
+        "Feeding Association": {"Description": "Specify whether to elevate the head of the bed during enteral tube feedings", "Required": true, "Type": "boolean"}
+    }
+}
+
+
+I removed all unnecessary information and only kept the `{{ NO-CODE ELEMENT NAME }}` ("Bed Elevation") and `{{ PARAMETER ESPECIFICATIONS }}`. I also removed the "Deadline Date" parameter since it was marked as not required.

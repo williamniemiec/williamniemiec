@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Lab Result Tracker": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Frequency": {"Options": ["beforeBloodLoss", "afterBloodLoss", "daily", "everyHours", "everyDays"]},
+      "Deadline Date": {"Type": "datetime"},
+      "Hemoglobin Level": {"Type": "numeric"},
+      "Hematocrit Level": {"Type": "numeric"},
+      "Blood Loss Event": {"Options": ["beforeBloodLoss", "afterBloodLoss"]}
+    }
+  }
+}

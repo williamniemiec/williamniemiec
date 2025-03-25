@@ -1,0 +1,10 @@
+Here is the output in JSON format:
+
+
+{
+  "specialty_bed_utilization": {
+    "Bed Type": {"description": "Type of specialty bed to be used.", "required": true, "type": "options", "options": [{"value": "air_fluidized", "label": "Air-fluidized bed"}, {"value": "low_air_loss", "label": "Low-air-loss bed"}, {"value": "alternating_pressure", "label": "Alternating pressure bed"}, {"value": "other", "label": "Other (please specify)"}]},
+    "Mattress Type": {"description": "Type of specialty mattress to be used.", "required": true, "type": "options", "options": [{"value": "foam", "label": "Foam mattress"}, {"value": "gel", "label": "Gel mattress"}, {"value": "air", "label": "Air mattress"}, {"value": "other", "label": "Other (please specify)"}]},
+    "Instructions": {"description": "Additional instructions for using the specialty bed and mattress.", "required": false, "type": "text"}
+  }
+}

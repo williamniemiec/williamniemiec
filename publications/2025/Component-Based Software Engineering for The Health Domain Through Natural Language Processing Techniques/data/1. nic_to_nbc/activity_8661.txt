@@ -1,0 +1,39 @@
+Here is the output in JSON format:
+
+
+{
+  "Suctioning Technique Guidance": {
+    "parameters": {
+      "name": "Suctioning Technique Guidance",
+      "description": "Vary suctioning techniques based on the clinical response of the patient",
+      "type": "text",
+      "required": true
+    }
+  },
+  "Patient Response Assessment": {
+    "parameters": {
+      "name": "Patient Response",
+      "description": "Assess patient's clinical response to suctioning (e.g., tolerance, comfort, oxygen saturation)",
+      "type": "options",
+      "options": [
+        { "value": "improving", "label": "Improving" },
+        { "value": "stable", "label": "Stable" },
+        { "value": "deteriorating", "label": "Deteriorating" }
+      ],
+      "required": true
+    }
+  },
+  "Suctioning Technique Selection": {
+    "parameters": {
+      "name": "Suctioning Technique",
+      "description": "Select suctioning technique based on patient response",
+      "type": "options",
+      "options": [
+        { "value": "gentleSuctioning", "label": "Gentle suctioning" },
+        { "value": "aggressiveSuctioning", "label": "Aggressive suctioning" },
+        { "value": "other", "label": "Other (please specify)" }
+      ],
+      "required": true
+    }
+  }
+}

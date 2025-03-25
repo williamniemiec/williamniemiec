@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+    "Public Health Nurse Referral": {
+        "Referral Form": {"Type": "referral form"},
+        "Nurse Contact Information": {"Type": "contact information"}
+    },
+    "Home Environment Assessment": {
+        "Assessment Questions": {"Type": "list of questions"},
+        "Assessment Results": {"Type": "assessment results"}
+    },
+    "Care Plan Development": {
+        "Care Plan Template": {"Type": "care plan template"},
+        "Care Plan Details": {"Type": "care plan details"}
+    },
+    "Patient Education": {
+        "Educational Materials": {"Type": "educational materials"},
+        "Caregiver Involvement": {"Type": "caregiver involvement"}
+    },
+    "Progress Tracking": {
+        "Progress Log": {"Type": "progress log"},
+        "Graphical Representation": {"Type": "graphical representation (e.g., chart, graph)"}
+    }
+}

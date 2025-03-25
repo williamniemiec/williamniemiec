@@ -1,0 +1,67 @@
+Here is the output in JSON format:
+
+
+[
+    {
+        "name": "Medical History Tracker",
+        "parameters": {
+            "name": "Medical History",
+            "description": "Please track and report your medical history",
+            "content_type": "form",
+            "required": true,
+            "type": "options",
+            "options": [
+                { "value": "fluid_status_changes", "label": "Fluid Status Changes" },
+                { "value": "pericardial_effusion", "label": "Pericardial Effusion" },
+                { "value": "electrolyte_abnormalities", "label": "Electrolyte Abnormalities" },
+                { "value": "metabolic_abnormalities", "label": "Metabolic Abnormalities" },
+                { "value": "certain_medications", "label": "Certain Medications" },
+                { "value": "tissue_inflammation", "label": "Tissue Inflammation" },
+                { "value": "tissue_fibrosis", "label": "Tissue Fibrosis" },
+                { "value": "tissue_necrosis", "label": "Tissue Necrosis" },
+                { "value": "none", "label": "None of the above" }
+            ]
+        }
+    },
+    {
+        "name": "Medication Tracker",
+        "parameters": {
+            "name": "Medications",
+            "description": "Please track and report your medications",
+            "content_type": "form",
+            "required": true,
+            "type": "text"
+        }
+    },
+    {
+        "name": "Lab Result Tracker",
+        "parameters": {
+            "name": "Lab Results",
+            "description": "Please track and report your lab results",
+            "content_type": "form",
+            "required": true,
+            "type": "lab_results",
+            "options": [
+                { "value": "electrolyte_levels", "label": "Electrolyte Levels" },
+                { "value": "metabolic_levels", "label": "Metabolic Levels" }
+            ]
+        }
+    },
+    {
+        "name": "Symptom Reporter",
+        "parameters": {
+            "name": "Symptoms",
+            "description": "Please report any symptoms you are experiencing",
+            "content_type": "form",
+            "required": true,
+            "type": "options",
+            "options": [
+                { "value": "chest_pain", "label": "Chest Pain" },
+                { "value": "shortness_of_breath", "label": "Shortness of Breath" },
+                { "value": "dizziness", "label": "Dizziness" },
+                { "value": "fatigue", "label": "Fatigue" },
+                { "value": "none", "label": "None of the above" }
+            ]
+        }
+    }
+]

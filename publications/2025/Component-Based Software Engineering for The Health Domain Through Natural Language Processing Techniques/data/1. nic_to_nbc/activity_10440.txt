@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Advocacy Platform": {
+    "parameters": {
+      "Article Title": {"type": "text"},
+      "Article Content": {"type": "text or rich text"},
+      "Call to Action": {"type": "text or button"},
+      "Resource List": {"type": "list (text or links)"}
+    }
+  },
+  "Petition": {},
+  "Social Media Share": {},
+  "Event Calendar": {}
+}

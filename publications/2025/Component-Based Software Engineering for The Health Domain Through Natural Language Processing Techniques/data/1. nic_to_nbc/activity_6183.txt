@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Environmental Assessment": {
+    "Parameters": {
+      "Setting": {},
+      "Cues and Triggers": {},
+      "Frequency": {}
+    }
+  }
+}
+
+
+Note: I removed the "Deadline Date" parameter as it's not applicable (no value provided).

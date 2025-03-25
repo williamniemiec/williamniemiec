@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Label Verification": {
+    "Parameters": {
+      "Medication Name": {},
+      "Label Verification": {},
+      "Label Status": {},
+      "Action": {},
+      "Frequency": {}
+    }
+  }
+}

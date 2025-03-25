@@ -1,0 +1,36 @@
+Here is the output in JSON format, removing anything except `{{ PARAMETER ESPECIFICATIONS }}` and `{{ NO-CODE ELEMENT NAME }}`, and removing not applicable parameters:
+
+
+{
+    "name": "Instrumentation Check",
+    "parameters": [
+        {
+            "name": "Instrumentation Type",
+            "type": "text"
+        },
+        {
+            "name": "Checklist Items",
+            "type": "list",
+            "items": {
+                "type": "text"
+            }
+        },
+        {
+            "name": "Check Frequency",
+            "type": "options",
+            "options": [
+                { value: "before each use" },
+                { value: "daily" },
+                { value: "weekly" }
+            ]
+        },
+        {
+            "name": "Troubleshooting Guide",
+            "type": "text"
+        },
+        {
+            "name": "Verification",
+            "type": "boolean"
+        }
+    ]
+}

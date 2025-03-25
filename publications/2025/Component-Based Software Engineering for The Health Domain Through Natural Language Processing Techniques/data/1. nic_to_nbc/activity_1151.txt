@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+    "Symptom Checker": {
+        "Name": {"Type": "text"},
+        "Questions": {"Type": "form (list of questions with answer types)"},
+        "Scoring": {"Type": "formula or algorithm"},
+        "Conditions": {"Type": "options (list of available conditions)"}
+    },
+    "Treatment Plan": {
+        "Name": {"Type": "text"},
+        "Condition": {"Type": "options (list of available conditions)"},
+        "Instructions": {"Type": "text"},
+        "Medications": {"Type": "list of medications or treatments"},
+        "Follow-up": {"Type": "datetime"}
+    }
+}

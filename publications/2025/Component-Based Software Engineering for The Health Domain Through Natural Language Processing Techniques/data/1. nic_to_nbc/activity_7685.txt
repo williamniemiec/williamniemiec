@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Spiritual Media Library": {
+    "Content Type": {"type": "options", "options": ["music", "literature", "radio", "TV programs"]},
+    "Content Selection": {"type": "list of options"},
+    "Content Format": {"type": "options", "options": ["audio", "video", "text", "PDF"]},
+    "Access Frequency": {"type": "options", "options": ["daily", "weekly", "monthly", "as needed"]},
+    "Favorites": {"type": "boolean"}
+  }
+}

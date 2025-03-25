@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "Quality of Life Advocacy": {
+    "Parameters": {
+      "Quality of Life Concerns": {
+        "Type": "list of text",
+        "Example": ["Pain", "Fatigue", "Anxiety", "Depression"]
+      },
+      "Pain Control Issues": {
+        "Type": "list of text",
+        "Example": ["Inadequate pain management", "Side effects of pain medication"]
+      },
+      "Advocacy Goals": {
+        "Type": "list of text",
+        "Example": ["Improve pain management", "Reduce anxiety", "Increase mobility"]
+      },
+      "Advocacy Strategies": {
+        "Type": "list of text",
+        "Example": ["Collaborate with healthcare team", "Educate patient and family", "Negotiate with insurance company"]
+      }
+    }
+  }
+}

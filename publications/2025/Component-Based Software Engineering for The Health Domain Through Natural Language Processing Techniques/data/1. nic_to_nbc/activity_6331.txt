@@ -1,0 +1,36 @@
+Here is the output in JSON format:
+
+
+{
+  "Anxiety Support": {
+    "Relaxation Technique": {
+      "Description": "Type of relaxation technique to help manage anxiety",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        {"value": "deepBreathing", "label": "Deep breathing exercises"},
+        {"value": "progressiveMuscleRelaxation", "label": "Progressive muscle relaxation"},
+        {"value": "guidedImagery", "label": "Guided imagery"},
+        {"value": "meditation", "label": "Meditation"}
+      ]
+    },
+    "Content": {
+      "Description": "Guided relaxation content to help patient manage anxiety",
+      "Required": true,
+      "Type": "text"
+    },
+    "Frequency": {
+      "Description": "Specify how often the patient should practice relaxation techniques",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        {"value": "daily", "label": "Daily"},
+        {"value": "everyHours", "label": "Every x hours"},
+        {"value": "asNeeded", "label": "As needed"}
+      ]
+    }
+  }
+}
+
+
+I removed the not applicable parameters (`Deadline Date` and `Resources`) as per your request. Let me know if you need any further assistance!

@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Hazard Removal": {
+    "Name": {"type": "text"},
+    "Description": {"type": "text"},
+    "Hazard Types": {"type": "options"},
+    "Frequency": {"type": "options"},
+    "Deadline Date": {"type": "datetime"}
+  }
+}

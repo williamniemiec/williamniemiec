@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+"noCodeElementName": "Symptom Management Guide",
+"parameterSpecifications": {
+    "Symptom List": {"type": "list of text"},
+    "Stepwise Approach": {"type": "list of text"},
+    "Complexity Explanation": {"type": "text"},
+    "Rationale": {"type": "text"},
+    "Next Steps": {"type": "list of text"}
+}
+}

@@ -1,0 +1,38 @@
+Here is the output in JSON format:
+
+
+{
+  "Range of Motion Exercise": {
+    "Exercise Type": {
+      "Description": "Type of range of motion exercise",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "passive", "label": "Passive" },
+        { "value": "active", "label": "Active" }
+      ]
+    },
+    "Body Part": {
+      "Description": "Body part to be exercised",
+      "Required": true,
+      "Type": "text",
+      "Example": "Arm, Leg, Shoulder, etc."
+    },
+    "Frequency": {
+      "Description": "Frequency of the exercise",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "daily", "label": "Daily" },
+        { "value": "everyOtherDay", "label": "Every other day" },
+        { "value": "asNeeded", "label": "As needed" }
+      ]
+    },
+    "Duration": {
+      "Description": "Duration of the exercise",
+      "Required": true,
+      "Type": "text",
+      "Example": "10-15 minutes"
+    }
+  }
+}

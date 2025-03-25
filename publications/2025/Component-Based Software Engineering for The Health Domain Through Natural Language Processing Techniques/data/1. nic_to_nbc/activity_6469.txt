@@ -1,0 +1,32 @@
+Here is the output in JSON format:
+
+
+[
+  {
+    "name": "Skin Color Tracking",
+    "parameters": [
+      {"name": "Skin Color"},
+      {"name": "Skin Tone"}
+    ]
+  },
+  {
+    "name": "Temperature Tracking",
+    "parameters": [
+      {"name": "Skin Temperature"}
+    ]
+  },
+  {
+    "name": "Alert System",
+    "parameters": [
+      {"name": "Alert Thresholds"},
+      {"name": "Alert Notifications"}
+    ]
+  },
+  {
+    "name": "Data Visualization",
+    "parameters": [
+      {"name": "Chart Type"},
+      {"name": "Data Range"}
+    ]
+  }
+]

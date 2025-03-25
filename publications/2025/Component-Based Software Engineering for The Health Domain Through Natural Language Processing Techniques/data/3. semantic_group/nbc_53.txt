@@ -1,0 +1,10 @@
+{
+  "name": "Distraction and Attention Techniques",
+  "description": "Offers techniques for reducing distractions and enhancing focus through auditory, tactile, and puzzle-based distractions. Aims to practice attention management and minimal distraction.",
+  "type": "non-periodic",
+  "input": ["Distraction techniques", "Auditory stimuli", "Tactile stimuli", "Puzzle-based exercises"],
+  "output": ["Distraction management report", "Focus improvement feedback", "Attention practice results"],
+  "preconditions": ["User needs to practice attention or reduce distractions"],
+  "postconditions": ["Improved focus and minimized distractions"],
+  "dependencies": ["Distraction management tools", "Focus tracking system", "Puzzle or stimulus platforms"]
+}

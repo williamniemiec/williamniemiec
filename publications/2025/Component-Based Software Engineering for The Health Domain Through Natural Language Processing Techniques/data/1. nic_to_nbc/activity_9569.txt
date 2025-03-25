@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Incontinence Pattern Identification": {
+    "Data Analysis": {"type": "boolean"},
+    "Pattern Identification Algorithm": {"type": "algorithm"},
+    "Pattern Visualization": {"type": "options"},
+    "Insight Generation": {"type": "boolean"},
+    "Insight Content": {"type": "multimedia content"}
+  }
+}

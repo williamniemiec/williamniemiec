@@ -1,0 +1,12 @@
+
+
+
+{
+  "Nutrition Plan": {
+    "Daily Caloric Goal": {"type": "number"},
+    "Daily Fluid Goal": {"type": "number"},
+    "Meal Plan": {"type": "list of meal suggestions"},
+    "Food and Beverage Options": {"type": "list of options"},
+    "Tracking": {"type": "tracking log"}
+  }
+}

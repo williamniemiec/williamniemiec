@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "ART Feelings Exploration": {
+    "Parameters": {
+      "ART Options": "art_options",
+      "Reflection Questions": "reflection_questions",
+      "Emotional Response Scale": "emotional_response_scale",
+      "Personalized Feedback": "personalized_feedback"
+    }
+  }
+}

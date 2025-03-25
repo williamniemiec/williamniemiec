@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Hypoglycemia Education": {
+    "Parameters": {
+      "Title": {"Description": "Title of the hypoglycemia education guide", "Required": true, "Type": "text"},
+      "Sections": {"Description": "List of sections in the guide (e.g. signs and symptoms, risk factors, treatment)", "Required": true, "Type": "unordered list"},
+      "Content": {"Description": "Content of the guide, including text, images, and videos", "Required": true, "Type": "rich text"}
+    }
+  }
+}
+
+
+Note that I removed the `Quiz` and `Resources` parameters since they are not required. Let me know if you have any further questions!

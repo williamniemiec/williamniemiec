@@ -1,0 +1,34 @@
+Here is the output in JSON format:
+
+
+{
+  "Activity Progress Tracking": {
+    "Parameters": {
+      "Activity List": {
+        "Description": "List of physical activities to track",
+        "Required": true,
+        "Type": "unordered list"
+      },
+      "Current Level": {
+        "Description": "Current level of each activity",
+        "Required": true,
+        "Type": "rating scale"
+      },
+      "Goal Level": {
+        "Description": "Goal level of each activity",
+        "Required": true,
+        "Type": "rating scale"
+      },
+      "Progress Tracking": {
+        "Description": "Track progress towards goal level",
+        "Required": true,
+        "Type": "graph or chart"
+      },
+      "Evaluation": {
+        "Description": "Evaluate progress and adjust activity levels as needed",
+        "Required": true,
+        "Type": "text"
+      }
+    }
+  }
+}

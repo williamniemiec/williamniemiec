@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Sensitivity Profile": {
+    "Sensitive topics": {
+      "type": "options or text",
+      "options": ["politics", "religion", "personal relationships", "health issues", "etc."]
+    },
+    "Trigger warnings": {
+      "type": "boolean"
+    },
+    "Content avoidance": {
+      "type": "options",
+      "options": ["avoid", "warn", "provide alternative content", "etc."]
+    }
+  }
+}

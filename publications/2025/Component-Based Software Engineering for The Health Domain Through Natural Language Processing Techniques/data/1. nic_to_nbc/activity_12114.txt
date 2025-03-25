@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "Plant Care Reminder": {
+    "parameters": {
+      "Plant Type": {
+        "type": "options list"
+      },
+      "Care Instructions": {
+        "type": "text or html"
+      },
+      "Frequency": {
+        "options": ["daily", "weekly", "biweekly"]
+      },
+      "Reminder": {
+        "type": "text"
+      },
+      "Resources": {
+        "type": "list of resources with descriptions"
+      }
+    }
+  }
+}

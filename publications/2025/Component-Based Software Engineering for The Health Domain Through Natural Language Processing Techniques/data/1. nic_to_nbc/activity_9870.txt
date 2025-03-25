@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Restriction Level Assessment": {
+    "Current Level of Restriction": {"type": "options", "options": ["verbalDeEscalation", "physicalRestraint", "seclusion", "etc."]},
+    "Previous Level of Restriction": {"type": "options", "options": ["verbalDeEscalation", "physicalRestraint", "seclusion", "etc."]},
+    "Effectiveness of Previous Level": {"type": "multiple choice or Likert scale", "options": ["effective", "ineffective", "partiallyEffective", "etc."]},
+    "Reason for Advancing to Next Level": {"type": "text"},
+    "Least Restrictive Measure": {"type": "boolean", "options": [true, false]},
+    "Rationale for Restriction": {"type": "text"},
+    "Notes": {"type": "text"}
+  }
+}

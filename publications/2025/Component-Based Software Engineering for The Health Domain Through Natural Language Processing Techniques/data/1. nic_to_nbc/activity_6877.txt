@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Douching Instructions": {
+    "Parameters": {
+      "Instructions": {"Type": "text or multimedia"},
+      "Frequency": {"Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"Type": "datetime"},
+      "Notes": {"Type": "text"},
+      "Type of Douche": {"Type": "options"}
+    }
+  }
+}

@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+    "Exercise Restriction Guide": {
+        "Blood Glucose Threshold": {"type": "number"},
+        "Urine Ketones": {"type": "boolean"},
+        "Exercise Guidance": {"type": "text"},
+        "Resources": {"type": "text"}
+    }
+}

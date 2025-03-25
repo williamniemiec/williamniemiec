@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+    "Temperature Comfort": {
+        "Draping Options": {"type": "list of options"},
+        "Temperature Range": {"type": "range"},
+        "Draping Tips": {"type": "text"},
+        "Image or Video": {"type": "URL or base64 encoded image/video"},
+        "Confirmation": {"type": "boolean"}
+    }
+}

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Distraction Technique Selection": {
+    "parameters": {
+      "Distraction Techniques": {"type": "options"},
+      "Selected Techniques": {"type": "options"},
+      "Technique Instructions": {"type": "text"},
+      "Practice Opportunities": {"type": "options"},
+      "Technique Evaluation": {"type": "boolean"}
+    }
+  }
+}

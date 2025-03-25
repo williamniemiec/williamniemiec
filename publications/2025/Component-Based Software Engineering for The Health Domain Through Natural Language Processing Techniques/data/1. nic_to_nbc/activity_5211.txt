@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Inhaler Technique Guidance": {
+    "Step-by-Step Instructions": {"type": "text or video", "example": "1. Hold the inhaler upright. 2. Press down on the canister to release the medication. 3. Inhale slowly and deeply through your mouth."},
+    "Animated Illustration": {"type": "animated GIF or video"},
+    "Audio Cue": {"type": "audio file", "example": "Press down on the canister... inhale slowly and deeply..."},
+    "Practice Reminder": {"type": "boolean"},
+    "Frequency": {"options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"type": "datetime"}
+  }
+}

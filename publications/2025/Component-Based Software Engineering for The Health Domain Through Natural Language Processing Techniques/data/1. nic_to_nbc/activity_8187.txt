@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+  "Emergency Care Protocol": {
+    "Parameters": {
+      "Emergency Type": {
+        "Type": "options",
+        "Options": ["cardiac", "respiratory", "neurological", "etc."]
+      },
+      "Care Instructions": {
+        "Type": "text"
+      },
+      "Care Resources": {
+        "Type": "list of text"
+      },
+      "Care Frequency": {
+        "Type": "options",
+        "Options": ["one-time", "recurring", "as-needed", "etc."]
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Fluid Loss Monitoring": {
+    "parameters": [
+      {"name": "Fluid Loss Symptoms"},
+      {"name": "Frequency"},
+      {"name": "Duration"},
+      {"name": "Threshold"},
+      {"name": "Additional Instructions"}
+    ]
+  }
+}

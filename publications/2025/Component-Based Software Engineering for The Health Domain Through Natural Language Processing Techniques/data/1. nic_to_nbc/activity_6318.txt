@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Topical Application": {
+    "name": "",
+    "why": "",
+    "application_instructions": "",
+    "frequency": "",
+    "notes": ""
+  }
+}

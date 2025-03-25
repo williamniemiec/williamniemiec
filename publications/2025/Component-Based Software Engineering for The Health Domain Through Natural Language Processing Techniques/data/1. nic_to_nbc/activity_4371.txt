@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Fall Prevention Plan": {
+    "Parameters": {
+      "Fall Risk Factors": {},
+      "Precautions": {},
+      "Environmental Modifications": {},
+      "Frequency": {},
+      "Resources": {}
+    }
+  }
+}

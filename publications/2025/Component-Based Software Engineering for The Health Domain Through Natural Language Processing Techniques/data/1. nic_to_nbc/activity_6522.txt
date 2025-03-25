@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Skin Ulcer Care Instruction": {
+    "Parameters": {
+      "Skin Ulcer Care Title": {},
+      "Ulcer Location": {},
+      "Care Instructions": {},
+      "Frequency": {},
+      "Deadline Date": {}
+    }
+  }
+}

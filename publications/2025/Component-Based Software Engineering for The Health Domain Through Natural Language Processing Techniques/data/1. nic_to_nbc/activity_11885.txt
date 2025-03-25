@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Behavior Modification Plan": {
+    "Parameters": {
+      "Strategy": {},
+      "Goals": {},
+      "Actions": {},
+      "Rewards": {},
+      "Frequency": ["daily", "onlyOnce", "everyHours", "everyDays"],
+      "Deadline Date": {}
+    }
+  }
+}

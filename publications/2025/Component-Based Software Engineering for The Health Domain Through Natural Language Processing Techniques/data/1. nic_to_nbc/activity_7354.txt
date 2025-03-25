@@ -1,0 +1,29 @@
+Here is the output in JSON format:
+
+
+{
+  "Activity List": {
+    "parameters": {
+      "name": "",
+      "activities": [
+        {
+          "activity name": "",
+          "activity description": "",
+          "instructions": "",
+          "benefits": ""
+        }
+      ],
+      "filtering": ""
+    }
+  },
+  "Guide": {
+    "parameters": {
+      "name": "",
+      "pages": [
+        {
+          "HTML text": ""
+        }
+      ]
+    }
+  }
+}

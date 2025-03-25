@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Body Area Selection": {
+        "Parameters": {
+            "Body Areas": {},
+            "Description": {},
+            "Image": {},
+            "Notes": {}
+        }
+    }
+}

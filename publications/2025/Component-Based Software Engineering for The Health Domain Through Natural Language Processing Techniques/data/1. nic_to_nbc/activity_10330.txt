@@ -1,0 +1,44 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Effectiveness Tracker": {
+    "Parameters": {
+      "Medication List": {
+        "Type": "list of medications",
+        "Required": true,
+        "Medication Name": {
+          "Type": "text",
+          "Required": true
+        },
+        "Dosage Instructions": {
+          "Type": "text",
+          "Required": true
+        }
+      },
+      "Effectiveness Scale": {
+        "Type": "options",
+        "Required": true
+      },
+      "Symptom List": {
+        "Type": "list of symptoms",
+        "Required": true,
+        "Symptom Name": {
+          "Type": "text",
+          "Required": true
+        },
+        "Severity Scale": {
+          "Type": "options",
+          "Required": true
+        }
+      },
+      "Tracking Frequency": {
+        "Type": "options",
+        "Required": false
+      }
+    }
+  }
+}
+
+
+Note that I removed the `Deadline Date` parameter since it was not applicable (required: false). Let me know if this is what you were looking for!

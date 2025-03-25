@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Pros and Cons Evaluation": {
+    "Parameters": {
+      "Solution List": {"Type": "list of text"},
+      "Evaluation Criteria": {"Type": "options", "Options": ["feasibility", "cost", "effectiveness", "etc."]},
+      "Advantages": {"Type": "list of text"},
+      "Disadvantages": {"Type": "list of text"},
+      "Weighting": {"Type": "options", "Options": ["high", "medium", "low"]},
+      "Frequency": {"Type": "options", "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"Type": "datetime"}
+    }
+  }
+}

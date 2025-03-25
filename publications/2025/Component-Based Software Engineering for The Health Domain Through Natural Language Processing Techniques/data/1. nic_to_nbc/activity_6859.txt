@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Latch Guide": {
+    "Parameters": {
+      "Title": {"Type": "text"},
+      "Steps": {"Type": "list", "Example": ["Choose the right latch for your cupboard", "Install the latch according to the manufacturer's instructions", "Test the latch to ensure it is secure"]},
+      "Latch Types": {"Type": "list", "Example": ["Adhesive latches", "Screw-in latches", "Magnetic latches"]},
+      "Images": {"Type": "list"},
+      "Tips": {"Type": "list", "Example": ["Check the latches regularly to ensure they are still secure", "Use latches on all cupboards that contain hazardous substances"]}
+    }
+  }
+}

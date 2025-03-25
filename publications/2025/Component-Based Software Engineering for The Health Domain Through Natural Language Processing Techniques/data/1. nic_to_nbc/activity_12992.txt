@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Hand Washing Protocol",
+    "parameters": [
+        { 
+            "name": "Hand Washing Technique", 
+            "type": "options"
+        },
+        { 
+            "name": "Patient Care Activities", 
+            "type": "unordered list or text"
+        },
+        { 
+            "name": "Frequency", 
+            "type": "options"
+        },
+        { 
+            "name": "Reminders", 
+            "type": "boolean"
+        }
+    ]
+}

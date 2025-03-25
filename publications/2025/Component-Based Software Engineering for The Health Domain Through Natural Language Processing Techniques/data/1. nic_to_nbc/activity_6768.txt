@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Pacing Initiation": {
+        "parameters": [
+            {"mA Increment": {}},
+            {"Capture Threshold": {}},
+            {"mA Output": {}},
+            {"Emergent Condition": {}},
+            {"Minimally Required mA": {}}
+        ]
+    }
+}

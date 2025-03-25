@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+    "Skin Check": {
+        "Name": {"type": "text"},
+        "Body Area": {"type": "options"},
+        "Frequency": {"type": "options"},
+        "Deadline Date": {"type": "datetime"},
+        "Report": {"type": ["text", "photo"]}
+    }
+}

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Environmental Hazard Assessment": {
+    "parameters": {
+      "name": {"type": "text"},
+      "questions": {"type": "list of questions"},
+      "answer_type": {"type": "options", "options": ["yes/no", "scale", "text", "etc."]},
+      "hazard_types": {"type": "options", "options": ["physical", "biological", "chemical"]},
+      "risk_level": {"type": "options", "options": ["low", "moderate", "high"]}
+    }
+  }
+}

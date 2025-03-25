@@ -1,0 +1,47 @@
+Here is the output in JSON format:
+
+
+{
+  "Positioning Guide": {
+    "parameters": {
+      "name": {},
+      "instructions": {"type": "list of HTML texts"},
+      "images": {"type": "list of images"}
+    }
+  },
+  "Symptom Tracker": {
+    "parameters": {
+      "name": {},
+      "symptoms": {"type": "list of options"},
+      "frequency": {},
+      "deadline_date": {}
+    }
+  },
+  "Medication Reminder": {
+    "parameters": {
+      "name": {},
+      "medication name": {},
+      "dosage": {},
+      "frequency": {},
+      "deadline_date": {}
+    }
+  },
+  "Equipment Checklist": {
+    "parameters": {
+      "name": {},
+      "equipment list": {"type": "list of items"},
+      "frequency": {},
+      "deadline_date": {}
+    }
+  },
+  "Device Care Guide": {
+    "parameters": {
+      "name": {},
+      "instructions": {"type": "list of HTML texts"},
+      "images": {"type": "list of images"}
+    }
+  }
+}
+
+
+Note that I removed the not applicable parameters and only kept the `{{ NO-CODE ELEMENT NAME }}` and `{{ PARAMETER ESPECIFICATIONS }}` as per your request.

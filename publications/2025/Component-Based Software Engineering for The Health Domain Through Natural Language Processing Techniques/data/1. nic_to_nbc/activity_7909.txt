@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Behavior Change Program Builder": {
+    "Parameters": {
+      "Target Behavior": {"Type": "text"},
+      "Behavioral Objectives": {"Type": "list of text"},
+      "Intervention Strategies": {"Type": "list of text"},
+      "Program Schedule": {"Type": "text"},
+      "Program Duration": {"Type": "text"},
+      "Program Components": {"Type": "list of text"},
+      "Program Evaluation": {"Type": "text"}
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Neurophysiological and Delirium Assessment",
+  "description": "Assesses neurophysiological status, focusing on consciousness levels, delirium, and overall cognitive function. Includes neuro assessments to track changes in function and support appropriate interventions.",
+  "type": "periodic",
+  "input": ["Neurophysiological assessments", "Consciousness status", "Delirium indicators", "Function status evaluations"],
+  "output": ["Neuro assessment report", "Cognitive function status", "Delirium monitoring results"],
+  "preconditions": ["Patient undergoing neurophysiological or delirium assessment"],
+  "postconditions": ["Consciousness levels and cognitive function are monitored, and delirium risks are addressed"],
+  "dependencies": ["Neuro assessment tools", "Delirium tracking system", "Cognitive function evaluation resources"]
+}

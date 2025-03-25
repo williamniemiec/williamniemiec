@@ -1,0 +1,32 @@
+Here is the output in JSON format:
+
+
+{
+    "Decision Support Tool": {
+        "parameters": {
+            "name": "",
+            "options": [],
+            "criteria": [],
+            "weighting": "",
+            "evaluation": "",
+            "frequency": ""
+        }
+    },
+    "Pros and Cons List": {
+        "parameters": {
+            "name": "",
+            "alternatives": [],
+            "pros": {},
+            "cons": {},
+            "frequency": ""
+        }
+    },
+    "Goal Setting Exercise": {
+        "parameters": {
+            "name": "",
+            "goals": {},
+            "prioritization": "",
+            "frequency": ""
+        }
+    }
+}

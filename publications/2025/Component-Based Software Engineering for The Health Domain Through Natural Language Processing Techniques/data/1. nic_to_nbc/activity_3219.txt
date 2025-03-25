@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Simple Carbohydrate Guide": {
+    "Carbohydrate Options": {"type": "list of text"},
+    "Dosage Instructions": {"type": "text"},
+    "Indications": {"type": "text"},
+    "Frequency": {"type": "options"},
+    "Tracking": {"type": "boolean"}
+  }
+}

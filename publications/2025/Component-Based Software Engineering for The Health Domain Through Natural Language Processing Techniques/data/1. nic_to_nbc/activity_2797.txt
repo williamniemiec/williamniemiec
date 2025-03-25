@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+    "Threshold Marking": {
+        "Marking Type": {"type": "options"},
+        "Marking Location": {"type": "options"},
+        "Marking Instructions": {"type": "text or multimedia"},
+        "Fall Risk Assessment": {"type": "boolean"}
+    }
+}

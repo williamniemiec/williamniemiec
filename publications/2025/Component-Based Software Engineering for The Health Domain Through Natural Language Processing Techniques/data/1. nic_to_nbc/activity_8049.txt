@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "noCodeElementName": "Allergy Questionnaire",
+  "parameters": {
+    "Questions": ["Are you allergic to any medications?", "Are you allergic to iodine?", "Are you allergic to tape?" ],
+    "Answer type": ["Boolean (yes/no)", "text (for specifying the allergy)"],
+    "Frequency": ["Only once"]
+  }
+}

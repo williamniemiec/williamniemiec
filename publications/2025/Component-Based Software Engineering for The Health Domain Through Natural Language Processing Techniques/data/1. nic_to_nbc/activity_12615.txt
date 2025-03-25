@@ -1,0 +1,48 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Consequence",
+    "parameters": [
+        {
+            "name": "Behavior",
+            "type": "options",
+            "options": [
+                { "value": "desired behavior", "label": "Desired behavior" },
+                { "value": "undesired behavior", "label": "Undesired behavior" },
+                { "value": "completing a task", "label": "Completing a task" },
+                { "value": "missing a deadline", "label": "Missing a deadline" }
+            ]
+        },
+        {
+            "name": "Consequence Type",
+            "type": "options",
+            "options": [
+                { "value": "reward", "label": "Reward" },
+                { "value": "penalty", "label": "Penalty" },
+                { "value": "reminder", "label": "Reminder" },
+                { "value": "notification", "label": "Notification" }
+            ]
+        },
+        {
+            "name": "Consequence Message",
+            "type": "text"
+        },
+        {
+            "name": "Frequency",
+            "type": "options",
+            "options": [
+                { "value": "daily", "label": "Daily" },
+                { "value": "onlyOnce", "label": "Only once" },
+                { "value": "everyHours", "label": "Every x hours" },
+                { "value": "everyDays", "label": "Every x days" }
+            ]
+        },
+        {
+            "name": "Deadline Date",
+            "type": "datetime"
+        }
+    ]
+}
+
+Note that I removed the introduction and conclusion parts, as well as the example JSON structure. I also reformatted the output to match the desired JSON structure. Let me know if you need any further modifications!

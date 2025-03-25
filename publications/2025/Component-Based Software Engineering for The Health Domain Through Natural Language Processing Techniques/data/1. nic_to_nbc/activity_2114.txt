@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Debriefing Session": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Questions": {"Type": "form (with multiple questions)"},
+      "Concerns": {"Type": "text (with optional conditional logic)"},
+      "Reflection": {"Type": "options (with specific reflection prompts or exercises)"},
+      "Action Plan": {"Type": "text (with optional conditional logic)"},
+      "Documentation": {"Type": "text (with optional conditional logic)"}
+    }
+  }
+}

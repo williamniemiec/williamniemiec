@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Relaxation Guide": {
+    "parameters": [
+      {"Name": {"type": "text"}},
+      {"Instructions": {"type": "text"}},
+      {"Tips": {"type": "unordered list"}},
+      {"Frequency": {"type": "options", "options": ["daily", "every2hours", "every4hours"]}},
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+  "Topic Theme Identifier": {
+    "Parameters": {
+      "Discussion Type": {
+        "Type": "options",
+        "Options": ["online forum", "in-person meeting", "video conference", "etc."]
+      },
+      "Theme Identification Method": {
+        "Type": "options",
+        "Options": ["natural language processing", "manual coding", "machine learning", "etc."]
+      },
+      "Theme Frequency": {
+        "Type": "options",
+        "Options": ["real-time", "daily", "weekly", "monthly"]
+      },
+      "Theme Reporting": {
+        "Type": "options",
+        "Options": ["summary report", "dashboard", "alert system", "etc."]
+      },
+      "Theme Analysis": {
+        "Type": "boolean"
+      }
+    }
+  }
+}

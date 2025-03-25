@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+    "Track Vital Signs": {
+        "Vital Sign": {"type": "text"},
+        "Value": {"type": "numerical value"},
+        "Date": {"type": "datetime"},
+        "Notes": {"type": "text"}
+    }
+}

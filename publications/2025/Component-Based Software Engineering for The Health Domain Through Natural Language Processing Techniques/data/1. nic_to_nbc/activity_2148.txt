@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Oxygen Delivery Monitoring": {
+    "PaO2 Level": {"Type": "number"},
+    "Hemoglobin Level": {"Type": "number"},
+    "Cardiac Output": {"Type": "number"},
+    "Notes": {"Type": "text"}
+  }
+}

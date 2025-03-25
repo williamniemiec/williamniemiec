@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Contact Information": {
+    "Parameters": {
+      "Contact Method": {},
+      "Contact Value": {},
+      "Preferred Time": {},
+      "Alternate Contact": {}
+    }
+  }
+}

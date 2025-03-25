@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Chronic Condition Tracker": {
+    "Condition List": {"type": "list of text values"},
+    "Status Field": {"type": "text"},
+    "Symptom Field": {"type": "text"},
+    "Medication Field": {"type": "text"},
+    "Notes Field": {"type": "text"}
+  }
+}

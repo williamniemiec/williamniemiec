@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "noCodeElementName": "Skill Practice Assignments",
+  "parameters": {
+    "New Skill": {"type": "text"},
+    "Real-Life Situation": {"type": "text"},
+    "Assignment Type": {"type": "options", "options": ["scenario-based", "problem-based", "project-based", "other"]},
+    "Practice Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"type": "datetime"},
+    "Feedback Mechanism": {"type": "options", "options": ["self-assessment", "peer review", "healthcare provider feedback", "other"]}
+  }
+}

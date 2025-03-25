@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Problem List Generator": {
+    "Name": {"type": "text"},
+    "Problem Categories": {"type": "list of text", "example": ["Physical Symptoms", "Emotional Well-being", "Social Relationships", "Daily Activities"]},
+    "Problem Identification Questions": {"type": "list of text", "example": ["What physical symptoms are you experiencing?", "How are you feeling emotionally?", "Are you having trouble with social relationships?"]},
+    "Problem List": {"type": "list of text", "example": ["Chronic pain", "Anxiety", "Difficulty sleeping"]},
+    "Reflection": {"type": "text input", "example": "What did I learn about my problems from this exercise?"}
+  },
+  "Mind Mapping": {
+    "Name": {"type": "text"},
+    "Problem Identification Questions": {"type": "list of text", "example": ["What physical symptoms are you experiencing?", "How are you feeling emotionally?", "Are you having trouble with social relationships?"]},
+    "Mind Map Options": {"type": "list of text", "example": ["Physical Symptoms", "Emotional Well-being", "Social Relationships", "Daily Activities"]},
+    "Reflection": {"type": "text input", "example": "What did I learn about my problems from this exercise?"}
+  }
+}

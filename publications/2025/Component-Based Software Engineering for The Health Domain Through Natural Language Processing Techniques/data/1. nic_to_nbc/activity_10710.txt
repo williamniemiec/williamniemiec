@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+
+{
+    "Parental Description": {
+        "Parameters": {
+            "Question": {"Type": "text"},
+            "Answer Type": {"Options": ["text", "multiple-choice", "rating scale (e.g., 1-5)"]},
+            "Characteristics": {"Type": "list of characteristics (e.g., personality, behavior, habits)"},
+            "Free Text": {"Type": "text"}
+        }
+    }
+}

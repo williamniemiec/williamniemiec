@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+  "Assessment": {
+    "Areas": ["medical", "psychological", "social", "vocational", "housing", "legal"],
+    "Assessment type": ["scale", "multiple choice", "open-ended question"],
+    "Frequency": ["daily", "weekly", "monthly"],
+    "Deadline date": "datetime"
+  },
+  "Resource List": {
+    "Resource type": ["medical", "psychological", "social", "vocational", "housing", "legal"],
+    "Resource list": ["list of resources (e.g., links, phone numbers, addresses)"],
+    "Description": "text"
+  },
+  "Goal Setting": {
+    "Goal category": ["medical", "psychological", "social", "vocational", "housing", "legal"],
+    "Goal description": "text",
+    "Target date": "datetime",
+    "Progress tracking": ["percentage", "checklist"]
+  },
+  "Discussion Forum": {
+    "Topic": "text",
+    "Message": "text",
+    "Response type": ["text", "audio", "video"],
+    "Frequency": ["daily", "weekly", "monthly"]
+  }
+}

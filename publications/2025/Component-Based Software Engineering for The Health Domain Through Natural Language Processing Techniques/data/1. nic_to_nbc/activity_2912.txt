@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Medication Administration Checklist": {
+        "Right Patient": {"Type": "text"},
+        "Right Medication": {"Type": "text"},
+        "Right Dose": {"Type": "text"},
+        "Right Route": {"Type": "options"},
+        "Right Time": {"Type": "datetime"},
+        "Additional Checks": {"Type": "text or options"}
+    }
+}

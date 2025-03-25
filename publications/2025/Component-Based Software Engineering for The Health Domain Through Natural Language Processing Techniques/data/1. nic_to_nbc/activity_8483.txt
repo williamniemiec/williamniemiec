@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Environmental Safety Checklist": {
+    "parameters": [
+      {"name": "Checklist Items", "type": "list of text items"},
+      {"name": "Status", "type": "options"},
+      {"name": "Frequency", "type": "options"},
+      {"name": "Deadline Date", "type": "datetime"},
+      {"name": "Resources", "type": "text or multimedia content"}
+    ]
+  }
+}

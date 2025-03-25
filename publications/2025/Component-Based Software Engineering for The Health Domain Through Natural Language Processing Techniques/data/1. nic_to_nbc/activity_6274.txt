@@ -1,0 +1,43 @@
+Here is the output in JSON format:
+
+
+{
+  "Guide": {
+    "parameters": {
+      "name": "",
+      "pages": []
+    }
+  },
+  "Task": {
+    "parameters": {
+      "name": "",
+      "content": "",
+      "frequency": "",
+      "deadline_date": ""
+    }
+  },
+  "Question": {
+    "parameters": {
+      "name": "",
+      "answer type": "",
+      "frequency": "",
+      "deadline_date": ""
+    }
+  },
+  "Video": {
+    "parameters": {
+      "name": "",
+      "video_url": "",
+      "description": ""
+    }
+  },
+  "Dialysis Preparation Checklist": {
+    "type": ["checklist", "table"]
+  },
+  "Catheter Placement Instructions": {
+    "type": ["text", "video"]
+  },
+  "Dialysis Education": {
+    "type": ["text", "video", "interactive module"]
+  }
+}

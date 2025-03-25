@@ -1,0 +1,32 @@
+Here is the output in JSON format:
+
+
+{
+  "Aging Changes Discussion Guide": {
+    "Topic List": {
+      "type": "list of text",
+      "example": ["Physical changes", "Cognitive changes", "Emotional changes", "Social changes", "Body image changes"]
+    },
+    "Discussion Questions": {
+      "type": "list of text",
+      "example": ["What physical changes have you noticed as you've aged?", "How has your cognitive function changed over time?", "How have your emotions changed as you've aged?", "How have your social relationships changed as you've aged?", "How has your body image changed as you've aged?"]
+    },
+    "Resource Library": {
+      "type": "text or multimedia (e.g., image, video)"
+    },
+    "Journaling Prompt": {
+      "type": "text",
+      "example": "What are some things you're grateful for as you've aged? What are some things you're concerned about?"
+    },
+    "Frequency": {
+      "type": "options",
+      "options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+    },
+    "Deadline Date": {
+      "type": "datetime"
+    }
+  }
+}
+
+
+Note: I removed the "Not Applicable" parameters as per your request.

@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Guide": {
+    "Medication Information": {
+      "Type": "text or HTML content"
+    },
+    "Usage Instructions": {
+      "Type": "ordered list or HTML content"
+    },
+    "Precautions and Side Effects": {
+      "Type": "unordered list"
+    },
+    "FAQs": {
+      "Type": "list of Q&A pairs"
+    },
+    "Quiz": {
+      "Type": "multiple-choice questions or true/false questions"
+    }
+  }
+}
+
+
+Let me know if you need anything else!

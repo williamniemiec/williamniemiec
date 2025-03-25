@@ -1,0 +1,40 @@
+Here is the output in JSON format:
+
+
+{
+    "Forum": {
+        "parameters": {
+            "name": "",
+            "description": "",
+            "categories": [],
+            "frequency": "",
+            "deadline_date": ""
+        }
+    },
+    "Social Media Group": {
+        "parameters": {
+            "name": "",
+            "description": "",
+            "platform": "",
+            "frequency": "",
+            "deadline_date": ""
+        }
+    },
+    "Event Calendar": {
+        "parameters": {
+            "name": "",
+            "events": [],
+            "frequency": "",
+            "deadline_date": ""
+        }
+    },
+    "Buddy System": {
+        "parameters": {
+            "name": "",
+            "description": "",
+            "pairing_criteria": [],
+            "frequency": "",
+            "deadline_date": ""
+        }
+    }
+}

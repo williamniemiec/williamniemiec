@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+  "Noise Reduction": {
+    "Current Noise Level": {
+      "type": "options"
+    },
+    "Desired Noise Level": {
+      "type": "options"
+    },
+    "Noise Sources": {
+      "type": "options"
+    },
+    "Action Plan": {
+      "type": "text"
+    },
+    "Reminder": {
+      "type": "options"
+    }
+  }
+}

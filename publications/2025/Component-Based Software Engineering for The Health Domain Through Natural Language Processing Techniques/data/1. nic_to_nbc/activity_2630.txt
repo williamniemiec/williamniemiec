@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Exercise Program": {
+    "parameters": {
+      "name": {"type": "text"},
+      "exercises": {"type": "list of exercise objects", "properties": {
+        "name": {"type": "text"},
+        "instructions": {"type": "text"},
+        "media": {"type": "image or video"}
+      }},
+      "frequency": {"type": "options", "values": ["daily", "everyOtherDay", "every2Days", "every3Days", "etc."]},
+      "duration": {"type": "text or numeric value"},
+      "deadline_date": {"type": "datetime"}
+    }
+  }
+}

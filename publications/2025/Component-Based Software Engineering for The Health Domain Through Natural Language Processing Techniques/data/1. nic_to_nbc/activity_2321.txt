@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Acceptance Plan": {
+        "Target Group": {},
+        "Providers": {},
+        "Related Groups": {},
+        "Acceptance Strategies": {},
+        "Timeline": {},
+        "Notes": {}
+    }
+}

@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+  "Video Library": {
+    "Name": {"type": "text"},
+    "Videos": {"type": "ordered list", "list items": "video URL or embedded video"},
+    "Descriptions": {"type": "ordered list", "list items": "text"},
+    "Tags": {"type": "unordered list", "list items": "text"},
+    "Reflection Questions": {"type": "ordered list", "list items": "text"}
+  },
+  "Live Streaming": {
+    "Name": {"type": "text"},
+    "Stream URL": {"type": "URL"},
+    "Description": {"type": "text"},
+    "Chat": {"type": "boolean"},
+    "Reflection Questions": {"type": "ordered list", "list items": "text"}
+  }
+}
+
+
+Let me know if this is what you were looking for!

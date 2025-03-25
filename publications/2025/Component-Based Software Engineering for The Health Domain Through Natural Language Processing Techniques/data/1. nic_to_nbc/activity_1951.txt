@@ -1,0 +1,44 @@
+Here is the output in JSON format:
+
+{
+    "name": "Common Ground",
+    "parameters": [
+        {
+            "name": "Sharing Prompt",
+            "type": "text"
+        },
+        {
+            "name": "Sharing Type",
+            "type": "options",
+            "options": [
+                { value: "text", label: "Text" },
+                { value: "image", label: "Image" },
+                { value: "video", label: "Video" }
+            ]
+        },
+        {
+            "name": "Group Connection",
+            "type": "options",
+            "options": [
+                { value: "happy", label: "Happy" },
+                { value: "relieved", label: "Relieved" },
+                { value: "connected", label: "Connected" },
+                { value: "surprised", label: "Surprised" }
+            ]
+        },
+        {
+            "name": "Frequency",
+            "type": "options",
+            "options": [
+                { value: "daily", label: "Daily" },
+                { value: "onlyOnce", label: "Only once" },
+                { value: "everyHours", label: "Every x hours" },
+                { value: "everyDays", label: "Every x days" }
+            ]
+        },
+        {
+            "name": "Deadline Date",
+            "type": "datetime"
+        }
+    ]
+}

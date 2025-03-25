@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Environmental Setting": {
+    "Parameters": {
+      "Activity": {"Type": "text"},
+      "Setting Options": {"Type": "list of options"},
+      "Tips": {"Type": "text"}
+    }
+  },
+  "Noise Level": {
+    "Parameters": {
+      "Noise Threshold": {"Type": "numeric value"},
+      "Noise Level Indicator": {"Type": "options"}
+    }
+  }
+}

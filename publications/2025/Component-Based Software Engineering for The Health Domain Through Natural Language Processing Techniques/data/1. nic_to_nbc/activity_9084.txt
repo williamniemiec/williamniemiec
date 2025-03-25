@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Response Timing Exercise": {
+    "Message": {"type": "text"},
+    "Response Options": {"type": "list of text"},
+    "Timing": {"type": "options"},
+    "Rationale": {"type": "text"},
+    "Reflection Questions": {"type": "list of text"},
+    "Insight": {"type": "text"}
+  }
+}

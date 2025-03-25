@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+    "Health Knowledge Assessment": {
+        "Parameters": {
+            "Health Topic": {"Type": "options"},
+            "Knowledge Level": {"Type": "options"},
+            "Quiz or Survey": {"Type": "text or multiple-choice questions"},
+            "Patient Input": {"Type": "text or rating scale"}
+        }
+    },
+    "Lifestyle Behavior Assessment": {
+        "Parameters": {
+            "Behavior Category": {"Type": "options"},
+            "Behavior Frequency": {"Type": "options"},
+            "Behavior Quality": {"Type": "options"},
+            "Patient Input": {"Type": "text or rating scale"}
+        }
+    }
+}

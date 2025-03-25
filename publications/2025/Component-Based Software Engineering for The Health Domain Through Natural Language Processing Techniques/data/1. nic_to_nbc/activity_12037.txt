@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Technique Demonstration": {
+    "parameters": [
+      {"name": "technique_list", "type": "list of techniques"},
+      {"name": "instructions", "type": "text or multimedia content"},
+      {"name": "submission_type", "type": "options", "options": [{"value": "video"}, {"value": "photo"}, {"value": "text"}]},
+      {"name": "frequency", "type": "options", "options": [{"value": "daily"}, {"value": "onlyOnce"}, {"value": "everyHours"}, {"value": "everyDays"}]}
+    ]
+  }
+}

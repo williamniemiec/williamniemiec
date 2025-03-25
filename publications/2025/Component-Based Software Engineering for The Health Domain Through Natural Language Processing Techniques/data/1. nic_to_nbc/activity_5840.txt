@@ -1,0 +1,65 @@
+Here is the output JSON:
+
+
+{
+    "name": "Adaptation Identification",
+    "parameters": [
+        {
+            "name": "Activity Type",
+            "type": "options",
+            "options": [
+                { value: "daily living", label: "Daily Living" },
+                { value: "recreational", label: "Recreational" },
+                { value: "educational", label: "Educational" },
+                { value: "social", label: "Social" }
+            ]
+        },
+        {
+            "name": "Child's Limitations",
+            "type": "options",
+            "options": [
+                { value: "physical", label: "Physical" },
+                { value: "cognitive", label: "Cognitive" },
+                { value: "emotional", label: "Emotional" },
+                { value: "sensory", label: "Sensory" }
+            ]
+        },
+        {
+            "name": "Adaptation Options",
+            "type": "options",
+            "options": [
+                { value: "assistive technology", label: "Assistive Technology" },
+                { value: "modifications to environment", label: "Modifications to Environment" },
+                { value: "adaptive equipment", label: "Adaptive Equipment" },
+                { value: "compensatory strategies", label: "Compensatory Strategies" }
+            ]
+        },
+        {
+            "name": "Priority Level",
+            "type": "options",
+            "options": [
+                { value: "high", label: "High" },
+                { value: "medium", label: "Medium" },
+                { value: "low", label: "Low" }
+            ]
+        },
+        {
+            "name": "Frequency",
+            "type": "options",
+            "options": [
+                { value: "daily", label: "Daily" },
+                { value: "onlyOnce", label: "Only once" },
+                { value: "everyHours", label: "Every x hours" },
+                { value: "everyDays", label: "Every x days" }
+            ]
+        },
+        {
+            "name": "Deadline Date",
+            "type": "datetime"
+        },
+        {
+            "name": "Support Needed",
+            "type": "text"
+        }
+    ]
+}

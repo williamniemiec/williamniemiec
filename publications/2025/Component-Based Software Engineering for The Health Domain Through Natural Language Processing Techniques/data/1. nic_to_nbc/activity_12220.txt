@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Electrolyte Imbalance Detector": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Electrolytes to Monitor": {"Type": "unordered list"},
+      "Threshold Values": {"Type": "table"},
+      "Alerts and Notifications": {"Type": "boolean"},
+      "Reporting": {"Type": "text"},
+      "Resources": {"Type": "links or attachments"}
+    }
+  }
+}

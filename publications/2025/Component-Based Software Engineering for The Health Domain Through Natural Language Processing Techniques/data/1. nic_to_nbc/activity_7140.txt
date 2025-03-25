@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Routine": {
+    "Parameters": {
+      "Name": {"Type": "text", "Required": true},
+      "Description": {"Type": "text", "Required": true},
+      "Steps": {"Type": "unordered list", "Required": true},
+      "Frequency": {"Type": "options", "Required": true, "Options": ["daily", "everyOtherDay", "every2Days", "every3Days", "weekly"]},
+      "Tracking": {"Type": "options", "Required": true, "Options": ["checkbox", "rating scale", "free text"]}
+    }
+  }
+}

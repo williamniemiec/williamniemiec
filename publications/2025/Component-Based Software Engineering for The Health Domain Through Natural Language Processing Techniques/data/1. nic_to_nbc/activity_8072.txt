@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Belief Assessment": {
+    "Questions": [
+      "Do you believe that asking for help is a sign of weakness?",
+      "Do you think that needing help from others means you're not capable of handling things on your own?",
+      "Do you feel like asking for help is an admission of failure?",
+      "Do you believe that independent people don't need help from others?"
+    ],
+    "Answer type": [
+      "Scale (e.g., 1-5, where 1 is \"strongly disagree\" and 5 is \"strongly agree\")",
+      "Open-ended text response"
+    ]
+  }
+}

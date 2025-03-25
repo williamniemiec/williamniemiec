@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Guide": {
+    "Name": {"Type": "text"},
+    "Pages": {"Type": "book-page", "book-page": "list of HTML texts"},
+    "Section": {"Type": "text"},
+    "Resources": {"Type": "list of URLs or file paths"}
+  }
+}

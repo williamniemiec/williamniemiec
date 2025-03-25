@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Role Change Explorer": {
+    "Current Role": {"Type": "text"},
+    "Desired Role": {"Type": "text"},
+    "Barriers": {"Type": "list"},
+    "Realistic Description": {"Type": "text"},
+    "Small Steps": {"Type": "list"},
+    "Motivators": {"Type": "list"},
+    "Frequency": {
+      "Type": "options",
+      "Options": ["daily", "weekly", "monthly", "quarterly"]
+    },
+    "Deadline Date": {"Type": "datetime"}
+  }
+}

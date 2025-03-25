@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Temperament Assessment": {
+    "parameters": [
+      {"name": "Questions", "type": "list of questions"},
+      {"name": "Answer Options", "type": "list of options"},
+      {"name": "Scoring", "type": "scoring rules"},
+      {"name": "Results", "type": "text or graphical representation"},
+      {"name": "Frequency", "type": "options"}
+    ]
+  }
+}
+
+
+I removed the `Deadline Date` parameter since it's not applicable (i.e., its `required` field is set to `false`). Let me know if you have any further questions!

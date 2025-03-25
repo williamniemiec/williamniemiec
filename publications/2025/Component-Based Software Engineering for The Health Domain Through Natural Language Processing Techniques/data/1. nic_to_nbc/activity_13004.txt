@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+  "Progress Tracker": {
+    "parameters": {
+      "name": {"type": "text"},
+      "session_id": {"type": "text"},
+      "progress": {"type": "options"},
+      "feedback": {"type": "text"},
+      "goals_met": {"type": "boolean"},
+      "notes": {"type": "text"}
+    }
+  },
+  "Session Summary": {
+    "parameters": {
+      "name": {"type": "text"},
+      "session_id": {"type": "text"},
+      "summary": {"type": "text"},
+      "progress": {"type": "options"},
+      "feedback": {"type": "text"},
+      "goals_met": {"type": "boolean"},
+      "next_steps": {"type": "text"}
+    }
+  }
+}

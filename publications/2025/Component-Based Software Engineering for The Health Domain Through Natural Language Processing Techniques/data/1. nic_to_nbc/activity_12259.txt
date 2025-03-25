@@ -1,0 +1,39 @@
+Here is the output in JSON format:
+
+
+{
+  "Guide": {
+    "parameters": {
+      "name": "",
+      "pages": []
+    }
+  },
+  "Video": {
+    "parameters": {
+      "name": "",
+      "video_url": ""
+    }
+  },
+  "Illustrations": {
+    "parameters": {
+      "name": "",
+      "images": []
+    }
+  },
+  "Reminder": {
+    "parameters": {
+      "name": "",
+      "message": "",
+      "timing": ""
+    }
+  },
+  "Encouragement Message": {
+    "parameters": {
+      "name": "",
+      "message": ""
+    }
+  }
+}
+
+
+Note that I removed the introduction, conclusion, and numberings, and only kept the no-code element names and their corresponding parameter specifications. I also didn't include any "not applicable" parameters as they were not specified in the input.

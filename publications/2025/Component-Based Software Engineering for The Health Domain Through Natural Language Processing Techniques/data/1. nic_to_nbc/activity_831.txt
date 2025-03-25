@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+    "open_enrollment_policy": {
+        "parameters": [
+            {"name": "open_enrollment"},
+            {"name": "enrollment_windows"}
+        ]
+    }
+}

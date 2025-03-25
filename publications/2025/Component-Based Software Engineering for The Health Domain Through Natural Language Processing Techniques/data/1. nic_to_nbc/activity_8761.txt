@@ -1,0 +1,35 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Pleasurable Imagery Script",
+  "parameters": [
+    {
+      "name": "Script",
+      "type": "text"
+    },
+    {
+      "name": "Imagery Themes",
+      "type": "options",
+      "options": [
+        { value: "floating" },
+        { value: "melting" },
+        { value: "releasing" },
+        { value: "relaxing" },
+        { value: "calming" }
+      ]
+    },
+    {
+      "name": "Frequency",
+      "type": "options",
+      "options": [
+        { value: "daily" },
+        { value: "onlyOnce" },
+        { value: "everyHours" },
+        { value: "everyDays" }
+      ]
+    }
+  ]
+}
+
+I removed the `Deadline Date` parameter since it's not applicable (i.e., its type is `datetime`, which doesn't fit the format). Let me know if you need any further assistance!

@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Assistance Needs Assessment": {
+    "Daily Living Activities": {"Description": "Patient's difficulty with daily living activities (e.g., bathing, dressing, grooming, etc.)", "Type": "options"},
+    "Instrumental Activities": {"Description": "Patient's difficulty with instrumental activities (e.g., managing finances, cooking, cleaning, etc.)", "Type": "options"},
+    "Mobility": {"Description": "Patient's mobility needs (e.g., walking, transferring, etc.)", "Type": "options"},
+    "Cognitive Function": {"Description": "Patient's cognitive function needs (e.g., memory, problem-solving, etc.)", "Type": "options"},
+    "Assistance Type": {"Description": "Type of assistance needed (e.g., physical, emotional, cognitive, etc.)", "Type": "options"},
+    "Assistance Frequency": {"Description": "Frequency of assistance needed (e.g., daily, weekly, monthly, etc.)", "Type": "options"}
+  }
+}

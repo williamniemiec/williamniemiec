@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Infusion Protocol Guideline": {
+        "parameters": [
+            {"name": "protocol_guidelines", "description": "Institutional protocol guidelines for infusing each bag", "required": true, "type": "text"},
+            {"name": "patient_tolerance", "description": "Considerations for the patient's tolerance during infusion", "required": true, "type": "text"},
+            {"name": "infusion_rate", "description": "Instructions for setting the infusion rate", "required": true, "type": "text"},
+            {"name": "infusion_sequence", "description": "Instructions for the sequence of infusion", "required": true, "type": "text"},
+            {"name": "infusion_time", "description": "Instructions for the timing of infusion", "required": true, "type": "text"}
+        ]
+    }
+}

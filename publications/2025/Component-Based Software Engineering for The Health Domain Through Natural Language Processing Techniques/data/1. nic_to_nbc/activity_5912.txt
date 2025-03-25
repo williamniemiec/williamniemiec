@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Life Change Planner": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Life Change Options": {"Type": "options", "Options": ["New job", "Leave of absence from work", "New peer group", "Moving to a new home"]},
+      "Anticipation Questions": {"Type": "list of questions", "Questions": ["What are your concerns about this life change?", "What are your goals for this life change?", "What steps can you take to prepare for this life change?"]},
+      "Coping Strategies": {"Type": "list of coping strategies", "Strategies": ["Deep breathing exercises", "Journaling", "Seeking social support"]},
+      "Action Plan": {"Type": "list of action plan items", "Items": ["Goals", "Steps to achieve goals", "Deadlines"]},
+      "Reflection": {"Type": "boolean", "Options": ["yes", "no"]}
+    }
+  }
+}

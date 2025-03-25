@@ -1,0 +1,48 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Assisted Feeding",
+    "parameters": [
+        {
+            "name": "Name",
+            "type": "text"
+        },
+        {
+            "name": "Description",
+            "type": "text"
+        },
+        {
+            "name": "Feeding Technique",
+            "type": "options",
+            "options": [
+                "placing food at back of mouth",
+                "on unaffected side",
+                "other"
+            ]
+        },
+        {
+            "name": "Assistance Required",
+            "type": "options",
+            "options": [
+                "minimal",
+                "moderate",
+                "maximal"
+            ]
+        },
+        {
+            "name": "Instructions",
+            "type": "text"
+        },
+        {
+            "name": "Frequency",
+            "type": "options",
+            "options": [
+                "daily",
+                "onlyOnce",
+                "everyHours",
+                "everyDays"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Exercise Response Tracker": {
+    "Parameters": {
+      "Title": {"Type": "text"},
+      "Response Metrics": {"Type": "list"},
+      "Data Entry": {"Type": "form"},
+      "Graphical Display": {"Type": "graph"},
+      "Alert System": {"Type": "list"},
+      "Progress Summary": {"Type": "text"}
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Nail Care and Assistance",
+  "description": "Focuses on nail care tasks such as trimming, polishing, and providing assistance with nail grooming. Includes tasks for both fingernail and toenail care, including the application of polish, trimming, and using coats and sticks.",
+  "type": "non-periodic",
+  "input": ["Nail care", "Trimming", "Polishing", "Assistance with nails", "Toenail/fingernail care"],
+  "output": ["Nail care report", "Polishing and trimming confirmation", "Grooming assistance feedback"],
+  "preconditions": ["User requires assistance with nail care or grooming"],
+  "postconditions": ["Well-groomed nails with assistance as needed"],
+  "dependencies": ["Nail care products", "Grooming assistance tools", "Nail health resources"]
+}

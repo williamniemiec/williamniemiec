@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Toileting Interval Setter": {
+    "parameters": {
+      "name": {"type": "text"},
+      "description": {"type": "text"},
+      "interval_duration": {"type": "numeric", "minimum_value": "2 hours"},
+      "interval_unit": {"type": "options", "options": ["hours", "minutes"]},
+      "schedule_integration": {"type": "reference"},
+      "reminders": {"type": "boolean"}
+    }
+  }
+}

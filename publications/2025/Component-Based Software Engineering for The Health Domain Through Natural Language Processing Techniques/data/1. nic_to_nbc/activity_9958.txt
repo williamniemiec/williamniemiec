@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+  "Discharge Knowledge Assessment": {
+    "Questions": {
+      "Type": "form",
+      "Questions": ["What medications will you need to take after discharge?", "How will you manage your wound care?", "What are the signs of complications?"]
+    },
+    "Answer Type": {
+      "Type": "options",
+      "Options": ["multiple choice", "true/false", "short answer"]
+    },
+    "Scoring": {
+      "Type": "text or formula"
+    },
+    "Threshold": {
+      "Type": "number or text"
+    },
+    "Education": {
+      "Type": "text or link"
+    },
+    "Reassessment": {
+      "Type": "boolean"
+    }
+  }
+}

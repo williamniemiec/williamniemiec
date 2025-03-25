@@ -1,0 +1,10 @@
+{
+  "name": "Discharge and Follow-Up Care",
+  "description": "Coordinates discharge planning and follow-up care. Includes medication instructions, care plans, appointments, and readiness for discharge.",
+  "type": "periodic",
+  "input": ["Discharge plan", "Follow-up appointment details", "Medications", "Care instructions", "Readiness for discharge assessment"],
+  "output": ["Discharge report", "Follow-up care instructions", "Appointment reminder"],
+  "preconditions": ["User is preparing for discharge or follow-up care"],
+  "postconditions": ["Successful discharge and readiness for follow-up care"],
+  "dependencies": ["Discharge planning system", "Follow-up care platform", "Appointment management tools"]
+}

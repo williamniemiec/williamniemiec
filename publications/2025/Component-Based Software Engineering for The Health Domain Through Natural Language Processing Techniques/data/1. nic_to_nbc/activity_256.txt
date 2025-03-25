@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Health Concerns": {
+    "concern_list": "list of health concerns (e.g., pain, fatigue, anxiety)",
+    "concern_details": "additional details about each concern (e.g., severity, duration)"
+  },
+  "Symptom Checker": {
+    "symptom_list": "list of symptoms (e.g., headache, nausea, dizziness)",
+    "symptom_severity": "severity of each symptom (e.g., mild, moderate, severe)",
+    "symptom_duration": "duration of each symptom (e.g., hours, days, weeks)"
+  },
+  "Health Status Assessment": {
+    "health_status": "text or audio input about the patient's overall health status",
+    "health_status_categories": "categories of health status (e.g., physical, emotional, mental)"
+  }
+}

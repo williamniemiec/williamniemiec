@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Goal Setting Exercise": {
+    "Introduction": {},
+    "Hope Object": {"Type": "text"},
+    "Goal Setting Prompts": {"Type": "list of objects", "Prompt": {"Type": "text"}, "Response Type": {"Type": "options"}},
+    "Goal Revision Framework": {"Type": "object", "Evaluate Progress": {"Type": "text"}, "Identify Barriers": {"Type": "text"}, "Revise Goals": {"Type": "text"}},
+    "Reflection Prompts": {"Type": "list of objects", "Prompt": {"Type": "text"}, "Response Type": {"Type": "options"}},
+    "Frequency": {"Type": "options"}
+  }
+}
+
+
+Note that I removed the `For the intervention...` and `This no-code element...` texts as they are not part of the parameter specifications. I also removed the `-` characters and indentation to format the output in JSON. Let me know if you need any further modifications!

@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+    "Sterility Checklist": {
+        "Parameters": {
+            "Name": {"Type": "text"},
+            "Checklist Items": {"Type": "list of text items"},
+            "Frequency": {"Type": "options"},
+            "Deadline Date": {"Type": "datetime"},
+            "Confirmation": {"Type": "boolean"}
+        }
+    },
+    "Sterility Guide": {
+        "Parameters": {
+            "Name": {"Type": "text"},
+            "Guide Content": {"Type": "multimedia"},
+            "Frequency": {"Type": "options"},
+            "Deadline Date": {"Type": "datetime"}
+        }
+    }
+}

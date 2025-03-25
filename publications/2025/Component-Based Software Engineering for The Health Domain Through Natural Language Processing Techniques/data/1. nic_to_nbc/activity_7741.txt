@@ -1,0 +1,33 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Drainage Container Management",
+    "parameters": [
+        { 
+            "name": "Drainage Container Type", 
+            "options": [
+                "urinary drainage bag",
+                "suction canister"
+            ]
+        },
+        { 
+            "name": "Proper Level", 
+            "type": "text"
+        },
+        { 
+            "name": "Level Check Frequency", 
+            "options": [
+                "every 2 hours"
+            ]
+        },
+        { 
+            "name": "Reminder Settings", 
+            "type": "options",
+            "options": [
+                "frequency",
+                "timing"
+            ]
+        }
+    ]
+}

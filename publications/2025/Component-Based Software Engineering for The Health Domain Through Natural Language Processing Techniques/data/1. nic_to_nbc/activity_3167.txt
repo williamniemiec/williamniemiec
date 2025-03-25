@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+    "Allen Test Assistant": {
+        "Name": {"type": "text"},
+        "Test Steps": {"type": "ordered list of text or images"},
+        "Evaluation Criteria": {"type": "list of text or images"},
+        "Radial Artery Cannulation Indication": {"type": "text or boolean"},
+        "Notes": {"type": "text"}
+    }
+}

@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Safe Sleep Feeding Practices": {
+    "Guidelines": "",
+    "Alternatives": "",
+    "Tips": "",
+    "Resources": []
+  }
+}

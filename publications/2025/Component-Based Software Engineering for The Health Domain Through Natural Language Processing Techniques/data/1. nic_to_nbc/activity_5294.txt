@@ -1,0 +1,33 @@
+Here is the output in JSON format:
+
+
+{
+  "Inhaler Tutorial": {
+    "parameters": {
+      "inhaler type": {
+        "type": "text or selection from a list of inhaler types"
+      },
+      "step-by-step instructions": {
+        "type": "text, images, or videos"
+      },
+      "demonstration": {
+        "type": "video or interactive module"
+      },
+      "practice exercises": {
+        "type": "interactive module or quiz"
+      }
+    }
+  },
+  "Inhaler Tracker": {
+    "parameters": {
+      "inhaler use log": {
+        "type": "text or selection from a list of dates and times"
+      },
+      "reminders": {
+        "type": "text or selection from a list of reminder options"
+      }
+    }
+  }
+}
+
+Let me know if you'd like me to clarify or modify anything!

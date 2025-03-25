@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Neurogenic Reaction Prevention": {
+    "Stimuli to Avoid": {
+      "type": "options",
+      "options": ["skinStimulation", "distendedBladder", "constipation", "other"]
+    },
+    "Instructions": {
+      "type": "text"
+    },
+    "Frequency": {
+      "type": "options",
+      "options": ["daily", "everyHours", "everyDays", "asNeeded"]
+    },
+    "Notes": {
+      "type": "text"
+    }
+  }
+}

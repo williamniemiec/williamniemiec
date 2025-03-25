@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+"Education": {
+"name": "Urine Bag Selection Education",
+"content": "Learn about the importance of selecting urine bags or meters with emptying devices located at the bottom of the device.",
+"type": ["text", "video"],
+"pages": "list of HTML texts or video content"
+}
+}

@@ -1,0 +1,52 @@
+Here is the output in JSON format:
+
+
+{
+  "Education Module": {
+    "parameters": {
+      "name": "Activity Restrictions",
+      "description": "Learn about the activity restrictions you need to follow after your implantation",
+      "content_type": "text",
+      "required": true,
+      "type": "education"
+    }
+  },
+  "Quiz": {
+    "parameters": {
+      "name": "Activity Restrictions Quiz",
+      "description": "Test your understanding of the activity restrictions",
+      "content_type": "quiz",
+      "required": true,
+      "type": "quiz",
+      "questions": [
+        { "question": "What type of arm movements should I avoid after a pectoral implantation?", "answer": "Heavy lifting or bending" },
+        { "question": "Why should I avoid contact sports after my implantation?", "answer": "To prevent injury or damage to the implant" },
+        { "question": "What are the driving restrictions I need to follow after my implantation?", "answer": "Avoid driving for a certain period of time or until cleared by a healthcare professional" }
+      ]
+    }
+  },
+  "Reminder": {
+    "parameters": {
+      "name": "Activity Restrictions Reminder",
+      "description": "Remember to follow your activity restrictions to ensure a safe and successful recovery",
+      "content_type": "reminder",
+      "required": true,
+      "type": "reminder",
+      "frequency": "daily"
+    }
+  },
+  "Task List": {
+    "parameters": {
+      "name": "Activity Restrictions Task List",
+      "description": "View your activity restrictions task list to ensure you're following the guidelines",
+      "content_type": "task list",
+      "required": true,
+      "type": "task list",
+      "tasks": [
+        { "task": "Avoid heavy lifting or bending", "status": "pending" },
+        { "task": "Avoid contact sports", "status": "pending" },
+        { "task": "Adhere to driving restrictions", "status": "pending" }
+      ]
+    }
+  }
+}

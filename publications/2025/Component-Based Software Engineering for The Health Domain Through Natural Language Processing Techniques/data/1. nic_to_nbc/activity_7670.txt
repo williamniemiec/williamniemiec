@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Personal Rights and Responsibilities Identification": {
+    "Parameters": {
+      "Personal Rights": {"Type": "text"},
+      "Personal Responsibilities": {"Type": "text"},
+      "Conflicting Norms": {"Type": "text"},
+      "Reflection Questions": {"Type": "form", "Questions": "list of questions with answer options"},
+      "Additional Resources": {"Type": "text"}
+    }
+  }
+}

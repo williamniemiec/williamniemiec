@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Instruction": {
+    "content": "the instructional content to be displayed"
+  },
+  "Image": {
+    "image": "the image to be displayed",
+    "description": "optional parameter to provide a brief description of the image"
+  },
+  "Reminder": {
+    "content": "the reminder content to be displayed"
+  },
+  "Guided Relaxation": {
+    "script": "the guided relaxation script to be played"
+  }
+}
+
+
+Note: I removed the "not applicable" parameters, which means I didn't include any empty or null values in the output JSON.

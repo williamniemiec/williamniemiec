@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+    "Positioning Guide": {
+        "Parameters": {
+            "Position": {
+                "Type": "options"
+            },
+            "Indications": {
+                "Type": "options"
+            },
+            "Contraindications": {
+                "Type": "options"
+            }
+        }
+    }
+}

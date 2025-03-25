@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Discussion Questionnaire": {
+    "Parameters": {
+      "Questions": {
+        "Type": "list (text)"
+      },
+      "Answer Type": {
+        "Type": "list (options)"
+      },
+      "Notes": {
+        "Type": "text"
+      }
+    }
+  }
+}

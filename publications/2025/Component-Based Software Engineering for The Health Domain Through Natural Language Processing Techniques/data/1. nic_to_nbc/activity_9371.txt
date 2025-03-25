@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+    "Placental Abnormality Observation": {
+        "parameters": [
+            {"name": "abnormality_type", "description": "Select the type of placental abnormality", "required": true, "type": "options"},
+            {"name": "abnormality_description", "description": "Describe the placental abnormality", "required": true, "type": "text"},
+            {"name": "frequency", "description": "Specify how often you should observe and report placental abnormalities", "required": true, "type": "options"},
+            {"name": "deadline_date", "description": "Specify the due date for observing and reporting placental abnormalities", "required": false, "type": "datetime"}
+        ]
+    }
+}
+
+
+Let me know if you need anything else!

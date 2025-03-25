@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Patient Escort": {
+        "parameters": [
+            {"Name": {"type": "text"}},
+            {"Activity Type": {"type": "options", "options": ["Physical therapy", "Radiology", "Lab test"]}},
+            {"Escort Requirements": {"type": "checklist", "checklist": ["One-to-one escort", "Wheelchair assistance", "Oxygen therapy"]}},
+            {"Escort Instructions": {"type": "text"}}
+        ]
+    }
+}

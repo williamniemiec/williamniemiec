@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+    "Meal Plan": {
+        "Dietary Goals": {},
+        "Meal Frequency": {},
+        "Meal Type": {},
+        "Food Preferences": {},
+        "Calorie Intake": {},
+        "Macronutrient Ratios": {},
+        "Meal Plan Template": {},
+        "Recipe Suggestions": {}
+    }
+}

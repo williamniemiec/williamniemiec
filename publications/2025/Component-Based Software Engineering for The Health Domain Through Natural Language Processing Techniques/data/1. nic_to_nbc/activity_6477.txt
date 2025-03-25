@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Monitoring": {
+    "Condition": {"type": "text"},
+    "Causes": {"type": "options", "options": ["lead dislodgement", "fracture", "migration", "others"]},
+    "Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"type": "datetime"},
+    "Notes": {"type": "text"}
+  }
+}

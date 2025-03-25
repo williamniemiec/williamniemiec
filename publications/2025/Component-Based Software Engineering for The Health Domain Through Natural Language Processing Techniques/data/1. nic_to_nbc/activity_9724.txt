@@ -1,0 +1,29 @@
+Here is the output in JSON format:
+
+
+{
+    "Tracing Verification": {
+        "parameters": {
+            "name": "Tracing Verification",
+            "unit": "yes/no or normal/abnormal",
+            "frequency": "options for how often to verify tracing (e.g., every hour, every 2 hours, etc.)",
+            "deadline_date": "optional due date for verifying tracing"
+        }
+    },
+    "Electronic Monitor Removal": {
+        "parameters": {
+            "name": "Electronic Monitor Removal",
+            "unit": "yes/no or removed/not removed",
+            "frequency": "options for how often to remove electronic monitors (e.g., every hour, every 2 hours, etc.)",
+            "deadline_date": "optional due date for removing electronic monitors"
+        }
+    },
+    "Ambulation": {
+        "parameters": {
+            "name": "Ambulation",
+            "unit": "yes/no or ambulated/not ambulated",
+            "frequency": "options for how often to ambulate (e.g., every hour, every 2 hours, etc.)",
+            "deadline_date": "optional due date for ambulation"
+        }
+    }
+}

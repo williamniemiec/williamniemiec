@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Cue Management": {
+    "Parameters": {
+      "Cue Type": ["verbal", "physical"],
+      "Initial Cue Level": "slider (e.g., 0-100%) or numerical value",
+      "Target Cue Level": "slider (e.g., 0-100%) or numerical value",
+      "Decrease Frequency": ["daily", "everyOtherDay", "weekly", "biweekly"]
+    }
+  }
+}
+
+
+I removed the `Notes` parameter as it's not applicable in this context, and also removed other unnecessary information to produce a clean JSON output. Let me know if you have any further questions!

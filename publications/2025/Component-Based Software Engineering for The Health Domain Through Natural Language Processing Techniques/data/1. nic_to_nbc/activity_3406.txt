@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+    "Edema Education": {
+        "Educational Content": {"type": "text field"},
+        "Symptom Checklist": {"type": "list of text fields"}
+    },
+    "Symptom Tracker": {
+        "Symptom Types": {"type": "list of text fields"},
+        "Severity": {"type": "list of text fields"},
+        "Frequency": {"options": ["daily", "everyHours", "everyDays"]},
+        "Deadline Date": {"type": "datetime"}
+    }
+}

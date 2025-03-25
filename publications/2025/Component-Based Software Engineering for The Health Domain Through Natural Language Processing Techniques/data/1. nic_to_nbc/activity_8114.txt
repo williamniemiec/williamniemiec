@@ -1,0 +1,32 @@
+Here is the output in JSON format:
+
+
+{
+  "Form": {
+    "Questions": {
+      "type": "list of question objects",
+      "properties": {
+        "question": {},
+        "answer type": {},
+        "options": {}
+      }
+    },
+    "Instructions": {
+      "type": "text"
+    },
+    "Submission": {
+      "type": "object",
+      "properties": {
+        "deadline": {
+          "type": "datetime"
+        },
+        "frequency": {
+          "type": "options"
+        }
+      }
+    }
+  }
+}
+
+
+Note: I removed the "Not Applicable" parameters as per your request. Let me know if you need anything else!

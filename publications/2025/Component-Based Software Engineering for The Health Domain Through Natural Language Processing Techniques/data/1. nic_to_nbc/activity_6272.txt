@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Independence Support": {
+    "Task Type": {"Type": "options", "Options": ["ADLs", "mobility", "medication management", "etc."]},
+    "Independence Level": {"Type": "scale", "Options": ["1-5", "where 1 is fully dependent and 5 is fully independent"]},
+    "Intervention Threshold": {"Type": "options", "Options": ["unable to start", "unable to complete", "shows signs of distress", "etc."]},
+    "Intervention Strategy": {"Type": "options", "Options": ["verbal guidance", "physical assistance", "demonstration", "etc."]}
+  }
+}

@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Lab Test Tracker": {
+    "Parameters": {
+      "Name": {},
+      "Electrolytes to Monitor": {},
+      "Frequency of Testing": {},
+      "Normal Ranges": {},
+      "Result Tracking": {},
+      "Alerts and Notifications": {},
+      "Deadline Date": {}
+    }
+  }
+}
+
+
+Note: I removed the "Resources" parameter as it's not applicable. Also, I didn't include the types of parameters in the output as per your request.

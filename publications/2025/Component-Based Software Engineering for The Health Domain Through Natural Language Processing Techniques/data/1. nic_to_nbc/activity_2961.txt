@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "task",
+    "parameters": [
+        {
+            "name": "Name",
+            "type": "text"
+        },
+        {
+            "name": "Content",
+            "type": "text"
+        },
+        {
+            "name": "Device",
+            "type": "options"
+        },
+        {
+            "name": "Frequency",
+            "type": "options"
+        },
+        {
+            "name": "Tips",
+            "type": "text"
+        }
+    ]
+}

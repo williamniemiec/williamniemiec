@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Basic Care Assistance": {
+    "Parameters": {
+      "Nutrition Assistance": {},
+      "Elimination Assistance": {},
+      "Hydration Assistance": {},
+      "Personal Hygiene Assistance": {},
+      "Frequency of Assistance": {},
+      "Notes": {}
+    }
+  }
+}

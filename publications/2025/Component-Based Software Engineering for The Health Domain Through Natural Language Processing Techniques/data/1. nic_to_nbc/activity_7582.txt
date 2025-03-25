@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+{
+  "name": "measurement",
+  "parameters": [
+    {
+      "name": "measurement_type",
+      "description": "Type of measurement"
+    },
+    {
+      "name": "unit",
+      "description": "Unit of measurement"
+    },
+    {
+      "name": "frequency",
+      "description": "How often to take the measurement"
+    },
+    {
+      "name": "deadline_date",
+      "description": "Due date for the measurement"
+    },
+    {
+      "name": "notes",
+      "description": "Additional notes or instructions"
+    }
+  ]
+}

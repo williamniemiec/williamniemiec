@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Restriction": {
+    "parameters": {
+      "name": {"type": "text"},
+      "message": {"type": "text", "example": "Do not operate a motor vehicle until you have been cleared to do so by your primary cardiologist, usually after a minimum of 3 months."},
+      "duration": {"type": "duration", "example": "3 months"},
+      "reason": {"type": "text", "example": "To ensure your safety and the safety of others while your pacemaker is adjusting to your body."},
+      "resources": {"type": "list", "options": ["Contact information for primary cardiologist", "Links to driving safety guidelines"]}
+    }
+  }
+}

@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Healthy Eating Guide": {
+    "Parameters": {
+      "Food Groups": {"Type": "options", "Options": ["fruits", "vegetables", "whole grains", "fat-free or low fat milk and milk products", "lean meats", "fish", "beans", "eggs"]},
+      "Food Recommendations": {"Type": "text"},
+      "Portion Sizes": {"Type": "text"},
+      "Meal Ideas": {"Type": "text"},
+      "Tips and Reminders": {"Type": "text"},
+      "Tracking": {"Type": "boolean"}
+    }
+  }
+}

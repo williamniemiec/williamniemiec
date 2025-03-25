@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "No-code Element Name": "Restraint Management",
+  "Parameters": {
+    "Indication": {"Type": "text"},
+    "Type of Restraint": {"Type": "options"},
+    "Application Instructions": {"Type": "text or video"},
+    "Monitoring Frequency": {"Type": "options"},
+    "Monitoring Parameters": {"Type": "list of parameters"},
+    "Release Criteria": {"Type": "text"}
+  }
+}

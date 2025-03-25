@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Breathing Instruction": {
+    "Parameters": {
+      "Breathing Instruction": {},
+      "Breathing Technique": {},
+      "Duration": {},
+      "Frequency": {}
+    }
+  }
+}
+
+
+I removed all unnecessary information and only kept the `{{ NO-CODE ELEMENT NAME }}` and `{{ PARAMETER ESPECIFICATIONS }}`. I also removed the not applicable parameters, which in this case was the `"Deadline Date"` parameter since it's not required.

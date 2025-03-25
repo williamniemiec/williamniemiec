@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "parameters": {
+    "Sibling's Name": {"type": "text", "required": true},
+    "Differences": {"type": "list of text", "required": true},
+    "Similarities": {"type": "list of text", "required": true},
+    "Reflection Prompt": {"type": "text", "required": true},
+    "Emotional Check-in": {"type": "options", "options": ["happy", "sad", "angry", "confused", "other"], "required": true},
+    "Frequency": {"type": "options", "options": ["daily", "weekly", "monthly"], "required": true}
+  },
+  "no-codeElementName": "Sibling Comparison"
+}
+
+
+Let me know if this is what you were expecting!

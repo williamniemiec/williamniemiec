@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Grounding Technique Guide": {
+    "parameters": {
+      "name": {"type": "text"},
+      "description": {"type": "text"},
+      "techniques": {"type": "text or multimedia"}
+    }
+  }
+}

@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Treatment Options": {
+    "parameters": [
+      { "name": "treatment_name", "description": "Treatment name", "required": true, "type": "text" },
+      { "name": "treatment_description", "description": "Treatment description", "required": true, "type": "text" },
+      { "name": "benefits", "description": "Benefits of the treatment", "required": true, "type": "text" },
+      { "name": "risks", "description": "Risks of the treatment", "required": true, "type": "text" }
+    ]
+  },
+  "Informed Consent": {
+    "parameters": [
+      { "name": "treatment_understanding", "description": "Do you understand the treatment?", "required": true, "type": "boolean" },
+      { "name": "consent", "description": "Do you consent to the treatment?", "required": true, "type": "boolean" }
+    ]
+  }
+}

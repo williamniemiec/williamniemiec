@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Blood Dissolution": {
+        "parameters": [
+            {"name": "Blood Presence", "type": "boolean"},
+            {"name": "Dissolution Method", "type": "options"},
+            {"name": "Dissolution Instructions", "type": "text"},
+            {"name": "Dissolution Images", "type": "image"},
+            {"name": "Dissolution Time", "type": "time"}
+        ]
+    }
+}

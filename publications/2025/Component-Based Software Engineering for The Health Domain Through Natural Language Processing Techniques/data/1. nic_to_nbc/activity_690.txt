@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Elimination Pattern Tracker",
+    "parameters": [
+        { 
+            "name": "Elimination Pattern Data", 
+            "type": "table or chart"
+        },
+        { 
+            "name": "Tracking Schedule", 
+            "type": "options"
+        },
+        { 
+            "name": "Alerts and Notifications", 
+            "type": "boolean"
+        },
+        { 
+            "name": "Pattern Analysis", 
+            "type": "text or multimedia"
+        },
+        { 
+            "name": "Resources", 
+            "type": "text or link"
+        }
+    ]
+}

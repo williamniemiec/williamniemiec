@@ -1,0 +1,10 @@
+{
+  "name": "Call Contact and Adapted Communication",
+  "description": "Focuses on adapting communication methods during phone calls, including the use of switches, puff devices, or sip devices for individuals with limited mobility or communication needs.",
+  "type": "non-periodic",
+  "input": ["Call", "Contact", "Phone", "Delegate", "Adapted switch", "Preferred caller", "Sip", "Puff"],
+  "output": ["Call report", "Adapted communication feedback", "Device status"],
+  "preconditions": ["User requires adapted communication tools for phone calls"],
+  "postconditions": ["Communication is facilitated through adapted methods"],
+  "dependencies": ["Communication devices", "Adapted switch systems"]
+}

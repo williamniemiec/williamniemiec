@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Workplace Support": {
+    "resource_type": {"type": "options"},
+    "content": {"type": "text or multimedia"},
+    "tips": {"type": "list of text"},
+    "example_letters": {"type": "text or document"},
+    "follow_up": {"type": "list of questions or scheduling interface"}
+  }
+}

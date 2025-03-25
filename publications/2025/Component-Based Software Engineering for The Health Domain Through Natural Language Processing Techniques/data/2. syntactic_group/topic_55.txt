@@ -1,0 +1,10 @@
+{
+  "name": "Risk Assessment and Injury Prevention",
+  "description": "Assesses risk factors for injury by evaluating various factors through scoring and questions. Identifies high and low risk levels to develop strategies for injury prevention.",
+  "type": "non-periodic",
+  "input": ["Risk factor details", "Assessment questions", "Scoring system", "Injury risk factors"],
+  "output": ["Risk assessment report", "Injury risk level identification", "Prevention strategy recommendations"],
+  "preconditions": ["User undergoes risk factor assessment for injury prevention"],
+  "postconditions": ["Risk level is identified, and preventive measures are implemented to reduce injury risk"],
+  "dependencies": ["Risk assessment system", "Scoring and evaluation tools", "Injury prevention protocols"]
+}

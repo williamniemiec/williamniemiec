@@ -1,0 +1,47 @@
+Here is the output in JSON format:
+
+
+{
+  "Injection Site Documenter": {
+    "parameters": {
+      "name": "Document area of injection and appearance of skin at injection site",
+      "content": "Document the injection site",
+      "type": "injection site documenter",
+      "injection_site_photo": [
+        { 
+          "name": "Take a photo", 
+          "description": "Take a photo of the injection site", 
+          "type": "camera"
+        }
+      ],
+      "injection_site_description": [
+        { 
+          "name": "Describe the injection site", 
+          "description": "Describe the appearance of the skin at the injection site", 
+          "type": "text"
+        }
+      ],
+      "skin_appearance": [
+        { 
+          "name": "Skin appearance", 
+          "description": "Select the appearance of the skin at the injection site", 
+          "type": "select",
+          "options": [
+            { value: "normal", label: "Normal" },
+            { value: "redness", label: "Redness" },
+            { value: "swelling", label: "Swelling" },
+            { value: "bruising", label: "Bruising" },
+            { value: "other", label: "Other" }
+          ]
+        }
+      ],
+      "notes": [
+        { 
+          "name": "Notes", 
+          "description": "Add any additional notes about the injection site", 
+          "type": "text"
+        }
+      ]
+    }
+  }
+}

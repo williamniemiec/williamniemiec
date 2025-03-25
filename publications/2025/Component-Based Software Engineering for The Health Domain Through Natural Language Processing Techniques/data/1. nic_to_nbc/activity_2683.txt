@@ -1,0 +1,16 @@
+
+
+
+{
+  "Feeling Exploration": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Description": {"Type": "text"},
+      "Hallucination Statement": {"Type": "text"},
+      "Feeling Identification": {"Type": "options", "Options": ["frightened", "anxious", "sad", "angry", "other"]},
+      "Empathetic Response": {"Type": "text"},
+      "Frequency": {"Type": "options", "Options": ["as needed", "daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"Type": "datetime"}
+    }
+  }
+}

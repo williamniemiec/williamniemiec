@@ -1,0 +1,42 @@
+Here is the output in JSON format:
+
+
+{
+  "Name": "IV Therapy Initiation",
+  "Parameters": {
+    "IV Therapy Type": {
+      "Description": "Specify the type of IV therapy",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        {"value": "fluidReplacement", "label": "Fluid Replacement"},
+        {"value": "medicationAdministration", "label": "Medication Administration"},
+        {"value": "nutritionSupport", "label": "Nutrition Support"},
+        {"value": "other", "label": "Other (please specify)"}
+      ]
+    },
+    "IV Solution": {
+      "Description": "Specify the type of IV solution",
+      "Required": true,
+      "Type": "text"
+    },
+    "Flow Rate": {
+      "Description": "Specify the flow rate of the IV therapy",
+      "Required": true,
+      "Type": "text"
+    },
+    "Duration": {
+      "Description": "Specify the duration of the IV therapy",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        {"value": "shortTerm", "label": "Short-term"},
+        {"value": "longTerm", "label": "Long-term"},
+        {"value": "other", "label": "Other (please specify)"}
+      ]
+    }
+  }
+}
+
+
+I removed the not applicable parameters, such as "Notes" since it's not required. Let me know if you need anything else!

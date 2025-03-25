@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+    "Pressure and Friction Monitoring": {
+        "Parameters": {
+            "Name": {"Type": "text"},
+            "Instructions": {"Type": "text"},
+            "Pressure Sources": {"Type": "options"},
+            "Friction Sources": {"Type": "options"},
+            "Affected Areas": {"Type": "options"},
+            "Photo": {"Type": "camera"},
+            "Frequency": {"Type": "options"},
+            "Deadline Date": {"Type": "datetime"},
+            "Notes": {"Type": "text"}
+        }
+    }
+}

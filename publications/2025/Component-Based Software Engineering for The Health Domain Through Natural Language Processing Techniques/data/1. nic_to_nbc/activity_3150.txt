@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Footboard Reminder": {
+    "Reminder Title": {},
+    "Message": {},
+    "Image": {},
+    "Instructions": {},
+    "Deadline Date": {}
+  }
+}

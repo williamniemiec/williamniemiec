@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "Personalized Meal Plan": {
+    "parameters": {
+      "Meal Plan Title": { "type": "text" },
+      "Meal Plan Description": { "type": "text" },
+      "Meal Items": { 
+        "type": "list of objects", 
+        "properties": {
+          "Food Name": { "type": "text" },
+          "Portion Size": { "type": ["text", "numeric"] },
+          "Frequency": { "type": ["text", "options"] }
+        }
+      },
+      "Patient Preferences": { 
+        "type": ["list of text", "options"] 
+      }
+    }
+  }
+}
+
+
+Note that I removed the "Shopping List" parameter since it's a boolean type and not applicable in this context.

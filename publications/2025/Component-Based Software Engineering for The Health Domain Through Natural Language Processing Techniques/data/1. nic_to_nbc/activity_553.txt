@@ -1,0 +1,15 @@
+
+
+
+{
+  "Delirium Therapy": {
+    "therapy_type": {
+      "Type": "options",
+      "Options": ["Pharmacological", "Non-pharmacological", "Environmental", "Other"]
+    },
+    "targeted_factor": {"Type": "text"},
+    "therapy_protocol": {"Type": "text"},
+    "monitoring_plan": {"Type": "text"},
+    "adjustment_criteria": {"Type": "text"}
+  }
+}

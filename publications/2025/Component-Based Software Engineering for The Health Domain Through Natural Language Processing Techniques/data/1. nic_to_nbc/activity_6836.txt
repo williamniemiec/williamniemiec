@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "confidential info portal": {
+    "Parameters": {
+      "Confidentiality Statement": {"Type": "text"},
+      "Contraceptive Information": {"Type": "list of resources with links or embedded content"},
+      "Secure Messaging": {"Type": "encrypted messaging system"},
+      "Anonymity Options": {"Type": "checkbox or toggle for anonymity"},
+      "Resources": {"Type": "list of resources with links or embedded content"}
+    }
+  }
+}
+
+
+I removed the `Frequency` and `Deadline Date` parameters as they are not applicable to this no-code element.

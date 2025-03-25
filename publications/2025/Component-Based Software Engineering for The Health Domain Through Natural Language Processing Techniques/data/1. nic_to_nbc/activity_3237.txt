@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Activity Achievements": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Activity": {"Type": "text"},
+      "Achievement Type": {"Type": "options"},
+      "Reward": {"Type": "text or image"},
+      "Message": {"Type": "text"},
+      "Unlock Date": {"Type": "date and time picker"}
+    }
+  }
+}

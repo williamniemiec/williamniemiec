@@ -1,0 +1,31 @@
+Here is the output in JSON format:
+
+
+{
+  "Food Diary": {
+    "name": "",
+    "entries": [
+      {
+        "date": "",
+        "meal_type": "",
+        "food_items": [],
+        "likes_dislikes": "",
+        "fast_food": false,
+        "missed_meal": false,
+        "hurried_eating": false,
+        "parent_child_interaction": false,
+        "frequency": "",
+        "length": ""
+      }
+    ]
+  },
+  "Question": {
+    "name": "",
+    "answer_type": "",
+    "options": [],
+    "frequency": ""
+  }
+}
+
+
+I removed all the unnecessary text and kept only the `{{ NO-CODE ELEMENT NAME }}` and `{{ PARAMETER ESPECIFICATIONS }}`. I also removed the "not applicable" parameters. Let me know if you need any further assistance!

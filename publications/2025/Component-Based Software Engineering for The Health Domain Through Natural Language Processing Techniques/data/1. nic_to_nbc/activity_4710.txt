@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Precaution Guide": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Content": {"Type": "rich text or multimedia"},
+      "Pages": {"Type": "list of HTML texts or multimedia content"},
+      "Frequency": {"Type": "options"},
+      "Deadline Date": {"Type": "datetime"}
+    }
+  }
+}

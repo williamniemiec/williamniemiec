@@ -1,0 +1,45 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Rapid Response Activation",
+  "parameters": [
+    {
+      "name": "Trigger Areas",
+      "type": "list",
+      "options": [
+        "change in vital signs",
+        "low or elevated heart rate",
+        "low or elevated blood pressure",
+        "difficulty breathing",
+        "low oxygen saturation despite increasing oxygen delivery",
+        "change in level of consciousness",
+        "repeated or prolonged seizures",
+        "chest pain",
+        "acute changes in mental status",
+        "when nurse or patient just feels something is wrong"
+      ]
+    },
+    {
+      "name": "Agency Protocol",
+      "type": "text"
+    },
+    {
+      "name": "Activation Criteria",
+      "type": "text"
+    },
+    {
+      "name": "Team Notification",
+      "type": "options",
+      "options": [
+        "phone",
+        "pager",
+        "email"
+      ]
+    },
+    {
+      "name": "Response Time",
+      "type": "text"
+    }
+  ]
+}

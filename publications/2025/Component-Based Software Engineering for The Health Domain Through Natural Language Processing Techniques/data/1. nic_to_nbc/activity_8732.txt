@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Message Verification Exercise": {
+    "Parameters": {
+      "Message": {"Type": "text"},
+      "Verification Methods": {"Type": "list of text"},
+      "Verification Attempt": {"Type": "text"},
+      "Reflection Questions": {"Type": "list of text"},
+      "Insight": {"Type": "text"}
+    }
+  }
+}

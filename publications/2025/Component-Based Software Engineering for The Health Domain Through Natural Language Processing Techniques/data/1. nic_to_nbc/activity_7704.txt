@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+  "Symptom Checker": {
+    "Parameters": {
+      "Symptoms": [
+        {"value": "hyperirritability", "label": "Feeling extremely irritable"},
+        {"value": "tetany", "label": "Muscle cramps or spasms"},
+        {"value": "muscularExcitability", "label": "Muscle twitching or stiffness"},
+        {"value": "slowRespirations", "label": "Breathing rate is slower than usual"},
+        {"value": "hypotension", "label": "Feeling dizzy or lightheaded due to low blood pressure"}
+      ],
+      "Frequency": {
+        "Options": ["daily", "everyHours", "everyDays"]
+      },
+      "Deadline Date": {
+        "Type": "datetime"
+      }
+    }
+  }
+}

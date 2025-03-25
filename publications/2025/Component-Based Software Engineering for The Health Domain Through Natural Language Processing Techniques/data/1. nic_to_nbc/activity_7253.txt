@@ -1,0 +1,51 @@
+Here is the output in JSON format:
+
+
+{
+  "Behavior Tracking": {
+    "parameters": [
+      "behavior type",
+      "frequency",
+      "deadline_date"
+    ]
+  },
+  "Reward System": {
+    "parameters": [
+      "reward type",
+      "behavior type",
+      "frequency",
+      "deadline_date"
+    ]
+  },
+  "Positive Feedback": {
+    "parameters": [
+      "feedback type",
+      "behavior type",
+      "frequency",
+      "deadline_date"
+    ]
+  },
+  "Goal Setting": {
+    "parameters": [
+      "goal type",
+      "target",
+      "deadline_date"
+    ]
+  },
+  "Progress Monitoring": {
+    "parameters": [
+      "progress type",
+      "goal type",
+      "frequency",
+      "deadline_date"
+    ]
+  },
+  "Caregiver Involvement": {
+    "parameters": [
+      "caregiver type",
+      "involvement type",
+      "frequency",
+      "deadline_date"
+    ]
+  }
+}

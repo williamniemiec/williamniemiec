@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Body Composition Tracker": {
+    "Measurement Type": "",
+    "Unit of Measurement": "",
+    "Frequency": ["daily", "weekly", "biweekly", "monthly"],
+    "Measurement Method": "",
+    "Target Range": ""
+  }
+}

@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Environmental Adjustment": {
+    "Action": {"Type": "text"},
+    "Reason": {"Type": "text"},
+    "Frequency": {"Type": "options"},
+    "Notes": {"Type": "text"}
+  }
+}

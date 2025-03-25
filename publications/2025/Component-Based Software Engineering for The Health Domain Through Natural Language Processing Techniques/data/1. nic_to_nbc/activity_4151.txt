@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "Care Task": {
+    "Task Description": {"type": "text"},
+    "Task Frequency": {"type": "options", "values": ["daily", "weekly", "as needed"]},
+    "Task Responsibility": {"type": "options", "values": ["family member", "healthcare professional"]}
+  },
+  "Care Plan": {
+    "Plan Description": {"type": "text"},
+    "Plan Tasks": {"type": "list of tasks"},
+    "Plan Responsibilities": {"type": "list of responsibilities"}
+  },
+  "Education and Training": {
+    "Education Topic": {"type": "text"},
+    "Education Format": {"type": "options", "values": ["video", "written instructions", "in-person training"]},
+    "Education Provider": {"type": "options", "values": ["healthcare professional", "family member"]}
+  },
+  "Support System": {
+    "Support Type": {"type": "options", "values": ["emotional support", "physical support"]},
+    "Support Provider": {"type": "options", "values": ["healthcare professional", "family member", "support group"]}
+  }
+}

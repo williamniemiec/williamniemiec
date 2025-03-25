@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Tourniquet Application Guide": {
+    "Parameters": {
+      "Name": {"type": "text", "required": true},
+      "Protocol instructions": {"type": "text or html", "required": true},
+      "Image or video demonstrations": {"type": "list of image or video URLs", "optional": true},
+      "Allergen point of entry identification": {"type": "options", "required": true},
+      "Tourniquet application instructions": {"type": "text or html", "required": true}
+    }
+  }
+}

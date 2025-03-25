@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Reflection Questionnaire": {
+    "parameters": [
+      {
+        "name": "questions",
+        "description": "list of questions to help the patient reflect on their relationships"
+      },
+      {
+        "name": "frequency",
+        "description": "specify how often the questionnaire should be completed"
+      },
+      {
+        "name": "deadline_date",
+        "description": "specify the due date for completing the questionnaire"
+      }
+    ]
+  }
+}

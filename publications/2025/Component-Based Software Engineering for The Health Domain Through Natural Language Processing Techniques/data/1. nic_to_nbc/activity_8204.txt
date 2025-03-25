@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+    "Staff Confidence Reinforcement": {
+        "staff_member": {
+            "name": "",
+            "title": "",
+            "specialty": ""
+        },
+        "confidence_message": "",
+        "additional_info": "",
+        "notes": ""
+    }
+}

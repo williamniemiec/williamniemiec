@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Delegate Call": {
+    "Call Criteria": {"Type": "conditional logic (e.g. if-then statements)"},
+    "Delegate Instructions": {"Type": "text"},
+    "Delegate Contact": {"Type": "text (e.g. phone number, name)"},
+    "Call Script": {"Type": "text"}
+  }
+}

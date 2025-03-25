@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Pretreatment History": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Description": {"Type": "text"},
+      "Medical History": {"Type": "text"},
+      "Surgical History": {"Type": "text"},
+      "Family History": {"Type": "text"},
+      "Social History": {"Type": "text"},
+      "Medication List": {"Type": "list (of medications)"},
+      "Allergies": {"Type": "list (of allergies)"},
+      "Notes": {"Type": "text"}
+    }
+  }
+}

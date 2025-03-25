@@ -1,0 +1,49 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Positive Feedback",
+    "parameters": [
+        {
+            "name": "Step",
+            "description": "A parameter that specifies the step that has been completed.",
+            "required": true,
+            "type": "text"
+        },
+        {
+            "name": "Feedback Message",
+            "description": "A parameter that specifies the positive feedback message to be displayed.",
+            "required": true,
+            "type": "text"
+        },
+        {
+            "name": "Frequency",
+            "description": "A parameter that specifies how often the positive feedback prompt should be displayed.",
+            "required": true,
+            "type": "options",
+            "options": [
+                { value: "daily", label: "Daily" },
+                { value: "onlyOnce", label: "Only once" },
+                { value: "everyHours", label: "Every x hours" },
+                { value: "everyDays", label: "Every x days" }
+            ]
+        },
+        {
+            "name": "Deadline Date",
+            "description": "A parameter that specifies the due date for the positive feedback prompt.",
+            "required": false,
+            "type": "datetime"
+        },
+        {
+            "name": "Feedback Type",
+            "description": "A parameter that specifies the type of feedback to be provided (e.g. verbal, written, visual).",
+            "required": true,
+            "type": "options",
+            "options": [
+                { value: "verbal", label: "Verbal" },
+                { value: "written", label: "Written" },
+                { value: "visual", label: "Visual" }
+            ]
+        }
+    ]
+}

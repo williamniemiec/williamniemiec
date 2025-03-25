@@ -1,0 +1,32 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Group Reflection",
+  "parameters": [
+    {
+      "name": "Member Leaving",
+      "type": "selection from a list of group members"
+    },
+    {
+      "name": "Reason for Leaving",
+      "type": "text or selection from a list of reasons"
+    },
+    {
+      "name": "Group History",
+      "type": "text or list of events"
+    },
+    {
+      "name": "Member's Relationship",
+      "type": "text or list of relationships"
+    },
+    {
+      "name": "Reflection Questions",
+      "type": "list of questions"
+    },
+    {
+      "name": "Reflection Notes",
+      "type": "text or list of notes"
+    }
+  ]
+}

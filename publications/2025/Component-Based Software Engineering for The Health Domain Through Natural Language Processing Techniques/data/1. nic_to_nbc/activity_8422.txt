@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Orientation Guide": {
+        "parameters": {
+            "name": "",
+            "content": [],
+            "type": "",
+            "deadline_date": ""
+        }
+    }
+}

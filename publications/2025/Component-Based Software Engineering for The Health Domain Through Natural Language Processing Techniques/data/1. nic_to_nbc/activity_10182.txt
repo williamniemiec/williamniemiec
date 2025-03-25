@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Patient Positioning Assessment": {
+    "Current Position": {"Type": "options", "Required": true},
+    "Head of Bed Elevation": {"Type": "number", "Required": true},
+    "Body Alignment": {"Type": "options", "Required": true},
+    "Diaphragmatic Descent": {"Type": "options", "Required": true},
+    "Ventilatory Muscle Use": {"Type": "options", "Required": true},
+    "Notes": {"Type": "text", "Required": false}
+  }
+}

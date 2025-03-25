@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Relocation Discussion": {
+    "parameters": {
+      "Relocation Reason": {"type": "categorical"},
+      "Relocation Options": {"type": "list"},
+      "Patient/Family Concerns": {"type": "text"},
+      "Healthcare Provider Recommendations": {"type": "text"},
+      "Decision": {"type": "categorical"},
+      "Additional Notes": {"type": "text"}
+    }
+  }
+}
+
+
+Note that I removed the `Date and Time` parameter as it is not applicable (it's automatically recorded, so it doesn't need to be specified). Let me know if you have any further questions!

@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+    "Pelvis Positioning Guide": {
+        "Tutorial/Video Content": {
+            "Type": "interactive tutorial or video",
+            "Content": "[embed interactive tutorial or video content]"
+        },
+        "Pelvis Position Check": {
+            "Type": "boolean",
+            "Options": ["true/false"]
+        },
+        "Frequency": {
+            "Type": "options",
+            "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+        }
+    }
+}
+
+
+Note: I removed the `Deadline Date` parameter as it was marked as "datetime" which is not applicable in this context.

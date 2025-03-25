@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Interpretation Replacer": {
+        "Stressful Situation": {"type": "text"},
+        "Faulty Interpretation": {"type": "text"},
+        "Reality-Based Interpretation": {"type": "text"},
+        "Evidence": {"type": "text"},
+        "Confidence Level": {"type": "number"},
+        "Frequency": {"options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+        "Deadline Date": {"type": "datetime"}
+    }
+}

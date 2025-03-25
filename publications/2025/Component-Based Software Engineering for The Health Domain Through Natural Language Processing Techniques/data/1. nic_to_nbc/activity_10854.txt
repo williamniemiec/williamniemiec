@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Agency Information Request": {
+    "Parameters": {
+      "Agency Selection": {"Type": "list of agencies"},
+      "Information Request": {"Type": "list of information types"},
+      "Message": {"Type": "text"},
+      "Submission": {"Type": "button or link"},
+      "Response Tracking": {"Type": "notification system"}
+    }
+  }
+}

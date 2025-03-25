@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+    "Hydration Reminder": {
+        "Fluid Type": {"Type": "options"},
+        "Amount": {"Type": "text"},
+        "Frequency": {"Type": "options"},
+        "Deadline Date": {"Type": "datetime"},
+        "Notes": {"Type": "text"}
+    }
+}

@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Scar Annotation": {
+    "Body Diagram": {},
+    "Scar Location": {},
+    "Scar Orientation": {},
+    "Scar Description": {},
+    "Scar Size": {}
+  }
+}

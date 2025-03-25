@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Pass Information": {
+    "Parameters": {
+      "Pass Type": {"Type": "list of options"},
+      "Length of Time": {"Type": "duration"},
+      "Restrictions": {"Type": "text"},
+      "Rules": {"Type": "text"},
+      "Emergency Contact": {"Type": "text"}
+    }
+  }
+}

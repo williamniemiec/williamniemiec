@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Clothing Guidance": {
+        "parameters": {
+            "name": "",
+            "why": "",
+            "what_to_avoid": [],
+            "recommended_alternatives": [],
+            "notes": ""
+        }
+    }
+}

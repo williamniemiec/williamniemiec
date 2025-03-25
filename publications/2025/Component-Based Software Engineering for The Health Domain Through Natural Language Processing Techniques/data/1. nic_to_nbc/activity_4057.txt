@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Nutrition Education",
+    "parameters": [
+        {
+            "name": "Food Category"
+        },
+        {
+            "name": "Budget"
+        },
+        {
+            "name": "Shopping Tips"
+        },
+        {
+            "name": "Recipe Ideas"
+        }
+    ]
+}

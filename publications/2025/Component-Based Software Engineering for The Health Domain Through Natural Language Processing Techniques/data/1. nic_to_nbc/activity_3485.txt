@@ -1,0 +1,10 @@
+Here is the output in JSON format:
+
+
+{
+  "Care Team": {
+    "Care Team Members": {"type": "list of profiles"},
+    "Roles and Responsibilities": {"type": "text"},
+    "Communication Channels": {"type": "text"}
+  }
+}

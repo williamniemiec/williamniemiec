@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Safety Education": {
+    "Parameters": {
+      "Title": {"Type": "text"},
+      "Stranger Danger Content": {"Type": ["article", "video"]},
+      "Good Touch/Bad Touch Content": {"Type": ["article", "video"]},
+      "Instructions for Parents/Caregivers": {"Type": "text"},
+      "Quizzes or Activities": {"Type": "interactive content"},
+      "Frequency": {"Type": ["once", "daily", "weekly"]},
+      "Deadline Date": {"Type": "datetime"}
+    }
+  }
+}

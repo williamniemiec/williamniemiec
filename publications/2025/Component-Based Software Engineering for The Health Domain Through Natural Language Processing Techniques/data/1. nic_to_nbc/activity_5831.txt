@@ -1,0 +1,33 @@
+Here is the output in JSON format:
+
+
+{
+  "Family Question Hub": {
+    "Parameters": {
+      "Question Submission": [
+        "Online form",
+        "Phone call",
+        "In-person meeting"
+      ],
+      "Answer Provision": [
+        "Written response",
+        "Phone call",
+        "Video conference"
+      ],
+      "Knowledge Base": [
+        "Online resource library",
+        "FAQ database"
+      ],
+      "Expert Consultation": [
+        "Healthcare professionals",
+        "Social workers",
+        "Counselors"
+      ],
+      "Follow-up": [
+        "Scheduled check-ins",
+        "Follow-up phone calls",
+        "Email follow-up"
+      ]
+    }
+  }
+}

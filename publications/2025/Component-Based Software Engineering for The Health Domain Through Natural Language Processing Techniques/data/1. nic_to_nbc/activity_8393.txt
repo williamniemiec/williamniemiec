@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Simulation": {
+    "Parameters": {
+      "Title": {"Type": "text"},
+      "Scenario": {"Type": "text"},
+      "Instructions": {"Type": "text"},
+      "Questions": {"Type": "list of questions"},
+      "Feedback": {"Type": "text or multimedia"}
+    }
+  }
+}

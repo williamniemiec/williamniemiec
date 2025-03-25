@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Comfort Preparation": {
+    "Parameters": {
+      "Comfort Checklist": {
+        "Type": "checklist or questionnaire"
+      },
+      "Preparation Guide": {}
+    }
+  }
+}

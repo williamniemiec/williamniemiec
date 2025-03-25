@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+    "Cast Care Instructions": {
+        "Instructions": {"type": "text or PDF"},
+        "Frequency": {"type": "options"},
+        "Deadline Date": {"type": "datetime"},
+        "Notes": {"type": "text"}
+    }
+}

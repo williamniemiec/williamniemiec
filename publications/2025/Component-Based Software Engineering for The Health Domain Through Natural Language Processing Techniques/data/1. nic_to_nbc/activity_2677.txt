@@ -1,0 +1,14 @@
+
+
+
+{
+  "Aromatherapy Response Tracker": {
+    "parameters": [
+      {"Physiological Response": {"type": "options"}},
+      {"Measurement Unit": {"type": "text"}},
+      {"Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]}},
+      {"Deadline Date": {"type": "datetime"}},
+      {"Notes": {"type": "text"}}
+    ]
+  }
+}

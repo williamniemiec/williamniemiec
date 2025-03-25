@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Line Securement": {
+    "Parameters": {
+      "Line Type": {"Type": "text or options"},
+      "Securement Instructions": {"Type": "text or multimedia"},
+      "Tape Type": {"Type": "text or options"},
+      "Securement Frequency": {"Type": "text or options"},
+      "Line Integrity Assessment": {"Type": "text or options"},
+      "Securement Confirmation": {"Type": "boolean"}
+    }
+  }
+}

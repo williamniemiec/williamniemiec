@@ -1,0 +1,30 @@
+Here is the output in JSON format:
+
+
+{
+  "No-code element name": "Developmental Guidance",
+  "Parameters": {
+    "Developmental Guidance Title": {
+      "Description": "Title of the developmental guidance activity",
+      "Required": true,
+      "Type": "text"
+    },
+    "Developmental Stage": {
+      "Description": "Select the developmental stage to provide guidance on (e.g., infant, toddler, adolescent)",
+      "Required": true,
+      "Type": "options",
+      "Options": ["infant", "toddler", "adolescent"]
+    },
+    "Guidance Content": {
+      "Description": "Provide information on normal development and behavior for the selected stage",
+      "Required": true,
+      "Type": "text"
+    },
+    "Frequency": {
+      "Description": "Specify how often the patient should review the developmental guidance",
+      "Required": true,
+      "Type": "options",
+      "Options": ["daily", "weekly", "monthly"]
+    }
+  }
+}

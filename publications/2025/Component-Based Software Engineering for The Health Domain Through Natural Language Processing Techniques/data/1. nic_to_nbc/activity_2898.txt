@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Tolerance Monitoring": {
+    "Rating Scale": {"type": "rating scale (e.g. 1-10, 😊-😕)"},
+    "Symptom Checklist": {"type": "checklist of symptoms"},
+    "Frequency of Monitoring": {"type": "text or numerical input (e.g. daily, weekly)"},
+    "Tracking Instructions": {"type": "text or HTML content"}
+  },
+  "Symptom Tracker": {
+    "Symptom List": {"type": "list of symptoms"},
+    "Tracking Interface": {"type": "tracking interface (e.g. grid, chart)"},
+    "Data Visualization": {"type": "data visualization (e.g. graph, chart)"}
+  },
+  "Alert System": {
+    "Threshold Value": {"type": "numerical value or symptom"},
+    "Alert Message": {"type": "text or HTML content"},
+    "Alert Frequency": {"type": "text or numerical input (e.g. daily, weekly)"}
+  }
+}

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Policy Acknowledgement": {
+    "Parameters": {
+      "Policy Document": {"Type": "text or PDF document"},
+      "Policy Summary": {"Type": "text"},
+      "Acknowledgement Method": {"Options": ["electronicSignature", "checkbox", "other"]},
+      "Frequency": {"Options": ["atEachVisit", "annually", "other"]},
+      "Deadline Date": {"Type": "datetime"}
+    }
+  }
+}

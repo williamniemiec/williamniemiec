@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Substance Use Monitor": {
+    "parameters": [
+      {"name": "Name", "type": "text"},
+      {"name": "Monitoring Methods", "type": "options", "options": ["Urine Screens", "Breath Analysis", "Self-Report"]},
+      {"name": "Frequency", "type": "options", "options": ["Daily", "3 times a week", "Weekly"]},
+      {"name": "Results", "type": "text"},
+      {"name": "Alerts", "type": "alert"},
+      {"name": "Education", "type": "education-resource"}
+    ]
+  }
+}

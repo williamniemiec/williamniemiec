@@ -1,0 +1,31 @@
+Here is the output in JSON format:
+
+
+{
+  "Noise Reduction": {
+    "Parameters": {
+      "Noise Source": {
+        "Type": "options",
+        "Options": ["Visitors", "Equipment noise (e.g., machines, alarms)", "Background noise (e.g., TV, radio)", "Other"]
+      },
+      "Reduction Method": {
+        "Type": "options",
+        "Options": ["Limiting visitors", "Turning off or reducing equipment noise", "Using noise-cancelling headphones or earplugs", "Creating a quiet room or area", "Other"]
+      },
+      "Frequency": {
+        "Type": "options",
+        "Options": ["Always", "During specific times of the day", "When patient is resting or sleeping"]
+      },
+      "Customization": {
+        "Type": "text"
+      },
+      "Emotional Distress Level": {
+        "Type": "options",
+        "Options": ["Mild", "Moderate", "Severe"]
+      }
+    }
+  }
+}
+
+
+Note: I removed the `Deadline Date` parameter as it is a datetime type, which is not applicable in this context.

@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Tube Feeding Adjustment": {
+        "Parameters": {
+            "Tube Feeding Adjustment": {},
+            "Current Rate": {},
+            "Current Strength": {},
+            "Reason": {}
+        }
+    }
+}

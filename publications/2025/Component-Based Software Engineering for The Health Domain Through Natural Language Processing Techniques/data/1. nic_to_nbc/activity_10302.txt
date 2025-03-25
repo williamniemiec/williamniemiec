@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Healthcare Explanation": {
+        "Parameters": {
+            "Healthcare Needs": {},
+            "Benefits of Continuing Care": {},
+            "Care Options": {},
+            "Family Member Questions": {},
+            "Resources for Continuing Care": {}
+        }
+    }
+}

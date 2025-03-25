@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+  "Appearance Assessment": {
+    "Parameters": [
+      {"Name": "Appearance Satisfaction", "Type": "scale"}
+    ]
+  },
+  "Goal Setting": {
+    "Parameters": [
+      {"Name": "Goal Description", "Type": "text"},
+      {"Name": "Goal Priority", "Type": "scale"}
+    ]
+  },
+  "Action Planner": {
+    "Parameters": [
+      {"Name": "Action Options", "Type": "list of options with descriptions and images"},
+      {"Name": "Action Selection", "Type": "selection from a list of options"}
+    ]
+  },
+  "Personalized Plan": {
+    "Parameters": [
+      {"Name": "Personalized Actions", "Type": "list of actions with descriptions and images"},
+      {"Name": "Action Schedule", "Type": "calendar or scheduling tool"}
+    ]
+  }
+}

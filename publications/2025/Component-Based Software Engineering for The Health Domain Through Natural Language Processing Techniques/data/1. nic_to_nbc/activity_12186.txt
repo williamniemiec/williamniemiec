@@ -1,0 +1,20 @@
+
+
+
+{
+    "Instruction": {
+        "Parameters": {
+            "Title": {"Type": "text"},
+            "Content": {"Type": "text"},
+            "Reason": {"Type": "text"},
+            "Alternatives": {"Type": "list", "List": "list of text"}
+        }
+    },
+    "Tip": {
+        "Parameters": {
+            "Title": {"Type": "text"},
+            "Content": {"Type": "text"},
+            "Icon": {"Type": "image"}
+        }
+    }
+}

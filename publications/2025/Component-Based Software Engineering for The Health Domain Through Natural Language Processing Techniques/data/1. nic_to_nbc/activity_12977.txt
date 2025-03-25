@@ -1,0 +1,39 @@
+Here is the output in JSON format:
+
+
+{
+  "Sensory Play Activity Name": {
+    "Description": "Name of the sensory play activity (e.g. Bang Toys Together)",
+    "Required": true,
+    "Type": "text"
+  },
+  "Instructions": {
+    "Description": "Step-by-step instructions for the sensory play activity",
+    "Required": true,
+    "Type": "text or illustrated guide"
+  },
+  "Frequency": {
+    "Description": "How often the sensory play activity should be performed",
+    "Required": true,
+    "Type": "options",
+    "Options": ["daily", "everyOtherDay", "threeTimesAWeek", "etc."]
+  },
+  "Toy Suggestions": {
+    "Description": "List of toys that can be used for the sensory play activity",
+    "Required": false,
+    "Type": "list of text"
+  },
+  "Tips": {
+    "Description": "Additional tips or suggestions for the sensory play activity",
+    "Required": false,
+    "Type": "text"
+  },
+  "Deadline Date": {
+    "Description": "Deadline for completing the sensory play activity",
+    "Required": false,
+    "Type": "datetime"
+  }
+}
+
+
+Note that I removed the "Name" field as it's not part of the `PARAMETER ESPECIFICATIONS` section. Let me know if you need anything else!

@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Knowledge Assessment": {
+    "Parameters": {
+      "Medication Name": {
+        "Type": "text"
+      },
+      "Knowledge Questions": {
+        "Type": "ordered list",
+        "Options": "list of questions with answer options"
+      },
+      "Administration Instructions": {
+        "Type": "text"
+      },
+      "Understanding Questions": {
+        "Type": "ordered list",
+        "Options": "list of questions with answer options"
+      }
+    }
+  }
+}

@@ -1,0 +1,31 @@
+Here is the output in JSON format:
+
+
+{
+    "Blood Pressure Monitoring": {
+        "parameters": {
+            "Blood Pressure Entry": {"type": "number"},
+            "Blood Pressure Goal": {"type": "number"},
+            "Blood Pressure Tracking Schedule": {"type": "list of datetime"},
+            "Blood Pressure Chart": {"type": "multimedia"},
+            "Alerts": {"type": "boolean"}
+        }
+    },
+    "Edema Monitoring": {
+        "parameters": {
+            "Edema Assessment": {"type": "rating scale"},
+            "Edema Tracking Schedule": {"type": "list of datetime"},
+            "Edema Chart": {"type": "multimedia"},
+            "Alerts": {"type": "boolean"}
+        }
+    },
+    "Proteinuria Monitoring": {
+        "parameters": {
+            "Proteinuria Test Results": {"type": "number"},
+            "Proteinuria Goal": {"type": "number"},
+            "Proteinuria Tracking Schedule": {"type": "list of datetime"},
+            "Proteinuria Chart": {"type": "multimedia"},
+            "Alerts": {"type": "boolean"}
+        }
+    }
+}

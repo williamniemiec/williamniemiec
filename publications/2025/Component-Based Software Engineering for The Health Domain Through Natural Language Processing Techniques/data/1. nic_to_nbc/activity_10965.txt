@@ -1,0 +1,11 @@
+
+
+
+{
+  "Distraction Tool": {
+    "Trigger": {"type": "options", "required": true},
+    "Distraction Options": {"type": "unordered list", "required": true},
+    "Customization": {"type": "options", "required": false},
+    "Duration": {"type": "duration", "required": true}
+  }
+}

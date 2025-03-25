@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+    "Notification": {
+        "Parameters": {
+            "Notification Type": {"Type": "options"},
+            "Recipient": {"Type": "options"},
+            "Message": {"Type": "text"},
+            "Urgency Level": {"Type": "options"}
+        }
+    },
+    "Vital Sign Tracking": {
+        "Parameters": {
+            "Vital Signs": {"Type": "options"},
+            "Frequency": {"Options": ["daily", "everyHours", "everyDays"]},
+            "Thresholds": {"Type": "text"}
+        }
+    },
+    "Recovery Progress Tracking": {
+        "Parameters": {
+            "Recovery Metrics": {"Type": "options"},
+            "Frequency": {"Options": ["daily", "everyHours", "everyDays"]},
+            "Thresholds": {"Type": "text"}
+        }
+    }
+}

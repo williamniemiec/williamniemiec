@@ -1,0 +1,36 @@
+Here is the output in JSON format:
+
+
+{
+  "Lung Sound Assessment": {
+    "parameters": [
+      {
+        "name": "lung_sounds",
+        "description": "Do you have any abnormal lung sounds?",
+        "required": true,
+        "type": "options",
+        "options": [
+          { "value": "yes", "label": "Yes" },
+          { "value": "no", "label": "No" }
+        ]
+      },
+      {
+        "name": "sound_description",
+        "description": "Describe the abnormal lung sound (if yes)",
+        "required": false,
+        "type": "text"
+      },
+      {
+        "name": "sound_location",
+        "description": "Where do you hear the abnormal lung sound (if yes)?",
+        "required": false,
+        "type": "options",
+        "options": [
+          { "value": "left_lung", "label": "Left lung" },
+          { "value": "right_lung", "label": "Right lung" },
+          { "value": "both_lungs", "label": "Both lungs" }
+        ]
+      }
+    ]
+  }
+}

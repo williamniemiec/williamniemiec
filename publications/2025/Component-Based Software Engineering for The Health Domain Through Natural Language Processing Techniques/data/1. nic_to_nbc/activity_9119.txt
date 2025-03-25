@@ -1,0 +1,31 @@
+Here is the output in JSON format:
+
+
+{
+  "Trauma Response Education": {
+    "name": "title of the trauma response education resource",
+    "content": "educational content about how children respond to trauma",
+    "format": "format of the educational content (e.g., video, article, infographic, etc.)",
+    "frequency": "how often the parent should access the educational resource",
+    "deadline_date": "the due date for the parent to access the educational resource",
+    "content_type": "educational resource"
+  },
+  "Therapy Process Education": {
+    "name": "title of the therapy process education resource",
+    "content": "educational content about the process of therapy for children",
+    "format": "format of the educational content (e.g., video, article, infographic, etc.)",
+    "frequency": "how often the parent should access the educational resource",
+    "deadline_date": "the due date for the parent to access the educational resource",
+    "content_type": "educational resource"
+  },
+  "Q&A Forum": {
+    "name": "title of the Q&A forum",
+    "question_type": "type of question to ask (e.g., open-ended, multiple-choice, etc.)",
+    "answer_type": "type of answer to provide (e.g., text, video, etc.)",
+    "frequency": "how often the parent should access the Q&A forum",
+    "deadline_date": "the due date for the parent to access the Q&A forum",
+    "content_type": "interactive forum"
+  }
+}
+
+I removed all unnecessary elements and only kept the `PARAMETER ESPECIFICATIONS` and `NO-CODE ELEMENT NAME`. I also formatted it as a JSON object, where each no-code element is a key, and its parameters are nested objects. Let me know if you need any further modifications!

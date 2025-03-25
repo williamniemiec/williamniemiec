@@ -1,0 +1,31 @@
+Here is the output in JSON format:
+
+
+{
+  "Knee Clearance Check": {
+    "parameters": {
+      "Photo/Measurement Instructions": {
+        "type": "text"
+      },
+      "Clearance Measurement": {
+        "type": "numeric",
+        "unit": "inches",
+        "range": "2-3 inches"
+      },
+      "Clearance Check": {
+        "type": "boolean",
+        "options": ["true/false"]
+      },
+      "Adjustment Guidance": {
+        "type": "text"
+      },
+      "Frequency": {
+        "type": "options",
+        "options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+      }
+    }
+  }
+}
+
+
+Note: I removed the `Deadline Date` parameter since it's not applicable in this context. Let me know if you need any further assistance!

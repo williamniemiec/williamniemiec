@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Cognitive Assessment": {
+    "assessment_tool": {"type": "options"},
+    "assessment_questions": {"type": "list of questions or tasks"},
+    "patient_responses": {"type": "form with response fields"},
+    "scoring_and_interpretation": {"type": "algorithm or formula"},
+    "results_and_recommendations": {"type": "report or summary"}
+  }
+}
+
+
+Let me know if this is what you were looking for!

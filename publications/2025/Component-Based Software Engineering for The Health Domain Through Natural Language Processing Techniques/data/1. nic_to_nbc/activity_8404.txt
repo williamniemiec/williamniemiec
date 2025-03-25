@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+    "Clothing Reminder": {
+        "Name": {"type": "text"},
+        "Content": {"type": "text"},
+        "Frequency": {"options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+        "Deadline Date": {"type": "datetime"}
+    }
+}

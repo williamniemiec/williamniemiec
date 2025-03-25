@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Intake and Output Graph": {
+    "Data Source": {"Type": "options"},
+    "Graph Type": {"Type": "options"},
+    "Time Period": {"Type": "options"}
+  },
+  "Audit Tool": {
+    "Audit Criteria": {"Type": "options"},
+    "Audit Frequency": {"Type": "options"},
+    "Audit Results": {"Type": "text or table"}
+  }
+}
+
+
+Let me know if you need any further assistance!

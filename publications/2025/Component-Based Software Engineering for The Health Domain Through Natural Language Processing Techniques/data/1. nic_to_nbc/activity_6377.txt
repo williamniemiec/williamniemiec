@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+    "Guide": {
+        "parameters": {
+            "name": "Heat Exhaustion: Signs and Emergency Treatment",
+            "pages": "list of HTML texts explaining the indications of heat exhaustion and appropriate emergency treatment"
+        }
+    },
+    "Question": {
+        "parameters": {
+            "name": "Heat Exhaustion and Emergency Treatment",
+            "answer type": "text or multiple choice",
+            "content": "What do you know about the signs of heat exhaustion and what to do in case of an emergency?"
+        }
+    }
+}

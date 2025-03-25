@@ -1,0 +1,62 @@
+Here is the output in JSON format:
+
+
+{
+  "Stool Tracker": {
+    "Parameters": {
+      "Stool Record": {
+        "Type": "Stool Record",
+        "Fields": {
+          "Color": {
+            "Type": "Options",
+            "Options": [
+              { "value": "brown", "label": "Brown" },
+              { "value": "green", "label": "Green" },
+              { "value": "yellow", "label": "Yellow" },
+              { "value": "black", "label": "Black" },
+              { "value": "red", "label": "Red" },
+              { "value": "other", "label": "Other (please specify)" }
+            ]
+          },
+          "Volume": {
+            "Type": "Options",
+            "Options": [
+              { "value": "small", "label": "Small" },
+              { "value": "medium", "label": "Medium" },
+              { "value": "large", "label": "Large" }
+            ]
+          },
+          "Frequency": {
+            "Type": "Options",
+            "Options": [
+              { "value": "onceADay", "label": "Once a day" },
+              { "value": "twiceADay", "label": "Twice a day" },
+              { "value": "threeTimesADay", "label": "Three times a day" },
+              { "value": "other", "label": "Other (please specify)" }
+            ]
+          },
+          "Consistency": {
+            "Type": "Options",
+            "Options": [
+              { "value": "hard", "label": "Hard" },
+              { "value": "soft", "label": "Soft" },
+              { "value": "watery", "label": "Watery" },
+              { "value": "other", "label": "Other (please specify)" }
+            ]
+          }
+        }
+      },
+      "Frequency": {
+        "Type": "Options",
+        "Options": [
+          { "value": "daily", "label": "Daily" },
+          { "value": "everyOtherDay", "label": "Every other day" },
+          { "value": "weekly", "label": "Weekly" }
+        ]
+      }
+    }
+  }
+}
+
+
+I removed the introduction, conclusion, and non-parameter elements from the input text. I also removed the `Deadline Date` parameter since it was marked as not required. The output is a JSON object with the no-code element name (`Stool Tracker`) as the top-level key, and its parameters as nested objects.

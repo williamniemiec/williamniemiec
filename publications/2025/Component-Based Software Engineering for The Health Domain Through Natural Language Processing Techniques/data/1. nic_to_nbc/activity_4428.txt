@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+    "Diarrhea Symptom Monitoring": {
+        "parameters": [
+            {"Name": {"type": "text"}},
+            {"Frequency": {"type": "options", "options": ["daily", "everyHours", "everyDays"]}},
+            {"Deadline Date": {"type": "datetime"}},
+            {"Diarrhea Symptoms": {"type": "options", "options": ["yes", "no"]}},
+            {"Symptom Duration": {"type": "text"}},
+            {"Consult Physician": {"type": "boolean"}},
+            {"Additional Notes": {"type": "text"}}
+        ]
+    }
+}

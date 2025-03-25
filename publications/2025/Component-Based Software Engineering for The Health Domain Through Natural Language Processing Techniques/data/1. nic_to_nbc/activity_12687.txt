@@ -1,0 +1,10 @@
+Here is the output in JSON format:
+
+
+{
+  "Patient Turning": {
+    "Task Title": {},
+    "Instructions": {},
+    "Turning Frequency": {}
+  }
+}

@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Autonomic Dysreflexia Monitoring": {
+    "Parameters": {
+      "Symptom Checklist": {"Type": "unordered list"},
+      "Vital Sign Tracking": {"Type": "form or tracking system"},
+      "Symptom Severity Scale": {"Type": "ordinal scale"},
+      "Frequency of Monitoring": {"Type": "frequency (e.g., every X minutes/hours"}
+    }
+  }
+}

@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Perineal Care": {
+    "Activity": ["apply ice pack", "take sitz baths", "apply dry heat"],
+    "Frequency": ["daily", "onlyOnce", "everyHours", "everyDays"],
+    "Deadline Date": "datetime",
+    "Instructions": "text",
+    "Resources": ["URL", "HTML text"]
+  }
+}

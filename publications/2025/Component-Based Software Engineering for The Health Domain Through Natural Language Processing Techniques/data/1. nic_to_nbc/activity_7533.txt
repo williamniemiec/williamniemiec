@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+  "reminder": {
+    "parameters": {
+      "name": "",
+      "content": "",
+      "frequency": "",
+      "interval": "",
+      "deadline_date": ""
+    }
+  },
+  "counter": {
+    "parameters": {
+      "name": "",
+      "initial_value": "",
+      "increment_by": "",
+      "max_value": "",
+      "action": ""
+    }
+  }
+}

@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+    "avoidances": {
+        "parameters": [
+            {"name": "smoking", "description": "specify the duration to avoid smoking", "duration": {"value": 1, "unit": "hour"}},
+            {"name": "alcoholicBeverages", "description": "specify the duration to avoid alcoholic beverages", "duration": {"value": 3, "unit": "hours"}}
+        ]
+    }
+}

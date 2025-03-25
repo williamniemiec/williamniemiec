@@ -1,0 +1,14 @@
+
+
+
+{
+  "Environment Setter": {
+    "Parameters": {
+      "Environment Type": {"Type": "options"},
+      "Noise Level": {"Type": "options"},
+      "Distraction Level": {"Type": "options"},
+      "Equipment Needed": {"Type": "text"},
+      "Setup Instructions": {"Type": "text"}
+    }
+  }
+}

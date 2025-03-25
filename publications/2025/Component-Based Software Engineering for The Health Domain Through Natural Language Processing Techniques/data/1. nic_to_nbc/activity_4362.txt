@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+    "Delusion Reporting": {
+        "prompt": {"type": "text"},
+        "caregiver_contacts": {"type": "list of contacts"},
+        "frequency": {"type": "options"},
+        "deadline_date": {"type": "datetime", "optional": true},
+        "report_template": {"type": "text", "optional": true}
+    },
+    "Messaging": {
+        "caregiver_contacts": {"type": "list of contacts"},
+        "frequency": {"type": "options"},
+        "deadline_date": {"type": "datetime", "optional": true}
+    },
+    "Voice Recording": {
+        "caregiver_contacts": {"type": "list of contacts"},
+        "frequency": {"type": "options"},
+        "deadline_date": {"type": "datetime", "optional": true}
+    }
+}
+
+
+Let me know if you need any further assistance!

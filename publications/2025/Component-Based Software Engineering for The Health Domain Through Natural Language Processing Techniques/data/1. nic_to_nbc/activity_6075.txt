@@ -1,0 +1,32 @@
+Here is the output in JSON format:
+
+
+{
+  "Instructions": {
+    "Parameters": {
+      "Instruction Type": {
+        "Description": "Type of instruction to provide (e.g. medication, exercise, diet)",
+        "Required": true,
+        "Type": "options",
+        "Options": [
+          { "value": "medication", "label": "Medication" },
+          { "value": "exercise", "label": "Exercise" },
+          { "value": "diet", "label": "Diet" }
+        ]
+      },
+      "Verbal Instructions": {
+        "Description": "Verbal instructions to provide to the patient",
+        "Required": true,
+        "Type": "audio"
+      },
+      "Written Instructions": {
+        "Description": "Written instructions to provide to the patient",
+        "Required": true,
+        "Type": "text"
+      }
+    }
+  }
+}
+
+
+I removed the `Visual Aids` parameter because it was marked as not required (`"Required": false`). Let me know if this is what you were looking for!

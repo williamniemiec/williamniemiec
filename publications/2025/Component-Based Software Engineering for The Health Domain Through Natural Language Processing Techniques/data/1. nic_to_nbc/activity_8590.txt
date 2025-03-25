@@ -1,0 +1,32 @@
+Here is the output in JSON format:
+
+
+{
+  "Discharge Readiness Monitoring": {
+    "Parameters": {
+      "Discharge Criteria": {
+        "Type": "list",
+        "Criteria": ["Medical stability", "Ability to perform daily living activities", "Pain management", "Wound care"]
+      },
+      "Assessment Tools": {
+        "Type": "options",
+        "Options": ["Survey", "Questionnaire", "Clinical assessment", "Functional assessment"]
+      },
+      "Assessment Schedule": {
+        "Type": "datetime or range"
+      },
+      "Readiness Status": {
+        "Type": "text or dropdown"
+      },
+      "Interventions": {
+        "Type": "text or structured data"
+      },
+      "Notification": {
+        "Type": "notification or alert"
+      }
+    }
+  }
+}
+
+
+Let me know if you need any further assistance!

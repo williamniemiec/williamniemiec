@@ -1,0 +1,29 @@
+Here is the output in JSON format:
+
+
+{
+  "Success Tracker": {
+    "Parameters": {
+      "Goal": {
+        "Type": "text"
+      },
+      "Success Criteria": {
+        "Type": "text"
+      },
+      "Entry Type": {
+        "Options": ["text", "rating", "checkbox"]
+      },
+      "Frequency": {
+        "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+      },
+      "Deadline Date": {
+        "Type": "datetime"
+      },
+      "Celebration Message": {
+        "Type": "text"
+      }
+    }
+  }
+}
+
+Let me know if this meets your requirements!

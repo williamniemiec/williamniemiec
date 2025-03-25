@@ -1,0 +1,13 @@
+
+
+
+{
+"Reminder": {
+    "Parameters": {
+        "Task": "",
+        "Deadline": "",
+        "Trigger": "",
+        "Frequency": ""
+    }
+}
+}

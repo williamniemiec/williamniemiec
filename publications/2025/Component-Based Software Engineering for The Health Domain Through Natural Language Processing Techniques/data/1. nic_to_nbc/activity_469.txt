@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+  "no-code-element-name": "Symptom Logger",
+  "parameters": {
+    "Symptoms": {
+      "type": "checklist or multi-select options"
+    },
+    "Severity Scale": {
+      "type": "numerical scale (e.g., 1-5) or descriptive scale (e.g., mild, moderate, severe)"
+    },
+    "Frequency": {
+      "options": ["daily", "every 12 hours", "every 8 hours", "etc."]
+    },
+    "Notes": {
+      "type": "text"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Facility Map": {
+    "Receiving Unit Location": {},
+    "Surgery Location": {},
+    "Waiting Area Location": {},
+    "Facility Map": {}
+  }
+}

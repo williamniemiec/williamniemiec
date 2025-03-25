@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Bed Making": {
+        "parameters": [
+            {"name": "Name", "type": "text"},
+            {"name": "Instructions", "type": "text"},
+            {"name": "Image", "type": "image"},
+            {"name": "Tips", "type": "list of text"}
+        ]
+    }
+}

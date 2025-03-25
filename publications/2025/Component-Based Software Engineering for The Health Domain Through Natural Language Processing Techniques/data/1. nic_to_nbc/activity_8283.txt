@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Lactation Consultant Referral": {
+    "Indication": {"Description": "Reason for referring patient to lactation consultant (e.g. breastfeeding difficulties, etc.)", "Required": true, "Type": "text"},
+    "Consultant Information": {"Description": "Contact information and details of the lactation consultant", "Required": true, "Type": "object", "Object": {"name": "text", "phone": "phone number", "email": "email address", "address": "text"}},
+    "Appointment Scheduling": {"Description": "Option to schedule an appointment with the lactation consultant", "Required": false, "Type": "boolean"},
+    "Resources": {"Description": "List of additional resources (e.g. articles, videos, etc.) on lactation and breastfeeding", "Required": false, "Type": "unordered list", "Unordered list": "list of links or embedded media"}
+  }
+}

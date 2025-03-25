@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Topical Debriding Treatment": {
+    "Name": {"type": "text"},
+    "Instructions": {"type": "text"},
+    "Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"type": "datetime"},
+    "Affected Area": {"type": "text"},
+    "Notes": {"type": "text"}
+  }
+}

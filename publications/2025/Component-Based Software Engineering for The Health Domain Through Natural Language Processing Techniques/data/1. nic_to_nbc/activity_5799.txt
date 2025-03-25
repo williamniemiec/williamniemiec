@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Picture Cue Prompt": {
+    "Item": {"type": "text"},
+    "Picture Cue": {"type": "image"},
+    "Prompt Message": {"type": "text"},
+    "Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"type": "datetime"},
+    "Item Usage Instructions": {"type": "list of text and images"}
+  }
+}

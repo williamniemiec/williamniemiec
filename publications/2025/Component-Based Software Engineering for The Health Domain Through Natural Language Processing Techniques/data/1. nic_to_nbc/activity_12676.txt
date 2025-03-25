@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Respiratory Sound Monitoring": {
+    "Parameters": {
+      "Respiratory Sound": {"Type": "audio"},
+      "Crowing": {"Type": "boolean (yes/no)"},
+      "Snoring": {"Type": "boolean (yes/no)"},
+      "Stridor": {"Type": "boolean (yes/no)"},
+      "Wheezing": {"Type": "boolean (yes/no)"},
+      "Respiratory Rate": {"Type": "number (breaths per minute)"}
+    }
+  }
+}

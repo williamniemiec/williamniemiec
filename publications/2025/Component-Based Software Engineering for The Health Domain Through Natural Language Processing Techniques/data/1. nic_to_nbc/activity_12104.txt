@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Decision-Making Assessment": {
+    "Name": {"type": "text"},
+    "Instructions": {"type": "text"},
+    "Questions": {"type": "list of questions", 
+      "properties": [
+        {"Text": null}, 
+        {"Type": null}, 
+        {"Options": null}
+      ]
+    },
+    "Scoring": {"type": "scoring rubric"},
+    "Results": {"type": "text or numerical value"}
+  }
+}

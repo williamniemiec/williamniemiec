@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+    "Vaginal Exam Tracking": {
+        "name": "Vaginal Exam",
+        "unit": "description",
+        "frequency": "options for how often to track vaginal exams (e.g., every hour, every 2 hours, etc.)",
+        "deadline_date": "optional due date for tracking vaginal exams"
+    },
+    "Medication Administration Tracking": {
+        "name": "Medication Administration",
+        "unit": "medication name and dosage",
+        "frequency": "options for how often to track medication administration (e.g., every hour, every 2 hours, etc.)",
+        "deadline_date": "optional due date for tracking medication administration"
+    },
+    "Maternal Vital Signs Tracking": {
+        "name": "Maternal Vital Signs",
+        "unit": "blood pressure, heart rate, temperature, etc.",
+        "frequency": "options for how often to track maternal vital signs (e.g., every hour, every 2 hours, etc.)",
+        "deadline_date": "optional due date for tracking maternal vital signs"
+    },
+    "Monitor Strip": {
+        "name": "Monitor Strip",
+        "content_type": "graph or chart",
+        "parameters": "list of tracked data points (e.g., vaginal exams, medication administration, maternal vital signs)"
+    }
+}

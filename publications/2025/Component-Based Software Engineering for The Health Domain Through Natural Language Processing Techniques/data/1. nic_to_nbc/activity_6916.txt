@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "noCodeElementName": "note",
+  "parameterSpecifications": {
+    "Content": {"type": "text"},
+    "Type": {"type": "options", "options": ["omission", "rationale", "other"]},
+    "Reason": {"type": "text"}
+  }
+}

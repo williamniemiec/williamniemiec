@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "diagnoses": {
+    "parameters": [
+      {"name": "Name", "type": "text"},
+      {"name": "Diagnosis Types", "type": "list of options"},
+      {"name": "Fields", "type": "list of objects"},
+      {"name": "Optional Sections", "type": "list of objects"}
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+Here is the output in JSON format:
+
+
+{
+  "Symptom Checker": {
+    "parameters": [
+      {"name": "name", "type": "text"},
+      {"name": "symptoms", "type": "list"},
+      {"name": "severity_levels", "type": "list"},
+      {"name": "frequency", "options": ["daily", "weekly", "monthly"]}
+    ]
+  },
+  "Tracking": {
+    "parameters": [
+      {"name": "name", "type": "text"},
+      {"name": "type", "type": "text"},
+      {"name": "frequency", "options": ["daily", "weekly", "monthly"]}
+    ]
+  },
+  "Rating Scale": {
+    "parameters": [
+      {"name": "name", "type": "text"},
+      {"name": "scale", "type": "list"},
+      {"name": "frequency", "options": ["daily", "weekly", "monthly"]}
+    ]
+  },
+  "Alert": {
+    "parameters": [
+      {"name": "name", "type": "text"},
+      {"name": "trigger", "type": "conditional statement"},
+      {"name": "message", "type": "text"}
+    ]
+  }
+}

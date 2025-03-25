@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+    "Supportive Care Assessment": {
+        "Care types": {"Type": "list of text or selection from a list of care types"},
+        "Care providers": {"Type": "list of text or selection from a list of providers"}
+    },
+    "Availability Check": {
+        "Availability criteria": {"Type": "list of text or selection from a list of criteria"},
+        "Availability status": {"Type": "options (e.g., available, unavailable, pending)"}
+    },
+    "Supportive Care Recommendation": {
+        "Recommendation logic": {"Type": "conditional statement (e.g., if-then statement)"},
+        "Recommendation output": {"Type": "list of text or selection from a list of recommendations"}
+    }
+}

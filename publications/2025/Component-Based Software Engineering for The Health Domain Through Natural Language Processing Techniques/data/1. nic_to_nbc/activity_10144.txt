@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Caregiver Profile": {
+    "Parameters": {
+      "Caregiver Name": {"Type": "text"},
+      "Caregiver Photo": {"Type": "image"},
+      "Caregiver Bio": {"Type": "text"},
+      "Caregiver Schedule": {"Type": "calendar"}
+    }
+  },
+  "Caregiver Rating": {"Type": "scale"},
+  "Caregiver Feedback": {"Type": "text"}
+}

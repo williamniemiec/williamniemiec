@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+
+{
+  "NO-CODE ELEMENT NAME": "Personal Protective Equipment (PPE)",
+  "PARAMETER ESPECIFICATIONS": {
+    "Equipment Type": {"Type": "text"},
+    "Usage Instructions": {"Type": "text or multimedia"},
+    "Frequency of Use": {"Type": "text or options"},
+    "Replacement Guidelines": {"Type": "text or options"},
+    "Notes": {"Type": "text"}
+  }
+}

@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "Immunization Diary": {
+    "Parameters": {
+      "Immunization List": {
+        "Type": "list of vaccine names"
+      },
+      "Date": {
+        "Type": "date"
+      },
+      "Type": {
+        "Type": "text"
+      },
+      "Notes": {
+        "Type": "text"
+      },
+      "Update": {
+        "Type": "boolean"
+      }
+    }
+  }
+}

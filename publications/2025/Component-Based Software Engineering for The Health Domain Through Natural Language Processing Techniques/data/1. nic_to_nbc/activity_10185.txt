@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Environmental Modifications": {
+    "Parameters": {
+      "Name": { "Type": "text" },
+      "Modification Options": { "Type": "unordered list", "List items": ["lighting", "temperature", "noiseLevel"] },
+      "Modification Requests": { "Type": "text" },
+      "Priority Level": { "Type": "options", "Options": ["high", "medium", "low"] }
+    }
+  }
+}
+
+
+Note that I removed the `Customization` parameter as it was not applicable (i.e., no value or type specified). Let me know if you have any further questions!

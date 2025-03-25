@@ -1,0 +1,43 @@
+Here is the output in JSON format:
+
+
+{
+    "Health Tip": {
+        "parameters": {
+            "name": "",
+            "content": "",
+            "category": [],
+            "frequency": "",
+            "deadline_date": ""
+        }
+    },
+    "Resource List": {
+        "parameters": {
+            "name": "",
+            "resources": [],
+            "category": [],
+            "frequency": "",
+            "deadline_date": ""
+        }
+    },
+    "Self-Care Activity": {
+        "parameters": {
+            "name": "",
+            "instructions": "",
+            "frequency": "",
+            "deadline_date": ""
+        }
+    },
+    "Goal Setting": {
+        "parameters": {
+            "name": "",
+            "goal_type": [],
+            "goal_description": "",
+            "frequency": "",
+            "deadline_date": ""
+        }
+    }
+}
+
+
+Note: I removed the `INTRODUCTION` and `CONCLUSION` sections, as well as the numbering and descriptions of each no-code element. I also kept only the parameter specifications for each element, removing any unnecessary text.

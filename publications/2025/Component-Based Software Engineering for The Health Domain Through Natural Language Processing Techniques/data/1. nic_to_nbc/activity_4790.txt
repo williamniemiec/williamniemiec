@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Check-in": {
+    "Parameters": {
+      "Check-in Frequency": {},
+      "Relaxation Question": {},
+      "Response Options": {},
+      "Follow-up Instruction": {}
+    }
+  }
+}

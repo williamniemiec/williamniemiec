@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "Skill Builder": {
+    "parameters": {
+      "Skill Name": {"type": "text"},
+      "Components": {"type": "list of text"},
+      "Reinforcement Plan": {"type": "list of reinforcement plans", 
+        "reinforcementPlan": {
+          "Component": {"type": "reference to the \"Components\" parameter"},
+          "Reinforcement Type": {"type": "options", "options": ["points", "badges", "feedback", "custom"]},
+          "Reinforcement Criteria": {"type": "text"}
+        }
+      },
+      "Practice Schedule": {"type": "schedule", 
+        "schedule": {
+          "Frequency": {"type": "options", "options": ["daily", "weekly", "monthly"]},
+          "Duration": {"type": "time interval"}
+        }
+      },
+      "Progress Tracking": {"type": "options", "options": ["automatic tracking", "manual tracking", "custom"]}
+    }
+  }
+}

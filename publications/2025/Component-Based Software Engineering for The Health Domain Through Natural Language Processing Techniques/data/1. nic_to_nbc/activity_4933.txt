@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+    "Discussion Prompt": {
+        "Title": {"Type": "text"},
+        "Prompt": {"Type": "text"},
+        "Frequency": {"Type": "options", "Options": ["daily", "weekly", "monthly", "oneTime"]},
+        "Deadline Date": {"Type": "datetime"},
+        "Contact Information": {"Type": "text"}
+    },
+    "Question": {
+        "Title": {"Type": "text"},
+        "Question": {"Type": "text"},
+        "Answer Type": {"Type": "options", "Options": ["text", "multipleChoice"]},
+        "Frequency": {"Type": "options", "Options": ["daily", "weekly", "monthly", "oneTime"]},
+        "Deadline Date": {"Type": "datetime"},
+        "Submit To": {"Type": "text"}
+    }
+}
+
+
+Let me know if you need any further assistance!

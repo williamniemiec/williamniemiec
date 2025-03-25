@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Post-Transfer Evaluation Guide",
+    "parameters": [
+        {
+            "name": "Evaluation Criteria",
+            "type": "unordered list"
+        },
+        {
+            "name": "Evaluation Instructions",
+            "type": "ordered list"
+        },
+        {
+            "name": "Safety Precautions",
+            "type": "unordered list"
+        },
+        {
+            "name": "Frequency",
+            "type": "options"
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Symptom Checker": {
+    "parameters": [
+      {"name": "symptoms_to_monitor", "description": "which symptoms to monitor"},
+      {"name": "frequency", "description": "how often to monitor and report"},
+      {"name": "severity_scale", "description": "rate the severity of each symptom"},
+      {"name": "notes", "description": "add notes or comments"}
+    ]
+  }
+}

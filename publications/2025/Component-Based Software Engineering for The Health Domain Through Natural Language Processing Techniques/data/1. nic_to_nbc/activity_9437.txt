@@ -1,0 +1,18 @@
+
+
+
+{
+    "Task": {
+        "parameters": {
+            "name": "",
+            "instructions": "",
+            "frequency": ""
+        }
+    },
+    "Guide": {
+        "parameters": {
+            "name": "",
+            "pages": []
+        }
+    }
+}

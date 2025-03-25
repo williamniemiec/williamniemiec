@@ -1,0 +1,12 @@
+
+
+
+{
+    "Ethical Boundaries": {
+        "Boundary Scenarios": {"type": "text or video"},
+        "Guided Questions": {"type": "multiple-choice or open-ended questions"},
+        "Decision Tree": {"type": "interactive diagram or flowchart"},
+        "Ethical Principles": {"type": "list or table"},
+        "Reflection Prompt": {"type": "text or audio"}
+    }
+}

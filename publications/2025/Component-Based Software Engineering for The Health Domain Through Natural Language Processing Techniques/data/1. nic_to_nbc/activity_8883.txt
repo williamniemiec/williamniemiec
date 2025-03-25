@@ -1,0 +1,78 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Peripheral Circulation Appraisal",
+    "parameters": [
+        {
+            "name": "Pulse Check",
+            "type": "options",
+            "options": [
+                { "value": "radial", "label": "Radial" },
+                { "value": "femoral", "label": "Femoral" },
+                { "value": "popliteal", "label": "Popliteal" },
+                { "value": "other", "label": "Other (please specify)" }
+            ]
+        },
+        {
+            "name": "Edema Assessment",
+            "type": "options",
+            "options": [
+                { "value": "pitting", "label": "Pitting" },
+                { "value": "non-pitting", "label": "Non-Pitting" },
+                { "value": "other", "label": "Other (please specify)" }
+            ]
+        },
+        {
+            "name": "Capillary Refill Check",
+            "type": "options",
+            "options": [
+                { "value": "seconds", "label": "Seconds" },
+                { "value": "normal", "label": "Normal" },
+                { "value": "abnormal", "label": "Abnormal" },
+                { "value": "other", "label": "Other (please specify)" }
+            ]
+        },
+        {
+            "name": "Color Assessment",
+            "type": "options",
+            "options": [
+                { "value": "pale", "label": "Pale" },
+                { "value": "cyanotic", "label": "Cyanotic" },
+                { "value": "normal", "label": "Normal" },
+                { "value": "other", "label": "Other (please specify)" }
+            ]
+        },
+        {
+            "name": "Temperature Assessment",
+            "type": "options",
+            "options": [
+                { "value": "warm", "label": "Warm" },
+                { "value": "cool", "label": "Cool" },
+                { "value": "normal", "label": "Normal" },
+                { "value": "other", "label": "Other (please specify)" }
+            ]
+        },
+        {
+            "name": "Ankle Brachial Index (ABI) Measurement",
+            "type": "options",
+            "options": [
+                { "value": "yes", "label": "Yes" },
+                { "value": "no", "label": "No" },
+                { "value": "other", "label": "Other (please specify)" }
+            ]
+        },
+        {
+            "name": "Instructions",
+            "type": "text or video"
+        },
+        {
+            "name": "Images/Videos",
+            "type": "image or video"
+        },
+        {
+            "name": "Deadline Date",
+            "type": "datetime"
+        }
+    ]
+}

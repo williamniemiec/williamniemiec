@@ -1,0 +1,35 @@
+Here is the output in JSON format:
+
+
+{
+  "News Update": {
+    "Parameters": {
+      "News Category": {
+        "Description": "Choose a news category that is nonthreatening and of interest to the patient",
+        "Required": true,
+        "Type": "options",
+        "Options": [
+          { "value": "entertainment", "label": "Entertainment" },
+          { "value": "science", "label": "Science" },
+          { "value": "technology", "label": "Technology" },
+          { "value": "health", "label": "Health" }
+        ]
+      },
+      "News Feed": {
+        "Description": "A curated feed of recent news articles in the selected category",
+        "Required": true,
+        "Type": "news feed"
+      },
+      "Frequency": {
+        "Description": "How often the patient would like to receive news updates",
+        "Required": true,
+        "Type": "options",
+        "Options": [
+          { "value": "daily", "label": "Daily" },
+          { "value": "weekly", "label": "Weekly" },
+          { "value": "monthly", "label": "Monthly" }
+        ]
+      }
+    }
+  }
+}

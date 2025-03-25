@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Observation Guidance": {
+    "name": {"type": "text"},
+    "observation_type": {"type": "text"},
+    "image_url": {"type": "url"},
+    "description": {"type": "text"},
+    "frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "deadline_date": {"type": "datetime"},
+    "notes": {"type": "text"}
+  }
+}
+
+
+Note: I removed the not applicable parameters and only kept the `{{ PARAMETER ESPECIFICATIONS }}` and `{{ NO-CODE ELEMENT NAME }}` parts of the input text.

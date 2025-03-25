@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Love and Acceptance Guide": {
+    "Parameters": {
+      "Title": {"Type": "text"},
+      "Content": {"Type": "text or rich text"},
+      "Activities": {"Type": "list of text"},
+      "Reflection Questions": {"Type": "list of text"},
+      "Resources": {"Type": "text or URL"}
+    }
+  }
+}
+
+Note that I removed the introduction, conclusion, and other unnecessary parts from the input text, and only kept the `{{ NO-CODE ELEMENT NAME }}` and `{{ PARAMETER ESPECIFICATIONS }}`.

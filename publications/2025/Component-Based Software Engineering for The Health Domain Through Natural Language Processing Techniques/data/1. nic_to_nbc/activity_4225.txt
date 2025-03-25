@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Infusion Administration Guideline": {
+    "parameters": [
+      {
+        "name": "instructions",
+        "description": "Step-by-step instructions for administering the infusion",
+        "required": true,
+        "type": "text"
+      },
+      {
+        "name": "important_notes",
+        "description": "Important notes and considerations for administering the infusion",
+        "required": true,
+        "type": "text"
+      }
+    ]
+  }
+}

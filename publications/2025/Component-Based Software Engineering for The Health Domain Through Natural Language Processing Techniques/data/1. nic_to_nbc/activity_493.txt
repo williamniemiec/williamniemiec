@@ -1,0 +1,14 @@
+
+
+
+{
+    "Personalized Storage Plan": {
+        "Storage Options": {"Type": "options", "Options": "list of storage options"},
+        "Acceptability": {"Type": "rating", "Rating": "scale of 1-5"},
+        "Private Place": {"Type": "text"},
+        "Photo": {"Type": "camera"}
+    }
+}
+
+
+Let me know if this is what you were expecting!

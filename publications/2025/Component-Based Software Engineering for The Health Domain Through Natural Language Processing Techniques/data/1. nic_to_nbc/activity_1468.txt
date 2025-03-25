@@ -1,0 +1,42 @@
+Here is the output in JSON format:
+
+
+{
+  "Symptom Reporting": {
+    "Parameters": {
+      "Symptom List": {
+        "Type": "unordered list",
+        "Options": ["excessive bleeding", "unusual bruising", "unusual pain or swelling", "blue or purple color of the toes", "pain in the toes", "ulcers or white spots in the mouth or throat"]
+      },
+      "Description": {
+        "Type": "text"
+      },
+      "Examples": {
+        "Type": "text"
+      },
+      "When to Report": {
+        "Type": "text"
+      },
+      "How to Report": {
+        "Type": "text"
+      },
+      "Resources": {
+        "Type": "link or text"
+      }
+    }
+  },
+  "Guide": {
+    "Parameters": {
+      "Name": {
+        "Type": "text"
+      },
+      "Pages": {
+        "Type": "book-page"
+      },
+      "Symptom List": {
+        "Type": "unordered list",
+        "Options": ["excessive bleeding", "unusual bruising", "unusual pain or swelling", "blue or purple color of the toes", "pain in the toes", "ulcers or white spots in the mouth or throat"]
+      }
+    }
+  }
+}

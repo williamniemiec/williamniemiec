@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+    "Equipment Calibration": {
+        "parameters": {
+            "name": {"type": "text"},
+            "equipment_type": {"type": "options"},
+            "calibration_steps": {"type": "ordered list of text or multimedia content"},
+            "frequency": {"type": "options"},
+            "deadline_date": {"type": "datetime"},
+            "reference_values": {"type": "text or table"},
+            "troubleshooting_tips": {"type": "text or multimedia content"}
+        }
+    }
+}

@@ -1,0 +1,47 @@
+Here is the output in JSON format:
+
+
+{
+  "Support Planning": {
+    "parameters": [
+      {
+        "name": "support_planning_worksheet",
+        "description": "Worksheet to help parents plan for ongoing support",
+        "required": true,
+        "type": "worksheet",
+        "worksheet_items": [
+          {
+            "label": "What are the child's needs after the visit?",
+            "type": "text"
+          },
+          {
+            "label": "Who will provide support to the child?",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "name": "resource_list",
+        "description": "List of resources for ongoing support",
+        "required": true,
+        "type": "list",
+        "list_items": [
+          {
+            "label": "Pediatrician",
+            "value": "Dr. Smith"
+          },
+          {
+            "label": "Therapist",
+            "value": "Ms. Johnson"
+          }
+        ]
+      },
+      {
+        "name": "video_support_planning",
+        "description": "Video guidance on support planning with a healthcare professional",
+        "required": false,
+        "type": "video"
+      }
+    ]
+  }
+}

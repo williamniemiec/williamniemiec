@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Electrolyte Monitor": {
+    "Parameters": {
+      "Electrolytes": {"Type": "list of electrolytes"},
+      "Target Ranges": {"Type": "list of target ranges (electrolyte, min, max)"},
+      "Lab Results": {"Type": "list of lab results (date, value, units)"},
+      "Imbalance Detection": {"Type": "boolean"},
+      "Alerts": {"Type": "list of alerts (condition, message, recipient)"},
+      "Recommendations": {"Type": "text or link to additional resources"}
+    }
+  }
+}

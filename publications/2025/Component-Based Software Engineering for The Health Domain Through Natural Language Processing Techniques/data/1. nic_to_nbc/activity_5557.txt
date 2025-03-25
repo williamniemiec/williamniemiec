@@ -1,0 +1,16 @@
+
+
+
+{
+  "Love Communication Guide": {
+    "method_type": {
+      "Type": "options",
+      "Options": ["verbal", "non-verbal", "quality time", "physical touch", "gifts", "acts of service"]
+    },
+    "description": {"Type": "text"},
+    "example": {"Type": "text"},
+    "tips": {"Type": "text"},
+    "cultural_relevance": {"Type": "text"},
+    "reflection_question": {"Type": "text"}
+  }
+}

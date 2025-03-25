@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Treatment History Review",
+  "parameters": [
+    {
+      "name": "Past Treatments"
+    },
+    {
+      "name": "Current Treatments"
+    },
+    {
+      "name": "Upload Documents"
+    }
+  ]
+}

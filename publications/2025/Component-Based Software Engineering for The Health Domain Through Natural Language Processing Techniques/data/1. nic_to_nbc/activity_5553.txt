@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+    "Catheter Selection Guide": {
+        "Intended Use": {"Type": "options"},
+        "Catheter Type": {"Type": "options"},
+        "Additional Notes": {"Type": "text"}
+    },
+    "Catheter Decision Tree": {
+        "Questions": {"Type": "form"},
+        "Catheter Type": {"Type": "options"},
+        "Additional Notes": {"Type": "text"}
+    }
+}

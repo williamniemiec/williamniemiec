@@ -1,0 +1,10 @@
+{
+  "name": "Electrolyte Imbalance Monitoring",
+  "description": "Monitors electrolyte levels such as potassium, sodium, calcium, and phosphate, helping users track imbalances. Includes range monitoring and acid-base status checks.",
+  "type": "periodic",
+  "input": ["Electrolyte levels", "Potassium and sodium checks", "Acid-base balance", "Phosphate and calcium monitoring"],
+  "output": ["Electrolyte imbalance report", "Range analysis", "Imbalance correction suggestions"],
+  "preconditions": ["User has ongoing need to monitor electrolyte levels"],
+  "postconditions": ["Accurate tracking and correction of electrolyte imbalances"],
+  "dependencies": ["Electrolyte monitoring system", "Acid-base balance tools", "Health monitoring platform"]
+}

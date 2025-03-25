@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Relaxation Technique Guide": {
+    "Name": {"Type": "text"},
+    "Introduction": {"Type": "text"},
+    "Technique": {"Type": "options", "Options": ["deepBreathing", "progressiveMuscleRelaxation", "visualization", "etc."]},
+    "Instructions": {"Type": "text"},
+    "Tips": {"Type": "text"},
+    "Practice Exercise": {"Type": "interactive exercise"},
+    "Resources": {"Type": "list of resources"}
+  }
+}

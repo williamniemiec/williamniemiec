@@ -1,0 +1,34 @@
+Here is the output in JSON format:
+
+
+{
+  "Support Assurance": {
+    "Parameters": {
+      "Message": {
+        "Description": "pre-written message assuring individual of nurse's availability",
+        "Required": true,
+        "Type": "text"
+      },
+      "Trigger": {
+        "Description": "specify when to display the message (e.g. on app launch, after completing a task)",
+        "Required": true,
+        "Type": "options",
+        "Options": [
+          { "value": "onAppLaunch", "label": "On app launch" },
+          { "value": "afterTaskCompletion", "label": "After completing a task" },
+          { "value": "onDemand", "label": "On demand" }
+        ]
+      },
+      "Contact Information": {
+        "Description": "provide nurse's contact information for individual to reach out in times of suffering",
+        "Required": true,
+        "Type": "contact_info",
+        "Contact Info": [
+          { "value": "phone", "label": "Phone" },
+          { "value": "email", "label": "Email" },
+          { "value": "videoCall", "label": "Video Call" }
+        ]
+      }
+    }
+  }
+}

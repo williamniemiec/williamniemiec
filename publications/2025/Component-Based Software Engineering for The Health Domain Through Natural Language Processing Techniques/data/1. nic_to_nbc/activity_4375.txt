@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Humor Strategy Evaluation": {
+        "parameters": [
+            {"name": "strategy", "description": "Select the humor strategy to evaluate"},
+            {"name": "effectiveness", "description": "Rate the effectiveness of the humor strategy"},
+            {"name": "discontinue", "description": "Discontinue the humor strategy if ineffective"},
+            {"name": "frequency", "description": "How often to evaluate the humor strategy"}
+        ]
+    }
+}

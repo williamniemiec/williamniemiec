@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Hygiene and Grooming Guide": {
+        "Name": {"Type": "text"},
+        "Hygiene Topic": {"Type": "text"},
+        "Grooming Topic": {"Type": "text"},
+        "Tips and Reminders": {"Type": "text"},
+        "Resources": {"Type": "text"},
+        "Tracking": {"Type": "text"}
+    }
+}

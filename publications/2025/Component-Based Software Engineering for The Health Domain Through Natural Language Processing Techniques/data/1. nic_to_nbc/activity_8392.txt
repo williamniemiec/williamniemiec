@@ -1,0 +1,48 @@
+Here is the output in JSON format:
+
+
+{
+    "Patient Emotions": {
+        "parameters": {
+            "name": "Patient Emotions",
+            "emotion": ["anxiety", "depression", "anger", "sadness"],
+            "intensity": ["mild", "moderate", "severe"],
+            "description": ""
+        }
+    },
+    "Literature Selection": {
+        "parameters": {
+            "name": "Literature Selection",
+            "literature_type": ["stories", "poems", "essays", "articles", "self-help books", "novels"],
+            "theme": ["anxiety", "depression", "relationships", "trauma"],
+            "tone": ["inspirational", "motivational", "humorous", "serious"],
+            "selected_literature": []
+        }
+    },
+    "Emotion-Based Filtering": {
+        "parameters": {
+            "name": "Emotion-Based Filtering",
+            "emotion": ["anxiety", "depression", "anger", "sadness"],
+            "literature_type": ["stories", "poems", "essays", "articles", "self-help books", "novels"],
+            "filtered_literature": []
+        }
+    },
+    "Patient Situation": {
+        "parameters": {
+            "name": "Patient Situation",
+            "situation": ["diagnosis", "treatment", "relationships", "work-related issues"],
+            "description": ""
+        }
+    },
+    "Literature Recommendation": {
+        "parameters": {
+            "name": "Literature Recommendation",
+            "literature_title": "",
+            "literature_description": "",
+            "recommendation_reason": ""
+        }
+    }
+}
+
+
+Let me know if you need any further modifications!

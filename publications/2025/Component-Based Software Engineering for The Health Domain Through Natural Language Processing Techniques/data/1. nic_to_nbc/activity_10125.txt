@@ -1,0 +1,40 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Safety Monitor": {
+    "Parameters": {
+      "Medication List": {
+        "Type": "list of medications",
+        "Required": true,
+        "Properties": {
+          "Medication Name": {"Type": "text", "Required": true},
+          "Dosage Instructions": {"Type": "text", "Required": true}
+        }
+      },
+      "Adverse Effect List": {
+        "Type": "list of adverse effects",
+        "Required": true,
+        "Properties": {
+          "Adverse Effect Name": {"Type": "text", "Required": true},
+          "Severity Scale": {"Type": "options", "Required": true}
+        }
+      },
+      "Symptom Checker": {
+        "Type": "list of questions",
+        "Required": true,
+        "Properties": {
+          "Question Text": {"Type": "text", "Required": true},
+          "Answer Options": {"Type": "list of answer options", "Required": true}
+        }
+      },
+      "Tracking Frequency": {
+        "Type": "options",
+        "Required": false
+      }
+    }
+  }
+}
+
+
+I removed the introduction, conclusion, and not applicable parameters (Deadline Date) from the input text. I also reformatted the parameter specifications into a JSON object with the no-code element name as the top-level key.

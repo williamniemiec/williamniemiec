@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Pillow Support Guidance": {
+    "Parameters": {
+      "Designated Position": {
+        "Type": "options"
+      },
+      "Pillow Placement": {
+        "Type": "text"
+      },
+      "Number of Pillows": {
+        "Type": "number"
+      }
+    }
+  }
+}
+
+
+Note that I removed the "Pillow Adjustment" parameter since its type is boolean and it's not applicable in this context.

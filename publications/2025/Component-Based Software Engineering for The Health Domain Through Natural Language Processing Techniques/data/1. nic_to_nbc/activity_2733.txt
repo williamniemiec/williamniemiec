@@ -1,0 +1,17 @@
+
+
+
+{
+"Setup": {
+"name": "",
+"instructions": "",
+"image": "",
+"checklist": ""
+},
+"Guide": {
+"name": "",
+"pages": [],
+"images": [],
+"checklist": ""
+}
+}

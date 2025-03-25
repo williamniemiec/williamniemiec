@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Grief Education": {
+    "parameters": {
+      "grief_types": {},
+      "grief_characteristics": {},
+      "triggers": {},
+      "coping_strategies": {},
+      "resource_list": {}
+    }
+  }
+}

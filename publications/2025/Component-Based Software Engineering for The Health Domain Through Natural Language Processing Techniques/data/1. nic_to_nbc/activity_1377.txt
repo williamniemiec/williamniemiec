@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Position Change and Mobilization": {
+    "Parameters": {
+      "Position Change Frequency": {},
+      "Mobilization Type": {},
+      "Mobilization Frequency": {}
+    }
+  }
+}

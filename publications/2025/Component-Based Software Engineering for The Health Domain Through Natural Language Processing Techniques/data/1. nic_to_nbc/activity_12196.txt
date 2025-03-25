@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+    "environment_notification": {
+        "parameters": [
+            {"name": "rearrangement_type"},
+            {"name": "notification_method"}
+        ]
+    }
+}

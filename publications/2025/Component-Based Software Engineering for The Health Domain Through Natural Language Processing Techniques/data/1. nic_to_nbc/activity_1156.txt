@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Incontinence Tracker": {
+    "Parameters": {
+      "Episode Type": {},
+      "Frequency": {},
+      "Deadline Date": {},
+      "Notes": {},
+      "Volume": {},
+      "Time": {}
+    }
+  }
+}

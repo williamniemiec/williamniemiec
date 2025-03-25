@@ -1,0 +1,35 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Guide",
+  "parameters": [
+    {
+      "name": "title",
+      "description": "A brief title for the guide.",
+      "required": true,
+      "type": "text"
+    },
+    {
+      "name": "steps",
+      "description": "A step-by-step checklist of instructions on how to avoid infections.",
+      "required": true,
+      "type": "list",
+      "list_type": "checklist_items"
+    },
+    {
+      "name": "tips",
+      "description": "Optional additional tips and reminders for avoiding infections.",
+      "required": false,
+      "type": "list",
+      "list_type": "tips"
+    },
+    {
+      "name": "resources",
+      "description": "Optional additional resources, such as links to websites or educational videos, for further learning.",
+      "required": false,
+      "type": "list",
+      "list_type": "links"
+    }
+  ]
+}

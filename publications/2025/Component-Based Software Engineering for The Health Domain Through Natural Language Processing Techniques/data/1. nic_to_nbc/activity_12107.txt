@@ -1,0 +1,40 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Pain Monitoring",
+    "parameters": [
+        {
+            "name": "title",
+            "type": "text"
+        },
+        {
+            "name": "pain_location",
+            "type": "text"
+        },
+        {
+            "name": "pain_intensity",
+            "type": "options"
+        },
+        {
+            "name": "pain_characteristics",
+            "type": "list of text"
+        },
+        {
+            "name": "pain_frequency",
+            "type": "text"
+        },
+        {
+            "name": "pain_duration",
+            "type": "text"
+        },
+        {
+            "name": "frequency",
+            "type": "options"
+        },
+        {
+            "name": "deadline_date",
+            "type": "datetime"
+        }
+    ]
+}

@@ -1,0 +1,5 @@
+Since there are no parameters specified in the input text, the output will be an empty JSON object:
+
+{}
+
+Note: There is no {{ PARAMETER ESPECIFICATIONS }} and {{ NO-CODE ELEMENT NAME }} in the input text, so nothing can be extracted.

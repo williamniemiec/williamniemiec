@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Pin Insertion Site Care": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Instructions": {"Type": ["text", "multimedia"]},
+      "Care Steps": {"Type": "form", "Options": ["multiple-choice", "Likert scale", "open-ended questions"]},
+      "Frequency": {"Type": "options", "Options": ["daily", "everyOtherDay", "every3Days", "custom"]},
+      "Deadline Date": {"Type": "datetime"},
+      "Photo Upload": {"Type": ["camera", "image upload"]},
+      "Care Log": {"Type": "form", "Options": ["date", "time", "notes fields"]}
+    }
+  }
+}

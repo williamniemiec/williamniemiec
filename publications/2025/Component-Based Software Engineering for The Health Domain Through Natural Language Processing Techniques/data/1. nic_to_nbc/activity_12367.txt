@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "ADL Assistance Guide": {
+    "parameters": [
+      {"name": "adl_type", "description": "Specify the type of ADL to be assisted with (e.g., bathing, dressing, grooming, etc.)", "required": true, "type": "options", "options": [{"value": "bathing", "label": "Bathing"}, {"value": "dressing", "label": "Dressing"}, {"value": "grooming", "label": "Grooming"}, {"value": "feeding", "label": "Feeding"}, {"value": "transferring", "label": "Transferring"}, {"value": "toileting", "label": "Toileting"}, {"value": "custom", "label": "Custom"}]},
+      {"name": "assistance_instructions", "description": "Step-by-step instructions for assisting with the ADL", "required": true, "type": "text" or "video"},
+      {"name": "frequency", "description": "Specify how often to assist with the ADL", "required": true, "type": "options", "options": [{"value": "daily", "label": "Daily"}, {"value": "everyOtherDay", "label": "Every other day"}, {"value": "weekly", "label": "Weekly"}, {"value": "custom", "label": "Custom"}]}
+    ]
+  }
+}

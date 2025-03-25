@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Concerns Evaluation": {
+    "Parameters": {
+      "Protocol": {"Type": "text"},
+      "Questions": {"Type": "list of text"},
+      "Answers": {"Type": "list of text"},
+      "Risk Level": {"Type": "text"},
+      "Next Steps": {"Type": "list of text"}
+    }
+  }
+}

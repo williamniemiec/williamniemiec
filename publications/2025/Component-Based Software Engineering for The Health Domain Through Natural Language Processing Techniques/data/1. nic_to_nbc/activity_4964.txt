@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+  "Assessment Tool": {
+    "parameters": [
+      {"Name": {"type": "text"}},
+      {"Questions": {"type": "question", "question": [
+        {"Text": {"type": "text"}},
+        {"Type": {"type": "text"}},
+        {"Scoring": {"type": "scoring", "scoring": [
+          {"Value": {"type": "number"}},
+          {"Label": {"type": "text"}}
+        ]}}
+      ]}},
+      {"Thresholds": {"type": "threshold", "threshold": [
+        {"Value": {"type": "number"}},
+        {"Label": {"type": "text"}}
+      ]}}
+    ]
+  }
+}

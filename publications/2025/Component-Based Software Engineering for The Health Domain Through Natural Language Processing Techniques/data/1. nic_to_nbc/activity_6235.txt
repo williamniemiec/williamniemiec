@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Contract Renegotiation": {
+    "Current Contract": {"Type": "text"},
+    "Proposed Changes": {"Type": "text"},
+    "Reason for Renegotiation": {"Type": "text"},
+    "New Terms": {"Type": "text"},
+    "Deadline for Renegotiation": {"Type": "date"},
+    "Status": {"Type": "options", "Options": ["in progress", "successful", "unsuccessful"]}
+  }
+}

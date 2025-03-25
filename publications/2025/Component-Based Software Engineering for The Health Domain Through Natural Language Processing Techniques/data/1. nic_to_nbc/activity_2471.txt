@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Compliance Monitoring": {
+    "parameters": [
+      {"name": "Medication List", "type": "unordered list"},
+      {"name": "Medication Schedule", "type": "calendar"},
+      {"name": "Medication Reminders", "type": "notification"},
+      {"name": "Medication Tracking", "type": "log"},
+      {"name": "Compliance Rating", "type": "rating scale"},
+      {"name": "Feedback and Education", "type": "text"},
+      {"name": "Goal Setting", "type": "text"}
+    ]
+  }
+}
+
+
+Let me know if you need any further assistance!

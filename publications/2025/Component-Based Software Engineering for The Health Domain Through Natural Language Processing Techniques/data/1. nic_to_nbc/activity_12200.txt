@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Emergency Call": {
+    "Breathing Status": "",
+    "Response Status": "",
+    "Call Criteria": "",
+    "Call Instructions": "",
+    "Emergency Contact": ""
+  }
+}

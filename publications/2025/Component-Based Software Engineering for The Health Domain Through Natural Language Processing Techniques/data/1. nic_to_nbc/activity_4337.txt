@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Tourniquet Education": {
+    "Parameters": {
+      "Purpose": {"Type": ["text", "multimedia (image, video)"]},
+      "Sensations": {"Type": ["text", "multimedia (image, video)"]},
+      "Additional Information": {"Type": ["text", "multimedia (image, video)"]}
+    }
+  }
+}

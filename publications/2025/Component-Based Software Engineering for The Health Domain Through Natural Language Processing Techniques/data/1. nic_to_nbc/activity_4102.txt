@@ -1,0 +1,11 @@
+
+
+
+{
+  "Emergency Contact": {
+    "Contact Type": {"Type": "options", "Options": ["primary caregiver", "secondary caregiver", "emergency services", "etc."]},
+    "Contact Name": {"Type": "text"},
+    "Contact Phone Number": {"Type": "text"},
+    "Contact Relationship": {"Type": "text"}
+  }
+}

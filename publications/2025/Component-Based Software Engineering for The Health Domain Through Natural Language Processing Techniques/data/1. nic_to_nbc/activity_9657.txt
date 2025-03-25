@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Parameter Specifications": [
+    {"Removal Technique Instructions": {"Type": "text", "Value": "To remove the CVAD, place gauze over the entry site and apply light to moderate pressure. This will help avoid catheter fracture, tearing, and/or embolization."}},
+    {"Gauze Placement": {"Type": "text", "Value": "Place the gauze directly over the entry site, ensuring it is centered and secure."}},
+    {"Pressure Application": {"Type": "text", "Value": "Apply light to moderate pressure to the gauze, using a gentle and steady motion."}},
+    {"Complication Prevention": {"Type": "text", "Value": "Remember, catheter fracture, tearing, and/or embolization can occur if the CVAD is not removed correctly. Follow these instructions carefully to avoid these complications."}},
+    {"Confirmation": {"Type": "boolean", "Value": true}}
+  ],
+  "No-code Element Name": "CVAD Removal Technique"
+}

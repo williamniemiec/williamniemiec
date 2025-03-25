@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Discomfort Assessment": {
+    "Dressing Comfort": {},
+    "Tubing Positioning": {},
+    "Bed Linen Comfort": {},
+    "Environmental Irritants": {},
+    "Additional Sources of Discomfort": {}
+  }
+}

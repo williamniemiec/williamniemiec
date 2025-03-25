@@ -1,0 +1,10 @@
+
+
+
+{
+  "Caregiver Instruction": {
+    "Instruction": "A text or video instruction that guides parents on how to hold and comfort their child",
+    "Context": "Additional information about when and how to provide comfort (e.g. during a procedure, when the child is distressed)",
+    "Frequency": "As needed"
+  }
+}

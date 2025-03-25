@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "Informational Content": {
+    "Parameters": {
+      "Title": {
+        "Type": "text"
+      },
+      "Content": {
+        "Type": "text or html"
+      },
+      "Temporary State": {
+        "Type": "options (temporary, permanent, unknown)"
+      },
+      "Explanation": {
+        "Type": "text"
+      },
+      "Resources": {
+        "Type": "list of urls or text"
+      }
+    }
+  }
+}

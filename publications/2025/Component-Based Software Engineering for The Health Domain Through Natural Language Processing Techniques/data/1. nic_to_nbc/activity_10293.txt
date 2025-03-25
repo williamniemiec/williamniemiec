@@ -1,0 +1,32 @@
+Here is the output in JSON format:
+
+
+{
+  "Symptom Checker": {
+    "name": "Device Site Symptoms",
+    "description": "Please report any redness or swelling at the device site",
+    "content_type": "form",
+    "required": true,
+    "type": "options",
+    "options": [
+      { "value": "redness", "label": "Redness" },
+      { "value": "swelling", "label": "Swelling" },
+      { "value": "both", "label": "Both" },
+      { "value": "none", "label": "None" }
+    ]
+  },
+  "Image Upload": {
+    "name": "Device Site Image",
+    "description": "Please upload an image of the device site to monitor for redness or swelling",
+    "content_type": "image",
+    "required": false,
+    "type": "image"
+  },
+  "Text Input": {
+    "name": "Additional Information",
+    "description": "Please provide more details about your symptoms or concerns",
+    "content_type": "text",
+    "required": false,
+    "type": "text"
+  }
+}

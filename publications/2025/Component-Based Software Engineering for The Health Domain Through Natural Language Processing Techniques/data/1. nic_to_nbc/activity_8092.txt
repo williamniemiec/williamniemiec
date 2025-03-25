@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Administration": {
+    "Medication": {"Description": "Medication to be administered", "Required": true, "Type": "text", "Example": "Promethazine"},
+    "Dilution Volume": {"Description": "Volume of saline solution for dilution", "Required": true, "Type": "range", "Range": "25cc to 50cc"},
+    "Administration Rate": {"Description": "Rate at which the medication should be administered", "Required": true, "Type": "text", "Example": "Slow rate"},
+    "Minimum Dilution Volume": {"Description": "Minimum volume of saline solution required for dilution", "Required": true, "Type": "text", "Example": "10cc"}
+  }
+}

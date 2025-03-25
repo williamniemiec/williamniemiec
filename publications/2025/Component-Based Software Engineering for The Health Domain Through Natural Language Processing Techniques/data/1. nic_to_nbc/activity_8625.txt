@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Thrombolytic Therapy Preparation": {
+    "Medication": {"type": "text"},
+    "Indication": {"type": "text"},
+    "Preparation Instructions": {"type": "text or multimedia"},
+    "Contraindications": {"type": "list"},
+    "Risks and Benefits": {"type": "text or multimedia"}
+  }
+}

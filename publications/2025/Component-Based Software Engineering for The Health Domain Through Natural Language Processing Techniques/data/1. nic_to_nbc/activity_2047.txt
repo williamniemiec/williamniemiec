@@ -1,0 +1,41 @@
+Here is the output in JSON format:
+
+
+{
+  "Caregiver Assessment Tool": {
+    "parameters": {
+      "name": "",
+      "assessment_content": "",
+      "scoring_system": "",
+      "frequency": "",
+      "deadline_date": ""
+    }
+  },
+  "Caregiver-Patient Conversation Guide": {
+    "parameters": {
+      "name": "",
+      "guide_content": "",
+      "conversation_topics": "",
+      "frequency": "",
+      "deadline_date": ""
+    }
+  },
+  "Caregiver Limit Notification": {
+    "parameters": {
+      "name": "",
+      "notification_content": "",
+      "notification_method": "",
+      "frequency": "",
+      "deadline_date": ""
+    }
+  },
+  "Care Plan Adjustment": {
+    "parameters": {
+      "name": "",
+      "adjustment_content": "",
+      "adjustment_criteria": "",
+      "frequency": "",
+      "deadline_date": ""
+    }
+  }
+}

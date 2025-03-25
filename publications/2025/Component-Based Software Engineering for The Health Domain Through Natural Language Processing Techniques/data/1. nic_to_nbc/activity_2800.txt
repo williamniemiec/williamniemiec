@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Body Fat Calculator",
+  "parameters": [
+    {
+      "name": "height",
+      "type": "number"
+    },
+    {
+      "name": "weight",
+      "type": "number"
+    },
+    {
+      "name": "gender",
+      "type": "options"
+    },
+    {
+      "name": "age",
+      "type": "number"
+    },
+    {
+      "name": "body fat unit",
+      "type": "options"
+    }
+  ]
+}

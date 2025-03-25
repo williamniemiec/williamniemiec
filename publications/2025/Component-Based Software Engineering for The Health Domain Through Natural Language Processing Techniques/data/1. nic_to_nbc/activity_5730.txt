@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+    "Emergency Equipment Preparation": {
+        "Manual Resuscitation Bag": {"type": "boolean"},
+        "Masks": {"type": "boolean"},
+        "Suction Equipment/Supplies": {"type": "boolean"},
+        "Power Failure Preparations": {"type": "text"},
+        "Equipment Check Frequency": {"type": "options"},
+        "Equipment Check Date and Time": {"type": "datetime"},
+        "Responsible Healthcare Professional": {"type": "text"},
+        "Additional Notes": {"type": "text"}
+    }
+}

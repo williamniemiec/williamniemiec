@@ -1,0 +1,30 @@
+Here is the output in JSON format:
+
+
+[
+  {
+    "name": "Medication Administration Log",
+    "parameters": [
+      {"name": "medication_name"},
+      {"name": "dosage"},
+      {"name": "administration_time"},
+      {"name": "administration_method"},
+      {"name": "administered_by"}
+    ]
+  },
+  {
+    "name": "Patient Responsiveness Tracker",
+    "parameters": [
+      {"name": "responsiveness_type"},
+      {"name": "responsiveness_level"},
+      {"name": "notes"}
+    ]
+  },
+  {
+    "name": "Agency Protocol Form",
+    "parameters": [
+      {"name": "form_fields"},
+      {"name": "form_responses"}
+    ]
+  }
+]

@@ -1,0 +1,10 @@
+Here is the output in JSON format:
+
+
+{
+  "Defibrillator Implantation Record": {
+    "Device information": ["Manufacturer", "Model number", "Serial number", "Implant date", "Mode of operation", "Capability for pacing and/or shock delivery", "Delivery system for shocks", "Upper and lower rate limits for rate-responsive devices"],
+    "Implantation details": ["Implantation procedure notes", "Complications or issues during implantation", "Post-implantation care instructions"],
+    "Follow-up schedule": ["Follow-up appointment dates and times", "Follow-up care instructions"]
+  }
+}

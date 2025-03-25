@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+    "Guided Breathing Exercise": {
+        "Mental Device": {"type": "text"},
+        "Breathing Instructions": {"type": "text or multimedia content"},
+        "Guided Audio": {"type": "audio file"},
+        "Duration": {"type": "open-ended"}
+    }
+}

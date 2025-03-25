@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Concrete Instruction": {
+    "Content": {"type": "text or multimedia"},
+    "Format": {"type": "options"},
+    "Language": {"type": "options"},
+    "Avoidance of Abstract Concepts": {"type": "boolean"},
+    "Use of Concrete Examples": {"type": "boolean"}
+  }
+}

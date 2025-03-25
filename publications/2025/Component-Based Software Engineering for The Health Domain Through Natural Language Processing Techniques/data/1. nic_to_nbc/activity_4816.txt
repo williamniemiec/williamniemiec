@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+{
+  "Foot Care Routine Discussion": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Question": {"Type": "text"},
+      "Answer Type": {"Type": "options", "Options": ["text", "multiple choice", "rating scale"]},
+      "Follow-up Questions": {"Type": "list of questions"},
+      "Education": {"Type": "text or multimedia content"}
+    }
+  }
+}

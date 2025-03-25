@@ -1,0 +1,32 @@
+Here is the output in JSON format:
+
+
+{
+  "Education Material": {
+    "parameters": [
+      {"name": "name", "description": "title of the educational material"},
+      {"name": "content", "description": "HTML text or multimedia content"},
+      {"name": "type", "description": "type of educational material"},
+      {"name": "target audience", "description": "options for selecting the target audience"}
+    ]
+  },
+  "Notification": {
+    "parameters": [
+      {"name": "name", "description": "title of the notification"},
+      {"name": "content", "description": "brief message or summary"},
+      {"name": "type", "description": "type of notification"},
+      {"name": "frequency", "description": "options for selecting the frequency of notifications"}
+    ]
+  },
+  "Quiz": {
+    "parameters": [
+      {"name": "name", "description": "title of the quiz"},
+      {"name": "questions", "description": "list of questions related to injury prevention steps"},
+      {"name": "answers", "description": "list of correct answers for each question"},
+      {"name": "scoring", "description": "options for scoring the quiz"}
+    ]
+  }
+}
+
+
+Let me know if this is what you were expecting!

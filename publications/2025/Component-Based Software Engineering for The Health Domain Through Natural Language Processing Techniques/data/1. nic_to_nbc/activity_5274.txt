@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Navigator": {
+    "Steps": {"type": "ordered list", "options": ["scheduling an appointment", "filling out paperwork", "meeting with a doctor", "etc."]},
+    "Instructions": {"type": "text"},
+    "Resources": {"type": "unordered list", "options": ["phone numbers", "websites", "support groups", "etc."]},
+    "Checkpoints": {"type": "ordered list", "options": ["completed paperwork", "scheduled appointment", "etc."]},
+    "Frequency": {"type": "options", "options": ["daily", "weekly", "monthly", "etc."]}
+  }
+}

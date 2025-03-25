@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Positive Parenting Reinforcement Module": {
+    "Parameters": {
+      "Positive Parenting Content": {"Type": "list of content types"},
+      "Interactive Exercises": {"Type": "list of interactive exercise types"},
+      "Positive Reinforcement Strategies": {"Type": "list of positive reinforcement strategies"},
+      "Reflection Exercise": {"Type": "list of reflection exercise types"},
+      "Frequency": {"Options": ["daily", "weekly", "monthly"]},
+      "Deadline Date": {"Type": "datetime"},
+      "Motivational Message": {"Type": "text"}
+    }
+  }
+}

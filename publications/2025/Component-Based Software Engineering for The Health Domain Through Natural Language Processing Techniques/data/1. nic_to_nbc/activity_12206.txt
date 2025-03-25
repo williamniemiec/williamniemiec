@@ -1,0 +1,49 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "treatment effectiveness tracker",
+    "parameters": [
+        { 
+            "name": "treatment_type", 
+            "description": "type of treatment being monitored", 
+            "required": true, 
+            "type": "options",
+            "options": [
+                { value: "surgical", label: "Surgical" },
+                { value: "medical", label: "Medical" },
+                { value: "pharmacological", label: "Pharmacological" },
+                { value: "self-prescribed", label: "Self-prescribed" }
+            ]
+        },
+        { 
+            "name": "treatment_name", 
+            "description": "name of the specific treatment being monitored", 
+            "required": true, 
+            "type": "text"
+        },
+        { 
+            "name": "effectiveness_scale", 
+            "description": "scale to measure treatment effectiveness", 
+            "required": true, 
+            "type": "options",
+            "options": [
+                { value: "none", label: "No effect" },
+                { value: "mild", label: "Mild effect" },
+                { value: "moderate", label: "Moderate effect" },
+                { value: "significant", label: "Significant effect" }
+            ]
+        },
+        { 
+            "name": "frequency", 
+            "description": "specify how often to track treatment effectiveness", 
+            "required": true, 
+            "type": "options",
+            "options": [
+                { value: "daily", label: "Daily" },
+                { value: "weekly", label: "Weekly" },
+                { value: "monthly", label: "Monthly" }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Environmental Hazard Screening": {
+    "Parameters": {
+      "Name": {},
+      "Description": {},
+      "Hazard Types": {},
+      "Screening Method": {},
+      "Screening Frequency": {}
+    }
+  }
+}
+
+
+I removed the not applicable parameters (`Resources` and `Referral Information`) as per your request. Let me know if this meets your requirements!

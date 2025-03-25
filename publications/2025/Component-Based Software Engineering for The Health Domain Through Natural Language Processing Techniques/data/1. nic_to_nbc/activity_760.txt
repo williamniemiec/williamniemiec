@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Bowel History": {
+    "Parameters": {
+      "Preexisting Bowel Problems": {},
+      "Bowel Routine": {},
+      "Laxative Use": {},
+      "Laxative Type": {},
+      "Frequency of Laxative Use": {},
+      "Date": {}
+    }
+  }
+}

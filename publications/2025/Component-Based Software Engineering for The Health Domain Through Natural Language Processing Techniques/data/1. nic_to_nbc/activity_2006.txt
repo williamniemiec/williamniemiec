@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Role Play Scenario": {
+    "Name": {"type": "text"},
+    "Description": {"type": "text"},
+    "Scenario": {"type": "text"},
+    "Props": {"type": "text"},
+    "Instructions": {"type": "text"},
+    "Frequency": {"options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"type": "datetime"},
+    "Tips": {"type": "text"}
+  }
+}

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Vital Sign Tracker": {
+    "parameters": {
+      "name": "Vital Sign Tracker",
+      "content": "Track and record your vital signs",
+      "type": "form",
+      "frequency": "as needed",
+      "fields": ["blood pressure", "heart rate", "temperature", "respiratory rate"]
+    }
+  }
+}

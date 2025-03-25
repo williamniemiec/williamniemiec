@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Hemodynamic Monitoring": {
+    "Measurement Type": {"type": "options", "options": ["pulmonary capillary wedge pressure", "central venous pressure", "right-atrial pressure", "artery wedge pressure", "other"]},
+    "Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"type": "datetime"},
+    "Reporting Method": {"type": "options", "options": ["survey", "journal", "other"]},
+    "Unit of Measurement": {"type": "options", "options": ["mmHg", "cmH2O", "other"]}
+  }
+}

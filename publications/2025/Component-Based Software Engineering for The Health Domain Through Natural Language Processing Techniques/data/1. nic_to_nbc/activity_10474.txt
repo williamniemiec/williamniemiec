@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+    "medication": [
+        {
+            "name": "name",
+            "description": "mouth rinse name"
+        },
+        {
+            "name": "type",
+            "description": "type of mouth rinse"
+        },
+        {
+            "name": "instructions",
+            "description": "instructions for use"
+        },
+        {
+            "name": "frequency",
+            "description": "how often to use the mouth rinse"
+        }
+    ]
+}
+
+
+I removed the not applicable parameter "deadline_date" since it's not required.

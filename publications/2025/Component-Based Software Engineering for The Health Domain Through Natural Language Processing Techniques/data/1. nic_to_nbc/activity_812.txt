@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+    "Activity Guide": {
+        "Parameters": {
+            "Title": {"Type": "text"},
+            "Content": {"Type": "rich text or multimedia"},
+            "Appropriate Exercises": {"Type": "list of exercise objects"},
+            "Activities to Avoid": {"Type": "list of activity objects"},
+            "Importance of Rest": {"Type": "text"},
+            "Tips for Safe Exercise": {"Type": "list of tip objects"},
+            "Resources": {"Type": "list of resource objects"}
+        }
+    },
+    "Exercise Planner": {
+        "Parameters": {
+            "Title": {"Type": "text"},
+            "Exercise Schedule": {"Type": "list of exercise schedule objects"},
+            "Activity Tracker": {"Type": "list of activity objects"},
+            "Tips and Reminders": {"Type": "list of tip objects"},
+            "Resources": {"Type": "list of resource objects"}
+        }
+    }
+}

@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Data Tracker": {
+    "parameters": [
+      {"name": "data source", "description": "Specify the source of magnesium level data", "required": true, "type": "options", "options": [{"value": "lab results", "label": "Lab Results"}, {"value": "self-reported", "label": "Self-Reported"}]},
+      {"name": "tracking frequency", "description": "Specify how often to track magnesium levels", "required": true, "type": "options", "options": [{"value": "daily", "label": "Daily"}, {"value": "weekly", "label": "Weekly"}, {"value": "monthly", "label": "Monthly"}]},
+      {"name": "target range", "description": "Specify the target range for magnesium levels", "required": false, "type": "range", "range": {"min": 0, "max": 100}}
+    ]
+  }
+}

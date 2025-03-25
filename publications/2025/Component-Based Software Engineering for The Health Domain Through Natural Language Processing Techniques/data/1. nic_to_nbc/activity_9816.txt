@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Care Planning Conference": {
+    "parameters": {
+      "name": "",
+      "patient_info": "",
+      "conference_agenda": [],
+      "student_role": [],
+      "type": [],
+      "deadline_date": ""
+    }
+  }
+}
+
+
+Note that I removed the not applicable parameters and only kept the ones specified in the input text.

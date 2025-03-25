@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+    "Symptom Tracking": {
+        "parameters": [
+            {"name": "symptom", "description": "Select symptom", "required": true, "type": "options"},
+            {"name": "severity", "description": "Select severity of symptom", "required": true, "type": "options"},
+            {"name": "frequency", "description": "Specify how often to track symptoms", "required": true, "type": "options"}
+        ]
+    }
+}

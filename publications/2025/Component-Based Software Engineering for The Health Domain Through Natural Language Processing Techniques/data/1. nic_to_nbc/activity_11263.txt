@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Intake-Output Tracker": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Intake Units": {"Type": "options"},
+      "Output Units": {"Type": "options"},
+      "Frequency": {"Type": "options"},
+      "Input Fields": {"Type": "form"}
+    }
+  }
+}
+
+
+Note: I removed the `Deadline Date` parameter as it is not applicable (it's a datetime type, but there are no specific units or options listed). Let me know if you'd like me to include it anyway.

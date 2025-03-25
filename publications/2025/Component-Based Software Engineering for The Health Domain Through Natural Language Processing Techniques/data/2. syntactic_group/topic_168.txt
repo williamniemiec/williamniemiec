@@ -1,0 +1,10 @@
+{
+  "name": "Needle Insertion and Injection Technique",
+  "description": "Focuses on the proper techniques for needle insertion, including understanding the correct angle, depth, and gauge of the needle. Includes considerations for speed, string insertion, and injection precision.",
+  "type": "non-periodic",
+  "input": ["Needle insertion", "Angle", "Gauge", "Speed", "Injection technique", "Depth"],
+  "output": ["Needle insertion report", "Injection precision feedback", "Depth and angle verification"],
+  "preconditions": ["User is performing or learning about needle insertion techniques"],
+  "postconditions": ["Proper needle insertion and injection techniques are achieved"],
+  "dependencies": ["Injection tool", "Needle insertion guideline"]
+}

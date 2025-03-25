@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+    "Oral Examination": {
+        "Parameters": {
+            "Dental Plaque": {},
+            "Inflammation": {},
+            "Bleeding": {},
+            "Candidiasis": {},
+            "Purulent Matter": {},
+            "Calculus": {},
+            "Staining": {},
+            "Photos": {},
+            "Frequency": {},
+            "Deadline Date": {}
+        }
+    }
+}

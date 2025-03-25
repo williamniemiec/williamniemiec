@@ -1,0 +1,34 @@
+Here is the output in JSON format:
+
+
+{
+    "Feeding Pattern Guide": {
+        "Parameters": {
+            "Lesson Title": {
+                "Description": "Title of the lesson",
+                "Required": true,
+                "Type": "text"
+            },
+            "Lesson Content": {
+                "Description": "Interactive lesson content about normal feeding patterns, including cluster feedings and growth spurts",
+                "Required": true,
+                "Type": "interactive-lesson"
+            },
+            "Quiz": {
+                "Description": "Quiz to assess patient's understanding of normal feeding patterns",
+                "Required": true,
+                "Type": "quiz"
+            },
+            "Frequency": {
+                "Description": "Specify how often the patient should review the lesson",
+                "Required": true,
+                "Type": "options",
+                "Options": [
+                    { "value": "daily", "label": "Daily" },
+                    { "value": "weekly", "label": "Weekly" },
+                    { "value": "monthly", "label": "Monthly" }
+                ]
+            }
+        }
+    }
+}

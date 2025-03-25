@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+    "Ritual Support": {
+        "Parameters": {
+            "Ritual Type": {"Type": "options"},
+            "Ritual Schedule": {"Type": "schedule"},
+            "Ritual Reminders": {"Type": "options"},
+            "Ritual Tracking": {"Type": "options"},
+            "Anxiety Level": {"Type": ["options", "slider"]}
+        }
+    }
+}
+
+
+Let me know if you need any further assistance!

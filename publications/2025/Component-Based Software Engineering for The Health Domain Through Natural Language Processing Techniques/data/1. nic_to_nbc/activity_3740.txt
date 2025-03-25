@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "Exercise Instructions": {
+    "Parameters": {
+      "Exercise Description": {"Type": "text or HTML content"},
+      "Step-by-Step Instructions": {"Type": "list of steps with corresponding images or videos"},
+      "Tips and Precautions": {"Type": "text or HTML content"},
+      "Frequency and Duration": {"Type": "text or numerical input"}
+    }
+  },
+  "Video Demonstration": {
+    "Parameters": {
+      "Video Content": {"Type": "video content"},
+      "Video Controls": {"Type": "video player controls"}
+    }
+  },
+  "Interactive Simulation": {
+    "Parameters": {
+      "Simulation Content": {"Type": "interactive simulation content"},
+      "Simulation Controls": {"Type": "interactive simulation controls"}
+    }
+  }
+}

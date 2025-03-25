@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Alarm Setup": {
+    "parameters": {
+      "name": {"type": "text"},
+      "device": {"type": "text"},
+      "alarm_type": {"type": "options"},
+      "threshold": {"type": "numeric"},
+      "frequency": {"type": "options"},
+      "deadline_date": {"type": "datetime"},
+      "notes": {"type": "text"}
+    }
+  }
+}
+
+
+Let me know if you need any further assistance!

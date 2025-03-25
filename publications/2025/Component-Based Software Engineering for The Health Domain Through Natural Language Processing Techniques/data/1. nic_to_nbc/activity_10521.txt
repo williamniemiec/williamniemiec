@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Family Assessment": {
+    "Questions": {
+      "type": "form"
+    },
+    "Answer Type": {
+      "type": "options",
+      "options": ["text", "multiple choice", "rating scale", "etc"]
+    },
+    "Frequency": {
+      "type": "options",
+      "options": ["one-time", "daily", "weekly", "biweekly", "monthly", "etc"]
+    },
+    "Deadline Date": {
+      "type": "datetime"
+    }
+  }
+}

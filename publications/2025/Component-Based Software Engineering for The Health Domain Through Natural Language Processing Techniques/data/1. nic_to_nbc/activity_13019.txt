@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Assessment": {
+    "Child's Information": {"type": "form"},
+    "Special Needs": {"type": "options"},
+    "Adaptations Required": {"type": "text"},
+    "Frequency of Adaptations": {"type": "options"}
+  }
+}

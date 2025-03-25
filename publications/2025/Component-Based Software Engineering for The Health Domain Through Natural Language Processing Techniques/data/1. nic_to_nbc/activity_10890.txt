@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Radiation Therapy Precaution": {
+        "parameters": [
+            {"name": "Radiation Therapy History", "type": "boolean"},
+            {"name": "Exposed Tissue", "type": "text"},
+            {"name": "Thermal Agent", "type": "options", "options": ["heat", "cold"]},
+            {"name": "Avoidance Instructions", "type": "text"},
+            {"name": "Frequency", "type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]}
+        ]
+    }
+}

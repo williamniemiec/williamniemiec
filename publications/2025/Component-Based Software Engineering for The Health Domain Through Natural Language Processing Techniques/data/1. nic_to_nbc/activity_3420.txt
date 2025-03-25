@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Reinforcer": {
+        "Type": {"type": "options"},
+        "Schedule": {"type": "options"},
+        "Behavior": {"type": "text"},
+        "Criteria": {"type": "text"},
+        "Value": {"type": "numeric"},
+        "Randomization": {"type": "boolean"}
+    }
+}

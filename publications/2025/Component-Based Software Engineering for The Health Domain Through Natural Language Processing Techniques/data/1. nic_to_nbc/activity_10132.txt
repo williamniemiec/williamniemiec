@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Fetal Movement Tracker": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Frequency": {"Type": "options"},
+      "Tracking Method": {"Type": "options"},
+      "Deadline Date": {"Type": "datetime"},
+      "Notes": {"Type": "text"}
+    }
+  }
+}

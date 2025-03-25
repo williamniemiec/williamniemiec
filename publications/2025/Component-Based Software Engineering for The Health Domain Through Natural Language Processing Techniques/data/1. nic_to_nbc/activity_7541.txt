@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Phototherapy Guide": {
+    "Guide Content": {"Type": ["text", "images", "videos", "interactive tutorials"]},
+    "Family Access": {"Type": ["login", "access code"]},
+    "Quiz or Assessment": {"Type": ["multiple-choice questions", "true/false questions", "open-ended questions"]},
+    "Certification": {"Type": ["digital badge", "certificate"]}
+  }
+}

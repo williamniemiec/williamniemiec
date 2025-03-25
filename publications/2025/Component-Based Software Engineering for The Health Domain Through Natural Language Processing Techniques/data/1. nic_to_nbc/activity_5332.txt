@@ -1,0 +1,31 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication List": {
+    "Parameters": {
+      "Medications": {
+        "Description": "list of patient's current medications",
+        "Required": true,
+        "Type": "list of text"
+      },
+      "Dosage": {
+        "Description": "dosage information for each medication",
+        "Required": true,
+        "Type": "text"
+      },
+      "Frequency": {
+        "Description": "frequency of administration for each medication",
+        "Required": true,
+        "Type": "options",
+        "Options": [
+          { "value": "daily", "label": "Daily" },
+          { "value": "twiceDaily", "label": "Twice daily" },
+          { "value": "threeTimesDaily", "label": "Three times daily" }
+        ]
+      }
+    }
+  }
+}
+
+Let me know if this is what you were expecting!

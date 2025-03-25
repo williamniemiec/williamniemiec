@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Assistive Device": {
+    "Name": {"type": "text"},
+    "Description": {"type": "text"},
+    "Device Type": {"type": "options", "options": ["Gait belt", "Walker", "Cane", "Wheelchair", "Other (specify)"]},
+    "Purpose": {"type": "options", "options": ["Assist with transfer", "Assist with ambulation", "Provide support", "Enhance mobility", "Other (specify)"]},
+    "Frequency": {"type": "options", "options": ["As needed", "Daily", "Weekly", "Monthly"]},
+    "Trigger": {"type": "options", "options": ["Patient request", "Healthcare provider order", "Specific medical condition", "Other (specify)"]}
+  }
+}

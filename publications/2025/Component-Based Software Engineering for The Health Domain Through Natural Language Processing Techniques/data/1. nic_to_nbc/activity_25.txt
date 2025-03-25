@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "Neurological Status Monitoring": {
+    "monitoring_frequency": {
+      "type": "options",
+      "options": [
+        "Hourly",
+        "Daily",
+        "Weekly",
+        "Custom"
+      ]
+    },
+    "assessment_criteria": {
+      "type": "text"
+    },
+    "monitoring_results": {
+      "type": "text"
+    },
+    "intervention_trigger": {
+      "type": "text"
+    }
+  }
+}

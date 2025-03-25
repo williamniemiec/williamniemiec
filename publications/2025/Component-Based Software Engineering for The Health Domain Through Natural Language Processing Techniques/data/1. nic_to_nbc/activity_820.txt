@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Family Integration Plan": {
+    "Questions": {"type": "form", "options": ["open-ended", "multiple-choice", "rating scale", "etc."]},
+    "Goals": {"type": "text or list of options"},
+    "Strategies": {"type": "text or list of options"},
+    "Reflection": {"type": "text or audio/video recording"}
+  },
+  "Question": {
+    "Name": {},
+    "Answer Type": {},
+    "Follow-up Questions": {"type": "list of questions"}
+  }
+}

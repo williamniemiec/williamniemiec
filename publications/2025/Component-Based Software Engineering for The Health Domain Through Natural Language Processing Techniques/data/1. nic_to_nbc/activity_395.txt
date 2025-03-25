@@ -1,0 +1,45 @@
+Here is the output in JSON format:
+
+
+{
+  "tube insertion": {
+    "Tube Type": {
+      "description": "specify the type of tube to be inserted (nasogastric or rectal)",
+      "required": true,
+      "type": "options",
+      "options": [
+        { "value": "nasogastric", "label": "Nasogastric" },
+        { "value": "rectal", "label": "Rectal" }
+      ]
+    },
+    "Insertion Instructions": {
+      "description": "provide detailed instructions for inserting the tube",
+      "required": true,
+      "type": "text"
+    },
+    "Taping Instructions": {
+      "description": "provide instructions for securing the tube in place with tape",
+      "required": true,
+      "type": "text"
+    },
+    "Receptacle Instructions": {
+      "description": "provide instructions for inserting the distal end of the tube into a receptacle",
+      "required": true,
+      "type": "text"
+    },
+    "Frequency": {
+      "description": "specify how often the tube insertion should be performed",
+      "required": true,
+      "type": "options",
+      "options": [
+        { "value": "daily", "label": "Daily" },
+        { "value": "onlyOnce", "label": "Only once" },
+        { "value": "everyHours", "label": "Every x hours" },
+        { "value": "everyDays", "label": "Every x days" }
+      ]
+    }
+  }
+}
+
+
+I removed the `Deadline Date` parameter since it's not required. Let me know if you need anything else!

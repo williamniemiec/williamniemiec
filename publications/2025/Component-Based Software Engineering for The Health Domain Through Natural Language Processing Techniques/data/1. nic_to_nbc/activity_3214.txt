@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Peer Support": {
+    "parameters": {
+      "Peer Type": {"type": "options", "values": ["peer leader", "teacher", "support group"]},
+      "Peer Profile": {"type": "text"},
+      "Support Topic": {"type": "text"},
+      "Communication Channel": {"type": "options", "values": ["messaging", "video conferencing", "phone calls"]},
+      "Frequency": {"type": "options", "values": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"type": "datetime"}
+    }
+  }
+}

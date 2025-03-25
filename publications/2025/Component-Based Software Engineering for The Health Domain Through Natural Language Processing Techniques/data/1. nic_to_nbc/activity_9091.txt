@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Newborn Touch Therapy": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Frequency": {"Type": "options"},
+      "Duration": {"Type": "number", "Unit": "time"},
+      "Touch Type": {"Type": "options"},
+      "Session Tracking": {"Type": "boolean", "Optional": ["timestamp", "notes"]},
+      "Reminders": {"Type": "boolean", "Optional": ["reminder schedule"]}
+    }
+  }
+}

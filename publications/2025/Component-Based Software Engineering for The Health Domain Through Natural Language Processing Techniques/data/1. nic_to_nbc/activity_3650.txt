@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Avoidance Instruction": {
+    "parameters": {
+      "name": "",
+      "why": "",
+      "what_to_avoid": [],
+      "alternative_options": [],
+      "notes": ""
+    }
+  }
+}

@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+  "Fluid Intake Tracker": {
+    "Parameters": {
+      "Fluid Type": {},
+      "Amount": {},
+      "Frequency": {},
+      "Deadline Date": {},
+      "Notes": {}
+    }
+  },
+  "Fluid Administration": {
+    "Parameters": {
+      "Fluid Name": {},
+      "Dosage": {},
+      "Frequency": {},
+      "Deadline Date": {},
+      "Notes": {}
+    }
+  }
+}
+
+
+Let me know if you need any further modifications!

@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+    "Safe Transportation": {
+        "Transportation Mode": {
+            "options": ["walking", "wheelchair", "walker", "etc."],
+            "type": "options"
+        },
+        "Transportation Speed": {
+            "options": ["slow", "moderate", "gentle"],
+            "type": "options"
+        },
+        "Assistance Needed": {
+            "options": ["yes", "no"],
+            "type": "boolean"
+        },
+        "Notes": {
+            "type": "text"
+        }
+    }
+}

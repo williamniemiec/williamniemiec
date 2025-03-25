@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Family History Tool": {
+    "Name": {"Type": "text"},
+    "Description": {"Type": "text"},
+    "Questions": {"Type": "list of text"},
+    "Answer Type": {"Type": "options", "Options": ["text", "checkbox", "radio button"]},
+    "Instructions": {"Type": "text"}
+  }
+}

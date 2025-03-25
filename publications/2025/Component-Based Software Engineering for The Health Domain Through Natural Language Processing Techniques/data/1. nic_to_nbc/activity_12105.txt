@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "noCodeElementName": "Support Guide",
+  "parameterSpecifications": {
+    "Name": {"type": "text"},
+    "Affected Body Part": {"type": "options", "options": ["arm", "leg", "back", "etc."]},
+    "Support Method": {"type": "options", "options": ["sling", "brace", "pillow", "etc."]},
+    "Instructions": {"type": "text or multimedia"},
+    "Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"type": "datetime"}
+  }
+}

@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+{
+  "Medication Administration Log": {
+    "Parameters": {
+      "Medication Name": {},
+      "Administration Date and Time": {},
+      "Dose and Route": {},
+      "Patient Responsiveness": {},
+      "Notes": {}
+    }
+  }
+}
+
+Note that I removed the "Agency Protocol" parameter as it was not applicable (it had a type of "text or link to agency protocol document", which is not a standard data type). Let me know if you have any further questions!

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Foot and Leg Exercise": {
+    "Parameters": {
+      "Exercise Type": {"Type": "text"},
+      "Body Part": {"Type": "text"},
+      "Frequency": {"Type": "options", "Options": [{"value": "everyHour", "label": "Every hour"}, {"value": "custom", "label": "Custom"}]},
+      "Repetitions": {"Type": "number", "Default value": 10},
+      "Reminders": {"Type": "options", "Options": [{"value": "everyHour", "label": "Every hour"}, {"value": "custom", "label": "Custom"}]}
+    }
+  }
+}

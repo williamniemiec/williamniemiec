@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Grief Support": {
+    "Phase assessment": {},
+    "Support messages": {},
+    "Reflection prompts": {},
+    "Emotional tracking": {},
+    "Resource library": {}
+  }
+}

@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Progress Log": {
+        "parameters": {
+            "name": {"type": "text"},
+            "entry_type": {"type": "options"},
+            "frequency": {"type": "options"},
+            "fields": {"type": "list of field objects"}
+        }
+    }
+}

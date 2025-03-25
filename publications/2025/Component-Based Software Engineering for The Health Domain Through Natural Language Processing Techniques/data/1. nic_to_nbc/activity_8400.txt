@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+  "Vitamin and Supplement Guide": {
+    "parameters": {
+      "name": {"type": "text"},
+      "description": {"type": "text"},
+      "recommended_supplements": {"type": "list of objects", "properties": {
+        "name": {"type": "text"},
+        "description": {"type": "text"},
+        "dosage": {"type": "text"}
+      }}
+    }
+  },
+  "Medication Reminder": {
+    "parameters": {
+      "name": {"type": "text"},
+      "message": {"type": "text"},
+      "trigger": {"type": "text or datetime"}
+    }
+  }
+}

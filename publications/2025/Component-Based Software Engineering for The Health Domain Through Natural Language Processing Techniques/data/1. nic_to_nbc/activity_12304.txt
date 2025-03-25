@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+    "Rectal Pack": {
+        "Instructions": {"type": ["text", "multimedia"]},
+        "Frequency": {"type": "options"},
+        "Duration": {"type": ["text", "datetime"]},
+        "Notes": {"type": "text"}
+    }
+}

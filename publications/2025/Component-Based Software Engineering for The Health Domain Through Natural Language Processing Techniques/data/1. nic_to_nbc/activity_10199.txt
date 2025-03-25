@@ -1,0 +1,37 @@
+Here is the output in JSON format:
+
+
+{
+  "Drug Formulation Check": {
+    "parameters": [
+      {
+        "name": "check_concentration",
+        "description": "Check the concentration of the drug",
+        "required": true,
+        "type": "checkbox"
+      },
+      {
+        "name": "check_preservation",
+        "description": "Check if the drug is preservation-free",
+        "required": true,
+        "type": "checkbox"
+      },
+      {
+        "name": "check_formulation_type",
+        "description": "Check the type of formulation (e.g., solution, suspension, etc.)",
+        "required": true,
+        "type": "checkbox"
+      }
+    ]
+  },
+  "Drug Formulation Reference": {
+    "parameters": [
+      {
+        "name": "guide_content",
+        "description": "Content of the reference guide",
+        "required": true,
+        "type": "text"
+      }
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Dressing Change": {
+        "parameters": [
+            {"name": "Name", "type": "text"},
+            {"name": "Description", "type": "text"},
+            {"name": "Frequency", "type": "options"},
+            {"name": "Protocol", "type": "text"}
+        ]
+    }
+}

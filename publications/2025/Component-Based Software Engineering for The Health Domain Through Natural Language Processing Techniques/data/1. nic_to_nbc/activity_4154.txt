@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Progress Tracking": {
+    "Goal": {"type": "text"},
+    "Metrics": {"type": "options"},
+    "Target Value": {"type": "text"},
+    "Current Value": {"type": "text"},
+    "Progress": {"type": "calculated"},
+    "Notes": {"type": "text"},
+    "Graph/Chart": {"type": "graph or chart"}
+  }
+}

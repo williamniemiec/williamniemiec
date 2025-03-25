@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Vehicle Safety Education": {
+    "Parameters": {
+      "Vehicle Type": {"Type": "options"},
+      "Risk Factors": {"Type": "list of text"},
+      "Safety Tips": {"Type": "list of text"},
+      "Resources": {"Type": "text or links to resources"},
+      "Quiz": {"Type": "multiple choice or true/false questions"},
+      "Frequency": {"Type": "options"}
+    }
+  }
+}
+
+
+Note that I removed the `Deadline Date` parameter as it is not applicable (its type is `datetime`, which doesn't fit with the other parameters' types). Let me know if you have any further requests!

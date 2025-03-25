@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Smoking Cessation Guide": {
+    "Reasons to Quit": {"type": "text"},
+    "Quit Plan": {"type": "text"},
+    "Resources": {"type": "list of text"},
+    "Tracking": {"type": "boolean"},
+    "Motivational Messages": {"type": "list of text"},
+    "Frequency": {"type": "options"}
+  }
+}

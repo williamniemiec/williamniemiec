@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Response Descriptor": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Response Type": {"Type": "options", "Options": ["Patient response", "Family response", "Caregiver response"]},
+      "Intervention": {"Type": "options", "Options": ["Medication administration", "Wound care", "Pain management"]},
+      "Response": {"Type": "options", "Options": ["Positive response", "Negative response", "Neutral response"]},
+      "Details": {"Type": "rich text or HTML"}
+    }
+  }
+}

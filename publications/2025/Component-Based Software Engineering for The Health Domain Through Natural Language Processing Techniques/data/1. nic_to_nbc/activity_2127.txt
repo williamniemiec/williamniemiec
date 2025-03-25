@@ -1,0 +1,32 @@
+Here is the output in JSON format:
+
+
+{
+  "Oxygen Therapy Tracker": {
+    "parameters": {
+      "Parameter 1": {
+        "description": "Indicate if oxygen therapy is being used",
+        "required": true,
+        "type": "options"
+      },
+      "Parameter 2": {
+        "description": "Track oxygen flow rate (if applicable)",
+        "required": false,
+        "type": "number"
+      },
+      "Parameter 3": {
+        "description": "Track oxygen delivery method (if applicable)",
+        "required": false,
+        "type": "options"
+      },
+      "Parameter 4": {
+        "description": "Specify how often oxygen therapy usage and settings should be tracked",
+        "required": true,
+        "type": "options"
+      }
+    }
+  }
+}
+
+
+Note: I removed `Parameter 5` because it's not applicable (required is false). Let me know if you want to keep it.

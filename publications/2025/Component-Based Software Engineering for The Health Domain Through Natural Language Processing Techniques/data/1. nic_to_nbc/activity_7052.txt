@@ -1,0 +1,32 @@
+Here is the output in JSON format:
+
+
+{
+  "parameters": {
+    "Urine Output": {
+      "type": "numeric field"
+    },
+    "Skin Condition": {
+      "type": "options"
+    },
+    "Chest Pain": {
+      "type": "boolean"
+    },
+    "Vital Signs": {
+      "type": "numeric fields"
+    },
+    "JVD and Crackles": {
+      "type": "boolean"
+    },
+    "Level of Consciousness": {
+      "type": "options"
+    },
+    "Interval": {
+      "type": "text or options"
+    }
+  },
+  "no-code element name": "Cardiac Output Monitoring"
+}
+
+
+I removed the not applicable parameters, such as "Facility Protocol" since it's a PDF upload and not a parameter specification.

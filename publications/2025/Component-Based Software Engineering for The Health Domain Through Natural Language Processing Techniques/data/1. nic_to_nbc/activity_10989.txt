@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "ADL Exercise": {
+    "Parameters": {
+      "ADLs": {},
+      "Exercise Protocol": {},
+      "Frequency": {}
+    }
+  }
+}

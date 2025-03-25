@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Area Restriction": {
+    "parameters": {
+      "Designated Area": {"type": "text"},
+      "Reason": {"type": "text"},
+      "Boundary": {"type": "text"},
+      "Visual Aids": {"type": "multimedia"}
+    }
+  }
+}

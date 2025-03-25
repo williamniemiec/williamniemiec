@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Seat Belt Guide": {
+        "Parameters": {
+            "Title": {"Type": "text"},
+            "Content": {"Type": "rich text or HTML"},
+            "Steps": {"Type": "list of text"},
+            "Images": {"Type": "list of image URLs"},
+            "Videos": {"Type": "list of video URLs"}
+        }
+    }
+}

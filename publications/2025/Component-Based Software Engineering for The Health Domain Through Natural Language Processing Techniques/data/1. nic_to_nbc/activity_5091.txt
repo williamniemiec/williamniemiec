@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Value Clarifier": {
+    "parameters": {
+      "Value Assessment": ["Cultural background", "Religious beliefs", "Personal values"],
+      "Nonjudgmental Language": ["Avoiding biased or leading questions", "Using neutral and respectful tone"],
+      "Empathetic Response": ["Acknowledging and validating their feelings", "Showing understanding and compassion"],
+      "Cultural Competence": ["Understanding cultural nuances and differences", "Adapting communication style to meet cultural needs"],
+      "Family Feedback": ["Satisfaction surveys", "Open-ended feedback forms", "Regular meetings to discuss concerns and suggestions"]
+    }
+  }
+}
+
+
+Let me know if you need anything else!

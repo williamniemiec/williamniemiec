@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Instruction": {
+    "Parameters": {
+      "Medication Name": {"Type": "text"},
+      "Dosage Instructions": {"Type": "structured data (e.g., JSON object)"},
+      "Administration Instructions": {"Type": "rich text"},
+      "Side Effects": {"Type": "list of text or rich text"},
+      "Interactions": {"Type": "list of text or rich text"},
+      "Monitoring": {"Type": "rich text"}
+    }
+  }
+}

@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Sensory Blockade Monitoring": {
+    "parameters": {
+      "sensory_blockade_scale": {
+        "type": "options"
+      },
+      "interval": {
+        "type": "options"
+      },
+      "recording_method": {
+        "type": "options"
+      },
+      "flow_sheet": {
+        "type": "attachment or link"
+      }
+    }
+  }
+}

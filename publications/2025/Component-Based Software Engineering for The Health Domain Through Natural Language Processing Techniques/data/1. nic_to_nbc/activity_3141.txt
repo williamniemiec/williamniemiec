@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Education": {
+    "Content": {"type": ["text", "html"]},
+    "Format": {"options": ["text", "image", "video", "audio"]},
+    "Target Audience": {"options": ["patient", "visitor", "both"]},
+    "Frequency": {"options": ["once", "daily", "every visit"]},
+    "Deadline Date": {"type": "datetime"}
+  }
+}

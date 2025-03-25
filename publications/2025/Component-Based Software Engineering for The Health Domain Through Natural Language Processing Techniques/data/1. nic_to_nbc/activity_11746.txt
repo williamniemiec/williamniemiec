@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Neurological Status Assessment": {
+    "Questions": [],
+    "Answer Type": [],
+    "Frequency": ["daily", "onlyOnce", "everyHours", "everyDays"],
+    "Deadline Date": "datetime"
+  }
+}

@@ -1,0 +1,53 @@
+Here is the output in JSON format:
+
+
+{
+  "Blood Glucose Monitoring": {
+    "Parameters": {
+      "Tracking Form": {
+        "Description": "Form to track blood glucose levels",
+        "Required": true,
+        "Type": "form",
+        "Form fields": [
+          { "label": "Date", "type": "date" },
+          { "label": "Time", "type": "time" },
+          { "label": "Blood Glucose Level", "type": "number" }
+        ]
+      },
+      "Target Range": {
+        "Description": "Target range for blood glucose levels",
+        "Required": true,
+        "Type": "range",
+        "Range values": [
+          { "label": "Minimum", "type": "number" },
+          { "label": "Maximum", "type": "number" }
+        ]
+      },
+      "Reminders": {
+        "Description": "Reminders to track blood glucose levels",
+        "Required": true,
+        "Type": "options",
+        "Options": [
+          { "value": "daily", "label": "Daily" },
+          { "value": "weekly", "label": "Weekly" },
+          { "value": "monthly", "label": "Monthly" }
+        ]
+      },
+      "Graphical Display": {
+        "Description": "Graphical display of tracked blood glucose levels",
+        "Required": true,
+        "Type": "graph"
+      },
+      "Frequency": {
+        "Description": "Specify how often the patient should track blood glucose levels",
+        "Required": true,
+        "Type": "options",
+        "Options": [
+          { "value": "daily", "label": "Daily" },
+          { "value": "weekly", "label": "Weekly" },
+          { "value": "monthly", "label": "Monthly" }
+        ]
+      }
+    }
+  }
+}

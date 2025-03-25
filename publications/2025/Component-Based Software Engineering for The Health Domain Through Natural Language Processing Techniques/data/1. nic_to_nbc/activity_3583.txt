@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Bowel Movement Monitor": {
+    "Stool Consistency": {},
+    "Stool Frequency": {},
+    "Abdominal Pain": {},
+    "Bloating": {},
+    "Nausea": {},
+    "Vomiting": {},
+    "Fever": {},
+    "Blood in Stool": {},
+    "Mucus in Stool": {},
+    "Date": {}
+  }
+}

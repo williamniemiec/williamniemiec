@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+  "Alert Education": {
+    "Parameters": {
+      "Side Effects": {
+        "Type": "list of options",
+        "Options": ["chest pain", "shortness of breath", "tachycardia", "recurrent contractions", "others"]
+      },
+      "Description": {
+        "Type": "text"
+      },
+      "Reporting Instructions": {
+        "Type": "text or video"
+      },
+      "Contact Information": {
+        "Type": "text"
+      },
+      "Urgency Level": {
+        "Type": "options",
+        "Options": ["immediate", "within 1 hour", "within 2 hours", "others"]
+      }
+    }
+  }
+}

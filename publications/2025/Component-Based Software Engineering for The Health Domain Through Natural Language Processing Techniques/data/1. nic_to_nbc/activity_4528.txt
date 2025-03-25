@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+    "group_member_selection": {
+        "parameters": [
+            {"name": "member_list"},
+            {"name": "selection_criteria"}
+        ]
+    }
+}

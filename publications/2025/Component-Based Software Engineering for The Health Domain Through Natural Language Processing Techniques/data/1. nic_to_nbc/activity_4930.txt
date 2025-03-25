@@ -1,0 +1,30 @@
+Here is the output in JSON format:
+
+
+{
+  "Environmental Assessment": {
+    "parameters": {
+      "environmental_factors": {"type": "form"},
+      "current_environment": {"type": "text"}
+    }
+  },
+  "Daily Routine Plan": {
+    "parameters": {
+      "routine_activities": {"type": "unordered list"},
+      "schedule": {"type": "table"},
+      "reminders": {"type": "text"}
+    }
+  },
+  "Environmental Customization": {
+    "parameters": {
+      "customization_options": {"type": "unordered list"},
+      "implementation_plan": {"type": "text"}
+    }
+  },
+  "Routine Tracking": {
+    "parameters": {
+      "tracking_method": {"type": "options"},
+      "adherence_data": {"type": "table"}
+    }
+  }
+}

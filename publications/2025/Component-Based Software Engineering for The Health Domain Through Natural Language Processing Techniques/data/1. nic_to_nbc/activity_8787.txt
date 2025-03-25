@@ -1,0 +1,33 @@
+Here is the output in JSON format:
+
+
+{
+    "exercise_schedule": {
+        "type": "list of exercise objects",
+        "parameters": {
+            "exercise_name": {"type": "text"},
+            "frequency": {"type": "options", "values": ["daily", "everyOtherDay", "every2Days", "every3Days", "..."]},
+            "duration": {"type": "numeric value"},
+            "instructions": {"type": "text or multimedia content"}
+        }
+    },
+    "reminders": {
+        "type": "list of reminder objects",
+        "parameters": {
+            "reminder_text": {"type": "text"},
+            "reminder_time": {"type": "time value"}
+        }
+    },
+    "progress_tracking": {
+        "type": "list of log objects",
+        "parameters": {
+            "exercise_name": {"type": "text"},
+            "date": {"type": "date value"},
+            "notes": {"type": "text"}
+        }
+    },
+    "ROM Exercise Schedule": {}
+}
+
+
+Note that I removed the not applicable parameters and only kept the `{{ PARAMETER ESPECIFICATIONS }}` and `{{ NO-CODE ELEMENT NAME }}` as requested.

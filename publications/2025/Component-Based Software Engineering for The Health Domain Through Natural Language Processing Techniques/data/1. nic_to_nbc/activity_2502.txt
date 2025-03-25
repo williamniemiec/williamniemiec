@@ -1,0 +1,10 @@
+Here is the output in JSON format:
+
+
+{
+  "Cast Edge Padding": {
+    "cast_part": {"Description": "Specific part of the cast to pad", "Required": true, "Type": "text"},
+    "Padding": {"Description": "Specific type of padding to use", "Required": true, "Type": "text"},
+    "Image": {"Description": "Image illustrating the correct padding of cast edges and traction connections", "Required": true, "Type": "image"}
+  }
+}

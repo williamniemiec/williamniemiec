@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Surveillance Plan": {
+    "Parameters": {
+      "Surveillance Frequency": {"Type": "options", "Options": ["continuous", "frequent", "periodic", "other"]},
+      "Surveillance Methods": {"Type": "list of text"},
+      "Environmental Factors": {"Type": "list of text"},
+      "Patient Behaviors": {"Type": "list of text"},
+      "Risk Factors": {"Type": "list of text"},
+      "Intervention Thresholds": {"Type": "list of text"},
+      "Caregiver Involvement": {"Type": "options", "Options": ["high", "medium", "low", "other"]}
+    }
+  }
+}

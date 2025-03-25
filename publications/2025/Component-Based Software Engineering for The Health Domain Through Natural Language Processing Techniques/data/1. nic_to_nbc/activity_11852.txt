@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Injury Prevention": {
+    "Title": {"Description": "Title of the injury prevention instruction", "Required": true, "Type": "text"},
+    "Instructions": {"Description": "Instructions on how to protect from injury", "Required": true, "Type": "text"},
+    "Risk Factors": {"Description": "List of risk factors for injury that the patient should be aware of", "Required": true, "Type": "unordered list"},
+    "Precautions": {"Description": "List of precautions the patient should take to prevent injury", "Required": true, "Type": "unordered list"}
+  }
+}

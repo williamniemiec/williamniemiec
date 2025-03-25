@@ -1,0 +1,58 @@
+Here is the output in JSON format:
+
+
+{
+  "Name": "Medical transport coordination",
+  "Parameters": {
+    "Transportation type": {
+      "Description": "select the type of medical transport needed",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "ambulance", "label": "Ambulance" },
+        { "value": "non-emergency medical transport", "label": "Non-emergency medical transport" },
+        { "value": "wheelchair transport", "label": "Wheelchair transport" },
+        { "value": "other", "label": "Other (specify)" }
+      ]
+    },
+    "Pickup location": {
+      "Description": "enter the pickup location for medical transport",
+      "Required": true,
+      "Type": "text"
+    },
+    "Destination": {
+      "Description": "enter the destination for medical transport",
+      "Required": true,
+      "Type": "text"
+    },
+    "Date and time": {
+      "Description": "select the date and time for medical transport",
+      "Required": true,
+      "Type": "datetime"
+    },
+    "Transportation provider": {
+      "Description": "select the transportation provider",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "hospital transport team", "label": "Hospital transport team" },
+        { "value": "private transport company", "label": "Private transport company" },
+        { "value": "other", "label": "Other (specify)" }
+      ]
+    },
+    "Confirmation": {
+      "Description": "select the confirmation method for medical transport",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "phone call", "label": "Phone call" },
+        { "value": "email", "label": "Email" },
+        { "value": "text message", "label": "Text message" },
+        { "value": "other", "label": "Other (specify)" }
+      ]
+    }
+  }
+}
+
+
+I removed the `Special requirements` parameter since it's not required. Let me know if you need anything else!

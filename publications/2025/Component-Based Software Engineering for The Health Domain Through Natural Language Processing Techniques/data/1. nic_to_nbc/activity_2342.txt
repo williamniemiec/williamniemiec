@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "parameters": {
+    "Name": {"type": "text"},
+    "Support Activities": {"type": "list of support activities (with descriptions and examples)"},
+    "Family Member Roles": {"type": "list of family member roles (with descriptions and examples)"},
+    "Goal Setting": {"type": "text"},
+    "Progress Tracking": {"type": "list of progress tracking metrics (with descriptions and examples)"},
+    "Frequency": {"type": "options", "options": ["daily", "weekly", "monthly", "quarterly"]},
+    "Deadline Date": {"type": "datetime"}
+  },
+  "noCodeElementName": "Family Support and Engagement"
+}
+
+
+Let me know if this meets your requirements!

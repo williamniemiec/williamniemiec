@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "Bicarbonate Loss Tracker": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Bicarbonate Loss Types": {"Type": "options"},
+      "Frequency": {"Type": "options"},
+      "Deadline Date": {"Type": "datetime"},
+      "Input Fields": {"Type": "form"},
+      "Details": {"Type": "text"}
+    }
+  },
+  "Symptom Tracker": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Symptoms": {"Type": "options"},
+      "Frequency": {"Type": "options"},
+      "Deadline Date": {"Type": "datetime"},
+      "Input Fields": {"Type": "form"}
+    }
+  }
+}

@@ -1,0 +1,32 @@
+Here is the output in JSON format:
+
+
+{
+  "Personal Space": {
+    "Parameters": {
+      "Touch Preference": {
+        "Type": "options",
+        "Options": ["yes", "no", "only from certain people", "etc."]
+      },
+      "Proximity Preference": {
+        "Type": "options",
+        "Options": ["close", "distant", "only in certain situations", "etc."]
+      },
+      "Stress Triggers": {
+        "Type": "text"
+      },
+      "Coping Strategies": {
+        "Type": "text"
+      },
+      "Stress Level": {
+        "Type": "scale"
+      },
+      "Anxiety Level": {
+        "Type": "scale"
+      },
+      "Trigger": {
+        "Type": "text"
+      }
+    }
+  }
+}

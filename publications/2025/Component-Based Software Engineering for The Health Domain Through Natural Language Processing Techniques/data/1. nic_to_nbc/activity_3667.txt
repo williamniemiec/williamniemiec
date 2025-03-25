@@ -1,0 +1,39 @@
+Here is the output in JSON format:
+
+
+{
+  "Therapy Session Scheduler": {
+    "Parameters": {
+      "Therapy type": "options",
+      "Therapist or counselor": "text",
+      "Session date and time": "datetime",
+      "Session duration": "options"
+    }
+  },
+  "Therapy Session Tracker": {
+    "Parameters": {
+      "Therapy type": "options",
+      "Session date and time": "datetime",
+      "Session notes": "text",
+      "Progress tracking": "options"
+    }
+  },
+  "Therapy Exercises and Activities": {
+    "Parameters": {
+      "Therapy type": "options",
+      "Exercise or activity": "text or multimedia content",
+      "Instructions": "text",
+      "Due date": "datetime"
+    }
+  },
+  "Therapy Resources and Support": {
+    "Parameters": {
+      "Therapy type": "options",
+      "Resource type": "options",
+      "Resource content": "text or multimedia content"
+    }
+  }
+}
+
+
+Note that I removed the introduction, conclusion, and any unnecessary elements, leaving only the no-code element names and their corresponding parameter specifications.

@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Administration": {
+    "Parameters": {
+      "Medication Name": {"Type": "text"},
+      "Why": {"Type": "text"},
+      "Dosage": {"Type": "text"},
+      "Frequency": {"Type": "options", "Options": ["beforeEveryMeal", "beforeSpecificMeal", "daily", "everyXHours"]},
+      "Meal Association": {"Type": "options", "Options": ["breakfast", "lunch", "dinner", "snack"]},
+      "Deadline Date": {"Type": "datetime"},
+      "Notes": {"Type": "text"}
+    }
+  }
+}
+
+
+Let me know if this meets your requirements!

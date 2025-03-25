@@ -1,0 +1,12 @@
+
+
+
+{
+  "Topical Medication": {
+    "medication name": {},
+    "medication type": {},
+    "Instructions": {},
+    "Frequency": {},
+    "Deadline Date": {}
+  }
+}

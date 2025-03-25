@@ -1,0 +1,10 @@
+Here is the output in JSON format:
+
+
+
+{
+  "No-code Element Name": "Learning Sanctuary",
+  "Parameter Specifications": {
+    "Content Type": "interactive virtual environment"
+  }
+}

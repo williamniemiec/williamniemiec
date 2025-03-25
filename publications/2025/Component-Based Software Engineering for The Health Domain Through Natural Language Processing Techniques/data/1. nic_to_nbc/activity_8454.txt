@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Emotional Feedback": {
+    "parameters": {
+      "Feedback Message": {"type": "text"},
+      "Emotion": {"type": "text"},
+      "Trigger": {"type": "text"},
+      "Frequency": {"options": ["daily", "weekly", "monthly"]}
+    }
+  }
+}

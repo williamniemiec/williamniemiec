@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Fetal Heart Tone Monitoring": {
+    "parameters": {
+      "Fetal Heart Tone Entry": {"type": "number"},
+      "Fetal Heart Tone Goal": {"type": "number"},
+      "Fetal Heart Tone Tracking Schedule": {"type": "list of datetime"},
+      "Fetal Heart Tone Chart": {"type": "multimedia"},
+      "Alerts": {"type": "boolean"}
+    }
+  },
+  "optionalParameters": {
+    "Fetal Movement Tracking": {"type": "rating scale"},
+    "Fetal Movement Chart": {"type": "multimedia"}
+  }
+}
+
+
+Let me know if this is what you were expecting!

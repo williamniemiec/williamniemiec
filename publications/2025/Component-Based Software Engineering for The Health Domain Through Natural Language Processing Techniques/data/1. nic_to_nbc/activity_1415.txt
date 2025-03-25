@@ -1,0 +1,34 @@
+Here is the output JSON:
+
+
+{
+  "name": "Patient Transfer",
+  "parameters": [
+    {
+      "name": "Transfer Type",
+      "type": "string"
+    },
+    {
+      "name": "Patient Position",
+      "type": "string"
+    },
+    {
+      "name": "Transfer Team",
+      "type": "list",
+      "list_type": "team member",
+      "team member": {
+        "name": "string",
+        "role": "string"
+      }
+    },
+    {
+      "name": "Safety Precautions",
+      "type": "list",
+      "list_type": "safety precaution",
+      "safety precaution": {
+        "description": "string",
+        "required": "boolean"
+      }
+    }
+  ]
+}

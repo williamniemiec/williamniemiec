@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Bubbling Observation": {
+    "parameters": {
+      "Bubbling Observation": {"type": "boolean response"},
+      "Inspiration": {"type": "boolean response"},
+      "Expiration": {"type": "boolean response"},
+      "Reporting": {"type": "text or multimedia content"},
+      "Frequency": {"options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"type": "datetime"},
+      "Reminders": {"type": "boolean"},
+      "Alerts": {"type": "boolean"}
+    }
+  }
+}

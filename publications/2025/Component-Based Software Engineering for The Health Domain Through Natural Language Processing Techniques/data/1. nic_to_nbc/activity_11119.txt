@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Time Out Plan": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Description": {"Type": "text"},
+      "Misbehaviors": {"Type": "text"},
+      "Time Out Duration": {"Type": "number"},
+      "Time Out Location": {"Type": "text"},
+      "Calming Strategies": {"Type": "options"},
+      "Frequency": {"Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"Type": "datetime"},
+      "Tips": {"Type": "text"}
+    }
+  }
+}

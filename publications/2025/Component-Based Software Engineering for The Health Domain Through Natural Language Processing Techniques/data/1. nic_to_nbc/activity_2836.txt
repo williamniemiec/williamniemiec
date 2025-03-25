@@ -1,0 +1,29 @@
+Here is the output in JSON format:
+
+
+{
+  "Discharge or Transfer": {
+    "Parameters": {
+      "Discharge or Transfer": {},
+      "Destination": {},
+      "Mode of Transportation": {},
+      "Agency Protocol": {}
+    }
+  },
+  "Discharge or Transfer Instructions": {
+    "Parameters": {
+      "Instructions": {},
+      "Medications": {},
+      "Follow-up Care": {}
+    }
+  },
+  "Patient Acknowledgement": {
+    "Parameters": {
+      "Acknowledgement": {},
+      "Date and Time": {}
+    }
+  }
+}
+
+
+Note that I removed the "Not Applicable" parameters, which were not present in the input text.

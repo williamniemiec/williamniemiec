@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Transport Arrangement": {
+    "Parameters": {
+      "Transport Type": {"Type": "options"},
+      "Transport Provider": {"Type": "text"},
+      "Pickup Location": {"Type": "text"},
+      "Destination": {"Type": "text"},
+      "Transport Date and Time": {"Type": "datetime"},
+      "Special Requirements": {"Type": "options"}
+    }
+  }
+}

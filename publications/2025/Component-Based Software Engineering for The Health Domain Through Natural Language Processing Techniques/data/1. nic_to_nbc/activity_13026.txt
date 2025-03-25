@@ -1,0 +1,10 @@
+
+
+
+{
+    "Swallowing Aid": {
+        "Aid": {"type": "text or options"},
+        "Timing": {"type": "text or options"},
+        "Instructions": {"type": "text"}
+    }
+}

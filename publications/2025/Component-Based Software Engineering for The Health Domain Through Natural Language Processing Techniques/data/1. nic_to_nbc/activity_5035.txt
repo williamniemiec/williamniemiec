@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+    "Observation": {
+        "Parameters": {
+            "Action": {"Type": "text"},
+            "Observation Criteria": {"Type": "text"},
+            "Trigger": {"Type": "text"}
+        }
+    }
+}

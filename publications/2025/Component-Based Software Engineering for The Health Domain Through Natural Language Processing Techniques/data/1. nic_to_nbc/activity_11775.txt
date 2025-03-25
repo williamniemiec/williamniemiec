@@ -1,0 +1,44 @@
+Here is the output in JSON format:
+
+
+[
+    {
+        "name": "Learning Module",
+        "parameters": {
+            "name": "",
+            "content": "",
+            "format": "",
+            "duration": ""
+        }
+    },
+    {
+        "name": "Video Lesson",
+        "parameters": {
+            "name": "",
+            "video": "",
+            "description": "",
+            "duration": ""
+        }
+    },
+    {
+        "name": "Interactive Simulation",
+        "parameters": {
+            "name": "",
+            "scenario": "",
+            "interactions": "",
+            "feedback": ""
+        }
+    },
+    {
+        "name": "Quiz with Feedback",
+        "parameters": {
+            "name": "",
+            "questions": "",
+            "feedback": "",
+            "scoring": ""
+        }
+    }
+]
+
+
+Let me know if this is what you were expecting!

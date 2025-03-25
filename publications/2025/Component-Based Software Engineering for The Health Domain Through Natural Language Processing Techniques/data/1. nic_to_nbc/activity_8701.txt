@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+    "Oxygen Delivery Monitor": {
+        "parameters": {
+            "name": {},
+            "PaO2": {},
+            "SaO2": {},
+            "hemoglobin_levels": {},
+            "cardiac_output": {},
+            "frequency": {},
+            "notes": {}
+        }
+    }
+}

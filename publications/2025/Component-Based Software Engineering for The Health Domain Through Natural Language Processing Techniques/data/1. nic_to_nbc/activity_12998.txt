@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Fertility and Pregnancy Guide": {
+    "Parameters": {
+      "Fertility Identification": {"Type": ["text", "images", "videos"]},
+      "Signs of Pregnancy": {"Type": ["text", "images", "videos"]},
+      "Ways to Confirm Pregnancy": {"Type": ["text", "images", "videos"]},
+      "Interactive Quizzes": {"Type": ["multiple-choice questions", "true/false questions", "interactive simulations"]},
+      "Resources": {"Type": ["list of URLs or video IDs"]},
+      "Tracking Tools": {"Type": ["interactive calendar or tracking tool"]}
+    }
+  }
+}

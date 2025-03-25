@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Anger Trigger Management": {
+        "parameters": {
+            "Anger Triggers": {"type": "list of triggers"},
+            "Trigger Severity": {"type": "options"},
+            "Adaptive Expression": {"type": "text, audio, or video content"},
+            "Trigger Avoidance Strategies": {"type": "text, audio, or video content"},
+            "Progress Tracking": {"type": "interactive exercise or gamification element"}
+        }
+    }
+}

@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Overstimulation Signs": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Signs": {"Type": "list", "Examples": ["Fussing or crying", "Arching of the back", "Stiffening of the body", "Avoiding eye contact", "Covering the ears or eyes", "Other"]},
+      "Descriptions": {"Type": "text", "Example": "Fussing or crying: When your infant becomes overwhelmed, they may fuss or cry to signal that they need a break from the stimulation."},
+      "Videos": {"Type": "video", "Example": "A short video showing an infant arching their back in response to overstimulation"},
+      "What to Do": {"Type": "text", "Example": "If you notice your infant is overstimulated, try to identify the source of the stimulation and remove it. Provide a calm and soothing environment to help your infant relax."},
+      "Prevention Tips": {"Type": "text", "Example": "To prevent overstimulation, try to limit the number of toys or stimuli in your infant's environment. Also, be mindful of your infant's cues and take breaks when they seem overwhelmed."}
+    }
+  }
+}

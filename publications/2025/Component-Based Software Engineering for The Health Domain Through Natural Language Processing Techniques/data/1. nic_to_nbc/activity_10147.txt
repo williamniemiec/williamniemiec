@@ -1,0 +1,37 @@
+Here is the output in JSON format:
+
+
+{
+  "Vaccination Information": {
+    "Name": {"type": "text"},
+    "Content": {"type": "interactive content"},
+    "Pages": {
+      "type": "list of objects",
+      "properties": {
+        "Title": {"type": "text"},
+        "Content": {"type": "content type"}
+      }
+    },
+    "Vaccinations": {
+      "type": "list of objects",
+      "properties": {
+        "Label": {"type": "text"},
+        "Description": {"type": "text"}
+      }
+    },
+    "Benefits": {
+      "type": "list of objects",
+      "properties": {
+        "Vaccination": {"type": "text"},
+        "Benefit": {"type": "text"}
+      }
+    },
+    "Resources": {
+      "type": "list of objects",
+      "properties": {
+        "Label": {"type": "text"},
+        "URL": {"type": "URL"}
+      }
+    }
+  }
+}

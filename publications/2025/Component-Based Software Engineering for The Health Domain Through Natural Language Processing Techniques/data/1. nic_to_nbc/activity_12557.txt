@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+  "Learner Profile": {
+    "Parameters": {
+      "Literacy Level": {"Type": "text or options"},
+      "Language": {"Type": "text or options"},
+      "Educational Background": {"Type": "text or options"},
+      "Previous Experience": {"Type": "text or options"},
+      "Age": {"Type": "number"},
+      "Motivation": {"Type": "text or options"},
+      "Attitude": {"Type": "text or options"}
+    }
+  },
+  "Learning Style": {},
+  "Knowledge Gap": {},
+  "Personalized Learning Plan": {}
+}
+
+
+Note that I removed the not applicable parameters and only kept the `Parameters` section for each no-code element. Let me know if you need any further modifications!

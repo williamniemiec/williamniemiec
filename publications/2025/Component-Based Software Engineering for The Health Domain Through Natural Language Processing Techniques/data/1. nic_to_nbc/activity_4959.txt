@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Notification": {
+    "Parameters": {
+      "Notification Type": {},
+      "Reason": {},
+      "Effective Date": {},
+      "Next Steps": {},
+      "Resources": {},
+      "Contact Information": {}
+    }
+  }
+}

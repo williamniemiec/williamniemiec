@@ -1,0 +1,47 @@
+Here is the output in JSON format:
+
+
+[
+  {
+    "name": "Pain Precipitant Identification",
+    "parameters": {
+      "name": "",
+      "precipitants": [],
+      "assessment": ""
+    }
+  },
+  {
+    "name": "Fear Reduction",
+    "parameters": {
+      "name": "",
+      "content": "",
+      "techniques": []
+    }
+  },
+  {
+    "name": "Fatigue Management",
+    "parameters": {
+      "name": "",
+      "strategies": [],
+      "tracking": ""
+    }
+  },
+  {
+    "name": "Monotony Breaker",
+    "parameters": {
+      "name": "",
+      "activities": [],
+      "scheduling": ""
+    }
+  },
+  {
+    "name": "Knowledge Empowerment",
+    "parameters": {
+      "name": "",
+      "content": "",
+      "resources": []
+    }
+  }
+]
+
+Note that I removed the non-applicable parameters and only kept the `name` and corresponding `parameters` for each no-code element.

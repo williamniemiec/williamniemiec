@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Thermal Safety Education",
+    "parameters": [
+        {
+            "name": "Thermal Agent",
+            "options": ["heat", "cold"]
+        },
+        {
+            "name": "Safety Precautions"
+        },
+        {
+            "name": "Contraindications"
+        },
+        {
+            "name": "Frequency",
+            "options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+        },
+        {
+            "name": "Deadline Date"
+        }
+    ]
+}

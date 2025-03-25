@@ -1,0 +1,41 @@
+Here is the output in JSON format:
+
+
+{
+  "Staff Consensus": {
+    "Staff List": {
+      "Type": "list of text inputs"
+    },
+    "Consensus Question": {
+      "Type": "yes/no question"
+    },
+    "Consensus Status": {
+      "Type": "yes/no indicator"
+    },
+    "Consensus Deadline": {
+      "Type": "datetime"
+    }
+  },
+  "Task": {
+    "Task Description": {
+      "Type": "text input"
+    },
+    "Staff List": {
+      "Type": "list of text inputs"
+    },
+    "Consensus Question": {
+      "Type": "yes/no question"
+    }
+  },
+  "Guide": {
+    "Step-by-Step Process": {
+      "Type": "list of text inputs"
+    },
+    "Staff List": {
+      "Type": "list of text inputs"
+    },
+    "Consensus Question": {
+      "Type": "yes/no question"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+  "Neurological Status Assessment": {
+    "Assessment Questions": {
+      "Type": "list of questions or tasks"
+    },
+    "Frequency": {
+      "Options": ["every 4 hours", "per protocol"]
+    },
+    "Deadline Date": {
+      "Type": "datetime"
+    },
+    "Results": {
+      "Type": "text or checkbox list"
+    }
+  }
+}
+
+
+Let me know if you need anything else!

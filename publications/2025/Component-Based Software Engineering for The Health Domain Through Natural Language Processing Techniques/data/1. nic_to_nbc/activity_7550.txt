@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Patient Demographic Assessment": {
+    "Age": {"Type": "number"},
+    "Weight": {"Type": "number"},
+    "Gestational Age": {"Type": "number"}
+  },
+  "HCO3 Agent Contraindication Checker": {
+    "Patient Demographic Information": {"Type": "text or number"},
+    "Contraindication Result": {"Type": "text or boolean"}
+  },
+  "Cautious Administration Guidance": {
+    "Contraindication Result": {"Type": "text or boolean"},
+    "Guidance": {"Type": "text or table"}
+  }
+}

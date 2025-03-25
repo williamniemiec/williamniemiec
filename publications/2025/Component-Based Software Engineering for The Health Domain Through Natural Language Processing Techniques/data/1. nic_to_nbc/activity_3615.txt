@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+  "Sedation Education": {
+    "Parameters": {
+      "Education Content": {
+        "Type": "text or multimedia (e.g., video, image)"
+      },
+      "Topics Covered": {
+        "Type": "list of text"
+      },
+      "Family Education": {
+        "Type": "options (e.g., patient, family, both)"
+      },
+      "Additional Resources": {
+        "Type": "list of text or URLs"
+      },
+      "Quiz Questions": {
+        "Type": "list of text or multiple-choice questions"
+      },
+      "Quiz Answers": {
+        "Type": "list of text or multiple-choice answers"
+      }
+    }
+  }
+}

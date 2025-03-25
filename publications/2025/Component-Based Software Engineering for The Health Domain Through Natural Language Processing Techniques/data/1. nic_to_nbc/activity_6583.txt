@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "Resource Documentation": {
+    "Parameters": {
+      "Resource Type": {
+        "Type": "options"
+      },
+      "Resource List": {
+        "Type": "list of text"
+      },
+      "Details": {
+        "Type": "text"
+      },
+      "Frequency": {
+        "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+      }
+    }
+  }
+}
+
+
+Let me know if this meets your requirements!

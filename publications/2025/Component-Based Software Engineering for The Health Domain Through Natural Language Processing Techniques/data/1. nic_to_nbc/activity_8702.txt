@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Cooperation Catalyst": {
+    "Game Type": {"type": "options", "values": ["puzzle", "team-based challenge", "collaborative storytelling", "role-playing"]},
+    "Gameplay": {"type": "interactive game or simulation"},
+    "Team Size": {"type": "integer"},
+    "Goals": {"type": "text"},
+    "Rewards": {"type": "text"},
+    "Frequency": {"type": "options", "values": ["daily", "weekly"]}
+  }
+}

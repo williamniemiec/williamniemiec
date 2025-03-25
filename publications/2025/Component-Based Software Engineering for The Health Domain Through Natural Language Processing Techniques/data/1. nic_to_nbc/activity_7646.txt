@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Potty Introduction": {
+    "Step-by-Step Guide": {},
+    "Tips and Reminders": {},
+    "Visual Aids": {},
+    "Frequency": {},
+    "Encouragement": {}
+  }
+}

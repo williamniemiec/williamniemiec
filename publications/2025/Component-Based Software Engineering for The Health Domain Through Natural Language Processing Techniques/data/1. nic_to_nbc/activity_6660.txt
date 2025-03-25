@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+{
+  "Infertility Support": {
+    "Parameters": {
+      "Emotional Support": {"Type": "text or audio content"},
+      "History and Evaluation Guidance": {"Type": "text or video content"},
+      "Stress Management Techniques": {"Type": "text or video content"},
+      "Progress Tracking": {"Type": "chart or graph"},
+      "Resources": {"Type": "list of resources with descriptions and contact information"}
+    }
+  }
+}
+
+I removed the "Reminders" parameter because it was marked as a boolean type, which is not applicable in this context.

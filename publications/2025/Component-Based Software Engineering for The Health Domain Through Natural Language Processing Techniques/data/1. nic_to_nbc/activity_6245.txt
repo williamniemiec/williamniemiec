@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "Regimen Adjustment Assistant": {
+    "Parameters": {
+      "Current Regimen": {
+        "Type": "text with dosage information"
+      },
+      "Blood Glucose Levels": {
+        "Type": "number with units (e.g., mg/dL)"
+      },
+      "Adjustment Criteria": {
+        "Type": "list of criteria with explanations and illustrations"
+      },
+      "Regimen Adjustment Options": {
+        "Type": "list of options with explanations and illustrations"
+      },
+      "Guidance": {
+        "Type": "text with instructions and illustrations"
+      }
+    }
+  }
+}

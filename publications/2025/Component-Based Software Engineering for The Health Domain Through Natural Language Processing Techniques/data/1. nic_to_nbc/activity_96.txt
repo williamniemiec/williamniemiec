@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication/Supply Refill": {
+    "refill_name": {},
+    "refill_frequency": {},
+    "refill_amount": {},
+    "notes": {},
+    "deadline_date": {}
+  }
+}

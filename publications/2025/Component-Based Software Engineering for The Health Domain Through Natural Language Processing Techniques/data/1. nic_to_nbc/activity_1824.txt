@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Thought Record": {
+    "parameters": [
+      {"name": "situation"},
+      {"name": "thought"},
+      {"name": "emotion"},
+      {"name": "distortion"},
+      {"name": "frequency"},
+      {"name": "deadline_date"}
+    ]
+  }
+}

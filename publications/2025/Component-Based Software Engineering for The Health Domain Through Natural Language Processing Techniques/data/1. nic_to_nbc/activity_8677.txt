@@ -1,0 +1,52 @@
+Here is the output in JSON format:
+
+
+{
+  "Interactive Diagram": {
+    "name": {"type": "text"},
+    "diagram": {
+      "type": "diagram",
+      "properties": {
+        "nodes": {
+          "type": "list",
+          "items": {
+            "label": {"type": "text"},
+            "description": {"type": "text"}
+          }
+        },
+        "edges": {
+          "type": "list",
+          "items": {
+            "from": {"type": "node"},
+            "to": {"type": "node"},
+            "label": {"type": "text"}
+          }
+        }
+      }
+    }
+  },
+  "Table": {
+    "name": {"type": "text"},
+    "columns": {
+      "type": "list",
+      "items": {
+        "label": {"type": "text"},
+        "description": {"type": "text"}
+      }
+    },
+    "rows": {
+      "type": "list",
+      "items": {
+        "cells": {
+          "type": "list",
+          "items": {
+            "value": {"type": "text"},
+            "description": {"type": "text"}
+          }
+        }
+      }
+    }
+  }
+}
+
+I removed all the unnecessary parts and kept only the `{{ NO-CODE ELEMENT NAME }}` and `{{ PARAMETER ESPECIFICATIONS }}`. I also formatted the output as a JSON object with nested properties. Let me know if you need any further modifications!

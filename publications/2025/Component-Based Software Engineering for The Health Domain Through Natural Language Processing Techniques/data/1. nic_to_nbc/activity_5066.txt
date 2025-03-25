@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Hand Washing Instruction",
+  "parameters": [
+    { 
+      "name": "Hand Washing Technique", 
+      "type": "options"
+    },
+    { 
+      "name": "Instruction Materials", 
+      "type": "options"
+    },
+    { 
+      "name": "Frequency of Instruction", 
+      "type": "options"
+    },
+    { 
+      "name": "Demonstration", 
+      "type": "boolean"
+    }
+  ]
+}

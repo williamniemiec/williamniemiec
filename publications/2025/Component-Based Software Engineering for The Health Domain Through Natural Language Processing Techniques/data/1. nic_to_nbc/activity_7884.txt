@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Vasoactive Drug Administration": {
+    "Parameters": {
+      "Drug Type": {},
+      "Dosage": {},
+      "Titration Schedule": {},
+      "Hemodynamic Monitoring": {},
+      "Target Range": {},
+      "Alerts": {},
+      "Physician Orders": {},
+      "Notes": {}
+    }
+  }
+}

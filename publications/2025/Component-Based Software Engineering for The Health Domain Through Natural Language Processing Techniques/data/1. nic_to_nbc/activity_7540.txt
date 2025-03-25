@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Religious Rituals Support": {
+    "Ritual/Practice": {"type": "text", "example": ["Praying five times a day", "Attending Sunday mass", "Keeping a kosher diet"]},
+    "Frequency": {"type": "options", "options": ["Daily", "Weekly", "Monthly", "Other"]},
+    "Support Needed": {"type": "options", "options": ["Prayer materials (e.g., rosary, prayer book)", "Access to a religious leader or advisor", "Accommodations for dietary restrictions", "Other"]},
+    "Health Considerations": {"type": "text", "example": ["Need to avoid heavy lifting during prayer", "Require a special diet for religious fasting"]}
+  }
+}

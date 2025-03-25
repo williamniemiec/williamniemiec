@@ -1,0 +1,2 @@
+{}
+Since there's no input, I'll return an empty JSON object. If you provide the actual input text, I can assist you further.

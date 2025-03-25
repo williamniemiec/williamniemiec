@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Biofeedback or Electrical Stimulation": {
+        "parameters": [
+            {"name": "Name", "type": "text"},
+            {"name": "Instructions", "type": "text"},
+            {"name": "Indications", "type": "list of text"},
+            {"name": "Modality", "type": "options"}
+        ]
+    }
+}

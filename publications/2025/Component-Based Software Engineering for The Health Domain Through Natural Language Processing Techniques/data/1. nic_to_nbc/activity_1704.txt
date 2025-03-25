@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Activity Prompt": {
+    "Parameters": {
+      "Activity Type": {"Type": "options"},
+      "Activity Description": {"Type": "text"},
+      "Instructions": {"Type": "text"},
+      "Frequency": {"Type": "options"},
+      "Deadline Date": {"Type": "datetime"}
+    }
+  }
+}
+
+
+I removed the `Reminders` parameter as it is a boolean type and there are no specific values provided.

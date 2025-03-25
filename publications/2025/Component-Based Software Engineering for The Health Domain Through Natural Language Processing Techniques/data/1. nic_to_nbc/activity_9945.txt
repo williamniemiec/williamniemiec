@@ -1,0 +1,13 @@
+
+
+
+{
+  "NO-CODE ELEMENT NAME": "Resource Information",
+  "PARAMETER ESPECIFICATIONS": {
+    "Name": {"Type": "text"},
+    "Description": {"Type": "text"},
+    "Contact Information": {"Type": "text or structured data"},
+    "Eligibility Criteria": {"Type": "text"},
+    "Services Offered": {"Type": "unordered list or structured data"}
+  }
+}

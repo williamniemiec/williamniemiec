@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Administration Checklist": {
+    "Patient ID": {"type": "text"},
+    "Medication Name": {"type": "text"},
+    "Dose": {"type": "text"},
+    "Route": {"type": "options", "options": [{"value": "oral", "label": "Oral"}, {"value": "IV", "label": "Intravenous"}]},
+    "Time": {"type": "datetime"},
+    "Verification": {"type": "boolean"}
+  }
+}
+
+
+Let me know if this meets your requirements!

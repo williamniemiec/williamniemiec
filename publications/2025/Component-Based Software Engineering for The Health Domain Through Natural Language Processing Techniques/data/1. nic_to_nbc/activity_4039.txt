@@ -1,0 +1,30 @@
+Here is the output in JSON format:
+
+
+{
+  "Safety Contract": {
+    "parameters": {
+      "name": "contract title",
+      "content": "contract text",
+      "signature": "patient's digital signature"
+    }
+  },
+  "Risk Assessment": {
+    "parameters": {
+      "questions": "list of questions to assess the patient's risk",
+      "answer type": "type of answer for each question"
+    }
+  },
+  "Object Removal": {
+    "parameters": {
+      "objects": "list of objects that need to be removed",
+      "instructions": "instructions on how to remove or secure the objects"
+    }
+  },
+  "Increased Observation": {
+    "parameters": {
+      "schedule": "schedule of observation periods",
+      "duration": "duration of each observation period"
+    }
+  }
+}

@@ -1,0 +1,6 @@
+Since there are no parameters specified in the input text, I will assume that "there is no no-code element associated with this intervention" means that the {{ NO-CODE ELEMENT NAME }} is also not applicable.
+
+So, my output would be an empty JSON:
+
+
+{}

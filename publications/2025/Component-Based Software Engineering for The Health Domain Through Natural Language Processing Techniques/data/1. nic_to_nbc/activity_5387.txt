@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Relaxation Techniques Guide": {
+    "Technique Options": {"type": "options"},
+    "Instructions": {"type": "text"},
+    "Audio/Video Guides": {"type": "multimedia"},
+    "Tips and Reminders": {"type": "text"}
+  }
+}

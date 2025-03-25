@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Labor Progress Monitoring": {
+    "Parameters": {
+      "Labor Progress Scale": {"Type": "options"},
+      "Abnormal Labor Signs": {"Type": "options"},
+      "Monitoring Frequency": {"Type": "options"},
+      "Notes": {"Type": "text"}
+    }
+  }
+}

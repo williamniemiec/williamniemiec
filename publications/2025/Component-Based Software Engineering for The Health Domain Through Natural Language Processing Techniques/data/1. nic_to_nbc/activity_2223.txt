@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Program Referral": {
+    "parameters": [
+      {"Program Type": ["Wellness program", "Lifestyle modification program", "Nutrition counseling", "Fitness coaching", "Stress management"]},
+      {"Program Description": null},
+      {"Eligibility Criteria": null},
+      {"Program Resources": null},
+      {"Referral Reason": ["To improve overall wellness", "To manage a specific medical condition", "To adopt healthy lifestyle habits"]}
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+  "Play Equipment": {
+    "type": "text"
+  },
+  "Observation Type": {
+    "type": "options",
+    "options": ["frequency", "duration", "skill level", "other"]
+  },
+  "Observation Period": {
+    "type": "duration"
+  },
+  "Note-taking": {
+    "type": "text"
+  },
+  "Frequency": {
+    "type": "options",
+    "options": ["everyPlaySession", "onlyOnce", "everyXMinutes"]
+  }
+}

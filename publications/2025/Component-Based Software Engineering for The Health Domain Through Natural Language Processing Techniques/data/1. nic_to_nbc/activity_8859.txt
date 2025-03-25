@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Prepare Bladder": {
+    "instruction": {
+      "Description": "Instruction to empty bladder",
+      "Required": true,
+      "Type": "text"
+    },
+    "deadline_date": {
+      "Description": "Specify the due date for emptying the bladder",
+      "Required": true,
+      "Type": "datetime"
+    }
+  }
+}

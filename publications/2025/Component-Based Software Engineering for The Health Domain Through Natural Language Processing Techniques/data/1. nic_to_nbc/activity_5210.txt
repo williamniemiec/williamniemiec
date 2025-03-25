@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Holding Guide": {
+    "holding guide title": {},
+    "Content": {},
+    "Image/Video": {},
+    "Frequency": {},
+    "Deadline Date": {},
+    "Tips": {}
+  }
+}

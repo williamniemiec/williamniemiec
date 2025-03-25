@@ -1,0 +1,22 @@
+
+
+
+{
+  "Educational Module": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Content": {"Type": "list of educational content items"},
+      "Topics": {"Type": "list of topics"},
+      "Target Audience": {"Type": "options"},
+      "Assessment": {"Type": "quiz"}
+    }
+  },
+  "Guide": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Pages": {"Type": "list of guide pages"},
+      "Topics": {"Type": "list of topics"},
+      "FAQs": {"Type": "list of FAQs"}
+    }
+  }
+}

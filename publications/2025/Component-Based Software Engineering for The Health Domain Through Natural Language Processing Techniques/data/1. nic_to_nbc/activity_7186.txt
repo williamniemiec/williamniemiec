@@ -1,0 +1,10 @@
+
+
+
+{
+    "reward list builder": {
+        "extrinsic rewards": {},
+        "intrinsic rewards": {},
+        "reward categories": {}
+    }
+}

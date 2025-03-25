@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Concerns Discussion": {
+    "Topics": {"type": "list of text or bullet points"},
+    "Entry Type": {"type": "options (e.g., \"text\", \"audio\", \"video\")"},
+    "Response Options": [
+      {"Response Text": {"type": "text"}, 
+      "Response Type": {"type": "options (e.g., \"resource\", \"support\", \"connection\")"}
+    ],
+    "Follow-up": {"type": "boolean (true/false)"}
+  }
+}

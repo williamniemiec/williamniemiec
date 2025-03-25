@@ -1,0 +1,48 @@
+Here is the output in JSON format:
+
+
+[
+    {
+        "name": "Symptom Checker",
+        "parameters": {
+            "name": "Hypercalcemia Symptom Checker",
+            "symptoms": [
+                "Deep bone pain",
+                "Excessive thirst",
+                "Anorexia",
+                "Lethargy",
+                "Weakened muscles"
+            ],
+            "answer type": "boolean (yes/no) or severity scale (e.g., 1-5)",
+            "frequency": null,
+            "deadline_date": null
+        }
+    },
+    {
+        "name": "ECG Tracker",
+        "parameters": {
+            "name": "Hypercalcemia ECG Tracker",
+            "ECG readings": [
+                "Shortened QT segment",
+                "Wide T wave",
+                "Widened QRS complex",
+                "Prolonged P-R interval"
+            ],
+            "frequency": null,
+            "deadline_date": null
+        }
+    },
+    {
+        "name": "Muscle Function Assessment",
+        "parameters": {
+            "name": "Muscle Function Assessment",
+            "assessment": [
+                "Muscle strength and coordination",
+                "Reflexes",
+                "Presence of muscle weakness"
+            ],
+            "frequency": null,
+            "deadline_date": null
+        }
+    }
+]

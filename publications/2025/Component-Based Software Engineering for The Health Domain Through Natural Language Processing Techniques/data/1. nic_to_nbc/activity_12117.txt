@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+    "Nonjudgmental Listening": {
+        "Listening Prompts": {
+            "type": "list of listening prompts"
+        },
+        "Empathy Responses": {
+            "type": "list of empathy responses"
+        },
+        "Reflection Techniques": {
+            "type": "list of reflection techniques"
+        },
+        "Resource Materials": {
+            "type": "list of resource materials"
+        },
+        "Frequency": {
+            "type": "options"
+        }
+    }
+}

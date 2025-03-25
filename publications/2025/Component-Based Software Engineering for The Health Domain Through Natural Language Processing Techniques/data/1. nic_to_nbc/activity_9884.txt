@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Gait Guidance": {
+    "Instructions": {"type": "text"},
+    "Videos": {"type": "video"},
+    "Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"type": "datetime"},
+    "Reminders": {"type": "boolean"}
+  }
+}

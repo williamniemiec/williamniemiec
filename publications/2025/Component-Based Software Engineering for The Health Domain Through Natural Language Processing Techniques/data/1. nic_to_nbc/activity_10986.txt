@@ -1,0 +1,7 @@
+Here is the output in JSON format:
+
+
+{
+  "Take and record maternal vital signs (e.g. blood pressure, temperature, pulse, respiratory rate)": "",
+  "Interpret the results and identify any abnormalities or concerns": ""
+}

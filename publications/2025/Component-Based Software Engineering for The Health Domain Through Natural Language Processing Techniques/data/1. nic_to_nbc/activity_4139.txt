@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Aseptic Technique Maintenance": {
+    "Hand Hygiene": {"Type": "boolean"},
+    "Personal Protective Equipment (PPE)": {"Type": "boolean"},
+    "Sterile Field Maintenance": {"Type": "boolean"},
+    "Instrument Sterilization": {"Type": "boolean"},
+    "Environmental Cleaning": {"Type": "boolean"},
+    "Aseptic Technique Checklist": {"Type": "checklist"}
+  }
+}

@@ -1,0 +1,35 @@
+Here is the output in JSON format:
+
+
+{
+  "No-code element name": "Emotional Openness",
+  "Parameters": {
+    "Prompt": {
+      "Description": "optional prompt to encourage individual to express their feelings about illness and death",
+      "Required": false,
+      "Type": "text"
+    },
+    "Frequency": {
+      "Description": "specify how often the individual should be encouraged to express their feelings",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "daily", "label": "Daily" },
+        { "value": "onlyOnce", "label": "Only once" },
+        { "value": "everyHours", "label": "Every x hours" },
+        { "value": "everyDays", "label": "Every x days" }
+      ]
+    },
+    "Reflection Questions": {
+      "Description": "provide reflection to help individual process their feelings about illness and death",
+      "Required": true,
+      "Type": "list",
+      "List items": [
+        { "value": "What are your fears about illness and death?", "label": "Fear" },
+        { "value": "What are your hopes for your remaining time?", "label": "Hope" },
+        { "value": "What do you think will happen after you pass away?", "label": "Afterlife" },
+        { "value": "Other (please specify)", "label": "Other" }
+      ]
+    }
+  }
+}

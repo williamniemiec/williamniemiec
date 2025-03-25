@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Reporting Guidelines": {
+    "Parameters": {
+      "Checklist Title": {},
+      "Signs and Symptoms": {},
+      "Instructions": {},
+      "Contact Information": {},
+      "Frequency": {}
+    }
+  }
+}

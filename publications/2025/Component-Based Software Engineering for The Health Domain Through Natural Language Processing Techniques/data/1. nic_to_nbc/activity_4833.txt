@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+    "Body Image Perception Tracker": {
+        "Parameters": {
+            "Name": {"Type": "text"},
+            "Frequency": {"Type": "options"},
+            "Deadline Date": {"Type": "datetime"},
+            "Entry Type": {"Type": "options"},
+            "Entry Prompt": {"Type": "text"},
+            "Category": {"Type": "options"}
+        }
+    }
+}

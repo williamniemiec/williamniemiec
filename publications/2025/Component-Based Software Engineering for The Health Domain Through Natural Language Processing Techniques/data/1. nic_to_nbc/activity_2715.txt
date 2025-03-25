@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+  "Peri-Ulcerous Skin Assessment": {
+    "Parameters": {
+      "Redness": {"Type": "boolean"},
+      "Itching": {"Type": "boolean"},
+      "Dryness": {"Type": "boolean"},
+      "Cracking": {"Type": "boolean"},
+      "Barrier Cream Use": {"Type": "boolean"},
+      "Barrier Cream Effectiveness": {"Type": "scale or text"}
+    }
+  },
+  "Barrier Cream Tracker": {
+    "Parameters": {
+      "Application Date": {"Type": "datetime"},
+      "Application Time": {"Type": "time"},
+      "Effectiveness Rating": {"Type": "scale or text"}
+    }
+  }
+}

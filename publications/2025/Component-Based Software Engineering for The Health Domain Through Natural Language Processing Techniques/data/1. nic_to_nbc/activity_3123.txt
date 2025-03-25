@@ -1,0 +1,32 @@
+Here is the output in JSON format:
+
+
+{
+  "Memento Collection": {
+    "parameters": {
+      "name": {
+        "type": "text"
+      },
+      "mementos": {
+        "type": "list",
+        "items": {
+          "name": {
+            "type": "string"
+          },
+          "description": {
+            "type": "string"
+          },
+          "type": {
+            "type": "string"
+          },
+          "required": {
+            "type": "boolean"
+          }
+        }
+      },
+      "items": {
+        "type": "list"
+      }
+    }
+  }
+}

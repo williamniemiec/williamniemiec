@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Form": {
+    "Fields": [
+      {"name": "first_name", "label": "First Name", "type": "text", "required": true},
+      {"name": "last_name", "label": "Last Name", "type": "text", "required": true},
+      {"name": "date_of_birth", "label": "Date of Birth", "type": "date", "required": true}
+    ],
+    "Submit Button Text": "Save"
+  }
+}

@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Cognitive Reframing": {
+    "Event Description": {"type": "text"},
+    "Assumptions": {"type": "unordered list"},
+    "Distortion Analysis": {"type": "interactive form with conditional logic", "questions": ["Is this assumption based on facts or feelings?", "Is this assumption an exaggeration or minimization?", "Is this assumption an all-or-nothing thinking pattern?"]},
+    "Reframed Assumptions": {"type": "text"},
+    "Reflection": {"type": "text"}
+  }
+}

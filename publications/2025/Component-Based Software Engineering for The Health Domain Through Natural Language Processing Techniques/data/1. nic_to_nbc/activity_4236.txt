@@ -1,0 +1,38 @@
+Here is the output in JSON format:
+
+
+{
+  "Vital Sign Tracker": {
+    "name": "Vital Signs",
+    "description": "Please track and report your vital signs",
+    "content_type": "form",
+    "required": true,
+    "type": "vital_signs",
+    "options": [
+      { "value": "heart_rate", "label": "Heart Rate" },
+      { "value": "blood_pressure", "label": "Blood Pressure" },
+      { "value": "oxygen_saturation", "label": "Oxygen Saturation" }
+    ]
+  },
+  "Symptom Reporter": {
+    "name": "Cardiac or Hemodynamic Status",
+    "description": "Please report any changes in your cardiac or hemodynamic status",
+    "content_type": "form",
+    "required": true,
+    "type": "options",
+    "options": [
+      { "value": "chest_pain", "label": "Chest Pain" },
+      { "value": "shortness_of_breath", "label": "Shortness of Breath" },
+      { "value": "dizziness", "label": "Dizziness" },
+      { "value": "fatigue", "label": "Fatigue" },
+      { "value": "none", "label": "None of the above" }
+    ]
+  },
+  "Text Input": {
+    "name": "Additional Information",
+    "description": "Please provide more details about your symptoms or changes in your cardiac or hemodynamic status",
+    "content_type": "text",
+    "required": false,
+    "type": "text"
+  }
+}

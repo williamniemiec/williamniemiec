@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Abuse Awareness",
+  "parameters": [
+    {
+      "name": "Content",
+      "type": "text or multimedia"
+    },
+    {
+      "name": "Types of Abuse",
+      "type": "options",
+      "options": ["physical abuse", "emotional abuse", "financial abuse"]
+    },
+    {
+      "name": "Signs of Abuse",
+      "type": "list"
+    },
+    {
+      "name": "Resources",
+      "type": "list"
+    }
+  ]
+}
+
+
+I removed the `Quiz` parameter as it is not applicable (it's an optional feature). I also removed the descriptions, examples, and other unnecessary information to simplify the output.

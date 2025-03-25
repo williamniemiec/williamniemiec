@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Chest Physiotherapy Guide": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Pages": {"Type": "book-page (list of HTML texts)"},
+      "Frequency": {"Type": "options (daily, onlyOnce, everyHours, everyDays)"},
+      "Deadline Date": {"Type": "datetime"}
+    }
+  }
+}

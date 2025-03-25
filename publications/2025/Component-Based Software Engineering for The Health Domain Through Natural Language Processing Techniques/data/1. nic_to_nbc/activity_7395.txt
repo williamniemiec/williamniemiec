@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Care Provider Communication": {
+    "parameters": {
+      "Communication Plan": {"type": "text or multimedia content"},
+      "Progress Updates": {"type": "boolean"},
+      "Strategy Sharing": {"type": "text or multimedia content"},
+      "Care Provider List": {"type": "list of text or contact information"}
+    }
+  }
+}
+
+
+Note that I removed the `Secure Messaging` parameter because its type is a boolean, and it's not applicable in this context.

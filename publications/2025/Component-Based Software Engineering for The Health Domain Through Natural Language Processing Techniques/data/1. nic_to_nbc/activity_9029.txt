@@ -1,0 +1,23 @@
+
+
+
+{
+    "name": "Social Support Network",
+    "parameters": [
+        {
+            "name": "Support Network Members"
+        },
+        {
+            "name": "Relationship Types"
+        },
+        {
+            "name": "Communication Channels"
+        },
+        {
+            "name": "Support Network Goals"
+        },
+        {
+            "name": "Progress Tracking"
+        }
+    ]
+}

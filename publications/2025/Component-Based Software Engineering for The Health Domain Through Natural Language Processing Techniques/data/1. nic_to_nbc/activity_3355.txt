@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "ParameterSpecifications": {
+    "Name": {"Type": "text"},
+    "Education Content": {"Type": "list of educational content (with descriptions and links)"},
+    "Family Member Roles": {"Type": "list of family member roles (with descriptions and examples)"},
+    "Treatment Plan": {"Type": "text"},
+    "Activity Schedule": {"Type": "list of activities (with dates, times, and descriptions)"},
+    "Progress Tracking": {"Type": "list of progress tracking metrics (with descriptions and examples)"},
+    "Frequency": {"Options": ["daily", "weekly", "monthly", "quarterly"]},
+    "Deadline Date": {"Type": "datetime"}
+  },
+  "NoCodeElementName": "Family Education and Involvement"
+}

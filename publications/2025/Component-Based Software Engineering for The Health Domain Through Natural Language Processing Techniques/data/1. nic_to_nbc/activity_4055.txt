@@ -1,0 +1,41 @@
+Here is the output in JSON format:
+
+
+{
+    "Session Tracker": {
+        "Response Metric": {
+            "description": "The metric used to gauge the patient's response (e.g. engagement, progress, satisfaction)",
+            "required": true,
+            "type": "options",
+            "options": [
+                { "value": "engagement", "label": "Engagement" },
+                { "value": "progress", "label": "Progress" },
+                { "value": "satisfaction", "label": "Satisfaction" }
+            ]
+        },
+        "Willingness Metric": {
+            "description": "The metric used to gauge the patient's willingness to continue (e.g. self-reported motivation, attendance)",
+            "required": true,
+            "type": "options",
+            "options": [
+                { "value": "selfReportedMotivation", "label": "Self-reported motivation" },
+                { "value": "attendance", "label": "Attendance" }
+            ]
+        },
+        "Threshold": {
+            "description": "The threshold value for the response and willingness metrics, beyond which the number of sessions should be adjusted",
+            "required": true,
+            "type": "number"
+        },
+        "Adjustment Method": {
+            "description": "How to adjust the number of sessions based on the patient's response and willingness",
+            "required": true,
+            "type": "options",
+            "options": [
+                { "value": "increase", "label": "Increase sessions" },
+                { "value": "decrease", "label": "Decrease sessions" },
+                { "value": "maintain", "label": "Maintain current number of sessions" }
+            ]
+        }
+    }
+}

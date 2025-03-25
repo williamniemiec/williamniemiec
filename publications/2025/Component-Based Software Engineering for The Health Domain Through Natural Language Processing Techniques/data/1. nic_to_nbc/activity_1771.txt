@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+  "Confidentiality Agreement": {
+    "Parameters": {
+      "confidentiality_statement": {
+        "Description": "Statement of confidentiality",
+        "Required": true,
+        "Type": "text"
+      },
+      "patient_consent": {
+        "Description": "Patient consent to maintain confidentiality",
+        "Required": true,
+        "Type": "boolean"
+      },
+      "hipaa_compliance": {
+        "Description": "Statement of HIPAA compliance",
+        "Required": true,
+        "Type": "text"
+      }
+    }
+  }
+}
+
+
+Let me know if this is what you were looking for!

@@ -1,0 +1,35 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Education",
+    "parameters": [
+        { 
+            "name": "Content", 
+            "type": "text or multimedia"
+        },
+        { 
+            "name": "Severity Level", 
+            "type": "options",
+            "options": [
+                { value: "mild" },
+                { value: "moderate" },
+                { value: "severe" }
+            ]
+        },
+        { 
+            "name": "Frequency", 
+            "type": "options",
+            "options": [
+                { value: "daily" },
+                { value: "onlyOnce" },
+                { value: "everyHours" },
+                { value: "everyDays" }
+            ]
+        },
+        { 
+            "name": "Deadline Date", 
+            "type": "datetime"
+        }
+    ]
+}

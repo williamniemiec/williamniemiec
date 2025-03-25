@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "noCodeElementName": "Reflection",
+  "parameterSpecifications": {
+    "name": {"type": "text"},
+    "prompt": {"type": "text"},
+    "frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "deadline_date": {"type": "datetime"},
+    "response_type": {"type": "options", "options": ["text", "rating", "etc."]}
+  }
+}

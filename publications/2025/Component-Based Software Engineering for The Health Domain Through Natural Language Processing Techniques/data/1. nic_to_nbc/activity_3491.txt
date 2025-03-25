@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Pulse Oximetry Tracking": {
+    "Reading": {"type": "number", "unit": "%"},
+    "Timestamp": {"type": "datetime", "description": "timestamp of the reading"}
+  },
+  "Oxygen Therapy Guidance": {
+    "Threshold": {"type": "number", "unit": "%", "description": "oxygen saturation threshold for applying oxygen therapy"},
+    "Instructions": {"type": "text", "description": "instructions on how to apply oxygen therapy"}
+  }
+}

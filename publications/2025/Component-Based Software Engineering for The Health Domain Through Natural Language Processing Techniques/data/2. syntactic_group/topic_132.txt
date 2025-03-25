@@ -1,0 +1,10 @@
+{
+  "name": "Positioning and Alignment",
+  "description": "Addresses proper body positioning and alignment for patient comfort, health, and recovery. Includes guidance on leg, knee, and back positioning, as well as visual diagrams for better understanding.",
+  "type": "non-periodic",
+  "input": ["Positioning techniques", "Leg and knee alignment", "Back position adjustments", "Position change guidelines", "Visual diagrams"],
+  "output": ["Positioning feedback", "Leg/knee/back alignment recommendations", "Diagrams for better understanding"],
+  "preconditions": ["User needs guidance on proper body alignment"],
+  "postconditions": ["Proper body alignment achieved for comfort and health"],
+  "dependencies": ["Positioning guide", "Body alignment tools", "Visual aids for positioning"]
+}

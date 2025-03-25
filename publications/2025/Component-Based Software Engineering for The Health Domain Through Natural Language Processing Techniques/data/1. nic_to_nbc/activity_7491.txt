@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Foot Drying": {
+        "Parameters": {
+            "Name": {"Description": "Task title", "Required": true, "Type": "text"},
+            "Frequency": {"Description": "Specify how often to dry your feet", "Required": true, "Type": "options", "Options": [{"value": "afterWashing", "label": "After washing"}, {"value": "daily", "label": "Daily"}, {"value": "onlyOnce", "label": "Only once"}, {"value": "everyHours", "label": "Every x hours"}, {"value": "everyDays", "label": "Every x days"}]},
+            "Drying Areas": {"Description": "Select the areas to dry on your feet", "Required": true, "Type": "checklist", "Options": [{"value": "entireFeet", "label": "Entire feet"}, {"value": "betweenToes", "label": "Between the toes"}]},
+            "Drying Method": {"Description": "Select the method to use for drying your feet", "Required": true, "Type": "options", "Options": [{"value": "towel", "label": "Towel"}, {"value": "airDry", "label": "Air dry"}]}
+        }
+    }
+}

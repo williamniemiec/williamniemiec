@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+  "Equipment Selection": {
+    "parameters": [
+      {
+        "name": "equipment_list",
+        "description": "List of equipment options",
+        "required": true,
+        "type": "checkbox list" || "unordered list",
+        "options": [
+          { "value": "wheelchair", "label": "Wheelchair" },
+          { "value": "walker", "label": "Walker" },
+          { "value": "oxygen_tank", "label": "Oxygen Tank" },
+          { "value": "other", "label": "Other (please specify)" }
+        ]
+      },
+      {
+        "name": "notes",
+        "description": "Additional notes or comments",
+        "required": false,
+        "type": "text"
+      }
+    ]
+  }
+}

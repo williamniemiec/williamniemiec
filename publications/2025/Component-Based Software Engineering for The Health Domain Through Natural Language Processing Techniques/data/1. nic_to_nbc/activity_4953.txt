@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Delusion Discussion": {
+        "parameters": [
+            {"name": "Delusion Topic", "type": "text"},
+            {"name": "Caregiver Availability", "type": "text or options"},
+            {"name": "Communication Channel", "type": "text or options"},
+            {"name": "Frequency of Discussion", "type": "options"}
+        ]
+    }
+}

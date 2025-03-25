@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Emotional Expression": {
+    "Prompt": {"type": "text"},
+    "Feeling Type": {"type": "options", "options": ["concerns", "fears", "hopes", "expectations", "etc."]},
+    "Expression Method": {"type": "options", "options": ["writing", "talking", "drawing", "video recording", "etc."]},
+    "Support System": {"type": "boolean"},
+    "Follow-up": {"type": "boolean"}
+  }
+}

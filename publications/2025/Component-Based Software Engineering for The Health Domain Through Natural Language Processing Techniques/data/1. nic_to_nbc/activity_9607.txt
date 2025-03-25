@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Vital Sign Tracker": {
+    "Blood Pressure": {"type": "number"},
+    "Heart Rate": {"type": "number"},
+    "Pulse": {"type": "number"},
+    "Frequency": {"options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"type": "datetime"}
+  }
+}

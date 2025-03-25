@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Tube Removal": {
+    "Criteria": {
+      "type": "text or options"
+    },
+    "Instructions": {
+      "type": "text or multimedia"
+    },
+    "Reminders": {
+      "type": "boolean"
+    },
+    "Confirmation": {
+      "type": "boolean"
+    }
+  }
+}

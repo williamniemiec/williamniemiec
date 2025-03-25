@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Readability Checker": {
+    "parameters": [
+      {"Target Audience": null},
+      {"Readability Level": null},
+      {"Content Type": null},
+      {"Language": null},
+      {"Tone": null},
+      {"Notes": null}
+    ]
+  }
+}

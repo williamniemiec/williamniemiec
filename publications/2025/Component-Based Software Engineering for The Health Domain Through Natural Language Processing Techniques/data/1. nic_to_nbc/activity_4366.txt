@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Fatigue-Based Feeding Adjustment": {
+    "Name": {"type": "text"},
+    "Fatigue Threshold": {"type": "options", "options": [{"value": "mild", "label": "Mild"}, {"value": "moderate", "label": "Moderate"}, {"value": "severe", "label": "Severe"}]},
+    "Feeding Schedule": {"type": "text"},
+    "Postponement Criteria": {"type": "text"},
+    "Alternative Feeding Options": {"type": "text"}
+  }
+}

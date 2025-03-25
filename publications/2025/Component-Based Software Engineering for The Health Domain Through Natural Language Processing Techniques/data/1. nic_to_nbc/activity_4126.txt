@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+    "Guide": {
+        "Parameters": {
+            "Name": "",
+            "Pages": "",
+            "Content": ["Cold application may cause brief pain, but this is normal and temporary.", "After the initial stimulation, you may experience numbness, which typically occurs within 5 minutes."]
+        }
+    },
+    "Alert": {
+        "Parameters": {
+            "Message": ["Remember, cold application may cause brief pain, but this is normal and temporary.", "Wait for 5 minutes after initial stimulation to experience numbness."],
+            "Frequency": ["daily", "everyHours", "everyDays"],
+            "Deadline Date": {"Type": "datetime"}
+        }
+    },
+    "Timer": {
+        "Parameters": {
+            "Duration": "5 minutes",
+            "Alert": "Numbness should occur now. If you have any concerns, contact your healthcare provider."
+        }
+    }
+}
+
+
+Note: I removed the non-applicable parameters and only kept the relevant information. Let me know if this meets your requirements!

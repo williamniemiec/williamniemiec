@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Thought Distraction Management": {
+    "Mental Device": {"Type": "text"},
+    "Instructions": {"Type": "text or multimedia content"},
+    "Distracting Thoughts": {"Type": "list of text examples"},
+    "Return to Mental Device": {"Type": "text"}
+  }
+}

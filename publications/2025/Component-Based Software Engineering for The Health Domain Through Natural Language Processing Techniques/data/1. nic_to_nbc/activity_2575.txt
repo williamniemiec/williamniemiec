@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Movement Exercise": {
+    "parameters": [
+      {"Exercise Type": {}},
+      {"Body Part": {}},
+      {"Instructions": {}},
+      {"Frequency": {}},
+      {"Reflection Question": {}}
+    ]
+  }
+}

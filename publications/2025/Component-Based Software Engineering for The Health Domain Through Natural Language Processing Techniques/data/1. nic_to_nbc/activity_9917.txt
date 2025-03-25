@@ -1,0 +1,65 @@
+Here is the output in JSON format:
+
+
+{
+  "Therapy Tracker": {
+    "Parameters": {
+      "Therapy Type": {
+        "Type": "options",
+        "Options": [
+          {"value": "oralSupplements", "label": "Oral Supplements"},
+          {"value": "IVFluids", "label": "IV Fluids"}
+        ]
+      },
+      "Dose and Frequency": {
+        "Type": "text",
+        "Example": "Take 1 tablet of potassium chloride 3 times a day"
+      },
+      "Response Tracking": {
+        "Type": "list",
+        "Example": [
+          {"response": "Symptom improvement", "severity": "Mild"},
+          {"response": "Side effects", "severity": "Moderate"}
+        ]
+      }
+    }
+  },
+  "Response Assessment": {
+    "Parameters": {
+      "Assessment Criteria": {
+        "Type": "list",
+        "Example": [
+          {"criterion": "Symptom improvement", "weight": 0.5},
+          {"criterion": "Laboratory results", "weight": 0.5}
+        ]
+      },
+      "Assessment Frequency": {
+        "Type": "options",
+        "Options": [
+          {"value": "daily", "label": "Daily"},
+          {"value": "weekly", "label": "Weekly"},
+          {"value": "monthly", "label": "Monthly"}
+        ]
+      }
+    }
+  },
+  "Alert System": {
+    "Parameters": {
+      "Alert Criteria": {
+        "Type": "list",
+        "Example": [
+          {"criterion": "Worsening symptoms", "severity": "Severe"},
+          {"criterion": "Abnormal laboratory results", "severity": "Critical"}
+        ]
+      },
+      "Alert Frequency": {
+        "Type": "options",
+        "Options": [
+          {"value": "immediately", "label": "Immediately"},
+          {"value": "daily", "label": "Daily"},
+          {"value": "weekly", "label": "Weekly"}
+        ]
+      }
+    }
+  }
+}

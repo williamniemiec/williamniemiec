@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+  "Log": {
+    "Parameters": {
+      "Name": {
+        "Type": "text"
+      },
+      "Fields": {
+        "Type": "list of text",
+        "Examples": ["infusate name", "date", "time", "dosage", "etc."]
+      },
+      "Frequency": {
+        "Type": "options",
+        "Options": ["daily", "with each infusion", "custom"]
+      }
+    }
+  }
+}

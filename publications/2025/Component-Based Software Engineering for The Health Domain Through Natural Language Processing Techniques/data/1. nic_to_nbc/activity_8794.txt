@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Contraceptive Knowledge Assessment": {
+    "parameters": {
+      "Contraceptive Options": {"type": ["text", "images", "videos"]},
+      "Knowledge Questions": {"type": ["multiple-choice questions", "true/false questions", "open-ended questions"]},
+      "Understanding Assessment": {"type": ["survey", "questionnaire"]},
+      "Personalized Feedback": {"type": ["text", "interactive feedback tool"]},
+      "Education and Resources": {"type": ["links", "PDFs", "multimedia content"]}
+    }
+  }
+}

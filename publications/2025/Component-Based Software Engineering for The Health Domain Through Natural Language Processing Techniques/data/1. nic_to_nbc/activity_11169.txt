@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Progress Tracker": {
+    "Parameters": {
+      "Goals": {
+        "Name": "",
+        "Description": "",
+        "Target": ""
+      },
+      "Progress": {
+        "Percentage complete": "",
+        "Status": ""
+      },
+      "Notes": "",
+      "Frequency": ["daily", "onlyOnce", "everyHours", "everyDays"],
+      "Deadline Date": ""
+    }
+  }
+}

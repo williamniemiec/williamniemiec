@@ -1,0 +1,35 @@
+Here is the output in JSON format:
+
+
+{
+  "Confusion Monitor": {
+    "Parameters": {
+      "Vital Signs": {
+        "Description": "List of vital signs to monitor for physiological causes of increased confusion (e.g. blood pressure, oxygen saturation, temperature)",
+        "Required": true,
+        "Type": "list of text"
+      },
+      "Lab Results": {
+        "Description": "List of lab results to review for physiological causes of increased confusion (e.g. electrolyte levels, blood glucose levels)",
+        "Required": true,
+        "Type": "list of text"
+      },
+      "Medication List": {
+        "Description": "List of medications to review for potential causes of increased confusion",
+        "Required": true,
+        "Type": "list of text"
+      },
+      "Frequency": {
+        "Description": "How often to monitor for physiological causes of increased confusion",
+        "Required": true,
+        "Type": "options",
+        "Options": ["hourly", "daily", "weekly", "as needed"]
+      },
+      "Thresholds": {
+        "Description": "Thresholds for intervening when physiological causes of increased confusion are identified (e.g. blood pressure > 180 mmHg)",
+        "Required": true,
+        "Type": "list of text"
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Problem Solving Practice": {
+    "Scenario": {"type": "text"},
+    "Role-Playing Options": {"type": "unordered list"},
+    "Problem Solving Steps": {"type": "unordered list"},
+    "Reflection Questions": {"type": "unordered list"},
+    "Debriefing": {"type": "text"},
+    "Frequency": {"options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"type": "datetime"}
+  }
+}

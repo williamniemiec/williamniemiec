@@ -1,0 +1,39 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Infection Education",
+  "parameters": [
+    {
+      "name": "Content",
+      "type": "text"
+    },
+    {
+      "name": "Format",
+      "type": "options",
+      "options": [
+        { "value": "Text", "label": "Text" },
+        { "value": "Video", "label": "Video" },
+        { "value": "Infographic", "label": "Infographic" }
+      ]
+    },
+    {
+      "name": "Target Audience",
+      "type": "options",
+      "options": [
+        { "value": "Patient", "label": "Patient" },
+        { "value": "Patient's family", "label": "Patient's family" },
+        { "value": "Caregiver", "label": "Caregiver" }
+      ]
+    },
+    {
+      "name": "Frequency",
+      "type": "options",
+      "options": [
+        { "value": "One-time", "label": "One-time" },
+        { "value": "Daily", "label": "Daily" },
+        { "value": "Weekly", "label": "Weekly" }
+      ]
+    }
+  ]
+}

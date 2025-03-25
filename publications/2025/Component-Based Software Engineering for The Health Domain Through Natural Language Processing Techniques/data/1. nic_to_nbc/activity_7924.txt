@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Tracker": {
+    "name": {"type": "text"},
+    "medications": {"type": "list of text or numeric values"},
+    "dosage": {"type": "text or numeric value"},
+    "frequency": {"type": "text or numeric value"}
+  },
+  "Treatment Tracker": {
+    "name": {"type": "text"},
+    "treatments": {"type": "list of text or numeric values"},
+    "duration": {"type": "text or numeric value"},
+    "frequency": {"type": "text or numeric value"}
+  },
+  "Medical Condition Tracker": {
+    "name": {"type": "text"},
+    "conditions": {"type": "list of text or numeric values"},
+    "status": {"type": "text or numeric value"}
+  }
+}

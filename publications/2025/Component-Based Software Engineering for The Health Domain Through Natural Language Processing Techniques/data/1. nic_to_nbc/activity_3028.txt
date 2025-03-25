@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Family Care Guide": {
+    "Guide Content": {"type": "rich text or multimedia"},
+    "Family Member Roles": {"type": "list of text items"},
+    "Care Tasks": {"type": "list of text items"},
+    "Resources": {"type": "list of text items or links"}
+  }
+}

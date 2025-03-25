@@ -1,0 +1,41 @@
+Here is the output in JSON format:
+
+
+{
+  "Appointment Scheduler": {
+    "Initial Appointments": {
+      "Description": "list of initial appointments to recheck pessary fit",
+      "Required": true,
+      "Type": "unordered list",
+      "Options": [
+        {"value": "24hours", "label": "24 hours"},
+        {"value": "72hours", "label": "72 hours"}
+      ]
+    },
+    "Follow-up Appointments": {
+      "Description": "list of follow-up appointments to recheck pessary fit as appropriate",
+      "Required": true,
+      "Type": "unordered list",
+      "Options": [
+        {"value": "weekly", "label": "Weekly"},
+        {"value": "biweekly", "label": "Biweekly"},
+        {"value": "monthly", "label": "Monthly"}
+      ]
+    },
+    "Reminders": {
+      "Description": "reminder settings for upcoming appointments",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        {"value": "email", "label": "Email"},
+        {"value": "sms", "label": "SMS"},
+        {"value": "inApp", "label": "In-app notification"}
+      ]
+    },
+    "Appointment Instructions": {
+      "Description": "instructions for patients to follow before and during appointments",
+      "Required": true,
+      "Type": "text"
+    }
+  }
+}

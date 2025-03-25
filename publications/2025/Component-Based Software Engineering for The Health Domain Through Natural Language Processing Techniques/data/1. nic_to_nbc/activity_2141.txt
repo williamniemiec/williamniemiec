@@ -1,0 +1,44 @@
+Here is the output in JSON format:
+
+
+{
+    "Ovarian Assessment": {
+        "parameters": [
+            { 
+                "name": "ovarian_location", 
+                "description": "Specify the location of your ovaries", 
+                "required": true, 
+                "type": "options",
+                "options": [
+                    { value: "left", label: "Left" },
+                    { value: "right", label: "Right" },
+                    { value: "both", label: "Both" }
+                ]
+            },
+            { 
+                "name": "ovarian_size", 
+                "description": "Specify the size of your ovaries", 
+                "required": true, 
+                "type": "number"
+            },
+            { 
+                "name": "frequency", 
+                "description": "Specify how often you should provide this information", 
+                "required": true, 
+                "type": "options",
+                "options": [
+                    { value: "daily", label: "Daily" },
+                    { value: "onlyOnce", label: "Only once" },
+                    { value: "everyHours", label: "Every x hours" },
+                    { value: "everyDays", label: "Every x days" }
+                ]
+            },
+            { 
+                "name": "deadline_date", 
+                "description": "Specify the due date for providing this information", 
+                "required": false, 
+                "type": "datetime"
+            }
+        ]
+    }
+}

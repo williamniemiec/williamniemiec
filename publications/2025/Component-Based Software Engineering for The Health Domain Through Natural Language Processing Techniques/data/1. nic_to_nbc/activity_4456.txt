@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+  "Respite Care Information": {
+    "parameters": {
+      "Respite Care Definition": {
+        "type": "text or HTML content"
+      },
+      "Types of Respite Care": {
+        "type": "list of text or HTML content"
+      },
+      "Eligibility Criteria": {
+        "type": "list of text or HTML content"
+      },
+      "Respite Care Providers": {
+        "type": "list of text or HTML content"
+      },
+      "Cost and Payment Options": {
+        "type": "list of text or HTML content"
+      },
+      "Additional Resources": {
+        "type": "list of text or HTML content"
+      }
+    }
+  }
+}

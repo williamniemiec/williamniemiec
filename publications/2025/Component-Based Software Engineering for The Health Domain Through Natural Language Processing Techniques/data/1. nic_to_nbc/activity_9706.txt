@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Consultation": {
+    "parameters": {
+      "name": {"type": "text"},
+      "description": {"type": "text"},
+      "healthcare_professional": {"type": "options", "options": ["occupational therapist", "physical therapist", "etc."]},
+      "neglected_body_part": {"type": "options", "options": ["arm", "leg", "hand", "foot", "etc."]},
+      "function": {"type": "options", "options": ["movement", "sensation", "coordination", "etc."]},
+      "timing": {"type": "options", "options": ["daily", "weekly", "monthly", "etc."]},
+      "strategies": {"type": "text or list"}
+    }
+  }
+}

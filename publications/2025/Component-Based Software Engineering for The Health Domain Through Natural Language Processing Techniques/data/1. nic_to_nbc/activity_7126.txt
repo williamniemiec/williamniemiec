@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Treatment Plan": {
+    "Parameters": {
+      "Treatment Name": {"Type": "text"},
+      "TENS Settings": {"Type": "object", "Properties": ["frequency", "intensity", "duration"]},
+      "Additional Measures": {"Type": "list", "Options": [{"Labels": [], "Values": []}]},
+      "Schedule": {"Type": "object", "Properties": ["schedule frequency", "duration"]},
+      "Reminders": {"Type": "list", "Settings": [{"Date": "", "Time": "", "Message": ""}]},
+      "Tracking": {"Type": "object", "Properties": ["tracking frequency", "pain levels", "other relevant metrics"]}
+    }
+  }
+}

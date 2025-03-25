@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Weapon Safety Guide": {
+    "title": {},
+    "why_weapon_safety_is_important": {},
+    "types_of_weapons_and_weapon_like_items": {},
+    "storage_options": {},
+    "safety_tips": {},
+    "frequency": {}
+  }
+}

@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Rest Period Reminder": {
+    "Reminder Frequency": {"type": "options", "options": ["every hour", "every 2 hours", "every 4 hours", "etc."]},
+    "Rest Period Duration": {"type": "number"},
+    "Customization": {"type": "boolean"},
+    "Tracking": {"type": "boolean"},
+    "Relaxation Techniques": {"type": "text or audio/video content"}
+  }
+}

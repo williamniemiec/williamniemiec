@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Resource Request": {
+    "parameters": {
+      "Resource Type": "",
+      "Description": "",
+      "Provider": "",
+      "Status": ""
+    }
+  },
+  "Service Calendar": {
+    "parameters": {
+      "Service Type": "",
+      "Provider": "",
+      "Date and Time": "",
+      "Reminders": ""
+    }
+  }
+}

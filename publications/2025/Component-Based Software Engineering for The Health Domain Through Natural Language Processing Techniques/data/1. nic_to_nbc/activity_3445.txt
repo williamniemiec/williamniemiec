@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Knowledge Assessment": {
+    "Disease Process": {},
+    "Knowledge Questions": {},
+    "Answer Options": {},
+    "Knowledge Score": {},
+    "Feedback": {}
+  }
+}

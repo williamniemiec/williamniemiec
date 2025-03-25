@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Self-Assessment": {
+    "Questions": [
+      "Do you often feel like others are judging you or criticizing you?",
+      "Do you have difficulty trusting others, even those close to you?",
+      "Do you feel like you're often misunderstood or disliked by others?",
+      "Do you have trouble forming close relationships with others?"
+    ],
+    "Answer type": [
+      "Scale (e.g., 1-5, where 1 is \"strongly disagree\" and 5 is \"strongly agree\")",
+      "Open-ended text response"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Monitoring ICP and CPP": {
+    "Inserting invasive monitoring devices, such as intracranial pressure monitors or arterial lines": [],
+    "Continuously monitoring the patient's ICP and CPP values": [],
+    "Interpreting the data and making adjustments to medications, fluids, and other interventions as needed": [],
+    "Collaborating with other healthcare professionals to develop and implement a care plan": []
+  }
+}

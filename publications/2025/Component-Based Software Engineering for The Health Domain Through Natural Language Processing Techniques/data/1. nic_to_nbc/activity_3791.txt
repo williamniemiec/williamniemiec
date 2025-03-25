@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Infant Feeding Positioning": {
+    "Feeding Position": {"Description": "Description of the feeding position", "Required": true, "Type": "text"},
+    "Instructions": {"Description": "Step-by-step instructions on how to hold the infant during feeding", "Required": true, "Type": "text"},
+    "Frequency": {"Description": "How often the infant should be fed and held", "Required": true, "Type": "options", "Options": [{"value": "daily", "label": "Daily"}, {"value": "everyHours", "label": "Every x hours"}, {"value": "everyDays", "label": "Every x days"}]}
+  }
+}
+
+
+Note that I removed the not applicable parameters (Deadline Date and Tips) as per your request. Let me know if this is what you were looking for!

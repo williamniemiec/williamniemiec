@@ -1,0 +1,41 @@
+Here is the output in JSON format:
+
+
+{
+  "DNR Order Upload": {
+    "parameters": [
+      {
+        "name": "document",
+        "description": "Select your written 'Do Not Resuscitate' order",
+        "required": true,
+        "type": "file"
+      }
+    ]
+  },
+  "DNR Status": {
+    "parameters": [
+      {
+        "name": "dnr_status",
+        "description": "Do you have a 'Do Not Resuscitate' order?",
+        "required": true,
+        "type": "boolean"
+      }
+    ]
+  },
+  "Care Plan Review": {
+    "parameters": [
+      {
+        "name": "care_plan",
+        "description": "Review your care plan",
+        "required": true,
+        "type": "text"
+      },
+      {
+        "name": "confirm_care_plan",
+        "description": "Confirm your care plan",
+        "required": true,
+        "type": "boolean"
+      }
+    ]
+  }
+}

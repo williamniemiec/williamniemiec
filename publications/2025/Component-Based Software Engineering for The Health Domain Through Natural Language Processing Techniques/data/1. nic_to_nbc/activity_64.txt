@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Reminder": {
+    "medication_name": {"type": "text"},
+    "dosage": {"type": "text"},
+    "frequency": {"type": "options"},
+    "deadline_date": {"type": "datetime"}
+  }
+}

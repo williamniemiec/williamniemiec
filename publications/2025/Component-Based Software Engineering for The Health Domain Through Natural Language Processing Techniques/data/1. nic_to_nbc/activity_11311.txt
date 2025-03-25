@@ -1,0 +1,38 @@
+Here is the output in JSON format:
+
+
+{
+    "Guide": {
+        "parameters": [
+            {"name": "Name", "value": "Enema Administration Guide"},
+            {"name": "Pages", "value": ["a list of HTML texts or images explaining the steps for enema administration"]},
+            {"name": "Frequency", "value": "how often the user should review the guide"},
+            {"name": "Deadline Date", "value": "specify the due date for reviewing the guide"}
+        ]
+    },
+    "Video": {
+        "parameters": [
+            {"name": "Name", "value": "Enema Administration Video"},
+            {"name": "Video URL", "value": "a link to the video tutorial"},
+            {"name": "Frequency", "value": "how often the user should watch the video"},
+            {"name": "Deadline Date", "value": "specify the due date for watching the video"}
+        ]
+    },
+    "Quiz": {
+        "parameters": [
+            {"name": "Name", "value": "Enema Administration Quiz"},
+            {"name": "Questions", "value": ["a list of questions related to enema administration"]},
+            {"name": "Answer Type", "value": "options (e.g., multiple choice, true/false)"},
+            {"name": "Frequency", "value": "how often the user should take the quiz"},
+            {"name": "Deadline Date", "value": "specify the due date for taking the quiz"}
+        ]
+    },
+    "Task": {
+        "parameters": [
+            {"name": "Name", "value": "Enema Administration Practice"},
+            {"name": "Content", "value": "a brief description of the task"},
+            {"name": "Frequency", "value": "how often the user should practice enema administration"},
+            {"name": "Deadline Date", "value": "specify the due date for completing the task"}
+        ]
+    }
+}

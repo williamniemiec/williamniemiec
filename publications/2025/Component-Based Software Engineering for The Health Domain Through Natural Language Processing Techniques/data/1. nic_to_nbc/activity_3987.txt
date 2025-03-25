@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Motivation Assessment": {
+    "Health Beliefs": {},
+    "Past Noncompliance": {},
+    "Bad Experiences": {},
+    "Conflicting Goals": {},
+    "Motivation Level": {},
+    "Frequency": {
+      "options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+    },
+    "Deadline Date": {}
+  }
+}

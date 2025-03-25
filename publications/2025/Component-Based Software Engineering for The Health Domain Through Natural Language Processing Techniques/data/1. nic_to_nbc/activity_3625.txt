@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Health Tip": {
+    "Parameters": {
+      "Title": {"Type": "text"},
+      "Content": {"Type": "html or article"},
+      "Why Important": {"Type": "text"},
+      "Consequences": {"Type": "text"},
+      "Action Items": {"Type": "list of action items"}
+    }
+  }
+}

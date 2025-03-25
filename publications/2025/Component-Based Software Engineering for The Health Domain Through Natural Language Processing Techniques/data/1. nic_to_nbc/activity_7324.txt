@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Nasogastric Replacement Tracking": {
+    "Parameters": {
+      "Prescription Details": {"Type": "text"},
+      "Output Tracking": {"Type": "number"},
+      "Replacement Schedule": {"Type": "datetime"},
+      "Replacement Dose": {"Type": "number"},
+      "Administration Reminders": {"Type": "boolean"}
+    }
+  }
+}

@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Elevation Guidance": {
+    "parameters": [
+      {"name": "elevation_level", "description": "Elevate your casted extremity to"},
+      {"name": "duration", "description": "Elevate for"},
+      {"name": "frequency", "description": "How often should you elevate your casted extremity?"},
+      {"name": "reminder", "description": "Would you like to set a reminder to elevate your casted extremity?"}
+    ]
+  }
+}

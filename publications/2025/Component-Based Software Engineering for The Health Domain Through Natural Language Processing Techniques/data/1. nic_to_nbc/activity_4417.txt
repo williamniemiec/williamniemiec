@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Restraint Reduction Plan": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Current Restraints": {"Type": "text (with optional conditional logic)"},
+      "Reduction Steps": {"Type": "ordered list (with step-by-step instructions)"},
+      "Self-Control Assessment": {"Type": "form (with multiple questions or assessment criteria)"},
+      "Thresholds": {"Type": "options (with specific threshold values or conditions)"},
+      "Monitoring": {"Type": "options (with specific monitoring frequencies or methods)"}
+    }
+  }
+}

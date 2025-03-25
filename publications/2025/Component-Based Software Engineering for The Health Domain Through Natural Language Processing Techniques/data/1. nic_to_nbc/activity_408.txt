@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Notification": {
+    "Event": {"Type": "text"},
+    "Physician": {"Type": "text or selection from a list of physicians"},
+    "Message": {"Type": "text"},
+    "Urgency": {"Type": "options (high, medium, low)"}
+  }
+}

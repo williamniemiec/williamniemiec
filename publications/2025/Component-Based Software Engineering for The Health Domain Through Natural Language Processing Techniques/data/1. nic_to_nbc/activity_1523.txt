@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "Action Documentation": {
+    "Parameters": {
+      "Action": {"Type": "text", "Required": true},
+      "Date and Time": {"Type": "datetime", "Required": true},
+      "Notes": {"Type": "text", "Required": false}
+    }
+  },
+  "Patient Response Documentation": {
+    "Parameters": {
+      "Response": {"Type": "text", "Required": true},
+      "Date and Time": {"Type": "datetime", "Required": true},
+      "Notes": {"Type": "text", "Required": false}
+    }
+  },
+  "Agency Policy Compliance": {
+    "Parameters": {
+      "Policy Compliance": {"Type": "options", "Required": true},
+      "Policy Reference": {"Type": "text", "Required": true}
+    }
+  }
+}

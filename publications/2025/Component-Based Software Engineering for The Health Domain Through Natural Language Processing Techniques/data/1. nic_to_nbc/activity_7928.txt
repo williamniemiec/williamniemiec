@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+  "Crisis Intervention": {
+    "Parameters": {
+      "Crisis Trigger": {
+        "Type": "list of triggers"
+      },
+      "Intervention Type": {
+        "Type": "list of intervention types"
+      },
+      "Intervention Duration": {
+        "Type": "numerical value"
+      },
+      "De-escalation Techniques": {
+        "Type": "list of de-escalation techniques"
+      },
+      "Post-Intervention Care": {
+        "Type": "list of post-intervention care activities"
+      },
+      "Notes": {
+        "Type": "text"
+      }
+    }
+  }
+}

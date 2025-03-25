@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Family Member": {
+    "Type": "text"
+  },
+  "Communication Style": {
+    "Type": "options",
+    "Options": ["empathetic", "non-judgmental", "etc."]
+  },
+  "Active Listening": {
+    "Type": "boolean"
+  },
+  "Follow-up": {
+    "Type": "boolean"
+  }
+}

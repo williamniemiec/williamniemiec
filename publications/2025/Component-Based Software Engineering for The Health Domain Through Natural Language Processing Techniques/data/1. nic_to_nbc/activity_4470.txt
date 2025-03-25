@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Discomfort Relief": {
+    "Name": {"type": "text"},
+    "Relief Methods": {"type": "unordered list", "list items": [
+      {"value": "breathingExercises", "label": "Breathing Exercises"},
+      {"value": "relaxationTechniques", "label": "Relaxation Techniques"},
+      {"value": "meditation", "label": "Meditation"},
+      {"value": "heatOrColdTherapy", "label": "Heat or Cold Therapy"}
+    ]},
+    "Frequency": {"type": "options", "options": [
+      {"value": "asNeeded", "label": "As needed"},
+      {"value": "daily", "label": "Daily"},
+      {"value": "everyHours", "label": "Every x hours"},
+      {"value": "everyDays", "label": "Every x days"}
+    ]},
+    "Additional Tips": {"type": "text"}
+  }
+}

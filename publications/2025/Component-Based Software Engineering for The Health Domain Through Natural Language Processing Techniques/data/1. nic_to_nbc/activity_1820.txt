@@ -1,0 +1,31 @@
+Here is the output in JSON format:
+
+
+{
+  "Parameters": {
+    "Measurements": {
+      "Description": "List of infant's height and weight measurements",
+      "Required": true,
+      "Type": "list",
+      "List": "list of measurement objects",
+      "Measurement object": {
+        "date": "datetime",
+        "height": "number",
+        "weight": "number"
+      }
+    },
+    "Chart Type": {
+      "Description": "Type of chart to display growth data",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "line", "label": "Line Chart" },
+        { "value": "bar", "label": "Bar Chart" }
+      ]
+    }
+  },
+  "No-code Element Name": "Growth Tracker"
+}
+
+
+I removed the not applicable parameters, and only kept `{{ PARAMETER ESPECIFICATIONS }}` and `{{ NO-CODE ELEMENT NAME }}`. Let me know if this is what you were expecting!

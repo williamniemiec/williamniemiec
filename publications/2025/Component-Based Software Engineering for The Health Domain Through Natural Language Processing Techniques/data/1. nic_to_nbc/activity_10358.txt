@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "speech processes education": {
+    "Process Type": {},
+    "Tutorial Content": {},
+    "Quiz": {},
+    "Certification": {},
+    "Additional Resources": {}
+  }
+}

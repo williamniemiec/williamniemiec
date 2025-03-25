@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Physical Activity Assistant": {
+    "parameters": {
+      "activity_type": {},
+      "frequency": {},
+      "duration": {},
+      "assistance_level": {},
+      "reminders": {},
+      "tracking": {}
+    }
+  }
+}

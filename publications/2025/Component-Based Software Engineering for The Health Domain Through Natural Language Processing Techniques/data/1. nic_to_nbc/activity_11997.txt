@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+    "Reinforcement": {
+        "Parameters": {
+            "Name": {"Type": "text"},
+            "Reinforcement Type": {"Type": "options", "Options": ["positive reinforcement", "rewards", "motivational messages"]},
+            "Reinforcement Criteria": {"Type": "unordered list", "Items": [{"Criterion": {"Type": "text"}, "Threshold": {"Type": "number"}}]},
+            "Reinforcement Message": {"Type": "text"},
+            "Frequency": {"Type": "options", "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+            "Deadline Date": {"Type": "datetime"}
+        }
+    }
+}

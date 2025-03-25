@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Test Result Viewer": {
+    "parameters": {
+      "Test Result Data": "",
+      "Explanation Resources": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Cue Recognition": {
+        "parameters": [
+            {"name": "Cue List", "type": "list"},
+            {"name": "Reflection Prompt", "type": "text"},
+            {"name": "Identification Question", "type": "text"},
+            {"name": "Frequency", "type": "options"},
+        ]
+    }
+}

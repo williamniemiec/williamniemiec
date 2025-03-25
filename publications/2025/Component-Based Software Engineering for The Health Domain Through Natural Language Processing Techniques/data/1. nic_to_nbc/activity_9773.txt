@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "parameters": [
+    {"name": "Food Diary"},
+    {"name": "Calorie Tracker"},
+    {"name": "Meal Planning"},
+    {"name": "Nutrient Analysis"},
+    {"name": "Goal Setting"}
+  ]
+}

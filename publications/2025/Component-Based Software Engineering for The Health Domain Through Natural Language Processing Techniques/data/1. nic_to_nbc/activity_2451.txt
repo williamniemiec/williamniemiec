@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Object Stacking": {
+    "parameters": [
+      {"Name": "text"},
+      {"Instructions": "text"},
+      {"Object List": "unordered list"},
+      {"Stacking Method": "options"},
+      {"Tips": "text"},
+      {"Frequency": "options"}
+    ]
+  }
+}
+
+
+Note that I removed the `Deadline Date` parameter since it was marked as not required, and also removed other irrelevant information from the original text. Let me know if this meets your requirements!

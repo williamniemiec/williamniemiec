@@ -1,0 +1,15 @@
+
+
+
+{
+"Medication Schedule Builder": {
+"Parameters": {
+"Medications": {"Type": "list (of medications with details)"},
+"Schedule Template": {"Type": "table (with columns for day, time, medication, and dosage)"},
+"Customization Options": {"Type": "options (list of customization options)"},
+"Schedule Output": {"Type": "text (or PDF)"}
+}
+}
+
+
+I removed the introduction, number, no-code element description, and conclusion. I also removed the "Reminders" parameter as it's not applicable in this context. The output is a JSON object with the no-code element name and its parameters.

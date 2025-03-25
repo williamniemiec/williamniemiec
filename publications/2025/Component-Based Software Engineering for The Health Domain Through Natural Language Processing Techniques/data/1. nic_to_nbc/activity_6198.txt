@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Pacing Mechanics": {
+    "parameters": {
+      "name": {"type": "text"},
+      "pacing_type": {"type": "options", "options": ["Internal", "External", "Unipolar", "Bipolar", "Transthoracic", "Epicardial", "Central Venous Catheter"]},
+      "pulse_generator": {"type": "options", "options": ["Single-chamber", "Dual-chamber", "Biventricular", "Cardiac Resynchronization Therapy (CRT)"]},
+      "appropriateness": {"type": "boolean"},
+      "rationale": {"type": "text"},
+      "image": {"type": "image URL or base64-encoded image"}
+    }
+  }
+}

@@ -1,0 +1,10 @@
+Here is the output in JSON format:
+
+
+{
+  "Food Consistency Tracker": {
+    "Current Consistency": {"type": "options"},
+    "Progress Notes": {"type": "text"},
+    "Next Steps": {"type": "text"}
+  }
+}

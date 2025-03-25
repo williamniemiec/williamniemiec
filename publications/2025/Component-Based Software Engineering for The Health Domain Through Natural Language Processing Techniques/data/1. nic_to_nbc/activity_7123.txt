@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Tube Patency Maintenance": {
+    "parameters": [
+      {"name": "Tube Type"},
+      {"name": "Manufacturer Directions", "type": "text"},
+      {"name": "Patency Maintenance Method"},
+      {"name": "Frequency"},
+      // Removed "Reminder Settings" as it's not applicable (no specific values)
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Positioning with Duration",
+    "parameters": [
+        {
+            "name": "Position",
+            "type": "options",
+            "options": [
+                { "value": "side-lying", "label": "Side-lying" }
+            ]
+        },
+        {
+            "name": "Duration",
+            "type": "range",
+            "value": "5-10 minutes"
+        },
+        {
+            "name": "Additional Instructions",
+            "type": "text"
+        }
+    ]
+}

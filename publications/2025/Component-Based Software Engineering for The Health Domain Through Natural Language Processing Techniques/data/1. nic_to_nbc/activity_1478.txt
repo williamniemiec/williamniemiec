@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Caregiver Burden Assessment": {
+    "Questions": [
+      "How often do you feel overwhelmed by caregiving responsibilities?",
+      "Do you feel like you need a break from caregiving duties?",
+      "How many hours per week do you spend on caregiving tasks?",
+      "Do you feel like you have enough support from others in caring for your loved one?"
+    ],
+    "Answer type": [
+      "Scale (e.g., 1-5, where 1 is \"rarely\" and 5 is \"almost always\")",
+      "Open-ended text response"
+    ]
+  }
+}

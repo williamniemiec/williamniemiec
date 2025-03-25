@@ -1,0 +1,29 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "reflection",
+    "parameters": [
+        { 
+            "name": "Name", 
+            "type": "text"
+        },
+        { 
+            "name": "Prompt", 
+            "type": "text"
+        },
+        { 
+            "name": "Answer Type", 
+            "type": "options",
+            "options": ["text", "audio", "video"]
+        },
+        { 
+            "name": "Frequency", 
+            "type": "options",
+            "options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+        }
+    ]
+}
+
+
+Note: I removed the `Deadline Date` parameter since it's not applicable (its type is `datetime`, which doesn't fit the format).

@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "Therapy Education Guide": {
+    "Parameters": {
+      "Therapy List": {
+        "Type": "list",
+        "Items": "list of therapies"
+      },
+      "Therapy Explanations": {
+        "Type": "list",
+        "Items": "list of explanations for each therapy"
+      },
+      "Instructions": {
+        "Type": "list",
+        "Items": "list of instructions for each therapy"
+      },
+      "FAQs": {
+        "Type": "list",
+        "Items": "list of FAQs for each therapy"
+      }
+    }
+  }
+}

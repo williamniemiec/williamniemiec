@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+    "Shaping Plan Adjuster": {
+        "Current Shaping Plan": {"type": "ordered list"},
+        "Adjustment Options": {"type": "options", "options": ["size of steps", "reward", "frequency", "custom"]},
+        "Adjustment Criteria": {"type": "options", "options": ["progress", "motivation", "feedback", "custom"]},
+        "Reflection Prompt": {}
+    }
+}

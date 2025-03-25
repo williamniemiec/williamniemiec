@@ -1,0 +1,32 @@
+Here is the output in JSON format:
+
+
+{
+  "Voiding Assistance": {
+    "parameters": {
+      "Suggestion Type": {
+        "type": "options",
+        "options": [
+          {"value": "runningWater", "label": "Running water"},
+          {"value": "flushingToilet", "label": "Flushing toilet"},
+          {"value": "other", "label": "Other (please specify)"}
+        ]
+      },
+      "Custom Suggestion": {
+        "type": "text"
+      },
+      "Duration": {
+        "type": "text"
+      },
+      "Frequency": {
+        "type": "options",
+        "options": [
+          {"value": "daily", "label": "Daily"},
+          {"value": "onlyOnce", "label": "Only once"},
+          {"value": "everyHours", "label": "Every x hours"},
+          {"value": "everyDays", "label": "Every x days"}
+        ]
+      }
+    }
+  }
+}

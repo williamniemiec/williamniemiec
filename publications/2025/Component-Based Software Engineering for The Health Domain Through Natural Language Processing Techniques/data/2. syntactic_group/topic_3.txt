@@ -1,0 +1,10 @@
+{
+  "name": "Symptom Severity Tracker",
+  "description": "Tracks and analyzes the severity of symptoms such as nausea, using a scale to assess mild, moderate, or severe conditions.",
+  "type": "non-periodic",
+  "input": ["Symptom type", "Severity scale", "Symptom duration"],
+  "output": ["Symptom severity report", "Trend analysis of symptoms"],
+  "preconditions": ["User inputs symptom details"],
+  "postconditions": ["Severity data is recorded and analyzed"],
+  "dependencies": ["Symptom checker tool", "Severity scale system", "User health profile"]
+}

@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+    "Meatal Care": {
+        "Instructions": {"type": "text or unordered list"},
+        "Frequency": {"options": ["daily"]},
+        "Timing": {"type": "text"},
+        "Soap and Water": {"type": "boolean"},
+        "Tracking": {"type": "boolean"}
+    }
+}

@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Device Maintenance": {
+    "Name": {"type": "text"},
+    "Device Type": {"type": "text or options"},
+    "Change Criteria": {"type": "text or options"},
+    "Change Instructions": {"type": "text or multimedia"},
+    "Frequency": {"type": "options"}
+  }
+}
+
+
+I removed the non-applicable parameters, such as **Infection Control Tips**, and kept only the relevant information in a JSON format.

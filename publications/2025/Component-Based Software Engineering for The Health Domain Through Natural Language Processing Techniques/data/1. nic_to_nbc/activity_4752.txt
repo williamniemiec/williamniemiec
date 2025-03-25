@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Ventilator Change Monitoring": {
+    "ABG": {"Type": "table or form"},
+    "SaO2": {"Type": "numeric value"},
+    "SvO2": {"Type": "numeric value"},
+    "End-tidal CO2": {"Type": "numeric value"},
+    "Qsp/Qt": {"Type": "numeric value"},
+    "A-aDO2": {"Type": "numeric value"},
+    "Patient's Subjective Response": {"Type": "text or options"},
+    "Monitoring Frequency": {"Type": "options"},
+    "Deadline Date": {"Type": "datetime"}
+  }
+}

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Oxygen Delivery Device Position Monitoring": {
+    "parameters": [
+      {"Name": "Oxygen Delivery Device Position Goal", "Description": "Specify the goal for oxygen delivery device position monitoring"},
+      {"Device Type": "Oxygen Delivery Device Type", "Description": "Specify the type of oxygen delivery device", "Options": [{"value": "nasalCannula", "label": "Nasal cannula"}, {"value": "mask", "label": "Mask"}, {"value": "tracheostomy", "label": "Tracheostomy"}]},
+      {"Position": "Oxygen Delivery Device Position", "Description": "Specify the position of the oxygen delivery device", "Options": [{"value": "properlyPositioned", "label": "Properly positioned"}, {"value": "dislodged", "label": "Dislodged"}, {"value": "kinked", "label": "Kinked"}]},
+      {"Frequency": "Oxygen Delivery Device Position Monitoring Frequency", "Description": "Specify how often to monitor the position of the oxygen delivery device", "Options": [{"value": "continuous", "label": "Continuous"}, {"value": "every15minutes", "label": "Every 15 minutes"}, {"value": "every30minutes", "label": "Every 30 minutes"}]},
+      {"Tracking Method": "Oxygen Delivery Device Position Tracking Method", "Description": "Specify how to track the position of the oxygen delivery device", "Options": [{"value": "visualInspection", "label": "Visual inspection"}, {"value": "deviceSensor", "label": "Device sensor"}]}
+    ]
+  }
+}

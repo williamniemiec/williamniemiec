@@ -1,0 +1,40 @@
+Here is the output in JSON format:
+
+
+{
+  "Location Tracking": {
+    "parameters": [
+      "location type",
+      "frequency"
+    ]
+  },
+  "Verbal Reminder": {
+    "parameters": [
+      "reminder type",
+      "frequency"
+    ]
+  },
+  "Geofencing": {
+    "parameters": [
+      "geofence type",
+      "location type",
+      "frequency"
+    ]
+  },
+  "Customizable Reminders": {
+    "parameters": [
+      "reminder tone",
+      "language",
+      "frequency"
+    ]
+  },
+  "Reminder Escalation": {
+    "parameters": [
+      "escalation type",
+      "frequency"
+    ]
+  }
+}
+
+
+Note that I removed the `deadline_date` parameter as it was not applicable to all no-code elements.

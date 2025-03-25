@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "Perspective-Taking Exercise": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Scenarios": {"Type": "list of scenarios", 
+        "Scenario Text": {"Type": "text"}, 
+        "Characters": {"Type": "list of characters"}, 
+        "Questions": {"Type": "list of questions"}
+      },
+      "Reflection Prompts": {"Type": "list of prompts", 
+        "Prompt Text": {"Type": "text"}, 
+        "Answer Type": {"Type": "options", "Options": ["freeText", "ratingScale", "multipleChoice"]}
+      },
+      "Frequency": {"Type": "options", "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"Type": "datetime"}
+    }
+  }
+}
+
+
+Let me know if you need any further assistance!

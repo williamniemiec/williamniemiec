@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Dysreflexia Prevention": {
+    "Stimuli Checklist": {"type": "unordered list"},
+    "Risk Assessment": {"type": "form or scoring system"},
+    "Interventions": {"type": "unordered list"},
+    "Monitoring": {"type": "form or tracking system"},
+    "Education": {"type": "unordered list"}
+  }
+}

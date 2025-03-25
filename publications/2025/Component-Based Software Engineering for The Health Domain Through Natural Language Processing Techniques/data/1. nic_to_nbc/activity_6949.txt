@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+"Diet Progression": {
+"parameters": {
+"Diet Steps": {"type": "ordered list", "options": ["clear liquid", "full liquid", "soft", "regular", "special diet"]},
+"Tolerance Criteria": {"type": "text"},
+"Frequency": {"type": "options", "options": ["daily", "everyHours", "everyDays"]},
+"Deadline Date": {"type": "datetime"},
+"Instructions": {"type": "text"}
+}
+}
+}

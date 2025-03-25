@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+
+{
+  "Free Writing": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Prompt": {"Type": "text"},
+      "Frequency": {"Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"Type": "datetime"},
+      "Content Type": {"Options": ["text"]},
+      "Instructions": {"Type": "text"}
+    }
+  }
+}

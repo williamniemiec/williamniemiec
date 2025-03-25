@@ -1,0 +1,33 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Success Reflection",
+    "parameters": [
+        {
+            "name": "achievements",
+            "type": "list of text"
+        },
+        {
+            "name": "description",
+            "type": "list of text"
+        },
+        {
+            "name": "feelings",
+            "type": "list of text"
+        },
+        {
+            "name": "lessons_learned",
+            "type": "list of text"
+        },
+        {
+            "name": "frequency",
+            "type": "options",
+            "options": [
+                { value: "daily" },
+                { value: "weekly" },
+                { value: "monthly" }
+            ]
+        }
+    ]
+}

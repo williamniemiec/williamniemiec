@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "Personal Factors": {
+    "Anxiety": {
+      "Type": "options"
+    },
+    "Fear": {
+      "Type": "options"
+    },
+    "Lack of Knowledge": {
+      "Type": "options"
+    },
+    "Other Factors": {
+      "Type": "text"
+    },
+    "Impact": {
+      "Type": "options"
+    },
+    "Goals": {
+      "Type": "text"
+    }
+  }
+}

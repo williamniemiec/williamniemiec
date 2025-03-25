@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+  "Solution Drawing": {
+    "Device Type": {
+      "type": "options",
+      "options": ["bulb syringe", "spray bottle", "neti-pot", "other commercial nasal saline rinse product"]
+    },
+    "Device Instructions": {
+      "type": "text",
+      "default": "Follow the manufacturer's instructions for drawing up the solution"
+    },
+    "Solution Amount": {
+      "type": "number",
+      "default": 1
+    },
+    "Notes": {
+      "type": "text",
+      "optional": true
+    }
+  }
+}

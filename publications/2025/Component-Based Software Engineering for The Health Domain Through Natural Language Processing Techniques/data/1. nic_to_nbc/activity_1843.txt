@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "Personal Reflection": {
+    "Parameters": {
+      "Reflection Type": {},
+      "Reflection Content": {},
+      "Sharing Method": {},
+      "Frequency": {},
+      "Deadline Date": {},
+      "Resources": {}
+    }
+  },
+  "Meaning and Purpose Discussion": {
+    "Parameters": {
+      "Discussion Topic": {},
+      "Discussion Method": {},
+      "Frequency": {},
+      "Deadline Date": {},
+      "Resources": {}
+    }
+  }
+}

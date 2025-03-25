@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Education": {
+    "Parameters": {
+      "Content": {
+        "Type": "text or multimedia (e.g., image, video)"
+      },
+      "Frequency": {
+        "Type": "options (list of possible frequencies, e.g., daily, every 2 hours, etc.)"
+      }
+    }
+  }
+}

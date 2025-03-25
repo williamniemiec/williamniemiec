@@ -1,0 +1,13 @@
+
+
+
+{
+  "parameters": [
+    {"name": "Reason for Consultation", "type": "text"},
+    {"name": "Type of Consultation", "type": "options", "options": ["Physician", "Dentist"]},
+    {"name": "Description of Issue", "type": "text"},
+    {"name": "Urgency Level", "type": "options", "options": ["High", "Medium", "Low"]},
+    {"name": "Preferred Date and Time", "type": "datetime"}
+  ],
+  "no-code-element-name": "Consultation Request"
+}

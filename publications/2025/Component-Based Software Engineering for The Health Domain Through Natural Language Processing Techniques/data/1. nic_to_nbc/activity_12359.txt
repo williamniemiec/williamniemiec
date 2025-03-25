@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "Referral Service": {
+    "parameters": {
+      "name": "",
+      "description": "",
+      "provider_list": [
+        {
+          "name": "",
+          "description": "",
+          "location": "",
+          "contact_info": ""
+        }
+      ],
+      "filter_options": [],
+      "appointment_scheduling": []
+    }
+  }
+}
+
+
+I removed all the unnecessary text and only kept the `{{ NO-CODE ELEMENT NAME }}` and `{{ PARAMETER ESPECIFICATIONS }}`. I also formatted it in a JSON structure for easier readability. Let me know if you need any further assistance!

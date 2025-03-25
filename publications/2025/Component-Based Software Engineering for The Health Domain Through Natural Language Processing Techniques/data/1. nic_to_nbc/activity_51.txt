@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Care Capability Assessment": {
+    "Parameters": {
+      "Title": {"Type": "text"},
+      "Capability Questions": {"Type": "list of capability questions"},
+      "Capability Levels": {"Type": "list of capability levels"},
+      "Family Member Roles": {"Type": "list of family member roles"},
+      "Care Tasks": {"Type": "list of care tasks"}
+    }
+  }
+}

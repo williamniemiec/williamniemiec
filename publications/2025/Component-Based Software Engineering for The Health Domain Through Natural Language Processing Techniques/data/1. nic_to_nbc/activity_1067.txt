@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Gait Belt Guide",
+    "parameters": [
+        {
+            "name": "Gait Belt Instructions",
+            "type": "ordered list"
+        },
+        {
+            "name": "Safety Precautions",
+            "type": "unordered list"
+        },
+        {
+            "name": "Patient Selection",
+            "type": "unordered list"
+        },
+        {
+            "name": "Frequency",
+            "type": "options"
+        }
+    ]
+}

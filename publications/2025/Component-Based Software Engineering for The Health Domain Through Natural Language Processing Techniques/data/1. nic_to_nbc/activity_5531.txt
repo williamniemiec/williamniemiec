@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Air Leak Detector": {
+    "parameters": {
+      "name": {"type": "text"},
+      "monitoring_type": {"type": "options"},
+      "frequency": {"type": "options"},
+      "leak_detection_criteria": {"type": "text or multimedia"},
+      "action_plan": {"type": "text or multimedia"}
+    }
+  }
+}

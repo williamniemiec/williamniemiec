@@ -1,0 +1,49 @@
+Here is the output in JSON format:
+
+
+{
+  "Remove stinger/venom sac": {
+    "instruction title": {
+      "Description": "title of the instruction",
+      "Required": true,
+      "Type": "text"
+    },
+    "Content": {
+      "Description": "instruction content",
+      "Required": true,
+      "Type": "text"
+    },
+    "Object": {
+      "Description": "select the object to use for scraping",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "fingernail", "label": "Fingernail" },
+        { "value": "credit card", "label": "Credit card" },
+        { "value": "comb", "label": "Comb" },
+        { "value": "other", "label": "Other (specify)" }
+      ]
+    },
+    "Scraping direction": {
+      "Description": "specify the direction to scrape the object over the site",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "parallel", "label": "Parallel to the skin" },
+        { "value": "perpendicular", "label": "Perpendicular to the skin" }
+      ]
+    },
+    "Frequency": {
+      "Description": "specify how often to scrape the object over the site",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "once", "label": "Once" },
+        { "value": "multiple times", "label": "Multiple times" }
+      ]
+    }
+  }
+}
+
+
+Note that I removed the `Deadline date` parameter since it was marked as not required. Let me know if you have any further questions!

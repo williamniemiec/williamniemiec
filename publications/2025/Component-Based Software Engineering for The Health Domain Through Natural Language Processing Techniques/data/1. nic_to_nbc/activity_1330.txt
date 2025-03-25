@@ -1,0 +1,44 @@
+Here is the output in JSON format:
+
+
+{
+  "Subglottic Suctioning Consideration": {
+    "Parameters": {
+      "Task Title": {
+        "Description": "Title of the task",
+        "Required": true,
+        "Type": "text"
+      },
+      "Instructions": {
+        "Description": "Step-by-step instructions on how to consider using continuous subglottic suctioning and drainage with specifically designed ET",
+        "Required": true,
+        "Type": "text"
+      },
+      "Ventilation Duration": {
+        "Description": "Specify the duration of mechanical ventilation",
+        "Required": true,
+        "Type": "options",
+        "Options": [
+          {
+            "value": "longerThan72Hours",
+            "label": "Longer than 72 hours"
+          }
+        ]
+      },
+      "ET Type": {
+        "Description": "Specify the type of ET to use",
+        "Required": true,
+        "Type": "options",
+        "Options": [
+          {
+            "value": "specificallyDesignedET",
+            "label": "Specifically designed ET"
+          }
+        ]
+      }
+    }
+  }
+}
+
+
+Note that I removed the `Deadline Date` parameter since it is not required. Let me know if you need anything else!

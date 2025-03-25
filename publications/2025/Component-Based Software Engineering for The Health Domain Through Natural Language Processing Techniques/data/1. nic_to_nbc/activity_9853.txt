@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Guide": {
+    "Title": {"type": "text"},
+    "Pages": {"type": "book-page", "book-page": "list of HTML texts"},
+    "Label Reading Steps": {"type": "list", "list": "list of text"},
+    "Nutrient Identification": {"type": "list", "list": "list of text"},
+    "Examples": {"type": "list", "list": "list of text"}
+  },
+  "Resource": {
+    "Title": {"type": "text"},
+    "Tips": {"type": "list", "list": "list of text"},
+    "Resources": {"type": "list", "list": "list of text"}
+  }
+}

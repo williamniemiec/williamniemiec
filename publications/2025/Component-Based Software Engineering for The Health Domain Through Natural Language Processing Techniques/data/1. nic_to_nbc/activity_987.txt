@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Open Communication": {
+    "parameters": [
+      {"name": "Message", "type": "text"},
+      {"name": "Tone", "type": "options"},
+      {"name": "Frequency", "type": "options"},
+      {"name": "Response", "type": "text"}
+    ]
+  }
+}

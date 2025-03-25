@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Rating": {
+    "parameters": {
+      "Product Name": {"type": "text"},
+      "Rating Type": {"type": "options"},
+      "Rating Scale": {"type": "options"},
+      "Comments": {"type": "text"},
+      "Frequency": {"type": "options"},
+      "Deadline Date": {"type": "datetime"}
+    }
+  }
+}

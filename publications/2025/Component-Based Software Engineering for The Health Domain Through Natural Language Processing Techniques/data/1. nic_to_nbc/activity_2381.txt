@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Vital Sign Tracker": {
+    "Parameters": {
+      "Blood Pressure": {"Type": "number", "Units": "mmHg"},
+      "Heart Rate": {"Type": "number", "Units": "beats per minute"},
+      "ECG Results": {"Type": "file upload or text input", "Units": "milliseconds"},
+      "Symptoms": {"Type": "checklist", "Options": [
+        "Decreased contractility",
+        "Decreased cardiac output",
+        "Hypotension",
+        "Lengthened ST segment",
+        "Prolonged QT interval",
+        "Torsades de pointes"
+      ]},
+      "Notes": {"Type": "text"}
+    }
+  }
+}

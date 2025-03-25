@@ -1,0 +1,38 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Response Modification",
+    "parameters": [
+        {
+            "name": "Equipment Cues",
+            "type": "list",
+            "items": {
+                "type": "text"
+            }
+        },
+        {
+            "name": "Bodily Responses",
+            "type": "list",
+            "items": {
+                "type": "text"
+            }
+        },
+        {
+            "name": "Learning Objectives",
+            "type": "text"
+        },
+        {
+            "name": "Training Protocol",
+            "type": "text"
+        },
+        {
+            "name": "Feedback Mechanism",
+            "type": "options",
+            "options": [
+                { "value": "biofeedback", "label": "Biofeedback" },
+                { "value": "reinforcement", "label": "Reinforcement" }
+            ]
+        }
+    ]
+}

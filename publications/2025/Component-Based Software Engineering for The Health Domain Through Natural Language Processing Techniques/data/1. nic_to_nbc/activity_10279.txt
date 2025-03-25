@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+    "Care Plan Handoff": {
+        "Care Plan Summary": {"Type": "text"},
+        "Next Healthcare Provider": {"Type": "text"},
+        "Handoff Instructions": {"Type": "text"},
+        "Questions/Concerns": {"Type": "text"},
+        "Confirmation": {"Type": "boolean"}
+    }
+}

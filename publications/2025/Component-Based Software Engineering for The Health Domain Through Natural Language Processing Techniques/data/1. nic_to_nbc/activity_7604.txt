@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Support Network Builder": {
+    "Parameters": {
+      "Title": {"Type": "text"},
+      "Prompt": {"Type": "text"},
+      "Support Type": {"Type": "options", "Options": ["emotional", "financial", "practical"]},
+      "Contact Information": {"Type": "list of contact information objects"},
+      "Notes": {"Type": "text"}
+    }
+  }
+}

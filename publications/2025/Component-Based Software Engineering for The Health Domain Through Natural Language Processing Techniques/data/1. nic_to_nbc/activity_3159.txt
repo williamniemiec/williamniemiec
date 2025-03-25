@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Discharge Plan": {
+    "Next Level of Care": {"type": "options"},
+    "Discharge Date": {"type": "datetime"},
+    "Transportation Arrangements": {"type": "options"},
+    "Equipment and Supplies": {"type": "text"},
+    "Medication Reconciliation": {"type": "boolean"},
+    "Follow-up Care": {"type": "text"},
+    "Patient Education": {"type": "boolean"}
+  }
+}

@@ -1,0 +1,18 @@
+
+
+
+{
+    "Transition": {
+        "name": "",
+        "prompt": "",
+        "timer": "",
+        "next_step": ""
+    },
+    "Task": {
+        "name": "",
+        "description": "",
+        "instructions": "",
+        "deadline": "",
+        "next_step": ""
+    }
+}

@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "hearing aid guidelines": {
+    "Parameters": {
+      "Device Type": {},
+      "Manufacturer": {},
+      "Guidelines": {},
+      "Notes": {}
+    }
+  }
+}

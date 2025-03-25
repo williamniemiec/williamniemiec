@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+    "Illness Education": {
+        "parameters": {
+            "illness_type": {"type": "options"},
+            "education_content": {"type": "rich text or HTML"},
+            "delusion_info": {"type": "rich text or HTML"},
+            "treatment_options": {"type": "list of treatment options"},
+            "management_strategies": {"type": "list of management strategies"},
+            "resources": {"type": "list of resources"},
+            "quiz": {"type": "list of quiz questions with answers"}
+        }
+    }
+}

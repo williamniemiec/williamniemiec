@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Induction Technique Explorer": {
+    "Technique List": {"type": "list of options"},
+    "Description": {"type": "text"},
+    "Rating": {"type": "rating scale"},
+    "Notes": {"type": "text"},
+    "Favorite": {"type": "boolean"}
+  }
+}

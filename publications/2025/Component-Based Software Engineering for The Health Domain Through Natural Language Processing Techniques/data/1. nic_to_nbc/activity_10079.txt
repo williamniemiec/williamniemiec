@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Social Interaction Guide",
+    "parameters": [
+        {
+            "name": "Interaction Scenarios",
+            "type": "options"
+        },
+        {
+            "name": "Positive Interaction Tips",
+            "type": "text"
+        },
+        {
+            "name": "Reflection Questions",
+            "type": "text"
+        },
+        {
+            "name": "Frequency",
+            "type": "options"
+        }
+    ]
+}

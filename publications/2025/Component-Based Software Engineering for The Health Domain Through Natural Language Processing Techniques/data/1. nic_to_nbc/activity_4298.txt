@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Diet and Exercise Adherence Tracker": {
+    "Parameters": {
+      "Diet Plan": {"Type": "text with meal plans and nutritional goals"},
+      "Exercise Plan": {"Type": "text with exercise routines and frequency"},
+      "Tracking": {"Type": "interactive calendar or log"},
+      "Reminders": {"Type": "list of reminders (with notification preferences)"},
+      "Motivational Messages": {"Type": "list of motivational messages (with notification preferences)"},
+      "Progress Tracking": {"Type": "interactive graphs and charts"}
+    }
+  }
+}
+
+
+Note: I removed the "Not Applicable" parameters as per your request.

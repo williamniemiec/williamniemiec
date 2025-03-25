@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+    "Respiratory Pattern Monitoring": {
+        "parameters": {
+            "name": "",
+            "instructions": "",
+            "frequency": "",
+            "deadline_date": "",
+            "notes": "",
+            "tracking_type": ""
+        }
+    }
+}

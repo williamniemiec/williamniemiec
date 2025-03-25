@@ -1,0 +1,10 @@
+
+
+
+{
+    "Meal Setup": {
+        "table_setup": {"type": "text", "description": "Provide instructions on how to set up the table, e.g., \"Seat at a small table with 3-5 people\""},
+        "meal_frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+        "deadline_date": {"type": "datetime", "description": "Specify the date by which this meal setup should be completed"}
+    }
+}

@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+    "Unrushed Care": {
+        "Care Duration": {"Type": "time"},
+        "Care Pace": {"Options": ["relaxed", "gentle", "unhurried"], "Type": "options"},
+        "Breaks Allowed": {"Options": ["yes", "no"], "Type": "boolean"},
+        "Patient Feedback": {"Type": "text"},
+        "Notes": {"Type": "text"}
+    }
+}

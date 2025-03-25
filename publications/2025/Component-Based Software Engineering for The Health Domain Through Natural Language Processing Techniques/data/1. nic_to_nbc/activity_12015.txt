@@ -1,0 +1,39 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Administration": {
+    "Parameters": {
+      "Medication Type": {
+        "type": "options",
+        "options": [
+          {"value": "anxiolytic", "label": "Anxiolytic"},
+          {"value": "antipsychotic", "label": "Antipsychotic"},
+          {"value": "moodStabilizer", "label": "Mood Stabilizer"}
+        ]
+      },
+      "Medication Name": {
+        "type": "text"
+      },
+      "Dosage": {
+        "type": "text"
+      },
+      "Frequency": {
+        "type": "options",
+        "options": [
+          {"value": "prn", "label": "As needed"},
+          {"value": "q6h", "label": "Every 6 hours"},
+          {"value": "q8h", "label": "Every 8 hours"}
+        ]
+      },
+      "Route": {
+        "type": "options",
+        "options": [
+          {"value": "oral", "label": "Oral"},
+          {"value": "injectable", "label": "Injectable"},
+          {"value": "topical", "label": "Topical"}
+        ]
+      }
+    }
+  }
+}

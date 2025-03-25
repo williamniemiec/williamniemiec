@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Memory Aide Tracker": {
+        "parameters": [
+            {"Memory Aide Type": {"type": "options", "options": ["calendars", "reminders", "lists", "pictures", "diagrams", "others"]}},
+            {"Visual Cue Type": {"type": "options", "options": ["signs", "labels", "colors", "images", "others"]}},
+            {"Frequency": {"type": "options", "options": ["daily", "weekly", "monthly", "as needed"]}},
+            {"Situation": {"type": "options", "options": ["during daily care", "during meals", "during activities", "during conversations", "others"]}},
+            {"Notes": {"type": "text"}}
+        ]
+    }
+}

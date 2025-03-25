@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Patient Strengths and Resources Assessment": {
+    "Assessment Questions": {"Type": "list of questions with multiple-choice or Likert scale answers"},
+    "Strengths and Resources Categories": {"Type": "list of categories with corresponding scores or ratings"},
+    "Scoring": {"Type": "numerical score or rating"},
+    "Personalized Feedback": {"Type": "text or multimedia feedback"},
+    "Goal Setting": {"Type": "goal-setting template or worksheet"}
+  }
+}

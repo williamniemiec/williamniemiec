@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Tube Care Education": {
+    "Parameters": {
+      "Content": {"Type": ["text", "video", "image"]},
+      "Format": {"Type": ["text", "video", "interactive tutorial"]},
+      "Indications": {"Type": ["text"]}
+    }
+  }
+}

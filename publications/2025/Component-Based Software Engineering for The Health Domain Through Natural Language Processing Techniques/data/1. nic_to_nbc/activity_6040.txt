@@ -1,0 +1,34 @@
+Here is the output in JSON format:
+
+
+{
+  "Surgery Verification": {
+    "parameters": {
+      "Patient Contact Information": {
+        "type": "form",
+        "fields": [
+          { "name": "phone_number", "label": "Phone Number", "type": "text" },
+          { "name": "preferred_contact_method", "label": "Preferred Contact Method", "type": "options" }
+        ]
+      },
+      "Surgery Details": {
+        "type": "form",
+        "fields": [
+          { "name": "surgery_date", "label": "Surgery Date", "type": "date" },
+          { "name": "surgery_time", "label": "Surgery Time", "type": "time" },
+          { "name": "surgery_location", "label": "Surgery Location", "type": "text" }
+        ]
+      },
+      "Verification Status": {
+        "type": "options",
+        "options": [
+          { "value": "confirmed", "label": "Confirmed" },
+          { "value": "cancelled", "label": "Cancelled" }
+        ]
+      },
+      "Notes": {
+        "type": "text"
+      }
+    }
+  }
+}

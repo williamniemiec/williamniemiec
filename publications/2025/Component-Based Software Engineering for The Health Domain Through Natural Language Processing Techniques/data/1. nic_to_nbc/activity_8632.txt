@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Topic Gradient": {
+    "Parameters": {
+      "Topic List": {"Type": "list of text"},
+      "Sensitivity Level": {"Type": "rating or categorization"},
+      "Flowchart": {"Type": "flowchart or diagram"}
+    }
+  }
+}

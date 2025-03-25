@@ -1,0 +1,10 @@
+Here is the output in JSON format:
+
+
+{
+  "Expectations Survey": {
+    "Questions": {"type": "list of text"},
+    "Answer Options": {"type": "list of text or multiple-choice options"},
+    "Free Text": {"type": "text"}
+  }
+}

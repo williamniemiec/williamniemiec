@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Privacy Reminder": {
+    "parameters": {
+      "Reminder": {"type": "boolean"},
+      "Tips": {"type": "list of text or multimedia"}
+    }
+  }
+}

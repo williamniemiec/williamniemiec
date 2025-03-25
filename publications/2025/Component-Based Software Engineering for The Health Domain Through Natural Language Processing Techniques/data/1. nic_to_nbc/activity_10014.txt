@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Neurological Symptom Tracker": {
+    "Headache Severity": {"type": "number"},
+    "Dizziness": {"type": "boolean"},
+    "Other Symptoms": {"type": "text"},
+    "Frequency": {"type": "options"},
+    "Notes": {"type": "text"}
+  }
+}

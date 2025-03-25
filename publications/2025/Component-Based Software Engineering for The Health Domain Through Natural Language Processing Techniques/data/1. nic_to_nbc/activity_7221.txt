@@ -1,0 +1,33 @@
+Here is the output in JSON format:
+
+
+{
+    "Bleeding Monitoring": {
+        "parameters": [
+            { 
+                "name": "name", 
+                "description": "bleeding monitoring task name"
+            },
+            { 
+                "name": "description", 
+                "description": "explain why bleeding should be monitored"
+            },
+            { 
+                "name": "frequency", 
+                "description": "specify how often the patient should monitor for signs of bleeding"
+            },
+            { 
+                "name": "deadline_date", 
+                "description": "specify the due date of the bleeding monitoring task"
+            },
+            { 
+                "name": "notes", 
+                "description": "additional notes or instructions for the patient"
+            },
+            { 
+                "name": "signs_of_bleeding", 
+                "description": "list of signs of bleeding to monitor"
+            }
+        ]
+    }
+}

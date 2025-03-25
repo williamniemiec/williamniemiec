@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Reflective Journaling": {
+    "Name": {"Type": "text"},
+    "Prompt": {"Type": "text"},
+    "Reflection Type": {"Type": "options", "Options": ["writing", "audio", "video"]},
+    "Frequency": {"Type": "options", "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"Type": "datetime"},
+    "Guided Questions": {"Type": "list of text", "Optional": true}
+  }
+}

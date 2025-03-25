@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+  "Physical Capacity Assessment": {
+    "Questions": {"Type": "list of text questions"},
+    "Answer Type": {"Type": "options (e.g., text, number, selection)"},
+    "Frequency": {"Type": "options (e.g., daily, weekly, monthly)"},
+    "Deadline Date": {"Type": "datetime"}
+  },
+  "Mental Capacity Assessment": {
+    "Questions": {"Type": "list of text questions"},
+    "Answer Type": {"Type": "options (e.g., text, number, selection)"},
+    "Frequency": {"Type": "options (e.g., daily, weekly, monthly)"},
+    "Deadline Date": {"Type": "datetime"}
+  },
+  "Recreational Activity Participation Tracking": {
+    "Activity List": {"Type": "list of text"},
+    "Participation Frequency": {"Type": "options (e.g., daily, weekly, monthly)"},
+    "Participation Duration": {"Type": "number (e.g., 30 minutes, 1 hour, etc.)"},
+    "Deadline Date": {"Type": "datetime"}
+  }
+}

@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "liquid_intake": {
+    "parameters": [
+      { "name": "liquid_type" },
+      { "name": "temperature" },
+      { "name": "amount" },
+      { "name": "frequency" }
+    ]
+  }
+}

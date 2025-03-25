@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "IV Potassium Administration Guidance": {
+    "Infusion Method": {},
+    "Dilution Instructions": {},
+    "Administration Rate": {},
+    "Topical Anesthetic": {},
+    "Additional Precautions": {}
+  }
+}

@@ -1,0 +1,38 @@
+Here is the output in JSON format:
+
+
+{
+  "Coping Mechanism Identification": {
+    "Parameters": {
+      "Coping Mechanism Description": {},
+      "Coping Mechanism Rating": {},
+      "Frequency": {
+        "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+      },
+      "Deadline Date": {}
+    }
+  },
+  "Support Plan": {
+    "Parameters": {
+      "Support Statement": {},
+      "Support Strategies": {},
+      "Frequency": {
+        "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+      },
+      "Deadline Date": {}
+    }
+  },
+  "Reflection Question": {
+    "Parameters": {
+      "Question": {},
+      "Answer Type": {},
+      "Frequency": {
+        "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+      },
+      "Deadline Date": {}
+    }
+  }
+}
+
+
+Let me know if you need any further assistance!

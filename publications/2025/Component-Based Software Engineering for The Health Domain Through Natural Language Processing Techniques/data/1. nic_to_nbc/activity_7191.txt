@@ -1,0 +1,67 @@
+Here is the output in JSON format:
+
+
+{
+    "Nursing Interventions": {
+        "parameters": [
+            { 
+                "name": "Name", 
+                "type": "text"
+            },
+            { 
+                "name": "Intervention Types", 
+                "type": "list of options",
+                "options": [
+                    { value: "medication administration" },
+                    { value: "wound care" }
+                ]
+            },
+            { 
+                "name": "Fields", 
+                "type": "list of objects",
+                "objects": [
+                    {
+                        "label": "Intervention Type",
+                        "type": "text"
+                    },
+                    {
+                        "label": "Frequency",
+                        "type": "number"
+                    },
+                    {
+                        "label": "Duration",
+                        "type": "date"
+                    }
+                ]
+            },
+            { 
+                "name": "Optional Sections", 
+                "type": "list of objects",
+                "objects": [
+                    {
+                        "label": "Rationale",
+                        "fields": [
+                            {
+                                "label": "Reason for Intervention",
+                                "type": "text"
+                            }
+                        ]
+                    },
+                    {
+                        "label": "Evaluation",
+                        "fields": [
+                            {
+                                "label": "Effectiveness of Intervention",
+                                "type": "options",
+                                "options": [
+                                    { value: "effective" },
+                                    { value: "ineffective" }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

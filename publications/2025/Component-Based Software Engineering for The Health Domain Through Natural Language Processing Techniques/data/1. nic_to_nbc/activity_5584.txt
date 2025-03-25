@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Behavior Identifier": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Description": {"Type": "text"},
+      "Situation Selection": {"Type": "list of options"},
+      "Behavior Reflection": {"Type": "list of questions"},
+      "Behavior Identification": {"Type": "text or list of options"},
+      "Pattern Analysis": {"Type": "text or list of options"}
+    }
+  }
+}

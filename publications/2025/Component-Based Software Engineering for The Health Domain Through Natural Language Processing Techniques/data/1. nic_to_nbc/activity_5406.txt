@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Goal Flexibility": {
+    "parameters": {
+      "Goal": {"type": "text"},
+      "Ideal Outcome": {"type": "text"},
+      "Partial Outcomes": {"type": "list", "item_properties": ["outcome description", "importance level", "satisfaction level"]},
+      "Satisfaction Scale": {"type": "number"},
+      "Flexibility Questions": {"type": "list", "item_properties": ["question text", "answer type"]},
+      "Acceptance Level": {"type": "number"}
+    }
+  }
+}
+
+
+Let me know if this is what you were looking for!

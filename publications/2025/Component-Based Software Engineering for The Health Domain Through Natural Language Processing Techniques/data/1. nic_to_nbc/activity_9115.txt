@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Rehearsal Guide": {
+    "Event": {"Type": "text"},
+    "Simulation": {"Type": "interactive content (e.g., interactive video, virtual reality, gamification)"},
+    "Instructions": {"Type": "text"},
+    "Frequency": {"Type": "options (e.g., once, daily, weekly)"},
+    "Duration": {"Type": "time interval (e.g., 10 minutes, 30 minutes)"}
+  }
+}

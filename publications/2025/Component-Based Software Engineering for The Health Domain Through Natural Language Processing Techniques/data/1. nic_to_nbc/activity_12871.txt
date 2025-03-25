@@ -1,0 +1,12 @@
+
+
+
+{
+    "Message": {
+        "Parameters": {
+            "Message template": {"Type": "text"},
+            "Recipient": {"Type": "user ID or username"},
+            "Response type": {"Type": "options"}
+        }
+    }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Environmental Lighting and Ambience",
+  "description": "Focuses on the impact of lighting on the environment, including the use of natural light, dim lighting, and quiet settings to create a calming atmosphere.",
+  "type": "non-periodic",
+  "input": ["Lighting conditions", "Natural light usage", "Dim vs. bright light settings", "Environmental noise levels"],
+  "output": ["Lighting conditions report", "Ambience effectiveness summary", "Environmental feedback"],
+  "preconditions": ["User is adjusting or assessing environmental lighting"],
+  "postconditions": ["Improved environment with appropriate lighting and ambiance settings"],
+  "dependencies": ["Lighting control system", "Environmental monitoring platform"]
+}

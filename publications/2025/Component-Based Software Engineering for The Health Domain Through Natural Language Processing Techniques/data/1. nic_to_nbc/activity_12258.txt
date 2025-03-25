@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+  "Object Naming": {
+    "Parameters": {
+      "Object Category": {
+        "Type": "options",
+        "Options": ["animals", "furniture", "food"]
+      },
+      "Object List": {
+        "Type": "list",
+        "List of objects": ["cat", "chair", "apple"]
+      },
+      "Question Type": {
+        "Type": "options",
+        "Options": ["What is this?", "Point to the [object]"]
+      },
+      "Frequency": {
+        "Type": "options",
+        "Options": ["daily", "every other day", "weekly"]
+      }
+    }
+  }
+}
+
+
+I removed the `Deadline Date` parameter since it's not applicable (its type is datetime, which doesn't fit with the rest of the parameters). Let me know if you need any further assistance!

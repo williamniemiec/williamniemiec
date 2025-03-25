@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Self-Assessment": {
+    "parameters": {
+      "Question": {"type": "options"},
+      "Frequency": {"options": ["daily", "everyHours", "everyDays"]},
+      "Deadline Date": {"type": "datetime"},
+      "Photo": {"type": "camera"}
+    }
+  }
+}

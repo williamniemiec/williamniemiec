@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Calorie and Energy Tracker": {
+    "Parameters": {
+      "Food Diary": {"Description": "Record daily food intake and calorie consumption", "Type": "table"},
+      "Activity Diary": {"Description": "Record daily physical activities and energy expenditure", "Type": "table"},
+      "Goal Setting": {"Description": "Set daily calorie intake and energy expenditure goals", "Type": "numerical input"},
+      "Progress Tracking": {"Description": "Track progress towards calorie and energy goals", "Type": "graph or chart"}
+    }
+  }
+}

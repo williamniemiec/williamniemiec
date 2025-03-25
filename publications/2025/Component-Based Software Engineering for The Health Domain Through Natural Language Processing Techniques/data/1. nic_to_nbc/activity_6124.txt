@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "Laboratory Data Retrieval and Interpretation": {
+    "Parameters": {
+      "Laboratory Data": {},
+      "Data Source": {},
+      "Interpretation Guidelines": {},
+      "Result Classification": {},
+      "Physician Notification": {},
+      "Notification Criteria": {}
+    }
+  },
+  "Laboratory Data Analyzer": {
+    "Parameters": {
+      "Laboratory Data": {},
+      "Data Source": {},
+      "Interpretation Guidelines": {},
+      "Result Classification": {},
+      "Physician Notification": {},
+      "Notification Criteria": {}
+    }
+  }
+}

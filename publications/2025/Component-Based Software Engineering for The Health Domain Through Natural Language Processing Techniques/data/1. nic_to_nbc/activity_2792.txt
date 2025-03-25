@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Environmental Setup Guidance": {
+    "parameters": [
+      {"Instructions": {}},
+      {"Lighting Guidance": {}},
+      {"Temperature Guidance": {}},
+      {"Additional Tips": {}},
+      {"Frequency": {}}
+    ]
+  }
+}

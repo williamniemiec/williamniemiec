@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Hematocrit Level Tracking": {
+    "Parameters": {
+      "Hematocrit Level": {"Type": "number"},
+      "Target Range": {"Type": "text"},
+      "Frequency": {"Type": "options", "Options": ["daily", "everyOtherDay", "weekly", "biweekly"]},
+      "Deadline Date": {"Type": "datetime"},
+      "Therapy Type": {"Type": "text"}
+    }
+  }
+}

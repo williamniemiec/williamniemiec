@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Support Network": {
+    "parameters": [
+      {"name": "Support Options"},
+      {"name": "Resource Directory"},
+      {"name": "Family Support"},
+      {"name": "Peer Support"},
+      {"name": "Self-Care Resources"}
+    ]
+  }
+}

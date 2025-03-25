@@ -1,0 +1,30 @@
+Here is the output in JSON format:
+
+
+{
+  "Literature Search": {
+    "name": "Literature Search",
+    "search_criteria": "options (e.g., topic, author, publication date)",
+    "search_query": "text field for the search query",
+    "search_results": "list of literature titles and descriptions"
+  },
+  "Therapy Topic": {
+    "name": "Therapy Topic",
+    "topic": "options (e.g., anxiety, depression, trauma)",
+    "subtopic": "options (e.g., cognitive-behavioral therapy, mindfulness-based stress reduction)"
+  },
+  "Literature Recommendation": {
+    "name": "Literature Recommendation",
+    "literature_type": "options (e.g., book, article, online resource)",
+    "literature_title": "text field for the literature title",
+    "literature_description": "text field for the literature description",
+    "recommendation_reason": "text field for the reason why the literature is being recommended"
+  },
+  "Source Consultation": {
+    "name": "Source Consultation",
+    "source_type": "options (e.g., therapist, librarian, online resource)",
+    "source_name": "text field for the source's name",
+    "consultation_type": "options (e.g., in-person, video call, phone call)",
+    "consultation_date": "datetime for the consultation"
+  }
+}

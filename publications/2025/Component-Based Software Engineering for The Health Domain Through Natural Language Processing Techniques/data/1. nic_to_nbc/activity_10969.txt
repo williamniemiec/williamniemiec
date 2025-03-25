@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+  "Name": "Resourcefulness Recognition",
+  "Parameters": {
+    "Situation": {
+      "Description": "Current situation that the patient is coping with",
+      "Required": true,
+      "Type": "text"
+    },
+    "Coping Mechanisms": {
+      "Description": "Ways in which the patient is coping with the situation",
+      "Required": true,
+      "Type": "list"
+    },
+    "Resourcefulness": {
+      "Description": "Recognition of the patient's resourcefulness in coping with the situation",
+      "Required": true,
+      "Type": "text"
+    },
+    "Reflection Prompt": {
+      "Description": "Prompt to encourage the patient to reflect on their resourcefulness",
+      "Required": true,
+      "Type": "text"
+    }
+  }
+}

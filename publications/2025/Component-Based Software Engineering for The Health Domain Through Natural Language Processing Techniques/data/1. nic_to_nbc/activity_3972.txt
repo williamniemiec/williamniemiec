@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Pacifier Guide": {
+    "title of the guide": {"type": "text"},
+    "Content": {"type": "text"},
+    "Image": {"type": "image"},
+    "Tips": {"type": "list"},
+    "Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"type": "datetime"}
+  }
+}
+
+
+Let me know if this meets your requirements!

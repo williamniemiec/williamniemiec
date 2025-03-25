@@ -1,0 +1,26 @@
+
+
+
+[
+    {
+        "Stimulation Reminder": {
+            "Parameters": {
+                "Stimulation Type": {"Type": "text"},
+                "Frequency": {"Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+                "Deadline Date": {"Type": "datetime"},
+                "Notes": {"Type": "text"}
+            }
+        }
+    },
+    {
+        "Stimulation Tracking": {
+            "Parameters": {
+                "Stimulation Type": {"Type": "text"},
+                "Engagement": {"Type": ["text", "numerical value"]},
+                "Frequency": {"Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+                "Deadline Date": {"Type": "datetime"},
+                "Notes": {"Type": "text"}
+            }
+        }
+    }
+]

@@ -1,0 +1,11 @@
+
+
+
+{
+  "Safety Card": {
+    "card_type": {"type": "options"},
+    "instructions": {"type": "text"},
+    "contact_info": {"type": "text"},
+    "reminder": {"type": "options"}
+  }
+}

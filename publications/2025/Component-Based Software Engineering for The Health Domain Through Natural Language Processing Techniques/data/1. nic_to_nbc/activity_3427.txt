@@ -1,0 +1,30 @@
+Here is the output in JSON format:
+
+
+{
+  "Self-Monitoring Instruction": {
+    "Parameters": {
+      "Self-Monitoring Skill": {
+        "Type": "list of options or checkboxes"
+      },
+      "Instructions": {
+        "Type": "rich text or multimedia"
+      },
+      "Equipment": {
+        "Type": "list of text or rich text"
+      },
+      "Frequency": {
+        "Type": "options (e.g., daily, weekly, as needed)"
+      },
+      "Reminders": {
+        "Type": "boolean (true or false)"
+      },
+      "Resources": {
+        "Type": "list of URLs or file attachments"
+      }
+    }
+  }
+}
+
+
+Let me know if you need any further modifications!

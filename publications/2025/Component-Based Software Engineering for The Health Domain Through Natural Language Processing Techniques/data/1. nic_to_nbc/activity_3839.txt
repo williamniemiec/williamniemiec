@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Informed Consent": {
+    "Content": {"type": "text or HTML"},
+    "Questions": {"type": "list of questions with answer types"},
+    "Signature": {"type": "boolean"},
+    "Deadline Date": {"type": "datetime"}
+  }
+}

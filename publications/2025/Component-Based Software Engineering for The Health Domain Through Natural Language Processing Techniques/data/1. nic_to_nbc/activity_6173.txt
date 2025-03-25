@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+  "Learning Needs Assessment": {
+    "Questions": {
+      "Type": "form",
+      "Options": ["multiple-choice", "open-ended", "rating scale", "etc."]
+    },
+    "Frequency": {
+      "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+    },
+    "Deadline Date": {
+      "Type": "datetime"
+    },
+    "Family Members": {
+      "Type": "list of family members"
+    }
+  }
+}
+
+
+Let me know if this meets your requirements!

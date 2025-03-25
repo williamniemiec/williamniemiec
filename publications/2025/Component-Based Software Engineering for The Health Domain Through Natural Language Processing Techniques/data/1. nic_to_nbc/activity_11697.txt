@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Isolation Technique Guidance",
+    "parameters": [
+        { 
+            "name": "Technique Type", 
+            "type": "options"
+        },
+        { 
+            "name": "Technique Instructions", 
+            "type": "text"
+        },
+        { 
+            "name": "Frequency", 
+            "type": "options"
+        },
+        { 
+            "name": "Reminders", 
+            "type": "boolean"
+        }
+    ]
+}

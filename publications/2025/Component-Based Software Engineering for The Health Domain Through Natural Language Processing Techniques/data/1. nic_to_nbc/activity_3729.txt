@@ -1,0 +1,39 @@
+Here is the output in JSON format:
+
+
+{
+  "Care Coordinator": {
+    "parameters": {
+      "Healthcare Team": {
+        "type": "list of healthcare professional objects",
+        "properties": {
+          "Name": "",
+          "Role": "",
+          "Contact Information": ""
+        }
+      },
+      "Care Plan": {
+        "type": "care plan object",
+        "properties": {
+          "Goals": "",
+          "Interventions": "",
+          "Progress": ""
+        }
+      },
+      "Communication Method": {
+        "type": "options"
+      },
+      "Message": {
+        "type": "text or HTML content"
+      },
+      "Attachments": {
+        "type": "list of file objects",
+        "properties": {
+          "File Name": "",
+          "File Type": "",
+          "File Content": ""
+        }
+      }
+    }
+  }
+}

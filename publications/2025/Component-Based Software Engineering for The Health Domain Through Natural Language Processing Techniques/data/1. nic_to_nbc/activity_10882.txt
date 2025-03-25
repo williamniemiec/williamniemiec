@@ -1,0 +1,36 @@
+Here is the output in JSON format:
+
+
+{
+  "Caregiver Safety Guide": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Safety Techniques": {
+        "Type": "list of safety techniques",
+        "Each technique can have": {
+          "Name": {"Type": "text"},
+          "Description": {"Type": "text"},
+          "Instructions": {"Type": "text"}
+        }
+      },
+      "Format": {
+        "Type": "options",
+        "Options": ["text", "video", "audio"]
+      },
+      "Caregiver Profile": {
+        "Type": "caregiver profile object",
+        "Each profile can have": {
+          "Name": {"Type": "text"},
+          "Relationship": {"Type": "text"}
+        }
+      },
+      "Patient Risk Factors": {
+        "Type": "list of patient risk factors",
+        "Each risk factor can have": {
+          "Name": {"Type": "text"},
+          "Description": {"Type": "text"}
+        }
+      }
+    }
+  }
+}

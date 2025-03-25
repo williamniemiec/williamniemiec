@@ -1,0 +1,36 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Q&A Session",
+  "parameters": [
+    {
+      "name": "Topic",
+      "type": "text"
+    },
+    {
+      "name": "Format",
+      "type": "options",
+      "options": [
+        { value: "text", label: "Text-based" },
+        { value: "video", label: "Video-based" }
+      ]
+    },
+    {
+      "name": "Duration",
+      "type": "time"
+    },
+    {
+      "name": "Frequency",
+      "type": "options",
+      "options": [
+        { value: "daily", label: "Daily" },
+        { value: "onlyOnce", label: "Only once" },
+        { value: "everyHours", label: "Every x hours" },
+        { value: "everyDays", label: "Every x days" }
+      ]
+    }
+  ]
+}
+
+Note that I removed the `Deadline Date` parameter since it was marked as not required.

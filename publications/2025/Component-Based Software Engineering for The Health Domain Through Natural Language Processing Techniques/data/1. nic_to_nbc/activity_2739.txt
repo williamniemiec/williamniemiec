@@ -1,0 +1,39 @@
+Here is the output in JSON format:
+
+
+{
+    "Life Support Guide": {
+        "parameters": [
+            { 
+                "name": "name", 
+                "description": "guide title", 
+                "required": true, 
+                "type": "text"
+            },
+            { 
+                "name": "content", 
+                "description": "educational content about life support measures", 
+                "required": true, 
+                "type": "html"
+            },
+            { 
+                "name": "resources", 
+                "description": "additional resources for patients to learn more", 
+                "required": false, 
+                "type": "list",
+                "list": [
+                    { 
+                        "type": "link", 
+                        "label": "Website", 
+                        "value": "https://example.com"
+                    },
+                    { 
+                        "type": "video", 
+                        "label": "Video", 
+                        "value": "https://example.com/video"
+                    }
+                ]
+            }
+        ]
+    }
+}

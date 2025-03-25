@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Skin-to-Skin Guidance": {
+    "parameters": {
+      "Skin-to-Skin Instructions": {"type": "text", "example": "Place the infant on the mother's bare chest, with the infant's bare skin against the mother's skin. Cover the infant with a warm blanket to maintain a comfortable temperature."},
+      "Skin-to-Skin Benefits": {"type": "text", "example": "Skin-to-skin contact helps to regulate the infant's body temperature, heart rate, and breathing, and promotes bonding and breastfeeding."},
+      "Visual Aids": {"type": "media (image or video)"},
+      "Duration": {"type": "text", "example": "Aim for at least 1 hour of skin-to-skin contact immediately after birth, and continue as long as possible in the first few days."}
+    }
+  }
+}
+
+
+Let me know if this is what you were expecting!

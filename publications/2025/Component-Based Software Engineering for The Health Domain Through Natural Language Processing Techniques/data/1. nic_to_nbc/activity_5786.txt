@@ -1,0 +1,36 @@
+Here is the output in JSON format:
+
+
+{
+  "Uterine Activity Tracker": {
+    "Frequency": {
+      "options": ["daily", "everyHours", "everyDays"]
+    },
+    "Duration": {
+      "type": "number",
+      "unit": "time"
+    },
+    "Intensity": {
+      "type": "options",
+      "options": ["mild", "moderate", "strong"]
+    },
+    "Contractions": {
+      "type": "number"
+    },
+    "Notes": {
+      "type": "text"
+    }
+  },
+  "Form": {
+    "Frequency": {},
+    "Duration": {},
+    "Intensity": {},
+    "Contractions": {},
+    "Notes": {}
+  },
+  "Graph": {
+    "Data Points": {
+      "options": ["frequency", "duration", "intensity"]
+    }
+  }
+}

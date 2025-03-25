@@ -1,0 +1,12 @@
+
+
+
+{
+  "Transfusion History": {
+    "Name": {"Type": "text"},
+    "Description": {"Type": "text"},
+    "Transfusion History": {"Type": "form"},
+    "Frequency": {"Type": "options"},
+    "Deadline Date": {"Type": "datetime"}
+  }
+}

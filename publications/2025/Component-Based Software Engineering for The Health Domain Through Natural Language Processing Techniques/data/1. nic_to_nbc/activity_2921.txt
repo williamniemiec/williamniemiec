@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Resource Referral": {
+    "parameters": [
+      {"Resource Directory": {"type": "directory", "fields": ["resource name", "description", "contact information", "eligibility criteria", "etc"]}},
+      {"Resource Filtering": {"type": "filter", "options": ["location", "language", "service type", "etc"]}},
+      {"Resource Recommendations": {"type": "recommendation", "fields": ["resource name", "description", "contact information", "etc"]}},
+      {"Referral Process": {"type": "process", "fields": ["referral steps", "required documentation", "etc"]}},
+      {"Resource Feedback": {"type": "feedback", "fields": ["resource rating", "comments", "etc"]}}
+    ]
+  }
+}
+
+
+Note that I removed the non-applicable parameters and reformatted the text to fit the JSON structure. Let me know if this meets your requirements!

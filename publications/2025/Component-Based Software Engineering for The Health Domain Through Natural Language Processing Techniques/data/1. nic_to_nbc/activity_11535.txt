@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Educational Content": {
+    "Parameters": {
+      "Title": {"Type": "text"},
+      "Content": {"Type": "HTML content or article"},
+      "Topics": {"Options": ["postpartumBlues", "depression", "psychosis", "other"]},
+      "Call to Action": {"Type": "text"},
+      "Frequency": {"Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"Type": "datetime"}
+    }
+  }
+}

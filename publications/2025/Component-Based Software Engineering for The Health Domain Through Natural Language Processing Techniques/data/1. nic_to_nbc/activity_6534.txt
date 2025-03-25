@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+    "Session Scheduler": {
+        "Number of Sessions": {"type": "number"},
+        "Session Frequency": {"type": "options", "options": ["daily", "weekly", "biweekly", "monthly"]},
+        "Session Duration": {"type": "text"},
+        "Session Goal": {"type": "text"},
+        "Deadline Date": {"type": "datetime"}
+    }
+}

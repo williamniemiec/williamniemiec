@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Activity Guide": {
+        "Activity Name": {"type": "text"},
+        "Instructions": {"type": "text"},
+        "Gameplay": {"type": "interactive game or simulation"},
+        "Frequency": {"options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+        "Deadline Date": {"type": "datetime"},
+        "Reward": {"type": "text"}
+    }
+}

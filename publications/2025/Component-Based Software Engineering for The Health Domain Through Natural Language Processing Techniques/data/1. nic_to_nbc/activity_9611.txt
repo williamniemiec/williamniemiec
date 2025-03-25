@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Fall Risk Assessment": {
+    "Cognitive Deficits": {},
+    "Physical Deficits": {},
+    "Environmental Hazards": {},
+    "Frequency": {},
+    "Deadline Date": {}
+  }
+}

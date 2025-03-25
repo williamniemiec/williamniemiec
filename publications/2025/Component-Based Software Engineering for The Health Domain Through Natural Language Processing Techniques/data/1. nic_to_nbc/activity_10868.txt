@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Transfer and Ambulation Guide": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Transfer Type": {"Type": "options"},
+      "Ambulation Type": {"Type": "options"},
+      "Video Tutorial": {"Type": "video"},
+      "Supervision and Assistance": {"Type": "options"},
+      "Frequency": {"Type": "options"}
+    }
+  }
+}
+
+
+Note that I removed the `Deadline Date` parameter since it's not applicable in this context. Let me know if you have any further questions!

@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Nasal Spray Administration Guidance": {
+        "Posture Guidance": {
+            "Type": "text (with optional multimedia content, such as images or videos)"
+        },
+        "Head Positioning Guidance": {
+            "Type": "text (with optional multimedia content, such as images or videos)"
+        }
+    }
+}

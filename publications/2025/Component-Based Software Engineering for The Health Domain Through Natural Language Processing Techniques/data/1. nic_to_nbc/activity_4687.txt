@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+  "Contraceptive Guide": {
+    "Options": {
+      "Type": "list of options",
+      "Options": ["hormonal methods (pill, patch, ring)", "intrauterine devices (IUDs)", "condoms", "etc."]
+    },
+    "Questions": {
+      "Type": "list of questions",
+      "Questions": ["Are you in a monogamous relationship?", "Do you have a history of blood clots?", "Are you breastfeeding?", "etc."]
+    },
+    "Recommendation": {
+      "Type": "text"
+    },
+    "Resources": {
+      "Type": "list of resources",
+      "Resources": ["links to educational websites", "videos", "PDFs about the recommended contraceptive option"]
+    }
+  }
+}

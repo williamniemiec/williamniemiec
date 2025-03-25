@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Virtual Visitor": {
+    "Parameters": {
+      "Media Type": {"Type": "options", "Options": ["pictures", "videos", "audio recordings"]},
+      "Content": {"Type": "multimedia (image, video, audio)"},
+      "Frequency": {"Type": "options", "Options": ["daily", "weekly", "monthly", "onlyOnce"]},
+      "Personalization": {"Type": "text"},
+      "Reflection and Feedback": {"Type": "text"}
+    }
+  }
+}

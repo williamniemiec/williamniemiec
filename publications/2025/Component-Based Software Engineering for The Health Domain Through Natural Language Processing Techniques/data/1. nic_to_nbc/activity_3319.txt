@@ -1,0 +1,31 @@
+Here is the output in JSON format:
+
+
+{
+  "Consultation": {
+    "parameters": {
+      "Consultation Type": {
+        "type": "options",
+        "options": [
+          { "value": "Physician", "label": "Consult with Physician" },
+          { "value": "Pharmacist", "label": "Consult with Pharmacist" }
+        ]
+      },
+      "Reason for Consultation": {
+        "type": "text"
+      },
+      "Consultation Method": {
+        "type": "options",
+        "options": [
+          { "value": "In-person", "label": "In-person consultation" },
+          { "value": "Phone", "label": "Phone consultation" },
+          { "value": "Video", "label": "Video consultation" },
+          { "value": "Messaging", "label": "Secure messaging" }
+        ]
+      },
+      "Consultation Notes": {
+        "type": "text"
+      }
+    }
+  }
+}

@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+  "Guide": {
+    "parameters": [
+      {"name": "pages", "description": "List of pages", "required": true, "type": "book-page"},
+      {"name": "bondingTips", "description": "List of tips to promote family bonding and attachment", "required": true, "type": "list"}
+    ]
+  },
+  "Activity Tracker": {
+    "parameters": [
+      {"name": "activity", "description": "Select the bonding and attachment activity", "required": true, "type": "options"},
+      {"name": "frequency", "description": "How often to track activities", "required": true, "type": "options"}
+    ]
+  },
+  "Reflection Journal": {
+    "parameters": [
+      {"name": "entry", "description": "Write a reflection entry", "required": true, "type": "text"},
+      {"name": "frequency", "description": "How often to write reflection entries", "required": true, "type": "options"}
+    ]
+  }
+}

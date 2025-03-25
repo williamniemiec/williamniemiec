@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+    "securing_guide": {
+        "parameters": [
+            {"name": "title", "description": "guide title"},
+            {"name": "video_url", "description": "url of the video illustrating the securing process"},
+            {"name": "steps", "description": "list of steps to secure infant and parent position"}
+        ]
+    }
+}

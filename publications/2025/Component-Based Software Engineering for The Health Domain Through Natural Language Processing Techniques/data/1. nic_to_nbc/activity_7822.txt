@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "Daily Routine Plan": {
+    "parameters": [
+      {
+        "name": "Routine Activities",
+        "type": "list of text items"
+      },
+      {
+        "name": "Schedule",
+        "type": "schedule"
+      },
+      {
+        "name": "Reminders",
+        "type": "options"
+      },
+      {
+        "name": "Tracking",
+        "type": "options"
+      }
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+    "Toilet Time Limit": {
+        "Parameters": {
+            "Time Limit": {},
+            "Custom Time Limit": {},
+            "Alert Type": {}
+        }
+    }
+}

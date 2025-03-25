@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+  "Positive Parenting Guide": {
+    "Pages": {
+      "Description": "List of pages with educational content about demonstrating love and acceptance at home",
+      "Required": true,
+      "Type": "book-page"
+    },
+    "Tips": {
+      "Description": "List of tips for parents to demonstrate love and acceptance at home",
+      "Required": true,
+      "Type": "list"
+    },
+    "Activities": {
+      "Description": "List of activities for parents to do with their child to demonstrate love and acceptance",
+      "Required": true,
+      "Type": "list"
+    }
+  }
+}

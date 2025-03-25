@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Discipline Method Discussion": {
+    "parameters": {
+      "Discipline Methods": {"type": "unordered list"},
+      "Selection Criteria": {"type": "form"},
+      "Results Obtained": {"type": "form"},
+      "Discussion Prompts": {"type": "text"},
+      "Frequency": {"options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"type": "datetime"}
+    }
+  }
+}

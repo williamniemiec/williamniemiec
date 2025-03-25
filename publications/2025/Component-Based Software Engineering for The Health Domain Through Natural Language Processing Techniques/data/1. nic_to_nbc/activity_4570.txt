@@ -1,0 +1,31 @@
+Here is the output in JSON format:
+
+{
+    "name": "Role Playing and Problem Solving",
+    "parameters": [
+        {
+            "name": "Activity Type",
+            "type": "options"
+        },
+        {
+            "name": "Scenario",
+            "type": "text"
+        },
+        {
+            "name": "Instructions",
+            "type": "text"
+        },
+        {
+            "name": "Goals",
+            "type": "text"
+        },
+        {
+            "name": "Frequency",
+            "type": "options"
+        },
+        {
+            "name": "Deadline Date",
+            "type": "datetime"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Symptom Tracker": {
+    "Parameters": {
+      "Symptom Type": {},
+      "Symptom Severity": {},
+      "Symptom Frequency": {},
+      "Symptom Duration": {},
+      "Tracking Instructions": {}
+    }
+  }
+}

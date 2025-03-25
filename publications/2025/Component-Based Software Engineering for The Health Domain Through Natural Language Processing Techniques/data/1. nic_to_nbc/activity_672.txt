@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Food Preparation": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Indications": {"Type": "checklist"},
+      "Food Type": {"Type": "options", "Options": ["meat", "vegetables", "fruits", "others"]},
+      "Cutting Instructions": {"Type": "text"},
+      "Frequency": {"Type": "options", "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"Type": "datetime"}
+    }
+  }
+}

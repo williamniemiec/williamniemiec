@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "CPR Timer": {
+    "Parameters": {
+      "CPR duration": ["2 minutes", "5 minutes"],
+      "Interruption alerts": ["Phone calls", "Visitor arrivals", "Medical staff entering the room"],
+      "Alert frequency": ["Every 30 seconds", "Every 1 minute"]
+    }
+  }
+}
+
+
+Let me know if this is what you were looking for!

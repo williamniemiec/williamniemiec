@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Stopcock Change": {
+    "Parameters": {
+      "Stopcock Type": {},
+      "Change Instructions": {},
+      "Change Frequency": {},
+      "Indications for Change": {},
+      "Change Confirmation": {}
+    }
+  }
+}

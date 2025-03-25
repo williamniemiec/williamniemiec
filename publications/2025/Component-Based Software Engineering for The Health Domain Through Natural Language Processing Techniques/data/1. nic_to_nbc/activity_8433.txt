@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+
+{
+    "Risk Factor Education": {
+        "Parameters": {
+            "Risk factors": [],
+            "Description": []
+        }
+    }
+}

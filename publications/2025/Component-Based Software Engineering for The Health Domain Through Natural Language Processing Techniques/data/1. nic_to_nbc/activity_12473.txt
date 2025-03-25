@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Knowledge Assessment": {
+    "Parameters": {
+      "Medication Name": {"Type": "text"},
+      "Method of Administration": {"Type": "options", "Options": [{"value": "oral", "label": "Oral"}, {"value": "injection", "label": "Injection"}]},
+      "Knowledge Questions": {"Type": "list of text", "Example": ["What is the name of your medication?", "How do you take your medication?", "What is the purpose of your medication?"]},
+      "Answer Options": {"Type": "list of options", "Example": [{"value": "answer1", "label": "Answer 1"}, {"value": "answer2", "label": "Answer 2"}]},
+      "Frequency": {"Type": "options", "Options": [{"value": "daily", "label": "Daily"}, {"value": "everyHours", "label": "Every x hours"}, {"value": "everyDays", "label": "Every x days"}]}
+    }
+  }
+}

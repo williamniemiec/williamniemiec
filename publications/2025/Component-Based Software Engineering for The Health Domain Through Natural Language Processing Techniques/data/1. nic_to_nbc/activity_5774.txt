@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Specimen Collection Guide": {
+    "parameters": {
+      "Specimen Type": {},
+      "Collection Time": {},
+      "Collection Site": {}
+    }
+  }
+}

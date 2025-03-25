@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Care Plan": {
+    "Parameters": {
+      "Care Tasks": {"Type": ["list of text", "checkboxes"]},
+      "Responsibilities": {"Type": ["list of text", "checkboxes"]},
+      "Schedule": {"Type": ["text", "calendar"]},
+      "Resources": {"Type": ["list of text", "checkboxes"]},
+      "Goals": {"Type": ["text", "checkboxes"]},
+      "Patient and Family Input": {"Type": ["text", "survey"]}
+    }
+  }
+}
+
+Let me know if this meets your requirements!

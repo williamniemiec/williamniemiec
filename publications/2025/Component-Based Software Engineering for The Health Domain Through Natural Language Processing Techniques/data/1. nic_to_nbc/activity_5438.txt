@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+    "screening": {
+        "parameters": [
+            { 
+                "name": "risk_type", 
+                "description": "select the type of risk to screen for" 
+            },
+            { 
+                "name": "questions", 
+                "description": "list of questions to ask for screening" 
+            },
+            { 
+                "name": "results", 
+                "description": "store the results of the screening" 
+            }
+        ]
+    }
+}

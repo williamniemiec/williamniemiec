@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Grief Support Module": {
+    "parameters": {
+      "title": {},
+      "introduction": {},
+      "reflection_space": {},
+      "resources": {},
+      "emotional_checkin": {},
+      "support_network": {}
+    }
+  }
+}

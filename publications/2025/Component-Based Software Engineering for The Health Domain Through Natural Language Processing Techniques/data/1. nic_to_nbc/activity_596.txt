@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+    "Instructional Video": {
+        "Parameters": {
+            "Name": {"Type": "text"},
+            "Video": {"Type": "video"},
+            "Description": {"Type": "text"},
+            "Frequency": {"Type": "options"},
+            "Deadline Date": {"Type": "datetime"}
+        }
+    },
+    "Guide": {
+        "Parameters": {
+            "Name": {"Type": "text"},
+            "Pages": {"Type": "book-page"},
+            "Frequency": {"Type": "options"},
+            "Deadline Date": {"Type": "datetime"}
+        }
+    }
+}
+
+
+Let me know if this meets your requirements!

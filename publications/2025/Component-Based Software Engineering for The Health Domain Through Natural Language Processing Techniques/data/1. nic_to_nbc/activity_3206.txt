@@ -1,0 +1,47 @@
+Here is the output in JSON format:
+
+
+{
+  "Personalized Play and Care": {
+    "Behavioral Style": {
+      "Type": "questionnaire",
+      "Questions": [
+        "How does the infant respond to new stimuli?",
+        "How does the infant handle transitions?",
+        "How does the infant interact with others?"
+      ]
+    },
+    "Temperament Patterns": {
+      "Type": "questionnaire",
+      "Questions": [
+        "How would you describe the infant's mood?",
+        "How does the infant respond to frustration?",
+        "How does the infant adapt to changes in routine?"
+      ]
+    },
+    "Play and Care Recommendations": {
+      "Type": "text",
+      "Examples": [
+        "For an infant who is easily overstimulated, recommend shorter play sessions with fewer toys.",
+        "For an infant who is highly sensitive, recommend using gentle touch and soothing music during care activities."
+      ]
+    },
+    "Activity Ideas": {
+      "Type": "list",
+      "Examples": [
+        "For an infant who is curious and exploratory, suggest activities that encourage discovery and exploration.",
+        "For an infant who is shy and introverted, suggest activities that promote social interaction and bonding."
+      ]
+    },
+    "Tips for Caregivers": {
+      "Type": "text",
+      "Examples": [
+        "Be patient and calm when interacting with the infant.",
+        "Use positive reinforcement to encourage desired behaviors."
+      ]
+    }
+  }
+}
+
+
+Note: I removed "Content Type" parameter as it was not applicable. Let me know if you need any further assistance!

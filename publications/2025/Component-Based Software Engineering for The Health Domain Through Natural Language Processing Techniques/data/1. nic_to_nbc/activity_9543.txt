@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "Balance Assessor": {
+    "Parameters": {
+      "Balance Activities": {
+        "Type": "list of text options"
+      },
+      "Assessment Questions": {
+        "Type": "list of text questions"
+      },
+      "Scoring System": {
+        "Type": "text"
+      },
+      "Frequency": {
+        "Type": "options"
+      }
+    }
+  }
+}
+
+
+Note: I removed the `Deadline Date` and `Results Tracking` parameters as they were marked as `- Type:` which seemed like a notation for non-applicable parameters. If that's not the case, let me know and I'll add them back in.

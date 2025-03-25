@@ -1,0 +1,21 @@
+
+
+
+{
+  "Environmental Assessment": {
+    "Assessment Questions": {
+      "Type": "form",
+      "Options": ["multiple choice", "Likert scale", "open-ended text"]
+    },
+    "Frequency": {
+      "Type": "options",
+      "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+    },
+    "Deadline Date": {
+      "Type": "datetime"
+    },
+    "Notes": {
+      "Type": "text"
+    }
+  }
+}

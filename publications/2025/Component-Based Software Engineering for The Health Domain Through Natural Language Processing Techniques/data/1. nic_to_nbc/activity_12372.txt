@@ -1,0 +1,32 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "thermal stimulation",
+    "parameters": [
+        {
+            "name": "method",
+            "options": [
+                { "value": "cold" },
+                { "value": "heat" }
+            ]
+        },
+        {
+            "name": "frequency",
+            "options": [
+                { "value": "daily" },
+                { "value": "onlyOnce" },
+                { "value": "everyHours" },
+                { "value": "everyDays" }
+            ]
+        },
+        {
+            "name": "deadline_date",
+            "type": "datetime"
+        },
+        {
+            "name": "instructions",
+            "type": "text"
+        }
+    ]
+}

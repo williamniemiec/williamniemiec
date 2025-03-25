@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "Form Assistance": {
+    "parameters": {
+      "Form Type": {
+        "type": "text or options"
+      },
+      "Form Questions": {
+        "type": "structured data"
+      },
+      "Required Documents": {
+        "type": "unordered list or structured data"
+      },
+      "Submission Instructions": {
+        "type": "text or structured data"
+      },
+      "Additional Resources": {
+        "type": "text or structured data"
+      }
+    }
+  }
+}

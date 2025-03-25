@@ -1,0 +1,80 @@
+Here is the output in JSON format:
+
+
+{
+    "Familiarization Guide": {
+        "parameters": [
+            { 
+                "name": "title", 
+                "description": "guide title", 
+                "required": true, 
+                "type": "text"
+            },
+            { 
+                "name": "environment sections", 
+                "description": "list of sections about the environment", 
+                "required": true, 
+                "type": "list",
+                "list items": [
+                    { 
+                        "name": "section title", 
+                        "description": "section title", 
+                        "required": true, 
+                        "type": "text"
+                    },
+                    { 
+                        "name": "section content", 
+                        "description": "section content", 
+                        "required": true, 
+                        "type": "html text"
+                    }
+                ]
+            },
+            { 
+                "name": "routine sections", 
+                "description": "list of sections about the routine", 
+                "required": true, 
+                "type": "list",
+                "list items": [
+                    { 
+                        "name": "section title", 
+                        "description": "section title", 
+                        "required": true, 
+                        "type": "text"
+                    },
+                    { 
+                        "name": "section content", 
+                        "description": "section content", 
+                        "required": true, 
+                        "type": "html text"
+                    }
+                ]
+            },
+            { 
+                "name": "interactive elements", 
+                "description": "list of interactive elements to engage the patient", 
+                "required": false, 
+                "type": "list",
+                "list items": [
+                    { 
+                        "name": "element type", 
+                        "description": "type of interactive element (e.g. quiz, game, video)", 
+                        "required": true, 
+                        "type": "options",
+                        "options": [
+                            { value: "quiz", label: "Quiz" },
+                            { value: "game", label: "Game" },
+                            { value: "video", label: "Video" },
+                        ]
+                    },
+                    { 
+                        "name": "element content", 
+                        "description": "content of the interactive element", 
+                        "required": true, 
+                        "type": "html text"
+                    }
+                ]
+            }
+        ]
+    }
+}

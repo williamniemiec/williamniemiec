@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "Notification": {
+    "parameters": {
+      "notification_type": {
+        "type": "list of options"
+      },
+      "notification_recipient": {
+        "type": "recipient object"
+      },
+      "notification_content": {
+        "type": "text or HTML content"
+      },
+      "notification_method": {
+        "type": "list of options"
+      }
+    }
+  }
+}
+
+
+Note: I removed the `notification_status` parameter as it was not applicable in this context. Let me know if you need any further assistance!

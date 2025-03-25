@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Colloid Administration": {
+        "Parameters": {
+            "Colloid Type": {},
+            "Dose": {},
+            "Flow Rate": {},
+            "Administration Instructions": {}
+        }
+    }
+}

@@ -1,0 +1,31 @@
+Here is the output in JSON format:
+
+
+{
+    "Fatigue Assessment Questionnaire": {
+        "parameters": [
+            {"name": "Name", "value": "Fatigue Assessment Questionnaire"},
+            {"name": "Instrument", "value": "the specific fatigue assessment instrument used, such as FSS or MFI"},
+            {"name": "Questions", "value": "a list of questions from the instrument"},
+            {"name": "Answer Type", "value": "options (e.g., Likert scale, multiple choice)"},
+            {"name": "Frequency", "value": "how often the patient should complete the questionnaire"},
+            {"name": "Deadline Date", "value": "specify the due date for completing the questionnaire"}
+        ]
+    },
+    "Fatigue Score Tracker": {
+        "parameters": [
+            {"name": "Name", "value": "Fatigue Score Tracker"},
+            {"name": "Score Type", "value": "the type of fatigue score being tracked, such as FSS or MFI score"},
+            {"name": "Frequency", "value": "how often the patient's fatigue score should be tracked"},
+            {"name": "Deadline Date", "value": "specify the due date for tracking fatigue scores"}
+        ]
+    },
+    "Fatigue Level Indicator": {
+        "parameters": [
+            {"name": "Name", "value": "Fatigue Level Indicator"},
+            {"name": "Indicator Type", "value": "the type of visual indicator used, such as a graph or chart"},
+            {"name": "Frequency", "value": "how often the patient's fatigue level should be updated"},
+            {"name": "Deadline Date", "value": "specify the due date for updating the fatigue level indicator"}
+        ]
+    }
+}

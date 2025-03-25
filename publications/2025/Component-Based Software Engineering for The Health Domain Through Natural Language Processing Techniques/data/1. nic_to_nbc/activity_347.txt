@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Skin-to-Skin Bonding Guide": {
+    "Parameters": {
+      "Benefits of Skin-to-Skin": {"Type": "list of text items"},
+      "Step-by-Step Instructions": {"Type": "rich text or HTML"},
+      "Tips and Reminders": {"Type": "list of text items"},
+      "Video or Audio Resources": {"Type": "video or audio file"},
+      "Bonding Experience Reflection": {"Type": "text or rating scale"}
+    }
+  }
+}

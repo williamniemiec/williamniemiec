@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Environmental Safety Monitoring": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Description": {"Type": "text"},
+      "Safety Factors": {"Type": "options", "Options": ["fall risks", "fire hazards", "..."]},
+      "Monitoring Frequency": {"Type": "options", "Options": ["daily", "weekly", "monthly", "..."]},
+      "Reporting": {"Type": "options", "Options": ["to a caregiver", "healthcare provider", "..."]},
+      "Resources": {"Type": "text or link to external resource"}
+    }
+  }
+}
+
+
+Note that I removed the "Not Applicable" parameters as per your request. Let me know if you need any further assistance!

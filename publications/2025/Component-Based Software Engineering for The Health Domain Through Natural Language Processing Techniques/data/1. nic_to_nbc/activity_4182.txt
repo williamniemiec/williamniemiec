@@ -1,0 +1,18 @@
+
+
+
+{
+    "Goal Planner": {
+        "parameters": {
+            "name": {"type": "text"},
+            "description": {"type": "text"},
+            "activities": {"type": "list of objects with `name`, `description`, and `due_date` properties"}
+        }
+    },
+    "Participant List": {
+        "parameters": {
+            "name": {"type": "text"},
+            "participants": {"type": "list of objects with `name`, `role`, and `contact_info` properties"}
+        }
+    }
+}

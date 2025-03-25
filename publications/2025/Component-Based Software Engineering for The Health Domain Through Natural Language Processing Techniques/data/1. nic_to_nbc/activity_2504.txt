@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+    "Breath Holding Guidance": {
+        "Parameters": {
+            "Holding Breath Instruction": {
+                "Type": "text or video",
+                "Example": "Hold your breath for 10 seconds. Start now."
+            },
+            "Countdown Timer": {
+                "Type": "animated GIF or video",
+                "Example": "A 10-second countdown timer that displays the remaining time."
+            },
+            "Audio Cue": {
+                "Type": "audio file",
+                "Example": "A gentle, soothing voice that says \"Start holding your breath... 10... 9... 8... 7... 6... 5... 4... 3... 2... 1... Breathe out.\""
+            },
+            "Frequency": {
+                "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+            },
+            "Deadline Date": {
+                "Type": "datetime"
+            }
+        }
+    }
+}

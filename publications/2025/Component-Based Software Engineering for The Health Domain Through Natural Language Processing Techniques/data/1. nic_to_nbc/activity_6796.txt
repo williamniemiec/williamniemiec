@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Relaxation Activity": {
+    "parameters": [
+      {"Name": {"type": "text"}},
+      {"Description": {"type": "text"}},
+      {"Activity Type": {"type": "options", "options": ["reading", "music", "meditation", "yoga", "other"]}},
+      {"Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]}},
+      {"Deadline Date": {"type": "datetime"}},
+      {"Notes": {"type": "text"}}
+    ]
+  }
+}

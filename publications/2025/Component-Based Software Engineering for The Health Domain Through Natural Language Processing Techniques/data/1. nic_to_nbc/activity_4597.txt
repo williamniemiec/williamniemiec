@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Secure Connection": {
+    "connection_type": {"type": "text"},
+    "anchoring_method": {"type": "text"},
+    "steps": {"type": "list of text or JSON object"},
+    "verification": {"type": "boolean"}
+  }
+}

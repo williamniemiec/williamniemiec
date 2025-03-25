@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Order Acquisition": {
+    "Parameters": {
+      "Order Request": {},
+      "Order Receipt": {},
+      "Order Review": {},
+      "Order Implementation": {}
+    }
+  }
+}

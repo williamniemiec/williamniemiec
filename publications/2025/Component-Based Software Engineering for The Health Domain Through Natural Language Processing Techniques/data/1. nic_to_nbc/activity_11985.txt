@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "noCodeElementName": "Form",
+  "parameterSpecifications": {
+    "name": "Refusal to Transfer Statement",
+    "description": "Please provide a written statement of your refusal to transfer",
+    "content_type": "text",
+    "required": true,
+    "type": "text"
+  }
+}

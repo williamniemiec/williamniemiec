@@ -1,0 +1,35 @@
+Here is the output in JSON format:
+
+
+{
+  "Contraindication Checker": {
+    "parameters": [
+      {
+        "name": "contraindication",
+        "description": "Select any contraindications you have",
+        "required": true,
+        "type": "options",
+        "options": [
+          { "value": "hemodynamic_instability", "label": "Hemodynamic instability" },
+          { "value": "cardiovascular_arrest", "label": "Cardiovascular arrest" },
+          { "value": "respiratory_arrest", "label": "Respiratory arrest" },
+          { "value": "unstable_angina", "label": "Unstable angina" },
+          { "value": "acute_myocardial_infarction", "label": "Acute myocardial infarction" },
+          { "value": "refractory_hypoxemia", "label": "Refractory hypoxemia" },
+          { "value": "severe_respiratory_acidosis", "label": "Severe respiratory acidosis" },
+          { "value": "decreased_level_of_consciousness", "label": "Decreased level of consciousness" },
+          { "value": "problems_with_securing_equipment", "label": "Problems with securing/placing noninvasive equipment" },
+          { "value": "facial_trauma", "label": "Facial trauma" },
+          { "value": "inability_to_cooperate", "label": "Inability to cooperate" },
+          { "value": "morbidly_obese", "label": "Morbidly obese" },
+          { "value": "thick_secretions", "label": "Thick secretions" },
+          { "value": "bleeding", "label": "Bleeding" },
+          { "value": "other", "label": "Other (please specify)" }
+        ]
+      }
+    ]
+  }
+}
+
+
+Note: I removed the not applicable parameters and kept only the relevant information. Let me know if you need any further assistance!

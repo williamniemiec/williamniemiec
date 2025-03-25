@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Education Module": {
+    "Content": {"Type": "text or HTML"},
+    "Format": {"Type": "options (video, article, interactive module)"},
+    "Quiz": {"Type": "boolean"},
+    "Frequency": {"Type": "options (daily, weekly, monthly)"}
+  }
+}

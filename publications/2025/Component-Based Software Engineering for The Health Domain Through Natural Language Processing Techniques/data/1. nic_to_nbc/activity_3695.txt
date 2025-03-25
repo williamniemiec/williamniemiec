@@ -1,0 +1,12 @@
+
+
+
+{
+    "educational content": [
+        {"name": "title", "description": "title of the educational content", "required": true, "type": "text"},
+        {"name": "content", "description": "educational content about self-monitoring", "required": true, "type": "html"}
+    ]
+}
+
+
+I removed the not applicable parameter ("summary") since it's not required. Let me know if this meets your requirements!

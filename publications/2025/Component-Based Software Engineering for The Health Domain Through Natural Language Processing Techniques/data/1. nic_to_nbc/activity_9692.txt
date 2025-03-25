@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+    "Family Involvement": {
+        "Family Member Information": {"Type": "text or form with fields"},
+        "Involvement Type": {"Type": "options (e.g., education, support, decision-making)"},
+        "Consent": {"Type": "boolean (yes/no) or digital signature"},
+        "Family Member Access": {"Type": "options (e.g., view-only, edit, full access)"}
+    }
+}

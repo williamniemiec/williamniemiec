@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Treatment Notification": {
+    "Parameters": {
+      "Treatment Plan": {"Type": "text"},
+      "Team Members": {"Type": "list of text"},
+      "Notification Message": {"Type": "text"},
+      "Notification Type": {"Type": "options"}
+    }
+  }
+}

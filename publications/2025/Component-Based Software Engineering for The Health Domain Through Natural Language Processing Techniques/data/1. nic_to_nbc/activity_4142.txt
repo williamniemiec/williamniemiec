@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Weight Tracker": {
+    "Parameters": {
+      "Weight Values": {"Type": "list of numerical fields"},
+      "Units": {"Type": "text field"},
+      "Frequency": {"Options": ["daily", "everyHours", "everyDays"]},
+      "Deadline Date": {"Type": "datetime"}
+    }
+  }
+}

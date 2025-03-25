@@ -1,0 +1,39 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Community Resource Referral",
+    "parameters": [
+        { 
+            "name": "Resource Name", 
+            "description": "A parameter that specifies the name of the community resource being referred to.",
+            "required": true, 
+            "type": "text"
+        },
+        { 
+            "name": "Resource Description", 
+            "description": "A parameter that provides a brief description of the community resource and its services.",
+            "required": true, 
+            "type": "text"
+        },
+        { 
+            "name": "Resource Type", 
+            "description": "A parameter that specifies the type of community resource being referred to (e.g., counseling, support group, educational program).",
+            "required": true, 
+            "type": "options",
+            "options": []
+        },
+        { 
+            "name": "Contact Information", 
+            "description": "A parameter that provides the contact information of the community resource (e.g., phone number, email, website).",
+            "required": true, 
+            "type": "text"
+        },
+        { 
+            "name": "Referral Reason", 
+            "description": "A parameter that specifies the reason for the referral to the community resource (e.g., emotional support, coping with stress).",
+            "required": true, 
+            "type": "text"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "Routine Setup": {
+    "Daily Schedule": {
+      "type": "schedule",
+      "options": ["wake-up time", "meal times", "medication times", "activity times"]
+    },
+    "Environmental Consistency": {
+      "type": "options",
+      "options": ["lighting", "temperature", "noise level", "decor"]
+    },
+    "Personalized Preferences": {
+      "type": "text"
+    },
+    "Reminders": {
+      "type": "boolean"
+    }
+  }
+}
+
+
+Let me know if this meets your requirements!

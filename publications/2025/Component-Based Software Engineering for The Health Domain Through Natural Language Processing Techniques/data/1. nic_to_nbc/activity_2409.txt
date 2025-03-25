@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Body Parts Introduction": {
+    "Parameters": {
+      "Activity Name": {},
+      "Interactive Quiz": {},
+      "Step-by-Step Instructions": {},
+      "Frequency and Duration": {},
+      "Body Parts": {}
+    }
+  }
+}

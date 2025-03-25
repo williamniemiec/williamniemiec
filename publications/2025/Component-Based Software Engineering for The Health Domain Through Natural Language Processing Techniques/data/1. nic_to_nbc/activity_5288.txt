@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Situation Explorer": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Description": {"Type": "text"},
+      "Situation Identification": {"Type": "text or list of options"},
+      "Emotion Triggers": {"Type": "options"},
+      "Reflection Questions": {"Type": "list of questions"},
+      "Pattern Identification": {"Type": "text or list of options"}
+    }
+  }
+}

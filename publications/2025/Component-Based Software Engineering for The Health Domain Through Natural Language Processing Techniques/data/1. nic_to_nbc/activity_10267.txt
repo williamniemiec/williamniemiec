@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "Compression Therapy": {
+    "Type": [
+      { "value": "stockings", "label": "Stockings" },
+      { "value": "sleeves", "label": "Sleeves" }
+    ],
+    "Frequency": [
+      { "value": "daily", "label": "Daily" },
+      { "value": "onlyDuringDay", "label": "Only during the day" },
+      { "value": "onlyDuringNight", "label": "Only during the night" }
+    ],
+    "Duration": {
+      "Type": "text"
+    },
+    "Reminders": [
+      { "value": "morning", "label": "Morning" },
+      { "value": "evening", "label": "Evening" },
+      { "value": "custom", "label": "Custom" }
+    ]
+  }
+}

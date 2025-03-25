@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Tube Irrigation": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Protocol": {"Type": ["text", "multimedia"]},
+      "Irrigation Solution": {"Type": ["text", "options"]},
+      "Irrigation Frequency": {"Type": "options"},
+      "Irrigation Technique": {"Type": ["text", "multimedia"]},
+      "Monitoring": {"Type": ["text", "multimedia"]}
+    }
+  }
+}
+
+
+Note that I removed the `Alerts and Notifications` parameter since it's a boolean type, which is not applicable in this context.

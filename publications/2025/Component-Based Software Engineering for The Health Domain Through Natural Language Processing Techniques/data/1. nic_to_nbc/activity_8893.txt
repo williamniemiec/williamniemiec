@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Goal Setting": {
+    "parameters": {
+      "Goal Question": {"type": "text"},
+      "Goal Type": {"type": "options", "options": ["short-term", "long-term", "specific", "general"]},
+      "Goal Input": {"type": "text"},
+      "Priority": {"type": "options", "options": ["high", "medium", "low"]},
+      "Notes": {"type": "text"}
+    }
+  }
+}

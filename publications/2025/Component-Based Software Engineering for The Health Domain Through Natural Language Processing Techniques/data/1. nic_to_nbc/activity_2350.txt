@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Body Part Education": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Body Part": {"Type": "options"},
+      "Content Type": {"Type": "options"},
+      "Content": {"Type": "varies"},
+      "Age Range": {"Type": "range"}
+    }
+  }
+}
+
+
+I removed the `Quiz Questions` parameter as it is not applicable in this context. Let me know if you need any further assistance!

@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+
+{
+  "Finger Food Guide": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Food Options": {"Type": "list", "Items": []},
+      "Selection Criteria": {"Type": "text"},
+      "Preparation Tips": {"Type": "text"},
+      "Frequency": {"Type": "options", "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]}
+    }
+  }
+}

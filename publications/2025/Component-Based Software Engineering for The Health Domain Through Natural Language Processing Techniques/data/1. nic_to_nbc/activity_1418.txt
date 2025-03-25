@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+    "Session Timing": {
+        "parameters": [
+            {"name": "start_on_time"},
+            {"name": "end_on_time"},
+            {"name": "participant_commitment"}
+        ]
+    }
+}

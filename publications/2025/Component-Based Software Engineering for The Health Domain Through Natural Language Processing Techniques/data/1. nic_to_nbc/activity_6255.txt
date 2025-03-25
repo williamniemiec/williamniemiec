@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Topical Analgesia Administration": {
+    "Analgesia Agent": {"type": "text"},
+    "Order": {"type": "text"},
+    "Administration Instructions": {"type": "text"},
+    "Additional Tips": {"type": "text"}
+  }
+}

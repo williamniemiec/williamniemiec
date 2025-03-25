@@ -1,0 +1,35 @@
+Here is the output in JSON format:
+
+
+{
+  "Comfort Setting": {
+    "Parameters": {
+      "Name": {
+        "Type": "text"
+      },
+      "Options": {
+        "Type": "options",
+        "Options": [
+          {"value": "home", "label": "Home"},
+          {"value": "outdoor", "label": "Outdoor"},
+          {"value": "other", "label": "Other"}
+        ]
+      },
+      "Description": {
+        "Type": "text"
+      },
+      "Frequency": {
+        "Type": "options",
+        "Options": [
+          {"value": "daily", "label": "Daily"},
+          {"value": "onlyOnce", "label": "Only once"},
+          {"value": "everyHours", "label": "Every x hours"},
+          {"value": "everyDays", "label": "Every x days"}
+        ]
+      },
+      "Deadline Date": {
+        "Type": "datetime"
+      }
+    }
+  }
+}

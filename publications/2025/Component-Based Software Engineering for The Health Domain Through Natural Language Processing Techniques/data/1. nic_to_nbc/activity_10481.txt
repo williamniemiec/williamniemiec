@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+  "Fluid Loss Tracker": {
+    "parameters": {
+      "Fluid Type": {"type": "options"},
+      "Amount": {"type": "number"},
+      "Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Duration": {"type": "duration"},
+      "Notes": {"type": "text"}
+    }
+  },
+  "Electrolyte-Rich Fluid Loss Symptom Checker": {
+    "parameters": {
+      "Symptom": {"type": "options"},
+      "Severity": {"type": "options"},
+      "Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Duration": {"type": "duration"},
+      "Notes": {"type": "text"}
+    }
+  }
+}
+
+
+Let me know if this meets your requirements!

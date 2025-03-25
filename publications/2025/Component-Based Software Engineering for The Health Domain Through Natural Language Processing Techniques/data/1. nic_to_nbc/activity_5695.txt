@@ -1,0 +1,31 @@
+Here is the output in JSON format:
+
+
+{
+    "Communication Portal": {
+        "Name": {"type": "text"},
+        "Communication Channels": {
+            "type": "list",
+            "items": {
+                "Channel Name": {"type": "text"},
+                "Channel Description": {"type": "text"}
+            }
+        },
+        "User Roles": {
+            "type": "list",
+            "items": {
+                "Role Name": {"type": "text"},
+                "Role Description": {"type": "text"}
+            }
+        },
+        "Message Templates": {
+            "type": "list",
+            "items": {
+                "Template Name": {"type": "text"},
+                "Template Content": {"type": "text"}
+            }
+        },
+        "Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+        "Deadline Date": {"type": "datetime"}
+    }
+}

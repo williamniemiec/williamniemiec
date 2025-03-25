@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Vaccine Information Statement": {
+    "Parameters": {
+      "Vaccine Name": {"Type": "text"},
+      "CDC Statement": {"Type": ["text", "html"]},
+      "Language": {"Type": ["options"]},
+      "Format": {"Type": ["options"]}
+    }
+  }
+}

@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Boundary Setter": {
+    "Boundary Title": {},
+    "Boundary Visual": {},
+    "Boundary Explanation": {},
+    "Boundary Location": {},
+    "Duration": {}
+  }
+}

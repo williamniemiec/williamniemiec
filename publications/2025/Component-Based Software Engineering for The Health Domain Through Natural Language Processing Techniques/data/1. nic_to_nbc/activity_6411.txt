@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+    "Medication Adjustment Criteria": {
+        "parameters": [
+            {"Name": {"type": "text"}},
+            {"Criteria": {"type": "list of options"}},
+            {"Description": {"type": "list of text"}},
+            {"Medication Name": {"type": "text"}},
+            {"Frequency": {"type": "options"}}
+        ]
+    }
+}
+
+
+Note that I removed the `Deadline Date` parameter since it was not applicable (its `required` field was set to `false`). Let me know if you need any further assistance!

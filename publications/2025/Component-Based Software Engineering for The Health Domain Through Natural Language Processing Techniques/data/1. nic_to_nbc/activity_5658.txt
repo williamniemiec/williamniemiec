@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Rest Guide": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Rest Recommendations": {"Type": "text or list of recommended rest activities and duration"},
+      "Rest Tracker": {"Type": "table or form with columns for date, time, rest activity, and duration"},
+      "Rest Goals": {"Type": "text or form with columns for goal, target date, and progress tracking"},
+      "Relaxation Techniques": {"Type": "text or link to external resource"}
+    }
+  }
+}
+
+
+Let me know if you need anything else!

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Maintenance Cost Discussion": {
+    "parameters": [
+      {"name": "Maintenance Type", "type": "options"},
+      {"name": "Estimated Cost", "type": "numerical value"},
+      {"name": "Available Resources", "type": "list of text or HTML content"},
+      {"name": "Financial Assistance Options", "type": "list of text or HTML content"},
+      {"name": "Budgeting Tips", "type": "list of text or HTML content"}
+    ]
+  }
+}

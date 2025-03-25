@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "Equipment Visibility": {
+    "Parameters": {
+      "Equipment List": {
+        "Type": "checklist",
+        "Items": ["IV poles", "oxygen tanks", "surgical instruments"]
+      },
+      "Visibility Setting": {
+        "Type": "options",
+        "Options": ["visible", "hidden", "covered"]
+      },
+      "Patient Preference": {
+        "Type": "boolean",
+        "Options": ["yes/no"]
+      },
+      "Reason for Hiding": {
+        "Type": "text"
+      }
+    }
+  }
+}

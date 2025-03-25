@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+  "Dysphagia Screening": {
+    "Questions": {
+      "Type": "form",
+      "Options": ["multiple choice", "true/false", "open-ended text"]
+    },
+    "Scoring": {
+      "Type": "options",
+      "Options": ["low risk", "moderate risk", "high risk"]
+    },
+    "Frequency": {
+      "Type": "options",
+      "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+    }
+  }
+}
+
+
+I removed the `Deadline Date` parameter as it is not applicable, and also removed any unnecessary text, keeping only the `PARAMETER ESPECIFICATIONS` and `NO-CODE ELEMENT NAME`. Let me know if this meets your requirements!

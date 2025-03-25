@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Form": {
+    "Parameters": {
+      "Fields": [
+        {"Text fields": ""},
+        {"Checkbox fields": ""},
+        {"Date fields": ""}
+      ],
+      "Sections": "",
+      "Instructions": ""
+    }
+  }
+}

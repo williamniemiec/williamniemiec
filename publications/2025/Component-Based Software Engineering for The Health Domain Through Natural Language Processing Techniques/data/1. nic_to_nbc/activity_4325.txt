@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Mealtime Assistance Guide": {
+    "Name": {"type": "text"},
+    "Field of Vision": {"type": "options", "values": ["left", "right", "bilateral"]},
+    "Mealtime Assistance Steps": {"type": "illustrated guide"},
+    "Plate Turning": {"type": "options", "values": ["yes", "no"]},
+    "Frequency": {"type": "options", "values": ["daily", "every few hours", "as needed"]}
+  }
+}
+
+
+Note that I removed the `Deadline Date` parameter since it's not applicable to the no-code element.

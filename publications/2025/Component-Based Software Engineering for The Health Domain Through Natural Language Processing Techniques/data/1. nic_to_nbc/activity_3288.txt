@@ -1,0 +1,10 @@
+Here is the output in JSON format:
+
+
+{
+  "Conflict Management Guide": {
+    "Modules": {"Type": "course-module", "Required": true},
+    "Lessons": {"Type": "lesson", "Required": true},
+    "Exercises": {"Type": "exercise", "Required": true}
+  }
+}

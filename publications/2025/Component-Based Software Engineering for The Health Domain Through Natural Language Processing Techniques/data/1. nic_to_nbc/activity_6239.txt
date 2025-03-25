@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Equipment Readiness": {
+    "Equipment Name": {"type": "text"},
+    "Back-up Instructions": {"type": "text"},
+    "Reminder Frequency": {"type": "options", "options": ["daily", "weekly", "monthly"]},
+    "Confirmation": {"type": "boolean"}
+  }
+}

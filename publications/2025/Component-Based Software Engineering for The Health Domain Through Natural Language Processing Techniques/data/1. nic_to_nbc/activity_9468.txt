@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Feelings about Parenthood": {
+    "Entry Title": {"Description": "Title of your journal entry", "Required": true, "Type": "text"},
+    "Feelings": {"Description": "Write about your feelings about being a parent", "Required": true, "Type": "text"},
+    "Emotions": {"Description": "Select the emotions you're feeling", "Required": true, "Type": "options", "Options": [{"value": "happy", "label": "Happy"}, {"value": "sad", "label": "Sad"}, {"value": "anxious", "label": "Anxious"}, {"value": "overwhelmed", "label": "Overwhelmed"}, {"value": "excited", "label": "Excited"}, {"value": "other", "label": "Other (please specify)"}]},
+    "Reflection": {"Description": "Reflect on what you're grateful for as a parent", "Required": false, "Type": "text"}
+  }
+}

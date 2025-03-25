@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+    "Disaster Plan Development": {
+        "Parameters": {
+            "Disaster Type": {},
+            "Plan Template": {},
+            "Risk Assessment": {},
+            "Response Protocols": {},
+            "Resource Allocation": {},
+            "Training and Drills": {},
+            "Review and Revision": {}
+        }
+    }
+}

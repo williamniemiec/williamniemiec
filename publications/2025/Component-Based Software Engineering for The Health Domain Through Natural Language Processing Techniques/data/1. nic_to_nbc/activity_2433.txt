@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "ECT Treatment Support": {
+    "parameters": {
+      "ECT Treatment Schedule": {"type": "calendar"},
+      "Pre-ECT Preparation": {"type": "text"},
+      "ECT Treatment Reminders": {"type": "notification"},
+      "Post-ECT Care": {"type": "text"},
+      "ECT Treatment Tracking": {"type": "log"},
+      "Education and Support": {"type": "text"}
+    }
+  }
+}

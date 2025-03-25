@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+    "Resource List": {
+        "Parameters": {
+            "Name": {"Type": "text"},
+            "Resources": {
+                "Type": "unordered list",
+                "Properties": {
+                    "Name": {"Type": "text"},
+                    "Description": {"Type": "text"},
+                    "Contact Information": {"Type": "text"},
+                    "Website": {"Type": "URL"}
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+  "Goal Setting": {
+    "Parameters": {
+      "Question": "",
+      "Answer type": ["Text", "Select"],
+      "Goal categories": ["Physical health", "Emotional well-being", "Lifestyle changes"],
+      "Priority level": ["High", "Medium", "Low"],
+      "Deadline": {"Type": "datetime"}
+    }
+  },
+  "Desired Outcomes Form": {
+    "Parameters": {
+      "Questions": [],
+      "Answer type": ["Text", "Select"],
+      "Outcome categories": ["Symptom relief", "Improved function", "Enhanced well-being"],
+      "Priority level": ["High", "Medium", "Low"],
+      "Deadline": {"Type": "datetime"}
+    }
+  }
+}

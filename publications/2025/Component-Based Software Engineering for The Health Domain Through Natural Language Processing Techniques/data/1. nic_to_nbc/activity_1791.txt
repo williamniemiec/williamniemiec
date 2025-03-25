@@ -1,0 +1,35 @@
+Here is the output in JSON format:
+
+
+{
+  "Housing Resource Guide": {
+    "parameters": [
+      {"Name": {"type": "text"}},
+      {"Content": {"type": "text or HTML"}},
+      {"Resources": {
+        "type": "list",
+        "items": {
+          "type": "object",
+          "properties": {
+            "Name": {"type": "text"},
+            "Description": {"type": "text"},
+            "Link": {"type": "URL"},
+            "Phone": {"type": "phone number"},
+            "Address": {"type": "text"}
+          }
+        }
+      }},
+      {"Eligibility Criteria": {"type": "text or HTML"}},
+      {"Application Process": {"type": "text or HTML"}},
+      {"Frequency": {
+        "type": "options",
+        "options": [
+          {"value": "daily"},
+          {"value": "onlyOnce"},
+          {"value": "everyHours"},
+          {"value": "everyDays"}
+        ]
+      }}
+    ]
+  }
+}

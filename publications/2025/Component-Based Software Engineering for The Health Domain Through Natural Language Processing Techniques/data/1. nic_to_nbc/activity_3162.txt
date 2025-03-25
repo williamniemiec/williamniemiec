@@ -1,0 +1,4 @@
+Since there is no no-code element associated with this intervention, my output will be an empty JSON:
+
+{}
+(Note: I'll assume that the absence of {{ NO-CODE ELEMENT NAME }} and {{ PARAMETER ESPECIFICATIONS }} implies that they are not applicable)

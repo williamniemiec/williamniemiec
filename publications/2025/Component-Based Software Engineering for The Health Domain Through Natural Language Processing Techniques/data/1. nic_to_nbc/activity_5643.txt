@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+  "Rehabilitation Services Assessment": {
+    "Parameters": {
+      "Service types": {"Type": "list of text or selection from a list of service types"},
+      "Service providers": {"Type": "list of text or selection from a list of providers"}
+    }
+  },
+  "Availability Check": {
+    "Parameters": {
+      "Availability criteria": {"Type": "list of text or selection from a list of criteria"},
+      "Availability status": {"Type": "options (e.g., available, unavailable, pending)"}
+    }
+  },
+  "Rehabilitation Services Recommendation": {
+    "Parameters": {
+      "Recommendation logic": {"Type": "conditional statement (e.g., if-then statement)"},
+      "Recommendation output": {"Type": "list of text or selection from a list of recommendations"}
+    }
+  }
+}

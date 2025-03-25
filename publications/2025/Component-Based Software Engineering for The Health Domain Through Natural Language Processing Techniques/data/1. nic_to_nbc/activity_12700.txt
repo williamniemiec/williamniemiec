@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+    "Flatus Monitoring": {
+        "Monitoring Plan Name": {},
+        "Instructions": {},
+        "Assessment Questions": {},
+        "Frequency": {}
+    }
+}

@@ -1,0 +1,39 @@
+Here is the output in JSON format:
+
+{
+    "Posture and Body Mechanics Guide": {
+        "parameters": [
+            { 
+                "name": "Name", 
+                "type": "text"
+            },
+            { 
+                "name": "Good Posture Techniques", 
+                "type": "book-page",
+                "book-page": "list of HTML texts"
+            },
+            { 
+                "name": "Body Mechanics", 
+                "type": "book-page",
+                "book-page": "list of html texts"
+            },
+            { 
+                "name": "Tips", 
+                "type": "unordered list",
+                "unordered list": "list of text"
+            },
+            { 
+                "name": "Videos", 
+                "type": "video",
+                "video": "list of video URLs"
+            },
+            { 
+                "name": "Images", 
+                "type": "image",
+                "image": "list of image URLs"
+            }
+        ]
+    }
+}
+
+Let me know if this is what you were expecting!

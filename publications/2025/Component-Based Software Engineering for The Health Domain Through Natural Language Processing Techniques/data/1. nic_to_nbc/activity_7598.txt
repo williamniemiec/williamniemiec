@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Care Activity Schedule": {
+    "Name": {"type": "text"},
+    "Care Activities": {"type": "unordered list"},
+    "Sleep Cycle Duration": {"type": "options", "options": ["90 minutes", "120 minutes", "180 minutes", "custom"]},
+    "Awakening Window": {"type": "options", "options": ["30 minutes", "1 hour", "2 hours", "custom"]},
+    "Schedule": {"type": "table"}
+  }
+}

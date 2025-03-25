@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+    "financial_planning": {
+        "parameters": [
+            {"name": "income", "type": "number"},
+            {"name": "expenses", "type": "list", 
+                "expense": [
+                    {"name": "expense_name", "type": "text"},
+                    {"name": "expense_amount", "type": "number"}
+                ]
+            },
+            {"name": "financial_goals", "type": "text"},
+            {"name": "referral_options", "type": "options",
+                "options": [
+                    {"value": "financial_planner", "label": "Financial Planner"},
+                    {"value": "estate_planner", "label": "Estate Planner"}
+                ]
+            }
+        ]
+    }
+}
+
+
+I removed the introduction, conclusion, and non-applicable parameters from the original text. The output is a JSON object with the no-code element name as the key, and its parameters as an array of objects. Each parameter object contains its name, type, and any additional properties (such as expense or options).

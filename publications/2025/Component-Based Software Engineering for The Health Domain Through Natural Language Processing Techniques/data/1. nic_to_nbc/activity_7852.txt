@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Arbitrator Referral": {
+    "title of the arbitrator referral service": {"type": "text"},
+    "Description": {"type": "text"},
+    "Resources": {"type": "list of text or URLs"},
+    "Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"type": "datetime"}
+  }
+}

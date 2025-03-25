@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Resource": {
+    "Parameters": {
+      "Title": {"Type": "text"},
+      "Content": {"Type": "pdf or html"},
+      "Knowledge Need": {"Type": "options (list of knowledge needs)"},
+      "Description": {"Type": "text"}
+    }
+  }
+}

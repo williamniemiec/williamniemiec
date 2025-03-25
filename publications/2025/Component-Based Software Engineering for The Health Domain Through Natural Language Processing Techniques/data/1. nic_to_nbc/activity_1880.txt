@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+  "Goal Setting": {
+    "Parameters": {
+      "Goal": {"Type": "text"},
+      "Specificity": {"Type": "options"},
+      "Measurability": {"Type": "options"},
+      "Achievability": {"Type": "options"},
+      "Relevance": {"Type": "options"},
+      "Timeframe": {"Type": "date or time"}
+    }
+  },
+  "Priority Ranking": {
+    "Parameters": {
+      "Goal": {"Type": "text"},
+      "Priority": {"Type": "options"}
+    }
+  },
+  "Goal Tracking": {
+    "Parameters": {
+      "Goal": {"Type": "text"},
+      "Progress": {"Type": "options"}
+    }
+  }
+}

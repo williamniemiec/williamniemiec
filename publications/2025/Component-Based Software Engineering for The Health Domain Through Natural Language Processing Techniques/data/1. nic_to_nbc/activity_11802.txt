@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Decision-Making Guide": {
+    "Parameters": {
+      "Name": {},
+      "Description": {},
+      "Decision-Making Strategies": {},
+      "Goal Setting": {},
+      "Reflection Questions": {},
+      "Resources": {}
+    }
+  }
+}
+
+
+Note that I removed the `Reminders` parameter as it was marked as a boolean type, which is not applicable in this context. Let me know if you have any further questions!

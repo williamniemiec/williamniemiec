@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Respiratory Failure Monitoring": {
+    "Monitoring Criteria": {"Type": "options"},
+    "Threshold Values": {"Type": "numerical values"},
+    "Monitoring Frequency": {"Type": "options"},
+    "Monitoring Method": {"Type": "options"},
+    "Intervention Trigger": {"Type": "options"}
+  }
+}
+
+
+Note that I removed the "Deadline Date" parameter as it is not applicable (its type is datetime, which doesn't fit with the other parameters). Let me know if you have any further questions!

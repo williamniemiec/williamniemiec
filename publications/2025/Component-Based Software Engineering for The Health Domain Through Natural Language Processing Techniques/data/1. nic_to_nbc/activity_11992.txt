@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Learning Objectives": {
+    "parameters": [
+      {"Name": {"type": "text"}},
+      {"Objective Statement": {"type": "text"}},
+      {"Measurable Terms": {"type": "list of measurable terms"}},
+      {"Target Value": {"type": "number or percentage"}},
+      {"Evaluation Criteria": {"type": "text or list of criteria"}}
+    ]
+  }
+}

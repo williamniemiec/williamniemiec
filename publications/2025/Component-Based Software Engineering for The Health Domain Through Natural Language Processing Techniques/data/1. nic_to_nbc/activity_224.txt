@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+
+{
+    "Fetal Structure Identification": {
+        "Name": {"Type": "text"},
+        "Description": {"Type": "text"},
+        "Fetal Structures": {"Type": "unordered list"},
+        "Images or Videos": {"Type": "media (image or video)"},
+        "Frequency": {"Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+        "Deadline Date": {"Type": "datetime"}
+    }
+}

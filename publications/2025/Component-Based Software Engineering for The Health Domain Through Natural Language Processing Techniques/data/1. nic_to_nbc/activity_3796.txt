@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Voiding Pattern Tracker": {
+    "parameters": {
+      "name": {"type": "text"},
+      "description": {"type": "text"},
+      "tracking_period": {"type": "numeric"},
+      "voiding_pattern_fields": {"type": "checklist", "options": ["date", "time", "volume", "frequency", "urgency", "incontinence", "etc."]},
+      "entry_frequency": {"type": "options", "options": ["after each void", "every hour", "every 2 hours", "etc."]},
+      "submission": {"type": "options", "options": ["through the app", "to a healthcare provider", "etc."]}
+    }
+  }
+}
+
+
+I removed all unnecessary information and kept only the `{{ NO-CODE ELEMENT NAME }}` and `{{ PARAMETER ESPECIFICATIONS }}`. I also removed the "not applicable" parameters, as there were none in this input. Let me know if you have any further requests!

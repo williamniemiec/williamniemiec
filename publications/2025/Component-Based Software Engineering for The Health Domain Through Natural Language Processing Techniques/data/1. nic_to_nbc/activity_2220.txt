@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Emotional Well-being Assessment": {
+        "Parameters": {
+            "Signs and Symptoms": ["Lags in physical development", "Habit disorders", "Conduct learning disorders", "Neurotic traits or psychoneurotic reactions", "Behavioral extremes", "Cognitive developmental lags", "Attempted suicide"],
+            "Frequency": ["daily", "onlyOnce", "everyHours", "everyDays"],
+            "Deadline Date": {"Type": "datetime"},
+            "Self-Assessment Questions": ["How are you feeling today?", "Have you experienced any changes in your appetite or sleep patterns?", "Have you felt anxious or depressed recently?", "Have you experienced any changes in your behavior or mood?"]
+        }
+    }
+}

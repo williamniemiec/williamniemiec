@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Job Linkage": {
+    "parameters": [
+      {"Job Training Directory": {"type": "directory", "fields": ["program name", "description", "contact information", "eligibility criteria"]}},
+      {"Employment Opportunities": {"type": "list", "fields": ["job title", "description", "requirements", "application instructions"]}},
+      {"Patient Needs Assessment": {"type": "assessment", "fields": ["patient needs", "job training or employment opportunities"]}},
+      {"Referral Process": {"type": "process", "fields": ["referral steps", "required documentation"]}},
+      {"Application Assistance": {"type": "assistance", "fields": ["resume building", "interview preparation"]}},
+      {"Follow-up": {"type": "follow-up", "fields": ["progress tracking", "ongoing support"]}}
+    ]
+  }
+}

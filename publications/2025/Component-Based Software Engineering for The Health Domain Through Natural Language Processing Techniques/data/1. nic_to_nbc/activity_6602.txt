@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+    "assessment": {
+        "parameters": [
+            {"name": "title", "description": "assessment title"},
+            {"name": "symptom", "description": "symptom to assess (pruritus)"},
+            {"name": "causes", 
+             "description": "list of possible causes of the symptom",
+             "list": [
+                 {"name": "contact_dermatitis", "description": "contact dermatitis"},
+                 {"name": "systemic_disorder", "description": "systemic disorder"},
+                 {"name": "medications", "description": "medications"}
+             ]
+            }
+        ]
+    }
+}

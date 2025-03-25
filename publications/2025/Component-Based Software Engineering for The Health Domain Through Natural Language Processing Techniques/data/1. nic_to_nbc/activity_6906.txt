@@ -1,0 +1,5 @@
+Since there is no no-code element associated with this intervention, I will output an empty JSON object:
+
+{}
+
+Note: If there were any parameter specifications or no-code element names provided in the input text, I would have included them in the output JSON. However, since they are not present in this specific input, the output is an empty JSON object.

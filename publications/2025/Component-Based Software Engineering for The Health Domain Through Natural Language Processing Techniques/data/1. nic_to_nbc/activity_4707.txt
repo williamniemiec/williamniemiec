@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+  "Smoking Cessation Guidance": {
+    "Reasons to Quit": {
+      "type": "list of text options with optional images or icons"
+    },
+    "Strategies for Quitting": {
+      "type": "list of text options with optional images or icons"
+    },
+    "Tips for Staying Smoke-Free": {
+      "type": "list of text options with optional images or icons"
+    },
+    "Resources": {
+      "type": "list of links or multimedia files"
+    },
+    "Goal Setting": {
+      "type": "text field with formatting options (e.g., bold, italic, etc.)"
+    },
+    "Tracking Progress": {
+      "type": "data tracking component with input fields and graphical display options"
+    },
+    "Motivational Messages": {
+      "type": "list of text options with optional images or icons"
+    }
+  }
+}

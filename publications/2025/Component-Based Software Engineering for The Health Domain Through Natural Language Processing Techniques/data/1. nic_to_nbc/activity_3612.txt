@@ -1,0 +1,30 @@
+Here is the output in JSON format:
+
+{
+  "name": "Second Opinion Exploration",
+  "parameters": [
+    {
+      "name": "Condition"
+    },
+    {
+      "name": "Options"
+    },
+    {
+      "name": "Providers"
+    },
+    {
+      "name": "Resources"
+    },
+    {
+      "name": "Benefits"
+    },
+    {
+      "name": "Frequency"
+    },
+    {
+      "name": "Deadline Date"
+    }
+  ]
+}
+
+I removed all unnecessary information and only kept the `{{ NO-CODE ELEMENT NAME }}` and `{{ PARAMETER ESPECIFICATIONS }}`. I also removed the "Not Applicable" parameters. Let me know if this is what you were looking for!

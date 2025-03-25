@@ -1,0 +1,25 @@
+
+
+
+{
+  "Myth-Busting Content": {
+    "Parameters": {
+      "Myth": {"Type": "text"},
+      "Correction": {"Type": "text"},
+      "Evidence": {"Type": "text or reference"}
+    }
+  },
+  "Quiz": {
+    "Parameters": {
+      "Questions": {"Type": "form", "Options": ["multiple-choice", "true/false", "etc."]},
+      "Answers": {"Type": "text or options"},
+      "Feedback": {"Type": "text"}
+    }
+  },
+  "Interactive Activity": {
+    "Parameters": {
+      "Activity": {"Type": "interactive content"},
+      "Goals": {"Type": "text"}
+    }
+  }
+}

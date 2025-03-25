@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Soothing Techniques": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Techniques": {"Type": "list", "Examples": ["Swaddling", "Rocking", "Sucking (e.g., pacifier, finger)", "White noise", "Skin-to-skin contact", "Massage", "Other"]},
+      "Instructions": {"Type": "text", "Example": "To swaddle your infant, wrap them snugly in a blanket, making sure to leave their face uncovered and their arms close to their body."},
+      "Videos": {"Type": "video", "Example": "A short video showing a parent swaddling their infant"},
+      "Tips": {"Type": "text", "Example": "Make sure to check your infant's temperature when swaddling to avoid overheating."},
+      "Practice": {"Type": "boolean"}
+    }
+  }
+}

@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+    "Drainage Monitoring": {
+        "Parameters": {
+            "Name": {"Type": "text"},
+            "Amount": {"Type": "options", "Options": ["small", "moderate", "large", "other"]},
+            "Color": {"Type": "options", "Options": ["clear", "yellow", "pink", "brown", "other"]},
+            "Consistency": {"Type": "options", "Options": ["watery", "thick", "cloudy", "other"]},
+            "Frequency": {"Type": "options", "Options": ["daily", "every 12 hours", "every 8 hours", "custom"]},
+            "Deadline Date": {"Type": "datetime"},
+            "Additional Notes": {"Type": "text"}
+        }
+    }
+}

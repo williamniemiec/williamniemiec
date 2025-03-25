@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Nicotine Withdrawal Education": {
+        "parameters": [
+            {"name": "Content", "type": "text"},
+            {"name": "Format", "type": "options", "options": ["text", "video", "image", "audio"]},
+            {"name": "Symptoms List", "type": "list"},
+            {"name": "Frequency", "type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]}
+        ]
+    }
+}

@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Emotional Expression": {
+    "Name": {"type": "text"},
+    "Event": {"type": "text", "promptOrQuestion": true},
+    "Feelings": {"type": "text", "promptOrQuestion": true},
+    "Emotion Type": {"type": "options", "options": [{"value": "positive", "label": "Positive"}, {"value": "negative", "label": "Negative"}, {"value": "neutral", "label": "Neutral"}]},
+    "Intensity": {"type": "rating scale"},
+    "Reflection": {"type": "text", "promptOrQuestion": true}
+  }
+}

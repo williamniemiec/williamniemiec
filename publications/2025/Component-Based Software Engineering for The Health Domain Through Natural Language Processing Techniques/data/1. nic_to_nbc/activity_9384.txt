@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+  "Symptom Monitoring": {
+    "Parameters": {
+      "Symptom 1": {
+        "Type": "boolean",
+        "Question": "Are you experiencing arm swelling on the side where your device is implanted?",
+        "Options": ["yes", "no"]
+      },
+      "Symptom 2": {
+        "Type": "boolean",
+        "Question": "Are you experiencing increased warmth on the side where your device is implanted?",
+        "Options": ["yes", "no"]
+      },
+      "Frequency": {
+        "Type": "options",
+        "Options": ["daily", "every 12 hours", "every 8 hours"]
+      },
+      "Notification": {
+        "Type": "text",
+        "Value": "If you experience arm swelling or increased warmth on the side where your device is implanted, notify your healthcare provider immediately."
+      }
+    }
+  }
+}

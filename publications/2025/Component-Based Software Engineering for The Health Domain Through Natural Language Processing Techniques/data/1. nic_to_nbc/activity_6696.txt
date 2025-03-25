@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Surgery Discussion": {
+    "Feelings": {"type": "text or emoticon-based input"},
+    "Questions": {"type": "text or list"},
+    "Concerns": {"type": "text or list"},
+    "Notes": {"type": "text or audio/video recording"}
+  }
+}

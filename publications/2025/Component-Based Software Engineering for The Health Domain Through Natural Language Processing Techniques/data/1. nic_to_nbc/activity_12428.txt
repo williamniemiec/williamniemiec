@@ -1,0 +1,33 @@
+Here is the output in JSON format:
+
+
+{
+  "Hope Assessment": {
+    "parameters": {
+      "Assessment questions": [],
+      "Assessment frequency": "",
+      "Notification settings": []
+    }
+  },
+  "Realistic Hope Messaging": {
+    "parameters": {
+      "Message content": "",
+      "Message frequency": "",
+      "Care team input": ""
+    }
+  },
+  "Goal Setting": {
+    "parameters": {
+      "Goal templates": [],
+      "Goal setting guidance": "",
+      "Care team input": ""
+    }
+  },
+  "Progress Tracking": {
+    "parameters": {
+      "Progress metrics": [],
+      "Feedback and encouragement": "",
+      "Care team input": ""
+    }
+  }
+}

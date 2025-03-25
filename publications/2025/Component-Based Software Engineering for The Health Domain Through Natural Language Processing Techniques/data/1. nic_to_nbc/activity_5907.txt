@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+  "Peer Connection": {
+    "parameters": {
+      "Peer Profile Database": {
+        "type": "list of objects (peer name, story, experience, contact info)"
+      },
+      "Matching Criteria": {
+        "type": "list of options (diagnosis, treatment, demographics)"
+      },
+      "Peer Matching Algorithm": {
+        "type": "algorithm (e.g., based on patient input, peer profile database, matching criteria)"
+      },
+      "Introduction Method": {
+        "type": "options (video call, phone call, messaging platform)"
+      },
+      "Support Group": {
+        "type": "options (support group, individual peer)"
+      },
+      "Follow-up": {
+        "type": "options (phone call, email, in-app notification)"
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+    "Element Name": "Education",
+    "Parameter Specifications": {
+        "Content": {"Type": "text or HTML"},
+        "Resources": {"Type": "list of URLs or file references"},
+        "Quiz": {"Type": "list of questions with answer options"}
+    }
+}

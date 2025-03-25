@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Chest Tube Indication Tracker": {
+    "parameters": {
+      "name": {"type": "text"},
+      "indication_type": {"type": "options"},
+      "description": {"type": "text"},
+      "diagnosis": {"type": "text"},
+      "notes": {"type": "text"}
+    }
+  }
+}

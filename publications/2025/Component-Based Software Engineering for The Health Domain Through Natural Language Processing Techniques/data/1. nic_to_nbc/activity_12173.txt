@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Sibling Profile": {
+    "Parameters": {
+      "Sibling Information": {"Type": "text"},
+      "Response Patterns": {"Type": "list of response patterns"},
+      "Needs and Concerns": {"Type": "list of needs and concerns"},
+      "Coping Mechanisms": {"Type": "list of coping mechanisms"},
+      "Frequency": {"Type": "options"}
+    }
+  }
+}

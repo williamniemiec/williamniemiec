@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+    "Sterile Access Initiation": {
+        "access_type": {"type": "text"},
+        "protocol": {"type": "text or reference to a protocol document"},
+        "steps": {"type": "list of text or JSON object"},
+        "verification": {"type": "boolean"}
+    }
+}

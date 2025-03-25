@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Rental Laws and Protections Guide": {
+    "parameters": [
+      { "name": "Name", "type": "text" },
+      { "name": "Content", "type": "text or HTML" },
+      { "name": "Laws and Regulations", "type": "list of objects" },
+      { "name": "Protections", "type": "list of objects" },
+      { "name": "Resources", "type": "list of objects" },
+      { "name": "Frequency", "type": "options" }
+    ]
+  }
+}

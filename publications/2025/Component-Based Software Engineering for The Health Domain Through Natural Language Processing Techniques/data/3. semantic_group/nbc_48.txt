@@ -1,0 +1,10 @@
+{
+  "name": "Vaccine Administration and Immunization",
+  "description": "Focuses on the administration of vaccines, including common vaccines like DTaP, MMR, rubella, and tetanus. Provides guidelines for immunization and patient education.",
+  "type": "non-periodic",
+  "input": ["Vaccine types", "Immunization schedules", "DTaP, MMR, rubella, tetanus details", "Vaccine administration instructions"],
+  "output": ["Immunization records", "Vaccine administration reports", "Patient education material"],
+  "preconditions": ["User is receiving or administering vaccines"],
+  "postconditions": ["Completed immunization and patient understanding of the vaccine process"],
+  "dependencies": ["Vaccine administration system", "Immunization tracking tools", "Patient education platform"]
+}

@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Community Weight Control Program Referral": {
+    "Parameters": {
+      "Program Options": {"Type": "options", "Options": ["Weight Watchers", "Jenny Craig", "etc."]},
+      "Program Details": {"Type": "text"},
+      "Eligibility Criteria": {"Type": "text"},
+      "Referral Process": {"Type": "text"},
+      "Benefits": {"Type": "text"},
+      "Testimonials": {"Type": "text"}
+    }
+  }
+}
+
+
+Note that I removed the `Tracking` parameter since it was marked as a boolean type, but there were no specified options or values provided.

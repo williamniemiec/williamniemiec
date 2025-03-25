@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Lab Test Name": {
+    "type": "text"
+  },
+  "Monitoring Frequency": {
+    "type": "options",
+    "options": ["every6Hours", "daily", "every12Hours", "etc."]
+  },
+  "Deadline Date": {
+    "type": "datetime"
+  },
+  "Result Tracking": {
+    "type": "boolean"
+  },
+  "Alert Threshold": {
+    "type": "text"
+  }
+}

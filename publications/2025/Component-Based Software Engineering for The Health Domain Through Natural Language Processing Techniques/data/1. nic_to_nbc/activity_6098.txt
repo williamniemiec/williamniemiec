@@ -1,0 +1,10 @@
+Here is the output in JSON format:
+
+
+{
+  "Room Assignment": {
+    "Parameters": {
+      "notification title": "Title of the room assignment notification"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Data Collection Frequency",
+  "parameters": [
+    {
+      "name": "Patient Status",
+      "type": "options"
+    },
+    {
+      "name": "Data Collection Frequency",
+      "type": "options"
+    },
+    {
+      "name": "Data Interpretation Frequency",
+      "type": "options"
+    },
+    {
+      "name": "Trigger Events",
+      "type": "list"
+    }
+  ]
+}
+
+
+I removed the `description` and other unnecessary fields, as well as the `Deadline Date` parameter which is of type `datetime`, not applicable to this specific task. Let me know if you need any further modifications!

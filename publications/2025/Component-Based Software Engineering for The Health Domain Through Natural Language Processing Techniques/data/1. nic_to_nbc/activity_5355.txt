@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Reminder": {
+    "parameters": {
+      "name": "Follow-up reminder for device removal",
+      "content": "Remember to follow up with your healthcare provider to remove the device when the indication is resolved.",
+      "type": "text",
+      "frequency": "specify the frequency of the reminder (e.g., daily, weekly)",
+      "deadline_date": "specify the deadline for the follow-up"
+    }
+  }
+}

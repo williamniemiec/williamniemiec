@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "noCodeElementName": "Comparison",
+  "parameterSpecifications": {
+    "Name": {"type": "text"},
+    "Vitals": {"type": "list of vitals", 
+      "parameters": {
+        "Name": {"type": "text"},
+        "Predialysis Value": {"type": "number or text"},
+        "Postdialysis Value": {"type": "number or text"}
+      }
+    },
+    "Blood Chemistries": {"type": "list of blood chemistries", 
+      "parameters": {
+        "Name": {"type": "text"},
+        "Predialysis Value": {"type": "number or text"},
+        "Postdialysis Value": {"type": "number or text"}
+      }
+    },
+    "Comparison Criteria": {"type": "text or reference to an external resource"},
+    "Results": {"type": "text or visual representation"}
+  }
+}

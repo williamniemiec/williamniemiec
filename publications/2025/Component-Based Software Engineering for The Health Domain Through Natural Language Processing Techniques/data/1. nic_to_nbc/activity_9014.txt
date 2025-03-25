@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+    "Contraindication Checker": {
+        "parameters": {
+            "name": "",
+            "contraindications": [
+                {
+                    "name": "",
+                    "description": ""
+                }
+            ],
+            "patient_history": "",
+            "frequency": ["daily", "weekly", "biweekly", "monthly"],
+            "deadline_date": ""
+        }
+    }
+}
+
+
+Note that I removed the not applicable parameters ("risk_assessment" and "alert_system") as per your request.

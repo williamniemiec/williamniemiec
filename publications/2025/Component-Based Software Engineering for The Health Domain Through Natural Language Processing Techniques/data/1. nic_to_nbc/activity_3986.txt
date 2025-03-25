@@ -1,0 +1,32 @@
+Here is the output in JSON format:
+
+
+{
+  "Dietary Regimen Tracker": {
+    "parameters": {
+      "Dietary Restrictions": {
+        "type": "options",
+        "options": ["high-potassium foods", "salt substitutes", "low-potassium foods"]
+      },
+      "Food Diary": {
+        "type": "text",
+        "format": "free-text entry or selection from a list of common foods"
+      },
+      "Nutrient Intake": {
+        "type": "number",
+        "unit": ["mg", "g", "kcal"]
+      },
+      "Reminders": {
+        "type": "datetime",
+        "frequency": ["daily", "weekly"]
+      },
+      "Education": {
+        "type": "text",
+        "format": "links to educational articles, videos, or images"
+      }
+    }
+  }
+}
+
+
+I removed all the unnecessary text and only kept the `{{ NO-CODE ELEMENT NAME }}` and `{{ PARAMETER ESPECIFICATIONS }}`. I also reformatted the parameters into a more standard JSON format. Let me know if you need any further adjustments!

@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+[
+  {
+    "name": "Incontinence Assessment",
+    "parameters": [
+      { "name": "urinary_output", "description": "Urinary output", "type": "number" },
+      { "name": "voiding_pattern", "description": "Voiding pattern", "type": "options", "options": [ {"value": "normal", "label": "Normal"}, {"value": "frequent", "label": "Frequent"}, {"value": "infrequent", "label": "Infrequent"} ] },
+      { "name": "cognitive_function", "description": "Cognitive function", "type": "options", "options": [ {"value": "normal", "label": "Normal"}, {"value": "impaired", "label": "Impaired"} ] },
+      { "name": "preexistent_urinary_problems", "description": "Preexistent urinary problems", "type": "options", "options": [ {"value": "yes", "label": "Yes"}, {"value": "no", "label": "No"} ] },
+      { "name": "post_void_residual", "description": "Post-void residual", "type": "number" },
+      { "name": "medications", "description": "Medications", "type": "text" }
+    ]
+  },
+  {
+    "name": "Risk Factor Identification",
+    "parameters": [
+      { "name": "risk_factors", "description": "Risk factors contributing to incontinence", "type": "list" }
+    ]
+  }
+]

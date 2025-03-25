@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication and Nutrient Infusion": {
+    "Parameters": {
+      "Medication and Nutrient Orders": {
+        "Type": "text or structured data"
+      },
+      "Infusion Instructions": {
+        "Type": "text or multimedia"
+      },
+      "Infusion Rate and Volume": {
+        "Type": "numerical values"
+      },
+      "Monitoring Parameters": {
+        "Type": "text or options"
+      },
+      "Infusion Confirmation": {
+        "Type": "boolean"
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+    "Ventilator Selection Guide": {
+        "parameters": [
+            {"name": "ventilator_type", "description": "Select a ventilator type", "type": "options"},
+            {"name": "patient_condition", "description": "Select the patient's condition", "type": "options"},
+            {"name": "additional_info", "description": "Add any additional information", "type": "text"}
+        ]
+    }
+}

@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Decision Support": {
+    "parameters": {
+      "Conflict Description": {"type": "text"},
+      "Biomedical Knowledge": {"type": ["text", "multimedia content"]},
+      "Patient Beliefs": {"type": ["text", "selection from a list of options"]},
+      "Ethical Standards": {"type": ["text", "selection from a list of options"]},
+      "Compromise Options": {"type": "list of options with descriptions and potential outcomes"},
+      "Decision": {"type": "selection from a list of options"}
+    }
+  }
+}

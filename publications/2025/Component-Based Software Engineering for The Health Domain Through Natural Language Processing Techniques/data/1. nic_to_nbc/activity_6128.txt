@@ -1,0 +1,34 @@
+Here is the output in JSON format:
+
+
+{
+  "Hyperthermia Treatment": {
+    "Parameters": {
+      "Treatment Method": {
+        "Type": "options",
+        "Options": ["antipyreticDrugs", "coolingMattress", "spongeBath"]
+      },
+      "Medication Details": {
+        "Type": "nested object",
+        "Properties": {
+          "Medication Name": {"Type": "text"},
+          "Dosage": {"Type": "text"},
+          "Frequency": {
+            "Type": "options",
+            "Options": ["asNeeded", "daily", "everyHours", "everyDays"]
+          }
+        }
+      },
+      "Cooling Mattress Instructions": {"Type": "text"},
+      "Sponge Bath Instructions": {"Type": "text"},
+      "Frequency": {
+        "Type": "options",
+        "Options": ["asNeeded", "daily", "everyHours", "everyDays"]
+      },
+      "Notes": {"Type": "text"}
+    }
+  }
+}
+
+
+Note that I removed the `CONCLUSION` and `INTRODUCTION` sections, as well as the non-parameter elements from the input text. I also removed the "Not Applicable" parameters. The resulting JSON object contains only the `PARAMETER ESPECIFICATIONS` and the corresponding `NO-CODE ELEMENT NAME`.

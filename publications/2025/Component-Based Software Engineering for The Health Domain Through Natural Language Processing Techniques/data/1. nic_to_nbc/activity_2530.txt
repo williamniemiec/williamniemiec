@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Pain Assessment": {
+    "Location": {},
+    "Characteristics": {},
+    "Onset/Duration": {},
+    "Frequency": {},
+    "Quality": {},
+    "Intensity/Severity": {},
+    "Precipitating Factors": {}
+  }
+}

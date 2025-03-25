@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Incontinence Progress Tracker": {
+    "Parameters": {
+      "Incontinence Tracker": {"Type": "interactive graph or chart", "Required": true},
+      "Goal Setting": {"Type": "interactive form or input field", "Required": true},
+      "Positive Feedback": {"Type": "text with images or videos", "Required": true},
+      "Motivational Messages": {"Type": "text with images or videos", "Required": true}
+    }
+  }
+}

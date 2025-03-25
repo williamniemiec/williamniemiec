@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+  "Suppository Tracker": {
+    "Parameters": {
+      "Suppository Insertion": {
+        "Description": "Insert rectal suppository",
+        "Required": true,
+        "Type": "Boolean"
+      },
+      "Frequency": {
+        "Description": "Specify how often to insert rectal suppository",
+        "Required": true,
+        "Type": "Options",
+        "Options": [
+          { "value": "asNeeded", "label": "As needed" },
+          { "value": "daily", "label": "Daily" },
+          { "value": "everyOtherDay", "label": "Every other day" },
+          { "value": "weekly", "label": "Weekly" }
+        ]
+      }
+    }
+  }
+}
+
+
+I removed the `Deadline Date` and `Notes` parameters as they are not applicable (i.e., their `Required` field is set to `false`). Let me know if you need anything else!

@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+    "Tube Aspiration and Flushing": {
+        "Aspiration Instructions": {"type": "text or multimedia"},
+        "Aspirate Return Method": {"type": "options"},
+        "Tube Flushing Instructions": {"type": "text or multimedia"},
+        "Tube Flushing Volume": {"type": "number"},
+        "Frequency of Aspiration and Flushing": {"type": "options"}
+    }
+}

@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Medical Alert": {
+        "Parameters": {
+            "Instructions": {"Type": "text"},
+            "Tag Information": {"Type": "text"},
+            "Reminders": {"Type": "notification or alert"},
+            "Confirmation": {"Type": "boolean"}
+        }
+    }
+}

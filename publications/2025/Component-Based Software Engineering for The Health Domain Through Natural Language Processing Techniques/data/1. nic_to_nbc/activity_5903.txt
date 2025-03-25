@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+    "Dressing Application": {
+        "Parameters": {
+            "Name": {"Type": "text"},
+            "Instructions": {"Type": "text"},
+            "Dressing Type": {"Type": "options", "Options": ["gauze", "foam", "hydrocolloid", "transparent film", "other"]},
+            "Application Frequency": {"Type": "options", "Options": ["daily", "everyHours", "everyDays", "onlyOnce"]},
+            "Deadline Date": {"Type": "datetime"},
+            "Application Technique": {"Type": "text"},
+            "Additional Tips": {"Type": "text"}
+        }
+    }
+}

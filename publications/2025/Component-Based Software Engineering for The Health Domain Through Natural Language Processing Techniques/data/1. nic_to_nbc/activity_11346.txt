@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+  "Father Engagement": {
+    "parameters": {
+      "1. Father's Information": {"type": "form", "fields": ["name", "contact information", "etc."]},
+      "2. Home Visitor Referral": {"type": "text", "description": "referral details, visitor information, etc."},
+      "3. Visitor Schedule": {"type": "datetime", "description": "schedule visit date and time"},
+      "4. Visit Purpose": {"type": "text", "description": "goals, objectives, etc."},
+      "5. Follow-up": {"type": "boolean", "description": "yes/no indicator for follow-up"}
+    }
+  },
+  "Fatherhood Guide": {
+    "parameters": {
+      "1. Pages": {"type": "book-page", "description": "list of HTML texts"},
+      "2. Topics": {"type": "options", "options": ["parenting tips", "father-child relationships", "etc."]}
+    }
+  }
+}

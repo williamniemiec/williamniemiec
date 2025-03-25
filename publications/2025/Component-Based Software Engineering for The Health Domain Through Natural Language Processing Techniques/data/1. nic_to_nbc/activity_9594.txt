@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Prayer Tracker": {
+    "Prayer/Ritual Name": {"type": "text"},
+    "Frequency": {"options": ["daily", "weekly", "monthly", "etc."]},
+    "Timing": {"type": "text or selection from a list"},
+    "Reminders": {"type": "boolean (true/false)"},
+    "Reflection": {"type": "text"}
+  },
+  "Meditation Guide": {
+    "Meditation/Prayer Title": {"type": "text"},
+    "Duration": {"type": "time (e.g., 5 minutes, 10 minutes)"},
+    "Frequency": {"options": ["daily", "weekly", "monthly", "etc."]},
+    "Timing": {"type": "text or selection from a list"},
+    "Reflection": {"type": "text"}
+  }
+}

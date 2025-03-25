@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+  "Check-in": {
+    "frequency": ["daily", "weekly", "monthly"],
+    "method": ["video call", "phone call", "messaging"]
+  },
+  "Symptom Reporting": {
+    "symptom_list": [],
+    "severity_scale": ["1-5 scale"],
+    "notes": ""
+  },
+  "Treatment Log": {
+    "log_type": ["medication", "exercise", "therapy"],
+    "log_frequency": ["daily", "weekly", "monthly"],
+    "notes": ""
+  },
+  "Video Consultation": {
+    "schedule": ["one-time", "recurring"],
+    "duration": ["15 minutes", "30 minutes"]
+  }
+}
+
+
+Note that I removed the non-applicable parameters and only kept the relevant ones. Let me know if this meets your requirements!

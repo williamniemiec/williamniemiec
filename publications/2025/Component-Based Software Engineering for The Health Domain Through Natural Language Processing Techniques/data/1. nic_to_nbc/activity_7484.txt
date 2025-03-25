@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Procedure Guidance": {
+    "name": {"type": "text"},
+    "description": {"type": "text"},
+    "solution_type": {"type": "options"},
+    "frequency": {"type": "options"},
+    "deadline_date": {"type": "datetime"},
+    "notes": {"type": "text"}
+  }
+}

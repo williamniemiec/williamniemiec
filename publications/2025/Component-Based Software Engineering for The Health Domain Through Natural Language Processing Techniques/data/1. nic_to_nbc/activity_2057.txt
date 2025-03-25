@@ -1,0 +1,15 @@
+
+
+
+{
+  "Goal Setting": {
+    "parameters": {
+      "Goal Type": {"options": ["short-term", "long-term"]},
+      "Goal Description": {"type": "text"},
+      "Current Fitness Level": {"type": "text or options"},
+      "Lifestyle Factors": {"type": "text or options"},
+      "Target Date": {"type": "datetime"},
+      "Action Plan": {"type": "text or list of tasks"}
+    }
+  }
+}

@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Goal Reminder": {
+    "Weekly Goal": {"type": "text"},
+    "Reminder Location": {"type": "options", "options": ["fridge", "bathroom mirror", "phone lock screen", "computer desktop", "other"]},
+    "Reminder Frequency": {"type": "options", "options": ["daily", "weekly", "biweekly", "monthly"]},
+    "Visual Cue": {"type": "image"},
+    "Motivational Message": {"type": "text"}
+  }
+}

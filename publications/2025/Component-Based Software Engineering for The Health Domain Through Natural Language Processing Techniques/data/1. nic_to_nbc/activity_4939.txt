@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Cardiac Function Education": {
+    "parameters": [
+      {
+        "name": "content",
+        "description": "Educational content about the importance of monitoring cardiac function",
+        "required": true,
+        "type": "html"
+      }
+    ]
+  }
+}

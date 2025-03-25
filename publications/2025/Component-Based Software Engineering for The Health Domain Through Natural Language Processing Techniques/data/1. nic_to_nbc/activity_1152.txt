@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+    "Saline Flush": {
+        "parameters": {
+            "name": {},
+            "catheter_type": {},
+            "instructions": {},
+            "frequency": {},
+            "deadline_date": {},
+            "volume": {},
+            "confirmation": {}
+        }
+    }
+}

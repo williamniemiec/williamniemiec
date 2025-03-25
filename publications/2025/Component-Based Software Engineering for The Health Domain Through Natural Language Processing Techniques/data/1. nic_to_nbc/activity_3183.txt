@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Info": {
+    "parameters": {
+      "title": "",
+      "content": "",
+      "key points": [],
+      "images": []
+    }
+  }
+}

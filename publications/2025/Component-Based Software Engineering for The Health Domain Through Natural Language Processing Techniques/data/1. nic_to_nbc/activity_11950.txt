@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+  "Airway Management Guide": {
+    "Parameters": {
+      "Airway Type": {
+        "Type": "options",
+        "Options": ["oropharyngeal airway", "bite block", "etc."]
+      },
+      "Airway Instructions": {
+        "Type": "text or video"
+      },
+      "Airway Scenarios": {
+        "Type": "text or images"
+      },
+      "Airway Reminders": {
+        "Type": "notification or alert"
+      }
+    }
+  }
+}

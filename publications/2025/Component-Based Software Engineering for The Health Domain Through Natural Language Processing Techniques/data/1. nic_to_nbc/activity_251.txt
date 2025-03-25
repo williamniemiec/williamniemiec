@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Homemaker Services Referral": {
+    "Service Type": {"type": "options"},
+    "Service Provider": {"type": "list of text or HTML content"},
+    "Service Schedule": {"type": "date and time picker"},
+    "Service Details": {"type": "text or HTML content"},
+    "Authorization": {"type": "boolean"}
+  }
+}
+
+
+Let me know if this meets your requirements!

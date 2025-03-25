@@ -1,0 +1,38 @@
+Here is the output in JSON format:
+
+
+{
+    "Symptom Checker": {
+        "Parameters": {
+            "Symptoms": {
+                "Type": "checklist",
+                "Options": [
+                    "Shortness of breath",
+                    "Swelling in legs, ankles, or feet",
+                    "Weight gain",
+                    "Fatigue",
+                    "Coughing or wheezing",
+                    "Chest pain or discomfort",
+                    "Other"
+                ]
+            },
+            "Frequency": {
+                "Type": "options",
+                "Options": [
+                    "Daily",
+                    "Every 12 hours",
+                    "Every 8 hours",
+                    "Only when symptoms occur"
+                ]
+            },
+            "Severity": {
+                "Type": "scale",
+                "Options": [
+                    "Mild",
+                    "Moderate",
+                    "Severe"
+                ]
+            }
+        }
+    }
+}

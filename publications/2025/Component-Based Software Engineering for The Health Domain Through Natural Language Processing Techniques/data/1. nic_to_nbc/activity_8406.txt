@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+"Task Delegation": {
+    "Parameters": {
+        "Task Options": {"Type": "list of text"},
+        "Fatigue Level": {"Type": "list of text or numerical values"},
+        "Delegate Options": {"Type": "list of text"},
+        "Task Assignment": {"Type": "boolean (e.g., yes/no)"},
+        "Tips": {"Type": "list of text or HTML content"}
+    }
+},
+"Question": {
+    "Parameters": {
+        "Name": {"Type": "text"},
+        "Answer Type": {"Type": "text or numerical value"}
+    }
+},
+"Task List": {
+    "Parameters": {
+        "Task Name": {"Type": "text"},
+        "Task Description": {"Type": "text"},
+        "Delegate": {"Type": "boolean (e.g., yes/no)"}
+    }
+}
+}

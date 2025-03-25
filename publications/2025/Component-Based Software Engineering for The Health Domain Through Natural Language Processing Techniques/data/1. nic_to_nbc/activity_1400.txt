@@ -1,0 +1,32 @@
+Here is the output in JSON format:
+
+
+{
+    "Complication Risk Assessment": {
+        "name": "Complication Risk Assessment",
+        "description": "Report on potential complications of the analgesia technique in relation to the device and medication(s) being used",
+        "device_complications": [
+            {"name": "infection", "description": "Risk of infection from the device", "type": "options", "options": [{"value": "high", "label": "High"}, {"value": "medium", "label": "Medium"}, {"value": "low", "label": "Low"}]},
+            {"name": "device_failure", "description": "Risk of device failure", "type": "options", "options": [{"value": "high", "label": "High"}, {"value": "medium", "label": "Medium"}, {"value": "low", "label": "Low"}]},
+            {"name": "other_device_complications", "description": "Other potential complications from the device", "type": "text"}
+        ],
+        "medication_complications": [
+            {"name": "allergic_reaction", "description": "Risk of allergic reaction to the medication", "type": "options", "options": [{"value": "high", "label": "High"}, {"value": "medium", "label": "Medium"}, {"value": "low", "label": "Low"}]},
+            {"name": "medication_interaction", "description": "Risk of medication interaction", "type": "options", "options": [{"value": "high", "label": "High"}, {"value": "medium", "label": "Medium"}, {"value": "low", "label": "Low"}]},
+            {"name": "other_medication_complications", "description": "Other potential complications from the medication", "type": "text"}
+        ]
+    },
+    "Survey": {
+        "name": "Complication Risk Survey",
+        "description": "Please answer the following questions about potential complications of the analgesia technique in relation to the device and medication(s) being used",
+        "questions": [
+            {"name": "device_infection", "description": "What is the risk of infection from the device?", "type": "options", "options": [{"value": "high", "label": "High"}, {"value": "medium", "label": "Medium"}, {"value": "low", "label": "Low"}]},
+            {"name": "device_failure", "description": "What is the risk of device failure?", "type": "options", "options": [{"value": "high", "label": "High"}, {"value": "medium", "label": "Medium"}, {"value": "low", "label": "Low"}]},
+            {"name": "medication_allergic_reaction", "description": "What is the risk of allergic reaction to the medication?", "type": "options", "options": [{"value": "high", "label": "High"}, {"value": "medium", "label": "Medium"}, {"value": "low", "label": "Low"}]},
+            {"name": "medication_interaction", "description": "What is the risk of medication interaction?", "type": "options", "options": [{"value": "high", "label": "High"}, {"value": "medium", "label": "Medium"}, {"value": "low", "label": "Low"}]},
+            {"name": "other_complications", "description": "Are there any other potential complications from the device or medication?", "type": "text"}
+        ],
+        "frequency": "specify how often the patient should complete this survey",
+        "deadline_date": "specify the due date for the patient to complete this survey"
+    }
+}

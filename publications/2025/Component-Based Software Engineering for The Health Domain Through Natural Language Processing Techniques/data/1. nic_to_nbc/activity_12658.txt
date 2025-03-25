@@ -1,0 +1,33 @@
+Here is the output in JSON format:
+
+
+{
+  "Dairy Introduction Guide": {
+    "Importance of Dairy": {
+      "Type": "text",
+      "Example": "Dairy products are a rich source of calcium, protein, and other essential nutrients for children's growth and development."
+    },
+    "Choosing Dairy Products": {
+      "Type": "list of options",
+      "Example": ["Whole milk", "Low-fat milk", "Yogurt", "Cheese"]
+    },
+    "Introducing Dairy": {
+      "Type": "list of steps",
+      "Example": ["Start with a small amount (1-2 teaspoons) of dairy product", "Mix with other foods or breast milk/formula", "Gradually increase the amount over time"]
+    },
+    "Common Allergies and Intolerances": {
+      "Type": "list of allergies and intolerances",
+      "Example": ["Lactose intolerance", "Milk protein allergy", "Casein allergy"]
+    },
+    "Resources": {
+      "Type": "list of resources",
+      "Example": ["Dairy introduction: A guide for parents", "Tips for introducing dairy products", "Support hotline for parents"]
+    },
+    "Tracking": {
+      "Type": "tracking feature",
+      "Example": "A chart or checklist to track the child's dairy intake, with reminders to introduce new dairy products over time."
+    }
+  }
+}
+
+Let me know if you need anything else!

@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+    "Manual Pressure": {
+        "Bleeding Point": {"Description": "Location of the bleeding point or potential bleeding zone", "Required": true, "Type": "text"},
+        "Pressure Technique": {"Description": "Technique for applying manual pressure (e.g. direct pressure, pressure points)", "Required": true, "Type": "options", "Options": [{"value": "directPressure", "label": "Direct Pressure"}, {"value": "pressurePoints", "label": "Pressure Points"}, {"value": "other", "label": "Other (please specify)"}]},
+        "Pressure Duration": {"Description": "How long to apply manual pressure", "Required": true, "Type": "options", "Options": [{"value": "5minutes", "label": "5 minutes"}, {"value": "10minutes", "label": "10 minutes"}, {"value": "15minutes", "label": "15 minutes"}, {"value": "other", "label": "Other (please specify)"}]},
+        "Frequency": {"Description": "How often to apply manual pressure", "Required": true, "Type": "options", "Options": [{"value": "asNeeded", "label": "As needed"}, {"value": "everyHour", "label": "Every hour"}, {"value": "every2Hours", "label": "Every 2 hours"}, {"value": "every3Hours", "label": "Every 3 hours"}]}
+    }
+}

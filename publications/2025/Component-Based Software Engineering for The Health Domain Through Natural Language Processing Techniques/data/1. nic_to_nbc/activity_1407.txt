@@ -1,0 +1,34 @@
+Here is the output in JSON format:
+
+
+{
+  "Support Group Directory": {
+    "parameters": {
+      "name": "",
+      "groups": "",
+      "filters": ""
+    }
+  },
+  "Group Finder": {
+    "parameters": {
+      "name": "",
+      "search": "",
+      "results": ""
+    }
+  },
+  "Meeting Reminders": {
+    "parameters": {
+      "name": "",
+      "reminders": "",
+      "notification": ""
+    }
+  },
+  "Community Forum": {
+    "parameters": {
+      "name": "",
+      "posts": "",
+      "replies": "",
+      "categories": ""
+    }
+  }
+}

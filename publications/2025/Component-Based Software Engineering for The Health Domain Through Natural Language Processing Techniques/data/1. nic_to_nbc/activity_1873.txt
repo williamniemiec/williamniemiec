@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Financial Assessment Guide": {
+    "Parameters": {
+      "Title": {"Type": "text"},
+      "Content": {"Type": "text or HTML"},
+      "Financial Resources": {"Type": "list of text or options", "Optional": true}
+    }
+  }
+}

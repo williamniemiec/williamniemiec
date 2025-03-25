@@ -1,0 +1,37 @@
+Here is the output in JSON format:
+
+
+{
+  "Name": "Education",
+  "Parameters": {
+    "Title": { 
+      "Description": "title of the educational content", 
+      "Required": true, 
+      "Type": "text" 
+    },
+    "Content": { 
+      "Description": "article discussing the importance of adequate nutritional intake...", 
+      "Required": true, 
+      "Type": "article" 
+    },
+    "Recommendations": { 
+      "Description": "list of high-protein, high vitamin C-containing foods recommended for the patient", 
+      "Required": true, 
+      "Type": "list" 
+    },
+    "Frequency": { 
+      "Description": "specify how often the patient should be reminded to focus on adequate nutritional intake", 
+      "Required": true, 
+      "Type": "options", 
+      "Options": [
+        { "value": "daily", "label": "Daily" },
+        { "value": "onlyOnce", "label": "Only once" },
+        { "value": "everyHours", "label": "Every x hours" },
+        { "value": "everyDays", "label": "Every x days" }
+      ]
+    }
+  }
+}
+
+
+I removed the not applicable parameters and kept only the `Name` and `Parameters` that were specified in the input format.

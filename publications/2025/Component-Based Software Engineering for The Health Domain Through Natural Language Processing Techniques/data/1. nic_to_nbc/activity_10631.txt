@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Newborn Positioning": {
+    "parameters": [
+      {"Position": {"type": "options"}},
+      {"Support": {"type": "boolean"}},
+      {"Swaddling": {"type": "boolean"}}
+    ]
+  }
+}

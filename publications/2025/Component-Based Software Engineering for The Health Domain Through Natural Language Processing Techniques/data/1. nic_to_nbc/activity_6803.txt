@@ -1,0 +1,16 @@
+
+
+
+{
+  "Test Appointment Instructions": {
+    "Parameters": {
+      "Test Details": {"Type": "text"},
+      "Test Location Information": {"Type": "text"},
+      "Test Results Reporting": {"Type": "text"},
+      "What to Expect": {"Type": "text"},
+      "Frequently Asked Questions": {"Type": "unordered list"},
+      "Downloadable Resources": {"Type": "link or downloadable file"},
+      "Video Instructions": {"Type": "video"}
+    }
+  }
+}

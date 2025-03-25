@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Referral Coordinator": {
+    "referral coordinator title": {"Type": "text", "Required": true},
+    "Providers": {"Type": "list of provider objects", "Required": true},
+    "Referral Reasons": {"Type": "list of reasons", "Required": false},
+    "Referral Status": {"Type": "text or dropdown", "Required": false},
+    "Referral Instructions": {"Type": "text", "Required": false}
+  }
+}
+
+
+Let me know if this is what you were expecting!

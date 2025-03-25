@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "noCodeElementName": "Lab Result Tracker",
+  "parameterSpecifications": {
+    "Lab Test": {"type": "options"},
+    "Result": {"type": "number"},
+    "Reference Range": {"type": "text"},
+    "Date": {"type": "date"},
+    "Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"type": "datetime"}
+  }
+}
+
+
+I removed the introduction, conclusion, and non-parameter specifications from the input text. I also reformatted the parameter specifications into a JSON object with key-value pairs, where each value is another object containing the type of the parameter.

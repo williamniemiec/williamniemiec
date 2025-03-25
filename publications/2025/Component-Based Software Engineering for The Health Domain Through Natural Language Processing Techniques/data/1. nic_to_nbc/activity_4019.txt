@@ -1,0 +1,36 @@
+Here is the output in JSON format:
+
+
+{
+  "Therapeutic Communication": {
+    "Parameters": {
+      "Communication Type": {
+        "Type": "options",
+        "Options": [
+          {"value": "activeListening", "label": "Active Listening"},
+          {"value": "empathy", "label": "Empathy"},
+          {"value": "validation", "label": "Validation"}
+        ]
+      },
+      "Message": {
+        "Type": "text"
+      },
+      "Tone": {
+        "Type": "options",
+        "Options": [
+          {"value": "compassionate", "label": "Compassionate"},
+          {"value": "nonJudgmental", "label": "Non-Judgmental"},
+          {"value": "supportive", "label": "Supportive"}
+        ]
+      },
+      "Frequency": {
+        "Type": "options",
+        "Options": [
+          {"value": "daily", "label": "Daily"},
+          {"value": "weekly", "label": "Weekly"},
+          {"value": "monthly", "label": "Monthly"}
+        ]
+      }
+    }
+  }
+}

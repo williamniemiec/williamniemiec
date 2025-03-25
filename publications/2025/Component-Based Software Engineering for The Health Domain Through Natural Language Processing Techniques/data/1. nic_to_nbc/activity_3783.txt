@@ -1,0 +1,59 @@
+Here is the output in JSON format:
+
+
+{
+  "Symptom Checker": {
+    "parameters": [
+      {
+        "name": "symptoms",
+        "description": "Select any symptoms you are experiencing",
+        "required": true,
+        "type": "multiselect",
+        "options": [
+          { "value": "symptomatic_hypotension", "label": "Symptomatic hypotension" },
+          { "value": "cool_extremities", "label": "Cool extremities (arms and legs)" },
+          { "value": "mental_obtundation", "label": "Mental obtundation or constant sleepiness" },
+          { "value": "elevated_creatinine", "label": "Elevation in serum levels of creatinine" },
+          { "value": "elevated_BUN", "label": "Elevation in serum levels of BUN" },
+          { "value": "hyponatremia", "label": "Hyponatremia" },
+          { "value": "narrow_pulse_pressure", "label": "Narrow pulse pressure" },
+          { "value": "proportional_pulse_pressure", "label": "Proportional pulse pressure of 25% or less" }
+        ]
+      }
+    ]
+  },
+  "Vital Sign Tracker": {
+    "parameters": [
+      {
+        "name": "blood_pressure",
+        "description": "Enter your blood pressure",
+        "required": true,
+        "type": "number"
+      },
+      {
+        "name": "pulse_pressure",
+        "description": "Enter your pulse pressure",
+        "required": true,
+        "type": "number"
+      },
+      {
+        "name": "serum_creatinine",
+        "description": "Enter your serum creatinine level",
+        "required": true,
+        "type": "number"
+      },
+      {
+        "name": "serum_BUN",
+        "description": "Enter your serum BUN level",
+        "required": true,
+        "type": "number"
+      },
+      {
+        "name": "sodium_level",
+        "description": "Enter your sodium level",
+        "required": true,
+        "type": "number"
+      }
+    ]
+  }
+}

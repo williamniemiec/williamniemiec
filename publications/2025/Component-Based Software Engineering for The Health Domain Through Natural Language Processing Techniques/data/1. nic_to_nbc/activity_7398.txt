@@ -1,0 +1,90 @@
+Here is the output in JSON format:
+
+
+[
+  {
+    "name": "Medication Tracker",
+    "parameters": {
+      "name": "Medication Tracker",
+      "description": "Track your medication usage and any effects",
+      "medication_name": "text field for patient to enter medication name",
+      "dosage": "text field for patient to enter dosage",
+      "frequency": "text field for patient to enter frequency of medication",
+      "effects": [
+        {
+          "name": "pain_relief",
+          "description": "Did you experience pain relief from the medication?",
+          "type": "options",
+          "options": [
+            { "value": "yes", "label": "Yes" },
+            { "value": "no", "label": "No" },
+            { "value": "partial", "label": "Partial" }
+          ]
+        },
+        {
+          "name": "side_effects",
+          "description": "Did you experience any side effects from the medication?",
+          "type": "options",
+          "options": [
+            { "value": "yes", "label": "Yes" },
+            { "value": "no", "label": "No" }
+          ]
+        },
+        {
+          "name": "adverse_reactions",
+          "description": "Did you experience any adverse reactions from the medication?",
+          "type": "options",
+          "options": [
+            { "value": "yes", "label": "Yes" },
+            { "value": "no", "label": "No" }
+          ]
+        }
+      ],
+      "additional_notes": "optional text field for patient to provide additional details about their experience"
+    }
+  },
+  {
+    "name": "Survey",
+    "parameters": {
+      "name": "Medication Effects Survey",
+      "description": "Please answer the following questions about your medication usage and effects",
+      "questions": [
+        {
+          "name": "pain_relief",
+          "description": "Did you experience pain relief from the medication?",
+          "type": "options",
+          "options": [
+            { "value": "yes", "label": "Yes" },
+            { "value": "no", "label": "No" },
+            { "value": "partial", "label": "Partial" }
+          ]
+        },
+        {
+          "name": "side_effects",
+          "description": "Did you experience any side effects from the medication?",
+          "type": "options",
+          "options": [
+            { "value": "yes", "label": "Yes" },
+            { "value": "no", "label": "No" }
+          ]
+        },
+        {
+          "name": "adverse_reactions",
+          "description": "Did you experience any adverse reactions from the medication?",
+          "type": "options",
+          "options": [
+            { "value": "yes", "label": "Yes" },
+            { "value": "no", "label": "No" }
+          ]
+        },
+        {
+          "name": "additional_notes",
+          "description": "Any additional notes or comments about your experience",
+          "type": "text"
+        }
+      ],
+      "frequency": "specify how often the patient should complete this survey",
+      "deadline_date": "specify the due date for the patient to complete this survey"
+    }
+  }
+]

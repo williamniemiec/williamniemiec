@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Warming Measure": {
+    "Type": {"type": "options", "description": "e.g., warm blankets, convection blanket"},
+    "Frequency": {"type": "options", "description": "e.g., as needed, every hour, every 2 hours"},
+    "Duration": {"type": "datetime range", "description": "e.g., start date and time, end date and time"},
+    "Reason": {"type": "text", "description": "e.g., hypothermia, discomfort"}
+  }
+}

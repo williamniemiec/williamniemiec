@@ -1,0 +1,7 @@
+Here is the output in JSON format:
+
+
+{
+  "PARAMETER ESPECIFICATIONS": ["serum albumin", "total protein", "electrolyte", "lipid profiles", "glucose levels", "chemistry profile"],
+  "NO-CODE ELEMENT NAME": null
+}

@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Art Description": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Artwork": {"Type": "image or canvas"},
+      "Description": {"Type": "text or audio"},
+      "Emotions": {"Type": "checklist or text"},
+      "Frequency": {"Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"Type": "datetime"}
+    }
+  }
+}

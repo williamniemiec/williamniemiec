@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+  "Outcome Reframer": {
+    "Goal": {
+      "type": "text"
+    },
+    "Desired Outcomes": {
+      "type": "list",
+      "itemProperties": ["outcome description", "importance level"]
+    },
+    "Expected Outcomes": {
+      "type": "list",
+      "itemProperties": ["outcome description", "probability", "impact"]
+    },
+    "Reframing Questions": {
+      "type": "list",
+      "itemProperties": ["question text", "answer type"]
+    },
+    "Reframed Outcomes": {
+      "type": "list",
+      "itemProperties": ["outcome description", "expected probability"]
+    }
+  }
+}

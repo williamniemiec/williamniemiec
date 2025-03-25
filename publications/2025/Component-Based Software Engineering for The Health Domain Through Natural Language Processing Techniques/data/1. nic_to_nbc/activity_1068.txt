@@ -1,0 +1,54 @@
+Here is the output in JSON format:
+
+
+{
+  "Medical History and Allergy Tracker": {
+    "parameters": {
+      "name": "Note patient's medical history and history of allergies",
+      "content": "Track your medical history and allergies",
+      "type": "medical history and allergy tracker",
+      "medical_history": [
+        { 
+          "name": "Medical History", 
+          "description": "Enter your medical history", 
+          "type": "text"
+        }
+      ],
+      "allergies": [
+        { 
+          "name": "Allergies", 
+          "description": "Enter your allergies", 
+          "type": "text"
+        }
+      ],
+      "medications": [
+        { 
+          "name": "Medications", 
+          "description": "Enter your current medications", 
+          "type": "text"
+        }
+      ],
+      "conditions": [
+        { 
+          "name": "Conditions", 
+          "description": "Enter your medical conditions", 
+          "type": "text"
+        }
+      ],
+      "surgeries": [
+        { 
+          "name": "Surgeries", 
+          "description": "Enter your surgical history", 
+          "type": "text"
+        }
+      ],
+      "save": [
+        { 
+          "name": "Save", 
+          "description": "Save your medical history and allergy information", 
+          "type": "button"
+        }
+      ]
+    }
+  }
+}

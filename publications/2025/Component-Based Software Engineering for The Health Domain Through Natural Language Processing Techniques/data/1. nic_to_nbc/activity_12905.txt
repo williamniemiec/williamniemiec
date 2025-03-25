@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Caregiver Resource Assessment": {
+    "Parameters": {
+      "Title": {"Type": "text"},
+      "Physical Resource Questions": {"Type": "list of physical resource questions"},
+      "Emotional Resource Questions": {"Type": "list of emotional resource questions"},
+      "Educational Resource Questions": {"Type": "list of educational resource questions"},
+      "Resource Levels": {"Type": "list of resource levels"},
+      "Caregiver Profile": {"Type": "caregiver profile object"}
+    }
+  }
+}

@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+  "Sensory Reduction": {
+    "Stimulus Identification": {
+      "Description": "Identify the source of excessive sensory stimuli (e.g. TV, intercom announcements, bright lights)",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "tv", "label": "Television" },
+        { "value": "intercom", "label": "Intercom Announcements" },
+        { "value": "lights", "label": "Bright Lights" },
+        { "value": "other", "label": "Other" }
+      ]
+    },
+    "Action": {
+      "Description": "Specify the action to take to reduce or remove the stimulus (e.g. turn off TV, adjust lighting)",
+      "Required": true,
+      "Type": "text"
+    },
+    "Rationale": {
+      "Description": "Provide a brief explanation for why reducing the stimulus is important for the patient's comfort and well-being",
+      "Required": false,
+      "Type": "text"
+    }
+  }
+}

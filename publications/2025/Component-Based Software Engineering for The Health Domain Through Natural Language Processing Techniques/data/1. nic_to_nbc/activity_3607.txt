@@ -1,0 +1,33 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Self-Criticism Reflection",
+    "parameters": [
+        {
+            "name": "self_criticisms",
+            "type": "list of text"
+        },
+        {
+            "name": "reasons",
+            "type": "list of text"
+        },
+        {
+            "name": "emotions",
+            "type": "list of text"
+        },
+        {
+            "name": "alternative_perspectives",
+            "type": "list of text"
+        },
+        {
+            "name": "frequency",
+            "type": "options",
+            "options": [
+                { value: "daily" },
+                { value: "weekly" },
+                { value: "monthly" }
+            ]
+        }
+    ]
+}

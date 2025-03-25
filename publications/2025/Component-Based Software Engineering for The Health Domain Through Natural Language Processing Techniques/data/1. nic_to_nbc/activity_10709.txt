@@ -1,0 +1,37 @@
+Here is the output in JSON format:
+
+
+[
+    {
+        "name": "IV Therapy",
+        "parameters": {
+            "name": "",
+            "description": "",
+            "frequency": "",
+            "deadline_date": "",
+            "medication": []
+        }
+    },
+    {
+        "name": "Fluid Resuscitation",
+        "parameters": {
+            "name": "",
+            "description": "",
+            "frequency": "",
+            "deadline_date": "",
+            "fluid_type": "",
+            "amount": ""
+        }
+    },
+    {
+        "name": "Medication Administration",
+        "parameters": {
+            "name": "",
+            "description": "",
+            "frequency": "",
+            "deadline_date": "",
+            "medication": [],
+            "dosage": []
+        }
+    }
+]

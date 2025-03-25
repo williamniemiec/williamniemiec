@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Head Circumference Measurement": {
+    "parameters": [
+      {"name": "Name", "type": "text"},
+      {"name": "Frequency", "type": "options"},
+      {"name": "Deadline Date", "type": "datetime"},
+      {"name": "Measurement Value", "type": "number"},
+      {"name": "Notes", "type": "text"}
+    ]
+  }
+}

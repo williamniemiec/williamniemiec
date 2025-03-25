@@ -1,0 +1,9 @@
+Here is the output in JSON format:
+
+
+{
+    "Motivation": {
+        "Content": {"Type": ["text", "multimedia"]},
+        "Frequency": {"Type": "options", "Options": ["daily", "weekly", "monthly", "as needed"]}
+    }
+}

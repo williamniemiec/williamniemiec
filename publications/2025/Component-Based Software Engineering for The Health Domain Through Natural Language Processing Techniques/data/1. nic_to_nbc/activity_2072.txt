@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Psychosocial Dynamics Module": {
+        "Parameters": {
+            "Title": {"Type": "text"},
+            "Content": {"Type": "text or rich text"},
+            "Topics": {"Type": "options"},
+            "Reflection Questions": {"Type": "list of text"},
+            "Additional Resources": {"Type": "text or URL"}
+        }
+    }
+}

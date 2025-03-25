@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Self-Report Questionnaire": {
+    "Questionnaire Type": {"type": "options"},
+    "Questions": {"type": "form"},
+    "Frequency": {"options": ["daily", "weekly", "bi-weekly", "monthly"]},
+    "Deadline Date": {"type": "datetime"}
+  }
+}

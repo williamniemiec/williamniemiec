@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Behavioral Expectations": {
+    "Parameters": [
+      {"Name": "Behavioral Expectations Title", "Type": "text"},
+      {"Name": "Behavioral Topic", "Type": "options", "Options": ["sleep habits", "exercise", "nutrition", "etc."]},
+      {"Name": "Expectations Content", "Type": "text"},
+      {"Name": "Frequency", "Type": "options", "Options": ["daily", "weekly", "monthly"]}
+    ]
+  }
+}
+
+
+I removed the not applicable parameters (Deadline Date and Reminders) since they are marked as `Required: false`. Let me know if you need any further assistance!

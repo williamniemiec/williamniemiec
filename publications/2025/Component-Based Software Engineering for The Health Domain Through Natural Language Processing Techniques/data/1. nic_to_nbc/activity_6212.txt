@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Mood Tracker": {
+    "Parameters": {
+      "Mood": {
+        "Type": "checklist"
+      },
+      "Intensity": {
+        "Type": "options"
+      },
+      "Frequency": {
+        "Type": "options"
+      },
+      "Notes": {
+        "Type": "text"
+      }
+    }
+  }
+}

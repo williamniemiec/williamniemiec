@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Quality of Life Assessment": {
+    "Sleep": {"description": "How has the ulcer affected your sleep?", "type": "options", "options": [{"value": "notAffected", "label": "Not affected"}, {"value": "mildlyAffected", "label": "Mildly affected"}, {"value": "moderatelyAffected", "label": "Moderately affected"}, {"value": "severelyAffected", "label": "Severely affected"}]},
+    "Appetite": {"description": "How has the ulcer affected your appetite?", "type": "options", "options": [{"value": "notAffected", "label": "Not affected"}, {"value": "mildlyAffected", "label": "Mildly affected"}, {"value": "moderatelyAffected", "label": "Moderately affected"}, {"value": "severelyAffected", "label": "Severely affected"}]},
+    "Activity": {"description": "How has the ulcer affected your daily activities?", "type": "options", "options": [{"value": "notAffected", "label": "Not affected"}, {"value": "mildlyAffected", "label": "Mildly affected"}, {"value": "moderatelyAffected", "label": "Moderately affected"}, {"value": "severelyAffected", "label": "Severely affected"}]},
+    "Humor": {"description": "How has the ulcer affected your mood and humor?", "type": "options", "options": [{"value": "notAffected", "label": "Not affected"}, {"value": "mildlyAffected", "label": "Mildly affected"}, {"value": "moderatelyAffected", "label": "Moderately affected"}, {"value": "severelyAffected", "label": "Severely affected"}]},
+    "Relationships": {"description": "How has the ulcer affected your relationships with family and friends?", "type": "options", "options": [{"value": "notAffected", "label": "Not affected"}, {"value": "mildlyAffected", "label": "Mildly affected"}, {"value": "moderatelyAffected", "label": "Moderately affected"}, {"value": "severelyAffected", "label": "Severely affected"}]}
+  }
+}

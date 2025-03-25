@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Activity Restriction and Progression Instruction": {
+    "parameters": [
+      {"name": "Activity Restrictions", "type": "text"},
+      {"name": "Progression Plan", "type": "text"},
+      {"name": "Education Materials", "type": "text"},
+      {"name": "Follow-up Instructions", "type": "text"}
+    ]
+  }
+}

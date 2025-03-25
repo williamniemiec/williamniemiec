@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Education Module": {
+    "Title": "Hard Contact Risks",
+    "Content": "A series of educational modules or pages that provide information about the increased risks of hard contacts, including corneal edema and corneal abrasions",
+    "Images/Videos": "Include images or videos to illustrate the risks and consequences of hard contacts",
+    "Quiz": "Optional, to test the patient's understanding of the risks associated with hard contacts",
+    "Frequency": "Specify how often the patient should review the education module, e.g., at the initial consultation or at regular intervals"
+  },
+  "Risk Assessment": {
+    "Questions": "A series of questions that assess the patient's understanding of the risks associated with hard contacts, including corneal edema and corneal abrasions",
+    "Answer type": "Multiple choice, true/false, or open-ended text",
+    "Scoring": "Optional, to determine the patient's level of understanding",
+    "Frequency": "Specify how often the patient should complete the risk assessment, e.g., at the initial consultation or at regular intervals"
+  }
+}

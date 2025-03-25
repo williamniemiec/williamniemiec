@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Diagnostic Test Evaluator": {
+    "Parameters": {
+      "Test Name Field": {"Type": "text"},
+      "Clinical Question Field": {"Type": "text"},
+      "Sensitivity Field": {"Type": "numerical value"},
+      "Specificity Field": {"Type": "numerical value"},
+      "Positive Predictive Value (PPV) Field": {"Type": "numerical value"},
+      "Negative Predictive Value (NPV) Field": {"Type": "numerical value"},
+      "Interpretation Field": {"Type": "text"}
+    }
+  }
+}

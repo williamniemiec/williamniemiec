@@ -1,0 +1,10 @@
+Here is the output in JSON format:
+
+
+{
+    "Name": "Instruction",
+    "Parameters": {
+        "Title": {"Type": "text", "Required": true},
+        "Content": {"Type": ["article", "video"], "Required": true}
+    }
+}

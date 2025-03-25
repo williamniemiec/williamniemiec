@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "perspective",
+    "parameters": [
+        { 
+            "name": "Name", 
+            "type": "text"
+        },
+        { 
+            "name": "Content", 
+            "type": "html"
+        },
+        { 
+            "name": "Reflection Question", 
+            "type": "text"
+        },
+        { 
+            "name": "Activity", 
+            "type": "text"
+        }
+    ]
+}

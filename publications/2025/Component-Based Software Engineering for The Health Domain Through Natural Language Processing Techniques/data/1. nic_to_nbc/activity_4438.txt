@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Suction Connection": {
+    "Parameters": {
+      "Name": {},
+      "Indications": {},
+      "Connection Instructions": {},
+      "Suction Settings": {},
+      "Monitoring": {}
+    }
+  }
+}
+
+
+I removed the "Alerts and Notifications" parameter as it was a boolean type, which is not applicable in this context. Let me know if you have any further questions!

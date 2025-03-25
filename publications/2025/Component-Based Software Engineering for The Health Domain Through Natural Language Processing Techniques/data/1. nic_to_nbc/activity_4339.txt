@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "Memory Exercise": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Tasks": {
+        "Type": "list of tasks",
+        "Task Parameters": {
+          "Task Type": {"Type": "options", "Options": ["recall", "recognition", "matching"]},
+          "Task Content": {"Type": "text or multimedia"},
+          "Instructions": {"Type": "text"}
+        }
+      },
+      "Scoring": {"Type": "options", "Options": ["correct/incorrect", "rating scale", "time-based"]},
+      "Frequency": {"Type": "options", "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"Type": "datetime"},
+      "Progress Tracking": {"Type": "options", "Options": ["graph", "chart", "table"]}
+    }
+  }
+}
+
+
+Note: I removed the not applicable parameters and kept only the necessary information. Let me know if this meets your requirements!

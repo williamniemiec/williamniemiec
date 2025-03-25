@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Injury Prevention Strategies",
+  "parameters": [
+    {
+      "name": "Developmental Stage"
+    },
+    {
+      "name": "Curiosity Level"
+    },
+    {
+      "name": "Injury Prevention Strategies"
+    }
+  ]
+}

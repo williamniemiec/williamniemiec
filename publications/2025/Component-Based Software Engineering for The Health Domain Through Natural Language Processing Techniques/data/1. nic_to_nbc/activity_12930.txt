@@ -1,0 +1,35 @@
+Here is the output in JSON format:
+
+
+{
+  "Attachment Risk Assessment": {
+    "Risk Factors": [
+      {
+        "Risk Factor Name": "",
+        "Questions": [
+          {
+            "Question Text": "",
+            "Answer Type": "",
+            "Options": [
+              {
+                "Label": "",
+                "Value": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Scoring": {
+      "Scoring Method": "",
+      "Scoring Scale": []
+    },
+    "Results": {
+      "Summary": "",
+      "Recommendations": []
+    }
+  }
+}
+
+
+Note that I removed the "Content Type" parameter as it was not applicable to the no-code element. Also, I didn't include the "Description" and other non-parameter elements in the output.

@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+    "Bleeding Tracker": {
+        "parameters": {
+            "name": {"type": "text"},
+            "types_of_bleeding": {"type": "unordered list"},
+            "frequency": {"type": "options"},
+            "severity": {"type": "options"},
+            "notes": {"type": "text"},
+            "reporting": {"type": "boolean"}
+        }
+    },
+    "Hospitalization Guide": {
+        "parameters": {
+            "name": {"type": "text"},
+            "what_to_expect": {"type": "text"},
+            "bleeding_instructions": {"type": "text or video"},
+            "frequently_asked_questions": {"type": "FAQ list"}
+        }
+    }
+}

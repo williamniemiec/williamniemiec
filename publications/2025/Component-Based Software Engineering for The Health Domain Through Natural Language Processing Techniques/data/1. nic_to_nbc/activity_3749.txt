@@ -1,0 +1,55 @@
+Here is the output in JSON format:
+
+
+{
+  "Response Monitoring": {
+    "parameters": {
+      "Response Type": {
+        "type": "options",
+        "options": [
+          {"value": "emotional", "label": "Emotional"},
+          {"value": "physical", "label": "Physical"},
+          {"value": "social", "label": "Social"},
+          {"value": "spiritual", "label": "Spiritual"},
+          {"value": "other", "label": "Other"}
+        ]
+      },
+      "Activity": {
+        "type": "text"
+      },
+      "Monitoring Frequency": {
+        "type": "options",
+        "options": [
+          {"value": "daily", "label": "Daily"},
+          {"value": "weekly", "label": "Weekly"},
+          {"value": "monthly", "label": "Monthly"}
+        ]
+      },
+      "Monitoring Method": {
+        "type": "options",
+        "options": [
+          {"value": "selfReport", "label": "Self-Report"},
+          {"value": "observation", "label": "Observation"},
+          {"value": "other", "label": "Other"}
+        ]
+      },
+      "Response Scale": {
+        "type": "options",
+        "options": [
+          {"value": "likertScale", "label": "Likert Scale"},
+          {"value": "visualAnalogScale", "label": "Visual Analog Scale"},
+          {"value": "other", "label": "Other"}
+        ]
+      },
+      "Deadline Date": {
+        "type": "datetime"
+      },
+      "Resources": {
+        "type": "file or URL"
+      },
+      "Instructions": {
+        "type": "text or video"
+      }
+    }
+  }
+}

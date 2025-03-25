@@ -1,0 +1,38 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Communication Techniques",
+    "parameters": [
+        {
+            "name": "Active Listening",
+            "type": "boolean"
+        },
+        {
+            "name": "Questioning",
+            "type": "text"
+        },
+        {
+            "name": "Paraphrasing",
+            "type": "text"
+        },
+        {
+            "name": "Reflecting",
+            "type": "text"
+        },
+        {
+            "name": "Nonverbal Cues",
+            "type": "boolean"
+        },
+        {
+            "name": "Frequency",
+            "type": "options",
+            "options": [
+                { value: "daily", label: "Daily" },
+                { value: "onlyOnce", label: "Only Once" },
+                { value: "everyHours", label: "Every x Hours" },
+                { value: "everyDays", label: "Every x Days" }
+            ]
+        }
+    ]
+}

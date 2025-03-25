@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Relaxation Guidance": {
+    "Parameters": {
+      "Position Options": {"Type": "list of options"},
+      "Safety Precautions": {"Type": "list of text"},
+      "Relaxation Tips": {"Type": "text"},
+      "Image or Video": {"Type": "URL or base64 encoded image/video"}
+    }
+  }
+}

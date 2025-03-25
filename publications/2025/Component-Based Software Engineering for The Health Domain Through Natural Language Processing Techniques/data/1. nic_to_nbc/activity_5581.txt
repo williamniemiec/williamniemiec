@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Private Conversation Environment": {
+    "Parameters": {
+      "Conversation Type": {"Type": "text"},
+      "Environment Settings": {"Options": ["quietRoom", "privateMessaging", "videoConference", "other"]},
+      "Participant List": {"Type": "list of text"},
+      "Conversation Schedule": {"Type": "datetime"},
+      "Privacy Features": {"Options": ["encryption", "secureMessaging", "other"]}
+    }
+  }
+}

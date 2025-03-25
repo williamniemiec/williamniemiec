@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+    "Alternative Courses of Action": {
+        "Crisis Description": {"type": "text"},
+        "Goal Setting": {"type": "text"},
+        "Alternative Options": {"type": "list of text"},
+        "Pros and Cons Analysis": {"type": "table (alternative option, pros, cons)"},
+        "Decision Support": {"type": "list of multimedia resources"},
+        "Reflection Prompts": {"type": "list of text"},
+        "Frequency": {"type": "options"},
+        "Deadline Date": {"type": "datetime"}
+    }
+}

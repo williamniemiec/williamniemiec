@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Eye Shield Application": {
+    "Task Title": {"Type": "text", "Description": "Apply Eye Shield"},
+    "Task Steps": {"Type": "text", "Description": "Step 1: Clean and dry the area around your eye. Step 2: Place the eye shield over your eye, ensuring a secure fit."},
+    "Frequency": {"Type": "options", "Options": ["daily", "weekly", "bi-weekly", "monthly"], "Description": "How often should you apply the eye shield?"},
+    "Reason": {"Type": "text", "Description": "To protect your eye from injury or irritation"}
+  },
+  "Eye Shield Guide": {
+    "Page Title": {"Type": "text", "Description": "Eye Shield Application Guide"},
+    "Page Content": {"Type": "text", "Description": "Applying an eye shield can help protect your eye from injury or irritation. Follow these steps to ensure proper application."},
+    "Image": {"Type": "image", "Description": "An image illustrating the proper application of an eye shield"}
+  }
+}

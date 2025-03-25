@@ -1,0 +1,62 @@
+Here is the output in JSON format:
+
+
+{
+  "Urinary Elimination Monitoring": {
+    "Frequency": {
+      "Description": "How often do you urinate?",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "lessThan1hour", "label": "Less than 1 hour" },
+        { "value": "1-2hours", "label": "1-2 hours" },
+        { "value": "2-3hours", "label": "2-3 hours" },
+        { "value": "moreThan3hours", "label": "More than 3 hours" }
+      ]
+    },
+    "Consistency": {
+      "Description": "What is the consistency of your urine?",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "thin", "label": "Thin" },
+        { "value": "normal", "label": "Normal" },
+        { "value": "thick", "label": "Thick" }
+      ]
+    },
+    "Odor": {
+      "Description": "What is the odor of your urine?",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "none", "label": "None" },
+        { "value": "mild", "label": "Mild" },
+        { "value": "strong", "label": "Strong" },
+        { "value": "foul", "label": "Foul" }
+      ]
+    },
+    "Volume": {
+      "Description": "How much urine do you produce?",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "lessThan100ml", "label": "Less than 100ml" },
+        { "value": "100-200ml", "label": "100-200ml" },
+        { "value": "200-300ml", "label": "200-300ml" },
+        { "value": "moreThan300ml", "label": "More than 300ml" }
+      ]
+    },
+    "Color": {
+      "Description": "What is the color of your urine?",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "clear", "label": "Clear" },
+        { "value": "yellow", "label": "Yellow" },
+        { "value": "amber", "label": "Amber" },
+        { "value": "darkYellow", "label": "Dark Yellow" },
+        { "value": "brown", "label": "Brown" }
+      ]
+    }
+  }
+}

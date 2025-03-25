@@ -1,0 +1,30 @@
+Here is the output in JSON format:
+
+
+{
+  "Aging Education Module": {
+    "parameters": {
+      "Aging Stage List": {
+        "type": "list of text",
+        "example": ["Young Adulthood", "Middle Age", "Older Adulthood", "Elderly"]
+      },
+      "Change List": {
+        "type": "list of text",
+        "example": ["Physical changes: wrinkles, graying hair", "Cognitive changes: memory loss", "Emotional changes: anxiety, depression", "Body image changes: weight gain, loss of muscle mass"]
+      },
+      "Education Content": {
+        "type": "text or multimedia (e.g., image, video)"
+      },
+      "Quiz": {
+        "type": "multiple-choice questions"
+      },
+      "Frequency": {
+        "type": "options",
+        "options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+      }
+    }
+  }
+}
+
+
+Note: I removed the `Deadline Date` parameter as it was not applicable (no example or default value provided).

@@ -1,0 +1,33 @@
+Here is the output in JSON format:
+
+
+{
+  "Worship Site Transportation": {
+    "parameters": {
+      "Worship Site": {
+        "type": "text"
+      },
+      "Transportation Type": {
+        "type": "options",
+        "options": [
+          "Vehicle transportation (e.g., car, van)",
+          "Public transportation (e.g., bus, train)",
+          "Wheelchair-accessible transportation",
+          "Other"
+        ]
+      },
+      "Schedule": {
+        "type": "datetime"
+      },
+      "Provider": {
+        "type": "options",
+        "options": [
+          "Healthcare facility",
+          "Volunteer driver",
+          "Transportation company",
+          "Other"
+        ]
+      }
+    }
+  }
+}

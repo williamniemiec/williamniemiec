@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Environmental Survey": {
+    "Parameters": {
+      "Instructions": {"Type": "text"},
+      "Frequency": {"Type": "options", "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"Type": "datetime"},
+      "Photos": {"Type": "camera"},
+      "Notes": {"Type": "text"}
+    }
+  }
+}

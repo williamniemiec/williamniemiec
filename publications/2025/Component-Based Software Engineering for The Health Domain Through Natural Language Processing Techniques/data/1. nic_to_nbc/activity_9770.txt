@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Confidentiality Agreement": {
+    "Parameters": [
+      {"name": "Confidentiality Statement", "type": "text"},
+      {"name": "Agreement", "type": "boolean"},
+      {"name": "Date", "type": "datetime"}
+    ]
+  },
+  "Data Encryption": {
+    "Parameters": [
+      {"name": "Encryption Algorithm", "type": "options"},
+      {"name": "Data Storage", "type": "options"}
+    ]
+  }
+}
+
+
+Let me know if this meets your requirements!

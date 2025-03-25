@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "Infant States Guide": {
+    "Parameters": {
+      "Name": {
+        "Type": "text"
+      },
+      "States": {
+        "Type": "list of options",
+        "Options": ["sleeping", "crying", "feeding", "awake", "etc."]
+      },
+      "Descriptions": {
+        "Type": "list of text"
+      },
+      "Media": {
+        "Type": "list of media files"
+      }
+    }
+  }
+}
+
+
+I removed the `Frequency` parameter as it is not applicable in this context.

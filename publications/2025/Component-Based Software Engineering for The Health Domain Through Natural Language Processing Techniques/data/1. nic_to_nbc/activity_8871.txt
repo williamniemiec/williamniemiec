@@ -1,0 +1,33 @@
+
+
+
+{
+    "Assistive Device Reevaluation": {
+        "Parameters": {
+            "Assistive Device": [
+                { "value": "walker", "label": "Walker" },
+                { "value": "cane", "label": "Cane" },
+                { "value": "wheelchair", "label": "Wheelchair" },
+                { "value": "oxygenTherapy", "label": "Oxygen therapy" },
+                { "value": "other", "label": "Other (specify)" }
+            ],
+            "Reevaluation Interval": [
+                { "value": "daily", "label": "Daily" },
+                { "value": "weekly", "label": "Weekly" },
+                { "value": "monthly", "label": "Monthly" },
+                { "value": "quarterly", "label": "Quarterly" },
+                { "value": "other", "label": "Other (specify)" }
+            ],
+            "Collaborating Therapist": [
+                { "value": "physicalTherapist", "label": "Physical therapist" },
+                { "value": "occupationalTherapist", "label": "Occupational therapist" },
+                { "value": "respiratoryTherapist", "label": "Respiratory therapist" },
+                { "value": "other", "label": "Other (specify)" }
+            ],
+            "Reevaluation Criteria": {
+                "Type": "text",
+                "Required": true
+            }
+        }
+    }
+}

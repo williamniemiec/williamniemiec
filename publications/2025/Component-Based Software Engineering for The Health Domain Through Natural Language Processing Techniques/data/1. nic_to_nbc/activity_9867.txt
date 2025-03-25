@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Blood Pressure Tracker": {
+        "Frequency": {"type": "options", "options": ["daily", "everyHours", "everyDays"]},
+        "Measurement Method": {"type": "text"},
+        "Blood Pressure Reading": {"type": "numeric", "units": "mmHg"},
+        "Target Range": {"type": "numeric", "units": "mmHg"},
+        "Alerts": {"type": "options", "options": ["yes/no"]},
+        "Notes": {"type": "text"}
+    }
+}

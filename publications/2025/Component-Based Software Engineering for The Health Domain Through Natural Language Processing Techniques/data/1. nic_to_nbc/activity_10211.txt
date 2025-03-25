@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Hydration Assessment": {
+    "Water Intake": {
+      "Description": "Track daily water consumption",
+      "Required": true,
+      "Type": "number"
+    },
+    "Urine Output": {
+      "Description": "Track daily urine output",
+      "Required": true,
+      "Type": "number"
+    }
+  }
+}

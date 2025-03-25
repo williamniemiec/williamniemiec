@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Card": {
+    "Parameters": {
+      "Medications": {
+        "Type": "list (of medications with details)"
+      },
+      "Medication Regimen": {
+        "Type": "text"
+      },
+      "Card Design": {
+        "Type": "options (list of design templates)"
+      },
+      "Digital Storage": {
+        "Type": "boolean (true or false)"
+      },
+      "Printable Version": {
+        "Type": "PDF"
+      }
+    }
+  }
+}
+
+
+Let me know if this is what you were looking for!

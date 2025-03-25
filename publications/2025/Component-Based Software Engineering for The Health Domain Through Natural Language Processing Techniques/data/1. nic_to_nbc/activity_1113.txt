@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Emergency Access Guide": {
+    "parameters": {
+      "Emergency Contact Information": {},
+      "Emergency Procedures": {},
+      "Symptom Recognition": {},
+      "Emergency Preparedness": {},
+      "FAQs": {}
+    }
+  }
+}

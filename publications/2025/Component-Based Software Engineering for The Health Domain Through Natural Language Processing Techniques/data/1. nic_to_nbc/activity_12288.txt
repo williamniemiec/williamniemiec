@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+    "Edema Evaluation": {
+        "parameters": [
+            {"name": "edema_level", "description": "Rate your peripheral edema (0-4+)", "required": true, "type": "number"},
+            {"name": "edema_location", "description": "Where is the edema located?", "required": true, "type": "options", "options": [{"value": "ankle", "label": "Ankle"}, {"value": "foot", "label": "Foot"}, {"value": "leg", "label": "Leg"}, {"value": "other", "label": "Other"}]},
+            {"name": "frequency", "description": "How often should you evaluate your peripheral edema?", "required": true, "type": "options", "options": [{"value": "daily", "label": "Daily"}, {"value": "onlyOnce", "label": "Only once"}, {"value": "everyHours", "label": "Every x hours"}, {"value": "everyDays", "label": "Every x days"}]},
+            {"name": "deadline_date", "description": "When should you evaluate your peripheral edema by?", "required": false, "type": "datetime"}
+        ]
+    },
+    "Pulse Evaluation": {
+        "parameters": [
+            {"name": "pulse_strength", "description": "Rate your peripheral pulse strength (0-4+)", "required": true, "type": "number"},
+            {"name": "pulse_location", "description": "Where is the pulse located?", "required": true, "type": "options", "options": [{"value": "dorsalis pedis", "label": "Dorsalis pedis"}, {"value": "posterior tibial", "label": "Posterior tibial"}, {"value": "other", "label": "Other"}]},
+            {"name": "frequency", "description": "How often should you evaluate your peripheral pulses?", "required": true, "type": "options", "options": [{"value": "daily", "label": "Daily"}, {"value": "onlyOnce", "label": "Only once"}, {"value": "everyHours", "label": "Every x hours"}, {"value": "everyDays", "label": "Every x days"}]},
+            {"name": "deadline_date", "description": "When should you evaluate your peripheral pulses by?", "required": false, "type": "datetime"}
+        ]
+    }
+}

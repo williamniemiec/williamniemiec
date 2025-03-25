@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Alternative Perspective": {
+    "Statement Title": {},
+    "Content": {},
+    "Reflection Question": {},
+    "Frequency": {}
+  }
+}

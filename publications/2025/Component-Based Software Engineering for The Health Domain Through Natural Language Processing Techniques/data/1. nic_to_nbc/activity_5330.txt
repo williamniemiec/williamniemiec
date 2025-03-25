@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+  "IV Site Tracker": {
+    "Parameters": {
+      "IV Site Location": {"Type": "text"},
+      "IV Site Condition": {"Type": "options"},
+      "Extravasation Symptoms": {"Type": "options"},
+      "Notes": {"Type": "text"}
+    }
+  },
+  "IV Site Photo Tracker": {
+    "Parameters": {
+      "IV Site Photo": {"Type": "image"},
+      "Photo Date": {"Type": "date and time"},
+      "Notes": {"Type": "text"}
+    }
+  }
+}
+
+
+Let me know if this is what you were looking for!

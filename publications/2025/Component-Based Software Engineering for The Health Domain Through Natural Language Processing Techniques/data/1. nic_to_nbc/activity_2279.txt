@@ -1,0 +1,45 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Hydration Guide",
+    "parameters": [
+        {
+            "name": "Fluid Intake Goal",
+            "type": "text"
+        },
+        {
+            "name": "Fluid Types",
+            "type": "options",
+            "options": [
+                { value: "water", label: "Water" },
+                { value: "juice", label: "Juice" },
+                { value: "tea", label: "Tea" },
+                { value: "other", label: "Other (please specify)" }
+            ]
+        },
+        {
+            "name": "Frequency",
+            "type": "options",
+            "options": [
+                { value: "every hour", label: "Every Hour" },
+                { value: "every 2 hours", label: "Every 2 Hours" },
+                { value: "every 4 hours", label: "Every 4 Hours" },
+                { value: "other", label: "Other (please specify)" }
+            ]
+        },
+        {
+            "name": "Monitoring",
+            "type": "options",
+            "options": [
+                { value: "urine output", label: "Urine Output" },
+                { value: "skin turgor", label: "Skin Turgor" },
+                { value: "other", label: "Other (please specify)" }
+            ]
+        },
+        {
+            "name": "Instructions",
+            "type": "text or video"
+        }
+    ]
+}

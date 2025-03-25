@@ -1,0 +1,10 @@
+{
+  "name": "Problem Awareness and Alternative Redirection",
+  "description": "Focuses on increasing awareness of problems and concerns, and exploring alternative solutions. Includes ranking issues, mapping emotional responses, and redirecting behaviors to more positive alternatives.",
+  "type": "non-periodic",
+  "input": ["Problem awareness", "Alternative solutions", "Issue ranking", "Emotional mapping", "Behavior redirection"],
+  "output": ["Problem-solving feedback", "Alternative redirection plan", "Emotional response map"],
+  "preconditions": ["User is aware of a problem and looking for solutions"],
+  "postconditions": ["Effective redirection and problem resolution"],
+  "dependencies": ["Problem-solving tool", "Emotional mapping system"]
+}

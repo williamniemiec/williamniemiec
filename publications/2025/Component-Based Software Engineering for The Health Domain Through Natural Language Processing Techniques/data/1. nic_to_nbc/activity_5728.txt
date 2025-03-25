@@ -1,0 +1,10 @@
+Here is the output in JSON format:
+
+
+{
+  "PARAMETER ESPECIFICATIONS": "* Assess the patient's cardiovascular status and determine the need for positive inotropic/contractility medications\n* Select the appropriate medication and dosage based on the patient's condition and medical history\n* Administer the medication using specialized equipment (e.g., IV pumps, medication administration systems)\n* Monitor the patient's response to the medication and adjust the dosage as needed",
+  "NO-CODE ELEMENT NAME": null
+}
+
+
+Note: Since there is no no-code element associated with this intervention, I set `"NO-CODE ELEMENT NAME"` to `null`.

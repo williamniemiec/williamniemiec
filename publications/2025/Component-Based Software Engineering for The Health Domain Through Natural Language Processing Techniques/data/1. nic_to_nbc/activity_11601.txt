@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+{
+    "name": "Pre-Surgery Verification",
+    "parameters": [
+        { 
+            "name": "Patient ID", 
+            "description": "A parameter that specifies the patient's unique identifier.",
+            "type": "text"
+        },
+        { 
+            "name": "Surgery Type", 
+            "description": "A parameter that specifies the type of surgery being performed (e.g., skin graft).",
+            "type": "options"
+        },
+        { 
+            "name": "History and Physical Status", 
+            "description": "A parameter that specifies the status of the patient's history and physical (e.g., complete, incomplete, pending).",
+            "type": "options"
+        },
+        { 
+            "name": "Verification Date", 
+            "description": "A parameter that specifies the date and time of verification.",
+            "type": "datetime"
+        }
+    ]
+}

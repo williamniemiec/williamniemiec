@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+    "Learning Ability Assessment": {
+        "Developmental Level": {},
+        "Physiological Status": {},
+        "Orientation": {},
+        "Pain Level": {},
+        "Fatigue Level": {},
+        "Unfulfilled Basic Needs": {},
+        "Emotional State": {},
+        "Adaptation to Illness": {},
+        "Learning Ability": {},
+        "Frequency": {},
+        "Deadline Date": {}
+    },
+    "Form": {
+        "Fields": {},
+        "Frequency": {},
+        "Deadline Date": {}
+    }
+}
+
+
+Note that I removed the not applicable parameters and only kept the `{{ NO-CODE ELEMENT NAME }}` and `{{ PARAMETER ESPECIFICATIONS }}` as per your request. Let me know if you need anything else!

@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Training": {
+    "Technique": {"Type": "text", "Value": "Self-administration technique"},
+    "Instructions": {"Type": "text"},
+    "Demonstration": {"Type": "video or image"},
+    "Practice": {"Type": "text", "Value": "Practice self-administration technique under supervision"},
+    "Monitoring": {"Type": "text", "Value": "Monitor patient's self-administration technique and provide feedback"}
+  }
+}

@@ -1,0 +1,47 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Urinary Retention Monitoring",
+  "parameters": {
+    "Pain": {
+      "description": "Do you experience pain or discomfort in the pelvic area?",
+      "required": true,
+      "type": "options",
+      "options": [
+        { "value": "yes", "label": "Yes" },
+        { "value": "no", "label": "No" }
+      ]
+    },
+    "Difficulty Urinating": {
+      "description": "Do you experience difficulty starting or stopping the flow of urine?",
+      "required": true,
+      "type": "options",
+      "options": [
+        { "value": "yes", "label": "Yes" },
+        { "value": "no", "label": "No" }
+      ]
+    },
+    "Frequent Urination": {
+      "description": "Do you experience frequent urination or feeling of needing to urinate often?",
+      "required": true,
+      "type": "options",
+      "options": [
+        { "value": "yes", "label": "Yes" },
+        { "value": "no", "label": "No" }
+      ]
+    },
+    "Straining": {
+      "description": "Do you experience straining to urinate or feeling of incomplete emptying?",
+      "required": true,
+      "type": "options",
+      "options": [
+        { "value": "yes", "label": "Yes" },
+        { "value": "no", "label": "No" }
+      ]
+    }
+  }
+}
+
+
+Note that I removed the `Other Symptoms` and `Notes` parameters since they were not required. Let me know if you need anything else!

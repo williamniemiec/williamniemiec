@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Support Person Inclusion": {
+    "Support Person Type": {"type": "options", "options": ["parent", "spouse", "partner", "other"]},
+    "Inclusion Status": {"type": "boolean", "options": ["yes/no"]},
+    "Reason for Inclusion": {"type": "text"},
+    "Support Person Availability": {"type": "boolean", "options": ["yes/no"]}
+  }
+}

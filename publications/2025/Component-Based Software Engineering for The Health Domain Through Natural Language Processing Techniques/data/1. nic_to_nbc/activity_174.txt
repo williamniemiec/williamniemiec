@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Activity Restriction Plan": {
+        "Name": {"Type": "text"},
+        "Activity Restrictions": {"Type": "list of options"},
+        "Reason for Restrictions": {"Type": "text"},
+        "Duration": {"Type": "time"},
+        "Deadline Date": {"Type": "datetime"},
+        "Reminders": {"Type": "frequency or specific dates and times"},
+        "Resources": {"Type": "list of URLs or file uploads"}
+    }
+}

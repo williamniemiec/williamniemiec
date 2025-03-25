@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+  "Risk Factor Assessment": {
+    "Parameters": {
+      "Risk Factor List": {},
+      "Frequency": {},
+      "Deadline Date": {},
+      "Additional Notes": {}
+    }
+  },
+  "Question": {
+    "Parameters": {
+      "Question 1": {},
+      "Question 2": {},
+      "Question 3": {},
+      "Frequency": {},
+      "Deadline Date": {}
+    }
+  }
+}

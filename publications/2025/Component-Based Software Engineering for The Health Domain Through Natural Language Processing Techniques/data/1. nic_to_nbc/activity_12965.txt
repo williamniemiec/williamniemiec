@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Hypnotic Suggestibility Assessment": {
+    "Parameters": {
+      "Hypnotic Induction": {"Type": "audio or video content"},
+      "Suggestibility Questions": {"Type": "multiple-choice questions or interactive exercises"},
+      "Response Scoring": {"Type": "numerical score or categorization (e.g. high, medium, low)"},
+      "Interpretation and Feedback": {"Type": "text or multimedia content"},
+      "Additional Recommendations": {"Type": "text or multimedia content"}
+    }
+  }
+}

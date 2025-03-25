@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Hand Hygiene": {
+    "parameters": {
+      "Hand Washing Instructions": {"type": ["text", "video"]},
+      "Hand Washing Technique": {"type": "options", "options": ["soap and water", "hand sanitizer"]},
+      "Duration": {"type": ["timer", "text"]},
+      "Frequency": {"type": "options", "options": ["after using the bathroom", "before eating", "after blowing nose/coughing", "etc."]},
+      "Reminders": {"type": ["boolean", "timer"]}
+    }
+  }
+}

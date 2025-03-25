@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Personalized Diet Preferences": {
+    "Dietary Restrictions": {"Type": "checklist"},
+    "Food Preferences": {"Type": "text"},
+    "Meal Frequency": {"Type": "options"},
+    "Meal Timing": {"Type": "options"},
+    "Cultural or Ethnic Considerations": {"Type": "text"},
+    "Instructions": {"Type": "text"}
+  }
+}

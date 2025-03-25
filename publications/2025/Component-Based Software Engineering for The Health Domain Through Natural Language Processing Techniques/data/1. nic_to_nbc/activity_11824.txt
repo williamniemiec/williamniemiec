@@ -1,0 +1,43 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Care Arrangement Assessment",
+    "parameters": [
+        {
+            "name": "Care Arrangement Questionnaire",
+            "type": "text"
+        },
+        {
+            "name": "Problem Identification",
+            "type": "text"
+        },
+        {
+            "name": "Solution Generation",
+            "type": "text"
+        },
+        {
+            "name": "Family Member Involvement",
+            "type": "options",
+            "options": [
+                { "value": "yes" },
+                { "value": "no" },
+                { "value": "partial" }
+            ]
+        },
+        {
+            "name": "Frequency",
+            "type": "options",
+            "options": [
+                { "value": "daily" },
+                { "value": "onlyOnce" },
+                { "value": "everyHours" },
+                { "value": "everyDays" }
+            ]
+        },
+        {
+            "name": "Deadline Date",
+            "type": "datetime"
+        }
+    ]
+}

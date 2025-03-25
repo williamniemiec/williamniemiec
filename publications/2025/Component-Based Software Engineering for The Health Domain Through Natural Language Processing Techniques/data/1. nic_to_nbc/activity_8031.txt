@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+    "Coughing Encouragement": {
+        "parameters": {
+            "name": "",
+            "content": "",
+            "frequency": ""
+        }
+    }
+}

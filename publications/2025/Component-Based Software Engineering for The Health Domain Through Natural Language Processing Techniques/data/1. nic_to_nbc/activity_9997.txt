@@ -1,0 +1,29 @@
+Here is the output in JSON format:
+
+
+{
+  "Enteral Feeding Storage": {
+    "Container Status": {
+      "description": "Indicate if the container is open or closed",
+      "required": true,
+      "type": "options",
+      "options": [
+        { "value": "open", "label": "Open" },
+        { "value": "closed", "label": "Closed" }
+      ]
+    },
+    "Refrigeration Status": {
+      "description": "Indicate if the open container is refrigerated",
+      "required": true,
+      "type": "boolean"
+    },
+    "Storage Time": {
+      "description": "Record the time the container was stored in the refrigerator",
+      "required": true,
+      "type": "datetime"
+    }
+  }
+}
+
+
+Note that I removed the "Notes" parameter since it's not required. Let me know if you'd like me to include it anyway!

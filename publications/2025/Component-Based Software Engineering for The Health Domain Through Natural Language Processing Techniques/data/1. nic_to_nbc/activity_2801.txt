@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Relationship Reframe": {
+    "Family Members": {"type": "list of names"},
+    "Current Pattern": {"type": "text"},
+    "Desired Outcome": {"type": "text"},
+    "Reframe Strategies": {"type": "list of strategies"},
+    "Practice Exercises": {"type": "list of exercises"},
+    "Progress Tracking": {"type": "journal or log"}
+  }
+}
+
+
+Let me know if you need any further assistance!

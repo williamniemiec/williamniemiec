@@ -1,0 +1,10 @@
+{
+  "name": "Medication Dosage and Administration",
+  "description": "Guides users in the correct administration of medications, including dosage, refills, and associated deadlines. Focuses on accurate medication tracking, particularly for diuretics and other treatments.",
+  "type": "periodic",
+  "input": ["Medication dosage", "Administration guidelines", "Refill reminders", "Diuretic medication details", "Deadline tracking"],
+  "output": ["Medication administration report", "Dosage tracking summary", "Refill and deadline reminders"],
+  "preconditions": ["User is prescribed medication and needs to track dosage and administration dates"],
+  "postconditions": ["Correct medication administration and timely refills"],
+  "dependencies": ["Medication tracking system", "Dosage reminder platform", "Prescription management tools"]
+}

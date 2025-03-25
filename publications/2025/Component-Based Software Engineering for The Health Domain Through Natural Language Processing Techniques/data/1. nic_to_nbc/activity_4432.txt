@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+    "Respiratory Exercise": {
+        "parameters": {
+            "name": "",
+            "description": "",
+            "frequency": "",
+            "deadline_date": "",
+            "video/tutorial": "",
+            "tracking": ""
+        }
+    },
+    "Questionnaire": {}
+}

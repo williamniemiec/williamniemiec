@@ -1,0 +1,33 @@
+Here is the output in JSON format:
+
+
+{
+  "Pin Site Care Guide": {
+    "Parameters": {
+      "Pin Site Care Guide": {
+        "Description": "Title of the guide",
+        "Required": true,
+        "Type": "text"
+      },
+      "Pages": {
+        "Description": "List of HTML texts with instructions on how to care for pin sites",
+        "Required": true,
+        "Type": "book-page"
+      },
+      "Frequency": {
+        "Description": "Frequency of reviewing the guide",
+        "Required": true,
+        "Type": "options",
+        "Options": [
+          { "value": "daily", "label": "Daily" },
+          { "value": "weekly", "label": "Weekly" },
+          { "value": "monthly", "label": "Monthly" },
+          { "value": "onlyOnce", "label": "Only once" }
+        ]
+      }
+    }
+  }
+}
+
+
+I removed the not applicable parameters (`Deadline Date`, `Pin Site Specific Instructions`, and `Image or Video`) as they are optional (required: false). Let me know if this is what you were expecting!

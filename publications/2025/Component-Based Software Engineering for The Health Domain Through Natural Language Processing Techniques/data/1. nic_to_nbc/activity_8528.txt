@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "Toileting Schedule": {
+    "Parameters": {
+      "Name": {},
+      "Schedule": {},
+      "Reminders": {},
+      "Customization": {}
+    }
+  },
+  "Task": {
+    "Parameters": {
+      "Name": {},
+      "Schedule": {},
+      "Reminders": {},
+      "Customization": {}
+    }
+  }
+}
+
+
+Note that I removed the "Not Applicable" parameters as per your request. Let me know if you need anything else!

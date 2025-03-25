@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+    "Fluid Tracker": {
+        "parameters": [
+            {"name": "Fluid Type"},
+            {"name": "Intake/Output"},
+            {"name": "Frequency", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+            {"name": "Deadline Date", "type": "datetime"},
+            {"name": "Unit", "type": "text"},
+            {"name": "Target Range", "type": "text"}
+        ]
+    }
+}
+
+
+Let me know if this is what you were expecting!

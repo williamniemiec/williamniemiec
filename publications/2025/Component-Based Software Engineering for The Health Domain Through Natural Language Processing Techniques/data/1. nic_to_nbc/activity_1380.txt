@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Urine Ketone Reporting": {
+    "Reporting Criteria": {"Type": "list of criteria"},
+    "Reporting Instructions": {"Type": "text"},
+    "Reporting Form": {"Type": "form with fields for urine ketone level, date, and time"},
+    "Alerts": {"Type": "list of alerts (with notification preferences)"},
+    "Resources": {"Type": "list of resources (with URLs or PDFs)"}
+  }
+}

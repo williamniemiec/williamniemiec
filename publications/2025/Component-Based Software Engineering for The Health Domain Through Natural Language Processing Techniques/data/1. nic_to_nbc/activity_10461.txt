@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Blood Test Guide": {
+    "parameters": {
+      "name": {"type": "text"},
+      "tests": {"type": "unordered list"},
+      "explanations": {"type": "text"},
+      "what_to_expect": {"type": "text"},
+      "preparation": {"type": "text"},
+      "frequently_asked_questions": {"type": "FAQ list"}
+    }
+  }
+}

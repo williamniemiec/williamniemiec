@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Tube Placement Verification": {
+    "Verification Method": {},
+    "Aspirate pH Level": {},
+    "X-ray Film Result": {},
+    "Verification Result": {},
+    "Frequency of Verification": {}
+  }
+}

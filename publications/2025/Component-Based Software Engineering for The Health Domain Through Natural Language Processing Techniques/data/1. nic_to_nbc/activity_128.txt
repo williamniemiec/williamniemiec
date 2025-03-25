@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Ability Assessment": {
+    "Situation": {"type": "text"},
+    "Ability type": {"type": "options", "options": ["physical", "emotional", "financial", "social", "etc."]},
+    "Can/Cannot do": {"type": "options", "options": ["can do", "cannot do"]},
+    "Response type": {"type": "options", "options": ["text", "checkbox", "rating scale", "etc."]},
+    "Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline date": {"type": "datetime"}
+  }
+}

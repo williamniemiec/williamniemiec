@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+  "Instruction": {
+    "parameters": {
+      "name": "Cleansing of wire sutures and wounds",
+      "content": "Use sterile, cotton-tipped applicators for efficient cleansing of tight-fitting wire sutures, deep and narrow wounds, or wounds with pockets",
+      "steps": [
+        "Obtain sterile, cotton-tipped applicators",
+        "Identify the area to be cleaned (tight-fitting wire sutures, deep and narrow wounds, or wounds with pockets)",
+        "Gently clean the area using the sterile, cotton-tipped applicators"
+      ],
+      "frequency": {
+        "options": [
+          "daily",
+          "onlyOnce",
+          "everyHours",
+          "everyDays"
+        ]
+      },
+      "deadline_date": {
+        "type": "datetime"
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Oral Intake Promotion": {
+    "parameters": {
+      "Preferred Fluids": {"type": "options"},
+      "Fluid Accessibility": {"type": "boolean"},
+      "Straw Availability": {"type": "boolean"},
+      "Fresh Water Reminder": {"type": "boolean"},
+      "Intake Goal": {"type": "number"},
+      "Reminders": {"type": "boolean"}
+    }
+  }
+}

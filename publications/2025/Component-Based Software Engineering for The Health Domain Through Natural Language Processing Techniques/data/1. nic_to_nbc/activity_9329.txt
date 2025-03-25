@@ -1,0 +1,18 @@
+
+
+
+{
+    "Symptom Checker": {
+        "parameters": {
+            "name": "Labor Symptoms",
+            "questions": [
+                "Are you experiencing contractions?",
+                "Are you experiencing back pain?",
+                "Have you broken your water?",
+                "Are you experiencing vaginal bleeding?"
+            ],
+            "answer type": "options",
+            "frequency": "once (or as needed)"
+        }
+    }
+}

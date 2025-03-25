@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "Bath Preparation": {
+    "Denture Removal": {
+      "type": "boolean",
+      "description": "Indicates whether to remove dentures before the bath"
+    },
+    "Offer Food": {
+      "type": "boolean",
+      "description": "Indicates whether to offer something to eat or drink to prevent biting during the bath"
+    },
+    "Food Options": {
+      "type": "options",
+      "options": ["water", "juice", "crackers", "other"],
+      "description": "Specifies the type of food or drink to offer"
+    },
+    "Frequency": {
+      "type": "options",
+      "options": ["beforeEachBath", "daily", "everyHours", "everyDays"],
+      "description": "Specifies how often to perform this preparation before the bath"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Detoxification Protocol": {
+    "parameters": {
+      "Drug": {"type": "text"},
+      "Method": {"type": "options", "options": ["ipecac", "activated charcoal", "gastric lavage", "hemodialysis", "cathartics", "exchange transfusion", "altering urine and serum pH", "whole-bowel irrigation", "etc."]},
+      "Dosage": {"type": "text"},
+      "Frequency": {"type": "options", "options": ["daily", "everyHours", "everyDays"]},
+      "Duration": {"type": "text"},
+      "Instructions": {"type": "text"}
+    }
+  }
+}

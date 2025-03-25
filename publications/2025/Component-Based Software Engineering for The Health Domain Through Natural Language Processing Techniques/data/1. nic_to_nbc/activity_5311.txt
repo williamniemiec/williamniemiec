@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Hygiene History": {
+        "parameters": {
+            "showered": "boolean",
+            "douched": "boolean",
+            "bathed": "boolean",
+            "notes": "text"
+        }
+    }
+}

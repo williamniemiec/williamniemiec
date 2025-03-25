@@ -1,0 +1,43 @@
+Here is the output in JSON format:
+
+
+{
+  "Symptom Tracker": {
+    "Parameters": {
+      "Symptom List": {
+        "Type": "checklist or multi-select",
+        "Values": [
+          "Alternating periods of apnea and hyperventilation",
+          "Increasing anxiety",
+          "Increased heart rate without increased blood pressure",
+          "Dyspnea",
+          "Dizziness",
+          "Tingling in extremities",
+          "Hyperreflexia",
+          "Frequent sighing and yawning",
+          "Blurred vision",
+          "Diaphoresis",
+          "Dry mouth",
+          "pH level of greater than 7.45",
+          "PaCO2 less than 35 mm Hg",
+          "Associated hyperchloremia",
+          "HCO3 deficit"
+        ]
+      },
+      "Frequency": {
+        "Type": "options",
+        "Values": [
+          "daily",
+          "every 12 hours",
+          "every 8 hours"
+        ]
+      },
+      "Severity": {
+        "Type": "options or slider"
+      },
+      "Notes": {
+        "Type": "text"
+      }
+    }
+  }
+}

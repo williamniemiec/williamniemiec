@@ -1,0 +1,36 @@
+Here is the output in JSON format:
+
+
+{
+    "noCodeElementName": "moisture barrier guide",
+    "parameters": [
+        { 
+            "name": "cream name", 
+            "description": "name of the moisture barrier cream to be used"
+        },
+        { 
+            "name": "application instructions", 
+            "description": "step-by-step instructions for applying the cream"
+        },
+        { 
+            "name": "frequency", 
+            "description": "specify how often the cream should be applied",
+            "options": [
+                { value: "daily" },
+                { value: "onlyOnce" },
+                { value: "everyHours" },
+                { value: "everyDays" }
+            ]
+        },
+        { 
+            "name": "triggers", 
+            "description": "specify the conditions that require application of the cream",
+            "options": [
+                { value: "afterUrination" },
+                { value: "afterStool" },
+                { value: "afterPerspiration" },
+                { value: "other" }
+            ]
+        }
+    ]
+}

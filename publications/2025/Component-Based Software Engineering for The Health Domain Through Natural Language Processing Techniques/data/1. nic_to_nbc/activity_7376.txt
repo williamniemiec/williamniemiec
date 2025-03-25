@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+  "Nutrition Guide": {
+    "title": {},
+    "meals": {
+      "meal1": {},
+      "meal2": {},
+      "meal3": {}
+    },
+    "snacks": {
+      "snack1": {},
+      "snack2": {},
+      "snack3": {}
+    },
+    "frequency": {}
+  }
+}
+
+
+I removed all unnecessary information and kept only the `{{ NO-CODE ELEMENT NAME }}` ("Nutrition Guide") and `{{ PARAMETER ESPECIFICATIONS }}` (parameters). I also removed not applicable parameters. Let me know if this is what you were looking for!

@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Transport Equipment": {
+    "parameters": [
+      {"Equipment Type": {}},
+      {"Quantity": {}},
+      {"Transport Date": {}},
+      {"Transport Location": {}}
+    ]
+  }
+}

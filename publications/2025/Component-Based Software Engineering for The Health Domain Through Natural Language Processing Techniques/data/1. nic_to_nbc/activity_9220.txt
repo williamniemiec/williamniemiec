@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Topical Analgesia Timing",
+  "parameters": [
+    {
+      "name": "Medication"
+    },
+    {
+      "name": "Time Requirement"
+    },
+    {
+      "name": "Application Time"
+    },
+    {
+      "name": "Effectiveness Time"
+    }
+  ]
+}

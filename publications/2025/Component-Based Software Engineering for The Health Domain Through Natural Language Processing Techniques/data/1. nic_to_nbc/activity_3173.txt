@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+    "Family History Questionnaire": {
+        "parameters": {
+            "title": {"type": "text"},
+            "questions": {"type": "list of form questions"},
+            "answer_type": {"type": "list of answer types"},
+            "frequency": {"type": "options"}
+        }
+    }
+}
+
+
+I removed the `deadline_date` parameter as it is not applicable in this context. Let me know if you need any further modifications!

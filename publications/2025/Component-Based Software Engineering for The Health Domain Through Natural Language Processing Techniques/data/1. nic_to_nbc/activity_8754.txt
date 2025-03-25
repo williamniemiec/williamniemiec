@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+    "Product List": {
+        "Name": {"Type": "text"},
+        "Products": {"Type": "list of text", "Options": ["Condoms", "Dental dams", "Other"]},
+        "Product Information": {"Type": "list of text"},
+        "Resources": {"Type": "list of URLs or file uploads"}
+    },
+    "Product": {
+        "Name": {"Type": "text"},
+        "Description": {"Type": "text"},
+        "Image": {"Type": "file upload"},
+        "Instructions": {"Type": "text"}
+    },
+    "Product Bundle": {
+        "Name": {"Type": "text"},
+        "Products": {"Type": "list of text"},
+        "Instructions": {"Type": "text"}
+    }
+}

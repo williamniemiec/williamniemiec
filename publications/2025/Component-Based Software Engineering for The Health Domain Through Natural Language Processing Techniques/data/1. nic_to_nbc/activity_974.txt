@@ -1,0 +1,7 @@
+Since the input does not match the specified format, I will assume that the `{{ NO-CODE ELEMENT NAME }}` is "No no-code element" and there are no parameter specifications. 
+
+
+{
+  "NO-CODE_ELEMENT_NAME": "No no-code element",
+  "PARAMETER_ESPECIFICATIONS": {}
+}

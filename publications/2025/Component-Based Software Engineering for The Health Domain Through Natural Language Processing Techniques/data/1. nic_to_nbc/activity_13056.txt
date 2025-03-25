@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Notification": {
+    "parameters": {
+      "Risk Description": {"type": "text"},
+      "Care Providers": {"type": "list of care provider IDs or names"},
+      "Notification Type": {"type": "options"},
+      "Notification Frequency": {"type": "options"}
+    }
+  }
+}

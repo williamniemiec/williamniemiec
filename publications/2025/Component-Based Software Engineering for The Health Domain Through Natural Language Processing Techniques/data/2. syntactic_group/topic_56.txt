@@ -1,0 +1,10 @@
+{
+  "name": "Sexual Health and Education",
+  "description": "Addresses topics related to sexual health, including dysfunction, healthy sexual practices, sexuality education, STD prevention, and puberty. Provides resources to promote overall sexual well-being and health.",
+  "type": "non-periodic",
+  "input": ["Sexual health education resources", "STD prevention guidelines", "Sexual dysfunction information", "Puberty-related advice"],
+  "output": ["Sexual health report", "STD prevention success rate", "Education materials on healthy sexuality"],
+  "preconditions": ["User engages in sexual health education or requires advice on sexual well-being"],
+  "postconditions": ["Sexual health awareness is improved, and healthy practices are promoted"],
+  "dependencies": ["Sexual health education platform", "STD prevention tools", "Puberty and sexuality resources"]
+}

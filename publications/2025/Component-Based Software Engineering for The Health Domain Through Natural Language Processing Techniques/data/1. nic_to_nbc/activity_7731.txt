@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Name": {
+    "type": "text"
+  },
+  "Hazards": {
+    "type": "options",
+    "options": ["radiation", "chemicals", "stress", "infections", "other environmental factors", "shift rotation"]
+  },
+  "Description": {
+    "type": "interactive guide with text and images"
+  },
+  "Prevention": {
+    "type": "interactive guide with text and images"
+  },
+  "Resources": {
+    "type": "links or attachments"
+  }
+}

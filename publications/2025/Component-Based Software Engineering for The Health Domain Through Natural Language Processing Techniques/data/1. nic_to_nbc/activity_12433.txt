@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Content Sequence": {
+        "Parameters": {
+            "Content Items": {"Type": "unordered list"},
+            "Sequence": {"Type": "ordered list"},
+            "Rationale": {"Type": "text"},
+            "Prerequisites": {"Type": "conditional logic"}
+        }
+    }
+}

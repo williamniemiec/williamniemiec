@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Problem Call Log": {
+    "Call Details": {"type": "text"},
+    "Issue Description": {"type": "text"},
+    "Resolution Status": {"type": "options"},
+    "Collaboration Notes": {"type": "text"}
+  }
+}

@@ -1,0 +1,13 @@
+
+
+
+{
+    "Goal Setting": {
+        "Need/Problem": {"type": "text"},
+        "Goal": {"type": "text"},
+        "Objectives": {"type": "unordered list"},
+        "Target Date": {"type": "datetime"},
+        "Priority": {"type": "options"},
+        "Notes": {"type": "text"}
+    }
+}

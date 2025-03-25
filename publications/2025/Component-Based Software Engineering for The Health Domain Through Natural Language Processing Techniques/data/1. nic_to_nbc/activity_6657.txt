@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Specimen Labeling": {
+    "Labeling Instructions": {"type": "text"},
+    "Agency Protocol": {"type": "text"},
+    "Image": {"type": "image"},
+    "Video": {"type": "video"},
+    "Frequency": {"type": "options"},
+    "Deadline Date": {"type": "datetime"}
+  }
+}

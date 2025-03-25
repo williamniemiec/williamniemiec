@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Infusion Instruction": {
+        "parameters": {
+            "Infusion Type": {"type": "options"},
+            "Administration Rate": {"type": "text"},
+            "Precautions": {"type": "text"},
+            "Frequency": {"type": "options"},
+            "Deadline Date": {"type": "datetime"}
+        }
+    }
+}

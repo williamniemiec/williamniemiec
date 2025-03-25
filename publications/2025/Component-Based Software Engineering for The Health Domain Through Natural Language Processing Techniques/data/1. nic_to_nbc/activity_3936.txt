@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "Dressing Change": {
+    "parameters": {
+      "name": "Change dressing",
+      "content": "Change the dressing at appropriate intervals",
+      "frequency": {
+        "options": ["daily", "everyHours", "everyDays"]
+      },
+      "instructions": {
+        "type": "text",
+        "value": "Follow the instructions provided by your healthcare provider for changing the dressing. Wash your hands before and after changing the dressing. Dispose of the used dressing properly."
+      },
+      "deadline_date": {
+        "type": "datetime"
+      },
+      "notes": {
+        "type": "text"
+      }
+    }
+  }
+}

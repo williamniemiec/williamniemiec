@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Hydration Monitor": {
+    "Mucous Membranes": {},
+    "Skin Turgor": {},
+    "Thirst": {},
+    "Frequency": {},
+    "Deadline Date": {}
+  }
+}

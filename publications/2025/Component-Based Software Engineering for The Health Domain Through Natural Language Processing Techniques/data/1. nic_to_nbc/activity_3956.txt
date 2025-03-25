@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Pessary Removal": {
+    "Parameters": {
+      "Instructions": {},
+      "Frequency": {},
+      "Deadline Date": {},
+      "Notes": {}
+    }
+  }
+}

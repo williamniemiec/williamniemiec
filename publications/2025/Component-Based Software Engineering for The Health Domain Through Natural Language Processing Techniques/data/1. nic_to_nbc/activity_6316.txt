@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Emotional Expression",
+  "parameters": [
+    {
+      "name": "feelings"
+    },
+    {
+      "name": "perceptions"
+    },
+    {
+      "name": "fears"
+    },
+    {
+      "name": "reflection"
+    }
+  ]
+}

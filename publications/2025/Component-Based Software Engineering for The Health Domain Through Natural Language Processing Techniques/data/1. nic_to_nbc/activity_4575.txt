@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Anger Management Planning Tool",
+  "parameters": [
+    {
+      "name": "Trigger Identification Questions",
+      "type": "list of text"
+    },
+    {
+      "name": "Strategy Generation Exercise",
+      "type": "interactive exercise"
+    },
+    {
+      "name": "Goal Setting",
+      "type": "interactive exercise"
+    },
+    {
+      "name": "Action Plan Development",
+      "type": "interactive exercise"
+    },
+    {
+      "name": "Reflection Prompt",
+      "type": "text"
+    }
+  ]
+}

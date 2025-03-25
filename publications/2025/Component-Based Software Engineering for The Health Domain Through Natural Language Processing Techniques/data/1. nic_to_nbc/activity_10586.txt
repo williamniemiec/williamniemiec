@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+    "Fetal Movement Reflection": {
+        "Question": {"type": "text"},
+        "Answer Type": {"type": "options"},
+        "Emotional Response": {"type": "rating scale" || "multiple choice"},
+        "Description of Movements": {"type": "text"},
+        "Frequency and Intensity": {"type": "rating scale" || "text"},
+        "Bonding Experience": {"type": "boolean" || "rating scale"}
+    }
+}
+
+
+Note: I removed the "Not Applicable" parameters as per your request.

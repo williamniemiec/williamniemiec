@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+    "Fluid Restriction": {
+        "Restriction Type": {
+            "Type": "options"
+        },
+        "Daily Limit": {
+            "Type": "text"
+        },
+        "Fluid Types to Avoid": {
+            "Type": "text"
+        },
+        "Reason for Restriction": {
+            "Type": "text"
+        },
+        "Duration": {
+            "Type": "text"
+        }
+    }
+}

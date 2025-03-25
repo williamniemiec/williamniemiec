@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Positional Blood Pressure Monitoring": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Positions": {"Type": "options"},
+      "Frequency": {"Type": "options"},
+      "Unit": {"Type": "text"},
+      "Before/After": {"Type": "options"}
+    }
+  }
+}
+
+
+I removed the "Notes" parameter as it's not applicable in this context. Let me know if you need any further assistance!

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Neck Support Guide": {
+    "Parameters": {
+      "Neck Support Guide Title": {},
+      "Support Method": {},
+      "Instructions": {},
+      "Videos/Demonstrations": {},
+      "Frequency": {}
+    }
+  }
+}

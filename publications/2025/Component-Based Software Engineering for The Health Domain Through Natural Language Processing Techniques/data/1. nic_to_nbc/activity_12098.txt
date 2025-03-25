@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Effect Monitoring": {
+    "Expected Effects": {"type": "list"},
+    "Unexpected Effects": {"type": "list"},
+    "Monitoring Frequency": {"type": "options"},
+    "Symptom Tracking": {"type": "form"},
+    "Alert Threshold": {"type": "options"},
+    "Deadline Date": {"type": "datetime"}
+  }
+}
+
+
+Let me know if you need any further assistance!

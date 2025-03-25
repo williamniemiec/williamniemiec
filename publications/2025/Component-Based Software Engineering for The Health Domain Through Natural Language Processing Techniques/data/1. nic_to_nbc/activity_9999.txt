@@ -1,0 +1,20 @@
+Here is the output JSON:
+
+
+{
+  "name": "Equipment Checklist",
+  "parameters": [
+    {
+      "name": "Equipment List"
+    },
+    {
+      "name": "Checklist Items"
+    },
+    {
+      "name": "Verification Method"
+    },
+    {
+      "name": "Status"
+    }
+  ]
+}

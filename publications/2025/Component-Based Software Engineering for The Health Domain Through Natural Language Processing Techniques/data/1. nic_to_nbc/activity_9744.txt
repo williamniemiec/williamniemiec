@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "ElementName": "Education",
+  "ParameterSpecifications": {
+    "Title": {"Type": "text"},
+    "Content": {"Type": "rich text or multimedia"},
+    "Pages": {"Type": "list of HTML texts or multimedia files"},
+    "Quiz": {"Type": "list of questions with answer options and correct answers"},
+    "Frequency": {"Type": "options"},
+    "Deadline Date": {"Type": "datetime"}
+  }
+}

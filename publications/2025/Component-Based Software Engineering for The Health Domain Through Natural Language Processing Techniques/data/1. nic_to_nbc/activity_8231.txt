@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+    "Behavior-Goal Connection": {
+        "Parameters": {
+            "Goal Selection": {"Type": "list of goals"},
+            "Behavior Reflection": {"Type": "text or multiple-choice"},
+            "Influence Analysis": {"Type": "rating scale or text"},
+            "Strategy Suggestions": {"Type": "list of strategies"},
+            "Action Plan": {"Type": "text or form"},
+            "Deadline Date": {"Type": "datetime"}
+        }
+    }
+}
+
+
+Let me know if this is what you were expecting!

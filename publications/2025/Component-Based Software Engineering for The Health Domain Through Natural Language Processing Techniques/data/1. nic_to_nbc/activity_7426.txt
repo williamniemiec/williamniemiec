@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Stump Shaping": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Instructions": {"Type": "text"},
+      "Wrapping Technique": {"Type": "options", "Options": ["figure-eight", "spiral", "other"]},
+      "Frequency": {"Type": "options", "Options": ["daily", "everyHours", "everyDays", "asNeeded"]},
+      "Deadline Date": {"Type": "datetime"},
+      "Progress Tracking": {"Type": "camera"},
+      "Tips and Reminders": {"Type": "text"}
+    }
+  }
+}

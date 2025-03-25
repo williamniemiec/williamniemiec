@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Family Education": {
+    "Condition Information": {},
+    "Treatment Information": {},
+    "Support Group Directory": {},
+    "Resource Library": {},
+    "Personalized Recommendations": {},
+    "Progress Tracking": {}
+  }
+}

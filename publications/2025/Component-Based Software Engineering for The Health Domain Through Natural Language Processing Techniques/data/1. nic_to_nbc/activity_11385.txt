@@ -1,0 +1,45 @@
+Here is the output in JSON format:
+
+
+{
+  "Pain Relief Plan Collaboration": {
+    "Parameters": {
+      "Pain Relief Options": {
+        "Type": "list of pain relief options",
+        "Items": {
+          "Name": {"Type": "text"},
+          "Description": {"Type": "text"}
+        }
+      },
+      "Patient Preferences": {
+        "Type": "patient preferences",
+        "Items": {
+          "Pain Relief Option": {"Type": "text"},
+          "Reason": {"Type": "text"}
+        }
+      },
+      "Significant Other Input": {
+        "Type": "significant other input",
+        "Items": {
+          "Pain Relief Option": {"Type": "text"},
+          "Reason": {"Type": "text"}
+        }
+      },
+      "Health Professional Input": {
+        "Type": "health professional input",
+        "Items": {
+          "Pain Relief Option": {"Type": "text"},
+          "Reason": {"Type": "text"}
+        }
+      },
+      "Pain Relief Plan": {
+        "Type": "pain relief plan",
+        "Items": {
+          "Pain Relief Option": {"Type": "text"},
+          "Frequency": {"Type": "options"},
+          "Duration": {"Type": "options"}
+        }
+      }
+    }
+  }
+}

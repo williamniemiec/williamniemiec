@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Hemodynamic Response Tracker": {
+    "parameters": [
+      {"name": "Blood Pressure", "type": "number", "unit": "mmHg"},
+      {"name": "Heart Rate", "type": "number", "unit": "beats per minute"},
+      {"name": "Oxygen Saturation", "type": "number", "unit": "%"}
+    ]
+  }
+}
+
+
+Note that I removed the `Fluid Status` parameter since it had a lot of unnecessary characters and no clear type or unit. If you want to include it, please let me know how you'd like it formatted.

@@ -1,0 +1,31 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Benefit Highlighter",
+    "parameters": [
+        { 
+            "name": "Lifestyle Behavior", 
+            "type": "options"
+        },
+        { 
+            "name": "Immediate Benefits", 
+            "type": "options"
+        },
+        { 
+            "name": "Timeframe", 
+            "type": "options"
+        },
+        { 
+            "name": "Message Tone", 
+            "type": "options"
+        },
+        { 
+            "name": "Notes", 
+            "type": "text"
+        }
+    ]
+}
+
+
+I removed all unnecessary information and kept only the `{{ NO-CODE ELEMENT NAME }}` and `{{ PARAMETER ESPECIFICATIONS }}`. I also removed the "not applicable" parameters. Let me know if this is what you were looking for!

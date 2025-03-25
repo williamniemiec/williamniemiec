@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Dialysis Preparation Assistant": {
+    "parameters": {
+      "name": {},
+      "dialysis_type": {},
+      "catheter_placement": {},
+      "pre_dialysis_checklist": {},
+      "dialysis_schedule": {},
+      "frequency": {},
+      "deadline_date": {}
+    }
+  }
+}

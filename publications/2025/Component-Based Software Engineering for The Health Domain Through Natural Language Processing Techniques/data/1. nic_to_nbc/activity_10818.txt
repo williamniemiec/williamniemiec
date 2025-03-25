@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Art Supply Selector": {
+    "Parameters": {
+      "Developmental Level": {"Type": "options"},
+      "Therapy Goals": {"Type": "options"},
+      "Art Supply Type": {"Type": "options"},
+      "Art Supply Description": {"Type": "text"},
+      "Recommended Supplies": {"Type": "list of recommended supplies"}
+    }
+  }
+}

@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Elevation and Positioning Guide": {
+    "Elevation Instructions": {"type": "text"},
+    "Dependent Positioning Instructions": {"type": "text"},
+    "Progressive Timing": {"type": "list of options"},
+    "Agency Protocol": {"type": "text"},
+    "Reminders": {"type": "boolean"},
+    "Photos": {"type": "camera"},
+    "Notes": {"type": "text"}
+  }
+}
+
+
+Let me know if this is what you were expecting!

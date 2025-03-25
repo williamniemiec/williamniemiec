@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+    "Resource Referral": {
+        "Parameters": {
+            "Resource Type": {"Type": "options", "Options": ["self-help group", "online forum", "website", "mobile app", "etc."]},
+            "Resource Name": {"Type": "text"},
+            "Resource URL": {"Type": "url"},
+            "Description": {"Type": "text"}
+        }
+    }
+}
+
+
+I removed the `Frequency` parameter as it is not applicable in this context. Let me know if you need any further assistance!

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Caregiver Collaboration": {
+    "parameters": {
+      "Caregiver Information": {"type": "text", "description": "Enter caregiver's name, contact information, and relationship to the patient"},
+      "Exercise Protocol": {"type": "text", "description": "Enter exercise protocol details, including type, frequency, and duration"},
+      "ADLs": {"type": "text", "description": "Enter ADLs details, including bathing, dressing, grooming, etc."},
+      "Collaboration Frequency": {"type": "options", "options": ["daily", "weekly", "bi-weekly", "monthly"]},
+      "Notes": {"type": "text", "description": "Enter any additional notes or comments about the caregiver collaboration"}
+    }
+  }
+}

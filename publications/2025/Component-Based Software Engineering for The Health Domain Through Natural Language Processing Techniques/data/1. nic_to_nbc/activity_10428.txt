@@ -1,0 +1,33 @@
+Here is the output in JSON format:
+
+
+{
+  "Self-Care Assessment": {
+    "Questions": {
+      "Description": "list of questions to assess the patient's ability to perform self-care of pessary",
+      "Required": true,
+      "Type": "unordered list",
+      "Options": [
+        { "value": "canInsert", "label": "Can insert pessary correctly" },
+        { "value": "canRemove", "label": "Can remove pessary correctly" },
+        { "value": "canClean", "label": "Can clean pessary properly" },
+        { "value": "hasSupport", "label": "Has support system to assist with pessary care" }
+      ]
+    },
+    "Scoring": {
+      "Description": "scoring system to determine the patient's ability to perform self-care of pessary",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "yes", "label": "Able to perform self-care" },
+        { "value": "no", "label": "Unable to perform self-care" },
+        { "value": "partial", "label": "Partially able to perform self-care" }
+      ]
+    },
+    "Instructions": {
+      "Description": "instructions based on the patient's ability to perform self-care of pessary",
+      "Required": true,
+      "Type": "text"
+    }
+  }
+}

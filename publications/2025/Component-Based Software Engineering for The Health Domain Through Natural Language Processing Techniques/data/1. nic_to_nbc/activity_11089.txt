@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Caregiver Role Reinforcement": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Affirmations": {"Type": "list of text", "Examples": ["You are doing a great job as a caregiver!", "Remember, you are not alone in this journey."]},
+      "Encouragement": {"Type": "list of text", "Examples": ["Keep going, you're making a difference!", "Your hard work is paying off!"]},
+      "Frequency": {"Type": "options", "Options": ["daily", "every other day", "weekly", "etc."]},
+      "Customization": {"Type": "boolean", "Options": [true, false]}
+    }
+  }
+}
+
+
+Note that I removed the `Reflection Prompts` and `Goal Setting` parameters as they were marked as "Interactive Elements" which are not part of the original parameter specifications.

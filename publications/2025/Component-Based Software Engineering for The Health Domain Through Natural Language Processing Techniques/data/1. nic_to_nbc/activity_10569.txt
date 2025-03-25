@@ -1,0 +1,32 @@
+Here is the output in JSON format:
+
+
+{
+    "Insertion Site Inspection": {
+        "parameters": [
+            {
+                "name": "Inspection frequency",
+                "type": "options",
+                "options": [
+                    "daily", 
+                    "every12Hours", 
+                    "every8Hours", 
+                    "asNeeded", 
+                    "custom"
+                ]
+            },
+            {
+                "name": "Signs of bleeding",
+                "type": "boolean"
+            },
+            {
+                "name": "Signs of infection",
+                "type": "boolean"
+            },
+            {
+                "name": "Notes",
+                "type": "text"
+            }
+        ]
+    }
+}

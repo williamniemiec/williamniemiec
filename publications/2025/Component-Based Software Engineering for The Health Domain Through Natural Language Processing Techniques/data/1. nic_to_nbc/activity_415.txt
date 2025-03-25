@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+    "Activity Regulation": {
+        "Intense Activities": {"Type": "list of activities"},
+        "Alternative Activities": {"Type": "list of activities"},
+        "Activity Tracking": {"Type": "interactive exercise or gamification element"},
+        "Relaxation Techniques": {"Type": "text, audio, or video content"},
+        "Goal Setting": {"Type": "interactive exercise or gamification element"}
+    }
+}

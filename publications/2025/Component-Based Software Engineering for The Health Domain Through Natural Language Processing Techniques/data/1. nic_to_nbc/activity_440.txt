@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Therapy Application": {
+    "therapy": {"Description": "Specific therapy to be applied", "Required": true, "Type": "text"},
+    "body_part": {"Description": "Specific body part to apply the therapy to", "Required": true, "Type": "text"},
+    "duration": {"Description": "Duration of therapy application", "Required": true, "Type": "timer"},
+    "frequency": {"Description": "Frequency of therapy application", "Required": true, "Type": "text"}
+  }
+}

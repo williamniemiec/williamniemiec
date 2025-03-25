@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Respiratory Pattern Tracking": {
+    "Parameters": {
+      "Respiratory Pattern": {"Type": ["text", "options"]},
+      "Frequency": {"Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"Type": "datetime"},
+      "Respiratory Pattern Analysis": {"Type": ["text", "graph"]}
+    }
+  }
+}

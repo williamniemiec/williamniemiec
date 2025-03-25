@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Restraint Application and Monitoring",
+  "parameters": [
+    {
+      "name": "Indications",
+      "type": "list of text"
+    },
+    {
+      "name": "Application Instructions",
+      "type": "ordered list of text"
+    },
+    {
+      "name": "Images",
+      "type": "list of image URLs or base64 encoded images"
+    },
+    {
+      "name": "Monitoring Frequency",
+      "type": "options"
+    },
+    {
+      "name": "Monitoring Parameters",
+      "type": "list of text"
+    }
+  ]
+}

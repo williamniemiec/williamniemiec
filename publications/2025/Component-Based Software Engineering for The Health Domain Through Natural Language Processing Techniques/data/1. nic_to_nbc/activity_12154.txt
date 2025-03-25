@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Return Demonstration": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Technique": {"Type": ["text", "video"]},
+      "Frequency": {"Type": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"Type": "datetime"},
+      "Submission Type": {"Type": ["video", "photo", "text"]}
+    }
+  }
+}

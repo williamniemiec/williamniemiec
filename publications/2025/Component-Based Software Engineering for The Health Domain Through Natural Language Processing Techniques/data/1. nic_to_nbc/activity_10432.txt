@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Supportive Presence": {
+    "Offer": {"Type": "boolean"},
+    "Role": {"Type": "text"},
+    "Duration": {"Type": "options"},
+    "Instructions": {"Type": "text"}
+  }
+}

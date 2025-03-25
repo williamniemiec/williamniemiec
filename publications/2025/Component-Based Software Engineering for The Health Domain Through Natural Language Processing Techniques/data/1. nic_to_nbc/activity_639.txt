@@ -1,0 +1,11 @@
+
+
+
+{
+  "name": "Electromagnetic Interference Safety Tips",
+  "parameters": [
+    {
+      "name": "safety_tips"
+    }
+  ]
+}

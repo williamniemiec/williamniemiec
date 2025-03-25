@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+"Pain Reporting": {
+    "parameters": {
+        "name": "",
+        "description": "",
+        "frequency": "",
+        "deadline_date": "",
+        "pain scale": "",
+        "request analgesics": ""
+    }
+}
+}

@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+    "Aromatherapy Response Evaluator": {
+        "Evaluation Questions": {"type": "list of questions"},
+        "Response Options": {"type": "list of response options"},
+        "Frequency": {"options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+        "Deadline Date": {"type": "datetime"},
+        "Additional Comments": {"type": "text"}
+    }
+}

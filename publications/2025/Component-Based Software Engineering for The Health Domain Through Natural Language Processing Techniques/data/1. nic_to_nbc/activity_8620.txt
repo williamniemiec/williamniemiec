@@ -1,0 +1,4 @@
+Since the input does not match the specified format, I will assume it's an incomplete or malformed input. In this case, I will return an empty JSON object:
+
+
+{}

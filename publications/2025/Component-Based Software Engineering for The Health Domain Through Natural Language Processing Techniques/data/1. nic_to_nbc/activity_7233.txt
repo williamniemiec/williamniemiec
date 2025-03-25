@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Authenticity Exercise": {
+    "Reflection Prompts": {"type": "text"},
+    "Value Identification": {"type": "text or multiple-choice options"},
+    "Strengths and Weaknesses": {"type": "text or multiple-choice options"},
+    "Honesty Statement": {"type": "text"},
+    "Frequency": {"type": "options (daily, onlyOnce, everyHours, everyDays)"},
+    "Deadline Date": {"type": "datetime"}
+  }
+}

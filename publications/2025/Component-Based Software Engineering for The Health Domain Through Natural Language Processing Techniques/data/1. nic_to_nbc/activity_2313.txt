@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+    "Resource Referral": {
+        "Parameters": {
+            "Name": {"Type": "text"},
+            "Description": {"Type": "text"},
+            "Link": {"Type": "url"},
+            "Phone Number": {"Type": "phone number"},
+            "Address": {"Type": "address"},
+            "Treatment Options": {"Type": "list of options"},
+            "Why": {"Type": "text"}
+        }
+    }
+}

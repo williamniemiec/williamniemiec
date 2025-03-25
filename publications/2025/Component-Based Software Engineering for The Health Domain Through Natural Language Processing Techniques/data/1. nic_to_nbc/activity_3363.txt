@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Personal Item Arrangement": {
+    "Item List": {"type": "text or checklist"},
+    "Item Priority": {"type": "rating scale (e.g., 1-5) or drag-and-drop ranking"},
+    "Arrangement Options": {"type": "list of options"},
+    "Arrangement Schedule": {"type": "scheduling tool (e.g., calendar, appointment scheduler)"},
+    "Confirmation": {"type": "text or notification"},
+    "Resources": {"type": "list of URLs or embedded media"}
+  }
+}

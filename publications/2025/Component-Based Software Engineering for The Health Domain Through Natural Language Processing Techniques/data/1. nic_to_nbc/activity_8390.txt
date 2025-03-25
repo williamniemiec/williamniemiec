@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Job Description": {
+    "Parameters": {
+      "Job Title": {"Type": "text"},
+      "Job Summary": {"Type": "text"},
+      "Responsibilities": {"Type": "list of text values"},
+      "Requirements": {"Type": "list of text values"},
+      "Skills": {"Type": "list of text values"},
+      "Education": {"Type": "text"},
+      "Experience": {"Type": "text"},
+      "Work Environment": {"Type": "text"}
+    }
+  }
+}

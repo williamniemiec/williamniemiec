@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Cleansing Instruction": {
+    "Area": {"type": "text"},
+    "Solution": {"type": "text"},
+    "Instructions": {"type": "text"},
+    "Image": {"type": "image"},
+    "Frequency": {"type": "options"},
+    "Deadline Date": {"type": "datetime"}
+  }
+}

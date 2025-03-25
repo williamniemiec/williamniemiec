@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "Wellness Resource": {
+    "parameters": {
+      "name": {"type": "text"},
+      "description": {"type": "text"},
+      "resources": {
+        "type": "unordered list",
+        "items": {
+          "name": {"type": "text"},
+          "url": {"type": "url"},
+          "description": {"type": "text"}
+        }
+      },
+      "frequency": {
+        "type": "options",
+        "options": ["daily", "weekly", "monthly", "quarterly"]
+      },
+      "deadline_date": {"type": "datetime"}
+    }
+  }
+}

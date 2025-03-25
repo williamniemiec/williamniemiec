@@ -1,0 +1,40 @@
+Here is the output in JSON format:
+
+
+{
+  "Goal Setting": {
+    "Parameters": {
+      "Goal Question": {
+        "Description": "Open-ended question to identify patient's goals",
+        "Required": true,
+        "Type": "text"
+      },
+      "Goal Options": {
+        "Description": "Pre-defined list of goals for the patient to select from",
+        "Required": false,
+        "Type": "options",
+        "Options": [
+          { "value": "manageSymptoms", "label": "Manage symptoms" },
+          { "value": "improveAdherence", "label": "Improve medication adherence" },
+          { "value": "increaseKnowledge", "label": "Increase knowledge about condition" },
+          { "value": "other", "label": "Other (please specify)" }
+        ]
+      },
+      "Priority": {
+        "Description": "Allow patient to prioritize their goals",
+        "Required": false,
+        "Type": "options",
+        "Options": [
+          { "value": "high", "label": "High priority" },
+          { "value": "medium", "label": "Medium priority" },
+          { "value": "low", "label": "Low priority" }
+        ]
+      },
+      "Notes": {
+        "Description": "Optional notes about the patient's goals",
+        "Required": false,
+        "Type": "text"
+      }
+    }
+  }
+}

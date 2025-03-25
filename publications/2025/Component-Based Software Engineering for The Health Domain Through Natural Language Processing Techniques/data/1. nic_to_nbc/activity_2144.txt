@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Capture Monitoring": {
+    "Symptom": {"type": "text"},
+    "Causes": {"type": "options", "options": ["lead dislodgement", "malposition", "pacing at voltage below capture threshold", "faulty connections", "lead fracture", "ventricular perforation", "others"]},
+    "Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"type": "datetime"},
+    "Notes": {"type": "text"},
+    "Additional Questions": {"type": "form", "questions": [{"answerType": "yes/no"}, {"answerType": "text"}, {"answerType": "number"}]}
+  }
+}

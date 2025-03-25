@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+
+{
+    "Transportation Confirmation": {
+        "parameters": {
+            "name": {"type": "text"},
+            "transportation_type": {"type": "options", "options": ["ambulance", "taxi", "family member", "etc."]},
+            "escort_required": {"type": "boolean"},
+            "escort_details": {"type": "text"},
+            "confirmation_type": {"type": "options", "options": ["checkbox", "signature", "etc."]}
+        }
+    }
+}

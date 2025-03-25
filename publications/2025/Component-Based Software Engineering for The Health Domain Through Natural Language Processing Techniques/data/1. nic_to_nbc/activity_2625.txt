@@ -1,0 +1,10 @@
+Since there is no {{ PARAMETER ESPECIFICATIONS }} and no applicable {{ NO-CODE ELEMENT NAME }}, the output would be an empty JSON object:
+
+{}
+
+If you want to represent the absence of these elements, you could return:
+
+{
+  "PARAMETER_ESPECIFICATIONS": null,
+  "NO_CODE_ELEMENT_NAME": null
+}

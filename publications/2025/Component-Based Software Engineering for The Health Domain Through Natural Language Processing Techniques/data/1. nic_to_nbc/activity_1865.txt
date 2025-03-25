@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Arterial Insufficiency Monitoring": {
+    "Parameters": {
+      "Monitoring Title": {},
+      "Question": {},
+      "Frequency": {},
+      "Deadline Date": {}
+    }
+  }
+}

@@ -1,0 +1,9 @@
+Here is the output in JSON format:
+
+
+{
+    "Exercise Log": {
+        "Name": {"Type": "text"},
+        "Muscle Group": {"Type": ""}
+    }
+}

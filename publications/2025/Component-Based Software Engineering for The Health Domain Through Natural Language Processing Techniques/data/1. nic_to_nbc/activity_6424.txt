@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Meal Environment Checklist": {
+    "parameters": {
+      "name": {"type": "text"},
+      "items": {"type": "list of objects", "properties": {"text": {"type": "text"}, "type": {"type": "options"}}},
+      "submit_button": {"type": "text"}
+    }
+  },
+  "Meal Environment Tips": {
+    "parameters": {
+      "name": {"type": "text"},
+      "tips": {"type": "list of objects", "properties": {"text": {"type": "text"}, "image": {"type": "image"}}}
+    }
+  }
+}

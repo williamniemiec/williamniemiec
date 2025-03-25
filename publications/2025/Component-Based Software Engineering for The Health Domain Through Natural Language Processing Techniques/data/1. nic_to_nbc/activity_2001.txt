@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+  "Role Model Introduction": {
+    "Parameters": {
+      "Problem type": [],
+      "Role model profile": {
+        "Name": {},
+        "Story": {},
+        "Photo or video": {}
+      },
+      "Introduction method": {
+        "In-person meeting": {},
+        "Video conference": {},
+        "Written testimony": {}
+      },
+      "Support system": {
+        "Family support": {},
+        "Friend support": {},
+        "Mental health professional": {}
+      },
+      "Frequency": ["daily", "onlyOnce", "everyHours", "everyDays"],
+      "Deadline Date": {"Type": "datetime"}
+    }
+  }
+}

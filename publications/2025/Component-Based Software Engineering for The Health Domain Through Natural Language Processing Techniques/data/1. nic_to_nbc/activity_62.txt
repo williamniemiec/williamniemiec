@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Reassurance": {
+    "Parameters": {
+      "Calming Message": {"Type": "text or audio/video content"},
+      "Soothing Imagery": {"Type": "image or video content"},
+      "Breathing Exercises": {"Type": "audio or video content"},
+      "Empathetic Statement": {"Type": "text or audio/video content"}
+    }
+  }
+}

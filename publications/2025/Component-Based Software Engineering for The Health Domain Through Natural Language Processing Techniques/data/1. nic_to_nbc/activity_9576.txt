@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+  "PEEP Avoidance": {
+    "alert message": {
+      "Description": "Message to alert the patient to avoid using PEEP",
+      "Required": true,
+      "Type": "text"
+    },
+    "Reason": {
+      "Description": "Explain why PEEP should be avoided",
+      "Required": true,
+      "Type": "text"
+    },
+    "Frequency": {
+      "Description": "Specify how often the patient should be reminded to avoid PEEP",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "daily", "label": "Daily" },
+        { "value": "onlyOnce", "label": "Only once" },
+        { "value": "everyHours", "label": "Every x hours" },
+        { "value": "everyDays", "label": "Every x days" }
+      ]
+    }
+  }
+}

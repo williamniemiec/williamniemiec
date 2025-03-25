@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Medical History",
+  "parameters": [
+    {"name": "Medical Conditions"},
+    {"name": "Surgeries"},
+    {"name": "Medications"},
+    {"name": "Allergies"},
+    {"name": "Family Medical History"}
+  ]
+}

@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Education Module": {
+    "parameters": [
+      {"name": "rationale", "description": "Why is noninvasive mechanical ventilation used?", "required": true, "type": "text"},
+      {"name": "expected_sensations", "description": "What sensations can you expect during use?", "required": true, "type": "text"},
+      {"name": "device_info", "description": "Information about the device", "required": true, "type": "text"},
+      {"name": "faq", "description": "Frequently Asked Questions", "required": false, "type": "faq", "faq": [
+        {"question": "What is noninvasive mechanical ventilation?", "answer": "..."},
+        {"question": "How does the device work?", "answer": "..."},
+        {"question": "What are the benefits of using a noninvasive mechanical ventilator?", "answer": "..."}
+      ]}
+    ]
+  }
+}

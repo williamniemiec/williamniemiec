@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+  "Pain Response Log": {
+    "parameters": [
+      {"name": "response", "description": "Describe your response to the analgesic", "required": true, "type": "text"},
+      {"name": "date", "description": "Date of the response", "required": true, "type": "datetime"},
+      {"name": "frequency", "description": "How often should you log your response", "required": true, "type": "options", "options": [
+        { "value": "afterEachDose", "label": "After each dose" },
+        { "value": "everyHours", "label": "Every x hours" },
+        { "value": "everyDays", "label": "Every x days" }
+      ]}
+    ]
+  },
+  "Side Effect Log": {
+    "parameters": [
+      {"name": "side_effects", "description": "Describe any side effects you are experiencing", "required": true, "type": "text"},
+      {"name": "date", "description": "Date of the side effect", "required": true, "type": "datetime"},
+      {"name": "frequency", "description": "How often should you log side effects", "required": true, "type": "options", "options": [
+        { "value": "afterEachDose", "label": "After each dose" },
+        { "value": "everyHours", "label": "Every x hours" },
+        { "value": "everyDays", "label": "Every x days" }
+      ]}
+    ]
+  }
+}

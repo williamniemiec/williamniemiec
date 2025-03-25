@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Event": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Description": {"Type": "text"},
+      "Type": {"Type": "options", "Options": [{"value": "devotionalService", "label": "Devotional Service"}, {"value": "retreat", "label": "Retreat"}, {"value": "prayerStudyProgram", "label": "Prayer/Study Program"}]},
+      "Date": {"Type": "datetime"},
+      "Frequency": {"Type": "options", "Options": [{"value": "daily", "label": "Daily"}, {"value": "weekly", "label": "Weekly"}, {"value": "monthly", "label": "Monthly"}]},
+      "Location": {"Type": "text"},
+      "Resources": {"Type": "text"}
+    }
+  }
+}

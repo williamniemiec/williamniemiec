@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Stump Positioning Guide": {
+    "parameters": [
+      {"name": "information", "description": "Importance of proper stump positioning for healing and comfort"},
+      {"name": "instructions", "description": "How to place your below-the-knee stump in an extended position"},
+      {"name": "images", "description": "Visual examples of proper stump positioning"}
+    ]
+  }
+}

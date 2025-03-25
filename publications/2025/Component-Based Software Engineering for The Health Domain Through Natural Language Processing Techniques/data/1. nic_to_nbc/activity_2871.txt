@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Rest and Immobilization": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Injured Body Part": {"Type": "text"},
+      "Rest Instructions": {"Type": ["text", "multimedia"]},
+      "Immobilization Methods": {"Type": ["text", "multimedia"]},
+      "Frequency": {"Type": "options"},
+      "Deadline Date": {"Type": "datetime"}
+    }
+  }
+}
+
+
+I removed the parameters that are not applicable, which in this case was only `"Pain Management"`. Let me know if you have any further questions!

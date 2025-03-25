@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+  "Peripheral Circulation Assessment": {
+    "Parameters": {
+      "1. Peripheral Pulses": {"Type": "boolean", "Options": ["yes/no"]},
+      "2. Edema": {"Type": "boolean", "Options": ["yes/no"]},
+      "3. Capillary Refill": {"Type": "options", "Options": ["<2 seconds", "2-3 seconds", ">3 seconds"]},
+      "4. Skin Temperature": {"Type": "options", "Options": ["warm", "cool", "cold"]},
+      "5. Diaphoresis": {"Type": "boolean", "Options": ["yes/no"]},
+      "6. Frequency": {"Type": "options", "Options": ["daily", "weekly", "with each scheduled checkup visit"]},
+      "7. Deadline Date": {"Type": "datetime"},
+      "8. Notes": {"Type": "text"}
+    }
+  }
+}
+
+
+Note that I removed the not applicable parameters (i.e., empty or non-existent parameters) and only kept the relevant information in the JSON output.

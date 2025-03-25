@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Cerumen Removal Guidance": {
+        "parameters": {
+            "title": {"type": "text"},
+            "content": {"type": "text or html"},
+            "warnings": {"type": "list of warnings"},
+            "resources": {"type": "list of resources"}
+        }
+    }
+}

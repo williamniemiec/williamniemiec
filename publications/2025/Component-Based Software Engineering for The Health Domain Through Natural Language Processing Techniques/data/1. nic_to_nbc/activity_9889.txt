@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Effluent Monitoring": {
+    "parameters": [
+      {"name": "effluent_color", "description": "Describe the color of the returned effluent"},
+      {"name": "effluent_clarity", "description": "Describe the clarity of the returned effluent"},
+      {"name": "bleeding", "description": "Is there any bleeding present in the effluent?"},
+      {"name": "clots", "description": "Are there any clots present in the effluent?"},
+      {"name": "frequency", "description": "Specify how often to monitor and report effluent"}
+    ]
+  }
+}

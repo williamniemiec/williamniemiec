@@ -1,0 +1,39 @@
+Here is the output in JSON format:
+
+
+{
+    "parameters": [
+        { 
+            "name": "Name", 
+            "type": "text"
+        },
+        { 
+            "name": "Fields", 
+            "type": "list of objects",
+            "objects": [
+                {
+                    "label": "First Name",
+                    "type": "text"
+                },
+                {
+                    "label": "Last Name",
+                    "type": "text"
+                },
+                {
+                    "label": "Date of Birth",
+                    "type": "date"
+                },
+                {
+                    "label": "Gender",
+                    "type": "options",
+                    "options": [
+                        { value: "male", label: "Male" },
+                        { value: "female", label: "Female" },
+                        { value: "other", label: "Other" }
+                    ]
+                }
+            ]
+        }
+    ],
+    "no-code element name": "Demographic Data"
+}

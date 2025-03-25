@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Strengths Tracker": {
+    "Title": {"type": "text"},
+    "Strengths Categories": {"type": "options", "options": ["academic", "social", "emotional", "physical", "etc."]},
+    "Strengths List": {"type": "list of text"},
+    "Reflection Prompt": {"type": "text"},
+    "Frequency": {"type": "options", "options": ["daily", "weekly", "monthly", "etc."]}
+  }
+}

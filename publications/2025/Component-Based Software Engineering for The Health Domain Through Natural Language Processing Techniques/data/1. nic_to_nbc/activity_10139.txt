@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+    "Positioning Guide": {
+        "parameters": [
+            {"name": "image", "description": "Image of semi-Fowler position", "required": true, "type": "image"},
+            {"name": "instructions", "description": "Step-by-step instructions", "required": true, "type": "text"}
+        ]
+    }
+}

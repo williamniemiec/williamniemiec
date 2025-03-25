@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Literary Play": {
+    "parameters": [
+      {"Reading Session": {"type": "text or multimedia"}},
+      {"Play Session Type": {"type": "options", "options": ["individual", "group", "role-playing", "creative play"]}},
+      {"Play Session Goals": {"type": "text"}},
+      {"Facilitator": {"type": "text"}},
+      {"Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]}}
+    ]
+  }
+}

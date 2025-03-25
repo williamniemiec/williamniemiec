@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Guide": {
+    "Parameters": {
+      "task title": {"Description": "title of the guide", "Required": true, "Type": "text"},
+      "Pages": {"Description": "list of pages explaining the signs of breathing difficulty", "Required": true, "Type": "book-page"}
+    }
+  }
+}

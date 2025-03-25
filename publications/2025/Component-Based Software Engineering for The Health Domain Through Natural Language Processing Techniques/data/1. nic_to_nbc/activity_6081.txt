@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+
+{
+  "Tutorial": {
+    "Parameters": {
+      "Title": {
+        "Type": "text"
+      },
+      "Content": {
+        "Type": "video or interactive simulation"
+      },
+      "Device/Treatment": {
+        "Type": "text"
+      },
+      "Frequency": {
+        "Type": "options",
+        "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+      }
+    }
+  }
+}
+
+
+I removed the `Deadline Date` parameter since it's marked as "Not applicable" in the input text.

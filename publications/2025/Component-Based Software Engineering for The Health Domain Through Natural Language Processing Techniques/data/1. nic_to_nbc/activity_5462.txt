@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Survey": {
+    "Questions": [
+      {"Diet": ""},
+      {"Cigarette smoking": "yes/no"},
+      {"Medication use": "list of medications with dosages and frequencies"},
+      {"Other oral intake": "yes/no"}
+    ],
+    "Answer Type": {"Type": ["text", "yes/no", "list", "etc."]},
+    "Frequency": {"Type": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"Type": "datetime"}
+  }
+}

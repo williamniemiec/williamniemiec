@@ -1,0 +1,29 @@
+Here is the output in JSON format:
+
+
+{
+  "Sexual Activity Modification": {
+    "Parameters": {
+      "Current sexual activity": {
+        "Frequency": "",
+        "Type": ""
+      },
+      "Modifications needed": {
+        "Frequency reduction": "",
+        "Alternative activities": "",
+        "Ergonomic adjustments": ""
+      },
+      "Reason for modification": {
+        "Medical condition": "",
+        "Pain or discomfort": "",
+        "Changes in sexual desire": ""
+      },
+      "Communication strategies": {
+        "Open and honest communication": "",
+        "Active listening": ""
+      },
+      "Frequency": ["daily", "onlyOnce", "everyHours", "everyDays"],
+      "Deadline Date": {"Type": "datetime"}
+    }
+  }
+}

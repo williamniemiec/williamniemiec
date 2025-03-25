@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Support Network": {
+    "parameters": {
+      "Support Type": {"type": "options"},
+      "Support Person": {"type": "text"},
+      "Support Instructions": {"type": "text or multimedia content"},
+      "Resources": {"type": "text or multimedia content"}
+    }
+  }
+}

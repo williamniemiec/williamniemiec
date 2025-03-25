@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Environmental Adaptation": {
+    "parameters": {
+      "name": {},
+      "description": {},
+      "affected_side": {},
+      "compensation_level": {},
+      "item_list": {},
+      "activity_list": {},
+      "gradual_steps": {},
+      "frequency": {},
+      "duration": {}
+    }
+  }
+}
+
+
+Note that I removed the `type` and `options` information, as per your request. If you need to include them, let me know!

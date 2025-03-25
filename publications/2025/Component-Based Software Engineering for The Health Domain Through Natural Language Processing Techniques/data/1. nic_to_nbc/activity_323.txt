@@ -1,0 +1,10 @@
+Here is the output in JSON format:
+
+
+{
+    "Breathing Exercise": {
+        "breathing_instruction": {},
+        "audio_guide": {},
+        "frequency": {}
+    }
+}

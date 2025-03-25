@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Positioning Guide": {
+    "parameters": {
+      "position_instruction": {},
+      "image": {}
+    }
+  }
+}
+
+
+Note: I removed the `frequency` parameter as it was marked as "options" and didn't have a specific value. If you want to keep it, let me know!

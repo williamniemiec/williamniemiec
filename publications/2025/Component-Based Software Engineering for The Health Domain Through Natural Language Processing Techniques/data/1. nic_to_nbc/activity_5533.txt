@@ -1,0 +1,35 @@
+Here is the output in JSON format:
+
+
+{
+  "Rescue Breaths": {
+    "parameters": [
+      { 
+        "name": "initial compressions", 
+        "description": "number of initial chest compressions", 
+        "required": true, 
+        "type": "number"
+      },
+      { 
+        "name": "number of breaths", 
+        "description": "number of rescue breaths to be performed", 
+        "required": true, 
+        "type": "number"
+      },
+      { 
+        "name": "frequency", 
+        "description": "specify how often the rescue breaths should be repeated", 
+        "required": true, 
+        "type": "options",
+        "options": [
+          { value: "afterInitialCompressions", label: "After initial compressions" },
+          { value: "everyMinutes", label: "Every x minutes" },
+          { value: "everyHours", label: "Every x hours" },
+        ]
+      }
+    ]
+  }
+}
+
+
+I removed the not applicable parameter `"deadline_date"` since it's not required. Let me know if this is what you were looking for!

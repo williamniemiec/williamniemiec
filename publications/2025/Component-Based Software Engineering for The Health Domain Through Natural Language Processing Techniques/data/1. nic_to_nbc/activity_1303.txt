@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Tourniquet Pressure",
+  "parameters": [
+    {
+      "name": "Pressure Level"
+    },
+    {
+      "name": "Pressure Measurement"
+    },
+    {
+      "name": "Arterial Flow Check"
+    }
+  ]
+}

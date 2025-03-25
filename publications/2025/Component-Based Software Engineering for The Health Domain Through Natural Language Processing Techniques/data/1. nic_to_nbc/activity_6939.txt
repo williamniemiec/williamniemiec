@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+[
+  {
+    "noCodeElementName": "Task",
+    "parameters": {
+      "name": "Bed Rest",
+      "content": "A brief description of the task, e.g. \"Please limit your activity to bed rest until the graft adheres to promote proper healing.\""
+    }
+  },
+  {
+    "noCodeElementName": "Reminder",
+    "parameters": {
+      "name": "Bed Rest Reminder",
+      "content": "A brief reminder message, e.g. \"Remember to stay in bed and limit your activity until the graft adheres.\"",
+      "frequency": "every 2 hours"
+    }
+  }
+]

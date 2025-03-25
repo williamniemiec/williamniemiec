@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Prayer and Reflection": {
+    "Parameters": {
+      "Prayer Prompt": [],
+      "Reflection Questions": [],
+      "Journaling": [],
+      "Guided Meditation": []
+    }
+  }
+}

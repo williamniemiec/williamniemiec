@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "TENS Adjustment": {
+    "Amplitude Adjustment": {"type": "numeric", "units": "mA"},
+    "Rate Adjustment": {"type": "numeric", "units": "Hz"},
+    "Pulse Width Adjustment": {"type": "numeric", "units": "μs"},
+    "Adjustment Confirmation": {"type": "boolean", "options": ["yes", "no"]},
+    "Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"type": "datetime"}
+  }
+}

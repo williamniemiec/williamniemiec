@@ -1,0 +1,50 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Therapy/Treatment Options Discussion",
+  "parameters": [
+    {
+      "name": "Condition",
+      "type": "text"
+    },
+    {
+      "name": "Options",
+      "type": "unordered list"
+    },
+    {
+      "name": "Descriptions",
+      "type": "text"
+    },
+    {
+      "name": "Benefits",
+      "type": "unordered list"
+    },
+    {
+      "name": "Risks",
+      "type": "unordered list"
+    },
+    {
+      "name": "Questions",
+      "type": "unordered list"
+    },
+    {
+      "name": "Decision Support",
+      "type": "text or link"
+    },
+    {
+      "name": "Frequency",
+      "type": "options",
+      "options": [
+        { value: "daily", label: "Daily" },
+        { value: "weekly", label: "Weekly" },
+        { value: "monthly", label: "Monthly" },
+        { value: "quarterly", label: "Quarterly" }
+      ]
+    },
+    {
+      "name": "Deadline Date",
+      "type": "datetime"
+    }
+  ]
+}

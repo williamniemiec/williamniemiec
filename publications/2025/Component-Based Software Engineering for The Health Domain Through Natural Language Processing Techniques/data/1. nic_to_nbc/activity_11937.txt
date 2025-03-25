@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Emotion Reflection": {
+    "Name": {"type": "text"},
+    "Description": {"type": "text"},
+    "Feeling": {"type": "text"},
+    "Intensity": {"type": "options", "options": ["low", "medium", "high"]},
+    "Trigger": {"type": "text"},
+    "Thoughts": {"type": "text"},
+    "Action": {"type": "text"},
+    "Alternative Action": {"type": "text"},
+    "Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"type": "datetime"}
+  }
+}

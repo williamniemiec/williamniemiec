@@ -1,0 +1,37 @@
+Here is the output in JSON format:
+
+
+{
+    "Mood Tracker": {
+        "parameters": {
+            "name": "",
+            "emotions": [],
+            "frequency": "",
+            "deadline_date": ""
+        }
+    },
+    "Behavioral Checklist": {
+        "parameters": {
+            "name": "",
+            "behaviors": [],
+            "frequency": "",
+            "deadline_date": ""
+        }
+    },
+    "Surveillance Check": {
+        "parameters": {
+            "name": "",
+            "questions": [],
+            "frequency": "",
+            "deadline_date": ""
+        }
+    },
+    "Risk Assessment": {
+        "parameters": {
+            "name": "",
+            "criteria": [],
+            "frequency": "",
+            "deadline_date": ""
+        }
+    }
+}

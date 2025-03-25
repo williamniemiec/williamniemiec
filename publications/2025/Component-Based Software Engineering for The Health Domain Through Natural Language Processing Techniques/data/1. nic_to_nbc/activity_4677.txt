@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Competitor Matcher": {
+    "parameters": {
+      "Competitor Information": {"type": "text or numeric"},
+      "Matching Criteria": {"type": "options"},
+      "Matching Algorithm": {"type": "text or options"},
+      "Match Results": {"type": "text or table"},
+      "Match Rationale": {"type": "text"}
+    }
+  }
+}

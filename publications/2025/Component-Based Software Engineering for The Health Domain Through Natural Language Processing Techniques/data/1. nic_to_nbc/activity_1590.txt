@@ -1,0 +1,2 @@
+{}
+Since there are no specific inputs, I will assume that the input is empty and therefore the output should also be an empty JSON object. If you provide a real input, I can help you with the task.

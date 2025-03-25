@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+[
+    {
+        "name": "Question",
+        "parameters": {
+            "name": "Membrane Rupture",
+            "question": "Have you experienced a sudden gush of fluid or a steady trickle of fluid from your vagina?",
+            "answer type": "options (e.g., yes/no)",
+            "frequency": "once (or as needed)"
+        }
+    },
+    {
+        "name": "Photo",
+        "parameters": {
+            "name": "Membrane Rupture",
+            "frequency": "once (or as needed)"
+        }
+    }
+]

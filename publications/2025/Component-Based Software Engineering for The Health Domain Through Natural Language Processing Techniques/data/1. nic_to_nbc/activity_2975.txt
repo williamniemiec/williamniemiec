@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Mastery Plan": {
+    "Goal Setting": {"Type": "goal setting template"},
+    "Task Breakdown": {"Type": "task list"},
+    "Progress Tracking": {"Type": "progress tracking template"},
+    "Motivational Messages": {"Type": "list of texts"},
+    "Reward System": {"Type": "reward system (e.g., points, badges etc.)"},
+    "Frequency": {
+      "Type": "options",
+      "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+    }
+  }
+}

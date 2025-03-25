@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+  "Report Generator": {
+    "parameters": {
+      "name": {"type": "text"},
+      "report_type": {"type": "options"},
+      "data": {"type": "list of objects with label, value, and unit properties"}
+    }
+  },
+  "Report Scheduler": {
+    "parameters": {
+      "name": {"type": "text"},
+      "report_frequency": {"type": "options"},
+      "report_recipients": {"type": "list of objects with name, email, and role properties"}
+    }
+  },
+  "Report Viewer": {
+    "parameters": {
+      "name": {"type": "text"},
+      "report_list": {"type": "list of objects with report_name, report_date, and report_data properties"}
+    }
+  }
+}
+
+
+Let me know if this is what you were expecting!

@@ -1,0 +1,43 @@
+Here is the output in JSON format:
+
+
+{
+  "ICP Waveform Analyzer": {
+    "parameters": {
+      "name": "Analyze ICP waveform",
+      "waveform_data": {
+        "name": "ICP Waveform Data", 
+        "description": "Upload or input your ICP waveform data", 
+        "required": true, 
+        "type": "file" || "text"
+      },
+      "analysis_type": {
+        "name": "Select the type of analysis", 
+        "description": "Select one of the following options", 
+        "required": true, 
+        "type": "options",
+        "options": [
+          { value: "peak_pressure", label: "Peak pressure" },
+          { value: "mean_pressure", label: "Mean pressure" },
+          { value: "pulse_pressure", label: "Pulse pressure" },
+          { value: "other", label: "Other (please specify)" }
+        ]
+      },
+      "frequency": {
+        "name": "How often should ICP waveform be analyzed?", 
+        "description": "Select one of the following options", 
+        "required": true, 
+        "type": "options",
+        "options": [
+          { value: "daily", label: "Daily" },
+          { value: "onlyOnce", label: "Only once" },
+          { value: "everyHours", label: "Every x hours" },
+          { value: "everyDays", label: "Every x days" }
+        ]
+      }
+    }
+  }
+}
+
+
+Note that I removed the `deadline_date` parameter since it was marked as `"required": false`, and according to your instructions, not applicable parameters should be removed.

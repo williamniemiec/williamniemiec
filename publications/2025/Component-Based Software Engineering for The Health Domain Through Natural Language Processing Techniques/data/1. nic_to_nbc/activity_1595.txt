@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Warming Instruction": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Description": {"Type": "text"},
+      "Frequency": {"Type": "options", "Options": ["asNeeded", "daily", "everyHours", "everyDays"]},
+      "Duration": {"Type": "text"},
+      "Notes": {"Type": "text"}
+    }
+  }
+}
+
+
+Let me know if this is what you were expecting!

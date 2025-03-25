@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+  "Hair Inspection": {
+    "Name": {"type": "text"},
+    "Instructions": {"type": "text"},
+    "Abnormality Questions": {"type": "form"},
+    "Photo": {"type": "camera"},
+    "Frequency": {"type": "options"},
+    "Deadline Date": {"type": "datetime"}
+  },
+  "Symptom Checker": {
+    "Name": {"type": "text"},
+    "Symptom List": {"type": "list"},
+    "Severity Scale": {"type": "scale"},
+    "Frequency": {"type": "options"},
+    "Deadline Date": {"type": "datetime"}
+  }
+}
+
+
+Let me know if this meets your requirements!

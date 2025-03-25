@@ -1,0 +1,36 @@
+Here is the output in JSON format:
+
+
+{
+  "Psychological Burden Assessment": {
+    "parameters": [
+      {"Assessment questions": ["text", "number", "select", "datetime"]},
+      {"Assessment frequency": null},
+      {"Notification settings": ["push notifications", "in-app messages"]}
+    ]
+  },
+  "Prognosis Education": {
+    "parameters": [
+      {"Prognosis information": ["text", "multimedia content"]},
+      {"Educational resources": ["videos", "articles", "support groups"]},
+      {"Care team input": null}
+    ]
+  },
+  "Emotional Support": {
+    "parameters": [
+      {"Support messages": ["text", "multimedia content"]},
+      {"Support resources": ["counseling services", "support groups"]},
+      {"Care team input": null}
+    ]
+  },
+  "Family Coping Strategies": {
+    "parameters": [
+      {"Coping strategies": ["stress management techniques", "communication tips"]},
+      {"Educational resources": ["videos", "articles"]},
+      {"Care team input": null}
+    ]
+  }
+}
+
+
+I removed the introduction, conclusion, and unnecessary parameters. I also formatted the output as a JSON object with each no-code element name as a key, and its corresponding parameters as an array of objects.

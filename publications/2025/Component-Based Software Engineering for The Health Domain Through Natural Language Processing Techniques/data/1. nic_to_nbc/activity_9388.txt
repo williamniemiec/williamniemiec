@@ -1,0 +1,29 @@
+Here is the output in JSON format:
+
+
+{
+    "Self-Care Assistance": {
+        "parameters": {
+            "self_care_activities": {"type": "list of text"},
+            "assistance_level": {"type": "list of text"},
+            "frequency": {"type": "options"},
+            "deadline_date": {"type": "datetime", "optional": true},
+            "caregiver_contacts": {"type": "list of contacts"}
+        }
+    },
+    "Self-Care Task List": {
+        "parameters": {
+            "task_list": {"type": "list of text"},
+            "frequency": {"type": "options"},
+            "deadline_date": {"type": "datetime", "optional": true}
+        }
+    },
+    "Caregiver Assignment": {
+        "parameters": {
+            "caregiver_list": {"type": "list of contacts"},
+            "task_assignment": {"type": "list of text"},
+            "frequency": {"type": "options"},
+            "deadline_date": {"type": "datetime", "optional": true}
+        }
+    }
+}

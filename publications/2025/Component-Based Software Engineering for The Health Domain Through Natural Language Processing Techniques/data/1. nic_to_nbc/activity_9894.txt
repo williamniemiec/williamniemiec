@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Body Image Drawing": {
+    "parameters": {
+      "Name": {"type": "text"},
+      "Instructions": {"type": "text"},
+      "Drawing Tool": {"type": "options"},
+      "Submission Type": {"type": "options"},
+      "Evaluation Questions": {"type": "list of text questions"}
+    }
+  }
+}

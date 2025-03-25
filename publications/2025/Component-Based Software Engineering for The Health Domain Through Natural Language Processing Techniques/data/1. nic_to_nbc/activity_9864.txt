@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Sharing Warning": {
+    "Risks of Medication Sharing": {"type": "list (of risks)"},
+    "Consequences of Medication Sharing": {"type": "text"},
+    "Importance of Personalized Treatment": {"type": "text"},
+    "Secure Storage": {"type": "text"},
+    "Additional Resources": {"type": "list (of URLs or PDFs)"}
+  }
+}

@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+  "Stool Diary": {
+    "parameters": {
+      "Stool Record": {
+        "Color": {},
+        "Volume": {},
+        "Frequency": {},
+        "Consistency": {}
+      },
+      "Recording Frequency": {},
+      "Deadline Date": {},
+      "Notes": {}
+    }
+  },
+  "Stool Color": {},
+  "Stool Volume": {},
+  "Stool Frequency": {},
+  "Stool Consistency": {},
+  "Recording Schedule": {}
+}

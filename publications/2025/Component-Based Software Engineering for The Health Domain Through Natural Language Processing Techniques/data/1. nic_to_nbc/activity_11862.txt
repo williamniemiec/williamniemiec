@@ -1,0 +1,29 @@
+Here is the output in JSON format:
+
+
+{
+  "Dependency Reflection": {
+    "parameters": {
+      "stage": {
+        "type": "options",
+        "options": ["school-aged", "adolescent"]
+      },
+      "dependency_type": {
+        "type": "options",
+        "options": ["emotional", "social", "financial", "other"]
+      },
+      "description": {
+        "type": "text"
+      },
+      "parallel": {
+        "type": "text"
+      },
+      "impact": {
+        "type": "text"
+      },
+      "self_reflection": {
+        "type": "text"
+      }
+    }
+  }
+}

@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "warning": {
+    "name": "",
+    "message": "",
+    "dangerous_actions": [
+      {"shaking": ""},
+      {"tossing": ""},
+      {"swinging": ""}
+    ],
+    "harmful_effects": "",
+    "safe_alternatives": ""
+  }
+}

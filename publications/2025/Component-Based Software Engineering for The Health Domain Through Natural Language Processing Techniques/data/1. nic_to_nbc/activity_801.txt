@@ -1,0 +1,10 @@
+Here is the output in JSON format:
+
+
+{
+    "Instruction": {
+        "content": {"type": "text"},
+        "title": {"type": "text"},
+        "additional_resources": {"type": "list of URLs or file attachments"}
+    }
+}

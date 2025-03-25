@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+    "Resource List": {
+        "parameters": ["name", "description", "resource list"]
+    },
+    "Informational Content": {
+        "parameters": ["name", "description", "content"]
+    }
+}

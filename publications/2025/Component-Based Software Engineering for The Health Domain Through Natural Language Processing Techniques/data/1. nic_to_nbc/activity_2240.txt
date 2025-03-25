@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Instructional Adjustment": {
+    "Parameters": {
+      "Learning Progress": {"Type": "text or categorical"},
+      "Instructional Strategies": {"Type": "categorical"},
+      "Adjustment Criteria": {"Type": "conditional logic"},
+      "Adjusted Instruction": {"Type": "text or multimedia"}
+    }
+  }
+}
+
+
+I removed the non-applicable parameters ("Real-time Feedback" and "Instructional Recommendations") from the output. Let me know if this is what you were looking for!

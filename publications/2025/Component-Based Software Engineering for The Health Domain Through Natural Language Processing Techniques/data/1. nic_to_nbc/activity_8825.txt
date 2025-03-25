@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Procedure",
+  "parameters": [
+    {
+      "name": "examination_type"
+    },
+    {
+      "name": "findings"
+    }
+  ]
+}

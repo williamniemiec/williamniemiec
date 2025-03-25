@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Catheter Position Verification": {
+    "X-ray Instructions": {},
+    "Catheter Type": {},
+    "Verification Criteria": {},
+    "Verification Result": {}
+  }
+}

@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+  "Homans' Sign Monitoring": {
+    "parameters": {
+      "Homans' Sign": {
+        "type": "boolean"
+      },
+      "Further Testing": {
+        "type": "boolean"
+      },
+      "Frequency": {
+        "options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+      },
+      "Deadline Date": {
+        "type": "datetime"
+      },
+      "Instructions": {
+        "type": "text"
+      },
+      "Resources": {
+        "type": "URL or HTML text"
+      }
+    }
+  }
+}

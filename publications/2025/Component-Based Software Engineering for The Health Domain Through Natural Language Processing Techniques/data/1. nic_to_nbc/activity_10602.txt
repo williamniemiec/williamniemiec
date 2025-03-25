@@ -1,0 +1,15 @@
+
+
+
+{
+  "Newborn Bath Guidance": {
+    "parameters": {
+      "Name": {},
+      "Temperature Threshold": {},
+      "Bath Instructions": {},
+      "Bath Completion": {},
+      "Bath Date and Time": {},
+      "Notes": {}
+    }
+  }
+}

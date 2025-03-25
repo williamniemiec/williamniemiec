@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Proper Positioning Guide": {
+    "title of the guide": {"type": "text"},
+    "Tutorial Steps": {"type": "list", "exampleSteps": ["Adjust the bed to the correct height", "Place the patient in a neutral spine position", "Align the patient's body with the traction device"]},
+    "Images": {"type": "list of images"},
+    "Tips": {"type": "list"},
+    "Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"type": "datetime"},
+    "Reminder": {"type": "boolean"}
+  }
+}

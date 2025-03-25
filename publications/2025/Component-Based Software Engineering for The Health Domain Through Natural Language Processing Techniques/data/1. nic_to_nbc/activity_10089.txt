@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Blood Pressure Measurement Avoidance",
+    "parameters": [
+        {
+            "name": "Affected Extremity",
+            "type": "text"
+        },
+        {
+            "name": "Blood Pressure Measurement Avoidance Instructions",
+            "type": "text or video"
+        },
+        {
+            "name": "Alternative Measurement Sites",
+            "type": "text or video"
+        },
+        {
+            "name": "Rationale",
+            "type": "text"
+        }
+    ]
+}

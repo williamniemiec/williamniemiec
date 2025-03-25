@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Foot Care Education": {
+    "Parameters": {
+      "Name": {},
+      "Content": {},
+      "Key Points": {},
+      "Tips and Reminders": {},
+      "Resources": {}
+    }
+  }
+}

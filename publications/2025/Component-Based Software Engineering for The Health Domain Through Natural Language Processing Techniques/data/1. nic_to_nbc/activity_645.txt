@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Follow-up Contact": {
+    "parameters": {
+      "Contact Method": {"type": ["text", "options"]},
+      "Contact Schedule": {"type": ["text", "options"]},
+      "Contact Content": {"type": ["text", "options"]},
+      "Patient Response": {"type": ["boolean", "options"]},
+      "Care Team Notification": {"type": ["boolean", "options"]}
+    }
+  }
+}
+
+
+Let me know if this is what you were looking for!

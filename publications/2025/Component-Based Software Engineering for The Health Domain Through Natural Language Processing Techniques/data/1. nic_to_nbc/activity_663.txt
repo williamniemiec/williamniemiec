@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Self-Hypnosis Reflection Journal": {
+    "Parameters": {
+      "Session Reflection": {"Type": "text"},
+      "Insights and Observations": {"Type": "text"},
+      "Emotional Response": {"Type": "rating scale (e.g., 1-5)"},
+      "Physical Response": {"Type": "rating scale (e.g., 1-5)"},
+      "Goals and Progress": {"Type": "text"},
+      "Action Plan": {"Type": "text"}
+    }
+  }
+}

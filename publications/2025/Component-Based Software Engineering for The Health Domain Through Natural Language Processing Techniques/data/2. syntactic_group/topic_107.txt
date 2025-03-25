@@ -1,0 +1,10 @@
+{
+  "name": "Device Recharge and Operation Instructions",
+  "description": "Guides users through the recharging and operation of equipment, including assembly instructions and device-specific usage guidelines.",
+  "type": "non-periodic",
+  "input": ["Device recharge instructions", "Assembly steps", "Device operation guide", "Band usage guidelines"],
+  "output": ["Recharging progress report", "Device operation feedback", "Assembly completion check"],
+  "preconditions": ["User needs instructions for device operation or recharging"],
+  "postconditions": ["Proper device assembly and operational readiness"],
+  "dependencies": ["Device management platform", "Recharging tools", "Assembly instruction system"]
+}

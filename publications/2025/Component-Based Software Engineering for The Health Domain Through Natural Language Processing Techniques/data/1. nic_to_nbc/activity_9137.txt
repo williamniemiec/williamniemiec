@@ -1,0 +1,10 @@
+Here is the output in JSON format:
+
+
+{
+"Emotional Abuse Indicator Checklist": {
+"name": "",
+"description": "",
+"indicator list": ["Low self-esteem", "Depression", "Humiliation and defeat", "Overly cautious behavior around partner", "Aggression against self or suicidal gestures"]
+}
+}

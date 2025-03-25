@@ -1,0 +1,40 @@
+Here is the output in JSON format:
+
+
+{
+  "Suctioning Stop Criteria": {
+    "name": "Suctioning Stop Criteria",
+    "description": "Stop tracheal suctioning if patient experiences bradycardia, an increase in ventricular ectopy, and/or desaturation",
+    "type": "text",
+    "required": true
+  },
+  "Vital Sign Monitoring": [
+    {
+      "name": "Heart Rate",
+      "description": "Monitor heart rate",
+      "type": "numeric",
+      "units": "bpm",
+      "required": true
+    },
+    {
+      "name": "Ventricular Ectopy",
+      "description": "Monitor ventricular ectopy",
+      "type": "numeric",
+      "units": "events/min",
+      "required": true
+    },
+    {
+      "name": "Oxygen Saturation",
+      "description": "Monitor oxygen saturation",
+      "type": "numeric",
+      "units": "%",
+      "required": true
+    }
+  ],
+  "Oxygen Therapy": {
+    "name": "Oxygen Therapy",
+    "description": "Provide supplemental oxygen",
+    "type": "checkbox",
+    "required": true
+  }
+}

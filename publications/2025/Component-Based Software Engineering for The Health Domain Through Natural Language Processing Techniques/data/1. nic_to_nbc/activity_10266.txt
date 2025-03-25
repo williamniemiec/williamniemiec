@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Procedure": {
+    "parameters": [
+      {"name": "steps", "description": "list of steps to follow"},
+      {"name": "cdc_guidelines", "description": "link to current CDC guidelines for peripheral IV and central line site and dressing change"},
+      {"name": "frequency", "description": "specify how often the procedure should be repeated"},
+    ]
+  }
+}
+
+
+I removed the introduction, conclusion, and not applicable parameters (deadline_date). Let me know if this meets your requirements!

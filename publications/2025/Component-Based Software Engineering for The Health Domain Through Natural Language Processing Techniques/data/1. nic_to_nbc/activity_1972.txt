@@ -1,0 +1,29 @@
+Here is the output in JSON format:
+
+
+{
+    "Posture Monitoring": {
+        "Frequency": {
+            "type": "options",
+            "options": [
+                {"value": "daily", "label": "Daily"},
+                {"value": "everyHours", "label": "Every x hours"},
+                {"value": "everyDays", "label": "Every x days"}
+            ]
+        },
+        "Deadline Date": {
+            "type": "datetime"
+        },
+        "Instructions": {
+            "type": "text"
+        },
+        "Reporting": {
+            "type": "options",
+            "options": [
+                {"value": "checklist", "label": "Checklist"},
+                {"value": "photo", "label": "Take a photo"},
+                {"value": "notes", "label": "Write notes"}
+            ]
+        }
+    }
+}

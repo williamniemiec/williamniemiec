@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Repositioning Schedule": {
+    "Schedule Name": {"Description": "Name of the repositioning schedule", "Required": true, "Type": "text"},
+    "Repositioning Frequency": {"Description": "Specify how often to reposition", "Required": true, "Type": "options", "Options": [{"value": "everyHour", "label": "Every hour"}, {"value": "every2Hours", "label": "Every 2 hours"}, {"value": "every4Hours", "label": "Every 4 hours"}, {"value": "custom", "label": "Custom frequency"}]},
+    "Repositioning Times": {"Description": "Specify the times to reposition", "Required": true, "Type": "list", "List items": [{"value": "06:00", "label": "6:00 AM"}, {"value": "12:00", "label": "12:00 PM"}, {"value": "18:00", "label": "6:00 PM"}, {"value": "custom", "label": "Custom time"}]},
+    "Repositioning Positions": {"Description": "Specify the positions to reposition to", "Required": true, "Type": "list", "List items": [{"value": "leftSide", "label": "Left side"}, {"value": "rightSide", "label": "Right side"}, {"value": "back", "label": "Back"}, {"value": "custom", "label": "Custom position"}]}
+  }
+}
+
+
+I removed the non-applicable parameters and kept only the `{{ NO-CODE ELEMENT NAME }}` and `{{ PARAMETER ESPECIFICATIONS }}`.

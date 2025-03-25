@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Discharge Preparation": {
+    "Parameters": {
+      "Checklist": {"Type": "unordered list", "Items": ["Pack medications", "Arrange for transportation", "Confirm follow-up appointments"]},
+      "Instructions": {"Type": "text"},
+      "Resources": {"Type": "text or link"},
+      "Timeline": {"Type": "datetime or range"},
+      "Reminders": {"Type": "boolean"}
+    }
+  }
+}

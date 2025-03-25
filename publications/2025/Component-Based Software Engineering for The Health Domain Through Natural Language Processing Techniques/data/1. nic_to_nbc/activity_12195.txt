@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+    "Hyponatremia Correction Monitor": {
+        "Serum Sodium Level": {"type": "number"},
+        "Target Sodium Level": {"type": "number"},
+        "Correction Rate": {"type": "text"},
+        "Hypokalemia Status": {"type": "boolean"},
+        "Alert Threshold": {"type": "number"}
+    }
+}

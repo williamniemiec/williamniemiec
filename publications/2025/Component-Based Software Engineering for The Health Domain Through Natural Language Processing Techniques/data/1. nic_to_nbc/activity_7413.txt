@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Resource Directory": {
+    "parameters": {
+      "Resource List": {"type": "list"},
+      "Description": {"type": "text"},
+      "Contact Information": {"type": "text"}
+    }
+  }
+}

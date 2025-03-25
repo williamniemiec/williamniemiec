@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Parameter Specifications": {
+    "name": "Inflate cuff",
+    "description": "Inflate the cuff as instructed by physician",
+    "content_type": "text",
+    "instruction": "Inflate the cuff according to the physician's instructions",
+    "frequency": ["as needed", "according to physician's instructions"],
+    "additional_info": "Please refer to the physician's instructions for specific guidance on cuff inflation"
+  },
+  "No-Code Element Name": "Instruction"
+}

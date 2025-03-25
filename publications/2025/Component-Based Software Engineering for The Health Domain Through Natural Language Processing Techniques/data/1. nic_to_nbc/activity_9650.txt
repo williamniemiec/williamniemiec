@@ -1,0 +1,29 @@
+Here is the output in JSON format:
+
+
+{
+    "Vaginal Drainage Tracker": {
+        "Parameters": {
+            "Type": {},
+            "Amount": {},
+            "Onset": {},
+            "Notes": {}
+        }
+    },
+    "Form": {
+        "Parameters": {
+            "type": {},
+            "amount": {},
+            "onset": {},
+            "notes": {}
+        }
+    },
+    "Journal": {
+        "Parameters": {
+            "type": {},
+            "amount": {},
+            "onset": {},
+            "notes": {}
+        }
+    }
+}

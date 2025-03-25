@@ -1,0 +1,33 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Knowledge Review": {
+    "Questions": {
+      "Items": [
+        {
+          "Properties": [
+            {"Name": "Text", "Type": "text"},
+            {"Name": "Options", "Type": "options", "Options": [
+              {"value": "option1", "label": "Option 1"},
+              {"value": "option2", "label": "Option 2"},
+              {"value": "option3", "label": "Option 3"}
+            ]},
+            {"Name": "Correct Answer", "Type": "text"}
+          ]
+        }
+      ]
+    },
+    "Frequency": {
+      "Options": [
+        {"value": "daily", "label": "Daily"},
+        {"value": "onlyOnce", "label": "Only once"},
+        {"value": "everyHours", "label": "Every x hours"},
+        {"value": "everyDays", "label": "Every x days"}
+      ]
+    }
+  }
+}
+
+
+I removed all unnecessary elements and parameters, keeping only the `{{ NO-CODE ELEMENT NAME }}` ("Medication Knowledge Review") and `{{ PARAMETER ESPECIFICATIONS }}`. I also removed not applicable parameters.

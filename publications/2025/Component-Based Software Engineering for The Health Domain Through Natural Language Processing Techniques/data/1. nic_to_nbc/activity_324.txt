@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Resource Finder": {
+    "parameters": {
+      "Resource Database": {},
+      "Resource Filtering": {},
+      "Resource Recommendations": {},
+      "Family Member Input": {},
+      "Resource Referral": {}
+    }
+  }
+}

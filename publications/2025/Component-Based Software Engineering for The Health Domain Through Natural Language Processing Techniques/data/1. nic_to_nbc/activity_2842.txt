@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Emotional Screening": {
+    "parameters": {
+      "screening_type": {},
+      "screening_questions": {},
+      "scoring_criteria": {},
+      "result_interpretation": {},
+      "referral_options": {}
+    }
+  }
+}

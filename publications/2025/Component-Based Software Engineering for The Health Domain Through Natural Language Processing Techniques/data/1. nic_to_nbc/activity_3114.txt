@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Contraindication Checker": {
+    "Parameters": {
+      "Contraindication list": {"Type": "list of text"},
+      "Patient data": {"Type": "text or structured data (e.g., FHIR)"},
+      "Assessment questions": {"Type": "list of text"},
+      "Scoring system": {"Type": "options (e.g., yes/no, 0-10 scale)"},
+      "Result interpretation": {"Type": "text or multimedia (image, video)"}
+    }
+  }
+}

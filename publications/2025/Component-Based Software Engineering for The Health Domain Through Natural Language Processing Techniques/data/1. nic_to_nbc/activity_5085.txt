@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Interaction Guide": {
+    "Content": {"type": "text or html"},
+    "Therapies": {"type": "list of therapies"},
+    "Interactions": {"type": "list of interactions"},
+    "Resources": {"type": "list of resources"},
+    "Frequency": {"type": "options"},
+    "Deadline Date": {"type": "datetime"}
+  }
+}

@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "Financial Safety Tips": {
+    "Tip List": {"Type": "list of tips"},
+    "Tip Details": {"Type": "tip details"}
+  },
+  "Direct Deposit Information": {
+    "Direct Deposit Form": {"Type": "direct deposit form"},
+    "Benefits": {"Type": "benefits"}
+  },
+  "Asset Protection Warning": {
+    "Warning Message": {"Type": "warning message"},
+    "Example Scenarios": {"Type": "example scenarios"}
+  },
+  "Legal Advice Reminder": {
+    "Reminder Message": {"Type": "reminder message"},
+    "Legal Resources": {"Type": "legal resources"}
+  },
+  "Financial Literacy Quiz": {
+    "Quiz Questions": {"Type": "quiz questions"},
+    "Feedback and Resources": {"Type": "feedback and resources"}
+  }
+}

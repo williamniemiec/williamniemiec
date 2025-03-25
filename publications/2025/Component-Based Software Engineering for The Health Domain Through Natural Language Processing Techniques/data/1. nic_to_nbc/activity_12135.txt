@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Assessment": {
+    "Parameters": {
+      "Assessment Type": {"Type": "text"},
+      "Assessment Status": {"Type": "options", "Options": ["present", "absent"]},
+      "Trigger": {"Type": "text"}
+    }
+  }
+}

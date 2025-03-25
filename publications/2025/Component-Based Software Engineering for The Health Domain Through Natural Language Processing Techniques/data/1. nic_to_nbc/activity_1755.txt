@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+    "Nutrition Analysis": {
+        "Food Diary": {
+            "Food Items": {"type": "unordered list"},
+            "Portion Sizes": {"type": "text or numerical value"},
+            "Meal Times": {"type": "datetime"}
+        },
+        "Nutritional Goals": {
+            "Caloric Intake": {"type": "numerical value"},
+            "Macronutrient Ratios": {"type": "numerical value or ratio"}
+        },
+        "Nutrition Report": {
+            "Nutrient Breakdown": {"type": "table or chart"},
+            "Goal Achievement": {"type": "boolean value"}
+        }
+    }
+}

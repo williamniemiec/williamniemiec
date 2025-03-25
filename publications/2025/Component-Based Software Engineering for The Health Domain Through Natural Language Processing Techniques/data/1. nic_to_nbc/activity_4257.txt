@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+    "Assessment Tracker": {
+        "parameters": {
+            "name": "Assessment Tracker",
+            "description": "Track your ongoing assessments and progress",
+            "type": ["table", "list"],
+            "required": true,
+            "assessment_type": "options",
+            "results": ["text", "numeric"],
+            "date": "datetime",
+            "notes": "text"
+        }
+    }
+}

@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Education on Sucking Needs": {
+    "Content": {"type": "text"},
+    "Format": {"options": ["text", "video", "image", "audio"]},
+    "Frequency": {"options": ["oneTime", "custom"]},
+    "Additional Resources": {"type": "text"}
+  }
+}

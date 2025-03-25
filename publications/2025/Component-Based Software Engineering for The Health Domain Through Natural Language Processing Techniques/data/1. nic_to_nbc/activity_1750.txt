@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Sensory Link": {
+        "Parameters": {
+            "Sensation": {"Type": "text"},
+            "Possible Causes": {"Type": "unordered list"},
+            "Explanations": {"Type": "text"},
+            "Frequency": {"Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+            "Deadline Date": {"Type": "datetime"}
+        }
+    }
+}

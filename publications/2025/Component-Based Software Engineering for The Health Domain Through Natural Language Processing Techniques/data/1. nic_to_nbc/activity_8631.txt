@@ -1,0 +1,10 @@
+Here is the output in JSON format:
+
+
+{
+  "Repetition Learning": {
+    "Material": {"Description": "New material to be presented to the patient", "Required": true, "Type": "text"},
+    "Repetition": {"Description": "Number of times the material should be repeated", "Required": true, "Type": "number"},
+    "Interval": {"Description": "Time interval between each repetition", "Required": true, "Type": "options", "Options": [{"value": "immediately", "label": "Immediately"}, {"value": "minutes", "label": "Every x minutes"}, {"value": "hours", "label": "Every x hours"}, {"value": "days", "label": "Every x days"}]}
+  }
+}

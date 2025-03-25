@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Transportation Arrangement for Clothing Assistance": {
+    "parameters": [
+      {"Name": {"type": "text"}},
+      {"Pickup Location": {"type": "text or address"}},
+      {"Drop-off Location": {"type": "text or address"}},
+      {"Transportation Mode": {"type": "options", "options": ["taxi", "bus", "ride-sharing service"]}},
+      {"Schedule": {"type": "datetime"}},
+      {"Provider": {"type": "text or organization"}},
+      {"Contact Information": {"type": "object", "properties": {"Phone": {"type": "phone"}, "Email": {"type": "email"}}}},
+      {"Necessity": {"type": "boolean"}},
+      {"Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]}}
+    ]
+  }
+}

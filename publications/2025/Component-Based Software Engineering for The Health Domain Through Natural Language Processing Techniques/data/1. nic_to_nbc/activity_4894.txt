@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Peripheral Circulation Assessment": {
+    "parameters": {
+      "Peripheral Pulse Check": {"type": "options"},
+      "Edema Assessment": {"type": "options"},
+      "Capillary Refill Time": {"type": "numeric value"},
+      "Extremity Color": {"type": "options"},
+      "Extremity Temperature": {"type": "options"},
+      "Assessment Frequency": {"type": "options"}
+    }
+  }
+}
+
+
+I removed the introduction, conclusion, and non-applicable parameters (Agency Policy) from the input text. Let me know if this meets your requirements!

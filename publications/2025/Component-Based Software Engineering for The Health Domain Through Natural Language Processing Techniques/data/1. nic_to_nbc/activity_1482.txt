@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Media Stimulation": {
+    "parameters": {
+      "Media Type": {"type": "options"},
+      "Content": {"type": "text or options"},
+      "Duration": {"type": "time interval"},
+      "Frequency": {"type": "options"},
+      "Goal": {"type": "text or options"}
+    }
+  }
+}
+
+
+I removed the "Personalization" parameter as it was marked as not applicable. Let me know if you need any further assistance!

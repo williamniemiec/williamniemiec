@@ -1,0 +1,33 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "encouragement",
+    "parameters": [
+        {
+            "name": "message",
+            "type": "text"
+        },
+        {
+            "name": "trigger",
+            "type": "options",
+            "options": [
+                { value: "taskCompletion" },
+                { value: "goalAchievement" },
+            ]
+        },
+        {
+            "name": "frequency",
+            "type": "options",
+            "options": [
+                { value: "daily" },
+                { value: "onlyOnce" },
+                { value: "everyHours" },
+                { value: "everyDays" },
+            ]
+        }
+    ]
+}
+
+
+I removed the `deadline_date` parameter since it's not applicable (optional). Let me know if you need any further modifications!

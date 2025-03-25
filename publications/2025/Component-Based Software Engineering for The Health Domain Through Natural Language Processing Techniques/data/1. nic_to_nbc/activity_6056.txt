@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Weaning Education": {
+    "parameters": {
+      "Weaning Stages": {},
+      "What to Expect": {},
+      "Frequently Asked Questions": {},
+      "Family Support": {}
+    }
+  }
+}

@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "Symptom Checker": {
+    "parameters": {
+      "name": {"type": "text"},
+      "symptoms": {"type": "list of options"},
+      "frequency": {"type": "options"},
+      "severity": {"type": "options"},
+      "notes": {"type": "text"}
+    }
+  },
+  "Question": {
+    "parameters": {
+      "name": {"type": "text"},
+      "answer type": {"type": "options"},
+      "frequency": {"type": "options"},
+      "notes": {"type": "text"}
+    }
+  }
+}
+
+
+Let me know if this meets your requirements!

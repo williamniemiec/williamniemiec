@@ -1,0 +1,30 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "guide",
+    "parameters": [
+        { 
+            "name": "title", 
+            "type": "text"
+        },
+        { 
+            "name": "pages", 
+            "type": "book-page",
+            "book-page": "list of HTML texts"
+        },
+        { 
+            "name": "alternatives", 
+            "type": "list of options",
+            "options": [
+                { value: "wigs", label: "Wigs" },
+                { value: "scarves", label: "Scarves" },
+                { value: "hats", label: "Hats" },
+                { value: "turbans", label: "Turbans" },
+            ]
+        }
+    ]
+}
+
+
+Let me know if you need anything else!

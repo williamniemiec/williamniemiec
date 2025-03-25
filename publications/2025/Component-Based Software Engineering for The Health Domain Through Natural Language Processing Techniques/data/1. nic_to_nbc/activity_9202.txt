@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Athlete Check-in": {
+    "Parameters": {
+      "Athlete Name": {
+        "Type": "text"
+      },
+      "Stress Level": {
+        "Type": ["number", "slider"]
+      },
+      "Emotional Concerns": {
+        "Type": ["list (text or options)", "free-text response"]
+      },
+      "Referral Request": {
+        "Type": ["boolean", "options"]
+      }
+    }
+  }
+}

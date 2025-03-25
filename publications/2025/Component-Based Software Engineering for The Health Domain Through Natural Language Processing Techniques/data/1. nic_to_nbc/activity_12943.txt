@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+    "Stimulation Site Selector": {
+        "Affected Area": {},
+        "Direct Application Possible": {},
+        "Alternate Site Options": {},
+        "Site Selection Criteria": {},
+        "Recommended Site": {}
+    }
+}

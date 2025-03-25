@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Strengths Identification": {
+    "parameters": {
+      "Prompt": {},
+      "Answer Type": {},
+      "Reinforcement Message": {},
+      "Frequency": {},
+      "Deadline Date": {}
+    }
+  }
+}

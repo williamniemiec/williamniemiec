@@ -1,0 +1,31 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Message",
+    "parameters": [
+        {
+            "name": "Content",
+            "type": "text"
+        },
+        {
+            "name": "Type",
+            "type": "options",
+            "options": [
+                { value: "welcoming" },
+                { value: "encouraging" },
+                { value: "supportive" }
+            ]
+        },
+        {
+            "name": "Frequency",
+            "type": "options",
+            "options": [
+                { value: "daily" },
+                { value: "onlyOnce" },
+                { value: "everyHours" },
+                { value: "everyDays" }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Sign-Out": {
+    "parameters": {
+      "Medication List": {"type": "list"},
+      "Agency Protocol": {"type": "text"},
+      "Sign-Out Status": {"type": "boolean"},
+      "Signature": {"type": "electronic signature"},
+      "Date and Time": {"type": "datetime"}
+    }
+  }
+}

@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Self-Efficacy Questionnaire": {
+    "parameters": {
+      "name": {"type": "text"},
+      "behavior": {"type": "text"},
+      "questions": {"type": "array of text"}
+    }
+  }
+}

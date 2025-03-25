@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Weight Tracking": {
+    "parameters": {
+      "weight": "numeric value",
+      "date": "datetime"
+    }
+  }
+}

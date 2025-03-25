@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Support System Guidance": {
+    "parameters": {
+      "Guidance Content": {"type": "list of multimedia resources"},
+      "Support System Types": {"type": "list of text"},
+      "Development Strategies": {"type": "list of text"},
+      "Maintenance Tips": {"type": "list of text"},
+      "Reflection Prompts": {"type": "list of text"},
+      "Frequency": {"type": "options"},
+      "Deadline Date": {"type": "datetime"}
+    }
+  }
+}
+
+
+Note that I removed the `Introduction` and `Conclusion` sections, as well as the `NUMBER` element, and only kept the `PARAMETER ESPECIFICATIONS` section. I also reformatted the output to be in JSON format. Let me know if you have any further requests!

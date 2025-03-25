@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Traction Reminder": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Frequency": {"Type": "options", "Options": ["everyHour", "every2Hours", "every4Hours", "custom"]},
+      "Custom Message": {"Type": "text"},
+      "Deadline Date": {"Type": "datetime"}
+    }
+  }
+}

@@ -1,0 +1,32 @@
+Here is the output in JSON format:
+
+
+{
+  "Journaling": {
+    "parameters": {
+      "name": "",
+      "prompt": "",
+      "answer_type": "",
+      "frequency": "",
+      "deadline_date": ""
+    }
+  },
+  "Emotion Check-in": {
+    "parameters": {
+      "name": "",
+      "emotions": [],
+      "answer_type": "",
+      "frequency": "",
+      "deadline_date": ""
+    }
+  },
+  "Open-ended Question": {
+    "parameters": {
+      "name": "",
+      "question": "",
+      "answer_type": "",
+      "frequency": "",
+      "deadline_date": ""
+    }
+  }
+}

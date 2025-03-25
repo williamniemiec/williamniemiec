@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Separation Assessment": {
+    "Symptom List": ["Fever", "Vomiting", "Diarrhea", "Irritability", "Other"],
+    "Separation Period": ["30 minutes", "1 hour", "2 hours", "Other"],
+    "Symptom Assessment": ["Severity of symptoms (e.g., mild, moderate, severe)", "Presence or absence of symptoms"],
+    "Notes": []
+  }
+}

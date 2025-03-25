@@ -1,0 +1,10 @@
+{
+  "name": "Educational Guide and Content Tagging",
+  "description": "Focuses on creating educational pages with tags and content organization. It introduces techniques to engage the audience and categorize educational materials effectively.",
+  "type": "non-periodic",
+  "input": ["Educational pages", "Content tagging", "Audience engagement", "Techniques introduction", "Educational entries"],
+  "output": ["Guide with tagged content", "Audience feedback", "Content strategy improvement"],
+  "preconditions": ["User is creating or organizing educational content"],
+  "postconditions": ["Well-organized and engaging educational content"],
+  "dependencies": ["Content management system", "Tagging and categorization tools", "Educational material platform"]
+}

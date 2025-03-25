@@ -1,0 +1,21 @@
+
+
+
+{
+  "Support Network": {
+    "Family Members": {},
+    "Friends": {},
+    "Healthcare Providers": {},
+    "Other Support": {},
+    "Frequency": {},
+    "Deadline Date": {}
+  },
+  "Question": {
+    "Family Support": {},
+    "Friend Support": {},
+    "Healthcare Provider Support": {},
+    "Other Support": {},
+    "Frequency": {},
+    "Deadline Date": {}
+  }
+}

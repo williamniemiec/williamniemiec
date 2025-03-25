@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Choice Simplifier": {
+    "Simplifier Title": {"Required": true, "Type": "text"},
+    "Questions": {"Required": true, "Type": "list of text"},
+    "Options": {"Required": true, "Type": "list of text"},
+    "Priority": {"Required": false, "Type": "options", "Options": ["high", "medium", "low"]},
+    "Frequency": {"Required": true, "Type": "options", "Options": ["daily", "weekly", "monthly", "as needed"]}
+  }
+}

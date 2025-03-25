@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Laser Fiber Inspection": {
+    "Fiber Types": {"type": "list of text"},
+    "Inspection Criteria": {"type": "list of text"},
+    "Frequency": {"type": "text or options"},
+    "Reporting": {"type": "text or options"},
+    "Notes": {"type": "text"}
+  }
+}

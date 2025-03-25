@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+    "Rest and Nutrition Plan": {
+        "rest_schedule": {"type": "text"},
+        "nutrition_plan": {"type": "text"},
+        "hydration_reminders": {"type": "text"},
+        "snack_schedule": {"type": "text"},
+        "meal_delivery": {"type": "boolean"}
+    },
+    "Sleep Diary": {
+        "sleep_schedule": {"type": "text"},
+        "sleep_quality": {"type": "text"},
+        "sleep_duration": {"type": "number"}
+    },
+    "Nutrition Tracker": {
+        "meal_log": {"type": "text"},
+        "nutrition_goals": {"type": "text"},
+        "hydration_log": {"type": "text"}
+    }
+}

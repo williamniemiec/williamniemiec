@@ -1,0 +1,14 @@
+
+
+
+{
+    "Notification Documentation": {
+        "Parameters": {
+            "Notification Type": "",
+            "Date and Time": "",
+            "Physician Name": "",
+            "Reason for Notification": "",
+            "Outcome": ""
+        }
+    }
+}

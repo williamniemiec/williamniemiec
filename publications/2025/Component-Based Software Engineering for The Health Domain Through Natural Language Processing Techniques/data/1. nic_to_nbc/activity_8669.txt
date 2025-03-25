@@ -1,0 +1,32 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Self-Harm Risk Assessment",
+  "parameters": [
+    {
+      "name": "Assessment Questions",
+      "type": "list of text"
+    },
+    {
+      "name": "Answer Type",
+      "type": "options"
+    },
+    {
+      "name": "Risk Factors",
+      "type": "list of text"
+    },
+    {
+      "name": "Frequency",
+      "type": "options"
+    },
+    {
+      "name": "Deadline Date",
+      "type": "datetime"
+    },
+    {
+      "name": "Risk Level",
+      "type": "options"
+    }
+  ]
+}

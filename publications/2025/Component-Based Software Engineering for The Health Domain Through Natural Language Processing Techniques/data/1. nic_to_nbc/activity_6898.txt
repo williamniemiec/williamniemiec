@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Hand Hygiene": {
+    "Parameters": {
+      "hand_hygiene_instructions": {},
+      "hand_washing_technique": {},
+      "confirmation": {}
+    }
+  }
+}

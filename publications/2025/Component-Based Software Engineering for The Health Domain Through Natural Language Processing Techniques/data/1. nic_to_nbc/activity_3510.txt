@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Bib Protector": {
+    "parameters": {
+      "Bib Type": {"type": "options", "options": ["cloth", "plastic", "disposable", "other"]},
+      "Frequency": {"type": "options", "options": ["everyMeal", "specificMeals"]},
+      "Meal Times": {"type": "options", "options": ["breakfast", "lunch", "dinner", "snack"]},
+      "Instructions": {"type": "text or multimedia"},
+      "Reminders": {"type": "boolean", "default": false}
+    }
+  }
+}
+
+
+Let me know if this meets your requirements!

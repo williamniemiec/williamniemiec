@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Bleeding Inspection Tracker": {
+    "parameters": {
+      "Name": {"type": "text"},
+      "Frequency": {"type": "options", "options": ["daily", "everyHours", "everyDays"]},
+      "Deadline Date": {"type": "datetime"},
+      "Notes": {"type": "text"}
+    }
+  }
+}

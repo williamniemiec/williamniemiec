@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Pain Assessment": {
+    "Parameters": {
+      "Pain rating": {"Type": "number"},
+      "Time": {"Type": "options", "Options": ["before", "after"]},
+      "Frequency": {"Type": "options"}
+    }
+  }
+}

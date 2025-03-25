@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Breathing and Coughing Exercise": {
+    "Exercise Instructions": {"Type": "text"},
+    "Breathing Pattern": {"Type": "options"},
+    "Coughing Pattern": {"Type": "options"},
+    "Frequency": {"Options": ["daily", "weekly", "as prescribed"]},
+    "Reminders": {"Type": "boolean"},
+    "Tracking": {"Type": "boolean"}
+  }
+}
+
+
+Note that I removed the non-applicable parameters and reformatted the text to conform to JSON syntax. Let me know if you have any further requests!

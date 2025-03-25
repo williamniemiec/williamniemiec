@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "Behavioral Assessment": {
+    "Parameters": {
+      "Behavioral Categories": {
+        "Type": "list of options",
+        "Options": ["diet", "exercise", "sleep", "medicationAdherence", "etc."]
+      },
+      "Assessment Questions": {
+        "Type": "list of questions",
+        "Questions": ["What is your typical daily diet like?", "How often do you exercise?", "etc."]
+      },
+      "Behavioral Patterns": {
+        "Type": "list of text"
+      },
+      "Frequency and Duration": {
+        "Type": "list of options",
+        "Options": ["daily", "weekly", "monthly", "etc."],
+        "Duration Options": ["lessThan30Minutes", "30MinutesTo1Hour", "etc."]
+      }
+    }
+  }
+}

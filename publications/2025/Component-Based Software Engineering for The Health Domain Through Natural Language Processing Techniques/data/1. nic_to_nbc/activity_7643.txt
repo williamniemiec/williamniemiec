@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Observation Recording": {
+    "Parameters": {
+      "Observation Type": {},
+      "Recording Method": {},
+      "Observation Categories": {},
+      "Recording Frequency": {}
+    }
+  }
+}
+
+
+Note: I removed the "Note-taking Template" parameter as it was marked as "not applicable" since its type is "text", not "options". Let me know if you have any further questions!

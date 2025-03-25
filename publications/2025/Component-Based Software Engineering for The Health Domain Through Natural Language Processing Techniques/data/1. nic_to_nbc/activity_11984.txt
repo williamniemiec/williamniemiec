@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Caregiver Contact": {
+        "Parameters": {
+            "Caregiver Name": {"Type": "text"},
+            "Caregiver Phone Number": {"Type": "text"},
+            "Caregiver Email": {"Type": "text"},
+            "Caregiver Address": {"Type": "text"},
+            "Contact Method": {"Type": "options", "Options": ["phone", "email", "in-person"]}
+        }
+    }
+}

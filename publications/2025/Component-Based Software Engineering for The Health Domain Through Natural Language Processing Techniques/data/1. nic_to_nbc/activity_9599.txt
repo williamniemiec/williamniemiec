@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+  "instruction": {
+    "parameters": {
+      "name": {"type": "text"},
+      "content": {"type": "text"},
+      "card_info": {
+        "type": "object",
+        "properties": {
+          "card_name": {"type": "text"},
+          "card_description": {"type": "text"},
+          "card_image": {"type": "object", "optional": true}
+        }
+      },
+      "reminder": {"type": "boolean"}
+    }
+  }
+}
+
+
+Let me know if you'd like me to make any adjustments!

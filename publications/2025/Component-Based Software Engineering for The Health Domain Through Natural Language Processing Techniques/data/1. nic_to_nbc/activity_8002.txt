@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+  "Family Involvement Survey": {
+    "Questions": {
+      "Type": "form",
+      "Options": ["multiple-choice", "Likert scale", "open-ended text"]
+    },
+    "Family Members": {
+      "Type": "list of names or relationships"
+    },
+    "Frequency": {
+      "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+    },
+    "Deadline Date": {
+      "Type": "datetime"
+    },
+    "Name": {
+      "Type": "text"
+    }
+  }
+}

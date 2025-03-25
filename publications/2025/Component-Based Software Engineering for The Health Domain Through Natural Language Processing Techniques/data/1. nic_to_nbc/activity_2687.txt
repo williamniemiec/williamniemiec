@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Education": {
+    "Parameters": {
+      "Content": {"Type": "multimedia"},
+      "Title": {"Type": "text"},
+      "Summary": {"Type": "text"}
+    }
+  }
+}

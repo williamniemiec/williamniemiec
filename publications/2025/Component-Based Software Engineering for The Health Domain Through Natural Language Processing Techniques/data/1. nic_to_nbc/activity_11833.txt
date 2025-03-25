@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "Dietary Restriction Viewer": {
+    "parameters": {
+      "name": {"type": "text"},
+      "restrictions": {"type": "list of objects", "properties": {
+        "text": {"type": "text"},
+        "type": {"type": "options"}
+      }}
+    }
+  },
+  "Care Plan Updater": {
+    "parameters": {
+      "name": {"type": "text"},
+      "care_plan": {"type": "text or HTML"},
+      "restrictions": {"type": "list of objects", "properties": {
+        "text": {"type": "text"},
+        "type": {"type": "options"}
+      }}
+    }
+  }
+}

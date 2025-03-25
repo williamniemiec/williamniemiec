@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Referral": {
+    "Title": {"Description": "title of the referral", "Required": true, "Type": "text"},
+    "Referral Type": {"Description": "type of referral, such as specialist, resource, or support group", "Required": true, "Type": "options", "Options": [{"value": "specialist", "label": "Specialist"}, {"value": "resource", "label": "Resource"}, {"value": "supportGroup", "label": "Support Group"}]},
+    "Referral Details": {"Description": "details of the referral, such as the name and contact information of the specialist or resource", "Required": true, "Type": "text"},
+    "Reason": {"Description": "brief explanation of why the referral is necessary", "Required": true, "Type": "text"},
+    "Frequency": {"Description": "specify how often the patient should be reminded to follow up on the referral", "Required": true, "Type": "options", "Options": [{"value": "daily", "label": "Daily"}, {"value": "onlyOnce", "label": "Only once"}, {"value": "everyHours", "label": "Every x hours"}, {"value": "everyDays", "label": "Every x days"}]}
+  }
+}

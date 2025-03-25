@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Health Tracker": {
+    "Vital Signs": {"Type": "form", "Fields": ["temperature", "heart rate", "blood pressure", "etc."]},
+    "Well-Child Check Schedule": {"Type": "calendar", "Fields": ["date", "check type", "results", "etc."]},
+    "Immunization Record": {"Type": "table", "Fields": ["vaccine name", "date administered", "dosage", "etc."]},
+    "Health Alerts": {"Type": "notification", "Options": ["email", "SMS", "in-app notification"]},
+    "Health Journal": {"Type": "journal", "Fields": ["date", "notes", "photos", "videos", "etc."]}
+  }
+}

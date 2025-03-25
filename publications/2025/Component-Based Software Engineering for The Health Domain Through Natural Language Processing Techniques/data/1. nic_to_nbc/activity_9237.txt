@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Tubing Management",
+    "parameters": [
+        { 
+            "name": "Tubing Type"
+        },
+        { 
+            "name": "Patient Mobility"
+        },
+        { 
+            "name": "Tubing Length"
+        },
+        { 
+            "name": "Tubing Adjustment Frequency"
+        }
+    ]
+}
+
+
+Note that I removed the `Reminder Settings` parameter since it's not applicable (the options are not specific values, but rather categories). Let me know if you need anything else!

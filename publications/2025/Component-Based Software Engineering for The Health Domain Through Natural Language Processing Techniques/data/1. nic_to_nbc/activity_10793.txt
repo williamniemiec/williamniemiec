@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Hygiene Task": {
+        "parameters": [
+            {"Name": "text"},
+            {"Frequency": "options"},
+            {"Instructions": "text"},
+            {"Confirmation": "boolean"}
+        ]
+    }
+}

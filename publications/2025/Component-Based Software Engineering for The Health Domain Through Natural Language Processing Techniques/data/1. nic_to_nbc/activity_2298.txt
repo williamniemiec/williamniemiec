@@ -1,0 +1,10 @@
+Here is the output in JSON format:
+
+
+{
+    "Smoking Cessation": {
+        "Why Quit": {"type": "text"},
+        "Benefits": {"type": "unordered list"},
+        "Resources": {"type": "link or text"}
+    }
+}

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Dietitian Referral": {
+    "Parameters": {
+      "Dietitian Directory": {"Type": "list of dietitian profiles or contact information"},
+      "Referral Criteria": {"Type": "text or interactive elements"},
+      "Referral Process": {"Type": "text or interactive elements"},
+      "Dietitian Profiles": {"Type": "list of dietitian profiles or contact information"},
+      "Patient Education": {"Type": "text or interactive elements"}
+    }
+  }
+}

@@ -1,0 +1,12 @@
+
+
+
+{
+    "Potassium Intake Tracker": {
+        "Medications": {"type": "text", "format": "list of medications with potassium content"},
+        "Dietary Potassium": {"type": "number", "unit": "mg or other relevant unit"},
+        "Food Diary": {"type": "text", "format": "free-text entry or selection from a list of common foods"},
+        "Potassium Levels": {"type": "number", "unit": "mmol/L or other relevant unit"},
+        "Alerts": {"type": "boolean", "trigger": "potassium levels above normal range or unintentional potassium intake detected"}
+    }
+}

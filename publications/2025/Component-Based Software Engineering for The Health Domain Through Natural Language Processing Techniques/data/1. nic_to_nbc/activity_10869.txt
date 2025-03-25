@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+  "Patient Report": {
+    "Report Fields": {
+      "type": "form",
+      "Form Fields": [
+        {"label": "Patient Name", "type": "text"},
+        {"label": "Medical History", "type": "text"},
+        {"label": "Current Medications", "type": "text"},
+        {"label": "Surgical Procedure", "type": "text"},
+        {"label": "Postoperative Instructions", "type": "text"}
+      ]
+    },
+    "Submission Method": {
+      "type": "options",
+      "Options": [
+        {"value": "email", "label": "Email"},
+        {"value": "fax", "label": "Fax"},
+        {"value": "electronicHealthRecord", "label": "Electronic Health Record"}
+      ]
+    },
+    "Deadline Date": {
+      "type": "datetime"
+    }
+  }
+}

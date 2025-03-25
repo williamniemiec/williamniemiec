@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Perineal Cleansing and Pad Change": {
+    "Parameters": {
+      "Name": "Perineal Cleansing and Pad Change",
+      "Content": "Cleanse your perineum and change your absorbent pads regularly",
+      "Frequency": ["everyHour", "every2Hours", "every4Hours", "asNeeded"]
+    }
+  }
+}

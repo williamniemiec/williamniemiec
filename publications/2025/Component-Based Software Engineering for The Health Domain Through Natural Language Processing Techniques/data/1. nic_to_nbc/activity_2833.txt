@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Touch Encouragement": {
+    "Parameters": {
+      "Touch Benefits": {},
+      "Touch Techniques": {},
+      "Touch Frequency": {},
+      "Touch Tips": {}
+    }
+  }
+}

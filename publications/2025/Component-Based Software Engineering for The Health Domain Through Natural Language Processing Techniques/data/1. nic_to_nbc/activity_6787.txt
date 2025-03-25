@@ -1,0 +1,39 @@
+Here is the output in JSON format:
+
+
+{
+  "Referral Discussion": {
+    "Parameters": {
+      "Referral Type": {
+        "Type": "options",
+        "Options": [
+          {"value": "specialist", "label": "Specialist"},
+          {"value": "therapy", "label": "Therapy"},
+          {"value": "supportGroup", "label": "Support Group"},
+          {"value": "other", "label": "Other (please specify)"}
+        ]
+      },
+      "Referral Reason": {
+        "Type": "text"
+      },
+      "Referral Details": {
+        "Type": "text"
+      },
+      "Patient Questions": {
+        "Type": "text"
+      },
+      "Care Team Response": {
+        "Type": "text"
+      },
+      "Referral Status": {
+        "Type": "options",
+        "Options": [
+          {"value": "pending", "label": "Pending"},
+          {"value": "scheduled", "label": "Scheduled"},
+          {"value": "completed", "label": "Completed"},
+          {"value": "cancelled", "label": "Cancelled"}
+        ]
+      }
+    }
+  }
+}

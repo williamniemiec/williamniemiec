@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Referral": {
+    "referral title": {"Type": "text", "Required": true},
+    "Professional": {"Type": "text or dropdown", "Required": true},
+    "Reason for Referral": {"Type": "text", "Required": true},
+    "Patient Information": {"Type": "text or form", "Required": true}
+  }
+}
+
+
+I removed the not applicable parameters, including `Referral Status` since it's not required. Let me know if this meets your requirements!

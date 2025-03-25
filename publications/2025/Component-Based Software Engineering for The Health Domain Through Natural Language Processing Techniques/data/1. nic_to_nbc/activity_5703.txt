@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+"Competency Review Form": {
+"name": "title of the competency review form",
+"skills": "list of skills to be reviewed (e.g., medication administration, wound care)",
+"criteria": "specifies the criteria for evaluating staff competence (e.g., observation, simulation, written test)",
+"frequency": "specifies how often the review should be conducted (e.g., quarterly, annually)"
+},
+"Self-Assessment": {
+"name": "title of the self-assessment",
+"prompts": "list of open-ended questions or statements for staff to reflect on",
+"frequency": "specifies how often the self-assessment should be completed (e.g., quarterly, annually)"
+},
+"Peer Review": {
+"name": "title of the peer review",
+"skills": "list of skills to be reviewed (e.g., medication administration, wound care)",
+"criteria": "specifies the criteria for evaluating staff competence (e.g., observation, simulation, written test)",
+"frequency": "specifies how often the review should be conducted (e.g., quarterly, annually)"
+},
+"Competency Dashboard": {
+"name": "title of the competency dashboard",
+"skills": "list of skills to be displayed (e.g., medication administration, wound care)",
+"staff": "list of staff members to be displayed",
+"ratings": "specifies the rating scale for evaluating staff competence (e.g., 1-5, pass/fail)"
+}
+}

@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Vaccine Education": {
+    "Parameters": {
+      "Vaccine List": {"Type": "list of vaccine names"},
+      "Route of Administration": {"Type": "list of route of administration for each vaccine"},
+      "Reasons and Benefits": {"Type": "list of text or html for each vaccine"},
+      "Adverse Reactions": {"Type": "list of text or html for each vaccine"},
+      "Side Effects": {"Type": "list of text or html for each vaccine"},
+      "Schedule": {"Type": "list of dates or age ranges for each vaccine"}
+    }
+  }
+}

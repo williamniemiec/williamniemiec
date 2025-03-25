@@ -1,0 +1,10 @@
+Here is the output in JSON format:
+
+
+{
+  "Hydration Reminder": {
+    "name": {"type": "text"},
+    "message": {"type": "text"},
+    "frequency": {"type": "options"}
+  }
+}

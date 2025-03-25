@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "NO-CODE ELEMENT NAME": "Guide",
+  "PARAMETER ESPECIFICATIONS": {
+    "name": {"Type": "text"},
+    "content": {"Type": "text or HTML"},
+    "steps": {"Type": "list of text or HTML"},
+    "images": {"Type": "list of image URLs or base64-encoded images"},
+    "frequency": {"Type": "options"}
+  }
+}
+
+
+I removed all unnecessary information and extracted only the `PARAMETER ESPECIFICATIONS` and `NO-CODE ELEMENT NAME`. I also formatted it into a JSON object for easier readability.

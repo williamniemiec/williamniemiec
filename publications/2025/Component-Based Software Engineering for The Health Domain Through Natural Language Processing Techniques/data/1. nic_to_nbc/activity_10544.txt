@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Crying Reason": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Crying Reasons": {"Type": "options", "Options": ["Hunger", "Pain", "Fatigue", "Fussiness", "Other"]},
+      "Frequency": {"Type": "options", "Options": ["Every time the infant cries", "At specific times of the day", "Only when the parent is unsure of the reason"]},
+      "Deadline Date": {"Type": "datetime"},
+      "Additional Notes": {"Type": "text"}
+    }
+  }
+}

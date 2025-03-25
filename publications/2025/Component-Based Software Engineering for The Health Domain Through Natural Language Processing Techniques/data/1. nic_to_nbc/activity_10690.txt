@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Infant Baptism Guide": {
+    "Religious Affiliation": {"type": "options", "options": ["Catholic", "Protestant", "Jewish", "Other"]},
+    "Baptismal Rite": {"type": "options", "options": ["emergencyBaptism", "fullBaptism"]},
+    "Baptismal Formula": {"type": "text"},
+    "Baptismal Requirements": {"type": "list of text"},
+    "Baptismal Ceremony": {"type": "list of text"},
+    "Frequency": {"type": "options", "options": ["onlyOnce", "everyHour", "everyDay"]},
+    "Deadline Date": {"type": "datetime"}
+  }
+}

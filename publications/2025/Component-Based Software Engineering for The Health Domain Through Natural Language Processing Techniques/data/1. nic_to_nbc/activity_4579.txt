@@ -1,0 +1,35 @@
+Here is the output in JSON format:
+
+
+{
+    "Symptom Checker": {
+        "parameters": {
+            "name": "Defibrillator Insertion Complications",
+            "description": "Please report any symptoms or complications you are experiencing",
+            "content_type": "form",
+            "required": true,
+            "type": "options",
+            "options": [
+                { "value": "pneumothorax", "label": "Pneumothorax" },
+                { "value": "hemothorax", "label": "Hemothorax" },
+                { "value": "myocardial_perforation", "label": "Myocardial Perforation" },
+                { "value": "cardiac_tamponade", "label": "Cardiac Tamponade" },
+                { "value": "hematoma", "label": "Hematoma" },
+                { "value": "PVCs", "label": "Premature Ventricular Contractions (PVCs)" },
+                { "value": "infections", "label": "Infections" },
+                { "value": "hiccups", "label": "Hiccups" },
+                { "value": "muscle_twitches", "label": "Muscle Twitches" },
+                { "value": "none", "label": "None of the above" }
+            ]
+        }
+    },
+    "Text Input": {
+        "parameters": {
+            "name": "Additional Information",
+            "description": "Please provide more details about your symptoms or complications",
+            "content_type": "text",
+            "required": false,
+            "type": "text"
+        }
+    }
+}

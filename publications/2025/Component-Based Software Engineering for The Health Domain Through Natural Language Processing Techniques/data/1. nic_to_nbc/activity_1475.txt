@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Obstetrical History Review": {
+    "Parameters": {
+      "Gestational Age": {"Type": "numeric value"},
+      "Prior Labor History": {"Type": "text or HTML"},
+      "Contraindications": {"Type": "list of options"},
+      "Review Questions": {"Type": "list of text or HTML"},
+      "Influence on Induction": {"Type": "text or HTML"},
+      "Result": {"Type": "text or HTML"}
+    }
+  }
+}

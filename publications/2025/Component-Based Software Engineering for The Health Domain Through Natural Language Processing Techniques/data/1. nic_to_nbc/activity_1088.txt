@@ -1,0 +1,13 @@
+
+
+
+{
+  "Health Data Tracker": {
+    "Parameters": [
+      {"Data type": ""},
+      {"Sequential results": ""},
+      {"Trend analysis logic": ""},
+      {"Alert thresholds": ""}
+    ]
+  }
+}

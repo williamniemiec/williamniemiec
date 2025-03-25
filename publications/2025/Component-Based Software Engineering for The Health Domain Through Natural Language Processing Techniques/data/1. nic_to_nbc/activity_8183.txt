@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "intervention_identification",
+    "parameters": [
+        { 
+            "name": "patient_population", 
+            "description": "patient population to be targeted"
+        },
+        { 
+            "name": "interventions" 
+        },
+        { 
+            "name": "intervention_criteria" 
+        },
+        { 
+            "name": "intervention_frequency" 
+        }
+    ]
+}

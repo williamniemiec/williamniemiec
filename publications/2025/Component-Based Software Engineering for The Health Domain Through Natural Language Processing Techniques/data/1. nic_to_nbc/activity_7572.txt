@@ -1,0 +1,29 @@
+Here is the output in JSON format:
+
+
+{
+    "Task": {
+        "parameters": {
+            "name": "Upright Posture Task",
+            "content": "Place yourself or ask a caregiver to place you in an upright posture for [X] minutes, [Y] times a day",
+            "frequency": "how often the patient should perform this task, e.g., daily, every 2 hours",
+            "deadline_date": "a specific date or timeframe for the patient to complete this task"
+        }
+    },
+    "Reminder": {
+        "parameters": {
+            "name": "Upright Posture Reminder",
+            "message": "Remember to place yourself or ask a caregiver to place you in an upright posture for [X] minutes",
+            "frequency": "how often the reminder should be sent, e.g., daily, every 2 hours",
+            "deadline_date": "a specific date or timeframe for the reminder to be sent"
+        }
+    },
+    "Question": {
+        "parameters": {
+            "name": "Upright Posture Feedback",
+            "question": "How did you feel during the upright posture task? Did you experience any dizziness, lightheadedness, or discomfort?",
+            "answer type": "a scale or options to measure the patient's experience, e.g., 1-5, mild-moderate-severe",
+            "frequency": "how often the patient should answer this question, e.g., daily, after each task"
+        }
+    }
+}

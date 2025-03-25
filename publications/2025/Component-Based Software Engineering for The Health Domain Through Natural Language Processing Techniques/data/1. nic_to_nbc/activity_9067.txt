@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+    "Wheelchair Modification": {
+        "Modification Type": {},
+        "Problem or Weakness": {},
+        "Frequency": {},
+        "Deadline Date": {},
+        "Instructions": {}
+    }
+}

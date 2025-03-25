@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+{
+    "Fluid Tolerance Monitoring": {
+        "Monitoring Plan Name": {},
+        "Instructions": {},
+        "Tolerance Assessment": {},
+        "Intake Tracking": {},
+        "Frequency": {}
+    }
+}

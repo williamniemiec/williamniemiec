@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Injection Site Pressure Guide": {
+    "parameters": [
+      {"Pressure Application": {
+        "pressure_technique": "",
+        "pressure_duration": ""
+      }},
+      {"Massage Avoidance": {
+        "massage_risks": "",
+        "alternative_techniques": ""
+      }}
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "noCodeElementName": "Pulse Oximetry Tracking",
+  "parameters": {
+    "Oxygen Saturation": {"type": "number"},
+    "Pulse Rate": {"type": "number"},
+    "Frequency": {"options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"type": "datetime"},
+    "Pulse Oximetry Trend": {"type": "graph or chart"}
+  }
+}

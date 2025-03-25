@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "PARAMETER ESPECIFICATIONS": {
+    "1. Continuously monitoring the patient's hemodynamic parameters": [],
+    "2. Interpreting the data and making adjustments to medications, fluids, and other interventions as needed": [],
+    "3. Collaborating with other healthcare professionals to develop and implement a care plan": []
+  },
+  "NO-CODE ELEMENT NAME": null
+}

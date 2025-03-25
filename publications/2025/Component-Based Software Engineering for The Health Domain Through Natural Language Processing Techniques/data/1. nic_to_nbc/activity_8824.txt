@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Urine Chloride Calculator": {
+    "Urine Chloride Value": {"type": "number", "unit": "mmol/L"},
+    "Saline Responsive Threshold": {"type": "number", "unit": "mmol/L"},
+    "Non-Saline Responsive Threshold": {"type": "number", "unit": "mmol/L"},
+    "Result": {"type": "text"}
+  }
+}

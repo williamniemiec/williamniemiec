@@ -1,0 +1,30 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Hand Hygiene Protocol",
+    "parameters": [
+        { 
+            "name": "Hand Hygiene Method", 
+            "options": [
+                { value: "washing with soap and water" },
+                { value: "using hand sanitizer" }
+            ]
+        },
+        { 
+            "name": "Frequency", 
+            "options": [
+                { value: "before" },
+                { value: "during" },
+                { value: "after" }
+            ]
+        },
+        { 
+            "name": "Tube Type", 
+            "options": [
+                { value: "urinary catheter" },
+                { value: "nasogastric tube" }
+            ]
+        }
+    ]
+}

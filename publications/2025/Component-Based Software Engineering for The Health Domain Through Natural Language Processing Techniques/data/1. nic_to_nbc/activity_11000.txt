@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Animated Explanation": {
+    "Parameters": {
+      "Title": {"Type": "text"},
+      "Animation script": {"Type": "text"},
+      "Animation style": {"Options": ["2D", "3D", "stop-motion"]},
+      "Duration": {"Type": "time interval"},
+      "Frequency": {"Options": ["daily", "onlyOnce", "everyHours", "everyDays"]}
+    }
+  }
+}

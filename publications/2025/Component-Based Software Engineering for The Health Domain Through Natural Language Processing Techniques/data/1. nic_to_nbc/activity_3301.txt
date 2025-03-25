@@ -1,0 +1,36 @@
+Here is the output in JSON format:
+
+
+{
+  "foot care guidelines": [
+    {
+      "name": "guidelines",
+      "description": "written foot care guidelines",
+      "required": true,
+      "type": ["pdf", "html"]
+    }
+  ],
+  "foot care guidelines": [
+    {
+      "name": "daily care",
+      "description": "daily foot care routine",
+      "required": true,
+      "type": "text"
+    },
+    {
+      "name": "moisturizing",
+      "description": "moisturizing tips",
+      "required": true,
+      "type": "text"
+    },
+    {
+      "name": "trimming",
+      "description": "toe nail and callus trimming guidelines",
+      "required": true,
+      "type": "text"
+    }
+  ]
+}
+
+
+Note: I removed the not applicable parameters and kept only the `parameters` section, as per your request. Also, since there were two instances of `"foot care guidelines"` with different parameters, I kept both in the output JSON.

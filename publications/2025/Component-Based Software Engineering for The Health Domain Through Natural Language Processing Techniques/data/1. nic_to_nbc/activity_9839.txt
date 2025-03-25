@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Interest Finder": {
+    "Parameters": {
+      "Interest Categories": {},
+      "Goal Setting": {},
+      "Matching Algorithm": {},
+      "Connection Platform": {},
+      "Frequency": {}
+    }
+  }
+}
+
+
+Note that I removed the `Deadline Date` parameter as it's not applicable in this case, and also removed any descriptions or other text that wasn't part of the `{{ PARAMETER ESPECIFICATIONS }}` section. Let me know if you have any further questions!

@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Image Request": {
+    "parameters": {
+      "name": "Chest X-ray",
+      "description": "Upload your daily chest x-ray",
+      "content_type": "image",
+      "frequency": {
+        "type": "options",
+        "options": [
+          { "value": "daily", "label": "Daily" }
+        ]
+      }
+    }
+  }
+}

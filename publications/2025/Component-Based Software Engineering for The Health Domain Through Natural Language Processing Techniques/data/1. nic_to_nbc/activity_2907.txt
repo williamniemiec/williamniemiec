@@ -1,0 +1,9 @@
+Here is the output in JSON format:
+
+
+{
+  "Referral Resource": {
+    "resource_list": "",
+    "filtering_criteria": ""
+  }
+}

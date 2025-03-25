@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Infant Needs Assessment": {
+    "Parameters": [
+      {"Name": {"Type": "text"}},
+      {"Questions": {"Type": "list of questions", "Question types": ["multiple-choice", "true/false", "open-ended text"]}},
+      {"Answer Options": {"Type": "list of answer options"}},
+      {"Correct Answers": {"Type": "list of correct answers"}},
+      {"Feedback": {"Type": "text"}},
+      {"Frequency": {"Type": "options", "Options": ["daily", "every other day", "weekly", "etc."]}},
+      {"Scenario-Based Questions": {"Type": "list of scenario-based questions"}},
+      {"Infant Needs Tracker": {"Type": "tracker with input fields for date, time, and infant needs"}}
+    ]
+  }
+}

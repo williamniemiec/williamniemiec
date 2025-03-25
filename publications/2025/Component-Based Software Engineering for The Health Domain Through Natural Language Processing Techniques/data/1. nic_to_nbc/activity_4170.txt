@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Parameter Specifications": {
+    "Drug type": {"Type": "text"},
+    "Handling step": {"Type": "options", "Options": ["preparation", "administration"]},
+    "Guideline content": {"Type": "text or multimedia (image, video)"},
+    "Frequency": {"Type": "options", "Options": ["daily", "weekly", "monthly"]},
+    "Compliance tracking": {"Type": "boolean"}
+  },
+  "No-code Element Name": "Guideline"
+}
+
+
+Let me know if this is what you were expecting!

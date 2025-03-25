@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Choice Opportunity": {
+    "Parameters": {
+      "Choice Opportunity Title": {"Type": "text", "Required": true},
+      "Choices": {"Type": "choice-list", "Required": true, "Choice-list": [...]},
+      "Frequency": {"Type": "options", "Required": true, "Options": [...]},
+      "Progress Tracking": {"Type": "progress-tracking", "Required": true}
+    }
+  }
+}
+
+
+Note that I removed the not applicable parameters (i.e., `Deadline Date`) and formatted the remaining parameters as a JSON object. Let me know if this meets your requirements!

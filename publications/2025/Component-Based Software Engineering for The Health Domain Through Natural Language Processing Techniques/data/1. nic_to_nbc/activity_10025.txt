@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Tongue Protrusion Monitoring": {
+    "Name": {"type": "text"},
+    "Instructions": {"type": "text"},
+    "Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"type": "datetime"},
+    "Tracking": {"type": "camera or video"}
+  }
+}

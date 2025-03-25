@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Instruction",
+  "parameters": [
+    {"title"},
+    {"content"},
+    {"rationale"},
+    {"frequency"},
+    {"deadline_date"}
+  ]
+}
+
+
+Note: I removed the not applicable parameters and only kept the `{{ NO-CODE ELEMENT NAME }}` and `{{ PARAMETER ESPECIFICATIONS }}`.

@@ -1,0 +1,12 @@
+
+
+
+{
+  "Parenting Tip": {
+    "Topic": {"type": "text"},
+    "Content": {"type": "multimedia"},
+    "Tips and strategies": {"type": "list of text items"},
+    "Reflection prompt": {"type": "text"},
+    "Call to action": {"type": "text"}
+  }
+}

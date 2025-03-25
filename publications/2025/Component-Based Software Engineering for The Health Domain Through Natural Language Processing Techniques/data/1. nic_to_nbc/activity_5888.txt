@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Video Recording": {
+    "Instructions": { "name": "Instructions", "description": "Please record a video of your blink reflex", "required": true, "type": "text" },
+    "Video duration": { "name": "Video duration", "description": "Please record a video for 10 seconds", "required": true, "type": "number" },
+    "Frequency": { "name": "Frequency", "description": "How often should you record your blink reflex?", "required": true, "type": "options", "options": [ { "value": "daily", "label": "Daily" }, { "value": "weekly", "label": "Weekly" }, { "value": "monthly", "label": "Monthly" } ] },
+    "Deadline date": { "name": "Deadline date", "description": "Please record your blink reflex by", "required": true, "type": "datetime" }
+  },
+  "Blink Reflex Test": {
+    "Instructions": { "name": "Instructions", "description": "Please follow the instructions to test your blink reflex", "required": true, "type": "text" },
+    "Test duration": { "name": "Test duration", "description": "The test will take 10 seconds", "required": true, "type": "number" },
+    "Frequency": { "name": "Frequency", "description": "How often should you test your blink reflex?", "required": true, "type": "options", "options": [ { "value": "daily", "label": "Daily" }, { "value": "weekly", "label": "Weekly" }, { "value": "monthly", "label": "Monthly" } ] },
+    "Deadline date": { "name": "Deadline date", "description": "Please test your blink reflex by", "required": true, "type": "datetime" }
+  }
+}

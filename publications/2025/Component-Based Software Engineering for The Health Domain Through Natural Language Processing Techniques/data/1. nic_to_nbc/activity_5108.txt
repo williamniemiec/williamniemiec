@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Behavioral Expectations and Consequences Assessment",
+    "parameters": [
+        {
+            "name": "Cognitive Functioning Level",
+            "type": "options"
+        },
+        {
+            "name": "Capacity for Self-Control",
+            "type": "options"
+        },
+        {
+            "name": "Behavioral Expectations",
+            "type": "checklist"
+        },
+        {
+            "name": "Consequences",
+            "type": "checklist"
+        }
+    ]
+}

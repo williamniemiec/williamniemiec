@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+  "Norms": {
+    "parameters": {
+      "name": "",
+      "description": "",
+      "guidelines": [],
+      "examples": [],
+      "discussion": ""
+    }
+  },
+  "Guide": {
+    "parameters": {
+      "name": "",
+      "pages": [],
+      "examples": [],
+      "discussion": "",
+      "reflection": ""
+    }
+  }
+}
+
+
+Let me know if this meets your requirements!

@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "noCodeElementName": "Form",
+  "parameters": {
+    "Name": "Informed Consent for [Procedure Name]",
+    "Content": "Digital consent form with information about the procedure, risks, benefits, and alternatives",
+    "Fields": [
+      "Patient signature",
+      "Date and time of signature",
+      "Procedure name and description"
+    ],
+    "Frequency": "One-time, before the procedure"
+  }
+}

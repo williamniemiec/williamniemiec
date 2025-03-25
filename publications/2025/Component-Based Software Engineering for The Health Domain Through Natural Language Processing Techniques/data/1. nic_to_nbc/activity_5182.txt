@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Education": {
+    "Exercise Information": {"type": "text or HTML content"},
+    "Benefits": {"type": "text or HTML content"},
+    "FAQs": {"type": "list of questions and answers (text or HTML content)"},
+    "Visual Aids": {"type": "image or video content"},
+    "Call to Action": {"type": "text or button with a link to a related resource"}
+  }
+}

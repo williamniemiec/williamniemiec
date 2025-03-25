@@ -1,0 +1,13 @@
+
+
+
+{
+    "Lighting Adjustment": {
+        "Parameters": {
+            "Lighting Level": {"Type": "options", "Options": ["bright", "medium", "dim"]},
+            "Lighting Type": {"Type": "options", "Options": ["natural", "artificial", "softbox"]},
+            "Glare Reduction": {"Type": "options", "Options": ["use curtains", "adjust lamp position", "use antiglare screen"]},
+            "Additional Tips": {"Type": "text"}
+        }
+    }
+}

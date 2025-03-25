@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+    "Personal Commitment": {
+        "name": "",
+        "statement": "",
+        "deadline_date": "",
+        "reminders": ""
+    },
+    "Reflection": {
+        "name": "",
+        "prompts": [],
+        "journal": ""
+    }
+}

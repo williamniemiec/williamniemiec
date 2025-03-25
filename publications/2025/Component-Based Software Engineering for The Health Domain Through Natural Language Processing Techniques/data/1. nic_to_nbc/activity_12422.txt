@@ -1,0 +1,32 @@
+Here is the output in JSON format:
+
+
+{
+  "Equipment Demonstration": {
+    "parameters": [
+      { 
+        "name": "equipment type", 
+        "description": "Specify the type of equipment to be demonstrated", 
+        "required": true, 
+        "type": "options",
+        "options": [
+          { value: "ostomy bag", label: "Ostomy Bag" },
+          { value: "insulin pump", label: "Insulin Pump" },
+          { value: "other", label: "Other (please specify)" }
+        ]
+      },
+      { 
+        "name": "demonstration", 
+        "description": "Upload a video or photo demonstrating the use of the equipment", 
+        "required": true, 
+        "type": "video" || "photo"
+      },
+      { 
+        "name": "notes", 
+        "description": "Add any additional notes or comments about the demonstration", 
+        "required": false, 
+        "type": "text"
+      }
+    ]
+  }
+}

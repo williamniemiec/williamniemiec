@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "Consciousness Assessment": {
+    "Level of Consciousness": {
+      "type": "options"
+    },
+    "Protective Reflexes": {
+      "type": "options"
+    },
+    "Assessment Results": {
+      "type": "text or numeric value"
+    },
+    "Assessment Date and Time": {
+      "type": "datetime"
+    },
+    "Assessment Questions": {
+      "type": "list of text or multiple-choice questions"
+    },
+    "Assessment Answers": {
+      "type": "list of text or multiple-choice answers"
+    }
+  }
+}

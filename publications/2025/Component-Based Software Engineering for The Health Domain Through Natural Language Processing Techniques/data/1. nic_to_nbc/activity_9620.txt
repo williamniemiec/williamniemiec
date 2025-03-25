@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Vaccine Information": {
+    "Parameters": {
+      "Vaccine List": {"Type": "list of vaccine names"},
+      "Disease Protection": {"Type": "list of text or html for each vaccine"},
+      "Benefits": {"Type": "list of text or html for each vaccine"},
+      "Recommendation": {"Type": "list of text or html for each vaccine"},
+      "Additional Resources": {"Type": "list of URLs or file attachments"}
+    }
+  }
+}

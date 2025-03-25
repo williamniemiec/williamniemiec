@@ -1,0 +1,14 @@
+
+
+
+{
+  "Inspection Report": {
+    "name": {"type": "text"},
+    "items_to_inspect": {"type": "options"},
+    "inspection_type": {"type": "options"},
+    "findings": {"type": ["text", "options"]},
+    "photo": {"type": "camera"},
+    "deadline_date": {"type": "datetime"},
+    "notes": {"type": "text"}
+  }
+}

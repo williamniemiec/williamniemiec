@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Spiritual Support Request": {
+    "Advisor Information": {},
+    "Visit Request": {},
+    "Visit Frequency": {"options": ["daily", "weekly", "monthly", "as needed"]},
+    "Visit Type": {"options": ["in-person", "video call", "phone call"]},
+    "Notes": {}
+  }
+}

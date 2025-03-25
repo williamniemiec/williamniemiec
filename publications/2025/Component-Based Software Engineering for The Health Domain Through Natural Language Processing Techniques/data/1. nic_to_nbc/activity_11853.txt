@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Support Group Connector": {
+    "parameters": {
+      "Support Group Information": {"type": "text"},
+      "Interest in Joining": {"type": "boolean"},
+      "Meeting Schedule": {"type": "options", "options": ["Yes, I will attend weekly meetings", "No, I am not interested in attending weekly meetings"]},
+      "Reminders": {"type": "boolean"}
+    }
+  }
+}

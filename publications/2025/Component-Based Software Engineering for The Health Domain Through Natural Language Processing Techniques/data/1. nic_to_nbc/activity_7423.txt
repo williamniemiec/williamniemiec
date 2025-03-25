@@ -1,0 +1,31 @@
+Here is the output in JSON format:
+
+
+{
+  "Ear Cleaning Guide": {
+    "Name": {"Type": "text"},
+    "Content": {"Type": "interactive content (e.g., HTML, JSON, etc.)"},
+    "Pages": {
+      "Type": "list of objects",
+      "Parameters": {
+        "Title": {"Type": "text"},
+        "Content": {"Type": "content type (e.g., text, image, video, etc.)"}
+      }
+    },
+    "Steps": {
+      "Type": "list of objects",
+      "Parameters": {
+        "Step Number": {"Type": "number"},
+        "Instruction": {"Type": "text"},
+        "Image": {"Type": "image"}
+      }
+    },
+    "Tips": {
+      "Type": "list of objects",
+      "Parameters": {
+        "Tip": {"Type": "text"},
+        "Image": {"Type": "image"}
+      }
+    }
+  }
+}

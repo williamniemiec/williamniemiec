@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Resource Guide": {
+    "Name": {"type": "text"},
+    "Resources": {"type": "list of resources"},
+    "Frequency": {"options": ["daily", "weekly", "monthly", "quarterly"]},
+    "Deadline Date": {"type": "datetime"}
+  }
+}

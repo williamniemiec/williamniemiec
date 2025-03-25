@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "noCodeElementName": "Resource",
+  "parameterSpecifications": {
+    "Resource Type": {"type": "options", "options": ["expert consultation", "learning materials", "time", "fiscal resources", "personnel", "facilities", "technology", "other"]},
+    "Resource Description": {"type": "text"},
+    "Resource Availability": {"type": "options", "options": ["always available", "limited availability", "seasonal availability", "other"]},
+    "Resource Cost": {"type": "text or numeric"},
+    "Resource Quality": {"type": "options", "options": ["high quality", "moderate quality", "low quality", "other"]}
+  }
+}
+
+
+Let me know if you need any further assistance!

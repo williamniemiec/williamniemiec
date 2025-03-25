@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Skin Monitor": {
+    "parameters": {
+      "Skin Area": {"type": "options"},
+      "Color Scale": {"type": "options"},
+      "Temperature Unit": {"type": "text"},
+      "Frequency": {"type": "options"}
+    }
+  }
+}

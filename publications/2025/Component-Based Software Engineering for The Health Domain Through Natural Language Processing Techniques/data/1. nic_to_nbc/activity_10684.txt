@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Care Expectations Guide": {
+    "Parameters": {
+      "Title": {},
+      "Content": {},
+      "Pages": {},
+      "Video": {}
+    }
+  }
+}

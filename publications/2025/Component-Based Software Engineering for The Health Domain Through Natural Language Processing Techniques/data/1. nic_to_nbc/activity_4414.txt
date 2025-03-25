@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Sexual Health Discussion Guide": {
+    "Discussion Topics": [],
+    "Assessment Questions": [],
+    "Resources": [],
+    "Confidentiality": [],
+    "Follow-up": []
+  }
+}

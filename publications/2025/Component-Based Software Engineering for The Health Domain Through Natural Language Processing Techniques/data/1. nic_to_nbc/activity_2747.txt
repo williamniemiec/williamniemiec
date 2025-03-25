@@ -1,0 +1,30 @@
+Here is the output in JSON format:
+
+
+{
+  "Pain Assessment": {
+    "Parameters": {
+      "Name": {
+        "Type": "text"
+      },
+      "Pain Scale": {
+        "Type": "options",
+        "Options": [
+          { "value": "0-10", "label": "0-10 scale" },
+          { "value": "verbal", "label": "Verbal rating scale" }
+        ]
+      },
+      "Frequency": {
+        "Type": "options",
+        "Options": [
+          { "value": "daily", "label": "Daily" },
+          { "value": "everyHours", "label": "Every x hours" },
+          { "value": "everyDays", "label": "Every x days" }
+        ]
+      },
+      "Deadline Date": {
+        "Type": "datetime"
+      }
+    }
+  }
+}

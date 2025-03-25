@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+  "Sleep Diary": {
+    "sleep_quality": "",
+    "sleep_duration": "",
+    "wake_up_time": "",
+    "bedtime": "",
+    "sleep_disturbances": ""
+  },
+  "Sleep Tracker": {
+    "sleep_data": "",
+    "sleep_duration": "",
+    "sleep_stages": "",
+    "sleep_quality": ""
+  },
+  "Instructions": {
+    "title": "",
+    "content": "",
+    "type": ""
+  }
+}

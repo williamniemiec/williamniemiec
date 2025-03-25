@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+    "Referral": {
+        "parameters": {
+            "program_name": "",
+            "program_description": "",
+            "contact_information": "",
+            "resources": ""
+        }
+    },
+    "Resource": {
+        "parameters": {
+            "name": "",
+            "description": "",
+            "contact_information": ""
+        }
+    }
+}
+
+
+Let me know if you need anything else!

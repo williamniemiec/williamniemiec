@@ -1,0 +1,62 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Practice Encouragement",
+    "parameters": [
+        { 
+            "name": "Name", 
+            "description": "A parameter that specifies the title or name of the practice encouragement.", 
+            "required": true, 
+            "type": "text"
+        },
+        { 
+            "name": "Message", 
+            "description": "A parameter that provides a motivational message to encourage the patient to practice.", 
+            "required": true, 
+            "type": "text"
+        },
+        { 
+            "name": "Practice Reminders", 
+            "description": "A parameter that specifies the frequency and type of reminders to encourage the patient to practice.", 
+            "required": true, 
+            "type": "options",
+            "options": [
+                { value: "daily", label: "Daily" },
+                { value: "everyOtherDay", label: "Every other day" },
+                { value: "weekly", label: "Weekly" },
+                { value: "monthly", label: "Monthly" },
+            ]
+        },
+        { 
+            "name": "Practice Tracking", 
+            "description": "A parameter that allows the patient to track their practice progress.", 
+            "required": false, 
+            "type": "boolean"
+        },
+        { 
+            "name": "Goal Setting", 
+            "description": "A parameter that allows the patient to set specific goals for their practice.", 
+            "required": false, 
+            "type": "text"
+        },
+        { 
+            "name": "Frequency", 
+            "description": "A parameter that specifies how often the patient should practice between regular sessions with the nurse.", 
+            "required": true, 
+            "type": "options",
+            "options": [
+                { value: "daily", label: "Daily" },
+                { value: "everyOtherDay", label: "Every other day" },
+                { value: "weekly", label: "Weekly" },
+                { value: "monthly", label: "Monthly" },
+            ]
+        },
+        { 
+            "name": "Deadline Date", 
+            "description": "A parameter that specifies the due date for the patient to practice between regular sessions with the nurse.", 
+            "required": false, 
+            "type": "datetime"
+        }
+    ]
+}

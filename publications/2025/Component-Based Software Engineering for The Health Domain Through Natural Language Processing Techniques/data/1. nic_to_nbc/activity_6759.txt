@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+  "Symptom Checker": {
+    "Parameters": {
+      "Symptom List": {"Type": "checkbox or multiselect"},
+      "Severity": {"Type": "options (e.g., mild, moderate, severe)"},
+      "Frequency": {"Type": "options (e.g., daily, weekly, monthly)"}
+    }
+  },
+  "Lab Result Tracker": {
+    "Parameters": {
+      "Lab Result List": {"Type": "number"},
+      "Reference Range": {"Type": "number"},
+      "Abnormal Result Detection": {"Type": "boolean"}
+    }
+  },
+  "Worsening Condition Detection": {
+    "Parameters": {
+      "Symptom Input": {"Type": "text or checkbox"},
+      "Lab Result Input": {"Type": "number"},
+      "Worsening Condition Detection": {"Type": "boolean"}
+    }
+  }
+}

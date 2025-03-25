@@ -1,0 +1,37 @@
+{
+  "name": "Symptom Checker",
+  "description": "The 'Symptom Checker' element monitors, tracks, and analyzes various symptoms and health conditions. It includes muscle reflex testing, symptom severity assessment, and heart function monitoring (ECG). The system helps identify, track, and manage symptoms such as weakness, hypotension, tachycardia, and other health concerns, providing appropriate interventions based on severity.",
+  "type": "periodic",
+  "input": [
+    "Muscle reflex tests",
+    "Symptom severity reports",
+    "Hypotension and tachycardia checks",
+    "ECG data",
+    "Weakness assessment",
+    "Symptom type",
+    "Severity scale",
+    "Symptom duration"
+  ],
+  "output": [
+    "Reflex and muscle weakness report",
+    "ECG results",
+    "Symptom severity report",
+    "Trend analysis of symptoms",
+    "Symptom severity analysis"
+  ],
+  "preconditions": [
+    "User is experiencing symptoms such as weakness, hypotension, or tachycardia requiring monitoring",
+    "User inputs symptom details for severity assessment"
+  ],
+  "postconditions": [
+    "Symptom severity and muscle function are tracked and analyzed",
+    "Trend analysis and appropriate interventions are suggested"
+  ],
+  "dependencies": [
+    "ECG monitoring system",
+    "Symptom checker platform",
+    "Muscle reflex assessment tools",
+    "Symptom severity scale system",
+    "User health profile"
+  ]
+}

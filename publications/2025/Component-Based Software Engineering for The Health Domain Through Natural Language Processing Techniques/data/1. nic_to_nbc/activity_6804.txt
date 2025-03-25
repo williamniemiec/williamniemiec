@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Equipment Education": {
+    "Parameters": {
+      "Equipment List": {
+        "Type": "unordered list",
+        "Items": [
+          {"Equipment Name": {"Type": "text"}},
+          {"Description": {"Type": "text"}},
+          {"Purpose": {"Type": "text"}}
+        ]
+      },
+      "Tubing Information": {"Type": "text"},
+      "Visual Aids": {"Type": "image" || "video"}
+    }
+  }
+}

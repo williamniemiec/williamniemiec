@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Management": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Description": {"Type": "text"},
+      "Medication Type": {"Type": "options", "Options": ["antipsychotic", "antianxiety"]},
+      "Dosage": {"Type": "text"},
+      "Frequency": {"Type": "options", "Options": ["daily", "PRN", "other"]},
+      "Route": {"Type": "options", "Options": ["oral", "injectable", "other"]},
+      "Duration": {"Type": "text"},
+      "Monitoring": {"Type": "options", "Options": ["daily", "weekly", "monthly"]}
+    }
+  }
+}
+
+
+Let me know if this is what you were expecting!

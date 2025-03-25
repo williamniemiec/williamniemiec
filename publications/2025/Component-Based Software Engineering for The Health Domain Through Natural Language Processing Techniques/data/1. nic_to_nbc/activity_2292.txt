@@ -1,0 +1,40 @@
+Here is the output in JSON format:
+
+
+{
+  "Educational Content": {
+    "parameters": [
+      {"Name": {"type": "text"}},
+      {"Modules": {"type": "module", 
+        "module": [
+          {"Title": {"type": "text"}},
+          {"Content": {"type": "text"}},
+          {"Resources": {"type": "resource", 
+            "resource": [
+              {"Type": {"type": "text"}},
+              {"Url": {"type": "url"}}
+            ]
+          }}
+        ]
+      }},
+      {"Quizzes": {"type": "quiz", 
+        "quiz": [
+          {"Questions": {"type": "question", 
+            "question": [
+              {"Text": {"type": "text"}},
+              {"Type": {"type": "text"}},
+              {"Answers": {"type": "answer", 
+                "answer": [
+                  {"Text": {"type": "text"}},
+                  {"Correct": {"type": "boolean"}}
+                ]
+              }}
+            ]
+          }}
+        ]
+      }}
+    ]
+  }
+}
+
+Note that I removed the `description` and `example` sections, as well as the `required` fields, since they were not part of the original request. Let me know if you need anything else!

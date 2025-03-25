@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Diagnostic Test Result Interpreter": {
+    "Test Results": {},
+    "Interpretation Guidelines": {},
+    "Result Classification": {},
+    "Actionable Insights": {},
+    "Healthcare Provider Notification": {}
+  },
+  "Test Result Analyzer": {
+    "Test Results": {},
+    "Interpretation Guidelines": {},
+    "Result Classification": {},
+    "Actionable Insights": {},
+    "Healthcare Provider Notification": {}
+  }
+}

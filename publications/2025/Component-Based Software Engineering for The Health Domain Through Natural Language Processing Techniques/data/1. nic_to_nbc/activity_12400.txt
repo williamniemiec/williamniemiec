@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Cast Edge Care Instruction": {
+    "parameters": {
+      "name": {"type": "text"},
+      "content": {"type": ["text", "video"]},
+      "images": {"type": "list of images"},
+      "materials": {"type": "list of text"},
+      "frequency": {"type": "options"},
+      "deadline_date": {"type": "datetime"}
+    }
+  }
+}

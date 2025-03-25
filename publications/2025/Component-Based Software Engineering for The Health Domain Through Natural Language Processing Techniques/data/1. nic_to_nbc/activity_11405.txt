@@ -1,0 +1,41 @@
+Here is the output in JSON format:
+
+
+{
+  "Resource": {
+    "parameters": {
+      "name": "",
+      "description": "",
+      "links": [],
+      "location": ""
+    }
+  },
+  "Directory": {
+    "parameters": {
+      "name": "",
+      "agencies": [
+        {
+          "name": "",
+          "description": "",
+          "services": [],
+          "contact": ""
+        }
+      ]
+    }
+  },
+  "Filter": {
+    "parameters": {
+      "name": "",
+      "criteria": [],
+      "options": []
+    }
+  },
+  "Notification": {
+    "parameters": {
+      "name": "",
+      "message": "",
+      "frequency": "",
+      "deadline_date": ""
+    }
+  }
+}

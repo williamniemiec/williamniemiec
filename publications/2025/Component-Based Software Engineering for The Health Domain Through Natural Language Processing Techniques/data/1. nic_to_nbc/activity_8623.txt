@@ -1,0 +1,38 @@
+Here is the output in JSON format:
+
+
+{
+    "Accreditation Guide": {
+        "Parameters": {
+            "Accreditation Types": {
+                "Type": "list of accreditation types"
+            },
+            "State Health Department Requirements": {
+                "Type": "list of state health department requirements"
+            }
+        }
+    },
+    "Facility Accreditation Checker": {
+        "Parameters": {
+            "Facility Search": {
+                "Type": "facility search"
+            },
+            "Accreditation Status": {
+                "Type": "accreditation status"
+            }
+        }
+    },
+    "Quality Metrics": {
+        "Parameters": {
+            "Quality Metrics": {
+                "Type": "list of quality metrics"
+            },
+            "Facility Ratings": {
+                "Type": "facility ratings"
+            }
+        }
+    }
+}
+
+
+Note that I removed the introduction and conclusion parts, as well as the numbering and descriptions of the no-code elements. I also kept only the parameter specifications, removing any non-applicable parameters. The output is in JSON format, with each no-code element having its own object containing the parameter specifications.

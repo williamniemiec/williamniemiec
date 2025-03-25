@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Breast Pump Selection Guide": {
+    "Name": {"type": "text"},
+    "Content": {"type": "rich text or multimedia"},
+    "Pump Options": {"type": "unordered list"},
+    "Features": {"type": "text or table"},
+    "Reviews": {"type": "text or ratings"},
+    "Recommendations": {"type": "text or links"},
+    "Resources": {"type": "links or text"}
+  }
+}

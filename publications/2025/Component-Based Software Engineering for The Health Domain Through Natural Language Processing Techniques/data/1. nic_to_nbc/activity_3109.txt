@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Learning Needs Assessment": {
+    "Title": {"Description": "Title of the learning needs assessment", "Required": true, "Type": "text"},
+    "Learning Objectives": {"Description": "List of learning objectives for the patient", "Required": true, "Type": "unordered list"},
+    "Learning Style": {"Description": "Patient's preferred learning style", "Required": true, "Type": "options"},
+    "Knowledge Gap": {"Description": "Identify the patient's knowledge gap or area of concern", "Required": true, "Type": "text"},
+    "Frequency": {"Description": "Specify how often the learning needs assessment should be repeated", "Required": true, "Type": "options"}
+  }
+}

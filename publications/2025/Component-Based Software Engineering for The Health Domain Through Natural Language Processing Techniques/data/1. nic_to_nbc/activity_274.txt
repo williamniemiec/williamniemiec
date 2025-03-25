@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Congestion Monitor": {
+        "Neck Veins": {},
+        "Lung Crackles": {},
+        "Peripheral Edema": {},
+        "Weight Gain": {"type": "numeric"},
+        "Frequency": {"options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+        "Deadline Date": {"type": "datetime"},
+        "Notes": {"type": "text"}
+    }
+}

@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+  "Community Resource Referral": {
+    "parameters": {
+      "name": {"type": "text"},
+      "description": {"type": "text"},
+      "type": {"type": "options", "options": ["senior center", "recreation center", "art program", "other"]},
+      "location": {"type": "text"},
+      "contact_info": {"type": "text"},
+      "services": {
+        "type": "unordered list",
+        "properties": {
+          "title": {"type": "text"},
+          "description": {"type": "text"}
+        }
+      },
+      "eligibility": {"type": "text"}
+    }
+  }
+}

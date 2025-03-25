@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+    "Anxiety Appraisal": {
+        "parameters": [
+            {"Name": "A parameter that specifies the title or name of the anxiety appraisal activity."},
+            {"Instructions": "A parameter that provides detailed instructions for the healthcare provider on how to appraise the patient's and family's anxiety relating to surgery."},
+            {"Anxiety Level": "A parameter that specifies the patient's and family's anxiety level relating to surgery."},
+            {"Anxiety Factors": "A parameter that specifies the factors contributing to the patient's and family's anxiety relating to surgery."},
+            {"Frequency": "A parameter that specifies how often the anxiety appraisal activity should be repeated."},
+            // Removed Deadline Date as it is not applicable
+        ]
+    }
+}

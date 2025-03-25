@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Payer Notification": {
+    "parameters": {
+      "Payer Information": {"type": "text"},
+      "Service/Equipment Information": {"type": "text"},
+      "Necessity Justification": {"type": "text"},
+      "Supporting Documents": {"type": "file upload or list of files"},
+      "Submission Method": {"type": "options", "options": ["electronic", "fax", "mail"]},
+      "Deadline Date": {"type": "datetime"}
+    }
+  }
+}
+
+
+Let me know if this is what you were expecting!

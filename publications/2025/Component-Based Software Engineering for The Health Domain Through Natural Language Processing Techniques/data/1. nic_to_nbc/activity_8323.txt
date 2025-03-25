@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Medication Review": {
+        "Parameters": {
+            "Medication List": {},
+            "Medical History": {},
+            "Indications": {},
+            "Comparison Questions": {},
+            "Frequency": {}
+        }
+    }
+}

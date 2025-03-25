@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+  "Infant Memento Capture": {
+    "parameters": {
+      "name": {
+        "type": "text"
+      },
+      "mementos": {
+        "type": "list",
+        "properties": {
+          "name": {"type": "text"},
+          "description": {"type": "text"},
+          "type": {"type": "text"}
+        }
+      },
+      "capture_methods": {
+        "type": "list",
+        "properties": {
+          "name": {"type": "text"},
+          "description": {"type": "text"}
+        }
+      }
+    }
+  }
+}

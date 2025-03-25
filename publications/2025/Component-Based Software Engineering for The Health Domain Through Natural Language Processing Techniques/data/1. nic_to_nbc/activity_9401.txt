@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+    "Vital Sign Tracker": {
+        "parameters": [
+            {"name": "temperature", "description": "Enter your current temperature", "required": true, "type": "number"},
+            {"name": "temperature_unit", "description": "Temperature unit", "required": true, "type": "options", "options": [{"value": "celsius", "label": "Celsius"}, {"value": "fahrenheit", "label": "Fahrenheit"}]},
+            {"name": "respiratory_status", "description": "Enter your current respiratory status", "required": true, "type": "options", "options": [{"value": "normal", "label": "Normal"}, {"value": "shortness_of_breath", "label": "Shortness of breath"}, {"value": "wheezing", "label": "Wheezing"}, {"value": "coughing", "label": "Coughing"}]},
+            {"name": "timestamp", "description": "When was the reading taken?", "required": true, "type": "datetime"}
+        ]
+    },
+    "Device Integration": {
+        "parameters": [
+            {"name": "device_id", "description": "Device ID", "required": true, "type": "text"},
+            {"name": "reading_frequency", "description": "How often do you want to take readings?", "required": true, "type": "options", "options": [{"value": "manual", "label": "Manual"}, {"value": "everyHour", "label": "Every hour"}, {"value": "every4Hours", "label": "Every 4 hours"}, {"value": "everyDay", "label": "Every day"}]}
+        ]
+    }
+}

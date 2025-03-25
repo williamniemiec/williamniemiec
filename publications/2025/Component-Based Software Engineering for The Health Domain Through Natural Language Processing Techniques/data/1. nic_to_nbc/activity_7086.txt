@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Respiratory Muscle Fatigue Assessment": {
+    "parameters": {
+      "name": {"type": "text"},
+      "fatigue_level": {"type": "options", "options": [
+        {"value": "mild", "label": "Mild"},
+        {"value": "moderate", "label": "Moderate"},
+        {"value": "severe", "label": "Severe"}
+      ]},
+      "instructions": {"type": "text"}
+    }
+  }
+}

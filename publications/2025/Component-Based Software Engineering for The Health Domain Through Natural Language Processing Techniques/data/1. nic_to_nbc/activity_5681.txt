@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Information Share": {
+    "Content": {"type": "text or multimedia"},
+    "Source": {"type": "text"},
+    "Category": {"type": "options"},
+    "Priority": {"type": "options"},
+    "Deadline Date": {"type": "datetime"}
+  }
+}

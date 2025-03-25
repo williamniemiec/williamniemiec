@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Educational Material": {
+    "parameters": {
+      "Title": {"type": "text"},
+      "Description": {"type": "text"},
+      "Type": {"type": "options", "values": ["video", "brochure", "website"]},
+      "Content": {"type": "text or multimedia"},
+      "Relevance": {"type": "options", "values": ["high", "medium", "low"]},
+      "Accuracy": {"type": "options", "values": ["high", "medium", "low"]},
+      "Currency": {"type": "options", "values": ["up-to-date", "outdated"]}
+    }
+  }
+}
+
+
+Let me know if this is what you were expecting!

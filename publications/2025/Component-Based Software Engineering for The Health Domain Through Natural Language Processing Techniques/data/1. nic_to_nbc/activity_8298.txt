@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+    "Symptom Checker": {
+        "name": "Hyperphosphatemia Symptom Checker",
+        "symptoms": ["Tachycardia", "Nausea", "Diarrhea", "Abdominal cramps", "Muscle weakness", "Flaccid paralysis", "Increased reflexes"],
+        "answer type": "boolean (yes/no) or severity scale (e.g., 1-5)",
+        "frequency": "how often the patient should check for these symptoms",
+        "deadline_date": "the due date for the patient to report their symptoms"
+    },
+    "Vital Sign Tracker": {
+        "name": "Hyperphosphatemia Vital Sign Tracker",
+        "vital signs": ["Heart rate", "Blood pressure"],
+        "frequency": "how often the patient should track these vital signs",
+        "deadline_date": "the due date for the patient to report their vital signs"
+    },
+    "Muscle Function Assessment": {
+        "name": "Muscle Function Assessment",
+        "assessment": ["Muscle strength and coordination", "Reflexes", "Presence of muscle weakness or paralysis"],
+        "frequency": "how often the patient should perform this assessment",
+        "deadline_date": "the due date for the patient to report their assessment results"
+    }
+}
+
+
+Let me know if you need any further assistance!

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Physiological State Guide": {
+    "physiological state guide title": {},
+    "physiological state guide content": {},
+    "State List": {},
+    "Change Indicators": {},
+    "Frequency": {},
+    "Deadline Date": {},
+    "Tips": {}
+  }
+}

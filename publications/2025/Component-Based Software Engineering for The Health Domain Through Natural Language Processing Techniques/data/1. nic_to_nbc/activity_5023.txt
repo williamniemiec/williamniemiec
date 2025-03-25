@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Burn Prevention": {
+    "Parameters": {
+      "Title": {},
+      "Instruction": {},
+      "Reason": {},
+      "Frequency": {},
+      "Tips": {}
+    }
+  }
+}

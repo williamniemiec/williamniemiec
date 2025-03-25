@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Culture Collection Instruction": {
+    "parameters": {
+      "culture_instruction": {"type": ["text", "HTML text"]},
+      "images": {"type": ["image", "list of images"]},
+      "video": {"type": ["video", "URL to a video"]},
+      "purulent_drainage_indicator": {"type": ["boolean (yes/no)", "options (e.g., yes, no, unsure)"]},
+      "culture_request": {"type": ["text", "HTML text"]}
+    }
+  }
+}

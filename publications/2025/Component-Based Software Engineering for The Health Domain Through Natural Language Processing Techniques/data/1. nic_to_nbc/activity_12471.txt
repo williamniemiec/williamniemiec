@@ -1,0 +1,24 @@
+Here is the output in JSON format, removing everything except `{{ PARAMETER ESPECIFICATIONS }}` and `{{ NO-CODE ELEMENT NAME }}`, and excluding not applicable parameters:
+
+
+{
+    "name": "Complication Monitoring Guide",
+    "parameters": [
+        { 
+            "name": "Complication List", 
+            "description": "A parameter that lists the potential complications that the patient should monitor for"
+        },
+        { 
+            "name": "Monitoring Instructions", 
+            "description": "A parameter that provides instructions on how to monitor for each complication"
+        },
+        { 
+            "name": "Warning Signs", 
+            "description": "A parameter that lists the warning signs or symptoms that may indicate a complication"
+        },
+        { 
+            "name": "Action Plan", 
+            "description": "A parameter that provides an action plan for the patient to follow if they suspect a complication"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Symptom Tracker": {
+    "Parameters": {
+      "Symptom List": [],
+      "Frequency": ["daily", "everyHours", "everyDays"],
+      "Severity Scale": ["mild", "moderate", "severe"],
+      "Notes": "text"
+    }
+  }
+}
+
+
+Let me know if this meets your requirements!

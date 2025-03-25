@@ -1,0 +1,63 @@
+{
+  "name": "Task",
+  "description": "The 'Task' element manages various tasks, from setting instructions and deadlines to tracking progress, managing activities, and ensuring completion. It integrates activity planning, content management, task tracking, and even checklist functionalities for personal belongings or other items.",
+  "type": "periodic",
+  "input": [
+    "Task details",
+    "Instructional content",
+    "Deadline",
+    "Execution frequency",
+    "Activity list",
+    "Scheduled times",
+    "Habits",
+    "Rest periods",
+    "Task specifications",
+    "Task content",
+    "Values associated with tasks",
+    "Task days and schedule",
+    "Packing list",
+    "Personal belongings",
+    "Sterility check",
+    "Item flagging"
+  ],
+  "output": [
+    "Task completion status",
+    "Instructional guide",
+    "Content summary",
+    "Activity reminders",
+    "Routine progress",
+    "Updated schedule",
+    "Task status updates",
+    "Deadline reminders",
+    "Task completion report",
+    "Packed checklist",
+    "Sterility verification",
+    "Item list confirmation"
+  ],
+  "preconditions": [
+    "Task is assigned with specific instructions and deadlines",
+    "User sets up activity schedule and habits",
+    "User has tasks that require deadlines and clear specifications",
+    "User is packing belongings for a trip or event"
+  ],
+  "postconditions": [
+    "Task is completed and recorded with relevant content",
+    "Activities are completed and routine is adjusted as needed",
+    "Tasks are tracked and deadlines are met with content-specific guidelines",
+    "Packed items with sterility and necessary items accounted for"
+  ],
+  "dependencies": [
+    "Task management system",
+    "Content storage platform",
+    "Deadline tracking tool",
+    "Activity planning system",
+    "Reminder notification service",
+    "Habit tracking tools",
+    "Task management platform",
+    "Deadline reminder system",
+    "Content management tools",
+    "Packing platform",
+    "Sterility guidelines",
+    "Checklist system"
+  ]
+}

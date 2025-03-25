@@ -1,0 +1,3 @@
+Since the input doesn't match the format, I'll assume it's an empty input. 
+
+`{}`

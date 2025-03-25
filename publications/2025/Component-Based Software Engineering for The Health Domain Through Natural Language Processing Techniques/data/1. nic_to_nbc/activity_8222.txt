@@ -1,0 +1,43 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Follow-up",
+  "parameters": [
+    {
+      "name": "follow_up_period",
+      "description": "A parameter that specifies the duration of the follow-up period.",
+      "required": true,
+      "type": "text"
+    },
+    {
+      "name": "follow_up_method",
+      "description": "A parameter that specifies how to follow up with the patient.",
+      "required": true,
+      "type": "options",
+      "options": [
+        { value: "phone", label: "Phone" },
+        { value: "email", label: "Email" },
+        { value: "in-person", label: "In-person" },
+        { value: "messaging app", label: "Messaging app" }
+      ]
+    },
+    {
+      "name": "follow_up_frequency",
+      "description": "A parameter that specifies how often to follow up with the patient.",
+      "required": true,
+      "type": "options",
+      "options": [
+        { value: "monthly", label: "Monthly" },
+        { value: "quarterly", label: "Quarterly" },
+        { value: "bi-annually", label: "Bi-annually" }
+      ]
+    },
+    {
+      "name": "encouragement_message",
+      "description": "A parameter that specifies the message of encouragement to be sent to the patient.",
+      "required": true,
+      "type": "text"
+    }
+  ]
+}

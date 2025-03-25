@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Hypoglycemia Risk Assessment": {
+    "Risk Factors": {"type": "options"},
+    "Symptoms": {"type": "options"},
+    "Blood Glucose Levels": {"type": "number"},
+    "Medication List": {"type": "text"},
+    "Dietary Habits": {"type": "text"},
+    "Risk Level": {"type": "options"}
+  }
+}

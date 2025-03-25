@@ -1,0 +1,10 @@
+{
+  "name": "Emotional Support and Empathy in Communication",
+  "description": "Focuses on offering emotional support through empathetic communication. Designed to assist users dealing with emotional distress, such as worry or fear, especially during medical events like surgery.",
+  "type": "non-periodic",
+  "input": ["Emotional tone analysis", "Empathetic message content", "Worry and fear responses", "Surgical event communication"],
+  "output": ["Empathetic support messages", "Emotional well-being report", "Communication effectiveness analysis"],
+  "preconditions": ["User requires emotional support or is facing a stressful situation"],
+  "postconditions": ["Improved emotional well-being and reduced anxiety through empathetic communication"],
+  "dependencies": ["Emotional support platform", "Empathy-driven communication tools", "Stress response monitoring"]
+}

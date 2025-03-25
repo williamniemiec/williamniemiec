@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "Closed-Pressure System Maintenance": {
+    "parameters": [
+      {
+        "name": "Closed-pressure system",
+        "type": "boolean"
+      },
+      {
+        "name": "Port connections",
+        "type": "options"
+      },
+      {
+        "name": "Frequency",
+        "type": "options"
+      },
+      {
+        "name": "Notes",
+        "type": "text"
+      }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Knowledge Quiz": {
+        "parameters": {
+            "name": "",
+            "questions": [],
+            "answer_options": [],
+            "scoring": ""
+        }
+    },
+    "Question": {}
+}

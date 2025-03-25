@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "CSF Reservoir Filling Guidance": {
+    "parameters": {
+      "Filling Instructions": {},
+      "Pressure Application": {},
+      "Filling Volume": {},
+      "Filling Frequency": {},
+      "Safety Precautions": {}
+    }
+  }
+}

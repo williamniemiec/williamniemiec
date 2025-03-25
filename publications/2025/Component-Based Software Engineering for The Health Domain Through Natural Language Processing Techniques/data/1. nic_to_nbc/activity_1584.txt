@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Device Patency Check": {
+    "name": {},
+    "device_type": {},
+    "instructions": {},
+    "frequency": {},
+    "deadline_date": {},
+    "result": {},
+    "blood_aspiration_amount": {}
+  }
+}

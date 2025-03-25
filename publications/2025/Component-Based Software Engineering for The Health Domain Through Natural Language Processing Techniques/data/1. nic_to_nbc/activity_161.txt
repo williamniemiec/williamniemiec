@@ -1,0 +1,24 @@
+Here is the output in JSON format, removing anything except `{{ PARAMETER ESPECIFICATIONS }}` and `{{ NO-CODE ELEMENT NAME }}`, and not including "not applicable" parameters:
+
+
+{
+  "Sleep Diary": {
+    "name": "sleep diary title",
+    "description": "instructions for tracking sleep patterns",
+    "sleep_log": "option to log sleep patterns (e.g., bedtime, wake-up time, sleep quality)",
+    "frequency": "how often the patient should log their sleep patterns",
+    "deadline_date": "due date for sleep diary entry"
+  },
+  "Sleep Questionnaire": {
+    "name": "sleep questionnaire title",
+    "description": "instructions for completing the questionnaire",
+    "questions": "list of questions about sleep habits and quality (e.g., \"How many hours of sleep do you get per night?\", \"Do you have difficulty falling asleep?\", etc.)",
+    "answer_type": "type of answer required for each question (e.g., multiple choice, text, rating scale)"
+  },
+  "Sleep Pattern Analysis": {
+    "name": "sleep pattern analysis title",
+    "description": "instructions for reviewing sleep pattern analysis",
+    "analysis_type": "type of analysis to be performed (e.g., sleep duration, sleep quality, sleep stages)",
+    "recommendations": "list of personalized recommendations for improving sleep patterns (e.g., establish a consistent sleep schedule, avoid caffeine before bedtime, etc.)"
+  }
+}

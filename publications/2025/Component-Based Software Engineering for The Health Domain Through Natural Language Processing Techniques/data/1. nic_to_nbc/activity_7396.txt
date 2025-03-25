@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Equipment Maintenance Schedule": {
+    "name": {"type": "text"},
+    "equipment_type": {"type": "options"},
+    "maintenance_frequency": {"type": "options"},
+    "bioengineering_contact": {"type": "text"},
+    "scheduling_procedure": {"type": ["text", "multimedia content"]},
+    "equipment_status": {"type": ["text", "table"]}
+  }
+}
+
+
+Let me know if this meets your requirements!

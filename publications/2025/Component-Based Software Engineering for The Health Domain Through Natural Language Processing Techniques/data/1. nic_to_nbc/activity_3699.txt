@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Blood Product Administration": {
+        "Product": {"options": ["packed red blood cells", "fresh frozen plasma", "platelets"]},
+        "Why": {"type": "text"},
+        "Dosage": {"type": "text"},
+        "Frequency": {"options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+        "Deadline Date": {"type": "datetime"},
+        "Notes": {"type": "text"}
+    }
+}

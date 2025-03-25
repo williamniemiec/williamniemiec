@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Medication Administration Assessment",
+    "parameters": [
+        {
+            "name": "questions"
+        },
+        {
+            "name": "answer_options"
+        },
+        {
+            "name": "scoring"
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+    "Psychological Response Assessment": {
+        "parameters": [
+            {"Name": "name"},
+            {"Questions": "questions"},
+            {"Scoring": "scoring"}
+        ]
+    }
+}

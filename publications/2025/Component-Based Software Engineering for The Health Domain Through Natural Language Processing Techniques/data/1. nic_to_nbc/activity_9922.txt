@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+    "Treatment Plan Tracker": {
+        "Parameters": {
+            "Treatment Plan": {"Type": ["text", "interactive checklist"]},
+            "Task List": {"Type": ["to-do list", "calendar"]},
+            "Progress Tracking": {"Type": ["progress bar", "journal"]},
+            "Education and Resources": {"Type": ["text", "video", "interactive modules"]},
+            "Goal Setting": {"Type": ["goal-setting template", "interactive worksheet"]},
+            "Frequency": {"Options": ["daily", "onlyOnce", "everyHours", "everyDays"]}
+        }
+    }
+}

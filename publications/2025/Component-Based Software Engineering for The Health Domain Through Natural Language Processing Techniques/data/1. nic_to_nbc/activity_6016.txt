@@ -1,0 +1,37 @@
+Here is the output in JSON format:
+
+
+{
+  "Range of Motion": {
+    "Parameters": {
+      "Type": {
+        "type": "options",
+        "options": [
+          { "value": "passive", "label": "Passive" },
+          { "value": "active", "label": "Active" }
+        ]
+      },
+      "Body Part": {
+        "type": "text"
+      },
+      "Exercise Instructions": {
+        "type": "text"
+      },
+      "Frequency": {
+        "type": "options",
+        "options": [
+          { "value": "daily", "label": "Daily" },
+          { "value": "custom", "label": "Custom" }
+        ]
+      },
+      "Reminders": {
+        "type": "options",
+        "options": [
+          { "value": "morning", "label": "Morning" },
+          { "value": "evening", "label": "Evening" },
+          { "value": "custom", "label": "Custom" }
+        ]
+      }
+    }
+  }
+}

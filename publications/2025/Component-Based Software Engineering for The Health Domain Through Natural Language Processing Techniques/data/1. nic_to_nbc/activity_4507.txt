@@ -1,0 +1,34 @@
+Here is the output in JSON format:
+
+
+{
+    "vascular_access_connection_instruction": {
+        "parameters": [
+            { 
+                "name": "steps", 
+                "list_items": [
+                    { 
+                        "name": "connect_needleless_adapter"
+                    },
+                    { 
+                        "name": "connect_vacutainer_or_syringe"
+                    },
+                    { 
+                        "name": "open_pathway_to_patient"
+                    }
+                ]
+            },
+            { 
+                "name": "vascular_access_port_type"
+            },
+            { 
+                "name": "frequency", 
+                "options": [
+                    { value: "daily" },
+                    { value: "everyHours" },
+                    { value: "everyDays" }
+                ]
+            }
+        ]
+    }
+}

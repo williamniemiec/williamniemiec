@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+    "Privacy Reminder": {
+        "Reminder": {
+            "Description": "Brief reminder to maintain privacy",
+            "Required": true,
+            "Type": "text"
+        },
+        "Frequency": {
+            "Description": "Specify how often the patient should be reminded to maintain privacy",
+            "Required": true,
+            "Type": "options",
+            "Options": [
+                { "value": "daily", "label": "Daily" },
+                { "value": "onlyOnce", "label": "Only once" },
+                { "value": "everyHours", "label": "Every x hours" },
+                { "value": "everyDays", "label": "Every x days" }
+            ]
+        }
+    }
+}

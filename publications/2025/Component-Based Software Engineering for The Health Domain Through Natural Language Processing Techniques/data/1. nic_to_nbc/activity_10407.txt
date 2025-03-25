@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Care Team Notification": {
+    "parameters": [
+      {"name": "Nonpharmacological Strategies", "type": "text or list of options"},
+      {"name": "Care Team Members", "type": "multi-select options"},
+      {"name": "Notification Method", "type": "options"},
+      {"name": "Message", "type": "text"}
+    ]
+  }
+}

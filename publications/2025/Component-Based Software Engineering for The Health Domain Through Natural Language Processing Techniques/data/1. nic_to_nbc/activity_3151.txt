@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Group Purpose and Process": {
+    "parameters": {
+      "name": "",
+      "purpose_options": [],
+      "process_options": [],
+      "reflection_question": "",
+      "notes": ""
+    }
+  }
+}

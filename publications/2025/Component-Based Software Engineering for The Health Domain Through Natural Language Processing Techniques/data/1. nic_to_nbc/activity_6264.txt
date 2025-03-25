@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Vital Sign Monitoring": {
+    "Parameters": {
+      "Vital Signs to Monitor": {
+        "Type": "list of text"
+      },
+      "Procedure Name": {
+        "Type": "text"
+      }
+    }
+  }
+}

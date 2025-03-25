@@ -1,0 +1,44 @@
+Here is the output in JSON format:
+
+
+{
+  "Edema Monitoring": {
+    "Monitoring Title": {
+      "Description": "Title of the monitoring task",
+      "Required": true,
+      "Type": "text"
+    },
+    "Question": {
+      "Description": "Question to assess edema",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        {"value": "yes", "label": "Yes"},
+        {"value": "no", "label": "No"}
+      ]
+    },
+    "Severity": {
+      "Description": "Question to assess edema severity",
+      "Required": false,
+      "Type": "options",
+      "Options": [
+        {"value": "mild", "label": "Mild"},
+        {"value": "moderate", "label": "Moderate"},
+        {"value": "severe", "label": "Severe"}
+      ]
+    },
+    "Frequency": {
+      "Description": "Specify how often to monitor for edema",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        {"value": "daily", "label": "Daily"},
+        {"value": "onlyOnce", "label": "Only once"},
+        {"value": "everyDays", "label": "Every x days"}
+      ]
+    }
+  }
+}
+
+
+I removed the not applicable parameters and only kept the `{{ NO-CODE ELEMENT NAME }}` and `{{ PARAMETER ESPECIFICATIONS }}`.

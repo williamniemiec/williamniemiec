@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Procedure Explanation": {
+    "parameters": [
+      {"title": {"type": "text"}},
+      {"overview": {"type": "text"}},
+      {"steps": {"type": "list", "step": {"description": {"type": "text"}, "details": {"type": "text"}, "media": {"type": "media"}}},
+      {"benefits": {"type": "list", "benefit": {"description": {"type": "text"}}}},
+      {"risks": {"type": "list", "risk": {"description": {"type": "text"}}}},
+      {"what_to_expect": {"type": "text"}}
+    ]
+  }
+}

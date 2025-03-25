@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Feedback": {
+    "Parameters": {
+      "Topic": {"Type": "text"},
+      "Content": {"Type": "text"},
+      "Frequency": {"Type": "options", "Options": ["daily", "weekly", "monthly", "as needed"]},
+      "Rating": {"Type": "rating scale"}
+    }
+  }
+}

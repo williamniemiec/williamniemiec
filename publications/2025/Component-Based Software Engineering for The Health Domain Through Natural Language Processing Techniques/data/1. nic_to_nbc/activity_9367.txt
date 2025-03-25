@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Wound Trajectory": {
+    "parameters": [
+      { "name": "entry_point", "description": "Indicate the entry point of the wound" },
+      { "name": "exit_point", "description": "Indicate the exit point of the wound" },
+      { "name": "trajectory", "description": "Describe the trajectory of the wound (e.g. upward, downward, horizontal)" },
+      { "name": "notes", "description": "Add any additional notes about the wound trajectory" }
+    ]
+  }
+}

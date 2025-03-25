@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+    "Anger Management Coach": {
+        "parameters": {
+            "Anger Trigger Identification": {"type": "text or table"},
+            "Anger Control Strategy Selection": {"type": "options"},
+            "Strategy Implementation Plan": {"type": "text or table"},
+            "Progress Tracking": {"type": "text or table"},
+            "Reflection and Feedback": {"type": "text"},
+            "Anger Expression Exercise": {"type": "text or video"},
+            "Supportive Messaging": {"type": "text"}
+        }
+    }
+}

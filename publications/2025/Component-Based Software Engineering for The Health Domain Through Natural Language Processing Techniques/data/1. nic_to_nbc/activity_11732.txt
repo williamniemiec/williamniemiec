@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+    "Urination Tracker": {
+        "parameters": {
+            "Urination Frequency": {"type": "options"},
+            "Urination Volume": {"type": "numeric"},
+            "Urination Characteristics": {"type": "checklist or text"},
+            "Incontinence Episodes": {"type": "yes/no or numeric"},
+            "Frequency": {"type": "options"},
+            "Deadline Date": {"type": "datetime"},
+            "Additional Notes": {"type": "text"}
+        }
+    }
+}
+
+
+I removed all unnecessary information and kept only the `{{ NO-CODE ELEMENT NAME }}` ("Urination Tracker") and `{{ PARAMETER ESPECIFICATIONS }}`. I also removed any non-applicable parameters. The output is in JSON format as requested.

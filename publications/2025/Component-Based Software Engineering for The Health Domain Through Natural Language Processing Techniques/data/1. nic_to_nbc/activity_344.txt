@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "informative content",
+  "parameters": [
+    {
+      "name": "Title",
+      "type": "text"
+    },
+    {
+      "name": "Content",
+      "type": "text or HTML"
+    },
+    {
+      "name": "FAQs",
+      "type": "list",
+      "list_type": "FAQ"
+    },
+    {
+      "name": "Concerns",
+      "type": "list",
+      "list_type": "concern"
+    }
+  ]
+}
+
+Let me know if you need any further assistance!

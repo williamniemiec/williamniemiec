@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+    "optimize environment": [
+        {"name": "Checklist", "type": "checklist"},
+        {"name": "Custom Item", "type": "text"},
+        {"name": "Frequency", "type": "options"},
+        {"name": "Deadline Date", "type": "datetime"}
+    ]
+}

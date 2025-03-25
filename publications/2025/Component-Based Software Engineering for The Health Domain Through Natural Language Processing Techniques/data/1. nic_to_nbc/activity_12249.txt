@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Labeling Instruction": {
+    "Name": {"type": "text"},
+    "Content": {"type": "text"},
+    "Fields": {"type": "list", "options": ["Date", "Gauge", "Initials"]},
+    "Example": {"type": "image or text"}
+  }
+}

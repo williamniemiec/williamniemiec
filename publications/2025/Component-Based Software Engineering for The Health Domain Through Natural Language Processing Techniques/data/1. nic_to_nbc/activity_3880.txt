@@ -1,0 +1,32 @@
+Here is the output in JSON format:
+
+
+{
+  "ICP Monitoring Assistant": {
+    "Device Information": {
+      "Name": "",
+      "Model": "",
+      "Manufacturer": ""
+    },
+    "Patient Information": {
+      "Name": "",
+      "Medical Record Number": "",
+      "Date of Birth": ""
+    },
+    "Insertion Procedure": {
+      "Step-by-Step Instructions": [],
+      "Precautions": [],
+      "Complications": []
+    },
+    "Healthcare Professional": {
+      "Name": "",
+      "Title": "",
+      "Contact Information": ""
+    },
+    "Insertion Confirmation": {
+      "Date": "",
+      "Time": "",
+      "Confirmation Status": true
+    }
+  }
+}

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Beverage Reminder": {
+    "parameters": {
+      "Name": {"type": "text"},
+      "Beverage Type": {"type": "options", "options": ["water", "juice", "tea", "milk", "etc."]},
+      "Frequency": {"type": "options", "options": ["every 1 hour", "every 2 hours", "etc."]},
+      "Contraindications": {"type": "text"},
+      "Reminder Message": {"type": "text"}
+    }
+  }
+}

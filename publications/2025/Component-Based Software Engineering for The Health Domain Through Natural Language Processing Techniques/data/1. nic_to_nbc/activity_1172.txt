@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+
+{
+  "name": "Electromagnetic Interference Sources",
+  "parameters": [
+    {
+      "name": "sources",
+      "type": "list"
+    }
+  ]
+}

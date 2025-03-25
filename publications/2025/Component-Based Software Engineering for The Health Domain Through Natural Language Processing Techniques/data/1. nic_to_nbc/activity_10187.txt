@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "Observation": {
+    "parameters": [
+      {
+        "name": "Name",
+        "type": "text"
+      },
+      {
+        "name": "Description",
+        "type": "text"
+      },
+      {
+        "name": "Signs",
+        "type": "checklist"
+      },
+      {
+        "name": "Frequency",
+        "type": "options"
+      }
+    ]
+  }
+}

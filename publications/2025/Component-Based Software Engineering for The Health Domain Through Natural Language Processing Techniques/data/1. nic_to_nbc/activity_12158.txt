@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+  "Antibiotic Administrator": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Medication": {"Type": "text"},
+      "Dosage": {"Type": "text"},
+      "Frequency": {"Options": ["daily", "every 12 hours", "every 8 hours", "custom"]},
+      "Duration": {"Type": "text"},
+      "Notes": {"Type": "text"}
+    }
+  },
+  "Antibiotic Dose": {
+    "Parameters": {
+      "Date": {"Type": "date"},
+      "Time": {"Type": "time"},
+      "Dose": {"Type": "text"},
+      "Notes": {"Type": "text"}
+    }
+  }
+}

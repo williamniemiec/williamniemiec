@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+    "Apgar Evaluation Form": {
+        "name": "",
+        "apgar_score": "",
+        "apgar_score_5min": "",
+        "heart_rate": "",
+        "respiratory_effort": "",
+        "muscle_tone": "",
+        "reflexes": "",
+        "color": ""
+    },
+    "Apgar Scoring Guide": {
+        "name": "",
+        "scoring_criteria": [],
+        "scoring_explanation": []
+    },
+    "Newborn Assessment Tracker": {
+        "name": "",
+        "assessment_results": "",
+        "notes": ""
+    }
+}

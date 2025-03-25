@@ -1,0 +1,10 @@
+{
+  "name": "Multimedia Instruction and Content Scheduling",
+  "description": "Delivers multimedia-based instructions and demonstrations on a set schedule (e.g., once, hourly, daily) with deadlines and content management, including date and time tracking.",
+  "type": "periodic",
+  "input": ["Instruction content", "Demonstration media", "Schedule (only once, hourly, daily)", "Deadline details"],
+  "output": ["Instruction delivery confirmation", "Demonstration feedback", "Content completion report"],
+  "preconditions": ["User receives multimedia instructions or demonstrations"],
+  "postconditions": ["Instructional content is delivered according to the specified schedule"],
+  "dependencies": ["Multimedia content management system", "Scheduling platform", "Deadline tracking tools"]
+}

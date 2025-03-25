@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+    "Emotional Support": {
+        "title": {"type": "text"},
+        "content": {"type": ["text", "HTML", "multimedia"]},
+        "resources": {"type": ["list of text", "links"]},
+        "reflection": {"type": ["text", "journaling interface"]},
+        "follow_up": {"type": ["list of questions", "scheduling interface"]}
+    }
+}

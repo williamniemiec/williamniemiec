@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Stimulation Monitoring": {
+    "Pain Level": {
+      "Type": "scale (e.g., 1-10)"
+    },
+    "Skin Irritation": {
+      "Type": "boolean (yes/no) or text"
+    },
+    "Threshold": {
+      "Type": "conditional statement (e.g., if pain level > 7 then discontinue)"
+    },
+    "Instructions": {
+      "Type": "text or multimedia (e.g., images, videos)"
+    }
+  }
+}

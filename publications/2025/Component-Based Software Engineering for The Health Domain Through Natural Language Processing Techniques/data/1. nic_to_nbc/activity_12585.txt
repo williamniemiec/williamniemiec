@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Distraction Therapy",
+    "parameters": [
+        {
+            "name": "Distraction Type",
+            "type": "text"
+        },
+        {
+            "name": "Distraction Content",
+            "type": "text"
+        },
+        {
+            "name": "Procedure",
+            "type": "text"
+        },
+        {
+            "name": "Age Range",
+            "type": "range"
+        },
+        {
+            "name": "Duration",
+            "type": "time"
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Preparation Guide",
+  "parameters": [
+    {
+      "name": "Title",
+      "type": "text"
+    },
+    {
+      "name": "Description",
+      "type": "text"
+    },
+    {
+      "name": "Site",
+      "type": "text"
+    },
+    {
+      "name": "Protocol",
+      "type": "text"
+    },
+    {
+      "name": "Steps",
+      "type": "text"
+    },
+    {
+      "name": "Image/Video",
+      "type": "image" or "video"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+Here is the output in JSON format:
+
+
+{
+  "Resource List": {
+    "Category": {
+      "Description": "Category of resources (e.g., child care, home maintenance, diversional activities)",
+      "Required": true,
+      "Type": "options"
+    },
+    "Resources": {
+      "Description": "List of resources to assist family with specific needs",
+      "Required": true,
+      "Type": "list of objects",
+      "Properties": {
+        "Name": {
+          "Description": "Name of the resource",
+          "Required": true,
+          "Type": "text"
+        },
+        "Description": {
+          "Description": "Brief description of the resource",
+          "Required": true,
+          "Type": "text"
+        },
+        "Contact Info": {
+          "Description": "Contact information for the resource (e.g., phone number, email, website)",
+          "Required": true,
+          "Type": "text"
+        }
+      }
+    }
+  }
+}
+
+
+I removed all non-applicable parameters and only kept the `{{ NO-CODE ELEMENT NAME }}` which is `"Resource List"` and the `{{ PARAMETER ESPECIFICATIONS }}`. Let me know if you need anything else!

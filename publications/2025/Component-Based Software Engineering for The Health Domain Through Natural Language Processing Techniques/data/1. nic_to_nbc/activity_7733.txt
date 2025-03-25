@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Procedure Guide": {
+    "parameters": {
+      "Procedure Title": {"type": "text"},
+      "Procedure Steps": {"type": "list of step objects with properties (step number, step description, images or videos)"},
+      "Indications": {"type": "text"},
+      "Contraindications": {"type": "text"},
+      "Precautions": {"type": "text"}
+    }
+  }
+}

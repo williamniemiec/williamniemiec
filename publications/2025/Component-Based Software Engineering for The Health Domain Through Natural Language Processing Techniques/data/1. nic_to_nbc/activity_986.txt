@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Symptom Tracker": [
+    {
+      "name": "symptom",
+      "description": "Select the symptom to track"
+    },
+    {
+      "name": "frequency",
+      "description": "How often do you experience this symptom?"
+    },
+    {
+      "name": "severity",
+      "description": "How severe is this symptom?"
+    }
+  ]
+}

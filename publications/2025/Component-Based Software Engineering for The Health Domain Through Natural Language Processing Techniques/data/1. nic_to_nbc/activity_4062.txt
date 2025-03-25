@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Equipment Guide": {
+    "equipment guide title": {"Type": "text", "Required": true},
+    "Equipment List": {"Type": "list of equipment objects", "Required": true},
+    "Obtaining Information": {"Type": "text or guide", "Required": true},
+    "Cost and Coverage": {"Type": "text or table", "Required": false},
+    "Tips and Resources": {"Type": "text or guide", "Required": false}
+  }
+}

@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Quiet Environment": {
+    "Parameters": {
+      "Instructions": {"Type": "text"},
+      "Tips": {"Type": "list", "Examples": ["turn off TV", "move to a quiet room", "ask others to keep noise down"]},
+      "Reminder": {"Type": "options", "Options": ["daily", "weekly", "monthly", "onlyOnce"]}
+    }
+  }
+}

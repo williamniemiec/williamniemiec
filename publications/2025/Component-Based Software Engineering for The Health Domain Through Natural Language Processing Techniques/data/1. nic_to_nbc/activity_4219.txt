@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+    "allergy_report": {
+        "parameters": [
+            {
+                "name": "allergies",
+                "description": "list of allergies",
+                "required": true,
+                "type": "unordered list",
+                "list_item": {
+                    "name": "allergy",
+                    "description": "specific allergy",
+                    "required": true,
+                    "type": "text"
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,12 @@
+Here is the JSON output:
+
+
+{
+  "Intake and Output Tracking": {
+    "name": {"type": "text"},
+    "intake_unit": {"type": "options", "values": ["mL", "oz"]},
+    "output_unit": {"type": "options", "values": ["mL", "oz"]},
+    "frequency": {"type": "options", "values": ["daily", "weekly", "monthly"]},
+    "deadline_date": {"type": "datetime"}
+  }
+}

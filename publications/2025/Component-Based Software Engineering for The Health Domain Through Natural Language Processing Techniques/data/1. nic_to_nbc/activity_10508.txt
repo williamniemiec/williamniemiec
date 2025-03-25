@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Active Listening": {
+    "Parameters": {
+      "Instructions": {"Type": "text"},
+      "Tips": {"Type": "list", "Examples": ["maintain eye contact", "avoid interrupting", "nod to show understanding", "etc."]},
+      "Wait Time": {"Type": "numeric", "Units": ["seconds", "minutes"]},
+      "Reminder": {"Type": "options", "Options": ["daily", "weekly", "monthly", "onlyOnce"]}
+    }
+  }
+}

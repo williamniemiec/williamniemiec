@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+{
+  "Consistent Follow-Through": {
+    "Expectation Review": {"type": "text"},
+    "Follow-Through Plan": {"type": "unordered list"},
+    "Consequence Tracking": {"type": "table"},
+    "Positive Reinforcement Tracking": {"type": "table"},
+    "Reminders": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Reflection": {"type": "text"}
+  }
+}

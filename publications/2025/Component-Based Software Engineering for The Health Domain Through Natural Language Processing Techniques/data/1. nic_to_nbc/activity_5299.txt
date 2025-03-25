@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+    "Transportation Assistance": {
+        "Parameters": {
+            "Transportation Needs": {},
+            "Healthcare Service": {},
+            "Pickup Location": {},
+            "Drop-off Location": {},
+            "Date and Time": {},
+            "Transportation Options": {}
+        }
+    }
+}

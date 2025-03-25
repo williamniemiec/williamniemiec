@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+  "Limb Elevation": {
+    "Elevation Status": ["Yes", "No"],
+    "Elevation Angle": "numeric value",
+    "Elevation Duration": "numeric value",
+    "Frequency": ["Once", "Repeatedly"],
+    "Adherence Status": ["Adherent", "Non-adherent"],
+    "Reasons for Non-Adherence": ["Forgot", "Difficulty with elevation", "Other (free text)"]
+  },
+  "Limb Elevation Guidance": {
+    "Elevation Instructions": "text",
+    "Elevation Images": "list of images",
+    "Elevation Videos": "list of videos"
+  },
+  "Limb Elevation Reminders": {
+    "Reminder Frequency": ["Once daily", "Twice daily", "Three times daily", "Other (free text)"],
+    "Reminder Time": "datetime"
+  }
+}

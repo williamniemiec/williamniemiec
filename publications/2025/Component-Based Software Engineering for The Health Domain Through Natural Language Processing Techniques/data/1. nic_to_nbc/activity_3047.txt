@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Huffing Exercise": {
+    "Exercise Instructions": {},
+    "Breathing Pattern": {},
+    "Body Position": {},
+    "Huffing Pattern": {},
+    "Frequency": {},
+    "Reminders": {},
+    "Tracking": {}
+  }
+}

@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Risk Estimation for Patient and Family Members",
+    "parameters": [
+        { 
+            "name": "Patient Risk", 
+            "type": "multiple choice"
+        },
+        { 
+            "name": "Family Member Risk", 
+            "type": "multiple choice"
+        },
+        { 
+            "name": "Risk Estimation", 
+            "type": "rating scale"
+        },
+        { 
+            "name": "Risk Factors", 
+            "type": "checklist"
+        }
+    ]
+}

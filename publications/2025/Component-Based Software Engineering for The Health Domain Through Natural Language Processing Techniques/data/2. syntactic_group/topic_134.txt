@@ -1,0 +1,10 @@
+{
+  "name": "Seizure Precautions and Emergency Measures",
+  "description": "Covers the identification of seizure triggers, emergency measures, and reorienting the patient during a seizure. Includes a registry for tracking seizure characteristics and precautions.",
+  "type": "non-periodic",
+  "input": ["Seizure triggers", "Emergency response", "Seizure characteristics", "Reorientation methods", "Precautionary measures"],
+  "output": ["Seizure report", "Emergency action plan", "Seizure registry update"],
+  "preconditions": ["User needs guidance on handling seizures or monitoring triggers"],
+  "postconditions": ["Effective seizure management with precautions and response"],
+  "dependencies": ["Seizure registry system", "Emergency protocol platform", "Seizure trigger tracking tools"]
+}

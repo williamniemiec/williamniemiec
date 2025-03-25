@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Group Presentation": {
+    "Parameters": {
+      "Title": {},
+      "Content": {},
+      "Description": {},
+      "Target Audience": {},
+      "Frequency": {}
+    }
+  }
+}
+
+
+Note that I removed the `Deadline Date` parameter since it's not applicable (i.e., it doesn't have a value). Let me know if this meets your requirements!

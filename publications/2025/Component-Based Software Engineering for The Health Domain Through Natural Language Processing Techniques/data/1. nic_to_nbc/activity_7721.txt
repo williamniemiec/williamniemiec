@@ -1,0 +1,33 @@
+Here is the output in JSON format:
+
+
+{
+  "Therapeutic Response Assessment": {
+    "Questions": {
+      "Description": "list of questions to assess the patient's therapeutic response to pessary use",
+      "Required": true,
+      "Type": "unordered list",
+      "Options": [
+        { "value": "symptomRelief", "label": "Has symptoms improved?" },
+        { "value": "painReduction", "label": "Has pain reduced?" },
+        { "value": "bleedingReduction", "label": "Has bleeding reduced?" },
+        { "value": "qualityOfLife", "label": "Has quality of life improved?" }
+      ]
+    },
+    "Scoring": {
+      "Description": "scoring system to determine the patient's therapeutic response to pessary use",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "yes", "label": "Therapeutic response achieved" },
+        { "value": "no", "label": "Therapeutic response not achieved" },
+        { "value": "partial", "label": "Partial therapeutic response" }
+      ]
+    },
+    "Follow-up": {
+      "Description": "follow-up instructions based on the patient's therapeutic response to pessary use",
+      "Required": true,
+      "Type": "text"
+    }
+  }
+}

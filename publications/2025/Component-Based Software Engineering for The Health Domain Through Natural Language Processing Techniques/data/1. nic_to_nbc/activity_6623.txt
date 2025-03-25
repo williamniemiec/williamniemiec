@@ -1,0 +1,121 @@
+Here is the output in JSON format:
+
+
+[
+  {
+    "name": "Stool Tracker",
+    "parameters": [
+      {
+        "name": "stool_color",
+        "description": "What is the color of your stool?",
+        "required": true,
+        "type": "options",
+        "options": [
+          { "value": "brown", "label": "Brown" },
+          { "value": "black", "label": "Black" },
+          { "value": "red", "label": "Red" },
+          { "value": "yellow", "label": "Yellow" },
+          { "value": "green", "label": "Green" },
+          { "value": "other", "label": "Other" }
+        ]
+      },
+      {
+        "name": "stool_amount",
+        "description": "How much stool did you pass?",
+        "required": true,
+        "type": "options",
+        "options": [
+          { "value": "small", "label": "Small" },
+          { "value": "medium", "label": "Medium" },
+          { "value": "large", "label": "Large" }
+        ]
+      },
+      {
+        "name": "stool_frequency",
+        "description": "How often do you pass stool?",
+        "required": true,
+        "type": "options",
+        "options": [
+          { "value": "once_a_day", "label": "Once a day" },
+          { "value": "twice_a_day", "label": "Twice a day" },
+          { "value": "three_times_a_day", "label": "Three times a day" },
+          { "value": "other", "label": "Other" }
+        ]
+      },
+      {
+        "name": "timestamp",
+        "description": "When did you pass stool?",
+        "required": true,
+        "type": "datetime"
+      }
+    ]
+  },
+  {
+    "name": "Vomitus Tracker",
+    "parameters": [
+      {
+        "name": "vomitus_amount",
+        "description": "How much vomitus did you produce?",
+        "required": true,
+        "type": "options",
+        "options": [
+          { "value": "small", "label": "Small" },
+          { "value": "medium", "label": "Medium" },
+          { "value": "large", "label": "Large" }
+        ]
+      },
+      {
+        "name": "vomitus_frequency",
+        "description": "How often do you vomit?",
+        "required": true,
+        "type": "options",
+        "options": [
+          { "value": "once_a_day", "label": "Once a day" },
+          { "value": "twice_a_day", "label": "Twice a day" },
+          { "value": "three_times_a_day", "label": "Three times a day" },
+          { "value": "other", "label": "Other" }
+        ]
+      },
+      {
+        "name": "timestamp",
+        "description": "When did you vomit?",
+        "required": true,
+        "type": "datetime"
+      }
+    ]
+  },
+  {
+    "name": "Nasogastric Drainage Tracker",
+    "parameters": [
+      {
+        "name": "nasogastric_drainage_amount",
+        "description": "How much nasogastric drainage did you produce?",
+        "required": true,
+        "type": "options",
+        "options": [
+          { "value": "small", "label": "Small" },
+          { "value": "medium", "label": "Medium" },
+          { "value": "large", "label": "Large" }
+        ]
+      },
+      {
+        "name": "nasogastric_drainage_frequency",
+        "description": "How often do you have nasogastric drainage?",
+        "required": true,
+        "type": "options",
+        "options": [
+          { "value": "once_a_day", "label": "Once a day" },
+          { "value": "twice_a_day", "label": "Twice a day" },
+          { "value": "three_times_a_day", "label": "Three times a day" },
+          { "value": "other", "label": "Other" }
+        ]
+      },
+      {
+        "name": "timestamp",
+        "description": "When did you have nasogastric drainage?",
+        "required": true,
+        "type": "datetime"
+      }
+    ]
+  }
+]

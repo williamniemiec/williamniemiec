@@ -1,0 +1,30 @@
+Here is the output in JSON format:
+
+
+{
+    "Education Module": {
+        "parameters": [
+            {
+                "name": "content",
+                "description": "Educational content about hemodynamic issues",
+                "required": true,
+                "type": "html"
+            },
+            {
+                "name": "name",
+                "value": "Hemodynamic Issues Education"
+            },
+            {
+                "name": "description",
+                "value": "Learn about hemodynamic issues and their indicators"
+            },
+            {
+                "name": "content_type",
+                "value": "book"
+            }
+        ]
+    }
+}
+
+
+Let me know if this is what you were expecting!

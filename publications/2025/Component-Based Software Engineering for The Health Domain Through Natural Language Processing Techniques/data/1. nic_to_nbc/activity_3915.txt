@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Proper Body Alignment and Lift Form": {
+    "Muscle Group": {},
+    "Body Alignment": {},
+    "Lift Form": {},
+    "Tips and Reminders": {}
+  }
+}

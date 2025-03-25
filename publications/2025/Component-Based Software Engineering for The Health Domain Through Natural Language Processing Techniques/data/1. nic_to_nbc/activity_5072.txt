@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "Guide": {
+    "parameters": {
+      "name": "",
+      "pages": []
+    }
+  },
+  "Quiz": {
+    "parameters": {
+      "name": "",
+      "questions": [],
+      "correct_answers": []
+    }
+  },
+  "Tracker": {
+    "parameters": {
+      "name": "",
+      "fields": [],
+      "frequency": ""
+    }
+  }
+}

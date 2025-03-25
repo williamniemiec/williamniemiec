@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Goal Setting": {
+    "parameters": {
+      "Goal Prompt": {"type": "text"},
+      "Goal Type": {"type": "options"},
+      "Goal Description": {"type": "text"},
+      "Target Date": {"type": "datetime"},
+      "Priority": {"type": "options"}
+    }
+  }
+}

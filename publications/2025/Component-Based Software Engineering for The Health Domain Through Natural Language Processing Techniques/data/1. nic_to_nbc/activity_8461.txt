@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Goal Decomposition": {
+    "Parameters": {
+      "Goal Statement": {"Type": "text"},
+      "Step Identification": {"Type": "list of tasks"},
+      "Step Description": {"Type": "text"},
+      "Step Prioritization": {"Type": "rating scale"},
+      "Step Sequencing": {"Type": "list of tasks with ordering"}
+    }
+  }
+}

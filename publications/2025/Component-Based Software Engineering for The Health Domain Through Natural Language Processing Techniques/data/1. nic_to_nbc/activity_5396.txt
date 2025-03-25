@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Delirium Tremens Monitoring": {
+    "Name": {"Type": "text"},
+    "Risk Factors": {"Type": "list of risk factors (with descriptions and examples)"},
+    "Signs and Symptoms": {"Type": "list of signs and symptoms (with descriptions and examples)"},
+    "Assessment Frequency": {"Options": ["every 15 minutes", "every 30 minutes", "every hour", "every 2 hours"]},
+    "Thresholds": {"Type": "list of threshold values (with descriptions and examples)"},
+    "Notification": {"Type": "text"},
+    "Intervention": {"Type": "text"},
+    "Deadline Date": {"Type": "datetime"}
+  }
+}

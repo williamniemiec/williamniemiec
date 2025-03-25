@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Patient Engagement": {
+    "parameters": {
+      "Goal Setting": {},
+      "Decision Support": {},
+      "Progress Tracking": {},
+      "Communication Channel": {},
+      "Frequency": {},
+      "Deadline Date": {}
+    }
+  }
+}

@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Nutrition Barrier Assessment": {
+    "Barrier Identification": {},
+    "Barrier Impact": {},
+    "Resource Identification": {},
+    "Goal Setting": {},
+    "Frequency": {
+      "options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+    },
+    "Deadline Date": {}
+  }
+}

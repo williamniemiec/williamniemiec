@@ -1,0 +1,42 @@
+Here is the output in JSON format:
+
+
+{
+  "Visiting Policy": {
+    "Patient Needs": {
+      "type": "options",
+      "options": [
+        {"value": "flexibleHours", "label": "Flexible visiting hours"},
+        {"value": "privateRoom", "label": "Private room for visits"},
+        {"value": "limitedVisitors", "label": "Limited number of visitors"},
+        {"value": "other", "label": "Other (please specify)"}
+      ]
+    },
+    "Visitor Restrictions": {
+      "type": "text"
+    },
+    "Visiting Hours": {
+      "type": "text"
+    },
+    "Visitor Guidelines": {
+      "type": "text"
+    },
+    "Patient Education": {
+      "type": "options",
+      "options": [
+        {"value": "verbal", "label": "Verbal education"},
+        {"value": "written", "label": "Written education"},
+        {"value": "both", "label": "Both verbal and written education"}
+      ]
+    },
+    "Policy Review": {
+      "type": "options",
+      "options": [
+        {"value": "daily", "label": "Daily"},
+        {"value": "weekly", "label": "Weekly"},
+        {"value": "monthly", "label": "Monthly"},
+        {"value": "asNeeded", "label": "As needed"}
+      ]
+    }
+  }
+}

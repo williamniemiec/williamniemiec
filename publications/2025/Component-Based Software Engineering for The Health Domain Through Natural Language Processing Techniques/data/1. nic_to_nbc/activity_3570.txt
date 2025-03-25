@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+    "Guide": {
+        "parameters": [
+            {"name": "pages", "description": "list of pages with instructions on effective techniques for reducing stress", "required": true, "type": "book-page"}
+        ]
+    },
+    "Video": {
+        "parameters": [
+            {"name": "video_url", "description": "URL of the video tutorial", "required": true, "type": "url"}
+        ]
+    }
+}
+
+
+Let me know if you need any further assistance!

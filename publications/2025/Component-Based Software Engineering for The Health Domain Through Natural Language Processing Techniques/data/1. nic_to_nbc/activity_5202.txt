@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Support Network Builder": {
+    "Parameters": {
+      "Title": {"Type": "text"},
+      "Step 1: Identify Needs": {"Type": "options"},
+      "Step 2: Explore Options": {"Type": "list of support network options"},
+      "Step 3: Connect with Resources": {"Type": "connection information object"},
+      "Step 4: Review and Refine": {"Type": "review and refine interface"}
+    }
+  }
+}

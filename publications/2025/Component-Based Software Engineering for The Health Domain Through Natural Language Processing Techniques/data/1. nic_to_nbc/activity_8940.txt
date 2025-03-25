@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Chest Pain Tracker": {
+    "Parameters": {
+      "Pain Intensity": {"Type": "options"},
+      "Pain Location": {"Type": "options"},
+      "Pain Radiation": {"Type": "options"},
+      "Pain Duration": {"Type": "time"},
+      "Precipitating Factors": {"Type": "options"},
+      "Alleviating Factors": {"Type": "options"},
+      "Additional Notes": {"Type": "text"}
+    }
+  }
+}

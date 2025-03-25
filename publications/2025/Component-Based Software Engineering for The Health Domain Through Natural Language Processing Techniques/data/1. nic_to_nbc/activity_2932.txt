@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Information Sheet": {
+    "Parameters": {
+      "Medication Name": {"Type": "text"},
+      "Action": {"Type": "text"},
+      "Purpose": {"Type": "text"},
+      "Side Effects": {"Type": "list (of side effects with descriptions)"},
+      "Interactions": {"Type": "list (of interactions with descriptions)"},
+      "Dosage Instructions": {"Type": "text"},
+      "Precautions": {"Type": "list (of precautions with descriptions)"},
+      "Additional Resources": {"Type": "list (of URLs or PDFs)"}
+    }
+  }
+}

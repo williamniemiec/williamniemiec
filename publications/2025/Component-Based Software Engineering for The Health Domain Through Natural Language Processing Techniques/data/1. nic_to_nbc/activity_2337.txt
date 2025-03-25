@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Neurological Function Tracker": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Frequency": {"Options": ["daily", "everyHours", "everyDays"]},
+      "Deadline Date": {"Type": "datetime"},
+      "Level of Consciousness": {"Type": "options"},
+      "Orientation": {"Type": "options"},
+      "Motor Function": {"Type": "options"},
+      "Sensory Function": {"Type": "options"},
+      "Cognitive Function": {"Type": "options"},
+      "Notes": {"Type": "text"}
+    }
+  }
+}

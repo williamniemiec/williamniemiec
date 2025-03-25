@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Cueing Exercise": {
+        "parameters": [
+            {"Activity Type": {}},
+            {"Motor Activity": {}},
+            {"Cueing Steps": {}},
+            {"Frequency": {}},
+            {"Reflection Question": {}}
+        ]
+    }
+}

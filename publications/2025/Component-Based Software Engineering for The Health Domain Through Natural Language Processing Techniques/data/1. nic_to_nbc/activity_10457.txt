@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Isolation Guidance",
+    "parameters": [
+        { 
+            "name": "Disease", 
+            "type": "text"
+        },
+        { 
+            "name": "Isolation Instructions", 
+            "type": "text or HTML"
+        },
+        { 
+            "name": "Duration", 
+            "type": "text or datetime"
+        },
+        { 
+            "name": "Precautions", 
+            "type": "unordered list or text"
+        }
+    ]
+}

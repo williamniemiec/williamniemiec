@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+  "Leg Positioning": {
+    "Prohibited Actions": {
+      "Description": "Actions to avoid with legs",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "crossLegs", "label": "Crossing legs" },
+        { "value": "sitLongPeriods", "label": "Sitting for long periods with legs dependent" }
+      ]
+    },
+    "Recommended Actions": {
+      "Description": "Recommended actions for proper leg positioning",
+      "Required": true,
+      "Type": "text",
+      "Example": "Keep legs uncrossed and elevate them when sitting"
+    }
+  }
+}

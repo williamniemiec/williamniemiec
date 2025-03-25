@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Learning Environment": {
+    "Parameters": [
+      {"Learning Environment Assessment": {"Type": "text", "Required": true}},
+      {"Recommendations": {"Type": "text/html", "Required": true}},
+      {"Goal Setting": {"Type": "text", "Required": true}},
+      {"Progress Tracking": {"Type": "datetime", "Required": true}}
+    ]
+  }
+}
+
+
+I removed the not applicable parameters (Resources and Family Involvement) since they are marked as Required: false. Let me know if you need any further assistance!

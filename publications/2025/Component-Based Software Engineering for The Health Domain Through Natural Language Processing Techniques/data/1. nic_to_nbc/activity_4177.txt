@@ -1,0 +1,48 @@
+Here is the output in JSON format:
+
+
+{
+    "Dietary Intake Tracker": {
+        "tracker title": {
+            "description": "title of the tracker",
+            "required": true,
+            "type": "text"
+        },
+        "dietary intake questions": {
+            "description": "list of questions to ask the patient about their dietary intake",
+            "required": true,
+            "type": "list of questions",
+            "questions": [
+                {"name": "proteinIntake", "description": "How much protein have you consumed today?", "type": "number"},
+                {"name": "vitaminBIntake", "description": "How much vitamin B have you consumed today?", "type": "number"},
+                {"name": "vitaminCIntake", "description": "How much vitamin C have you consumed today?", "type": "number"},
+                {"name": "ironIntake", "description": "How much iron have you consumed today?", "type": "number"},
+                {"name": "calorieIntake", "description": "How many calories have you consumed today?", "type": "number"}
+            ]
+        },
+        "recommended supplements": {
+            "description": "list of recommended supplements based on the patient's dietary intake",
+            "required": false,
+            "type": "list of supplements",
+            "supplements": [
+                {"name": "proteinSupplement", "description": "Protein supplement", "type": "boolean"},
+                {"name": "vitaminBSupplement", "description": "Vitamin B supplement", "type": "boolean"},
+                {"name": "vitaminCSupplement", "description": "Vitamin C supplement", "type": "boolean"},
+                {"name": "ironSupplement", "description": "Iron supplement", "type": "boolean"}
+            ]
+        },
+        "Frequency": {
+            "description": "specify how often the patient should track their dietary intake",
+            "required": true,
+            "type": "options",
+            "options": [
+                {"value": "daily", "label": "Daily"},
+                {"value": "everyOtherDay", "label": "Every other day"},
+                {"value": "weekly", "label": "Weekly"},
+                {"value": "asNeeded", "label": "As needed"}
+            ]
+        }
+    }
+}
+
+Note that I removed the introduction, number, and conclusion sections, as well as any non-parameter specifications. I also reformatted the output to be a JSON object with nested properties. Let me know if you have any further requests!

@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Substance Use Education",
+    "parameters": [
+        {
+            "name": "Variability Explanation",
+            "description": "explanation of how the volume and frequency of substance use leading to dysfunction varies greatly between people",
+            "individual_factors": "An explanation of how individual factors, such as genetics, environment, and lifestyle, contribute to the variability.",
+            "substance_specific_factors": "An explanation of how substance-specific factors, such as potency and mode of administration, contribute to the variability."
+        },
+        {
+            "name": "Real-Life Examples",
+            "description": "real-life examples used to illustrate the variability",
+            "case_studies": "Case studies of individuals with different substance use patterns and outcomes.",
+            "infographics": "Infographics that visually represent the variability in substance use and dysfunction."
+        },
+        {
+            "name": "Interactive Elements",
+            "description": "interactive elements used to engage the patient and promote understanding",
+            "quizzes": "Quizzes that test the patient's understanding of the variability in substance use and dysfunction.",
+            "simulations": "Simulations that allow the patient to explore how different substance use patterns can lead to varying outcomes."
+        }
+    ]
+}

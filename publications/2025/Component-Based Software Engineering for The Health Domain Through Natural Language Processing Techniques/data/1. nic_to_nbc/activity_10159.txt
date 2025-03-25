@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "After-Hours Program": {
+    "parameters": {
+      "Location": {"type": "text"},
+      "Activity Schedule": {"type": "calendar"},
+      "Activity Types": {"type": "list"},
+      "Registration": {"type": "boolean"},
+      "Volunteer Opportunities": {"type": "boolean"},
+      "Partnerships": {"type": "list"},
+      "Feedback": {"type": "text"}
+    }
+  }
+}

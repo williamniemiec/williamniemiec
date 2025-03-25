@@ -1,0 +1,43 @@
+Here is the output in JSON format:
+
+
+{
+  "Guide": {
+    "Parameters": {
+      "Name": {
+        "Type": "text"
+      },
+      "Pages": {
+        "Type": "book-page",
+        "Book-page": "list of HTML texts"
+      },
+      "Section 1: Introduction": {
+        "Type": "HTML text"
+      },
+      "Section 2: Sleep Patterns in Infancy": {
+        "Type": "HTML text"
+      },
+      "Section 3: Changes to Expect": {
+        "Type": "HTML text"
+      },
+      "Section 4: Tips for Establishing a Sleep Routine": {
+        "Type": "HTML text"
+      },
+      "Section 5: Common Sleep Challenges": {
+        "Type": "HTML text"
+      },
+      "Section 6: Conclusion": {
+        "Type": "HTML text"
+      },
+      "Sleep Tracker": {
+        "Type": "interactive chart"
+      },
+      "Sleep Tips Quiz": {
+        "Type": "interactive quiz"
+      },
+      "Sleep Resources": {
+        "Type": "list of resources (e.g. articles, videos, websites)"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Discussion",
+  "parameters": [
+    {
+      "name": "Topic",
+      "type": "text"
+    },
+    {
+      "name": "Prompt",
+      "type": "text"
+    },
+    {
+      "name": "Reflection type",
+      "type": "options"
+    },
+    {
+      "name": "Frequency",
+      "type": "options"
+    }
+  ]
+}
+
+
+I removed the `deadline_date` parameter because it's not applicable (no value was provided). I also removed the introduction, number, no-code element description, and conclusion sections as per your instructions.

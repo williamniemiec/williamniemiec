@@ -1,0 +1,32 @@
+Here is the output in JSON format:
+
+
+{
+  "Nail Care": {
+    "Parameters": {
+      "Steps": {
+        "Type": "ordered list",
+        "Options": [
+          "Soak nails in warm water",
+          "Clean under nails with orange stick",
+          "Push back cuticles with a cuticle stick"
+        ]
+      },
+      "Frequency": {
+        "Type": "options",
+        "Options": [
+          "daily",
+          "everyOtherDay",
+          "weekly",
+          "monthly"
+        ]
+      },
+      "Deadline Date": {
+        "Type": "datetime"
+      },
+      "Reminders": {
+        "Type": "boolean"
+      }
+    }
+  }
+}

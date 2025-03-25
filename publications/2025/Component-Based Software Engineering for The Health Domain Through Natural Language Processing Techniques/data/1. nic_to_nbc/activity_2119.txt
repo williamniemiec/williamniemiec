@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+    "Perianal Skin Monitoring": {
+        "parameters": [
+            {"name": "Name", "type": "text"},
+            {"name": "Frequency", "type": "options", "options": ["daily", "everyHours", "everyDays"]},
+            {"name": "Deadline Date", "type": "datetime"},
+            {"name": "Skin Condition", "type": "options", "options": ["normal", "irritated", "ulcerated", "other"]},
+            {"name": "Photo", "type": "camera"},
+            {"name": "Additional Notes", "type": "text"}
+        ]
+    }
+}

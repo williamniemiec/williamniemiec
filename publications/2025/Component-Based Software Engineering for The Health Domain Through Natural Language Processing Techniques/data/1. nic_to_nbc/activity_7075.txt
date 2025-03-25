@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+    "Procedure Guide": {
+        "parameters": {
+            "name": "text",
+            "instructions": "list of HTML texts",
+            "images": "list of images"
+        }
+    },
+    "Checklist": {
+        "parameters": {
+            "name": "text",
+            "checklist items": "list of items to check",
+            "completion status": "boolean"
+        }
+    }
+}

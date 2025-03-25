@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Shelter Preparation": {
+    "parameters": [
+      {"name": "shelter location", "description": "Identify shelter location", "type": ["address", "map coordinates"]},
+      {"name": "shelter capacity", "description": "Specify shelter capacity", "type": "number"},
+      {"name": "emergency aid station location", "description": "Identify emergency aid station location", "type": ["address", "map coordinates"]},
+      {"name": "emergency aid station equipment", "description": "List of emergency aid station equipment (e.g. first aid kits, stretchers)", "type": "list"},
+      {"name": "shelter supplies", "description": "List of shelter supplies (e.g. food, water, blankets)", "type": "list"},
+      {"name": "volunteer management", "description": "Plan for volunteer management (e.g. roles, responsibilities)", "type": "text"},
+      {"name": "review and update", "description": "Review and update shelter preparation plan", "type": "date"}
+    ]
+  }
+}

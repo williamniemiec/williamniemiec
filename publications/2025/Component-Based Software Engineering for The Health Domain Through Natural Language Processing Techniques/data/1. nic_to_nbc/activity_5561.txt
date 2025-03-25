@@ -1,0 +1,41 @@
+Here is the output in JSON format:
+
+
+{
+  "Family Care Assessment": {
+    "abilities": {
+      "type": "form"
+    },
+    "needs": {
+      "type": "form"
+    },
+    "preferences": {
+      "type": "form"
+    }
+  },
+  "Care Task Assignment": {
+    "task_list": {
+      "type": "unordered list"
+    },
+    "family_member": {
+      "type": "text"
+    },
+    "task_description": {
+      "type": "text"
+    },
+    "frequency": {
+      "type": "options"
+    }
+  },
+  "Care Plan Education": {
+    "care_plan": {
+      "type": "text"
+    },
+    "task_instructions": {
+      "type": "text"
+    },
+    "resources": {
+      "type": "text"
+    }
+  }
+}

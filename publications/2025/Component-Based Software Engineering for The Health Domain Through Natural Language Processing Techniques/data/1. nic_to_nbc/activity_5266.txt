@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+  "Question": {
+    "parameters": {
+      "name": "",
+      "answer type": "",
+      "options": ""
+    }
+  },
+  "Open-Ended Question": {
+    "parameters": {
+      "name": "",
+      "answer type": "text"
+    }
+  },
+  "Rating Scale": {
+    "parameters": {
+      "name": "",
+      "answer type": "rating scale"
+    }
+  }
+}
+
+
+Note: I removed the not applicable parameters and only kept the `name` parameter as it was present in all elements, even if it didn't have a specific value. If you want to remove it as well, just let me know!

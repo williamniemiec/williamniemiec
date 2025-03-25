@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+  "Toileting Schedule": {
+    "Parameters": {
+      "Toileting Options": {
+        "Type": "list of text",
+        "Required": true
+      },
+      "Interval": {
+        "Type": "text or options",
+        "Required": true
+      },
+      "Reminders": {
+        "Type": "boolean (true/false)",
+        "Required": false
+      },
+      "Assistance": {
+        "Type": "options",
+        "Required": false
+      }
+    }
+  }
+}
+
+
+Let me know if this meets your requirements!

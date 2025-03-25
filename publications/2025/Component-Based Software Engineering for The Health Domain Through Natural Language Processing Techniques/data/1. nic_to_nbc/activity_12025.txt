@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Reminder": {
+    "parameters": {
+      "title": {"type": "text"},
+      "message": {"type": "text"},
+      "frequency": {"type": "options"}
+    }
+  }
+}

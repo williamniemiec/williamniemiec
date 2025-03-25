@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Procedure": {
+    "parameters": [
+      {"name": "exam_position", "description": "position of the patient during the exam"},
+      {"name": "fit_verification", "description": "verification of pessary fit"}
+    ]
+  }
+}

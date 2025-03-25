@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+
+{
+  "Chapel Service Invitation": {
+    "parameters": {
+      "Service Schedule": {"type": "list of dates and times"},
+      "Service Description": {"type": "text"},
+      "Attendance Tracking": {"type": "boolean (yes/no)"},
+      "Reminders": {"type": "boolean (yes/no)"},
+      "Reflection": {"type": "text"}
+    }
+  }
+}

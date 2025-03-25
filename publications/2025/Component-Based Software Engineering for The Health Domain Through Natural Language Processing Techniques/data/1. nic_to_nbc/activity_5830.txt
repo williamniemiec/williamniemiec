@@ -1,0 +1,49 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Behavioral Impact Assessment",
+  "parameters": [
+    {
+      "name": "Behavior",
+      "type": "text"
+    },
+    {
+      "name": "Impact Type",
+      "type": "options",
+      "options": [
+        { value: "social", label: "Social" },
+        { value: "environmental", label: "Environmental" },
+        { value: "financial", label: "Financial" },
+        { value: "other", label: "Other" }
+      ]
+    },
+    {
+      "name": "Assessment Questions",
+      "type": "list of text"
+    },
+    {
+      "name": "Frequency",
+      "type": "options",
+      "options": [
+        { value: "daily", label: "Daily" },
+        { value: "weekly", label: "Weekly" },
+        { value: "monthly", label: "Monthly" },
+        { value: "quarterly", label: "Quarterly" }
+      ]
+    },
+    {
+      "name": "Deadline Date",
+      "type": "datetime"
+    },
+    {
+      "name": "Impact Rating",
+      "type": "options",
+      "options": [
+        { value: "likertScale", label: "Likert Scale" },
+        { value: "numericalRating", label: "Numerical Rating" },
+        { value: "other", label: "Other" }
+      ]
+    }
+  ]
+}

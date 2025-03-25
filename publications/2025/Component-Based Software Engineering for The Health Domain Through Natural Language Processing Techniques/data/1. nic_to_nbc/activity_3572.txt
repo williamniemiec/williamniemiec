@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Relocation Assistance": {
+    "Parameters": {
+      "Name": {},
+      "Description": {},
+      "Reason for Relocation": {},
+      "Relocation Options": {},
+      "Referral Information": {},
+      "Support Services": {},
+      "Deadline Date": {}
+    }
+  }
+}

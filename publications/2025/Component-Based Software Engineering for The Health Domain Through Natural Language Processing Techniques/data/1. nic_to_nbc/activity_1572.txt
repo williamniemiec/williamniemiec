@@ -1,0 +1,14 @@
+Here is the output in JSON format, removing anything except `{{ PARAMETER ESPECIFICATIONS }}` and `{{ NO-CODE ELEMENT NAME }}`, and removing not applicable parameters:
+
+
+{
+  "name": "Handheld Metal Detector Warning",
+  "parameters": [
+    {
+      "name": "warning",
+      "description": "Warning message about handheld metal detectors",
+      "required": true,
+      "type": "text"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+Here is the output in JSON format:
+
+
+{
+  "Reading Level Assessment": {
+    "name": "Reading Level Assessment",
+    "reading_level": "options (e.g., beginner, intermediate, advanced)",
+    "assessment_type": "options (e.g., quiz, survey, reading comprehension test)",
+    "assessment_results": "text field for the assessment results"
+  },
+  "Literature Filtering": {
+    "name": "Literature Filtering",
+    "reading_level": "options (e.g., beginner, intermediate, advanced)",
+    "literature_type": "options (e.g., book, article, online resource)",
+    "filtered_literature": "list of literature titles and descriptions that match the patient's reading level"
+  },
+  "Reading Level Matching": {
+    "name": "Reading Level Matching",
+    "reading_level": "options (e.g., beginner, intermediate, advanced)",
+    "literature_recommendation": "text field for the literature recommendation",
+    "matching_reason": "text field for the reason why the literature is being recommended"
+  },
+  "Patient Profile": {
+    "name": "Patient Profile",
+    "patient_id": "unique identifier for the patient",
+    "reading_level": "options (e.g., beginner, intermediate, advanced)",
+    "other_relevant_info": "text field for other relevant information (e.g., medical history, therapy goals)"
+  }
+}

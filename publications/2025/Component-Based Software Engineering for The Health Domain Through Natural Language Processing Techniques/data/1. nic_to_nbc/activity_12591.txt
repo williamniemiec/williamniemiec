@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Quiz": {
+    "Parameters": {
+      "Questions": "",
+      "Answer type": "",
+      "Scoring": "",
+      "Frequency": "",
+      "Deadline date": ""
+    }
+  }
+}

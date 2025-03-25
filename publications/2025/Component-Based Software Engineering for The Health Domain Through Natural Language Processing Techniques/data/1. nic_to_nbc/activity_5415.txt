@@ -1,0 +1,17 @@
+
+
+
+{
+  "Personal Space": {
+    "Parameters": {
+      "Trigger": {
+        "Type": "options",
+        "Required": true
+      },
+      "Message": {
+        "Type": "text",
+        "Required": true
+      }
+    }
+  }
+}

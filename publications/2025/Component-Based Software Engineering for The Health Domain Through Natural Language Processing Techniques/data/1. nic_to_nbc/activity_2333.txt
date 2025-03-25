@@ -1,0 +1,31 @@
+Here is the output in JSON format:
+
+
+[
+  {
+    "Daily Routine Tracker": {
+      "name": "title of the daily routine tracker",
+      "activities": "list of daily activities to track",
+      "schedule": "schedule for each activity",
+      "reminders": "option to set reminders for each activity",
+      "notes": "text input for parents to add notes or comments"
+    }
+  },
+  {
+    "Care Plan": {
+      "name": "title of the care plan",
+      "goals": "list of goals for the infant's care",
+      "tasks": "list of tasks to achieve the goals",
+      "schedule": "schedule for each task",
+      "reminders": "option to set reminders for each task"
+    }
+  },
+  {
+    "Communication Log": {
+      "name": "title of the communication log",
+      "messages": "text input for parents to send messages",
+      "responses": "text input for healthcare professionals to respond",
+      "attachments": "option to attach files or photos to messages"
+    }
+  }
+]

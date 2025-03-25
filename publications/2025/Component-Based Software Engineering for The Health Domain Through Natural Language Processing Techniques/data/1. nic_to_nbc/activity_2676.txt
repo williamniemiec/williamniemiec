@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Self-Care Planner": {
+    "Parameters": {
+      "Self-Care Assessment": {"Type": "interactive questionnaire or survey"},
+      "Personalized Recommendations": {"Type": "text, images, and videos"},
+      "Stress Management Techniques": {"Type": "text, images, and videos"},
+      "Nutrition and Meal Planning": {"Type": "text, images, and videos"},
+      "Physical Activity Planning": {"Type": "text, images, and videos"},
+      "Reminders": {"Type": "reminder schedule with customizable frequency and content"},
+      "Resources": {"Type": "list of URLs or app store links"}
+    }
+  }
+}
+
+
+Let me know if you need any further modifications!

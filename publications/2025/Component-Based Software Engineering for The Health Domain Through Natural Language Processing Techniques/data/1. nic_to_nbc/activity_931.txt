@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+  "Breathing Pattern Monitoring": {
+    "Parameters": {
+      "Pattern Type": {
+        "Options": ["bradypnea", "tachypnea", "hyperventilation", "Kussmaul respirations", "Cheyne-Stokes respirations", "apneustic", "Biot respiration", "ataxic patterns"]
+      },
+      "Frequency": {
+        "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+      },
+      "Deadline Date": {
+        "Type": "datetime"
+      },
+      "Notes": {
+        "Type": "text"
+      },
+      "Tracking Method": {
+        "Type": "options"
+      }
+    }
+  }
+}
+
+
+Let me know if you need anything else!

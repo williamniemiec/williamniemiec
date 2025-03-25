@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Exercise": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Description": {"Type": "text"},
+      "Instructions": {"Type": ["text", "video"]},
+      "Frequency": {"Type": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"Type": "datetime"},
+      "Repetitions": {"Type": "number"},
+      "Duration": {"Type": "time"}
+    }
+  }
+}

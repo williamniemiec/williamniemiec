@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Learning Environment": [
+    {"name": "title", "description": "Learning environment title"},
+    {"name": "environment", "description": "Description of the learning environment"},
+    {"name": "resources", "description": "List of resources to support the learning environment"},
+    {"name": "interactive_elements", "description": "List of interactive elements to engage the patient in the learning environment"},
+    {"name": "goals", "description": "List of learning goals for the patient"}
+  ]
+}

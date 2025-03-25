@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Open-Ended Question": {
+    "Parameters": {
+      "Question": {"Type": "text"},
+      "Topic": {"Type": "text or options"},
+      "Response Type": {"Type": "options"},
+      "Cognitive Goal": {"Type": "text or options"},
+      "Follow-up Questions": {"Type": "boolean"}
+    }
+  }
+}

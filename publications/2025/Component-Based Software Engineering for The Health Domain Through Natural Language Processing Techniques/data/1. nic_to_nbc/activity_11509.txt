@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "noCodeElementName": "Feedback",
+  "parameterSpecifications": {
+    "Topic": {"type": "text"},
+    "Content": {"type": "text"},
+    "Frequency": {"type": "options", "options": ["daily", "weekly", "monthly", "as needed"]}
+  }
+}

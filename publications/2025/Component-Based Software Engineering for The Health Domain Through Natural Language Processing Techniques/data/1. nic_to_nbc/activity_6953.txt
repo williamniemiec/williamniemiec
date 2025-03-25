@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Fitness Guide": {
+    "Name": {"type": "text"},
+    "Fitness Goals": {"type": "options"},
+    "Workout Plan": {"type": "text or video"},
+    "Exercise Frequency": {"type": "options"},
+    "Progress Tracking": {"type": "text or numeric"},
+    "Motivational Messages": {"type": "text or video"},
+    "Sport-Specific Tips": {"type": "text or video"}
+  }
+}

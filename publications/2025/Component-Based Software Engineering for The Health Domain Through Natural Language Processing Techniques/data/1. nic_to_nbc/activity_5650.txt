@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Thought and Feeling Explorer": {
+    "Mood Identification": {},
+    "Thought Identification": {},
+    "Feeling Identification": {},
+    "Cognitive Restructuring": {},
+    "Emotional Regulation Strategies": {},
+    "Reflection and Insight": {}
+  }
+}

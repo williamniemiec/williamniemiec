@@ -1,0 +1,33 @@
+Here is the output in JSON format:
+
+
+[
+  {
+    "name": "Symptom Tracker",
+    "parameters": [
+      { "name": "name" },
+      { "name": "description" },
+      { "name": "type" },
+      { "name": "frequency" },
+      { "name": "severity" }
+    ]
+  },
+  {
+    "name": "Medication Log",
+    "parameters": [
+      { "name": "name" },
+      { "name": "dosage" },
+      { "name": "frequency" },
+      { "name": "start_date" },
+      { "name": "end_date" }
+    ]
+  },
+  {
+    "name": "Questionnaire",
+    "parameters": [
+      { "name": "name" },
+      { "name": "questions" },
+      { "name": "answer type" }
+    ]
+  }
+]

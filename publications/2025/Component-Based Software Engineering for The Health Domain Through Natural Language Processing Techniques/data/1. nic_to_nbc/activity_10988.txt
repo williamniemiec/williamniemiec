@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "IV Fluid Alert": {
+    "parameters": {
+      "Alert Message": {"type": "text"},
+      "Fluid Types to Avoid": {"type": "text (list of fluid types)"},
+      "Reason for Alert": {"type": "text"},
+      "Alternative Fluids": {"type": "text (list of alternative fluid types)"}
+    }
+  }
+}

@@ -1,0 +1,37 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Additional Rewards",
+    "parameters": [
+        {
+            "name": "Original Goals",
+            "type": "text"
+        },
+        {
+            "name": "Goal Status",
+            "type": "options",
+            "options": [
+                { value: "met" },
+                { value: "exceeded" },
+                { value: "not met" }
+            ]
+        },
+        {
+            "name": "Desire Additional Rewards",
+            "type": "boolean"
+        },
+        {
+            "name": "Additional Reward Options",
+            "type": "list"
+        },
+        {
+            "name": "Selection Type",
+            "type": "options",
+            "options": [
+                { value: "single" },
+                { value: "multiple" }
+            ]
+        }
+    ]
+}

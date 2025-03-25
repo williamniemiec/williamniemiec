@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Fluid Balance Assistance": {
+    "parameters": [
+      {"Impaired Condition": ""},
+      {"Fluid Intake Goals": ""},
+      {"Fluid Intake Reminders": ""},
+      {"Assistance Methods": ""},
+      {"Monitoring Frequency": ""},
+      // Removed "Additional Support" because it's not required
+    ]
+  }
+}
+
+
+Let me know if this is what you were expecting!

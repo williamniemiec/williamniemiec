@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "noCodeElementName": "Education",
+  "parameters": {
+    "Topic": {"type": "text"},
+    "Content": {"type": ["text", "multimedia (video, image)"]},
+    "Format": {"type": ["article", "video", "infographic"]},
+    "Level of detail": {"type": ["basic", "intermediate", "advanced"]},
+    "Frequency": {"type": ["daily", "onlyOnce", "everyHours", "everyDays"]}
+  }
+}
+
+
+Let me know if this meets your requirements!

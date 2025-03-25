@@ -1,0 +1,35 @@
+Here is the output in JSON format:
+
+
+{
+  "Physical Abuse Signs Assessment": {
+    "Questions": [
+      "Does the child have numerous injuries?",
+      "Are there unexplained bruises and welts on the child's body?",
+      "Are there any burns on the child's body?",
+      "Are there any fractures or broken bones?",
+      "Are there any unexplained facial lacerations and abrasions?",
+      "Are there any human bite marks on the child's body?",
+      "Is there any evidence of whiplash or shaken infant syndrome?"
+    ],
+    "Answer type": [
+      "Yes/No",
+      "Text"
+    ]
+  },
+  "Risk Factor Assessment": {
+    "Risk factors": [
+      "Numerous injuries",
+      "Unexplained bruises and welts",
+      "Burns",
+      "Fractures or broken bones",
+      "Unexplained facial lacerations and abrasions",
+      "Human bite marks",
+      "Whiplash or shaken infant syndrome"
+    ],
+    "Answer type": [
+      "Yes/No"
+    ],
+    "Scoring": []
+  }
+}

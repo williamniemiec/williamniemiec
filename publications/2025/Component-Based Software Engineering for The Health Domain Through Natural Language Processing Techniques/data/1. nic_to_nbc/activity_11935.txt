@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Toenail Inspection": {
+    "Parameters": {
+      "Toenail Selection": {"Type": "list of text"},
+      "Inspection Criteria": {"Type": "list of text"},
+      "Findings": {"Type": "list of objects"},
+      "Images": {"Type": "list of images"},
+      "Notes": {"Type": "text"},
+      "Frequency": {"Type": "options", "Options": ["daily", "weekly", "monthly"]},
+      "Deadline Date": {"Type": "datetime"}
+    }
+  }
+}

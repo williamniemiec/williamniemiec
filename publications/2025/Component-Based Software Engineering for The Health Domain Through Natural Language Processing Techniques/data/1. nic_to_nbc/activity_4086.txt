@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Health Counseling Guide": {
+    "Name": {"type": "text"},
+    "Counseling Topic": {"type": "text"},
+    "Guidance Content": {"type": "text"},
+    "Resources": {"type": "text"},
+    "Discussion Questions": {"type": "text"},
+    "Goal Setting": {"type": "text"}
+  }
+}

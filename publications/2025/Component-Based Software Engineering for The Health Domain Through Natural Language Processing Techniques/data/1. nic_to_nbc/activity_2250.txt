@@ -1,0 +1,31 @@
+Here is the output in JSON format:
+
+
+{
+  "Supportive Service Referral": {
+    "parameters": {
+      "Service Type": {
+        "type": "options",
+        "options": ["social", "occupational", "psychological", "etc."]
+      },
+      "Provider Type": {
+        "type": "options",
+        "options": ["social worker", "occupational therapist", "psychologist", "etc."]
+      },
+      "Location": {
+        "type": "options",
+        "options": ["nearby", "online", "etc."]
+      },
+      "Provider List": {
+        "type": "list",
+        "list items": ["provider name", "service type", "location", "contact information", "etc."]
+      },
+      "Referral Details": {
+        "type": "text"
+      },
+      "Appointment Scheduling": {
+        "type": "datetime"
+      }
+    }
+  }
+}

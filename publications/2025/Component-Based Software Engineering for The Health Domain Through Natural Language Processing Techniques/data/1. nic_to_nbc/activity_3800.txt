@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Mobility Guidance": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Restrictions": {"Type": "text or list"},
+      "Reason": {"Type": "text"},
+      "Instructions": {"Type": "text or video"},
+      "Reminders": {"Type": "options", "Options": ["daily", "every12Hours", "every8Hours", "asNeeded"]}
+    }
+  }
+}

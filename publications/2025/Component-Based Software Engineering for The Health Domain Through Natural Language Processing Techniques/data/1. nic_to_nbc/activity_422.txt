@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+    "Exercise": {
+        "Muscle Group": {"Type": "text", "Value": "foot muscles"},
+        "Tensing Duration": {"Type": "numeric", "Value": "≤ 5 seconds"},
+        "Warning": {"Type": "text", "Value": "Avoid tensing for longer than 5 seconds to prevent cramping"},
+        "Instructions": {"Type": "text", "Value": "step-by-step instructions for the exercise"},
+        "Visual Aids": {"Type": "media (image or video)", "Value": ""},
+        "Frequency": {"Type": "options", "Options": ["daily", "everyHours", "everyDays"]},
+        "Deadline Date": {"Type": "datetime", "Value": ""}
+    }
+}
+
+
+Note that I removed the not applicable parameters and only kept the `{{ NO-CODE ELEMENT NAME }}` (Exercise) and `{{ PARAMETER ESPECIFICATIONS }}`. Let me know if this is what you were looking for!

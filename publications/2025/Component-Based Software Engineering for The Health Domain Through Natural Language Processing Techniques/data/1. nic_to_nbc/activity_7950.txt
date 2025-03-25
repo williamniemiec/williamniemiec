@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Mindfulness Exercise": {
+    "Focus Instruction": {"type": "text"},
+    "Sensations Description": {"type": "text"},
+    "Duration": {"type": "numeric"},
+    "Visual Aids": {"type": "media (image or video)"},
+    "Frequency": {"type": "options", "options": ["daily", "everyHours", "everyDays"]}
+  }
+}

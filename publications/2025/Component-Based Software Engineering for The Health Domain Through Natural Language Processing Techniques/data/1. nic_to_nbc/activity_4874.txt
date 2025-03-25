@@ -1,0 +1,7 @@
+Here is the output in JSON format:
+
+
+{
+  "no-code-element-name": "Heat Application",
+  "parameter-specifications": null
+}

@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Massage Session": {
+    "Name": {"Type": "text"},
+    "Duration": {"Type": "duration"},
+    "Frequency": {"Type": "options"},
+    "Goal": {"Type": "text"},
+    "Notes": {"Type": "text"}
+  }
+}

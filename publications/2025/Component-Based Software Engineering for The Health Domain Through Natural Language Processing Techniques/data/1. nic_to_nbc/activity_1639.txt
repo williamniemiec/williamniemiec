@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Allergy Avoidance Guide": {
+    "Parameters": {
+      "Allergen List": {
+        "Type": "checklist or multi-select options"
+      },
+      "Avoidance Strategies": {
+        "Type": "text or options"
+      },
+      "Resources": {
+        "Type": "links to educational websites, videos, or PDFs"
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Review": {
+    "Parameters": {
+      "Current Medications": {"Type": "list of text"},
+      "Medication Details": {"Type": "list of text"},
+      "Contraindication Check": {}
+    }
+  }
+}

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Regular Potty Routine": {
+    "Parameters": {
+      "Schedule": {},
+      "Reminders": {},
+      "Encouragement Tips": {},
+      "Potty Sitting Guide": {},
+      "Progress Tracking": {}
+    }
+  }
+}

@@ -1,0 +1,13 @@
+
+
+
+{
+"Journaling Technique Selection": {
+    "Parameters": {
+        "Journaling Techniques": {"Type": "list (text)"},
+        "Descriptions": {"Type": "list (text)"},
+        "Selection": {"Type": "options"},
+        "Notes": {"Type": "text"}
+    }
+}
+}

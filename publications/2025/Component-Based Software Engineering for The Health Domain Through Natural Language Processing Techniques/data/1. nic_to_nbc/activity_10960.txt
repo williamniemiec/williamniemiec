@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Safety Needs Assessment": {
+    "Demographics": {},
+    "Safety Concerns": {},
+    "Risk Factors": {},
+    "Safety Priorities": {},
+    "Personalized Recommendations": {},
+    "Frequency": {}
+  }
+}

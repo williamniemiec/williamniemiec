@@ -1,0 +1,10 @@
+{
+  "name": "IV Access and Occlusion Monitoring",
+  "description": "Focuses on the monitoring of IV access points, checking for occlusion, patency, and maintenance of the established access. Includes tracking the IV status and capturing images if the IV site is infiltrated or otherwise compromised.",
+  "type": "periodic",
+  "input": ["IV access", "Occlusion", "Patent status", "Maintenance", "Tracker", "Infiltrated site", "Photo capture"],
+  "output": ["IV status report", "Occlusion log", "IV maintenance feedback"],
+  "preconditions": ["User is undergoing IV therapy or monitoring IV access"],
+  "postconditions": ["IV access is properly monitored and maintained"],
+  "dependencies": ["IV tracking tools", "Image capture system"]
+}

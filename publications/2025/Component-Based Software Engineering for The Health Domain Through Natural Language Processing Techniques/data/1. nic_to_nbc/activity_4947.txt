@@ -1,0 +1,11 @@
+
+
+
+{
+  "Time Limit": {
+    "Task/Activity": {"Type": "text"},
+    "Time Limit": {"Type": "time"},
+    "Deadline Date": {"Type": "datetime"},
+    "Reminder": {"Type": "boolean"}
+  }
+}

@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+  "Risk Assessment": {
+    "Parameters": {
+      "Conditions": {},
+      "Questions": {},
+      "Risk Level": {},
+      "Modification Instructions": {}
+    }
+  },
+  "Conditional Alert": {
+    "Parameters": {
+      "Risk Level Threshold": {},
+      "Alert Message": {}
+    }
+  },
+  "Modified Technique": {
+    "Parameters": {
+      "Technique Description": {},
+      "Instructions": {}
+    }
+  }
+}
+
+
+Note that I removed the introduction, conclusion, and numberings, and only kept the no-code element names and their corresponding parameter specifications.

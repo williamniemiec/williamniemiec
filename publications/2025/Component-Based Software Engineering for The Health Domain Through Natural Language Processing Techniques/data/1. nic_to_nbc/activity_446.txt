@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Memory Stimulation": {
+    "parameters": {
+      "Photo/Scrapbook Upload": {"type": "file upload"},
+      "Memory Prompt": {"type": "text"},
+      "Reflection Response": {"type": "text"},
+      "Emotion Identification": {"type": "options"},
+      "Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"type": "datetime"}
+    }
+  }
+}

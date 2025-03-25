@@ -1,0 +1,1 @@
+I'm ready to process the input. However, I didn't receive any text in the specified format. Please provide the actual input text, and I'll extract the required information and convert it to a JSON output.

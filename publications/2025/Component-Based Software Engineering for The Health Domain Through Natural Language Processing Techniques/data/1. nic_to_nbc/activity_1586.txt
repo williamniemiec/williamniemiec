@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Relocation Symptom Monitoring": {
+    "Symptom Checklist": {},
+    "Frequency": {},
+    "Rating Scale": {},
+    "Trigger Threshold": {},
+    "Intervention": {},
+    "Resources": {}
+  }
+}

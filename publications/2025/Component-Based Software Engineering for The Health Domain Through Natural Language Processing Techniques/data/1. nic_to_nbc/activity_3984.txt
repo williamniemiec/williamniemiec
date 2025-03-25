@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Exercise Encouragement": {
+    "Parameters": {
+      "Exercise type": {"Type": "options"},
+      "Frequency": {"Type": "options"},
+      "Duration": {"Type": "text"},
+      "Intensity": {"Type": "options"},
+      "Tolerance": {"Type": "text"},
+      "Deadline date": {"Type": "datetime"},
+      "Tracking": {"Type": "boolean"}
+    }
+  }
+}

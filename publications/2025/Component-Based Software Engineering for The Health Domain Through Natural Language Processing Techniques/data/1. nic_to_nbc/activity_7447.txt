@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Instruction": {
+    "Parameters": {
+      "Medication Name": {"Type": "text"},
+      "Instruction": {"Type": "text"},
+      "Missed Dose Instruction": {"Type": "text"},
+      "Frequency": {"Type": "options", "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Timing": {"Type": "text"}
+    }
+  }
+}

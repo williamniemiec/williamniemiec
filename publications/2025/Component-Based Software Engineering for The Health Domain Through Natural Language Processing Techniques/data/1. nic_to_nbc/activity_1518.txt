@@ -1,0 +1,17 @@
+
+
+
+{
+    "Safety Measure Tracker": {
+        "parameters": {
+            "name": "Safety Measure Tracker",
+            "description": "Record use of safety measures such as side rails",
+            "type": ["table", "list"],
+            "required": true,
+            "safety_measure": "options",
+            "usage_details": "text",
+            "date": "datetime",
+            "notes": "text"
+        }
+    }
+}

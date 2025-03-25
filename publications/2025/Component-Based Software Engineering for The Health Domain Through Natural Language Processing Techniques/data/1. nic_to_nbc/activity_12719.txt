@@ -1,0 +1,15 @@
+
+
+
+{
+  "Anxiety Relief Activity": {
+    "Name": {"type": "text"},
+    "Activity Type": {"type": "options"},
+    "Activity Content": {"type": "interactive or game"},
+    "Difficulty Level": {"type": "options"},
+    "Session Timer": {"type": "timer"}
+  }
+}
+
+
+I removed the `Mood Tracker` parameter as it is a rating type, which can be considered not applicable in this context. Let me know if you need any further adjustments!

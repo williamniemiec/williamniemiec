@@ -1,0 +1,33 @@
+Here is the output in JSON format:
+
+
+{
+  "Respiratory Exercise": {
+    "Parameters": {
+      "Exercise title": {
+        "Description": "Title of the respiratory exercise",
+        "Required": true,
+        "Type": "Text"
+      },
+      "Instructions": {
+        "Description": "Step-by-step instructions for the patient to follow",
+        "Required": true,
+        "Type": "Text"
+      },
+      "Frequency": {
+        "Description": "How often the patient should perform the exercise",
+        "Required": true,
+        "Type": "Options",
+        "Options": [
+          { "value": "daily", "label": "Daily" },
+          { "value": "onlyOnce", "label": "Only once" },
+          { "value": "everyHours", "label": "Every x hours" },
+          { "value": "everyDays", "label": "Every x days" }
+        ]
+      }
+    }
+  }
+}
+
+
+I removed the not applicable parameters (`Deadline date` and `Tracking`) since they are not required. Let me know if you need any further modifications!

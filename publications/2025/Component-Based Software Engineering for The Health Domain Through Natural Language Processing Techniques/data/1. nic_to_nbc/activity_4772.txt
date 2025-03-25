@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Infant Car Safety Guide": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Car Seat Safety": {"Type": "list of text and images"},
+      "Vehicle Safety Features": {"Type": "list of text and images"},
+      "Safe Travel Tips": {"Type": "list of text and images"},
+      "Videos and Images": {"Type": "list of video and image files"},
+      "Interactive Quizzes": {"Type": "quiz with multiple-choice questions"},
+      "Frequency": {"Type": "options", "Options": ["daily", "every other day", "weekly", etc.]},
+      "Car Seat Inspection": {"Type": "checklist with input fields for date and completion status"},
+      "Safe Travel Planner": {"Type": "planner with input fields for trip details, break schedules, and safety checks"}
+    }
+  }
+}

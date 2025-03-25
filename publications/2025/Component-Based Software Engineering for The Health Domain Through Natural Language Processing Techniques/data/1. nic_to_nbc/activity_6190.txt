@@ -1,0 +1,29 @@
+Here is the output in JSON format:
+
+
+{
+  "Guide": {
+    "parameters": {
+      "name": "",
+      "pages": [],
+      "images": [],
+      "videos": []
+    }
+  },
+  "Task": {
+    "parameters": {
+      "name": "",
+      "content": "",
+      "frequency": "",
+      "deadline_date": ""
+    }
+  },
+  "Checklist": {
+    "parameters": {
+      "name": "",
+      "items": [],
+      "frequency": "",
+      "deadline_date": ""
+    }
+  }
+}

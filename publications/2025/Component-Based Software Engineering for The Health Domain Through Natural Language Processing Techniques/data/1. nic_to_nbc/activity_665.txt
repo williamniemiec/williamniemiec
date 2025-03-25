@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+    "Personalized Greeting": {
+        "Patient name": "",
+        "Greeting message": ""
+    },
+    "Customized Communication": {
+        "Patient name": "",
+        "Communication template": "",
+        "Communication channel": []
+    },
+    "Family Portal": {
+        "Patient name": "",
+        "Portal content": "",
+        "Access controls": []
+    }
+}

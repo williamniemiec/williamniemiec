@@ -1,0 +1,31 @@
+Here is the output in JSON format:
+
+
+{
+    "Read Aloud Option": {
+        "name": "Read Aloud Option",
+        "read_aloud": "options (e.g., yes, no)",
+        "reason": "text field for the patient to explain why they need the read aloud option"
+    },
+    "Literature Audio": {
+        "name": "Literature Audio",
+        "literature_title": "text field for the literature title",
+        "audio_file": "audio file of the literature",
+        "audio_description": "text field for the audio description"
+    },
+    "Accessibility Needs": {
+        "name": "Accessibility Needs",
+        "accessibility_need": "options (e.g., visual impairment, dyslexia, language barrier)",
+        "description": "text field for the patient to describe their accessibility needs"
+    },
+    "Read Aloud Feasibility": {
+        "name": "Read Aloud Feasibility",
+        "feasibility": "options (e.g., yes, no)",
+        "reason": "text field for the reason why the read aloud option is not feasible"
+    },
+    "Patient Preference": {
+        "name": "Patient Preference",
+        "preference": "options (e.g., yes, no)",
+        "reason": "text field for the reason why the patient prefers the read aloud option"
+    }
+}

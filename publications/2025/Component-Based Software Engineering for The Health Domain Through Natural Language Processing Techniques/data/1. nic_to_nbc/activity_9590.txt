@@ -1,0 +1,10 @@
+
+
+
+{
+  "Target Date": {
+    "Contract/Agreement": {"type": "text"},
+    "Target Date": {"type": "date"},
+    "Reminder": {"type": "boolean"}
+  }
+}

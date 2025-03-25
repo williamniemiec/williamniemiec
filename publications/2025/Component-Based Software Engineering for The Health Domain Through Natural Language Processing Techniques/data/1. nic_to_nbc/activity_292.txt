@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+{
+  "Information Dosing": {
+    "parameters": [
+      {"name": "Information Content", "type": "text or HTML"},
+      {"name": "Dosing Frequency", "options": ["daily", "everyOtherDay", "everyFewDays", "weekly"]},
+      {"name": "Dosing Amount", "type": "text or numeric value"},
+      {"name": "Rest Period Duration", "type": "numeric value"}
+    ]
+  }
+}

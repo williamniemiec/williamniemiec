@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+    "Medical History Questionnaire": {
+        "Parameters": {
+            "Questions": ["Do you have a clotting problem (e.g. hemophilia)?", "Are you taking any medications that affect clotting (e.g. warfarin, aspirin)?"],
+            "Answer type": ["Boolean (yes/no)", "text (for specifying the condition or medication)"],
+            "Frequency": ["Only once"]
+        }
+    },
+    "Medication List": {
+        "Parameters": {
+            "Medication list": ["A list of medications the patient is currently taking"],
+            "Medication details": ["Additional information about each medication, such as dosage and frequency"],
+            "Clotting risk": ["A flag or indicator to highlight medications that may affect clotting"]
+        }
+    }
+}

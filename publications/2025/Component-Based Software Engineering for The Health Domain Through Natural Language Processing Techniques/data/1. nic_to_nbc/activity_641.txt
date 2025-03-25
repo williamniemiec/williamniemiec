@@ -1,0 +1,33 @@
+Here is the output in JSON format:
+
+
+{
+  "Muscle Strength Assessment": {
+    "parameters": {
+      "Muscle Strength": {
+        "type": "options",
+        "options": ["normal", "weak", "very weak"]
+      },
+      "Ankle Movement": {
+        "type": "options",
+        "options": ["normal", "limited", "unable to move"]
+      },
+      "Foot Movement": {
+        "type": "options",
+        "options": ["normal", "limited", "unable to move"]
+      },
+      "Frequency": {
+        "type": "options",
+        "options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+      },
+      "Deadline Date": {
+        "type": "datetime"
+      },
+      "Notes": {
+        "type": "text"
+      }
+    }
+  }
+}
+
+Let me know if this meets your requirements!

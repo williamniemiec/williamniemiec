@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "noCodeElementName": "Question Prompt",
+  "parameters": {
+    "Question": "",
+    "Topic": "",
+    "Resources": []
+  }
+}

@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "Postprocedure Care": {
+    "parameters": {
+      "name": { "description": "title of the postprocedure care instructions", "required": true, "type": "text" },
+      "instructions": { "description": "detailed instructions for postprocedure care", "required": true, "type": "text" },
+      "medication": { "description": "medication instructions for postprocedure care", "required": false, "type": "text" },
+      "activity_level": { 
+        "description": "restrictions on physical activity after the procedure", 
+        "required": false, 
+        "type": "options", 
+        "options": [
+          { "value": "rest", "label": "Rest" },
+          { "value": "limited_activity", "label": "Limited Activity" },
+          { "value": "normal_activity", "label": "Normal Activity" }
+        ]
+      },
+      "follow_up": { "description": "instructions for follow-up appointments or tests", "required": false, "type": "text" },
+      "deadline_date": { "description": "due date for completing postprocedure care instructions", "required": false, "type": "datetime" }
+    }
+  }
+}

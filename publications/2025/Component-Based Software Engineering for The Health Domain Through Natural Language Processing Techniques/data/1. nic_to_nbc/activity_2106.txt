@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+  "Positioning Guide": {
+    "parameters": {
+      "Parameter 1": {
+        "description": "Provide step-by-step instructions for positioning to facilitate adequate ventilation",
+        "required": true,
+        "type": "text"
+      },
+      "Parameter 2": {
+        "description": "Provide visual guidance (images or videos) to demonstrate proper positioning",
+        "required": false,
+        "type": "media (image or video)"
+      },
+      "Parameter 3": {
+        "description": "Specify how often patients should be reminded to position themselves for adequate ventilation",
+        "required": true,
+        "type": "options (e.g., daily, every 2 hours, every 4 hours)"
+      }
+    }
+  }
+}
+
+
+I removed `Deadline Date` as it's not applicable since its required field is set to false. Let me know if you need anything else!

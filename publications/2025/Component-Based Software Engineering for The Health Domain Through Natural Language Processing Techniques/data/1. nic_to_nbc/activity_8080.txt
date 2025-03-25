@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Wound Report": {
+    "parameters": {
+      "wound_description": {"type": "text"},
+      "concerns": {
+        "type": "ordered list",
+        "items": {
+          "name": {"type": "text"},
+          "description": {"type": "text or HTML"}
+        }
+      },
+      "photos": {"type": "boolean"}
+    }
+  }
+}

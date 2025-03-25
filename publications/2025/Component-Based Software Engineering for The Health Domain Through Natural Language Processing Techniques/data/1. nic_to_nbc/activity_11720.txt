@@ -1,0 +1,44 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Guided Process",
+    "parameters": [
+        {
+            "name": "Step-by-Step Instructions",
+            "type": "text"
+        },
+        {
+            "name": "Visual Aids",
+            "type": "media",
+            "options": [
+                { value: "image", label: "Image" },
+                { value: "video", label: "Video" },
+                { value: "diagram", label: "Diagram" }
+            ]
+        },
+        {
+            "name": "Interactive Elements",
+            "type": "interactive element",
+            "options": [
+                { value: "quiz", label: "Quiz" },
+                { value: "game", label: "Game" },
+                { value: "simulation", label: "Simulation" }
+            ]
+        },
+        {
+            "name": "Progress Tracking",
+            "type": "boolean"
+        },
+        {
+            "name": "Frequency",
+            "type": "options",
+            "options": [
+                { value: "daily", label: "Daily" },
+                { value: "onlyOnce", label: "Only Once" },
+                { value: "everyHours", label: "Every x Hours" },
+                { value: "everyDays", label: "Every x Days" }
+            ]
+        }
+    ]
+}

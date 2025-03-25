@@ -1,0 +1,41 @@
+Here is the output in JSON format:
+
+
+{
+  "Goal Setter": {
+    "parameters": {
+      "Goal Category": {
+        "type": "options",
+        "options": [
+          {"value": "physical", "label": "Physical"},
+          {"value": "emotional", "label": "Emotional"},
+          {"value": "social", "label": "Social"},
+          {"value": "other", "label": "Other (please specify)"}
+        ]
+      },
+      "Goal Statement": {
+        "type": "text"
+      },
+      "Goal Priority": {
+        "type": "options",
+        "options": [
+          {"value": "high", "label": "High"},
+          {"value": "medium", "label": "Medium"},
+          {"value": "low", "label": "Low"}
+        ]
+      },
+      "Care Team Input": {
+        "type": "text"
+      },
+      "Mutual Agreement": {
+        "type": "boolean"
+      },
+      "Goal Deadline": {
+        "type": "datetime"
+      }
+    }
+  }
+}
+
+
+Let me know if this is what you were expecting!

@@ -1,0 +1,36 @@
+Here is the output in JSON format:
+
+
+{
+  "Tips List": {
+    "Parameters": {
+      "Title": {
+        "Type": "text",
+        "Required": true
+      },
+      "Tips": {
+        "Type": "list of tip objects",
+        "Required": true,
+        "Tip Object": {
+          "Parameters": {
+            "Title": {
+              "Type": "text",
+              "Required": true
+            },
+            "Content": {
+              "Type": "text",
+              "Required": true
+            },
+            "Image": {
+              "Type": "image file",
+              "Required": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
+
+Let me know if this meets your requirements!

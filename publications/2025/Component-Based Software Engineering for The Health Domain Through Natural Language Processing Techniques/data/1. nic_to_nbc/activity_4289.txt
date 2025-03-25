@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+{
+  "Rest": {
+    "parameters": [
+      {
+        "name": "Duration",
+        "type": "text"
+      },
+      {
+        "name": "Frequency",
+        "type": "options"
+      },
+      {
+        "name": "Instructions",
+        "type": "text"
+      }
+    ]
+  }
+}
+
+I removed the `Deadline Date` parameter since it was marked as not applicable (i.e., `required`: `false`). Let me know if this is correct!

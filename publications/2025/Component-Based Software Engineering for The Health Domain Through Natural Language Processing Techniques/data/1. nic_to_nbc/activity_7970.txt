@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Conversation Guide",
+  "parameters": [
+    {
+      "name": "Topic",
+      "type": "text"
+    },
+    {
+      "name": "Conversation prompts",
+      "type": "list of text"
+    },
+    {
+      "name": "Response type",
+      "type": "options"
+    },
+    {
+      "name": "Resources",
+      "type": "multimedia"
+    },
+    {
+      "name": "Frequency",
+      "type": "options"
+    }
+  ]
+}

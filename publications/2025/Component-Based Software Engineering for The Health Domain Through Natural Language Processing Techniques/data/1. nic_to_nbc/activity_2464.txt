@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Device Selection Guide": {
+    "parameters": {
+      "name": "Device Selection Guide",
+      "description": "Select an appropriate type of patient-controlled infusion device",
+      "options": [
+        {"label": "Option 1: PCA Pump", "description": "Description of PCA Pump"},
+        {"label": "Option 2: Epidural Pump", "description": "Description of Epidural Pump"},
+        {"label": "Option 3: Other (please specify)", "description": "Description of Other option"}
+      ],
+      "selection": "Single Select",
+      "notes": "Text"
+    }
+  }
+}

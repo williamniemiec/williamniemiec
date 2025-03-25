@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+  "Reference Consultation": {
+    "parameters": {
+      "Reference Material": {
+        "type": "options",
+        "options": [
+          {"value": "PDR", "label": "Physician's Desk Reference"},
+          {"value": "Other", "label": "Other reference materials (please specify)"}
+        ]
+      },
+      "Search Criteria": {
+        "type": "text",
+        "example": "Medication name, dosage, and potential interactions"
+      },
+      "Search Results": {
+        "type": "text"
+      },
+      "Notes": {
+        "type": "text"
+      }
+    }
+  }
+}

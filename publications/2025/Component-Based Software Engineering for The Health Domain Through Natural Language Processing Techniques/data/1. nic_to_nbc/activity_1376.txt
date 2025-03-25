@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+  "Message": {
+    "Parameters": {
+      "Message template": {"Type": "text"},
+      "Recipient": {"Type": "user ID or username"},
+      "Frequency": {"Type": "options"},
+      "Response type": {"Type": "options"}
+    }
+  },
+  "Resource": {
+    "Parameters": {
+      "Resource type": {"Type": "options"},
+      "Resource content": {"Type": "text or URL"},
+      "Access control": {
+        "Type": "object",
+        "Properties": {
+          "roles": {"Type": "list of strings"},
+          "permissions": {"Type": "list of strings"}
+        }
+      }
+    }
+  }
+}

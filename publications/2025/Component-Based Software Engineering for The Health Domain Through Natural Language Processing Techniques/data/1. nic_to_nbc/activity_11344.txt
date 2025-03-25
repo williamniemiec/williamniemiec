@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Education",
+  "parameters": [
+    {
+      "name": "Title",
+      "type": "text"
+    },
+    {
+      "name": "Content",
+      "type": "html"
+    },
+    {
+      "name": "Reporting Criteria",
+      "type": "html"
+    },
+    {
+      "name": "Resources",
+      "type": "list",
+      "list_type": "links"
+    }
+  ]
+}

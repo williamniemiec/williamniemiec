@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Clinical Dashboard": {
+        "Data Sources": {"type": ["text", "options"]},
+        "Data Types": {"type": ["text", "options"]},
+        "Summary Metrics": {"type": ["text", "options"]},
+        "Trend Analysis": {"type": ["text", "options"]},
+        "Visualization": {"type": ["text", "options"]},
+        "Update Frequency": {"type": ["options"]}
+    }
+}

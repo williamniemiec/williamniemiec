@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Potassium Infusion Tracker": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Dose": {"Type": "number"},
+      "Time": {"Type": "datetime"},
+      "Total Daily Dose": {"Type": "calculated value"},
+      "Warning Threshold": {"Type": "number"},
+      "Alert": {"Type": "boolean"}
+    }
+  }
+}

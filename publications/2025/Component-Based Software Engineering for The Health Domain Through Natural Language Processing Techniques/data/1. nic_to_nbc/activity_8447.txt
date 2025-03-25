@@ -1,0 +1,39 @@
+Here is the output JSON:
+
+
+{
+    "name": "Reflection Exercise",
+    "parameters": [
+        {
+            "name": "Prompt",
+            "type": "text"
+        },
+        {
+            "name": "Reflection Type",
+            "type": "options",
+            "options": [
+                { value: "writing" },
+                { value: "drawing" },
+                { value: "audio recording" }
+            ]
+        },
+        {
+            "name": "Guided Questions",
+            "type": "list of text"
+        },
+        {
+            "name": "Frequency",
+            "type": "options",
+            "options": [
+                { value: "daily" },
+                { value: "onlyOnce" },
+                { value: "everyHours" },
+                { value: "everyDays" }
+            ]
+        },
+        {
+            "name": "Deadline Date",
+            "type": "datetime"
+        }
+    ]
+}

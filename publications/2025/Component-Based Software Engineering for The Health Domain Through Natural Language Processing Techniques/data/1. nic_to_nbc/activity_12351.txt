@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Support Circle": {
+    "Topic Categories": {"Type": "options"},
+    "Matching Algorithm": {"Type": "internal algorithm"},
+    "Discussion Forum": {"Type": "internal feature or integration with existing platforms"},
+    "Moderation": {"Type": "internal feature or integration with existing platforms"},
+    "Frequency": {"Type": "options"},
+    "Deadline Date": {"Type": "datetime"}
+  }
+}
+
+
+I removed all unnecessary text and only kept the `{{ NO-CODE ELEMENT NAME }}` ("Support Circle") and the `{{ PARAMETER ESPECIFICATIONS }}`. I also formatted the output as a JSON object. Let me know if this is what you were looking for!

@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+  "Self-Care Assessment": {
+    "Parameters": {
+      "Questions": {
+        "Type": "form",
+        "Options": ["multiple-choice", "Likert scale", "open-ended text"]
+      },
+      "Frequency": {
+        "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+      },
+      "Deadline Date": {
+        "Type": "datetime"
+      },
+      "Name": {
+        "Type": "text"
+      }
+    }
+  }
+}

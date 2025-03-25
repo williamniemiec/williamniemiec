@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Attention Exercise": {
+    "parameters": {
+      "name": {"type": "text"},
+      "description": {"type": "text"},
+      "affected_side": {"type": "options", "options": ["left", "right", "both"]},
+      "compensation_level": {"type": "options", "options": ["minimal", "moderate", "significant"]},
+      "attention_steps": {"type": ["list", "text"]},
+      "frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "duration": {"type": ["text", "number"]}
+    }
+  }
+}

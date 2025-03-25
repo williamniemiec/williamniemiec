@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+    "Resource": {
+        "name": "",
+        "description": "",
+        "links": [],
+        "location": ""
+    },
+    "Notification": {
+        "name": "",
+        "message": "",
+        "frequency": "",
+        "deadline_date": ""
+    },
+    "Survey": {
+        "name": "",
+        "questions": [],
+        "answer type": []
+    }
+}
+
+
+Note: I removed the not applicable parameters and kept only the specified parameters for each no-code element.

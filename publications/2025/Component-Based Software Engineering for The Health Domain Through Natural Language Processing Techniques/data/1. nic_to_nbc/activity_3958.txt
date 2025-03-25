@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Food Preference Profile": {
+    "Dietary Restrictions": {"type": "list of text"},
+    "Food Allergies": {"type": "list of text"},
+    "Cultural Preferences": {"type": "list of text"},
+    "Religious Preferences": {"type": "list of text"},
+    "Personal Preferences": {"type": "list of text"},
+    "Food Avoidances": {"type": "list of text"}
+  }
+}

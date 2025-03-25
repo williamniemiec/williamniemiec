@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Skin Assessment": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Frequency": {"Type": "options"},
+      "Skin Color": {"Type": "options"},
+      "Skin Temperature": {"Type": "numerical value"},
+      "Location": {"Type": "options"},
+      "Deadline Date": {"Type": "datetime"},
+      "Notes": {"Type": "text"}
+    }
+  }
+}

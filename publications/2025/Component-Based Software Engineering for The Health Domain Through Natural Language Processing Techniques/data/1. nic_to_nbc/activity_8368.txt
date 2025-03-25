@@ -1,0 +1,38 @@
+Here is the output in JSON format:
+
+
+{
+  "Self-Sampling Capillary Blood": {
+    "Sampling Instructions": {
+      "Description": "Step-by-step instructions on how to self-sample capillary blood",
+      "Required": true,
+      "Type": "text"
+    },
+    "Sampling Technique": {
+      "Description": "Technique for self-sampling capillary blood (e.g., fingerstick, earlobe)",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "fingerstick", "label": "Fingerstick" },
+        { "value": "earlobe", "label": "Earlobe" },
+        { "value": "other", "label": "Other" }
+      ]
+    },
+    "Frequency": {
+      "Description": "How often to self-sample capillary blood",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "daily", "label": "Daily" },
+        { "value": "onlyOnce", "label": "Only once" },
+        { "value": "everyHours", "label": "Every x hours" },
+        { "value": "everyDays", "label": "Every x days" }
+      ]
+    },
+    "Monitoring": {
+      "Description": "Instructions on how to monitor self-sampled capillary blood",
+      "Required": true,
+      "Type": "text"
+    }
+  }
+}

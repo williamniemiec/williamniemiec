@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Odor Reduction Guide",
+    "parameters": [
+        { 
+            "name": "Odor Reduction Tips", 
+            "type": "ordered list"
+        },
+        { 
+            "name": "Product Recommendations", 
+            "type": "text or link"
+        },
+        { 
+            "name": "Lifestyle Changes", 
+            "type": "text or multimedia"
+        },
+        { 
+            "name": "Hygiene Practices", 
+            "type": "text or multimedia"
+        },
+        { 
+            "name": "Resources", 
+            "type": "text or link"
+        }
+    ]
+}

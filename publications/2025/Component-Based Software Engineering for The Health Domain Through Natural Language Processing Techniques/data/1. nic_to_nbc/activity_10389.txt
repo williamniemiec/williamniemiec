@@ -1,0 +1,35 @@
+Here is the output in JSON format:
+
+
+{
+  "Examination Scheduling": {
+    "Examination Type": {
+      "Description": "Type of examination to be scheduled (e.g. newborn examination, postpartal examination, etc.)",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "newbornExamination", "label": "Newborn Examination" },
+        { "value": "postpartalExamination", "label": "Postpartal Examination" }
+      ]
+    },
+    "Schedule": {
+      "Description": "Schedule for the examination, including date and time",
+      "Required": true,
+      "Type": "datetime"
+    },
+    "Provider Information": {
+      "Description": "Contact information and details of the healthcare provider",
+      "Required": true,
+      "Type": "object",
+      "Object": {
+        "name": "text",
+        "phone": "phone number",
+        "email": "email address",
+        "address": "text"
+      }
+    }
+  }
+}
+
+
+I removed the parameters that are not applicable (i.e., `Reminders` and `Resources`) as per your request. Let me know if you need any further assistance!

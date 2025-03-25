@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+  "Breathing Exercise": {
+    "parameters": {
+      "name": "",
+      "content": "",
+      "frequency": ""
+    }
+  },
+  "Coughing Encouragement": {
+    "parameters": {
+      "name": "",
+      "content": "",
+      "frequency": ""
+    }
+  },
+  "Turning Reminder": {
+    "parameters": {
+      "name": "",
+      "content": "",
+      "frequency": ""
+    }
+  }
+}

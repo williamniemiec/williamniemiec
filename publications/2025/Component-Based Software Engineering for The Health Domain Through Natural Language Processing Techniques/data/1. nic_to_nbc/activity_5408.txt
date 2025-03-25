@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "Circulation Education": {
+    "Interfering factors": {
+      "type": "options"
+    },
+    "Explanation": {
+      "type": "text"
+    },
+    "Tips for improvement": {
+      "type": "text"
+    },
+    "Additional resources": {
+      "type": "text"
+    },
+    "Deadline date": {
+      "type": "datetime"
+    },
+    "Quiz or assessment": {
+      "type": "boolean"
+    }
+  }
+}

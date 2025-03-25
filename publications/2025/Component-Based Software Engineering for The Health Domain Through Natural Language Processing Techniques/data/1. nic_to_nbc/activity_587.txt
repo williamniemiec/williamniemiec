@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Diuretic Administration": {
+    "Parameters": {
+      "Diuretic Name": {},
+      "Dosage": {},
+      "Frequency": {},
+      "Deadline Date": {}
+    }
+  }
+}

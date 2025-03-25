@@ -1,0 +1,41 @@
+Here is the output in JSON format:
+
+
+{
+  "Legal/Ethical Considerations": {
+    "Jurisdiction": {
+      "type": "options",
+      "options": [
+        { "value": "USA", "label": "United States" },
+        { "value": "Canada", "label": "Canada" },
+        { "value": "EU", "label": "European Union" },
+        { "value": "other", "label": "Other (please specify)" }
+      ]
+    },
+    "Legal Framework": {
+      "type": "text"
+    },
+    "Ethical Principles": {
+      "type": "list of principles",
+      "examples": [
+        { "value": "autonomy", "label": "Respect for Patient Autonomy" },
+        { "value": "confidentiality", "label": "Confidentiality and Privacy" },
+        { "value": "beneficence", "label": "Beneficence and Non-Maleficence" }
+      ]
+    },
+    "Visitation Rights": {
+      "type": "text"
+    },
+    "Information Rights": {
+      "type": "text"
+    },
+    "Special Considerations": {
+      "type": "list of considerations",
+      "examples": [
+        { "value": "minors", "label": "Minors and Pediatric Patients" },
+        { "value": "incapacitated", "label": "Incapacitated or Unconscious Patients" },
+        { "value": "endOfLife", "label": "End-of-Life Care and Decision-Making" }
+      ]
+    }
+  }
+}

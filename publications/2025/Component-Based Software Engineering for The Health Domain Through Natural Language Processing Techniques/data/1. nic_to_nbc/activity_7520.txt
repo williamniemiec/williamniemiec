@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+    "Mock Drill": {
+        "Parameters": {
+            "Name": {"Type": "text"},
+            "Instructions": {"Type": ["text", "multimedia"]},
+            "Frequency": {"Options": ["annually", "asAppropriate", "custom"]},
+            "Deadline Date": {"Type": "datetime"},
+            "Checklist": {"Type": "unordered list"},
+            "Resources": {"Type": ["links", "attachments", "embedded content"]}
+        }
+    }
+}

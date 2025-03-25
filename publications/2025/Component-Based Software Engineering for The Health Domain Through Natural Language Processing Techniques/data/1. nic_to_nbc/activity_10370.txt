@@ -1,0 +1,10 @@
+Here is the output in JSON format:
+
+
+{
+    "Communication Preference": {
+        "Method": {"Type": "options", "Options": ["verbal", "written", "lip reading", "American Sign Language", "other"]},
+        "Notes": {"Type": "text"},
+        "Frequency": {"Type": "options", "Options": ["daily", "weekly", "monthly", "onlyOnce"]}
+    }
+}

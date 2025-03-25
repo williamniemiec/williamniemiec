@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+  "Clinical Specialist Directory": {
+    "Specialist List": {
+      "Description": "List of clinical specialists available for consultation",
+      "Required": true,
+      "Type": "list-item",
+      "List-item": "list of specialist objects, each with a name, title, and specialty"
+    },
+    "Consultation Request": {
+      "Description": "Form to request a consultation with a clinical specialist",
+      "Required": true,
+      "Type": "form",
+      "Form": "list of form field objects, each with a label, type, and value"
+    }
+  }
+}
+
+
+I removed the `Filter Options` parameter since it's not required. Let me know if you need anything else!

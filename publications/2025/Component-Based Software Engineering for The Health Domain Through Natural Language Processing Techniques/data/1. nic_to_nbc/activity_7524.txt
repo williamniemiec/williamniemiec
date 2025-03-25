@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+    "Survey": {
+        "Parameters": {
+            "Questions": [],
+            "Frequency": ["daily", "everyHours", "everyDays"],
+            "Deadline Date": "datetime"
+        }
+    },
+    "Question": {
+        "Parameters": {
+            "Name": "",
+            "Answer Type": "",
+            "Frequency": ["daily", "everyHours", "everyDays"],
+            "Deadline Date": "datetime"
+        }
+    }
+}
+
+
+Note: I removed the not applicable parameters and kept only the relevant information. Let me know if you need any further modifications!

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Toileting Routine Guide": {
+        "Parameters": {
+            "Name": {"Type": "text"},
+            "Content": {"Type": ["text", "multimedia"]},
+            "Steps": {"Type": ["ordered list of text", "multimedia"]},
+            "Target Audience": {"Type": ["text", "selection"]},
+            "Frequency": {"Options": ["daily", "weekly", "monthly"]}
+        }
+    }
+}

@@ -1,0 +1,55 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Sexual History Assessment",
+  "parameters": [
+    {
+      "name": "Name",
+      "type": "text"
+    },
+    {
+      "name": "Questions",
+      "type": "form"
+    },
+    {
+      "name": "Answer Type",
+      "type": "options",
+      "options": [
+        { value: "text", label: "Text" },
+        { value: "checkbox", label: "Checkbox" },
+        { value: "dropdown", label: "Dropdown" }
+      ]
+    },
+    {
+      "name": "Frequency of Intercourse",
+      "type": "form"
+    },
+    {
+      "name": "Use of Spermicidal Lubricants",
+      "type": "checkbox"
+    },
+    {
+      "name": "Post-Coital Habits",
+      "type": "form"
+    },
+    {
+      "name": "Additional Information",
+      "type": "text"
+    },
+    {
+      "name": "Frequency",
+      "type": "options",
+      "options": [
+        { value: "daily", label: "Daily" },
+        { value: "onlyOnce", label: "Only once" },
+        { value: "everyHours", label: "Every x hours" },
+        { value: "everyDays", label: "Every x days" }
+      ]
+    },
+    {
+      "name": "Deadline Date",
+      "type": "datetime"
+    }
+  ]
+}

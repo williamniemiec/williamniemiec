@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Abuse Reporting": {
+    "Parameters": {
+      "Abuse Type": {"Type": "options"},
+      "Reporting Authority": {"Type": "options"},
+      "Report Content": {"Type": "text"},
+      "Reporting Method": {"Type": "options"},
+      "Urgency Level": {"Type": "options"},
+      "Follow-up": {"Type": "boolean"}
+    }
+  }
+}

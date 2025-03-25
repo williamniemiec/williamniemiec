@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Foam Wedge Placement": {
+    "Wedge Size": {"type": "options"},
+    "Chair Type": {"type": "options"},
+    "Placement Instructions": {"type": "text or multimedia"},
+    "Duration": {"type": "options"},
+    "Reminders": {"type": "boolean"}
+  }
+}
+
+
+Let me know if this meets your requirements!

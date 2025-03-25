@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+  "protocol": {
+    "parameters": {
+      "Name": {"type": "text"},
+      "Trigger": {"type": "text"},
+      "Steps": {
+        "type": "ordered list of steps",
+        "step_parameters": {
+          "Description": {"type": "text"},
+          "Action": {"type": "text"},
+          "Frequency": {"type": "options"},
+          "Deadline Date": {"type": "datetime"}
+        }
+      },
+      "Resources": {
+        "type": "list of resources",
+        "resource_parameters": {
+          "Type": {"type": "text"},
+          "Content": {"type": "varies depending on the resource type"}
+        }
+      }
+    }
+  }
+}

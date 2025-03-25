@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "Caregiver Grief Education": {
+    "Parameters": [
+      {"Name": {"Type": "text"}},
+      {"Grief Education Content": {"Type": "list of grief education topics", 
+                                "Topics": [
+                                  {"Name": {"Type": "text"}},
+                                  {"Description": {"Type": "text"}},
+                                  {"Content": {"Type": "text"}}
+                                ]
+                              }},
+      {"Caregiver Profile": {"Type": "caregiver profile object", 
+                          "Profile": [
+                            {"Name": {"Type": "text"}},
+                            {"Relationship": {"Type": "text"}}
+                          ]}},
+      {"Format": {"Type": "options", "Options": ["text", "video", "audio"]}},
+      {"Frequency": {"Type": "options", "Options": ["daily", "weekly", "monthly"]}}
+    ]
+  }
+}

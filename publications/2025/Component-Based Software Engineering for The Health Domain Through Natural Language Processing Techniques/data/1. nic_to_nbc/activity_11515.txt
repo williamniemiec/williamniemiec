@@ -1,0 +1,13 @@
+
+
+
+{
+    "name": "Pain Management Assistance",
+    "parameters": [
+        {"name": "Pain Assessment", "type": "numerical value or text"},
+        {"name": "Pain Management Options", "type": "list of text or multimedia"},
+        {"name": "Personalized Recommendations", "type": "text or list of text"},
+        {"name": "Pain Tracking", "type": "numerical value or text"},
+        {"name": "Education and Support", "type": "text or multimedia"}
+    ]
+}

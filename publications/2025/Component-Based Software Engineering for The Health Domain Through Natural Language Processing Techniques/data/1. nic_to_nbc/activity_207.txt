@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Symptom Reporting Instruction": {
+        "parameters": [
+            {"name": "symptoms", "description": "A list of specific symptoms to report"},
+            {"name": "rationale", "description": "An explanation of why these symptoms are important to report"},
+            {"name": "reporting_instructions", "description": "Instructions on how to report these symptoms"},
+            {"name": "frequency", "description": "How often the patient should report these symptoms"},
+            {"name": "deadline_date", "description": "The due date for reporting these symptoms"}
+        ]
+    }
+}

@@ -1,0 +1,50 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Extremity Protection",
+    "parameters": [
+        {
+            "name": "Protection Method",
+            "type": "options",
+            "options": [
+                { value: "sheepskin", label: "Sheepskin" },
+                { value: "footboard", label: "Footboard" },
+                { value: "bed cradle", label: "Bed Cradle" },
+                { value: "well-fitted shoes", label: "Well-Fitted Shoes" },
+                { value: "other", label: "Other (please specify)" }
+            ]
+        },
+        {
+            "name": "Affected Area",
+            "type": "options",
+            "options": [
+                { value: "feet", label: "Feet" },
+                { value: "lower legs", label: "Lower Legs" },
+                { value: "other", label: "Other (please specify)" }
+            ]
+        },
+        {
+            "name": "Instructions",
+            "type": "text or video"
+        },
+        {
+            "name": "Images/Videos",
+            "type": "image or video"
+        },
+        {
+            "name": "Frequency",
+            "type": "options",
+            "options": [
+                { value: "always", label: "Always" },
+                { value: "during bed rest", label: "During Bed Rest" },
+                { value: "during mobility", label: "During Mobility" },
+                { value: "other", label: "Other (please specify)" }
+            ]
+        },
+        {
+            "name": "Deadline Date",
+            "type": "datetime"
+        }
+    ]
+}

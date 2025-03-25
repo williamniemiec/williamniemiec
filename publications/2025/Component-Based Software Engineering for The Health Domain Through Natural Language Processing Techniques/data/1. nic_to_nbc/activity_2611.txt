@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "Symptom Checker": {
+    "parameters": [
+      {"name": "fluid_status", "description": "Have you experienced any fluid status changes?", "required": true, "type": "options"},
+      {"name": "pericardial_effusion", "description": "Have you experienced any pericardial effusion symptoms?", "required": true, "type": "options"},
+      {"name": "electrolyte_abnormalities", "description": "Have you experienced any electrolyte or metabolic abnormalities?", "required": true, "type": "options"},
+      {"name": "medications", "description": "Are you taking any medications that may affect capture and sensing?", "required": true, "type": "options"},
+      {"name": "tissue_inflammation", "description": "Have you experienced any tissue inflammation symptoms?", "required": true, "type": "options"},
+      {"name": "tissue_fibrosis", "description": "Have you experienced any tissue fibrosis symptoms?", "required": true, "type": "options"},
+      {"name": "tissue_necrosis", "description": "Have you experienced any tissue necrosis symptoms?", "required": true, "type": "options"}
+    ]
+  },
+  "Vital Sign Tracker": {
+    "parameters": [
+      {"name": "blood_pressure", "description": "Enter your blood pressure reading", "required": true, "type": "number"},
+      {"name": "heart_rate", "description": "Enter your heart rate reading", "required": true, "type": "number"},
+      {"name": "temperature", "description": "Enter your temperature reading", "required": true, "type": "number"},
+      {"name": "respiratory_rate", "description": "Enter your respiratory rate reading", "required": true, "type": "number"}
+    ]
+  }
+}

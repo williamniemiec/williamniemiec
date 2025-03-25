@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+    "Solution Instillation Guide": {
+        "Instillation Instruction": {"Description": "Description of the instillation instruction", "Type": "text"},
+        "Image/Video": {"Description": "Visual aid to help the patient understand the correct instillation technique", "Type": "image" or "video"},
+        "Solution Amount": {"Description": "Amount of solution to instill", "Type": "text"},
+        "Nostril Selection": {"Description": "Select the nostril to instill the solution", "Type": "options", "Options": [{"value": "uppermostNostril", "label": "Uppermost Nostril"}, {"value": "otherNostril", "label": "Other Nostril"}]},
+        "Frequency": {"Description": "Frequency of performing the instillation", "Type": "options", "Options": [{"value": "daily", "label": "Daily"}, {"value": "onlyOnce", "label": "Only once"}, {"value": "everyHours", "label": "Every x hours"}, {"value": "everyDays", "label": "Every x days"}]}
+    }
+}
+
+
+I removed the `Deadline Date` parameter since it's not required. Let me know if you need anything else!

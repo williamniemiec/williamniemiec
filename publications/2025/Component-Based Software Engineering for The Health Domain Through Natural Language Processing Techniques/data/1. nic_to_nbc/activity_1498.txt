@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "outcome_identification": {
+    "parameters": [
+      {"name": "patient_population"},
+      {"name": "intermediate_outcomes"},
+      {"name": "final_outcomes"},
+      {"name": "outcome_criteria"}
+    ]
+  }
+}

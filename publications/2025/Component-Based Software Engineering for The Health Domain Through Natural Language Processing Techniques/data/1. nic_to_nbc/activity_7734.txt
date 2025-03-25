@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Equipment Location": {
+    "parameters": [
+      {"name": "equipment 1", "description": "Enter the location of equipment 1 (e.g. first aid kit)", "required": true, "type": ["address", "map coordinates"]},
+      {"name": "equipment 2", "description": "Enter the location of equipment 2 (e.g. oxygen tank)", "required": false, "type": ["address", "map coordinates"]},
+      {"name": "equipment 3", "description": "Enter the location of equipment 3 (e.g. defibrillator)", "required": false, "type": ["address", "map coordinates"]},
+      {"name": "notes", "description": "Add any additional notes or instructions", "required": false, "type": "text"}
+    ]
+  }
+}

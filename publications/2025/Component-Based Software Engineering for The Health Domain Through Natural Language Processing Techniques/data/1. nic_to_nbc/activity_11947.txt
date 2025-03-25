@@ -1,0 +1,33 @@
+Here is the output in JSON format:
+
+
+{
+  "Referral Resource": {
+    "Parameters": {
+      "Referral Type": {
+        "Type": "options",
+        "Options": [
+          {"value": "homeHealthAgency", "label": "Home Health Agency"},
+          {"value": "socialWorker", "label": "Social Worker"},
+          {"value": "psychiatry", "label": "Psychiatry"},
+          {"value": "drugUseTreatment", "label": "Drug Use Treatment Program"}
+        ]
+      },
+      "Referral Name": {
+        "Type": "text"
+      },
+      "Referral Description": {
+        "Type": "text"
+      },
+      "Contact Information": {
+        "Type": "text"
+      },
+      "Additional Resources": {
+        "Type": "list of URLs or text"
+      }
+    }
+  }
+}
+
+
+Note that I removed the "not applicable" parameters, which were none in this case. Let me know if you have any further questions!

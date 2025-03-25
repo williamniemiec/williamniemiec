@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Stretching Exercise": {
+    "Parameters": {
+      "Name": {},
+      "Description": {},
+      "Exercise Type": {},
+      "Instructions": {},
+      "Frequency": {},
+      "Photos or Videos": {}
+    }
+  }
+}

@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Humor Highlighter": {
+    "Situation description": {"type": "text"},
+    "Incongruity detection": {"type": "boolean"},
+    "Humor commentary": {"type": "text"},
+    "Tone and style": {"type": "options", "options": ["sarcastic", "witty", "playful"]}
+  }
+}

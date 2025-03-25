@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Bowel Evacuation Establishment Instruction": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Bowel Evacuation Method": {"Type": "options"},
+      "Usage Instructions": {"Type": "text"},
+      "Frequency": {"Type": "options"},
+      "Deadline Date": {"Type": "datetime"},
+      "Additional Tips": {"Type": "text"}
+    }
+  }
+}

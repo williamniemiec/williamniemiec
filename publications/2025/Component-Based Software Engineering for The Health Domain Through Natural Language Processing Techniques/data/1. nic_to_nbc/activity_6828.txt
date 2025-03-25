@@ -1,0 +1,40 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Measurement",
+  "parameters": [
+    {
+      "name": "title",
+      "type": "text"
+    },
+    {
+      "name": "description",
+      "type": "text"
+    },
+    {
+      "name": "measurement_type",
+      "type": "text"
+    },
+    {
+      "name": "body_part",
+      "type": "text"
+    },
+    {
+      "name": "unit",
+      "type": "text"
+    },
+    {
+      "name": "instructions",
+      "type": "text"
+    },
+    {
+      "name": "image/video",
+      "type": "image" or "video"
+    },
+    {
+      "name": "landmark",
+      "type": "text"
+    }
+  ]
+}

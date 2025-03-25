@@ -1,0 +1,36 @@
+Here is the output in JSON format:
+
+
+{
+  "guide": {
+    "parameters": {
+      "name": {
+        "type": "text"
+      },
+      "pages": {
+        "type": "book-page",
+        "book-page": "list of HTML texts"
+      },
+      "prevention_steps": {
+        "type": "ordered list",
+        "steps": {
+          "remove_hazards": {
+            "type": "text"
+          },
+          "install_safety_devices": {
+            "type": "text"
+          },
+          "supervise": {
+            "type": "text"
+          },
+          "other": {
+            "type": "text"
+          }
+        }
+      },
+      "additional_resources": {
+        "type": "text"
+      }
+    }
+  }
+}

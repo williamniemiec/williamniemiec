@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Age-Specific Self-Care": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Age Range": {"Type": "range"},
+      "Self-Care Activities": {"Type": "unordered list", "Options": ["Pediatric self-care activities", "Adolescent self-care activities", "Adult self-care activities", "Geriatric self-care activities"]},
+      "Developmental Considerations": {"Type": "text"},
+      "Resources": {"Type": "text"},
+      "Caregiver Education": {"Type": "boolean"},
+      "Notes": {"Type": "text"}
+    }
+  }
+}
+
+
+Note that I removed the unnecessary parameters and kept only the relevant information. Let me know if you need any further assistance!

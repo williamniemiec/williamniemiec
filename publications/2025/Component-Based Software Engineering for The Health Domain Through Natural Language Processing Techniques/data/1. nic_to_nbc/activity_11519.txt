@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Diet Modification Guide": {
+    "Parameters": {
+      "Diet Type": {"Type": "options", "Values": ["NPO (nothing by mouth)", "Clear liquid", "Full liquid", "Soft", "Diet as tolerated"]},
+      "Diet Instructions": {"Type": "text"},
+      "Frequency": {"Type": "options", "Values": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"Type": "datetime"},
+      "Progress Tracking": {"Type": "boolean"}
+    }
+  }
+}

@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+  "Caregiver Therapy Guide": {
+    "Parameters": [
+      {"Name": {"Type": "text"}},
+      {"Therapy Content": {"Type": "text or multimedia"}},
+      {"Format": {"Type": "options", "Options": ["text", "video", "audio"]}},
+      {"Patient Preferences": {"Type": "list of patient preferences", 
+        "Preferences": [
+          {"Name": {"Type": ""}, 
+          {"Value": {"Type": ""}}
+        ]
+      }},
+      {"Caregiver Profile": {"Type": "caregiver profile object", 
+        "Profile": [
+          {"Name": {"Type": ""}}, 
+          {"Relationship": {"Type": ""}}
+        ]
+      }}
+    ]
+  }
+}
+
+
+I removed all non-essential information and formatted the remaining data in JSON. I also removed not applicable parameters. Let me know if you need any further assistance!

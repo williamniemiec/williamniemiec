@@ -1,0 +1,10 @@
+{
+  "name": "Privacy and Shared Space Management",
+  "description": "Focuses on privacy management in shared spaces. Includes the use of curtains, doors, and semi-closed spaces to ensure privacy, especially in shared living or working environments.",
+  "type": "non-periodic",
+  "input": ["Privacy", "Shared spaces", "Curtains", "Doors", "Semi-closed areas", "Privacy mode"],
+  "output": ["Privacy confirmation", "Space management plan", "Privacy-related feedback"],
+  "preconditions": ["User is in or managing a shared space"],
+  "postconditions": ["Enhanced privacy and better space management"],
+  "dependencies": ["Privacy management system", "Shared space tools"]
+}

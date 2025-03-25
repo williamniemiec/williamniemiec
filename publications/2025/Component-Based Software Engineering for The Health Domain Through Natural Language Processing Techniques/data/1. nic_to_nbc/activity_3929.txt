@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Cultural Attachment Guide": {
+    "Parameters": {
+      "Title": {"Type": "text"},
+      "Content": {"Type": "rich text or HTML"},
+      "Cultural Background": {"Type": "text"},
+      "Expressions of Attachment": {"Type": "list of text items"},
+      "Tips and Recommendations": {"Type": "list of text items"},
+      "Resources": {"Type": "list of URLs or text items"}
+    }
+  }
+}

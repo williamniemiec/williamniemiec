@@ -1,0 +1,35 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "reflection",
+    "parameters": [
+        {
+            "name": "prompt",
+            "type": "text"
+        },
+        {
+            "name": "answer type",
+            "type": "options",
+            "options": [
+                { value: "text" },
+                { value: "rating scale" },
+                { value: "multiple choice" }
+            ]
+        },
+        {
+            "name": "frequency",
+            "type": "options",
+            "options": [
+                { value: "daily" },
+                { value: "onlyOnce" },
+                { value: "everyHours" },
+                { value: "everyDays" }
+            ]
+        },
+        {
+            "name": "deadline date",
+            "type": "datetime"
+        }
+    ]
+}

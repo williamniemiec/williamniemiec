@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Activity Restrictions Guide": {
+    "Restricted Activities": {
+      "Type": "list of text or images"
+    },
+    "Allowed Activities": {
+      "Type": "list of text or images"
+    },
+    "Duration": {
+      "Type": "text or datetime"
+    },
+    "Reasoning": {
+      "Type": "text"
+    }
+  }
+}

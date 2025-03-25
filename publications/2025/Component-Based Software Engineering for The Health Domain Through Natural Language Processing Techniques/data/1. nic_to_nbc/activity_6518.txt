@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Prenatal History Review": {
+    "Parameters": {
+      "Pregnancy History": {"Type": "text or form with multiple fields"},
+      "Medical Conditions": {"Type": "text or form with multiple fields"},
+      "Medications": {"Type": "text or form with multiple fields"},
+      "Complications": {"Type": "text or form with multiple fields"},
+      "Previous Births": {"Type": "text or form with multiple fields"}
+    }
+  }
+}

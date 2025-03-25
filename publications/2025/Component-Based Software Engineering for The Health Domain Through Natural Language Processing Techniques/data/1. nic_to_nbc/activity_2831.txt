@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Consultation": {
+    "Parameters": {
+      "Medication": {"Type": "options"},
+      "Reason": {"Type": "text"},
+      "Physician": {"Type": "text"},
+      "Consultation Date": {"Type": "datetime"},
+      "Notes": {"Type": "text"}
+    }
+  },
+  "Consult Physician Task": {
+    "Parameters": {
+      "Task": {"Type": "text"},
+      "Due Date": {"Type": "datetime"},
+      "Physician": {"Type": "text"},
+      "Notes": {"Type": "text"}
+    }
+  }
+}

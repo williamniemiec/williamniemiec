@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Treatment Partner": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Role Definition": {"Type": "text or multimedia content"},
+      "Goal Setting": {"Type": "list of text or multimedia content"},
+      "Task Assignment": {"Type": "list of text or multimedia content"},
+      "Progress Tracking": {"Type": "options"},
+      "Education and Resources": {"Type": "list of text or multimedia content"},
+      "Communication": {"Type": "options"}
+    }
+  }
+}

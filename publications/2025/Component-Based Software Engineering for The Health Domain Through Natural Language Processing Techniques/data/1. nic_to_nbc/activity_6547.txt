@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Missed Dose Instruction": {
+        "parameters": [
+            {"Name": {"type": "text"}},
+            {"Content": {"type": "text"}},
+            {"Medication Name": {"type": "text"}},
+            {"Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]}},
+        ]
+    }
+}

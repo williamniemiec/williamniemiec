@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Notification": {
+        "name": "Tourniquet Time Notification",
+        "description": "Notify physician of tourniquet times at regular intervals, as per agency policy",
+        "content_type": "notification",
+        "notification_type": "physician notification",
+        "frequency": "at regular intervals",
+        "additional_info": "Please refer to agency policy for specific guidance on notification intervals"
+    }
+}

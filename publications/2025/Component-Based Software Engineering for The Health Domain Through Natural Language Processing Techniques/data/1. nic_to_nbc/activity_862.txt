@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Energy Balance Guide": {
+    "parameters": {
+      "name": {"type": "text"},
+      "description": {"type": "text"},
+      "tips": {"type": ["text", "multimedia"]}
+    }
+  }
+}

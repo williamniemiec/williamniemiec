@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Drainage Apparatus Maintenance": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Instructions": {"Type": "text or video"},
+      "Frequency": {"Type": "options", "Options": ["daily", "every12Hours", "every8Hours", "asNeeded"]},
+      "Checks": {"Type": "list"},
+      "Reminders": {"Type": "options", "Options": ["daily", "every12Hours", "every8Hours", "asNeeded"]}
+    }
+  }
+}

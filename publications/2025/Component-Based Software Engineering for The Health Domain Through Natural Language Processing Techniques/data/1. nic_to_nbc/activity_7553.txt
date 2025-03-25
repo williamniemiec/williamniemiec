@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+  "Nutrition Guide": {
+    "Parameters": {
+      "Title": {},
+      "Content": {},
+      "Nutrition Topics": {},
+      "Recommendations": {},
+      "Resources": {}
+    }
+  },
+  "Nutrition Planner": {
+    "Parameters": {
+      "Title": {},
+      "Meal Plans": {},
+      "Nutrition Tips": {},
+      "Supplement Guide": {},
+      "Food Safety": {}
+    }
+  }
+}

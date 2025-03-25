@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Care Plan Collaboration": {
+    "Parameters": {
+      "Care Team": {"Type": "list", "Members": ["physician", "nurse", "social worker", "family member", "caregiver"]},
+      "Care Plan": {"Type": "text or structured data"},
+      "Communication": {"Type": "messaging or video conferencing"},
+      "Task Assignment": {"Type": "task list"},
+      "Progress Tracking": {"Type": "dashboard or chart"},
+      "Resource Sharing": {"Type": "file sharing or link"}
+    }
+  }
+}

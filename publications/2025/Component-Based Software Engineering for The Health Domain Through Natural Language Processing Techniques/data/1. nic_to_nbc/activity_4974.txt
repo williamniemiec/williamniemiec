@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Food Diary": {
+    "parameters": {
+      "name": {"type": "text"},
+      "entry_fields": [
+        {"label": "Food Name", "type": "text"},
+        {"label": "Quantity", "type": "number"},
+        {"label": "Symptoms", "type": "text or options"}
+      ],
+      "entry_frequency": {"type": "text or datetime"}
+    }
+  }
+}
+
+
+Let me know if you need any further assistance!

@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Reaction Monitoring": {
+    "parameters": {
+      "Reaction Symptoms": {"type": "checklist"},
+      "Monitoring Frequency": {"type": "frequency"},
+      "Reaction Severity": {"type": "options"},
+      "Action Plan": {"type": "text"}
+    }
+  }
+}

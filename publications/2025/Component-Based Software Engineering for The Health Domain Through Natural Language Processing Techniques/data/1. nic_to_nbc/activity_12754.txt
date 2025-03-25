@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Safety Storage": {
+    "instruction title": {},
+    "Hazardous Items": [],
+    "Storage Location": {},
+    "Reason": {},
+    "Frequency": {}
+  }
+}

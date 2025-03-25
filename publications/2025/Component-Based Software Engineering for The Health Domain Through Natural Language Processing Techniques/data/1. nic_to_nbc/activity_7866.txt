@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Success Tracker": {
+    "Goal": {"Type": "text"},
+    "Successes": {"Type": "table"},
+    "Reflection Prompt": {"Type": "text"},
+    "Frequency": {"Type": "options", "Options": ["daily", "weekly", "monthly", "custom"]}
+  }
+}

@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "alert",
+    "parameters": [
+        { 
+            "name": "Name", 
+            "type": "text"
+        },
+        { 
+            "name": "Condition", 
+            "type": "text"
+        },
+        { 
+            "name": "Action", 
+            "type": "text"
+        },
+        { 
+            "name": "Contact", 
+            "type": "text"
+        }
+    ]
+}

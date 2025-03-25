@@ -1,0 +1,10 @@
+
+
+
+{
+  "De-escalation Techniques": {
+    "Trigger": {"Type": "options", "Required": true},
+    "Techniques": {"Type": "unordered list", "Required": true},
+    "Steps": {"Type": "ordered list", "Required": true}
+  }
+}

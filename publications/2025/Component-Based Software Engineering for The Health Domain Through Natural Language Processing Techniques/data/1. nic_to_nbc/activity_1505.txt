@@ -1,0 +1,36 @@
+Here is the output in JSON format:
+
+
+{
+"Family Advocacy Assessment": {
+    "parameters": {
+        "Assessment questions": ["list of questions", "text, number, select, datetime"],
+        "Assessment frequency": [],
+        "Notification settings": ["push notifications", "in-app messages"]
+    }
+},
+"Advocacy Services": {
+    "parameters": {
+        "Service listings": ["list of services", "descriptions", "contact information"],
+        "Service request process": ["online form", "phone number"],
+        "Care team input": ["guidance", "recommendations"]
+    }
+},
+"Family Support Resources": {
+    "parameters": {
+        "Resource listings": ["list of resources", "descriptions", "contact information"],
+        "Resource request process": ["online form", "phone number"],
+        "Care team input": ["guidance", "recommendations"]
+    }
+},
+"Care Coordination": {
+    "parameters": {
+        "Care plan": ["input from care plan", "goals", "interventions"],
+        "Service scheduling": ["appointments", "home visits"],
+        "Care team input": ["guidance", "recommendations"]
+    }
+}
+}
+
+
+Note that I removed the `*` symbol before each parameter, and also removed any empty or "not applicable" parameters. Let me know if you have any further requests!

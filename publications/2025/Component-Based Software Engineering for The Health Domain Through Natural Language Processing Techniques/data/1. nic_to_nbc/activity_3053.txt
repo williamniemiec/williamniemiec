@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Cold Therapy": {
+        "name": "",
+        "why": "",
+        "application_instructions": "",
+        "frequency": "",
+        "duration": "",
+        "notes": ""
+    }
+}

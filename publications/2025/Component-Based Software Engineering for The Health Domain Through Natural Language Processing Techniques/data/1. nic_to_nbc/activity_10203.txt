@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Resource Finder": {
+    "parameters": {
+      "Resource Type": {},
+      "Location": {},
+      "Filter": {}
+    }
+  }
+}

@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Developmental Play Equipment": {
+    "Age Range": {},
+    "Developmental Stage": {},
+    "Equipment Type": {},
+    "Skill Level": {},
+    "Learning Objectives": []
+  }
+}

@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+  "Injection Administration Guide": {
+    "Aseptic Technique": {
+      "Hand Hygiene": "",
+      "Gloving": "",
+      "Surface Disinfection": ""
+    },
+    "Injection Protocol": {
+      "Injection Site Preparation": "",
+      "Needle Insertion": "",
+      "Medication Administration": "",
+      "Needle Removal": ""
+    },
+    "Post-Injection Care": {
+      "Injection Site Care": "",
+      "Medication Monitoring": ""
+    }
+  }
+}

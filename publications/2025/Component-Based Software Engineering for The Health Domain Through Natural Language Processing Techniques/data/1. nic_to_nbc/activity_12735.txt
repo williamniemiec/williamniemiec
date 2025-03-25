@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+  "Mood Tracking": {
+    "parameters": [
+      {"name": "mood", "description": "Select your current mood", "required": true, "type": "options"},
+      {"name": "severity", "description": "Select severity of mood", "required": true, "type": "options"},
+      {"name": "frequency", "description": "Specify how often to track mood", "required": true, "type": "options"}
+    ]
+  },
+  "Cognitive Function Tracking": {
+    "parameters": [
+      {"name": "cognitive_function", "description": "Select your current cognitive function", "required": true, "type": "options"},
+      {"name": "severity", "description": "Select severity of cognitive function", "required": true, "type": "options"},
+      {"name": "frequency", "description": "Specify how often to track cognitive function", "required": true, "type": "options"}
+    ]
+  }
+}
+
+
+Let me know if this meets your requirements!

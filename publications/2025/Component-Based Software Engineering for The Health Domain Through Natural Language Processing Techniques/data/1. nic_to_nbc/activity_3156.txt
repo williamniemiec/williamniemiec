@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Break Reminder": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Trigger": {"Type": "text"},
+      "Frequency": {"Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Break Duration": {"Type": "text"},
+      "Break Activity": {"Type": "text"}
+    }
+  }
+}

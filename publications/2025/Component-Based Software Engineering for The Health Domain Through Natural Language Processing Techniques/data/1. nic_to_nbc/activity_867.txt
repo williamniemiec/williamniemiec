@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+  "Rest Plan": {
+    "parameters": {
+      "Rest Frequency": {"type": "options", "options": ["daily", "every 2 hours", "every 4 hours", "etc."]},
+      "Rest Duration": {"type": "options", "options": ["15 minutes", "30 minutes", "1 hour", "etc."]},
+      "Rest Schedule": {"type": "calendar"},
+      "Relaxation Techniques": {"type": "text"}
+    }
+  },
+  "Energy Level": {
+    "parameters": {
+      "Energy Level": {"type": "scale", "options": ["1-10"]}
+    }
+  },
+  "Fatigue Level": {
+    "parameters": {
+      "Fatigue Level": {"type": "scale", "options": ["1-10"]}
+    }
+  }
+}

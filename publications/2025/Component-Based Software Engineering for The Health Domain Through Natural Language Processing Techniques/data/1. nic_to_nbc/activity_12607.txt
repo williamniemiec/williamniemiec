@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Parental Care": {
+    "Parameters": {
+      "Care Activity": {},
+      "Frequency": {},
+      "Duration": {},
+      "Support Needed": {},
+      "Resources": {}
+    }
+  }
+}

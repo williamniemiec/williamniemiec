@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Weight Monitoring Education": {
+        "Parameters": {
+            "Weight Importance": {"Type": "text"},
+            "Why Monitor Weight": {"Type": "text"},
+            "How to Monitor Weight": {"Type": "text"},
+            "Additional Resources": {"Type": "text"}
+        }
+    }
+}

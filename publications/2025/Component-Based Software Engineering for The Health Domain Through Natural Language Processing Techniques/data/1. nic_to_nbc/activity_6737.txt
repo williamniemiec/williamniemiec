@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Massage Therapy": {
+    "Task Title": {},
+    "Affected Area": {},
+    "Massage Technique": {},
+    "Duration": {},
+    "Frequency": {}
+  }
+}
+
+
+I removed all unnecessary information and only kept the `{{ NO-CODE ELEMENT NAME }}` ("Massage Therapy") and `{{ PARAMETER ESPECIFICATIONS }}`. I also removed the "Deadline Date" parameter since it was marked as not required.

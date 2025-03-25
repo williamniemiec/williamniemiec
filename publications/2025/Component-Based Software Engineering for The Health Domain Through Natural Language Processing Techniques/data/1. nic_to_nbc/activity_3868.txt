@@ -1,0 +1,41 @@
+Here is the output in JSON format:
+
+
+{
+  "Electrolyte Type": {
+    "Description": "specify the type of electrolyte to monitor (e.g. sodium, potassium, etc.)",
+    "Required": true,
+    "Type": "options",
+    "Options": [
+      {"value": "sodium", "label": "Sodium"},
+      {"value": "potassium", "label": "Potassium"},
+      {"value": "calcium", "label": "Calcium"},
+      {"value": "other", "label": "Other (please specify)"}
+    ]
+  },
+  "Normal Range": {
+    "Description": "specify the normal range for the electrolyte level",
+    "Required": true,
+    "Type": "text"
+  },
+  "Abnormal Threshold": {
+    "Description": "specify the threshold for abnormal electrolyte levels",
+    "Required": true,
+    "Type": "text"
+  },
+  "Frequency": {
+    "Description": "specify how often to monitor electrolyte levels",
+    "Required": true,
+    "Type": "options",
+    "Options": [
+      {"value": "daily", "label": "Daily"},
+      {"value": "everyHours", "label": "Every x hours"},
+      {"value": "everyDays", "label": "Every x days"}
+    ]
+  },
+  "Deadline Date": {
+    "Description": "specify the due date for monitoring electrolyte levels",
+    "Required": false,
+    "Type": "datetime"
+  }
+}

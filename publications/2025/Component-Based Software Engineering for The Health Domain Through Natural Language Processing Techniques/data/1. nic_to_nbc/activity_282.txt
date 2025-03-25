@@ -1,0 +1,10 @@
+Here is the output in JSON format:
+
+
+{
+    "reward progression plan": {
+        "extrinsic rewards": {},
+        "intrinsic rewards": {},
+        "progression timeline": {}
+    }
+}

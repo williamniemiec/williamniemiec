@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Schedule": {
+        "Name": {"Type": "text"},
+        "Task": {"Type": "text", "Value": "Apply a clear dressing"},
+        "Interval": {"Type": "options", "Options": ["weekly", "or sooner if soiled, perforated, or the dressing is lifting off"]},
+        "Trigger": {"Type": "options", "Options": ["after initial 24 hours", "after previous dressing change", "always"]}
+    }
+}
+
+
+Let me know if this meets your requirements!

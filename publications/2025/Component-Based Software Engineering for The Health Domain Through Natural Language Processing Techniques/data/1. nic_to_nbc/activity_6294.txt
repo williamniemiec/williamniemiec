@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+  "Food Safety Education": {
+    "parameters": ["educational materials", "topic"]
+  },
+  "Food Preparation Guide": {
+    "parameters": ["guide content", "food type"]
+  },
+  "Food Storage Tips": {
+    "parameters": ["tip content", "food type"]
+  },
+  "Recipe Library": {
+    "parameters": ["recipe content", "food type"]
+  },
+  "Food Safety Quiz": {
+    "parameters": ["quiz questions", "answer options", "feedback content"]
+  }
+}

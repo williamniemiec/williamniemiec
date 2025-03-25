@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Parameters": {
+    "Trigger Identification": {"Type": "text"},
+    "Trigger Avoidance Plan": {"Type": "text"},
+    "Frequency": {"Type": "options"},
+    "Stress Trigger Avoidance": {}
+  }
+}

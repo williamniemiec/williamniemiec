@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Support System Assessment": {
+    "parameters": {
+      "question": {"type": "text"},
+      "answer_type": {"type": "options", "options": ["text", "number", "selection", "etc."]},
+      "options": {"type": "list of options"},
+      "follow_up_question": {"type": "text"}
+    }
+  }
+}

@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "NO-CODE ELEMENT NAME": null,
+  "PARAMETER ESPECIFICATIONS": {
+    "Assess the patient's unique needs and circumstances": "",
+    "Analyze complex data and medical history": "",
+    "Develop a personalized care plan": "",
+    "Make informed decisions about the critical path": ""
+  }
+}

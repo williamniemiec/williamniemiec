@@ -1,0 +1,13 @@
+
+
+
+{
+  "Decision-Making Challenges": {
+    "Challenge Levels": {"Type": "ordered list"},
+    "Decision-Making Scenarios": {"Type": "text or video"},
+    "Options": {"Type": "multiple-choice questions or interactive simulations"},
+    "Feedback": {"Type": "text or video"},
+    "Progress Tracking": {"Type": "progress bar or checklist"},
+    "Frequency": {"Options": ["daily", "onlyOnce", "everyHours", "everyDays"]}
+  }
+}

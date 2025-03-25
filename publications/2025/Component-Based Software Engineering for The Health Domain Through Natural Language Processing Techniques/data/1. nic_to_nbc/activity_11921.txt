@@ -1,0 +1,31 @@
+Here is the output in JSON format:
+
+
+{
+  "Exercise Activity": {
+    "Parameters": {
+      "Activity Type": {
+        "type": "options",
+        "options": ["running", "jumping", "dancing", "throwing a ball"]
+      },
+      "Duration": {
+        "type": "number"
+      },
+      "Frequency": {
+        "type": "options",
+        "options": ["daily", "every other day", "weekly"]
+      },
+      "Goal": {
+        "type": "text"
+      },
+      "Tracking": {
+        "type": "options",
+        "options": ["pedometer", "timer", "video recording"]
+      },
+      "Reward": {
+        "type": "options",
+        "options": ["points", "badges", "stickers"]
+      }
+    }
+  }
+}

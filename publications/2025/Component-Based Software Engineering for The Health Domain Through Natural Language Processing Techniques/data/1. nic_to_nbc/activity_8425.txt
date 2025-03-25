@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Lab Result Tracker": {
+    "lab_test": "",
+    "result": "",
+    "interpretation": "",
+    "reference_range": "",
+    "frequency": ""
+  }
+}

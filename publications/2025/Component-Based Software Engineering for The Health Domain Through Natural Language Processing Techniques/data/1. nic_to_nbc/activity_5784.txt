@@ -1,0 +1,29 @@
+Here is the output in JSON format:
+
+
+{
+  "Skin Condition Monitoring": {
+    "Parameters": {
+      "Name": {},
+      "Frequency": {
+        "options": [
+          {"value": "daily", "label": "Daily"},
+          {"value": "onlyOnce", "label": "Only once"},
+          {"value": "everyHours", "label": "Every x hours"},
+          {"value": "everyDays", "label": "Every x days"}
+        ]
+      },
+      "Deadline Date": {},
+      "Instructions": {},
+      "Skin Condition Assessment": {
+        "options": [
+          {"value": "normal", "label": "Normal"},
+          {"value": "dry", "label": "Dry"},
+          {"value": "itchy", "label": "Itchy"},
+          {"value": "red", "label": "Red"},
+          {"value": "other", "label": "Other (please specify)"}
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+    "Catheter Site Care": {
+        "agency_protocol": {},
+        "care_steps": {},
+        "frequency": {},
+        "reminders": {}
+    }
+}

@@ -1,0 +1,12 @@
+
+
+
+{
+    "Accomplishment Tracker": {
+        "Child's name": {"type": "text"},
+        "Accomplishment type": {"type": "options"},
+        "Description": {"type": "text"},
+        "Recognition method": {"type": "options"},
+        "Frequency": {"type": "options"}
+    }
+}

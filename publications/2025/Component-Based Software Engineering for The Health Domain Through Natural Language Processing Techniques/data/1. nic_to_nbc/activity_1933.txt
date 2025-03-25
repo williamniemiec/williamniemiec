@@ -1,0 +1,16 @@
+Here is the JSON output:
+
+
+{
+  "Newborn Output Tracking": {
+    "Name": {"type": "text"},
+    "Voiding": {"type": "datetime", "additional_fields": {
+      "Amount": {"type": "number"},
+      "Color": {"type": "options", "options": ["yellow", "clear", "pink", "other"]}
+    }},
+    "Bowel Movement": {"type": "datetime", "additional_fields": {
+      "Type": {"type": "options", "options": ["meconium", "stool", "other"]},
+      "Consistency": {"type": "options", "options": ["solid", "liquid", "semi-solid"]}
+    }}
+  }
+}

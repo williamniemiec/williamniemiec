@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "Holding Encouragement": {
+    "parameters": {
+      "Holding Benefits": {
+        "type": "text",
+        "example": "Holding your baby can help promote bonding, reduce stress and anxiety, and support their physical and emotional development."
+      },
+      "Holding Tips": {
+        "type": "list of text",
+        "example": ["Support the baby's head and neck", "Hold the baby close to your body", "Use a comfortable and supportive position"]
+      },
+      "Visual Aids": {
+        "type": "media (image or video)"
+      },
+      "Frequency": {
+        "type": "options",
+        "options": ["as often as possible", "at least once a day", "during feeding or changing"]
+      }
+    }
+  }
+}

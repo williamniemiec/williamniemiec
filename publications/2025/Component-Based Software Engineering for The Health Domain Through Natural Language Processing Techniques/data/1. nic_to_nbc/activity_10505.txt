@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "TENS Adjustment": {
+        "Current Response": {"type": "numeric"},
+        "Desired Response": {"type": "numeric"},
+        "Site Adjustment": {"type": "options", "options": ["move electrode to a different location", "adjust electrode placement", "try a different electrode type"]},
+        "Setting Adjustment": {"type": "options", "options": ["adjust amplitude", "adjust rate", "adjust pulse width"]},
+        "Adjustment Confirmation": {"type": "boolean"},
+        "Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+        "Deadline Date": {"type": "datetime"}
+    }
+}

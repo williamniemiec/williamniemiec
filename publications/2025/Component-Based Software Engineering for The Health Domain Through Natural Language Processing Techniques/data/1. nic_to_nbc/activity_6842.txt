@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+  "Injury Description": {
+    "Parameters": {
+      "Injury Type": {"Type": "options"},
+      "Injury Location": {"Type": "options"}
+    }
+  },
+  "Cause Description": {
+    "Parameters": {
+      "Cause Text": {"Type": "text input field"},
+      "Cause Options": {"Type": "options"}
+    }
+  },
+  "Congruence Assessment": {
+    "Parameters": {
+      "Algorithm": {"Type": "options"},
+      "Threshold": {"Type": "numerical value"}
+    }
+  }
+}

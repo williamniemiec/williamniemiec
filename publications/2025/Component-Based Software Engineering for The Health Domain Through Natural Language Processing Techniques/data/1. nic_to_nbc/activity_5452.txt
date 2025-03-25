@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+"Notification Assistant": {
+"Employer Contact Information": {"Type": "text"},
+"Malpractice Carrier Contact Information": {"Type": "text"},
+"Deposition/Subpoena Details": {"Type": "text"},
+"Notification Method": {"Type": "options"}
+}
+}

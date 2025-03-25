@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Patient Preference": {
+    "Information Sharing": {"Type": "options"},
+    "Frequency": {"Type": "options"},
+    "Method": {"Type": "options"}
+  },
+  "Family Update": {
+    "Update Content": {"Type": "text"},
+    "Update Frequency": {"Type": "options"},
+    "Update Method": {"Type": "options"}
+  },
+  "Consent": {
+    "Consent Type": {"Type": "options"},
+    "Consent Status": {"Type": "boolean"}
+  }
+}

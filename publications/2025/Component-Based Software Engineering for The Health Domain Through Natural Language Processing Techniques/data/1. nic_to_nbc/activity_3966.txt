@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Hair Care Instructions": {
+    "Parameters": {
+      "Hair Care Topic": {},
+      "Instructional Content": {},
+      "Patient or Parent": {}
+    }
+  }
+}
+
+
+I removed all the unnecessary information and kept only the `{{ NO-CODE ELEMENT NAME }}` and `{{ PARAMETER ESPECIFICATIONS }}`. I also removed the "Additional Resources" parameter since it's not required. Let me know if this is what you were looking for!

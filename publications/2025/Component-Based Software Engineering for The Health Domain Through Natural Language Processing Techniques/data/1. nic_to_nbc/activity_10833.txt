@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Inhaler Shaking Tutorial": {
+        "shaking instructions": {"type": ["text", "images", "videos"]},
+        "demonstration": {"type": ["video", "interactive module"]},
+        "practice exercises": {"type": ["interactive module", "quiz"]}
+    },
+    "Inhaler Shaking Reminder": {
+        "reminder message": {"type": ["text"]},
+        "reminder frequency": {"type": ["selection from a list of frequencies"]}
+    }
+}

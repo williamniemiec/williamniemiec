@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Nutrition Intake Tracking": {
+    "tracking_frequency_initial": {"type": "text"},
+    "tracking_frequency_decreased": {"type": "text"},
+    "nutrient_types": {"type": "list of text"},
+    "unit_of_measurement": {"type": "list of text"},
+    "notes": {"type": "text"},
+    "goal_range": {"type": "list of text"}
+  }
+}

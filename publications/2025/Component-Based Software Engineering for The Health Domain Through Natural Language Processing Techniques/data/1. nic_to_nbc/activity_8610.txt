@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+"Pain Impact Assessment": {
+"Sleep Disturbances": {"type": "scale (e.g., 1-5) or options (e.g., not affected, mildly affected, moderately affected, severely affected)"},
+"Appetite Changes": {"type": "scale (e.g., 1-5) or options (e.g., not affected, mildly affected, moderately affected, severely affected)"},
+"Activity Limitations": {"type": "scale (e.g., 1-5) or options (e.g., not affected, mildly affected, moderately affected, severely affected)"},
+"Cognitive Impairment": {"type": "scale (e.g., 1-5) or options (e.g., not affected, mildly affected, moderately affected, severely affected)"},
+"Mood Changes": {"type": "scale (e.g., 1-5) or options (e.g., not affected, mildly affected, moderately affected, severely affected)"},
+"Relationship Strains": {"type": "scale (e.g., 1-5) or options (e.g., not affected, mildly affected, moderately affected, severely affected)"},
+"Job Performance": {"type": "scale (e.g., 1-5) or options (e.g., not affected, mildly affected, moderately affected, severely affected)"},
+"Role Responsibilities": {"type": "scale (e.g., 1-5) or options (e.g., not affected, mildly affected, moderately affected, severely affected)"}
+}
+}

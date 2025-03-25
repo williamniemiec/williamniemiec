@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Information Provision": {
+    "Parameters": {
+      "Information Type": {"Type": "options"},
+      "Information Content": {"Type": "text, images, videos, or other multimedia formats"},
+      "Personalization": {"Type": "options"},
+      "Timing": {"Type": "schedule or trigger-based"},
+      "Format": {"Type": "options"}
+    }
+  }
+}

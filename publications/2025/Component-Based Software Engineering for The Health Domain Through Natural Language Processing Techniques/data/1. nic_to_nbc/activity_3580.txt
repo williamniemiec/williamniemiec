@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "Resource Directory": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Resource Categories": {"Type": "list of categories"},
+      "Resources": {
+        "Type": "list of resources",
+        "Properties": {
+          "Resource Name": {"Type": "text"},
+          "Resource Description": {"Type": "text"},
+          "Contact Information": {"Type": "text"}
+        }
+      },
+      "Filtering Options": {"Type": "list of filtering options"},
+      "Frequency": {
+        "Type": "options",
+        "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+      },
+      "Deadline Date": {"Type": "datetime"}
+    }
+  }
+}

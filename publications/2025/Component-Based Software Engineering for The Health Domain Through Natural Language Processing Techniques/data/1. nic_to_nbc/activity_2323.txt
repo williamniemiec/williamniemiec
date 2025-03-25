@@ -1,0 +1,20 @@
+
+
+
+{
+  "Reflection Journal": {
+    "parameters": {
+      "Prompt": {
+        "type": "text"
+      },
+      "Response Type": {
+        "type": "options",
+        "options": ["free text", "rating scale", "multiple choice"]
+      },
+      "Frequency": {
+        "type": "options",
+        "options": ["daily", "every other day"]
+      }
+    }
+  }
+}

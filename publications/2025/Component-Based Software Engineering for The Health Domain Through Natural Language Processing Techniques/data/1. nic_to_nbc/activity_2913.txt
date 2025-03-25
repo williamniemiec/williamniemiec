@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "noCodeElementName": "Fire Safety Tip",
+  "parameterSpecifications": {
+    "Tip": {"type": ["text", "html"]},
+    "Image/Video": {"type": ["image", "video"]},
+    "Frequency": {"options": ["once", "daily", "weekly"]},
+    "Deadline Date": {"type": "datetime"},
+    "Resources": {"type": "list of resources with descriptions"}
+  }
+}

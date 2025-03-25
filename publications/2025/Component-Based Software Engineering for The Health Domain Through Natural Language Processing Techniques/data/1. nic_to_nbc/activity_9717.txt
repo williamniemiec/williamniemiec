@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Interpleural Catheter and Medication Education": {
+    "Catheter Purpose": {"type": "text"},
+    "Catheter Benefits": {"type": "unordered list"},
+    "Medication Purpose": {"type": "text"},
+    "Medication Benefits": {"type": "unordered list"},
+    "Rationale": {"type": "text"},
+    "Patient Questions": {"type": "text or form"}
+  }
+}

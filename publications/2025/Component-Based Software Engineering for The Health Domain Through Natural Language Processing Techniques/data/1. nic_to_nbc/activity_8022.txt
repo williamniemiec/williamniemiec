@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Proper Disposal Instruction": {
+    "Parameters": {
+      "Name": {},
+      "Disposal Methods": {},
+      "Item Categories": {},
+      "Visual Aids": {},
+      // Removed "Reminders" as it's not applicable
+    }
+  }
+}

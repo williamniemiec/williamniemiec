@@ -1,0 +1,42 @@
+Here is the output in JSON format:
+
+
+{
+  "Topical Agent Application": {
+    "Parameters": {
+      "Topical Agent Name": {"Type": "text"},
+      "Application Site": {"Type": "options"},
+      "Application Method": {"Type": "options"},
+      "Application Amount": {"Type": "number"},
+      "Application Frequency": {"Type": "options"}
+    }
+  },
+  "Topical Agent Identification": {
+    "Parameters": {
+      "Topical Agent Name": {"Type": "text"}
+    }
+  },
+  "Application Site Selection": {
+    "Parameters": {
+      "Application Site": {"Type": "options"}
+    }
+  },
+  "Application Method Selection": {
+    "Parameters": {
+      "Application Method": {"Type": "options"}
+    }
+  },
+  "Application Amount Entry": {
+    "Parameters": {
+      "Application Amount": {"Type": "number"}
+    }
+  },
+  "Application Frequency Selection": {
+    "Parameters": {
+      "Application Frequency": {"Type": "options"}
+    }
+  }
+}
+
+
+Let me know if you need any further assistance!

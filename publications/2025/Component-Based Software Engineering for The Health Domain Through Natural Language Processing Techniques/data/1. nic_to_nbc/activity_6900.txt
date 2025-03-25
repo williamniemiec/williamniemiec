@@ -1,0 +1,12 @@
+
+
+
+{
+  "Consent": {
+    "Question": {"Type": "text"},
+    "Answer Type": {"Type": "options", "Options": ["yes", "no", "unsure"]},
+    "Explanation": {"Type": "text"},
+    "Frequency": {"Type": "options", "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"Type": "datetime"}
+  }
+}

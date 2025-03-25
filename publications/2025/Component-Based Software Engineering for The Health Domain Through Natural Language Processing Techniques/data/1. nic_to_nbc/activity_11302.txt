@@ -1,0 +1,38 @@
+Here is the output in JSON format:
+
+
+{
+  "FAQ": {
+    "Parameters": {
+      "Questions": {
+        "Type": "list of objects",
+        "Properties": {
+          "Question": {"Type": "text"},
+          "Answer": {"Type": "text"}
+        }
+      },
+      "Search": {"Type": "text"}
+    }
+  },
+  "Chatbot": {
+    "Parameters": {
+      "Intents": {
+        "Type": "list of objects",
+        "Properties": {
+          "Intent": {"Type": "text"},
+          "Response": {"Type": "text"}
+        }
+      },
+      "Entities": {
+        "Type": "list of objects",
+        "Properties": {
+          "Entity": {"Type": "text"},
+          "Response": {"Type": "text"}
+        }
+      }
+    }
+  }
+}
+
+
+Let me know if you need any further assistance!

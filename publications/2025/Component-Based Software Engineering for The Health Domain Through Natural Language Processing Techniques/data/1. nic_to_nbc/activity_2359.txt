@@ -1,0 +1,63 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Environmental Adaptation",
+    "parameters": [
+        {
+            "name": "Environmental Area",
+            "description": "A parameter that specifies the area of the home environment to adapt",
+            "required": true,
+            "type": "options",
+            "options": [
+                { value: "bedroom", label: "Bedroom" },
+                { value: "bathroom", label: "Bathroom" },
+                { value: "living room", label: "Living Room" },
+                { value: "kitchen", label: "Kitchen" },
+                { value: "outdoor spaces", label: "Outdoor Spaces" }
+            ]
+        },
+        {
+            "name": "Adaptation Type",
+            "description": "A parameter that specifies the type of adaptation to make",
+            "required": true,
+            "type": "options",
+            "options": [
+                { value: "removing medical equipment", label: "Removing Medical Equipment" },
+                { value: "rearranging furniture", label: "Rearranging Furniture" },
+                { value: "decorating", label: "Decorating" },
+                { value: "soundproofing", label: "Soundproofing" }
+            ]
+        },
+        {
+            "name": "Goal",
+            "description": "A parameter that specifies the goal of the environmental adaptation",
+            "required": true,
+            "type": "text"
+        },
+        {
+            "name": "Frequency",
+            "description": "A parameter that specifies how often the environmental adaptation guidance should be provided",
+            "required": true,
+            "type": "options",
+            "options": [
+                { value: "daily", label: "Daily" },
+                { value: "onlyOnce", label: "Only once" },
+                { value: "everyHours", label: "Every x hours" },
+                { value: "everyDays", label: "Every x days" }
+            ]
+        },
+        {
+            "name": "Deadline Date",
+            "description": "A parameter that specifies the due date for the environmental adaptation guidance",
+            "required": false,
+            "type": "datetime"
+        },
+        {
+            "name": "Support Needed",
+            "description": "A parameter that specifies what support is needed to implement the environmental adaptation guidance",
+            "required": false,
+            "type": "text"
+        }
+    ]
+}

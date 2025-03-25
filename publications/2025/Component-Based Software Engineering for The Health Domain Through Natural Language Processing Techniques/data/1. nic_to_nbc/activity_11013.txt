@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Concern Journal": {
+    "parameters": {
+      "Entry Type": {"type": "options", "options": ["text", "audio", "video"]},
+      "Entry Prompt": {"type": "text"},
+      "Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"type": "datetime"},
+      "Emotional Scale": {"type": "options"}
+    }
+  }
+}
+
+
+Note that I removed the `not applicable` parameters and only kept the ones specified in the input.

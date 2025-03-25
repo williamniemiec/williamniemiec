@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Allergy Response Monitoring": {
+    "Parameters": {
+      "Exposure Agent": {"Type": "text"},
+      "Monitoring Frequency": {"Type": "options"},
+      "Signs of Allergic Response": {"Type": "list of signs"},
+      "Response Severity": {"Type": "options"}
+    }
+  },
+  "Form": {
+    "Parameters": {
+      "Questions": {"Type": "list of questions"},
+      "Answers": {"Type": "list of answers"},
+      "Monitoring Frequency": {"Type": "options"},
+      "Signs of Allergic Response": {"Type": "list of signs"}
+    }
+  }
+}

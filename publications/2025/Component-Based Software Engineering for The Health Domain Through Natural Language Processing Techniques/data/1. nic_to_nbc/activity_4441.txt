@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "Ultrafiltration Rate Monitoring": {
+    "parameters": {
+      "ultrafiltration_rate": {
+        "type": "numeric"
+      },
+      "protocol": {
+        "type": "text or reference to a protocol document"
+      },
+      "physician_order": {
+        "type": "text or reference to a physician's order document"
+      },
+      "adjustment_steps": {
+        "type": "list of text or JSON object"
+      },
+      "verification": {
+        "type": "boolean (true/false)"
+      }
+    }
+  }
+}

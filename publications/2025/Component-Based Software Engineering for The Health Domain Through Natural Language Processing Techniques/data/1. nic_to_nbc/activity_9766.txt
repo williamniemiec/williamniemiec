@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Learning Exercise": {
+    "Name": {"Type": "text"},
+    "Description": {"Type": "text"},
+    "Instructions": {"Type": "text"},
+    "Exercises": {"Type": "interactive quiz"},
+    "Frequency": {"Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"Type": "datetime"},
+    "Tips": {"Type": "text"}
+  }
+}

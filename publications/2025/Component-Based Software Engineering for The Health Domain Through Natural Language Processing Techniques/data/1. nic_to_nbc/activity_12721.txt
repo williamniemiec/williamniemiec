@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Fluid and Nutrition Tracker": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Frequency": {"Type": "options"},
+      "Fluid Intake": {"Type": "numerical value"},
+      "Nutrition Intake": {"Type": "checklist or text"},
+      "Deadline Date": {"Type": "datetime"},
+      "Notes": {"Type": "text"}
+    }
+  }
+}
+
+
+Note that I removed the "Not Applicable" parameters as per your request. Let me know if you need anything else!

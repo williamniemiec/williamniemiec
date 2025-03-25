@@ -1,0 +1,15 @@
+
+
+
+{
+    "Reflection": {
+        "Prompt": {"type": "text"},
+        "Aspect": {"type": "options", "options": ["food choices", "exercise frequency", "portion control", "meal planning", "etc."]},
+        "Consequence Type": {"type": "options", "options": ["health", "emotional", "social", "financial", "etc."]},
+        "Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+        "Deadline Date": {"type": "datetime"}
+    }
+}
+
+
+Let me know if this is what you were expecting!

@@ -1,0 +1,35 @@
+Here is the output in JSON format:
+
+
+{
+  "Nausea Tracker": {
+    "Scale": {
+      "Description": "Scale to measure nausea severity",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        {"value": "mild", "label": "Mild"},
+        {"value": "moderate", "label": "Moderate"},
+        {"value": "severe", "label": "Severe"}
+      ]
+    },
+    "Frequency": {
+      "Description": "How often to track nausea experience",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        {"value": "daily", "label": "Daily"},
+        {"value": "everyHours", "label": "Every x hours"},
+        {"value": "everyDays", "label": "Every x days"}
+      ]
+    },
+    "Notes": {
+      "Description": "Optional notes about nausea experience",
+      "Required": false,
+      "Type": "text"
+    }
+  }
+}
+
+
+I removed the `Graph` parameter since it's not applicable (it doesn't follow the same format as the other parameters). Let me know if you have any further requests!

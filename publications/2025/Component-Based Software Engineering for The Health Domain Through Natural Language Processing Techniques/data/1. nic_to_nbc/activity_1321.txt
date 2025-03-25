@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Mobility and Activity Tracker": {
+    "Parameters": {
+      "tracker title": {},
+      "Questions": {
+        "mobilityLevel": {},
+        "activityLevel": {},
+        "ambulation": {}
+      },
+      "Frequency": {}
+    }
+  }
+}
+
+
+I removed all unnecessary information, kept only the `{{ NO-CODE ELEMENT NAME }}` and `{{ PARAMETER ESPECIFICATIONS }}`, and formatted it as a JSON object. Let me know if you need any further assistance!

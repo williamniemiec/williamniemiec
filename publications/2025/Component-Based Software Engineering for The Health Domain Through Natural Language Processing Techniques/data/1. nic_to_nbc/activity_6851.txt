@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+  "Dangle Assistance": {
+    "Ability to Transfer": {
+      "description": "Can you transfer or walk on your own?",
+      "required": true,
+      "type": "boolean"
+    },
+    "Dangle Instructions": {
+      "description": "Instructions for sitting on the side of the bed (“dangle”)",
+      "required": true,
+      "type": "text"
+    },
+    "Frequency": {
+      "description": "How often should you dangle?",
+      "required": true,
+      "type": "options"
+    },
+    "Duration": {
+      "description": "How long should you dangle?",
+      "required": true,
+      "type": "time interval"
+    }
+  }
+}

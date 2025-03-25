@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Decision Support Tool": {
+    "parameters": [
+      {"name": "patient_characteristics", "description": "patient characteristics"},
+      {"name": "pessary_types", "description": "list of available pessary types"},
+      {"name": "selection_criteria", "description": "criteria for selecting the appropriate pessary"}
+    ]
+  }
+}
+
+Let me know if this meets your requirements!

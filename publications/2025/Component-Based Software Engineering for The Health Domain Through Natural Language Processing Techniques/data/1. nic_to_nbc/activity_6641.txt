@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+  "Scale Review": {
+    "Parameters": {
+      "Scale": {
+        "Levels": [
+          {
+            "Label": "",
+            "Value": 0
+          }
+        ]
+      },
+      "Review Date": "",
+      "Current Level": {
+        "Label": "",
+        "Value": 0
+      },
+      "Progress Notes": ""
+    }
+  }
+}

@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Prosthetic Cleaner",
+  "parameters": [
+    {
+      "name": "prosthetic_type"
+    },
+    {
+      "name": "cleansing_instructions"
+    },
+    {
+      "name": "cleansing_products"
+    },
+    {
+      "name": "frequency"
+    },
+    {
+      "name": "reminders"
+    }
+  ]
+}

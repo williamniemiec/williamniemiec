@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Action Plan": {
+    "parameters": {
+      "Selected Solution": {"type": "text"},
+      "Goal Statement": {"type": "text"},
+      "Steps to Achieve Goal": {"type": "list of text"},
+      "Responsibilities": {"type": "list of text"},
+      "Timeline": {"type": "list of dates"},
+      "Resources": {"type": "list of text"},
+      "Barriers and Solutions": {"type": "list of text"},
+      "Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"type": "datetime"}
+    }
+  }
+}

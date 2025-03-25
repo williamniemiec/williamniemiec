@@ -1,0 +1,22 @@
+Here is the output in JSON format, keeping only the `PARAMETER ESPECIFICATIONS` and `NO-CODE ELEMENT NAME`, and removing not applicable parameters:
+
+
+{
+    "name": "Readiness Assessment",
+    "parameters": [
+        {
+            "name": "Question",
+            "type": "text"
+        },
+        {
+            "name": "Answer Type",
+            "type": "options",
+            "options": ["scale (e.g., 1-5)", "yes/no", "text"]
+        },
+        {
+            "name": "Frequency",
+            "type": "options",
+            "options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Infant Behavioral Insights": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Characteristics": {"Type": "list", "Examples": ["Crying patterns", "Sleep patterns", "Feeding habits", "Social interaction styles", "Emotional regulation", "Other"]},
+      "Descriptions": {"Type": "text"},
+      "What to Expect": {"Type": "text"},
+      "Tips and Advice": {"Type": "text"},
+      "Reflection Questions": {"Type": "text"}
+    }
+  }
+}

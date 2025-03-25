@@ -1,0 +1,36 @@
+Here is the output in JSON format:
+
+
+{
+    "guide": {
+        "parameters": [
+            { 
+                "name": "name", 
+                "description": "task title", 
+                "required": true, 
+                "type": "text"
+            },
+            { 
+                "name": "pages", 
+                "description": "list of pages", 
+                "required": true, 
+                "type": "book-page",
+                "book-page": "list of html texts"
+            },
+            { 
+                "name": "food_groups", 
+                "description": "list of food groups according to the food pyramid", 
+                "required": true, 
+                "type": "unordered list",
+                "unordered list": "list of text items"
+            },
+            { 
+                "name": "serving_suggestions", 
+                "description": "serving suggestions for each food group", 
+                "required": true, 
+                "type": "unordered list",
+                "unordered list": "list of text items"
+            }
+        ]
+    }
+}

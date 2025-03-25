@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+{
+    "Nipple Placement": {
+        "Parameters": [
+            {"Name": "Placement Instructions", "Type": "text"},
+            {"Name": "Placement Image", "Type": "image"},
+            {"Name": "Tips", "Type": "text"}
+        ]
+    }
+}

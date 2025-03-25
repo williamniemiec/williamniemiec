@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+  "Tubing Inspection": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Inspection Steps": {"Type": "list of text items"},
+      "Frequency": {"Type": "options", "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"Type": "datetime"},
+      "Findings": {"Type": "text or options"}
+    }
+  },
+  "Tubing Inspection Checklist": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Checklist Items": {"Type": "list of text items"},
+      "Frequency": {"Type": "options", "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"Type": "datetime"},
+      "Confirmation": {"Type": "boolean"}
+    }
+  }
+}

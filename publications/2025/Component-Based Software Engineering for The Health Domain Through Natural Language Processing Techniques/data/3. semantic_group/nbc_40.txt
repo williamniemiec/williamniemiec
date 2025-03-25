@@ -1,0 +1,10 @@
+{
+  "name": "Message",
+  "description": "Specific instruction or message",
+  "type": "non-periodic",
+  "input": ["Content", "Attachments"],
+  "output": ["Notification"],
+  "preconditions": ["The content must be a non-empty text"],
+  "postconditions": ["Aknowledgement when the message is delivered"],
+  "dependencies": ["Notification system"]
+}

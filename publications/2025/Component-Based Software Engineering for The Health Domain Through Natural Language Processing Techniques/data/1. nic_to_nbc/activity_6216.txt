@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+    "Pain Medication": {
+        "Parameters": {
+            "Medication Name": {"Type": "text"},
+            "Dosage": {"Type": "text"},
+            "Frequency": {"Type": "options"},
+            "Duration": {"Type": "datetime"},
+            "Instructions": {"Type": "text"}
+        }
+    }
+}
+
+
+I removed the `Reminders` parameter since it's a boolean type and considered as not applicable. Let me know if you need any further modifications!

@@ -1,0 +1,38 @@
+Here is the output in JSON format:
+
+
+{
+    "guide": {
+        "parameters": [
+            {
+                "name": "title",
+                "description": "guide title",
+                "required": true,
+                "type": "text"
+            },
+            {
+                "name": "pages",
+                "description": "list of pages",
+                "required": true,
+                "type": "book-page",
+                "book-page": [
+                    {
+                        "title": "When to Avoid Flossing",
+                        "content": "Avoid flossing if at risk for bleeding.",
+                        "image": "optional image illustrating bleeding risk"
+                    },
+                    {
+                        "title": "Choosing the Right Floss",
+                        "content": "Use waxed floss to prevent tissue trauma.",
+                        "image": "optional image illustrating waxed floss"
+                    },
+                    {
+                        "title": "Additional Tips",
+                        "content": "Additional tips for safe and effective flossing.",
+                        "image": "optional image illustrating flossing technique"
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "Vital Sign Tracker": {
+    "Parameters": {
+      "Vital Signs": {"Type": "numerical values"},
+      "Time": {"Type": "time of day"},
+      "Trend Analysis": {"Type": "graph or chart"}
+    }
+  },
+  "Data Entry": {
+    "Parameters": {
+      "Vital Sign Fields": {"Type": "numerical values"},
+      "Unit": {"Type": "text"}
+    }
+  },
+  "Alerts": {
+    "Parameters": {
+      "Alert Thresholds": {"Type": "numerical values"},
+      "Alert Message": {"Type": "text"}
+    }
+  }
+}

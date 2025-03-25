@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Child Support": {
+    "parameters": [
+      {"name": "Question", "type": "text"},
+      {"name": "Answer", "type": "text"},
+      {"name": "Tone", "type": "options"},
+      {"name": "Age Appropriate", "type": "boolean"},
+      {"name": "Follow-up", "type": "boolean"}
+    ]
+  }
+}

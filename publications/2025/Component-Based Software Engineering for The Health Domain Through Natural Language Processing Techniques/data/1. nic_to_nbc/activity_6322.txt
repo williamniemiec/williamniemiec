@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+  "Developmental Expectations Guide": {
+    "parameters": {
+      "name": "",
+      "developmental_stage": "",
+      "expectation_areas": [],
+      "expectation_descriptions": [],
+      "frequency": [
+        "daily",
+        "everyOtherDay",
+        "everyWeek",
+        "everyMonth"
+      ],
+      "deadline_date": ""
+    }
+  },
+  "Child Development Handbook": {},
+  "Parenting Resource Guide": {}
+}

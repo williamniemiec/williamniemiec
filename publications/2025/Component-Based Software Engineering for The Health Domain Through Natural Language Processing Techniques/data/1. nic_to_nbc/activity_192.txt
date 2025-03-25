@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Respiratory Care": {
+    "parameters": {
+      "Hyperoxygenation Instructions": {"type": "text"},
+      "Suctioning Instructions": {"type": "text"},
+      "Visual Aids": {"type": "image or video"},
+      "Frequency": {"type": "options"},
+      "Reminders": {"type": "boolean"}
+    }
+  }
+}

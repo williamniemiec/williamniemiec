@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Policy Disclosure": {
+    "Parameters": {
+      "Policy Text": {"Type": "text"},
+      "Policy Type": {"Type": "options", "Options": ["membership rules", "confidentiality agreement", "code of conduct", "etc."]},
+      "Acknowledgement Required": {"Type": "boolean"},
+      "Deadline Date": {"Type": "datetime"}
+    }
+  }
+}

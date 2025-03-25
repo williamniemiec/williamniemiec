@@ -1,0 +1,10 @@
+{
+  "name": "Rest Periods and Break Schedules",
+  "description": "Focuses on managing and scheduling rest periods, naps, and breaks. It includes setting the duration of rest, scheduling reminders, and tracking turning periods during rest.",
+  "type": "non-periodic",
+  "input": ["Rest periods", "Break schedules", "Turning reminders", "Nap duration", "Rest schedule format"],
+  "output": ["Rest period report", "Scheduled breaks confirmation", "Turning reminder alerts"],
+  "preconditions": ["User needs scheduled rest or breaks during a work or recovery period"],
+  "postconditions": ["Adequate rest and break periods with timely reminders"],
+  "dependencies": ["Rest and break management system", "Turn reminder tools", "Schedule tracking platform"]
+}

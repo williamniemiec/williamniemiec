@@ -1,0 +1,31 @@
+Here is the output in JSON format:
+
+
+{
+  "Catheter Change": {
+    "Task Title": {
+      "Description": "Title of the task",
+      "Required": true,
+      "Type": "text"
+    },
+    "Instructions": {
+      "Description": "Step-by-step instructions on how to change the condom catheter",
+      "Required": true,
+      "Type": "text"
+    },
+    "Frequency": {
+      "Description": "Specify how often to change the condom catheter",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "asNeeded", "label": "As needed" },
+        { "value": "daily", "label": "Daily" },
+        { "value": "everyHours", "label": "Every x hours" },
+        { "value": "everyDays", "label": "Every x days" }
+      ]
+    }
+  }
+}
+
+
+I removed the non-applicable parameters (`Deadline Date` and `Additional Resources`) as per your request. Let me know if you need further assistance!

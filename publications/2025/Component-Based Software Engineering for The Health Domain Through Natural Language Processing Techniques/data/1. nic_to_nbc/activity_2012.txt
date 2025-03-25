@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+    "Trust Building": {
+        "Parameters": {
+            "Name": {"Type": "text"},
+            "Description": {"Type": "text"},
+            "Guided Meditation": {"Type": "audio/video"},
+            "Trust Building Tips": {"Type": "text"},
+            "Frequency": {"Type": "options", "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+            "Deadline Date": {"Type": "datetime"},
+            "Notes": {"Type": "text"}
+        }
+    }
+}

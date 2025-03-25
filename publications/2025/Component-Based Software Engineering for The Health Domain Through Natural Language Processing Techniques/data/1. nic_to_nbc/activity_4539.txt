@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+    "oral_lubrication": {
+        "parameters": [
+            { 
+                "name": "lubricant_type", 
+                "description": "type of lubricant used" 
+            },
+            { 
+                "name": "application_frequency", 
+                "description": "how often the lubricant is applied" 
+            },
+            { 
+                "name": "additional_instructions", 
+                "description": "any additional instructions for lubricant application" 
+            }
+        ]
+    }
+}

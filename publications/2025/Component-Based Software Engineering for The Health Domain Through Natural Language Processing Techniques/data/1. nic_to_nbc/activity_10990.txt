@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Sleep-Enhancing Techniques Discussion": {
+        "Parameters": {
+            "Name": {"Type": "text"},
+            "Techniques": {"Type": "unordered list"},
+            "Technique Descriptions": {"Type": "rich text"},
+            "Discussion Questions": {"Type": "unordered list"},
+            "Resources": {"Type": "links or attachments"}
+        }
+    }
+}

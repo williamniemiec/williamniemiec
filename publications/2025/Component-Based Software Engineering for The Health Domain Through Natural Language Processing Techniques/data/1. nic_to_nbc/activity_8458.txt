@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "noCodeElementName": "Tracking Response Monitoring",
+  "parameters": {
+    "Name": {"type": "text"},
+    "Question": {"type": "text"},
+    "Answer Type": {"type": "options", "options": ["rating scale", "multiple choice", "free text"]},
+    "Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"type": "datetime"}
+  }
+}

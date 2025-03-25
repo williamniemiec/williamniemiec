@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "No-Code Element Name": "Symptom Elimination Plan",
+    "Parameters": {
+        "Symptom List": {"Type": "list of text"},
+        "Stepwise Approach Options": {"Type": "list of text"},
+        "Selection Criteria": {"Type": "text"},
+        "Action Plan": {"Type": "list of text"},
+        "Follow-up": {"Type": "text"}
+    }
+}

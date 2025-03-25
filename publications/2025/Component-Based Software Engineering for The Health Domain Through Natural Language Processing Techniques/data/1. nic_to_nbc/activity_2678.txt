@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "PRN Medication Offer": {
+    "parameters": [
+      {"Medication List": 
+        {"type": "list of medication objects"}
+      },
+      {"Indication": 
+        {"type": "text"}
+      },
+      {"Dosage Instructions": 
+        {"type": "text"}
+      },
+      {"Frequency": 
+        {"type": "options", 
+         "options": ["As needed", "Every x hours", "Every x days"]}
+      },
+      {"Contraindications": 
+        {"type": "list of text"}}
+    ]
+  }
+}

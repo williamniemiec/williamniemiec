@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Emotional Support": {
+    "Message": {
+      "Type": "text"
+    },
+    "Resource": {
+      "Type": "media (e.g. video, audio, image)"
+    },
+    "Frequency": {
+      "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+    },
+    "Deadline Date": {
+      "Type": "datetime"
+    }
+  }
+}

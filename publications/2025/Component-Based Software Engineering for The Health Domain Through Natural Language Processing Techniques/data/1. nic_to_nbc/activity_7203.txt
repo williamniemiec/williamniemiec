@@ -1,0 +1,33 @@
+Here is the output in JSON format:
+
+
+[
+    {
+        "Task": {
+            "parameters": {
+                "name": "Participate in Care Activities",
+                "content": "Please participate in the following care activities with your infant: bathing, feeding, medication administration, or dressing changes.",
+                "activities": [
+                    "Bathing",
+                    "Feeding",
+                    "Medication administration",
+                    "Dressing changes"
+                ],
+                "frequency": "daily" || "everyDays"
+            }
+        }
+    },
+    {
+        "Guide": {
+            "parameters": {
+                "name": "Participating in Care Activities Guide",
+                "pages": [
+                    "The importance of parent participation in care activities",
+                    "Tips and strategies for participating in bathing, feeding, medication administration, and dressing changes",
+                    "Resources for additional support and guidance"
+                ],
+                "frequency": "onlyOnce"
+            }
+        }
+    }
+]

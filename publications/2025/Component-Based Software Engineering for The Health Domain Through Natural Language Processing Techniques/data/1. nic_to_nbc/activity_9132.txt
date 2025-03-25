@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+    "Safety Checklist": {
+        "parameters": [
+            {"name": "Name", "type": "text"},
+            {"name": "Checklist Items", "type": "checklist"},
+            {"name": "Additional Resources", "type": "links"}
+        ]
+    }
+}

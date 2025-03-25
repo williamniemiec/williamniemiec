@@ -1,0 +1,29 @@
+Here is the output in JSON format:
+
+
+{
+  "Religious Preference": {
+    "parameters": [
+      { 
+        "name": "religion", 
+        "description": "What is your religious affiliation?", 
+        "required": true, 
+        "type": "options",
+        "options": [
+          { value: "christian", label: "Christian" },
+          { value: "muslim", label: "Muslim" },
+          { value: "jewish", label: "Jewish" },
+          { value: "hindu", label: "Hindu" },
+          { value: "buddhist", label: "Buddhist" },
+          { value: "other", label: "Other" }
+        ]
+      },
+      { 
+        "name": "specific_practices", 
+        "description": "Are there any specific religious practices you would like to observe?", 
+        "required": false, 
+        "type": "text"
+      }
+    ]
+  }
+}

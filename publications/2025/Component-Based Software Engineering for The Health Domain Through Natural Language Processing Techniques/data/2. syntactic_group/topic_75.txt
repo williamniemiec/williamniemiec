@@ -1,0 +1,10 @@
+{
+  "name": "Oxygen Therapy and Delivery",
+  "description": "Manages the delivery of oxygen therapy, tracking flow rates, pulse oximetry readings, and device usage. Monitors oxygen saturation and ensures therapy is delivered properly.",
+  "type": "periodic",
+  "input": ["Oxygen flow rate", "Pulse oximetry readings", "Saturation levels", "Oxygen delivery device settings"],
+  "output": ["Oxygen therapy monitoring report", "Saturation levels analysis", "Device usage feedback"],
+  "preconditions": ["User is undergoing oxygen therapy or monitoring saturation levels"],
+  "postconditions": ["Effective oxygen therapy and proper device usage monitoring"],
+  "dependencies": ["Oxygen delivery system", "Pulse oximetry device", "Therapy management platform"]
+}

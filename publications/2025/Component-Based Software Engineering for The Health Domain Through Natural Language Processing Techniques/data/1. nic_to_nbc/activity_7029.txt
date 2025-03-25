@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Oral Care Product Selection": {
+    "Parameters": {
+      "Product Options": {"Type": "options"},
+      "Patient Needs": {"Type": "text or options"},
+      "Recommendations": {"Type": "text or list of recommended products"}
+    }
+  }
+}

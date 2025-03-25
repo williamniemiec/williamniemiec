@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Drainage Bag Emptying Checklist": {
+    "Name": {"Type": "text"},
+    "Trigger": {"Type": "options"},
+    "Instructions": {"Type": "text or multimedia"},
+    "Confirmation": {"Type": "boolean"},
+    "Frequency": {"Type": "options"}
+  }
+}

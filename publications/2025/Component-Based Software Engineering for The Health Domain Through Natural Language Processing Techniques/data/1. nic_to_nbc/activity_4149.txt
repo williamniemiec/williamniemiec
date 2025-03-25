@@ -1,0 +1,33 @@
+Here is the output in JSON format:
+
+
+{
+  "Newborn Temperature Maintenance Guide": {
+    "parameters": {
+      "name": "",
+      "steps": [],
+      "illustrations": ""
+    }
+  },
+  "Newborn Wrapping Tracker": {
+    "parameters": {
+      "name": "",
+      "wrapping_status": "",
+      "wrapping_time": ""
+    }
+  },
+  "Stockinette Cap Application Tracker": {
+    "parameters": {
+      "name": "",
+      "cap_application_status": "",
+      "cap_application_time": ""
+    }
+  },
+  "Isolette/Warmer Usage Tracker": {
+    "parameters": {
+      "name": "",
+      "isolette_warmer_status": "",
+      "isolette_warmer_time": ""
+    }
+  }
+}

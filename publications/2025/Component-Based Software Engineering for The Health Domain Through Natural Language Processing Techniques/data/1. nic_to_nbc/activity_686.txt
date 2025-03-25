@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+[
+    {
+        "elementName": "Instruction",
+        "parameters": {
+            "Instruction text": "Elevate the affected limb 20 degrees or greater above the level of the heart to improve venous return.",
+            "Image or video": "",
+            "Frequency": ["daily", "every 2 hours", "every 4 hours"],
+            "Duration": ["15 minutes", "30 minutes", "1 hour"]
+        }
+    },
+    {
+        "elementName": "Task",
+        "parameters": {
+            "Instruction text": "Elevate the affected limb 20 degrees or greater above the level of the heart to improve venous return.",
+            "Image or video": "",
+            "Frequency": ["daily", "every 2 hours", "every 4 hours"],
+            "Duration": ["15 minutes", "30 minutes", "1 hour"],
+            "Reminder": ""
+        }
+    }
+]

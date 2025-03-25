@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Care Access Instructions": {
+        "Parameters": {
+            "Care Type": {"Type": "text"},
+            "Instructions": {"Type": "list of text"},
+            "Resources": {"Type": "list of text or URLs"},
+            "Contact Information": {"Type": "text or URL"}
+        }
+    }
+}

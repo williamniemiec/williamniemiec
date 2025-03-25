@@ -1,0 +1,45 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "diary",
+    "parameters": [
+        { 
+            "name": "name", 
+            "description": "diary title", 
+            "required": true, 
+            "type": "text"
+        },
+        { 
+            "name": "description", 
+            "description": "brief description of the diary", 
+            "required": true, 
+            "type": "text"
+        },
+        { 
+            "name": "frequency", 
+            "description": "specify how often the diary should be updated", 
+            "required": true, 
+            "type": "options",
+            "options": [
+                { value: "afterEachSession", label: "After each session" },
+                { value: "daily", label: "Daily" },
+                { value: "onlyOnce", label: "Only once" },
+                { value: "everyHours", label: "Every x hours" },
+                { value: "everyDays", label: "Every x days" },
+            ]
+        },
+        { 
+            "name": "entry_type", 
+            "description": "specify the type of entry", 
+            "required": true, 
+            "type": "options",
+            "options": [
+                { value: "text", label: "Text" },
+                { value: "photo", label: "Photo" },
+                { value: "audio", label: "Audio" },
+                { value: "video", label: "Video" },
+            ]
+        }
+    ]
+}

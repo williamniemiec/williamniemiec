@@ -1,0 +1,13 @@
+
+
+
+{
+    "Vital Signs Monitoring": {
+        "Parameters": {
+            "Vital Signs": {},
+            "Frequency": {},
+            "Deadline Date": {},
+            "Maternal/Fetal": {}
+        }
+    }
+}

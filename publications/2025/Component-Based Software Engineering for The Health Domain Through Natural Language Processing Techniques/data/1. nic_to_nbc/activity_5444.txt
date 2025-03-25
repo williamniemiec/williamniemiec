@@ -1,0 +1,5 @@
+Since there are no {{ PARAMETER ESPECIFICATIONS }} or {{ NO-CODE ELEMENT NAME }} in the input text, the output will be an empty JSON:
+
+{}
+
+Please note that if you receive a different input with actual values for {{ PARAMETER ESPECIFICATIONS }} and {{ NO-CODE ELEMENT NAME }}, I'll be happy to help you extract those values.

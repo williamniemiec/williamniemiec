@@ -1,0 +1,42 @@
+Here is the output in JSON format:
+
+
+{
+  "Infant Feeding Plan": {
+    "Age": {
+      "Description": "Infant's age",
+      "Required": true,
+      "Type": "number"
+    },
+    "Food Stage": {
+      "Description": "Current food stage (e.g. breast milk, formula, pureed foods, etc.)",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "breastMilk", "label": "Breast Milk" },
+        { "value": "formula", "label": "Formula" },
+        { "value": "pureedFoods", "label": "Pureed Foods" },
+        { "value": "solidFoods", "label": "Solid Foods" }
+      ]
+    },
+    "Food List": {
+      "Description": "List of developmentally appropriate foods for the infant's current age and food stage",
+      "Required": true,
+      "Type": "list",
+      "List": "list of food objects",
+      "Food object": {
+        "name": "text",
+        "description": "text",
+        "ageRange": "range"
+      }
+    },
+    "Feeding Schedule": {
+      "Description": "Feeding schedule for the infant",
+      "Required": false,
+      "Type": "schedule",
+      "Schedule": "list of feeding times and amounts"
+    }
+  }
+}
+
+Note that I removed the "Content Type" parameter as it was not specified in the original format. Let me know if you need anything else!

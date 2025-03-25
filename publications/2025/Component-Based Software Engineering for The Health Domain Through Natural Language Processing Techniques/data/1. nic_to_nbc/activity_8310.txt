@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+    "Threshold Testing": {
+        "parameters": [
+            {"name": "chamber_type", "description": "Which chamber would you like to test?", "required": true, "type": "options", "options": [{"value": "atrial", "label": "Atrial"}, {"value": "ventricular", "label": "Ventricular"}]},
+            {"name": "testing_type", "description": "What type of testing would you like to perform?", "required": true, "type": "options", "options": [{"value": "capture_threshold", "label": "Capture Threshold"}, {"value": "sensitivity_threshold", "label": "Sensitivity Threshold"}]},
+            {"name": "testing_results", "description": "Enter the results of your testing", "required": true, "type": "text"}
+        ]
+    },
+    "Chamber-Specific Testing": {
+        "parameters": [
+            {"name": "atrial_specific", "description": "Atrial chamber specific testing parameters", "required": true, "type": "conditional", "conditions": [{"chamber_type": "atrial"}], "parameters": [
+                {"name": "atrial_capture_threshold", "description": "Atrial capture threshold value", "required": true, "type": "number"},
+                {"name": "atrial_sensitivity_threshold", "description": "Atrial sensitivity threshold value", "required": true, "type": "number"}
+            ]},
+            {"name": "ventricular_specific", "description": "Ventricular chamber specific testing parameters", "required": true, "type": "conditional", "conditions": [{"chamber_type": "ventricular"}], "parameters": [
+                {"name": "ventricular_capture_threshold", "description": "Ventricular capture threshold value", "required": true, "type": "number"},
+                {"name": "ventricular_sensitivity_threshold", "description": "Ventricular sensitivity threshold value", "required": true, "type": "number"}
+            ]}
+        ]
+    }
+}

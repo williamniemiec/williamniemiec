@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Counseling Referral": {
+    "parameters": {
+      "Counseling Introduction": {"type": "text"},
+      "Counseling Options": {"type": "list of options"},
+      "Counselor Information": {"type": "text"},
+      "Scheduling": {"type": "scheduling tool"},
+      "Resources": {"type": "list of URLs or embedded media"},
+      "Follow-up": {
+        "type": "options",
+        "options": ["daily", "every other day", "weekly", "bi-weekly"]
+      }
+    }
+  }
+}

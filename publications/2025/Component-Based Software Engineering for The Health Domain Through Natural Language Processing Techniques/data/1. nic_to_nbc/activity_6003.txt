@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Patient-Centered Communication Strategies": {
+    "parameters": {
+      "Question": {},
+      "Suggestions": {},
+      "Notes": {},
+      "Frequency": {}
+    }
+  }
+}

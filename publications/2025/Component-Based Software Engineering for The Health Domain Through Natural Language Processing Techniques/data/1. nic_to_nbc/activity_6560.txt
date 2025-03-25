@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+"Lifestyle Adjustment Planner": {
+"Parameters": {
+"Medication Name": {"Type": "text"},
+"Lifestyle Areas": {"Type": "options", "Options": ["diet", "exercise", "sleep", "daily activities", "etc."]},
+"Adjustment Options": {"Type": "options", "Options": ["Increase water intake", "Avoid heavy exercise", "Establish a bedtime routine", "etc."]},
+"Family Member Involvement": {"Type": "boolean"},
+"Adjustment Plan": {"Type": "text"},
+"Notes": {"Type": "text"}
+}
+},
+"Lifestyle Adjustment Question": {
+"Parameters": {
+"Question": {"Type": "text"},
+"Answer Type": {"Type": "options", "Options": ["text", "scale", "etc."]},
+"Lifestyle Area": {"Type": "options", "Options": ["diet", "exercise", "sleep", "daily activities", "etc."]},
+"Family Member Involvement": {"Type": "boolean"},
+"Notes": {"Type": "text"}
+}
+}
+}

@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+  "Tetany Exacerbation Monitor": {
+    "Hyperventilation Status": {
+      "type": "options",
+      "options": ["normal", "rapid", "shallow", "other"]
+    },
+    "Nerve Pressure Status": {
+      "type": "options",
+      "options": ["yes", "no", "unknown"]
+    },
+    "Tetany Symptoms": {
+      "type": "options",
+      "options": ["yes", "no", "unknown"]
+    },
+    "Exacerbation Risk": {
+      "type": "options",
+      "options": ["low", "moderate", "high"]
+    },
+    "Notes": {
+      "type": "text"
+    }
+  }
+}

@@ -1,0 +1,33 @@
+Here is the output in JSON format:
+
+
+{
+  "Entry Site Inspection": {
+    "Parameters": {
+      "Inspection Questions": {
+        "Type": "list of boolean questions",
+        "Questions": [
+          "Is the entry site red or inflamed?",
+          "Is the entry site painful or tender to the touch?",
+          "Is the entry site warm to the touch?",
+          "Is the entry site swollen or raised?"
+        ]
+      },
+      "Frequency": {
+        "Type": "options",
+        "Options": [
+          "daily",
+          "every 12 hours",
+          "every 8 hours"
+        ]
+      },
+      "Notification": {
+        "Type": "text",
+        "Value": "If you notice any signs of infection, such as redness, pain, tenderness, warmth, or swelling, notify your healthcare provider immediately."
+      }
+    }
+  }
+}
+
+
+Note: I removed the "Image Upload" parameter since it was marked as "Not Applicable". Let me know if that's correct!

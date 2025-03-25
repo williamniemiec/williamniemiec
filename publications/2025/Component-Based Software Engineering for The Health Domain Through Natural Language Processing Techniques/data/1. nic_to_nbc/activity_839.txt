@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Motivation Assessment": {
+    "parameters": {
+      "name": "",
+      "sections": [
+        "health_beliefs",
+        "past_noncompliance",
+        "bad_experiences",
+        "conflicting_goals"
+      ],
+      "questions_or_tasks": [],
+      "scoring": ""
+    }
+  }
+}
+
+
+Let me know if you need any further assistance!

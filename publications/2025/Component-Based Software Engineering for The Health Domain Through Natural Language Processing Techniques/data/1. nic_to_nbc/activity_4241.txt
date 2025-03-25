@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Safety Plan": {
+    "Parameters": {
+      "Safety Risks": {"Type": "list of safety risks"},
+      "Crisis Intervention": {"Type": "messaging or video conferencing element"},
+      "Safety Strategies": {"Type": "text, audio, or video content"},
+      "Emergency Contacts": {"Type": "list of contacts"},
+      "Safety Plan Review": {"Type": "interactive exercise or gamification element"}
+    }
+  }
+}

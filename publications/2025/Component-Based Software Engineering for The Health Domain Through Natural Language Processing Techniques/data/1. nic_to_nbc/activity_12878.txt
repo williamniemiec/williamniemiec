@@ -1,0 +1,29 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "rest",
+    "parameters": [
+        { 
+            "name": "duration", 
+            "description": "specify the minimum duration to rest", 
+            "required": true, 
+            "type": "range",
+            "range": {
+                "min": 1,
+                "max": 2,
+                "unit": "minutes"
+            }
+        },
+        { 
+            "name": "condition", 
+            "description": "specify the condition to extend the rest duration", 
+            "required": true, 
+            "type": "options",
+            "options": [
+                { value: "faintness", label: "Faintness" },
+                { value: "weakness", label: "Weakness" }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+
+
+
+{
+  "Physical Activity Education": {
+    "Content": {"Type": "multimedia (text, images, videos)"},
+    "Benefits List": {"Type": "list of benefits"}
+  },
+  "Exercise Regimen": {
+    "Exercise List": {"Type": "list of exercises"},
+    "Frequency": {"Type": "frequency (e.g., daily, three times a week)"},
+    "Intensity": {"Type": "intensity level (e.g., low, moderate, high)"}
+  },
+  "Physical Therapy Referral": {
+    "Referral List": {"Type": "list of referrals"},
+    "Eligibility Criteria": {"Type": "eligibility criteria"}
+  },
+  "Progress Tracking": {
+    "Progress Log": {"Type": "progress log"},
+    "Graphical Representation": {"Type": "graphical representation (e.g., chart, graph)"}
+  },
+  "Motivational Messages": {
+    "Message List": {"Type": "list of messages"},
+    "Trigger": {"Type": "trigger event (e.g., completion of exercise, specific date)"}
+  }
+}

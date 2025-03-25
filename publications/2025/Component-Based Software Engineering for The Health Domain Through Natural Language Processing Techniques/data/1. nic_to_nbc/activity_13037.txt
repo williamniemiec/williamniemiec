@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Reading List": {
+    "Parameters": {
+      "Resource Type": "",
+      "Resource List": "",
+      "Filtering Criteria": "",
+      "Access Information": ""
+    }
+  }
+}

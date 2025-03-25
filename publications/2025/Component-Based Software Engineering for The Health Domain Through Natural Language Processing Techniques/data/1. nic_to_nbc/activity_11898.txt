@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Disaster Plan Education": {
+    "parameters": [
+      {"name": "module 1", "description": "Introduction to disaster planning", "required": true, "type": "video" || "e-learning module"},
+      {"name": "module 2", "description": "Disaster response protocols", "required": true, "type": "video" || "e-learning module"},
+      {"name": "module 3", "description": "Emergency communication procedures", "required": true, "type": "video" || "e-learning module"},
+      {"name": "quiz", "description": "Assess understanding of disaster plan(s)", "required": true, "type": "quiz"},
+      {"name": "frequency", "description": "Specify how often the disaster plan education should be performed", "required": true, "type": "options", "options": [
+        { "value": "monthly", "label": "Monthly" },
+        { "value": "quarterly", "label": "Quarterly" },
+        { "value": "annually", "label": "Annually" }
+      ]}
+    ]
+  }
+}

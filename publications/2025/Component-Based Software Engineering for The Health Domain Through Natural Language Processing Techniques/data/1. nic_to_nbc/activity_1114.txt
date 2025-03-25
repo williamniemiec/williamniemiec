@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "External Fixation Device Care Guide": {
+    "Parameters": {
+      "Name": {"Description": "Title of the guide", "Required": true, "Type": "text"},
+      "Pages": {"Description": "List of HTML texts with instructions on how to care for the external fixation device", "Required": true, "Type": "book-page"},
+      "Frequency": {"Description": "Frequency of reviewing the guide", "Required": true, "Type": "options", "Options": [{"value": "daily", "label": "Daily"}, {"value": "weekly", "label": "Weekly"}, {"value": "monthly", "label": "Monthly"}, {"value": "onlyOnce", "label": "Only once"}]}
+    }
+  }
+}

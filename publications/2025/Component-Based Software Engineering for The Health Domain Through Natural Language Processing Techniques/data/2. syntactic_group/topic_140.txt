@@ -1,0 +1,10 @@
+{
+  "name": "Cast Care and Handling",
+  "description": "Focuses on the proper care and handling of casts, including padding, protection, and drying techniques. It also covers the correct positioning of the cast and handling the edge or angle of the cast to avoid discomfort or injury.",
+  "type": "non-periodic",
+  "input": ["Cast care", "Padding", "Protection", "Drying techniques", "Angle and edge handling", "Groin protection"],
+  "output": ["Properly positioned and protected cast", "Drying and padding confirmation", "Handling guidelines for cast safety"],
+  "preconditions": ["User is managing or caring for a cast"],
+  "postconditions": ["Safe and comfortable cast with proper protection and handling"],
+  "dependencies": ["Cast care instructions", "Padding materials", "Drying and protection products"]
+}

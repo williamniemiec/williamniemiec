@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Readiness Enhancement": {
+    "parameters": {
+      "name": "",
+      "content_type": ["text", "video", "interactive", "quiz"],
+      "content": "",
+      "goals": ""
+    }
+  },
+  "Guide": {}
+}

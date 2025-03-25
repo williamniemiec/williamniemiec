@@ -1,0 +1,32 @@
+Here is the output in JSON format:
+
+
+{
+  "Guide": {
+    "parameters": {
+      "name": "",
+      "pages": ""
+    }
+  },
+  "Exercise Tutorial": {
+    "parameters": {
+      "name": "",
+      "steps": "",
+      "tips": ""
+    }
+  },
+  "Exercise Tracker": {
+    "parameters": {
+      "name": "",
+      "exercises": "",
+      "reminders": ""
+    }
+  },
+  "Progress Journal": {
+    "parameters": {
+      "name": "",
+      "entries": "",
+      "tags": ""
+    }
+  }
+}

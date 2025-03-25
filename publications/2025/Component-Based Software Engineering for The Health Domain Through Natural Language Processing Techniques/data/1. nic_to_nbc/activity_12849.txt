@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Allergy Identifier",
+    "parameters": [
+        {
+            "name": "allergy_list"
+        },
+        {
+            "name": "reaction"
+        },
+        {
+            "name": "severity"
+        }
+    ]
+}

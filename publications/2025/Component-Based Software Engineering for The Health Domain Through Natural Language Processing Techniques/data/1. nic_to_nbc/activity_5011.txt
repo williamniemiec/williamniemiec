@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Contact Lens Removal": {
+    "Instruction": {"Type": "text", "Description": "Remove your contact lenses"},
+    "Reason": {"Type": "text", "Description": "To prevent eye irritation or infection"},
+    "Frequency": {"Type": "options", "Options": ["daily", "weekly", "bi-weekly", "monthly"], "Description": "How often should you remove your contact lenses?"}
+  },
+  "Contact Lens Removal Task": {
+    "Task Title": {"Type": "text", "Description": "Remove Contact Lenses"},
+    "Task Steps": {"Type": "text", "Description": "Step 1: Wash your hands thoroughly. Step 2: Gently pinch the edge of the contact lens and pull it away from your eye."},
+    "Frequency": {"Type": "options", "Options": ["daily", "weekly", "bi-weekly", "monthly"], "Description": "How often should you remove your contact lenses?"}
+  }
+}

@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Reminiscence Method Selection": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Methods": {"Type": "options", "Options": [
+        {"Value": "tapedAutobiography", "Label": "Taped Autobiography"},
+        {"Value": "journal", "Label": "Journal"},
+        {"Value": "structuredLifeReview", "Label": "Structured Life Review"},
+        {"Value": "scrapbook", "Label": "Scrapbook"},
+        {"Value": "openDiscussion", "Label": "Open Discussion"},
+        {"Value": "storytelling", "Label": "Storytelling"}
+      ]},
+      "Description": {"Type": "text"},
+      "Rating": {"Type": "rating scale"},
+      "Selection": {"Type": "single-select option"}
+    }
+  }
+}

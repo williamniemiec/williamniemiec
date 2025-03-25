@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Medical History and Allergy Documentation": {
+    "parameters": {
+      "Medical History": {"type": "text"},
+      "Allergies": {"type": "text"},
+      "Reactions": {"type": "text"}
+    }
+  }
+}

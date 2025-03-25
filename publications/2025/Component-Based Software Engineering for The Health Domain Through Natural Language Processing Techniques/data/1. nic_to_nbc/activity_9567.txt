@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "CVAD Complication Monitoring": {
+    "Complication List": {"type": "list", "values": ["pneumothorax", "cardiac tamponade", "arterial puncture", "hemorrhage", "hemothorax", "hydrothorax", "air embolus", "brachial nerve plexus injury", "thoracic duct injury", "infection", "misplacement"]},
+    "Symptom Questions": {"type": "list of boolean questions", "questions": ["Are you experiencing chest pain or difficulty breathing?", "Are you experiencing chest pain or palpitations?", "Are you experiencing bleeding or bruising at the insertion site?", "Are you experiencing shortness of breath or coughing up blood?", "Are you experiencing sudden difficulty breathing or chest pain?", "Are you experiencing numbness, tingling, or weakness in your arm or hand?", "Are you experiencing swelling or pain in your neck or chest?", "Are you experiencing redness, swelling, or pus at the insertion site?", "Are you experiencing difficulty accessing your CVAD or unusual sensations during infusion?"]},
+    "Frequency": {"type": "options", "options": ["daily", "every 12 hours", "every 8 hours"]},
+    "Notification": {"type": "text", "value": "If you experience any of these symptoms, notify your healthcare provider immediately."}
+  }
+}

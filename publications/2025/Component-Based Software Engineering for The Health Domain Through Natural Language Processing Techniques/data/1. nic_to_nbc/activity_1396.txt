@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+  "Family Support Plan": {
+    "Parameters": {
+      "Family Members": {"Type": "list of text"},
+      "Support Needs": {"Type": "list of text"},
+      "Resources": {"Type": "list of resource objects", "Resource object": {"name": "", "description": "", "contact information": "", "availability": ""}},
+      "Counseling": {"Type": "options", "Options": ["individual", "group", "family", "other"]},
+      "Respite Care": {"Type": "options", "Options": ["in-home care", "adult day care", "other"]},
+      "Frequency": {"Type": "options", "Options": ["daily", "weekly", "monthly", "as needed"]},
+      "Deadline Date": {"Type": "datetime"},
+      "Care Coordinator": {"Type": "text"}
+    }
+  }
+}
+
+
+Let me know if you'd like me to make any changes!

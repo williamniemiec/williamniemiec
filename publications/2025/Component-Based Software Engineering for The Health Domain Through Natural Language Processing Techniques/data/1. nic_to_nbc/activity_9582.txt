@@ -1,0 +1,10 @@
+Here is the output in JSON format:
+
+
+{
+    "Milk or Formula Preparation": {
+        "Milk or Formula Type": {"Type": "options"},
+        "Temperature": {"Type": "boolean"},
+        "Pouring": {"Type": "boolean"}
+    }
+}

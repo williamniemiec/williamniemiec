@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Resource Identification": {
+    "Problem Statement": {},
+    "Resource Options": {},
+    "Resource Details": {},
+    "Priority": {},
+    "Frequency": ["daily", "onlyOnce", "everyHours", "everyDays"],
+    "Deadline Date": {}
+  }
+}

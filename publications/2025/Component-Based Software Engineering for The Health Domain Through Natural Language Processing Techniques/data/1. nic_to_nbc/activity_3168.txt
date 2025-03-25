@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+  "Vital Sign Tracking": {
+    "Parameters": {
+      "Vital Sign": {
+        "Type": "options",
+        "Options": ["blood pressure", "central venous pressure", "pulmonary artery pressure", "etc."]
+      },
+      "Frequency": {
+        "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+      },
+      "Deadline Date": {
+        "Type": "datetime"
+      },
+      "Unit": {
+        "Type": "options",
+        "Options": ["mmHg", "etc."]
+      }
+    }
+  }
+}

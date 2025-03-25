@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Environmental Hazard Removal": {
+    "parameters": [
+      {"name": "name", "type": "text"},
+      {"name": "hazard_list", "type": "list of hazard objects"},
+      {"name": "removal_instructions", "type": "list of instruction objects"},
+      {"name": "completion_status", "type": "boolean"}
+    ]
+  }
+}
+
+
+Let me know if this is what you were expecting!

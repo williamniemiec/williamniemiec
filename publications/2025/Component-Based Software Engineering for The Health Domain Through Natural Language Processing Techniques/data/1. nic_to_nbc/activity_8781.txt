@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Care Plan Optimizer": {
+    "parameters": {
+      "Care Needs Assessment": {},
+      "Care Options": {},
+      "Cost-Benefit Analysis": {},
+      "Care Plan Recommendations": {},
+      "Care Plan Tracking": {}
+    }
+  }
+}

@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Touch Comfort Self-Assessment": {
+    "parameters": {
+      "Touch Comfort Scale": {"type": "numerical value"},
+      "Touch Scenarios": {"type": "quiz or assessment questions"},
+      "Reflection Questions": {"type": "text or open-ended questions"},
+      "Personal Values": {"type": "text or open-ended questions"},
+      "Cultural and Professional Considerations": {"type": "text or open-ended questions"},
+      "Action Plan": {"type": "text or step-by-step instructions"},
+      "Deadline Date": {"type": "datetime"},
+      "Notes": {"type": "text"}
+    }
+  }
+}

@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Vital Sign Tracker": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Frequency": {"Options": ["daily", "everyHours", "everyDays"]},
+      "Deadline Date": {"Type": "datetime"},
+      "Blood Pressure": {"Type": "numeric"},
+      "Central Venous Pressure": {"Type": "numeric"},
+      "Pulmonary Capillary/Artery Wedge Pressure": {"Type": "numeric"},
+      "Additional Hemodynamic Parameters": {"Type": ["text", "numeric"]}
+    }
+  }
+}

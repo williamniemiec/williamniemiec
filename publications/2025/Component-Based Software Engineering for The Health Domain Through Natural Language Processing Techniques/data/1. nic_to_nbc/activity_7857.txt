@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Spiritual Support": {
+    "parameters": {
+      "Spiritual Needs": {},
+      "Spiritual Resources": {},
+      "Spiritual Support Options": {},
+      "Cultural Sensitivity": {},
+      "Collaboration": {},
+      "Follow-up": {}
+    }
+  }
+}

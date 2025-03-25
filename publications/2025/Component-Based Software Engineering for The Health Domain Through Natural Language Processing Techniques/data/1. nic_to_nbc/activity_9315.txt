@@ -1,0 +1,23 @@
+Here is the output in JSON format, removing everything except `{{ PARAMETER ESPECIFICATIONS }}` and `{{ NO-CODE ELEMENT NAME }}`, and not applicable parameters:
+
+
+{
+  "Catheter Exit Site Monitoring Tool": {
+    "parameters": [
+      {"name": "Name", "type": "text"},
+      {"name": "Assessment Questions", "type": "question",
+        "question": [
+          {"Text": "", "Type": "text", "Answers": [{"Text": "", "Correct": true}]}
+        ]
+      },
+      {"name": "Migration Criteria", "type": "migration-criteria",
+        "migration-criteria": [
+          {"Criterion": "", "Threshold": 1}
+        ]
+      }
+    ]
+  }
+}
+
+
+Let me know if this is what you were looking for!

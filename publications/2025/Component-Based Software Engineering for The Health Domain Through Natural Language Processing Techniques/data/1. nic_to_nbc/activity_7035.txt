@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Patient Medical History and Allergy Profile": {
+        "Medical History": {"Type": "text"},
+        "Allergies": {"Type": "unordered list"},
+        "Allergy Reactions": {"Type": "text"},
+        "Medication Allergies": {"Type": "unordered list"},
+        "Food Allergies": {"Type": "unordered list"},
+        "Environmental Allergies": {"Type": "unordered list"}
+    }
+}

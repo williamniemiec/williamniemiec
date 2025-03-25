@@ -1,0 +1,31 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Administration": {
+    "parameters": {
+      "name": {"type": "text"},
+      "medication_type": {"type": "options", "options": [
+        {"value": "bronchodilators", "label": "Bronchodilators"},
+        {"value": "mucolytics", "label": "Mucolytics"},
+        {"value": "corticosteroids", "label": "Corticosteroids"},
+        {"value": "other", "label": "Other"}
+      ]},
+      "medication_name": {"type": "text"},
+      "dosage": {"type": "text"},
+      "frequency": {"type": "options", "options": [
+        {"value": "as_needed", "label": "As needed"},
+        {"value": "every_4_hours", "label": "Every 4 hours"},
+        {"value": "every_6_hours", "label": "Every 6 hours"},
+        {"value": "every_8_hours", "label": "Every 8 hours"}
+      ]},
+      "route": {"type": "options", "options": [
+        {"value": "inhalation", "label": "Inhalation"},
+        {"value": "oral", "label": "Oral"},
+        {"value": "intravenous", "label": "Intravenous"},
+        {"value": "other", "label": "Other"}
+      ]},
+      "instructions": {"type": "text"}
+    }
+  }
+}

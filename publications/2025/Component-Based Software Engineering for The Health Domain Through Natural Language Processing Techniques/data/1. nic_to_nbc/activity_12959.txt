@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Nutrition and Exercise Education",
+    "parameters": [
+        {
+            "name": "Food Intake Information"
+        },
+        {
+            "name": "Exercise Information"
+        },
+        {
+            "name": "Weight Gain and Loss Information"
+        },
+        {
+            "name": "Personalized Examples"
+        },
+        {
+            "name": "Interactive Elements"
+        }
+    ]
+}

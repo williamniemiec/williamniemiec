@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Food Guidance": {
+        "Parameters": {
+            "Title": {
+                "Type": "text"
+            },
+            "Foods to Avoid": {}
+        }
+    }
+}

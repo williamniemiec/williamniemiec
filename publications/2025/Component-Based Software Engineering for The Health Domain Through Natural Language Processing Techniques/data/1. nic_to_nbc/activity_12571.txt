@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Administration": {
+    "parameters": {
+      "medication_list": {
+        "type": "list of medications (with names, dosages, and frequencies)"
+      },
+      "administration_schedule": {
+        "type": "schedule (with dates, times, and medication names)"
+      },
+      "physician_orders": {
+        "type": "text"
+      },
+      "administration_confirmation": {
+        "type": "boolean (true/false)"
+      }
+    }
+  }
+}

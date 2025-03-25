@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Chief Complaint and Reason for Admission": {
+    "Parameters": {
+      "Chief Complaint": {"Type": "text"},
+      "Reason for Admission": {"Type": "text"}
+    }
+  }
+}

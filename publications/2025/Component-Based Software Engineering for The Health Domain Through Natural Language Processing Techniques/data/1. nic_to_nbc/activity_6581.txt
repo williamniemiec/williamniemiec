@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Behavioral Analysis": {
+    "Parameters": {
+      "Behavior": {"Type": "text"},
+      "Triggers": {"Type": "list of text"},
+      "Consequences": {"Type": "list of text"},
+      "Motives": {"Type": "list of text"},
+      "Reflection Questions": {"Type": "list of text"},
+      "Frequency": {"Type": "options", "Options": ["daily", "weekly", "monthly", "as needed"]},
+      "Deadline Date": {"Type": "datetime"}
+    }
+  }
+}

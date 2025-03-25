@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+    "noCodeElementName": "Checklist",
+    "parameterSpecifications": {
+        "name": "Tourniquet Pressure and Cuff Inflation Check",
+        "description": "Verify tourniquet pressure and cuff inflation periodically during use",
+        "content_type": "checklist",
+        "items": [
+            { 
+                "name": "Tourniquet pressure", 
+                "description": "Verify tourniquet pressure", 
+                "type": "boolean"
+            },
+            { 
+                "name": "Cuff inflation", 
+                "description": "Verify cuff inflation", 
+                "type": "boolean"
+            }
+        ],
+        "frequency": "periodically during use"
+    }
+}

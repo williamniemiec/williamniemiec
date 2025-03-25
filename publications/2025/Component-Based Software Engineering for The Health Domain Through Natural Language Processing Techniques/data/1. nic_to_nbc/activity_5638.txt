@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Skin and Cuff Protection": {
+    "Parameters": {
+      "Instructions": {},
+      "Prep Solution": {},
+      "Irrigation Solution": {},
+      "Protection Methods": {}
+    }
+  }
+}

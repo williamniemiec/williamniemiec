@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Decision-Making Assessment": {
+    "Parameters": {
+      "Scenario": {},
+      "Options": {},
+      "Correct Answer": {},
+      "Rationale": {},
+      "Scoring": {},
+      "Feedback": {},
+      "Frequency": {}
+    }
+  }
+}

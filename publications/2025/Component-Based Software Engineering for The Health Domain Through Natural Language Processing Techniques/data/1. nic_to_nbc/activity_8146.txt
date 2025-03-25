@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Education": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Description": {"Type": "text"},
+      "Medication Information": {"Type": "text"},
+      "Teaching Method": {"Type": "options", "Options": ["verbal", "written", "demonstration", "other"]},
+      "Teaching Content": {"Type": "options", "Options": ["medication purpose", "dosage", "potential side effects", "other"]},
+      "Patient Education": {"Type": "options", "Options": ["none", "partial", "complete"]},
+      "Significant Others": {"Type": "text"},
+      "Frequency": {"Type": "options", "Options": ["one-time", "ongoing", "as needed"]}
+    }
+  }
+}
+
+
+Let me know if you need any further assistance!

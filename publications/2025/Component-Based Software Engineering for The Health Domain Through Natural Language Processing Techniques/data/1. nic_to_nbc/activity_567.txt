@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Leech Disposal": {
+    "Disposal Method": {},
+    "Container Type": {},
+    "Alcohol": {},
+    "Incineration": {},
+    "Disposal Instructions": {}
+  }
+}

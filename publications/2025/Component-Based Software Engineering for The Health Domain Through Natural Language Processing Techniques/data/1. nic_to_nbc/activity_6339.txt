@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+
+{
+  "Clinic Access Assistance": {
+    "Parameters": {
+      "Clinic Selection": {"Type": "options"},
+      "Appointment Scheduling": {"Type": "structured data"},
+      "Transportation Assistance": {"Type": "text or structured data"},
+      "Directions": {"Type": "text or structured data"}
+    }
+  }
+}
+
+
+I removed the "Additional Support" parameter as it was marked as not applicable. Let me know if you have any further questions!

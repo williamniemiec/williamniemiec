@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Communication Skills Module": {
+    "Parameters": {
+      "Communication Skills Content": {},
+      "Scenario-Based Exercises": {},
+      "Reflection Exercise": {},
+      "Frequency": ["daily", "weekly", "monthly"],
+      "Deadline Date": {},
+      "Motivational Message": {}
+    }
+  }
+}

@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "Financial Assessment": {
+    "parameters": [
+      {
+        "name": "Questions",
+        "type": "list"
+      },
+      {
+        "name": "Answer types",
+        "type": "list"
+      },
+      {
+        "name": "Frequency",
+        "type": "options"
+      },
+      {
+        "name": "Deadline date",
+        "type": "datetime"
+      }
+    ]
+  }
+}

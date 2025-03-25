@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+    "Progress Acknowledgement": {
+        "title of the progress acknowledgement": {"Type": "text"},
+        "Message": {"Type": ["text", "video"]},
+        "Frequency": {"Type": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+        "Deadline Date": {"Type": "datetime"}
+    }
+}

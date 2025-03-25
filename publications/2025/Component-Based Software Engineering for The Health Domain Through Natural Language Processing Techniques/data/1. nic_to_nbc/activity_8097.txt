@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Exercise Program": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Activities": {"Type": "unordered list"},
+      "Frequency": {"Options": ["daily", "weekly", "monthly", "quarterly"]},
+      "Deadline Date": {"Type": "datetime"},
+      "Tracking": {"Type": "options"}
+    }
+  }
+}
+
+
+Note that I removed the `Reminders` parameter since it's a boolean type, which is not applicable in this context.

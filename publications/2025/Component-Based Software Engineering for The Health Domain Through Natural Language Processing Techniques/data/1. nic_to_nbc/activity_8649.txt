@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+    "Lab Order": {
+        "parameters": {
+            "Lab Test": {"type": "text"},
+            "Specimen Type": {"type": "text"},
+            "Collection Instructions": {"type": "text"},
+            "Lab Results": {"type": "list of lab results (date, value, units)"},
+            "Reference Range": {"type": "range (min, max)"},
+            "Alerts": {"type": "list of alerts (condition, message, recipient)"}
+        }
+    }
+}

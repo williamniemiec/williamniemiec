@@ -1,0 +1,33 @@
+Here is the output in JSON format:
+
+
+{
+  "Hearing Test": {
+    "Parameters": {
+      "Name": {},
+      "Test Type": {},
+      "Test Instructions": {},
+      "Test Questions": [
+        {
+          "Question": {},
+          "Options": [
+            {
+              "Label": {},
+              "Value": {}
+            }
+          ]
+        }
+      ],
+      "Results": {
+        "Left Ear": {
+          "Frequency": {},
+          "Threshold": {}
+        },
+        "Right Ear": {
+          "Frequency": {},
+          "Threshold": {}
+        }
+      }
+    }
+  }
+}

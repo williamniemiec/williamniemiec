@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+{
+  "Immunization Assessment": {
+    "parameters": [
+      {"Child's Age": {"type": "number"}},
+      {"Child's Health Status": {"type": "options", "options": ["healthy", "chronicCondition", "other"]}},
+      {"Immunization History": {"type": "text"}},
+      {"Recommended Immunizations": {"type": "list"}}
+    ]
+  }
+}
+
+Note that I removed the "Risk Factors" parameter since it's not applicable (required: false). Let me know if you need any further assistance!

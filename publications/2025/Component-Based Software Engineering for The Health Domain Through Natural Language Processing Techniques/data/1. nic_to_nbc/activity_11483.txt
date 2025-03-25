@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Diuresis Tracker": {
+    "Urine Output": {
+      "Type": "number"
+    },
+    "Symptoms": {
+      "Increased thirst": {}
+    }
+  }
+}

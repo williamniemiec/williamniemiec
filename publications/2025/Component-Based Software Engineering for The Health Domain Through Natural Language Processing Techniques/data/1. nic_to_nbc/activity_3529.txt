@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Self-Forgiveness Guidance": {
+    "Acknowledge Guilt": {"type": "text", "example": "Acknowledge your role in the situation and take responsibility for your actions."},
+    "Identify Harm": {"type": "text", "example": "Reflect on how your actions affected others and yourself."},
+    "Express Remorse": {"type": "text", "example": "Express your regret and apology for the harm caused."},
+    "Make Amends": {"type": "text", "example": "Take concrete actions to repair the harm caused, if possible."},
+    "Let Go of Self-Criticism": {"type": "text", "example": "Practice self-compassion and recognize that you are human and capable of making mistakes."},
+    "Practice Self-Forgiveness": {"type": "text", "example": "Repeat phrases such as 'I forgive myself' or 'I am doing the best I can' to help you let go of guilt and shame."},
+    "Follow-up": {"type": "text", "example": "Follow up with the patient in one week to assess their progress with self-forgiveness and provide additional guidance as needed."}
+  }
+}

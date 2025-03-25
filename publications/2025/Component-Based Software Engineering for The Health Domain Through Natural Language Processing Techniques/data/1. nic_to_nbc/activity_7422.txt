@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+    "Social Support Assessment": {
+        "Activities of Daily Living (ADLs)": {},
+        "Health Care": {},
+        "Transportation": {},
+        "Therapy": {},
+        "Medications": {},
+        "Community Resource Information": {},
+        "Financial Advice": {},
+        "Personal Problems": {},
+        "Social Support Network Strength": {}
+    }
+}

@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Lens Identification Guide": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Lens Type": {"Type": "options", "Options": ["contact lens", "glasses", "others"]},
+      "Identification Information": {"Type": "text"},
+      "Care Instructions": {"Type": "text"},
+      "Reminders": {"Type": "options", "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"Type": "datetime"}
+    }
+  }
+}
+
+
+Note that I removed the not applicable parameters and only kept the `{{ NO-CODE ELEMENT NAME }}` and `{{ PARAMETER ESPECIFICATIONS }}` as per your request.

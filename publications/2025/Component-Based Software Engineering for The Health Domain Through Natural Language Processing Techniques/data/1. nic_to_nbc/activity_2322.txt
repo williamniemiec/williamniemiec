@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Breastfeeding Support Guidance": {
+    "Assessment Questions": {
+      "type": "questionnaire",
+      "example": ["Is your baby having trouble latching?", "Is your baby showing signs of hunger after feedings?", "Are you experiencing nipple soreness or pain?"]
+    },
+    "Guidance": {
+      "type": "text",
+      "example": "Based on your answers, it appears that your baby may benefit from supplemental feedings to ensure adequate nutrition. Please consult with a lactation consultant or healthcare provider for further guidance."
+    },
+    "Frequency": {
+      "type": "options",
+      "options": ["everyFeeding", "everyXFeedings", "atWill"]
+    }
+  }
+}

@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+[
+    {
+        "element": "Vein Selection Guide",
+        "parameters": [
+            {"name": "Vein Options", "type": "list of options"},
+            {"name": "Accessibility Criteria", "type": "text"},
+            {"name": "Usage Criteria", "type": "text"},
+            {"name": "Recommendation", "type": "text"},
+            {"name": "Justification", "type": "text"}
+        ]
+    },
+    {
+        "element": "Vein Assessment Tool",
+        "parameters": [
+            {"name": "Vein Assessment", "type": "form (list of questions with answer options)"},
+            {"name": "Scoring System", "type": "numerical score"},
+            {"name": "Recommendation", "type": "text"},
+            {"name": "Justification", "type": "text"}
+        ]
+    }
+]

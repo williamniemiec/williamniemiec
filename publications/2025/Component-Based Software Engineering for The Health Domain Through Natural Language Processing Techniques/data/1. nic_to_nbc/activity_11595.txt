@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Tube Patency Check": {
+    "Name": {"type": "text"},
+    "Patency Check Instructions": {"type": "text or HTML"},
+    "Patency Status": {"type": "options", "options": ["patent", "occluded", "other"]},
+    "Verification Method": {"type": "options", "options": ["photo", "questionnaire", "other"]},
+    "Frequency": {"type": "options", "options": ["daily", "every 12 hours", "every 8 hours", "custom"]},
+    "Deadline Date": {"type": "datetime"},
+    "Confirmation": {"type": "boolean"},
+    "Additional Notes": {"type": "text"}
+  }
+}

@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Milliamperage Setting": {
+        "parameters": [
+            {"Patient Type": {"type": "options", "options": ["nonurgent", "emergent"]}},
+            {"mA Range": {"type": "text"}},
+            {"Capture Status": {"type": "boolean"}},
+            {"mA Adjustment": {"type": "text"}}
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+Here is the output in JSON format, removing everything except `PARAMETER ESPECIFICATIONS` and `NO-CODE ELEMENT NAME`, and removing not applicable parameters:
+
+
+{
+    "Side Effect Management": {
+        "parameters": [
+            { "name": "Name", "type": "text" },
+            { "name": "Medication Name", "type": "text" },
+            { "name": "Side Effect", "type": "text" },
+            { "name": "Relief/Prevention Methods", "type": "list of text" },
+            { "name": "Frequency", "type": "options" },
+        ]
+    }
+}

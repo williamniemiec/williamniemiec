@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Goal Setting": {
+    "Parameters": {
+      "Goal Statement": {"Type": "text"},
+      "Goal Type": {"Type": "options", "Options": ["anxiety", "sleep", "pain management", "confidence", "other"]},
+      "Desired Outcome": {"Type": "text"},
+      "Measurable Criteria": {"Type": "text"},
+      "Priority": {"Type": "options", "Options": ["high", "medium", "low"]},
+      "Additional Notes": {"Type": "text"}
+    }
+  }
+}

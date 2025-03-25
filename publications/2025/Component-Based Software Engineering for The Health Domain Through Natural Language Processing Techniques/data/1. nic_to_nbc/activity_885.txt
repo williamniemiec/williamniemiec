@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Laundry Assistance": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Description": {"Type": "text"},
+      "Frequency": {"Type": "options", "Options": ["daily", "everyOtherDay", "every2Days", "custom"]},
+      "Request Message": {"Type": "text"},
+      "Clothing Type": {"Type": "options", "Options": ["shirts", "pants", "dresses", "other"]}
+    }
+  }
+}

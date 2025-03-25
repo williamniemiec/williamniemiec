@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Responsibility Timetable": {
+    "Parameters": {
+      "Responsibility Area": {"Type": "options"},
+      "Current Level of Responsibility": {"Type": "scale"},
+      "Desired Level of Responsibility": {"Type": "scale"},
+      "Timetable": {"Type": "table"},
+      "Milestones": {"Type": "unordered list"},
+      "Frequency": {"Type": "options"}
+    }
+  }
+}

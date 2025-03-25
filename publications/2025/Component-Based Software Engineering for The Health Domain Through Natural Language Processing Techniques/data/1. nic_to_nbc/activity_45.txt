@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Message Clarification Exercise": {
+    "Message": {"type": "text"},
+    "Question Types": {"type": "list of text"},
+    "Feedback Options": {"type": "list of text"},
+    "Clarification Attempt": {"type": "text"},
+    "Reflection Questions": {"type": "list of text"},
+    "Insight": {"type": "text"}
+  }
+}

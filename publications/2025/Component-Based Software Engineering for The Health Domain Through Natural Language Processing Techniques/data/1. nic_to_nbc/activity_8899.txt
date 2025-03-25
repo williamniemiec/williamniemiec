@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Resource Connection": {
+    "Parameters": {
+      "Resource Types": {"Type": "list of text"},
+      "Resource Database": {"Type": "list of objects (resource name, description, contact info)"},
+      "Filtering Criteria": {"Type": "list of options (location, language, insurance)"},
+      "Resource Matching": {"Type": "algorithm (e.g., based on patient input, resource database, filtering criteria)"},
+      "Resource Referral": {"Type": "text (e.g., phone number, email, website)"},
+      "Follow-up": {"Type": "options (phone call, email, in-app notification)"}
+    }
+  }
+}

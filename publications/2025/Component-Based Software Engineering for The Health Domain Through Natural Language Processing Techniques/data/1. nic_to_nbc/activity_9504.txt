@@ -1,0 +1,7 @@
+Since there's no input provided, I'll assume it's an empty string. Here is the output in JSON format:
+
+
+{
+  "PARAMETER ESPECIFICATIONS": "",
+  "NO-CODE ELEMENT NAME": ""
+}

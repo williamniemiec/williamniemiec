@@ -1,0 +1,42 @@
+Here is the output in JSON format:
+
+
+{
+    "Belongings Task": {
+        "Task Title": {
+            "Description": "Title of the task",
+            "Required": true,
+            "Type": "text"
+        },
+        "Content": {
+            "Description": "Description of the task",
+            "Required": true,
+            "Type": "text"
+        },
+        "Belongings List": {
+            "Description": "List of personal belongings to label and secure",
+            "Required": true,
+            "Type": "list",
+            "Options": [
+                { "value": "clothing", "label": "Clothing" },
+                { "value": "jewelry", "label": "Jewelry" },
+                { "value": "glasses", "label": "Glasses" },
+                { "value": "hearingAid", "label": "Hearing Aid" }
+            ]
+        },
+        "Frequency": {
+            "Description": "Specify how often the task should be repeated",
+            "Required": true,
+            "Type": "options",
+            "Options": [
+                { "value": "daily", "label": "Daily" },
+                { "value": "onlyOnce", "label": "Only once" },
+                { "value": "everyHours", "label": "Every x hours" },
+                { "value": "everyDays", "label": "Every x days" }
+            ]
+        }
+    }
+}
+
+
+I removed the `Deadline Date` parameter since it's not required. Let me know if you need anything else!

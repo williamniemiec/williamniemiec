@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+  "Family Contact Plan": {
+    "Contact Methods": {
+      "type": "options",
+      "options": ["phone call", "video call", "in-person visit", "email", "messaging app", "etc."]
+    },
+    "Frequency": {
+      "type": "options",
+      "options": ["daily", "weekly", "biweekly", "monthly", "etc."]
+    },
+    "Duration": {
+      "type": "options",
+      "options": ["15 minutes", "30 minutes", "1 hour", "etc."]
+    },
+    "Content": {
+      "type": "text or form"
+    },
+    "Reminders": {
+      "type": "boolean"
+    },
+    "Deadline Date": {
+      "type": "datetime"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+Here is the output in JSON format:
+
+
+{
+"Instruction": {
+"name": "Suture Care",
+"content": "Pull the suture tight enough to not buckle the skin",
+"type": "text"
+}
+}

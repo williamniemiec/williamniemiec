@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Support Person Invitation": {
+    "parameters": {
+      "name": {"type": "text"},
+      "relationship": {"type": "options", "options": ["intimate partner", "family member", "friend", "other"]},
+      "invitation_message": {"type": "text"},
+      "delivery_date": {"type": "datetime"}
+    }
+  }
+}

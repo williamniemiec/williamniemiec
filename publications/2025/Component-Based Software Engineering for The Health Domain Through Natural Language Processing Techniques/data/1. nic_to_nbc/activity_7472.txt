@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+    "Medication Alert Devices Info": {
+        "parameters": {
+            "name": {},
+            "description": {},
+            "device_types": [
+                {
+                    "name": {},
+                    "description": {}
+                }
+            ],
+            "vendors": [
+                {
+                    "name": {},
+                    "url": {},
+                    "contact_info": {}
+                }
+            ],
+            "obtaining_info": {},
+            "notes": {}
+        }
+    }
+}

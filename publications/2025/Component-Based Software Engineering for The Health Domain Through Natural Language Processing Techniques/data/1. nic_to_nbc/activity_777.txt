@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Tracker": {
+        "Parameters": {
+            "Metric": {"Type": "options"},
+            "Unit": {"Type": "options"},
+            "Frequency": {"Type": "options"},
+            // Removed "Deadline Date" as it's not applicable
+        }
+    }
+}

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Educational Content": {
+    "Parameters": {
+      "Title": {},
+      "Content": {},
+      "Sections": {},
+      "Interactive Elements": {},
+      "Readability Level": {}
+    }
+  }
+}

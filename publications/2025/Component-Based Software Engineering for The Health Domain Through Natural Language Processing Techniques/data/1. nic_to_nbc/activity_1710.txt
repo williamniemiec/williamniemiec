@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Emotional Wellbeing Check": {
+    "Mood Tracking": {},
+    "Emotional Triggers": {},
+    "Coping Strategies": {},
+    "Alerts": {}
+  }
+}

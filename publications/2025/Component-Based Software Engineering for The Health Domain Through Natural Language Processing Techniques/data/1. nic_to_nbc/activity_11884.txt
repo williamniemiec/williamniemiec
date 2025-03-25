@@ -1,0 +1,5 @@
+Since there is no no-code element associated with the intervention, my output will be an empty JSON object:
+
+{}
+
+This indicates that there are no applicable parameters or no-code element names to report.

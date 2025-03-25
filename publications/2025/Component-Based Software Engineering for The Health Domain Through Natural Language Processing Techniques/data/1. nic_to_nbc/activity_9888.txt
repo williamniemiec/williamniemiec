@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Toothbrushing Education": {
+        "Parameters": {
+            "Toothbrush Selection": {"Type": "text", "Content": "A soft-bristled toothbrush is gentle on the infant's gums and teeth."},
+            "Toothpaste Selection": {"Type": "text", "Content": "Water or non-fluoridated toothpaste is recommended for infants to avoid excessive fluoride intake."},
+            "Toothbrushing Technique": {"Type": "text", "Content": "Gently brush the infant's teeth in a circular motion, focusing on the front and back surfaces."},
+            "Frequency and Duration": {"Type": "text", "Content": "Brush the infant's teeth at least twice a day, in the morning and before bedtime, for about 30 seconds."},
+            "Tips and Reminders": {"Type": "list", "Items": ["Make toothbrushing a fun and engaging experience for the infant.", "Use a small amount of toothpaste, about the size of a grain of rice.", "Replace the toothbrush every 3-4 months or sooner if the bristles become frayed."]}
+        }
+    }
+}

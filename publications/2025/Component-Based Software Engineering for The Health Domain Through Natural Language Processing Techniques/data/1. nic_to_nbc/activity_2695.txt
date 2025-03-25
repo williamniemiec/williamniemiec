@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Topical Antifungal Treatment": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Instructions": {"Type": "text"},
+      "Frequency": {"Type": "options", "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"Type": "datetime"},
+      "Affected Area": {"Type": "text"},
+      "Notes": {"Type": "text"}
+    }
+  }
+}

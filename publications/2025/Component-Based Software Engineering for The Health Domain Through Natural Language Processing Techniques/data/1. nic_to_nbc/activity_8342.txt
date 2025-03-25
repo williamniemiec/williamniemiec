@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+{
+  "Emotion-Focused Discussion": {
+    "parameters": [
+      {"Delusional Statement": "text"},
+      {"Underlying Feeling": "text or options"},
+      {"Empathetic Response": "text"},
+      {"Communication Channel": "text or options"},
+      {"Frequency of Intervention": "options"}
+    ]
+  }
+}

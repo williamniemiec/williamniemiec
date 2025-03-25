@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Device Setup": {
+    "parameters": [
+      {"name": "device_name", "description": "Device name", "required": true, "type": "text"},
+      {"name": "setup_instructions", "description": "Step-by-step setup instructions", "required": true, "type": ["text", "video"]},
+      {"name": "frequency", "description": "Specify how often the device should be checked", "required": true, "type": "options", "options": [
+        {"value": "daily", "label": "Daily"},
+        {"value": "onlyOnce", "label": "Only once"},
+        {"value": "everyHours", "label": "Every x hours"},
+        {"value": "everyDays", "label": "Every x days"}
+      ]},
+      {"name": "deadline_date", "description": "Specify the due date for device setup", "required": false, "type": "datetime"}
+    ]
+  }
+}
+
+
+Note that I removed the `content_type` parameter as it was not applicable to the specific no-code element.

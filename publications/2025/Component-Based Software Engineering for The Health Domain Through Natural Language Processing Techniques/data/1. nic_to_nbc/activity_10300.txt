@@ -1,0 +1,58 @@
+Here is the output in JSON format:
+
+
+{
+    "Care Topics": {
+        "Description": "List of care topics to learn about",
+        "Required": true,
+        "Type": "knowledge-base",
+        "Knowledge-base": [
+            {
+                "label": "Medication Management",
+                "content": "HTML content explaining medication management"
+            },
+            {
+                "label": "Wound Care",
+                "content": "HTML content explaining wound care"
+            },
+            {
+                "label": "Nutrition and Diet",
+                "content": "HTML content explaining nutrition and diet"
+            }
+        ]
+    },
+    "Care Plans": {
+        "Description": "Personalized care plans and instructions",
+        "Required": true,
+        "Type": "document",
+        "Document": [
+            {
+                "label": "Medication Schedule",
+                "content": "PDF document outlining medication schedule"
+            },
+            {
+                "label": "Wound Care Instructions",
+                "content": "PDF document outlining wound care instructions"
+            }
+        ]
+    },
+    "Care Team": {
+        "Description": "Contact information for care team members",
+        "Required": true,
+        "Type": "contact-list",
+        "Contact-list": [
+            {
+                "label": "Primary Care Physician",
+                "name": "Dr. John Smith",
+                "phone": "555-555-5555",
+                "email": "john.smith@hospital.com"
+            },
+            {
+                "label": "Nurse Practitioner",
+                "name": "Jane Doe",
+                "phone": "555-555-5556",
+                "email": "jane.doe@hospital.com"
+            }
+        ]
+    }
+}

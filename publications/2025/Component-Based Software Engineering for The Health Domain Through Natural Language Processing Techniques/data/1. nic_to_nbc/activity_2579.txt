@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Environmental Adaptation Guide": {
+    "Name": {"Type": "text"},
+    "Deficit": {"Type": "options"},
+    "Unaffected Side": {"Type": "options"},
+    "Adaptation Steps": {"Type": "interactive checklist"},
+    "Room-by-Room Guide": {"Type": "interactive checklist"},
+    "Frequency": {"Type": "options"},
+    "Deadline Date": {"Type": "datetime"}
+  }
+}

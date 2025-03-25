@@ -1,0 +1,48 @@
+Here is the output in JSON format:
+
+
+{
+    "Nonverbal Discomfort Assessment": {
+        "Cues": {
+            "Description": "List of nonverbal cues to observe",
+            "Required": true,
+            "Type": "checklist",
+            "Options": [
+                {"value": "facialExpressions", "label": "Facial expressions"},
+                {"value": "bodyLanguage", "label": "Body language"},
+                {"value": "vocalizations", "label": "Vocalizations"},
+                {"value": "restlessness", "label": "Restlessness"},
+                {"value": "withdrawal", "label": "Withdrawal"}
+            ]
+        },
+        "Population": {
+            "Description": "Population to observe for nonverbal cues",
+            "Required": true,
+            "Type": "options",
+            "Options": [
+                {"value": "infants", "label": "Infants"},
+                {"value": "children", "label": "Children"},
+                {"value": "alzheimers", "label": "Individuals with Alzheimer's disease"},
+                {"value": "other", "label": "Other (please specify)"}
+            ]
+        },
+        "Frequency": {
+            "Description": "How often to observe for nonverbal cues",
+            "Required": true,
+            "Type": "options",
+            "Options": [
+                {"value": "continuously", "label": "Continuously"},
+                {"value": "frequently", "label": "Frequently"},
+                {"value": "periodically", "label": "Periodically"}
+            ]
+        },
+        "Notes": {
+            "Description": "Optional notes about the observation",
+            "Required": false,
+            "Type": "text"
+        }
+    }
+}
+
+
+I removed all unnecessary text and kept only the `PARAMETER ESPECIFICATIONS` and `NO-CODE ELEMENT NAME`. I also reformatted the output to be in JSON format. Let me know if you need any further modifications!

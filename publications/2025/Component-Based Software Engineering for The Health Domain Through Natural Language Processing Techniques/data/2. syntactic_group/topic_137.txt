@@ -1,0 +1,10 @@
+{
+  "name": "Irrigation and Sterility Procedures",
+  "description": "Involves the use of syringes, solutions, and containers for irrigation procedures. Emphasizes the importance of sterility, disconnection/reconnection of tubing, and the proper handling of catheters.",
+  "type": "non-periodic",
+  "input": ["Irrigation techniques", "Sterile solutions", "Syringe usage", "Catheter handling", "Disconnection/reconnection protocols"],
+  "output": ["Irrigation procedure report", "Sterility confirmation", "Catheter handling guidelines"],
+  "preconditions": ["User is performing an irrigation or catheter procedure"],
+  "postconditions": ["Proper irrigation and sterility maintained during the procedure"],
+  "dependencies": ["Irrigation system", "Sterility verification tools", "Catheter management platform"]
+}

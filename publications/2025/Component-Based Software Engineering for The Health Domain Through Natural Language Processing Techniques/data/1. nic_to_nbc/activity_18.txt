@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Standards Review": {
+        "parameters": [
+            {"name": "patient_population"},
+            {"name": "standards"},
+            {"name": "review_criteria"},
+            {"name": "recommendations"}
+        ]
+    }
+}

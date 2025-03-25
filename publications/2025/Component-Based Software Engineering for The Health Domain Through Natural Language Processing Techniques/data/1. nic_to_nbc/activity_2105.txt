@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "no-code element name": "question",
+  "parameter specifications": {
+    "name": {"type": "text"},
+    "answer type": {"options": ["yes/no", "text", "select"]},
+    "frequency": {"options": ["onlyOnce", "everyVisit"]},
+    "deadline_date": {"type": "datetime"}
+  }
+}

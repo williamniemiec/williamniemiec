@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Therapy Consultation",
+    "parameters": [
+        {
+            "name": "Therapy Type"
+        },
+        {
+            "name": "Therapist Selection"
+        },
+        {
+            "name": "Consultation Frequency"
+        },
+        {
+            "name": "Goal Setting"
+        },
+        {
+            "name": "Progress Monitoring"
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Lens Care Warning": {
+    "Forbidden Substances": {"type": "unordered list", "example": ["Saliva", "Tap water", "Sterile saline found in healthcare agencies"]},
+    "Reasons to Avoid": {"type": "text", "example": "Using saliva, tap water, or sterile saline found in healthcare agencies can contaminate your lenses and increase the risk of eye infections."},
+    "Recommended Alternatives": {"type": "unordered list", "example": ["Multipurpose solution", "Contact lens cleaning solution", "Sterile saline solution specifically designed for contact lens care"]},
+    "Visual Aids": {"type": "list of URLs or embedded media"},
+    "Frequency of Reminder": {"type": "options", "options": ["daily", "weekly", "monthly"]}
+  }
+}

@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "noCodeElementName": "CPR Instruction",
+  "parameters": {
+    "CPR Technique": {"type": ["text", "multimedia"]},
+    "Step-by-Step Instructions": {"type": ["text", "interactive module"]},
+    "CPR Demonstration": {"type": ["multimedia", "interactive module"]},
+    "Practice Exercise": {"type": ["interactive module"]},
+    "FAQs": {"type": ["text", "interactive module"]}
+  }
+}

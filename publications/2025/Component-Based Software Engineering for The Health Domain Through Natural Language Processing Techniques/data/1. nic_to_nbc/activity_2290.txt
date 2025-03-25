@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Credibility Badge": {
+    "credentials": {"type": "text"},
+    "expertise": {"type": "text"},
+    "testimonials": {"type": "text"},
+    "certifications": {"type": "text"}
+  },
+  "Teacher Profile": {
+    "teacher_id": {"type": "text"},
+    "name": {"type": "text"},
+    "bio": {"type": "text"}
+  }
+}
+
+
+Let me know if this is what you were expecting!

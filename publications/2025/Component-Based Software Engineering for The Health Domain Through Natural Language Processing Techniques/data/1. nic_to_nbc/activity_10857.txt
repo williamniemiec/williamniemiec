@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Foot and Leg Exercise": {
+    "Exercise Type": {},
+    "Body Part": {},
+    "Frequency": {},
+    "Repetitions": {}
+  }
+}

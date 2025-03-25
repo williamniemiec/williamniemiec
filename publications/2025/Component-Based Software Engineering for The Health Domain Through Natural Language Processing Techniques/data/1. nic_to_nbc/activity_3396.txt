@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Scale": {
+    "Goal": {},
+    "Upper Level": {},
+    "Lower Level": {},
+    "Levels": [
+      {"Label": {}, "Value": {}}
+    ],
+    "Current Level": {"Label": {}, "Value": {}}
+  }
+}

@@ -1,0 +1,38 @@
+Here is the output in JSON format:
+
+
+{
+  "Antiembolism Stocking Application Guide": {
+    "parameters": [
+      {
+        "name": "stocking_type",
+        "description": "Specify the type of antiembolism stocking to be applied (e.g., knee-high, thigh-high, etc.)",
+        "required": true,
+        "type": "options",
+        "options": [
+          { "value": "kneeHigh", "label": "Knee-high" },
+          { "value": "thighHigh", "label": "Thigh-high" },
+          { "value": "custom", "label": "Custom" }
+        ]
+      },
+      {
+        "name": "application_instructions",
+        "description": "Step-by-step instructions for applying the antiembolism stocking",
+        "required": true,
+        "type": "text" || "video"
+      },
+      {
+        "name": "frequency",
+        "description": "Specify how often to apply the antiembolism stocking",
+        "required": true,
+        "type": "options",
+        "options": [
+          { "value": "daily", "label": "Daily" },
+          { "value": "everyOtherDay", "label": "Every other day" },
+          { "value": "weekly", "label": "Weekly" },
+          { "value": "custom", "label": "Custom" }
+        ]
+      }
+    ]
+  }
+}

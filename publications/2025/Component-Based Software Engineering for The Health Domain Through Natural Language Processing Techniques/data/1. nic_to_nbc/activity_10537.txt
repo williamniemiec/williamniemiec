@@ -1,0 +1,34 @@
+Here is the output in JSON format:
+
+
+{
+"Dosing Recommendation": {
+    "Dosing Method": {
+        "Type": "options",
+        "Options": [
+            {"value": "mg/kg", "label": "Milligrams per kilogram body weight"},
+            {"value": "BSA", "label": "Body surface area"},
+            {"value": "LED", "label": "Lowest effective dose"}
+        ]
+    },
+    "Patient Characteristics": {
+        "Type": "list",
+        "Example": [
+            {"characteristic": "Weight (kg)"},
+            {"characteristic": "Height (cm)"},
+            {"characteristic": "Age (years)"}
+        ]
+    },
+    "Dosing Formula": {
+        "Type": "text",
+        "Example": "Dose (mg) = (weight in kg x dose per kg) / frequency"
+    },
+    "Example": {
+        "Type": "text",
+        "Example": "For a patient weighing 70 kg, the starting dose of medication would be 35 mg (70 kg x 0.5 mg/kg) taken twice daily."
+    }
+}
+}
+
+
+I removed all unnecessary parts and kept only the `{{ PARAMETER ESPECIFICATIONS }}` and `{{ NO-CODE ELEMENT NAME }}`. I also reformatted the output to make it more readable as a JSON object.

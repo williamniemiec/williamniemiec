@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "Environmental Stress Reduction Guide": {
+    "parameters": {
+      "Guide Content": {
+        "type": ["text", "multimedia"]
+      },
+      "Stress Reduction Techniques": {
+        "type": ["text", "options"]
+      },
+      "Frequency": {
+        "options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+      },
+      "Deadline Date": {
+        "type": "datetime"
+      }
+    }
+  }
+}
+
+
+I removed the introduction, conclusion, and unnecessary parameters. Let me know if this is what you were looking for!

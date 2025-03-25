@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Electrical Safety Guide": {
+    "title": {},
+    "why_electrical_safety_is_important": {},
+    "hazards_of_electrical_outlets_cords_and_equipment": {},
+    "prevention_strategies": {},
+    "safety_tips": {},
+    "frequency": {}
+  }
+}

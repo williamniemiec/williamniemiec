@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Calculator": {
+    "Parameters": {
+      "Data Entry": [],
+      "Calculation Formula": [],
+      "Result Display": [],
+      "Reference Range": [],
+      "Reminders": []
+    }
+  }
+}

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Support System Identification": {
+    "Parameters": {
+      "Support System Types": {"type": "list of text"},
+      "Identification Questions": {"type": "list of text"},
+      "Response Type": {"type": "options", "options": ["text", "multiple choice", "rating scale"]},
+      "Reflection": {"type": "text"},
+      "Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]}
+    }
+  }
+}

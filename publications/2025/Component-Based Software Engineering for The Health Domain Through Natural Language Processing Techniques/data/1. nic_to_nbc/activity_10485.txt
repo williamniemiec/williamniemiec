@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+  "Patient Positioning": {
+    "Procedure Type": {
+      "type": "options",
+      "options": ["surgery", "examination", "imaging", "etc."]
+    },
+    "Patient Position": {
+      "type": "options",
+      "options": ["supine", "prone", "lateral", "sitting", "standing", "etc."]
+    },
+    "Draping Requirements": {
+      "type": "options",
+      "options": ["sterile drapes", "privacy drapes", "none", "etc."]
+    },
+    "Special Considerations": {
+      "type": "text"
+    }
+  }
+}

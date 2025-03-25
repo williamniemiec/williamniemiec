@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Bladder Training": {
+    "Task Title": {"Description": "Title of the bladder training task", "Type": "text"},
+    "Instructions": {"Description": "Step-by-step instructions on how to hold urine until the scheduled toileting time", "Type": "text"},
+    "Schedule": {"Description": "Schedule for toileting times", "Type": "table"}
+  }
+}
+
+
+I removed all non-applicable parameters and kept only the `{{ NO-CODE ELEMENT NAME }}` and `{{ PARAMETER ESPECIFICATIONS }}`. The output is a JSON object with the no-code element name as the key, and an object containing the parameter specifications as its value.

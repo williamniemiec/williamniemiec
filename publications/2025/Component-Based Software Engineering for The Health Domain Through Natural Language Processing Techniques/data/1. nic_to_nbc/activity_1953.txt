@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Conversation": {
+    "Topic": {"Type": "text"},
+    "Conversation Style": {"Type": "options", "Options": ["pleasant", "calm", "empathetic", "etc."]},
+    "Frequency": {"Type": "options", "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"Type": "datetime"}
+  }
+}

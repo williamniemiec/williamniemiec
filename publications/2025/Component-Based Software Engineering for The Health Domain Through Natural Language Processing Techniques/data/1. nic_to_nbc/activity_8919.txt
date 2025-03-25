@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+    "instruction": {
+        "parameters": [
+            {"name": "title", "description": "instruction title"},
+            {"name": "steps", "description": "list of steps to follow"},
+            {"name": "frequency", "description": "specify how often the instruction should be repeated"}
+        ]
+    }
+}

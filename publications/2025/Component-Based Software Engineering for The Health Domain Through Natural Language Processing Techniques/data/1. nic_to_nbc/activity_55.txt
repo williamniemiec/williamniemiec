@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Comfortable Clothing": {
+    "Clothing Options": {"type": "list of options"},
+    "Clothing Tips": {"type": "text"},
+    "Image or Video": {"type": "URL or base64 encoded image/video"},
+    "Confirmation": {"type": "boolean"}
+  }
+}
+
+
+Let me know if this meets your requirements!

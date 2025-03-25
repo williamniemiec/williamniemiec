@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+    "Skin Inspection": {
+        "Body Prominence": {"type": "options", "options": ["heels", "elbows", "hips", "buttocks", "shoulders", "back", "other"]},
+        "Inspection Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+        "Deadline Date": {"type": "datetime"},
+        "Signs to Look For": {"type": "text"},
+        "Action to Take": {"type": "text"}
+    }
+}

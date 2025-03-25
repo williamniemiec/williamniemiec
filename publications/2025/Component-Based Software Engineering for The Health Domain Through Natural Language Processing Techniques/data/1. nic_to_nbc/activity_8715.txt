@@ -1,0 +1,49 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Social Connection",
+    "parameters": [
+        {
+            "name": "activity_type",
+            "options": [
+                { "value": "playdate" },
+                { "value": "group outing" },
+                { "value": "online community" },
+                { "value": "sports team" },
+                { "value": "club" },
+                { "value": "volunteer work" }
+            ]
+        },
+        {
+            "name": "peer_matching",
+            "options": [
+                { "value": "by age" },
+                { "value": "by interest" },
+                { "value": "by location" },
+                { "value": "random matching" }
+            ]
+        },
+        {
+            "name": "frequency",
+            "options": [
+                { "value": "daily" },
+                { "value": "onlyOnce" },
+                { "value": "everyHours" },
+                { "value": "everyDays" }
+            ]
+        },
+        {
+            "name": "deadline_date",
+            "type": "datetime"
+        },
+        {
+            "name": "support_needed",
+            "type": "text"
+        },
+        {
+            "name": "goal",
+            "type": "text"
+        }
+    ]
+}

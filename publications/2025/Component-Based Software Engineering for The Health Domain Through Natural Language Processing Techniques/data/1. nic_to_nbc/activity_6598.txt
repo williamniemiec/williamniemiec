@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "Low-Carb Diet Tracker": {
+    "parameters": {
+      "Dietary Recommendations": {
+        "type": "text",
+        "format": "list of recommended foods, portion sizes, and meal frequencies"
+      },
+      "Carbohydrate Tracking": {
+        "type": "form",
+        "fields": ["date", "food item", "carbohydrate amount", "units (e.g., grams)"]
+      },
+      "Meal Planning": {
+        "type": "list",
+        "list items": "text, with optional images or icons"
+      },
+      "Reminders": {
+        "type": "boolean",
+        "default": true
+      }
+    }
+  }
+}

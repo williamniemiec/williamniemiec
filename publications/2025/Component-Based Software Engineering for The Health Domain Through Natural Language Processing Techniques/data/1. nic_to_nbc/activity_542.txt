@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Agency Contact": {
+    "parameters": [
+      {"name": "agency_list", "description": "List of agencies or health care providers"},
+      {"name": "contact_method", "description": "Preferred method of contact"},
+      {"name": "contact_info", "description": "Contact information (phone number, email, etc.)"}
+    ]
+  }
+}
+
+
+I removed the not applicable parameters ("notes" since it's not required) and kept only the `{{ NO-CODE ELEMENT NAME }}` and `{{ PARAMETER ESPECIFICATIONS }}`. Let me know if this meets your requirements!

@@ -1,0 +1,10 @@
+Here is the output in JSON format:
+
+
+{
+  "Aseptic Technique Guide": {
+    "Title": {"Description": "Title of the aseptic technique guide", "Required": true, "Type": "text"},
+    "Instructions": {"Description": "Step-by-step instructions for maintaining aseptic technique", "Required": true, "Type": "text"},
+    "Checklist": {"Description": "Checklist of steps to follow for maintaining aseptic technique", "Required": true, "Type": "table"}
+  }
+}

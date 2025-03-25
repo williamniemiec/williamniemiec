@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+  "Self-Monitoring": {
+    "parameters": {
+      "Monitoring Questions": {
+        "type": "form",
+        "options": ["multiple choice", "Likert scale", "open-ended text"]
+      },
+      "Frequency": {
+        "type": "options",
+        "options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+      },
+      "Deadline Date": {
+        "type": "datetime"
+      },
+      "Notes": {
+        "type": "text"
+      }
+    }
+  }
+}

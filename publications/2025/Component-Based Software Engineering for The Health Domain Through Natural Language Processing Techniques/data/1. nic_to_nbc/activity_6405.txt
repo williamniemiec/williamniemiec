@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Caution": {
+    "parameters": {
+      "name": {"type": "text"},
+      "content": {"type": "text"},
+      "reason": {"type": "text"},
+      "alternative": {"type": "text"}
+    }
+  }
+}

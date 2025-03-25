@@ -1,0 +1,4 @@
+Since the input is empty, I will assume there are no parameters to extract. My output would be an empty JSON:
+
+
+{}

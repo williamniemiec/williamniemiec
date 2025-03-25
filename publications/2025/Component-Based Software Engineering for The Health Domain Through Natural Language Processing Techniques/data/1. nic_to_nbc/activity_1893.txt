@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Life Story",
+    "parameters": [
+        {
+            "name": "Life Chapters",
+            "type": "list of text"
+        },
+        {
+            "name": "Reflection Questions",
+            "type": "list of text"
+        },
+        {
+            "name": "Media Type",
+            "options": ["text", "photo", "video", "audio"]
+        },
+        {
+            "name": "Frequency",
+            "options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Available Support": {
+    "Availability": {"type": "text"},
+    "Boundaries": {"type": "text"},
+    "Encouragement": {"type": "text"},
+    "Resources": {"type": "text or link"}
+  }
+}

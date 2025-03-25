@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+  "Recreational Activity Planning": {
+    "Activity List": {"type": "list of text"},
+    "Schedule": {"type": "datetime"},
+    "Goals": {"type": "text"},
+    "Preferences": {"type": "options"}
+  },
+  "Patient-Centered Planning": {
+    "Patient Input": {"type": "text"},
+    "Caregiver Input": {"type": "text"},
+    "Collaborative Planning": {"type": "options"}
+  },
+  "Recreational Activity Reminders": {
+    "Reminder Frequency": {"type": "options"},
+    "Reminder Content": {"type": "text"}
+  }
+}

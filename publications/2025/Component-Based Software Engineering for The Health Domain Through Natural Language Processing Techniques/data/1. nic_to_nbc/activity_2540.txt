@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Activity and Health Education": {
+        "Parameters": {
+            "Activity Types": {"Type": "list"},
+            "Benefits of Activity": {"Type": "text"},
+            "Importance of Balance": {"Type": "text"},
+            "Personalized Recommendations": {"Type": "text"},
+            "Resources": {"Type": "list"}
+        }
+    }
+}

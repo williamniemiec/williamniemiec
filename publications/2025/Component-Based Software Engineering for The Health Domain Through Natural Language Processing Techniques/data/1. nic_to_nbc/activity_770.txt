@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Trance Level Education": {
+    "parameters": {
+      "name": {"type": "text"},
+      "instructions": {"type": "text"},
+      "explanation": {"type": "text"},
+      "reassurance": {"type": "text"}
+    }
+  }
+}

@@ -1,0 +1,54 @@
+Here is the output in JSON format:
+
+
+{
+  "Fluid Retention Symptom Tracker": {
+    "Symptom Type": {
+      "type": "options",
+      "options": [
+        {"value": "swelling", "label": "Swelling"},
+        {"value": "weightGain", "label": "Weight Gain"},
+        {"value": "shortnessOfBreath", "label": "Shortness of Breath"},
+        {"value": "other", "label": "Other (please specify)"}
+      ]
+    },
+    "Severity": {
+      "type": "options",
+      "options": [
+        {"value": "mild", "label": "Mild"},
+        {"value": "moderate", "label": "Moderate"},
+        {"value": "severe", "label": "Severe"}
+      ]
+    },
+    "Frequency": {
+      "type": "options",
+      "options": [
+        {"value": "daily", "label": "Daily"},
+        {"value": "severalTimesAWeek", "label": "Several times a week"},
+        {"value": "rarely", "label": "Rarely"}
+      ]
+    },
+    "Duration": {
+      "type": "options",
+      "options": [
+        {"value": "hours", "label": "Hours"},
+        {"value": "days", "label": "Days"},
+        {"value": "weeks", "label": "Weeks"}
+      ]
+    },
+    "Notes": {
+      "type": "text"
+    },
+    "Frequency of Tracking": {
+      "type": "options",
+      "options": [
+        {"value": "daily", "label": "Daily"},
+        {"value": "weekly", "label": "Weekly"},
+        {"value": "monthly", "label": "Monthly"}
+      ]
+    },
+    "Deadline Date": {
+      "type": "datetime"
+    }
+  }
+}

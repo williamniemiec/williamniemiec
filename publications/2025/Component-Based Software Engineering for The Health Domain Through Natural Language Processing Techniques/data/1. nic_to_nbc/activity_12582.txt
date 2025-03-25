@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "toileting schedule": {
+    "parameters": [
+      {"name": "toileting method", "description": "specify the toileting method (commode at bedside or bedpan)"},
+      {"name": "schedule frequency", "description": "specify how often toileting should be scheduled"},
+      {"name": "schedule timing", "description": "specify the timing of toileting (e.g., morning, afternoon, evening)"}
+    ]
+  }
+}
+
+
+I removed the `deadline_date` parameter since it's not applicable (i.e., its `"required"` field is set to `false`). Let me know if you have any further questions!

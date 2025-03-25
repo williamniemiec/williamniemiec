@@ -1,0 +1,48 @@
+Here is the output in JSON format:
+
+
+{
+  "Urine Monitoring": {
+    "Urine Color": {
+      "Description": "Select the color of your urine",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "clear", "label": "Clear" },
+        { "value": "yellow", "label": "Yellow" },
+        { "value": "amber", "label": "Amber" },
+        { "value": "darkYellow", "label": "Dark Yellow" },
+        { "value": "brown", "label": "Brown" },
+        { "value": "other", "label": "Other" }
+      ]
+    },
+    "Urine Odor": {
+      "Description": "Select the odor of your urine",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "none", "label": "None" },
+        { "value": "mild", "label": "Mild" },
+        { "value": "strong", "label": "Strong" },
+        { "value": "foul", "label": "Foul" },
+        { "value": "other", "label": "Other" }
+      ]
+    },
+    "Urine Clarity": {
+      "Description": "Select the clarity of your urine",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "clear", "label": "Clear" },
+        { "value": "cloudy", "label": "Cloudy" },
+        { "value": "murky", "label": "Murky" },
+        { "value": "other", "label": "Other" }
+      ]
+    },
+    "Notes": {
+      "Description": "Additional notes about urine monitoring",
+      "Required": false,
+      "Type": "text"
+    }
+  }
+}

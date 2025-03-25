@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "Guide": {
+    "Parameters": {
+      "Title": {"Type": "text"},
+      "Pages": {"Type": "book-page", "book-page": "list of HTML texts"},
+      "Food Categories": {"Type": "list", "list": "list of text"},
+      "Increase/Decrease Guidelines": {"Type": "list", "list": "list of text"},
+      "Examples": {"Type": "list", "list": "list of text"}
+    }
+  },
+  "Resource": {
+    "Parameters": {
+      "Title": {"Type": "text"},
+      "Food List": {"Type": "list", "list": "list of text"},
+      "Increase/Decrease Indicators": {"Type": "list", "list": "list of text"}
+    }
+  }
+}
+
+
+Let me know if you need any further assistance!

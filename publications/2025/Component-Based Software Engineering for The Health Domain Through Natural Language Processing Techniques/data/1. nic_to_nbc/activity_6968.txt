@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Breathing Exercise": {
+    "Instructions": {"type": "text"},
+    "Number of Breaths": {"type": "number"},
+    "Frequency": {"type": "options", "options": ["before suctioning", "daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Oxygen Use": {"type": "boolean"},
+    "Deadline Date": {"type": "datetime"}
+  }
+}

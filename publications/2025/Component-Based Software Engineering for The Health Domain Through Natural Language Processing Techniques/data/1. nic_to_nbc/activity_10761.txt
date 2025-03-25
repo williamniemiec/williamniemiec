@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Knowledge Resource": {
+    "Topic": {"type": ["text", "options"]},
+    "Content": {"type": ["text", "video", "image", "other multimedia formats"]},
+    "Format": {"type": ["options"]},
+    "Level": {"type": ["options"]},
+    "Source": {"type": ["text", "options"]},
+    "Frequency": {"type": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"type": ["datetime"]}
+  }
+}

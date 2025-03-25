@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Information Sequencing": {
+    "parameters": [
+      {
+        "name": "information_content",
+        "type": "text"
+      },
+      {
+        "name": "sequencing_criteria",
+        "type": "list of criteria"
+      },
+      {
+        "name": "logical_sequence",
+        "type": "list of information content in a specific order"
+      }
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Pain Beliefs Assessment": {
+    "Parameters": {
+      "Pain Definition": {"Type": "text"},
+      "Pain Causes": {"Type": "options or text"},
+      "Pain Impact": {"Type": "text or options"},
+      "Pain Management": {"Type": "text or options"},
+      "Pain Fears": {"Type": "text"},
+      "Pain Expectations": {"Type": "text or options"}
+    }
+  }
+}

@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "Coagulation Tracker": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Prothrombin Time (PT)": {"Type": "number", "Range": "10-15 seconds"},
+      "Activated Partial Thromboplastin Time (aPTT)": {"Type": "number", "Range": "25-35 seconds"},
+      "Platelet Count": {"Type": "number", "Range": "150,000-450,000 per microliter"},
+      "Frequency": {"Type": "options", "Options": ["daily", "every 2 days", "every week"]},
+      "Deadline Date": {"Type": "datetime"}
+    }
+  },
+  "Lab Result": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Prothrombin Time (PT)": {"Type": "number", "Range": "10-15 seconds"},
+      "Activated Partial Thromboplastin Time (aPTT)": {"Type": "number", "Range": "25-35 seconds"},
+      "Platelet Count": {"Type": "number", "Range": "150,000-450,000 per microliter"},
+      "Date": {"Type": "datetime"},
+      "Guidance": {"Type": "text"}
+    }
+  }
+}

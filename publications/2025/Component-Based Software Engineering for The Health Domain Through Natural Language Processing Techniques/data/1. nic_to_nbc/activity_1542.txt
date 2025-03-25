@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Strengths Identification",
+    "parameters": [
+        {
+            "name": "Prompt",
+            "type": "text"
+        },
+        {
+            "name": "Answer Type",
+            "type": "options"
+        },
+        {
+            "name": "Reflection Guidance",
+            "type": "text"
+        },
+        {
+            "name": "Frequency",
+            "type": "options"
+        },
+        {
+            "name": "Strengths List",
+            "type": "list of text"
+        }
+    ]
+}

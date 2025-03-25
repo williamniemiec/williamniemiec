@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Adaptive Clothing Guide": {
+    "Name": {"type": "text"},
+    "Disfigurement Type": {"type": "options"},
+    "Clothing Tips": {"type": "list of text or multimedia content"},
+    "Product Recommendations": {"type": "list of text or multimedia content"},
+    "Before-and-After Photos": {"type": "list of images"},
+    "Community Forum": {"type": "link to online community forum or support group"}
+  }
+}

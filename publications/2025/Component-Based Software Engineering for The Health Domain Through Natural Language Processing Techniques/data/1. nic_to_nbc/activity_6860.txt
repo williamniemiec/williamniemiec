@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Question and Concern Discussion": {
+    "parameters": [
+      {"Name": "A parameter that specifies the title or name of the question and concern discussion activity."},
+      {"Instructions": "A parameter that provides detailed instructions for the healthcare provider on how to facilitate the question and concern discussion."},
+      {"Question and Concern Topics": "A parameter that specifies the topics that the patient may want to discuss or ask questions about."},
+      {"Discussion Time": "A parameter that specifies the amount of time allocated for the question and concern discussion."},
+      {"Frequency": "A parameter that specifies how often the question and concern discussion activity should be repeated."},
+    ]
+  }
+}

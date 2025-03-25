@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Vital Sign Analysis": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Description": {"Type": "text"},
+      "Vital Sign Data": {"Type": "numeric", "Units": ["°C", "bpm", "mmHg", "breaths/min", "%"]},
+      "Change Identification": {"Type": "boolean"},
+      "Possible Causes": {"Type": "options"},
+      "Free Text": {"Type": "text"},
+      "Rating Scale": {"Type": "options"}
+    }
+  }
+}

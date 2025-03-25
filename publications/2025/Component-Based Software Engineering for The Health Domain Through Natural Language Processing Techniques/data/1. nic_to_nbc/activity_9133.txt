@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Debriefing Session": {
+    "parameters": [
+      {"name": "debriefing_questions", "description": "Questions to ask visitors during the debriefing session"},
+      {"name": "child_friendly_resources", "description": "Child-friendly resources for debriefing children"},
+      {"name": "video_debriefing", "description": "Video debriefing session with a healthcare professional"}
+    ]
+  }
+}
+
+
+Let me know if this is what you were expecting!

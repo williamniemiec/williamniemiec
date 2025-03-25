@@ -1,0 +1,10 @@
+{
+  "name": "Anger Management and Trigger Identification",
+  "description": "Aims to help users identify triggers for anger, manage emotional responses, and reflect on their feelings. Includes exercises to control anger and mapping of emotional responses for better management.",
+  "type": "non-periodic",
+  "input": ["Anger", "Management", "Trigger identification", "Reflection", "Exercise", "Emotion mapping"],
+  "output": ["Anger management plan", "Trigger identification report", "Emotional reflection feedback"],
+  "preconditions": ["User is learning to manage anger or emotional responses"],
+  "postconditions": ["Improved anger management and emotional self-awareness"],
+  "dependencies": ["Anger management exercises", "Emotional reflection tools", "Mapping system"]
+}

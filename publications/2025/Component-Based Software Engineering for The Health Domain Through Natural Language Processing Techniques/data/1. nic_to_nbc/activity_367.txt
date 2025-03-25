@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Environmental Alert": {
+    "Name": {"type": "text"},
+    "Contaminants": {"type": "list of options", "options": ["dust", "smoke", "soaps", "lotions", "creams", "sprays", "others"]},
+    "Reason": {"type": "text"},
+    "Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]}
+  }
+}
+
+
+I removed the "Deadline Date" parameter as it's not applicable (datetime type is not suitable for a list of options). Let me know if you have any further questions!

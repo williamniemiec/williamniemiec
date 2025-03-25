@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Skill Builder": {
+    "parameters": {
+      "Skill type": {"type": "options", "options": ["coping", "communication", "problem-solving", "self-care", "etc."]},
+      "Learning method": {"type": "options", "options": ["tutorial", "video", "interactive exercise", "coaching", "etc."]},
+      "Practice schedule": {"type": "options", "options": ["daily", "weekly", "monthly", "etc."]},
+      "Feedback mechanism": {"type": "options", "options": ["self-assessment", "feedback from others", "tracking progress", "etc."]},
+      "Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline date": {"type": "datetime"}
+    }
+  }
+}
+
+
+Let me know if you'd like me to make any adjustments!

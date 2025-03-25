@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+  "Irrigating Syringe Preparation": {
+    "Syringe Opening Instructions": {
+      "Description": "Instructions for opening irrigating syringe",
+      "Required": true,
+      "Type": ["text", "video", "illustration"]
+    },
+    "Syringe Placement Instructions": {
+      "Description": "Instructions for placing syringe into container with solution",
+      "Required": true,
+      "Type": ["text", "video", "illustration"]
+    },
+    "Container Confirmation": {
+      "Description": "Confirmation that syringe is placed into container with solution",
+      "Required": true,
+      "Type": "question",
+      "Options": [
+        { "value": "yes", "label": "Yes, the syringe is placed into the container with solution" },
+        { "value": "no", "label": "No, the syringe is not placed into the container with solution" }
+      ]
+    }
+  }
+}

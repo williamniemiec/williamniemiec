@@ -1,0 +1,26 @@
+
+
+
+{
+    "name": "reflection",
+    "parameters": [
+        { 
+            "name": "beliefs" 
+        },
+        { 
+            "name": "values" 
+        },
+        { 
+            "name": "goals" 
+        },
+        { 
+            "name": "importance", 
+            "options": [
+                { value: "veryImportant", label: "Very important" },
+                { value: "somewhatImportant", label: "Somewhat important" },
+                { value: "notVeryImportant", label: "Not very important" },
+                { value: "notAtAllImportant", label: "Not at all important" }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Comfort Companion": {
+    "Parameters": {
+      "Comfort Type": {},
+      "Audio/Video Content": {},
+      "Duration": {},
+      "Trigger": {},
+      "Frequency": {}
+    }
+  }
+}

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+"Pain-Relieving Agent Education": {
+    "Pain-Relieving Agent": {"type": "text"},
+    "Action": {"type": "text"},
+    "Side Effects": {"type": "text"},
+    "Common Side Effects": {"type": "options", "options": ["drowsiness", "nausea", "constipation"]},
+    "Serious Side Effects": {"type": "options", "options": ["respiratory depression", "allergic reaction"]},
+    "What to Do": {"type": "text"},
+    "Next Review Date": {"type": "datetime"}
+  }
+}

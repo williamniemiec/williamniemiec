@@ -1,0 +1,31 @@
+Here is the output in JSON format:
+
+
+{
+  "Family Meal Planner": {
+    "Meal Frequency": {
+      "type": "options",
+      "options": ["daily", "3 times a week", "2 times a week", "weekly", "other"],
+      "required": true
+    },
+    "Meal Schedule": {
+      "type": "datetime",
+      "required": true
+    },
+    "Meal Planner": {
+      "type": "text/html",
+      "required": true
+    },
+    "Family Member Invitations": {
+      "type": "text",
+      "required": true
+    },
+    "Meal Reflection": {
+      "type": "text",
+      "required": true
+    }
+  }
+}
+
+
+Note that I removed the "Tips and Resources" parameter since it's not required. Let me know if you need anything else!

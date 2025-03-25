@@ -1,0 +1,38 @@
+Here is the output in JSON format:
+
+
+{
+  "Placental Location Identification": {
+    "parameters": [
+      {
+        "name": "placental_location",
+        "description": "Select the location of your placenta",
+        "required": true,
+        "type": "options",
+        "options": [
+          { "value": "anterior", "label": "Anterior" },
+          { "value": "posterior", "label": "Posterior" },
+          { "value": "fundal", "label": "Fundal" },
+          { "value": "lateral", "label": "Lateral" }
+        ]
+      },
+      {
+        "name": "frequency",
+        "description": "Specify how often you should identify the location of your placenta",
+        "required": true,
+        "type": "options",
+        "options": [
+          { "value": "daily", "label": "Daily" },
+          { "value": "everyOtherDay", "label": "Every other day" },
+          { "value": "weekly", "label": "Weekly" }
+        ]
+      },
+      {
+        "name": "deadline_date",
+        "description": "Specify the due date for identifying the location of your placenta",
+        "required": false,
+        "type": "datetime"
+      }
+    ]
+  }
+}

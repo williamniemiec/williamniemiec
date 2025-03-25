@@ -1,0 +1,51 @@
+Here is the output in JSON format:
+
+
+{
+  "Sleep Inducement Techniques": {
+    "Autogenic Muscle Relaxation": {
+      "Name": "autogenic muscle relaxation",
+      "Description": "How to perform autogenic muscle relaxation to induce sleep",
+      "Type": "text",
+      "Content": "Autogenic muscle relaxation is a technique that involves tensing and relaxing different muscle groups to promote relaxation and sleep. Start by finding a comfortable position, then tense and relax each muscle group in sequence, starting with your toes and moving up to your head."
+    },
+    "Other Nonpharmacological Techniques": {
+      "Name": "other nonpharmacological techniques",
+      "Description": "Other nonpharmacological techniques to induce sleep",
+      "Type": "list",
+      "Items": [
+        { "value": "progressive muscle relaxation", "label": "Progressive muscle relaxation" },
+        { "value": "deep breathing exercises", "label": "Deep breathing exercises" },
+        { "value": "mindfulness meditation", "label": "Mindfulness meditation" },
+        { "value": "yoga", "label": "Yoga" },
+        { "value": "other", "label": "Other (please specify)" }
+      ]
+    },
+    "Practice Schedule": {
+      "Name": "practice schedule",
+      "Description": "When will you practice these sleep inducement techniques?",
+      "Type": "schedule",
+      "Options": [
+        { "value": "before bed", "label": "Before bed" },
+        { "value": "during the day", "label": "During the day" },
+        { "value": "other", "label": "Other (please specify)" }
+      ]
+    },
+    "Frequency": {
+      "Name": "frequency",
+      "Description": "How often should you practice these sleep inducement techniques?",
+      "Type": "options",
+      "Options": [
+        { "value": "daily", "label": "Daily" },
+        { "value": "onlyOnce", "label": "Only once" },
+        { "value": "everyHours", "label": "Every x hours" },
+        { "value": "everyDays", "label": "Every x days" }
+      ]
+    },
+    "Deadline Date": {
+      "Name": "deadline date",
+      "Description": "Specify the due date for practicing sleep inducement techniques",
+      "Type": "datetime"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Guide": {
+    "parameters": {
+      "Content": {"type": "text or HTML"},
+      "Title": {"type": "text"}
+    }
+  }
+}

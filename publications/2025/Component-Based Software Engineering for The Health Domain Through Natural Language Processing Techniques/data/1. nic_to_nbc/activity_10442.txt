@@ -1,0 +1,15 @@
+
+
+
+{
+  "Newborn Positioning Guidance": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Positioning Instructions": {"Type": "text"},
+      "Positioning Options": {"Type": "options"},
+      "Positioning Frequency": {"Type": "options"},
+      "Positioning Completion": {"Type": "boolean"},
+      "Positioning Reminders": {"Type": "text"}
+    }
+  }
+}

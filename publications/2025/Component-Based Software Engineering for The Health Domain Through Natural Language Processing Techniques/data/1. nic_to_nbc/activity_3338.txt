@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Literary Comparison": {
+    "parameters": [
+      {"name": "Literature", "type": "text or multimedia"},
+      {"name": "Comparison Type", "type": "options"},
+      {"name": "Patient Situation", "type": "text"},
+      {"name": "Comparison Prompt", "type": "text"},
+      {"name": "Reflection Questions", "type": "list of text"},
+      {"name": "Frequency", "type": "options"},
+      {"name": "Deadline Date", "type": "datetime"}
+    ]
+  }
+}

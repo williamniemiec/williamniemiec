@@ -1,0 +1,33 @@
+Here is the output in JSON format:
+
+
+{
+  "Family Structure Assessment": {
+    "parameters": {
+      "Family Members": {
+        "type": "list of names and relationships"
+      },
+      "Roles and Responsibilities": {
+        "type": "list of text fields"
+      },
+      "Family Dynamics": {
+        "type": "list of text fields"
+      },
+      "Changes in Family Structure": {
+        "type": "list of text fields"
+      },
+      "Frequency": {
+        "options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+      },
+      "Deadline Date": {
+        "type": "datetime"
+      },
+      "Name": {
+        "type": "text"
+      }
+    }
+  }
+}
+
+
+Let me know if you need any further assistance!

@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Belief Exploration": {
+        "Prompt": {"type": "text"},
+        "Belief Categories": {"type": "list of text"},
+        "Reflection Questions": {"type": "list of text"},
+        "Rating Scale": {"type": "rating scale"},
+        "Journaling": {"type": "text"},
+        "Resources": {"type": "text or link"}
+    }
+}

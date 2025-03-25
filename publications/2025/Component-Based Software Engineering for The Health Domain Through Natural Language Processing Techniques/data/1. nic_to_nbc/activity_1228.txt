@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+  "Vital Sign Monitoring": {
+    "Parameters": {
+      "Vital Signs": {
+        "Type": "list",
+        "Options": [
+          {"value": "temperature", "label": "Temperature"},
+          {"value": "heartRate", "label": "Heart Rate"},
+          {"value": "bloodPressure", "label": "Blood Pressure"}
+        ]
+      },
+      "Frequency": {
+        "Type": "options",
+        "Options": [
+          {"value": "continuous", "label": "Continuous"},
+          {"value": "every15Minutes", "label": "Every 15 minutes"},
+          {"value": "every30Minutes", "label": "Every 30 minutes"}
+        ]
+      },
+      "Recording Method": {
+        "Type": "text"
+      }
+    }
+  }
+}

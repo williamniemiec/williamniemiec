@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Drowning Prevention Guide": {
+    "Parameters": {
+      "Title": {"Type": "text"},
+      "Drowning Prevention Tips": {"Type": "list", "Example": ["Supervise infant at all times near bodies of water", "Install fences or gates around pools and ponds", "Keep toilet lids closed and consider installing toilet locks", "Empty containers with liquid after use"]},
+      "Hazardous Areas": {"Type": "list", "Example": ["Ponds", "Pools", "Toilets", "Bathtubs", " Buckets", "Containers with liquid"]},
+      "Images": {"Type": "list"},
+      "Frequency": {"Type": "options"}
+    }
+  }
+}
+
+
+I removed the not applicable parameters and only kept the `{{ NO-CODE ELEMENT NAME }}` and `{{ PARAMETER ESPECIFICATIONS }}`. Let me know if this is what you were looking for!

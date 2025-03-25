@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "instruction": {
+    "parameters": {
+      "Title": {"type": "text"},
+      "Content": {"type": "text"},
+      "Reason": {"type": "text"},
+      "Tips": {"type": "list", "list": "list of text"}
+    }
+  },
+  "guide": {
+    "parameters": {
+      "Title": {"type": "text"},
+      "Pages": {"type": "book-page", "book-page": "list of HTML texts"},
+      "Steps": {"type": "list", "list": "list of text"},
+      "Examples": {"type": "list", "list": "list of text"}
+    }
+  }
+}
+
+
+Note that I removed the non-applicable parameters and only kept the `parameters` section for each no-code element. Let me know if this meets your requirements!

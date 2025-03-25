@@ -1,0 +1,26 @@
+Here is the output in JSON format, removing everything except `{{ PARAMETER ESPECIFICATIONS }}` and `{{ NO-CODE ELEMENT NAME }}`, and removing not applicable parameters:
+
+
+{
+    "name": "Cognitive Functioning Tracker",
+    "parameters": [
+        {
+            "name": "Cognitive Functioning Domain"
+        },
+        {
+            "name": "Assessment Tool"
+        },
+        {
+            "name": "Frequency"
+        },
+        {
+            "name": "Deadline Date"
+        },
+        {
+            "name": "Results"
+        },
+        {
+            "name": "Notes"
+        }
+    ]
+}

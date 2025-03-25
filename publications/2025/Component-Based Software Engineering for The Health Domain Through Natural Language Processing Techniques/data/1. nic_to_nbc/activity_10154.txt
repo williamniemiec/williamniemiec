@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "No-Code Element Name": "Tutorial",
+  "Parameters": {
+    "Device/Equipment": {"Type": "text"},
+    "Tutorial Steps": {"Type": "list of tutorial steps"},
+    "Quiz": {"Type": "list of quiz questions"},
+    "Frequency": {"Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"Type": "datetime"}
+  }
+}
+
+Note: I removed the `Content type` parameter as it was not included in the original format. If you want to include it, let me know!

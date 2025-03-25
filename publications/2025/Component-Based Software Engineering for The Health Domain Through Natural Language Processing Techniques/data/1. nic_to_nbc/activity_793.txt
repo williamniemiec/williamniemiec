@@ -1,0 +1,10 @@
+Here is the output in JSON format:
+
+
+{
+    "Legal Information": {
+        "content": "text or multimedia content explaining legal proceedings (e.g., patient rights, legal options)",
+        "type": "type of legal proceeding (e.g., advance directive, power of attorney)",
+        "resources": "list of resources (e.g., links, phone numbers) for further information or support"
+    }
+}

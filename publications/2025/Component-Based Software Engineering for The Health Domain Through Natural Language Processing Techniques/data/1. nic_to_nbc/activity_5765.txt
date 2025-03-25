@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "guide": {
+    "name": {"type": "text"},
+    "pages": {"type": "book-page", "book-page": "list of HTML texts"},
+    "equipment_list": {"type": "unordered list", "options": ["swings", "strollers", "playpens", "port-a-cribs", "etc."]},
+    "instructions": {"type": "text"}
+  }
+}

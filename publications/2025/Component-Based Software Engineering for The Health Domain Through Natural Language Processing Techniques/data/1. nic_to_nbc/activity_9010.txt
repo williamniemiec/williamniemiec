@@ -1,0 +1,28 @@
+Here is the output JSON:
+
+
+{
+  "name": "Circumcision Response Monitoring",
+  "parameters": [
+    {
+      "name": "Monitoring Parameters",
+      "type": "list of text"
+    },
+    {
+      "name": "Monitoring Frequency",
+      "type": "options"
+    },
+    {
+      "name": "Normal Response",
+      "type": "text"
+    },
+    {
+      "name": "Abnormal Response",
+      "type": "text"
+    },
+    {
+      "name": "Interventions",
+      "type": "list of text"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+Here is the output in JSON format:
+
+
+{
+  "Inhaler Preparation Tutorial": {
+    "parameters": {
+      "step-by-step instructions": {
+        "type": ["text", "images", "videos"]
+      },
+      "demonstration": {
+        "type": ["video", "interactive module"]
+      },
+      "practice exercises": {
+        "type": ["interactive module", "quiz"]
+      }
+    }
+  },
+  "Inhaler Preparation Checklist": {
+    "parameters": {
+      "checklist items": {
+        "type": "list of text items"
+      },
+      "checklist format": {
+        "type": "selection from a list of formats"
+      }
+    }
+  }
+}
+
+
+Let me know if this meets your requirements!

@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Information Module": {
+    "parameters": [
+      {"name": "name", "description": "title of the information module"},
+      {"name": "content", "description": "detailed information about the effects of therapy and treatment-related symptoms"},
+      {"name": "format", "description": "format of the information"},
+      {"name": "frequency", "description": "how often to review the information"}
+    ]
+  }
+}

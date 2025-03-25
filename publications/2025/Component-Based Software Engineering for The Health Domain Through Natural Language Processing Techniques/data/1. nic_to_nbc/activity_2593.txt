@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Personal Property Inventory": {
+    "Item List": {"Type": "list"},
+    "Item Description": {"Type": "text"},
+    "Item Location": {"Type": "text"},
+    "Reminders": {"Type": "datetime"}
+  }
+}

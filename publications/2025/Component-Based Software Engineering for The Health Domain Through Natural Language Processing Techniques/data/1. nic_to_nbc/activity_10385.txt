@@ -1,0 +1,11 @@
+
+
+
+{
+    "Session Duration": {
+        "parameters": [
+            {"name": "min_duration"},
+            {"name": "max_duration"}
+        ]
+    }
+}

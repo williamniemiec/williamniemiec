@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "Problem List": {
+    "parameters": {
+      "Problem": {"type": "text"},
+      "Description": {"type": "text"}
+    }
+  },
+  "Self-Hypnosis Suitability": {
+    "parameters": {
+      "Problem": {"type": "text"},
+      "Suitability": {"type": "options"},
+      "Reason": {"type": "text"}
+    }
+  },
+  "Prioritization": {
+    "parameters": {
+      "Problem": {"type": "text"},
+      "Priority": {"type": "options"}
+    }
+  }
+}

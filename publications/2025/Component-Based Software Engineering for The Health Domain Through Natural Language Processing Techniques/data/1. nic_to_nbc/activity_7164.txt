@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Verification": {
+    "parameters": {
+      "Right Medication": {"type": "text"},
+      "Right Dose": {"type": "text"},
+      "Right Route": {"type": "options"},
+      "Right Time": {"type": "datetime"},
+      "Right Patient": {"type": "text"}
+    }
+  }
+}

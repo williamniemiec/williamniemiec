@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "exercise": {
+    "exercise name": {"Description": "name of the exercise to be performed", "Required": true, "Type": "text"},
+    "exercise type": {"Description": "type of exercise to be performed (e.g., ambulate, stretch, etc.)", "Required": true, "Type": "options", "Options": [{"value": "ambulate", "label": "Ambulate"}, {"value": "stretch", "label": "Stretch"}, {"value": "strengthen", "label": "Strengthen"}, {"value": "other", "label": "Other"}]},
+    "exercise frequency": {"Description": "specify how often the exercise should be performed", "Required": true, "Type": "options", "Options": [{"value": "daily", "label": "Daily"}, {"value": "onlyOnce", "label": "Only once"}, {"value": "everyHours", "label": "Every x hours"}, {"value": "everyDays", "label": "Every x days"}]},
+    "exercise duration": {"Description": "specify the duration of the exercise", "Required": false, "Type": "text"},
+    "exercise deadline": {"Description": "specify the due date for the exercise", "Required": false, "Type": "datetime"}
+  }
+}

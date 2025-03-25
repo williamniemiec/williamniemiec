@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+    "Care Log": {
+        "Parameters": {
+            "Care Type": {"Type": "options"},
+            "Care Details": {"Type": "text"},
+            "Date and Time": {"Type": "datetime"}
+        }
+    },
+    "Patient Response Log": {
+        "Parameters": {
+            "Response Type": {"Type": "options"},
+            "Response Details": {"Type": "text"},
+            "Date and Time": {"Type": "datetime"}
+        }
+    },
+    "Note": {
+        "Parameters": {
+            "Note Text": {"Type": "text"},
+            "Date and Time": {"Type": "datetime"}
+        }
+    }
+}

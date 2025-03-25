@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Parameter Specifications": {
+        "Family Member Profiles": {"Type": "list of family member profiles or contact information"},
+        "Care Team Communication": {"Type": "messaging platform or discussion board"},
+        "Education and Resources": {"Type": "text or interactive elements (e.g., interactive images, videos, or animations)"},
+        "Care Plan Access": {"Type": "care plan document or summary"},
+        "Task Assignments": {"Type": "task list or assignment platform"}
+    },
+    "No-code Element Name": "Family Involvement"
+}

@@ -1,0 +1,36 @@
+Here is the output in JSON format:
+
+
+{
+  "Care Plan Input": {
+    "Parameters": {
+      "Care Plan Section": {
+        "Type": "options",
+        "Options": [
+          { "value": "goals", "label": "Goals" },
+          { "value": "interventions", "label": "Interventions" },
+          { "value": "medications", "label": "Medications" },
+          { "value": "other", "label": "Other (please specify)" }
+        ]
+      },
+      "Input Type": {
+        "Type": "options",
+        "Options": [
+          { "value": "text", "label": "Text" },
+          { "value": "rating", "label": "Rating" },
+          { "value": "selection", "label": "Selection" },
+          { "value": "other", "label": "Other (please specify)" }
+        ]
+      },
+      "Input Prompt": {
+        "Type": "text"
+      },
+      "Input Response": {
+        "Type": "depends on Input Type"
+      },
+      "Care Team Notification": {
+        "Type": "boolean"
+      }
+    }
+  }
+}

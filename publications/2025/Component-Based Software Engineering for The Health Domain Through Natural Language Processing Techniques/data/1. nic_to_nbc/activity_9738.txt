@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Volunteer Opportunity": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Description": {"Type": "text"},
+      "Location": {"Type": "text"},
+      "Date and Time": {"Type": "datetime"},
+      "Frequency": {"Type": "options", "Options": ["one-time", "weekly", "bi-weekly", "monthly"]},
+      "Registration": {"Type": "boolean"},
+      "Deadline": {"Type": "datetime"}
+    }
+  }
+}

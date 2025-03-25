@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Weight Tracker": {
+    "Frequency": {"type": "options", "options": ["daily", "weekly", "monthly", "oneTime"]},
+    "Time of Day": {"type": "time"},
+    "After Voiding": {"type": "boolean"},
+    "Unit": {"type": "options", "options": ["kg", "lbs", "etc."]},
+    "Target Range": {"type": "range"},
+    "Alert Threshold": {"type": "range"}
+  },
+  "Data Entry": {
+    "Value": {"type": "number"},
+    "Unit": {"type": "options", "options": ["kg", "lbs", "etc."]},
+    "Frequency": {"type": "options", "options": ["daily", "weekly", "monthly", "oneTime"]},
+    "Deadline Date": {"type": "datetime"}
+  }
+}

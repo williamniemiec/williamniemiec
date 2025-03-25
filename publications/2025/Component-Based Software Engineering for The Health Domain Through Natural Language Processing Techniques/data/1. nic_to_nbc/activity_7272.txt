@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "Familiar Object Assessment": {
+    "parameters": {
+      "object_list": {"type": "unordered list"},
+      "object_description": {"type": "text"},
+      "availability": {"type": "boolean"}
+    }
+  },
+  "Object Provision": {
+    "parameters": {
+      "object_selection": {"type": "unordered list"},
+      "access_method": {"type": "options"},
+      "object_location": {"type": "text"}
+    }
+  },
+  "Object Rotation": {
+    "parameters": {
+      "rotation_schedule": {"type": "table"},
+      "object_rotation": {"type": "unordered list"}
+    }
+  }
+}

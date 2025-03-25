@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Activity Participation Strategies": {
+    "Parameters": {
+      "Desired Activities": {"Type": "list"},
+      "Barriers to Participation": {"Type": "list"},
+      "Strategy Options": {"Type": "list"},
+      "Selected Strategies": {"Type": "list"},
+      "Action Plan": {"Type": "text"},
+      "Progress Tracking": {"Type": "boolean"}
+    }
+  }
+}

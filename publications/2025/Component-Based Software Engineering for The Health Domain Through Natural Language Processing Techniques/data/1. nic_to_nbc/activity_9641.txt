@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Feelings Reflection": {
+    "Contract/Agreement": {"type": "text"},
+    "Feelings": {"type": "text"},
+    "Concerns": {"type": "text"},
+    "Goals": {"type": "text"},
+    "Reflection Questions": {"type": "list of text"},
+    "Journal Entry": {"type": "text"}
+  }
+}

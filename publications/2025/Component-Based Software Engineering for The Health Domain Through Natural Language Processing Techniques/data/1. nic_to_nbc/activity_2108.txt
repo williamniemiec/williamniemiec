@@ -1,0 +1,44 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Breathing Exercise",
+    "parameters": [
+        { 
+            "name": "Name", 
+            "description": "A parameter that specifies the title or name of the breathing exercise.", 
+            "required": true, 
+            "type": "text"
+        },
+        { 
+            "name": "Instructions", 
+            "description": "A parameter that provides the instructions for the breathing exercise.", 
+            "required": true, 
+            "type": "text"
+        },
+        { 
+            "name": "Frequency", 
+            "description": "A parameter that specifies how often the breathing exercise should be repeated.", 
+            "required": true, 
+            "type": "options",
+            "options": [
+                { value: "daily", label: "Daily" },
+                { value: "onlyOnce", label: "Only once" },
+                { value: "everyHours", label: "Every x hours" },
+                { value: "everyDays", label: "Every x days" },
+            ]
+        },
+        { 
+            "name": "Deadline Date", 
+            "description": "A parameter that specifies the due date for the breathing exercise.", 
+            "required": false, 
+            "type": "datetime"
+        },
+        { 
+            "name": "Audio Guidance", 
+            "description": "A parameter that provides an optional audio guidance for the breathing exercise.", 
+            "required": false, 
+            "type": "audio file"
+        }
+    ]
+}

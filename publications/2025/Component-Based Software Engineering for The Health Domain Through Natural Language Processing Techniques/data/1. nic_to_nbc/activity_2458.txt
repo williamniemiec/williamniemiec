@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Report": {
+    "Type": ["Vital signs", "Physical complaints/symptoms", "Unusual occurrences"],
+    "Description": "",
+    "Urgency": ["High", "Medium", "Low"],
+    "Recipient": ["ECT nurse", "ECT psychiatrist"],
+    "Deadline Date": ""
+  },
+  "Question": {
+    "Name": ["Have you experienced any unusual vital signs, physical complaints/symptoms, or unusual occurrences since your last treatment?"],
+    "Answer type": ["text", "audio recording"],
+    "Recipient": ["ECT nurse", "ECT psychiatrist"],
+    "Deadline Date": ""
+  }
+}

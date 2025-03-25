@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Content Prioritization": {
+    "Parameters": {
+      "Content": {
+        "Type": "text or list of texts"
+      },
+      "Priority Type": {
+        "Type": "options",
+        "Options": ["critical", "desirable"]
+      },
+      "Explanation": {
+        "Type": "text"
+      }
+    }
+  }
+}

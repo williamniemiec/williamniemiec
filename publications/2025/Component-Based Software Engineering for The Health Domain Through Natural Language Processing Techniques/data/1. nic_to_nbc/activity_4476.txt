@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Prescription Refill Assistance": {
+        "Parameters": {
+            "Prescription Information": {"Type": "text"},
+            "Refill Guidelines": {"Type": "text"},
+            "Refill Request": {"Type": "boolean"},
+            "Refill Status": {"Type": "options"}
+        }
+    }
+}

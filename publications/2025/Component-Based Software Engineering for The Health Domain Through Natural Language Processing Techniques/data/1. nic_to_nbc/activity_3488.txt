@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Occluded Device Protocol": {
+    "name": "",
+    "device_type": "",
+    "manufacturer_protocol": "",
+    "agency_protocol": "",
+    "troubleshooting_steps": [],
+    "outcome": ""
+  }
+}

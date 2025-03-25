@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "education": {
+    "Parameters": {
+      "Title": {"Type": "text"},
+      "Content": {"Type": "interactive tutorial or e-book"},
+      "Quiz": {"Type": "multiple-choice questions with correct answers"},
+      "Frequency": {"Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"Type": "datetime"}
+    }
+  }
+}

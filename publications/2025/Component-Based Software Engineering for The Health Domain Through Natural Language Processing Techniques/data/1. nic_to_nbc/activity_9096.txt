@@ -1,0 +1,39 @@
+Here is the output in JSON format:
+
+
+{
+  "Job Service Agency Discussion": {
+    "parameters": [
+      {"name": "Name", "type": "text"},
+      {"name": "Content", "type": "text or HTML"},
+      {"name": "Agencies", "type": "list of objects", 
+        "properties": {
+          "Name": {"type": "text"},
+          "Description": {"type": "text"},
+          "Phone": {"type": "phone number"},
+          "Address": {"type": "text"},
+          "Email": {"type": "email"}
+        }
+      },
+      {"name": "Eligibility Criteria", "type": "text or HTML"},
+      {"name": "Services Offered", "type": "text or HTML"},
+      {"name": "Resources", "type": "list of objects", 
+        "properties": {
+          "Name": {"type": "text"},
+          "Description": {"type": "text"},
+          "Link": {"type": "URL"},
+          "Phone": {"type": "phone number"},
+          "Address": {"type": "text"}
+        }
+      },
+      {"name": "Frequency", "type": "options", 
+        "options": [
+          {"value": "daily"},
+          {"value": "onlyOnce"},
+          {"value": "everyHours"},
+          {"value": "everyDays"}
+        ]
+      }
+    ]
+  }
+}

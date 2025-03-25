@@ -1,0 +1,18 @@
+
+
+
+{
+  "Mood Tracker": {
+    "name": "",
+    "emotions": [],
+    "frequency": "",
+    "deadline_date": "",
+    "notes": ""
+  },
+  "Journal": {
+    "name": "",
+    "prompt": "",
+    "frequency": "",
+    "deadline_date": ""
+  }
+}

@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Instruction": {
+    "parameters": {
+      "Instruction": {"type": "text", "value": "Remain flat or on side for 5 minutes"},
+      "Duration": {"type": "time", "value": "5 minutes"},
+      "Position": {"type": "text", "value": "Flat or on side"}
+    }
+  }
+}

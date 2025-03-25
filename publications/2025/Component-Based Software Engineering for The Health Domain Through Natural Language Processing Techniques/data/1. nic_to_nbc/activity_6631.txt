@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Access Control": {
+    "Authorized Providers": {
+      "Type": "list of provider IDs or names"
+    },
+    "Access Level": {
+      "Type": "options",
+      "Options": ["list of access levels"]
+    },
+    "Record Sections": {
+      "Type": "list of record sections"
+    }
+  }
+}

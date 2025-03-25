@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+    "Emotional Support": {
+        "Message": {
+            "Type": "text"
+        },
+        "Response": {
+            "Type": "text"
+        },
+        "Emotional State": {
+            "Type": "options",
+            "Options": ["anxious", "scared", "confused", "angry", "sad"]
+        },
+        "Frequency": {
+            "Type": "options",
+            "Options": ["daily", "everyHours", "everyDays"]
+        },
+        "Resources": {
+            "Type": "text"
+        }
+    }
+}

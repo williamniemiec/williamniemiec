@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Suggestion": {
+    "Parameters": {
+      "Medication Type": {"Type": "options"},
+      "Indication": {"Type": "text"},
+      "Dosage": {"Type": "text"},
+      "Precautions": {"Type": "text"},
+      "Alternative Options": {"Type": "list of medication objects"}
+    }
+  }
+}

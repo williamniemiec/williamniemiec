@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Administration": {
+    "parameters": {
+      "name": {},
+      "medications": {},
+      "substance_ingestion": {},
+      "dosage": {},
+      "administration_instructions": {},
+      "monitoring_parameters": {},
+      "frequency": {},
+      "deadline_date": {}
+    }
+  }
+}
+
+
+I removed all the unnecessary text and kept only the `{{ NO-CODE ELEMENT NAME }}` which is "Medication Administration" and the `{{ PARAMETER ESPECIFICATIONS }}` which are the parameters listed under it. I also removed the "not applicable" or empty parameters, if any.

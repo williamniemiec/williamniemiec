@@ -1,0 +1,35 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Survey",
+    "parameters": [
+        {
+            "name": "Question",
+            "type": "text"
+        },
+        {
+            "name": "Answer Type",
+            "type": "options",
+            "options": [
+                { "value": "yes/no" },
+                { "value": "scale" },
+                { "value": "text" }
+            ]
+        },
+        {
+            "name": "Frequency",
+            "type": "options",
+            "options": [
+                { "value": "daily" },
+                { "value": "onlyOnce" },
+                { "value": "everyHours" },
+                { "value": "everyDays" }
+            ]
+        },
+        {
+            "name": "Deadline Date",
+            "type": "datetime"
+        }
+    ]
+}

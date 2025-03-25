@@ -1,0 +1,36 @@
+Here is the output in JSON format:
+
+
+{
+    "Equipment Guide": {
+        "parameters": {
+            "name": "",
+            "equipment": [],
+            "descriptions": [],
+            "images": [],
+            "frequency": "",
+            "deadline_date": ""
+        }
+    },
+    "Interactive Tutorial": {
+        "parameters": {
+            "name": "",
+            "steps": [],
+            "interactive elements": [],
+            "frequency": "",
+            "deadline_date": ""
+        }
+    },
+    "FAQs": {
+        "parameters": {
+            "name": "",
+            "questions": [],
+            "answers": [],
+            "frequency": "",
+            "deadline_date": ""
+        }
+    }
+}
+
+
+Note: I removed the "Not Applicable" parameters as per your request. The parameter values are empty strings or arrays, as they were not provided in the input text.

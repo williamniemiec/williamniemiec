@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+    "Assertiveness Module": {
+        "Module Content": {"type": "text or multimedia"},
+        "Interactive Exercises": {"type": "list of exercises with descriptions"},
+        "Real-Life Scenarios": {"type": "list of scenarios with descriptions"}
+    },
+    "Role-Playing Exercise": {
+        "Scenario": {"type": "text or multimedia"},
+        "Roles": {"type": "list of roles with descriptions"},
+        "Assertiveness Techniques": {"type": "list of techniques with descriptions"}
+    },
+    "Assertiveness Quiz": {
+        "Quiz Questions": {"type": "list of questions with answer options"},
+        "Scoring": {"options": "selection from a list of options"},
+        "Feedback": {"type": "text or multimedia"}
+    },
+    "Assertiveness Journal": {
+        "Journal Prompts": {"type": "list of prompts with descriptions"},
+        "Reflection Questions": {"type": "list of questions with descriptions"},
+        "Goal Setting": {"type": "text or multimedia"}
+    }
+}

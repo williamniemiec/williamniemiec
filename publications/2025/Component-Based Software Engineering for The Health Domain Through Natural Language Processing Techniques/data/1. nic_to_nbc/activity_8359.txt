@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Coping Mechanism Assessment": {
+    "Parameters": {
+      "Coping Mechanisms": {"Type": "list of text"},
+      "Frequency of Use": {"Type": "list of text"},
+      "Effectiveness": {"Type": "list of text"},
+      "Support System": {"Type": "list of text"},
+      "Additional Comments": {"Type": "text"}
+    }
+  }
+}

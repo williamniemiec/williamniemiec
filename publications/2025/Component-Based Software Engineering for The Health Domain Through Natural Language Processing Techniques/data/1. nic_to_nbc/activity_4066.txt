@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Padded Side Rails": {
+    "parameters": [
+      {"name": "name", "type": "text"},
+      {"name": "rail_type", "type": {"name": "string", "description": "string"}},
+      {"name": "bed_type", "type": {"name": "string", "description": "string"}},
+      {"name": "reminder_frequency", "type": {"unit": "string", "value": "integer"}}
+    ]
+  }
+}
+
+
+Note that I removed the "not applicable" parameters and only kept the relevant information. Let me know if you need any further assistance!

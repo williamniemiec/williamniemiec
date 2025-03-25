@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Guaiac Test Tracker": {
+    "Parameters": [
+      {"Name": "Guaiac Test", "Description": "Perform a guaiac test for stools", "Required": true, "Type": "Boolean"},
+      {"Name": "Frequency", "Description": "Specify how often to perform a guaiac test", "Required": true, "Type": "Options", "Options": [{"value": "daily", "label": "Daily"}, {"value": "weekly", "label": "Weekly"}, {"value": "monthly", "label": "Monthly"}]},
+      {"Name": "Results", "Description": "Record the results of the guaiac test", "Required": true, "Type": "Text"}
+    ]
+  }
+}

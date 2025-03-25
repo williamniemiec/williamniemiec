@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Self-Directed Progress": {
+    "Goal Setting": {"Type": "text or options"},
+    "Action Planning": {"Type": "text or table"},
+    "Progress Tracking": {"Type": "graph, chart, or other visual representation"},
+    "Self-Assessment": {"Type": "text or options"},
+    "Resource Allocation": {"Type": "text or options"},
+    "Frequency": {"Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"Type": "datetime"}
+  }
+}

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Family Involvement": {
+        "parameters": {
+            "Family Member Identification": {"type": "selection from a list of family members or free-text input"},
+            "Role Definition": {"type": "selection from a list of roles or free-text input"},
+            "Communication Preferences": {"type": "selection from a list of communication preferences or free-text input"},
+            "Task Assignment": {"type": "task assignment algorithm or selection from a list of tasks"},
+            "Progress Tracking": {"type": "progress tracking algorithm or dashboard display"}
+        }
+    }
+}

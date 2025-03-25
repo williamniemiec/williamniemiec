@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Risk Assessment": {
+        "Parameters": {
+            "Risk Factors": null,
+            "Assessment Questions": null,
+            "Frequency": ["daily", "onlyOnce", "everyHours", "everyDays"],
+            "Deadline Date": "datetime"
+        }
+    }
+}

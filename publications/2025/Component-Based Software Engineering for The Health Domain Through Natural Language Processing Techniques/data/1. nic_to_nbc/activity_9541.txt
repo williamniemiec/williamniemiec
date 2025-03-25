@@ -1,0 +1,33 @@
+Here is the output in JSON format:
+
+
+{
+    "Equipment Troubleshooting": {
+        "Parameters": {
+            "Equipment List": {
+                "Type": "list",
+                "List items": [
+                    {"value": "ECG machine", "label": "ECG Machine"},
+                    {"value": "bloodPressureMonitor", "label": "Blood Pressure Monitor"},
+                    {"value": "oxygenSaturationSensor", "label": "Oxygen Saturation Sensor"}
+                ]
+            },
+            "Troubleshooting Steps": {
+                "Type": "list",
+                "List items": [
+                    {"value": "checkPowerCord", "label": "Check Power Cord"},
+                    {"value": "checkSensorCalibration", "label": "Check Sensor Calibration"},
+                    {"value": "checkSoftwareVersion", "label": "Check Software Version"}
+                ]
+            },
+            "Frequency": {
+                "Type": "options",
+                "Options": [
+                    {"value": "daily", "label": "Daily"},
+                    {"value": "weekly", "label": "Weekly"},
+                    {"value": "monthly", "label": "Monthly"}
+                ]
+            }
+        }
+    }
+}

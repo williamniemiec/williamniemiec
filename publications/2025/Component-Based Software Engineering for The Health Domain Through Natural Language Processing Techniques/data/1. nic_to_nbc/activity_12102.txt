@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Breastfeeding Education": {
+    "Parameters": {
+      "Breastfeeding Basics": {},
+      "Latching and Positioning": {},
+      "Frequency and Duration": {},
+      "Common Challenges": {},
+      "Breastfeeding Tracker": {},
+      "Support Resources": {}
+    }
+  }
+}

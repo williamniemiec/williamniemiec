@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Documentation Template": {
+    "Parameters": {
+      "Template Type": "",
+      "Fields": {
+        "Text fields": "",
+        "Checkbox fields": "",
+        "Date fields": ""
+      },
+      "Guidelines": "",
+      "Validation Rules": ""
+    }
+  }
+}

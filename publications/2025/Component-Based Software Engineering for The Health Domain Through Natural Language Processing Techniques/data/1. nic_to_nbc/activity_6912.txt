@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Interaction Preparation": {
+    "Parameters": [
+      {"Eye Contact": {"Type": "text"}},
+      {"Touch": {"Type": "options", "Options": ["hand holding", "gentle touch", "no touch"]}},
+      {"Cultural Considerations": {"Type": "options", "Options": ["respect cultural norms", "ask about preferences"]}},
+      {"Communication Tips": {"Type": "text"}},
+      {"How do you feel about physical touch during interactions with healthcare providers?": {"Type": "options", "Options": ["comfortable", "uncomfortable", "neutral"]}},
+      {"What is your preferred way to establish eye contact during interactions?": {"Type": "options", "Options": ["direct eye contact", "occasional eye contact", "avoid eye contact"]}}
+    ]
+  }
+}

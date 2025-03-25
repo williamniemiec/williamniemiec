@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Behavioral Goal Setting": {
+    "Name": {"type": "text"},
+    "Description": {"type": "text"},
+    "Goal": {"type": "text"},
+    "Reason": {"type": "text"},
+    "Steps": {"type": "list of text"},
+    "Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"type": "datetime"},
+    "Progress Tracking": {"type": "options", "options": ["yes", "no"]}
+  }
+}

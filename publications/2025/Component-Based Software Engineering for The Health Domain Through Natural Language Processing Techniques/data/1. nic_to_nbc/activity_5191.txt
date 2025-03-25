@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Urinary Drainage Equipment Cleaning Guide": {
+    "Parameters": {
+      "Name": {},
+      "Agency Protocol": {},
+      "Cleaning Instructions": {},
+      "Frequency": {},
+      "Reminders": {}
+    }
+  }
+}

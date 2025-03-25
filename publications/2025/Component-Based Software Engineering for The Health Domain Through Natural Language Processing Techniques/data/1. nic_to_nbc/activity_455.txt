@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "Hypercalcemia Tracker": {
+    "Calcium Levels": {"Type": "number"},
+    "Target Range": {"Type": "number or range"},
+    "Monitoring Frequency": {"Type": "datetime or frequency"},
+    "Alert Threshold": {"Type": "number"},
+    "Action Plan": {"Type": "text or unordered list"}
+  },
+  "Lab Result Tracker": {
+    "lab result tracker frequency": {},
+    "lab result tracker method": {}
+  },
+  "Medication Adjustment": {
+    "medication adjustment frequency": {},
+    "medication adjustment method": {}
+  },
+  "Healthcare Provider Notification": {
+    "notification frequency": {},
+    "notification method": {}
+  }
+}

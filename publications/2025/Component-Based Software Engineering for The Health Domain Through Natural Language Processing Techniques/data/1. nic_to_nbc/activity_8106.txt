@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Conception Guidance": {
+    "parameters": [
+      {"Title": {"type": "text"}},
+      {"Content": {"type": "text"}},
+      {"Age Check": {"type": "numeric"}},
+      {"Personalized Message": {"type": "text"}},
+      {"Resources": {"type": "list of URLs or text"}}
+    ]
+  }
+}

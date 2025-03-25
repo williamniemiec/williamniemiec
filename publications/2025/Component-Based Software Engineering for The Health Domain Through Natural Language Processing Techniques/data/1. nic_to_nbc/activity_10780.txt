@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Equipment Order and Validation": {
+    "parameters": {
+      "equipment_name": "",
+      "equipment_description": "",
+      "ordering_process": "",
+      "validation_process": "",
+      "equipment_settings": ""
+    }
+  }
+}

@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+  "Education": {
+    "Name": {
+      "type": "text"
+    },
+    "Endometriosis Overview": {
+      "type": "interactive guide with text and images"
+    },
+    "Treatment Options": {
+      "type": "interactive guide with text and images"
+    },
+    "Benefits of Early Treatment": {
+      "type": "interactive guide with text and images"
+    },
+    "Resources": {
+      "type": "links or attachments"
+    }
+  }
+}

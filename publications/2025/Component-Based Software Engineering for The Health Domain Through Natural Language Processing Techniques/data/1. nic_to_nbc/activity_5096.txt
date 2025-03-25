@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+  "Corneal Epithelial Damage Test": {
+    "Parameters": {
+      "Instructions": { "name": "Instructions", "description": "Please follow the instructions to perform the corneal epithelial damage test", "required": true, "type": "text" },
+      "Test type": { "name": "Test type", "description": "Please select the type of test to perform", "required": true, "type": "options", "options": [ {"value": "fluorescein", "label": "Fluorescein test"}, {"value": "lissamine", "label": "Lissamine test"} ] },
+      "Test duration": { "name": "Test duration", "description": "The test will take 10 minutes", "required": true, "type": "number" },
+      "Frequency": { "name": "Frequency", "description": "How often should you perform the corneal epithelial damage test?", "required": true, "type": "options", "options": [ {"value": "daily", "label": "Daily"}, {"value": "weekly", "label": "Weekly"}, {"value": "monthly", "label": "Monthly"} ] },
+      "Deadline date": { "name": "Deadline date", "description": "Please perform the corneal epithelial damage test by", "required": true, "type": "datetime" },
+      "Test results": { "name": "Test results", "description": "Please enter the results of the corneal epithelial damage test", "required": true, "type": "text" }
+    }
+  },
+  "Corneal Epithelial Damage Scanner": {
+    "Parameters": {
+      "Instructions": { "name": "Instructions", "description": "Please follow the instructions to connect your corneal epithelial damage scanner device", "required": true, "type": "text" },
+      "Frequency": { "name": "Frequency", "description": "How often should you perform the corneal epithelial damage test?", "required": true, "type": "options", "options": [ {"value": "daily", "label": "Daily"}, {"value": "weekly", "label": "Weekly"}, {"value": "monthly", "label": "Monthly"} ] },
+      "Deadline date": { "name": "Deadline date", "description": "Please perform the corneal epithelial damage test by", "required": true, "type": "datetime" }
+    }
+  }
+}

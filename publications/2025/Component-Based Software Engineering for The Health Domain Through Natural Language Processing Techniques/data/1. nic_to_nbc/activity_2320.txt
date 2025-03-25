@@ -1,0 +1,7 @@
+
+
+
+{
+"NO-CODE ELEMENT NAME": null,
+"PARAMETER ESPECIFICATIONS": ["Technical expertise to operate electronic monitoring equipment", "Real-time observation and interpretation of fetal heart rate and other vital signs", "Clinical judgment to identify potential complications and take appropriate actions"]
+}

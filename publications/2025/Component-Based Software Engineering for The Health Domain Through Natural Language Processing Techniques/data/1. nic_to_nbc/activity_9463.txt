@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Tummy Time Guide": {
+    "Parameters": {
+      "Tummy Time Activity": {},
+      "Objective": {},
+      "Instructions": {},
+      "Duration": {},
+      "Frequency": {}
+    }
+  }
+}

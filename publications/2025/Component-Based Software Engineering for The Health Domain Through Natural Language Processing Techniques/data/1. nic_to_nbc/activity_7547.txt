@@ -1,0 +1,6 @@
+Here is the output in JSON format:
+
+
+{
+  "NO-CODE ELEMENT NAME": "Provide the predetermined consequences if patient is engaging in self-harmful behaviors"
+}

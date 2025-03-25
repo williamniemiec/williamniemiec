@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Prescribed Diet": {
+    "Diet Type": {},
+    "Other Diet Type": {},
+    "Dietary Restrictions": {},
+    "Additional Instructions": {}
+  }
+}

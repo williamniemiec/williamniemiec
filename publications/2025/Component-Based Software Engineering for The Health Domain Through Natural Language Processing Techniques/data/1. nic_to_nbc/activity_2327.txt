@@ -1,0 +1,35 @@
+Here is the output in JSON format:
+
+
+{
+  "Patient Record": {
+    "Parameters": {
+      "Entry Type": {
+        "Description": "Type of entry to be documented",
+        "Required": true,
+        "Type": "options",
+        "Options": [
+          { "value": "assessment", "label": "Assessment" },
+          { "value": "advice", "label": "Advice" },
+          { "value": "instructions", "label": "Instructions" },
+          { "value": "notes", "label": "Notes" }
+        ]
+      },
+      "Entry Content": {
+        "Description": "Content of the entry to be documented",
+        "Required": true,
+        "Type": "text"
+      },
+      "Date and Time": {
+        "Description": "Date and time of the entry",
+        "Required": true,
+        "Type": "datetime"
+      },
+      "Guidelines": {
+        "Description": "Specified guidelines for documentation",
+        "Required": true,
+        "Type": "text"
+      }
+    }
+  }
+}

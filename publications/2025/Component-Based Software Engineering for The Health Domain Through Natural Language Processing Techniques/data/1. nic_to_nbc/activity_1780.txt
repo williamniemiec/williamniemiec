@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+  "Family Involvement": {
+    "Family Member": {
+      "Type": "options",
+      "Options": ["spouse", "child", "sibling", "other"],
+      "Description": "Specifies the family member to involve in care"
+    },
+    "Involvement Level": {
+      "Type": "options",
+      "Options": ["planning", "provision", "evaluation", "all"],
+      "Description": "Specifies the level of involvement for the family member"
+    },
+    "Communication Method": {
+      "Type": "options",
+      "Options": ["inPerson", "phone", "videoCall", "messaging"],
+      "Description": "Specifies the method of communication with the family member"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Mental Health Screener": {
+    "Title": {"type": "text"},
+    "Content": {"type": "text or HTML"},
+    "Assessment Questions": {"type": "list of text or options"},
+    "Scoring System": {"type": "text or options"},
+    "Results": {"type": "text or options"},
+    "Referral Information": {"type": "text or options"},
+    "Frequency": {"type": "options"},
+    "Deadline Date": {"type": "datetime"}
+  }
+}

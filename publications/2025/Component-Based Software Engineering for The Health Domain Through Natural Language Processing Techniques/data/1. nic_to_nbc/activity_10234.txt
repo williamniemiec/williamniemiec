@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+{
+  "Open-Ended Questions": {
+    "Parameters": {
+      "Name": {},
+      "Question": {},
+      "Event": {},
+      "Response": {},
+      "Follow-up Questions": {},
+      "Reflection": {}
+    }
+  }
+}

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Heel Puncture": {
+    "parameters": {
+      "Puncture Depth": {"type": "numeric"},
+      "Puncture Location": {"type": "text"},
+      "Patient Age": {"type": "text"},
+      "Puncture Technique": {"type": "text or multimedia"},
+      "Image or Diagram": {"type": "image or multimedia"}
+    }
+  }
+}

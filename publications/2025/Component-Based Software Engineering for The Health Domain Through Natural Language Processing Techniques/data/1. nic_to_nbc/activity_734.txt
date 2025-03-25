@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "noCodeElementName": "Respiratory Rate and Rhythm Tracking",
+  "parameterSpecifications": {
+    "Respiratory Rate": {"type": "number"},
+    "Respiratory Rhythm": {"type": "text or options"},
+    "Depth of Breathing": {"type": "text or options"},
+    "Symmetry of Breathing": {"type": "text or options"},
+    "Frequency": {"options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"type": "datetime"},
+    "Respiratory Pattern Analysis": {"type": "text or graph"}
+  }
+}

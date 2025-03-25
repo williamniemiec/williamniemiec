@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Environmental Enhancement": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Environmental Elements": {"Type": "list", "Elements": {
+        "Element Name": {"Type": "text"},
+        "Element Description": {"Type": "text"},
+        "Image": {"Type": "image"}
+      }},
+      "Layout Options": {"Type": "options", "Options": ["grid", "list", "freeForm"]},
+      "Customization Options": {"Type": "options", "Options": ["color", "size", "font"]},
+      "Frequency": {"Type": "options", "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"Type": "datetime"}
+    }
+  }
+}

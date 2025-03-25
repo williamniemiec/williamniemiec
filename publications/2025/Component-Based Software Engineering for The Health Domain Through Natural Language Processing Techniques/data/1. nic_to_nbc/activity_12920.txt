@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Pain Tracking": {
+    "body_map": {"type": "interactive body map image or diagram"},
+    "pain_scale": {"type": "options", "values": ["0-10", "mild", "moderate", "severe", "etc."]},
+    "pain_description": {"type": "text"},
+    "activity": {
+      "type": "list of activity objects",
+      "properties": {
+        "name": {"type": "text"},
+        "description": {"type": "text"}
+      }
+    },
+    "frequency": {"type": "options", "values": ["daily", "everyOtherDay", "every2Days", "every3Days", "etc."]},
+    "deadline_date": {"type": "datetime"}
+  }
+}

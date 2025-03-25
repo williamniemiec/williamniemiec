@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Chest Movement Assessment": {
+    "parameters": {
+      "Chest Symmetry": {"type": "text"},
+      "Accessory Muscle Use": {"type": "boolean"},
+      "Supraclavicular Retraction": {"type": "boolean"},
+      "Intercostal Retraction": {"type": "boolean"},
+      "Assessment Frequency": {"options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"type": "datetime"}
+    }
+  }
+}
+
+
+Let me know if this meets your requirements!

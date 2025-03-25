@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Urine Test": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Test Type": {"Type": "options", "Options": [{"value": "blood", "label": "Blood"}, {"value": "protein", "label": "Protein"}, {"value": "both", "label": "Both"}]},
+      "Frequency": {"Type": "options", "Options": [{"value": "daily", "label": "Daily"}, {"value": "onlyOnce", "label": "Only once"}, {"value": "everyHours", "label": "Every x hours"}, {"value": "everyDays", "label": "Every x days"}]},
+      "Deadline Date": {"Type": "datetime"},
+      "Instructions": {"Type": "text"}
+    }
+  }
+}

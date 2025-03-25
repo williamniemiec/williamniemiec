@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Social Skill Selector",
+    "parameters": [
+        {
+            "name": "Social Skills List",
+            "type": "list of options"
+        },
+        {
+            "name": "Selection Criteria",
+            "type": "text"
+        },
+        {
+            "name": "Goal",
+            "type": "text"
+        },
+        {
+            "name": "Frequency",
+            "type": "options"
+        },
+        {
+            "name": "Deadline Date",
+            "type": "datetime"
+        }
+    ]
+}

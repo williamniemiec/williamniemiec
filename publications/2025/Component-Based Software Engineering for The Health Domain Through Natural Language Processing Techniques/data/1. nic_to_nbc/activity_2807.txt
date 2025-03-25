@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "Dressing Guidance": {
+    "parameters": {
+      "clothing_recommendations": {
+        "type": "list of clothing objects"
+      },
+      "dressing_tips": {
+        "type": "list of tip objects"
+      },
+      "frequency": {
+        "type": "options",
+        "values": ["daily", "everyOtherDay", "every2Days", "every3Days"]
+      },
+      "deadline_date": {
+        "type": "datetime"
+      }
+    }
+  }
+}
+
+
+Let me know if you need any further modifications!

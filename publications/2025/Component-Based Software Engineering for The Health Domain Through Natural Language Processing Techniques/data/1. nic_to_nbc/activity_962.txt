@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "Guide": {
+    "parameters": {
+      "name": "",
+      "pages": []
+    }
+  },
+  "Infographic": {
+    "parameters": {
+      "name": "",
+      "image_url": ""
+    }
+  },
+  "FAQ": {
+    "parameters": {
+      "name": "",
+      "questions": [],
+      "answers": []
+    }
+  }
+}

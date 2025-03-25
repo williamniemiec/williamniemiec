@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+  "Follow-up Care Plan": {
+    "Name": {"type": "text"},
+    "Injury/Illness": {"type": "options"},
+    "Treatment Plan": {"type": "text or file"},
+    "Follow-up Schedule": {"type": "datetime"},
+    "Healthcare Provider": {"type": "text or options"}
+  },
+  "Appointment Reminder": {
+    "Name": {"type": "text"},
+    "Appointment Date": {"type": "datetime"},
+    "Reminder Type": {"type": "options"}
+  },
+  "Progress Tracking": {
+    "Name": {"type": "text"},
+    "Progress Updates": {"type": "text or file"},
+    "Care Plan Updates": {"type": "text or file"}
+  }
+}

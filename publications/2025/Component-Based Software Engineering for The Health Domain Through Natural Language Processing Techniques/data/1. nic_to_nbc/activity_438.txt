@@ -1,0 +1,13 @@
+
+
+
+{
+    "Blood Pressure Tracking": {
+        "Systolic Pressure": {"type": "number"},
+        "Diastolic Pressure": {"type": "number"},
+        "Frequency": {"options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+        "Deadline Date": {"type": "datetime"},
+        "Pulse Pressure Calculation": {"type": "calculated value ( systolic - diastolic )"},
+        "Pulse Pressure Trend": {"type": "graph or chart"}
+    }
+}

@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+  "Outcome Prediction": {
+    "name": "",
+    "outcome": "",
+    "predictors": [
+      {
+        "description": "",
+        "weight": ""
+      }
+    ],
+    "prediction_model": ""
+  },
+  "Risk Analysis": {
+    "name": "",
+    "risks": [
+      {
+        "description": "",
+        "likelihood": "",
+        "impact": ""
+      }
+    ]
+  }
+}

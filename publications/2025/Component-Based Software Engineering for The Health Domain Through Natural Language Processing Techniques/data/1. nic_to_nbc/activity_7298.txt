@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Community Program": {
+    "parameters": {
+      "name": "",
+      "description": "",
+      "goals": "",
+      "resources": [],
+      "frequency": ""
+    }
+  }
+}

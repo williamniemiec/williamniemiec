@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+  "Nipple Care Guidance": {
+    "Care Instructions": {
+      "type": "ordered list",
+      "example": ["Wash hands before touching the nipples", "Gently wash the nipples with soap and water after each feeding", "Apply a nipple cream or ointment to soothe and protect the nipples"]
+    },
+    "Tips and Precautions": {
+      "type": "text",
+      "example": "Avoid using harsh soaps or abrasive materials that can irritate the nipples"
+    },
+    "Visual Aids": {
+      "type": "media (image or video)",
+      "optional": true
+    },
+    "Frequency": {
+      "type": "options",
+      "options": ["everyFeeding", "everyXFeedings", "atWill"]
+    }
+  }
+}
+
+
+Note: I removed the `Deadline Date` parameter since it was marked as optional and didn't have a provided example. If you want to include it, let me know!

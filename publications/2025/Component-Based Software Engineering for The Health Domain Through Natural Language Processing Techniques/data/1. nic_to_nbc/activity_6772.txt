@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Parent Support Group Referral": {
+    "parameters": [
+      {"name": "Support Group Types", "type": "list of support group types"},
+      {"name": "Support Group List", "type": "list of support groups"},
+      {"name": "Referral Criteria", "type": "referral rules"},
+      {"name": "Resource Materials", "type": "list of resource materials"},
+      {"name": "Frequency", "type": "options"}
+    ]
+  }
+}
+
+
+I removed the `Deadline Date` parameter since it's marked as not required. Let me know if you need any further assistance!

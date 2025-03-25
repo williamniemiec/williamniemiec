@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Call Light Response": {
+    "Parameters": {
+      "Response Time": {},
+      "Call Light Status": {},
+      "Caregiver Notification": {},
+      "Response Instructions": {}
+    }
+  }
+}

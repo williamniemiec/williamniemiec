@@ -1,0 +1,32 @@
+Here is the output in JSON format:
+
+
+{
+  "ICP and CPP Monitoring": {
+    "name": "Monitor ICP and CPP",
+    "icp_reading": {
+      "name": "Intracranial Pressure (ICP)",
+      "description": "Enter the ICP reading",
+      "required": true,
+      "type": "number"
+    },
+    "cpp_reading": {
+      "name": "Cerebral Perfusion Pressure (CPP)",
+      "description": "Enter the CPP reading",
+      "required": true,
+      "type": "number"
+    },
+    "frequency": {
+      "name": "How often should ICP and CPP be monitored?",
+      "description": "Select one of the following options",
+      "required": true,
+      "type": "options",
+      "options": [
+        { "value": "daily", "label": "Daily" },
+        { "value": "onlyOnce", "label": "Only once" },
+        { "value": "everyHours", "label": "Every x hours" },
+        { "value": "everyDays", "label": "Every x days" }
+      ]
+    }
+  }
+}

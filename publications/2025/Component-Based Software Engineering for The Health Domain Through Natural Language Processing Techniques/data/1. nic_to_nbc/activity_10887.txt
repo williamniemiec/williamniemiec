@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "noCodeElementName": "task",
+  "parameters": {
+    "name": "Loosen Clothing",
+    "content": "Please loosen your clothing to ensure comfort and safety.",
+    "frequency": "onlyOnce"
+  }
+}

@@ -1,0 +1,29 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Environmental Control",
+    "parameters": [
+        {
+            "name": "Privacy",
+            "type": "options",
+            "options": [
+                { value: "private", label: "Private" },
+                { value: "semi-private", label: "Semi-private" },
+                { value: "open", label: "Open" }
+            ]
+        },
+        {
+            "name": "Draft Control",
+            "type": "boolean"
+        },
+        {
+            "name": "Modesty Preservation",
+            "type": "boolean"
+        },
+        {
+            "name": "Notes",
+            "type": "text"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+  "Position Change Plan": {
+    "parameters": {
+      "Position Change Type": {
+        "type": "options",
+        "options": ["turning", "repositioning", "etc."]
+      },
+      "Position Change Frequency": {
+        "type": "options",
+        "options": ["everyHour", "every2Hours", "every4Hours", "etc."]
+      },
+      "Position Change Duration": {
+        "type": "number"
+      },
+      "Patient Mobility": {
+        "type": "options",
+        "options": ["bedridden", "wheelchairBound", "etc."]
+      },
+      "Caregiver Assistance": {
+        "type": "options",
+        "options": ["minimal", "moderate", "maximal"]
+      }
+    }
+  }
+}

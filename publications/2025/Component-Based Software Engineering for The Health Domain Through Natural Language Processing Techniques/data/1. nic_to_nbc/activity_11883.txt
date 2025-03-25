@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Ability Assessment": {
+    "parameters": {
+      "name": "",
+      "sections": [
+        "cognitive",
+        "psychomotor",
+        "affective"
+      ],
+      "questions_or_tasks": [],
+      "scoring": ""
+    }
+  }
+}

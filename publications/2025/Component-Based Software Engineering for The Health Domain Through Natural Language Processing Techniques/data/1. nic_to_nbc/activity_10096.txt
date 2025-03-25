@@ -1,0 +1,34 @@
+Here is the output in JSON format:
+
+
+{
+    "Drug Administration Education": {
+        "parameters": {
+            "Drug Administration Method": {
+                "type": "options",
+                "options": [
+                    {"value": "Oral", "label": "Oral medication administration"},
+                    {"value": "Injection", "label": "Injection administration"},
+                    {"value": "Topical", "label": "Topical cream or ointment administration"},
+                    {"value": "Other", "label": "Other (please specify)"}
+                ]
+            },
+            "Patient/Family Member": {
+                "type": "text",
+                "example": "Patient: John Doe, Family Member: Jane Doe"
+            },
+            "Education Method": {
+                "type": "options",
+                "options": [
+                    {"value": "Demonstration", "label": "Demonstration of drug administration"},
+                    {"value": "Verbal", "label": "Verbal instructions"},
+                    {"value": "Written", "label": "Written instructions"},
+                    {"value": "Video", "label": "Video tutorial"}
+                ]
+            },
+            "Education Notes": {
+                "type": "text"
+            }
+        }
+    }
+}

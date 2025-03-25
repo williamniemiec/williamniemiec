@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Threat Assessment": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Prompt": {"Type": "text"},
+      "Situation/Individual": {"Type": "text"},
+      "Feelings": {"Type": "text"},
+      "Concerns": {"Type": "text"},
+      "Support System": {"Type": "text"},
+      "Action Plan": {"Type": "text"}
+    }
+  }
+}

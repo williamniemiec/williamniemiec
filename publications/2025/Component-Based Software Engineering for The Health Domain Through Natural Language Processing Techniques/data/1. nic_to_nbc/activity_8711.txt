@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+
+{
+    "Goal Setting": {
+        "Parameters": {
+            "Goal": {"Type": "text"},
+            "Steps": {"Type": "unordered list"},
+            "Timeframe": {"Type": "options", "Options": ["daily", "weekly", "monthly", "custom"]},
+            "Frequency": {"Type": "options", "Options": ["daily", "weekly", "monthly", "custom"]},
+            "Deadline Date": {"Type": "datetime"}
+        }
+    }
+}

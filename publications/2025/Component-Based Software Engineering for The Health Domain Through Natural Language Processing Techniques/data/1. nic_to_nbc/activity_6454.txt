@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+    "Medication Restriction": {
+        "parameters": {
+            "name": "Medication name (in this case, Aspirin)",
+            "description": "Brief description of the medication restriction",
+            "reason": "Reason for the restriction (in this case, \"not recommended for children\")",
+            "age_restriction": "Age range for which the medication is restricted (in this case, \"children\")"
+        }
+    }
+}
+
+
+Note: I removed the `alternative` parameter as it was marked as optional. If you want to include it, just let me know!

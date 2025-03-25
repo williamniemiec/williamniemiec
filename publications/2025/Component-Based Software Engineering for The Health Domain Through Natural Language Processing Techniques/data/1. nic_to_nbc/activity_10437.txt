@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+  "Premature Labor Symptom Tracker": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Symptoms": {"Type": "list of options or free text"},
+      "Frequency": {"Options": ["daily", "everyHours", "everyDays"]},
+      "Deadline Date": {"Type": "datetime"},
+      "Threshold Values": {"Type": "list of threshold values for each symptom"},
+      "Alert": {"Type": "boolean (true/false)"}
+    }
+  },
+  "Symptom Tracker": {
+    "Parameters": {
+      "Symptoms": {"Type": null},
+      "Frequency": {"Options": null},
+      "Threshold Values": {"Type": null},
+      "Alert": {"Type": null}
+    }
+  }
+}
+
+
+Note: I removed the not applicable parameters and kept only the ones that have specifications. Let me know if you need any further modifications!

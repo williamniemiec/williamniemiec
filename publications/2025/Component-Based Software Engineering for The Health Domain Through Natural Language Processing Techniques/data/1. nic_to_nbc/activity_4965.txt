@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Goal Breakdown": {
+    "parameters": {
+      "Goal": {"type": "text"},
+      "Step": {"type": "list of steps (with descriptions and due dates)"},
+      "Step description": {"type": "text"},
+      "Due date": {"type": "datetime"},
+      "Priority": {"type": "options (high, medium, low)"},
+      "Notes": {"type": "text"}
+    }
+  }
+}
+
+
+Let me know if this is what you were expecting!

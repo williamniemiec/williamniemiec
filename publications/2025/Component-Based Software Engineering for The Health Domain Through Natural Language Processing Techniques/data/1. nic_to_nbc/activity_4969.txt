@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+    "Mood Tracker": {
+        "Parameters": {
+            "Mood Scale": {"Type": "options"},
+            "Frequency": {"Type": "options"},
+            "Impending Doom Question": {"Type": "text"}
+        }
+    }
+}

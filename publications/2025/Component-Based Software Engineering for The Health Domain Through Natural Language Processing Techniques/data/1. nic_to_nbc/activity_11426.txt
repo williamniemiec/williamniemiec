@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "verbal contract": {
+    "Contract Statement": {"type": "text"},
+    "Patient Agreement": {"type": "boolean"},
+    "Contract Date": {"type": "datetime"},
+    "Contract Witness": {"type": "text"},
+    "Contract Review": {"type": "options", "options": ["daily", "weekly", "monthly"]}
+  }
+}

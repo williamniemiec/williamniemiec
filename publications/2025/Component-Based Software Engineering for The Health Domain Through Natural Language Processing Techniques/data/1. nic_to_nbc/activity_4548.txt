@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Gross Motor Activity Plan": {
+        "parameters": {
+            "activity_type": {"type": "options"},
+            "intensity_level": {"type": "options"},
+            "duration": {"type": "text"},
+            "frequency": {"type": "options"}
+        }
+    }
+}

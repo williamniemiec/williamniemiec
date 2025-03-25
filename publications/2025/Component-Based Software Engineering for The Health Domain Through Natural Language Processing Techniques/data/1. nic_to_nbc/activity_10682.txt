@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+  "Tracker": {
+    "Parameters": {
+      "Name": {},
+      "pH Level": {},
+      "Bicarbonate Level": {},
+      "Frequency": {},
+      "Target Range": {}
+    }
+  },
+  "Lab Result": {
+    "Parameters": {
+      "Name": {},
+      "pH Level": {},
+      "Bicarbonate Level": {},
+      "Date": {},
+      "Notes": {}
+    }
+  }
+}
+
+
+Note: I removed the "Deadline Date" parameter from the Tracker element as it's not applicable to the tracker functionality.

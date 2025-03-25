@@ -1,0 +1,13 @@
+
+
+
+{
+    "Equipment Maintenance": {
+        "name": {"type": "text"},
+        "equipment_type": {"type": "options"},
+        "maintenance_tasks": {"type": "ordered list of text or multimedia content"},
+        "frequency": {"type": "options"},
+        "deadline_date": {"type": "datetime"},
+        "troubleshooting_tips": {"type": "text or multimedia content"}
+    }
+}

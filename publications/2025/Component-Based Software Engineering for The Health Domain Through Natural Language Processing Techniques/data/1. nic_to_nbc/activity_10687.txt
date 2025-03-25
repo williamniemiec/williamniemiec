@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Data Collection Documentation": {
+    "parameters": {
+      "Informant Information": {"type": "text input or informant information template"},
+      "Data Collection Date and Time": {"type": "date and time picker"},
+      "Data Collected": {"type": "text input or rich text editor"},
+      "Data Source": {}
+    }
+  }
+}

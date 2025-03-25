@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "noCodeElementName": "Reward",
+  "parameterSpecifications": {
+    "title": "",
+    "rewardType": ["badge", "points", "message"],
+    "achievementCriteria": ""
+  }
+}

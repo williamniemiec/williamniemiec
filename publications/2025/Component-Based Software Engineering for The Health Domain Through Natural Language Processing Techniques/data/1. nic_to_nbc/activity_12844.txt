@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "Activity Substitution Plan": {
+    "parameters": {
+      "name": {"type": "text"},
+      "limitations": {"type": "options", "values": ["time", "energy", "movement", "other"]},
+      "original_activity": {"type": "text"},
+      "substitution_activities": {
+        "type": "unordered list",
+        "properties": {
+          "title": {"type": "text"},
+          "instructions": {"type": "text"},
+          "benefits": {"type": "text"},
+          "energy_level": {"type": "options", "values": ["low", "moderate", "high"]},
+          "time_required": {"type": "text"}
+        }
+      },
+      "therapist_notes": {"type": "text"}
+    }
+  }
+}
+
+Note that I removed the non-applicable parameters and reformatted the output to be a valid JSON object. Let me know if you have any further requests!

@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "journal entry",
+    "parameters": [
+        {
+            "name": "prompt",
+            "type": "text"
+        },
+        {
+            "name": "answer type",
+            "type": "options"
+        },
+        {
+            "name": "frequency",
+            "type": "options"
+        },
+        {
+            "name": "deadline_date",
+            "type": "datetime"
+        }
+    ]
+}
+
+Note: I removed the `description` field as it was not specified in the problem statement. Also, I removed the `required` field and `options` array for brevity. Let me know if you need them included.

@@ -1,0 +1,3 @@
+Since there is no input provided, I will assume that you want me to wait for an actual input. Please provide the text in the specified format, and I'll be happy to help you extract the required information and convert it into a JSON output.
+
+Please go ahead and provide the input!

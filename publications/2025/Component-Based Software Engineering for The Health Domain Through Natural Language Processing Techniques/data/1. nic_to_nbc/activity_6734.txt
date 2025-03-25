@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Problem-Solving Guide": {
+    "Name": {"type": "text"},
+    "Problem Statement": {"type": "text"},
+    "Step-by-Step Instructions": {"type": "list of text"},
+    "Reflection Questions": {"type": "list of text"},
+    "Resources": {"type": "list of text or URLs"},
+    "Frequency": {"type": "options"},
+    "Deadline Date": {"type": "datetime"}
+  }
+}

@@ -1,0 +1,14 @@
+
+
+
+{
+  "Reminder": {
+    "parameters": {
+      "name": "Maintain drainage tube position",
+      "content": "Maintain the position of any drainage tube",
+      "frequency": ["daily", "everyHours", "everyDays"],
+      "deadline_date": {"type": "datetime"},
+      "notes": {"type": "text"}
+    }
+  }
+}

@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Nutritional Supplement Task": {
+    "parameters": [
+      {"Name": "text"},
+      {"Supplement Type": "options"},
+      {"Dosage": "numeric"},
+      {"Frequency": "numeric"},
+      {"Duration": "numeric"},
+      {"Instructions": "text"}
+    ]
+  }
+}
+
+
+Note that I removed the `Monitoring` parameter as it was marked as not applicable (`required`: `false`). Let me know if you have any further questions!

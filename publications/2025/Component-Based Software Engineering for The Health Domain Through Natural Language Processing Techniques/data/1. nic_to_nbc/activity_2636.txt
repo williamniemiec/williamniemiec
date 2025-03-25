@@ -1,0 +1,36 @@
+Here is the output in JSON format:
+
+
+{
+  "Food Diary": {
+    "parameters": {
+      "Food Item": {"type": "text"},
+      "Portion Size": {"type": "number"},
+      "Unit": {"type": "options", "options": ["grams", "ounces", "cups", "etc."]},
+      "Calories": {"type": "number"},
+      "Meal Time": {"type": "time"},
+      "Frequency": {"type": "options", "options": ["daily", "weekly", "monthly", "oneTime"]},
+      "Deadline Date": {"type": "datetime"}
+    }
+  },
+  "Weight Tracker": {
+    "parameters": {
+      "Weight": {"type": "number"},
+      "Unit": {"type": "options", "options": ["kg", "lbs", "etc."]},
+      "Frequency": {"type": "options", "options": ["daily", "weekly", "monthly", "oneTime"]},
+      "Deadline Date": {"type": "datetime"},
+      "Target Range": {"type": "range"},
+      "Alert Threshold": {"type": "range"}
+    }
+  },
+  "Data Entry": {
+    "parameters": {
+      "Food Item": {"type": "text"},
+      "Calories": {"type": "number"},
+      "Weight": {"type": "number"},
+      "Unit": {"type": "options", "options": ["kg", "lbs", "etc."]},
+      "Frequency": {"type": "options", "options": ["daily", "weekly", "monthly", "oneTime"]},
+      "Deadline Date": {"type": "datetime"}
+    }
+  }
+}

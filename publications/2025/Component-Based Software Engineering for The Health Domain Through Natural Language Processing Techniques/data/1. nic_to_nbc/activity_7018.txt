@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Catheter Care Guide": {
+    "Name": {},
+    "Content": {},
+    "Sections": {},
+    "FAQs": {}
+  },
+  "Catheter Care Tip": {
+    "Title": {},
+    "Content": {},
+    "Image": {}
+  }
+}

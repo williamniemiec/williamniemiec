@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Medical History": {
+    "parameters": {
+      "conditions": "",
+      "medications": "",
+      "allergies": "",
+      "notes": ""
+    }
+  }
+}

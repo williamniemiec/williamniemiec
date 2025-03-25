@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Review Schedule": {
+    "Contract/Agreement": {"type": "text"},
+    "Goals": {"type": "text"},
+    "Review Frequency": {"type": "options", "options": ["daily", "weekly", "monthly", "quarterly"]},
+    "Review Dates": {"type": "list of dates"},
+    "Reminder": {"type": "boolean"}
+  }
+}

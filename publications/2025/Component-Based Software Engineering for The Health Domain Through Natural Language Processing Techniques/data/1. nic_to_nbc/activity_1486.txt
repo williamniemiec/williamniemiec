@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "assessment",
+    "parameters": [
+        { 
+            "name": "question", 
+            "type": "text"
+        },
+        { 
+            "name": "response_type", 
+            "type": "text"
+        },
+        { 
+            "name": "fatigue_scale", 
+            "type": "text"
+        },
+        { 
+            "name": "frequency", 
+            "type": "text"
+        }
+    ]
+}

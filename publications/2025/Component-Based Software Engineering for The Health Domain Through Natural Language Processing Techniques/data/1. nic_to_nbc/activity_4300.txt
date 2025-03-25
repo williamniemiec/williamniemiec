@@ -1,0 +1,30 @@
+Here is the output in JSON format:
+
+
+{
+  "Survey": {
+    "Questions": {
+      "Type": "list of questions with options"
+    },
+    "Target Audience": {
+      "Type": "options"
+    },
+    "Frequency": {
+      "Type": "options"
+    }
+  },
+  "Analytics": {
+    "Metrics": {
+      "Type": "options"
+    },
+    "Data Source": {
+      "Type": "options"
+    },
+    "Filters": {
+      "Type": "options"
+    }
+  }
+}
+
+
+Let me know if this is what you were looking for!

@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+[
+  {
+    "Medication List": [
+      {"name": "medication_name", "description": "Enter the name of your medication", "required": true, "type": "text"},
+      {"name": "dosage", "description": "Enter the dosage of your medication", "required": true, "type": "text"},
+      {"name": "frequency", "description": "How often do you take your medication?", "required": true, "type": "options", "options": [{"value": "daily", "label": "Daily"}, {"value": "onlyOnce", "label": "Only once"}, {"value": "everyHours", "label": "Every x hours"}, {"value": "everyDays", "label": "Every x days"}]},
+      {"name": "perception_altering", "description": "Does this medication alter your perception?", "required": true, "type": "boolean"}
+    ]
+  },
+  {
+    "Medication Alert": [
+      {"name": "medication_name", "description": "Enter the name of the medication that may alter perception", "required": true, "type": "text"},
+      {"name": "alert_message", "description": "Enter the alert message for the patient", "required": true, "type": "text"}
+    ]
+  },
+  {
+    "Alternative Medication Options": [
+      {"name": "alternative_medications", "description": "View alternative medication options", "required": true, "type": "guide-page", "guide-page": "list of HTML texts"}
+    ]
+  }
+]

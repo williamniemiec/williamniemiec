@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Collection Appliance Emptying": {
+    "Name": {},
+    "Emptying Instructions": {},
+    "Frequency": {},
+    "Deadline Date": {},
+    "Confirmation": {},
+    "Additional Notes": {}
+  }
+}

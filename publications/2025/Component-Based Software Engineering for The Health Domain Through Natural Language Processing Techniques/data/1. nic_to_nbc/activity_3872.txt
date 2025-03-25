@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Self-Reward": {
+    "parameters": {
+      "Outcome Evaluation": {"type": "reference to outcome evaluation"},
+      "Self-Reward Options": {"type": "unordered list"},
+      "Self-Reward Description": {"type": "text"},
+      "Reflection Questions": {"type": "unordered list"},
+      "Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"type": "datetime"}
+    }
+  }
+}

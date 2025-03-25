@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Food Temperature Guide": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Temperature Ranges": {"Type": "list", "Items": [{"Description": "", "Recommended Temperature Range": ""}]},
+      "Food Categories": {"Type": "options", "Options": ["hot", "cold", "room temperature"]},
+      "Tips and Reminders": {"Type": "text"},
+      "Frequency": {"Type": "options", "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]}
+    }
+  }
+}

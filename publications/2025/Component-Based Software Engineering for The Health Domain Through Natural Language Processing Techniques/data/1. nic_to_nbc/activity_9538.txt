@@ -1,0 +1,37 @@
+Here is the output in JSON format:
+
+
+{
+  "Parameters": {
+    "Authority": {
+      "Description": "select the authority to report the animal bite to",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "police", "label": "Police" },
+        { "value": "animal control", "label": "Animal control" },
+        { "value": "other", "label": "Other (specify)" }
+      ]
+    },
+    "Bite details": {
+      "Description": "enter details about the animal bite",
+      "Required": true,
+      "Type": "text"
+    },
+    "Reporting method": {
+      "Description": "select how to report the animal bite",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "phone", "label": "Phone" },
+        { "value": "online form", "label": "Online form" },
+        { "value": "in person", "label": "In person" },
+        { "value": "other", "label": "Other (specify)" }
+      ]
+    }
+  },
+  "No-code element name": "Report animal bite"
+}
+
+
+Note: I removed the `Deadline date` parameter since it was marked as not required (`Required: false`). Let me know if you want to include non-required parameters as well.

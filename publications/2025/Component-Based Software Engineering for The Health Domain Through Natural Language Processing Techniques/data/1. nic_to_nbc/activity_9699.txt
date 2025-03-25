@@ -1,0 +1,47 @@
+Here is the output in JSON format:
+
+
+{
+  "Enema Setup": {
+    "Parameters": {
+      "Enema Bag Height": {
+        "Description": "Determine the appropriate height of the enema bag",
+        "Required": true,
+        "Type": "range",
+        "Range": {
+          "min": 12,
+          "max": 24,
+          "unit": "inches"
+        }
+      },
+      "Solution Volume": {
+        "Description": "Determine the appropriate solution volume for the enema",
+        "Required": true,
+        "Type": "range",
+        "Range": {
+          "min": 500,
+          "max": 1000,
+          "unit": "mL"
+        }
+      },
+      "Instillation Rate": {
+        "Description": "Determine the appropriate instillation rate for the enema",
+        "Required": true,
+        "Type": "range",
+        "Range": {
+          "min": 10,
+          "max": 30,
+          "unit": "mL/min"
+        }
+      },
+      "Tubing Handling": {
+        "Description": "Handle the tubing correctly to prevent kinking or obstruction",
+        "Required": true,
+        "Type": "instruction"
+      }
+    }
+  }
+}
+
+
+I removed all unnecessary text and kept only the `{{ NO-CODE ELEMENT NAME }}` and `{{ PARAMETER ESPECIFICATIONS }}`. I also removed any not applicable parameters.

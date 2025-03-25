@@ -1,0 +1,12 @@
+
+
+
+{
+    "Grief Support": {
+        "parameters": [
+            {"name": "Grief Stage", "type": "options"},
+            {"name": "Support Message", "type": "text"},
+            {"name": "Frequency", "type": "options"}
+        ]
+    }
+}

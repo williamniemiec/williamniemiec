@@ -1,0 +1,39 @@
+Here is the output in JSON format:
+
+
+{
+    "Surgery Duration": {
+        "parameters": [
+            { 
+                "name": "Name", 
+                "type": "text"
+            },
+            { 
+                "name": "Instructions", 
+                "type": "text"
+            },
+            { 
+                "name": "Expected Duration", 
+                "type": "object",
+                "properties": {
+                    "hours": { "type": "number" },
+                    "minutes": { "type": "number" }
+                }
+            },
+            { 
+                "name": "Confirmation", 
+                "type": "boolean"
+            },
+            { 
+                "name": "Frequency", 
+                "type": "options",
+                "options": [
+                    { value: "daily" },
+                    { value: "onlyOnce" },
+                    { value: "everyHours" },
+                    { value: "everyDays" }
+                ]
+            }
+        ]
+    }
+}

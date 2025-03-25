@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+    "Oxygen Prescription Education": {
+        "Name": {"type": "text"},
+        "Content": {"type": "text or multimedia (e.g., images, videos)"},
+        "Questions": {"type": "list of questions with answer options (e.g., multiple choice, true/false)"}
+    },
+    "Oxygen Prescription Reminder": {
+        "Name": {"type": "text"},
+        "Trigger": {"type": "date or event-based trigger"},
+        "Message": {"type": "text or multimedia (e.g., images, videos)"}
+    }
+}
+
+
+Let me know if this meets your requirements!

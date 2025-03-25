@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "critical_path_explanation": {
+    "parameters": {
+      "Path description": "",
+      "Path steps": [],
+      "Path goals": [],
+      "Frequency": "",
+      "Deadline date": ""
+    }
+  }
+}

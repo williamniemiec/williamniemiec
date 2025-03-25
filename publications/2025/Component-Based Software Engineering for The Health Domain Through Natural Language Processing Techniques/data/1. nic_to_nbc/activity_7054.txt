@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Form Verification": {
+    "Medication Name": {},
+    "Original Form": {},
+    "Changed Form": {},
+    "Verification Steps": {},
+    "Frequency": {}
+  }
+}

@@ -1,0 +1,12 @@
+
+
+
+{
+    "Policy Awareness": {
+        "policy_name": "",
+        "policy_description": "",
+        "risk_reduction": "",
+        "resources": [],
+        "call_to_action": ""
+    }
+}

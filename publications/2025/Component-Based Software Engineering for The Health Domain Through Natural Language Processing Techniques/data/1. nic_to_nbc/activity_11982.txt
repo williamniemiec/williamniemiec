@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Voiding Diary Review": {
+    "Diary Data": {"type": "diary data"},
+    "Review Format": {"type": "options"},
+    "Insight Generation": {"type": "boolean"},
+    "Insight Content": {"type": "multimedia content"},
+    "Patient Engagement": {"type": "options"}
+  }
+}

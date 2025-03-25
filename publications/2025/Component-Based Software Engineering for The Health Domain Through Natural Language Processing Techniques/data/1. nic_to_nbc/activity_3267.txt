@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Weight Tracking": {
+    "Target Weight Range": {"type": "range"},
+    "Weight Measurement Frequency": {"type": "options", "options": ["daily", "weekly", "biweekly", "monthly"]},
+    "Weight Gain Protocol": {"type": "options", "options": ["calorie supplementation", "nutritional counseling", "meal planning", "etc."]},
+    "Threshold": {"type": "number"},
+  }
+}

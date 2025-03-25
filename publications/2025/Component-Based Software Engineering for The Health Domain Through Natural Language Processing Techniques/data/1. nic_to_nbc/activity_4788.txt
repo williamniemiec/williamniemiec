@@ -1,0 +1,35 @@
+Here is the output in JSON format:
+
+
+{
+  "Splint Application": {
+    "Joint/Region": {
+      "type": "options",
+      "options": [
+        {"value": "shoulder", "label": "Shoulder"},
+        {"value": "elbow", "label": "Elbow"},
+        {"value": "wrist", "label": "Wrist"},
+        {"value": "hand", "label": "Hand"},
+        {"value": "finger", "label": "Finger"},
+        {"value": "other", "label": "Other (specify)"}
+      ]
+    },
+    "Splint Type": {
+      "type": "options",
+      "options": [
+        {"value": "staticSplint", "label": "Static splint"},
+        {"value": "dynamicSplint", "label": "Dynamic splint"},
+        {"value": "serialSplint", "label": "Serial splint"},
+        {"value": "other", "label": "Other (specify)"}
+      ]
+    },
+    "Prescription": {
+      "type": "text",
+      "required": true
+    },
+    "Application Instructions": {
+      "type": "text",
+      "required": true
+    }
+  }
+}

@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Fluid Intake Tracker": {
+    "parameters": {
+      "Fluid Goal": {"type": "numeric input"},
+      "Fluid Types": {"type": "checklist or multi-select options"},
+      "Tracking Method": {"type": "form or interactive table"},
+      "Contraindications": {"type": "conditional logic or branching"},
+      "Education and Tips": {"type": "rich text or multimedia"}
+    }
+  }
+}
+
+
+I removed all the unnecessary text and only kept the `{{ NO-CODE ELEMENT NAME }}` and `{{ PARAMETER ESPECIFICATIONS }}`. I also formatted the parameters in a JSON object with key-value pairs, where the key is the parameter name and the value is an object containing the type of the parameter. Let me know if this meets your requirements!

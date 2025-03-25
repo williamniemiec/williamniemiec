@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Skin and Bony Prominence Monitoring": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Instructions": {"Type": "text or multimedia"},
+      "Monitoring Questions": {"Type": "form", "Options": ["multiple-choice", "Likert scale", "open-ended questions"]},
+      "Frequency": {"Type": "options", "Options": ["daily", "everyOtherDay", "every3Days", "custom"]},
+      "Deadline Date": {"Type": "datetime"},
+      "Photo Upload": {"Type": "camera or image upload"},
+      "Area Selection": {"Type": "options", "Options": ["list of possible areas to monitor"]},
+      "Skin Breakdown Scale": {"Type": "options", "Options": ["list of possible ratings"]}
+    }
+  }
+}

@@ -1,0 +1,14 @@
+
+
+
+{
+  "Tracking": {
+    "Parameter Specifications": {
+      "Parameter Name": {"Type": "text"},
+      "Unit": {"Type": "text"},
+      "Frequency": {"Type": "options"},
+      "Target Range": {"Type": "range"},
+      "Notes": {"Type": "text"}
+    }
+  }
+}

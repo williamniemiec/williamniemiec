@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Offending Cause Investigation": {
+    "Potential Causes Checklist": {"type": "unordered list"},
+    "Investigation Questions": {"type": "unordered list"},
+    "Removal Instructions": {"type": "text or video"},
+    "Verification": {"type": "boolean"},
+    "Documentation": {"type": "text or form"}
+  }
+}
+
+
+Note that I removed the "Not Applicable" parameters, which in this case was none.

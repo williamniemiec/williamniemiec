@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+    "care priority identification": {
+        "Priority Questions": {"Type": "list of text"},
+        "Priority Scale": {"Type": "scale (e.g. 1-5)"},
+        "Priority List": {"Type": "list of text"},
+        "Additional Notes": {"Type": "text"}
+    }
+}

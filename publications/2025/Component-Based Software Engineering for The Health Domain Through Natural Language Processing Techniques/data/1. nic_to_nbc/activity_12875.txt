@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Goal Setting": {
+    "parameters": {
+      "Goal": {"type": "text"},
+      "Criteria": {"type": "text"},
+      "Target Date": {"type": "datetime"},
+      "Responsibility": {"type": "text"},
+      "Evaluation Method": {"type": "list of options"}
+    }
+  }
+}

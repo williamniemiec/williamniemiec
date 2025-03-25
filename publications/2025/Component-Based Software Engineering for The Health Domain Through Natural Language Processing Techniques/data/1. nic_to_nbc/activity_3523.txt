@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Strengths Identification": {
+    "Parameters": {
+      "Prompt": {"Type": "text"},
+      "Response Type": {"Type": "options", "Options": ["text", "multiple choice", "rating scale"]},
+      "Examples": {"Type": "list of text"},
+      "Reflection": {"Type": "text"},
+      "Frequency": {"Type": "options", "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"Type": "datetime"}
+    }
+  }
+}

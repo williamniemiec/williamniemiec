@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Music Selection": {
+    "parameters": {
+      "Music Library": {"type": "music library or database"},
+      "Preference Matching": {"type": "algorithm or rule-based system"},
+      "Music Selection Criteria": {"type": "options", "options": ["tempo", "genre", "era", "mood", "etc."]},
+      "Playlist Generation": {"type": "playlist generator"}
+    }
+  }
+}

@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Sugar and Caries Education": {
+    "Educational Content": {
+      "type": "text or multimedia content"
+    },
+    "Dietary Recommendations": {
+      "type": "text or list of recommended dietary changes"
+    },
+    "Bottle and Sippy Cup Guidance": {
+      "type": "text or multimedia content"
+    },
+    "Parental Instructions": {
+      "type": "text or multimedia content"
+    }
+  }
+}

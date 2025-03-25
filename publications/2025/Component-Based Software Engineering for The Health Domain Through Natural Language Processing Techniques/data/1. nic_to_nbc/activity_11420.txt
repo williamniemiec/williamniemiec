@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Psychosocial Readiness Assessment": {
+        "Interest in Toileting": {"type": "boolean"},
+        "Communication Skills": {"type": "boolean"},
+        "Anxiety to Please": {"type": "boolean"},
+        "Imitation of Others": {"type": "boolean"},
+        "Assessment Frequency": {"options": ["daily", "weekly", "monthly"]},
+        "Reminder": {"type": "boolean"}
+    }
+}

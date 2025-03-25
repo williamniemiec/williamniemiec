@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Contraceptive Guide": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Description": {"Type": "text"},
+      "Contraceptive Options": {"Type": "list", "Items": ["list of contraceptive options, with descriptions and instructions for use"]},
+      "Instructions for Use": {"Type": "text"},
+      "Reminders": {"Type": "boolean"},
+      "Side Effects": {"Type": "list", "Items": ["list of potential side effects, with descriptions and instructions for management"]},
+      "Follow-up": {"Type": "boolean"}
+    }
+  }
+}

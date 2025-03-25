@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "GI Comfort Tracker": {
+    "parameters": {
+      "GI Comfort Scale": {
+        "type": "options",
+        "options": ["mild", "moderate", "severe"]
+      },
+      "Comfort Measures": {
+        "type": "list",
+        "list items": "text, with optional images or icons"
+      },
+      "Tracking": {
+        "type": "form",
+        "fields": ["date", "time", "GI comfort level", "comfort measures used", "notes (optional)"]
+      }
+    }
+  }
+}

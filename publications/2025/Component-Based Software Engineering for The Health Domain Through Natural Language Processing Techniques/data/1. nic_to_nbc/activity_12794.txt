@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "Symptom Management Guide": {
+    "Parameters": {
+      "Symptom Checker": {
+        "Type": "checklist or multi-select options"
+      },
+      "Treatment Options": {
+        "Type": "text or options"
+      },
+      "Dosage and Administration": {
+        "Type": "text or options"
+      },
+      "When to Seek Medical Attention": {
+        "Type": null
+      }
+    }
+  }
+}
+
+
+Note that I removed the "When to Seek Medical Attention" parameter since its type was not specified.

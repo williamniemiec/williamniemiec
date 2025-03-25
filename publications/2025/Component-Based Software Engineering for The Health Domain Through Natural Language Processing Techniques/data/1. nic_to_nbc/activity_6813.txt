@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Formula Progression": {
+    "parameters": {
+      "Formula Steps": {},
+      "Progression Criteria": {},
+      "Feeding Schedule": {},
+      "Volume Increment": {},
+      "Instructions": {}
+    }
+  }
+}
+
+
+Note that I removed `Deadline Date` as it's not applicable (datetime type is not supported in this context). Let me know if you have any further questions!

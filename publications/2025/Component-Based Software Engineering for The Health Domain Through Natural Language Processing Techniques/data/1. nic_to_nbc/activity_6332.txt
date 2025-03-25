@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+
+{
+  "Diet Knowledge Assessment": {
+    "Parameters": {
+      "Diet Questions": {"Type": "list of text"},
+      "Answer Options": {"Type": "list of text"},
+      "Correct Answers": {"Type": "list of text"},
+      "Scoring": {"Type": "options"},
+      "Feedback": {"Type": "boolean"}
+    }
+  }
+}

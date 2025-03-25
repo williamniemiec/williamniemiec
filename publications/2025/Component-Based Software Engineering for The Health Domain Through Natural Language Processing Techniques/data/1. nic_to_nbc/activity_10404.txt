@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Newborn Assessment": {
+    "Parameters": {
+      "Vital Signs": {},
+      "Behavioral State": {},
+      "Physical Examination": {},
+      "Feeding Readiness": {}
+    }
+  }
+}

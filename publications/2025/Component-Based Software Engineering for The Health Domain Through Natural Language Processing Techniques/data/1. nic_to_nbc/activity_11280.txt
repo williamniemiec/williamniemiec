@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Health Screening": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Screening Type": {"Type": "options"},
+      "Instructions": {"Type": "text"},
+      "Frequency": {"Type": "options"},
+      "Deadline Date": {"Type": "datetime"},
+      "Results": {"Type": "file or text"}
+    }
+  }
+}

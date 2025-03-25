@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Physiological Factors Guide": {
+    "Factors": {
+      "Factor": "factor",
+      "Description": "description"
+    },
+    "Laboratory Values": "list of laboratory values",
+    "Frequency": "review frequency"
+  }
+}

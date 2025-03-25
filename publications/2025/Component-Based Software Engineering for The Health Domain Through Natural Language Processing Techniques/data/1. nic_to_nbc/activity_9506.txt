@@ -1,0 +1,31 @@
+Here is the output in JSON format:
+
+
+{
+  "Oral Moisturizer": {
+    "Task Title": {
+      "Description": "Title of the task",
+      "Required": true,
+      "Type": "text"
+    },
+    "Instructions": {
+      "Description": "Step-by-step instructions on how to apply the oral moisturizer",
+      "Required": true,
+      "Type": "text"
+    },
+    "Frequency": {
+      "Description": "How often to apply the oral moisturizer",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "asNeeded", "label": "As needed" },
+        { "value": "daily", "label": "Daily" },
+        { "value": "everyHours", "label": "Every x hours" },
+        { "value": "everyDays", "label": "Every x days" }
+      ]
+    }
+  }
+}
+
+
+I removed the `Deadline Date` parameter since it's not required. Let me know if you need anything else!

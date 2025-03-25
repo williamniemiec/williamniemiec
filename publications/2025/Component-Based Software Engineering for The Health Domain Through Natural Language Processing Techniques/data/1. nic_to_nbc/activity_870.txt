@@ -1,0 +1,49 @@
+Here is the output in JSON format:
+
+
+{
+  "Pre-Surgery Guide": {
+    "parameters": [
+      {
+        "name": "information",
+        "description": "What to expect before surgery",
+        "required": true,
+        "type": "article"
+      },
+      {
+        "name": "checklist",
+        "description": "Pre-surgery checklist",
+        "required": true,
+        "type": "list"
+      },
+      {
+        "name": "questions",
+        "description": "Questions to ask your healthcare provider before surgery",
+        "required": true,
+        "type": "list"
+      }
+    ]
+  },
+  "Post-Surgery Guide": {
+    "parameters": [
+      {
+        "name": "information",
+        "description": "What to expect after surgery",
+        "required": true,
+        "type": "article"
+      },
+      {
+        "name": "instructions",
+        "description": "Post-surgery instructions",
+        "required": true,
+        "type": "list"
+      },
+      {
+        "name": "follow_up",
+        "description": "Follow-up care and appointments",
+        "required": true,
+        "type": "list"
+      }
+    ]
+  }
+}

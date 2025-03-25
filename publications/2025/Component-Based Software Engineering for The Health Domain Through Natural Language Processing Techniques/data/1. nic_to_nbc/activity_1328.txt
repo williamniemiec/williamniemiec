@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Dressing Reminder": {
+    "Parameters": {
+      "Name": {},
+      "Frequency": {},
+      "Deadline Date": {},
+      "Instructions": {}
+    }
+  }
+}

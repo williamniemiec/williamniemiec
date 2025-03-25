@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+{
+  "Discrepancy Discussion": {
+    "parameters": {
+      "Discrepancy": {"type": "text"},
+      "Patient Perspective": {"type": "text or form"},
+      "Nurse Perspective": {"type": "text or form"},
+      "Discussion Thread": {"type": "text or chat interface"},
+      "Resolution": {"type": "text"}
+    }
+  }
+}

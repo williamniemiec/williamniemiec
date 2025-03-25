@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Reminiscence Companion": {
+    "Parameters": {
+      "Activity Type": {"Type": "options"},
+      "Story Prompts": {"Type": "text or interactive quiz"},
+      "Memory Lane": {"Type": "interactive multimedia feature"},
+      "Sharing Options": {"Type": "internal feature or integration with existing platforms"},
+      "Frequency": {"Type": "options"},
+      "Deadline Date": {"Type": "datetime"}
+    }
+  }
+}

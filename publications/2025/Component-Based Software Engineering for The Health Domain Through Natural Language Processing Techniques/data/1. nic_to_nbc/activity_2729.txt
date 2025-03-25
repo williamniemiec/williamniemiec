@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Family Care Encouragement": {
+    "Care Activities": {"type": "list of text fields"},
+    "Family Member Roles": {"type": "list of text fields"},
+    "Care Facility Information": {"type": "list of text fields"},
+    "Care Tips and Resources": {"type": "list of text fields"},
+    "Frequency of Encouragement": {"options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"type": "datetime"},
+    "Name": {"type": "text"}
+  }
+}

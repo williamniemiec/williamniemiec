@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+    "instruction": {
+        "parameters": [
+            {"name": "title"},
+            {"name": "content"}
+        ]
+    }
+}

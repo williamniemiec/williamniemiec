@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Myth-Busting Module": {
+    "parameters": {
+      "myths": {
+        "type": "list of myth texts"
+      },
+      "corrections": {
+        "type": "list of correction texts"
+      },
+      "evidence": {
+        "type": "list of evidence-based source texts or links"
+      }
+    }
+  }
+}
+
+
+Let me know if this meets your requirements!

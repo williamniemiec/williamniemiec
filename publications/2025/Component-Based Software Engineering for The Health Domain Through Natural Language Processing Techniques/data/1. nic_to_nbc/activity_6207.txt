@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+  "Nutrition and Food Preparation Guide": {
+    "Modules": {
+      "Type": "course-module",
+      "Required": true
+    },
+    "Lessons": {
+      "Type": "lesson",
+      "Required": true
+    },
+    "Recipes": {
+      "Type": "recipe",
+      "Required": true
+    },
+    "Meal Planning Tools": {
+      "Type": "template",
+      "Required": true
+    }
+  }
+}

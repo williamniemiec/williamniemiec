@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Transfer Board Assistance": {
+        "Parameters": {
+            "Transfer Board Type": {"Type": "options"},
+            "Patient Mobility": {"Type": "options"},
+            "Transfer Instructions": {"Type": "text"},
+            "Visual Aids": {"Type": "multimedia"},
+            "Safety Checks": {"Type": "checklist"}
+        }
+    }
+}

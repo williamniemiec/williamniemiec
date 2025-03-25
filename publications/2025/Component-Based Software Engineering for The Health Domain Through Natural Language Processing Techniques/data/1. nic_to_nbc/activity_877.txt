@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Cast Location": {
+    "Type": "options (e.g., arm, leg, hip)"
+  },
+  "Groin Proximity": {
+    "Type": "yes/no or proximity measurement (e.g., distance from groin)"
+  },
+  "Protection Instructions": {
+    "Type": "text or video"
+  },
+  "Protection Methods": {
+    "Type": "list of options"
+  },
+  "Notes": {
+    "Type": "text"
+  },
+  "Name": "Cast Protection Reminder"
+}

@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+  "Clergy Notification": {
+    "Notification Title": {},
+    "Notification Message": {},
+    "Clergy Contact Information": {},
+    "Family Request Status": {},
+    "Notification Frequency": {
+      "options": [
+        { "value": "immediately", "label": "Immediately" },
+        { "value": "daily", "label": "Daily" },
+        { "value": "onlyOnce", "label": "Only once" },
+        { "value": "everyHours", "label": "Every x hours" },
+        { "value": "everyDays", "label": "Every x days" }
+      ]
+    }
+  }
+}

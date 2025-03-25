@@ -1,0 +1,29 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Food Diary Guidance",
+  "parameters": [
+    {
+      "name": "Instructions",
+      "type": "text"
+    },
+    {
+      "name": "Diary template",
+      "type": "file"
+    },
+    {
+      "name": "Frequency",
+      "type": "options",
+      "options": [
+        { value: "daily", label: "Daily" },
+        { value: "weekly", label: "Weekly" },
+        { value: "monthly", label: "Monthly" }
+      ]
+    },
+    {
+      "name": "Reminders",
+      "type": "boolean"
+    }
+  ]
+}

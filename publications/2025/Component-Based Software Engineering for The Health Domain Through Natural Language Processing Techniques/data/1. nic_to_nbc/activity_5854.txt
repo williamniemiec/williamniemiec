@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Instructional Guide": {
+    "Parameters": {
+      "Title": {"Type": "text"},
+      "Steps": {"Type": "list of interactive tutorial steps"},
+      "Videos": {"Type": "list of video URLs or embedded videos"},
+      "Images": {"Type": "list of image URLs or embedded images"},
+      "Frequency": {"Type": "options"},
+      "Deadline Date": {"Type": "datetime"}
+    }
+  }
+}
+
+
+Let me know if this is what you were looking for!

@@ -1,0 +1,30 @@
+Here is the output in JSON format:
+
+
+{
+  "Reinforcement Message": {
+    "Parameters": {
+      "Message": {"Type": "text"},
+      "Image": {"Type": "image"}
+    }
+  },
+  "Behavioral Tracking": {
+    "Parameters": {
+      "Behavioral Metric": {"Type": "options"},
+      "Target Value": {"Type": "numeric"},
+      "Trigger": {"Type": "options"}
+    }
+  },
+  "Reward or Incentive": {
+    "Parameters": {
+      "Reward Type": {"Type": "options"},
+      "Reward Value": {"Type": "numeric"}
+    }
+  },
+  "Sustainability Plan": {
+    "Parameters": {
+      "Plan": {"Type": "text"},
+      "Reminders": {"Type": "options"}
+    }
+  }
+}

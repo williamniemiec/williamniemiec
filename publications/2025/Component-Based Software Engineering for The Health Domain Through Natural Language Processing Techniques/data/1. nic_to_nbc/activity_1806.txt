@@ -1,0 +1,49 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "arrangement guide",
+    "parameters": [
+        { 
+            "name": "title", 
+            "description": "title of the arrangement guide", 
+            "required": true, 
+            "type": "text"
+        },
+        { 
+            "name": "items", 
+            "description": "list of supplies and linens to arrange", 
+            "required": true, 
+            "type": "unordered list",
+            "items": [
+                { 
+                    "name": "item name", 
+                    "description": "description of the item", 
+                    "required": true, 
+                    "type": "text"
+                },
+                { 
+                    "name": "item arrangement", 
+                    "description": "description of how to arrange the item", 
+                    "required": true, 
+                    "type": "text"
+                }
+            ]
+        },
+        { 
+            "name": "frequency", 
+            "description": "specify how often the arrangement should be repeated", 
+            "required": true, 
+            "type": "options",
+            "options": [
+                { value: "daily", label: "Daily" },
+                { value: "onlyOnce", label: "Only once" },
+                { value: "everyHours", label: "Every x hours" },
+                { value: "everyDays", label: "Every x days" },
+            ]
+        }
+    ]
+}
+
+
+Note that I removed the `deadline_date` parameter because it was marked as not required. Let me know if you want to include non-required parameters as well!

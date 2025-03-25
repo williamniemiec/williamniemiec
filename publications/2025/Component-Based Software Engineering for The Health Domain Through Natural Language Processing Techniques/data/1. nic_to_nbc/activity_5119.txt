@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Memory Verbalization": {
+    "Parameters": {
+      "Memory Type": {"Type": "options"},
+      "Memory Description": {"Type": "text"},
+      "Emotional Response": {"Type": "text"},
+      "Memory Trigger": {"Type": "text"},
+      "Reflection Prompt": {"Type": "text"},
+      "Memory Timeline": {"Type": "date or timeline interface"}
+    }
+  }
+}

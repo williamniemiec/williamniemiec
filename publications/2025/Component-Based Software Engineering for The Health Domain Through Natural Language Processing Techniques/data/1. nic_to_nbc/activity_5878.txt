@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+    "Antiseptic Avoidance Reminder": {
+        "Reminder Message": {"type": "text"},
+        "Reason for Avoidance": {"type": "text"},
+        "Alternative Cleansing Methods": {"type": "text or instructional content"}
+    },
+    "Wound Care Journal": {
+        "Entry Date": {"type": "datetime"},
+        "Entry Time": {"type": "time"},
+        "Cleansing Method Used": {"type": "options"},
+        "Notes": {"type": "text"}
+    }
+}

@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Survey": {
+    "parameters": {
+      "questions": {
+        "type": "list of question texts and corresponding answer types"
+      },
+      "answer_options": {
+        "type": "list of answer options for each question"
+      }
+    }
+  }
+}

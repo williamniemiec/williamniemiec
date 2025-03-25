@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Abdominal Girth Tracker": {
+    "parameters": {
+      "name": "",
+      "unit": "",
+      "frequency": "",
+      "notes": ""
+    }
+  }
+}
+
+
+Note that I removed `deadline_date` as it's not applicable to the no-code element, and also removed any descriptive text, keeping only the essential information.

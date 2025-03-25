@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+  "Coagulation Monitoring": {
+    "PT Target Range": {
+      "type": "numerical range",
+      "description": "specify the target range for PT levels, e.g., 1-2 times normal"
+    },
+    "PTT Target Range": {
+      "type": "numerical range",
+      "description": "specify the target range for PTT levels, e.g., 1-2 times normal"
+    },
+    "Lab Result Entry": {
+      "type": "numerical input",
+      "description": "allow the patient to enter their lab results for PT and PTT"
+    },
+    "Tracking": {
+      "type": "boolean",
+      "description": "allow the patient to track changes in their PT and PTT levels over time and provide a visual representation of their progress"
+    },
+    "Alerts": {
+      "type": "boolean",
+      "description": "allow the patient to set alerts for abnormal PT or PTT levels, ensuring they take action to adjust their treatment plan as needed"
+    }
+  }
+}

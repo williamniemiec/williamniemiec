@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+{
+  "Blanket Management": {
+    "parameters": {
+      "Blanket Preference": {
+        "type": "options",
+        "options": ["add blanket", "remove blanket", "maintain current blanket"]
+      },
+      "Temperature Assessment": {
+        "type": "options",
+        "options": ["too hot", "too cold", "comfortable"]
+      },
+      "Blanket Availability": {
+        "type": "options",
+        "options": ["yes", "no"]
+      }
+    }
+  }
+}

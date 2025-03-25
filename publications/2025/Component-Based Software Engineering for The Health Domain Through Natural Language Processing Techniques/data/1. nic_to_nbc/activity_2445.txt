@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Sexual Protection Methods Discussion": {
+    "Methods": {"type": "checklist", "required": true},
+    "Effectiveness": {"type": "text", "required": true},
+    "Side Effects": {"type": "text", "required": true},
+    "Contraindications": {"type": "text", "required": true},
+    "Signs and Symptoms": {"type": "text", "required": true},
+    "Frequency": {"type": "options", "required": true}
+  }
+}
+
+
+Note that I removed the `Resources` and `Deadline Date` parameters since they are marked as not required.

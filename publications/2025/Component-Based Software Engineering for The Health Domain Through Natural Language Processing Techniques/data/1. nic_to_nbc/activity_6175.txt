@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+    "Fluid Increment Task": {
+        "parameters": [
+            {"Name": {"type": "text"}},
+            {"Wait Time": {"type": "numeric", "unit": "minutes"}},
+            {"Initial Fluid Amount": {"type": "numeric", "unit": "mL or oz"}},
+            {"Increment Amount": {"type": "numeric", "unit": "mL or oz"}},
+            {"Interval": {"type": "numeric", "unit": "minutes"}},
+            {"Maximum Fluid Amount": {"type": "numeric", "unit": "mL or oz"}},
+            {"Instructions": {"type": "text"}}
+        ]
+    }
+}

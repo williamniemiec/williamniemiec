@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Dietary Tracker": {
+    "parameters": {
+      "name": {
+        "type": "text"
+      },
+      "foods": {
+        "type": "list of text or numeric values"
+      }
+    }
+  }
+}

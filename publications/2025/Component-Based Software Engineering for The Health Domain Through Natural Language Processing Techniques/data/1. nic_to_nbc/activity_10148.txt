@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Community Resource Identification": {
+    "Parameters": {
+      "Resource Type": {},
+      "Agency List": {},
+      "Resource Description": {},
+      "Contact Information": {},
+      "Service Availability": {},
+      "Resource Mapping": {}
+    }
+  }
+}

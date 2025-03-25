@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Check-In Conversations": {
+    "Parameters": {
+      "Check-In Frequency": {},
+      "Conversation Topics": {},
+      "Emotional Support": {},
+      "Mood Tracking": {},
+      "Personalized Messages": {},
+      "Feedback Mechanism": {}
+    }
+  }
+}

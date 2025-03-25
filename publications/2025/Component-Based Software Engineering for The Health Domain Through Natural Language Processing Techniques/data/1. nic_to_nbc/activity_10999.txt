@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+  "Supportive Assistance": {
+    "parameters": {
+      "Assistance Options": {
+        "type": "unordered list",
+        "example": ["Provision of food and shelter", "Structured psychotherapy", "Emotional support", "Practical assistance"]
+      },
+      "Resource Directory": {
+        "type": "link or PDF"
+      },
+      "Referral System": {
+        "type": "form or request system"
+      },
+      "Progress Tracking": {
+        "type": "journal or log"
+      },
+      "Frequency": {
+        "type": "options",
+        "options": ["Daily", "Weekly", "Monthly", "As needed"]
+      }
+    }
+  }
+}

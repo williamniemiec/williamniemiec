@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Stressor Identifier": {
+    "Parameters": {
+      "Stressor": {},
+      "Type": {},
+      "Impact": {},
+      "Frequency": {},
+      "Coping Mechanisms": {}
+    }
+  }
+}

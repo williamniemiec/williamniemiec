@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Hemodynamic Education": {
+        "Educational Content": {
+            "Type": "text field"
+        },
+        "Glossary": {
+            "Type": "list of text fields"
+        }
+    }
+}

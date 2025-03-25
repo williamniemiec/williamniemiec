@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Advocacy Offer": {
+    "Parameters": {
+      "Title": {"Type": "text"},
+      "Message": {"Type": "text"},
+      "Advocacy Options": {"Type": "options", "Options": ["navigating healthcare systems", "communicating with healthcare providers", "accessing resources"]},
+      "Contact Information": {"Type": "contact information object"},
+      "Accept/Decline": {"Type": "boolean"}
+    }
+  }
+}
+
+
+Note that I removed the "Not Applicable" parameters, which in this case were none. Let me know if you have any further questions!

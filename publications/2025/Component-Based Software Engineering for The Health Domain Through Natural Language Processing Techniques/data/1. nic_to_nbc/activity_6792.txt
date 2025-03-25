@@ -1,0 +1,35 @@
+Here is the output in JSON format:
+
+{
+  "name": "Educational Resource",
+  "parameters": [
+    {
+      "name": "Title",
+      "type": "text"
+    },
+    {
+      "name": "Content",
+      "type": "text or PDF"
+    },
+    {
+      "name": "Topic",
+      "type": "list",
+      "options": [
+        { value: "infantCare", label: "Infant Care" },
+        { value: "nutrition", label: "Nutrition" },
+        { value: "safety", label: "Safety" },
+        { value: "development", label: "Development" }
+      ]
+    },
+    {
+      "name": "Language",
+      "type": "list",
+      "options": [
+        { value: "english", label: "English" },
+        { value: "spanish", label: "Spanish" },
+        { value: "french", label: "French" },
+        { value: "other", label: "Other" }
+      ]
+    }
+  ]
+}

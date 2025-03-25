@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+    "instruction": {
+        "parameters": {
+            "name": {"type": "text"},
+            "steps": {"type": "ordered list", "steps": [
+                {"turn_on_water": {"type": "text"}},
+                {"wait_for_water_to_run": {"type": "text"}},
+                {"test_temperature": {"type": "text"}},
+                {"check_temperature_range": {"type": "text"}}
+            ]},
+            "rationale": {"type": "text"},
+            "additional_tips": {"type": "text"}
+        }
+    }
+}

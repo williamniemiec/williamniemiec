@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Task": {
+    "name": "Apply closure strips",
+    "content": "Apply closure strips, as appropriate",
+    "instructions": "Follow the manufacturer's instructions for applying closure strip. Ensure the strips are securely attached to the skin.",
+    "frequency": ["daily", "everyHours", "everyDays"],
+    "deadline_date": {}
+  }
+}

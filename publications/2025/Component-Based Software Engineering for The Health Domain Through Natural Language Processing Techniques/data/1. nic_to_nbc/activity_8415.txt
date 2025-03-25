@@ -1,0 +1,29 @@
+Here is the output in JSON format:
+
+
+{
+    "Healthcare Facility Guide": {
+        "Facility Types": {
+            "type": "list of facility types (each with name and description)"
+        },
+        "Facility Descriptions": {
+            "type": "list of facility descriptions (each with facility type, description, and services)"
+        }
+    },
+    "Facility Comparison Tool": {
+        "Comparison Criteria": {
+            "type": "list of comparison criteria (each with label and value)"
+        },
+        "Facility Comparison": {
+            "type": "facility comparison (with side-by-side comparison of selected facilities)"
+        }
+    },
+    "Interactive Quiz": {
+        "Quiz Questions": {
+            "type": "list of quiz questions (each with question, options, and correct answer)"
+        },
+        "Scoring": {
+            "type": "scoring system (with passing threshold and feedback messages)"
+        }
+    }
+}

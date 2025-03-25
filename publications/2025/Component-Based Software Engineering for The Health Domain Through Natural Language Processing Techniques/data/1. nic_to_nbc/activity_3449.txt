@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+"Cognitive Training": {
+"Exercise List": {"type": "list of exercises"},
+"Difficulty Level": {"type": "difficulty level (e.g., easy, medium, hard)"},
+"Frequency": {"type": "frequency (e.g., daily, three times a week)"}
+},
+"Brain Games": {
+"Game List": {"type": "list of games"},
+"Difficulty Level": {"type": "difficulty level (e.g., easy, medium, hard)"},
+"High Score Tracking": {"type": "boolean (true/false)"}
+},
+"Memory Aids": {
+"Memory Aid List": {"type": "list of memory aids"},
+"Customization Options": {"type": "customization options"}
+},
+"Decision-Making Tools": {
+"Tool List": {"type": "list of tools"},
+"Scenario-Based Exercises": {"type": "scenario-based exercises"}
+},
+"Progress Tracking": {
+"Progress Log": {"type": "progress log"},
+"Graphical Representation": {"type": "graphical representation (e.g., chart, graph)"}
+}
+}

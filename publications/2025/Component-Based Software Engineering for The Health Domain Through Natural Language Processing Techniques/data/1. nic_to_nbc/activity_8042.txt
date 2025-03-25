@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Injection Site Pressure Guidance": {
+    "Pressure Type": {},
+    "Massage Avoidance": {},
+    "Pressure Duration": {},
+    "Visual Aid": {},
+    "Frequency": {}
+  }
+}
+
+
+Note that I removed the `Deadline Date` parameter as it was marked as "Not Applicable" in the input text.

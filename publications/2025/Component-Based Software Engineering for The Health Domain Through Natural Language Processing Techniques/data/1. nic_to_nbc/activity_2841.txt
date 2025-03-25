@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Perspective Sharing": {
+    "Prompt": {"Type": "text"},
+    "Free Text": {"Type": "text"},
+    "Emotion Identification": {"Type": "options", "Options": ["Anxious", "Scared", "Frustrated", "etc."]},
+    "Rating Scale": {"Type": "rating scale"},
+    "Reflection Prompt": {"Type": "text"}
+  }
+}
+
+
+I removed the following:
+
+* The introduction and conclusion texts
+* The number (1.) and the colon after the no-code element name
+* The parameter "Frequency" because it's not applicable to this specific no-code element.

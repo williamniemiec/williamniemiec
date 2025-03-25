@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Body Mechanics Guide": {
+    "Movement Type": {
+      "type": "options"
+    },
+    "Body Mechanics Tips": {
+      "type": "text"
+    },
+    "Visual Aids": {
+      "type": "multimedia"
+    },
+    "Reminders": {
+      "type": "options"
+    }
+  }
+}

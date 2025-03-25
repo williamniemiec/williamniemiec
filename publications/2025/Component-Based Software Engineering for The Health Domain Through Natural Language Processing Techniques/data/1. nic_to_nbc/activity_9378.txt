@@ -1,0 +1,37 @@
+Here is the output in JSON format:
+
+
+{
+  "Pain Medication Adherence": {
+    "parameters": {
+      "Medication Schedule": {
+        "type": "schedule",
+        "items": {
+          "Time": {"type": "time"},
+          "Dosage": {"type": "text"}
+        }
+      },
+      "Medication Reminders": {
+        "type": "reminders",
+        "items": {
+          "Time": {"type": "time"},
+          "Message": {"type": "text"}
+        }
+      },
+      "Pain Level Tracking": {
+        "type": "pain level tracking",
+        "items": {
+          "Pain Level": {"type": "numeric"},
+          "Time": {"type": "time"}
+        }
+      },
+      "Medication Adjustment": {
+        "type": "medication adjustment",
+        "items": {
+          "Pain Level Threshold": {"type": "numeric"},
+          "Medication Adjustment": {"type": "text"}
+        }
+      }
+    }
+  }
+}

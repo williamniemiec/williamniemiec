@@ -1,0 +1,10 @@
+{
+  "name": "Drainage and CSF Monitoring",
+  "description": "Monitors drainage of cerebrospinal fluid (CSF) and urinary output, focusing on the characteristics such as color, amount, and consistency. Includes the use of drainage apparatus like bags and tubing for proper collection and management.",
+  "type": "periodic",
+  "input": ["Drainage characteristics (color, amount)", "CSF bag details", "Urinary drainage", "Pratt tubing usage"],
+  "output": ["Drainage monitoring report", "Fluid output log", "CSF and urinary drainage status"],
+  "preconditions": ["User requires CSF or urinary drainage management"],
+  "postconditions": ["Drainage is monitored, and any abnormalities are flagged for further assessment"],
+  "dependencies": ["Fluid monitoring system", "Drainage apparatus (bags, tubing)", "Clinical protocols for CSF and urinary output management"]
+}

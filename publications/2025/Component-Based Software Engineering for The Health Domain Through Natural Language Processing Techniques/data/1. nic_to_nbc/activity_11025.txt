@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Cast Support Reminder": {
+    "Cast Type": {"type": "options"},
+    "Support Instructions": {"type": "text or video"},
+    "Drying Period": {"type": "time interval"},
+    "Reminder Frequency": {"type": "options"},
+    "Notes": {"type": "text"}
+  }
+}

@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+  "Exercise": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Description": {"Type": "text"},
+      "Joint": {"Type": "options"},
+      "Motion": {"Type": "options"},
+      "Frequency": {"Type": "options"},
+      "Duration": {"Type": "text"},
+      "Pain Limit": {"Type": "options"},
+      "Endurance Limit": {"Type": "text"},
+      "Joint Mobility Limit": {"Type": "text"},
+      "Instructions": {"Type": "text"},
+      "Video/Demonstration": {"Type": "video or image"}
+    }
+  }
+}

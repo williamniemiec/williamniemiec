@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+    "Oral Hygiene Reminder": {
+        "name": {"type": "text"},
+        "frequency": {"type": "options"},
+        "tasks": {"type": "list of text"},
+        "reminders": {"type": "list of objects"}
+    },
+    "Oral Hygiene Guide": {
+        "name": {"type": "text"},
+        "steps": {"type": "list of objects"},
+        "videos": {"type": "list of URLs or video IDs"}
+    }
+}

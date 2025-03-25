@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Case Management Identification",
+  "parameters": [
+    {
+      "name": "Criteria 1: High Cost",
+      "type": "numerical value"
+    },
+    {
+      "name": "Criteria 2: High Volume",
+      "type": "numerical value"
+    },
+    {
+      "name": "Criteria 3: High Risk",
+      "type": "list"
+    },
+    {
+      "name": "Patient Data",
+      "type": "data source"
+    },
+    {
+      "name": "Threshold",
+      "type": "numerical value"
+    }
+  ]
+}

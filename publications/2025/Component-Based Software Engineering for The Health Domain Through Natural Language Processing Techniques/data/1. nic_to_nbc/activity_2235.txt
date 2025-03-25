@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Education": {
+    "Parameters": {
+      "Medication List": {},
+      "Medication Actions": {},
+      "Side Effects": {},
+      "Interactions": {},
+      "Administration Instructions": {},
+      "FAQs": {}
+    }
+  }
+}

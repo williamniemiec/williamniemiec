@@ -1,0 +1,35 @@
+Here is the output in JSON format:
+
+
+{
+  "Symptom Checker": {
+    "Parameters": {
+      "Symptoms": {
+        "Description": "List of symptoms to monitor",
+        "Required": true,
+        "Type": "checklist",
+        "Options": [
+          { "value": "pain", "label": "Pain" },
+          { "value": "nosebleeds", "label": "Nosebleeds" },
+          { "value": "otherProblems", "label": "Other problems" }
+        ]
+      },
+      "Action": {
+        "Description": "Action to take if symptoms occur",
+        "Required": true,
+        "Type": "text",
+        "Default value": "Discontinue treatment and consult a healthcare professional"
+      },
+      "Frequency": {
+        "Description": "How often to monitor for symptoms",
+        "Required": true,
+        "Type": "options",
+        "Options": [
+          { "value": "daily", "label": "Daily" },
+          { "value": "everyHours", "label": "Every x hours" },
+          { "value": "everyDays", "label": "Every x days" }
+        ]
+      }
+    }
+  }
+}

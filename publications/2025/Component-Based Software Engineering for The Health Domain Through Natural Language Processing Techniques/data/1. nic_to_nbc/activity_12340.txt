@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Instruction": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Content": {"Type": "text"},
+      "Image": {"Type": "image"},
+      "Trigger": {"Type": "options", "Options": ["when replacing old device with new device", "when setting up new infusion", "always"]}
+    }
+  }
+}

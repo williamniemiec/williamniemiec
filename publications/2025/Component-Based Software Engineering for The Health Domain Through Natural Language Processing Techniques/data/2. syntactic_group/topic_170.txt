@@ -1,0 +1,10 @@
+{
+  "name": "Restraint Usage and Seclusion Protocol",
+  "description": "Focuses on the proper application and monitoring of physical restraints, including wrist and ankle restraints, as well as the use of seclusion. Includes guidelines for continuous or periodic restraint and monitoring for safety and compliance.",
+  "type": "non-periodic",
+  "input": ["Restraint", "Wrist", "Ankle", "Seclusion", "Physical restraint", "Continuous restraint", "Periodic restraint"],
+  "output": ["Restraint application report", "Seclusion monitoring report", "Restraint status update"],
+  "preconditions": ["Restraint use is required for patient safety or compliance"],
+  "postconditions": ["Restraints are applied safely and according to protocol"],
+  "dependencies": ["Restraint monitoring system", "Seclusion management tools"]
+}

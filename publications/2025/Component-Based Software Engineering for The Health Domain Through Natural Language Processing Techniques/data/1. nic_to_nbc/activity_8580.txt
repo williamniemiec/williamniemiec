@@ -1,0 +1,30 @@
+Here is the output in JSON format:
+
+
+{
+  "Symptom Checker": {
+    "Parameters": {
+      "Symptoms": {
+        "Type": "list of symptoms"
+      },
+      "Severity": {
+        "Type": "list of severity levels"
+      },
+      "Reporting": {
+        "Type": "text or multimedia content"
+      },
+      "Frequency": {
+        "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+      },
+      "Deadline Date": {
+        "Type": "datetime"
+      },
+      "Reminders": {
+        "Type": "boolean"
+      },
+      "Alerts": {
+        "Type": "boolean"
+      }
+    }
+  }
+}

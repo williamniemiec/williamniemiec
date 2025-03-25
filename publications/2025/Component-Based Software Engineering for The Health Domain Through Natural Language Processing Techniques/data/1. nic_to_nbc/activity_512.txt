@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Anesthesia Machine Management": {
+    "parameters": {
+      "Patient Risk Status": {"type": "boolean"},
+      "Anesthesia Machine Configuration": {"type": "text"},
+      "Precipitating Agents": {"type": "list of text"},
+      "Machine Discontinuation": {"type": "boolean"},
+      "Alternative Anesthesia Options": {"type": "list of text"}
+    }
+  }
+}

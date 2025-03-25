@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+    "Observation": {
+        "parameters": [
+            {"Name": "name", "description": "A parameter that specifies the title or name of the observation."},
+            {"Description": "description", "description": "A parameter that provides a detailed description of the observation and its purpose."},
+            {"Observation Type": "observation type", "description": "A parameter that specifies the type of observation to be made (e.g., signs of fatigue, lip sealing, etc.)."},
+            {"Observation Context": "observation context", "description": "A parameter that specifies the context in which the observation should be made (e.g., during eating, drinking, swallowing, etc.)."},
+            {"Signs of Fatigue": "signs of fatigue", "description": "A parameter that specifies the specific signs of fatigue to be monitored (e.g., slowing down, loss of coordination, etc.)."},
+            {"Recording Method": "recording method", "description": "A parameter that specifies how the observation should be recorded (e.g., written notes, video recording, etc.)."},
+            {"Instructions": "instructions", "description": "A parameter that provides instructions on how to conduct the observation and record the findings."}
+        ]
+    }
+}
+
+
+Note: I removed the parameters that were not applicable, such as `content_type`.

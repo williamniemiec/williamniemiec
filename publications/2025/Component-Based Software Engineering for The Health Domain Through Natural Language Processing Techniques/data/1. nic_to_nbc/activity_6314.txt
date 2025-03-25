@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Message": {
+    "parameters": {
+      "name": "",
+      "content": "",
+      "frequency": "",
+      "deadline_date": ""
+    }
+  },
+  "Resource": {
+    "parameters": {
+      "name": "",
+      "content": "",
+      "frequency": "",
+      "deadline_date": ""
+    }
+  }
+}

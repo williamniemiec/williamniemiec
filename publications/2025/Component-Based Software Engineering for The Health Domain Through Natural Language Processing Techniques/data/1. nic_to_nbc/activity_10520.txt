@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Infant Care Guide": {
+    "parameters": {
+      "Infant Status": {"type": "text"},
+      "Vital Signs": {"type": "text"},
+      "Care Instructions": {"type": "list of text"},
+      "Emergency Contacts": {"type": "text"},
+      "Parent Arrival Time": {"type": "datetime"},
+      "Frequency": {"type": "options", "options": ["every15Minutes", "every30Minutes", "everyHour"]},
+      "Deadline Date": {"type": "datetime"}
+    }
+  }
+}

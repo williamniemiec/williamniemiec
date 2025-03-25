@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Motivation Assessment": {
+    "parameters": [
+      {"name": "motivation assessment", "description": "title of the motivation assessment", "required": true, "type": "text"},
+      {"questions": "motivation questions", "description": "series of questions to assess motivation to begin or continue exercise", "required": true, "type": "questionnaire"},
+      {"answer_type": "answer type", "description": "type of answer required for each question (e.g. Likert scale, multiple choice, open-ended)", "required": true, "type": "options", "options": [
+        {"value": "likert_scale", "label": "Likert Scale"},
+        {"value": "multiple_choice", "label": "Multiple Choice"},
+        {"value": "open_ended", "label": "Open-Ended"}
+      ]}
+    ]
+  }
+}

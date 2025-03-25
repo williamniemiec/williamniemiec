@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "Choice Management": {
+    "Parameters": {
+      "Choice Category": {
+        "Type": "list of categories"
+      },
+      "Number of Options": {
+        "Type": "numerical value"
+      },
+      "Decision Criteria": {
+        "Type": "list of criteria"
+      },
+      "Review Frequency": {
+        "Options": ["daily", "weekly", "biweekly"]
+      },
+      "Notes": {
+        "Type": "text"
+      }
+    }
+  }
+}

@@ -1,0 +1,40 @@
+
+
+
+{
+  "Status Comparison": {
+    "parameters": {
+      "Status Metrics": {
+        "type": "list",
+        "list items": [
+          {"value": "vitalSigns", "label": "Vital Signs"},
+          {"value": "labResults", "label": "Lab Results"},
+          {"value": "symptomSeverity", "label": "Symptom Severity"}
+        ]
+      },
+      "Comparison Type": {
+        "type": "options",
+        "options": [
+          {"value": "absoluteChange", "label": "Absolute Change"},
+          {"value": "percentageChange", "label": "Percentage Change"},
+          {"value": "trendAnalysis", "label": "Trend Analysis"}
+        ]
+      },
+      "Thresholds": {
+        "type": "list",
+        "list items": [
+          {"value": "heartRate", "threshold": 10},
+          {"value": "oxygenSaturation", "threshold": -20}
+        ]
+      },
+      "Frequency": {
+        "type": "options",
+        "options": [
+          {"value": "daily", "label": "Daily"},
+          {"value": "weekly", "label": "Weekly"},
+          {"value": "monthly", "label": "Monthly"}
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+  "Scheduler": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Test Type": {"Type": "options"},
+      "Menstrual Cycle": {"Type": "date or options"},
+      "Schedule": {"Type": "date and time"},
+      "Reminders": {"Type": "boolean or options"}
+    }
+  },
+  "Calendar": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Menstrual Cycle": {"Type": "date or options"},
+      "Test Schedule": {"Type": "date and time"},
+      "Reminders": {"Type": "boolean or options"}
+    }
+  }
+}

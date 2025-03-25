@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Allergy Alert": {
+    "Medication Name": {},
+    "Allergy List": {},
+    "Alert": {},
+    "Warning Message": {}
+  }
+}

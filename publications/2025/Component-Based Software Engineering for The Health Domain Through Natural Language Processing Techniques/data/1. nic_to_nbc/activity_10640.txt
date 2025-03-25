@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+    "Tolerance Monitoring": {
+        "Monitoring Methods": {},
+        "Monitoring Frequency": {},
+        "Threshold Values": {},
+        "Alerts and Notifications": {},
+        "Patient Feedback": {}
+    }
+}

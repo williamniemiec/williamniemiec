@@ -1,0 +1,44 @@
+Here is the output in JSON format, with only the `PARAMETER ESPECIFICATIONS` and `NO-CODE ELEMENT NAME`:
+
+
+{
+    "name": "Pain Assessment",
+    "parameters": [
+        {
+            "name": "title",
+            "type": "text"
+        },
+        {
+            "name": "pain_locations",
+            "type": "list of text"
+        },
+        {
+            "name": "intensity_scale",
+            "type": "options"
+        },
+        {
+            "name": "radiation_options",
+            "type": "list of text"
+        },
+        {
+            "name": "duration_options",
+            "type": "list of text"
+        },
+        {
+            "name": "precipitating_factors",
+            "type": "list of text"
+        },
+        {
+            "name": "alleviating_factors",
+            "type": "list of text"
+        },
+        {
+            "name": "frequency",
+            "type": "options"
+        },
+        {
+            "name": "deadline_date",
+            "type": "datetime"
+        }
+    ]
+}

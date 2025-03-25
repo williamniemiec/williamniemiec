@@ -1,0 +1,35 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Vital Sign Monitor",
+  "parameters": [
+    {
+      "name": "vitalSigns",
+      "type": "options",
+      "options": [
+        { value: "bloodPressure" },
+        { value: "heartRate" },
+        { value: "respiratoryRate" },
+        { value: "oxygenSaturation" }
+      ]
+    },
+    {
+      "name": "abnormalRanges",
+      "type": "text"
+    },
+    {
+      "name": "frequency",
+      "type": "options",
+      "options": [
+        { value: "daily" },
+        { value: "everyHours" },
+        { value: "everyDays" }
+      ]
+    },
+    {
+      "name": "thresholds",
+      "type": "text"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Screening Service": {
+    "Service Name": {"type": "text"},
+    "Service Description": {"type": "text"},
+    "Service Location": {"type": "text"},
+    "Service Schedule": {"type": "datetime"},
+    "Service Instructions": {"type": "text"}
+  }
+}

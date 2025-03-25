@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Chest Percussor Guidance": {
+    "Percussor Type": {},
+    "Application Instructions": {},
+    "Area to be Treated": {},
+    "Duration": {},
+    "Intensity": {}
+  }
+}

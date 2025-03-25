@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Constriction Removal": {
+        "Parameters": {
+            "Constricting Items": {},
+            "Removal Instructions": {},
+            "Image or Video": {},
+            "Confirmation": {}
+        }
+    }
+}

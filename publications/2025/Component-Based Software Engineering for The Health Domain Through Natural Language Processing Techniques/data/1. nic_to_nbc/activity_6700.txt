@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Sleep Pattern Monitoring": {
+    "Parameters": {
+      "Sleep Schedule": {"Type": "datetime"},
+      "Sleep Quality": {"Type": "options"},
+      "Sleep Hours": {"Type": "number"},
+      "Sleep Disturbances": {"Type": "options"},
+      "Frequency": {"Type": "options"}
+    }
+  }
+}
+
+
+Let me know if this meets your requirements!

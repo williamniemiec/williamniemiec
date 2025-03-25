@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+  "noCodeElementName": "site_warming",
+  "parameters": [
+    {
+      "name": "warming_time",
+      "type": "numeric"
+    },
+    {
+      "name": "warming_method",
+      "type": "text"
+    },
+    {
+      "name": "specimen_type",
+      "type": "text"
+    },
+    {
+      "name": "agency_protocol",
+      "type": "text or reference to an external document"
+    },
+    {
+      "name": "site_location",
+      "type": "text"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Secure IV Tubing": {
+    "parameters": {
+      "name": {"type": "text"},
+      "instructions": {"type": "text or video"},
+      "confirmation": {"type": "boolean"},
+      "photo_upload": {"type": "image"}
+    }
+  }
+}

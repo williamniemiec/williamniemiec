@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Protocol": {
+    "Parameters": {
+      "Medication List": {"Type": "list of text"},
+      "Dosage Instructions": {"Type": "list of text"},
+      "Administration Schedule": {"Type": "list of datetime"},
+      "Precautions": {"Type": "text"},
+      "Monitoring Instructions": {"Type": "text"}
+    }
+  }
+}

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Burping Reminder": {
+    "Parameters": {
+      "Title": {"Type": "text"},
+      "Frequency": {"Options": ["every 5 minutes", "every 10 minutes", "after every ounce", "etc."]},
+      "Duration": {"Type": "time"},
+      "Method": {"Type": "text or image"},
+      "Reminder": {"Options": ["during feeding", "after feeding", "every 2 hours", "etc."]}
+    }
+  }
+}

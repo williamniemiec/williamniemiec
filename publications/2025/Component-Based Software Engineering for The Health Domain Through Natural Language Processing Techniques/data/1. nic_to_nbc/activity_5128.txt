@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Toileting Schedule Timing": {
+    "Parameters": {
+      "Schedule Duration": {"Type": "duration"},
+      "Start Time": {"Type": "time"},
+      "End Time": {"Type": "time"},
+      "Schedule Flexibility": {"Type": "boolean"},
+      "Reminders": {"Type": "boolean"}
+    }
+  }
+}

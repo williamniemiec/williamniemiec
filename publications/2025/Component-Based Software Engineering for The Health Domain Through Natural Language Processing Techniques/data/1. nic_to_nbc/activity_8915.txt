@@ -1,0 +1,32 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Vaccine Information",
+  "parameters": [
+    {
+      "name": "vaccine_name",
+      "type": "text"
+    },
+    {
+      "name": "risks",
+      "type": "unordered list"
+    },
+    {
+      "name": "benefits",
+      "type": "unordered list"
+    },
+    {
+      "name": "contraindications",
+      "type": "unordered list"
+    },
+    {
+      "name": "side_effects",
+      "type": "unordered list"
+    },
+    {
+      "name": "additional_info",
+      "type": "text"
+    }
+  ]
+}

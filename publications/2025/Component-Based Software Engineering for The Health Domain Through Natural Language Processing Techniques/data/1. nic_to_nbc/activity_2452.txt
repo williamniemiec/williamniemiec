@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Self-Care Encouragement": {
+    "parameters": {
+      "Personal Needs Assessment": {},
+      "Self-Care Ideas": {},
+      "Goal Setting": {},
+      "Schedule Integration": {},
+      "Reminders and Notifications": {},
+      "Progress Tracking": {}
+    }
+  }
+}

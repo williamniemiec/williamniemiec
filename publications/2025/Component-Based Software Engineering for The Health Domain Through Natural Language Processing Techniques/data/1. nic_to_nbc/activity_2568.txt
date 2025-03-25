@@ -1,0 +1,11 @@
+
+
+
+{
+"Coping Strategy Tracker": {
+    "Coping Strategy Type": {"Type": "options"},
+    "Frequency": {"Type": "options"},
+    "Description": {"Type": "text"},
+    "Effectiveness": {"Type": "options"}
+}
+}

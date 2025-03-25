@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "Infant Feeding Cues": {
+    "Parameters": {
+      "Infant Cues": {
+        "Type": "list of text/html with images or illustrations"
+      },
+      "Cue Recognition": {
+        "Type": "text/html with images or illustrations"
+      },
+      "Response to Cues": {
+        "Type": "text/html with images or illustrations"
+      },
+      "Interactive Quiz": {
+        "Type": "interactive quiz with multiple-choice questions and feedback"
+      },
+      "Video Demonstrations": {
+        "Type": "video URL or embedded video"
+      }
+    }
+  }
+}

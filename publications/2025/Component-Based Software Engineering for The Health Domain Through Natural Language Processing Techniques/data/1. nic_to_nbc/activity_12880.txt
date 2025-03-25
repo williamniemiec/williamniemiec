@@ -1,0 +1,46 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Medication Administration",
+  "parameters": [
+    {
+      "name": "Medications",
+      "type": "list",
+      "list_type": "medication",
+      "medication": {
+        "name": "string",
+        "dose": "string",
+        "route": "string"
+      }
+    },
+    {
+      "name": "Fluids",
+      "type": "list",
+      "list_type": "fluid",
+      "fluid": {
+        "type": "string",
+        "volume": "string",
+        "rate": "string"
+      }
+    },
+    {
+      "name": "Administration Route",
+      "type": "list",
+      "list_type": "administration route",
+      "administration route": {
+        "label": "string",
+        "description": "string"
+      }
+    },
+    {
+      "name": "Dosing Schedule",
+      "type": "list",
+      "list_type": "dosing schedule",
+      "dosing schedule": {
+        "frequency": "string",
+        "duration": "string"
+      }
+    }
+  ]
+}

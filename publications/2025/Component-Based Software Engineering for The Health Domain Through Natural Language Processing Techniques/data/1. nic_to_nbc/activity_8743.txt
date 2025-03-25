@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+  "element_name": "Newborn Color Monitoring",
+  "parameters": [
+    {
+      "name": "Name",
+      "type": "text"
+    },
+    {
+      "name": "Frequency",
+      "type": "options"
+    },
+    {
+      "name": "Deadline Date",
+      "type": "datetime"
+    },
+    {
+      "name": "Color",
+      "type": "options"
+    },
+    {
+      "name": "Notes",
+      "type": "text"
+    }
+  ]
+}

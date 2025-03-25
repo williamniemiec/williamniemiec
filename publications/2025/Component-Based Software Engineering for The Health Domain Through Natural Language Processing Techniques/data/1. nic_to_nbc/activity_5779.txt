@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "element_name": "lighting manipulation",
+  "parameters": [
+    { "name": "title", "type": "text" },
+    { "name": "lighting_type", "type": "options", "options": [ { "value": "naturalLight", "label": "Natural light" }, { "value": "artificialLight", "label": "Artificial light" }, { "value": "colorTherapyLight", "label": "Color therapy light" }, { "value": "other", "label": "Other (please specify)" } ] },
+    { "name": "lighting_level", "type": "number" },
+    { "name": "lighting_duration", "type": "duration" },
+    { "name": "therapeutic_goal", "type": "text" }
+  ]
+}

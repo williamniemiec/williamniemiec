@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+  "IV Fluid Temperature Control": {
+    "Parameters": {
+      "Temperature Setting": {
+        "Type": "options",
+        "Options": [
+          { "value": "warm", "label": "Warm" },
+          { "value": "cool", "label": "Cool" }
+        ]
+      },
+      "Fluid Type": {
+        "Type": "text"
+      },
+      "Instructions": {
+        "Type": "text"
+      }
+    }
+  }
+}

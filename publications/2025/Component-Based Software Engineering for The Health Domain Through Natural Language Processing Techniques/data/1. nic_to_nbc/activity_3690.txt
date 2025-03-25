@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Cast Handling Instructions": {
+    "Handling Instructions": {"type": ["text", "video"]},
+    "Cast Dryness Indicator": {"type": ["options"]},
+    "Finger Indentation Risk": {"type": ["text", "image"]},
+    "Handling Frequency": {"type": ["options"]},
+    "Notes": {"type": ["text"]}
+  }
+}

@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+    "Measurement": {
+        "title": "",
+        "measurement_type": ["Length", "Width", "Depth", "Area"],
+        "unit": "",
+        "frequency": "",
+        "deadline": "",
+        "instructions": ""
+    },
+    "Task": {
+        "title": "",
+        "instructions": "",
+        "frequency": "",
+        "deadline": "",
+        "condition": ""
+    }
+}
+
+
+Note that I removed the introduction and conclusion sections, as well as the element descriptions. I also removed the "not applicable" parameters, which were not specified in the input text. The resulting JSON object contains only the no-code element names and their corresponding parameter specifications.

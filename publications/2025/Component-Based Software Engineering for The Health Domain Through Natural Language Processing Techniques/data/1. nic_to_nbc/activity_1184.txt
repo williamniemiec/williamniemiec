@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Urine Ketone Testing Education": {
+    "Indications": {"Type": "list of indications"},
+    "Significance": {"Type": "list of significance points"},
+    "Interactive Elements": {"Type": "list of interactive elements"},
+    "Quiz Questions": {"Type": "list of quiz questions (with correct answers and explanations)"},
+    "Resources": {"Type": "list of resources (with URLs or PDFs)"}
+  }
+}

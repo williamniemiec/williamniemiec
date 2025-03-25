@@ -1,0 +1,63 @@
+Here is the output in JSON format:
+
+
+{
+  "Neurological Assessment": {
+    "parameters": {
+      "name": "Monitor neurologic status closely and compare to baseline",
+      "assessment_type": {
+        "options": [
+          {"value": "cognitive", "label": "Cognitive"},
+          {"value": "motor", "label": "Motor"},
+          {"value": "sensory", "label": "Sensory"},
+          {"value": "other", "label": "Other (please specify)"}
+        ]
+      },
+      "questions": [
+        {
+          "options": [
+            {"value": "walk", "label": "Walk"},
+            {"value": "stand", "label": "Stand"},
+            {"value": "sit", "label": "Sit"},
+            {"value": "lift", "label": "Lift arms or legs"},
+            {"value": "other", "label": "Other (please specify)"}
+          ]
+        },
+        {
+          "options": [
+            {"value": "numbness", "label": "Numbness"},
+            {"value": "tingling", "label": "Tingling"},
+            {"value": "weakness", "label": "Weakness"},
+            {"value": "pain", "label": "Pain"},
+            {"value": "other", "label": "Other (please specify)"}
+          ]
+        },
+        {
+          "options": [
+            {"value": "whatYear", "label": "What year is it?"},
+            {"value": "whatMonth", "label": "What month is it?"},
+            {"value": "whatDay", "label": "What day is it?"},
+            {"value": "other", "label": "Other (please specify)"}
+          ]
+        }
+      ],
+      "frequency": {
+        "options": [
+          {"value": "daily", "label": "Daily"},
+          {"value": "onlyOnce", "label": "Only once"},
+          {"value": "everyHours", "label": "Every x hours"},
+          {"value": "everyDays", "label": "Every x days"}
+        ]
+      },
+      "baseline": {
+        "options": [
+          {"value": "previousAssessment", "label": "Previous assessment"},
+          {"value": "initialAssessment", "label": "Initial assessment"},
+          {"value": "other", "label": "Other (please specify)"}
+        ]
+      }
+    }
+  }
+}
+
+Let me know if you need any further assistance!

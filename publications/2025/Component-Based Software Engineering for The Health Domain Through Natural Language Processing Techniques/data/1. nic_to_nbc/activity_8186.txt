@@ -1,0 +1,13 @@
+
+
+
+{
+  "Radiation Precautions": {
+    "Parameters": {
+      "Radiation Risk": {"Type": "boolean"},
+      "Precaution Type": {"Type": "options"},
+      "Precaution Status": {"Type": "boolean"},
+      "Additional Instructions": {"Type": "text"}
+    }
+  }
+}

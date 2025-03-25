@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Education": {
+    "Parameters": {
+      "Title": {"Type": "text"},
+      "Content": {"Type": ["article", "video"]},
+      "Aims of Care": {"Type": "text"},
+      "Progress Measurement": {"Type": "text"},
+      "Family Involvement": {"Type": ["patient only", "patient and family"]}
+    }
+  }
+}

@@ -1,0 +1,15 @@
+
+
+
+{
+  "Weaning Criteria Assessment": {
+    "Hemodynamic Stability": {},
+    "Cerebral Function": {},
+    "Metabolic Stability": {},
+    "Resolution of Condition": {},
+    "Airway Patency": {},
+    "Respiratory Effort": {},
+    "Assessment Frequency": {},
+    "Deadline Date": {}
+  }
+}

@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Emesis Containment Suggestion": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Description": {"Type": "text"},
+      "Reason": {"Type": "text"},
+      "Instructions": {"Type": "text"},
+      "Reminder": {"Type": "boolean"},
+      "Notes": {"Type": "text"}
+    }
+  }
+}

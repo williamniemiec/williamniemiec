@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Concern Evaluation": {
+    "Parameters": {
+      "Concern List": {"Type": "list of concerns"},
+      "Guideline": {"Type": "options"},
+      "Evaluation Criteria": {"Type": "list of criteria"},
+      "Thresholds": {"Type": "list of thresholds with corresponding actions"},
+      "Output": {"Type": "determination of whether further evaluation is required"}
+    }
+  }
+}

@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Mouth Moisturizer Reminder": {
+    "Frequency": {
+      "options": ["as needed", "daily", "every few hours"]
+    },
+    "Deadline Date": {
+      "type": "datetime"
+    },
+    "Instructions": {
+      "type": "text"
+    },
+    "Options": {
+      "type": "options"
+    }
+  }
+}

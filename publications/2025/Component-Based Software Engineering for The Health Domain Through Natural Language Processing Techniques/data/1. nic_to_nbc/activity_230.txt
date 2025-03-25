@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Cardiac Monitoring Guidance": {
+    "Replacement Rate Threshold": {"Type": "numeric", "Default Value": "10 mEq/hour"},
+    "Monitoring Frequency": {"Options": ["continuous", "every 15 minutes", "every 30 minutes", "other"]},
+    "Monitoring Parameters": {"Options": ["heart rate", "rhythm", "ECG", "blood pressure", "other"]},
+    "Additional Instructions": {"Type": "text"}
+  }
+}

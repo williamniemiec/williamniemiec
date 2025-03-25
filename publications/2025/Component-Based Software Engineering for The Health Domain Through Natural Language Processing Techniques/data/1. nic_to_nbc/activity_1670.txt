@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+    "environment preparation": {
+        "parameters": [
+            {"name": "title", "description": "title of the environment preparation task"},
+            {"name": "tasks", "description": "list of tasks to prepare the environment"},
+            {"name": "frequency", "description": "specify how often the environment should be prepared"}
+        ]
+    }
+}

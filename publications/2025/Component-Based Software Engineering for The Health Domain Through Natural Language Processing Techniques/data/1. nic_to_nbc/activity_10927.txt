@@ -1,0 +1,29 @@
+Here is the output in JSON format:
+
+
+{
+  "Home Assessment": {
+    "Parameters": {
+      "Questions": {"Type": "list of questions"},
+      "Answers": {"Type": "list of answers"}
+    }
+  },
+  "Recommendations": {
+    "Parameters": {
+      "Recommendation List": {"Type": "list of recommendations"},
+      "Priority Level": {"Type": "priority level (e.g., high, medium, low)"}
+    }
+  },
+  "Resource Directory": {
+    "Parameters": {
+      "Agency List": {"Type": "list of agencies or resources"},
+      "Filter Options": {"Type": "filter options (e.g., location, services offered)"}
+    }
+  },
+  "Referral": {
+    "Parameters": {
+      "Referral Request": {"Type": "referral request"},
+      "Referral Status": {"Type": "referral status (e.g., pending, approved, denied)"}
+    }
+  }
+}

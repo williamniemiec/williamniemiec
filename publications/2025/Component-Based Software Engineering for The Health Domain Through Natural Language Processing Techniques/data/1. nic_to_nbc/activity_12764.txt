@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Sucking Guideline": {
+    "Parameters": {
+      "Title": {"Type": "text"},
+      "Content": {"Type": "text or html"},
+      "Allowed Methods": {"Type": "options"},
+      "Benefits": {"Type": "text"}
+    }
+  }
+}

@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+  "Education Module": {
+    "name": "Modifying Sexual Activity",
+    "content": ["list of HTML texts, videos, or links to external resources"],
+    "type": ["specify the type of content (e.g., article, video, infographic)"]
+  },
+  "Discussion Guide": {
+    "name": "Discussion Guide for Modifying Sexual Activity",
+    "questions": ["list of questions to guide the conversation"],
+    "notes": ["space for patients to record notes or questions about their discussion"]
+  },
+  "Personalized Advice": {
+    "name": "Personalized Advice for Modifying Sexual Activity",
+    "advice": ["list of personalized tips and recommendations"],
+    "condition": ["specify the health condition or factor that the advice is based on"]
+  }
+}

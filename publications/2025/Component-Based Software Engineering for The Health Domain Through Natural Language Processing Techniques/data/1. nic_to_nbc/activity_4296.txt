@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Payer Refusal Notification": {
+    "parameters": {
+      "Payer Refusal Information": {},
+      "Health Professional Information": {},
+      "Notification Method": {},
+      "Notification Content": {},
+      "Notification Date": {}
+    }
+  }
+}

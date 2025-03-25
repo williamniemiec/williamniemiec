@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+  "Task": {
+    "parameters": {
+      "name": "Dressing Inspection",
+      "content": "A brief description of the task, e.g. \"Please inspect your dressing daily as per agency protocol to ensure proper healing.\"",
+      "frequency": "Daily"
+    }
+  },
+  "Reminder": {
+    "parameters": {
+      "name": "Dressing Inspection Reminder",
+      "content": "A brief reminder message, e.g. \"Remember to inspect your dressing daily as per agency protocol.\"",
+      "frequency": "Daily"
+    }
+  },
+  "Question": {
+    "parameters": {
+      "name": "Dressing Inspection Report",
+      "content": "A brief question, e.g. \"Have you inspected your dressing today? Please report any changes or concerns.\"",
+      "answer type": "Text or selection (e.g. \"Yes\", \"No\", \"Concerns\")",
+      "frequency": "Daily"
+    }
+  }
+}

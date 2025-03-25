@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "Side Effect Alert": {
+    "alert_type": ["options for alert type (e.g., email, SMS, in-app notification)"],
+    "alert_frequency": ["options for alert frequency (e.g., immediate, daily, weekly)"],
+    "alert_threshold": ["logic to determine when an alert should be sent (e.g., based on side effect severity or frequency)"]
+  },
+  "Treatment Pause": {
+    "pause_reason": ["options for pause reason (e.g., side effect, patient request)"],
+    "pause_duration": ["options for pause duration (e.g., temporary, permanent)"]
+  },
+  "Treatment Termination": {
+    "termination_reason": ["options for termination reason (e.g., side effect, patient request)"],
+    "termination_confirmation": ["logic to confirm treatment termination (e.g., patient acknowledgement)"]
+  },
+  "Patient Notification": {
+    "notification_type": ["options for notification type (e.g., email, SMS, in-app notification)"],
+    "notification_content": ["options for notification content (e.g., treatment pause, treatment termination)"]
+  }
+}
+
+
+Let me know if you need any further assistance!

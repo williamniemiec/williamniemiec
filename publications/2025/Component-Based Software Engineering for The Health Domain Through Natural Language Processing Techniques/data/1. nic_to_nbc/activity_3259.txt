@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+    "Bleeding Education": {
+        "Parameters": {
+            "Signs of Bleeding": {
+                "Type": "list of text or images"
+            },
+            "Actions to Take": {
+                "Type": "list of text or images"
+            },
+            "Notification Instructions": {
+                "Type": "text or link to a notification system"
+            }
+        }
+    }
+}

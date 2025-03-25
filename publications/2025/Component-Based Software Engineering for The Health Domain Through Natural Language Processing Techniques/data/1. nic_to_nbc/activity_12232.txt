@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Physical Assessment Guide": {
+    "Parameters": {
+      "Title": {"Type": "text"},
+      "Content": {"Type": "text or HTML"},
+      "Checklist": {"Type": "list of text or options", "Optional": true}
+    }
+  }
+}

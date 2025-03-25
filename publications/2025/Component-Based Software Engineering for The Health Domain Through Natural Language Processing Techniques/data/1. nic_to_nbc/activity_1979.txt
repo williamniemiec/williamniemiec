@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Grief Support Resource": {
+    "Name": {"type": "text"},
+    "Description": {"type": "text"},
+    "Resource Type": {"type": "options"},
+    "Resource Content": {"type": "text or URL"},
+    "Instructions": {"type": "text"}
+  }
+}

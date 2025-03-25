@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+    "Journal": {
+        "name": "Emotion Journal",
+        "content": "A brief description of the journal, e.g. \"Please use this journal to express your feelings and emotions about your graft experience.\"",
+        "frequency": "As needed, or at specific milestones (e.g. when the graft is determined not to have taken)"
+    },
+    "Message": {
+        "name": "Emotional Support Message",
+        "content": "A brief message of support and understanding, e.g. \"We understand that this can be a difficult time for you. Please know that we are here to support you and encourage you to express your feelings and emotions about your graft experience.\"",
+        "frequency": "As needed, or at specific milestones (e.g. when the graft is determined not to have taken)"
+    }
+}

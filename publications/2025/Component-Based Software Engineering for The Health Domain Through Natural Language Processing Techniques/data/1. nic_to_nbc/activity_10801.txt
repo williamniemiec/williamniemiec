@@ -1,0 +1,43 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Comfort Factor List",
+    "parameters": [
+        {
+            "name": "title",
+            "type": "text"
+        },
+        {
+            "name": "factors",
+            "type": "list of text"
+        },
+        {
+            "name": "priority_scale",
+            "type": "options",
+            "options": [
+                { value: "low" },
+                { value: "medium" },
+                { value: "high" }
+            ]
+        },
+        {
+            "name": "reflection_prompt",
+            "type": "text"
+        },
+        {
+            "name": "frequency",
+            "type": "options",
+            "options": [
+                { value: "daily" },
+                { value: "onlyOnce" },
+                { value: "everyHours" },
+                { value: "everyDays" }
+            ]
+        },
+        {
+            "name": "deadline_date",
+            "type": "datetime"
+        }
+    ]
+}

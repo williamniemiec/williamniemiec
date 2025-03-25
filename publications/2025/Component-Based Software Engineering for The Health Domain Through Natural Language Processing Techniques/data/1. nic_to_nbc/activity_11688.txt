@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Teaching Needs Assessment": {
+    "Care Topics": {"type": "list", "topics": ["Medication management", "Wound care", "Nutrition", "Activity level"]},
+    "Teaching Methods": {"type": "options", "options": ["Verbal instruction", "Demonstration", "Written materials", "Video instruction"]},
+    "Patient Readiness": {"type": "text or scale"},
+    "Teaching Priorities": {"type": "list", "priorities": ["High priority", "Medium priority", "Low priority"]},
+    "Teaching Plan": {"type": "text or structured data"},
+    "Evaluation": {"type": "text or scale"}
+  }
+}

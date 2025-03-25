@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Food Guide": {
+    "Parameters": {
+      "Title": {"Type": "text"},
+      "Food List": {"Type": "list of objects", "Properties": [
+        {"Name": "Food Name", "Type": "text"},
+        {"Name": "Description", "Type": "text"},
+        {"Name": "Nutritional Information", "Type": "text or table"}
+      ]},
+      "Search": {"Type": "boolean"},
+      "Tips": {"Type": "list of text or multimedia"}
+    }
+  }
+}

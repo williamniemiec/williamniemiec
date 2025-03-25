@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Emesis Assessment": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Description": {"Type": "text"},
+      "Color": {"Type": "options"},
+      "Consistency": {"Type": "options"},
+      "Blood Presence": {"Type": "boolean"},
+      "Timing": {"Type": "text"},
+      "Forcefulness": {"Type": "options"},
+      "Notes": {"Type": "text"}
+    }
+  }
+}

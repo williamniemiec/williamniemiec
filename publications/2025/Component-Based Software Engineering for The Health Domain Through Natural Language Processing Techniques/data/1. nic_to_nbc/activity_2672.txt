@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "Family Conversation Starter": {
+    "Conversation Topics": [
+      "Concerns about the patient's condition",
+      "Feelings about the patient's prognosis",
+      "Needs and expectations for care and support"
+    ],
+    "Conversation Mode": [
+      "Video call",
+      "Phone call",
+      "In-person meeting",
+      "Messaging platform"
+    ],
+    "Guided Questions": [
+      "What are your biggest concerns about the patient's condition?",
+      "How are you feeling about the patient's prognosis?",
+      "What do you need from each other in terms of support and care?"
+    ],
+    "Reflection and Summary": []
+  }
+}

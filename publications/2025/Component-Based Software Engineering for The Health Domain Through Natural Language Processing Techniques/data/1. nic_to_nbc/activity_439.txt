@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+    "Device Selection Guide": {
+        "parameters": [
+            {"name": "device_type", "description": "Select a device type", "required": true, "type": "options", "options": [{"value": "nasal_mask", "label": "Nasal mask"}, {"value": "face_mask", "label": "Face mask"}, {"value": "nasal_plugs", "label": "Nasal plugs"}, {"value": "nasal_pillow", "label": "Nasal pillow"}, {"value": "helmet", "label": "Helmet"}, {"value": "oral_mouthpiece", "label": "Oral mouthpiece"}, {"value": "other", "label": "Other (please specify)"}]},
+            {"name": "patient_preferences", "description": "What are the patient's preferences?", "required": true, "type": "options", "options": [{"value": "comfort", "label": "Comfort"}, {"value": "ease_of_use", "label": "Ease of use"}, {"value": "noise_level", "label": "Noise level"}, {"value": "other", "label": "Other (please specify)"}]},
+            {"name": "additional_info", "description": "Add any additional information", "required": false, "type": "text"}
+        ]
+    }
+}

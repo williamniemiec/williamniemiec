@@ -1,0 +1,49 @@
+
+
+
+{
+    "medication_control": [
+        { 
+            "name": "name", 
+            "description": "medication name", 
+            "required": true, 
+            "type": "text"
+        },
+        { 
+            "name": "type", 
+            "description": "type of medication", 
+            "required": true, 
+            "type": "options",
+            "options": [
+                { value: "analgesics", label: "Analgesics" },
+                { value: "anesthetics", label: "Anesthetics" },
+                { value: "antimicrobials", label: "Antimicrobials" },
+                { value: "antiinflammatory", label: "Antiinflammatory agents" }
+            ]
+        },
+        { 
+            "name": "dosage", 
+            "description": "dosage instructions", 
+            "required": true, 
+            "type": "text"
+        },
+        { 
+            "name": "frequency", 
+            "description": "how often to take the medication", 
+            "required": true, 
+            "type": "options",
+            "options": [
+                { value: "daily", label: "Daily" },
+                { value: "onlyOnce", label: "Only once" },
+                { value: "everyHours", label: "Every x hours" },
+                { value: "everyDays", label: "Every x days" }
+            ]
+        },
+        { 
+            "name": "duration", 
+            "description": "duration of medication regimen", 
+            "required": true, 
+            "type": "text"
+        }
+    ]
+}

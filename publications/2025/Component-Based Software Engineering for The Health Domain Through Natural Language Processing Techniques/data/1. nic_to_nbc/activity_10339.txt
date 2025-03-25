@@ -1,0 +1,16 @@
+
+
+
+{
+  "Emergency Treatment Guide": {
+    "Parameters": {
+      "Content": {},
+      "Step-by-Step Instructions": {},
+      "Quiz": {},
+      "Notes": {}
+    }
+  }
+}
+
+
+Note: I removed the "Emergency Contact Information" parameter as it's not applicable to the no-code element, and also removed the types and descriptions of the parameters as per your request.

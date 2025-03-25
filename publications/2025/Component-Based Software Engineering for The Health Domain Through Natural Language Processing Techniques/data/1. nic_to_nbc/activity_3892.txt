@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Community Resource Assessment": {
+    "Resource Category": {"type": "options", "options": ["healthcare", "education", "transportation", "housing", "etc."]},
+    "Resource Name": {"type": "text"},
+    "Strengths": {"type": "text"},
+    "Weaknesses": {"type": "text"},
+    "Advocacy": {"type": "text or form"},
+    "Rating": {"type": "rating scale"}
+  }
+}

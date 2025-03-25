@@ -1,0 +1,36 @@
+Here is the output in JSON format:
+
+
+{
+  "Rooming-In Guide": {
+    "parameters": {
+      "name": "",
+      "pages": []
+    }
+  },
+  "Bonding Tips": {
+    "parameters": {
+      "name": "",
+      "tips": []
+    }
+  },
+  "Breastfeeding Support": {
+    "parameters": {
+      "name": "",
+      "resources": []
+    }
+  },
+  "Hospital Staff Notification": {
+    "parameters": {
+      "name": "",
+      "message": "",
+      "recipients": []
+    }
+  },
+  "Mother-Infant Interaction Tracker": {
+    "parameters": {
+      "name": "",
+      "interactions": []
+    }
+  }
+}

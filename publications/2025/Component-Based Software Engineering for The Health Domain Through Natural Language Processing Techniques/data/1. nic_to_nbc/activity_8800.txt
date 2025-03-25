@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Fluid Recommendation": {
+    "Parameters": {
+      "Fluid Type": {},
+      "Quantity": {},
+      "Frequency": {},
+      "Duration": {}
+    }
+  }
+}

@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Shared Responsibility for Change": {
+    "parameters": {
+      "name": {"type": "text"},
+      "goal": {"type": "text"},
+      "responsibilities": {"type": "list of text"},
+      "commitment_type": {"type": "options", "options": ["verbal", "written", "etc."]},
+      "frequency": {"type": "options", "options": ["daily", "weekly", "monthly", "etc."]},
+      "deadline_date": {"type": "datetime"}
+    }
+  }
+}

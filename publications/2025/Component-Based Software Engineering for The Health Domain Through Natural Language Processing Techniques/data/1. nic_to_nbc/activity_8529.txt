@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Coping Technique Guide": {
+    "Technique": {"Type": "text"},
+    "Instructions": {"Type": ["text", "video", "audio"]},
+    "Rationale": {"Type": "text"},
+    "Frequency": {"Type": ["daily", "weekly", "as needed"]},
+    "Duration": {"Type": ["time interval"]},
+    "Tracking": {"Type": "boolean"}
+  }
+}

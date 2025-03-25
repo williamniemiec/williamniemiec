@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Conflict Management Strategies": {
+    "Parameters": {
+      "Conflict Assessment": {},
+      "Communication Strategies": {},
+      "Negotiation Techniques": {},
+      "Emotional Regulation": {},
+      "Role-Playing Exercises": {},
+      "Resource Library": {},
+      "Reflection and Evaluation": {}
+    }
+  }
+}

@@ -1,0 +1,29 @@
+Here is the output in JSON format:
+
+
+{
+  "Family/Significant Others Involvement": {
+    "parameters": {
+      "family_members": {
+        "type": "list of objects",
+        "properties": {
+          "name": {"type": "text"},
+          "relationship": {"type": "text"}
+        }
+      },
+      "involvement_type": {
+        "type": "list of objects",
+        "properties": {
+          "family_member": {"type": "reference to a family member object"},
+          "involvement_type": {"type": "text"}
+        }
+      },
+      "education_materials": {
+        "type": "list of URLs or text"
+      },
+      "notes": {
+        "type": "text"
+      }
+    }
+  }
+}

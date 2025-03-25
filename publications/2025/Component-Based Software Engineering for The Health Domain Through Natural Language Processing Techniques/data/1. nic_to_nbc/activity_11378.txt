@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Contract Signing": {
+    "parameters": {
+      "Contract/Agreement": {"type": "text"},
+      "Involved Parties": {"type": "list of text", "examples": ["patient", "healthcare provider", "caregiver"]},
+      "Signature": {"type": "digital signature"},
+      "Date Signed": {"type": "datetime"},
+      "Status": {"type": "options", "options": ["pending", "signed", "declined"]}
+    }
+  }
+}

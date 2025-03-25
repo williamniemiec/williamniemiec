@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+    "Follow-up Appointment": {
+        "Provider": {"type": "text"},
+        "Frequency": {"options": ["monthly", "quarterly", "every6months", "annually"]},
+        "Importance": {"type": "text"},
+        "Scheduling Instructions": {"type": "text"},
+        "Reminders": {"type": "boolean"}
+    }
+}

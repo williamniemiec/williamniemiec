@@ -1,0 +1,42 @@
+Here is the output in JSON format:
+
+
+{
+  "Bed Positioning Switch": {
+    "Switch Location": {
+      "Description": "Specify where to place the bed-positioning switch within easy reach",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "bedsideTable", "label": "Bedside table" },
+        { "value": "bedRail", "label": "Bed rail" },
+        { "value": "wheelchairTray", "label": "Wheelchair tray" },
+        { "value": "other", "label": "Other (please specify)" }
+      ]
+    },
+    "Reach Distance": {
+      "Description": "Specify the maximum distance from the patient to the switch",
+      "Required": true,
+      "Type": "number",
+      "Unit": "inches"
+    },
+    "Frequency": {
+      "Description": "Specify how often to review and adjust switch placement",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "daily", "label": "Daily" },
+        { "value": "weekly", "label": "Weekly" },
+        { "value": "custom", "label": "Custom frequency" }
+      ]
+    },
+    "Notes": {
+      "Description": "Additional notes about switch placement",
+      "Required": false,
+      "Type": "text"
+    }
+  }
+}
+
+
+Let me know if this meets your requirements!

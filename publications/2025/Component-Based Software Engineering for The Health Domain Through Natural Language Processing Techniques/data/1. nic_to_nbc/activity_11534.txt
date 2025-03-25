@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Diet Tolerance Monitoring": {
+    "Parameters": {
+      "Tolerance Criteria": {"Type": "text"},
+      "Monitoring Frequency": {"Type": "options", "Options": ["daily", "everyHours", "everyDays"]},
+      "Symptom Tracking": {"Type": "checklist", "Options": ["nausea", "vomiting", "diarrhea", "abdominal pain", "etc."]},
+      "Severity Scale": {"Type": "options", "Options": ["mild", "moderate", "severe"]},
+      "Intervention Threshold": {"Type": "text"},
+      "Instructions": {"Type": "text"}
+    }
+  }
+}

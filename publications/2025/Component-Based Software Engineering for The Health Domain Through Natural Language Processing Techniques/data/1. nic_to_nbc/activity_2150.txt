@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+    "Call Bell Alert": {
+        "Parameters": {
+            "Call Bell Availability": {"Type": "options", "Options": ["yes", "no"]},
+            "Call Bell Instructions": {"Type": "text"},
+            "Frequency of Checks": {"Type": "options", "Options": ["hourly", "every 2 hours", "every 4 hours"]}
+        }
+    }
+}

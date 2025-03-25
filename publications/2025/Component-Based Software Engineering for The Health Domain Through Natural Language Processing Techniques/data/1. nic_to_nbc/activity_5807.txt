@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Cultural Preference": {
+    "Parameters": {
+      "Language": {"Type": "options"},
+      "Cultural Background": {"Type": "options"},
+      "Customization Options": {"Type": "options"}
+    }
+  },
+  "Cultural Adaptation": {
+    "Parameters": {
+      "Cultural Background": {"Type": "options"},
+      "Content Options": {"Type": "options"},
+      "Adaptation Settings": {"Type": "options"}
+    }
+  }
+}

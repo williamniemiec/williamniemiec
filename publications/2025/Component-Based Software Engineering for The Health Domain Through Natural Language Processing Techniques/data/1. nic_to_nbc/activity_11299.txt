@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Stress Detection": {
+        "parameters": [
+            {"Signs of Stress": "options (list of possible signs of stress)"},
+            {"Time Out Instructions": "text"},
+            {"Frequency": "options (daily, onlyOnce, everyHours, everyDays)"},
+            {"Deadline Date": "datetime"},
+            {"Notes": "text"}
+        ]
+    }
+}

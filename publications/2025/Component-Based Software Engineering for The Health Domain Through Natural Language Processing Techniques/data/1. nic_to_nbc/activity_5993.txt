@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Medical Intervention Diagram": {
+        "Name": {"type": "text"},
+        "Medical Intervention List": {"type": "text or list"},
+        "Diagram": {"type": "image or drawing"},
+        "Description": {"type": "text"},
+        "Frequency": {"type": "options"},
+        "Deadline Date": {"type": "datetime"}
+    }
+}

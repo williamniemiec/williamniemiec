@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Support System Evaluation": {
+    "Parameters": {
+      "Question": {"Type": "text"},
+      "Answer Type": {"Type": "options", "Options": ["checklist", "text", "rating scale (e.g., 1-5)"]},
+      "Support System Options": {"Type": "list of options", "Options": ["extended family", "community involvement", "religious affiliations", "friends", "online support groups", "etc."]},
+      "Rating Scale": {"Type": "rating scale (e.g., 1-5)"},
+      "Frequency": {"Type": "options", "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"Type": "datetime"},
+      "Resources": {"Type": "list of URLs or embedded media"}
+    }
+  }
+}
+
+Let me know if this is what you were expecting!

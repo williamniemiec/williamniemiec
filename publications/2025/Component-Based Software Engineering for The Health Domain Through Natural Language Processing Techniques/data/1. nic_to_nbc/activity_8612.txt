@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+    "Positioning Guide": {
+        "Parameters": {
+            "Name": {},
+            "Therapeutic Position": {},
+            "Instructions": {},
+            "Frequency": {}
+        }
+    }
+}
+
+
+Note: I removed the "Deadline Date" parameter as it was not applicable, and only kept the relevant information as per your request.

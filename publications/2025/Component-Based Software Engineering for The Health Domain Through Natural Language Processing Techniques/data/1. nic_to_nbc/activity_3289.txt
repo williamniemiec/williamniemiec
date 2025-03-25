@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "Aggression Risk Assessment": {
+    "parameters": {
+      "Aggression Risk Factors": {
+        "type": "list of risk factors"
+      },
+      "Emotional State Tracking": {
+        "type": "interactive exercise or gamification element"
+      },
+      "Trigger Identification": {
+        "type": "list of triggers"
+      },
+      "Intervention Strategies": {
+        "type": "text, audio, or video content"
+      },
+      "Crisis Intervention": {
+        "type": "messaging or video conferencing element"
+      }
+    }
+  }
+}

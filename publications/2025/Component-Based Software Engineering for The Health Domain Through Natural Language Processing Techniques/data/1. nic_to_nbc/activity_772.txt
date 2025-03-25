@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+{
+  "Fall Prevention Guide": {
+    "Parameters": {
+      "Name": {"Description": "Title of the guide", "Required": true, "Type": "text"},
+      "Content": {"Description": "Video or interactive simulation content teaching the patient how to fall safely", "Required": true, "Type": "video or interactive simulation"},
+      "Frequency": {"Description": "Specify how often the patient should review the fall prevention guide", "Required": true, "Type": "options", "Options": ["daily", "everyOtherDay", "weekly", "monthly"]}
+    }
+  }
+}

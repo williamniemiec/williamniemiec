@@ -1,0 +1,22 @@
+
+
+
+{
+  "Hydration Guide": {
+    "Parameters": {
+      "Hydration Method": {
+        "Type": "options",
+        "Options": ["oral", "intravenous", "etc."]
+      },
+      "Hydration Instructions": {
+        "Type": ["text", "video"]
+      },
+      "Hydration Scenarios": {
+        "Type": ["text", "images"]
+      },
+      "Hydration Reminders": {
+        "Type": ["notification", "alert"]
+      }
+    }
+  }
+}

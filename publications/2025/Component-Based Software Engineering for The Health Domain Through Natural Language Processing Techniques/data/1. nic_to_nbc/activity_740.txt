@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Survey": {
+    "Parameters": {
+      "Name": "Anxiety/Fear Assessment",
+      "Description": "Please rate your level of anxiety or fear about the upcoming surgical procedure",
+      "Questions": [
+        "How anxious do you feel about the surgical procedure?",
+        "What are your biggest concerns about the surgical procedure?"
+      ],
+      "Frequency": "pre-operative" || "as needed"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "Triage": {
+    "parameters": {
+      "Victim List": {
+        "type": "list of objects",
+        "properties": {
+          "Victim ID": {"type": "text"},
+          "Condition": {"type": "text"},
+          "Priority Level": {"type": "number"}
+        }
+      },
+      "Rescue Actions": {
+        "type": "list of objects",
+        "properties": {
+          "Action": {"type": "text"},
+          "Priority Level": {"type": "number"}
+        }
+      },
+      "Guidance": {"type": "text"}
+    }
+  }
+}

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Goal Setting Assistant": {
+    "Parameters": {
+      "Goal Categories": {"Type": "list of goal categories"},
+      "Goal Setting Guidance": {"Type": "text-based guidance"},
+      "Goal Template": {"Type": "goal template"},
+      "Progress Tracking": {"Type": "progress tracking feature"},
+      "Goal Review and Revision": {"Type": "goal review and revision feature"}
+    }
+  }
+}

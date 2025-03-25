@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Social Paralysis Assessment": {
+    "Name": {"type": "text"},
+    "Physical Characteristics": {"type": "unordered list (text)"},
+    "Social Paralysis Symptoms": {"type": "unordered list (text)"},
+    "Risk Group": {"type": "options (list of high-risk groups)"},
+    "Assessment Questions": {"type": "text"},
+    "Scoring System": {"type": "options (list of scoring systems)"}
+  }
+}

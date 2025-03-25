@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Response Monitoring": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Assessment Criteria": {"Type": "form"},
+      "Frequency": {"Type": "options"},
+      "Thresholds": {"Type": "options"},
+      "Intervention Triggers": {"Type": "options"},
+      "Documentation": {"Type": "text"}
+    }
+  }
+}

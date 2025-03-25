@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Calorie Intake Guide": {
+    "Parameters": {
+      "Content": {},
+      "Tips and Recommendations": {},
+      "Food Examples": {},
+      "Meal Planning": {},
+      "FAQs": {},
+      "Resources": {}
+    }
+  }
+}

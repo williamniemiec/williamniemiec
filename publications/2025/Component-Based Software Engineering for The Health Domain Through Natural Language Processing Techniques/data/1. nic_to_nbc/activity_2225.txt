@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Cue Interpreter": {
+    "Parameters": {
+      "Cue Type": {"Type": "options"},
+      "Scenario": {"Type": "text"},
+      "Cue Examples": {"Type": "multimedia"},
+      "Questions": {"Type": "list of questions"},
+      "Feedback": {"Type": "text or multimedia"},
+      "Resources": {"Type": "list of resources"}
+    }
+  }
+}

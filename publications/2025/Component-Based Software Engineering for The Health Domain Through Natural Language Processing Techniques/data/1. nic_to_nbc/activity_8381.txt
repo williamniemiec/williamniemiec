@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+  "Support Network": {
+    "Parameters": {
+      "Name": {
+        "Type": "text"
+      },
+      "Benefits": {
+        "Type": "text",
+        "Example": "Having a support network can help reduce stress and anxiety, promote bonding between caregivers and the infant, and provide emotional support during the challenging times of caring for a new baby."
+      },
+      "Identifying Supporters": {
+        "Type": "text",
+        "Example": "Think about who you trust and feel comfortable with, such as your partner, parents, siblings, or close friends. Consider their availability, willingness to help, and any special skills they may have."
+      }
+    }
+  }
+}

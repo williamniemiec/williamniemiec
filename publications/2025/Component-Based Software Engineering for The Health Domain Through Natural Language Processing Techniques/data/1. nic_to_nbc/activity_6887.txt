@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Symptom Checker": {
+    "name": "Fluid Overload/Rention Symptoms",
+    "symptoms": ["Crackles", "Edema", "Neck vein distension", "Ascites"],
+    "frequency": null,
+    "deadline_date": null
+  },
+  "Measurement Tracker": {
+    "name": "Fluid Overload/Rention Measurements",
+    "measurements": ["CVP (Central Venous Pressure)", "Pulmonary capillary wedge pressure"],
+    "frequency": null,
+    "deadline_date": null
+  }
+}

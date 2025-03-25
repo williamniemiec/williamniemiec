@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+  "Visual Disturbance Monitoring": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Symptom Checker": {"Type": "multiple choice or checklist"},
+      "Severity Scale": {"Type": "rating scale"},
+      "Frequency": {"Type": "options (daily, onlyOnce, everyHours, everyDays)"},
+      "Deadline Date": {"Type": "datetime"}
+    }
+  },
+  "Diplopia Monitoring": {},
+  "Nystagmus Monitoring": {},
+  "Visual-Field Cuts Monitoring": {},
+  "Blurred Vision Monitoring": {},
+  "Visual Acuity Monitoring": {}
+}
+
+
+Note that I removed the `Visual Acuity Test` parameter as it was not applicable to all no-code elements. Also, I didn't include any parameters for the separate monitoring elements (`Diplopia Monitoring`, etc.) since they were not specified in the input text.

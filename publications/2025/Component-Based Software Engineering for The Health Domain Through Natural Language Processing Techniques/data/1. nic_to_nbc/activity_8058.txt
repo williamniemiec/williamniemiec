@@ -1,0 +1,40 @@
+Here is the output in JSON format:
+
+
+{
+  "Sensory Progression": {
+    "parameters": {
+      "Initial Sensation": {
+        "type": "options",
+        "options": [
+          {"value": "heaviness", "label": "Heaviness"},
+          {"value": "lightness", "label": "Lightness"},
+          {"value": "relaxation", "label": "Relaxation"}
+        ]
+      },
+      "Target Sensation": {
+        "type": "options",
+        "options": [
+          {"value": "warmth", "label": "Warmth"},
+          {"value": "coolness", "label": "Coolness"},
+          {"value": "tingling", "label": "Tingling"}
+        ]
+      },
+      "Progression Criteria": {
+        "type": "text"
+      },
+      "Frequency": {
+        "type": "options",
+        "options": [
+          {"value": "daily", "label": "Daily"},
+          {"value": "onlyOnce", "label": "Only once"},
+          {"value": "everyHours", "label": "Every x hours"},
+          {"value": "everyDays", "label": "Every x days"}
+        ]
+      },
+      "Deadline Date": {
+        "type": "datetime"
+      }
+    }
+  }
+}

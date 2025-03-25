@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Resource Explorer": {
+    "Goal": {"type": "text"},
+    "Resource Types": {"type": "options", "options": ["healthcare providers", "community services", "online resources", "support groups", "etc."]},
+    "Resource List": {"type": "list", "itemProperties": ["name", "description", "URL or contact information"]},
+    "Frequency": {"type": "options", "options": ["daily", "weekly", "monthly", "etc."]}
+  }
+}

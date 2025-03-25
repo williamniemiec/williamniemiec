@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Trauma Prevention": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Risk Factors": {"Type": "options"},
+      "Prevention Measures": {"Type": "options"},
+      "Frequency": {"Type": "options"},
+      "Deadline Date": {"Type": "datetime"},
+      "Notes": {"Type": "text"},
+      "Alert Threshold": {"Type": "options"}
+    }
+  }
+}

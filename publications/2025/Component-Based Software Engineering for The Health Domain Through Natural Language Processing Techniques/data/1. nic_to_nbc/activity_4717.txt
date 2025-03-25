@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+  "Pain Management Plan": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Pain relief options": {"Type": "options", "Options": [
+        {"value": "analgesia", "label": "Analgesia"},
+        {"value": "relaxationTechniques", "label": "Relaxation Techniques"},
+        {"value": "breathingExercises", "label": "Breathing Exercises"},
+        {"value": "distraction", "label": "Distraction"},
+        {"value": "other", "label": "Other (please specify)"}
+      ]},
+      "Selected options": {"Type": "multiselect"},
+      "Procedure details": {"Type": "text"},
+      "Frequency": {"Type": "options", "Options": [
+        {"value": "daily", "label": "Daily"},
+        {"value": "onlyOnce", "label": "Only once"},
+        {"value": "everyHours", "label": "Every x hours"},
+        {"value": "everyDays", "label": "Every x days"}
+      ]},
+      "Deadline date": {"Type": "datetime"}
+    }
+  }
+}

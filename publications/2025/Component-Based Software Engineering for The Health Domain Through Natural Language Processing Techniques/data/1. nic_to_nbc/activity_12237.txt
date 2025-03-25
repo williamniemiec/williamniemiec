@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Communication Channel": {
+        "parameters": {
+            "name": {"type": "text"},
+            "description": {"type": "text"},
+            "contact_info": {"type": "list of objects", "fields": ["name", "role", "email", "phone"]},
+            "feedback_mechanism": {"type": "object", "fields": ["type", "frequency"]}
+        }
+    }
+}

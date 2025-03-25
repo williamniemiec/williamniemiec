@@ -1,0 +1,49 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Peer Feedback",
+  "parameters": [
+    {
+      "name": "Prompt",
+      "description": "A parameter that specifies the question or topic for which patients should provide feedback to each other.",
+      "required": true,
+      "type": "text"
+    },
+    {
+      "name": "Feedback Type",
+      "description": "A parameter that specifies the type of feedback patients should provide (e.g., text, audio, video).",
+      "required": true,
+      "type": "options",
+      "options": [
+        { value: "text", label: "Text" },
+        { value: "audio", label: "Audio" },
+        { value: "video", label: "Video" }
+      ]
+    },
+    {
+      "name": "Frequency",
+      "description": "A parameter that specifies how often patients should provide feedback to each other.",
+      "required": true,
+      "type": "options",
+      "options": [
+        { value: "daily", label: "Daily" },
+        { value: "onlyOnce", label: "Only once" },
+        { value: "everyHours", label: "Every x hours" },
+        { value: "everyDays", label: "Every x days" }
+      ]
+    },
+    {
+      "name": "Deadline Date",
+      "description": "A parameter that specifies the due date for providing feedback.",
+      "required": false,
+      "type": "datetime"
+    },
+    {
+      "name": "Recipient",
+      "description": "A parameter that specifies the recipient of the feedback (e.g., a specific patient or a group of patients).",
+      "required": true,
+      "type": "text or selection from a list of patients"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "school nurse notification",
+    "parameters": [
+        { 
+            "name": "school nurse name", 
+            "description": "name of the school nurse being notified", 
+            "required": true, 
+            "type": "text"
+        },
+        { 
+            "name": "school name", 
+            "description": "name of the school that the younger sibling attends", 
+            "required": true, 
+            "type": "text"
+        },
+        { 
+            "name": "situation description", 
+            "description": "brief description of the situation requiring support", 
+            "required": true, 
+            "type": "text"
+        },
+        { 
+            "name": "parental wishes", 
+            "description": "parental wishes regarding support and communication", 
+            "required": true, 
+            "type": "text"
+        },
+        { 
+            "name": "support requested", 
+            "description": "type of support being requested from the school nurse", 
+            "required": true, 
+            "type": "options",
+            "options": [
+                { value: "academic", label: "Academic Support" },
+                { value: "emotional", label: "Emotional Support" },
+                { value: "behavioral", label: "Behavioral Support" }
+            ]
+        }
+    ]
+}

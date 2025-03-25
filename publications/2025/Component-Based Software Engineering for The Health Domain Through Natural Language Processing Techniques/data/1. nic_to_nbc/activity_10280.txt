@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+    "Guided Action": {
+        "name": "Dressing Application",
+        "content": "Apply a dressing, as appropriate",
+        "type": "guided action",
+        "steps": [
+            "Step 1: Choose the appropriate dressing type",
+            "Step 2: Clean and prepare the wound area",
+            "Step 3: Apply the dressing according to the manufacturer's instructions",
+            "Step 4: Secure the dressing in place"
+        ],
+        "images": [],
+        "videos": [],
+        "dressing_type": [],
+        "manufacturer_instructions": []
+    }
+}

@@ -1,0 +1,52 @@
+Here is the output in JSON format:
+
+
+{
+    "Medication Knowledge": {
+        "Parameters": {
+            "Medication Name": {"Type": "text"},
+            "Medication Purpose": {"Type": "text"},
+            "Dosage Instructions": {"Type": "text"}
+        }
+    },
+    "Administration Method": {
+        "Parameters": {
+            "Administration Route": {"Type": "options"},
+            "Administration Frequency": {"Type": "options"},
+            "Special Instructions": {"Type": "text"}
+        }
+    },
+    "Medication Identification": {
+        "Parameters": {
+            "Medication Name": {"Type": "text"}
+        }
+    },
+    "Medication Purpose": {
+        "Parameters": {
+            "Medication Purpose": {"Type": "text"}
+        }
+    },
+    "Dosage Instructions": {
+        "Parameters": {
+            "Dosage Instructions": {"Type": "text"}
+        }
+    },
+    "Administration Route": {
+        "Parameters": {
+            "Administration Route": {"Type": "options"}
+        }
+    },
+    "Administration Frequency": {
+        "Parameters": {
+            "Administration Frequency": {"Type": "options"}
+        }
+    },
+    "Special Instructions": {
+        "Parameters": {
+            "Special Instructions": {"Type": "text"}
+        }
+    }
+}
+
+
+Let me know if you need any further modifications!

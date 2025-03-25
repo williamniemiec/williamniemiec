@@ -1,0 +1,81 @@
+Here is the output in JSON format:
+
+
+{
+  "Emergency Situation Assessment": {
+    "parameters": {
+      "name": "Emergency Situation Assessment",
+      "description": "Report on any emergency situations and institute treatment in compliance with established agency policies, procedures, and guidelines",
+      "emergency_situation": [
+        {
+          "name": "symptoms",
+          "description": "What symptoms are you experiencing?",
+          "type": "text"
+        },
+        {
+          "name": "severity",
+          "description": "How severe are your symptoms?",
+          "type": "options",
+          "options": [
+            { "value": "mild", "label": "Mild" },
+            { "value": "moderate", "label": "Moderate" },
+            { "value": "severe", "label": "Severe" }
+          ]
+        },
+        {
+          "name": "treatment_instituted",
+          "description": "What treatment have you instituted?",
+          "type": "text"
+        },
+        {
+          "name": "agency_policies",
+          "description": "Have you followed established agency policies, procedures, and guidelines?",
+          "type": "options",
+          "options": [
+            { "value": "yes", "label": "Yes" },
+            { "value": "no", "label": "No" }
+          ]
+        }
+      ]
+    }
+  },
+  "Survey": {
+    "parameters": {
+      "name": "Emergency Situation Survey",
+      "description": "Please answer the following questions about emergency situations and treatment instituted",
+      "questions": [
+        {
+          "name": "symptoms",
+          "description": "What symptoms are you experiencing?",
+          "type": "text"
+        },
+        {
+          "name": "severity",
+          "description": "How severe are your symptoms?",
+          "type": "options",
+          "options": [
+            { "value": "mild", "label": "Mild" },
+            { "value": "moderate", "label": "Moderate" },
+            { "value": "severe", "label": "Severe" }
+          ]
+        },
+        {
+          "name": "treatment_instituted",
+          "description": "What treatment have you instituted?",
+          "type": "text"
+        },
+        {
+          "name": "agency_policies",
+          "description": "Have you followed established agency policies, procedures, and guidelines?",
+          "type": "options",
+          "options": [
+            { "value": "yes", "label": "Yes" },
+            { "value": "no", "label": "No" }
+          ]
+        }
+      ],
+      "frequency": "specify how often the patient should complete this survey",
+      "deadline_date": "specify the due date for the patient to complete this survey"
+    }
+  }
+}

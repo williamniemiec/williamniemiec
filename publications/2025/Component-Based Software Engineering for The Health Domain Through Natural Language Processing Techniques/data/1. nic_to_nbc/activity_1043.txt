@@ -1,0 +1,47 @@
+Here is the output in JSON format:
+
+
+{
+  "fluid status monitoring": {
+    "Vital Sign": {
+      "description": "specify the vital sign to monitor (e.g. blood pressure, heart rate, etc.)",
+      "type": "options",
+      "options": [
+        {"value": "bloodPressure", "label": "Blood Pressure"},
+        {"value": "heartRate", "label": "Heart Rate"},
+        {"value": "respiratoryRate", "label": "Respiratory Rate"},
+        {"value": "oxygenSaturation", "label": "Oxygen Saturation"}
+      ]
+    },
+    "Normal Range": {
+      "description": "specify the normal range for the vital sign",
+      "type": "text"
+    },
+    "Abnormal Threshold": {
+      "description": "specify the threshold for abnormal vital sign values",
+      "type": "text"
+    },
+    "Fluid Status Indicators": {
+      "description": "specify the indicators of fluid overload or dehydration (e.g. edema, shortness of breath, etc.)",
+      "type": "options",
+      "options": [
+        {"value": "edema", "label": "Edema"},
+        {"value": "shortnessOfBreath", "label": "Shortness of Breath"},
+        {"value": "fatigue", "label": "Fatigue"},
+        {"value": "other", "label": "Other (please specify)"}
+      ]
+    },
+    "Frequency": {
+      "description": "specify how often to monitor vital signs and fluid status",
+      "type": "options",
+      "options": [
+        {"value": "daily", "label": "Daily"},
+        {"value": "everyHours", "label": "Every x hours"},
+        {"value": "everyDays", "label": "Every x days"}
+      ]
+    }
+  }
+}
+
+
+Note that I removed the `Deadline Date` parameter since it was marked as not required.

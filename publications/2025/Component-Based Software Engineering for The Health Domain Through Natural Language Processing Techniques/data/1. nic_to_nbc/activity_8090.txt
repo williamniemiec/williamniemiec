@@ -1,0 +1,31 @@
+Here is the output in JSON format:
+
+
+{
+  "Education Module": {
+    "name": "Clothing Guidelines",
+    "description": "Learn about the importance of avoiding tight or restrictive clothing that might cause friction at the insertion site",
+    "content_type": "text",
+    "required": true,
+    "type": "education"
+  },
+  "Quiz": {
+    "name": "Clothing Guidelines Quiz",
+    "description": "Test your understanding of the clothing guidelines",
+    "content_type": "quiz",
+    "required": true,
+    "type": "quiz",
+    "questions": [
+      { "question": "What type of clothing should I avoid wearing?", "answer": "Tight or restrictive clothing" },
+      { "question": "Why is it important to avoid tight or restrictive clothing?", "answer": "To prevent friction at the insertion site" }
+    ]
+  },
+  "Reminder": {
+    "name": "Clothing Reminder",
+    "description": "Remember to avoid tight or restrictive clothing that might cause friction at the insertion site",
+    "content_type": "reminder",
+    "required": true,
+    "type": "reminder",
+    "frequency": "daily"
+  }
+}

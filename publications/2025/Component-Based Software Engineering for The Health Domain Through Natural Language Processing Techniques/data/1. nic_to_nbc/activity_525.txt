@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Healthcare Visit Tracker": {
+    "name": {},
+    "visit_type": {},
+    "visit_reason": {},
+    "visit_outcome": {},
+    "frequency": {
+      "options": ["daily", "everyOtherDay", "everyWeek", "everyMonth"]
+    },
+    "deadline_date": {
+      "type": "datetime"
+    }
+  }
+}

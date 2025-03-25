@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Prenatal Class Recommendation": {
+    "Class Information": {},
+    "Benefits of Attendance": {},
+    "Registration Link": {},
+    "Personalized Message": {},
+    "Class Schedule": {}
+  }
+}

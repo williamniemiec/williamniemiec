@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Dietary Restriction": {
+    "restriction title": {"Description": "Title of the dietary restriction", "Required": true, "Type": "text"},
+    "restricted_foods": {"Description": "List of foods to be avoided", "Required": true, "Type": "list", "Options": ["Fresh fruits", "Fresh vegetables", "Pepper"]},
+    "reason": {"Description": "Explanation for the dietary restriction", "Required": true, "Type": "text"},
+    "duration": {"Description": "Duration of the dietary restriction", "Required": true, "Type": "options", "Options": ["Until neutropenia resolves", "For a specific period (e.g., 2 weeks)", "Until further notice"]}
+  }
+}

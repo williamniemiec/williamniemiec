@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Emotional Support": {
+    "message": {
+      "type": "text"
+    },
+    "frequency": {
+      "type": "options"
+    },
+    "deadline_date": {
+      "type": "datetime"
+    }
+  }
+}

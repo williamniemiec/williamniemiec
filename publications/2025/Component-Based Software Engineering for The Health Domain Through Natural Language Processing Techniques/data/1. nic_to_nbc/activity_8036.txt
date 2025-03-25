@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "IV Access Maintenance Reminder": {
+    "Parameters": {
+      "IV Access Status": {"Type": "options"},
+      "Reminder Frequency": {"Type": "options"},
+      "Guidance Content": {"Type": "text"},
+      "Notification Method": {"Type": "options"}
+    }
+  }
+}

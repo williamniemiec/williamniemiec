@@ -1,0 +1,44 @@
+Here is the output in JSON format:
+
+
+{
+  "Lens Rub and Rinse Guide": {
+    "Rubbing Instructions": {
+      "Type": "ordered list",
+      "Example": [
+        "Step 1: Place the lens on the palm of your hand.",
+        "Step 2: Apply 2-3 drops of the recommended solution to the lens.",
+        "Step 3: Gently rub the lens in a circular motion for 10-15 seconds."
+      ]
+    },
+    "Rinsing Instructions": {
+      "Type": "ordered list",
+      "Example": [
+        "Step 1: Hold the lens under a stream of sterile solution.",
+        "Step 2: Rinse the lens for 10-15 seconds to remove any debris."
+      ]
+    },
+    "Recommended Solution": {
+      "Type": "text",
+      "Example": "Multipurpose solution"
+    },
+    "Frequency": {
+      "Type": "options",
+      "Options": [
+        "before and after storage",
+        "only before storage",
+        "only after storage"
+      ]
+    },
+    "Storage Instructions": {
+      "Type": "ordered list",
+      "Example": [
+        "Step 1: Place the lens in the lens case.",
+        "Step 2: Tighten the lens case cap to prevent contamination."
+      ]
+    },
+    "Visual Aids": {
+      "Type": "list of URLs or embedded media"
+    }
+  }
+}

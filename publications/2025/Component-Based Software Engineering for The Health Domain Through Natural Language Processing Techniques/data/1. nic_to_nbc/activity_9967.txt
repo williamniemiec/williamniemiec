@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Partner Comfort Measures": {
+    "Back Rub": {},
+    "Back Pressure": {},
+    "Positioning": {},
+    "Videos and Images": {},
+    "Practice Exercises": {},
+    "Tips and Reminders": {}
+  }
+}

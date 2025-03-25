@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Relaxation Reminder": {
+    "Parameters": {
+      "Name": {},
+      "Technique": {},
+      "Trigger": {},
+      "Frequency": {},
+      "Resources": {}
+    }
+  }
+}
+
+
+I removed the `Deadline Date` parameter as it's not applicable in this context. Let me know if you have any further questions!

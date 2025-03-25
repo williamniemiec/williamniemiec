@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+  "Community Connection": {
+    "Parameters": {
+      "Type": {
+        "options": [
+          {"value": "onlineGroup", "label": "Online Group"},
+          {"value": "inPersonMeeting", "label": "In-Person Meeting"},
+          {"value": "volunteerOpportunity", "label": "Volunteer Opportunity"}
+        ]
+      },
+      "Description": {"type": "text"},
+      "Frequency": {
+        "options": [
+          {"value": "daily", "label": "Daily"},
+          {"value": "weekly", "label": "Weekly"},
+          {"value": "monthly", "label": "Monthly"}
+        ]
+      },
+      "Location": {"type": "text"},
+      "Contact": {"type": "text"},
+      "Resources": {"type": "text"}
+    }
+  }
+}

@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Protein Level Tracker": {
+    "Name": "",
+    "Proteins to Monitor": [],
+    "Frequency of Testing": [],
+    "Normal Ranges": "",
+    "Result Tracking": "",
+    "Alerts and Notifications": true,
+    "Deadline Date": ""
+  }
+}
+
+
+I removed the non-applicable parameters (Resources) as per your request. Let me know if you need anything else!

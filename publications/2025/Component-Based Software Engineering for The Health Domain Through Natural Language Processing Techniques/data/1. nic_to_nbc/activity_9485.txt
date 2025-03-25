@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "GI Tract Bicarbonate Loss Monitor": {
+    "parameters": {
+      "name": {"type": "text"},
+      "GI_tract_issues": {"type": "unordered list"},
+      "stool_characteristics": {"type": "table", "columns": ["date", "time", "characteristic", "value"]},
+      "bicarbonate_loss": {"type": "calculated field"},
+      "frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "deadline_date": {"type": "datetime"}
+    }
+  }
+}

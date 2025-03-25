@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+    "Pain Assessment": {
+        "parameters": [
+            {"name": "pain_level", "description": "Current pain level (0-10)", "required": true, "type": "number"},
+            {"name": "pain_description", "description": "Describe your pain", "required": false, "type": "text"}
+        ]
+    },
+    "Pain Management Plan": {
+        "parameters": [
+            {"name": "medication", "description": "Medication and dosage", "required": true, "type": "text"},
+            {"name": "frequency", "description": "How often to take medication", "required": true, "type": "options", "options": [{"value": "asNeeded", "label": "As needed"}, {"value": "daily", "label": "Daily"}, {"value": "everyHours", "label": "Every x hours"}, {"value": "everyDays", "label": "Every x days"}]},
+            {"name": "non_pharmacological_interventions", "description": "Non-pharmacological interventions (e.g., relaxation techniques, physical therapy)", "required": false, "type": "text"}
+        ]
+    },
+    "Pain Tracking": {
+        "parameters": [
+            {"name": "pain_level", "description": "Pain level (0-10)", "required": true, "type": "number"},
+            {"name": "date", "description": "Date of pain assessment", "required": true, "type": "datetime"}
+        ]
+    }
+}

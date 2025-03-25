@@ -1,0 +1,42 @@
+Here is the output in JSON format:
+
+
+{
+  "Guided Observation": {
+    "Parameters": {
+      "Name": {},
+      "Content": {},
+      "Pages": [
+        {
+          "Title": {},
+          "Content": {}
+        }
+      ],
+      "Symptoms": [
+        {
+          "Label": {},
+          "Description": {}
+        }
+      ],
+      "Quiz": {
+        "Questions": [
+          {
+            "Question": {},
+            "Options": [
+              {
+                "Label": {},
+                "Value": {}
+              }
+            ]
+          }
+        ],
+        "Correct Answers": [
+          {
+            "Question": {},
+            "Answer": {}
+          }
+        ]
+      }
+    }
+  }
+}

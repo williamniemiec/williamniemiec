@@ -1,0 +1,39 @@
+Here is the output in JSON format:
+
+
+{
+  "Magnesium-Rich Food Tracker": {
+    "parameters": [
+      {
+        "name": "food categories",
+        "description": "Specify the categories of foods rich in magnesium",
+        "required": true,
+        "type": "multiselect",
+        "options": [
+          { "value": "unmilled grains", "label": "Unmilled Grains" },
+          { "value": "green leafy vegetables", "label": "Green Leafy Vegetables" },
+          { "value": "nuts", "label": "Nuts" },
+          { "value": "legumes", "label": "Legumes" }
+        ]
+      },
+      {
+        "name": "food frequency",
+        "description": "Specify how often to track food consumption",
+        "required": true,
+        "type": "options",
+        "options": [
+          { "value": "daily", "label": "Daily" },
+          { "value": "weekly", "label": "Weekly" },
+          { "value": "monthly", "label": "Monthly" }
+        ]
+      },
+      {
+        "name": "magnesium intake goal",
+        "description": "Specify the daily magnesium intake goal",
+        "required": false,
+        "type": "number",
+        "unit": "mg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Nail Polish Removal": {
+    "Surgery Date": {"type": "datetime"},
+    "Removal Instructions": {"type": "text", "default": "Use a nail polish remover to gently remove nail polish from all nails"},
+    "Confirmation": {"type": "boolean"},
+    "Notes": {"type": "text", "optional": true}
+  }
+}
+
+
+Let me know if this meets your requirements!

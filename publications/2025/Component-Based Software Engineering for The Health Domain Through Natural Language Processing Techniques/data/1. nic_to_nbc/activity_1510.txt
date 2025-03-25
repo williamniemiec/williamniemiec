@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Health Beliefs Assessment": {
+    "parameters": {
+      "name": {"description": "title of the health beliefs assessment", "required": true, "type": "text"},
+      "questions": {"description": "series of questions to assess health beliefs about physical exercise", "required": true, "type": "questionnaire"},
+      "answer_type": {"description": "type of answer required for each question (e.g. Likert scale, multiple choice, open-ended)", "required": true, "type": "options", "options": [
+        {"value": "likert_scale", "label": "Likert Scale"},
+        {"value": "multiple_choice", "label": "Multiple Choice"},
+        {"value": "open_ended", "label": "Open-Ended"}
+      ]},
+      "scoring": {"description": "system to score the individual's health beliefs assessment", "required": true, "type": "scoring_system"}
+    }
+  }
+}

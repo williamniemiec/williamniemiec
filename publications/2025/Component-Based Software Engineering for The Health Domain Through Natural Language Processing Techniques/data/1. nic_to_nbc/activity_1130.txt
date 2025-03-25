@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "Environment Assessment": {
+    "environment type": "",
+    "observation requirements": ""
+  },
+  "Least Restrictive Environment": {
+    "environment options": "",
+    "restriction level": ""
+  },
+  "Patient Placement": {
+    "placement decision": "",
+    "placement justification": ""
+  },
+  "Observation Plan": {
+    "observation schedule": "",
+    "observation method": ""
+  },
+  "Patient Monitoring": {
+    "monitoring frequency": "",
+    "monitoring method": ""
+  }
+}

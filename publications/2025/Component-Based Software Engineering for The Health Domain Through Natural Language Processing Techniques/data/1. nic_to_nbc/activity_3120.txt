@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "FAQs": {
+    "Parameters": {
+      "Question": {"Type": "text"},
+      "Answer": {"Type": "text or multimedia content (e.g. images, videos)"},
+      "Category": {"Type": "text or selection from a list of categories"}
+    }
+  },
+  "Knowledge Base": {
+    "Parameters": {
+      "Article": {"Type": "text or HTML content"},
+      "Search": {"Type": "text input"}
+    }
+  }
+}

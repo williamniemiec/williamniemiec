@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Event Reporter": {
+    "Parameters": {
+      "Event Type": {"Type": "options"},
+      "Agency Policy": {"Type": "text"},
+      "Reporting Criteria": {"Type": "list of reporting criteria"},
+      "Reporting Form": {"Type": "form"},
+      "Frequency": {"Type": "options"},
+      "Deadline Date": {"Type": "datetime"}
+    }
+  }
+}

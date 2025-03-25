@@ -1,0 +1,31 @@
+Here is the output in JSON format:
+
+
+{
+  "Amnioinfusion Equipment Preparation": {
+    "Equipment List": {
+      "Description": "List of equipment required for amnioinfusion",
+      "Required": true,
+      "Type": "unordered list",
+      "Unordered list": "List of text items (e.g., amnioinfusion catheter, saline solution, infusion pump)"
+    },
+    "Preparation Steps": {
+      "Description": "Steps to prepare the equipment",
+      "Required": true,
+      "Type": "ordered list",
+      "Ordered list": "List of text items with step-by-step instructions"
+    },
+    "Verification": {
+      "Description": "Checkbox to verify that the equipment is prepared",
+      "Required": true,
+      "Type": "checkbox",
+      "Checkbox": "Yes/No"
+    },
+    "Timestamp": {
+      "Description": "Timestamp of when the equipment was prepared",
+      "Required": true,
+      "Type": "datetime",
+      "Datetime": "Date and time of preparation"
+    }
+  }
+}

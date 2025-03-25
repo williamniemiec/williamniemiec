@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Magnesium Excretion Monitor": {
+    "parameters": [
+      {"name": "medications", "description": "Specify any medications that may affect magnesium excretion"},
+      {"name": "medical conditions", "description": "Specify any medical conditions that may affect magnesium excretion"},
+      {"name": "urinary magnesium levels", "description": "Specify the current urinary magnesium levels"},
+      {"name": "risk threshold", "description": "Specify the threshold for increased urinary magnesium excretion"}
+    ]
+  }
+}

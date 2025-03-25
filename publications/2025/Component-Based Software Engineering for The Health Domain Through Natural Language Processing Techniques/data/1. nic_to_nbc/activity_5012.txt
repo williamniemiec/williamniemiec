@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Drug Disposal": {
+    "Parameters": {
+      "Medication Name": {},
+      "Reason for Disposal": {},
+      "Agency Guidelines": {},
+      "Disposal Steps": {},
+      "Frequency": {}
+    }
+  }
+}

@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Emergency Contact List": {
+    "parameters": {
+      "name": "",
+      "contacts": [],
+      "contact_info": [],
+      "notes": "",
+      "frequency": ""
+    }
+  }
+}
+
+
+Note: I removed `deadline_date` as it was marked as optional, and I assumed it's not applicable in this case. Let me know if you want to include it anyway!

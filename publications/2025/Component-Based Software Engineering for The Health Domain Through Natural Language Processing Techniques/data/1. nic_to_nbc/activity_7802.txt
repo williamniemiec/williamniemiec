@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Agency Facilities Guide": {
+    "Parameters": {
+      "Title": {"Type": "text"},
+      "Content": {"Type": "text or HTML"},
+      "Pages": {"Type": "list of HTML texts", "Optional": true},
+      "Video": {"Type": "video", "Optional": true}
+    }
+  }
+}

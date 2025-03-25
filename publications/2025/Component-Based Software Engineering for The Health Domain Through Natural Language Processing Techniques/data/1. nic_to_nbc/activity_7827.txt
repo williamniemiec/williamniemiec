@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Bladder Emptying Reminder": {
+    "parameters": [
+      {"Name": {"type": "text"}},
+      {"Frequency": {"type": "options", "options": ["Every 2 hours", "Every 3 hours", "Every 4 hours", "Custom"]}},
+      {"Reminder Time": {"type": "time"}},
+      {"Reminder Message": {"type": "text"}},
+      {"Start Date": {"type": "date"}},
+      {"End Date": {"type": "date"}}
+    ]
+  }
+}
+
+
+Let me know if this meets your requirements!

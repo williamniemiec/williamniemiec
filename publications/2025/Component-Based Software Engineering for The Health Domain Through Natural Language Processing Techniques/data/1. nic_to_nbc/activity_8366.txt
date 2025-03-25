@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+    "Risk Assessment": {
+        "parameters": {
+            "Risk Factors": {"type": "list of text options"},
+            "Assessment Questions": {"type": "list of questions with answer options"},
+            "Priority Ranking": {"type": "list of risk factors with ranking options"},
+            "Action Plan": {"type": "list of text fields for each risk factor"}
+        }
+    }
+}
+
+
+Note: I removed the `Collaboration` parameter as it doesn't seem to be a specific parameter specification, but rather a description of how the module can facilitate collaboration. If you want to include it, let me know!

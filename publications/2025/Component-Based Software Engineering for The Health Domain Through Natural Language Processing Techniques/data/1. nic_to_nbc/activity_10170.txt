@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Hallucination Monitoring": {
+    "parameters": {
+      "Name": {"type": "text"},
+      "Description": {"type": "text"},
+      "Frequency": {"type": "options", "values": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"type": "datetime"},
+      "Hallucination Content": {"type": "text"},
+      "Violence/Self-Harm": {"type": "options", "values": ["yes", "no", "unsure"]}
+    }
+  }
+}

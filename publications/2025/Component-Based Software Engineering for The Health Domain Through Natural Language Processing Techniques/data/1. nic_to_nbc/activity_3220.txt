@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "guide": {
+    "parameters": [
+      {"name": "name", "description": "task title"},
+      {"name": "pages", "description": "list of pages"},
+      {"name": "trigger", "description": "specify when to introduce the cup"}
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "No-code Element Name": "Resource",
+  "Parameters": {
+    "Title": {"Type": "text"},
+    "Content": {"Type": ["file", "html"]},
+    "Description": {"Type": "text"},
+    "Category": {"Type": "options"}
+  }
+}

@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Feeding Tip": {
+    "Title": {"Type": "text"},
+    "Content": {"Type": "text or html"},
+    "Image": {"Type": "image"},
+    "Reason": {"Type": "text"},
+    "Additional Tips": {"Type": "text"}
+  }
+}

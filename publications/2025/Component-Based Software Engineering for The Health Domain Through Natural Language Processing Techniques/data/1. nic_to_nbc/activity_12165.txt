@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+    "Device Handling": {
+        "Name": {"Type": "text"},
+        "Device Type": {"Type": "text or options"},
+        "Handling Instructions": {"Type": "text or multimedia"},
+        "Occlusion Warning": {"Type": "text or alert"},
+        "Change Procedure": {"Type": "text or multimedia"}
+    }
+}

@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+  "Plan Revisions": {
+    "parameters": {
+      "name": {"type": "text"},
+      "revision_type": {"type": "options"},
+      "revision_details": {"type": "text or object"}
+    }
+  },
+  "Goal Adjustment": {
+    "parameters": {
+      "name": {"type": "text"},
+      "goal_id": {"type": "integer"},
+      "new_goal": {"type": "object"}
+    }
+  },
+  "Task Modification": {
+    "parameters": {
+      "name": {"type": "text"},
+      "task_id": {"type": "integer"},
+      "new_task": {"type": "object"}
+    }
+  }
+}

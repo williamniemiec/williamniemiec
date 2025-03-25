@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Cue Observation": {
+    "parameters": {
+      "Cue types": ["Verbal cues (e.g. \"ouch\", \"ahh\")", "Postural cues (e.g. wincing, tensing)"],
+      "Observation techniques": ["Active listening", "Visual observation"],
+      "Cue interpretation": ["Identifying the location of the cue (e.g. \"the patient winced when I pressed on the LI 4 point\")", "Assessing the intensity of the cue (e.g. \"the patient's verbal cue was loud and urgent\")"]
+    }
+  },
+  "Cue Detection Algorithm": {
+    "parameters": {
+      "Cue detection models": ["Natural language processing (NLP) models for verbal cues", "Computer vision models for postural cues"],
+      "Cue analysis techniques": ["Sentiment analysis for verbal cues", "Pose estimation for postural cues"],
+      "Output": ["A report of the detected cues and their locations", "A visualization of the cue data (e.g. a heatmap of the patient's responses)"]
+    }
+  }
+}

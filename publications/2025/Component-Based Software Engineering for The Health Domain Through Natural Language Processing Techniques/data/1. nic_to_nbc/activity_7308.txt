@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "Health Education": {
+    "parameters": [
+      {
+        "name": "Educational content",
+        "description": "list of educational materials"
+      },
+      {
+        "name": "Key points",
+        "description": "list of key points to highlight"
+      },
+      {
+        "name": "Frequency",
+        "description": "specify how often the educational content should be reviewed"
+      },
+      {
+        "name": "Deadline date",
+        "description": "specify the due date for reviewing the educational content"
+      }
+    ]
+  }
+}

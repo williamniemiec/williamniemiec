@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Familiarity Profile": {
+    "Parameters": {
+      "Familiar People": {"Type": "text"},
+      "Familiar Places": {"Type": "text"},
+      "Familiar Situations": {"Type": "text"},
+      "Request for Familiar Person": {"Type": "text"},
+      "Request for Familiar Item": {"Type": "text"}
+    }
+  }
+}
+
+
+I removed all the unnecessary text and only kept the `{{ NO-CODE ELEMENT NAME }}` and `{{ PARAMETER ESPECIFICATIONS }}`. I also reformatted the output to be in a JSON format. Let me know if you have any further requests!

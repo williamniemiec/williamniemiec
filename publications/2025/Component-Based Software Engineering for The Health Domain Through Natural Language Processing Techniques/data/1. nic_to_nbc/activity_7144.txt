@@ -1,0 +1,9 @@
+Since there is no no-code element specified in the input text, the output would be an empty JSON object:
+
+{}
+
+If you want to handle "not applicable" cases explicitly, you could return a JSON object with a "no_code_element" property set to null or an empty string:
+
+{
+  "no_code_element": ""
+}

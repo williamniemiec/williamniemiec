@@ -1,0 +1,34 @@
+Here is the output JSON:
+
+
+{
+    "name": "neutrality maintenance",
+    "parameters": [
+        {
+            "name": "emotional awareness",
+            "type": "text"
+        },
+        {
+            "name": "impartial language",
+            "type": "text"
+        },
+        {
+            "name": "avoidance of bias",
+            "type": "boolean"
+        },
+        {
+            "name": "self-reflection",
+            "type": "boolean"
+        },
+        {
+            "name": "frequency",
+            "type": "options",
+            "options": [
+                { value: "daily" },
+                { value: "onlyOnce" },
+                { value: "everyHours" },
+                { value: "everyDays" }
+            ]
+        }
+    ]
+}

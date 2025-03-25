@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Anesthesia Administration": {
+    "Parameters": {
+      "Anesthesia Type": {"Type": "options"},
+      "Anesthesia Agent": {"Type": "text"},
+      "Administration Method": {"Type": "text"},
+      "Dosage": {"Type": "text"},
+      "Administration Site": {"Type": "text"},
+      "Precautions": {"Type": "text"}
+    }
+  }
+}

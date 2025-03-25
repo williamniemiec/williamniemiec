@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Nutrition Plan": {
+    "Fluid Intake": {"type": "options", "options": ["Small amounts frequently", "Large amounts occasionally", "As needed"]},
+    "Food Recommendations": {"type": "unordered list", "example": ["Nuts and seeds", "Dried fruits", "Avocado", "Full-fat dairy products"]},
+    "Meal Frequency": {"type": "options", "options": ["Every 2 hours", "Every 3 hours", "Every 4 hours", "As needed"]},
+    "Calorie Goals": {"type": "number", "example": "2000 calories/day"},
+    "Resources": {"type": "link or PDF"}
+  }
+}
+
+
+Let me know if you need anything else!

@@ -1,0 +1,10 @@
+{
+  "name": "Task Specification and Deadline Management",
+  "description": "Helps users manage tasks by specifying values, deadlines, and due dates. Supports content-related tasks and ensures clarity regarding task requirements, with particular emphasis on setting deadlines and tracking progress over specified days.",
+  "type": "periodic",
+  "input": ["Task specifications", "Deadline dates", "Task content", "Values associated with tasks", "Task days and schedule"],
+  "output": ["Task status updates", "Deadline reminders", "Task completion report"],
+  "preconditions": ["User has tasks that require deadlines and clear specifications"],
+  "postconditions": ["Tasks are tracked and deadlines are met with content-specific guidelines"],
+  "dependencies": ["Task management platform", "Deadline reminder system", "Content management tools"]
+}

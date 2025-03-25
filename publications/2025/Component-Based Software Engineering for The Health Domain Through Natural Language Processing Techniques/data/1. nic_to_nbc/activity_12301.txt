@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Kicking Exercise": {
+    "Exercise Name": {"type": "text", "required": true},
+    "Illustrated Guide": {"type": "illustrated guide", "required": true},
+    "Step-by-Step Instructions": {"type": "text", "required": true},
+    "Frequency and Duration": {"type": "text", "required": true}
+  }
+}
+
+
+I removed the non-required parameters (`Tips and Precautions` and `Tracking`) as per your request. Let me know if you need anything else!

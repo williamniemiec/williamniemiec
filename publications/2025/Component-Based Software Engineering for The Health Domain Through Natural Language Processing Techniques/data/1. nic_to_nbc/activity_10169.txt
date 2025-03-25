@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Infant Positioning": {
+    "Parameters": {
+      "Positioning Instructions": {
+        "Type": ["text", "multimedia content"]
+      },
+      "Correct Position Image": {
+        "Type": ["image", "multimedia content"]
+      },
+      "Tips and Reminders": {
+        "Type": ["text", "multimedia content"]
+      }
+    }
+  }
+}

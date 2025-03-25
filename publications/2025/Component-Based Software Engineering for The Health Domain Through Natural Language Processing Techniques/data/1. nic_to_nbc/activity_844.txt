@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Education": {
+    "Name": {"type": "text"},
+    "Surgical Options": {"type": "options"},
+    "Fertility Impact": {"type": "interactive guide with text and images"},
+    "Conservative Options": {"type": "options"},
+    "Benefits": {"type": "interactive guide with text and images"},
+    "Resources": {"type": "links or attachments"}
+  }
+}

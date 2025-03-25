@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Solution Selection": {
+    "Evaluated Solutions": {},
+    "Selection Criteria": {},
+    "Selected Solutions": {},
+    "Rationale": {},
+    "Frequency": {},
+    "Deadline Date": {}
+  }
+}

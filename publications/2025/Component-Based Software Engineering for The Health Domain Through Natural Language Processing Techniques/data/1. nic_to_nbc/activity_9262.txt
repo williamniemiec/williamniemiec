@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Preapproval Information Sharing": {
+    "parameters": {
+      "Preapproval Information": {},
+      "Department Information": {},
+      "Sharing Method": {},
+      "Sharing Date": {},
+      "Verification Status": {}
+    }
+  }
+}

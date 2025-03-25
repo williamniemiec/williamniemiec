@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "normalization guidance",
+    "parameters": [
+        {
+            "name": "guidance_type"
+        },
+        {
+            "name": "normalization_techniques"
+        },
+        {
+            "name": "frequency"
+        },
+        {
+            "name": "deadline_date"
+        },
+        {
+            "name": "support_needed"
+        },
+        {
+            "name": "goal"
+        }
+    ]
+}
+
+Let me know if this is what you were expecting!

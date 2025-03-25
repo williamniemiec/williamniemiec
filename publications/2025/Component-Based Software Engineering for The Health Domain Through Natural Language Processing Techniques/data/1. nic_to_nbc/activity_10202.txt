@@ -1,0 +1,29 @@
+Here is the output in JSON format:
+
+{
+  "parameters": [
+    {
+      "name": "name",
+      "type": "text"
+    },
+    {
+      "name": "content",
+      "type": "text"
+    },
+    {
+      "name": "image",
+      "type": "image"
+    },
+    {
+      "name": "location",
+      "type": "text"
+    },
+    {
+      "name": "frequency",
+      "type": "options"
+    }
+  ],
+  "no-code element name": "Preparation"
+}
+
+Note that I removed the `description` and `required` fields as they were not present in the original format, and also removed the `options` array from the `frequency` parameter as it was not applicable. Let me know if you need any further modifications!

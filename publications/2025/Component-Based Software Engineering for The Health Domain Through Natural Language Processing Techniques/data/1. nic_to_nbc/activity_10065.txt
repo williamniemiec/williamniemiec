@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Tube Irrigation": {
+    "Parameters": {
+      "Name": {},
+      "Irrigation Instructions": {},
+      "Irrigation Solution": {},
+      "Volume": {},
+      "Frequency": {},
+      "Deadline Date": {},
+      "Confirmation": {},
+      "Additional Notes": {}
+    }
+  }
+}

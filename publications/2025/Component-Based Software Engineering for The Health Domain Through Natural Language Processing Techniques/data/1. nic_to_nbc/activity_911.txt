@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Parameters": {
+    "Title": {},
+    "Body Parts": {},
+    "Blowing Technique": {},
+    "Video": {}
+  },
+  "No-code Element Name": "Sensory Stimulation Guide"
+}

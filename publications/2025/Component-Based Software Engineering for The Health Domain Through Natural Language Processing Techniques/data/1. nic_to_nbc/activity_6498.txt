@@ -1,0 +1,45 @@
+Here is the output in JSON format:
+
+
+{
+  "Quiz": {
+    "Questions": {
+      "Type": "list of objects",
+      "Properties": {
+        "Question": {"Type": "text"},
+        "Options": {
+          "Type": "list of objects",
+          "Properties": {
+            "Label": {"Type": "text"},
+            "Value": {"Type": "boolean"}
+          }
+        }
+      }
+    },
+    "Scoring": {
+      "Type": "object",
+      "Properties": {
+        "Correct": {"Type": "number"},
+        "Incorrect": {"Type": "number"}
+      }
+    }
+  },
+  "Survey": {
+    "Questions": {
+      "Type": "list of objects",
+      "Properties": {
+        "Question": {"Type": "text"},
+        "Scale": {
+          "Type": "object",
+          "Properties": {
+            "Labels": {"Type": "list of text"},
+            "Values": {"Type": "list of numbers"}
+          }
+        }
+      }
+    }
+  }
+}
+
+
+Let me know if you need any further assistance!

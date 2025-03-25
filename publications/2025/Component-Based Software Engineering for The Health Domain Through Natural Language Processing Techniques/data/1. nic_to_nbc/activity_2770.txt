@@ -1,0 +1,35 @@
+Here is the output in JSON format:
+
+
+{
+  "Financial Clearance": {
+    "Payer Information": {
+      "Type": "form",
+      "Fields": [
+        { "name": "payer_name", "label": "Payer Name", "type": "text" },
+        { "name": "policy_number", "label": "Policy Number", "type": "text" }
+      ]
+    },
+    "Treatment Information": {
+      "Type": "form",
+      "Fields": [
+        { "name": "treatment_name", "label": "Treatment Name", "type": "text" },
+        { "name": "treatment_code", "label": "Treatment Code", "type": "text" }
+      ]
+    },
+    "Clearance Status": {
+      "Type": "options",
+      "Options": [
+        { "value": "approved", "label": "Approved" },
+        { "value": "denied", "label": "Denied" },
+        { "value": "pending", "label": "Pending" }
+      ]
+    },
+    "Clearance Date": {
+      "Type": "datetime"
+    },
+    "Notes": {
+      "Type": "text"
+    }
+  }
+}

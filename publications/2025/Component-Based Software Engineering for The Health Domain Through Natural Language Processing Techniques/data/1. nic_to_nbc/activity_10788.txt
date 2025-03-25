@@ -1,0 +1,13 @@
+
+
+
+{
+  "Expiration Check": {
+    "Item": {"type": "text"},
+    "Expiration Date": {"type": "date"},
+    "Check Frequency": {"options": ["daily", "weekly", "monthly", "quarterly"]},
+    "Notification": {"type": "boolean"},
+    "Notification Threshold": {"type": "number"},
+    "Action": {"type": "options"}
+  }
+}

@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+{
+  "Audio Recording": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Prompt": {"Type": "text"},
+      "Frequency": {"Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"Type": "datetime"}
+    }
+  }
+}

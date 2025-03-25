@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Neurological Manifestation Monitoring": {
+    "Manifestations to Monitor": ["muscle weakness", "altered level of consciousness", "drowsiness", "apathy", "lethargy", "confusion", "depression", "other"],
+    "Monitoring Frequency": ["daily", "every 2 days", "weekly", "other"],
+    "Assessment Tools": ["Glasgow Coma Scale", "Mini-Mental State Examination", "other"],
+    "Additional Instructions": ""
+  }
+}

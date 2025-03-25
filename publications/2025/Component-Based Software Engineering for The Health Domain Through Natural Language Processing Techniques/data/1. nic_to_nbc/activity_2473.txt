@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Meal Planning Education": {
+    "parameters": {
+      "Meal Planning Principles": {},
+      "Meal Planning Strategies": {},
+      "Recipe Suggestions": {},
+      "Grocery Shopping Tips": {},
+      "Meal Planning Resources": {},
+      "Frequency": {
+        "type": "options",
+        "options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+      },
+      "Deadline Date": {
+        "type": "datetime"
+      }
+    }
+  }
+}

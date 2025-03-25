@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Monitoring": {
+    "Medication Name": {"type": "text"},
+    "Therapeutic Effects": {"type": "list of effects"},
+    "Adverse Effects": {"type": "list of effects"},
+    "Monitoring Schedule": {"type": "schedule"},
+    "Tracking Questions": {"type": "list of questions"},
+    "Alerts and Notifications": {"type": "alert system"}
+  }
+}

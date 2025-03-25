@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Guided Hand Placements": {
+    "hand_placement_sequence": {
+      "type": "ordered list of hand placement locations"
+    },
+    "hand_placement_instructions": {
+      "type": "text or multimedia"
+    },
+    "duration_per_placement": {
+      "type": "time interval"
+    },
+    "transition_instructions": {
+      "type": "text or multimedia"
+    }
+  }
+}

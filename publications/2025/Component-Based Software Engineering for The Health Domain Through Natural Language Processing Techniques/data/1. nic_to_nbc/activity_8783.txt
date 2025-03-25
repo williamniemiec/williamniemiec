@@ -1,0 +1,36 @@
+Here is the output in JSON format:
+
+
+[
+    {
+        "name": "Compression Therapy Modality Selection",
+        "parameters": [
+            {
+                "name": "compression_therapy_modality",
+                "description": "Which compression therapy modality do you need?",
+                "required": true,
+                "type": "options",
+                "options": [
+                    { "value": "short-stretch", "label": "Short-stretch bandage" },
+                    { "value": "long-stretch", "label": "Long-stretch bandage" }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Compression Therapy Application",
+        "parameters": [
+            {
+                "name": "compression_therapy_application_steps",
+                "description": "What are the steps to follow for applying the compression therapy modality?",
+                "required": true,
+                "type": "list",
+                "value": [
+                    "Wrap the bandage around your leg, starting from the ankle and moving up towards the knee.",
+                    "Make sure the bandage is not too tight or too loose.",
+                    "Check the bandage regularly to ensure it is not causing any discomfort or skin irritation."
+                ]
+            }
+        ]
+    }
+]

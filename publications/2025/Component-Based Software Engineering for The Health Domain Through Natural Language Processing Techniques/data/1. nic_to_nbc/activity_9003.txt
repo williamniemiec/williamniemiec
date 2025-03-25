@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Conversation Prompt": {
+    "Parameters": {
+      "Prompt": {"Type": "text"},
+      "Response Type": {"Type": "options", "Options": ["text", "audio", "video"]},
+      "Frequency": {"Type": "options", "Options": ["daily", "every other day", "3 times a week", "etc."]},
+      // removed Deadline Date as it's not applicable
+    }
+  }
+}

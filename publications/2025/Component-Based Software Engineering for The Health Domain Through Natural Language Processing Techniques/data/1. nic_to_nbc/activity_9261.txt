@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+  "Event-Based Scale": {
+    "Parameters": {
+      "Goal": {"Type": "text"},
+      "Events": {"Type": "list of objects", "Properties": {
+        "Label": {"Type": "text"},
+        "Description": {"Type": "text"},
+        "Level": {"Type": "object", "Properties": {
+          "Label": {"Type": "text"},
+          "Value": {"Type": "number"}
+        }}
+      }},
+      "Current Event": {"Type": "object", "Properties": {
+        "Label": {"Type": "text"},
+        "Description": {"Type": "text"},
+        "Level": {"Type": "object", "Properties": {
+          "Label": {"Type": "text"},
+          "Value": {"Type": "number"}
+        }}
+      }}
+    }
+  }
+}

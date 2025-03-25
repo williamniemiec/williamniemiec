@@ -1,0 +1,10 @@
+{
+  "name": "Skin Inspection and Integrity Monitoring",
+  "description": "Monitors and inspects skin condition for signs of breakdown, abrasion, or damage, using photos and camera tools to track integrity and detect areas needing attention.",
+  "type": "periodic",
+  "input": ["Skin condition", "Photo evidence", "Inspection areas", "Abrasion details"],
+  "output": ["Skin integrity report", "Inspection findings", "Photo documentation"],
+  "preconditions": ["Skin inspection is scheduled or required"],
+  "postconditions": ["Skin condition is documented, and areas of concern are identified for follow-up"],
+  "dependencies": ["Camera tools", "Skin monitoring system", "Medical inspection guidelines"]
+}

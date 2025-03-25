@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Procedure/Treatment Details": {
+    "parameters": {
+      "procedure_name": {"type": "text"},
+      "date": {"type": "date"},
+      "time": {"type": "time"},
+      "location": {"type": "text"},
+      "additional_info": {"type": "text or HTML"},
+      "significant_others": {"type": "list of objects", "objects": {
+        "name": {"type": "text"},
+        "relationship": {"type": "text"}
+      }},
+      "notes": {"type": "text"}
+    }
+  }
+}

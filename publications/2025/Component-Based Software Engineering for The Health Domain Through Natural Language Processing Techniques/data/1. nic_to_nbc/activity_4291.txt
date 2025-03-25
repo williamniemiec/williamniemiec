@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Sock Check": {
+    "Sock Type": {},
+    "Sock Material": {},
+    "Sock Fit": {},
+    "Frequency": {}
+  }
+}

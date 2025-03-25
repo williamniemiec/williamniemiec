@@ -1,0 +1,10 @@
+Here is the output in JSON format:
+
+
+{
+  "Education": {
+    "Content": {"type": "text or html"},
+    "Format": {"type": "options", "options": ["video", "image", "text"]},
+    "Additional Resources": {"type": "list of URLs or file attachments"}
+  }
+}

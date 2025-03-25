@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Next Interaction Scheduling": {
+    "Parameters": {
+      "Meeting Type": {"Type": "text"},
+      "Next Interaction Date": {"Type": "date"},
+      "Next Interaction Time": {"Type": "time"},
+      "Interaction Method": {"Type": "options", "Options": [
+        {"value": "inPerson", "label": "In-person meeting"},
+        {"value": "videoConference", "label": "Video conference"},
+        {"value": "phoneCall", "label": "Phone call"}
+      ]},
+      "Reminders": {"Type": "boolean"},
+      "Notes": {"Type": "text"}
+    }
+  }
+}

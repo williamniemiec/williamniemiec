@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Body Feature Annotation": {
+    "Parameters": {
+      "Body Diagram": {},
+      "Features": {},
+      "Description": {},
+      "Location": {}
+    }
+  }
+}

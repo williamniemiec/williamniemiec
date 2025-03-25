@@ -1,0 +1,10 @@
+{
+  "name": "Staff Roles and Job Responsibilities",
+  "description": "Covers the management and organization of staff roles, job responsibilities, and orientations. Aims to improve communication and consensus-building within teams through introductions and meetings.",
+  "type": "non-periodic",
+  "input": ["Staff roles", "Job responsibilities", "Consensus building", "Team meetings", "Staff orientation"],
+  "output": ["Staff role summary", "Responsibility allocation", "Meeting feedback"],
+  "preconditions": ["User is organizing or managing staff roles and responsibilities"],
+  "postconditions": ["Clear understanding of job roles and responsibilities within the team"],
+  "dependencies": ["Staff management platform", "Job responsibility tracking", "Meeting management tools"]
+}

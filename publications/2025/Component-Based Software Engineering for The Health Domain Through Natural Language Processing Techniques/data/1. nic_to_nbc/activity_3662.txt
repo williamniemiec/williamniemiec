@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Empowerment Plan": {
+    "parameters": {
+      "Goal": {"type": "text"},
+      "Steps": {"type": "list of text"},
+      "Resources": {"type": "list of links or text"},
+      "Check-in": {"type": "datetime"},
+      "Reflection": {"type": "text"}
+    }
+  }
+}

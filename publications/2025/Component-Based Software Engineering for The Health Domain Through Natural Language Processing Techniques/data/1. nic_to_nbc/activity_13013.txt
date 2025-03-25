@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+  "Skin Breakdown Education": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Content": {"Type": "text or multimedia (e.g., images, videos)"},
+      "Questions": {"Type": "list of questions with answer options (e.g., multiple choice, true/false)"}
+    }
+  },
+  "Skin Breakdown Self-Assessment": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Questions": {"Type": "list of questions with answer options (e.g., rating scales, multiple choice)"},
+      "Frequency": {"Type": "options (daily, onlyOnce, everyHours, everyDays)"}
+    }
+  }
+}
+
+
+Let me know if this is what you were expecting!

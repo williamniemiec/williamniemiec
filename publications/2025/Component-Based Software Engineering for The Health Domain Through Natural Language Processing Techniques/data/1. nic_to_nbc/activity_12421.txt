@@ -1,0 +1,29 @@
+Here is the output in JSON format:
+
+
+{
+  "Praise and Encouragement": {
+    "parameters": [
+      {
+        "name": "name",
+        "description": "title of the praise and encouragement"
+      },
+      {
+        "name": "praise_messages",
+        "description": "list of praise messages for patients' efforts to express their feelings and ideas"
+      },
+      {
+        "name": "encouragement_tips",
+        "description": "list of tips to encourage patients to continue expressing their feelings and ideas"
+      },
+      {
+        "name": "frequency",
+        "description": "specify how often the patient should receive praise and encouragement"
+      },
+      {
+        "name": "deadline_date",
+        "description": "specify the due date for receiving praise and encouragement"
+      }
+    ]
+  }
+}

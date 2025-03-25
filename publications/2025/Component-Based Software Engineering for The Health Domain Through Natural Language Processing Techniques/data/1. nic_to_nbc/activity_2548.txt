@@ -1,0 +1,32 @@
+Here is the output in JSON format:
+
+
+{
+  "Treatment Plan": {
+    "Parameters": {
+      "Treatment Type": {
+        "Type": "options",
+        "Options": ["medical", "counseling", "therapy", "education", "etc."]
+      },
+      "Treatment Schedule": {
+        "Type": "schedule"
+      },
+      "Treatment Goals": {
+        "Type": "text"
+      },
+      "Follow-up Care": {
+        "Type": "options",
+        "Options": ["phone calls", "video conferencing", "in-person visits", "etc."]
+      },
+      "Care Provider": {
+        "Type": "text"
+      },
+      "Reminders": {
+        "Type": "boolean"
+      }
+    }
+  }
+}
+
+
+Let me know if you'd like me to make any adjustments!

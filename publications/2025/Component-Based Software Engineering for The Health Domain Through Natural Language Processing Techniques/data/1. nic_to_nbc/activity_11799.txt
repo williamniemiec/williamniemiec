@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Catheter Site Monitoring": {
+    "parameters": {
+      "catheter_site_inspection": {"type": "list of options"},
+      "inspection_interval": {"type": "options"},
+      "notification_criteria": {"type": "list of options"},
+      "notification_method": {"type": "options"},
+      "agency_protocol": {"type": "attachment or link"}
+    }
+  }
+}
+
+
+Let me know if you need any further assistance!

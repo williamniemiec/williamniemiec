@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Risk Information": {
+    "parameters": ["risk description", "severity level", "probability of occurrence", "mitigation strategies"]
+  },
+  "Consent Form": {
+    "parameters": ["consent statement", "patient signature", "date and time of consent"]
+  }
+}

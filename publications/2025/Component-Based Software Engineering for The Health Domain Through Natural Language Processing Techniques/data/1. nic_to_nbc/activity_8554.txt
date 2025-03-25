@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Procedure": {
+        "parameters": [
+            {"name": "steps", "description": "list of steps to follow"},
+            {"name": "aseptic_techniques", "description": "list of aseptic techniques to use"},
+            {"name": "frequency", "description": "specify how often the procedure should be repeated"},
+            {"name": "deadline_date", "description": "specify the due date of the procedure"}
+        ]
+    }
+}

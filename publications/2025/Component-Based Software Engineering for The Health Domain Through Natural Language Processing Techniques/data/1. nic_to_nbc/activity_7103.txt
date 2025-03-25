@@ -1,0 +1,37 @@
+Here is the output in JSON format:
+
+
+{
+  "Mastectomy Scar Assessment": {
+    "parameters": {
+      "name": "",
+      "content": "",
+      "description": "",
+      "questions": [
+        {
+          "label": "",
+          "type": "",
+          "options": []
+        }
+      ],
+      "frequency": "",
+      "deadline_date": ""
+    }
+  },
+  "Question": {
+    "parameters": {
+      "name": "",
+      "answer type": "",
+      "frequency": "",
+      "deadline_date": ""
+    }
+  },
+  "Task": {
+    "parameters": {
+      "name": "",
+      "content": "",
+      "frequency": "",
+      "deadline_date": ""
+    }
+  }
+}

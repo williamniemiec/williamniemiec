@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+[
+    {
+        "name": "Task",
+        "parameters": {
+            "name": "Maintain Traction Position",
+            "content": "Please ensure that your traction is in the correct position and functioning properly.",
+            "frequency": "daily"
+        }
+    },
+    {
+        "name": "Guide",
+        "parameters": {
+            "name": "Maintaining Traction Position",
+            "pages": []
+        }
+    }
+]

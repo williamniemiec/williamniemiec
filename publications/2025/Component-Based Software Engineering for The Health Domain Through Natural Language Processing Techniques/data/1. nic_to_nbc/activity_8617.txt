@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "Referral Tool": {
+    "parameters": [
+      {"name": "Name", "type": "text"},
+      {"name": "Resources", "type": "resource",
+        "resource": [
+          {"Type": "text"},
+          {"Name": "text"},
+          {"Description": "text"},
+          {"Url": "url"}
+        ]
+      },
+      {"name": "Eligibility Criteria", "type": "eligibility-criteria",
+        "eligibility-criteria": [
+          {"Criterion": "text"},
+          {"Threshold": "number"}
+        ]
+      }
+    ]
+  }
+}

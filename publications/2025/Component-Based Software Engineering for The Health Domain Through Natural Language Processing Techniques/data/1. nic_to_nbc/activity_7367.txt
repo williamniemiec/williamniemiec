@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Fluid Intake Tracker": {
+    "parameters": {
+      "Fluid Type": {"type": "options"},
+      "Intake Goal": {"type": "number"},
+      "Current Intake": {"type": "number"},
+      "Frequency": {"type": "options"},
+      "Deadline Date": {"type": "datetime"}
+    }
+  }
+}

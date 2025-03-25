@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Communication Tool": {
+    "Parameters": {
+      "Title": {"Type": "text"},
+      "Conversation Topics": {"Type": "list of conversation topics (e.g., text)"},
+      "Communication Channels": {"Type": "list of communication channels (e.g., text)"},
+      "Role Selection": {"Type": "list of roles (e.g., text)"},
+      "Conversation Guidelines": {"Type": "list of conversation guidelines (e.g., text)"},
+      "Frequency": {"Options": ["daily", "onlyOnce", "everyDays"]},
+      "Deadline Date": {"Type": "datetime"}
+    }
+  }
+}

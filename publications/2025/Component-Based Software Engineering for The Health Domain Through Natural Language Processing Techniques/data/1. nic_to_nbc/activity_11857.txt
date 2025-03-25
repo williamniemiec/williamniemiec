@@ -1,0 +1,32 @@
+Here is the output in JSON format:
+
+
+{
+  "Content Currency": {
+    "parameters": {
+      "Content": {
+        "type": "text or list of texts"
+      },
+      "Update Frequency": {
+        "type": "options (e.g. daily, weekly, monthly, quarterly)"
+      },
+      "Currency Criteria": {
+        "type": "object",
+        "properties": {
+          "Publication Date": {
+            "type": "date"
+          },
+          "Review Date": {
+            "type": "date"
+          },
+          "Expiration Date": {
+            "type": "date"
+          },
+          "Relevance Threshold": {
+            "type": "number (e.g. 0-100)"
+          }
+        }
+      }
+    }
+  }
+}

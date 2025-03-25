@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+  "Endurance Building": {
+    "Activity Options": {"type": "list of text"},
+    "Endurance Levels": {"type": "list of text or numerical values"},
+    "Gradual Progression": {"type": "boolean"},
+    "Goal Setting": {"type": "text"},
+    "Tips": {"type": "list of text or HTML content"}
+  },
+  "Task": {
+    "Name": {"type": "text"},
+    "Content": {"type": "text"},
+    "Frequency": {"options": ["daily", "onlyOnce", "everyHours", "everyDays"]}
+  },
+  "Goal Setting": {
+    "Goal Category": {"type": "text"},
+    "Goal Description": {"type": "text"},
+    "Target Value": {"type": "text or numerical value"}
+  }
+}

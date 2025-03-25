@@ -1,0 +1,29 @@
+Here is the output in JSON format:
+
+
+{
+  "Equipment Calibration": {
+    "parameters": {
+      "name": "Equipment Calibration",
+      "unit": "yes/no or calibrated/not calibrated",
+      "frequency": "options for how often to calibrate equipment (e.g., every time before use, etc.)",
+      "deadline_date": "optional due date for calibrating equipment"
+    }
+  },
+  "Spiral Electrode Use": {
+    "parameters": {
+      "name": "Spiral Electrode Use",
+      "unit": "yes/no or used/not used",
+      "frequency": "options for how often to use spiral electrode (e.g., every time for internal monitoring, etc.)",
+      "deadline_date": "optional due date for using spiral electrode"
+    }
+  },
+  "Intrauterine Pressure Catheter Use": {
+    "parameters": {
+      "name": "Intrauterine Pressure Catheter Use",
+      "unit": "yes/no or used/not used",
+      "frequency": "options for how often to use intrauterine pressure catheter (e.g., every time for internal monitoring, etc.)",
+      "deadline_date": "optional due date for using intrauterine pressure catheter"
+    }
+  }
+}

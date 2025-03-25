@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Event Logger": {
+    "Parameters": {
+      "Event type": [],
+      "Event details": [],
+      "Frequency": []
+    }
+  }
+}

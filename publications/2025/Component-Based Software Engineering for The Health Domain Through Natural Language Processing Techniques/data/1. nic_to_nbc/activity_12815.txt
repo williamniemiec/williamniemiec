@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Vasoactive Medication Administration": {
+    "Medication Type": {"Type": "options", "Options": ["vasodilator", "vasoconstrictor", "other"]},
+    "Medication Name": {"Type": "text"},
+    "Dosage": {"Type": "text"},
+    "Frequency": {"Type": "options", "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"Type": "datetime"},
+    "Monitoring Parameters": {"Type": "options", "Options": ["blood pressure", "heart rate", "other"]}
+  }
+}

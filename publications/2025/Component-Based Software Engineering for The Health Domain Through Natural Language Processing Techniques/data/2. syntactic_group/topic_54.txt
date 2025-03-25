@@ -1,0 +1,10 @@
+{
+  "name": "Mobility Assistance and Device Usage",
+  "description": "Assists with mobility using devices such as wheelchairs, walkers, and canes. Provides support for transfers and helps with positioning, including dangle techniques for better posture and mobility.",
+  "type": "non-periodic",
+  "input": ["Assistive devices (wheelchair, walker, cane)", "Transfer assistance requirements", "Dangle position details", "Mobility needs"],
+  "output": ["Mobility assistance report", "Transfer support log", "Device usage effectiveness"],
+  "preconditions": ["User requires assistance with mobility or device usage"],
+  "postconditions": ["User's mobility and comfort are improved with support and device management"],
+  "dependencies": ["Mobility device tracking system", "Assistive technology platform", "Transfer assistance tools"]
+}

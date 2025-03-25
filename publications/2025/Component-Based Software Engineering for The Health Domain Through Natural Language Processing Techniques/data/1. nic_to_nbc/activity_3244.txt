@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Seizure Precautions Guide": {
+    "Guide Content": {"Type": "book-page", "Book-page": "list of HTML texts, images, and videos"},
+    "Safety Tips": {"Type": "list", "List items": "text, with optional images or icons"},
+    "Emergency Contact": {"Type": "text"},
+    "Seizure Risk Assessment": {"Type": "form", "Fields": "multiple-choice questions or yes/no questions related to seizure risk factors"}
+  }
+}

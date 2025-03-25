@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Care Modification": {
+        "Care Intervention": {"type": "text"},
+        "Cost Effectiveness Analysis": {"type": "text"},
+        "Modification Options": {"type": "unordered list"},
+        "Modification Criteria": {"type": "unordered list"},
+        "Implementation Plan": {"type": "text"},
+        "Monitoring and Evaluation": {"type": "text"}
+    }
+}

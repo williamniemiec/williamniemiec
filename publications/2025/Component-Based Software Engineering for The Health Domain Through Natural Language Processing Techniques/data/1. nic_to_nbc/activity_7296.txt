@@ -1,0 +1,54 @@
+Here is the output in JSON format:
+
+
+{
+  "Barcode Medication Administration": {
+    "Medication Name": {
+      "Description": "Name of the medication to be administered",
+      "Required": true,
+      "Type": "text"
+    },
+    "Barcode Scanner": {
+      "Description": "Barcode scanner device used for medication administration",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "handheldScanner", "label": "Handheld Scanner" },
+        { "value": "stationaryScanner", "label": "Stationary Scanner" },
+        { "value": "other", "label": "Other (please specify)" }
+      ]
+    },
+    "Barcode Type": {
+      "Description": "Type of barcode on the medication packaging",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "UPC", "label": "UPC" },
+        { "value": "EAN", "label": "EAN" },
+        { "value": "Code128", "label": "Code128" },
+        { "value": "other", "label": "Other (please specify)" }
+      ]
+    },
+    "Scanning Steps": {
+      "Description": "Steps to scan the medication barcode",
+      "Required": true,
+      "Type": "guided-procedure",
+      "Steps": [
+        { "step": "Step 1: Scan the medication barcode" },
+        { "step": "Step 2: Verify the medication information" },
+        { "step": "Step 3: Confirm the medication administration" }
+      ]
+    },
+    "Frequency": {
+      "Description": "How often to use barcode assisted medication administration",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "daily", "label": "Daily" },
+        { "value": "weekly", "label": "Weekly" },
+        { "value": "monthly", "label": "Monthly" },
+        { "value": "onlyOnce", "label": "Only once" }
+      ]
+    }
+  }
+}

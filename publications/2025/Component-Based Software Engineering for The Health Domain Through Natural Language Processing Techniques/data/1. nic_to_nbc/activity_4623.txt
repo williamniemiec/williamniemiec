@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Education": {
+    "Parameters": {
+      "Medication List": {"Type": "unordered list", "Options": ["low-dose anticoagulant", "antiplatelet medication", "etc."]},
+      "Why": {"Type": "text"},
+      "Dosage": {"Type": "text"},
+      "Frequency": {"Type": "options", "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Duration": {"Type": "text"},
+      "Interactions": {"Type": "text"},
+      "Side Effects": {"Type": "text"},
+      "Resources": {"Type": "link or text"}
+    }
+  },
+  "Guide": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Pages": {"Type": "book-page", "book-page": "list of HTML texts"},
+      "Medication List": {"Type": "unordered list", "Options": ["low-dose anticoagulant", "antiplatelet medication", "etc."]}
+    }
+  }
+}

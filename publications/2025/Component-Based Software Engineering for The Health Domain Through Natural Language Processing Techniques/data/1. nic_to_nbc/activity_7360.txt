@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+    "Label": {
+        "name": "label title",
+        "content": "label content (e.g., patient\'s name, medical condition, etc.)",
+        "location": "where the label should be placed (e.g., chart, room door, head of bed)",
+        "frequency": "how often the label should be updated (e.g., daily, onlyOnce, etc.)",
+        "deadline_date": "due date for labeling (optional)"
+    }
+}

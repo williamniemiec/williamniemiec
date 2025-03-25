@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+  "ECG Monitoring Guide": {
+    "Parameters": {
+      "Instructions": {"Type": "text"},
+      "Video": {"Type": "video"},
+      "Frequency": {"Type": "options", "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"Type": "datetime"}
+    }
+  },
+  "ECG Data Tracker": {
+    "Parameters": {
+      "ECG Data": {"Type": "number or text"},
+      "Frequency": {"Type": "options", "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"Type": "datetime"}
+    }
+  }
+}

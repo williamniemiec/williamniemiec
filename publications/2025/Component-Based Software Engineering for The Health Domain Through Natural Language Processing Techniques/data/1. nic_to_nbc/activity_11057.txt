@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Breastfeeding Support": {
+    "Parameters": {
+      "Breastfeeding Benefits": {},
+      "Breastfeeding Technique": {},
+      "Common Challenges": {},
+      "Lactation Support": {},
+      "Mother's Goals": {}
+    }
+  }
+}

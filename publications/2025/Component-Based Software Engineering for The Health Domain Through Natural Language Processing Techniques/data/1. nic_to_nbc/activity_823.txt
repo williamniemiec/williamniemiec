@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Assistive Device Recommendation": {
+    "Parameters": {
+      "Transfer Type": {"Type": "options"},
+      "Assistive Device Options": {"Type": "list"},
+      "Device Description": {"Type": "text"},
+      "Device Benefits": {"Type": "text"},
+      "Device Installation": {"Type": "multimedia"},
+      "Device Maintenance": {"Type": "text or multimedia"}
+    }
+  }
+}
+
+
+I removed everything except the `{{ NO-CODE ELEMENT NAME }}` and `{{ PARAMETER ESPECIFICATIONS }}`, and also removed not applicable parameters. Let me know if this is what you were looking for!

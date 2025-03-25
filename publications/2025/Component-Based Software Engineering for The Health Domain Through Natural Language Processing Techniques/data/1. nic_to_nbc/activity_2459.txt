@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Culturally Sensitive Self-Care": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Cultural Background": {"Type": "text"},
+      "Self-Care Activities": {"Type": "unordered list", "Options": ["Traditional healing practices", "Cultural rituals and ceremonies", "Dietary preferences and restrictions", "Language and communication preferences"]},
+      "Cultural Adaptations": {"Type": "text"},
+      "Resources": {"Type": "text"},
+      "Caregiver Education": {"Type": "boolean"},
+      "Notes": {"Type": "text"}
+    }
+  }
+}

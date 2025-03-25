@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Emotional Check-in": {
+    "Parameters": {
+      "Question": {"Type": "text"},
+      "Answer Type": {"Type": "options"},
+      "Emotion Rating": {"Type": "rating scale"},
+      "Free Text Response": {"Type": "text"},
+      "Follow-up Questions": {"Type": "list of text items"}
+    }
+  }
+}

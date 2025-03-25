@@ -1,0 +1,10 @@
+Here is the output in JSON format:
+
+
+{
+  "Fetal Age Estimation": {
+    "Last Menstrual Period": {"Type": "date"},
+    "Prior Ultrasound Dating Reports": {"Type": "file (PDF, image, or text)"},
+    "Obstetrical History": {"Type": "text"}
+  }
+}

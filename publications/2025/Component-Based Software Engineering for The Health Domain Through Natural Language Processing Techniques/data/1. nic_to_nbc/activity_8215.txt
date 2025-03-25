@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Positive Feedback": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Message": {"Type": "text"},
+      "Trigger": {"Type": "options", "Options": ["completion of task", "milestone reached", "daily/weekly/monthly reminder"]},
+      "Tone": {"Type": "options", "Options": ["encouraging", "motivational", "celebratory", "supportive"]}
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Medication",
+  "description": "Details a specific drug prescription and provides periodic instructions on how to use it correctly.",
+  "type": "periodic",
+  "input": ["Medication label", "Dosage details", "Additional notes", "The reason for using the medication"],
+  "output": ["Medication alarm"],
+  "preconditions": ["The name, description, and reason must be a non-empty string. The notes can be an optional string, while the dosage must be a valid dosage format."],
+  "postconditions": ["A notification is delivered to the user"],
+  "dependencies": ["The user device must have compatibility with notifications."]
+}

@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Intuitive Hand Placement Guidance": {
+    "body_map": {},
+    "intuition_prompt": {},
+    "hand_placement_guidance": {},
+    "duration": {}
+  }
+}

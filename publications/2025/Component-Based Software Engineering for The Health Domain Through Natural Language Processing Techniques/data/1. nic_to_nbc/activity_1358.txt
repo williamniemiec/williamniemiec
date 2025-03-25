@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Targeted Content": {
+    "Demographics": {},
+    "Risk Factors": {},
+    "Content": {},
+    "Format": {},
+    "Priority": {}
+  }
+}

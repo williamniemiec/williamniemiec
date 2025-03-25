@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Shivering Tracker": {
+    "Frequency": {"type": "options"},
+    "Shivering Scale": {"type": "options"},
+    "Duration": {"type": "text"}
+  }
+}
+
+
+Note: I removed the `Deadline Date` parameter as it's not applicable to a no-code element, and also removed any other text that was not part of the parameter specifications. Let me know if you need anything else!

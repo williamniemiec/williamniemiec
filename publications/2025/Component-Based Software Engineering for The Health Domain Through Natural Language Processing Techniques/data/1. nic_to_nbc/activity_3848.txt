@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Eye Shielding": {
+    "Parameters": {
+      "Light Type": {
+        "Type": "options"
+      },
+      "Wattage": {
+        "Type": "options"
+      },
+      "Shielding Method": {
+        "Type": "text"
+      },
+      "Reminder": {
+        "Type": "options"
+      }
+    }
+  }
+}

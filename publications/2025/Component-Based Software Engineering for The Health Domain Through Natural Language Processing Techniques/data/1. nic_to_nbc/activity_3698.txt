@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Computer System Orientation": {
+    "Tutorial Steps": {
+      "Description": "List of steps to orient patients to the computer system",
+      "Required": true,
+      "Type": "list-item",
+      "List-item": "list of tutorial step objects, each with a title, description, and screenshot/image"
+    }
+  }
+}
+
+
+I removed all unnecessary text and kept only the `{{ NO-CODE ELEMENT NAME }}` ("Computer System Orientation") and `{{ PARAMETER ESPECIFICATIONS }}` (the parameters "Tutorial Steps" with its details). I also removed the not applicable parameter "Interactive Elements" since it's not required.

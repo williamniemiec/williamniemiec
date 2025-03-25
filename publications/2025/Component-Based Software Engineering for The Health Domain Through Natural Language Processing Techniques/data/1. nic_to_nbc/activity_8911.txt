@@ -1,0 +1,33 @@
+Here is the output in JSON format:
+
+
+{
+  "Survey": {
+    "parameters": {
+      "name": {"type": "text"},
+      "questions": {"type": "list"},
+      "frequency": {"options": ["daily", "weekly", "monthly", "etc."]}
+    }
+  },
+  "Tracking": {
+    "parameters": {
+      "name": {"type": "text"},
+      "type": {"options": ["stress levels", "coping mechanisms", "etc."]},
+      "frequency": {"options": ["daily", "weekly", "monthly", "etc."]}
+    }
+  },
+  "Rating Scale": {
+    "parameters": {
+      "name": {"type": "text"},
+      "scale": {"options": ["1-10 rating scale", "etc."]},
+      "frequency": {"options": ["daily", "weekly", "monthly", "etc."]}
+    }
+  },
+  "Reflection": {
+    "parameters": {
+      "name": {"type": "text"},
+      "prompts": {"type": "list"},
+      "frequency": {"options": ["daily", "weekly", "monthly", "etc."]}
+    }
+  }
+}

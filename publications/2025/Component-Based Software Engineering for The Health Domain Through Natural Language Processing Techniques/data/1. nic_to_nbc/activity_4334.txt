@@ -1,0 +1,50 @@
+Here is the output in JSON format:
+
+
+{
+  "Self-Feeding Guide": {
+    "title": {
+      "Description": "Title of the self-feeding guide",
+      "Required": true,
+      "Type": "text"
+    },
+    "steps": {
+      "Description": "List of steps to allow infant to feed self with a spoon",
+      "Required": true,
+      "Type": "list",
+      "List Items": {
+        "step1": {
+          "Description": "Description of step 1 (e.g. introduce spoon feeding at 6 months)",
+          "Required": true,
+          "Type": "text"
+        },
+        "step2": {
+          "Description": "Description of step 2 (e.g. start with small amounts of food)",
+          "Required": true,
+          "Type": "text"
+        },
+        "step3": {
+          "Description": "Description of step 3 (e.g. gradually increase amount of food)",
+          "Required": true,
+          "Type": "text"
+        }
+      }
+    },
+    "frequency": {
+      "Description": "Specify how often to review the self-feeding guide",
+      "Required": true,
+      "Type": "options",
+      "Options": {
+        "daily": {
+          "Label": "Daily"
+        },
+        "everyDays": {
+          "Label": "Every X days"
+        },
+        "onlyOnce": {
+          "Label": "Only once"
+        }
+      }
+    }
+  }
+}

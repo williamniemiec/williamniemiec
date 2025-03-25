@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Stretching Guide": {
+    "Muscle/Joint": {"type": "text or options"},
+    "Stretching Technique": {"type": "text or options"},
+    "Stretching Duration": {"type": "number or range"},
+    "Hold Time": {"type": "number or range"},
+    "Release Technique": {"type": "text or options"},
+    "Stretching Instructions": {"type": "text or video"}
+  }
+}
+
+
+Let me know if this is what you were expecting!

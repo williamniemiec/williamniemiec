@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Pool Safety Barrier Guide": {
+    "Title": {"type": "text"},
+    "Pool Safety Barrier Tips": {"type": "list", "example": ["Install a fence around the pool or hot tub area", "Use a gate with a self-latching lock", "Install a pool cover or hot tub lid", "Use alarms on doors and windows leading to the pool or hot tub area"]},
+    "Barrier Types": {"type": "list", "example": ["Fences", "Gates", "Pool covers", "Hot tub lids", "Alarms"]},
+    "Images": {"type": "list"},
+    "Frequency": {"type": "options"}
+  }
+}
+
+
+Note: I removed the `Description` and `Content Type` fields as they are not part of the `PARAMETER ESPECIFICATIONS`. Also, I removed the `Here's a no-code element...` introduction and the conclusion paragraph. Let me know if you need anything else!

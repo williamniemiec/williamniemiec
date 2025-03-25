@@ -1,0 +1,43 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Relaxation Technique",
+  "parameters": [
+    {
+      "name": "Technique",
+      "type": "options",
+      "options": [
+        { value: "peaceful images", label: "Peaceful Images" },
+        { value: "pleasant sensations", label: "Pleasant Sensations" },
+        { value: "rhythmic breathing", label: "Rhythmic Breathing" },
+        { value: "progressive muscle relaxation", label: "Progressive Muscle Relaxation" },
+        { value: "guided imagery", label: "Guided Imagery" },
+        { value: "meditation", label: "Meditation" },
+        { value: "yoga", label: "Yoga" }
+      ]
+    },
+    {
+      "name": "Description",
+      "type": "text"
+    },
+    {
+      "name": "Frequency",
+      "type": "options",
+      "options": [
+        { value: "daily", label: "Daily" },
+        { value: "onlyOnce", label: "Only once" },
+        { value: "everyHours", label: "Every x hours" },
+        { value: "everyDays", label: "Every x days" }
+      ]
+    },
+    {
+      "name": "Deadline Date",
+      "type": "datetime"
+    },
+    {
+      "name": "Resources",
+      "type": "link or multimedia content"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+{
+    "name": "Social Support Assessment",
+    "parameters": [
+        {
+            "name": "Assessment Questions",
+            "type": "list of text"
+        },
+        {
+            "name": "Answer Type",
+            "type": "options"
+        },
+        {
+            "name": "Frequency",
+            "type": "options"
+        },
+        {
+            "name": "Deadline Date",
+            "type": "datetime"
+        },
+        {
+            "name": "Social Support Needs",
+            "type": "list of text"
+        }
+    ]
+}

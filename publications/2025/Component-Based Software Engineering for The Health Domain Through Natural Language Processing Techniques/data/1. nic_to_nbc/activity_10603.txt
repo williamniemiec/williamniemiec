@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Consciousness Monitoring": {
+    "Parameters": {
+      "Consciousness Level": {},
+      "Glasgow Coma Scale (GCS)": {},
+      "Pupil Reaction": {},
+      "Respiratory Rate": {}
+    }
+  }
+}

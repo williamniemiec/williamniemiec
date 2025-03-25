@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Survey": {
+    "Parameters": {
+      "Questions": [],
+      "Answer type": ["Boolean (yes/no)", "Text", "Scale (e.g., 1-5)"],
+      "Frequency": ["daily", "onlyOnce", "everyHours", "everyDays"],
+      "Deadline Date": {"Type": "datetime"}
+    }
+  }
+}
+
+
+Let me know if you need any further assistance!

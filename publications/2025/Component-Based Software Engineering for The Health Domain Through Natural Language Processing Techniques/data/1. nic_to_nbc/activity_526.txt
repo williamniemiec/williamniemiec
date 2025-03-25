@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Transport Directions": {
+    "Parameters": {
+      "Transport Type": {"Type": "options"},
+      "Hospital Location": {"Type": "address"},
+      "Directions": {"Type": "list of directions"},
+      "Visual Aids": {"Type": "list of visual aids"}
+    }
+  }
+}
+
+
+Note that I removed the "Output" parameter as it's not applicable (it describes the output of the no-code element, rather than a parameter specification).

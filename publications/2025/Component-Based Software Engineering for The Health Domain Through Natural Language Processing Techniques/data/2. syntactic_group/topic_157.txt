@@ -1,0 +1,10 @@
+{
+  "name": "Toilet Training and Accessibility",
+  "description": "Addresses toilet training and related sensitivities, ensuring accessibility for all individuals. Includes the use of toilet aids like bedpans and commodes, and provides assistance for individuals with disabilities or special needs.",
+  "type": "non-periodic",
+  "input": ["Toilet training", "Accessibility aids", "Sensitivities", "Bedpan and commode use"],
+  "output": ["Toilet training progress report", "Accessibility assessment", "Assistance feedback"],
+  "preconditions": ["User is engaged in toilet training or providing related support"],
+  "postconditions": ["Successful toilet training and accessibility adjustments made"],
+  "dependencies": ["Toilet training resources", "Accessibility tools", "Support systems"]
+}

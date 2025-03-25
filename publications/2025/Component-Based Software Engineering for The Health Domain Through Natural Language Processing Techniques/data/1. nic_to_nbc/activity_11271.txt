@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Learning Objective": {
+    "Statement": {"Type": "text"},
+    "Type": {"Type": "options", "Possible Values": ["knowledge", "skill", "attitude"]},
+    "Cognitive Level": {"Type": "options", "Possible Values": ["remember", "understand", "apply", "analyze", "evaluate", "create"]},
+    "Conditions": {"Type": "text"},
+    "Criteria": {"Type": "text"},
+    "Relationships": {"Type": "list of relationships", "Possible Values": ["prerequisite", "related to", "builds upon"]}
+  }
+}

@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "guide": {
+        "parameters": {
+            "name": {"type": "text"},
+            "pages": {"type": "book-page", "book-page": "list of HTML texts"},
+            "hazards": {"type": "list", "options": ["Keep at least 6 inches away from sources of interference", "Do not leave cell phones in the “on” mode in a shirt pocket over the pacemaker", "Other hazards (to be specified)"]},
+            "precautions": {"type": "list", "options": ["Keep a safe distance from sources of interference", "Turn off cell phones or put them in airplane mode when near the pacemaker", "Other precautions (to be specified)"]}
+        }
+    }
+}

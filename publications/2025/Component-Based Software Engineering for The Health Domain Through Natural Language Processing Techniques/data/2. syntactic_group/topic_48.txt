@@ -1,0 +1,10 @@
+{
+  "name": "Breastfeeding and Lactation Management",
+  "description": "Manages breastfeeding and lactation processes, including milk pumping, feeding schedules, and consulting with specialists for support on lactation issues. Tracks feeding frequency such as every feeding or at-will sessions.",
+  "type": "periodic",
+  "input": ["Breastfeeding schedule", "Milk pumping details", "Lactation consultant feedback", "Feeding frequency (every x feedings, at-will, etc.)"],
+  "output": ["Feeding report", "Milk production tracking", "Consultant recommendations"],
+  "preconditions": ["Mother is breastfeeding or pumping milk for child"],
+  "postconditions": ["Breastfeeding and lactation are monitored, and necessary adjustments are made based on feedback"],
+  "dependencies": ["Breastfeeding tracking system", "Lactation consultant platform", "Pumping schedule management"]
+}

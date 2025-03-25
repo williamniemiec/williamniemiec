@@ -1,0 +1,17 @@
+
+
+
+{
+  "Scavenger Hunt": {
+    "Parameters": {
+      "Name": {},
+      "Items": {
+        "Label": {},
+        "Image": {},
+        "Found": {}
+      },
+      "Frequency": {},
+      "Deadline Date": {}
+    }
+  }
+}

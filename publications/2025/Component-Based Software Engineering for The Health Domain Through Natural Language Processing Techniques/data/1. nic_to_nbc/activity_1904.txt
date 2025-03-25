@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Education Module": {
+    "Name": {"Type": "text"},
+    "Content": {},
+    "Interactive Elements": {},
+    "Personalization": {},
+    "Assessment": {}
+  }
+}

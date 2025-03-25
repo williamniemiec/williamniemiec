@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Creative Expression": {
+    "Parameters": {
+      "Drawing Activity": {"Type": "image"},
+      "Puppetry Scenario": {"Type": ["video", "audio recording"]},
+      "Dramatic Play": {"Type": ["video", "audio recording"]},
+      "Reflection and Interpretation": {"Type": "text"},
+      "Frequency": {"Type": "options", "Options": ["daily", "weekly", "monthly", "onlyOnce"]}
+    }
+  }
+}

@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "No-code Element Name": "Detox Environment Setup",
+  "Parameters": {
+    "Name": {"Type": "text"},
+    "Environmental Factors": {"Type": "list of environmental factors"},
+    "Relaxation Techniques": {"Type": "list of relaxation techniques"},
+    "Comfort Measures": {"Type": "list of comfort measures"},
+    "Staff Training": {"Type": "text"},
+    "Frequency": {"Options": ["daily", "weekly", "monthly", "quarterly"]},
+    "Deadline Date": {"Type": "datetime"}
+  }
+}

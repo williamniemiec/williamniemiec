@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Position Alteration Instruction": {
+    "Name": {"type": "text"},
+    "Interval Duration": {"type": "options"},
+    "Frequency": {"type": "options"},
+    "Deadline Date": {"type": "datetime"},
+    "Additional Instructions": {"type": "text"},
+    "Reminder": {"type": "boolean"}
+  }
+}

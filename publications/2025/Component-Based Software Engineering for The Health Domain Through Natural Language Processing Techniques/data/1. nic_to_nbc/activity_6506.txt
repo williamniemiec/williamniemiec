@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Fetal Image": {
+    "Image": {"Type": "image"},
+    "Description": {"Type": "text"},
+    "Week/Gestation": {"Type": "text"},
+    "Frequency": {"Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"Type": "datetime"}
+  }
+}

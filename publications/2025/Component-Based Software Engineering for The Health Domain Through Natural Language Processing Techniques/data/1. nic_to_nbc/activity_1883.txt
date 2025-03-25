@@ -1,0 +1,29 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Relapse Support",
+  "parameters": [
+    {
+      "name": "reflection_questions",
+      "type": "list of text"
+    },
+    {
+      "name": "identification_strategy",
+      "type": "options",
+      "options": [
+        { value: "self-reflection", label: "Self-reflection" },
+        { value: "journaling", label: "Journaling" },
+        { value: "discussion with a healthcare provider", label: "Discussion with a healthcare provider" }
+      ]
+    },
+    {
+      "name": "goal_setting",
+      "type": "boolean"
+    },
+    {
+      "name": "resource_provision",
+      "type": "boolean"
+    }
+  ]
+}

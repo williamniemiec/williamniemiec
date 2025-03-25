@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Blood Transfusion Monitor": {
+        "Name": {"type": "text"},
+        "Reaction Symptoms": {"type": "unordered list (text)"},
+        "Action if Reaction": {"type": "text"},
+        "Frequency": {"type": "options", "values": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+        "Deadline Date": {"type": "datetime"},
+        "Reaction Status": {"type": "options", "values": ["yes", "no"]}
+    }
+}

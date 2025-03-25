@@ -1,0 +1,12 @@
+
+
+
+{
+  "Acceptance Reflection": {
+    "Reflection Prompt": {"type": "text"},
+    "Emotional State": {"type": "options"},
+    "Acceptance Level": {"type": "options"},
+    "Coping Strategies": {"type": "list of resources"},
+    "Follow-up": {"type": "boolean"}
+  }
+}

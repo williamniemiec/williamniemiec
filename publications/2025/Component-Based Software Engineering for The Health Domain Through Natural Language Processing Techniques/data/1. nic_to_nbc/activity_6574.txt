@@ -1,0 +1,40 @@
+Here is the output in JSON format:
+
+
+{
+  "Transfer Instruction": {
+    "parameters": {
+      "Transfer Type": {
+        "type": "options",
+        "options": [
+          {"value": "slidingBoard", "label": "Sliding board"},
+          {"value": "lift", "label": "Lift"},
+          {"value": "pivot", "label": "Pivot"},
+          {"value": "other", "label": "Other (please specify)"}
+        ]
+      },
+      "Frequency": {
+        "type": "options",
+        "options": [
+          {"value": "daily", "label": "Daily"},
+          {"value": "everyOtherDay", "label": "Every other day"},
+          {"value": "weekly", "label": "Weekly"},
+          {"value": "custom", "label": "Custom (please specify)"}
+        ]
+      },
+      "Deadline Date": {
+        "type": "datetime"
+      },
+      "Instructions": {
+        "type": "text"
+      },
+      "Demonstration": {
+        "type": "boolean",
+        "options": [
+          {"value": true, "label": "Yes"},
+          {"value": false, "label": "No"}
+        ]
+      }
+    }
+  }
+}

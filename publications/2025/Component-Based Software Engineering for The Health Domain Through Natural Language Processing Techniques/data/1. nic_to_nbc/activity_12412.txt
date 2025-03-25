@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+    "Alternative Writing or Reading Method": {
+        "Method": ["Audio recordings", "Braille", "Large print", "Electronic devices (e.g., e-readers, tablets)", "Speech-to-text software", "Text-to-speech software", "Other ( specify )"],
+        "Type": ["Writing", "Reading", "Both"],
+        "Description": "",
+        "Instructions": "",
+        "Resources": ["url", "text"],
+        "Frequency": ["Daily", "Only once", "Every x hours", "Every x days"]
+    }
+}
+
+
+Note: I removed the `Deadline Date` parameter as it has no applicable values.

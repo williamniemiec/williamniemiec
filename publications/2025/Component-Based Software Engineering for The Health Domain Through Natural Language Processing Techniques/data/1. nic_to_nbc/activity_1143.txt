@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Breathing Exercise": {
+    "Parameters": {
+      "Title": {"Type": "text"},
+      "Instructions": {"Type": "text"},
+      "Media": {"Type": "options", "Options": ["video", "audio", "interactive"]},
+      "Frequency": {"Type": "options", "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Duration": {"Type": "number"}
+    }
+  }
+}
+
+
+Note: I removed the `Reminders` parameter as it's a boolean type and not applicable in this context.

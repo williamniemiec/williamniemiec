@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+  "Tone Response": {
+    "Emotion Identification": {
+      "Description": "Identify the emotional tone of the hallucination or delusion (e.g. fear, anxiety, anger)",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "fear", "label": "Fear" },
+        { "value": "anxiety", "label": "Anxiety" },
+        { "value": "anger", "label": "Anger" },
+        { "value": "other", "label": "Other" }
+      ]
+    },
+    "Empathetic Response": {
+      "Description": "Provide an empathetic response to the emotional tone (e.g. \"I can see that you're feeling scared\")",
+      "Required": true,
+      "Type": "text"
+    },
+    "Validation Guidance": {
+      "Description": "Guidance on how to validate the patient's emotions without validating the content of the hallucination or delusion",
+      "Required": true,
+      "Type": "text"
+    }
+  }
+}

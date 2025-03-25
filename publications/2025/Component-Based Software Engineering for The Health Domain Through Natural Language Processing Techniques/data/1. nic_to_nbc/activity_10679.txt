@@ -1,0 +1,29 @@
+Here is the output in JSON format:
+
+
+{
+  "parameters": [
+    { 
+      "name": "title", 
+      "type": "text"
+    },
+    { 
+      "name": "steps", 
+      "type": "list",
+      "step": {
+        "description": "brief description of the step",
+        "instructions": "detailed instructions for the step",
+        "media": "additional media to support the step"
+      }
+    },
+    { 
+      "name": "reminders", 
+      "type": "list",
+      "reminder": {
+        "text": "reminder text",
+        "datetime": "date and time for the reminder"
+      }
+    }
+  ],
+  "noCodeElementName": "Preparation Guide"
+}

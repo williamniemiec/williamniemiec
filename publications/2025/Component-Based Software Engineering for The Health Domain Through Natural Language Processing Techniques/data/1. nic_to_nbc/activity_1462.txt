@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Respiratory Tracker": {
+    "Parameters": {
+      "Respiratory Rate": {"Type": "number"},
+      "Shortness of Breath": {"Type": "options"},
+      "Coughing": {"Type": "options"},
+      "Orthopnea": {"Type": "options"},
+      "Paroxysmal Nocturnal Dyspnea": {"Type": "options"},
+      "Frequency": {"Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"Type": "datetime"}
+    }
+  }
+}

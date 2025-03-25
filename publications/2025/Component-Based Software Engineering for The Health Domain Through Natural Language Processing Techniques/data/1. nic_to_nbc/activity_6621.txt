@@ -1,0 +1,13 @@
+
+
+
+{
+  "Parameter Specifications": {
+    "Name": {"Type": "text"},
+    "Movement Type": {"Type": "options"},
+    "Alert Message": {"Type": "text"},
+    "Frequency": {"Type": "options"},
+    "Deadline Date": {"Type": "datetime"}
+  },
+  "No-code Element Name": "Movement Alert"
+}

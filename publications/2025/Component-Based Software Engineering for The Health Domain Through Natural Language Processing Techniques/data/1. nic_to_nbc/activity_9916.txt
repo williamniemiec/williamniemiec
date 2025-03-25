@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Demographic Information": {
+    "parameters": {
+      "age": "",
+      "race": "",
+      "income_level": "",
+      "prenatal_care": "",
+      "abuse_history": "",
+      "notes": ""
+    }
+  }
+}

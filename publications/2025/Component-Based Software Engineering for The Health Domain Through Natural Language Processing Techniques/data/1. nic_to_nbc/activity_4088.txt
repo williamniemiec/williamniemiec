@@ -1,0 +1,45 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Emotional Expression Tool",
+  "parameters": [
+    {
+      "name": "title",
+      "description": "Title of the emotional expression tool",
+      "required": true,
+      "type": "text"
+    },
+    {
+      "name": "prompt",
+      "description": "Prompt to encourage patients to express their feelings",
+      "required": true,
+      "type": "text"
+    },
+    {
+      "name": "entry_type",
+      "description": "Type of entry to be made by the patient",
+      "required": true,
+      "type": "options",
+      "options": [
+        { "label": "Text", "value": "text" },
+        { "label": "Audio", "value": "audio" },
+        { "label": "Video", "value": "video" }
+      ]
+    },
+    {
+      "name": "entry",
+      "description": "Patient's emotional expression entry",
+      "required": true,
+      "type": "object",
+      "properties": {
+        "text": {"type": "string"},
+        "audio": {"type": "audio"},
+        "video": {"type": "video"}
+      }
+    }
+  ]
+}
+
+
+I removed everything except the `{{ NO-CODE ELEMENT NAME }}` ("Emotional Expression Tool") and the `{{ PARAMETER ESPECIFICATIONS }}` (the parameters array). I also removed any non-applicable parameters. Let me know if this is what you were expecting!

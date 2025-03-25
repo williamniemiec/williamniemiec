@@ -1,0 +1,45 @@
+Here is the output in JSON format, removing anything except `{{ PARAMETER ESPECIFICATIONS }}` and `{{ NO-CODE ELEMENT NAME }}`, and removing not applicable parameters:
+
+
+{
+  "name": "Consultation with Guidelines and Professionals",
+  "parameters": [
+    {
+      "name": "Guidelines",
+      "type": "list",
+      "items": [
+        {
+          "guideline name": "",
+          "description": "",
+          "link": ""
+        }
+      ]
+    },
+    {
+      "name": "Specialists",
+      "type": "list",
+      "items": [
+        {
+          "specialist name": "",
+          "specialty": "",
+          "contact information": ""
+        }
+      ]
+    },
+    {
+      "name": "Other Health Care Professionals",
+      "type": "list",
+      "items": [
+        {
+          "professional name": "",
+          "profession": "",
+          "contact information": ""
+        }
+      ]
+    },
+    {
+      "name": "Consultation Notes",
+      "type": "text area"
+    }
+  ]
+}

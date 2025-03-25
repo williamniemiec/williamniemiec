@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Clean Intermittent Catheterization Technique Guide": {
+    "title": {"type": "text"},
+    "Video/Instructional Content": {"type": "video or interactive tutorial"},
+    "Step-by-Step Instructions": {"type": "list of text items"},
+    "Illustrations/Images": {"type": "images", "optional": true},
+    "Quiz": {"type": "multiple choice or true/false questions", "optional": true},
+    "Certification": {"type": "boolean (yes/no)", "optional": true},
+    "Notes": {"type": "text", "optional": true}
+  }
+}

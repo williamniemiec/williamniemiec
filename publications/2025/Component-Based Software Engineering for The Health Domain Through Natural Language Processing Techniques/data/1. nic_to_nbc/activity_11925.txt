@@ -1,0 +1,39 @@
+Here is the output in JSON format:
+
+
+{
+  "Caretaker Assessment": {
+    "parameters": {
+      "Caretaker Information": {
+        "type": "form",
+        "fields": [
+          {"name": "caretaker_name", "label": "Caretaker Name", "type": "text"},
+          {"name": "relationship", "label": "Relationship to Patient", "type": "text"},
+          {"name": "phone_number", "label": "Phone Number", "type": "text"},
+          {"name": "email", "label": "Email", "type": "text"}
+        ]
+      },
+      "Caretaker Abilities": {
+        "type": "checklist",
+        "items": [
+          {"label": "Ability to lift and transfer patient"},
+          {"label": "Ability to manage medications"},
+          {"label": "Ability to provide emotional support"}
+        ]
+      },
+      "Caretaker Training": {
+        "type": "options",
+        "options": [
+          {"value": "yes", "label": "Yes"},
+          {"value": "no", "label": "No"}
+        ]
+      },
+      "Caretaker Availability": {
+        "type": "text"
+      },
+      "Caretaker Concerns": {
+        "type": "text"
+      }
+    }
+  }
+}

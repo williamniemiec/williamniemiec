@@ -1,0 +1,41 @@
+Here is the output in JSON format:
+
+
+{
+  "Service Access Assistant": {
+    "Parameters": {
+      "Service/Equipment Needed": {
+        "Type": "service/equipment object",
+        "Properties": {
+          "Name": "",
+          "Description": ""
+        }
+      },
+      "Client Information": {
+        "Type": "client object",
+        "Properties": {
+          "Name": "",
+          "Contact Information": ""
+        }
+      },
+      "Service Provider": {
+        "Type": "provider object",
+        "Properties": {
+          "Name": "",
+          "Address": "",
+          "Contact Information": ""
+        }
+      },
+      "Access Method": {
+        "Type": "options"
+      },
+      "Scheduling": {
+        "Type": "scheduling object",
+        "Properties": {
+          "Date": "",
+          "Location": ""
+        }
+      }
+    }
+  }
+}

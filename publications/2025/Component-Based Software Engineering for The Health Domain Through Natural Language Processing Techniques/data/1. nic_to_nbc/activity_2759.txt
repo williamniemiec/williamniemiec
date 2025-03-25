@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "No-code element": {
+    "Dressing Reminder": {
+      "Parameters": {
+        "Duration": "",
+        "Notification": ""
+      }
+    },
+    "Dressing Care": {
+      "Parameters": {
+        "Instructions": ""
+      }
+    }
+  }
+}

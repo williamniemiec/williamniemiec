@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "informed_consent": {
+        "parameters": [
+            {"name": "information", "description": "information about the treatment or procedure", "required": true, "type": "text"},
+            {"name": "consent", "description": "patient's consent", "required": true, "type": "boolean"}
+        ]
+    }
+}
+
+
+Let me know if this meets your requirements!

@@ -1,0 +1,64 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Withdrawal Symptom Tracker",
+  "parameters": [
+    {
+      "name": "Symptoms",
+      "type": "options",
+      "options": [
+        { "value": "fatigue", "label": "Fatigue" },
+        { "value": "sensory disturbances", "label": "Sensory disturbances" },
+        { "value": "irritability", "label": "Irritability" },
+        { "value": "violence", "label": "Violence" },
+        { "value": "depression", "label": "Depression" },
+        { "value": "panic attacks", "label": "Panic attacks" },
+        { "value": "cravings", "label": "Cravings" },
+        { "value": "insomnia", "label": "Insomnia" },
+        { "value": "agitation", "label": "Agitation" },
+        { "value": "muscle pain", "label": "Muscle pain" },
+        { "value": "appetite changes", "label": "Appetite changes" },
+        { "value": "yawning", "label": "Yawning" },
+        { "value": "weakness", "label": "Weakness" },
+        { "value": "headache", "label": "Headache" },
+        { "value": "runny nose", "label": "Runny nose" },
+        { "value": "dilated pupils", "label": "Dilated pupils" },
+        { "value": "chills", "label": "Chills" },
+        { "value": "anxiety", "label": "Anxiety" },
+        { "value": "sweating", "label": "Sweating" },
+        { "value": "nausea", "label": "Nausea" },
+        { "value": "vomiting", "label": "Vomiting" },
+        { "value": "tremors", "label": "Tremors" },
+        { "value": "psychosis", "label": "Psychosis" },
+        { "value": "ataxia", "label": "Ataxia" }
+      ]
+    },
+    {
+      "name": "Frequency",
+      "type": "options",
+      "options": [
+        { "value": "daily", "label": "Daily" },
+        { "value": "everyHours", "label": "Every x hours" },
+        { "value": "everyDays", "label": "Every x days" }
+      ]
+    },
+    {
+      "name": "Severity",
+      "type": "options",
+      "options": [
+        { "value": "mild", "label": "Mild" },
+        { "value": "moderate", "label": "Moderate" },
+        { "value": "severe", "label": "Severe" }
+      ]
+    },
+    {
+      "name": "Interventions",
+      "type": "options",
+      "options": [
+        { "value": "medication", "label": "Medication" },
+        { "value": "counseling", "label": "Counseling" }
+      ]
+    }
+  ]
+}

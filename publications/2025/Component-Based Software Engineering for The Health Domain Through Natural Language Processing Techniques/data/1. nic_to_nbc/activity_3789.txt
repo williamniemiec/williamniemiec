@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Edema Support": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Content": {"Type": ["text", "image", "video"]},
+      "Affected Areas": {"Type": ["list of text"]},
+      "Support Techniques": {"Type": ["list of text"]},
+      "Additional Tips": {"Type": ["list of text"]}
+    }
+  }
+}

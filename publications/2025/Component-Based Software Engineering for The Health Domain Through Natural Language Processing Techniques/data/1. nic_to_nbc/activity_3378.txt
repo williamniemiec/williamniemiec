@@ -1,0 +1,15 @@
+
+
+
+{
+  "Care Circle": {
+    "Parameters": {
+      "Care Circle Members": {"Type": "list of contacts"},
+      "Roles and Responsibilities": {"Type": "text or options"},
+      "Communication Channel": {"Type": "options", "Options": ["messaging", "video conferencing", "phone calls", "etc."]},
+      "Care Plan Access": {"Type": "boolean"},
+      "Task Assignments": {"Type": "list of tasks"},
+      "Progress Updates": {"Type": "options", "Options": ["daily", "weekly", "monthly", "as needed"]}
+    }
+  }
+}

@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Education": {
+    "Pain Medication Information": {"type": "text or HTML content"},
+    "Alternative Pain Control Methods": {"type": "text or HTML content"},
+    "Pre-Exercise Instructions": {"type": "text or HTML content"},
+    "FAQs": {"type": "list of questions and answers (text or HTML content)"},
+    "Visual Aids": {"type": "image or video content"}
+  },
+  "Decision Support": {
+    "Pain Level Assessment": {"type": "slider or numerical input"},
+    "Medication Options": {"type": "list of options with corresponding dosages and frequencies"},
+    "Alternative Methods": {"type": "list of options with corresponding instructions"},
+    "Recommendations": {"type": "text or HTML content"}
+  }
+}

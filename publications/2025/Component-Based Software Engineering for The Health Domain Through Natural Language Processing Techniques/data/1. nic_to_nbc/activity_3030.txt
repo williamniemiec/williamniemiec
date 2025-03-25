@@ -1,0 +1,33 @@
+Here is the output in JSON format:
+
+
+[
+    {
+        "Acupressure Point Selection": {
+            "name": "title of the acupressure point selection",
+            "acupressure_points": "list of possible acupressure points (e.g., LI4, LI10, GB21)",
+            "affected_area": "selected affected area from the body map"
+        }
+    },
+    {
+        "Acupressure Point Information": {
+            "name": "title of the acupressure point information",
+            "point_location": "location of the acupressure point on the body",
+            "benefits": "benefits of stimulating the acupressure point",
+            "contraindications": "contraindications for stimulating the acupressure point"
+        }
+    },
+    {
+        "Image Gallery": {
+            "name": "title of the image gallery",
+            "images": "list of image URLs with captions explaining each image"
+        }
+    },
+    {
+        "Video Tutorial": {
+            "name": "title of the video tutorial",
+            "video_url": "URL of the video tutorial",
+            "description": "brief description of the video content"
+        }
+    }
+]

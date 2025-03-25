@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+    "Infant Information Guide": {
+        "title": {"type": "text"},
+        "sections": {"type": "ordered list", 
+                     "params": {
+                         "title": {"type": "text"}, 
+                         "content": {"type": "text or HTML"}
+                     }},
+        "infant_characteristics": {"type": "ordered list", 
+                                   "params": {
+                                       "name": {"type": "text"}, 
+                                       "description": {"type": "text or HTML"}
+                                   }},
+        "care_instructions": {"type": "ordered list", 
+                              "params": {
+                                  "title": {"type": "text"}, 
+                                  "content": {"type": "text or HTML"}
+                              }}
+    }
+}

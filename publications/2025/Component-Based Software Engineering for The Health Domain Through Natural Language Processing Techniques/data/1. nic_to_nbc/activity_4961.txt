@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Compassionate Support": {
+    "parameters": {
+      "Support Type": {"type": "options", "options": ["presence", "touch", "empathy", "other"]},
+      "Support Message": {"type": "text"},
+      "Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"type": "datetime"}
+    }
+  }
+}

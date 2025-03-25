@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Pain Relief Plan": {
+    "parameters": {
+      "Pain Assessment": {"type": "options"},
+      "Nonpharmacological Measures": {"type": "list of options"},
+      "Pharmacological Measures": {"type": "list of options"},
+      "Frequency": {"type": "options"},
+      "Duration": {"type": "datetime range"}
+    }
+  }
+}

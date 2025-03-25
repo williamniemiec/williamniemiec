@@ -1,0 +1,33 @@
+Here is the output in JSON format:
+
+
+{
+  "Pressure and Friction Monitoring": {
+    "parameters": [
+      {
+        "name": "Name",
+        "type": "text"
+      },
+      {
+        "name": "Instructions",
+        "type": "text"
+      },
+      {
+        "name": "Frequency",
+        "type": "options",
+        "options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+      },
+      {
+        "name": "Pressure and Friction Sources",
+        "type": "list of sources",
+        "sources": [
+          {
+            "Name": "",
+            "Description": "",
+            "Risk Level": ""
+          }
+        ]
+      }
+    ]
+  }
+}

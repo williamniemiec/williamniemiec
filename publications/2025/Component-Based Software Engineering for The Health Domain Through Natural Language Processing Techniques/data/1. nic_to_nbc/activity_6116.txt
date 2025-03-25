@@ -1,0 +1,33 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "task",
+    "parameters": [
+        {
+            "name": "name",
+            "type": "text"
+        },
+        {
+            "name": "content",
+            "type": "text"
+        },
+        {
+            "name": "frequency",
+            "type": "options",
+            "options": [
+                { value: "daily", label: "Daily" },
+                { value: "every2Days", label: "Every 2 days" },
+                { value: "weekly", label: "Weekly" }
+            ]
+        },
+        {
+            "name": "deadline_date",
+            "type": "datetime"
+        },
+        {
+            "name": "tips",
+            "type": "text"
+        }
+    ]
+}

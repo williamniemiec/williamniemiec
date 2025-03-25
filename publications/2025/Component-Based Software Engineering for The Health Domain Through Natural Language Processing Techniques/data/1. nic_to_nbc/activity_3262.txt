@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Lung Sound Recording": {
+    "Recording": {"Type": "audio file"},
+    "Frequency": {"Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"Type": "datetime"},
+    "Lung Sound Analysis": {"Type": "text or graph"}
+  }
+}

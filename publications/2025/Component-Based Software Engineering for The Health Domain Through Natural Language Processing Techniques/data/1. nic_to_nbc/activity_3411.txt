@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Coping Skills Assessment": {
+    "parameters": {
+      "Coping Skills List": {"type": "list of text"},
+      "Effectiveness Scale": {"type": "options (1-5, not effective to very effective)"},
+      "Rating Type": {"type": "options (slider, radio buttons, text input)"},
+      "Reflection": {"type": "text"},
+      "Frequency": {"type": "options (daily, onlyOnce, everyHours, everyDays)"}
+    }
+  }
+}
+
+
+Note that I removed the `Deadline Date` parameter as it is a datetime type and not applicable in this context.

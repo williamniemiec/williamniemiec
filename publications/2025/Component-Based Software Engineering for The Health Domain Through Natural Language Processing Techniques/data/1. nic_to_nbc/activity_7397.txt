@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Syringe Storage": {
+    "Capping Instructions": {},
+    "Ice Storage Instructions": {},
+    "Image": {},
+    "Video": {},
+    "Frequency": {},
+    "Deadline Date": {}
+  }
+}

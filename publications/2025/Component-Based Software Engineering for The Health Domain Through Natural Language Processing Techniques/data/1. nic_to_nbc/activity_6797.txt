@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Personalized Guide": {
+    "parameters": [
+      {"Patient Profile": {"type": "object"}},
+      {"Orientation Content": {"type": "list", "items": [{"Topic": {"type": "text"}}, {"Content": {"type": "text or html"}}, {"Relevance": {"type": "number"}}]}},
+      {"Customization Rules": {"type": "list", "items": [{"Condition": {"type": "text"}}, {"Action": {"type": "text"}}]}}
+    ]
+  }
+}

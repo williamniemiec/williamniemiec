@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Hemodynamic Monitoring Catheter Education": {
+        "Parameters": {
+            "Title": {"Type": "text"},
+            "Pages": {"Type": "book-page (list of HTML texts)"},
+            "Quiz": {"Type": "quiz (list of questions and answers)"},
+            "Notes": {"Type": "text"}
+        }
+    }
+}

@@ -1,0 +1,34 @@
+Here is the output in JSON format:
+
+
+{
+  "Immunization Requirements": {
+    "parameters": [
+      {
+        "name": "institution_type",
+        "description": "select the type of institution (preschool, kindergarten, junior high, high school, college)",
+        "required": true,
+        "type": "options",
+        "options": [
+          { "value": "preschool", "label": "Preschool" },
+          { "value": "kindergarten", "label": "Kindergarten" },
+          { "value": "juniorHigh", "label": "Junior High" },
+          { "value": "highSchool", "label": "High School" },
+          { "value": "college", "label": "College" }
+        ]
+      },
+      {
+        "name": "required_immunizations",
+        "description": "list of immunizations required by law for the selected institution",
+        "required": true,
+        "type": "list",
+        "list_items": [
+          { "value": "MMR", "label": "Measles, Mumps, and Rubella (MMR)" },
+          { "value": "DTaP", "label": "Diphtheria, Tetanus, and Pertussis (DTaP)" },
+          { "value": "Polio", "label": "Polio" },
+          { "value": "Varicella", "label": "Varicella (Chickenpox)" }
+        ]
+      }
+    ]
+  }
+}

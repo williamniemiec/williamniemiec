@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+    "Motivation Station": {
+        "Encouragement Messages": {"Type": "text", "Content": ["You're doing great!", "Keep up the good work!", "You're one step closer to recovery!"]},
+        "Progress Tracking": {"Type": "graph or chart", "Content": "Your Progress: [insert graph or chart showing patient's progress]"},
+        "Reward System": {"Type": "badge or point system", "Content": "You've earned [insert badge or points] for reaching your goal!"},
+        "Personalized Feedback": {"Type": "text or audio", "Content": "Great job on increasing your oxygen saturation! Keep up the good work and you'll be breathing easy in no time!"}
+    }
+}

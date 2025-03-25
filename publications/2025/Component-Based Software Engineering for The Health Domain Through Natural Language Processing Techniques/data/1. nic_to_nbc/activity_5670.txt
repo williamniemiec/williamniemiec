@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Religious Assessment": {
+    "parameters": [
+      {"Questions": ""},
+      {"Frequency": ""},
+      {"Deadline Date": ""}
+    ]
+  }
+}

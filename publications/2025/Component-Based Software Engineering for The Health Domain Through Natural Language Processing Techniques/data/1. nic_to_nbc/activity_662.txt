@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Confidentiality Disclosure": {
+        "Parameters": {
+            "Confidentiality Statement": {"Type": ["text", "video"]},
+            "Privacy Policy": {"Type": ["text", "link to external policy"]},
+            "Secure Communication": {"Type": ["text", "infographic"]},
+            "Boundaries of Confidentiality": {"Type": ["text", "interactive scenario"]},
+            "Patient Acknowledgement": {"Type": ["checkbox", "electronic signature"]}
+        }
+    }
+}

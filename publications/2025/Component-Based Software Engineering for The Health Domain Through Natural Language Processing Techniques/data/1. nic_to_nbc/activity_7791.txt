@@ -1,0 +1,35 @@
+Here is the output in JSON format:
+
+
+{
+  "Traction Pin Site Monitoring": {
+    "Parameters": {
+      "Name": {
+        "Type": "text"
+      },
+      "Pin Site Location": {
+        "Type": "options",
+        "Options": [
+          {"value": "arm", "label": "Arm"},
+          {"value": "leg", "label": "Leg"}
+        ]
+      },
+      "Monitoring Instructions": {
+        "Type": "ordered list"
+      },
+      "Frequency": {
+        "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+      },
+      "Reporting": {
+        "Type": "options",
+        "Options": [
+          {"value": "photo", "label": "Take a photo"},
+          {"value": "text", "label": "Write a description"}
+        ]
+      },
+      "Images or Videos": {
+        "Type": "unordered list"
+      }
+    }
+  }
+}

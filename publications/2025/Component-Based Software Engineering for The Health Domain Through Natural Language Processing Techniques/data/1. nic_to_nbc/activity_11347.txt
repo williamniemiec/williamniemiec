@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+  "Lactation Support for Preterm Infant": {
+    "Plan Title": {},
+    "Pumping Frequency Instructions": {},
+    "Milk Supply Increase Expectations": {},
+    "Normal Feeding Patterns by Gestational Age": {},
+    "Weaning from Pump Instructions": {},
+    "Personalized Lactation Plan": {},
+    "Follow-up Frequency": {
+      "options": [
+        {"value": "daily", "label": "Daily"},
+        {"value": "weekly", "label": "Weekly"},
+        {"value": "monthly", "label": "Monthly"}
+      ]
+    }
+  }
+}
+
+
+Note that I removed the `Deadline Date` parameter since it's marked as not required. Let me know if you need any further assistance!

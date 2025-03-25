@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+  "Trigger Identification Questionnaire": {
+    "parameters": {
+      "name": {},
+      "answer type": {},
+      "frequency": {},
+      "deadline_date": {}
+    }
+  },
+  "Activity Log": {
+    "parameters": {
+      "name": {},
+      "frequency": {},
+      "deadline_date": {}
+    }
+  },
+  "Pattern Identification Guide": {
+    "parameters": {
+      "name": {},
+      "pages": {}
+    }
+  }
+}

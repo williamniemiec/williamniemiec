@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+    "Incentive Spirometer": {
+        "Parameters": {
+            "Name": {"Type": "text"},
+            "Instructions": {"Type": "text"},
+            "Frequency": {"Type": "options", "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+            "Deadline Date": {"Type": "datetime"},
+            "Target Volume": {"Type": "number"},
+            "Reminders": {"Type": "boolean"}
+        }
+    }
+}

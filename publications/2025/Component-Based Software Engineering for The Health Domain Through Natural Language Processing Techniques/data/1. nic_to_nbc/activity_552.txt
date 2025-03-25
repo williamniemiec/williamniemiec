@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Digitalis Toxicity Monitoring": {
+    "parameters": {
+      "Serum Level Monitoring": ["daily", "every 2 days", "other"],
+      "Heart Rate and Rhythm Monitoring": ["before each dose", "daily", "every 2 days", "other"],
+      "Side Effect Monitoring": ["nausea", "vomiting", "dizziness", "headache", "other"],
+      "Monitoring Frequency": ["daily", "every 2 days", "weekly", "other"],
+      "Additional Instructions": {"type": "text"}
+    }
+  }
+}

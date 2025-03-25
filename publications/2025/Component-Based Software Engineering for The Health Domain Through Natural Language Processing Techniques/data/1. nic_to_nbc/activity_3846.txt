@@ -1,0 +1,30 @@
+Here is the output in JSON format:
+
+
+{
+  "Service Referral": {
+    "Parameters": {
+      "Service Categories": {"Type": "list of text or bullet points"},
+      "Service Providers": {"Type": "list of objects", "Properties": {
+        "Provider Name": {"Type": "text"},
+        "Provider Description": {"Type": "text"},
+        "Contact Information": {"Type": "object", "Properties": {
+          "Phone": {"Type": "text"},
+          "Email": {"Type": "text"},
+          "Website": {"Type": "text"}
+        }}
+      }},
+      "Eligibility Criteria": {"Type": "list of objects", "Properties": {
+        "Criterion": {"Type": "text"},
+        "Value": {"Type": "text or number"}
+      }},
+      "Referral Process": {"Type": "list of objects", "Properties": {
+        "Step": {"Type": "text"},
+        "Instructions": {"Type": "text"}
+      }}
+    }
+  }
+}
+
+
+Let me know if this is what you were expecting!

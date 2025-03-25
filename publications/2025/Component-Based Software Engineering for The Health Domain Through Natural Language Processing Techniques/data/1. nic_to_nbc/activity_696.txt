@@ -1,0 +1,10 @@
+Here is the output in JSON format:
+
+
+{
+    "Informed Consent": {
+        "Consent Form": {"Type": "PDF or HTML text"},
+        "Patient Acknowledgement": {"Type": "boolean (yes/no)"},
+        "Signature": {"Type": "electronic signature"}
+    }
+}

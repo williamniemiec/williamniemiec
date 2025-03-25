@@ -1,0 +1,41 @@
+Here is the output in JSON format:
+
+
+{
+  "Strategy List": {
+    "parameters": {
+      "name": "",
+      "strategies": "",
+      "type": ""
+    }
+  },
+  "Guide": {
+    "parameters": {
+      "name": "",
+      "pages": ""
+    }
+  },
+  "Tips": {
+    "parameters": {
+      "name": "",
+      "tips": "",
+      "type": ""
+    }
+  },
+  "Reflection": {
+    "parameters": {
+      "name": "",
+      "prompt": "",
+      "answer_type": "",
+      "frequency": "",
+      "deadline_date": ""
+    }
+  },
+  "Action Plan": {
+    "parameters": {
+      "name": "",
+      "steps": "",
+      "type": ""
+    }
+  }
+}

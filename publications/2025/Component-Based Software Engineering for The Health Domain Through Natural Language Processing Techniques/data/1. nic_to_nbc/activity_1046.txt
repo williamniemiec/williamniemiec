@@ -1,0 +1,29 @@
+Here is the output in JSON format:
+
+
+{
+  "Compliance Tracking": {
+    "regimen type": "",
+    "compliance status": "",
+    "frequency": ""
+  },
+  "Regimen Reminder": {
+    "regimen type": "",
+    "reminder frequency": "",
+    "reminder message": ""
+  },
+  "Adherence Questionnaire": {
+    "questionnaire questions": "",
+    "answer type": "",
+    "frequency": ""
+  },
+  "Risk Assessment": {
+    "risk factors": "",
+    "risk level": ""
+  },
+  "Personalized Feedback": {
+    "feedback message": "",
+    "recommendations": "",
+    "risk level": ""
+  }
+}

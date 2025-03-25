@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Guided Relaxation": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Audio": {"Type": "audio"},
+      "Duration": {"Type": "time"},
+      "Frequency": {"Type": "options"}
+    }
+  }
+}

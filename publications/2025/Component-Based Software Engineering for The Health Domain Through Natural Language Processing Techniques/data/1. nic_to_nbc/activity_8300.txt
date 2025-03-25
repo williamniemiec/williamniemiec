@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Suction Education": {
+    "Parameters": {
+      "Suction Explanation": {},
+      "Benefits": {},
+      "Additional Resources": {}
+    }
+  }
+}

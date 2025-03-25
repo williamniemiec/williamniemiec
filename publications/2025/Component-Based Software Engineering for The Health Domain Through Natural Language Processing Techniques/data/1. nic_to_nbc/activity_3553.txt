@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+    "no-code element name": "Symptom Checker",
+    "parameter specifications": {
+        "symptom_type": "",
+        "severity": "",
+        "frequency": "",
+        "notes": ""
+    }
+}

@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Safety Bar Installation": {
+    "bar_type": {"type": "options"},
+    "installation_location": {"type": "text"},
+    "installation_instructions": {"type": "text or HTML"},
+    "safety_precautions": {"type": "text or HTML"}
+  }
+}

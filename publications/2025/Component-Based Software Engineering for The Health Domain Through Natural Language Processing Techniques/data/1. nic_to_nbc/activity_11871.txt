@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+    "Suicide Discussion": {
+        "prompt": ["prompt or question to initiate the conversation about suicide (e.g., \"Have you had thoughts of suicide?\", \"How have you been coping with difficult emotions?\")"],
+        "response type": ["type of response expected from the patient (e.g., text, audio, video)"],
+        "tone": ["tone of the conversation (e.g., empathetic, non-judgmental, supportive)"]
+    },
+    "Risk Assessment": {
+        "questions": ["list of questions to assess the patient's risk (e.g., \"Have you had suicidal thoughts?\", \"Do you have a plan to harm yourself?\")"],
+        "answer type": ["type of answer for each question (e.g., yes/no, scale, text)"]
+    },
+    "Crisis Resources": {
+        "resources": ["list of crisis resources (e.g., suicide hotline, emergency services, online support groups)"],
+        "contact information": ["contact information for each resource (e.g., phone number, email, website)"]
+    },
+    "Follow-up": {
+        "schedule": ["schedule of follow-up conversations or check-ins (e.g., daily, every 2 hours)"],
+        "duration": ["duration of each follow-up conversation or check-in"]
+    }
+}
+
+
+Note that I removed the introduction and conclusion sections, as well as the numbers and descriptions of the no-code elements. I also reformatted the parameters to be in a JSON-compatible format. Let me know if you have any further requests!

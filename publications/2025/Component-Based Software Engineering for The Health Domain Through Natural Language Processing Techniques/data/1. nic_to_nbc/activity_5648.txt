@@ -1,0 +1,32 @@
+Here is the output in JSON format:
+
+
+{
+  "Behavioral Contract": {
+    "Goal": {"type": "text"},
+    "Behaviors": {"type": "text"},
+    "Reward": {"type": "text"},
+    "Consequences": {"type": "text"},
+    "Duration": {"type": "number"},
+    "Unit": {"type": "options", "options": ["days", "weeks", "months", "etc."]},
+    "Deadline Date": {"type": "datetime"}
+  },
+  "Behavior Tracking": {
+    "Behavior": {"type": "text"},
+    "Frequency": {"type": "options", "options": ["daily", "weekly", "monthly", "oneTime"]},
+    "Deadline Date": {"type": "datetime"}
+  },
+  "Reward System": {
+    "Reward": {"type": "text"},
+    "Criteria": {"type": "text"},
+    "Frequency": {"type": "options", "options": ["daily", "weekly", "monthly", "oneTime"]},
+    "Deadline Date": {"type": "datetime"}
+  },
+  "Data Entry": {
+    "Behavior": {"type": "text"},
+    "Frequency": {"type": "options", "options": ["daily", "weekly", "monthly", "oneTime"]},
+    "Deadline Date": {"type": "datetime"},
+    "Reward": {"type": "text"},
+    "Criteria": {"type": "text"}
+  }
+}

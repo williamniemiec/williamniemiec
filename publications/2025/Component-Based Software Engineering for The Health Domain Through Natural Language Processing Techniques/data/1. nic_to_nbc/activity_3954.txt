@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Fetal Monitoring": {
+    "Name": {"type": "text"},
+    "Frequency": {"options": ["daily", "everyHours", "everyDays"]},
+    "Deadline Date": {"type": "datetime"},
+    "Data Fields": {"type": "list of options or free text"},
+    "Upload Data": {"type": "file upload or integration with wearable devices/sensors"}
+  }
+}

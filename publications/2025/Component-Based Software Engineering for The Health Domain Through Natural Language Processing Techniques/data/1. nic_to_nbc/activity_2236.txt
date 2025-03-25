@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Confidence Builder": {
+    "Goal Setting": {"type": "text"},
+    "Ability Rating": {"type": "options"},
+    "Confidence Level": {"type": "options"},
+    "Supportive Messages": {"type": "list of messages"},
+    "Progress Tracking": {"type": "boolean"}
+  }
+}

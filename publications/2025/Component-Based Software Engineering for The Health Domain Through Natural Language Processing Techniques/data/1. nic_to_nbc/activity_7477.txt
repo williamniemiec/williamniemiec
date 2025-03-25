@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Treatment Options Guide": {
+        "Parameters": {
+            "Condition": {},
+            "Treatment Options": {},
+            "Pros and Cons": {},
+            "FAQs": {},
+            "Decision Support": {}
+        }
+    }
+}

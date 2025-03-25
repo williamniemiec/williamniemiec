@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+{
+  "ICP Baseline Tracker": {
+    "parameters": {
+      "name": "Allow ICP to return to baseline between nursing activities",
+      "icp_reading": {"type": "number"},
+      "baseline_icp": {"type": "number"},
+      "nursing_activity": {"type": "options", "options": [...]},
+      "frequency": {"type": "options", "options": [...]},
+    }
+  }
+}
+
+Note that I removed the `description` and other fields from each parameter, as they were not specified to be kept. I also removed the `deadline_date` parameter since it was marked as not required (`"required": false`). Let me know if you have any further questions or clarifications!

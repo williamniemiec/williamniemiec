@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Social Connection": {
+    "Parameters": {
+      "Interest": {"Type": "text"},
+      "Goal": {"Type": "text"},
+      "Frequency": {"Type": "options", "Options": ["daily", "weekly", "monthly", "quarterly"]},
+      "Resources": {"Type": "text or link"}
+    }
+  }
+}
+
+
+I removed the `Deadline Date` parameter as it was not applicable, and also removed unnecessary text. Let me know if this meets your requirements!

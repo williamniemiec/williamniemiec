@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+    "Device Application Guide": {
+        "parameters": [
+            {"name": "video", "description": "Video demonstration of device application", "required": true, "type": "video"},
+            {"name": "instructions", "description": "Step-by-step instructions", "required": true, "type": "text"},
+            {"name": "special_considerations", "description": "Special considerations for edentulous or bearded patients", "required": true, "type": "text"}
+        ]
+    }
+}

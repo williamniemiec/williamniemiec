@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Ambulation Assistance": {
+    "Safety Precautions": {"type": "text"},
+    "Balance Exercises": {"type": "video"},
+    "Walking Schedule": {"type": "form"},
+    "Fall Risk Assessment": {"type": "form"},
+    "Emergency Contact": {"type": "text"},
+    "Frequency": {"type": "options"},
+    "Deadline Date": {"type": "datetime"}
+  }
+}

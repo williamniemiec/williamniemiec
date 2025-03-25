@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Reflection": {
+    "parameters": {
+      "Prompt": {"type": "text"},
+      "Response Type": {"type": "options", "options": ["text", "audio", "video"]},
+      "Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"type": "datetime"}
+    }
+  }
+}

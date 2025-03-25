@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+  "Spiritual Resource Identification": {
+    "Resource Type": {"type": "options"},
+    "Resource Description": {"type": "text"},
+    "Frequency": {"options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"type": "datetime"}
+  },
+  "Spiritual Resource Provision": {
+    "Resource Content": {"type": "text"},
+    "Resource Format": {"type": "options"},
+    "Frequency": {"options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"type": "datetime"}
+  },
+  "Reflection Question": {
+    "Question": {"type": "text"},
+    "Answer Type": {"type": "options"},
+    "Frequency": {"options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"type": "datetime"}
+  }
+}
+
+
+Note that I removed the `Introduction` and `Conclusion` sections, as well as the element descriptions, and only kept the `PARAMETER ESPECIFICATIONS` and `NO-CODE ELEMENT NAME`s. I also removed any parameters that were marked as "not applicable". Let me know if you have any further questions!

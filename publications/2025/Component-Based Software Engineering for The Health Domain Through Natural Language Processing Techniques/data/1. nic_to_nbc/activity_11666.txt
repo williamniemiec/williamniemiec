@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "Stimuli Response Monitoring": {
+    "Parameters": {
+      "Stimulus Type": {
+        "Type": ["sensory", "visual", "auditory"]
+      },
+      "Response": {
+        "Type": ["text", "rating scale"]
+      },
+      "Frequency": {
+        "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+      },
+      "Deadline Date": {
+        "Type": "datetime"
+      },
+      "Abnormal Response Threshold": {
+        "Type": ["text", "rating scale"]
+      }
+    }
+  }
+}

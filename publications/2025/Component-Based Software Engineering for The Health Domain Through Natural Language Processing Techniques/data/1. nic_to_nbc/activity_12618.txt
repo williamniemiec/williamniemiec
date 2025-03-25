@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Resource Connection": {
+    "Parameters": {
+      "Service Type": {"Type": "options", "Options": ["meals", "day care", "summer camp", "etc."]},
+      "Service Provider": {"Type": "text"},
+      "Frequency": {"Type": "options", "Options": ["daily", "weekly", "monthly", "etc."]},
+      "Duration": {"Type": "text"},
+      "Contact Information": {"Type": "text"}
+    }
+  }
+}
+
+
+Let me know if this meets your requirements!

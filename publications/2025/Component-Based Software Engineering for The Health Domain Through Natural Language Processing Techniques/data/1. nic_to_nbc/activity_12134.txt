@@ -1,0 +1,23 @@
+Here is the output in JSON format, removing everything except `PARAMETER ESPECIFICATIONS` and `NO-CODE ELEMENT NAME`, and removing not applicable parameters:
+
+
+{
+    "name": "Bladder Irrigation Guide",
+    "parameters": [
+        {
+            "name": "Irrigation Type"
+        },
+        {
+            "name": "Irrigation Rate"
+        },
+        {
+            "name": "Irrigation Solution"
+        },
+        {
+            "name": "Duration"
+        },
+        {
+            "name": "Frequency"
+        }
+    ]
+}

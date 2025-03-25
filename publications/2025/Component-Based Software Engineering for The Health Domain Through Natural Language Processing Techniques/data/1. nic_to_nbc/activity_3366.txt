@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+[
+    {
+        "Session Planner": {
+            "name": {"type": "title of the session planner"},
+            "timing": {"type": "options (e.g., morning, afternoon, evening)"},
+            "frequency": {"type": "options (e.g., daily, weekly, biweekly)"},
+            "length": {"type": "text (e.g., 30 minutes, 1 hour, 2 hours)"},
+            "setting": {"type": "options (e.g., in-person, virtual, phone call)"},
+            "notes": {"type": "text"}
+        }
+    },
+    {
+        "Form": {
+            "name": {"type": "title of the form"},
+            "questions": [
+                {"question 1": {"type": "options (e.g., morning, afternoon, evening)"}},
+                {"question 2": {"type": "options (e.g., daily, weekly, biweekly)"}},
+                {"question 3": {"type": "text (e.g., 30 minutes, 1 hour, 2 hours)"}},
+                {"question 4": {"type": "options (e.g., in-person, virtual, phone call)"}},
+                {"question 5": {"type": "text"}}
+            ]
+        }
+    }
+]

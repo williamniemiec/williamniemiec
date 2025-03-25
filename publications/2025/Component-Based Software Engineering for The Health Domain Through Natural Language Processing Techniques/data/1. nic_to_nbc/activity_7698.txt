@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+    "Skin Inspection Reminder": {
+        "parameters": ["name", "frequency", "deadline_date"]
+    },
+    "Skin Condition Tracker": {
+        "parameters": ["name", "frequency", "deadline_date", "skin_condition"]
+    }
+}

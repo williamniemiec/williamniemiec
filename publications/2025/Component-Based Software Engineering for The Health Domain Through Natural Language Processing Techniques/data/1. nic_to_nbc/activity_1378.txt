@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+    "Dental Follow-up Care Guide": {
+        "Importance of Follow-up Care": ["Prevention of rapid formation of dental caries", "Early detection of oral health issues"],
+        "Recommended Follow-up Schedule": ["Every 3 months", "Every 6 months"],
+        "Consequences of Infrequent Follow-up": ["Increased risk of dental caries", "Delayed detection of oral health issues"],
+        "Tips for Maintaining Good Oral Health": ["Brushing and flossing regularly", "Avoiding sugary snacks and drinks"],
+        "Resources": [{"Type": "URL or PDF"}]
+    }
+}

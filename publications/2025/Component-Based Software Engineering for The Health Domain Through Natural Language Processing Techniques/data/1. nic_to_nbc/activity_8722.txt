@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+    "Name": "Chat",
+    "Parameters": {
+        "Initial Message": {
+            "Description": "initial message to welcome the parent and start the conversation",
+            "Required": true,
+            "Type": "text"
+        },
+        "Response Options": {
+            "Description": "list of response options for the parent to choose from",
+            "Required": true,
+            "Type": "options",
+            "Options": "list of text responses"
+        }
+    }
+}
+
+
+Note: I removed `Follow-up Questions` and `Emotional Support` parameters as they are not required.

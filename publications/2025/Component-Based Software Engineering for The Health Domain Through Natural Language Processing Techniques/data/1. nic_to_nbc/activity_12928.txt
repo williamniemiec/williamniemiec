@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Tube Feeding Water Provision": {
+    "parameters": {
+      "Tube Feeding Schedule": {"type": "datetime"},
+      "Water Provision Details": {"type": "text"},
+      "Water Administration Guidance": {"type": "text or video"},
+      "Water Provision Reminders": {"type": "boolean"},
+      "Water Provision Log": {"type": "text or table"}
+    }
+  }
+}

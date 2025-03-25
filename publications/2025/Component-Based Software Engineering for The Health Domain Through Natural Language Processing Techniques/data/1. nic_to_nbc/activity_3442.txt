@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Notification": {
+    "Parameters": {
+      "Medication Name": {"Type": "text", "Required": true},
+      "Date and Time": {"Type": "datetime", "Required": true},
+      "Dose": {"Type": "text", "Required": true},
+      "Reason": {"Type": "text", "Required": true},
+      "Parent/Guardian Contact": {"Type": "text", "Required": true},
+      "Notification Method": {"Type": "options", "Options": ["SMS", "email", "in-app notification"], "Required": true}
+    }
+  }
+}

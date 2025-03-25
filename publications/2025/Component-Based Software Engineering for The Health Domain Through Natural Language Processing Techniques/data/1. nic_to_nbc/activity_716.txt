@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Narcotic Antagonist Administration": {
+    "Medication": {"Type": "options"},
+    "Dosage": {"Type": "text"},
+    "Frequency": {"Type": "options"},
+    "Duration": {"Type": "datetime range"},
+    "Route": {"Type": "options"},
+    "Agency Protocol": {"Type": "text"}
+  }
+}
+
+Let me know if this is what you were expecting!

@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+  "Lighting Adjustment": {
+    "Parameters": {
+      "Lighting Assessment": {
+        "Description": "Assess Current Lighting",
+        "Required": true,
+        "Type": "options",
+        "Options": [
+          {"value": "tooBright", "label": "Too Bright"},
+          {"value": "tooDim", "label": "Too Dim"},
+          {"value": "adequate", "label": "Adequate"}
+        ]
+      },
+      "Adjustment": {
+        "Description": "Specify the adjustment to make to the lighting",
+        "Required": true,
+        "Type": "text"
+      }
+    }
+  }
+}
+
+
+Note that I removed the `Rationale` parameter since it's not applicable (required=false). Let me know if you have any further questions!

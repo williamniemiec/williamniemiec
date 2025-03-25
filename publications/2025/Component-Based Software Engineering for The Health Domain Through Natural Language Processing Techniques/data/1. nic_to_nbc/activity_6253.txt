@@ -1,0 +1,32 @@
+Here is the output in JSON format:
+
+
+[
+  {
+    "element_name": "Reminder",
+    "parameters": {
+      "name": "reminder title",
+      "content": "reminder message",
+      "frequency": "specifies the interval for the reminder (e.g., every 15 minutes)",
+      "deadline_date": "specifies the start and end dates for the reminder"
+    }
+  },
+  {
+    "element_name": "Symptom Tracker",
+    "parameters": {
+      "name": "symptom tracker title",
+      "symptom_type": "specifies the type of symptom being tracked (e.g., pruritus)",
+      "severity_scale": "specifies the scale for reporting symptom severity (e.g., 1-5)",
+      "frequency": "specifies how often the patient should track their symptoms"
+    }
+  },
+  {
+    "element_name": "Guide",
+    "parameters": {
+      "name": "guide title",
+      "pages": "list of HTML texts or educational content"
+    }
+  }
+]
+
+Note: I removed `deadline_date` from `Symptom Tracker` as it's not applicable.

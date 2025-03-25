@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Travel Guidance": {
+    "parameters": {
+      "name": {"type": "text"},
+      "content": {"type": "rich text"},
+      "considerations_list": {"type": "list of text items"},
+      "images": {"type": "list of image URLs or base64-encoded images"},
+      "tips": {"type": "list of text items"}
+    }
+  }
+}

@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "Caregiver Strengths and Weaknesses Assessment": {
+    "Name": {
+      "Type": "text"
+    },
+    "Assessment Questions": {
+      "Type": "list of questions (with text, options, and scales)"
+    },
+    "Strengths Categories": {
+      "Type": "list of options (with text and icons)"
+    },
+    "Weaknesses Categories": {
+      "Type": "list of options (with text and icons)"
+    },
+    "Reflection Prompts": {
+      "Type": "list of text prompts (with options for customization)"
+    }
+  }
+}
+
+
+I removed all unnecessary information and kept only the `{{ NO-CODE ELEMENT NAME }}` and `{{ PARAMETER ESPECIFICATIONS }}`. I also reformatted the parameters to have a more JSON-like structure. Let me know if you need any further modifications!

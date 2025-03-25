@@ -1,0 +1,33 @@
+Here is the output in JSON format:
+
+{
+    "name": "Anxiety Trigger Identification",
+    "parameters": [
+        {
+            "name": "Reflection Prompt",
+            "type": "text"
+        },
+        {
+            "name": "Trigger Type",
+            "type": "options",
+            "options": [
+                { value: "people", label: "People" },
+                { value: "places", label: "Places" },
+                { value: "events", label: "Events" },
+                { value: "thoughts", label: "Thoughts" }
+            ]
+        },
+        {
+            "name": "Frequency",
+            "type": "options",
+            "options": [
+                { value: "daily", label: "Daily" },
+                { value: "onlyOnce", label: "Only once" },
+                { value: "everyHours", label: "Every x hours" },
+                { value: "everyDays", label: "Every x days" }
+            ]
+        }
+    ]
+}
+
+Note that I removed the `Deadline Date` parameter since it was marked as not required (`required`: `false`).

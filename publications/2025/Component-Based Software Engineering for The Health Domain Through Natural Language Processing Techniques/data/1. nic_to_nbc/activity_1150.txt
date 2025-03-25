@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Therapeutic Environment": {
+    "Ambiance": {"Description": "Desired ambiance for the therapeutic environment (e.g., warm, cool, bright, dim, etc.)", "Required": true, "Type": "options"},
+    "Noise Level": {"Description": "Desired noise level for the therapeutic environment (e.g., quiet, moderate, loud, etc.)", "Required": true, "Type": "options"},
+    "Privacy": {"Description": "Desired level of privacy for the therapeutic environment (e.g., private, semi-private, shared, etc.)", "Required": true, "Type": "options"},
+    "Personalization": {"Description": "Personalization preferences for the therapeutic environment (e.g., favorite music, scents, colors, etc.)", "Required": false, "Type": "text"},
+    "Comfort Items": {"Description": "Comfort items desired in the therapeutic environment (e.g., pillows, blankets, stuffed animals, etc.)", "Required": false, "Type": "unordered list"}
+  }
+}
+
+
+I removed all unnecessary information and only kept the `PARAMETER ESPECIFICATIONS` and `NO-CODE ELEMENT NAME`. I also removed the not applicable parameters.

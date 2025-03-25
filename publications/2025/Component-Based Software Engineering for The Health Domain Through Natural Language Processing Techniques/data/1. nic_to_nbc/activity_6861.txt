@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Antiemetic Medication Management": {
+    "Name": {"type": "text"},
+    "Medication List": {"type": "table"},
+    "Nausea Severity": {"type": "options"},
+    "Medication Selection": {"type": "options"},
+    "Dosage Instructions": {"type": "text"},
+    "Contraindications": {"type": "unordered list"},
+    "Frequency": {"type": "options"},
+    "Deadline Date": {"type": "datetime"}
+  }
+}
+
+
+Note that I removed the "Pregnancy Exclusion" parameter as it is a boolean type and seems to be more of an exception or exclusion criterion rather than a parameter specification.

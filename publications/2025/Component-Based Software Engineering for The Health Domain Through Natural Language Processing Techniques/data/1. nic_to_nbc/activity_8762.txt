@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Anxiety Reduction Techniques": {
+    "Techniques": {"type": "options", "options": ["slow breathing techniques", "distraction", "visualization", "meditation", "progressive muscle relaxation", "listening to soothing music", "etc."]},
+    "Instructions": {"type": "text"},
+    "Examples": {"type": "unordered list"},
+    "Tips": {"type": "unordered list", "examples": ["Practice techniques regularly to reduce anxiety", "Start with short exercises and gradually increase duration", "Find a quiet and comfortable space to practice techniques"]},
+    "Frequency": {"type": "options", "options": ["daily", "every other day", "3 times a week", "etc."]}
+  }
+}

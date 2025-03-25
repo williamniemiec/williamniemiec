@@ -1,0 +1,51 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Knowledge": {
+    "Parameters": {
+      "Medication Name": {"Type": "text"},
+      "Medication Purpose": {"Type": "text"},
+      "Dosage Instructions": {"Type": "text"}
+    }
+  },
+  "Administration Method": {
+    "Parameters": {
+      "Administration Route": {"Type": "options"},
+      "Administration Frequency": {"Type": "options"},
+      "Special Instructions": {"Type": "text"}
+    }
+  },
+  "Medication Identification": {
+    "Parameters": {
+      "Medication Name": {"Type": "text"}
+    }
+  },
+  "Medication Purpose": {
+    "Parameters": {
+      "Medication Purpose": {"Type": "text"}
+    }
+  },
+  "Dosage Instructions": {
+    "Parameters": {
+      "Dosage Instructions": {"Type": "text"}
+    }
+  },
+  "Administration Route": {
+    "Parameters": {
+      "Administration Route": {"Type": "options"}
+    }
+  },
+  "Administration Frequency": {
+    "Parameters": {
+      "Administration Frequency": {"Type": "options"}
+    }
+  },
+  "Special Instructions": {
+    "Parameters": {
+      "Special Instructions": {"Type": "text"}
+    }
+  }
+}
+
+Note that I removed the introduction and conclusion sections, as well as the not applicable parameters. The output is a JSON object with each no-code element name as a key, and its corresponding parameters as values.

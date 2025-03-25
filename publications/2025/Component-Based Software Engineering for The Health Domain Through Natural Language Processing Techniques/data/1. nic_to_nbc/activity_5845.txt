@@ -1,0 +1,30 @@
+Here is the output in JSON format:
+
+{
+  "name": "Motivation Assessment",
+  "parameters": [
+    {
+      "name": "question",
+      "type": "text"
+    },
+    {
+      "name": "answer type",
+      "type": "options",
+      "options": [
+        { value: "multiple choice" },
+        { value: "free text" },
+        { value: "rating scale" }
+      ]
+    },
+    {
+      "name": "options",
+      "type": "list of options"
+    },
+    {
+      "name": "rating scale",
+      "type": "rating scale"
+    }
+  ]
+}
+
+I removed all the unnecessary information and kept only the `{{ NO-CODE ELEMENT NAME }}` and `{{ PARAMETER ESPECIFICATIONS }}`. I also reformatted the parameters to match the expected JSON structure.

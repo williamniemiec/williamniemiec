@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Dietary Guidance": {
+        "Parameters": {
+            "Dietary Recommendations": {"Type": "text or checklist"},
+            "Food Examples": {"Type": "list of options (multiple selection)"},
+            "Meal Planning": {"Type": "text or template (with placeholders for meal ideas, portion sizes, etc.)"},
+            "Food Avoidance": {"Type": "list of options (multiple selection)"},
+            "Tracking": {"Type": "boolean (yes/no) or rating scale (e.g., 1-5)"}
+        }
+    }
+}

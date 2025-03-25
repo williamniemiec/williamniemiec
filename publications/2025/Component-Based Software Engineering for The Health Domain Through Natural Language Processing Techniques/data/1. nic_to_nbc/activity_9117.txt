@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Allergy Identification": {
+    "parameters": {
+      "Allergen List": {},
+      "Allergy Status": {},
+      "Reaction Description": {},
+      "Alternative Options": {}
+    }
+  }
+}

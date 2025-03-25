@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Assistance": {
+    "Medication Name": {},
+    "Dosage Instructions": {},
+    "Assistance Needed": {},
+    "Assistance Steps": {},
+    "Frequency": {}
+  }
+}
+
+
+I removed all non-parameter elements and also removed the "Deadline Date" parameter since it's not applicable (marked as `Required: false`). Let me know if this meets your requirements!

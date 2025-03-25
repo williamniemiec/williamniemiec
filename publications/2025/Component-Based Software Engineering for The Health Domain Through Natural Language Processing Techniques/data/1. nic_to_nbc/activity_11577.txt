@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Touch Evaluation": {
+    "title of the evaluation": {"Type": "text"},
+    "Questions": {"Type": "list", "Example questions": ["How did your infant respond to touch?", "Did your infant seem more relaxed after touch?", "How would you rate your infant's comfort level after touch?"]},
+    "Answer Type": {"Type": "options", "Options": ["multiple choice", "Likert scale", "text"]},
+    "Frequency": {"Type": "options", "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"Type": "datetime"}
+  }
+}

@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Conditional Exercise": {
+    "Relaxation Check": {"type": "boolean"},
+    "Tensing Instruction": {"type": "text"},
+    "Muscle Group": {"type": "text"},
+    "Tensing Duration": {"type": "numeric"},
+    "Frequency": {"type": "options", "options": ["daily", "everyHours", "everyDays"]},
+    "Deadline Date": {"type": "datetime"}
+  }
+}

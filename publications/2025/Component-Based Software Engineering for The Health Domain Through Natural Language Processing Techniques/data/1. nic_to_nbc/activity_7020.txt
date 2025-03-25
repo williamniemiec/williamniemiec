@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+    "Eye Patching": {
+        "Parameters": {
+            "Task Title": {"Type": "text", "Description": "Patch Your Eyes"},
+            "Task Steps": {"Type": "text", "Description": "Step 1: Clean and dry the area around your eye. Step 2: Apply the eye patch, ensuring a secure fit."},
+            "Frequency": {"Type": "options", "Options": ["daily", "weekly", "bi-weekly", "monthly"], "Description": "How often should you patch your eyes?"},
+            "Reason": {"Type": "text", "Description": "To protect your eye from injury or irritation, or to aid in healing"}
+        }
+    },
+    "Eye Patching Guide": {
+        "Parameters": {
+            "Page Title": {"Type": "text", "Description": "Eye Patching Guide"},
+            "Page Content": {"Type": "text", "Description": "Patching your eyes can help protect them from injury or irritation, or aid in healing. Follow these steps to ensure proper patching techniques."},
+            "Image": {"Type": "image", "Description": "An image illustrating the proper patching of the eyes"}
+        }
+    }
+}

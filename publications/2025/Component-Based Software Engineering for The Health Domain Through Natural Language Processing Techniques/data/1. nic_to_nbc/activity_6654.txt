@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Story Time": {
+    "Parameters": {
+      "Story Title": {"Type": "text"},
+      "Story Content": {"Type": "rich text or multimedia"},
+      "Story Type": {"Type": "options", "Options": ["fiction", "non-fiction", "educational"]},
+      "Reading Mode": {"Type": "options", "Options": ["read aloud", "display text"]},
+      "Frequency": {"Type": "options", "Options": ["daily", "every other day", "weekly"]}
+    }
+  }
+}

@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Expired Medication Warning": {
+    "Risks of Expired Medication": {"Type": "list (of risks)"},
+    "Consequences of Ignoring Expiration Dates": {"Type": "text"},
+    "Proper Storage and Disposal": {"Type": "text"},
+    "Expiration Date Tracking": {"Type": "calendar (or reminder system)"},
+    "Additional Resources": {"Type": "list (of URLs or PDFs)"}
+  }
+}
+
+
+Let me know if this meets your requirements!

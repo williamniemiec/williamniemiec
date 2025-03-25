@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Food Preferences",
+  "parameters": [
+    {
+      "name": "food_likes"
+    },
+    {
+      "name": "food_dislikes"
+    },
+    {
+      "name": "dietary_restrictions"
+    },
+    {
+      "name": "cultural_influences"
+    }
+  ]
+}

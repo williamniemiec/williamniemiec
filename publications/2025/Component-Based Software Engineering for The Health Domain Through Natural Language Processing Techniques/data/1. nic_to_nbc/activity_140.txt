@@ -1,0 +1,43 @@
+Here is the output in JSON format:
+
+
+{
+    "Pain Relief Measures": {
+        "parameters": {
+            "name": "",
+            "measures": []
+        }
+    },
+    "Pharmacological Interventions": {
+        "parameters": {
+            "name": "",
+            "medications": []
+        }
+    },
+    "Nonpharmacological Interventions": {
+        "parameters": {
+            "name": "",
+            "interventions": []
+        }
+    },
+    "Interpersonal Interventions": {
+        "parameters": {
+            "name": "",
+            "interventions": []
+        }
+    },
+    "Pain Relief Plan": {
+        "parameters": {
+            "name": "",
+            "plan": []
+        }
+    },
+    "Progress Tracking": {
+        "parameters": {
+            "name": "",
+            "tracking": ""
+        }
+    }
+}
+
+Let me know if this meets your requirements!

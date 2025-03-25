@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "risk communication": {
+    "Risk Information": {"type": "text"},
+    "Care Providers": {"type": "list of options", "options": ["physician", "nurse", "therapist", "other"]},
+    "Communication Method": {"type": "options", "options": ["verbal", "written", "electronic", "other"]},
+    "Urgency Level": {"type": "options", "options": ["high", "moderate", "low"]},
+    "Confirmation": {"type": "boolean"}
+  }
+}

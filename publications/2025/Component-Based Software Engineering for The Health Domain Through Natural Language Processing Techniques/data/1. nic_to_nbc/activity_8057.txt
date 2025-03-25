@@ -1,0 +1,38 @@
+Here is the output in JSON format:
+
+
+{
+    "Medication Control": {
+        "name": true,
+        "why": false,
+        "notes": false,
+        "dosage": true,
+        "frequency": true,
+        "deadline_date": true
+    },
+    "Task": {
+        "name": true,
+        "content": false,
+        "frequency": true,
+        "deadline_date": true
+    },
+    "Guide": {
+        "name": true,
+        "pages": true
+    },
+    "Question": {
+        "name": true,
+        "answer type": true,
+        "frequency": true,
+        "deadline_date": true
+    },
+    "Supplement Schedule": {
+        "type": "table or calendar"
+    },
+    "Phosphate Level Tracking": {
+        "type": "form or graph"
+    },
+    "Medication Reminders": {
+        "type": "notification or alert"
+    }
+}

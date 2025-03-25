@@ -1,0 +1,10 @@
+{
+  "name": "Monitoring Triggers and Reactions in Observational Settings",
+  "description": "Focuses on observing responses to specific triggers in an individual’s environment. Includes monitoring reactions and presentations visually and through self-reporting, often in spiritual or mental health settings.",
+  "type": "non-periodic",
+  "input": ["Trigger events", "Visual and self-report monitoring", "Reaction observation", "Spiritual response tracking"],
+  "output": ["Reaction report", "Trigger-response analysis", "Monitoring status"],
+  "preconditions": ["User is tracking responses to specific triggers"],
+  "postconditions": ["Effective monitoring and reporting of reactions"],
+  "dependencies": ["Monitoring platform", "Reaction tracking tools"]
+}

@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Elimination Options Explorer": {
+    "Name": {"Type": "text"},
+    "Options": {"Type": "list of options"},
+    "Description": {"Type": "list of text"},
+    "Resources": {"Type": "list of HTML texts or links"}
+  },
+  "Elimination Option": {
+    "Name": {"Type": "text"},
+    "Description": {"Type": "text"},
+    "Instructions": {"Type": "HTML text"},
+    "Resources": {"Type": "HTML text or link"}
+  }
+}

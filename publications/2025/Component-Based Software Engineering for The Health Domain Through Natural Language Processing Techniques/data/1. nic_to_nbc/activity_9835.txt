@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Immobilization Support": {
+    "Parameters": {
+      "Name": {},
+      "Body Part": {},
+      "Method": {},
+      "Instructions": {},
+      "Frequency": {}
+    }
+  }
+}

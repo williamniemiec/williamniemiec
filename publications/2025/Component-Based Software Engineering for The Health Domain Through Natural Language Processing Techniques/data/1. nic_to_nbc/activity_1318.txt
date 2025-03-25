@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Financial Guide": {
+        "Parameters": {
+            "Name": {"Type": "text"},
+            "Content": {"Type": "rich text or multimedia"},
+            "Resources": {"Type": "list of URLs or file attachments"},
+            "Frequency": {"Type": "options"},
+            "Deadline Date": {"Type": "datetime"}
+        }
+    }
+}

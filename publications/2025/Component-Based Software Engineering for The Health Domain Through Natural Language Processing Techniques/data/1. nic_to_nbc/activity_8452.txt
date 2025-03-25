@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Information": {
+    "Parameters": {
+      "Content": {"Type": "text"},
+      "Format": {"Type": "options"},
+      "Target Audience": {"Type": "options"},
+      "Timing": {"Type": "options"}
+    }
+  }
+}

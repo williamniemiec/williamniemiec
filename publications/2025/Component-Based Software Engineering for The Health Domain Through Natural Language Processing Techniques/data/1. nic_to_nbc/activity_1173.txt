@@ -1,0 +1,10 @@
+Here is the output in JSON format:
+
+
+{
+  "Care Team Members": {"type": "list of names or profiles"},
+  "Message Threads": {"type": "list of message threads or discussion topics"},
+  "Message Content": {"type": "text or interactive elements (e.g., interactive images, videos, or animations)"},
+  "File Sharing": {"type": "file upload or sharing feature"},
+  "Notification Preferences": {"type": "options or toggle switches"}
+}

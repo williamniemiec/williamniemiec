@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+  "ElementName": "Education Module",
+  "Parameters": {
+    "Module Title": {
+      "Description": "Title of the education module",
+      "Required": true,
+      "Type": "text"
+    },
+    "Pages": {
+      "Description": "List of pages with educational content",
+      "Required": true,
+      "Type": "book-page",
+      "book-page": "list of HTML texts"
+    }
+  }
+}
+
+
+I removed the not applicable parameters (i.e., `Quiz` since it's optional and not required) and kept only the required parameters. Let me know if this meets your requirements!

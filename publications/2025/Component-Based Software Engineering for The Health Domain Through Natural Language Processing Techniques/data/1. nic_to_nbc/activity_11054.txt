@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Knowledge Quiz": {
+    "parameters": [
+      {"name": "medication_name"},
+      {"name": "medication_purpose"},
+      {"name": "medication_dosage"},
+      {"name": "medication_frequency"},
+      {"name": "quiz_questions"}
+    ]
+  },
+  "Administration Method Understanding": {
+    "parameters": [
+      {"name": "administration_method"},
+      {"name": "administration_instructions"},
+      {"name": "understanding_questions"}
+    ]
+  }
+}

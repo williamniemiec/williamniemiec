@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Sexual Dysfunction Assessment": {
+    "Duration of Sexual Dysfunction": [
+      {"How long have you been experiencing sexual dysfunction?": {"Type": ["text", "selection"]}},
+      {"Has the sexual dysfunction been constant or intermittent?": {"Type": ["text", "selection"]}}
+    ],
+    "Potential Causes": [
+      {"Medical conditions (e.g., diabetes, hypertension, depression)": {"Type": ["text", "selection"]}},
+      {"Medications (e.g., antidepressants, blood pressure medications)": {"Type": ["text", "selection"]}},
+      {"Lifestyle factors (e.g., stress, lack of sleep, substance abuse)": {"Type": ["text", "selection"]}},
+      {"Relationship issues (e.g., communication problems, intimacy issues)": {"Type": ["text", "selection"]}},
+      {"Other potential causes (e.g., trauma, surgery)": {"Type": ["text", "selection"]}}
+    ],
+    "Additional Information": [{"Type": ["text", "selection"]}]
+  }
+}

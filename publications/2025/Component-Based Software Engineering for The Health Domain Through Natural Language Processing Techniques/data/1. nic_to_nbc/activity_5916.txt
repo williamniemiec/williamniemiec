@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Comprehensive Plan": {
+    "Healthcare Needs": {"type": "options"},
+    "Social Needs": {"type": "options"},
+    "Financial Needs": {"type": "options"},
+    "Goal Setting": {"type": "text"},
+    "Resource Allocation": {"type": "options"},
+    "Timeline": {"type": "datetime"},
+    "Responsibility Assignment": {"type": "text"}
+  }
+}

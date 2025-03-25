@@ -1,0 +1,29 @@
+Here is the output in JSON format:
+
+
+{
+  "Oxygen Administration": {
+    "parameters": {
+      "Oxygen Flow Rate": {
+        "type": "number"
+      },
+      "Oxygen Delivery Method": {
+        "type": "options",
+        "options": ["nasalCannula", "mask", "etc."]
+      },
+      "Frequency": {
+        "type": "options",
+        "options": ["asNeeded", "daily", "onlyOnce", "everyHours", "everyDays"]
+      },
+      "Deadline Date": {
+        "type": "datetime"
+      },
+      "Confirmation": {
+        "type": "boolean"
+      },
+      "Notes": {
+        "type": "text"
+      }
+    }
+  }
+}

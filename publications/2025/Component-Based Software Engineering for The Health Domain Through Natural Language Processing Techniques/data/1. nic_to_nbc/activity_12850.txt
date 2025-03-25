@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Blood Work Tracker": {
+    "parameters": {
+      "Blood Work Orders": {"type": "list or table"},
+      "Test Results": {"type": "table or graph"},
+      "Reference Ranges": {"type": "table or list"},
+      "Notes": {"type": "text"}
+    }
+  }
+}

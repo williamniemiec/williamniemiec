@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "noCodeElementName": "Peritoneal Dialysis Education",
+  "parameterSpecifications": {
+    "education_content": {"type": "text or HTML text"},
+    "images": {"type": "image or list of images"},
+    "video": {"type": "video or URL to a video"},
+    "procedure_details": {"type": "text or HTML text"},
+    "purpose_explanation": {"type": "text or HTML text"}
+  }
+}

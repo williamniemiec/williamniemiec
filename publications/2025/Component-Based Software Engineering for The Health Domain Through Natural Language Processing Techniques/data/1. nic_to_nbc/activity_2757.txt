@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Guide": {
+    "Parameters": {
+      "Task title": {"Description": "Title of the educational content", "Required": true, "Type": "Text"},
+      "Pages": {"Description": "List of HTML pages containing the educational content", "Required": true, "Type": "Book-page"}
+    }
+  }
+}

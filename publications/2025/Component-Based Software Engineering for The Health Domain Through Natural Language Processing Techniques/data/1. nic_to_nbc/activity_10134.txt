@@ -1,0 +1,31 @@
+Here is the output in JSON format:
+
+
+{
+  "Holistic Care Reminder": {
+    "reflection title": {
+      "Description": "title of the holistic care reminder reflection",
+      "Required": true,
+      "Type": "text"
+    },
+    "holistic care reminder reflection": {
+      "Description": "text encouraging the patient to focus on their overall well-being rather than just the task at hand",
+      "Required": true,
+      "Type": "text"
+    },
+    "Frequency": {
+      "Description": "specify how often the patient should be reminded to focus on their overall well-being",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "daily", "label": "Daily" },
+        { "value": "onlyOnce", "label": "Only once" },
+        { "value": "everyHours", "label": "Every x hours" },
+        { "value": "everyDays", "label": "Every x days" }
+      ]
+    }
+  }
+}
+
+
+I removed the `Image` and `Deadline Date` parameters as they are not required. Let me know if you need any further assistance!

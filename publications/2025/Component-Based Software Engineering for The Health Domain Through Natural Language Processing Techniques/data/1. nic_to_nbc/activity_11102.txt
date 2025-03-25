@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Care Improvement Identification",
+    "parameters": [
+        {
+            "name": "Care Issue"
+        },
+        {
+            "name": "Description"
+        },
+        {
+            "name": "Improvement Opportunity"
+        },
+        {
+            "name": "Priority"
+        },
+        {
+            "name": "Notes"
+        }
+    ]
+}

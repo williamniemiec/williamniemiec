@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Comfort Measures Checklist": {
+    "parameters": [
+      {"name": "relaxation_techniques", "description": "Use relaxation techniques (e.g. deep breathing, meditation)", "required": true, "type": "boolean"},
+      {"name": "pain_management", "description": "Take pain medication as prescribed", "required": true, "type": "boolean"},
+      {"name": "comfort_positioning", "description": "Position yourself comfortably", "required": true, "type": "boolean"},
+      {"name": "distraction", "description": "Use distraction techniques (e.g. music, TV, conversation)", "required": true, "type": "boolean"},
+      {"name": "support_system", "description": "Have a support person present", "required": true, "type": "boolean"},
+      {"name": "notes", "description": "Add any notes or comments about comfort measures", "required": false, "type": "text"}
+    ]
+  }
+}

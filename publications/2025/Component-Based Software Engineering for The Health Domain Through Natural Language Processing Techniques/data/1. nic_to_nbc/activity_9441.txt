@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "Guide": {
+    "parameters": {
+      "name": "",
+      "pages": []
+    }
+  },
+  "Video": {
+    "parameters": {
+      "name": "",
+      "video_url": ""
+    }
+  },
+  "Quiz": {
+    "parameters": {
+      "name": "",
+      "questions": [],
+      "answers": []
+    }
+  }
+}

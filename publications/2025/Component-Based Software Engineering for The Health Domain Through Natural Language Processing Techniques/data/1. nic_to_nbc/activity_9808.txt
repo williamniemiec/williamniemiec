@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Family Connection": {
+    "Task Title": {"type": "text"},
+    "Task Description": {"type": "text"},
+    "Family Members": {"type": "list of text"},
+    "Frequency": {"type": "options"},
+    "Communication Method": {"type": "options"},
+    "Activity Ideas": {"type": "list of text or HTML"}
+  }
+}

@@ -1,0 +1,33 @@
+Here is the output in JSON format:
+
+
+{
+  "1. Present-Focused Conversation": {
+    "parameters": {
+      "prompt": "",
+      "response type": ""
+    }
+  },
+  "2. Future-Oriented Goal Setting": {
+    "parameters": {
+      "goal prompt": "",
+      "goal type": "",
+      "plan development": ""
+    }
+  },
+  "3. Suicide History Acknowledgement": {
+    "parameters": {
+      "acknowledgement statement": "",
+      "empathy expression": ""
+    }
+  },
+  "4. Redirect": {
+    "parameters": {
+      "redirect prompt": "",
+      "tone": ""
+    }
+  }
+}
+
+
+Note that I removed the introduction and conclusion sections, as well as the non-applicable parameters. The output is a JSON object with each no-code element name as a key, and its corresponding parameters as values.

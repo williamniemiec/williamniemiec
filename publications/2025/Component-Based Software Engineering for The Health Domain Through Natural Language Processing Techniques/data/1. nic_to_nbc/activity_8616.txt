@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Care Team Messaging": {
+    "Message Type": {"Type": "options", "Required": true},
+    "Message Content": {"Type": "text", "Required": true},
+    "Care Team Member": {"Type": "care team member demographics and contact information", "Required": true},
+    "Patient Information": {"Type": "patient demographics and medical history", "Required": true},
+    "Send Date": {"Type": "datetime", "Required": true}
+  }
+}
+
+
+I removed the `Read Receipt` parameter because it was marked as not required (`"Required": false`). Let me know if this is correct!

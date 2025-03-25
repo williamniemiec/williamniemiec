@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Support Network": {
+    "parameters": [
+      {"name": "Support Contacts", "type": "list of contacts"},
+      {"name": "Tension Level Tracking", "type": "interactive exercise or gamification element"},
+      {"name": "Alert System", "type": "messaging or video conferencing element"},
+      {"name": "Communication Guidelines", "type": "text or video content"},
+      {"name": "Resource Library", "type": "text, audio, or video content"}
+    ]
+  }
+}

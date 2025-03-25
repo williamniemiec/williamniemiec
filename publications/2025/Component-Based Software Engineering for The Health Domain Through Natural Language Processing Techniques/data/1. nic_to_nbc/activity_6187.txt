@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+  "Emotional Development Guide": {
+    "Parameters": {
+      "Title": {"Type": "text"},
+      "Content": {"Type": "educational content (e.g., HTML, JSON)"},
+      "Age Ranges": {"Type": "list of age ranges (e.g., text)"},
+      "Developmental Milestones": {"Type": "list of developmental milestones (e.g., text)"},
+      "Images/Videos": {"Type": "list of image/video URLs or embedded content"},
+      "Quiz Questions": {"Type": "list of quiz questions (e.g., multiple-choice, true/false)"},
+      "Frequency": {"Options": ["daily", "onlyOnce", "everyDays"]},
+      "Deadline Date": {"Type": "datetime"}
+    }
+  }
+}
+
+
+I removed the introduction, number, description, and conclusion sections, as well as any non-parameter specifications. I also reformatted the parameter specifications to be more concise and JSON-friendly. Let me know if you have any further requests!

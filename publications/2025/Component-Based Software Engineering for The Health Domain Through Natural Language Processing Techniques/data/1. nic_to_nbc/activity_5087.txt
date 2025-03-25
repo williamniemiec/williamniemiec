@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Location Readiness": {
+    "Parameters": {
+      "Location Checklist": {"Type": "checklist"},
+      "Status": {"Type": "options"},
+      "Notes": {"Type": "text"},
+      "Deadline Date": {"Type": "datetime"}
+    }
+  }
+}

@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+  "Aspiration Monitoring": {
+    "Symptom List": {
+      "type": "unordered list",
+      "options": ["coughing", "choking", "difficulty swallowing", "etc."]
+    },
+    "Frequency": {
+      "type": "options",
+      "options": ["daily", "everyHours", "everyDays", "etc."]
+    },
+    "Deadline Date": {
+      "type": "datetime"
+    },
+    "Reporting Method": {
+      "type": "options",
+      "options": ["form", "photo", "text", "etc."]
+    }
+  }
+}

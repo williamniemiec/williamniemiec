@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Lymph Node Characterization": {
+    "parameters": [
+      {"Node Count": {"type": "numeric field"}},
+      {"Node Size": {"type": "text field or dropdown list"}},
+      {"Node Location": {"type": "text field or dropdown list"}},
+      {"Node Consistency": {"type": "text field or dropdown list"}},
+      {"Node Mobility": {"type": "text field or dropdown list"}},
+      {"Image Capture": {"type": "camera or image upload"}},
+      {"Frequency": {"options": ["daily", "onlyOnce", "everyHours", "everyDays"]}},
+      {"Deadline Date": {"type": "datetime"}}
+    ]
+  }
+}

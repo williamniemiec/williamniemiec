@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+    "Instruction": {
+        "parameters": {
+            "name": "Select appropriate size and type of needle",
+            "content": "Guidance on selecting an appropriate size and type of needle",
+            "type": "options",
+            "options": ["22G", "24G", "26G"]
+        }
+    },
+    "Quiz": {
+        "parameters": {
+            "name": "Select appropriate size and type of needle",
+            "questions": [],
+            "answer type": "options",
+            "options": ["22G", "24G", "26G"]
+        }
+    }
+}

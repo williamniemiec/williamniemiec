@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+
+{
+"Obstetrical History Review": {
+    "Parameters": {
+        "Obstetrical History": {"Type": "text or form with multiple fields"},
+        "Risk Factors": {"Type": "list of text or HTML content"},
+        "Antepartum Testing Indications": {"Type": "conditional logic"},
+        "Testing Recommendations": {"Type": "text or HTML content"}
+    }
+}
+}
+
+
+Let me know if this meets your requirements!

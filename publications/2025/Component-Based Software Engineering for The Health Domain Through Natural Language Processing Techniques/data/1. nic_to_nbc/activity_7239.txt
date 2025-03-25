@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Acupoint Selection": {
+    "parameters": {
+      "Desired outcome": ["Pain relief", "Stress reduction", "Improved sleep"],
+      "Acupoint database": "",
+      "Selection criteria": ["Location of the acupoint", "Indications for the acupoint", "Contraindications for the acupoint"],
+      "Results": ["Recommended acupoint(s)", "Corresponding locations"]
+    }
+  }
+}

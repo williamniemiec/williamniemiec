@@ -1,0 +1,37 @@
+Here is the output in JSON format:
+
+
+{
+  "Symptom Checker": {
+    "parameters": [
+      {
+        "name": "symptom",
+        "description": "Select symptoms you are experiencing",
+        "required": true,
+        "type": "options",
+        "options": [
+          { "value": "shortness_of_breath", "label": "Shortness of breath" },
+          { "value": "chest_pain", "label": "Chest pain" },
+          { "value": "fatigue", "label": "Fatigue" },
+          { "value": "confusion", "label": "Confusion" },
+          { "value": "other", "label": "Other (please specify)" }
+        ]
+      },
+      {
+        "name": "condition",
+        "description": "Select conditions you have been diagnosed with",
+        "required": true,
+        "type": "options",
+        "options": [
+          { "value": "COPD", "label": "Chronic Obstructive Pulmonary Disease (COPD)" },
+          { "value": "asthma", "label": "Asthma" },
+          { "value": "pulmonary_edema", "label": "Pulmonary edema" },
+          { "value": "respiratory_failure", "label": "Acute respiratory failure" },
+          { "value": "obesity_hypoventilation", "label": "Obesity hypoventilation syndrome" },
+          { "value": "obstructive_sleep_apnea", "label": "Obstructive sleep apnea" },
+          { "value": "other", "label": "Other (please specify)" }
+        ]
+      }
+    ]
+  }
+}

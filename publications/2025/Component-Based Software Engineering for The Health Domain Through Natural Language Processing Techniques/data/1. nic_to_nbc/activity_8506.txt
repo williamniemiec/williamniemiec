@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Care Clustering": {
+    "Parameters": {
+      "Current Care Schedule": {},
+      "Care Activities": {},
+      "Desired Sleep Interval": {},
+      "Action Plan": {},
+      "Reminder": {}
+    }
+  }
+}

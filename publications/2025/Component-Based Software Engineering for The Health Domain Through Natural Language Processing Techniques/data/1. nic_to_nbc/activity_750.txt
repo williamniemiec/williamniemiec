@@ -1,0 +1,31 @@
+Here is the output in JSON format:
+
+
+{
+  "Communication Aid": {
+    "Method": { 
+      "Type": "options", 
+      "Options": [
+        {"value": "images", "label": "Images"},
+        {"value": "otherWords", "label": "Other words"},
+        {"value": "symbols", "label": "Symbols"},
+        {"value": "gestures", "label": "Gestures"}
+      ]
+    },
+    "Content": { 
+      "Type": "text or image"
+    },
+    "Frequency": { 
+      "Type": "options", 
+      "Options": [
+        {"value": "daily", "label": "Daily"},
+        {"value": "onlyOnce", "label": "Only once"},
+        {"value": "everyHours", "label": "Every x hours"},
+        {"value": "everyDays", "label": "Every x days"}
+      ]
+    },
+    "Deadline Date": { 
+      "Type": "datetime"
+    }
+  }
+}

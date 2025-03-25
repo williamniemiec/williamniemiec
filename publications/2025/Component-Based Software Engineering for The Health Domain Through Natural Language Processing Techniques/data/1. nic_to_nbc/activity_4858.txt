@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+  "speech monitoring": {
+    "Parameters": {
+      "Speech Pattern": {
+        "Options": ["speed", "pressure", "pace", "quantity", "volume", "diction"]
+      },
+      "Assessment Tool": {
+        "Type": ["audio or video recording", "questionnaire", "rating scale"]
+      },
+      "Frequency": {
+        "Options": ["daily", "weekly", "monthly", "etc."]
+      },
+      "Goal Setting": {
+        "Type": ["text", "selection from a list of options"]
+      },
+      "Progress Tracking": {
+        "Type": ["graph", "chart", "table"]
+      }
+    }
+  }
+}
+
+
+Let me know if you need anything else!

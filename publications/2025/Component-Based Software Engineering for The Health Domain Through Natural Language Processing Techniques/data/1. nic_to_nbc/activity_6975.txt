@@ -1,0 +1,9 @@
+Here is the output in JSON format:
+
+
+{
+  "no-code-element-name": "Blood Drop Removal",
+  "parameter-specifications": {
+    "blood_drop_removal": "Removes the first drop of blood with dry gauze, as per manufacturer's specifications or agency protocol"
+  }
+}

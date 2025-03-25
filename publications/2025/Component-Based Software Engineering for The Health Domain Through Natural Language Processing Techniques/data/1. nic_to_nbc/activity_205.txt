@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Skin Relief Technique",
+  "parameters": [
+    {
+      "name": "Technique",
+      "options": ["Palm of the hand to rub over a wide area of the skin", "Pinch the skin gently between thumb and index finger"]
+    },
+    {
+      "name": "Frequency",
+      "options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+    },
+    {
+      "name": "Deadline Date",
+      "type": "datetime"
+    },
+    {
+      "name": "Additional Tips",
+      "type": "text"
+    }
+  ]
+}

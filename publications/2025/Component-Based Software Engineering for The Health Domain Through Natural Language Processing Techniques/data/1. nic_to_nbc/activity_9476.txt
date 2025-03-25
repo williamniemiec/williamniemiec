@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Vital Sign Monitoring": {
+    "Parameters": [
+      {"name": "Oxygen Status", "description": "Record SaO2 and SvO2 levels", "type": "numeric", "units": "%", "required": true},
+      {"name": "Neurological Status", "description": "Record mental status, ICP, and CPP", "type": "numeric", "units": "varies", "required": true},
+      {"name": "Hemodynamic Status", "description": "Record MAP level and cardiac rhythms", "type": "numeric", "units": "mmHg" and "bpm", "required": true}
+    ]
+  },
+  "Timed Data Collection": {
+    "Parameters": [
+      {"name": "Time Point", "description": "Select time point for data collection", "type": "options", "options": [{"value": "before", "label": "Before suctioning"}, {"value": "during", "label": "During suctioning"}, {"value": "after", "label": "After suctioning"}], "required": true}
+    ]
+  }
+}

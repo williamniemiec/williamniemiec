@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Injury Description": {
+    "Size": {"type": "text"},
+    "Color": {"type": "text"},
+    "Type": {"type": "options", "options": ["laceration", "bruise", "burn", "etc."]},
+    "Location": {"type": "text"},
+    "Depth": {"type": "text"},
+    "Trajectory": {"type": "text"}
+  }
+}

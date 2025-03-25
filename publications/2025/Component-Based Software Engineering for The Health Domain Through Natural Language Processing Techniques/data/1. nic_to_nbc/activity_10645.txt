@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Specimen Collection": {
+    "parameters": {
+      "Name": {"type": "text"},
+      "Specimen Types": {"type": "unordered list (text)"},
+      "Collection Instructions": {"type": "text"},
+      "Frequency": {"type": "options", "options": ["after transfusion reaction"]},
+      "Submission Method": {"type": "options", "options": ["list of submission methods"]}
+    }
+  }
+}
+
+
+Note that I removed the `Deadline Date` parameter since it was marked as "datetime" which is not applicable in this context. Let me know if you have any further questions!

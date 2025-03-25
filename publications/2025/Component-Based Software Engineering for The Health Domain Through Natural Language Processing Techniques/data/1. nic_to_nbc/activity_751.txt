@@ -1,0 +1,53 @@
+Here is the output in JSON format:
+
+
+{
+  "Effect Tracker": {
+    "parameters": {
+      "name": "Monitor for expected effects of specific allergen or medication",
+      "content": "Track the expected effects of the allergen or medication",
+      "type": "effect tracker",
+      "allergen_medication": [
+        {
+          "name": "Allergen/Medication",
+          "description": "Select the specific allergen or medication",
+          "type": "select",
+          "options": [
+            { "value": "allergen1", "label": "Allergen 1" },
+            { "value": "allergen2", "label": "Allergen 2" },
+            { "value": "medication1", "label": "Medication 1" },
+            { "value": "medication2", "label": "Medication 2" }
+          ]
+        }
+      ],
+      "expected_effects": [
+        {
+          "name": "Expected Effects",
+          "description": "Select the expected effects of the allergen or medication",
+          "type": "multiselect",
+          "options": [
+            { "value": "effect1", "label": "Effect 1" },
+            { "value": "effect2", "label": "Effect 2" },
+            { "value": "effect3", "label": "Effect 3" }
+          ]
+        }
+      ],
+      "tracking_log": [
+        {
+          "name": "Log",
+          "description": "View and track the expected effects over time",
+          "type": "log"
+        }
+      ],
+      "severity": [
+        {
+          "name": "Severity",
+          "description": "Rate the severity of the expected effects",
+          "type": "slider",
+          "min": 0,
+          "max": 10
+        }
+      ]
+    }
+  }
+}

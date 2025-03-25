@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+    "Technique Tutorial": {
+        "Parameters": {
+            "Technique Name": {"Type": "text"},
+            "Technique Description": {"Type": "text"},
+            "Step-by-Step Instructions": {"Type": "list of text"},
+            "Visual Aids": {"Type": "list of URLs or HTML texts"},
+            "Practice Exercise": {"Type": "text"},
+            "Frequency": {"Type": "options", "Options": ["daily", "weekly", "monthly"]},
+            "Reminders": {"Type": "boolean"}
+        }
+    }
+}

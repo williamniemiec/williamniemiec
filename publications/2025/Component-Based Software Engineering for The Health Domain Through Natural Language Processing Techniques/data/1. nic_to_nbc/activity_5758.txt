@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Confidential Communication",
+  "parameters": {
+    "confidentiality_policy": {
+      "description": "Statement of confidentiality policy",
+      "required": true,
+      "type": "text"
+    },
+    "communication_method": {
+      "description": "Specify alternative communication methods to ensure confidentiality",
+      "required": true,
+      "type": "options",
+      "options": [
+        { "value": "secureMessaging", "label": "Secure Messaging" },
+        { "value": "email", "label": "Email" },
+        { "value": "inPerson", "label": "In-Person Communication" }
+      ]
+    }
+  }
+}

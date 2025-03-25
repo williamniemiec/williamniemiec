@@ -1,0 +1,44 @@
+Here is the output in JSON format:
+
+
+{
+    "Discharge Plan": {
+        "parameters": {
+            "name": "",
+            "treatment plan": "",
+            "follow-up appointments": "",
+            "contact information": ""
+        }
+    },
+    "Illness/Medication Teaching": {
+        "parameters": {
+            "name": "",
+            "illness information": "",
+            "medication information": "",
+            "teaching method": ""
+        }
+    },
+    "Suicide Risk Recognition": {
+        "parameters": {
+            "name": "",
+            "risk factors": "",
+            "warning signs": "",
+            "action plan": ""
+        }
+    },
+    "Crisis Plan": {
+        "parameters": {
+            "name": "",
+            "coping strategies": "",
+            "emergency contact information": "",
+            "review frequency": ""
+        }
+    },
+    "Community Resources": {
+        "parameters": {
+            "name": "",
+            "resource list": "",
+            "contact information": ""
+        }
+    }
+}

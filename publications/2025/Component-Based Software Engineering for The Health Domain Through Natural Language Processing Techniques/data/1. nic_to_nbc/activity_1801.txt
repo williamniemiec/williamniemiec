@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Social Skills Training": {
+    "Parameters": {
+      "Topic": {"Type": "text"},
+      "Content": {"Type": "multimedia"},
+      "Format": {"Type": "options", "Options": ["tutorial", "quiz", "game"]},
+      "Duration": {"Type": "time interval"},
+      "Frequency": {"Type": "options", "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]}
+    }
+  }
+}

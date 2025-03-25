@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "question": {
+    "parameters": {
+      "name": {"type": "text"},
+      "answer type": {"options": ["yes/no", "select"]},
+      "food_allergies": {"type": "list of options"},
+      "frequency": {"options": ["onlyOnce", "everyVisit"]}
+    }
+  }
+}

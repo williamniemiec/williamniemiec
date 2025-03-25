@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Goal Setting": {
+    "Parameters": {
+      "Goal Statement": {"Type": "text"},
+      "Goal Type": {"Type": "options"},
+      "Target Date": {"Type": "datetime"},
+      "Notes": {"Type": "text"}
+    }
+  }
+}

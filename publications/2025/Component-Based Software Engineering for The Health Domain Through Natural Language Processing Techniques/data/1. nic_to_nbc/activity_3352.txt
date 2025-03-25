@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+    "Behavior Modification": {
+        "Name": {"Type": "text"},
+        "Goal": {"Type": "text"},
+        "Techniques": {
+            "Type": "unordered list",
+            "Items": {
+                "Technique": {"Type": "text"},
+                "Description": {"Type": "text"}
+            }
+        },
+        "Target Behaviors": {
+            "Type": "unordered list",
+            "Items": {
+                "Behavior": {"Type": "text"},
+                "Goal": {"Type": "text"}
+            }
+        },
+        "Frequency": {
+            "Type": "options",
+            "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+        },
+        "Deadline Date": {"Type": "datetime"}
+    }
+}

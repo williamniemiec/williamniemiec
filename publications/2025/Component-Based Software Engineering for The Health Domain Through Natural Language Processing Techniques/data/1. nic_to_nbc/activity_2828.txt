@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+    "Oral Airway Suctioning Guide": {
+        "Suctioning Instructions": {"type": "text"},
+        "Visual Aids": {"type": "image or video"},
+        "Frequency": {"type": "options"},
+        "Reminders": {"type": "boolean"}
+    }
+}

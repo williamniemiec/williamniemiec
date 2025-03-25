@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Catheter Use Reminder": {
+        "parameters": {
+            "name": {"type": "text"},
+            "message": {"type": "text"},
+            "frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+            "deadline_date": {"type": "datetime"}
+        }
+    }
+}

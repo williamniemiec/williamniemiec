@@ -1,0 +1,40 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Pain Relief Before Meals",
+    "parameters": [
+        {
+            "name": "pain_assessment",
+            "description": "Specify the method of pain assessment",
+            "options": [
+                { value: "verbal_rating_scale", label: "Verbal rating scale" },
+                { value: "visual_analog_scale", label: "Visual analog scale" },
+                { value: "pain_questionnaire", label: "Pain questionnaire" }
+            ]
+        },
+        {
+            "name": "pain_relief_options",
+            "description": "List of pain relief options that can be used",
+            "items": {
+                "type": "option",
+                "properties": {
+                    "name": {"type": "text"},
+                    "description": {"type": "text"}
+                }
+            }
+        },
+        {
+            "name": "dosing_and_frequency",
+            "description": "Specify the dosing and frequency of pain relief administration"
+        },
+        {
+            "name": "timing",
+            "description": "Specify the timing of pain relief administration in relation to meals"
+        },
+        {
+            "name": "monitoring",
+            "description": "Specify the monitoring of pain relief effectiveness"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Therapeutic Tool": {
+        "parameters": [
+            {"name": "Name", "type": "text"},
+            {"name": "Description", "type": "text"},
+            {"name": "Tool Type", "type": "options", "options": ["lollipop", "straw", "other"]},
+            {"name": "Instructions", "type": "text"},
+            {"name": "Frequency", "type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]}
+        ]
+    }
+}

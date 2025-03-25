@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+{
+    "name": "Activity Tracker",
+    "parameters": [
+        {
+            "name": "Activity Type",
+            "type": "options"
+        },
+        {
+            "name": "Activity Name",
+            "type": "text"
+        },
+        {
+            "name": "Frequency of Participation",
+            "type": "options"
+        },
+        {
+            "name": "Reflection",
+            "type": "text"
+        },
+        {
+            "name": "Frequency",
+            "type": "options"
+        }
+    ]
+}

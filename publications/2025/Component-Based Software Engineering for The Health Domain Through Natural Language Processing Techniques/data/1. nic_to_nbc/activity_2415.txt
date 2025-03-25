@@ -1,0 +1,39 @@
+Here is the output in JSON format:
+
+
+{
+  "Activity Sequencer": {
+    "parameters": {
+      "Exercise Therapy": {
+        "type": "text",
+        "required": true
+      },
+      "Daily Care Activities": {
+        "type": "list",
+        "required": true,
+        "items": [
+          {
+            "name": "activity name",
+            "description": "activity description",
+            "type": "options",
+            "options": [
+              { "value": "morning", "label": "Morning" },
+              { "value": "afternoon", "label": "Afternoon" },
+              { "value": "evening", "label": "Evening" }
+            ]
+          }
+        ]
+      },
+      "Sequence": {
+        "type": "list",
+        "required": true,
+        "items": [
+          {
+            "activity": "activity name",
+            "time": "time of day"
+          }
+        ]
+      }
+    }
+  }
+}

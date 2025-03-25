@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+  "Nurse Call Button": {
+    "Parameters": {
+      "Name": {},
+      "Button Label": {},
+      "Button Icon": {},
+      "Response Time": {},
+      "Confirmation Message": {}
+    }
+  },
+  "Chat": {
+    "Parameters": {
+      "Name": {},
+      "Message Input": {},
+      "Send Button": {},
+      "Response Time": {},
+      "Confirmation Message": {}
+    }
+  }
+}

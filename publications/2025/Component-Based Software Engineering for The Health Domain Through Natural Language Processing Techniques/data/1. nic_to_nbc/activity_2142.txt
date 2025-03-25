@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+    "Contact Log": {
+        "Case ID": {
+            "Type": "text input or dropdown menu with case IDs"
+        },
+        "Contact Date": {
+            "Type": "date picker"
+        },
+        "Contact Type": {
+            "Type": "dropdown menu or radio buttons with contact type options"
+        },
+        "Contact Details": {
+            "Type": "text input or rich text editor"
+        },
+        "File Attachment": {
+            "Type": "file upload (PDF, image, or document)"
+        },
+        "Search and Filter": {
+            "Type": "search bar and filter dropdown menus"
+        }
+    }
+}

@@ -1,0 +1,46 @@
+Here is the output in JSON format:
+
+
+{
+    "preparation_instruction": {
+        "parameters": [
+            { 
+                "name": "steps", 
+                "description": "list of preparation steps", 
+                "required": true, 
+                "type": "list",
+                "list_items": [
+                    { 
+                        "name": "assemble_equipment", 
+                        "description": "assemble equipment", 
+                        "required": true, 
+                        "type": "text"
+                    },
+                    { 
+                        "name": "wash_hands", 
+                        "description": "wash hands", 
+                        "required": true, 
+                        "type": "text"
+                    },
+                    { 
+                        "name": "don_gloves", 
+                        "description": "don gloves", 
+                        "required": true, 
+                        "type": "text"
+                    }
+                ]
+            },
+            { 
+                "name": "frequency", 
+                "description": "specify how often to remind the patient to prepare", 
+                "required": true, 
+                "type": "options",
+                "options": [
+                    { value: "daily", label: "Daily" },
+                    { value: "everyHours", label: "Every x hours" },
+                    { value: "everyDays", label: "Every x days" }
+                ]
+            }
+        ]
+    }
+}

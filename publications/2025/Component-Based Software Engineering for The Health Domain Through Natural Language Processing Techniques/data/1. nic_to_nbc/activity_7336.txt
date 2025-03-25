@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Follow-up": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Interval": {"Type": "options", "Options": ["daily", "weekly", "biweekly", "monthly", "quarterly", "etc."]},
+      "Method": {"Type": "options", "Options": ["phone call", "video call", "in-person visit", "email", "etc."]},
+      "Content": {"Type": "text or form"},
+      "Deadline Date": {"Type": "datetime"}
+    }
+  }
+}

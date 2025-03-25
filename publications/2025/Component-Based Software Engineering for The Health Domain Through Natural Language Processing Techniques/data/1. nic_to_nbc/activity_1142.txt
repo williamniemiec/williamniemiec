@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Healthy Diet Guide": {
+    "Parameters": {
+      "Title": {"Type": "text", "Description": "Enter a title for the healthy diet guide (e.g., \"Eating for Good Health\")"},
+      "Content": {"Type": "text", "Description": "Enter the content of the healthy diet guide (e.g., \"A healthy diet should include a variety of fruits, vegetables, whole grains, and lean proteins...\")"},
+      "Food Groups": {"Type": "list", "Description": "Enter the recommended food groups (e.g., \"Fruits\", \"Vegetables\", \"Whole Grains\", etc.)"},
+      "Water Intake Recommendations": {"Type": "text", "Description": "Enter the recommended daily water intake (e.g., \"Aim to drink at least 8 cups (64 ounces) of water per day\")"},
+      "Tips and Reminders": {"Type": "list", "Description": "Enter tips and reminders (e.g., \"Eat a rainbow of fruits and vegetables\", \"Drink water before meals\", etc.)"}
+    }
+  }
+}

@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Safety Check": {
+    "Hazard Types": {"type": "options", "options": ["tripping hazards", "electrical hazards", "fire hazards", "sharp objects"]},
+    "Room Areas": {"type": "options", "options": ["floor", "furniture", "electrical outlets", "kitchen area"]},
+    "Action Items": {"type": "options", "options": ["remove item", "relocate item", "secure item", "call for assistance"]},
+    "Additional Tips": {"type": "text"}
+  }
+}

@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Water Intake Tracker": {
+    "Parameters": {
+      "Name": {},
+      "Fluid Type": {},
+      "Volume": {},
+      "Frequency": {},
+      "Goal": {},
+      "Tracking Method": {}
+    }
+  }
+}

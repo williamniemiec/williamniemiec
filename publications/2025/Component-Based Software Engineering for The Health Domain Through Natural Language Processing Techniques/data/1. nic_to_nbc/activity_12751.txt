@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Session Summary": {
+    "parameters": [
+      {"Session Notes": "notes or key points from the group session"},
+      {"Summary Type": "type of summary to be generated"},
+      {"Reflection Prompt": "reflection prompt or question"},
+      {"Additional Resources": "additional resources or materials related to the session summary"}
+    ]
+  }
+}

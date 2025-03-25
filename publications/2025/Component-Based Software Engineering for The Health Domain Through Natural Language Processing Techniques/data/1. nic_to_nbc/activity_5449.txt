@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Neurological Status Monitoring": {
+    "Glasgow Coma Scale (GCS)": {"type": "number"},
+    "Cognitive Function": {"type": "text"},
+    "Motor Skills": {"type": "text"},
+    "Sensory Responses": {"type": "text"},
+    "Notes": {"type": "text"}
+  }
+}

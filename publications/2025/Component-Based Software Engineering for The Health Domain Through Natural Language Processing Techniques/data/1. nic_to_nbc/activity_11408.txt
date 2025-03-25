@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Prenatal Care Planner": {
+    "Importance of Early Registration": {},
+    "Prenatal Care Schedule": {},
+    "High-Risk Programs": {},
+    "Risk Assessment": {},
+    "Resources": {},
+    "Reminders": {}
+  }
+}

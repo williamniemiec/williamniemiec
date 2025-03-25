@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Comfort Level Assessment": {
+    "Parameters": {
+      "Pain Level": {"Type": "number"},
+      "Discomfort Type": {"Type": "options"},
+      "Comfort Scale": {"Type": "number"},
+      "Comfort Factors": {"Type": "unordered list"},
+      "Interventions": {"Type": "unordered list"}
+    }
+  }
+}

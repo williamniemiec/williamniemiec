@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+{
+  "Reproductive Cycle Guide": {
+    "Content": {},
+    "Topics": {},
+    "Interactive Elements": {},
+    "FAQs": {},
+    "Resources": {}
+  }
+}

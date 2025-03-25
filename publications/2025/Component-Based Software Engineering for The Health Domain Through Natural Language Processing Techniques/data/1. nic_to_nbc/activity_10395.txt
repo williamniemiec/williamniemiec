@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+    "Self-Assessment": {
+        "Questions": {"Type": "list of text"},
+        "Answer Type": {"Type": "options"},
+        "Frequency": {"Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+        "Deadline Date": {"Type": "datetime"}
+    },
+    "Sensor Data": {
+        "Sensor Type": {"Type": "options"},
+        "Frequency": {"Options": ["continuous", "interval-based", "event-based"]},
+        "Data Analysis": {"Type": "options"}
+    }
+}
+
+
+Let me know if you need anything else!

@@ -1,0 +1,47 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Feedback Provider",
+    "parameters": [
+        {
+            "name": "Targeted Social Skill",
+            "type": "text"
+        },
+        {
+            "name": "Performance Evaluation",
+            "type": "text"
+        },
+        {
+            "name": "Feedback Type",
+            "type": "options",
+            "options": [
+                { value: "praise", label: "Praise" },
+                { value: "rewards", label: "Rewards" },
+                { value: "constructive criticism", label: "Constructive Criticism" }
+            ]
+        },
+        {
+            "name": "Feedback Message",
+            "type": "text"
+        },
+        {
+            "name": "Reward",
+            "type": "text"
+        },
+        {
+            "name": "Frequency",
+            "type": "options",
+            "options": [
+                { value: "daily", label: "Daily" },
+                { value: "onlyOnce", label: "Only once" },
+                { value: "everyHours", label: "Every x hours" },
+                { value: "everyDays", label: "Every x days" }
+            ]
+        },
+        {
+            "name": "Deadline Date",
+            "type": "datetime"
+        }
+    ]
+}

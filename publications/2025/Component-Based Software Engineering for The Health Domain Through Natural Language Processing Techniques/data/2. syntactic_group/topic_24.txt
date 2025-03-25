@@ -1,0 +1,10 @@
+{
+  "name": "Activity and Routine Management",
+  "description": "Helps manage activities, habits, and routines through scheduling, reminders, and planning, with a focus on balancing activity and rest.",
+  "type": "periodic",
+  "input": ["Activity list", "Scheduled times", "Habits", "Rest periods"],
+  "output": ["Activity reminders", "Routine progress", "Updated schedule"],
+  "preconditions": ["User sets up activity schedule and habits"],
+  "postconditions": ["Activities are completed and routine is adjusted as needed"],
+  "dependencies": ["Activity planning system", "Reminder notification service", "Habit tracking tools"]
+}

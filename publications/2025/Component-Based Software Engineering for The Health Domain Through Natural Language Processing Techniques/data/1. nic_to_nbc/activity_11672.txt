@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Welcome Message": {
+    "parameters": {
+      "message": "text",
+      "tone": ["friendly", "empathetic", "professional"]
+    }
+  }
+}

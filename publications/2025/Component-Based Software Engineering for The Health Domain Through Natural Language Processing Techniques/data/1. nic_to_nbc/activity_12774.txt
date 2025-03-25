@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Expectation Alignment": {
+    "Parameters": {
+      "Expectations": {},
+      "Alignment Questions": {},
+      "Frequency": {
+        "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+      },
+      "Deadline Date": {}
+    }
+  }
+}

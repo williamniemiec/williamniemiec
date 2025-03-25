@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Change Request": {
+    "Current Medication": {"type": "text"},
+    "Requested Change": {"type": "text"},
+    "Reason": {"type": "options"},
+    "Physician Notification": {"type": "boolean"},
+    "Physician Response": {"type": "options"},
+    "New Medication": {"type": "text"}
+  }
+}

@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Breathing Instruction": {
+    "Instruction Text": {"type": "text", "example": "Tilt your head back slightly and exhale completely"},
+    "Illustration": {"type": "image or diagram"},
+    "Audio Guidance": {"type": "audio file"},
+    "Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"type": "datetime"}
+  }
+}

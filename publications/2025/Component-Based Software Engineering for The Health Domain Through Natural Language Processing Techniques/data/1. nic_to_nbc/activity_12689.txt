@@ -1,0 +1,43 @@
+Here is the output in JSON format:
+
+
+{
+  "Labor Signs Education": {
+    "Content": {
+      "Type": "interactive guide"
+    },
+    "Signs of Labor": {
+      "Type": "checklist",
+      "Options": [
+        "Contractions",
+        "Back pain",
+        "Bloody show",
+        "Water breaking",
+        "Nesting instinct",
+        "Other"
+      ]
+    },
+    "What to Do": {
+      "Type": "options",
+      "Actions": [
+        "Contact healthcare provider",
+        "Go to hospital",
+        "Stay at home",
+        "Other"
+      ]
+    },
+    "Quiz": {
+      "Type": "quiz"
+    },
+    "Frequency": {
+      "Options": [
+        "once",
+        "daily",
+        "every few days"
+      ]
+    },
+    "Deadline Date": {
+      "Type": "datetime"
+    }
+  }
+}

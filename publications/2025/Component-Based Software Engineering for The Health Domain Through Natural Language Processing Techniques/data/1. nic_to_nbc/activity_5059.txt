@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+"Wakefulness Promotion": {
+"Activity Options": {"type": "list of text"},
+"Schedule": {"type": "text or numerical value"},
+"Duration": {"type": "text or numerical value"},
+"Tips": {"type": "list of text or HTML content"}
+},
+"Task": {
+"Name": {"type": "text"},
+"Content": {"type": "text"},
+"Frequency": {"options": ["daily", "weekly", "monthly"]}
+},
+"Reminder": {
+"Name": {"type": "text"},
+"Time": {"type": "datetime"},
+"Message": {"type": "text"}
+}
+
+
+Let me know if this meets your requirements!

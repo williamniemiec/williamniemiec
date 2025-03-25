@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+[
+  {
+    "name": "Collaboration Platform",
+    "parameters": [
+      { "name": "name", "description": "title of the collaboration platform" },
+      { "name": "description", "description": "brief summary of the collaboration platform" },
+      { "name": "members", "description": "list of professionals participating in the collaboration" },
+      { "name": "goals", "description": "list of goals or objectives for the collaboration" },
+      { "name": "tasks", "description": "list of tasks or actions to be taken by each member" },
+      { "name": "deadlines", "description": "list of deadlines for each task" },
+      { "name": "communication", "description": "options for communication between members" }
+    ]
+  },
+  {
+    "name": "Program Plan",
+    "parameters": [
+      { "name": "name", "description": "title of the program plan" },
+      { "name": "description", "description": "brief summary of the program plan" },
+      { "name": "objectives", "description": "list of objectives for the program" },
+      { "name": "strategies", "description": "list of strategies for achieving the objectives" },
+      { "name": "timelines", "description": "list of timelines for each strategy" },
+      { "name": "resources", "description": "list of resources required for the program" }
+    ]
+  }
+]

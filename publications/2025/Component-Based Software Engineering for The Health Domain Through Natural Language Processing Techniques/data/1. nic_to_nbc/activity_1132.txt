@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Environmental Stimulus Regulation": {
+    "Name": {"Type": "text"},
+    "Light Exposure": {"Type": "options", "Options": ["natural light", "artificial light", "dim red light", "etc."]},
+    "Noise Level": {"Type": "options", "Options": ["quiet", "moderate", "loud", "etc."]},
+    "Temperature": {"Type": "options", "Options": ["cool", "moderate", "warm", "etc."]},
+    "Sleep-Conducive Environment": {"Type": "rich text"},
+    "Schedule": {"Type": "table"}
+  }
+}

@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Blood Loss Measurement": {
+    "parameters": {
+      "weight_of_blood_loss": {},
+      "unit_of_measurement": {},
+      "additional_notes": {}
+    }
+  }
+}

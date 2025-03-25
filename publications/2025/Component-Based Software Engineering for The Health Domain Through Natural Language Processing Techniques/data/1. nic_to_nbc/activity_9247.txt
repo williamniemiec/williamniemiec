@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Lab Test Request": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Test Type": {"Type": "options", "Options": ["ABGs", "urine", "serum", "other"]},
+      "Specimen Collection": {"Type": "text"},
+      "Frequency": {"Type": "options", "Options": ["one-time", "daily", "everyHours", "everyDays", "custom"]},
+      "Deadline Date": {"Type": "datetime"},
+      "Resources": {"Type": "list of URLs or HTML texts"}
+    }
+  }
+}

@@ -1,0 +1,38 @@
+Here is the output in JSON format:
+
+
+{
+  "Stomatitis Education": {
+    "Parameters": {
+      "Title": {
+        "Description": "title of the stomatitis education content",
+        "Required": true,
+        "Type": "text"
+      },
+      "Signs and Symptoms": {
+        "Description": "list of signs and symptoms of stomatitis, such as mouth sores, redness, swelling, and pain",
+        "Required": true,
+        "Type": "list"
+      },
+      "When to Report": {
+        "Description": "instructions on when to report to a health care provider, such as if symptoms worsen or do not improve with treatment",
+        "Required": true,
+        "Type": "text"
+      },
+      "Frequency": {
+        "Description": "specify how often the patient should be reminded to monitor for signs and symptoms of stomatitis",
+        "Required": true,
+        "Type": "options",
+        "Options": [
+          { "value": "daily", "label": "Daily" },
+          { "value": "onlyOnce", "label": "Only once" },
+          { "value": "everyHours", "label": "Every x hours" },
+          { "value": "everyDays", "label": "Every x days" }
+        ]
+      }
+    }
+  }
+}
+
+
+I removed the non-applicable parameters, such as **Resources**, since it's not required. Let me know if you need any further assistance!

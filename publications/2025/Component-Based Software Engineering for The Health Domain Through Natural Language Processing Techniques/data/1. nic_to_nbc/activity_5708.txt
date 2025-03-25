@@ -1,0 +1,27 @@
+
+
+
+{
+    "Standardized Notations": {
+        "Notation Type": {
+            "type": "options",
+            "options": [
+                { "value": "Abbreviation", "label": "Abbreviation" },
+                { "value": "Acronym", "label": "Acronym" },
+                { "value": "Symbol", "label": "Symbol" }
+            ]
+        },
+        "Standardized List": {
+            "type": "list",
+            "example": [
+                { "notation": "mg", "meaning": "milligram" },
+                { "notation": "hr", "meaning": "hour" },
+                { "notation": "", "meaning": "prescription" }
+            ]
+        },
+        "Explanation": {
+            "type": "text",
+            "example": "Using standardized notations helps reduce errors and ensures clear communication between healthcare providers and patients."
+        }
+    }
+}

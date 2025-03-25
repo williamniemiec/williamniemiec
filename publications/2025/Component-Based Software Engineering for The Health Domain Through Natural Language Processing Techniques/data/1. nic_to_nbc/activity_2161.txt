@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Group Activity Invitation": {
+    "name": {"type": "text"},
+    "description": {"type": "text"},
+    "type": {"type": "options"},
+    "schedule": {"type": "text"},
+    "location": {"type": "text"},
+    "benefits": {"type": "text"},
+    "registration": {"type": "boolean"}
+  }
+}
+
+
+Let me know if this meets your requirements!

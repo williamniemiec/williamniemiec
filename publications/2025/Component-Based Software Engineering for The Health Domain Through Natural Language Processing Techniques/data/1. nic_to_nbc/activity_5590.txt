@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Seizure First Aid Education": {
+        "parameters": [
+            {"name": "name", "type": "text"},
+            {"name": "steps", "type": "list of step objects"},
+            {"name": "important_info", "type": "text"},
+            {"name": "resources", "type": "list of URLs or PDFs"}
+        ]
+    }
+}

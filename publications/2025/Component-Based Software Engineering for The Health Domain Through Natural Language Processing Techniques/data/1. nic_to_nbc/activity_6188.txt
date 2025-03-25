@@ -1,0 +1,15 @@
+
+
+
+{
+  "PARAMETER ESPECIFICATIONS": "* Technical expertise to interpret monitor data (e.g., fetal heart rate, maternal vital signs)\n* Real-time observation and assessment of the patient's condition\n* Clinical judgment to identify potential complications and take appropriate actions\n* Knowledge of institutional policy and procedures for documentation",
+  "NO-CODE ELEMENT NAME": null
+}
+
+
+Note that there is no `NO-CODE ELEMENT NAME` specified in the input text, so it is set to `null`. If you want to remove it from the output, here is the updated JSON:
+
+
+{
+  "PARAMETER ESPECIFICATIONS": "* Technical expertise to interpret monitor data (e.g., fetal heart rate, maternal vital signs)\n* Real-time observation and assessment of the patient's condition\n* Clinical judgment to identify potential complications and take appropriate actions\n* Knowledge of institutional policy and procedures for documentation"
+}

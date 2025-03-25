@@ -1,0 +1,29 @@
+Here is the output in JSON format:
+
+
+{
+    "Breastfeeding Record Keeping Guidance": {
+        "Parameters": {
+            "Record Keeping Tips": {
+                "Type": "checklist",
+                "Example": ["Record the date and time of each feeding", "Note the duration of each feeding", "Track the amount of milk expressed during pumping"]
+            },
+            "Importance of Record Keeping": {
+                "Type": "text",
+                "Example": "Keeping accurate records of nursing and pumping sessions can help you track your progress, identify patterns, and make informed decisions about your breastfeeding journey"
+            },
+            "Record Keeping Template": {
+                "Type": "text or table",
+                "Example": "Date | Time | Feeding Duration | Milk Expressed"
+            },
+            "Resources": {
+                "Type": "text or link",
+                "Optional": true
+            },
+            "Frequency": {
+                "Type": "options",
+                "Options": ["everyFeeding", "everyXFeedings", "atWill"]
+            }
+        }
+    }
+}

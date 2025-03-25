@@ -1,0 +1,43 @@
+Here is the output in JSON format:
+
+
+{
+    "Peripheral Pulse Checker": {
+        "Pulse Location": ["Radial pulse", "Ulnar pulse", "Femoral pulse", "Popliteal pulse", "Posterior tibial pulse", "Dorsalis pedis pulse"],
+        "Pulse Presence": ["Present", "Absent"],
+        "Pulse Quality": ["Normal", "Weak", "Bounding"],
+        "Frequency": {"optional": true},
+        "Deadline Date": {"optional": true}
+    },
+    "Edema Assessment": {
+        "Edema Presence": ["Yes", "No"],
+        "Edema Severity": ["Mild", "Moderate", "Severe"],
+        "Edema Location": ["Foot", "Ankle", "Leg", "Other (free text)"],
+        "Frequency": {"optional": true},
+        "Deadline Date": {"optional": true}
+    },
+    "Capillary Refill Assessment": {
+        "Capillary Refill Time": {"numeric value": true},
+        "Capillary Refill Location": ["Finger", "Toe", "Other (free text)"],
+        "Frequency": {"optional": true},
+        "Deadline Date": {"optional": true}
+    },
+    "Skin Color Assessment": {
+        "Skin Color": ["Normal", "Pale", "Cyanotic", "Red", "Other (free text)"],
+        "Frequency": {"optional": true},
+        "Deadline Date": {"optional": true}
+    },
+    "Pain Assessment": {
+        "Pain Presence": ["Yes", "No"],
+        "Pain Severity": ["Mild", "Moderate", "Severe"],
+        "Pain Location": ["Foot", "Ankle", "Leg", "Other (free text)"],
+        "Frequency": {"optional": true},
+        "Deadline Date": {"optional": true}
+    },
+    "Extremity Temperature Assessment": {
+        "Temperature": {"numeric value": true},
+        "Temperature Location": ["Foot", "Ankle", "Leg", "Other (free text)"],
+        "Frequency": {"optional": true},
+        "Deadline Date": {"optional": true}
+    }
+}

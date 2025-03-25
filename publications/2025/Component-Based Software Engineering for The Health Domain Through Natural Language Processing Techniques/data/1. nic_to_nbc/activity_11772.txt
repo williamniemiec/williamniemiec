@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Neurological Status Assessment": {
+    "Level of Consciousness": {"Type": "options"},
+    "Orientation": {"Type": "text"},
+    "Motor Function": {"Type": "options"},
+    "Sensory Function": {"Type": "options"},
+    "Cognitive Function": {"Type": "options"},
+    "Pain or Discomfort": {"Type": "options"}
+  }
+}

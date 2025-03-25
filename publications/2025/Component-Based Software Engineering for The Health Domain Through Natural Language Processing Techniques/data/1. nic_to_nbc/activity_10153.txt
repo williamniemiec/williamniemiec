@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "Reflection Journal": {
+    "Prompt": "text",
+    "Entry type": "options",
+    "Frequency": "options"
+  },
+  "Goal Achievement Tracker": {
+    "Goal": "text",
+    "Achievement status": "options",
+    "Date achieved": "datetime"
+  },
+  "Motivational Messages": {
+    "Message type": "options",
+    "Message content": "text or multimedia content",
+    "Frequency": "options"
+  },
+  "Reward System": {
+    "Reward type": "options",
+    "Reward criteria": "options",
+    "Reward frequency": "options"
+  }
+}

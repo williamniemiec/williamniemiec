@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Fluid and Electrolyte Status Assessment": {
+    "Parameters": {
+      "Fluid Intake": {"Type": "number", "Required": true},
+      "Urine Output": {"Type": "number", "Required": true},
+      "Electrolyte Levels": {"Type": "text", "Required": true},
+      "Blood Urea Nitrogen (BUN)": {"Type": "number", "Required": true},
+      "Creatinine": {"Type": "number", "Required": true},
+      "Fluid Balance": {"Type": "calculated", "Required": true, "Calculation": "based on the values entered for fluid intake and urine output"},
+      "Electrolyte Balance": {"Type": "calculated", "Required": true, "Calculation": "based on the values entered for electrolyte levels"}
+    }
+  }
+}

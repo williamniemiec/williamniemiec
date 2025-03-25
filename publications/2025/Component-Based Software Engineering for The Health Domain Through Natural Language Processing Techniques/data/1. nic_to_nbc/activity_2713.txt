@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Journal": {
+    "Prompt": {"type": "text"},
+    "Frequency": {"options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"type": "datetime"},
+    "Reflection Questions": {"type": "list of text"}
+  },
+  "Chat": {
+    "Topic": {"type": "text"},
+    "Frequency": {"options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"type": "datetime"},
+    "Conversation Starter": {"type": "text"}
+  }
+}

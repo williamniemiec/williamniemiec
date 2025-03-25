@@ -1,0 +1,38 @@
+Here is the output in JSON format:
+
+
+{
+  "Fatigue Reduction Intervention Selection": {
+    "parameters": [
+      {"name": "Name", "value": "Fatigue Reduction Intervention Selection"},
+      {"name": "Intervention Categories", "type": "list"},
+      {"name": "Intervention Options", "type": "list"},
+      {"name": "Selection Criteria", "type": "list"},
+      {"name": "Frequency", "type": "options"},
+      {"name": "Deadline Date", "type": "datetime"}
+    ]
+  },
+  "Pharmacologic Intervention Selection": {
+    "parameters": [
+      {"name": "Name", "value": "Pharmacologic Intervention Selection"},
+      {"name": "Medication Options", "type": "list"},
+      {"name": "Dosing Information", "type": "list"},
+      {"name": "Contraindications", "type": "list"},
+      {"name": "Frequency", "type": "options"},
+      {"name": "Deadline Date", "type": "datetime"}
+    ]
+  },
+  "Non-Pharmacologic Intervention Selection": {
+    "parameters": [
+      {"name": "Name", "value": "Non-Pharmacologic Intervention Selection"},
+      {"name": "Intervention Options", "type": "list"},
+      {"name": "Intervention Schedules", "type": "list"},
+      {"name": "Contraindications", "type": "list"},
+      {"name": "Frequency", "type": "options"},
+      {"name": "Deadline Date", "type": "datetime"}
+    ]
+  }
+}
+
+
+Note that I removed the `Not Applicable` parameters as per your request.

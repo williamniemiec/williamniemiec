@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Alert": {
+    "name": {"type": "text"},
+    "message": {"type": "text"},
+    "risk": {"type": "text", "options": ["pets near infant", "pet bites or scratches", "etc."]},
+    "prevention_tips": {
+      "supervise_interactions": {"type": "text"},
+      "keep_pets_away": {"type": "text"},
+      "teach_children": {"type": "text"}
+    }
+  }
+}

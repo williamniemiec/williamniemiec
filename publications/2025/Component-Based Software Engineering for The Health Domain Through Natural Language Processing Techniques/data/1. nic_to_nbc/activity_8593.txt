@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Dietary Instruction": {
+    "parameters": [
+      {"dietary_restriction": ""},
+      {"rationale": ""},
+      {"food_items": []},
+      {"portion_control": ""},
+      {"frequency": ""},
+      {}
+    ]
+  }
+}
+
+
+Note: I removed the `deadline_date` parameter as it was not applicable. Also, I kept the `frequency` parameter even though it's an options type, but if you want to remove it as well, just let me know!

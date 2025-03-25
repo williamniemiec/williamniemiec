@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+    "Cognitive Assessment": {
+        "cognitive_function": "assessment of cognitive function (e.g., attention, memory, language)",
+        "cognitive_impairment": "identification of any cognitive impairments (e.g., dementia, confusion)"
+    },
+    "Hearing Assessment": {
+        "hearing_ability": "assessment of hearing ability (e.g., normal, impaired, deaf)",
+        "hearing_aids": "use of hearing aids or assistive devices"
+    },
+    "Language Assessment": {
+        "language_proficiency": "assessment of language proficiency (e.g., native speaker, non-native speaker, language barriers)",
+        "language_preferences": "preferred language for communication"
+    },
+    "Communication Accommodations": {
+        "accommodation_list": "list of necessary accommodations (e.g., interpreter, written instructions, visual aids)",
+        "accommodation_priority": "priority level of each accommodation (e.g., high, medium, low)"
+    }
+}
+
+
+Let me know if this is what you were looking for!

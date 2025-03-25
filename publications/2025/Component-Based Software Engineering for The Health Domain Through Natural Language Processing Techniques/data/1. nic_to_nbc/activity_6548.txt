@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Guide": {
+    "Content": {
+      "Type": "multimedia (text, images, videos)"
+    },
+    "Instructions": {
+      "Type": "list of steps (text)"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Positioning Guide": {
+    "body_part": {"Description": "Specific body part to be positioned", "Required": true, "Type": "text"},
+    "positioning": {"Description": "Specific positioning instructions", "Required": true, "Type": "text"},
+    "image": {"Description": "Image illustrating the correct positioning", "Required": true, "Type": "image"}
+  }
+}
+
+
+I removed all unnecessary parts and kept only the `{{ NO-CODE ELEMENT NAME }}` and `{{ PARAMETER ESPECIFICATIONS }}`. I also removed the not applicable parameter `"Tips"` since it's not required.

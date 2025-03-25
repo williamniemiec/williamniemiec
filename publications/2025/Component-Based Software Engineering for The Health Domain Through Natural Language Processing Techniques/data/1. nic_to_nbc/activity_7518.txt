@@ -1,0 +1,32 @@
+
+
+
+{
+    "name": "label_collection_device",
+    "parameters": [
+        { 
+            "name": "patient_name", 
+            "description": "patient's name", 
+            "required": true, 
+            "type": "text"
+        },
+        { 
+            "name": "hospital_number", 
+            "description": "patient's hospital number", 
+            "required": true, 
+            "type": "text"
+        },
+        { 
+            "name": "date", 
+            "description": "date of collection", 
+            "required": true, 
+            "type": "date"
+        },
+        { 
+            "name": "time", 
+            "description": "time of collection", 
+            "required": true, 
+            "type": "time"
+        }
+    ]
+}

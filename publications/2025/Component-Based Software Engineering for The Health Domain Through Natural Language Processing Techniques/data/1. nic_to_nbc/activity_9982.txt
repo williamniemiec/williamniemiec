@@ -1,0 +1,29 @@
+Here is the output in JSON format:
+
+
+{
+    "Care Needs Assessment": {
+        "name": "Care Needs Assessment",
+        "description": "Report on your total care needs while receiving analgesia",
+        "care_needs": [
+            {"name": "pain_management", "description": "Do you need assistance with pain management?", "type": "options"},
+            {"name": "mobility_assistance", "description": "Do you need assistance with mobility?", "type": "options"},
+            {"name": "hygiene_assistance", "description": "Do you need assistance with hygiene?", "type": "options"},
+            {"name": "nutrition_assistance", "description": "Do you need assistance with nutrition?", "type": "options"},
+            {"name": "other_needs", "description": "Do you have any other care needs?", "type": "text"}
+        ]
+    },
+    "Survey": {
+        "name": "Care Needs Survey",
+        "description": "Please answer the following questions about your total care needs while receiving analgesia",
+        "questions": [
+            {"name": "pain_management", "description": "Do you need assistance with pain management?", "type": "options"},
+            {"name": "mobility_assistance", "description": "Do you need assistance with mobility?", "type": "options"},
+            {"name": "hygiene_assistance", "description": "Do you need assistance with hygiene?", "type": "options"},
+            {"name": "nutrition_assistance", "description": "Do you need assistance with nutrition?", "type": "options"},
+            {"name": "other_needs", "description": "Do you have any other care needs?", "type": "text"}
+        ],
+        "frequency": "specify how often the patient should complete this survey",
+        "deadline_date": "specify the due date for the patient to complete this survey"
+    }
+}

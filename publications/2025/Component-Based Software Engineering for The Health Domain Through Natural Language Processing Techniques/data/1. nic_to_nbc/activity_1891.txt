@@ -1,0 +1,9 @@
+Here is the output in JSON format:
+
+
+{
+    "Lab Test Education": {
+        "Content": {"type": "html", "description": "educational content about laboratory tests"},
+        "Media": {"type": "image or video", "description": "an image or video illustrating the laboratory test procedure"}
+    }
+}

@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Decision Support Tool": {
+    "Parameters": {
+      "Decision Topic": {"type": "text"},
+      "Decision Factors": {"type": "list of text"},
+      "Options": {"type": "list of text"},
+      "Pros and Cons": {"type": "list of text"},
+      "Resources": {"type": "list of URLs or text"}
+    }
+  }
+}
+
+
+I removed the `Decision Tracker` parameter since it's a boolean type, which is not applicable in this context. Let me know if you have any further questions!

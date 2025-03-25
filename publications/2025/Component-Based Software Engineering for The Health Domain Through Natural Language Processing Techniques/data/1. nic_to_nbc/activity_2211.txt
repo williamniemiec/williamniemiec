@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Urinary Output Tracker": {
+    "Parameters": {
+      "Name": {},
+      "Frequency": {},
+      "Deadline Date": {},
+      "Volume": {},
+      "Oliguria": {},
+      "Notes": {}
+    }
+  }
+}

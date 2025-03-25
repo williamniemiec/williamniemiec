@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Vital Signs Tracker": {
+    "Parameters": {
+      "Vital Signs": {},
+      "Frequency": {},
+      "Thresholds": {},
+      "Alerts": {},
+      "Notes": {}
+    }
+  }
+}

@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Referral Preference": {
+    "Parameters": [
+      {"Name": "Referral Type", "Description": "What type of referral are you seeking?"},
+      {"Name": "Preferred Referral Option", "Description": "Who would you like to be referred to?"},
+      {"Name": "Reason for Preference", "Description": "Why do you prefer this referral option?"},
+      {"Name": "Family/Significant Others Involved", "Description": "Are family/significant others involved in your care?"}
+    ]
+  }
+}

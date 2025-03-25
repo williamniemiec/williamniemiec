@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Adherence": {
+    "Parameters": {
+      "Medication Schedule": {"Type": "text"},
+      "Importance of Consistency": {"Type": "text"},
+      "Missed Dose Instructions": {"Type": "text"},
+      "No Doubling Up": {"Type": "text"}
+    }
+  },
+  "Guide": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Pages": {"Type": "book-page"},
+      "Medication Schedule": {"Type": "text"}
+    }
+  }
+}
+
+
+Note that I removed the "Resources" parameter from the "Medication Adherence" element as it had a type of "link or text", which is not applicable. Also, I kept only the parameters that have a specific type defined. Let me know if you need any further assistance!

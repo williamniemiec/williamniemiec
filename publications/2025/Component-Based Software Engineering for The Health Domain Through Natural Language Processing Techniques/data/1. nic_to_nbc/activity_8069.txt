@@ -1,0 +1,38 @@
+Here is the output in JSON format:
+
+
+{
+  "Spiritual Practice": {
+    "Parameters": {
+      "Type": {
+        "type": "options",
+        "options": [
+          {"value": "prayer", "label": "Prayer"},
+          {"value": "meditation", "label": "Meditation"},
+          {"value": "journaling", "label": "Journaling"},
+          {"value": "ritual", "label": "Ritual"}
+        ]
+      },
+      "Description": {
+        "type": "text"
+      },
+      "Frequency": {
+        "type": "options",
+        "options": [
+          {"value": "daily", "label": "Daily"},
+          {"value": "weekly", "label": "Weekly"},
+          {"value": "monthly", "label": "Monthly"}
+        ]
+      },
+      "Resources": {
+        "type": "text"
+      },
+      "Reminders": {
+        "type": "boolean"
+      },
+      "Reflection": {
+        "type": "text"
+      }
+    }
+  }
+}

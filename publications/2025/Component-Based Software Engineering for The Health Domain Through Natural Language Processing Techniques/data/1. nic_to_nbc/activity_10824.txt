@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Prosthetic Remover",
+  "parameters": [
+    {
+      "name": "prosthetic_type"
+    },
+    {
+      "name": "surgical_procedure"
+    },
+    {
+      "name": "removal_instructions"
+    },
+    {
+      "name": "pre_surgical_checklist"
+    },
+    {
+      "name": "reminders"
+    }
+  ]
+}

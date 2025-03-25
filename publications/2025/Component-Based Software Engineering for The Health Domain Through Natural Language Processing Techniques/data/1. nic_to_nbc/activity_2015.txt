@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Urinary Functioning Support": {
+    "parameters": {
+      "Sitz Baths": {"type": "boolean"},
+      "Hydration": {"type": "boolean"},
+      "Warm Water": {"type": "boolean"},
+      "Ambulation": {"type": "boolean"},
+      "Frequency": {"options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"type": "datetime"},
+      "Instructions": {"type": "text"},
+      "Resources": {"type": "URL or HTML text"}
+    }
+  }
+}

@@ -1,0 +1,14 @@
+Here is the output in JSON format, with only the `PARAMETER ESPECIFICATIONS` and `NO-CODE ELEMENT NAME` retained:
+
+
+{
+    "Heart Rate Monitoring": {
+        "parameters": [
+            {"name": "Name", "type": "text"},
+            {"name": "Frequency", "type": "options"},
+            {"name": "Deadline Date", "type": "datetime"},
+            {"name": "Heart Rate Value", "type": "number"},
+            {"name": "Unit", "type": "options"}
+        ]
+    }
+}

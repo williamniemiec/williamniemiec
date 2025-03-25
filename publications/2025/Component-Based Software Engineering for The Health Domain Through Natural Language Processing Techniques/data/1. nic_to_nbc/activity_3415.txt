@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+    "Coaching": {
+        "Instructions": {"type": "text"},
+        "Frequency": {"options": ["everyContractions", "everyMinutes", "everyHours"]},
+        "Duration": {"type": "time"},
+        "Tips": {"type": "text"}
+    }
+}

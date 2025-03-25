@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Support Group Invitation": {
+    "parameters": {
+      "Group Information": {"type": "text"},
+      "Meeting Schedule": {"type": "list of datetime"},
+      "Location": {"type": "text"},
+      "Contact Information": {"type": "text"},
+      "Encouragement Message": {"type": "text"}
+    }
+  }
+}

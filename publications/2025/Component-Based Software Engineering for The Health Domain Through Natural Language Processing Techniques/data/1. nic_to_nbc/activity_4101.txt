@@ -1,0 +1,29 @@
+Here is the output in JSON format:
+
+{
+  "name": "Reflection",
+  "parameters": [
+    {
+      "name": "Topic",
+      "type": "text"
+    },
+    {
+      "name": "Prompt",
+      "type": "text"
+    },
+    {
+      "name": "Reflection type",
+      "type": "options"
+    },
+    {
+      "name": "Resources",
+      "type": "multimedia"
+    },
+    {
+      "name": "Frequency",
+      "type": "options"
+    }
+  ]
+}
+
+I removed the `description` and other fields that were not specified in the output format. I also removed the `Deadline Date` parameter since it was marked as not applicable (i.e., no value was provided). Let me know if this meets your requirements!

@@ -1,0 +1,31 @@
+Here is the output in JSON format:
+
+
+{
+  "Service Directory": {
+    "name": "",
+    "service list": "",
+    "filtering options": ""
+  },
+  "Appointment Scheduling": {
+    "name": "",
+    "service information": "",
+    "appointment dates and times": "",
+    "patient information": ""
+  },
+  "Telehealth Services": {
+    "name": "",
+    "service information": "",
+    "platform information": ""
+  },
+  "Insurance Information": {
+    "name": "",
+    "insurance options": "",
+    "eligibility criteria": ""
+  },
+  "Financial Assistance": {
+    "name": "",
+    "assistance options": "",
+    "eligibility criteria": ""
+  }
+}

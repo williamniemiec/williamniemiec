@@ -1,0 +1,63 @@
+Here is the output in JSON format:
+
+
+{
+    "dental_hygiene_assessment": {
+        "parameters": [
+            { 
+                "name": "brushing_frequency", 
+                "description": "how often do you brush your teeth?", 
+                "required": true, 
+                "type": "options",
+                "options": [
+                    { value: "twice_a_day", label: "Twice a day" },
+                    { value: "once_a_day", label: "Once a day" },
+                    { value: "less_than_once_a_day", label: "Less than once a day" }
+                ]
+            },
+            { 
+                "name": "brushing_duration", 
+                "description": "how long do you brush your teeth for?", 
+                "required": true, 
+                "type": "text"
+            },
+            { 
+                "name": "flossing_frequency", 
+                "description": "how often do you floss your teeth?", 
+                "required": true, 
+                "type": "options",
+                "options": [
+                    { value: "daily", label: "Daily" },
+                    { value: "weekly", label: "Weekly" },
+                    { value: "rarely", label: "Rarely" }
+                ]
+            },
+            { 
+                "name": "mouthwash_use", 
+                "description": "do you use mouthwash?", 
+                "required": true, 
+                "type": "boolean"
+            },
+            { 
+                "name": "areas_for_improvement", 
+                "description": "identify areas for improvement in dental hygiene routine", 
+                "required": false, 
+                "type": "list",
+                "list_items": [
+                    { 
+                        "label": "Brushing frequency" 
+                    },
+                    { 
+                        "label": "Brushing duration" 
+                    },
+                    { 
+                        "label": "Flossing frequency" 
+                    },
+                    { 
+                        "label": "Mouthwash use" 
+                    }
+                ]
+            }
+        ]
+    }
+}

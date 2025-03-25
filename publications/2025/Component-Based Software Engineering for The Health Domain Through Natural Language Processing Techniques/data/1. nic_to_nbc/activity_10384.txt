@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Immunization Recommendations": {
+    "Parameters": {
+      "Recommendation List": {"Type": "list of recommendation names"},
+      "Recommendation Details": {"Type": "list of text or html for each recommendation"},
+      "Source": {"Type": "text"},
+      "Date": {"Type": "date"}
+    }
+  }
+}
+
+
+I removed the `Update` parameter as it's not applicable, and also removed the introduction and conclusion sections. Let me know if this meets your requirements!

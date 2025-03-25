@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Death Confirmation": {
+    "parameters": {
+      "Family Member Information": {"type": "text"},
+      "Identification Device Information": {"type": "text"},
+      "Comparison Method": {"options": ["manualReview", "automatedMatching", "other"]},
+      "Confirmation Outcome": {"options": ["confirmedDeceased", "unableToConfirm", "other"]},
+      "Documentation": {"options": ["electronicRecord", "paperForm", "other"]}
+    }
+  }
+}

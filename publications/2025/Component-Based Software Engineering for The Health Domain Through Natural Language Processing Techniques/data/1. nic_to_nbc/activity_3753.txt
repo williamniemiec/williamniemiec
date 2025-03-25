@@ -1,0 +1,9 @@
+Here is the output in JSON format:
+
+
+{
+    "Bonding Moments": {
+        "Activity List": {"Description": "list of activities to facilitate parent-infant bonding, such as skin-to-skin contact, breastfeeding, and reading", "Required": true, "Type": "list of text and images"},
+        "Guided Exercises": {"Description": "guided exercises for parents to practice bonding with their infant, such as massage and eye contact", "Required": true, "Type": "list of text and videos"}
+    }
+}

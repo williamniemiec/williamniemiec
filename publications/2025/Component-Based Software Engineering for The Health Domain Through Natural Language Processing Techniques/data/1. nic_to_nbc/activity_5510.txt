@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Cotton Roll Wrapping": {
+    "Parameters": {
+      "Instructions": {
+        "Type": ["text", "multimedia (image, video)"]
+      },
+      "Wrinkle-Free": {
+        "Type": ["text", "boolean (true/false)"]
+      },
+      "Positioning": {
+        "Type": ["text", "multimedia (image, video)"]
+      }
+    }
+  }
+}

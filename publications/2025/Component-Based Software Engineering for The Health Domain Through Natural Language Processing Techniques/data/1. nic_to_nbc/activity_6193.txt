@@ -1,0 +1,32 @@
+
+
+
+{
+  "name": "Termination Assistance",
+  "parameters": [
+    {
+      "name": "Reason for Termination",
+      "type": "text or selection from a list of reasons"
+    },
+    {
+      "name": "Termination Type",
+      "type": "options",
+      "options": [
+        { value: "voluntary", label: "Voluntary" },
+        { value: "involuntary", label: "Involuntary" }
+      ]
+    },
+    {
+      "name": "Termination Date",
+      "type": "date"
+    },
+    {
+      "name": "Follow-up Plan",
+      "type": "text or selection from a list of follow-up plans"
+    },
+    {
+      "name": "Termination Notes",
+      "type": "text or list of notes"
+    }
+  ]
+}

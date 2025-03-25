@@ -1,0 +1,19 @@
+Here is the output in JSON format, keeping only the `PARAMETER ESPECIFICATIONS` and `NO-CODE ELEMENT NAME`:
+
+
+{
+  "Substance Use Pattern Tracker": {
+    "parameters": [
+      {"Name": {"type": "text"}},
+      {"Tracking Fields": {"type": "tracking-field", "fields": ["Date", "Time of Day", "Substance Used", "Amount Used", "Duration of Use"]}},
+      {"Pattern Identification": {"type": "pattern-identification", "patterns": ["Morning", "Afternoon", "Evening", "Night"]}},
+      {"Frequency": {"type": "options", "options": ["Daily", "3 times a week", "Weekly"]}},
+      {"Reminders": {"type": "reminder", "reminders": [{"trigger": "daily at 8am", "message": "Remember to track your substance use patterns"}, {"trigger": "weekly on Monday", "message": "Review your progress and set new goals"}]}},
+      {"Pattern Analysis": {"type": "pattern-analysis", "analyses": ["Graph", "Chart"]}},
+      {"Goal Setting": {"type": "goal-setting", "goals": [{"title": "Reduce substance use by 50% in 2 weeks"}]}}
+    ]
+  }
+}
+
+
+Note: I removed the `not applicable` parameters and formatted the output as a JSON object.

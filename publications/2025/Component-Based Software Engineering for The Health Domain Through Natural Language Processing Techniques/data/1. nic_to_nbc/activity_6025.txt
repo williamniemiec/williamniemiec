@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "noCodeElementName": "Information Resource",
+  "parameterSpecifications": {
+    "name": "A parameter that specifies the title of the information resource (e.g., \"OSHA Rights and Responsibilities\")",
+    "content": "A parameter that specifies the content of the information resource (e.g., a PDF file of the OSHA poster, copies of the Act, and copies of standards)",
+    "format": "A parameter that specifies the format of the content (e.g., PDF, HTML, etc.)"
+  }
+}

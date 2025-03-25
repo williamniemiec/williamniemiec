@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Timing Reminder": {
+    "Parameters": {
+      "Timing constraint": {"type": "text or structured data (e.g., duration)"},
+      "Meal tracking": {"type": "boolean (true or false)"},
+      "Physiotherapy scheduling": {"type": "boolean (true or false)"},
+      "Reminder frequency": {"type": "options (e.g., daily, weekly, monthly)"},
+      "Reminder content": {"type": "text"}
+    }
+  }
+}

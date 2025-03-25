@@ -1,0 +1,39 @@
+Here is the output in JSON format, removing anything except `PARAMETER ESPECIFICATIONS` and `NO-CODE ELEMENT NAME`, and removing not applicable parameters:
+
+
+{
+    "name": "Weight Gain Reward",
+    "parameters": [
+        {
+            "name": "Weight Gain Goal",
+            "type": "text"
+        },
+        {
+            "name": "Reward Type",
+            "type": "options",
+            "options": [
+                { value: "verbalPraise", label: "Verbal Praise" },
+                { value: "nonFoodItem", label: "Non-Food Item" },
+                { value: "foodItem", label: "Food Item" },
+                { value: "activity", label: "Activity" }
+            ]
+        },
+        {
+            "name": "Reward Description",
+            "type": "text"
+        },
+        {
+            "name": "Criteria for Reward",
+            "type": "text"
+        },
+        {
+            "name": "Frequency of Reward",
+            "type": "options",
+            "options": [
+                { value: "weekly", label: "Weekly" },
+                { value: "biweekly", label: "Biweekly" },
+                { value: "monthly", label: "Monthly" }
+            ]
+        }
+    ]
+}

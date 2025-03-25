@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Oxygen Delivery Device Concentration Check": {
+    "Oxygen Delivery Device Concentration Check Goal": {},
+    "Prescribed Concentration": {},
+    "Unit": {},
+    "Frequency": {},
+    "Tracking Method": {}
+  }
+}

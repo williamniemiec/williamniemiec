@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+{
+    "name": "Exercise Effectiveness Information",
+    "parameters": [
+        {
+            "name": "Name",
+            "type": "text"
+        },
+        {
+            "name": "Information Text",
+            "type": "text"
+        },
+        {
+            "name": "Timeframe",
+            "type": "range",
+            "range": {
+                "min": 6,
+                "max": 12,
+                "unit": "weeks"
+            }
+        }
+    ]
+}

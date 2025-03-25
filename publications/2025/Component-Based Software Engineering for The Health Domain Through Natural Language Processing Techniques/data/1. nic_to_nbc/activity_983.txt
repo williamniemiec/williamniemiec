@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Safe and Private Hygiene": {
+    "parameters": {
+      "Privacy Preferences": {"type": "options", "options": ["alone", "with a caregiver", "with a family member", "etc."]},
+      "Safety Precautions": {"type": "options", "options": ["non-slip mats", "grab bars", "seat in shower", "etc."]},
+      "Undressing Assistance": {"type": "boolean", "options": ["yes", "no"]},
+      "Bathing Assistance": {"type": "boolean", "options": ["yes", "no"]},
+      "Notes": {"type": "text"}
+    }
+  }
+}

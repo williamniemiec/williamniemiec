@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+  "Vital Signs Tracker": {
+    "parameters": ["name", "frequency", "deadline_date"]
+  },
+  "Symptom Checker": {
+    "parameters": ["name", "frequency", "deadline_date", "symptoms"]
+  },
+  "Urine Output Tracker": {
+    "parameters": ["name", "frequency", "deadline_date"]
+  },
+  "Skin Condition Tracker": {
+    "parameters": ["name", "frequency", "deadline_date"]
+  },
+  "Level of Consciousness Tracker": {
+    "parameters": ["name", "frequency", "deadline_date"]
+  }
+}

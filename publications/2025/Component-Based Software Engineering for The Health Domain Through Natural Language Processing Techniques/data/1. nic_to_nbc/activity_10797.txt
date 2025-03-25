@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+    "Secretion Clearance Guide": {
+        "name": "",
+        "steps": [],
+        "illustrations": true,
+        "reminders": true
+    },
+    "Nasal Aspirator Tracker": {
+        "name": "",
+        "usage_frequency": "",
+        "secretion_amount": "",
+        "notes": ""
+    },
+    "Saline Drop Tracker": {
+        "name": "",
+        "usage_frequency": "",
+        "dosage": "",
+        "notes": ""
+    }
+}
+
+
+Let me know if this is what you were expecting!

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Patient Strengths Assessment": {
+    "Parameters": {
+      "Strengths": {"Type": "list of text"},
+      "Abilities": {"Type": "list of text"},
+      "Family Interactions": {"Type": "list of text"},
+      "Support Systems": {"Type": "list of text"},
+      "Additional Comments": {"Type": "text"}
+    }
+  }
+}

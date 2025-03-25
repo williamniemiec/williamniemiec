@@ -1,0 +1,37 @@
+Here is the output in JSON format:
+
+
+{
+  "oral_health_screening": {
+    "parameters": [
+      {
+        "name": "screening_questions",
+        "description": "list of questions for the oral health screening",
+        "required": true,
+        "type": "list",
+        "list_items": [
+          { "label": "Do you have any toothache or pain?", "type": "boolean" },
+          { "label": "Have you noticed any changes in your gums?", "type": "boolean" },
+          { "label": "Do you have any difficulty chewing or swallowing?", "type": "boolean" }
+        ]
+      },
+      {
+        "name": "risk_assessment",
+        "description": "risk assessment for oral health",
+        "required": true,
+        "type": "options",
+        "options": [
+          { "value": "low", "label": "Low Risk" },
+          { "value": "moderate", "label": "Moderate Risk" },
+          { "value": "high", "label": "High Risk" }
+        ]
+      },
+      {
+        "name": "notes",
+        "description": "additional notes or comments about the oral health screening and risk assessment",
+        "required": false,
+        "type": "text"
+      }
+    ]
+  }
+}

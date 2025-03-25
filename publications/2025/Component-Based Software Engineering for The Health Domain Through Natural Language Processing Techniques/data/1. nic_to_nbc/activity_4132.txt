@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+    "Medication Review": {
+        "medication_list": {"type": "list of medications"},
+        "instructions": {"type": "text"},
+        "questions": {"type": "list of questions"},
+        "acknowledgement": {"type": "boolean"}
+    }
+}

@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Oxygen Therapy": {
+    "parameters": {
+      "name": "",
+      "instructions": "",
+      "flow_rate": "",
+      "duration": "",
+      "frequency": "",
+      "saturation_level": ""
+    }
+  }
+}
+
+
+I removed all unnecessary text and kept only the `{{ NO-CODE ELEMENT NAME }}` and `{{ PARAMETER ESPECIFICATIONS }}`. I also removed the "deadline_date" and "notes" parameters as they were not applicable. Let me know if this is what you were looking for!

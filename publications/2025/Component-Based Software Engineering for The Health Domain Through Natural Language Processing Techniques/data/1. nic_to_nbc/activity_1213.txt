@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Role Reboot": {
+    "Parameters": {
+      "Role Assessment": {"Type": "interactive questionnaire or rating scale"},
+      "Goal Setting": {"Type": "interactive goal-setting exercise with prompts and examples"},
+      "Family Life": {"Type": "interactive exercise with scenarios and prompts"},
+      "Peer Relationships": {"Type": "interactive exercise with scenarios and prompts"},
+      "School Performance": {"Type": "interactive exercise with scenarios and prompts"},
+      "Action Plan": {"Type": "interactive planning tool with prompts and examples"},
+      "Reflection": {"Type": "text or audio reflection"}
+    }
+  }
+}

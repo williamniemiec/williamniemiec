@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Educational Resource": {
+    "resource_name": {},
+    "content_text": {},
+    "format": {},
+    "frequency": {}
+  }
+}
+
+
+I removed all unnecessary elements and only kept the `{{ NO-CODE ELEMENT NAME }}` ("Educational Resource") and the applicable parameters from `{{ PARAMETER ESPECIFICATIONS }}`. The optional parameter `"Diagrams"` was not included as it's not required, and `"Deadline Date"` was also excluded as it's not required.

@@ -1,0 +1,33 @@
+Here is the output in JSON format:
+
+
+{
+  "Eating Cues": {
+    "Parameters": {
+      "Motivation for eating": {
+        "Type": "options",
+        "Options": ["hunger", "boredom", "emotional", "social", "etc."]
+      },
+      "Internal cues": {
+        "Type": "text"
+      },
+      "External cues": {
+        "Type": "text"
+      },
+      "Emotional triggers": {
+        "Type": "options",
+        "Options": ["stress", "anxiety", "happiness", "sadness", "etc."]
+      },
+      "Reflection questions": {
+        "Type": "text"
+      },
+      "Frequency": {
+        "Type": "options",
+        "Options": ["daily", "weekly", "monthly", "etc."]
+      }
+    }
+  }
+}
+
+
+Note that I removed the `Deadline date` parameter as it is not applicable in this context.

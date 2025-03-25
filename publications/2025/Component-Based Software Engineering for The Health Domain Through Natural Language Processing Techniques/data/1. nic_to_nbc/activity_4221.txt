@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Heparin Syringe Preparation": {
+    "Heparin Amount": {"Type": "text"},
+    "Syringe Type": {"Type": "text"},
+    "Coating Instructions": {"Type": "text"},
+    "Image": {"Type": "image"},
+    "Frequency": {"Type": "options"},
+    "Deadline Date": {"Type": "datetime"}
+  }
+}
+
+
+Note that I removed the not applicable parameters (i.e., those without a corresponding value) and kept only the parameter names and their respective types.

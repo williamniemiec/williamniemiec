@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+  "Skin Inspection": {
+    "name": "Skin Inspection",
+    "description": "Inspect your skin for any issues",
+    "questions": [
+      "Do you have any skin irritation?",
+      "Do you have any skin lesions?",
+      "Do you have any corns or calluses?",
+      "Do you have any skin deformities?",
+      "Do you have any swelling (edema)?"
+    ],
+    "answer type": ["Yes", "No", "Not sure"],
+    "frequency": "",
+    "deadline_date": ""
+  }
+}
+
+
+Note that I removed the `Content type` parameter as it was not applicable, and also left the `frequency` and `deadline_date` parameters empty as they didn't have any specified values. Let me know if you'd like me to modify this output in any way!

@@ -1,0 +1,42 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Color-Coded Dishes",
+    "parameters": [
+        {
+            "name": "Perceptual Deficit",
+            "type": "boolean"
+        },
+        {
+            "name": "Color Options",
+            "type": "options",
+            "options": [
+                { "value": "red", "label": "Red" },
+                { "value": "blue", "label": "Blue" },
+                { "value": "green", "label": "Green" },
+                { "value": "yellow", "label": "Yellow" }
+            ]
+        },
+        {
+            "name": "Dish Selection Instructions",
+            "type": "text"
+        },
+        {
+            "name": "Visual Aids",
+            "type": "multimedia"
+        },
+        {
+            "name": "Reminders",
+            "type": "boolean"
+        },
+        {
+            "name": "Frequency",
+            "type": "options",
+            "options": [
+                { "value": "daily", "label": "Daily" },
+                { "value": "weekly", "label": "Weekly" }
+            ]
+        }
+    ]
+}

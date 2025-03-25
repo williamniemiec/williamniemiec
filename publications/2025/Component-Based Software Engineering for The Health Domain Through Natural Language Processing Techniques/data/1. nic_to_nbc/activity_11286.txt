@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+    "Humor Profile": {
+        "parameters": {
+            "Humor types": {},
+            "Favorite comedians or shows": {},
+            "Humor frequency": {}
+        }
+    }
+}

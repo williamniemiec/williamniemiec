@@ -1,0 +1,12 @@
+
+
+
+{
+  "Parameters": {
+    "Provider Name": {"Type": "text"},
+    "Provider Introduction": {"Type": "text or video"},
+    "Welcome Message": {"Type": "text"},
+    "Trust Statement": {"Type": "text"}
+  },
+  "NoCodeElementName": "Introduction"
+}

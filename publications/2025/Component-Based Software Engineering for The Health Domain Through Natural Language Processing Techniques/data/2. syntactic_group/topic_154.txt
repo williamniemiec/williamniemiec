@@ -1,0 +1,10 @@
+{
+  "name": "Knowledge Feedback and Disease Assessment",
+  "description": "Focuses on providing feedback to users regarding their answers in a knowledge assessment, particularly for disease-related questions. Includes scoring and providing additional information for learning improvement.",
+  "type": "non-periodic",
+  "input": ["Disease-related questions", "Knowledge assessment", "Scoring", "Feedback on answers", "Information on diseases"],
+  "output": ["Feedback report", "Knowledge score", "Disease information updates"],
+  "preconditions": ["User is taking a knowledge assessment on diseases"],
+  "postconditions": ["Improved understanding of disease-related information and feedback"],
+  "dependencies": ["Assessment platform", "Disease knowledge base", "Scoring system"]
+}

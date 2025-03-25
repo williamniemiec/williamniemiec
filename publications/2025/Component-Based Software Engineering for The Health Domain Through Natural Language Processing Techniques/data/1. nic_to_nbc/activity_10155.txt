@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Protection Guide": {
+        "Hazard List": {"type": "list of options"},
+        "Precautionary Measures": {"type": "text"},
+        "Reminders": {"type": "boolean"},
+        "Tips and Advice": {"type": "text"},
+        "Photos": {"type": "camera"},
+        "Notes": {"type": "text"}
+    }
+}

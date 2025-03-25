@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Resource Guide": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Resources": {"Type": "unordered list", "Options": ["hospital", "clinic", "doctor", "nurse", "social worker", "support group", "etc."]},
+      "Contact Information": {"Type": "text", "Format": "phone number, email, address, etc."},
+      "Description": {"Type": "text"},
+      "Frequency": {"Type": "options", "Options": ["as needed", "daily", "weekly", "monthly", "etc."]}
+    }
+  }
+}

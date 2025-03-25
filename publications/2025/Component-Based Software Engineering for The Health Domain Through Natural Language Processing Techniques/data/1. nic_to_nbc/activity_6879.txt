@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Cardiovascular Status Monitor": {
+    "Blood Pressure": {"type": "numeric value"},
+    "Heart Rate": {"type": "numeric value"},
+    "Electrocardiogram (ECG)": {"type": "ECG data"},
+    "Cardiac Output": {"type": "numeric value"},
+    "Peripheral Edema": {"type": "options"},
+    "Chest Pain": {"type": "options"},
+    "Shortness of Breath": {"type": "options"},
+    "Monitoring Frequency": {"type": "options"},
+    "Alert Thresholds": {"type": "numeric values"}
+  }
+}

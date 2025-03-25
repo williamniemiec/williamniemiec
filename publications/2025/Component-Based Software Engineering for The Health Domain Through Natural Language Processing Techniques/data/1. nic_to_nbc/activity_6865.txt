@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Infectious Disease Monitor": {
+    "parameters": [
+      {"name": "Name", "type": "text"},
+      {"name": "Diseases", "type": "options", "options": ["HIV/AIDS", "Hepatitis B", "Hepatitis C", "Tuberculosis", "etc."]},
+      {"name": "Monitoring Methods", "type": "options", "options": ["Blood Tests", "Urine Tests", "Physical Exams", "etc."]},
+      {"name": "Frequency", "type": "options", "options": ["Daily", "3 times a week", "Weekly", "etc."]},
+      {"name": "Results", "type": "text"},
+      {"name": "Treatment", "type": "treatment-plan"},
+      {"name": "Behavior Modification", "type": "behavior-modification"},
+      {"name": "Alerts", "type": "alert"}
+    ]
+  }
+}

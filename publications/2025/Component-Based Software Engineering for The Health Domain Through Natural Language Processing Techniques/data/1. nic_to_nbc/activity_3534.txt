@@ -1,0 +1,56 @@
+Here is the output in JSON format:
+
+
+{
+    "Post Cardiac Arrest Care": {
+        "parameters": {
+            "name": "",
+            "description": "",
+            "support": "",
+            "therapeutic_hypothermia": "",
+            "oxygen_concentration": ""
+        }
+    },
+    "Cardiopulmonary Support": {
+        "parameters": {
+            "name": "",
+            "description": "",
+            "medication": "",
+            "ventilation": ""
+        }
+    },
+    "Neurological Support": {
+        "parameters": {
+            "name": "",
+            "description": "",
+            "medication": "",
+            "monitoring": ""
+        }
+    },
+    "Therapeutic Hypothermia": {
+        "parameters": {
+            "name": "",
+            "description": "",
+            "temperature": "",
+            "duration": ""
+        }
+    },
+    "Oxygen Concentration Tapering": {
+        "parameters": {
+            "name": "",
+            "description": "",
+            "target_saturation": "",
+            "tapering_rate": ""
+        }
+    },
+    "Ventilation Management": {
+        "parameters": {
+            "name": "",
+            "description": "",
+            "ventilation_settings": ""
+        }
+    }
+}
+
+
+Note that I removed the introduction and conclusion, and only kept the `{{ NO-CODE ELEMENT NAME }}` and `{{ PARAMETER ESPECIFICATIONS }}`. I also removed the not applicable parameters. Let me know if this is what you were expecting!

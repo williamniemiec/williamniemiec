@@ -1,0 +1,12 @@
+
+
+
+{
+  "Discussion": {
+    "Topic": {"type": "text"},
+    "Roles": {"type": "options", "options": ["patient", "helper", "caregiver"]},
+    "Notes": {"type": "text"},
+    "Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"type": "datetime"}
+  }
+}

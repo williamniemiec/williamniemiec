@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+"Dietary Guide": {
+    "Diet Name": {"Type": "text"},
+    "Diet Description": {"Type": "text"},
+    "Food Guidelines": {"Type": "list of HTML texts or a PDF document"},
+    "Meal Planning": {"Type": "list of HTML texts or a PDF document"},
+    "FAQs": {"Type": "list of HTML texts"},
+    "Additional Resources": {"Type": "list of URLs or video links"}
+}
+}

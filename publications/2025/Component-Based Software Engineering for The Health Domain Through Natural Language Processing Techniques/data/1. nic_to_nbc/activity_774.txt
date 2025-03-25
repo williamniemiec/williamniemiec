@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Wheel Locking": {
+    "parameters": {
+      "Device Selection": {"type": "options"},
+      "Locking Instructions": {"type": "text"},
+      "Transfer Reminders": {"type": "boolean"},
+      "Safety Precautions": {"type": "text"},
+      "Frequency": {"type": "options"}
+    }
+  }
+}

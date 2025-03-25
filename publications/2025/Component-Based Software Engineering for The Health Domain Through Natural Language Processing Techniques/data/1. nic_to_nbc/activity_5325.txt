@@ -1,0 +1,35 @@
+Here is the output in JSON format:
+
+
+[
+  {
+    "name": "Injury Tracker",
+    "parameters": [
+      { "name": "name", "description": "title of the injury tracker" },
+      { "name": "fields", "description": "list of fields to collect data on" },
+      { "name": "data type", "description": "options for selecting the data type for each field" }
+    ]
+  },
+  {
+    "name": "Return-to-Play Protocol",
+    "parameters": [
+      { "name": "criteria", "description": "list of criteria to assess before progressing to the next step" },
+      { "name": "number", "description": "step number" }
+    ]
+  },
+  {
+    "name": "Reinjury Risk Assessment",
+    "parameters": [
+      { "name": "metrics", "description": "list of metrics used to assess reinjury risk" },
+      { "name": "algorithms", "description": "options for selecting the reinjury risk assessment algorithms" },
+      { "name": "risk level", "description": "options for providing a risk level or recommendation" }
+    ]
+  },
+  {
+    "name": "Personalized Recommendations",
+    "parameters": [
+      { "name": "recommendation type", "description": "options for selecting the type of recommendation" },
+      { "name": "data source", "description": "options for selecting the data source for the recommendations" }
+    ]
+  }
+]

@@ -1,0 +1,31 @@
+Here is the output in JSON format:
+
+
+{
+    "Pregnancy Outcome Decision Tool": {
+        "parameters": {
+            "name": "",
+            "options": [],
+            "criteria": [],
+            "weighting": "",
+            "decision": "",
+            "frequency": ""
+        }
+    },
+    "Decision Reflection": {
+        "parameters": {
+            "name": "",
+            "prompts": [],
+            "response fields": [],
+            "frequency": ""
+        }
+    },
+    "Outcome Choice Confirmation": {
+        "parameters": {
+            "name": "",
+            "choice": "",
+            "confirmation": "",
+            "frequency": ""
+        }
+    }
+}

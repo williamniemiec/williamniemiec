@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Role-Playing": {
+    "Scenario": {"type": "text"},
+    "Behavior": {"type": "options", "options": ["assertive communication", "active listening", "problem-solving", "other"]},
+    "Interpersonal Interaction": {"type": "options", "options": ["conversation", "conflict resolution", "negotiation", "other"]},
+    "Role-Playing Partner": {"type": "options", "options": ["healthcare provider", "family member", "peer", "other"]},
+    "Script": {"type": "text"},
+    "Feedback": {"type": "text"},
+    "Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"type": "datetime"}
+  }
+}

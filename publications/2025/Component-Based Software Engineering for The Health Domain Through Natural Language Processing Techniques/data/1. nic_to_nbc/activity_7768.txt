@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Pacemaker Implantation Record": {
+    "Manufacturer": {"type": "text"},
+    "Model Number": {"type": "text"},
+    "Serial Number": {"type": "text"},
+    "Implant Date": {"type": "date"},
+    "Mode of Operation": {"type": "options"},
+    "Programmed Parameters": {"type": "list of text fields"},
+    "Rate-Responsive Parameters": {"type": "list of text fields"},
+    "Lead Fixation": {"type": "options"},
+    "Lead System": {"type": "options"},
+    "Pacing and Shock Delivery": {"type": "options"},
+    "Delivery System for Shocks": {"type": "options"}
+  }
+}

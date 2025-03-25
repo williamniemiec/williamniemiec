@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Wound Cleansing": {
+    "Cleansing Solution": {"type": "text"},
+    "Cleansing Frequency": {"type": "text"},
+    "Cleansing Purpose": {"type": "text"},
+    "Cleansing Instructions": {"type": "text"}
+  }
+}

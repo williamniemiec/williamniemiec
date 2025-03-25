@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+    "Sensory Assessment": {
+        "parameters": {
+            "sensory_modalities": {"type": "unordered list"},
+            "patient_preferences": {"type": "text"},
+            "sensory_thresholds": {"type": "text"}
+        }
+    },
+    "Stimulus Modulation": {
+        "parameters": {
+            "stimulus_type": {"type": "options (list of predefined stimulus types)"},
+            "modulation_level": {"type": "options (list of predefined modulation levels)"},
+            "modulation_method": {"type": "text"}
+        }
+    },
+    "Sensory Environment Customization": {
+        "parameters": {
+            "environmental_elements": {"type": "unordered list"},
+            "customization_options": {"type": "unordered list"},
+            "implementation_plan": {"type": "text"}
+        }
+    }
+}

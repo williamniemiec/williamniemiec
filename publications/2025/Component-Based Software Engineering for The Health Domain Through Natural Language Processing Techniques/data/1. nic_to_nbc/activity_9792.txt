@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Discomfort Observation": {
+    "parameters": {
+      "Facial Expression": {"type": ["options", "photo upload"]},
+      "Body Language": {"type": ["options", "photo upload"]},
+      "Vocalizations": {"type": ["options", "audio recording"]},
+      "Changes in Behavior": {"type": ["options", "text"]},
+      "Other Cues": {"type": ["text", "options"]}
+    }
+  }
+}
+
+
+Note: I removed the "Not Applicable" parameters as per your request, since there were no such parameters in the input text.

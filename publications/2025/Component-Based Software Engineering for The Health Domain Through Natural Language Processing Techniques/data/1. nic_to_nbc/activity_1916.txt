@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Vaccine Consent Manager": {
+    "parameters": [
+      {"name": "vaccine_type", "description": "select the type of vaccine to be administered", "required": true, "type": "options"},
+      {"name": "consent_form", "description": "display the informed consent form for the selected vaccine", "required": true, "type": "text"},
+      {"name": "patient_signature", "description": "capture the patient's electronic signature", "required": true, "type": "signature"},
+      {"name": "consent_status", "description": "display the consent status (granted or denied)", "required": true, "type": "options"}
+    ]
+  }
+}

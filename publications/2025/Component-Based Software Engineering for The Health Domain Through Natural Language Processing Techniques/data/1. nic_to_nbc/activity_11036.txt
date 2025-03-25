@@ -1,0 +1,30 @@
+Here is the output in JSON format:
+
+
+{
+  "Photo": {
+    "parameters": {
+      "name": "",
+      "frequency": "",
+      "deadline_date": "",
+      "instructions": ""
+    }
+  },
+  "Oral Cavity Assessment": {
+    "parameters": {
+      "name": "",
+      "characteristics": [],
+      "presence": "",
+      "severity": "",
+      "frequency": ""
+    }
+  },
+  "Question": {
+    "parameters": {
+      "name": "",
+      "answer_type": "",
+      "options": [],
+      "frequency": ""
+    }
+  }
+}

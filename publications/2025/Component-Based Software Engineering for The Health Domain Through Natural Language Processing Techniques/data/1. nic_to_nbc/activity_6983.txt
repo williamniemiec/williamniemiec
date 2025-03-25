@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Care Education": {
+    "Parameters": {
+      "Care Topic": {"Type": "options"},
+      "Learning Resources": {"Type": "options"},
+      "Equipment Needs": {"Type": "text"},
+      "Skill Assessment": {"Type": "options"},
+      "Training Plan": {"Type": "text"}
+    }
+  }
+}
+
+
+Let me know if you'd like me to make any adjustments!

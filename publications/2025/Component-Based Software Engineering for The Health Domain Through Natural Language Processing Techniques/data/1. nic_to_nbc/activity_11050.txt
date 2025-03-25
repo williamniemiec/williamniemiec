@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Vein Protection": {
+    "Parameters": {
+      "Education": {"Type": "text"},
+      "Alert": {"Type": "boolean"},
+      "Test Exceptions": {"Type": "text"},
+      "Reminders": {"Type": "options", "Options": [
+        {"value": "beforeTest", "label": "Before each test"},
+        {"value": "custom", "label": "Custom"}
+      ]}
+    }
+  }
+}

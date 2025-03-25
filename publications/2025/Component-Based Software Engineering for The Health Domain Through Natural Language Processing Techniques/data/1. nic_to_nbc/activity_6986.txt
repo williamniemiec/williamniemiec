@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Relationship Assessment": {
+    "parameters": [
+      {"Name": "name", "Type": "text"},
+      {"Relationship Types": "relationship_types", "Type": "options", "Options": ["Family", "Friends", "Romantic Partner", "Other (please specify)"]},
+      {"Questions": "questions", "Type": "quiz-question"},
+      {"Results": "results", "Type": "text"},
+      {"Action Plan": "action_plan", "Type": "text"},
+      {"Frequency": "frequency", "Type": "options", "Options": ["Daily", "3 times a week", "Weekly", "etc."]},
+      {"Deadline Date": "deadline_date", "Type": "datetime"}
+    ]
+  }
+}

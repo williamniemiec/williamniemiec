@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Technique Demonstration": {
+    "parameters": {
+      "Technique Name": {"type": "text", "required": true},
+      "Instructions": {"type": "text", "required": true},
+      "Video Recording": {"type": "video", "required": true}
+    }
+  }
+}
+
+
+Note that I removed the not applicable parameters (`Self-Assessment` and `Feedback`) as per your request.

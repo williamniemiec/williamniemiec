@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Spiritual Resource Directory": {
+        "Parameter Specifications": {
+            "Resource Type": {"Type": "options"},
+            "Resource List": {"Type": "list of resources"},
+            "Resource Rating": {"Type": "rating scale"},
+            "Resource Reviews": {"Type": "text"},
+            "Personalized Recommendations": {"Type": "list of recommended resources"}
+        }
+    }
+}

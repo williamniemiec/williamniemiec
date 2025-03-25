@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Comforting Technique": {
+    "Parameters": {
+      "Technique": {"Type": "text"},
+      "Condition": {"Type": "text"},
+      "Frequency": {"Options": ["whenPossible", "custom"]},
+      "Tips": {"Type": "text"}
+    }
+  }
+}

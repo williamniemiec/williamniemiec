@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Dressing Instructions": {
+    "parameters": {
+      "dressing_instructions": {"type": "text"},
+      "clothing_recommendations": {"type": "list of clothing items"},
+      "equipment_access": {"type": "boolean"},
+      "confirmation": {"type": "boolean"}
+    }
+  }
+}

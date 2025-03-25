@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+  "Role Play Simulator": {
+    "Name": {"type": "text"},
+    "Scenarios": {"type": "ordered list", "list items": ["text", "image"]},
+    "Characters": {"type": "ordered list", "list items": ["text", "image"]},
+    "Scripts": {"type": "ordered list", "list items": "text"},
+    "Feedback": {"type": "text"},
+    "Tips": {"type": "unordered list", "list items": "text"}
+  },
+  "Video Recording": {
+    "Name": {"type": "text"},
+    "Prompt": {"type": "text"},
+    "Recording": {"type": "boolean"},
+    "Feedback": {"type": "text"},
+    "Tips": {"type": "unordered list", "list items": "text"}
+  }
+}

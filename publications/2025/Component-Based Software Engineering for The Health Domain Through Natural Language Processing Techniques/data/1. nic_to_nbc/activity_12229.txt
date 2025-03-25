@@ -1,0 +1,30 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Toy Evaluation",
+  "parameters": [
+    {
+      "name": "Title",
+      "type": "text"
+    },
+    {
+      "name": "Instructions",
+      "type": "text"
+    },
+    {
+      "name": "Criteria",
+      "type": "list",
+      "options": []
+    },
+    {
+      "name": "Frequency",
+      "type": "options",
+      "options": [
+        { value: "daily", label: "Daily" },
+        { value: "weekly", label: "Weekly" },
+        { value: "monthly", label: "Monthly" }
+      ]
+    }
+  ]
+}

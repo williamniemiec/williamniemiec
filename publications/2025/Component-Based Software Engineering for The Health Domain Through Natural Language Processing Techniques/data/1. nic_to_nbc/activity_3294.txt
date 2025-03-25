@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Energy Conservation Guide": {
+    "Parameters": {
+      "Principle": {"Type": "text"},
+      "Explanation": {"Type": ["text", "HTML content"]},
+      "Tips": {"Type": ["list of text", "list of HTML content"]},
+      "Resources": {"Type": ["list of URLs", "list of PDFs"]}
+    }
+  },
+  "Guide": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Pages": {"Type": ["list of HTML texts"]}
+    }
+  }
+}

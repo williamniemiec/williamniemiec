@@ -1,0 +1,32 @@
+Here is the output in JSON format:
+
+
+[
+    {
+        "name": "Education Material",
+        "parameters": [
+            {"name": "name", "type": "text"},
+            {"name": "content", "type": "html"},
+            {"name": "type", "type": "options", "options": ["article", "video", "infographic"]},
+            {"name": "topic", "type": "options", "options": ["overuseInjuries", "dehydration", "heatExhaustion"]}
+        ]
+    },
+    {
+        "name": "Symptom Checker",
+        "parameters": [
+            {"name": "name", "type": "text"},
+            {"name": "questions", "type": "list"},
+            {"name": "answers", "type": "list"},
+            {"name": "diagnosis", "type": "options", "options": ["yes", "no", "maybe"]}
+        ]
+    },
+    {
+        "name": "Risk Assessment",
+        "parameters": [
+            {"name": "name", "type": "text"},
+            {"name": "questions", "type": "list"},
+            {"name": "answers", "type": "list"},
+            {"name": "risk level", "type": "options", "options": ["low", "medium", "high"]}
+        ]
+    }
+]

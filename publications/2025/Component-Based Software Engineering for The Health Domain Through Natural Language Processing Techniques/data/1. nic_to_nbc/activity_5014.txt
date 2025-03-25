@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Psychosocial Aspect Identification": {
+        "parameters": [
+            {"name": "Question", "type": "text"},
+            {"name": "Aspect List", "type": "list"},
+            {"name": "Reflection Prompt", "type": "text"},
+            {"name": "Frequency", "type": "options"},
+            {"name": "Deadline Date", "type": "datetime"}
+        ]
+    }
+}

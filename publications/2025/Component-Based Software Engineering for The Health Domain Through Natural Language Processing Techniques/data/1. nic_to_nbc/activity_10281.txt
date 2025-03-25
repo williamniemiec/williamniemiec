@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Neurological Assessment": {
+    "parameters": {
+      "Assessment Type": {"type": "options"},
+      "Assessment Tool": {"type": "text"},
+      "Results": {"type": "text or rating scale"},
+      "Frequency": {"type": "options"},
+      "Deadline Date": {"type": "datetime"}
+    }
+  }
+}

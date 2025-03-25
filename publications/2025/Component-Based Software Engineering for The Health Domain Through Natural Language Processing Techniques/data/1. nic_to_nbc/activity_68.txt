@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Clothing Recommendation": {
+    "Parameters": {
+      "Name": {
+        "Type": "text"
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+    "Catheter Bulb Filling": {
+        "parameters": [
+            {"name": "Age", "type": "options", "options": ["adult", "child", "infant"]},
+            {"name": "Body Size", "type": "options", "options": ["small", "medium", "large"]},
+            {"name": "Fluid Volume", "type": "text"}
+        ]
+    }
+}

@@ -1,0 +1,42 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "perianal care guide",
+  "parameters": [
+    { 
+      "name": "product type", 
+      "description": "type of product to be used (powder or cream)", 
+      "required": true, 
+      "type": "options",
+      "options": [
+        { value: "powder", label: "Powder" },
+        { value: "cream", label: "Cream" }
+      ]
+    },
+    { 
+      "name": "application instructions", 
+      "description": "step-by-step instructions for applying the product on the perianal area", 
+      "required": true, 
+      "type": "text"
+    },
+    { 
+      "name": "cautionary notes", 
+      "description": "notes on how to use the product with caution (e.g., avoid irritation, allergic reactions)", 
+      "required": true, 
+      "type": "text"
+    },
+    { 
+      "name": "frequency", 
+      "description": "specify how often the product should be applied", 
+      "required": true, 
+      "type": "options",
+      "options": [
+        { value: "daily", label: "Daily" },
+        { value: "onlyOnce", label: "Only once" },
+        { value: "everyHours", label: "Every x hours" },
+        { value: "everyDays", label: "Every x days" },
+      ]
+    }
+  ]
+}

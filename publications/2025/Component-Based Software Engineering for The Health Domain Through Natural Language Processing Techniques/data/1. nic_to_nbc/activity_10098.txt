@@ -1,0 +1,34 @@
+Here is the output in JSON format:
+
+
+{
+  "Sugar Restriction Guide": {
+    "parameters": {
+      "name": {},
+      "description": {},
+      "foods_to_avoid": {
+        "type": "list of objects",
+        "properties": {
+          "name": {"type": "text"},
+          "reason": {"type": "text"}
+        }
+      },
+      "healthy_alternatives": {
+        "type": "list of objects",
+        "properties": {
+          "name": {"type": "text"},
+          "description": {"type": "text"}
+        }
+      }
+    }
+  },
+  "Dumping Syndrome Education": {
+    "parameters": {
+      "name": {},
+      "content": {}
+    }
+  }
+}
+
+
+Note that I removed the not applicable parameters and only kept the `{{ NO-CODE ELEMENT NAME }}` and `{{ PARAMETER ESPECIFICATIONS }}`. Let me know if this meets your requirements!

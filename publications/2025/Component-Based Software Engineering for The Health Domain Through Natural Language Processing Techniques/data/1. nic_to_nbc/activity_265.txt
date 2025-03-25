@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+{
+  "Side Effect Monitoring": {
+    "Parameters": {
+      "Procedure": {},
+      "Side Effects": {},
+      "Frequency": {},
+      "Severity Scale": {},
+      "Notes": {}
+    }
+  }
+}

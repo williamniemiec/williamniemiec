@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Mental Health Screening": {
+    "Parameters": [
+      {"Name": "Screening Questions", "Description": "Answer question to screen for anxiety and depression"},
+      {"Name": "Screening Results", "Description": "View screening results and recommendations"},
+      {"Name": "Resources", "Description": "Additional resources for mental health support"}
+    ]
+  }
+}
+
+
+Note that I removed the "Not Applicable" parameters (i.e., those with `Required: false`) as per your request. Let me know if you need any further modifications!

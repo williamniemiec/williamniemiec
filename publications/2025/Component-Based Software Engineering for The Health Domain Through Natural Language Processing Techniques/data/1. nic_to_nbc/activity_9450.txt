@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Abuse Reporting": {
+    "parameters": [
+      {"Suspected Abuse": {...}},
+      {"Authority": {...}},
+      {"Report Details": {...}},
+      {"Confidentiality": {...}}
+    ]
+  }
+}

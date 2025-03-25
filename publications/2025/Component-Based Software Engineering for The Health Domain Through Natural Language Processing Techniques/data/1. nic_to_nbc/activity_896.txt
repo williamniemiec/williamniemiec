@@ -1,0 +1,32 @@
+Here is the output in JSON format:
+
+
+{
+  "name": {
+    "type": "text"
+  },
+  "content": {
+    "type": "text"
+  },
+  "myth_buster": {
+    "type": "object",
+    "properties": {
+      "myth": {
+        "type": "text"
+      },
+      "fact": {
+        "type": "text"
+      }
+    }
+  },
+  "reassurance": {
+    "type": "text"
+  },
+  "image": {
+    "type": "image URL or base64-encoded image"
+  },
+  "Education": {}
+}
+
+
+I removed the introduction, conclusion, and any unnecessary text, leaving only the parameter specifications and the no-code element name ("Education"). I also didn't include parameters that were marked as "not applicable". Let me know if this is what you were looking for!

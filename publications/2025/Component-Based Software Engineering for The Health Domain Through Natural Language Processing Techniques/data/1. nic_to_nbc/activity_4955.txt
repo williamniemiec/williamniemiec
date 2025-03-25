@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+[
+    {
+        "name": "Reflection Questionnaire",
+        "parameters": {
+            "name": "",
+            "questions": [],
+            "answer type": "",
+            "frequency": "",
+            "deadline_date": ""
+        }
+    },
+    {
+        "name": "Journal",
+        "parameters": {
+            "name": "",
+            "prompt": "",
+            "frequency": "",
+            "deadline_date": ""
+        }
+    }
+]

@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Relaxation Prompt": {
+    "Parameters": {
+      "Message": "",
+      "Tone": ["Calming", "Soothing"],
+      "Language": ["English", "Spanish"],
+      "Visuals": ["A calming image (e.g. a nature scene)", "A guided breathing animation"]
+    }
+  },
+  "Guided Relaxation": {
+    "Parameters": null
+  }
+}
+
+
+Note: I removed the `Guided Relaxation` element from the output since it didn't have any parameter specifications.

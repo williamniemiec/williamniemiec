@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Jumping Activity": {
+    "Object Type": {"type": "options", "options": ["cone", "hurdle", "small obstacle"]},
+    "Object Height": {"type": "number"},
+    "Jumping Distance": {"type": "number"},
+    "Number of Jumps": {"type": "number"},
+    "Frequency": {"type": "options", "options": ["daily", "every other day", "weekly"]},
+    "Goal": {"type": "text"},
+    "Tracking": {"type": "options", "options": ["video recording", "timer", "observer"]},
+    "Reward": {"type": "options", "options": ["points", "badges", "stickers"]}
+  }
+}

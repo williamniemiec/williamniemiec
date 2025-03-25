@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+  "Urine Output Tracker": {
+    "Parameters": {
+      "Urine Output": {"Type": "number"},
+      "Weight": {"Type": "number"},
+      "Frequency": {"Type": "options"},
+      "Deadline Date": {"Type": "datetime"},
+      "Alert Threshold": {"Type": "number"}
+    }
+  },
+  "Fluid Intake Tracker": {
+    "Parameters": {
+      "Fluid Intake": {"Type": "number"},
+      "Frequency": {"Type": "options"},
+      "Deadline Date": {"Type": "datetime"},
+      "Alert Threshold": {"Type": "number"}
+    }
+  },
+  "Consultation Request": {
+    "Parameters": {
+      "Reason": {"Type": "text"},
+      "Message": {"Type": "text"}
+    }
+  }
+}

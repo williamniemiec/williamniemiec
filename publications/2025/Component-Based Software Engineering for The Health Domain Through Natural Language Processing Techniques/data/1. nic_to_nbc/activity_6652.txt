@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+    "Mood Tracker": {
+        "name": "",
+        "emotions": [],
+        "rating": "",
+        "frequency": ""
+    },
+    "Question": {
+        "name": "",
+        "answer_type": "",
+        "options": [],
+        "frequency": ""
+    },
+    "Symptom Checker": {
+        "name": "",
+        "symptoms": [],
+        "presence": "",
+        "severity": "",
+        "frequency": ""
+    }
+}

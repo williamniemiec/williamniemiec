@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Social Behavior Feedback": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Behavior Type": {"Type": "options", "Options": ["Communication skills", "Conflict resolution", "Boundary setting", "Active listening", "Other"]},
+      "Behavior Description": {"Type": "text"},
+      "Rating Scale": {"Type": "options", "Options": ["1-5 rating scale", "Yes/no rating scale", "Likert scale"]},
+      "Feedback": {"Type": "text"},
+      "Goal": {"Type": "text"},
+      "Frequency": {"Type": "options", "Options": ["daily", "every other day", "weekly", "monthly"]},
+      "Deadline Date": {"Type": "datetime"}
+    }
+  }
+}

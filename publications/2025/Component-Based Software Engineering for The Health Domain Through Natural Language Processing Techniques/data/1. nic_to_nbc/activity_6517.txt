@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Learning Style Assessment": {
+    "Questions": {"Type": "form"},
+    "Answer Options": {"Type": "options"},
+    "Scoring": {"Type": "conditional logic"},
+    "Learning Style": {"Type": "text"}
+  }
+}

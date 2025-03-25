@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Surgery Information": {
+        "parameters": {
+            "Surgery Date": {"type": "date"},
+            "Surgery Time": {"type": "time"},
+            "Arrival Time": {"type": "time"},
+            "Admission Procedure": {"type": "text or rich text"},
+            "Additional Instructions": {"type": "text or rich text"}
+        }
+    }
+}

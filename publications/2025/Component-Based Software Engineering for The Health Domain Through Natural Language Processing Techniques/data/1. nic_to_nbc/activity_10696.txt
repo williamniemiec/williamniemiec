@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Fluid Imbalance Risk Factors": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Risk Factors": {"Type": "form", "Fields": [...]},
+      "Risk Factor Severity": {"Type": "options", "Options": [...]},
+      "Deadline Date": {"Type": "datetime"},
+      "Notes": {"Type": "text"}
+    }
+  }
+}
+
+
+Note that I removed the `Fields` array contents to simplify the output, as it was a long list of objects. If you need the full contents, let me know!

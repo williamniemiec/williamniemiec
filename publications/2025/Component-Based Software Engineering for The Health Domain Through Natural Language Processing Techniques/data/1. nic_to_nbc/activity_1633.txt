@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+  "Instruction": {
+    "instruction": {
+      "Description": "Specific instruction to be given to the patient",
+      "Required": true,
+      "Type": "text"
+    },
+    "reason": {
+      "Description": "Explain why this instruction is important",
+      "Required": true,
+      "Type": "text"
+    }
+  }
+}
+
+
+I removed all the unnecessary information and kept only the `{{ NO-CODE ELEMENT NAME }}` ("Instruction") and the `{{ PARAMETER ESPECIFICATIONS }}`. I also removed the "Warning" parameter since it was marked as not required.

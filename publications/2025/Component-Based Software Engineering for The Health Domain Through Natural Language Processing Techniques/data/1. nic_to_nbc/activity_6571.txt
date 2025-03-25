@@ -1,0 +1,31 @@
+Here is the output in JSON format:
+
+
+{
+    "Journaling": {
+        "name": "",
+        "prompt": "",
+        "frequency": "",
+        "deadline_date": "",
+        "content_type": "text"
+    },
+    "Emotion Tracking": {
+        "name": "",
+        "emotions": [],
+        "rating_scale": "",
+        "frequency": "",
+        "deadline_date": "",
+        "content_type": "rating scale"
+    },
+    "Reflection Question": {
+        "name": "",
+        "question": "",
+        "answer_type": "text",
+        "frequency": "",
+        "deadline_date": "",
+        "content_type": "form"
+    }
+}
+
+
+Let me know if you need any further modifications!

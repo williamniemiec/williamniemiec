@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+  "Learning Readiness Assessment": {
+    "parameters": {
+      "name": "",
+      "sections": [
+        "developmental_level",
+        "physiological_status",
+        "orientation",
+        "basic_needs",
+        "emotional_state",
+        "adaptation_to_illness"
+      ],
+      "questions_or_tasks": "",
+      "scoring": ""
+    }
+  }
+}

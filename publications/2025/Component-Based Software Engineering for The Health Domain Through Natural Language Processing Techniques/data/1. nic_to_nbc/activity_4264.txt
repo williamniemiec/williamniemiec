@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Topical Analgesia",
+  "parameters": [
+    {
+      "name": "Indication"
+    },
+    {
+      "name": "Agency Protocol"
+    },
+    {
+      "name": "Application Instructions"
+    }
+  ]
+}

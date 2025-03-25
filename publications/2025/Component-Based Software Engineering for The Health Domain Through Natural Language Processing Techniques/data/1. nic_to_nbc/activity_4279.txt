@@ -1,0 +1,45 @@
+Here is the output in JSON format:
+
+
+{
+  "Bowel Training Program": {
+    "Program Schedule": {
+      "Day": {
+        "Type": "Options",
+        "Options": [
+          { "value": "monday", "label": "Monday" },
+          { "value": "tuesday", "label": "Tuesday" },
+          { "value": "wednesday", "label": "Wednesday" },
+          { "value": "thursday", "label": "Thursday" },
+          { "value": "friday", "label": "Friday" },
+          { "value": "saturday", "label": "Saturday" },
+          { "value": "sunday", "label": "Sunday" }
+        ]
+      },
+      "Time": {
+        "Type": "Time"
+      },
+      "Activity": {
+        "Type": "Options",
+        "Options": [
+          { "value": "defecation", "label": "Defecation" },
+          { "value": "exercise", "label": "Exercise" },
+          { "value": "dietaryChanges", "label": "Dietary Changes" },
+          { "value": "medication", "label": "Medication" },
+          { "value": "other", "label": "Other (please specify)" }
+        ]
+      }
+    },
+    "Frequency": {
+      "Type": "Options",
+      "Options": [
+        { "value": "daily", "label": "Daily" },
+        { "value": "everyOtherDay", "label": "Every other day" },
+        { "value": "weekly", "label": "Weekly" }
+      ]
+    }
+  }
+}
+
+
+I removed the unnecessary parts of the input text and only kept the `{{ NO-CODE ELEMENT NAME }}` (which is "Bowel Training Program") and the `{{ PARAMETER ESPECIFICATIONS }}`. I also reformatted the output in a JSON format. Let me know if you need anything else!

@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Support Network": {
+    "parameters": {
+      "name": "Support Person(s) for Birth Experience",
+      "support_persons": "A list of individuals the patient wants to include in their birth experience, with their names, relationships, and contact information",
+      "roles": "A parameter specifying the roles or responsibilities of each support person (e.g., emotional support, physical support, decision-making)",
+      "communication_preferences": "A parameter specifying how the patient wants to communicate with their support person(s) during the birth experience (e.g., in-person, phone, video call)"
+    }
+  }
+}

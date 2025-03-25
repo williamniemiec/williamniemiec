@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Mirror Manager": {
+    "parameters": {
+      "Mirror Status": {},
+      "Reason": {},
+      "Location": {}
+    }
+  }
+}

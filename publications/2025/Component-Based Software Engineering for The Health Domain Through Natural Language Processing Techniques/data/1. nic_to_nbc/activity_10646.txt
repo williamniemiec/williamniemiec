@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+  "Therapy Goal Progress Tracker": {
+    "Parameters": {
+      "Therapy Goals": {
+        "Type": "list of text"
+      },
+      "Current Progress": {
+        "Type": "rating scale (e.g., 1-5)"
+      },
+      "Goal Achievement": {
+        "Type": "checkbox list"
+      },
+      "Challenges and Barriers": {
+        "Type": "text"
+      },
+      "Action Plan": {
+        "Type": "text"
+      }
+    }
+  }
+}
+
+
+Note that I removed the `Next Steps` parameter as it was not applicable (the text was cut off). Let me know if you need anything else!

@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Resource and Strength Identification": {
+    "Name": {"type": "text"},
+    "Precipitant": {"type": "text"},
+    "Resource Type": {"type": "options", "options": ["Social support", "Coping skills", "Professional help", "Other"]},
+    "Resource": {"type": "text"},
+    "Strength/Ability": {"type": "text"},
+    "How to Use": {"type": "text"},
+    "Frequency": {"type": "options", "options": ["daily", "every other day", "weekly", "monthly"]},
+    "Deadline Date": {"type": "datetime"}
+  }
+}
+
+
+Note: I removed the parameters that were not applicable (i.e., had no specifications or were empty). Let me know if you need any further modifications!

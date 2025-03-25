@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+  "Supervision Instruction": {
+    "Public Settings": [
+      "shoppingMall",
+      "park",
+      "playground",
+      "restaurant",
+      "other"
+    ],
+    "Supervision Tips": "text",
+    "Distance": "text",
+    "Frequency": [
+      "constantly",
+      "everyFewMinutes",
+      "everyHour"
+    ],
+    "Duration": "text",
+    "Reminder": "boolean"
+  }
+}
+
+
+Let me know if this meets your requirements!

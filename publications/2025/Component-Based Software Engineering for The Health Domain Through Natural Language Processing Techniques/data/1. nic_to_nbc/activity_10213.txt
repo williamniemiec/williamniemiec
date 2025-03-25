@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+    "noCodeElementName": "Learning Objective Tracker",
+    "parameterSpecifications": {
+        "learning_objectives": "a list of learning objectives",
+        "patient_data": "patient data related to the learning objectives",
+        "tracking_frequency": "how often to track patient progress"
+    }
+}

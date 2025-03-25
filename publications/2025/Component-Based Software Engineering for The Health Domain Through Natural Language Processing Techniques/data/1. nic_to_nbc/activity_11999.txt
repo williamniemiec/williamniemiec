@@ -1,0 +1,34 @@
+Here is the output in JSON format:
+
+
+{
+  "Visit Problem Identification": {
+    "Parameters": {
+      "Visit Issues": {
+        "Type": "list of options",
+        "Options": [
+          {"value": "overwhelming", "label": "Overwhelming number of visitors"},
+          {"value": "conflict", "label": "Conflict between visitors and patient"},
+          {"value": "disruptive", "label": "Disruptive behavior by visitors"},
+          {"value": "infectionControl", "label": "Infection control concerns"},
+          {"value": "other", "label": "Other (please specify)"}
+        ]
+      },
+      "Problem Description": {
+        "Type": "text"
+      },
+      "Impact on Patient": {
+        "Type": "options",
+        "Options": [
+          {"value": "none", "label": "None"},
+          {"value": "mild", "label": "Mild"},
+          {"value": "moderate", "label": "Moderate"},
+          {"value": "severe", "label": "Severe"}
+        ]
+      },
+      "Action Plan": {
+        "Type": "text"
+      }
+    }
+  }
+}

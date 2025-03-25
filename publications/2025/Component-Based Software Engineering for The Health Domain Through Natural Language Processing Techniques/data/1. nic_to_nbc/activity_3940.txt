@@ -1,0 +1,9 @@
+Since there is no no-code element associated with this intervention, I will return an empty JSON object.
+
+{}
+
+Note: If there were a no-code element name and parameter specifications, the output would be in the following format:
+{
+"noCodeElementName": "{{ NO-CODE ELEMENT NAME }}",
+"parameterSpecifications": {{ PARAMETER ESPECIFICATIONS }}
+}

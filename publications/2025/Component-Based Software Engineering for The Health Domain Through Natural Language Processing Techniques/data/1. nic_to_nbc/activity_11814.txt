@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Reimbursement Info": {
+    "parameters": {
+      "name": {"type": "text"},
+      "content": {"type": "text or HTML"},
+      "links": {"type": "list of URLs"},
+      "notes": {"type": "text"}
+    }
+  }
+}
+
+
+Let me know if this meets your requirements!

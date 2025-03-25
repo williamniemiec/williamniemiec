@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Formula Handling Guideline": {
+    "Title": {"Type": "text"},
+    "Content": {"Type": "text or html"},
+    "Discard Leftover Formula": {"Type": "boolean"},
+    "Clean Bottle After Feeding": {"Type": "boolean"},
+    "Reason": {"Type": "text"}
+  }
+}

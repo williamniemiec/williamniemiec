@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Social Network Assessment": {
+    "parameters": [
+      {"Relationship Types": {"type": "multi-select options", "required": true}},
+      {"Relationship Strengths": {"type": "rating scale (e.g., 1-5)", "required": true}},
+      {"Relationship Weaknesses": {"type": "rating scale (e.g., 1-5)", "required": true}},
+      {"Support Network": {"type": "text or selection from a list of contacts", "required": true}},
+      {"Relationship Goals": {"type": "text", "required": true}}
+    ]
+  }
+}

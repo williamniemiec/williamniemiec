@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Turning Reminder": {
+    "Name": {"type": "text"},
+    "Message": {"type": "text"},
+    "Frequency": {"type": "options"},
+    "Log Roll Technique Instructions": {"type": "text or video"},
+    "Customizable Frequency": {"type": "options"}
+  },
+  "Task": {
+    "Name": {"type": "text"},
+    "Content": {"type": "text"},
+    "Frequency": {"type": "options"},
+    "Deadline Date": {"type": "datetime"}
+  }
+}

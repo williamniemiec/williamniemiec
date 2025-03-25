@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Equipment Check": {
+    "Parameters": {
+      "Equipment Type": {},
+      "Equipment Status": {},
+      "Checklist Items": {},
+      "Additional Notes": {}
+    }
+  }
+}
+
+
+Note that I removed `Date and Time` from the parameters as it's not a configurable parameter, but rather an automatically recorded value.

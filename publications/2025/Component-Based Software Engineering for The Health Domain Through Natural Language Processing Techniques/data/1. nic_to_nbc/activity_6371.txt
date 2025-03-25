@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Permission Request": {
+    "parameters": {
+      "sensitive_areas": {
+        "type": "list of sensitive areas"
+      },
+      "permission_request_text": {
+        "type": "text"
+      },
+      "yes_no_response": {
+        "type": "boolean (yes/no)"
+      },
+      "guidance_text": {
+        "type": "text or multimedia (e.g., video, audio)"
+      }
+    }
+  }
+}

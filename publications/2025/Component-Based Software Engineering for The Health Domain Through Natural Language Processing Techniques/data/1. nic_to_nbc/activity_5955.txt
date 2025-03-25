@@ -1,0 +1,41 @@
+Here is the output in JSON format:
+
+{
+    "name": "Emotion Confrontation",
+    "parameters": [
+        {
+            "name": "Emotion Identification",
+            "type": "options",
+            "options": [
+                { value: "anger", label: "Anger" },
+                { value: "depression", label: "Depression" },
+                { value: "anxiety", label: "Anxiety" },
+                { value: "other", label: "Other" }
+            ]
+        },
+        {
+            "name": "Emotion Intensity",
+            "type": "options",
+            "options": [
+                { value: "mild", label: "Mild" },
+                { value: "moderate", label: "Moderate" },
+                { value: "severe", label: "Severe" }
+            ]
+        },
+        {
+            "name": "Emotion Expression",
+            "type": "options",
+            "options": [
+                { value: "verbally", label: "Verbally" },
+                { value: "physically", label: "Physically" },
+                { value: "internally", label: "Internally" }
+            ]
+        },
+        {
+            "name": "Confrontation Prompt",
+            "type": "text"
+        }
+    ]
+}
+
+Let me know if you need any further modifications!

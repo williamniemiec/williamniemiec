@@ -1,0 +1,36 @@
+Here is the output in JSON format:
+
+
+{
+  "Body Cleansing": {
+    "Parameters": {
+      "Cleansing Method": {
+        "Description": "Specify the method of cleansing",
+        "Required": true,
+        "Type": "options",
+        "Options": [
+          { "value": "shower", "label": "Shower" },
+          { "value": "bath", "label": "Bath" },
+          { "value": "wipes", "label": "Wipes" },
+          { "value": "other", "label": "Other (please specify)" }
+        ]
+      },
+      "Cleansing Instructions": {
+        "Description": "Provide detailed instructions for cleansing the body",
+        "Required": true,
+        "Type": "text"
+      },
+      "Frequency": {
+        "Description": "Specify how often the patient should be reminded to cleanse their body",
+        "Required": true,
+        "Type": "options",
+        "Options": [
+          { "value": "daily", "label": "Daily" },
+          { "value": "onlyOnce", "label": "Only once" },
+          { "value": "everyHours", "label": "Every x hours" },
+          { "value": "everyDays", "label": "Every x days" }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Symptom Tracker": {
+    "Parameters": {
+      "Symptom List": {"Type": "list of text values"},
+      "Severity Scale": {"Type": "scale (e.g., 1-5, 1-10, etc.)"},
+      "Frequency Field": {"Type": "text (e.g., \"daily\", \"weekly\", etc.)"},
+      "Duration Field": {"Type": "text (e.g., \"1 day\", \"1 week\", etc.)"},
+      "Notes Field": {"Type": "text"}
+    }
+  }
+}

@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Skin Turgor Test": {
+    "Instructions": {"type": "text", "value": "Grasp tissue over a bony area such as the hand or shin, pinch the skin gently, hold it for a second and release."},
+    "Video/Demonstration": {"type": "video"},
+    "Result": {"type": "options", "options": ["quickly", "slowly", "not at all"]},
+    "Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]}
+  }
+}

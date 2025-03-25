@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Fluid Tracker": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Frequency": {"Options": ["daily", "everyHours", "everyDays"]},
+      "Deadline Date": {"Type": "datetime"},
+      "Fluid Intake": {"Type": "numeric", "Units": ["mL", "oz"]},
+      "Fluid Output": {"Type": "numeric", "Units": ["mL", "oz"]},
+      "Fluid Balance": {"Type": "numeric", "Units": ["mL", "oz"]},
+      "Notes": {"Type": "text"}
+    }
+  }
+}

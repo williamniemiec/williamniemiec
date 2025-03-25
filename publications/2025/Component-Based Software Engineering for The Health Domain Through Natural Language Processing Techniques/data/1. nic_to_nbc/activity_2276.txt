@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Event Documentation": {
+    "parameters": {
+      "Event Details": {"type": "text"},
+      "Event Date and Time": {"type": "datetime"},
+      "Patient Information": {"type": "patient information"},
+      "Event Type": {"type": "options"},
+      "Documentation Template": {"type": "documentation template"}
+    }
+  }
+}

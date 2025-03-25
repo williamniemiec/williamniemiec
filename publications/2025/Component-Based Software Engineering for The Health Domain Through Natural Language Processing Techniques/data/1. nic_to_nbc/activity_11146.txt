@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Instruction": {
+    "parameters": [
+      {"name": "condition", "description": "specify the condition under which artificial salt should be substituted", "required": true, "type": "text"},
+      {"name": "substitution_guidance", "description": "provide guidance on how to substitute artificial salt", "required": true, "type": "text"}
+    ]
+  }
+}

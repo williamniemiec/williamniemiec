@@ -1,0 +1,32 @@
+
+
+
+{
+    "Weight Shift": {
+        "Frequency": {
+            "type": "options",
+            "options": [
+                { "value": "every15Minutes", "label": "Every 15 minutes" },
+                { "value": "every30Minutes", "label": "Every 30 minutes" },
+                { "value": "everyHour", "label": "Every hour" },
+                { "value": "custom", "label": "Custom (please specify)" }
+            ]
+        },
+        "Shift Type": {
+            "type": "options",
+            "options": [
+                { "value": "leanForward", "label": "Lean forward" },
+                { "value": "leanBackward", "label": "Lean backward" },
+                { "value": "shiftToLeft", "label": "Shift to left" },
+                { "value": "shiftToRight", "label": "Shift to right" },
+                { "value": "other", "label": "Other (please specify)" }
+            ]
+        },
+        "Deadline Date": {
+            "type": "datetime"
+        },
+        "Instructions": {
+            "type": "text"
+        }
+    }
+}

@@ -1,0 +1,14 @@
+
+
+
+{
+    "Coping Strategy Plan": {
+        "Parameters": {
+            "Stressor": {"Type": "text"},
+            "Coping Strategy": {"Type": "options"},
+            "Custom Strategy": {"Type": "text"},
+            "Frequency": {"Type": "options", "Options": ["daily", "weekly", "monthly"]},
+            "Reflection": {"Type": "text"}
+        }
+    }
+}

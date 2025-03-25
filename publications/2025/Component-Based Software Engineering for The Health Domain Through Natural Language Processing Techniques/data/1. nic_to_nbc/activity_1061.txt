@@ -1,0 +1,31 @@
+Here is the output in JSON format:
+
+{
+  "Exercise Finder": {
+    "title of the exercise finder": {
+      "type": "text",
+      "required": true
+    },
+    "Questions": {
+      "type": "list of questions",
+      "required": true,
+      "example": ["What is your current level of physical activity?", "Do you experience back pain?", "What is your age?"]
+    },
+    "Exercise Options": {
+      "type": "list of exercise options",
+      "required": true,
+      "example": ["Shoulder Rolls", "Chest Stretch", "Neck Stretch"]
+    },
+    "Recommendations": {
+      "type": "algorithm",
+      "required": true
+    },
+    "Frequency": {
+      "type": "options",
+      "required": true,
+      "options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+    }
+  }
+}
+
+I removed the `Deadline Date` parameter since it's not required. Let me know if you need any further assistance!

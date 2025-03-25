@@ -1,0 +1,10 @@
+{
+  "name": "Bleeding and Coagulation Monitoring",
+  "description": "Monitors bleeding and coagulation factors, including blood loss, hematocrit levels, effluent analysis, coagulation status, and related metrics such as PTT, PT, and hematoma formation.",
+  "type": "periodic",
+  "input": ["Blood loss details", "Hematocrit value", "Effluent data", "PTT and PT results", "Hematoma formation status"],
+  "output": ["Coagulation report", "Bleeding risk assessment", "Hematoma monitoring report"],
+  "preconditions": ["Patient undergoes coagulation or bleeding monitoring"],
+  "postconditions": ["Coagulation status and bleeding risks are assessed and documented"],
+  "dependencies": ["Laboratory testing systems", "Coagulation monitoring platform", "Patient data tracking tools"]
+}

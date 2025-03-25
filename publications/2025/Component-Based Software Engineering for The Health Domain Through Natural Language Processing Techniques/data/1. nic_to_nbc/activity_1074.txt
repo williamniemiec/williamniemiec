@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "report": {
+    "parameters": {
+      "Report content": {"type": "text or HTML"},
+      "Report format": {"type": "options (e.g., PDF, HTML, etc.)"},
+      "Access control": {
+        "type": "object with properties",
+        "properties": {
+          "roles": {"type": "list of strings"},
+          "permissions": {"type": "list of strings"}
+        }
+      }
+    }
+  }
+}

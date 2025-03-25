@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Information Request": {
+    "Parameters": {
+      "Information Requested": {"Type": ["text", "list of options"]},
+      "Format": {"Type": ["list of options"]},
+      "Urgency": {"Type": ["list of options"]},
+      "Response": {"Type": ["text", "multimedia content"]}
+    }
+  }
+}

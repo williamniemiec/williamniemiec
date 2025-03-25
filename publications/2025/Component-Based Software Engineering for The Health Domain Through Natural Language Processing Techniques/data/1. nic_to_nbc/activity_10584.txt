@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+
+{
+  "Smoking Cessation Warning": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Content": {"Type": ["text", "image", "video"]},
+      "Risks": {"Type": ["list of text"]},
+      "Consequences": {"Type": ["list of text"]},
+      "Resources": {"Type": ["list of resources"]}
+    }
+  }
+}
+
+
+Let me know if this meets your requirements!

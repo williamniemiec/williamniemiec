@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+    "Voiding Establishment Instruction": {
+        "Parameters": {
+            "Name": {"Type": "text"},
+            "Voiding Method": {"Type": "options"},
+            "Usage Instructions": {"Type": "text"},
+            "Frequency": {"Type": "options"},
+            "Deadline Date": {"Type": "datetime"},
+            "Additional Tips": {"Type": "text"}
+        }
+    }
+}

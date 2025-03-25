@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Home Safety Advisor": {
+    "Safety Issues": {"Description": "List of potential home safety issues (e.g. tripping hazards, fall risks, medication management)", "Required": true, "Type": "list of text"},
+    "Interventions": {"Description": "List of potential home safety interventions (e.g. removing tripping hazards, installing handrails, medication reminders)", "Required": true, "Type": "list of text"},
+    "Discussion Notes": {"Description": "Notes from the discussion about home safety issues and interventions", "Required": true, "Type": "text"}
+  }
+}
+
+
+I removed the not applicable parameters (i.e. `Content Type`, `Priority`) and kept only the necessary information. Let me know if you need any further assistance!

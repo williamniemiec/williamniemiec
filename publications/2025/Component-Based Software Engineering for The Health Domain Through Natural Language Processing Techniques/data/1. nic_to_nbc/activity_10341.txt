@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Reading Assistant": {
+    "parameters": [
+      {"information_type": {"type": "options", "options": ["mail", "newspaper", "book", "document", "other"]}},
+      {"frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]}},
+      {"assistant": {"type": "text"}},
+      {"notes": {"type": "text"}}
+    ]
+  }
+}

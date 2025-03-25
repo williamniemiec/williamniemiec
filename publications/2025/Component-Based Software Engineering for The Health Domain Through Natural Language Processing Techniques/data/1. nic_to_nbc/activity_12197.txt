@@ -1,0 +1,36 @@
+Here is the output in JSON format:
+
+
+{
+  "Protocol Guide": {
+    "parameters": {
+      "name": "",
+      "description": "",
+      "steps": [],
+      "resources": []
+    }
+  },
+  "Task": {
+    "parameters": {
+      "name": "",
+      "content": "",
+      "frequency": "",
+      "deadline_date": ""
+    }
+  },
+  "Question": {
+    "parameters": {
+      "name": "",
+      "answer type": "",
+      "frequency": "",
+      "deadline_date": ""
+    }
+  },
+  "Resource": {
+    "parameters": {
+      "name": "",
+      "type": "",
+      "content": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Tepid Sponge Bath Guidance": {
+        "parameters": {
+            "temperature_threshold": "",
+            "phase_restriction": "",
+            "caution": "",
+            "administration_guidance": ""
+        }
+    }
+}

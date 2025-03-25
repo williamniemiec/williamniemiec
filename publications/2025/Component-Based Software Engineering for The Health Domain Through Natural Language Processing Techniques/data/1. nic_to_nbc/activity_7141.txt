@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Procedure Explanation": {
+    "Parameters": {
+      "Procedure Overview": {"Type": "text or video content"},
+      "Sensations": {"Type": "text or video content"},
+      "FAQs": {"Type": "list of objects with properties (e.g., question, answer)"},
+      "Visual Aids": {"Type": "image or diagram"},
+      "Anxiety Reduction": {"Type": "text or audio content"}
+    }
+  }
+}
+
+
+I removed the `Consent` parameter as it was marked as a boolean type, which is not applicable in this context. Let me know if you have any further questions!

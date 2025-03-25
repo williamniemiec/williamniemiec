@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+  "Oral Care Reminder": {
+    "Reminder Frequency": {
+      "Type": "options",
+      "Options": ["before every meal", "before specific meals", "daily", "etc"]
+    },
+    "Oral Care Instructions": {
+      "Type": "text or HTML"
+    },
+    "Customization": {
+      "Type": "boolean"
+    },
+    "Tracking": {
+      "Type": "boolean"
+    }
+  }
+}

@@ -1,0 +1,43 @@
+Here is the output in JSON format:
+
+
+{
+  "When to Contact a Health Professional": {
+    "Parameters": {
+      "Name": {
+        "Description": "Guide title",
+        "Required": true,
+        "Type": "text"
+      },
+      "Reasons to Contact": {
+        "Description": "Select the reasons to contact a health professional",
+        "Required": true,
+        "Type": "checklist",
+        "Options": [
+          { "value": "nonhealingLesion", "label": "Nonhealing lesion" },
+          { "value": "infectedLesion", "label": "Infected lesion" },
+          { "value": "increasedPain", "label": "Increased pain" },
+          { "value": "swelling", "label": "Swelling" },
+          { "value": "redness", "label": "Redness" },
+          { "value": "warmth", "label": "Warmth" },
+          { "value": "other", "label": "Other (please specify)" }
+        ]
+      },
+      "Contact Information": {
+        "Description": "Enter the contact information of the health professional",
+        "Required": true,
+        "Type": "text"
+      },
+      "Urgency Level": {
+        "Description": "Select the urgency level for contacting a health professional",
+        "Required": true,
+        "Type": "options",
+        "Options": [
+          { "value": "immediate", "label": "Immediate attention required" },
+          { "value": "urgent", "label": "Urgent attention required" },
+          { "value": "nonUrgent", "label": "Non-urgent attention required" }
+        ]
+      }
+    }
+  }
+}

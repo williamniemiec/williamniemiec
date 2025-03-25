@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Device Labeling": {
+    "parameters": {
+      "name": "Device Labeling",
+      "description": "number the collection devices, if more than one exist",
+      "content_type": ["list", "table"],
+      "devices": [
+        {"Device ID": "", "Device Number": ""},
+      ],
+      "instructions": ""
+    }
+  }
+}

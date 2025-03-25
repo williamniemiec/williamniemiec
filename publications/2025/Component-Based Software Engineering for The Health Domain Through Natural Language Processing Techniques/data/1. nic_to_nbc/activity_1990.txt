@@ -1,0 +1,51 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Incontinence Tracker",
+    "parameters": [
+        { 
+            "name": "onset", 
+            "type": "datetime"
+        },
+        { 
+            "name": "type", 
+            "type": "options",
+            "options": [
+                { value: "fecal" },
+                { value: "urinary" }
+            ]
+        },
+        { 
+            "name": "frequency", 
+            "type": "options",
+            "options": [
+                { value: "daily" },
+                { value: "weekly" },
+                { value: "monthly" }
+            ]
+        },
+        { 
+            "name": "bowel_function", 
+            "type": "options",
+            "options": [
+                { value: "constipation" },
+                { value: "diarrhea" },
+                { value: "normal" }
+            ]
+        },
+        { 
+            "name": "stool_consistency", 
+            "type": "options",
+            "options": [
+                { value: "hard" },
+                { value: "soft" },
+                { value: "watery" }
+            ]
+        },
+        { 
+            "name": "episode_log", 
+            "type": "list of episode logs"
+        }
+    ]
+}

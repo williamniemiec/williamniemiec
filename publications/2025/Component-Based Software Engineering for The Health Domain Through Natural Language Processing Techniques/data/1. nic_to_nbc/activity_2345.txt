@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Hair Preparation": {
+    "parameters": {
+      "hair_cleanliness": {"type": "boolean"},
+      "hair_dryness": {"type": "boolean"},
+      "hair_ornaments": {"type": "boolean"},
+      "preparation_instructions": {"type": "text"},
+      "confirmation": {"type": "boolean"}
+    }
+  }
+}

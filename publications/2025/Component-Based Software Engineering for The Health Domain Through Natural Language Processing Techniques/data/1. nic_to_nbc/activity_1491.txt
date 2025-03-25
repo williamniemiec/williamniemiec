@@ -1,0 +1,36 @@
+Here is the output in JSON format:
+
+
+{
+  "Symptom Checker": {
+    "parameters": {
+      "name": "Hypovolemic Shock Symptom Checker",
+      "description": "Track your symptoms related to hypovolemic shock",
+      "type": "multi-select",
+      "options": [
+        { "label": "Increased thirst", "value": "increasedThirst" },
+        { "label": "Increased heart rate", "value": "increasedHR" },
+        { "label": "Increased systemic vascular resistance", "value": "increasedSVR" },
+        { "label": "Decreased urine output", "value": "decreasedUrineOutput" },
+        { "label": "Decreased bowel sounds", "value": "decreasedBowelSounds" },
+        { "label": "Decreased peripheral perfusion", "value": "decreasedPeripheralPerfusion" },
+        { "label": "Altered mental status", "value": "alteredMentalStatus" },
+        { "label": "Altered respirations", "value": "alteredRespirations" }
+      ]
+    }
+  },
+  "Vital Sign Tracking": {
+    "parameters": {
+      "name": "Vital Sign Tracking",
+      "description": "Track your vital signs related to hypovolemic shock",
+      "type": "numeric input",
+      "units": ["bpm", "mmHg"],
+      "fields": [
+        { "label": "Heart rate", "value": "heartRate" },
+        { "label": "Blood pressure", "value": "bloodPressure" },
+        { "label": "Respiratory rate", "value": "respiratoryRate" },
+        { "label": "Urine output", "value": "urineOutput" }
+      ]
+    }
+  }
+}

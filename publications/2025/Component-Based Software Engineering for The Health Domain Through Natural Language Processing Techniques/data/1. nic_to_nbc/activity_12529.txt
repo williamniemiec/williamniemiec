@@ -1,0 +1,8 @@
+Since there is no `PARAMETER ESPECIFICATIONS` in the input text, I will assume it's not applicable. Also, since there is no `NO-CODE ELEMENT NAME`, I will extract the previous intervention name mentioned in the text.
+
+Here is the output in JSON format:
+
+
+{
+  "NO-CODE ELEMENT NAME": "Encourage patient to describe and talk about the art product and the art-making process"
+}

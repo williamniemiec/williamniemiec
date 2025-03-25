@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+  "Behavioral Style Identification": {
+    "Parameters": {
+      "Behavioral Style Options": {
+        "Type": "options",
+        "Options": ["assertive", "aggressive", "passive-aggressive"]
+      },
+      "Behavioral Style Descriptions": {
+        "Type": "text"
+      },
+      "Scenario-Based Questions": {
+        "Type": "form",
+        "Questions": "list of questions with answer options"
+      },
+      "Correct Answers": {
+        "Type": "text"
+      },
+      "Additional Resources": {
+        "Type": "text"
+      }
+    }
+  }
+}

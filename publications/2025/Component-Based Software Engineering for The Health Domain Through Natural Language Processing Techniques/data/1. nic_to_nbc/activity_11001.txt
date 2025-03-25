@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+    "Assertiveness Barrier Assessment": {
+        "Barrier Types": {
+            "Type": "options",
+            "Options": ["developmental stage", "chronic medical or psychiatric condition", "female socialization", "etc."]
+        },
+        "Barrier Questions": {
+            "Type": "form",
+            "Questions": "list of questions with answer options"
+        },
+        "Barrier Identification": {
+            "Type": "text"
+        },
+        "Additional Information": {
+            "Type": "text"
+        }
+    }
+}

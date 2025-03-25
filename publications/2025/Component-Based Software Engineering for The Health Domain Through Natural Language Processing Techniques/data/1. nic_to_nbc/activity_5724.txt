@@ -1,0 +1,45 @@
+Here is the output in JSON format:
+
+
+{
+  "Community Resource Referral": {
+    "Resource Type": {
+      "Description": "Type of resource to be referred to (e.g. community support, follow-up care, etc.)",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "communitySupport", "label": "Community Support" },
+        { "value": "followUpCare", "label": "Follow-up Care" }
+      ]
+    },
+    "Resource List": {
+      "Description": "List of resources to be referred to, including contact information and details",
+      "Required": true,
+      "Type": "unordered list",
+      "Unordered list": "list of objects",
+      "Object": {
+        "name": "text",
+        "phone": "phone number",
+        "email": "email address",
+        "address": "text",
+        "description": "text"
+      }
+    },
+    "Filter": {
+      "Description": "Option to filter resources by location, language, or other criteria",
+      "Required": false,
+      "Type": "object",
+      "Object": {
+        "location": "text",
+        "language": "text",
+        "otherCriteria": "text"
+      }
+    },
+    "Resources": {
+      "Description": "List of additional resources (e.g. articles, videos, etc.) on community support and follow-up care",
+      "Required": false,
+      "Type": "unordered list",
+      "Unordered list": "list of links or embedded media"
+    }
+  }
+}

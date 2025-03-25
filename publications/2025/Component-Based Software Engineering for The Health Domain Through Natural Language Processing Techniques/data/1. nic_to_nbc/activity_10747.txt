@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Catheter Clamping": {
+    "Parameters": {
+      "Instructions": {"Type": ["text", "unordered list"]},
+      "Catheter Type": {"Options": ["suprapubic catheter", "retention catheter", "other"]},
+      "Clamping Schedule": {"Options": ["as ordered by healthcare provider", "at regular intervals"]},
+      "Clamping Technique": {"Options": ["manual clamping", "automated clamping", "other"]},
+      "Tracking": {"Type": "boolean"},
+      "Healthcare Provider Notification": {"Type": "boolean"}
+    }
+  }
+}

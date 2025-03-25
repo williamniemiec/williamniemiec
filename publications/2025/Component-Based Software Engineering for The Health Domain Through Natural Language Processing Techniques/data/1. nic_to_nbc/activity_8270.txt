@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Personal Care Items": {
+    "Parameters": {
+      "Personal Care Items": {
+        "Description": "List of desired personal care items (e.g., deodorant, toothbrush, bath soap, shampoo, lotion, aromatherapy products, etc.)",
+        "Required": true,
+        "Type": "unordered list"
+      },
+      "Frequency of Use": {
+        "Description": "Frequency of use for personal care items (e.g., daily, weekly, monthly, etc.)",
+        "Required": true,
+        "Type": "options"
+      }
+    }
+  }
+}

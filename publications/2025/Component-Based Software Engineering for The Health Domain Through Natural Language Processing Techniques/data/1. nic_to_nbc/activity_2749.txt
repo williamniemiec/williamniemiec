@@ -1,0 +1,12 @@
+
+
+
+{
+  "Emergency Equipment Storage": {
+    "name": {},
+    "equipment_type": {},
+    "storage_location": {},
+    "accessibility_guidelines": {},
+    "reminders": {}
+  }
+}

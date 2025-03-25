@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Pain Management Plan": {
+    "Parameters": {
+      "Pain Assessment": {"Type": "scale"},
+      "Pain Management Options": {"Type": "list of options"},
+      "Personalized Plan": {"Type": "text"},
+      "Medication Instructions": {"Type": "text"},
+      "Alternative Therapy Instructions": {"Type": "text"},
+      "Progress Tracking": {"Type": "scale"},
+      "Notes": {"Type": "text"}
+    }
+  }
+}

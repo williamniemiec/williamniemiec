@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Inhalation Repetition Guidance": {
+    "parameters": {
+      "Inhalation Instruction": {},
+      "Repetition Schedule": {},
+      "Timer": {},
+      "Audio Cue": {},
+      "Frequency": ["daily", "onlyOnce", "everyHours", "everyDays"],
+      "Deadline Date": {}
+    }
+  }
+}
+
+
+Let me know if this meets your requirements!

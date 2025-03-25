@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+    "emergency contact": {
+        "parameters": [
+            {"name": "contact name", "type": "text"},
+            {"name": "phone number", "type": "tel"},
+            {"name": "description", "type": "text"}
+        ]
+    }
+}

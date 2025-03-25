@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Education Module": {
+    "parameters": [
+      {"name": "topics", "description": "List of educational topics"},
+      {"name": "content", "description": "Educational content for each topic"}
+    ]
+  }
+}

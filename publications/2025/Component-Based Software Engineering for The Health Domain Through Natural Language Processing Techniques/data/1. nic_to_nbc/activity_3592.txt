@@ -1,0 +1,32 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "positioning_warning",
+    "parameters": [
+        { 
+            "name": "title", 
+            "description": "warning title", 
+            "required": true, 
+            "type": "text"
+        },
+        { 
+            "name": "image_url_forward_flexion", 
+            "description": "url of the image illustrating forward flexion", 
+            "required": true, 
+            "type": "url"
+        },
+        { 
+            "name": "image_url_hyperextension", 
+            "description": "url of the image illustrating hyperextension", 
+            "required": true, 
+            "type": "url"
+        },
+        { 
+            "name": "description", 
+            "description": "explanation of why these positions should be avoided", 
+            "required": true, 
+            "type": "text"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Support Resource": {
+    "Name": {"Type": "text"},
+    "Description": {"Type": "text"},
+    "Contact Information": {"Type": "text"},
+    "Type": {"Type": "options", "Options": ["hotline", "online forum", "counseling service", "other"]}
+  },
+  "Educational Content": {
+    "Title": {"Type": "text"},
+    "Content": {"Type": ["article", "video", "podcast"]},
+    "Summary": {"Type": "text"}
+  }
+}

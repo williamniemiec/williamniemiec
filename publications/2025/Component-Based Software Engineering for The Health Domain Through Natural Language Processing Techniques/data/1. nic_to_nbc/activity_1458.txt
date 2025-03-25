@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Care Plan": {
+    "care_plan_name": "",
+    "care_plan_description": "",
+    "patient_info": "",
+    "caregiver_info": "",
+    "care_tasks": [],
+    "task_frequency": [],
+    "resources": []
+  }
+}

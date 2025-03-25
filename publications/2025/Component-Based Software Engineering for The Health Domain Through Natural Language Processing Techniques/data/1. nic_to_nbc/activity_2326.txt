@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+  "Emergency Contact Information": {
+    "Parameters": {
+      "Name": {
+        "Type": "text"
+      },
+      "Description": {
+        "Type": "text"
+      },
+      "Emergency Services": {
+        "Type": "options",
+        "Options": ["police", "local health department", "poison control center"]
+      },
+      "Phone Numbers": {
+        "Type": "text or link to external resource"
+      },
+      "Additional Resources": {
+        "Type": "text or link to external resource"
+      }
+    }
+  }
+}
+
+
+Note that I removed the `Here's a no-code element...` introduction, the `This no-code element can be connected...` conclusion, and only kept the relevant information. Also, I assumed that the list of emergency services options is not exhaustive and only included the examples provided in the input text.

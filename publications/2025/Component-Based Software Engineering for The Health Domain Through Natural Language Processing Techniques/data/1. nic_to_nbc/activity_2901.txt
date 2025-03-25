@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Object Placement Guide": {
+    "Parameters": {
+      "Object Type": {},
+      "Frequency of Use": {},
+      "Reach Zone": {},
+      "Image/Video": {}
+    }
+  }
+}
+
+
+Note that I removed the `Tips for Organization` parameter as it was marked as "Not Applicable" since it didn't have a specific type (options, text, etc.)

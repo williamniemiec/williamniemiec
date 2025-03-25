@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Waste Disposal Guide": {
+    "parameters": {
+      "name": "Waste Disposal Guide",
+      "description": "discard soiled items in an appropriate manner",
+      "content_type": ["step-by-step guide", "video"],
+      "steps": [
+        "Identify soiled items",
+        "Use appropriate disposal bags or containers",
+        "Seal disposal bags or containers properly",
+        "Dispose of soiled items in designated waste receptacles"
+      ],
+      "tips": ["Wash hands after handling soiled items"]
+    }
+  }
+}

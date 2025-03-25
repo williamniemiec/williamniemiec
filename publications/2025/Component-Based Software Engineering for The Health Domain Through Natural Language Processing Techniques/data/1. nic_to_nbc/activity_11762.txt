@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Low-Height Bed Provision": {
+        "parameters": [
+            {"name": "Name", "type": "text"},
+            {"name": "Bed Height", "type": "options", "options": ["18 inches", "20 inches", "Custom"]},
+            {"name": "Patient Criteria", "type": "checklist", "checklist": ["Fall risk", "Mobility issues", "Cognitive impairment"]},
+            {"name": "Bed Installation Instructions", "type": "text"}
+        ]
+    }
+}

@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Intake Tracker": {
+    "Food Intake": {},
+    "Time of Food Intake": {},
+    "Fluid Intake": {},
+    "Time of Fluid Intake": {},
+    "Additional Notes": {},
+    "Food Type": {},
+    "Fluid Type": {},
+    "Amount Consumed": {}
+  }
+}
+
+
+Let me know if you need any further modifications!

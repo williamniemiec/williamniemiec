@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "Umbilical Stump Care": {
+    "Parameters": {
+      "Antiseptic Medication": {
+        "Type": ["text", "options"]
+      },
+      "Application Instructions": {
+        "Type": ["text", "multimedia"]
+      },
+      "Frequency and Duration": {
+        "Type": ["text", "options"]
+      },
+      "Umbilical Stump Assessment": {
+        "Type": ["text", "options"]
+      },
+      "Application Confirmation": {
+        "Type": ["boolean"]
+      }
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Communication and Assertiveness Training",
+  "description": "Focuses on enhancing communication skills through assertiveness training. Involves role-playing scenarios, non-verbal communication techniques, and confrontation handling. Includes feedback to improve listening and response strategies.",
+  "type": "non-periodic",
+  "input": ["Assertiveness techniques", "Communication scenarios", "Role-playing exercises", "Non-verbal communication cues", "Feedback on communication skills"],
+  "output": ["Communication skills assessment", "Assertiveness improvement report", "Role-playing feedback"],
+  "preconditions": ["User engages in communication or assertiveness training exercises"],
+  "postconditions": ["Improved communication, listening skills, and ability to handle confrontational situations assertively"],
+  "dependencies": ["Role-playing tools", "Assertiveness training platform", "Communication feedback system"]
+}

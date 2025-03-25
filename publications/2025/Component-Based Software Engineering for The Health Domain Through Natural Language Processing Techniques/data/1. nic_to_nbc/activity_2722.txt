@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "Side Effect Notification": {
+    "notification_type": [],
+    "notification_content": [],
+    "notification_frequency": []
+  },
+  "Physician Alert": {
+    "alert_type": [],
+    "alert_frequency": [],
+    "alert_threshold": []
+  },
+  "Secure Messaging": {
+    "messaging_type": [],
+    "messaging_content": [],
+    "messaging_frequency": []
+  },
+  "Electronic Health Record (EHR) Integration": {
+    "EHR_system": [],
+    "notification_type": [],
+    "notification_content": []
+  }
+}

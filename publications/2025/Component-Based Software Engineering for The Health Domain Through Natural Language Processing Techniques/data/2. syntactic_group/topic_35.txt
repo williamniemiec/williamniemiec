@@ -1,0 +1,10 @@
+{
+  "name": "Breathing and Inhalation Technique Management",
+  "description": "Guides proper breathing and inhalation techniques, including coughing, inhaler use, and deep breathing exercises, with audio instructions and pattern monitoring.",
+  "type": "periodic",
+  "input": ["Breathing pattern", "Coughing details", "Inhaler use", "Exercise guidance"],
+  "output": ["Inhalation technique report", "Breathing pattern analysis", "Audio feedback"],
+  "preconditions": ["User is performing breathing or inhalation exercises"],
+  "postconditions": ["Breathing and inhalation techniques are monitored and refined as needed"],
+  "dependencies": ["Breathing exercise system", "Inhaler usage tracking tools", "Audio instruction platform"]
+}

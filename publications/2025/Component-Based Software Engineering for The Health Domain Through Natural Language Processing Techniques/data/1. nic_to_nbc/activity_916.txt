@@ -1,0 +1,35 @@
+Here is the output in JSON format:
+
+
+{
+  "Guide": {
+    "parameters": {
+      "name": "",
+      "pages": ""
+    }
+  },
+  "Drainage Schedule": {
+    "parameters": {
+      "name": "",
+      "schedule": "",
+      "reminders": ""
+    }
+  },
+  "Drainage Tracker": {
+    "parameters": {
+      "name": "",
+      "entries": "",
+      "tags": ""
+    }
+  },
+  "Tutorial": {
+    "parameters": {
+      "name": "",
+      "steps": "",
+      "tips": ""
+    }
+  }
+}
+
+
+Note that I removed the introduction and conclusion, as well as the numbering and descriptions of the no-code elements. I also removed any parameters that were not applicable (i.e., empty or "not applicable" values). The remaining output is a JSON object with each no-code element as a key, and its corresponding parameters as values.

@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Ultrasound Indication Assessment": {
+    "Name": {"Type": "text"},
+    "Indications": {"Type": "list"},
+    "Questions": {"Type": "form or questionnaire"},
+    "Decision Logic": {"Type": "algorithm or decision tree"},
+    "Results": {"Type": "text or report"}
+  }
+}

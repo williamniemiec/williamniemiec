@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+  "Shape Learning": {
+    "Parameters": {
+      "Shape Types": {
+        "Type": "options",
+        "Options": ["circle", "square", "triangle", "rectangle"]
+      },
+      "Game Mode": {
+        "Type": "options",
+        "Options": ["recognition", "manipulation", "puzzle"]
+      },
+      "Difficulty Level": {
+        "Type": "options",
+        "Options": ["easy", "medium", "hard"]
+      },
+      "Frequency": {
+        "Type": "options",
+        "Options": ["daily", "every other day", "weekly"]
+      }
+    }
+  }
+}
+
+
+Note that I removed the `Deadline Date` parameter since it's type is `datetime`, which doesn't fit the format of the other parameters. If you want to include it, please let me know!

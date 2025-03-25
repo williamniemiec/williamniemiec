@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+{
+  "Discussion Forum": {
+    "Topic": {"type": "text"},
+    "Description": {"type": "text"},
+    "Question": {"type": "text"},
+    "Response Type": {"type": "options", "options": ["text", "audio", "video"]},
+    "Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"type": "datetime"}
+  }
+}

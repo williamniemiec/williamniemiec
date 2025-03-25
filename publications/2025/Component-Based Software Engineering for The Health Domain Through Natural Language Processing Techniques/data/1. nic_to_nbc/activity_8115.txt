@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Financial Resource Investigation": {
+    "Parameters": {
+      "Drug Name": {"Type": "text"},
+      "Resource Options": {"Type": "options", "Options": ["insurance", "government assistance", "patient assistance programs", "crowdfunding", "etc."]},
+      "Frequency": {"Type": "options", "Options": ["daily", "onlyOnce", "everyWeek", "everyMonth"]},
+      "Deadline Date": {"Type": "datetime"},
+      "Notes": {"Type": "text"}
+    }
+  }
+}

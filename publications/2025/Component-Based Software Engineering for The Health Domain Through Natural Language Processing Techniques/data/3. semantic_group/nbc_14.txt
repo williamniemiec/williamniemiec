@@ -1,0 +1,41 @@
+{
+  "name": "Tube Ventilation",
+  "description": "The 'Tube Ventilation' element manages the maintenance and functionality of medical tubes, focusing on catheter and nasogastric tube care. This includes catheter insertion, maintenance, leakage detection, tube verification, and proper handling of tubing devices such as clamping, removal, and marking procedures. The element ensures optimal tube performance and addresses any issues related to leakage or blockage.",
+  "type": "periodic",
+  "input": [
+    "Catheter type",
+    "Insertion procedure",
+    "Flushing schedule",
+    "Leakage detection",
+    "Tube verification",
+    "Tubing securement",
+    "Nasogastric tube maintenance",
+    "Clamping procedures",
+    "Tube removal steps"
+  ],
+  "output": [
+    "Catheter maintenance report",
+    "Leakage and blockage alerts",
+    "Flushing status",
+    "Tubing maintenance report",
+    "Verification checklist",
+    "Removal and marking instructions"
+  ],
+  "preconditions": [
+    "Catheter is inserted and requires monitoring",
+    "User is handling or managing tubing or nasogastric tubes"
+  ],
+  "postconditions": [
+    "Catheter and tube function is maintained",
+    "Potential issues such as leakage or blockage are addressed",
+    "Proper maintenance and securement of tubing devices"
+  ],
+  "dependencies": [
+    "Medical monitoring system",
+    "Flushing schedule tracker",
+    "Leakage detection tools",
+    "Tubing maintenance tools",
+    "Clamping and securement devices",
+    "Verification systems"
+  ]
+}

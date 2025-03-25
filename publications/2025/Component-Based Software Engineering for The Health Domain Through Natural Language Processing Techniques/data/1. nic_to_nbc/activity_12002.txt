@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+  "Exercise Plan": {
+    "Parameters": {
+      "Exercise Type": {"Type": "options", "Options": ["stretching", "strengthening", "aerobic", "etc."]},
+      "Exercise Intensity": {"Type": "options", "Options": ["low", "moderate", "high"]},
+      "Exercise Frequency": {"Type": "options", "Options": ["daily", "everyHours", "everyDays", "etc."]},
+      "Exercise Duration": {"Type": "number"},
+      "Patient Abilities": {
+        "Type": "form",
+        "Questions": [
+          {"Question": "Are you able to walk without assistance?", "Type": "options", "Options": ["yes", "no"]},
+          {"Question": "Do you have any mobility limitations?", "Type": "options", "Options": ["yes", "no"]},
+          {"Question": "Are you able to perform strenuous activities?", "Type": "options", "Options": ["yes", "no"]}
+        ]
+      },
+      "Condition": {"Type": "options", "Options": ["diabetes", "heartDisease", "etc."]},
+      "Self-Control": {"Type": "options", "Options": ["high", "moderate", "low"]}
+    }
+  }
+}
+
+
+I removed the introduction, conclusion, and other non-parameter elements from the input text. I also reformatted the parameter specifications to fit a JSON structure. Let me know if you have any further requests!

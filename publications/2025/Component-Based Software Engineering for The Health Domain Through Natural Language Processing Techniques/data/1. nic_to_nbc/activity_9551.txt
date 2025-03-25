@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "History": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Problem Description": {"Type": "text"},
+      "Duration": {"Type": "text"},
+      "Frequency": {"Type": "options", "Options": ["daily", "weekly", "monthly", "sporadically"]},
+      "Triggers": {"Type": "text"},
+      "Previous Treatments": {"Type": "text"},
+      "Goals": {"Type": "text"}
+    }
+  }
+}

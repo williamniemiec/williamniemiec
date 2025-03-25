@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Risk Factor Assessment": {
+    "risk_factor_list": "list of risk factors for hyperbilirubinemia (e.g., Rh or ABO incompatibility, polycythemia, sepsis, prematurity, malpresentation)",
+    "assessment_type": "options for assessment type (e.g., questionnaire, medical history review)"
+  },
+  "Medical History Review": {
+    "medical_history": "options for medical history review (e.g., pregnancy complications, infant birth weight)",
+    "risk_factor_identification": "logic to identify risk factors for hyperbilirubinemia based on medical history review"
+  },
+  "Questionnaire": {
+    "questionnaire_type": "options for questionnaire type (e.g., maternal history, infant history)",
+    "question_list": "list of questions to ask the patient or caregiver (e.g., \"Did you experience any complications during pregnancy?\", \"Was your infant born prematurely?\")"
+  },
+  "Risk Factor Alert": {
+    "alert_type": "options for alert type (e.g., email, SMS, in-app notification)",
+    "alert_content": "options for alert content (e.g., risk factor identified, recommended action)"
+  }
+}

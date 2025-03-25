@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Administration": {
+    "name": "Medication Administration",
+    "medication_name": "Antihistamine" and/or "Corticosteroid",
+    "dosage": " specify the dosage of the medication to! be taken",
+    "frequency": " specify how often the medication should be takenuant",
+    "deadline_date": " specify the due date for taking the medication",
+    "notes": " additional notes or instructions for the patient"
+  }
+}

@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Antagonist Administration": {
+    "Antagonist": {"Type": "options", "Required": true},
+    "Dose": {"Type": "number", "Required": true},
+    "Frequency": {"Type": "options", "Required": true},
+    "Route": {"Type": "options", "Required": true},
+    "Physician's Order": {"Type": "text", "Required": true},
+    "Protocol": {"Type": "text", "Required": true},
+    "Administration Date and Time": {"Type": "datetime", "Required": true}
+  },
+  "Medication Availability Checker": {
+    "Antagonist": {"Type": "options", "Required": true},
+    "Availability": {"Type": "options", "Required": true},
+    "Reason for Unavailability": {"Type": "text", "Required": false}
+  }
+}

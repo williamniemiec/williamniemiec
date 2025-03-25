@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Anxiety Relief": {
+    "Concerns": {"type": "options", "required": true},
+    "Accurate Information": {"type": "text", "required": true},
+    "Misconception Correction": {"type": "text", "required": true},
+    "Resources": {"type": "links", "required": false}
+  }
+}

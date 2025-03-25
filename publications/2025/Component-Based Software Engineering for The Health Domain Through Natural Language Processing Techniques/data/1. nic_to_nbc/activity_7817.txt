@@ -1,0 +1,35 @@
+
+
+
+{
+    "Exercise with Audio Guidance": {
+        "parameters": [
+            { 
+                "name": "Name", 
+                "type": "text"
+            },
+            { 
+                "name": "Instructions", 
+                "type": "text"
+            },
+            { 
+                "name": "Audio Guidance", 
+                "type": "audio"
+            },
+            { 
+                "name": "Frequency", 
+                "type": "options",
+                "options": [
+                    { value: "daily" },
+                    { value: "onlyOnce" },
+                    { value: "everyHours" },
+                    { value: "everyDays" }
+                ]
+            },
+            { 
+                "name": "Deadline Date", 
+                "type": "datetime"
+            }
+        ]
+    }
+}

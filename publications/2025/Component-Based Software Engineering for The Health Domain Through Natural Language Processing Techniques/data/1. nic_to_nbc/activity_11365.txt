@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Information": {
+    "Parameters": {
+      "Title": {"Type": "text"},
+      "Content": {"Type": ["text", "HTML content"]},
+      "Type": {"Type": ["update", "alert", "education"]},
+      "Frequency": {"Type": ["daily", "onlyOnce", "everyHours", "everyDays"]}
+    }
+  }
+}
+
+
+I removed the `Deadline Date` parameter since it's not applicable (no specific values provided). Let me know if this meets your requirements!

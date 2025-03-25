@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Tube Placement Check": {
+    "Parameters": {
+      "Name": {},
+      "Placement Instructions": {},
+      "Verification Method": {},
+      "Frequency": {},
+      "Deadline Date": {},
+      "Confirmation": {},
+      "Additional Notes": {}
+    }
+  }
+}

@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Sensory Discrimination": {
+    "Parameters": {
+      "Instructions": {},
+      "Frequency": {},
+      "Sensations to Test": {},
+      "Reporting": {}
+    }
+  }
+}
+
+
+Note: I removed the "Reminders" parameter since it's type is boolean and considered not applicable according to your instructions.

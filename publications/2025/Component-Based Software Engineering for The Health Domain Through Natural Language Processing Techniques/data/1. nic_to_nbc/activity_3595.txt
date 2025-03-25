@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Hydration Maintenance": {
+    "Daily water intake": {"type": "text"},
+    "Fluid options": {"type": "options"},
+    "Hydration tips": {"type": "text"},
+    "Blood viscosity explanation": {"type": "text"},
+    "Deadline date": {"type": "datetime"},
+    "Tracking": {"type": "boolean"}
+  }
+}

@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Dialysis Access Education": {
+    "Access Explanation": {"type": "text"},
+    "Care Instructions": {"type": "text"},
+    "Troubleshooting Tips": {"type": "text"},
+    "Additional Resources": {"type": "text"}
+  }
+}

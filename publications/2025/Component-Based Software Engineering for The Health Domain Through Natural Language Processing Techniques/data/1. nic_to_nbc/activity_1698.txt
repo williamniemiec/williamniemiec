@@ -1,0 +1,10 @@
+Here is the output in JSON format:
+
+
+{
+  "Patient Positioning Guide": {
+    "Title": {"Description": "Title of the patient positioning guide", "Required": true, "Type": "text"},
+    "Instructions": {"Description": "Step-by-step instructions for positioning the patient", "Required": true, "Type": "text"},
+    "Positioning Options": {"Description": "List of available positioning options (e.g., female on back with legs apart, female on side with upper leg flexed at hip and knee; male on back)", "Required": true, "Type": "table"}
+  }
+}

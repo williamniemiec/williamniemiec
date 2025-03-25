@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Survey": {
+    "parameters": {
+      "Questions": [
+        "Did you experience physical abuse as a child?",
+        "Did you feel rejected or unloved by your caregivers as a child?",
+        "Were you excessively criticized as a child?",
+        "Did you feel worthless or unloved as a child?"
+      ],
+      "Answer type": [
+        "Yes/No",
+        "Scale (e.g., 1-5, where 1 is \"strongly disagree\" and 5 is \"strongly agree\")"
+      ]
+    }
+  }
+}

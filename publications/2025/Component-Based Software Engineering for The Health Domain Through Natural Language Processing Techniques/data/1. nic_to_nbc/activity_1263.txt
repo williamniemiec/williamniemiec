@@ -1,0 +1,35 @@
+Here is the output in JSON format:
+
+
+{
+  "Monitoring": {
+    "Symptom tracking": {
+      "type": "list of text or selection from a list of symptoms"
+    },
+    "Frequency": {
+      "type": "options (e.g., daily, every 2 hours, on demand)"
+    },
+    "Thresholds": {
+      "type": "list of numerical values or text"
+    }
+  },
+  "Referral criteria": {
+    "Rules": {
+      "type": "list of conditional statements (e.g., if-then statements)"
+    },
+    "Specialist list": {
+      "type": "list of text or selection from a list of specialists"
+    }
+  },
+  "Alert": {
+    "Message": {
+      "type": "text"
+    },
+    "Recipient": {
+      "type": "text or selection from a list of recipients"
+    }
+  }
+}
+
+
+Let me know if this meets your requirements!

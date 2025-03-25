@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Data Comparison",
+  "parameters": [
+    {"name": "Data Type", "type": "options"},
+    {"name": "Norms", "type": "text"},
+    {"name": "Comparison Method", "type": "options"},
+    {"name": "Results", "type": "text"},
+    {"name": "Interpretation", "type": "text"},
+    {"name": "Recommendations", "type": "text"}
+  ]
+}

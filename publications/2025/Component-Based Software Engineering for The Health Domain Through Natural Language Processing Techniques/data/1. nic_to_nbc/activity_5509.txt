@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "No-code Element Name": "Education",
+  "Parameters": {
+    "Title": {"Type": "text"},
+    "Content": {"Type": "text or HTML"},
+    "Factors": {"Type": "list of text or HTML"},
+    "Family Members": {"Type": "list of text"},
+    "Frequency": {"Type": "options"}
+  }
+}

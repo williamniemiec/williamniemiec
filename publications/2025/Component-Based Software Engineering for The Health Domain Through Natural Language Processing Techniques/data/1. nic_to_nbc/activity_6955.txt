@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Reward": {
+    "Goal": {"Type": "text"},
+    "Progress": {"Type": "number"},
+    "Reward type": {"Type": "options"},
+    "Reward message": {"Type": "text"},
+    "Frequency": {"Type": "options"}
+  }
+}

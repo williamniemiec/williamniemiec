@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Family Visitation": {
+    "parameters": {
+      "Visitation Type": {"type": "options"},
+      "Extended Family Members": {"type": "text"},
+      "Visitation Schedule": {"type": "options"},
+      "Communication Method": {"type": "options"},
+      "Support Needs": {"type": "options"}
+    }
+  }
+}

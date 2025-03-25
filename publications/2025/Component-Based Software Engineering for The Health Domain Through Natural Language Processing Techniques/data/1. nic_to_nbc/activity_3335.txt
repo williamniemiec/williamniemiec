@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Photo": {
+    "Instructions": { "name": "Instructions", "description": "Please take a photo of your eyelid position", "required": true, "type": "text" },
+    "Photo type": { "name": "Photo type", "description": "Please take a photo of your eyelid position with your eyes open and closed", "required": true, "type": "options", "options": [ {"value": "open", "label": "Eyes open"}, {"value": "closed", "label": "Eyes closed"} ] },
+    "Frequency": { "name": "Frequency", "description": "How often should you take a photo of your eyelid position?", "required": true, "type": "options", "options": [ {"value": "daily", "label": "Daily"}, {"value": "weekly", "label": "Weekly"}, {"value": "monthly", "label": "Monthly"} ] },
+    "Deadline date": { "name": "Deadline date", "description": "Please take a photo of your eyelid position by", "required": true, "type": "datetime" }
+  },
+  "Eyelid Position Assessment": {
+    "Instructions": { "name": "Instructions", "description": "Please follow the instructions to assess your eyelid position", "required": true, "type": "text" },
+    "Assessment type": { "name": "Assessment type", "description": "Please assess your eyelid position with your eyes open and closed", "required": true, "type": "options", "options": [ {"value": "open", "label": "Eyes open"}, {"value": "closed", "label": "Eyes closed"} ] },
+    "Frequency": { "name": "Frequency", "description": "How often should you assess your eyelid position?", "required": true, "type": "options", "options": [ {"value": "daily", "label": "Daily"}, {"value": "weekly", "label": "Weekly"}, {"value": "monthly", "label": "Monthly"} ] },
+    "Deadline date": { "name": "Deadline date", "description": "Please assess your eyelid position by", "required": true, "type": "datetime" }
+  }
+}

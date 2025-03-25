@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+    "Survey": {
+        "parameters": {
+            "name": "",
+            "questions": [],
+            "answer_type": []
+        }
+    },
+    "Feedback Form": {
+        "parameters": {
+            "name": "",
+            "fields": [],
+            "submit_button": ""
+        }
+    }
+}

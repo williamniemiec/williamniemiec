@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Consciousness Assessment": {
+    "parameters": {
+      "Question": {"type": "text"},
+      "Answer Type": {"type": "options", "options": ["Glasgow Coma Scale (GCS)", "Alert", "Verbal", "Pain", "Unresponsive"]},
+      "Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"type": "datetime"}
+    }
+  }
+}

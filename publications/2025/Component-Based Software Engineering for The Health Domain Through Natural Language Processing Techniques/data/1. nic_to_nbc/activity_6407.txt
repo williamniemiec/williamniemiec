@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Guide": {
+    "parameters": {
+      "name": "Graft Protection Guide",
+      "pages": ["Avoiding exposure to direct sunlight", "Avoiding the use of heating pads or other heat sources", "Wearing protective clothing and accessories", "Avoiding tight or constrictive clothing"],
+      "frequency": "Once, or as needed"
+    }
+  },
+  "Task": {
+    "parameters": {
+      "name": "Graft Protection Task",
+      "content": "Please avoid exposing the graft area to direct sunlight and avoid using heating pads or other heat sources.",
+      "frequency": "Once, or as needed"
+    }
+  }
+}

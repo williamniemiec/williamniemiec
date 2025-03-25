@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Resource Tracker": {
+    "Parameters": {
+      "Resource Type": {},
+      "Resource Name": {},
+      "Usage Frequency": {},
+      "Usage Date": {},
+      "Resource Rating": {},
+      "Resource Notes": {}
+    }
+  }
+}

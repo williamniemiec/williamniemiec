@@ -1,0 +1,33 @@
+{
+  "name": "Equipment",
+  "description": "Manages medical and assistive equipment by tracking inventory, monitoring operational status, guiding maintenance, and providing usage instructions.",
+  "type": "periodic",
+  "input": [
+    "Equipment type",
+    "Stock quantity",
+    "Maintenance schedule",
+    "Operational status",
+    "Reorder level",
+    "Usage instructions"
+  ],
+  "output": [
+    "Equipment status report",
+    "Stock level alerts",
+    "Maintenance completion confirmation",
+    "Usage guidance feedback"
+  ],
+  "preconditions": [
+    "Equipment is in use or needs tracking",
+    "User requires operational guidance or maintenance support"
+  ],
+  "postconditions": [
+    "Equipment is maintained, stocked, and operational",
+    "User receives proper guidance on equipment usage"
+  ],
+  "dependencies": [
+    "Inventory management system",
+    "Maintenance tracking tools",
+    "Usage instruction database",
+    "Alert notification system"
+  ]
+}

@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Teaching": {
+    "parameters": {
+      "name": {"type": "text"},
+      "content": {"type": "rich text or HTML"},
+      "images": {"type": "image or list of images"},
+      "videos": {"type": "video or list of videos"},
+      "quiz": {"type": "list of quiz questions with answers"}
+    }
+  }
+}
+
+
+Let me know if this meets your requirements!

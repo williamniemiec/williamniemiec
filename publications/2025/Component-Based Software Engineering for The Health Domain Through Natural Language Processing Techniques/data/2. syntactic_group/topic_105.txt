@@ -1,0 +1,10 @@
+{
+  "name": "Environmental Adaptation and Space Management",
+  "description": "Focuses on adapting living environments, including rearranging spaces, adjusting for drafts, and decorating based on environmental factors to ensure comfort and safety.",
+  "type": "non-periodic",
+  "input": ["Space rearranging", "Environmental adaptation", "Decorating strategies", "Draft management"],
+  "output": ["Environment adaptation plan", "Space management feedback", "Safety and comfort report"],
+  "preconditions": ["User is adapting or rearranging their living environment"],
+  "postconditions": ["Comfortable and functional living space"],
+  "dependencies": ["Space planning tools", "Environmental assessment system", "Decoration guidelines"]
+}

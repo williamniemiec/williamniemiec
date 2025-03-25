@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Nesting Guidance": {
+    "parameters": {
+      "Nesting Instructions": {"type": "text", "example": "Place 2-3 blanket rolls around the infant's body, making sure to leave enough space for the infant's arms and legs to move freely. The blanket rolls should be snug but not too tight."},
+      "Nesting Tips": {"type": "list of text", "example": ["Use soft, breathable blankets", "Adjust the blanket rolls as needed to ensure the infant's comfort and safety"]},
+      "Visual Aids": {"type": "media (image or video)"},
+      "Frequency": {"type": "options", "options": ["as needed", "every 2 hours", "during sleep periods"]}
+    }
+  }
+}

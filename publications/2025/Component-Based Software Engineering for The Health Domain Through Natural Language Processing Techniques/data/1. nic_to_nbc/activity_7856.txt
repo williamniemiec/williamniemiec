@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "No-code Element Name": "Self-Feeding Guide",
+  "Parameters": {
+    "Self-Feeding Activity Name": {"Required": true, "Type": "text"},
+    "Instructions": {"Required": true, "Type": "text or illustrated guide"},
+    "Frequency": {"Required": true, "Type": "options", "Options": ["daily", "everyOtherDay", "threeTimesAWeek", "etc."]},
+    "Tips": {"Required": false, "Type": "text"},
+    "Food Suggestions": {"Required": false, "Type": "list of text"},
+    "Deadline Date": {"Required": false, "Type": "datetime"}
+  }
+}

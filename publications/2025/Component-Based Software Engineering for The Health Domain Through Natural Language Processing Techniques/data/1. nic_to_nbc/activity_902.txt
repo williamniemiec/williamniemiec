@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+  "parameters": {
+    "Reason for Order": {
+      "type": "options",
+      "options": ["suspected line infiltration", "suspected line compromise", "suspected line migration"]
+    },
+    "Urgency": {
+      "type": "text",
+      "value": "immediately"
+    },
+    "Order Instructions": {
+      "type": "text",
+      "value": "Order a chest x-ray immediately if you suspect line infiltration, compromise, or migration."
+    }
+  },
+  "noCodeElementName": "Chest X-ray Order"
+}

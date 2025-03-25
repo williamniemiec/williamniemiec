@@ -1,0 +1,30 @@
+Here is the output in JSON format:
+
+
+{
+  "Suicide Risk Hospitalization Assessment": {
+    "Risk Assessment": {
+      "type": "options",
+      "options": [
+        { "value": "low", "label": "Low Risk" },
+        { "value": "moderate", "label": "Moderate Risk" },
+        { "value": "high", "label": "High Risk" }
+      ]
+    },
+    "Hospitalization Criteria": {
+      "type": "list of text",
+      "example": ["Imminent risk of suicide", "History of suicide attempts", "Mental health conditions"]
+    },
+    "Hospitalization Decision": {
+      "type": "options",
+      "options": [
+        { "value": "yes", "label": "Hospitalize" },
+        { "value": "no", "label": "Do not hospitalize" }
+      ]
+    },
+    "Reason for Hospitalization": {
+      "type": "text",
+      "example": "Suicidal ideation with plan and means"
+    }
+  }
+}

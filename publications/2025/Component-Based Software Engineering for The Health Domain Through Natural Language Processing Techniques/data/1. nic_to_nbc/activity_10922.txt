@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Location Monitoring Device Configuration": {
+        "parameters": [
+            {"name": "device type"},
+            {"name": "device placement"},
+            {"name": "alarm trigger"},
+            {"name": "alarm response"}
+        ]
+    }
+}

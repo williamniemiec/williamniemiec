@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+    "Knowledge Assessment": {
+        "name": "",
+        "questions": [],
+        "scoring": "",
+        "frequency": ""
+    },
+    "Self-Evaluation": {
+        "name": "",
+        "prompts": [],
+        "frequency": ""
+    },
+    "Behavioral Observation": {
+        "name": "",
+        "behaviors": [],
+        "frequency": ""
+    },
+    "Feedback Form": {
+        "name": "",
+        "questions": [],
+        "frequency": ""
+    }
+}

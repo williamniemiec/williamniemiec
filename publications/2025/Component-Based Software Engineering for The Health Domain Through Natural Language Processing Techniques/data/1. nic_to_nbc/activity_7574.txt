@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Cup Selection": {
+    "Parameters": {
+      "Cup Type": {"Type": "options"},
+      "Cup Cleanliness": {"Type": "boolean"},
+      "Cup Features": {"Type": "boolean"}
+    }
+  }
+}

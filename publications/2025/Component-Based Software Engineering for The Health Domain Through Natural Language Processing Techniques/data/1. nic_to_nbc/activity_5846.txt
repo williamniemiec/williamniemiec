@@ -1,0 +1,11 @@
+Since there is no no-code element associated with this intervention, the output would be an empty JSON object:
+
+{}
+ 
+
+However, if you want to include the previous interventions mentioned in the text, here's the output:
+
+{
+"no-code-element-name": ["Encourage patient to describe drawing or artistic creation", "Record patient interpretation of drawings or artistic creation"],
+"parameter-specifications": []
+}

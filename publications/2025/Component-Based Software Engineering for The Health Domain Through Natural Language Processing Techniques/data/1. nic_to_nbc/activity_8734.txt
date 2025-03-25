@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Lab Result Tracker": {
+    "name": {"type": "text"},
+    "unit": {"type": "text"},
+    "frequency": {"type": "options"},
+    "target_range": {"type": "text"},
+    "notes": {"type": "text"}
+  }
+}

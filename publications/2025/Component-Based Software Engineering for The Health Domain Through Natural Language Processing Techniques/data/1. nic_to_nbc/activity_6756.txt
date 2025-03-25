@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+  "parameters": [
+    {
+      "name": "title"
+    },
+    {
+      "name": "content"
+    },
+    {
+      "name": "procedure steps"
+    },
+    {
+      "name": "frequently asked questions"
+    },
+    {
+      "name": "visual aids"
+    },
+    {
+      "name": "language"
+    }
+  ],
+  "no-code element name": "procedure explanation"
+}

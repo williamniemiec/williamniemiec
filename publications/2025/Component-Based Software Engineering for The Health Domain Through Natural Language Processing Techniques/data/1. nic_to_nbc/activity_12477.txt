@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Ear Massage",
+    "parameters": [
+        {
+            "name": "Technique",
+            "type": "options",
+            "options": [
+                { "value": "gentle pressure", "label": "Gentle Pressure" },
+                { "value": "massage", "label": "Massage" }
+            ]
+        },
+        {
+            "name": "Location",
+            "type": "text",
+            "value": "tragus"
+        },
+        {
+            "name": "Additional Instructions",
+            "type": "text"
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Control": {
+    "parameters": {
+      "name": "Antifungal Oral Solutions",
+      "description": "Take your prescribed antifungal oral solutions",
+      "content_type": "unordered list",
+      "why": {
+        "name": "why",
+        "description": "explain why this medication should be taken",
+        "required": true,
+        "type": "text"
+      },
+      "dosage": {
+        "name": "dosage",
+        "description": "describe the medication dosage that should be taken",
+        "required": true,
+        "type": "text"
+      },
+      "frequency": {
+        "name": "frequency",
+        "description": "specify how often the medication should be taken",
+        "required": true,
+        "type": "options",
+        "options": [
+          { "value": "daily", "label": "Daily" },
+          { "value": "onlyOnce", "label": "Only once" },
+          { "value": "everyHours", "label": "Every x hours" },
+          { "value": "everyDays", "label": "Every x days" }
+        ]
+      },
+      "deadline_date": {
+        "name": "deadline_date",
+        "description": "specify the due date of the medication",
+        "required": true,
+        "type": "datetime"
+      }
+    }
+  }
+}

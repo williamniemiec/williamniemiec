@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Consequence Evaluation": {
+    "Course of Action List": {"type": "list of text"},
+    "Consequence Categories": {"type": "list of text"},
+    "Consequence Evaluation Framework": {"type": "table (course of action, consequence category, likelihood, impact, probability)"},
+    "Risk-Benefit Analysis": {"type": "table (course of action, risks, benefits)"},
+    "Reflection Prompts": {"type": "list of text"},
+    "Frequency": {"type": "options (daily, onlyOnce, everyHours, everyDays)"},
+    "Deadline Date": {"type": "datetime"}
+  }
+}

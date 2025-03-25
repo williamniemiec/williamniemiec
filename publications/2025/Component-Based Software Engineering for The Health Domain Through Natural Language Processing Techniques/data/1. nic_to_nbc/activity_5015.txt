@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Orientation Support": {
+    "parameters": {
+      "Orientation Reminders": {"type": "text"},
+      "Memory Aids": {"type": "text"},
+      "Cognitive Support": {"type": "interactive simulation"},
+      "Frustration Reduction Strategies": {"type": "text"},
+      "Caregiver Orientation Guide": {"type": "text"},
+      "Orientation Assessment Tool": {"type": "interactive simulation"}
+    }
+  }
+}

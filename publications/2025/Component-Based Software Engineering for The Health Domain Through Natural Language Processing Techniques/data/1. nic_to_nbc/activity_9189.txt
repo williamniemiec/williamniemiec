@@ -1,0 +1,29 @@
+Here is the output in JSON format:
+
+
+{
+  "Discontinuation": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Treatment": {"Type": "text"},
+      "Protocol": {"Type": "text or reference to an external resource (e.g., PDF, website)"},
+      "Reason": {"Type": "text"},
+      "Steps": {
+        "Type": "ordered list of steps",
+        "Properties": {
+          "Description": {"Type": "text"},
+          "Action": {"Type": "text"},
+          "Frequency": {"Type": "options (e.g., once, daily, everyHours, everyDays)"},
+          "Deadline Date": {"Type": "datetime"}
+        }
+      },
+      "Follow-up": {
+        "Type": "list of follow-up actions",
+        "Properties": {
+          "Description": {"Type": "text"},
+          "Date": {"Type": "datetime"}
+        }
+      }
+    }
+  }
+}

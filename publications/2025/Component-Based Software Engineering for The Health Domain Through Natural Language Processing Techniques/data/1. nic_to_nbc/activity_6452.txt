@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Sibling Preparation": {
+    "Class Search": {"Description": "Search for sibling preparation classes in your area", "Required": true, "Type": "search bar with filters (e.g., location, date, time)"},
+    "Class Details": {"Description": "View details about each class, including description, schedule, and cost", "Required": true, "Type": "list with class details"},
+    "Registration": {"Description": "Register for a sibling preparation class", "Required": true, "Type": "registration form with payment processing"}
+  }
+}
+
+
+I removed the non-applicable parameters (`Reminders` and `Resources`) since they were not required. Let me know if this meets your requirements!

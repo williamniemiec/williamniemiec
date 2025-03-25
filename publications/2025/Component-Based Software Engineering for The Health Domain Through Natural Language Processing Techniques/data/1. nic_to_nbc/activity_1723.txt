@@ -1,0 +1,37 @@
+Here is the output in JSON format:
+
+
+[
+  {
+    "High-Care Needs Assessment": {
+      "Questions": [
+        "Was your child born prematurely?",
+        "Did your child have a low birth weight?",
+        "Does your child have colic or feeding intolerances?",
+        "Has your child had major health problems in the first year of life?",
+        "Does your child have a developmental disability?",
+        "Does your child have hyperactivity or an attention deficit disorder?"
+      ],
+      "Answer type": [
+        "Yes/No",
+        "Text"
+      ]
+    }
+  },
+  {
+    "Risk Factor Assessment": {
+      "Risk factors": [
+        "Prematurity",
+        "Low birth weight",
+        "Colic or feeding intolerances",
+        "Major health problems in the first year of life",
+        "Developmental disabilities",
+        "Hyperactivity or attention deficit disorders"
+      ],
+      "Answer type": [
+        "Yes/No"
+      ],
+      "Scoring": []
+    }
+  }
+]

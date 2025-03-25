@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Behavioral Assistance": {
+    "Desired Behavior": {"type": "text"},
+    "Patient Need": {"type": "boolean value or need assessment score"},
+    "Assistance Type": {"type": "coaching, guidance, demonstration, or practice exercises"},
+    "Assistance Frequency": {"type": "frequency selection (e.g. daily, weekly, etc.)"},
+    "Patient Progress": {"type": "progress tracking log or behavioral assessment score"}
+  }
+}

@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "Danger Signs Guide": {
+    "Parameters": {
+      "Title": {},
+      "Content": {},
+      "Danger Signs": {},
+      "Reporting Instructions": {},
+      "Resources": {}
+    }
+  },
+  "Warning Signs": {
+    "Parameters": {
+      "Title": {},
+      "Signs": {},
+      "Actions": {},
+      "Resources": {}
+    }
+  }
+}
+
+
+I removed all the unnecessary text and kept only the `{{ NO-CODE ELEMENT NAME }}` and `{{ PARAMETER ESPECIFICATIONS }}`. I also removed the "Not Applicable" parameters.

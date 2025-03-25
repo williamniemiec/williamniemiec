@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Elevate Bed": {
+    "Parameters": {
+      "Elevation Angle": {},
+      "Frequency": {}
+    }
+  }
+}

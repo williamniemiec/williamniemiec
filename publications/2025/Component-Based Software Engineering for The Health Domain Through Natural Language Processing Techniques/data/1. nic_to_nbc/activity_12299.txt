@@ -1,0 +1,30 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Proximity",
+  "parameters": [
+    {
+      "name": "Distance",
+      "type": "options",
+      "options": [
+        { "value": "close" },
+        { "value": "medium" },
+        { "value": "far" }
+      ]
+    },
+    {
+      "name": "Context",
+      "type": "options",
+      "options": [
+        { "value": "duringConversation" },
+        { "value": "duringExamination" },
+        { "value": "duringProcedure" }
+      ]
+    },
+    {
+      "name": "Patient Preference",
+      "type": "boolean"
+    }
+  ]
+}

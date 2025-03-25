@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+    "Needle-Free Device": {
+        "parameters": {
+            "name": {"type": "text"},
+            "device_type": {"type": "options"},
+            "instructions": {"type": "text or video"},
+            "frequency": {"type": "options"},
+            "deadline_date": {"type": "datetime"},
+            "confirmation": {"type": "boolean"}
+        }
+    }
+}

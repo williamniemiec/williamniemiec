@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Breathing Position Guide": {
+    "Parameters": {
+      "Breathing Position Guide Title": {},
+      "Recommended Position": {},
+      "Positioning Instructions": {},
+      "Breathing Position Guide Media": {},
+      "Breathing Position Guide Frequency": {}
+    }
+  }
+}

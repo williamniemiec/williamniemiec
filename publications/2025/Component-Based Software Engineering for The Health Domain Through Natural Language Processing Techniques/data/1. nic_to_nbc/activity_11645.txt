@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Physical Exam Verification": {
+    "Name": {"type": "text"},
+    "Physical Exam Status": {"type": "options", "options": ["yes", "no"]},
+    "Exam Date": {"type": "date"},
+    "Physician Information": {"type": "form"},
+    "Frequency": {"type": "options", "options": ["onlyOnce", "before participation"]},
+    "Deadline Date": {"type": "date"}
+  },
+  "Document Upload": {
+    "Name": {"type": "text"},
+    "Document Type": {"type": "options"},
+    "Frequency": {"type": "options", "options": ["onlyOnce", "before participation"]},
+    "Deadline Date": {"type": "date"}
+  }
+}

@@ -1,0 +1,35 @@
+Here is the output in JSON format:
+
+
+{
+    "Medication Tracker": {
+        "Parameters": {
+            "Medication List": {"Type": "options"},
+            "Dose and Frequency": {"Type": "numeric", "Frequency": "options"}
+        }
+    },
+    "Urinary Output Tracker": {
+        "Parameters": {
+            "Urinary Output": {"Type": "numeric"},
+            "Frequency": {"Type": "options"}
+        }
+    },
+    "Metabolic Alkalosis Tracker": {
+        "Parameters": {
+            "Lab Results": {"Type": "numeric"},
+            "Reference Ranges": {"Type": "options"}
+        }
+    },
+    "Renal Function Tracker": {
+        "Parameters": {
+            "Lab Results": {"Type": "numeric"},
+            "Reference Ranges": {"Type": "options"}
+        }
+    },
+    "Alert System": {
+        "Parameters": {
+            "Alert Thresholds": {"Type": "options"},
+            "Alert Frequency": {"Type": "options"}
+        }
+    }
+}

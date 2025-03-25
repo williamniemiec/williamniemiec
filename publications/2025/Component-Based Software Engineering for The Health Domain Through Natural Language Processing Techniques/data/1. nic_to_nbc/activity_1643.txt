@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Supervisor Notification": {
+    "Reason for Notification": {"type": "text"},
+    "Supervisor Information": {"type": "supervisor contact information"},
+    "Notification Method": {"type": "options"},
+    "Urgency Level": {"type": "options"},
+    "Additional Information": {"type": "text"}
+  }
+}

@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Term Explanation": {
+        "Parameters": {
+            "Unfamiliar Terms": {"Type": "list of terms"},
+            "Explanation Type": {"Type": "options (e.g. definition, analogy, example)"},
+            "Explanation Level": {"Type": "options (e.g. simple, moderate, detailed)"},
+            "Patient Understanding": {"Type": "options (e.g. none, some, complete)"}
+        }
+    }
+}

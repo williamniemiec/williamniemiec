@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+    "Waiver Eligibility Checker": {
+        "Patient Information": {"Type": "questionnaire or patient profile"},
+        "Waiver Program Database": {"Type": "database or API connection"},
+        "Eligibility Criteria": {"Type": "list or table"},
+        "Eligibility Determination": {"Type": "conditional logic or algorithm"},
+        "Eligibility Results": {"Type": "text output or eligibility results page"}
+    }
+}
+
+
+Let me know if this is what you were expecting!

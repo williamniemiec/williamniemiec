@@ -1,0 +1,29 @@
+Here is the output in JSON format:
+
+
+{
+  "Instruction": {
+    "parameters": {
+      "name": "Prevent blood volume loss",
+      "content": "Apply pressure to site of bleeding",
+      "type": "step-by-step guide",
+      "steps": [
+        { 
+          "name": "Step 1", 
+          "description": "Locate the site of bleeding", 
+          "type": "text"
+        },
+        { 
+          "name": "Step 2", 
+          "description": "Apply gentle pressure to the site", 
+          "type": "text"
+        },
+        { 
+          "name": "Step 3", 
+          "description": "Maintain pressure for [X] minutes", 
+          "type": "text"
+        }
+      ]
+    }
+  }
+}

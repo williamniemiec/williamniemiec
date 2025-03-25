@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Transfer Guide": {
+    "Parameters": {
+      "Transfer Type": {},
+      "Assistive Device": {},
+      "Instructions": {},
+      "Tips and Precautions": {},
+      "Practice Exercises": {},
+      "Video Demonstration": {}
+    }
+  }
+}

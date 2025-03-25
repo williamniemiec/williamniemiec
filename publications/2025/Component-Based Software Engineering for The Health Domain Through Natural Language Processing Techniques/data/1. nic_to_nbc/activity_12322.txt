@@ -1,0 +1,15 @@
+
+
+
+{
+  "Physical Assistance": {
+    "Task Name": {"Description": "Task to provide physical assistance", "Required": true, "Type": "text"},
+    "Assistance Needed": {"Description": "Select the type of physical assistance needed", "Required": true, "Type": "checkbox", "Options": [{"value": "ambulation", "label": "Ambulation"}, {"value": "transfers", "label": "Transfers"}, {"value": "feeding", "label": "Feeding"}, {"value": "other", "label": "Other (please specify)"}]},
+    "Other Assistance Needed": {"Description": "Enter other physical assistance needed", "Required": false, "Type": "text"},
+    "Frequency": {"Description": "Specify how often to provide physical assistance", "Required": true, "Type": "options", "Options": [{"value": "daily", "label": "Daily"}, {"value": "everyOtherDay", "label": "Every other day"}, {"value": "weekly", "label": "Weekly"}, {"value": "custom", "label": "Custom (please specify)"}]},
+    "Custom Frequency": {"Description": "Enter custom frequency", "Required": false, "Type": "text"}
+  }
+}
+
+
+Note: I removed the `Content Type` parameter as it was not part of the original request. If you need to include it, let me know!

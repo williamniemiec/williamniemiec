@@ -1,0 +1,31 @@
+Here is the output in JSON format:
+
+
+[
+  {
+    "name": "Medication Systemic Effects",
+    "parameters": [
+      {
+        "name": "medication_name",
+        "description": "name of the medication"
+      },
+      {
+        "name": "systemic_effects",
+        "description": "boolean indicating systemic effects"
+      }
+    ]
+  },
+  {
+    "name": "Nasolacrimal Duct Pressure",
+    "parameters": [
+      {
+        "name": "pressure_duration",
+        "description": "duration of pressure application"
+      },
+      {
+        "name": "pressure_intensity",
+        "description": "intensity of pressure application"
+      }
+    ]
+  }
+]

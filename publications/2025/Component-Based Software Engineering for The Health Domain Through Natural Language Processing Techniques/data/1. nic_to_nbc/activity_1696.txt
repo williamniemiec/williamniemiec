@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Q&A Prompt": {
+    "Prompt Text": {},
+    "Question Input": {},
+    "Frequency": {},
+    "Resources": {}
+  }
+}

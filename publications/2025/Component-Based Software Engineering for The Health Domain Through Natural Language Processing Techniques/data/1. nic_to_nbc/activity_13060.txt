@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Procedure Information": {
+    "Parameters": {
+      "Procedure Name": {"Type": "text"},
+      "Cost": {"Type": ["text", "numeric"]},
+      "Time Required": {"Type": ["text", "options"]},
+      "Alternatives": {"Type": ["text", "options"]},
+      "Risks": {"Type": ["text", "options"]},
+      "Description": {"Type": "text"},
+      "Additional Resources": {"Type": ["text", "URL"]}
+    }
+  }
+}

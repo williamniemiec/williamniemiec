@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+  "Personal Item Checklist": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Item List": {"Type": "checklist"},
+      "Item Description": {"Type": "text"},
+      "Importance Level": {"Type": "rating scale"},
+      "Caregiver Support": {"Type": "boolean"}
+    }
+  },
+  "Task": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Content": {"Type": "text or HTML"},
+      "Frequency": {"Type": "options"},
+      "Deadline Date": {"Type": "datetime"},
+      "Reminders": {"Type": "boolean"}
+    }
+  }
+}
+
+
+Note: I removed the parameters that were not applicable (i.e., had no type specified). Let me know if you need any further modifications!

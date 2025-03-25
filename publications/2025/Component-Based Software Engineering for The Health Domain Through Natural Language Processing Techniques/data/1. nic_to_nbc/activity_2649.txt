@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Household Roles": {
+    "Parameters": {
+      "Household Tasks": {},
+      "Task Assignment": {},
+      "Frequency": {}
+    }
+  }
+}

@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+  "Catheter and Tube Drainage Monitoring": {
+    "Parameters": {
+      "Name": {
+        "Type": "text"
+      },
+      "Drainage Status": {
+        "Type": "options",
+        "Options": ["easy", "difficult", "not draining", "other"]
+      },
+      "Frequency": {
+        "Type": "options",
+        "Options": ["daily", "every 12 hours", "every 8 hours", "custom"]
+      },
+      "Deadline Date": {
+        "Type": "datetime"
+      },
+      "Additional Notes": {
+        "Type": "text"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Consent Form": {
+    "title": {},
+    "introduction": {},
+    "consent_options": {},
+    "family_member_info": {},
+    "signature": {},
+    "additional_info": {}
+  }
+}

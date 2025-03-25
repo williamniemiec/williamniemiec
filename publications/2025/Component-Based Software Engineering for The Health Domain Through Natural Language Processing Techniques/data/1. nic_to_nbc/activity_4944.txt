@@ -1,0 +1,40 @@
+Here is the output in JSON format:
+
+
+{
+  "Personal Protective Equipment (PPE)": {
+    "Mask Instructions": {
+      "Description": "Instructions for donning a mask",
+      "Required": false,
+      "Type": ["text", "video", "illustration"]
+    },
+    "Goggles Instructions": {
+      "Description": "Instructions for donning goggles",
+      "Required": false,
+      "Type": ["text", "video", "illustration"]
+    },
+    "Gown Instructions": {
+      "Description": "Instructions for donning a gown",
+      "Required": false,
+      "Type": ["text", "video", "illustration"]
+    },
+    "PPE Assessment": {
+      "Description": "Assessment of whether PPE is needed",
+      "Required": true,
+      "Type": "question",
+      "Options": [
+        { "value": "yes", "label": "Yes, PPE is needed" },
+        { "value": "no", "label": "No, PPE is not needed" }
+      ]
+    },
+    "Confirmation": {
+      "Description": "Confirmation that PPE has been donned",
+      "Required": true,
+      "Type": "question",
+      "Options": [
+        { "value": "yes", "label": "Yes, I have donned PPE" },
+        { "value": "no", "label": "No, I have not donned PPE" }
+      ]
+    }
+  }
+}

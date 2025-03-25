@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Informational Message": {
+    "Parameters": {
+      "Message": "",
+      "Purpose": ["To inform the patient of the procedure", "To obtain consent from the patient"],
+      "Tone": ["Professional", "Reassuring"],
+      "Language": ["English", "Spanish"]
+    }
+  },
+  "Consent Form": {
+    "Parameters": {
+      "Purpose": ["To obtain consent for the procedure"],
+      "Risks and benefits": {"Risks": ["discomfort", "bruising"], "Benefits": ["relief from pain and discomfort"]},
+      "Patient information": ["Name", "Date of birth"],
+      "Signature": ["Electronic signature", "Written signature"]
+    }
+  }
+}

@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+    "Education Module": {
+        "name": "Importance of Reporting Chest Discomfort",
+        "content": ["list of HTML texts, videos, or links to external resources"],
+        "type": ["specify the type of content (e.g., article, video, infographic)"]
+    },
+    "Alert System": {
+        "name": "Chest Discomfort Alert System",
+        "alert_type": ["specify the type of alert (e.g., email, SMS, in-app notification)"],
+        "alert_message": ["specify the message to be sent to the healthcare provider (e.g., \"I am experiencing chest discomfort\")"]
+    },
+    "Symptom Checker": {
+        "name": "Chest Discomfort Symptom Checker",
+        "questions": ["list of questions to assess symptoms (e.g., \"Where is the discomfort located?\", \"How long have you been experiencing discomfort?\")"],
+        "answers": ["enable patients to select answers to the questions"]
+    },
+    "Reporting Tool": {
+        "name": "Chest Discomfort Reporting Tool",
+        "reporting_frequency": ["specify how often to report symptoms (e.g., daily, weekly)"],
+        "symptom_entries": ["enable patients to record symptom entries (e.g., date, time, intensity, location)"]
+    }
+}

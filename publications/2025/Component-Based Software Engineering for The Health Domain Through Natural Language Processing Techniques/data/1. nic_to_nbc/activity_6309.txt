@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Vertigo Monitor": {
+    "parameters": {
+      "Vertigo": {},
+      "Frequency": {},
+      "Deadline Date": {},
+      "Notes": {}
+    }
+  }
+}

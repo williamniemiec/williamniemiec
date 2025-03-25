@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+    "Symptom Tracker": {
+        "Title": {"type": "text"},
+        "Symptom": {"type": "text"},
+        "Frequency": {"type": "options", "options": ["daily", "weekly", "biweekly", "monthly"]},
+        "Severity Scale": {"type": "options", "options": ["Likert scale (e.g. 1-5)", "Numerical scale (e.g. 0-10)"]},
+        "Additional Notes": {"type": "text"}
+    },
+    "Nausea Diary": {
+        "Title": {"type": "text"},
+        "Entry Frequency": {"type": "options", "options": ["daily", "weekly", "biweekly", "monthly"]},
+        "Entry Fields": {"type": "list of fields"}
+    }
+}

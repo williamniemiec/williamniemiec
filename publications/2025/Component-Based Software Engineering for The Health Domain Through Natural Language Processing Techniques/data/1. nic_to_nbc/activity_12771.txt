@@ -1,0 +1,30 @@
+Here is the output in JSON format:
+
+
+{
+  "Vein Protection": {
+    "Vein Location": {
+      "Description": "Location of the vein to be protected",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "antecubital", "label": "Antecubital" }
+      ]
+    },
+    "Access Restriction": {
+      "Description": "Restriction on accessing the protected vein",
+      "Required": true,
+      "Type": "text",
+      "Example": "Avoid intravenous access and limit access for tests, if possible"
+    },
+    "Target Audience": {
+      "Description": "Personnel to be informed about the vein protection",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "radiology", "label": "Radiology personnel" },
+        { "value": "laboratory", "label": "Laboratory personnel" }
+      ]
+    }
+  }
+}

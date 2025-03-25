@@ -1,0 +1,31 @@
+Here is the output in JSON format:
+
+
+{
+  "Pain Tracker": {
+    "parameters": {
+      "name": "",
+      "pain_scale": "",
+      "entries": []
+    }
+  },
+  "Daily Diary": {
+    "parameters": {
+      "name": "",
+      "entries": []
+    }
+  },
+  "Flow Chart": {
+    "parameters": {
+      "name": "",
+      "nodes": []
+    }
+  },
+  "Trigger Identification": {
+    "parameters": {
+      "name": "",
+      "triggers": [],
+      "associations": []
+    }
+  }
+}

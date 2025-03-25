@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Family Care Planning": {
+    "care_plan": {"type": "rich text or HTML"},
+    "family_roles": {"type": "list of options"},
+    "care_tasks": {"type": "list of care tasks"},
+    "communication_preferences": {"type": "list of options"},
+    "evaluation_criteria": {"type": "list of evaluation criteria"},
+    "family_input": {"type": "survey or discussion forum"},
+    "care_team": {"type": "list of healthcare professionals"}
+  }
+}

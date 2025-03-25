@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Network": {
+    "Goal": {"type": "text"},
+    "Network Type": {"type": "options", "options": ["family", "friends", "online community", "other"]},
+    "Frequency": {"type": "options", "options": ["daily", "weekly", "monthly", "as needed"]},
+    "Deadline Date": {"type": "datetime"}
+  }
+}

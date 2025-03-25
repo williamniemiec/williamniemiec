@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Emotional Support Resource": {
+    "parameters": {
+      "name": {"type": "text"},
+      "support_type": {"type": "options"},
+      "resource_type": {"type": "options"},
+      "content": {"type": ["text", "image", "video", "audio"]},
+      "frequency": {"type": "options"}
+    }
+  }
+}

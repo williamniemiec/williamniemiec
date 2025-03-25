@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Nutrition Guide": {
+    "Title": {"Description": "Title of the nutrition guidance", "Type": "text"},
+    "Foods": {"Description": "List of foods rich in vitamin K to increase intake", "Type": "unordered list", "Items": [{"name": "food name", "description": "brief description of the food"}]},
+    "Why": {"Description": "Explanation of why increasing intake of vitamin K-rich foods is important", "Type": "text"},
+    "Frequency": {"Description": "How often the patient should be reminded to increase intake of vitamin K-rich foods", "Type": "options", "Options": [{"value": "daily", "label": "Daily"}, {"value": "onlyOnce", "label": "Only once"}, {"value": "everyHours", "label": "Every x hours"}, {"value": "everyDays", "label": "Every x days"}]}
+  }
+}

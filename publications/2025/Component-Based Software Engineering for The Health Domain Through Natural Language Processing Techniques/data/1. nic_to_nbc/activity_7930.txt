@@ -1,0 +1,36 @@
+Here is the output in JSON format:
+
+
+{
+    "Attire Check": {
+        "Parameters": {
+            "Attire Requirements": {
+                "Description": "List of attire requirements based on institutional policy",
+                "Required": true,
+                "Type": "checklist",
+                "Options": [
+                    { "value": "hospitalGown", "label": "Hospital gown" },
+                    { "value": "slippers", "label": "Slippers" },
+                    { "value": "identificationBand", "label": "Identification band" }
+                ]
+            },
+            "Instruction": {
+                "Description": "Brief instruction on how to prepare attire according to institutional policy",
+                "Required": true,
+                "Type": "text"
+            },
+            "Frequency": {
+                "Description": "Specify how often the patient should check their attire",
+                "Required": true,
+                "Type": "options",
+                "Options": [
+                    { "value": "onlyOnce", "label": "Only once" },
+                    { "value": "everyTime", "label": "Every time before a procedure or test" }
+                ]
+            }
+        }
+    }
+}
+
+
+I removed the `Deadline Date` parameter since it's not applicable (Required: false). Let me know if you have any further questions!

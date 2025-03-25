@@ -1,0 +1,37 @@
+Here is the output in JSON format:
+
+
+{
+  "Decision Tree": {
+    "parameters": {
+      "Questions": "",
+      "Branches": ""
+    }
+  },
+  "Task": {
+    "parameters": {
+      "Name": "",
+      "Content": "",
+      "Frequency": {
+        "options": ["daily", "everyHours", "everyDays"]
+      },
+      "Deadline Date": {
+        "type": "datetime"
+      }
+    }
+  },
+  "Survey": {
+    "parameters": {
+      "Questions": "",
+      "Frequency": {
+        "options": ["daily", "everyHours", "everyDays"]
+      },
+      "Deadline Date": {
+        "type": "datetime"
+      }
+    }
+  }
+}
+
+
+Let me know if you need any further assistance!

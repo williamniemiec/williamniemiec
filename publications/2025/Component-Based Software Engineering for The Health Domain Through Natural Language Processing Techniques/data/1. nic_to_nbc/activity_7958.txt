@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+    "Positive Goal Framing": {
+        "Goal Statement": {"type": "text"},
+        "Positive Reframe": {"type": "text"},
+        "Focus on Addition": {"type": "text"},
+        "Emphasize Strengths": {"type": "text"}
+    }
+}

@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+    "Bed Rest Explanation": {
+        "Name": {"type": "text"},
+        "Reasons": {"type": "text"},
+        "Instructions": {"type": "text"},
+        "FAQs": {"type": "list of FAQs"}
+    }
+}

@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "noCodeElementName": "Education",
+  "parameterSpecifications": {
+    "title": {"type": "text"},
+    "content": {"type": "text or HTML"},
+    "symptoms": {"type": "list of text or options"},
+    "reporting_instructions": {"type": "text or HTML"}
+  }
+}

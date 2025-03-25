@@ -1,0 +1,39 @@
+Here is the output in JSON format:
+
+
+{
+  "Guide": {
+    "parameters": {
+      "name": "",
+      "pages": []
+    }
+  },
+  "Sibling Care Planner": {
+    "parameters": {
+      "name": "",
+      "questions": [],
+      "answers": []
+    }
+  },
+  "Resource List": {
+    "parameters": {
+      "name": "",
+      "resources": []
+    }
+  },
+  "Communication Template": {
+    "parameters": {
+      "name": "",
+      "template": ""
+    }
+  },
+  "Sibling Care Checklist": {
+    "parameters": {
+      "name": "",
+      "items": []
+    }
+  }
+}
+
+
+Let me know if you need any further modifications!

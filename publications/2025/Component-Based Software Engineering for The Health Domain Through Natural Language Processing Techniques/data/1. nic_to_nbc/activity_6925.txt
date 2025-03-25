@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Positioning Alert": {
+    "Name": {"type": "text"},
+    "Message": {"type": "text"},
+    "Image": {"type": "image or diagram"},
+    "Frequency": {"type": "options"},
+    "Deadline Date": {"type": "datetime"}
+  },
+  "Question": {
+    "Name": {"type": "text"},
+    "Content": {"type": "text"},
+    "Answer Type": {"type": "options"},
+    "Frequency": {"type": "options"},
+    "Deadline Date": {"type": "datetime"}
+  }
+}

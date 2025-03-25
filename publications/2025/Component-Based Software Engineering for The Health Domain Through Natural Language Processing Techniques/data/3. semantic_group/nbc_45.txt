@@ -1,0 +1,29 @@
+{
+  "name": "Allergy",
+  "description": "Tracks and manages allergies, identifying triggers, symptoms, and providing emergency response guidance. Helps users document allergy history for proactive management.",
+  "type": "non-periodic",
+  "input": [
+    "Allergy triggers",
+    "Symptoms of allergic reactions",
+    "Anaphylaxis response plan",
+    "Allergy history",
+    "Current medications"
+  ],
+  "output": [
+    "Allergy management plan",
+    "Emergency response guide",
+    "Allergy severity report",
+    "Medical allergy record"
+  ],
+  "preconditions": [
+    "User has allergies or is at risk of allergic reactions"
+  ],
+  "postconditions": [
+    "Allergy data is documented, and emergency response measures are accessible"
+  ],
+  "dependencies": [
+    "Allergy tracking platform",
+    "Emergency response system",
+    "Medical record management"
+  ]
+}

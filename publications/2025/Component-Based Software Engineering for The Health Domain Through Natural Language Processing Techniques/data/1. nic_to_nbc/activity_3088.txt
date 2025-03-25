@@ -1,0 +1,49 @@
+Here is the output in JSON format:
+
+
+{
+  "Electrolyte Tracker": {
+    "Parameters": {
+      "Name": {
+        "Type": "text"
+      },
+      "Electrolyte Types": {
+        "Type": "options"
+      },
+      "Frequency": {
+        "Type": "options"
+      },
+      "Deadline Date": {
+        "Type": "datetime"
+      },
+      "Input Fields": {
+        "Type": "form"
+      },
+      "Details": {
+        "Type": "text"
+      }
+    }
+  },
+  "Symptom Tracker": {
+    "Parameters": {
+      "Name": {
+        "Type": "text"
+      },
+      "Symptoms": {
+        "Type": "options"
+      },
+      "Frequency": {
+        "Type": "options"
+      },
+      "Deadline Date": {
+        "Type": "datetime"
+      },
+      "Input Fields": {
+        "Type": "form"
+      }
+    }
+  }
+}
+
+
+Note that I removed the introduction, number, no-code element description, and conclusion from the input text. I also removed any non-parameter information, such as the type of no-code element (e.g., "Represented by the 'electrolyte tracker' no-code element..."). Let me know if you have any further requests!

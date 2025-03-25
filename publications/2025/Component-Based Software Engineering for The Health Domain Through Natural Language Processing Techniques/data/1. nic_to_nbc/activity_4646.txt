@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Q&A Forum": {
+    "Question Input": {"Description": "Text input field for patients to ask questions", "Required": true, "Type": "text"},
+    "Concern Categories": {"Description": "List of categories for patients to select and discuss concerns", "Required": true, "Type": "list-item", "List-item": "list of category objects, each with a title and description"},
+    "Response Template": {"Description": "Template for healthcare providers to respond to patient questions and concerns", "Required": true, "Type": "text"}
+  }
+}
+
+
+I removed the non-applicable parameters (FAQs) since they are not required. Let me know if you need any further assistance!

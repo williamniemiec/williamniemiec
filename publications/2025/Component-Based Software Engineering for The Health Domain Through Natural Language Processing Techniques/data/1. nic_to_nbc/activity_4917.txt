@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Physical Activity Suggestion": {
+    "activity_type": {"type": "options"},
+    "duration": {"type": "text"},
+    "frequency": {"type": "options"},
+    "intensity_level": {"type": "options"},
+    "tips": {"type": "text"},
+    "resources": {"type": "text"}
+  }
+}

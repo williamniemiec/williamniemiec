@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Metabolic Acidosis Monitor": {
+        "parameters": {
+            "lab_results": "",
+            "vital_signs": "",
+            "symptoms": "",
+            "urinary_pH": "",
+            "thresholds": ""
+        }
+    }
+}

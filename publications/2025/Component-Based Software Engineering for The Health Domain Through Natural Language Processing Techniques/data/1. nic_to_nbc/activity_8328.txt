@@ -1,0 +1,29 @@
+Here is the output in JSON format:
+
+
+{
+    "Stretching Guide": {
+        "parameters": [
+            { 
+                "name": "Name", 
+                "type": "text"
+            },
+            { 
+                "name": "Pre-Exercise Stretching", 
+                "type": "book-page"
+            },
+            { 
+                "name": "Post-Exercise Stretching", 
+                "type": "book-page"
+            },
+            { 
+                "name": "Rationale", 
+                "type": "book-page"
+            },
+            { 
+                "name": "Videos", 
+                "type": "video"
+            }
+        ]
+    }
+}

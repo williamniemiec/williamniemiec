@@ -1,0 +1,32 @@
+Here is the output in JSON format:
+
+
+{
+  "Pregnancy Outcome Options Explorer": {
+    "parameters": {
+      "name": "",
+      "options": [],
+      "pros and cons": {},
+      "questions": [],
+      "frequency": ""
+    }
+  },
+  "Decision Support Conversation": {
+    "parameters": {
+      "name": "",
+      "prompts": [],
+      "response fields": [],
+      "frequency": ""
+    }
+  },
+  "Option Comparison Tool": {
+    "parameters": {
+      "name": "",
+      "options": [],
+      "criteria": [],
+      "weighting": {},
+      "comparison": {},
+      "frequency": ""
+    }
+  }
+}

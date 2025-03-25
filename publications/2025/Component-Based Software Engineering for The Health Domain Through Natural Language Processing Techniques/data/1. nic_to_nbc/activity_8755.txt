@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+    "Acupoint Location Guide": {
+        "parameters": {
+            "Acupoint location": ["LI 4 (Hegu)", "LU 7 (Lieque)"],
+            "Probe technique": ["Deep pressure with finger, thumb, or knuckle"],
+            "Pressure sensitivity": ["Very pressure-sensitive spot"],
+            "Visual aids": ["Anatomical illustrations of the acupoint location", "Images of the probe technique"]
+        }
+    },
+    "Probing Technique Tutorial": {
+        "parameters": {
+            "Tutorial steps": ["Step 1: Locate the acupoint", "Step 2: Apply deep pressure with finger, thumb, or knuckle"],
+            "Visual aids": ["Videos of the probing technique", "Images of the acupoint location"],
+            "Interactive elements": ["Quizzes to test understanding of the technique", "Interactive simulations of the probing technique"]
+        }
+    }
+}

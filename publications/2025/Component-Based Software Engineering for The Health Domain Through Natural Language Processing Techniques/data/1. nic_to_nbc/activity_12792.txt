@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Oral Care Assistance": {
+    "Parameters": {
+      "Oral Care Needs": {
+        "Description": "Patient's oral care needs (e.g., brushing"
+      }
+    }
+  }
+}

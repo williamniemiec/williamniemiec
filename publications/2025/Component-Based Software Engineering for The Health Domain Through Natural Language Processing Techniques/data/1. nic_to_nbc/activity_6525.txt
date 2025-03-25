@@ -1,0 +1,10 @@
+Here is the output in JSON format:
+
+
+{
+  "Audio Message": {
+    "audio_file": {"Type": "audio"},
+    "speaking_pace": {"Type": "options", "Options": ["slow", "normal", "fast"]},
+    "loop": {"Type": "boolean"}
+  }
+}

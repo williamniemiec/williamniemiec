@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+[
+    {
+        "IV Access Check": {
+            "parameters": [
+                {"name": "check_IV_access", "description": "Check that IV access is in place", "required": true, "type": "checkbox"},
+                {"name": "check_IV_line", "description": "Check the IV line for any signs of damage or wear", "required": true, "type": "checkbox"},
+                {"name": "check_IV_site", "description": "Check the IV site for any signs of infection or irritation", "required": true, "type": "checkbox"}
+            ]
+        }
+    },
+    {
+        "IV Access Reminder": {
+            "parameters": [
+                {"name": "reminder_frequency", "description": "How often would you like to receive reminders", "required": true, "type": "options", "options": [{"value": "daily", "label": "Daily"}, {"value": "everyOtherDay", "label": "Every other day"}, {"value": "weekly", "label": "Weekly"}]},
+                {"name": "reminder_time", "description": "What time of day would you like to receive reminders", "required": true, "type": "time"}
+            ]
+        }
+    }
+]

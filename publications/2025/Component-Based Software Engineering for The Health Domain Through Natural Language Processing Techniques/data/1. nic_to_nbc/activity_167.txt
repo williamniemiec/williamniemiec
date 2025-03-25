@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "Warm Liquids Reminder": {
+    "Parameters": [
+      {
+        "Name": "Warm Liquids",
+        "Description": "Drink warm liquids after meals",
+        "Required": true,
+        "Type": "Boolean"
+      },
+      {
+        "Name": "Frequency",
+        "Description": "Specify how often to drink warm liquids after meals",
+        "Required": true,
+        "Type": "Options",
+        "Options": [
+          { "value": "afterEveryMeal", "label": "After every meal" }
+        ]
+      }
+    ]
+  }
+}

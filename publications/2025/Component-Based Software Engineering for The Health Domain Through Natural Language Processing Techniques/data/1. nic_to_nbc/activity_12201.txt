@@ -1,0 +1,12 @@
+
+
+
+{
+  "Pulse Pressure Calculator": {
+    "Systolic Blood Pressure": {"Type": "number"},
+    "Diastolic Blood Pressure": {"Type": "number"},
+    "Proportional Pulse Pressure": {"Type": "number (percentage or proportion)"},
+    "Frequency": {"Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"Type": "datetime"}
+  }
+}

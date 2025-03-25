@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Activity Reminder": {
+    "Reminder Message": {"type": "text"},
+    "Frequency": {"type": "options", "options": ["hourly", "every 2 hours", "every 4 hours", "custom"]},
+    "Duration": {"type": "text", "formatHint": "more than 30 minutes"},
+    "Alternative Activity": {"type": "options", "options": ["take a short walk", "stretch", "move around", "others"]},
+    "Tracking": {"type": "checkbox list", "options": [{"9:00 AM": "Active"}, {"10:00 AM": "Sitting"}]},
+    "Goal": {"type": "number", "formatHint": "at least 10 minutes of activity per hour"}
+  }
+}
+
+
+Let me know if you need anything else!

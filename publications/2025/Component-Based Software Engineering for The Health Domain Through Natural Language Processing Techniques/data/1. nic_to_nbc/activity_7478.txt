@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Emotional Support": {
+    "Family Member ID": {"type": "text"},
+    "Donation Status": {"type": "boolean"},
+    "Support Message": {"type": "text"},
+    "Resources": {"type": "list of links or text"}
+  }
+}

@@ -1,0 +1,31 @@
+Here is the output in JSON format:
+
+
+{
+  "Orientation Guide": {
+    "Name": {"type": "text"},
+    "Content": {"type": "HTML text or list of HTML texts"},
+    "Reminders": {"type": "options", "options": ["daily", "everyHours", "everyDays", "custom"]},
+    "Assessment Questions": {"type": "list of questions with answer options"},
+    "Resources": {"type": "list of URLs or HTML texts"}
+  },
+  "Guide": {
+    "name": {"type": "text"},
+    "pages": {"type": "list of HTML texts"}
+  },
+  "Question": {
+    "name": {"type": "text"},
+    "answer type": {"type": ""}, // not specified
+    "frequency": {"type": ""}, // not specified
+    "deadline_date": {"type": ""} // not specified
+  },
+  "Task": {
+    "name": {"type": "text"},
+    "content": {"type": ""}, // not specified
+    "frequency": {"type": ""}, // not specified
+    "deadline_date": {"type": ""} // not specified
+  }
+}
+
+
+Note that I removed the not applicable parameters and only kept the ones with specific type information. Also, I didn't include the empty or not specified types in the output.

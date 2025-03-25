@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Regional Analgesia/Anesthesia Assistant": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Analgesia/Anesthesia Options": {"Type": "list of text or options"},
+      "Procedure Description": {"Type": "text"},
+      "Contraindications": {"Type": "list of text or options"},
+      "Pre-Procedure Checklist": {"Type": "list of text or options"},
+      "Procedure Steps": {"Type": "list of text or options"},
+      "Post-Procedure Care": {"Type": "list of text or options"}
+    }
+  }
+}

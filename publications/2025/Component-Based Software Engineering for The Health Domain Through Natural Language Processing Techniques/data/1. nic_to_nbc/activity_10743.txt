@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Caregiver Assignment Plan": {
+        "parameters": [
+            {"name": "Caregiver Roster", "type": "list of text items"},
+            {"name": "Patient Needs", "type": "list of text items"},
+            {"name": "Caregiver Assignment!", "type": "schedule"},
+            {"name": "Notification", "type": "options"}
+        ]
+    }
+}

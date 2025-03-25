@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "guide": {
+    "parameters": {
+      "name": {"type": "text"},
+      "steps": {"type": "list", "options": ["Check the manufacturer's instructions or manual", "Look for warning labels or stickers on the appliance", "Visit the manufacturer's website for safety information", "Contact the manufacturer's customer support for guidance", "Other steps (to be specified)"]},
+      "tips": {"type": "text", "example": "If you're still unsure, it's always better to err on the side of caution and avoid using the appliance."},
+      "resources": {"type": "list", "options": ["Links to manufacturer websites", "Safety guidelines from reputable organizations", "Other resources (to be specified)"]}
+    }
+  }
+}

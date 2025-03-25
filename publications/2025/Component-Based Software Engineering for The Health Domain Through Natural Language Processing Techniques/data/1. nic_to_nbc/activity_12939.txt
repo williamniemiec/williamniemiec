@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+  "Sodium Rich Foods Guide": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Foods List": {
+        "Type": "unordered list",
+        "Items": {
+          "Food Name": {"Type": "text"},
+          "Description": {"Type": "text"},
+          "Recommendation": {"Type": "text"}
+        }
+      },
+      "Frequency": {
+        "Type": "options",
+        "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+      },
+      "Deadline Date": {"Type": "datetime"}
+    }
+  }
+}

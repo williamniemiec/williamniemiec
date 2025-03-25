@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "Satisfaction Survey": {
+    "Questions": {
+      "type": "list of questions with answer types"
+    },
+    "Frequency": {
+      "options": ["daily", "weekly", "biweekly", "monthly"]
+    },
+    "Interval": {
+      "type": "numeric value with unit"
+    },
+    "Deadline Date": {
+      "type": "datetime"
+    },
+    "Scoring": {
+      "type": "formula or algorithm to calculate a satisfaction score"
+    }
+  }
+}
+
+
+Note: I removed the `Not Applicable` parameters as per your request.

@@ -1,0 +1,49 @@
+Here is the output in JSON format:
+
+
+[
+    {
+        "name": "Goal Setting",
+        "parameters": {
+            "name": "Goal Setting",
+            "goal_type": "options",
+            "goal_description": "text field",
+            "goal_criteria": "list of criteria",
+            "target_date": "datetime",
+            "frequency": "options"
+        }
+    },
+    {
+        "name": "Emotional Change Goal",
+        "parameters": {
+            "name": "Emotional Change Goal",
+            "emotion": "options",
+            "goal_description": "text field",
+            "goal_criteria": "list of criteria",
+            "target_date": "datetime",
+            "frequency": "options"
+        }
+    },
+    {
+        "name": "Personality Development Goal",
+        "parameters": {
+            "name": "Personality Development Goal",
+            "trait": "options",
+            "goal_description": "text field",
+            "goal_criteria": "list of criteria",
+            "target_date": "datetime",
+            "frequency": "options"
+        }
+    },
+    {
+        "name": "Value and Attitude Goal",
+        "parameters": {
+            "name": "Value and Attitude Goal",
+            "value": "options",
+            "goal_description": "text field",
+            "goal_criteria": "list of criteria",
+            "target_date": "datetime",
+            "frequency": "options"
+        }
+    }
+]

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Post-Massage Instructions": {
+    "Rest Instruction": {"type": "text"},
+    "Movement Instruction": {"type": "text"},
+    "Duration": {"type": "options"},
+    "Frequency": {"type": "options"}
+  }
+}
+
+
+Note that I removed the `Deadline Date` parameter since it was marked as "datetime" which is not applicable in this context.

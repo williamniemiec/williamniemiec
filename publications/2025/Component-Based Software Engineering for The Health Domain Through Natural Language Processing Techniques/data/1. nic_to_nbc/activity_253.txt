@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Phosphate Level Monitoring": {
+    "Parameters": {
+      "Phosphate Level": {"Type": "numeric"},
+      "Condition": {"Type": "options"},
+      "Frequency": {"Type": "options"},
+      "Target Range": {"Type": "range"},
+      "Notes": {"Type": "text"},
+      "Alert Threshold": {"Type": "numeric"}
+    }
+  }
+}
+
+
+I removed all unnecessary text and only kept the `{{ NO-CODE ELEMENT NAME }}` and `{{ PARAMETER ESPECIFICATIONS }}`. I also reformatted the parameters to a more compact JSON format. Let me know if this is what you were looking for!

@@ -1,0 +1,39 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "preparation task",
+    "parameters": [
+        { 
+            "name": "action", 
+            "options": [
+                { value: "washWithSoapAndWater" },
+                { value: "trimBodyHairWithScissors" }
+            ]
+        },
+        { 
+            "name": "bodyArea", 
+            "options": [
+                { value: "chest" },
+                { value: "back" }
+            ]
+        },
+        { 
+            "name": "frequency", 
+            "options": [
+                { value: "daily" },
+                { value: "onlyOnce" },
+                { value: "everyHours" },
+                { value: "everyDays" }
+            ]
+        },
+        { 
+            "name": "deadline_date", 
+            "type": "datetime"
+        },
+        { 
+            "name": "additionalInstructions", 
+            "type": "text"
+        }
+    ]
+}

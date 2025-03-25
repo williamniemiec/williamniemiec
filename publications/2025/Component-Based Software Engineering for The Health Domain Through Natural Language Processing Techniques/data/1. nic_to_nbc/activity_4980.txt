@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+    "Team Introduction": {
+        "Parameters": {
+            "Team members": "",
+            "Introduction text": "",
+            "Contact information": ""
+        }
+    },
+    "Video Introduction": {
+        "Parameters": {
+            "Video content": "",
+            "Introduction text": "",
+            "Contact information": ""
+        }
+    },
+    "Digital Business Card": {
+        "Parameters": {
+            "Team member information": "",
+            "Photo": "Not Applicable",
+            "QR code or link to contact information": ""
+        }
+    }
+}

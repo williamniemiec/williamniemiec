@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+    "Animal Therapy Education": {
+        "Introduction to Animal Therapy": {"Type": "text or video"},
+        "Purpose of Animals in Care Environment": {"Type": "text or video"},
+        "Rationale for Animal Therapy": {"Type": "text or video"},
+        "Benefits of Animal Therapy": {"Type": "text or video"},
+        "Types of Animals Used in Therapy": {"Type": "text or video"},
+        "How Animals are Trained and Certified": {"Type": "text or video"},
+        "Patient/Family Questions and Concerns": {"Type": "text or survey"}
+    }
+}
+
+
+Let me know if this is what you were looking for!

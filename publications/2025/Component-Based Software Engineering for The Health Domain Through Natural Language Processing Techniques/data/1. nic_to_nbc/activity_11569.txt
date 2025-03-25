@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Routine Tracker": {
+    "Parameters": {
+      "Routine Name": {"Type": "text", "Required": true},
+      "Current Routine": {"Type": "text", "Required": true},
+      "Desired Changes": {"Type": "text", "Required": true},
+      "Frequency": {"Type": "options", "Options": ["daily", "weekly", "monthly"], "Required": true}
+    }
+  }
+}
+
+
+I removed the not applicable parameters (`Reminders` and `Deadline Date`) since they are marked as `false` for the `Required` field. Let me know if you need any further assistance!

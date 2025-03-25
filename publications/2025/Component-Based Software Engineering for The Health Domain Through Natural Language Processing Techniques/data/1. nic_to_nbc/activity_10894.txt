@@ -1,0 +1,33 @@
+Here is the output in JSON format:
+
+
+{
+  "Assessment": {
+    "parameters": {
+      "name": "title of the assessment (e.g., \"Home Maintenance Assessment\")",
+      "questions": "list of questions to be asked to determine the patient's home maintenance requirements",
+      "answer type": "specifies the type of answer required for each question (e.g., multiple choice, rating scale, short answer)"
+    }
+  },
+  "Survey": {
+    "parameters": {
+      "name": "title of the survey (e.g., \"Home Maintenance Survey\")",
+      "questions": "list of questions to be asked to determine the patient's home maintenance needs and preferences",
+      "answer type": "specifies the type of answer required for each question (e.g., multiple choice, rating scale, short answer)"
+    }
+  },
+  "Calculator": {
+    "parameters": {
+      "name": "title of the calculator (e.g., \"Home Maintenance Calculator\")",
+      "formula": "specifies the formula used to calculate the patient's home maintenance requirements",
+      "inputs": "specifies the inputs required for the calculation (e.g., assessment scores, survey responses)"
+    }
+  },
+  "Report": {
+    "parameters": {
+      "name": "title of the report (e.g., \"Home Maintenance Report\")",
+      "content": "specifies the content of the report (e.g., summary of assessment and survey responses, calculated home maintenance requirements)",
+      "format": "specifies the format of the report (e.g., PDF, HTML)"
+    }
+  }
+}

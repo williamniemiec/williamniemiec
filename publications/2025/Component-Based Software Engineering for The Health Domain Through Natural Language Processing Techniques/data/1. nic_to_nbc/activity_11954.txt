@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Supply Check": {
+    "parameters": [
+      {"name": "supply 1", "description": "Check the quantity and expiration date of supply 1 (e.g. bandages)", "required": true, "type": "options", "options": [{"value": "inStock", "label": "In Stock"}, {"value": "lowStock", "label": "Low Stock"}, {"value": "outOfStock", "label": "Out of Stock"}]},
+      {"name": "supply 2", "description": "Check the quantity and expiration date of supply 2 (e.g. medications)", "required": false, "type": "options", "options": [{"value": "inStock", "label": "In Stock"}, {"value": "lowStock", "label": "Low Stock"}, {"value": "outOfStock", "label": "Out of Stock"}]},
+      {"name": "supply 3", "description": "Check the quantity and expiration date of supply 3 (e.g. food and water)", "required": false, "type": "options", "options": [{"value": "inStock", "label": "In Stock"}, {"value": "lowStock", "label": "Low Stock"}, {"value": "outOfStock", "label": "Out of Stock"}]},
+      {"name": "notes", "description": "Add any additional notes or comments", "required": false, "type": "text"},
+      {"name": "frequency", "description": "Specify how often the supply check should be performed", "required": true, "type": "options", "options": [{"value": "daily", "label": "Daily"}, {"value": "weekly", "label": "Weekly"}, {"value": "monthly", "label": "Monthly"}, {"value": "quarterly", "label": "Quarterly"}]}
+    ]
+  }
+}

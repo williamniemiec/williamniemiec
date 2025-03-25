@@ -1,0 +1,37 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Indicate When Finished",
+    "parameters": [
+        {
+            "name": "Finished Eating",
+            "type": "boolean"
+        },
+        {
+            "name": "Indication Method",
+            "type": "options",
+            "options": []
+        },
+        {
+            "name": "Instructions",
+            "type": "text"
+        },
+        {
+            "name": "Visual Aids",
+            "type": "multimedia"
+        },
+        {
+            "name": "Reminders",
+            "type": "boolean"
+        },
+        {
+            "name": "Frequency",
+            "type": "options",
+            "options": []
+        }
+    ]
+}
+
+
+Note that I removed the `description` fields and other unnecessary information, and also removed the `required` field since it's not specified in the original format. Also, I didn't fill in the options for `Indication Method` and `Frequency` as they were not provided in the input text.

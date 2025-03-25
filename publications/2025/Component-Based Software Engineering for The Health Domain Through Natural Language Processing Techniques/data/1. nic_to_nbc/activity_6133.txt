@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Coping Responses": {
+    "parameters": {
+      "Prompt": {},
+      "Coping Responses": {},
+      "Description": {},
+      "Effectiveness": {},
+      "Frequency": {}
+    }
+  }
+}

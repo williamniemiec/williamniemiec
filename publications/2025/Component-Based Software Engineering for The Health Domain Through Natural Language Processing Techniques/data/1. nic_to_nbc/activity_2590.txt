@@ -1,0 +1,40 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "tutorial",
+    "parameters": [
+        { 
+            "name": "title", 
+            "description": "tutorial title", 
+            "required": true, 
+            "type": "text"
+        },
+        { 
+            "name": "steps", 
+            "description": "list of steps to transfer infant", 
+            "required": true, 
+            "type": "list",
+            "list": [
+                { 
+                    "name": "step 1", 
+                    "description": "step 1 description", 
+                    "required": true, 
+                    "type": "text"
+                },
+                { 
+                    "name": "step 2", 
+                    "description": "step 2 description", 
+                    "required": true, 
+                    "type": "text"
+                }
+            ]
+        },
+        { 
+            "name": "video_url", 
+            "description": "url of the tutorial video", 
+            "required": true, 
+            "type": "url"
+        }
+    ]
+}

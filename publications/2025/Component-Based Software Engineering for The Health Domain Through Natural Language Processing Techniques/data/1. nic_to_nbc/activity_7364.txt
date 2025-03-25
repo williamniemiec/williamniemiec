@@ -1,0 +1,36 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Follow-up Schedule",
+    "parameters": [
+        {
+            "name": "Name",
+            "type": "text"
+        },
+        {
+            "name": "Follow-up Frequency",
+            "type": "options"
+        },
+        {
+            "name": "Follow-up Method",
+            "type": "options"
+        },
+        {
+            "name": "Goals and Objectives",
+            "type": "text"
+        },
+        {
+            "name": "Problem Solving",
+            "type": "text"
+        },
+        {
+            "name": "Progress Monitoring",
+            "type": "options"
+        },
+        {
+            "name": "Reminders",
+            "type": "boolean"
+        }
+    ]
+}

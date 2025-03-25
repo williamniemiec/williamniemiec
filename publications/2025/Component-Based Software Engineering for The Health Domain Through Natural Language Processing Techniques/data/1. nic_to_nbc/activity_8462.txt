@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Desensitization Therapy Advice": {
+    "name": {"type": "text"},
+    "why": {"type": "text"},
+    "allergen": {"type": "text"},
+    "therapy_type": {"type": "options", "options": ["oral immunotherapy", "sublingual immunotherapy", "etc."]},
+    "frequency": {"type": "options", "options": ["daily", "weekly", "monthly"]},
+    "deadline_date": {"type": "datetime"},
+    "notes": {"type": "text"}
+  }
+}

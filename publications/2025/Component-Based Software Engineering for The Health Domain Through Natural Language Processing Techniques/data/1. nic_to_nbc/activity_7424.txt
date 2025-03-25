@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+    "Phone Call Reminder": {
+        "Contact's Name": {},
+        "Phone Number": {},
+        "Call Frequency": {},
+        "Call Duration": {},
+        "Reminder Time": {}
+    }
+}

@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Modeling Coach": {
+    "Behavior Name": {"type": "text"},
+    "Modeling Type": {"type": "options", "options": ["video", "image", "text", "virtual coach", "custom"]},
+    "Modeling Content": {"type": "text or multimedia content"},
+    "Modeling Schedule": {
+      "Frequency": {"type": "options", "options": ["daily", "weekly", "monthly"]},
+      "Duration": {"type": "time interval"}
+    },
+    "Reflection Prompts": {"type": "list of text"},
+    "Self-Assessment": {"type": "list of questions"},
+    "Reinforcement": {"type": "options", "options": ["points", "badges", "feedback", "custom"]}
+  }
+}

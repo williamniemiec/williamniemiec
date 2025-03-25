@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Tube Placement Confirmation Guide": {
+    "parameters": [
+      {"Confirmation Method": ""},
+      {"Agency Protocol": ""},
+      {"X-ray Examination": ""},
+      {"Verification": ""},
+      {"Frequency": ""},
+      // Removed "Complications" as it's not applicable
+    ]
+  }
+}

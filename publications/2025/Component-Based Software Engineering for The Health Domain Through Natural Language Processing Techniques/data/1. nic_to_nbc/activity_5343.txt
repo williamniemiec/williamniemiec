@@ -1,0 +1,20 @@
+
+
+
+{
+  "name": "Nasogastric Tube Pressure Maintenance",
+  "parameters": [
+    { 
+      "name": "Pressure Settings", 
+      "type": "text"
+    },
+    { 
+      "name": "Monitoring Frequency", 
+      "type": "options"
+    },
+    { 
+      "name": "Additional Instructions", 
+      "type": "text"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+Here is the output in JSON format:
+
+
+{
+    "Health Tracker": {
+        "parameters": [
+            {"name": "name", "description": "title of the health tracker"},
+            {"name": "metrics", "description": "list of health metrics to track"},
+            {"name": "data type", "description": "options for selecting the data type for each metric"},
+            {"name": "frequency", "description": "options for selecting the frequency of tracking"}
+        ]
+    },
+    "Risk Assessment": {
+        "parameters": [
+            {"name": "name", "description": "title of the risk assessment"},
+            {"name": "metrics", "description": "list of health metrics used for risk assessment"},
+            {"name": "algorithms", "description": "options for selecting the risk assessment algorithms"},
+            {"name": "risk level", "description": "options for providing a risk level or recommendation"}
+        ]
+    },
+    "Personalized Recommendations": {
+        "parameters": [
+            {"name": "name", "description": "title of the personalized recommendations"},
+            {"name": "recommendation type", "description": "options for selecting the type of recommendation"},
+            {"name": "data source", "description": "options for selecting the data source for the recommendations"}
+        ]
+    },
+    "Care Coordination": {
+        "parameters": [
+            {"name": "name", "description": "title of the care coordination"},
+            {"name": "data sharing", "description": "options for selecting the data sharing method"},
+            {"name": "provider integration", "description": "options for integrating with healthcare providers' systems"}
+        ]
+    }
+}

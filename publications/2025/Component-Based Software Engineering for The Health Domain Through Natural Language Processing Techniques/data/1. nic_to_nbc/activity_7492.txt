@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+    "Toilet Accessibility Guide": {
+        "Clothing Modifications": {
+            "type": "text with images or videos",
+            "required": true
+        },
+        "Environmental Modifications": {
+            "type": "text with images or videos",
+            "required": true
+        },
+        "Toilet Accessibility Tips": {
+            "type": "text with images or videos",
+            "required": true
+        },
+        "Personalized Checklist": {
+            "type": "interactive form or checklist",
+            "required": false
+        }
+    }
+}

@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+  "Pulse Oximetry Tracker": {
+    "name": "title or name of the pulse oximetry tracker",
+    "readings": "list of pulse oximetry readings with date and time",
+    "frequency": "specifies how often the patient should track their pulse oximetry readings",
+    "deadline_date": "specifies the due date for tracking pulse oximetry readings"
+  },
+  "Oxygen Saturation Alert": {
+    "name": "title or name of the oxygen saturation alert",
+    "alert message": "text describing the alert message",
+    "threshold": "specifies the oxygen saturation level threshold for triggering the alert",
+    "frequency": "specifies how often the patient should receive the alert"
+  },
+  "Pulse Oximetry Education": {
+    "name": "title or name of the pulse oximetry education",
+    "educational content": "text, images, or videos describing pulse oximetry and oxygen saturation",
+    "frequency": "specifies how often the patient should access the educational content"
+  }
+}

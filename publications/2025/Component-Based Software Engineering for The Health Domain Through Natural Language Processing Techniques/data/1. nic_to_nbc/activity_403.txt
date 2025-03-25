@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Disease Educator": {
+    "Developmental Stage": {"type": "options", "options": ["preschool", "school-age", "adolescent"]},
+    "Learning Style": {"type": "options", "options": ["visual", "auditory", "kinesthetic"]},
+    "Disease Information": {"type": "interactive module"},
+    "Interactive Activities": {"type": "interactive module"},
+    "Reflection and Feedback": {"type": "text"},
+    "Frequency": {"type": "options", "options": ["daily", "weekly", "monthly", "onlyOnce"]}
+  }
+}

@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+  "Progress Tracking": {
+    "parameters": {
+      "Original Problem": {"type": "text"},
+      "Action Plan": {"type": "list of objects"},
+      "Current Progress": {"type": "text"},
+      "Challenges": {"type": "list of text"},
+      "Successes": {"type": "list of text"},
+      "Revised Action Plan": {"type": "list of objects"},
+      "Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"type": "datetime"}
+    }
+  }
+}
+
+
+I removed all unnecessary information and only kept the `{{ NO-CODE ELEMENT NAME }}` and `{{ PARAMETER ESPECIFICATIONS }}`. I also reformatted the parameters to make them easier to read. Let me know if you need anything else!

@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+    "Self-Care Guidance": {
+        "Parameters": {
+            "Self-Care Tips": {"type": "checklist", "example": ["Get at least 8 hours of sleep per night", "Drink at least 8 cups of water per day", "Eat a variety of fruits, vegetables, whole grains, and lean proteins"]},
+            "Importance of Self-Care": {"type": "text", "example": "Adequate rest, hydration, and nutrition are essential for milk production and overall health"},
+            "Personalized Recommendations": {"type": "text", "example": "Based on your breastfeeding schedule, we recommend taking a 30-minute nap during the day to help with milk production"},
+            "Frequency": {"type": "options", "options": ["everyFeeding", "everyXFeedings", "atWill"]},
+        }
+    }
+}
+
+
+I removed the not applicable parameters (Resources and Deadline Date) as per your request. Let me know if you need any further assistance!

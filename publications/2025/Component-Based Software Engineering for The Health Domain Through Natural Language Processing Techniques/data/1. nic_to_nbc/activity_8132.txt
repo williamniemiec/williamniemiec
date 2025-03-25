@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Meal Orientation": {
+    "parameters": [
+      {"food_items": {}},
+      {"clock_positions": {}},
+      {"frequency": {}}
+    ]
+  }
+}

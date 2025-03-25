@@ -1,0 +1,16 @@
+
+
+
+{
+  "Health Awareness Resource": {
+    "Resource List": {
+      "type": "unordered list with links or attachments"
+    },
+    "Search Bar": {
+      "type": "search bar"
+    },
+    "Filter": {
+      "type": "options or dropdown menu"
+    }
+  }
+}

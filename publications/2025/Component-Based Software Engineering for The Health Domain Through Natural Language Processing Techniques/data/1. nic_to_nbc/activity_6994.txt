@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Nutrition Tracker": {
+    "Food Diary": {"Type": "text"},
+    "Calorie Tracker": {"Type": "number"},
+    "Macronutrient Tracker": {"Type": "number"},
+    "Weight Tracker": {"Type": "number"}
+  }
+}

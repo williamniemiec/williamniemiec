@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Oral Hygiene Tracker": {
+    "Frequency": {"Type": "options", "Options": ["daily", "twiceADay", "threeTimesADay", "etc."]},
+    "Activities": {"Type": "list", "List items": "text, with optional images or icons"},
+    "Reminders": {"Type": "boolean", "Default": true},
+    "Tracking": {"Type": "form", "Fields": ["date", "time", "activity completed (checkbox or toggle)"]}
+  }
+}

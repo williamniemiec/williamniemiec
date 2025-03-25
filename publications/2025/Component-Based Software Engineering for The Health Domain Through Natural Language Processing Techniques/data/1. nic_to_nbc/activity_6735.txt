@@ -1,0 +1,12 @@
+
+
+
+{
+    "Creative Cooking Tips": {
+        "Food Hiding Techniques": {"type": "list of text or HTML"},
+        "Food Presentation Ideas": {"type": "list of text or HTML"},
+        "Recipe Suggestions": {"type": "list of text or HTML"},
+        "Mealtime Strategies": {"type": "list of text or HTML"},
+        "Frequency": {"type": "options"}
+    }
+}

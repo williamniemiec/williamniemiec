@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Childbirth Plan": {
+    "Birthing Environment": {"Type": "options"},
+    "Assistance": {"Type": "options"},
+    "Attendance": {"Type": "options"},
+    "Technology": {"Type": "options"},
+    "Cord Cutting": {"Type": "options"},
+    "Feeding Preferences": {"Type": "options"},
+    "Discharge Plans": {"Type": "options"},
+    "Additional Notes": {"Type": "text"}
+  }
+}

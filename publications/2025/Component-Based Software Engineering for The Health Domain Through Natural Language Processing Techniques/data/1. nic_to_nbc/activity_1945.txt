@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Recall Alert Guide": {
+        "Importance of Monitoring": {"type": "text", "example": "Using recalled contact lens care products can lead to eye infections, vision loss, and other serious complications."},
+        "How to Monitor": {"type": "ordered list", "example": ["Step 1: Check the FDA website for recall notices.", "Step 2: Register for recall alerts from the manufacturer.", "Step 3: Check the product packaging for recall information."]},
+        "What to Do in Case of Recall": {"type": "ordered list", "example": ["Step 1: Discontinue use of the product immediately.", "Step 2: Return the product to the manufacturer or retailer.", "Step 3: Contact a healthcare professional for guidance on alternative products."]},
+        "Resources": {"type": "list of URLs"},
+        "Frequency of Monitoring": {"type": "options", "options": ["daily", "weekly", "monthly"]},
+        "Visual Aids": {"type": "list of URLs or embedded media"}
+    }
+}

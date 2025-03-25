@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Needle Insertion": {
+    "Pulse Location": {"type": "text"},
+    "Angle of Insertion": {"type": "text"},
+    "Insertion Instructions": {"type": "text"},
+    "Image": {"type": "image"},
+    "Video": {"type": "video"},
+    "Frequency": {"type": "options"},
+    "Deadline Date": {"type": "datetime"}
+  }
+}

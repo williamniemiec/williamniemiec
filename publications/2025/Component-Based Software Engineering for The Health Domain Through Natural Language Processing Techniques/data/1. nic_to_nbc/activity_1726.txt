@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Fetal Heart Tones Reflection": {
+    "Question": {"Type": "text"},
+    "Answer Type": {"Type": "options"},
+    "Emotional Response": {"Type": "rating scale or multiple choice"},
+    "Thoughts and Feelings": {"Type": "text"},
+    "Significance": {"Type": "text"}
+  }
+}

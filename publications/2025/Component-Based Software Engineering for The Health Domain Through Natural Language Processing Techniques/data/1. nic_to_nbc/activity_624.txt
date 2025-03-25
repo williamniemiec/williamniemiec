@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Contralateral Treatment": {
+    "parameters": {
+      "Tenderness Assessment": {"type": ["numeric value", "text"]},
+      "Threshold": {"type": "numeric value"},
+      "Contralateral Point": {"type": ["text", "image"]},
+      "Treatment Procedure": {"type": ["text", "reference to another no-code element"]},
+      "Frequency": {"type": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"type": "datetime"}
+    }
+  }
+}

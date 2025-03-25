@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+  "nutrition and weight monitoring": {
+    "Food Diary": {},
+    "Water Intake": {},
+    "Weight": {},
+    "Body Mass Index (BMI)": {},
+    "Nutrient Intake": {
+      "options": [
+        {"value": "protein", "label": "Protein"},
+        {"value": "fiber", "label": "Fiber"},
+        {"value": "vitaminD", "label": "Vitamin D"},
+        {"value": "calcium", "label": "Calcium"}
+      ]
+    }
+  }
+}
+
+
+I removed all the unnecessary text and only kept the `{{ NO-CODE ELEMENT NAME }}` and `{{ PARAMETER ESPECIFICATIONS }}`. I also removed the not applicable parameters (i.e., the ones with `Required: false`).

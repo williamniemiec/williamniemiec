@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Community Education": {
+    "parameters": [
+      {"name": "module 1", "description": "Basic first aid techniques", "required": true, "type": ["video", "e-learning module"]},
+      {"name": "module 2", "description": "Self-help measures for emergency situations", "required": true, "type": ["video", "e-learning module"]},
+      {"name": "module 3", "description": "Safety precautions for natural disasters", "required": true, "type": ["video", "e-learning module"]},
+      {"name": "quiz", "description": "Assess understanding of safety, self-help, and first aid measures", "required": true, "type": "quiz"},
+      {"name": "resources", "description": "Provide additional resources for community members", "required": false, "type": ["list", "links"]}
+    ]
+  }
+}

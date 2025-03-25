@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+    "ParameterSpecifications": [
+        "* Guide: Providing educational content on the importance of monitoring level of consciousness, cough reflex, gag reflex, and swallowing ability.",
+        "* Video: Offering video tutorials or demonstrations on how to monitor these vital signs, which can be performed by a healthcare professional.",
+        "* FAQ: Providing answers to frequently asked questions about these vital signs and their importance in patient care."
+    ],
+    "NoCodeElementName": ["Guide", "Video", "FAQ"]
+}

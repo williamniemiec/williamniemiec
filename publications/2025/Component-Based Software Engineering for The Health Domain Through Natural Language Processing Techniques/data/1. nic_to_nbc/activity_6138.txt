@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Patient Positioning": {
+    "Position": {
+      "Type": ["text", "options"]
+    },
+    "Rationale": {
+      "Type": "text"
+    },
+    "Timing": {
+      "Type": ["text", "options"]
+    },
+    "Instructions": {
+      "Type": "text"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Spiritual Care Referral": {
+    "parameters": {
+      "Care Type": {"type": "options", "options": [{"value": "pastoralCare", "label": "Pastoral Care"}, {"value": "primarySpiritualCaregiver", "label": "Primary Spiritual Caregiver"}]},
+      "Caregiver Name": {"type": "text"},
+      "Contact Information": {"type": "text"},
+      "Reason for Referral": {"type": "text"},
+      "Referral Status": {"type": "options", "options": [{"value": "pending", "label": "Pending"}, {"value": "completed", "label": "Completed"}, {"value": "declined", "label": "Declined"}]}
+    }
+  }
+}
+
+
+Let me know if this is what you were expecting!

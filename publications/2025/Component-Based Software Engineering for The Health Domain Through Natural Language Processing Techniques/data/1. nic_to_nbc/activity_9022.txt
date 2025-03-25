@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Art Assessment": {
+    "Parameters": {
+      "Art Product": {"Type": "image or text"},
+      "Art-Making Process": {"Type": "text"},
+      "Developmental Level": {"Type": "options", "Options": ["child", "adolescent", "adult"]},
+      "Prior Art-Making Activities": {"Type": "text"},
+      "Comparison": {"Type": "text or rating scale"}
+    }
+  }
+}

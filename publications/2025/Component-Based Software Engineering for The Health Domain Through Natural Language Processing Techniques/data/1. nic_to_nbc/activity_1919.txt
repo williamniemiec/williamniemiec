@@ -1,0 +1,32 @@
+Here is the output in JSON format:
+
+
+{
+  "identification labeling": {
+    "Patient Name": {
+      "Description": "Enter patient's name",
+      "Required": true,
+      "Type": "text"
+    },
+    "Labeling Locations": {
+      "Description": "Select locations to label patient's name",
+      "Required": true,
+      "Type": "checklist",
+      "Options": [
+        { "value": "room", "label": "Room" },
+        { "value": "clothing", "label": "Clothing" },
+        { "value": "personalItems", "label": "Personal Items" }
+      ]
+    },
+    "Label Size": {
+      "Description": "Select label size",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "large", "label": "Large" },
+        { "value": "medium", "label": "Medium" },
+        { "value": "small", "label": "Small" }
+      ]
+    }
+  }
+}

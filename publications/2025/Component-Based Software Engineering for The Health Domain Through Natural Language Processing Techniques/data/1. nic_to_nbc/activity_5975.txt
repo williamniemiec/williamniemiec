@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Blood Pressure Monitoring": {
+    "Parameters": {
+      "Title": {},
+      "Description": {},
+      "Blood Pressure Measurement": {},
+      "Target Range": {},
+      "Frequency": {},
+      "Alert Threshold": {},
+      "Notification": {}
+    }
+  }
+}

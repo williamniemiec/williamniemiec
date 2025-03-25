@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Treatment Contract": {
+    "Contract Title": {"type": "text"},
+    "Contract Description": {"type": "text"},
+    "Goals and Objectives": {"type": "list of text"},
+    "Token/Point System": {"type": "reference to the \"Token System\" no-code element"},
+    "Patient Responsibilities": {"type": "list of text"},
+    "Healthcare Provider Responsibilities": {"type": "list of text"},
+    "Contract Duration": {"type": "datetime range"},
+    "Signature": {"type": "electronic signature"}
+  }
+}

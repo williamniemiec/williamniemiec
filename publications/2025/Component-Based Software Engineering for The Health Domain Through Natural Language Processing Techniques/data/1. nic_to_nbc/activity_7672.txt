@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Daily Routine Planner": {
+    "Activities": {
+      "Type": "unordered list"
+    },
+    "Schedule": {
+      "Type": "datetime"
+    },
+    "Reminders": {
+      "Type": "boolean"
+    },
+    "Environment": {
+      "Type": "text"
+    }
+  }
+}

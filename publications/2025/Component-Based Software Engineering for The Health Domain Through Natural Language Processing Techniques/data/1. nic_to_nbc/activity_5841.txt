@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+"noCodeElementName": "Education",
+"parameterSpecifications": {
+"title": "Measures to Enhance Fetal Oxygenation",
+"content": "text or multimedia content explaining the measures",
+"questions": "optional list of questions to ask the patient to ensure understanding"
+}
+}

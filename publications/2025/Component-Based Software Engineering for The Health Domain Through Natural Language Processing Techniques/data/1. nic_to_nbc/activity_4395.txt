@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "No-code Element Name": "Support Chat",
+  "Parameters": {
+    "Chat Interface": {"Type": ["HTML", "CSS"]},
+    "Trained Listener": {"Type": ["text", "username"]},
+    "Response Time": {"Type": ["datetime", "time interval"]},
+    "Emotional Support": {"Type": ["list of text", "HTML"]},
+    "Resource Links": {"Type": ["list of text", "HTML"]}
+  }
+}

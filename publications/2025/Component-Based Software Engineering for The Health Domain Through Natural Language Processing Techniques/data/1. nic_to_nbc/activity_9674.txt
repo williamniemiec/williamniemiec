@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+  "Dressing Application": {
+    "name": "Apply dressing",
+    "content": "Apply an appropriate dressing to protect the incision",
+    "dressing_type": {
+      "type": "options",
+      "options": ["gauze", "transparent film", "hydrocolloid", "etc."]
+    },
+    "instructions": {
+      "type": "text",
+      "value": "Follow the instructions provided by your healthcare provider for applying the dressing. Ensure the dressing is securely in place and covers the entire incision area."
+    },
+    "frequency": {
+      "options": ["daily", "everyHours", "everyDays"]
+    },
+    "deadline_date": {
+      "type": "datetime"
+    },
+    "notes": {
+      "type": "text"
+    }
+  }
+}

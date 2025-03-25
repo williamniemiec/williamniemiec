@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Belief Reality Checker": {
+    "Parameters": {
+      "Belief": {"Type": "text"},
+      "Reality Check": {"Type": "options", "Options": ["yes", "no"]},
+      "Evidence": {"Type": "text"},
+      "Alternative Belief": {"Type": "text"},
+      "Frequency": {"Type": "options", "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]}
+    }
+  }
+}

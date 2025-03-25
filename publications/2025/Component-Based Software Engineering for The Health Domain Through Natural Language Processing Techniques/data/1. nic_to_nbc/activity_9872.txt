@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Therapy Animal Interaction Guide": {
+    "Parameters": {
+      "Title": "",
+      "Instructions": "",
+      "Frequency": "",
+      "Duration": ""
+    }
+  }
+}

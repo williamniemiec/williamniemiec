@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Recommendation List": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Items": {"Type": "list of text, image, or video"},
+      "Description": {"Type": "text"},
+      "Features": {"Type": "list of text"},
+      "Resources": {"Type": "URL, PDF, or other file types"}
+    }
+  }
+}

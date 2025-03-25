@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Rest Period Scheduler": {
+    "parameters": [
+      {"Name": "text"},
+      {"Rest Period Duration": "duration"},
+      {"Rest Period Schedule": "schedule"},
+      {"Frequency": "options"},
+      {"Reminders": "reminder"}
+    ]
+  }
+}

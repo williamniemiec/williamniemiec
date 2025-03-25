@@ -1,0 +1,31 @@
+Here is the output in JSON format:
+
+
+{
+    "Respiratory Distress Assessment Form": {
+        "name": "",
+        "tachypnea": "",
+        "nasal_flaring": "",
+        "grunting": "",
+        "retractions": "",
+        "rhonchi": "",
+        "rales": "",
+        "other_signs": ""
+    },
+    "Respiratory Distress Severity Guide": {
+        "name": "",
+        "severity_levels": "",
+        "criteria": ""
+    },
+    "Respiratory Distress Response Tracker": {
+        "name": "",
+        "response_type": "",
+        "response_time": "",
+        "response_outcome": ""
+    },
+    "Respiratory Distress Alert System": {
+        "name": "",
+        "alert_threshold": "",
+        "alert_message": ""
+    }
+}

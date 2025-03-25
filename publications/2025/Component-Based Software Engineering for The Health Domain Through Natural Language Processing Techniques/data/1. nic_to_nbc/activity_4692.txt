@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+    "Medication List": {
+        "Parameters": {
+            "Medication Name": {"Type": "text"},
+            "Dosage": {"Type": "text"},
+            "Frequency": {"Type": "text"},
+            "Route": {"Type": "text"},
+            "Add Medication": {"Type": "button"},
+            "Edit Medication": {"Type": "button"},
+            "Delete Medication": {"Type": "button"}
+        }
+    }
+}

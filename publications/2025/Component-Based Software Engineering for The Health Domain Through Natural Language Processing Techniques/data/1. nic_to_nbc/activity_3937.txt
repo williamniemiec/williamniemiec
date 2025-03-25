@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+    "Privacy Reminder": {
+        "Name": {"Type": "text"},
+        "Content": {"Type": "text"},
+        "Frequency": {"Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+        "Deadline Date": {"Type": "datetime"}
+    }
+}

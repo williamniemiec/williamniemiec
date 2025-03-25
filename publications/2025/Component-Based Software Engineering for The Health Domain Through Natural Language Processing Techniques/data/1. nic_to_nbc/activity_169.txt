@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+    "noCodeElementName": "Symptom Tracker",
+    "parameterSpecifications": {
+        "Symptom": {"type": "text"},
+        "Severity": {"type": "options"},
+        "Frequency": {"type": "options"},
+        "Deadline Date": {"type": "datetime"}
+    }
+}

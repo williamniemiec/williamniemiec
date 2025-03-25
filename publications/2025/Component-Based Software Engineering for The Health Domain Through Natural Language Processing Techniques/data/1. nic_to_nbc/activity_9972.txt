@@ -1,0 +1,32 @@
+
+
+
+[
+    {
+        "name": "Interactive Guide",
+        "parameters": {
+            "name": "",
+            "content": "",
+            "hotspots": "",
+            "feedback": ""
+        }
+    },
+    {
+        "name": "Video Demonstration",
+        "parameters": {
+            "name": "",
+            "video": "",
+            "instructions": "",
+            "feedback": ""
+        }
+    },
+    {
+        "name": "Sleep Position Simulator",
+        "parameters": {
+            "name": "",
+            "simulation": "",
+            "feedback": "",
+            "tracking": ""
+        }
+    }
+]

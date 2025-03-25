@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Prenatal Class Invitation": {
+    "parameters": {
+      "Class Information": {"type": "text"},
+      "Benefits": {"type": "list of text"},
+      "Registration": {"type": "boolean"},
+      "Reminders": {"type": "boolean"},
+      "Incentives": {"type": "text"}
+    }
+  }
+}

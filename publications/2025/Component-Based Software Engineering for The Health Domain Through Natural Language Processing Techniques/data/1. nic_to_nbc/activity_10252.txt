@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+  "Warm Compress Guidance": {
+    "Parameters": {
+      "Instructions": {
+        "Type": "text or video"
+      },
+      "Frequency": {
+        "Options": ["everyContractions", "everyMinutes", "everyHours"]
+      },
+      "Duration": {
+        "Type": "time"
+      },
+      "Temperature": {
+        "Type": "temperature value (e.g., 98°F, 37°C)"
+      },
+      "Tips": {
+        "Type": "text"
+      }
+    }
+  }
+}
+
+
+Note that I removed the "Not Applicable" parameters as per your request. Let me know if you need any further assistance!

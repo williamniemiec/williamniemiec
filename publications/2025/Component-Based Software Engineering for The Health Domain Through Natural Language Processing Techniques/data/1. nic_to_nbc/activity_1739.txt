@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Reflection": {
+    "Parameters": {
+      "Prompt": {"Type": "text"},
+      "Answer Type": {"Type": "options", "Options": ["text", "rating scale", "multiple choice"]},
+      "Frequency": {"Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"Type": "datetime"}
+    }
+  }
+}
+
+
+Note: I removed the "Not Applicable" parameters as per your request.

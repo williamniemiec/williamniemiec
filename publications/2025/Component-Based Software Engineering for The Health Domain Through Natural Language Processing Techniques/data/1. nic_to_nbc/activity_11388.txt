@@ -1,0 +1,34 @@
+Here is the output in JSON format:
+
+
+{
+  "Relieve itching": {
+    "Relief method": {
+      "Description": "select the method to relieve itching",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        {"value": "administer medication", "label": "Administer medication"},
+        {"value": "apply calamine lotion", "label": "Apply calamine lotion"},
+        {"value": "apply baking soda paste", "label": "Apply baking soda paste"},
+        {"value": "bathe in colloidal oatmeal", "label": "Bathe in colloidal oatmeal"},
+        {"value": "other", "label": "Other (specify)"}
+      ]
+    },
+    "Frequency": {
+      "Description": "select how often to relieve itching",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        {"value": "as needed", "label": "As needed"},
+        {"value": "every hour", "label": "Every hour"},
+        {"value": "every 2 hours", "label": "Every 2 hours"},
+        {"value": "every 4 hours", "label": "Every 4 hours"},
+        {"value": "other", "label": "Other (specify)"}
+      ]
+    }
+  }
+}
+
+
+Note: I removed the parameters that are not applicable (i.e., `Medication`, `Lotion/paste application`, `Bathing instructions`, and `Deadline date`) as per your request.

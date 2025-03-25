@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+
+{
+  "Routine Tracker": {
+    "routine_name": "",
+    "routine_description": "",
+    "frequency": "",
+    "reminders": ""
+  }
+}

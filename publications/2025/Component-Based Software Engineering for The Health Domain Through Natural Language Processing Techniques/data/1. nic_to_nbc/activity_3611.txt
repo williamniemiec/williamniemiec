@@ -1,0 +1,12 @@
+
+
+
+{
+  "parameters": {
+    "Prep Solution Type": {},
+    "Evaporation Status": {},
+    "Verification Method": {},
+    "Verification Result": {}
+  },
+  "noCodeElementName": "Prep Solution Verification"
+}

@@ -1,0 +1,39 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Concern Expression",
+    "parameters": [
+        {
+            "name": "Concern Input",
+            "type": "text"
+        },
+        {
+            "name": "Emotional Support",
+            "type": "text"
+        },
+        {
+            "name": "Active Listening",
+            "type": "boolean"
+        },
+        {
+            "name": "Concern Categorization",
+            "type": "options",
+            "options": [
+                { value: "medical", label: "Medical" },
+                { value: "emotional", label: "Emotional" },
+                { value: "practical", label: "Practical" }
+            ]
+        },
+        {
+            "name": "Frequency",
+            "type": "options",
+            "options": [
+                { value: "daily", label: "Daily" },
+                { value: "onlyOnce", label: "Only Once" },
+                { value: "everyHours", label: "Every x Hours" },
+                { value: "everyDays", label: "Every x Days" }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Exposure Minimization": {
+    "Parameters": {
+      "Exposure Status": {"Type": "boolean"},
+      "Minimization Methods": {"Type": "list of text"},
+      "Procedure Type": {"Type": "text"},
+      "Prepping Time": {"Type": "number"},
+      "Procedure Time": {"Type": "number"},
+      "Notes": {"Type": "text"}
+    }
+  }
+}

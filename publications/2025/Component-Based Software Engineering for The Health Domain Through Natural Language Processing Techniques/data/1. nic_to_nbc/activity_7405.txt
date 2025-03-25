@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Sexuality and Contraception Guide": {
+    "Topic": {"type": "string", "options": ["sexuality", "contraception", "pregnancyPrevention", "other"]},
+    "Content": {"type": "HTML content or article"},
+    "Contraception Options": {"type": "list of contraception options"},
+    "Risks and Benefits": {"type": "list of risks and benefits for each contraception option"},
+    "Decision Support": {"type": "list of decision support tools or resources"},
+    "Frequency": {"type": "string", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"type": "datetime"}
+  }
+}

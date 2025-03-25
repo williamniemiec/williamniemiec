@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "Suicide Risk Assessment": {
+    "risk factors": "identification of risk factors for suicide (e.g., history of suicide attempts, mental health conditions, substance abuse)",
+    "risk level": "determination of the patient's risk level (e.g., low, moderate, high)"
+  },
+  "Ongoing Observation": {
+    "observation frequency": "frequency of observation (e.g., continuous, hourly, every 2 hours)",
+    "observation method": "method of observation (e.g., in-person, video monitoring, sensor data)"
+  },
+  "Protective Environment": {
+    "environment type": "type of environment (e.g., hospital room, crisis center, home)",
+    "safety features": "safety features of the environment (e.g., removal of hazardous objects, secure doors and windows)"
+  },
+  "Suicide Prevention Plan": {
+    "plan components": "components of the plan (e.g., ongoing observation, therapy sessions, medication management)",
+    "plan review": "review of the plan with the patient and healthcare team"
+  },
+  "Emergency Response": {
+    "emergency contact": "contact information for emergency services (e.g., crisis hotline, emergency room)",
+    "response protocol": "protocol for responding to a suicide attempt (e.g., call emergency services, administer first aid)"
+  }
+}

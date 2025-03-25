@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Wound Packing Instruction": {
+    "Name": {},
+    "Dressing Type": {},
+    "Packing Instructions": {},
+    "Photos or Videos": {},
+    "Frequency": {}
+  }
+}
+
+
+Note that I removed the `Deadline Date` parameter as it's not applicable in this context. Let me know if you have any further questions!

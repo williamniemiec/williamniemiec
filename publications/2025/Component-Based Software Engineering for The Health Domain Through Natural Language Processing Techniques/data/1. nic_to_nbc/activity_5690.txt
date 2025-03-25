@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+    "Personal Article Provision": {
+        "Parameters": {
+            "Article List": {
+                "Type": "checklist",
+                "Options": ["deodorant", "toothbrush", "bath soap", "shampoo", "conditioner", "razor"]
+            },
+            "Frequency": {
+                "Type": "options",
+                "Options": ["daily", "weekly", "monthly", "as needed"]
+            },
+            "Notes": {
+                "Type": "text"
+            }
+        }
+    }
+}

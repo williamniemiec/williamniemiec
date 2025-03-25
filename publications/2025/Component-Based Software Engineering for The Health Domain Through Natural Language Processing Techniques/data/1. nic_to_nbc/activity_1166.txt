@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+    "Medication Scheduling": {
+        "Parameters": {
+            "Medication Name": {"Type": "text"},
+            "Current Schedule": {"Type": "text"},
+            "Alternative Schedules": {"Type": "list of options"},
+            "Modality Options": {"Type": "list of options"},
+            "Lifestyle Considerations": {"Type": "list of options"},
+            "Recommended Schedule": {"Type": "text"},
+            "Rationale": {"Type": "text"}
+        }
+    }
+}

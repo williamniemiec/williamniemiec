@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+    "Selection": {
+        "parameters": {
+            "name": "Select appropriate blood specimen tube",
+            "options": "list of available blood specimen tubes (e.g., EDTA, Serum, Plasma, etc.)",
+            "type": "options",
+            "description": "Select the appropriate blood specimen tube for your test" 
+        }
+    },
+    "Guide": {
+        "parameters": {
+            "name": "Selecting the right blood specimen tube",
+            "pages": "list of HTML texts or interactive pages explaining the different types of blood specimen tubes and when to use each",
+            "type": "book-page"
+        }
+    }
+}

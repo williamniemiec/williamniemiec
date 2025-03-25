@@ -1,0 +1,35 @@
+Here is the output in JSON format:
+
+
+{
+  "Symptom Tracker": {
+    "Parameters": {
+      "Symptom type": "options",
+      "Severity level": "options",
+      "Frequency": "options",
+      "Notes": "text"
+    }
+  },
+  "Medication Reminder": {
+    "Parameters": {
+      "Medication name": "text",
+      "Dosage": "text",
+      "Frequency": "options",
+      "Reminder type": "options"
+    }
+  },
+  "Relaxation Techniques": {
+    "Parameters": {
+      "Technique type": "options",
+      "Audio/video content": "multimedia content",
+      "Duration": "options"
+    }
+  },
+  "Symptom Management Plan": {
+    "Parameters": {
+      "Symptom management strategy": "options",
+      "Plan details": "text",
+      "Review frequency": "options"
+    }
+  }
+}

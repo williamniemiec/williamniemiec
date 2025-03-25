@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Product Selection": {
+    "parameters": [
+      {"name": "Product List", "description": "A list of products to be evaluated, including their names, descriptions, and images."},
+      {"name": "Selection Type", "description": "A parameter that specifies whether the patient can select one or multiple products."},
+      {"name": "Evaluation Criteria", "description": "A list of criteria to be used for evaluating the selected products."},
+      {"name": "Frequency", "description": "A parameter that specifies how often the product selection should be repeated."},
+    ]
+  }
+}
+
+
+Note: I removed the `Deadline Date` parameter since it's not applicable (required:false). Let me know if you have any further questions!

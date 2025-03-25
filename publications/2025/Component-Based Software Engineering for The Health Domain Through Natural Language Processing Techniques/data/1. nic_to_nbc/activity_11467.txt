@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Education Module": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Content": {"Type": "multimedia"},
+      "Learning Objectives": {"Type": "list"},
+      "Quiz": {"Type": "form"},
+      "Resources": {"Type": "list"}
+    }
+  }
+}

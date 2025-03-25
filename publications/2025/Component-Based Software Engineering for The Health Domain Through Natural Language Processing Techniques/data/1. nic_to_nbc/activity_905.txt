@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+  "Tutorial": {
+    "name": {"type": "text"},
+    "steps": {"type": "tutorial-step"},
+    "examples": {"type": "example"},
+    "quiz": {"type": "quiz"}
+  },
+  "Video": {
+    "name": {"type": "text"},
+    "url": {"type": "url"}
+  },
+  "Guide": {
+    "name": {"type": "text"},
+    "pdf": {"type": "pdf"}
+  },
+  "Quiz": {
+    "name": {"type": "text"},
+    "questions": {"type": "quiz"}
+  }
+}

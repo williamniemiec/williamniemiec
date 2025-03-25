@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Overdose Assessment": {
+    "Substance": {},
+    "Amount": {},
+    "Time": {},
+    "Symptoms": {},
+    "Frequency": {}
+  }
+}

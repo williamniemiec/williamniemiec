@@ -1,0 +1,42 @@
+Here is the output in JSON format:
+
+
+{
+  "Precaution Guide": {
+    "Parameters": {
+      "Precaution List": {
+        "Type": "unordered list",
+        "Options": ["walking", "drinking plenty of fluids", "avoiding alcohol", "avoiding long periods of immobility"]
+      },
+      "Description": {
+        "Type": "text"
+      },
+      "Why": {
+        "Type": "text"
+      },
+      "Tips": {
+        "Type": "text"
+      },
+      "Resources": {
+        "Type": "link or text"
+      }
+    }
+  },
+  "Guide": {
+    "Parameters": {
+      "Name": {
+        "Type": "text"
+      },
+      "Pages": {
+        "Type": "book-page"
+      },
+      "Precaution List": {
+        "Type": "unordered list",
+        "Options": ["walking", "drinking plenty of fluids", "avoiding alcohol", "avoiding long periods of immobility"]
+      }
+    }
+  }
+}
+
+
+Let me know if you need any further modifications!

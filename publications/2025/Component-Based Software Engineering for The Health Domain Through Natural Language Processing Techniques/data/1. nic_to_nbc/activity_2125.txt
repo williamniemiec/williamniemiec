@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Sitting Down While Feeding": {
+    "parameters": [
+      {"Seating Arrangement": "A parameter that specifies the seating arrangement for the caregiver and patient"},
+      {"Body Language": "A parameter that specifies the body language cues to convey pleasure and relaxation"},
+      {"Verbal Cues": "A parameter that specifies the verbal cues to convey pleasure and relaxation"},
+      {"Meal Environment": "A parameter that specifies the meal environment to promote pleasure and relaxation"},
+      {"Monitoring": "A parameter that specifies the monitoring of the patient's response to the intervention"}
+    ]
+  }
+}

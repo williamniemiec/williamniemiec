@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Malignant Hyperthermia Emergency Kit": {
+    "Kit Contents": {"type": "list of text"},
+    "Expiration Dates": {"type": "list of datetime"},
+    "Storage Location": {"type": "text"},
+    "Inspection Schedule": {"type": "recurring schedule"},
+    "Protocol Compliance": {"type": "boolean"}
+  }
+}
+
+
+Let me know if this meets your requirements!

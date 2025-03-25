@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Accountability Reflection",
+  "parameters": [
+    {
+      "name": "situation"
+    },
+    {
+      "name": "actions"
+    },
+    {
+      "name": "responsibility"
+    },
+    {
+      "name": "lessons_learned"
+    }
+  ]
+}

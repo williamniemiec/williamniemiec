@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+    "Parameters": {
+        "Entries": {
+            "Description": "List of diaper change entries",
+            "Required": true,
+            "Type": "list",
+            "List": "list of entry objects",
+            "Entry object": {
+                "date": "datetime",
+                "type": "options",
+                "notes": "text"
+            }
+        },
+        "Frequency": {
+            "Description": "Frequency of diaper changes (e.g. every 2 hours, etc.)",
+            "Required": false,
+            "Type": "text"
+        }
+    },
+    "No-code Element Name": "Diaper Change Log"
+}

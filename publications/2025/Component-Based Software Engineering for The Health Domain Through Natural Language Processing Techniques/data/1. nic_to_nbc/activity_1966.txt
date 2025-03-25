@@ -1,0 +1,67 @@
+Here is the output in JSON format:
+
+
+[
+  {
+    "name": "Symptom Checker",
+    "parameters": {
+      "name": "Symptom Checker",
+      "description": "Please report any symptoms you are experiencing",
+      "content_type": "form",
+      "required": true,
+      "type": "options",
+      "options": [
+        { "value": "dizziness", "label": "Dizziness" },
+        { "value": "syncope", "label": "Syncope" },
+        { "value": "palpitations", "label": "Palpitations" },
+        { "value": "chest_pain", "label": "Chest Pain" },
+        { "value": "shortness_of_breath", "label": "Shortness of Breath" },
+        { "value": "none", "label": "None" }
+      ]
+    }
+  },
+  {
+    "name": "Frequency Tracker",
+    "parameters": {
+      "name": "Symptom Frequency",
+      "description": "Please track the frequency of your symptoms",
+      "content_type": "form",
+      "required": true,
+      "type": "frequency",
+      "options": [
+        { "value": "daily", "label": "Daily" },
+        { "value": "weekly", "label": "Weekly" },
+        { "value": "monthly", "label": "Monthly" }
+      ]
+    }
+  },
+  {
+    "name": "Severity Tracker",
+    "parameters": {
+      "name": "Symptom Severity",
+      "description": "Please track the severity of your symptoms",
+      "content_type": "form",
+      "required": true,
+      "type": "severity",
+      "options": [
+        { "value": "mild", "label": "Mild" },
+        { "value": "moderate", "label": "Moderate" },
+        { "value": "severe", "label": "Severe" }
+      ]
+    }
+  },
+  {
+    "name": "Outpatient Contact Tracker",
+    "parameters": {
+      "name": "Outpatient Contact Tracker",
+      "description": "Please track each outpatient contact and report any symptoms",
+      "content_type": "form",
+      "required": true,
+      "type": "outpatient_contact",
+      "options": [
+        { "value": "yes", "label": "Yes" },
+        { "value": "no", "label": "No" }
+      ]
+    }
+  }
+]

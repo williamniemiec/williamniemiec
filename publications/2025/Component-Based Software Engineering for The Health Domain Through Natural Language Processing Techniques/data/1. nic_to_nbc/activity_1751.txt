@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+    "Saline Soak": {
+        "Name": {"type": "text"},
+        "Instructions": {"type": "text"},
+        "Saline Concentration": {"type": "options", "options": ["0.9%", "1.8%", "other"]},
+        "Soak Duration": {"type": "text"},
+        "Soak Frequency": {"type": "options", "options": ["daily", "everyHours", "everyDays", "onlyOnce"]},
+        "Deadline Date": {"type": "datetime"},
+        "Soak Technique": {"type": "text"},
+        "Additional Tips": {"type": "text"}
+    }
+}

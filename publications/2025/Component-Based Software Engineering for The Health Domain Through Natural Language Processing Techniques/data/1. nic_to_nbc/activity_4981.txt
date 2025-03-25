@@ -1,0 +1,39 @@
+Here is the output in JSON format:
+
+
+{
+  "Circulation Appraisal": {
+    "name": {"type": "text"},
+    "pulse_check": {"type": "list of text items"},
+    "edema_assessment": {
+      "type": "object",
+      "properties": {
+        "edema_location": {"type": "text"},
+        "edema_severity": {"type": "text"}
+      }
+    },
+    "capillary_refill": {
+      "type": "object",
+      "properties": {
+        "capillary_refill_time": {"type": "text"}
+      }
+    },
+    "skin_temperature": {
+      "type": "object",
+      "properties": {
+        "skin_temperature_value": {"type": "text"}
+      }
+    },
+    "diaphoresis_assessment": {
+      "type": "object",
+      "properties": {
+        "diaphoresis_location": {"type": "text"},
+        "diaphoresis_severity": {"type": "text"}
+      }
+    },
+    "image": {"type": "image URL or base64-encoded image"}
+  }
+}
+
+
+Note that I removed the not applicable parameters and only kept the `{{ NO-CODE ELEMENT NAME }}` and `{{ PARAMETER ESPECIFICATIONS }}`. Let me know if this meets your requirements!

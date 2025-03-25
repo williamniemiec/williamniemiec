@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Lab Result Tracker": {
+    "parameters": {
+      "Name": {"type": "text"},
+      "Unit": {"type": "text"},
+      "Frequency": {"type": "options"},
+      "Deadline Date": {"type": "datetime"},
+      "Result": {"type": "number"}
+    }
+  }
+}

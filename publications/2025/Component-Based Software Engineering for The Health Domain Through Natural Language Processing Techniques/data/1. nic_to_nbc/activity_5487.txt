@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Deposition Materials": {
+    "Materials to Avoid": {
+      "type": "options"
+    },
+    "Attorney Instruction": {
+      "type": "boolean"
+    },
+    "Reminder Message": {
+      "type": "text"
+    }
+  }
+}

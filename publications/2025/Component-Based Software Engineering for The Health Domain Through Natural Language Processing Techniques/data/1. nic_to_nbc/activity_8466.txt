@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+  "Goal Setting": {
+    "parameters": {
+      "Goal Description": {
+        "type": "text",
+        "required": true
+      },
+      "Target Date": {
+        "type": "datetime",
+        "required": true
+      },
+      "Action Steps": {
+        "type": "unordered list",
+        "required": true
+      },
+      "Frequency of Progress Tracking": {
+        "type": "options",
+        "options": ["daily", "weekly", "monthly"],
+        "required": true
+      }
+    }
+  }
+}

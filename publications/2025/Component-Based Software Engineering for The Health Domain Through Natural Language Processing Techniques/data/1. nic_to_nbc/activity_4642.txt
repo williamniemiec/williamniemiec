@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Anaphylaxis Tracker": {
+    "parameters": {
+      "Symptom Checker": {},
+      "Time of Last Episode": {},
+      "Reoccurrence Risk": {},
+      "Alerts and Reminders": {}
+    }
+  }
+}

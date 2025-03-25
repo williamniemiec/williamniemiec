@@ -1,0 +1,10 @@
+Here is the output in JSON format:
+
+
+{
+  "Remove Flammable Prep Agents": {
+    "Removal Method": {"type": "options"},
+    "Removal Confirmation": {"type": "boolean"},
+    "Additional Instructions": {"type": "text"}
+  }
+}

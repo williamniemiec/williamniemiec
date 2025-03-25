@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Health History": {
+    "parameters": [
+      {"Health Habits": {"type": ["text", "multiple choice"]}},
+      {"Risk Factors": {"type": ["text", "multiple choice"]}},
+      {"Medications": {"type": ["text", "multiple choice"]}},
+      {"Medical History": {"type": ["text", "multiple choice"]}},
+      {"Allergies": {"type": ["text", "multiple choice"]}},
+      {"Health History Tracker": {"type": ["table", "graph"]}},
+      {"Medication Reminder": {"type": ["notification", "alert"]}},
+      {"Health Risk Assessment": {"type": ["text", "graph"]}}
+    ]
+  }
+}

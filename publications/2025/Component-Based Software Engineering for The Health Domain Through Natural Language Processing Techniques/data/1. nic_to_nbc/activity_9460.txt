@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+    "Eye Contact Exercise": {
+        "Exercise Instructions": {"type": "text"},
+        "Video Demonstration": {"type": "video"},
+        "Practice Scenarios": {"type": "list of text"},
+        "Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+        "Deadline Date": {"type": "datetime"}
+    }
+}

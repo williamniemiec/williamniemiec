@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "Reassuring Message": {
+    "Message": {
+      "Description": "A calming and reassuring message to be displayed to the patient.",
+      "Required": true,
+      "Type": "text"
+    },
+    "Tone": {
+      "Description": "The tone of the message (e.g. calm, empathetic, encouraging).",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "calm", "label": "Calm" },
+        { "value": "empathetic", "label": "Empathetic" },
+        { "value": "encouraging", "label": "Encouraging" }
+      ]
+    }
+  }
+}
+
+
+Note that I removed the `Image` parameter since it's not applicable (i.e., its `Required` field is set to `false`).

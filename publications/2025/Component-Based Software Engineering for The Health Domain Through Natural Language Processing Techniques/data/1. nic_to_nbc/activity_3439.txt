@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Dietary Guidance": {
+    "Parameters": {
+      "Dietary Recommendations": {"Type": "text"},
+      "Food List": {"Type": "unordered list", "Options": ["green leafy vegetables", "etc."]},
+      "Importance": {"Type": "text"},
+      "Medication Adjustment": {"Type": "text"},
+      "Resources": {"Type": "link or text"}
+    }
+  },
+  "Guide": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Pages": {"Type": "book-page", "book-page": "list of HTML texts"},
+      "Dietary Recommendations": {"Type": "text"}
+    }
+  }
+}

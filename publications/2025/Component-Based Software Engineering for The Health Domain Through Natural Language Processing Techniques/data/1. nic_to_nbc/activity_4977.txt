@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Genetic Counseling Referral": {
+    "parameters": [
+      {"name": "reason", "description": "Reason for referral", "required": true, "type": "text", "value": "Malignant Hyperthermia Risk"},
+      {"name": "provider", "description": "Genetic counseling provider", "required": true, "type": "text", "value": "Genetic Counselor"},
+      {"name": "contactInfo", "description": "Contact information for the provider", "required": true, "type": "contact info", "value": {"phone": "555-555-5555", "email": "geneticcounselor@example.com", "address": "123 Main St, Anytown, USA"}}
+    ]
+  }
+}

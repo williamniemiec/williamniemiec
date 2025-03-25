@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+  "Spiritual Support Resource": {
+    "Parameters": {
+      "Resource Type": {
+        "Type": "options",
+        "Options": [
+          {"value": "supportGroup", "label": "Support Group"},
+          {"value": "mutualSelfHelp", "label": "Mutual Self-Help"},
+          {"value": "spirituallyBasedProgram", "label": "Spiritually Based Program"}
+        ]
+      },
+      "Resource Name": {"Type": "text"},
+      "Description": {"Type": "text"},
+      "Contact Information": {"Type": "text"},
+      "Meeting Schedule": {"Type": "text"},
+      "Resources": {"Type": "text or link"}
+    }
+  }
+}

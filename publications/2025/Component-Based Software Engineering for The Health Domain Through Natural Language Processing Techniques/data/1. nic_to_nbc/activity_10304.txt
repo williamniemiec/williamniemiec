@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Move Plan": {
+    "Parameters": {
+      "Move Type": {},
+      "Move Method": {},
+      "Assistance Needed": {},
+      "Device Needed": {},
+      "Additional Notes": {}
+    }
+  }
+}

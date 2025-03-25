@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+    "Proprioception Exercise": {
+        "Name": {"Type": "text"},
+        "Description": {"Type": "text"},
+        "Exercise Instructions": {"Type": ["text", "video"]},
+        "Duration": {"Type": "numeric"},
+        "Interval": {"Type": "options", "Options": ["daily", "everyHours", "everyDays"]},
+        "Frequency": {"Type": "options", "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+        "Deadline Date": {"Type": "datetime"},
+        "Safety Precautions": {"Type": "text"},
+        "Progress Tracking": {"Type": ["text", "rating scale"]}
+    }
+}

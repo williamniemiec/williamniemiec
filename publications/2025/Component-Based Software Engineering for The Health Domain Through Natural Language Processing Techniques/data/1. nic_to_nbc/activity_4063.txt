@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Resource": {
+    "Parameters": {
+      "Title": {"Type": "text"},
+      "Content": {"Type": ["HTML", "PDF"]},
+      "Format": {"Type": ["brochure", "pamphlet", "article"]},
+      "Topic": {"Type": ["nutrition", "safety", "development"]},
+      "Language": {"Type": ["English", "Spanish", "French"]}
+    }
+  }
+}

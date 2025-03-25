@@ -1,0 +1,35 @@
+Here is the output in JSON format:
+
+
+{
+  "Pain Relief Tracker": {
+    "Parameters": {
+      "Pain Assessment": {"Type": ["number", "text"]},
+      "Pain Relief Options": {"Type": "unordered list"},
+      "Comfort Measures": {"Type": "unordered list"},
+      "Tracking Method": {"Type": ["text", "options list"]},
+      "Reminders": {"Type": ["datetime", "frequency"]}
+    }
+  },
+  "Pain Diary": {
+    "Parameters": {
+      "pain diary frequency": {},
+      "pain diary method": {}
+    }
+  },
+  "Relaxation Techniques": {
+    "Parameters": {
+      "relaxation technique type": {},
+      "relaxation technique frequency": {}
+    }
+  },
+  "Comfort Measure Tracker": {
+    "Parameters": {
+      "comfort measure tracker frequency": {},
+      "comfort measure tracker method": {}
+    }
+  }
+}
+
+
+Let me know if this is what you were looking for!

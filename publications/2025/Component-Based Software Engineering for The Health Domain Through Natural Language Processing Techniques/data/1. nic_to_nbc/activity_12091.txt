@@ -1,0 +1,30 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "instruction",
+    "parameters": [
+        { 
+            "name": "title", 
+            "description": "instruction title"
+        },
+        { 
+            "name": "content", 
+            "description": "instruction content"
+        },
+        { 
+            "name": "rationale", 
+            "description": "rationale for removing dentures"
+        },
+        { 
+            "name": "frequency", 
+            "description": "how often to wear dentures",
+            "options": [
+                { value: "onlyMeals", label: "Only for meals" }
+            ]
+        }
+    ]
+}
+
+
+Note that I removed the `required` and `type` fields as they were not specified in the problem statement. If you need those fields, let me know!

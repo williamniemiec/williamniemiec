@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Umbilical Catheter Insertion": {
+    "Indications": {"type": "options"},
+    "Insertion Instructions": {"type": "text or multimedia"},
+    "Catheter Type": {"type": "options"},
+    "Insertion Confirmation": {"type": "boolean"}
+  }
+}

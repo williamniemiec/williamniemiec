@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Decision Support Tool": {
+    "Parameters": {
+      "Search Criteria": [],
+      "Provider List": [],
+      "Comparison Tool": [],
+      "Recommendations": [],
+      "Appointment Scheduling": []
+    }
+  }
+}

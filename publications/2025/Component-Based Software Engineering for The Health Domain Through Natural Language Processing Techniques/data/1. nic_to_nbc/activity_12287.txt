@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Team Communication": {
+    "Consequences": {"type": "text"},
+    "Behavioral Expectations": {"type": "text"},
+    "Treatment Team": {"type": "list of user IDs or roles"},
+    "Communication Method": {"type": "secure messaging, email, or collaboration platform"},
+    "Consistency Check": {"type": "boolean value or consistency score"},
+    "Care Continuity": {"type": "care continuity score or tracking log"}
+  }
+}

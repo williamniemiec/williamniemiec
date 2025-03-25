@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Parent Participation Guide": {
+    "Checklist Items": {"type": "list (text)"},
+    "Interactive Elements": {"type": "interactive elements (e.g., checkbox, toggle, slider)"},
+    "Tips and Reminders": {"type": "text"},
+    "Frequency": {"type": "options (e.g., daily, onlyOnce, everyHours, everyDays)"},
+    "Deadline Date": {"type": "datetime"}
+  }
+}

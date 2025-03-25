@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Nausea Prevention Plan": {
+    "Techniques": {"type": "list of options"},
+    "Timing": {"type": "options"},
+    "Frequency": {"type": "options"},
+    "Reminders": {"type": "boolean or schedule"},
+    "Tracking": {"type": "boolean or rating scale"}
+  }
+}

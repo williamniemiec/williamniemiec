@@ -1,0 +1,30 @@
+Here is the output in JSON format:
+
+
+{
+  "Preparation Guide": {
+    "Test Name": {
+      "Description": "Name of the diagnostic test",
+      "Required": true,
+      "Type": "text"
+    },
+    "Test Description": {
+      "Description": "Description of the diagnostic test",
+      "Required": true,
+      "Type": "text"
+    },
+    "Preparation Steps": {
+      "Description": "List of steps to prepare for the diagnostic test",
+      "Required": true,
+      "Type": "unordered list"
+    },
+    "What to Expect": {
+      "Description": "Information about what to expect during the diagnostic test",
+      "Required": true,
+      "Type": "text"
+    }
+  }
+}
+
+
+I removed the not applicable parameters (Frequently Asked Questions) since they are marked as `Required: false`. Let me know if this is correct!

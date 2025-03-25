@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+    "Fluid Intake Tracker": {
+        "parameters": {
+            "Fluid Intake": {"type": "number"},
+            "Unit": {"type": "options", "options": ["cups", "oz", "mL"]},
+            "Goal Intake": {"type": "number"}
+        }
+    },
+    "Urinary Output Tracker": {
+        "parameters": {
+            "Urinary Output": {"type": "number"},
+            "Unit": {"type": "options", "options": ["cups", "oz", "mL"]},
+            "Goal Output": {"type": "number"}
+        }
+    },
+    "Hydration Assessment": {
+        "parameters": {
+            "Skin Turgor": {"type": "options", "options": ["normal", "decreased", "increased"]},
+            "Mucous Membranes": {"type": "options", "options": ["moist", "dry", "sticky"]},
+            "Hydration Status": {"type": "visualization"}
+        }
+    }
+}

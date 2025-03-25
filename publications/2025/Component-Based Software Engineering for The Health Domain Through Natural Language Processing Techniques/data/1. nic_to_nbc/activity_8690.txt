@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Rest and Sleep Reminder": {
+    "Parameters": {
+      "Rest and Sleep Goal": {"Type": "text"},
+      "Reminder Message": {"Type": "text"},
+      "Frequency": {"Type": "options", "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"Type": "datetime"},
+      "Nap Schedule": {"Type": "list of text"},
+      "Relaxation Techniques": {"Type": "list of text"}
+    }
+  }
+}

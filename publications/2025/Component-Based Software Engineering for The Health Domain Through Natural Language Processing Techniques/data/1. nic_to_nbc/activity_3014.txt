@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Suturing Method Selection": {
+    "Wound Type": {"Type": "text"},
+    "Wound Location": {"Type": "text"},
+    "Wound Size": {"Type": "text"},
+    "Tissue Type": {"Type": "text"},
+    "Suturing Method": {"Type": "options"},
+    "Rationale": {"Type": "text"},
+    "Additional Instructions": {"Type": "text"}
+  }
+}

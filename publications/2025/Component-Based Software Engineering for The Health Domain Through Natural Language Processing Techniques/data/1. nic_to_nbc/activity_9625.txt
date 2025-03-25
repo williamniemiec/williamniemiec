@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Allergy Notification": {
+        "Parameters": {
+            "Allergy List": {},
+            "Caregiver List": {},
+            "Healthcare Provider List": {},
+            "Notification Method": {},
+            "Notification Frequency": {}
+        }
+    }
+}

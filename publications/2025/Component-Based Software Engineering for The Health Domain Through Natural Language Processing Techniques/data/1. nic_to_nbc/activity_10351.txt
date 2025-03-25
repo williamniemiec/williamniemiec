@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Risk Assessment": {
+    "Age": {"type": "number"},
+    "Age at First Pregnancy": {"type": "number"},
+    "Age at Menarche": {"type": "number"},
+    "Age at Menopause": {"type": "number"},
+    "Family History": {"type": "boolean|string"},
+    "History of Breast Disease": {"type": "boolean|string"},
+    "Parity Status": {"type": "options"},
+    "History of Breastfeeding": {"type": "boolean|string"}
+  }
+}
+
+
+Let me know if this meets your requirements!

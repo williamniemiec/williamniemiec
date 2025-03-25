@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Social Skills Trainer": {
+    "Parameters": [
+      {"Name": {"Type": "text"}},
+      {"Skill Type": {"Type": "options", "Options": ["Communication skills", "Conflict resolution", "Boundary setting", "Active listening", "Other"]}},
+      {"Lesson Content": {"Type": "rich text"}},
+      {"Practice Exercise": {"Type": "text"}},
+      {"Reflection Question": {"Type": "text"}},
+      {"Goal": {"Type": "text"}},
+      {"Frequency": {"Type": "options", "Options": ["daily", "every other day", "weekly", "monthly"]}},
+      {"Deadline Date": {"Type": "datetime"}}
+    ]
+  }
+}

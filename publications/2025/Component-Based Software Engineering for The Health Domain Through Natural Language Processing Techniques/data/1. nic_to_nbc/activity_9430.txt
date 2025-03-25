@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+  "Mental State Assessment": {
+    "mood": "text",
+    "thoughts": "text",
+    "feelings": "text"
+  },
+  "Physical State Assessment": {
+    "clothing": "text",
+    "dirt_and_debris": "boolean",
+    "injuries": "text"
+  },
+  "Incident History": {
+    "description": "text",
+    "date_and_time": "datetime",
+    "location": "text"
+  },
+  "Evidence of Violence": {
+    "physical_evidence": "boolean",
+    "other_evidence": "text"
+  },
+  "Gynecological History": {
+    "obstetric_history": "text",
+    "gynecological_problems": "text"
+  }
+}

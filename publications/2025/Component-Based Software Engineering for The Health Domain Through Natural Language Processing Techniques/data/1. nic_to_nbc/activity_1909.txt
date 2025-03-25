@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+    "environment_description": {
+        "parameters": [
+            { 
+                "name": "environment_type", 
+                "description": "select type of environment" 
+            },
+            { 
+                "name": "description", 
+                "description": "record an audio description of the environment" 
+            }
+        ]
+    }
+}

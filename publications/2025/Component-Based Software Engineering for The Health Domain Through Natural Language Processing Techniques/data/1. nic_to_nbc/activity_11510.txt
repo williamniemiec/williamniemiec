@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+    "Oral Antiseptic Consideration": {
+        "Head Injury Severity": {"type": "options", "options": ["severe", "moderate", "mild"]},
+        "Providence-Iodine Consideration": {"type": "text"},
+        "Antiseptic Use Confirmation": {"type": "boolean", "options": ["yes", "no"]},
+        "Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+        "Deadline Date": {"type": "datetime"}
+    }
+}
+
+
+Note that I removed the `Confirmation` parameter as it's not applicable, and also reformatted the output to make it more readable. Let me know if you need any further adjustments!

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Self-Care Assessment": {
+    "parameters": {
+      "Name": {"type": "text"},
+      "Activities": {"type": "unordered list"},
+      "Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"type": "datetime"},
+      "Rating Scale": {"type": "options", "options": [{"value": "1-5", "label": "1-5 scale"}, {"value": "yes/no", "label": "Yes/No"}]}
+    }
+  }
+}

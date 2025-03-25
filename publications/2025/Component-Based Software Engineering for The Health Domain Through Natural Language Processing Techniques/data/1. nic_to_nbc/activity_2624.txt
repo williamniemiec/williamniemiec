@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+    "Catheter Cleaning": {
+        "Instructions": {"type": "text or unordered list"},
+        "Frequency": {"options": ["daily", "everyHours", "everyDays"]},
+        "Cleaning Solution": {"options": ["soap and water", "antibacterial wipes", "other"]},
+        "Meatus Location": {"type": "text"},
+        "Tracking": {"type": "boolean"}
+    }
+}

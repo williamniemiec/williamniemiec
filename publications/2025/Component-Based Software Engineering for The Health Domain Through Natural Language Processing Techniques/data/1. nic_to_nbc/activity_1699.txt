@@ -1,0 +1,70 @@
+Here is the output in JSON format:
+
+
+{
+    "review": {
+        "parameters": [
+            { 
+                "name": "title", 
+                "description": "review title", 
+                "required": true, 
+                "type": "text"
+            },
+            { 
+                "name": "record", 
+                "description": "continence record to review", 
+                "required": true, 
+                "type": "log",
+                "log": {
+                    "name": "continence_log",
+                    "description": "log of continence data",
+                    "required": true,
+                    "type": "list",
+                    "list": [
+                        {
+                            "name": "date",
+                            "description": "date of continence data",
+                            "required": true,
+                            "type": "datetime"
+                        },
+                        {
+                            "name": "outcome",
+                            "description": "outcome of continence data (e.g. successful, unsuccessful, etc.)",
+                            "required": true,
+                            "type": "options",
+                            "options": [
+                                { value: "successful", label: "Successful" },
+                                { value: "unsuccessful", label: "Unsuccessful" },
+                                { value: "other", label: "Other" }
+                            ]
+                        }
+                    ]
+                }
+            },
+            { 
+                "name": "frequency", 
+                "description": "specify how often the review should be conducted", 
+                "required": true, 
+                "type": "options",
+                "options": [
+                    { value: "weekly", label: "Weekly" },
+                    { value: "asNeeded", label: "As needed" }
+                ]
+            },
+            { 
+                "name": "staff", 
+                "description": "list of staff members to involve in the review", 
+                "required": true, 
+                "type": "list",
+                "list": [
+                    {
+                        "name": "staff_member",
+                        "description": "staff member name",
+                        "required": true,
+                        "type": "text"
+                    }
+                ]
+            }
+        ]
+    }
+}

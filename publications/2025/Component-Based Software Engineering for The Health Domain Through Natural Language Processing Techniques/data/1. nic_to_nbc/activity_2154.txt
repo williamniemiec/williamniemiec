@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Amniotomy Education": {
+    "Procedure Explanation": {"type": "text"},
+    "Indications": {"type": "options"},
+    "Preparation": {"type": "text"},
+    "Post-Procedure Care": {"type": "text"}
+  }
+}

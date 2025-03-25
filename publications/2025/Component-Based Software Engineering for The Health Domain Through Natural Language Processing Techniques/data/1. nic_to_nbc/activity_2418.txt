@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Device Instruction": {
+    "parameters": {
+      "Device Selection": {"type": "options"},
+      "Instructional Content": {"type": "multimedia"},
+      "Step-by-Step Guide": {"type": "form"},
+      "Safety Precautions": {"type": "text"},
+      "Practice Exercises": {"type": "form"},
+      "Frequency": {"type": "options"},
+      "Deadline Date": {"type": "datetime"}
+    }
+  }
+}

@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Immobilization Device": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Device Type": {"Type": "options"},
+      "Body Part": {"Type": "options"},
+      "Instructions": {"Type": ["text", "video"]},
+      "Frequency": {"Type": "options"},
+      "Deadline Date": {"Type": "datetime"}
+    }
+  }
+}

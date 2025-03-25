@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+  "Nausea Relief": {
+    "parameters": {
+      "Pressure Technique": {
+        "type": ["fingers", "knuckles", "wristbands"]
+      },
+      "Pressure Duration": {
+        "type": ["text", "numeric value (with unit of time)"]
+      },
+      "Nausea Assessment": {
+        "type": ["numeric value", "text (with nausea rating scale)"]
+      },
+      "Relief Criteria": {
+        "type": ["text", "options (nausea subsides, symptom reduction)"]
+      },
+      "Wristband Settings": {
+        "type": ["text", "numeric value (with unit of pressure)"]
+      },
+      "Frequency": {
+        "type": ["daily", "onlyOnce", "everyHours", "everyDays"]
+      }
+    }
+  }
+}

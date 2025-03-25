@@ -1,0 +1,43 @@
+Here is the output in JSON format:
+
+
+{
+  "Group Game": {
+    "Game Type": {
+      "type": "options",
+      "options": [
+        {"value": "boardGame", "label": "Board Game"},
+        {"value": "cardGame", "label": "Card Game"},
+        {"value": "physicalActivity", "label": "Physical Activity"},
+        {"value": "other", "label": "Other"}
+      ]
+    },
+    "Game Description": {
+      "type": "text"
+    },
+    "Game Rules": {
+      "type": ["text", "video"]
+    },
+    "Number of Players": {
+      "type": "number"
+    },
+    "Duration": {
+      "type": "time"
+    },
+    "Frequency": {
+      "type": "options",
+      "options": [
+        {"value": "daily", "label": "Daily"},
+        {"value": "onlyOnce", "label": "Only once"},
+        {"value": "everyHours", "label": "Every x hours"},
+        {"value": "everyDays", "label": "Every x days"}
+      ]
+    },
+    "Deadline Date": {
+      "type": "datetime"
+    },
+    "Resources": {
+      "type": ["file", "URL"]
+    }
+  }
+}

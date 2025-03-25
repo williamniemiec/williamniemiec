@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+    "Five Rights Verification": {
+        "Name": {"type": "text"},
+        "Content": {"type": "text"},
+        "Rights Checklist": {"type": "list", "items": ["Right drug", "Right dose", "Right patient", "Right route", "Right frequency"]},
+        "Example": {"type": "text or image"}
+    }
+}

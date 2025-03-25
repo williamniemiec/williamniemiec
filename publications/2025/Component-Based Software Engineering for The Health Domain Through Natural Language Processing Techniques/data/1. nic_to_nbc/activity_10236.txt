@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Concern Explorer": {
+    "parameters": {
+      "Concern Entry": {"type": "text"},
+      "Emotion Identification": {"type": "options", "options": ["angry", "sad", "worried", "frustrated", "scared", "other"]},
+      "Exploration Questions": {"type": "list of text"},
+      "Reflection and Insights": {"type": "text"}
+    }
+  }
+}
+
+
+I removed the `Frequency` parameter since it's not applicable to the no-code element itself, but rather to the journal that can be created using this element.

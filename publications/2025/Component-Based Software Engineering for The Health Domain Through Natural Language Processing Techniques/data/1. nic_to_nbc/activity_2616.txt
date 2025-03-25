@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Unbreakable and Weighted Dishes and Glasses": {
+    "parameters": [
+      {"name": "Name", "type": "text"},
+      {"name": "Type", "type": "options", "options": ["plate", "bowl", "cup", "glass"]},
+      {"name": "Material", "type": "options", "options": ["plastic", "ceramic", "glass"]},
+      {"name": "Weight", "type": "number"},
+      {"name": "Image", "type": "image"},
+      {"name": "Instructions", "type": "text"},
+      {"name": "Necessity", "type": "boolean"}
+    ]
+  }
+}

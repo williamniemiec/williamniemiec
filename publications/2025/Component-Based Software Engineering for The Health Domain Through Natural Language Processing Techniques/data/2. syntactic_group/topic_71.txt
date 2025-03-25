@@ -1,0 +1,10 @@
+{
+  "name": "Behavioral Observation and Rating",
+  "description": "Tracks and identifies behavioral patterns, focusing on wandering, aggression, and habitual behaviors. Includes rating systems for behavior severity and period monitoring.",
+  "type": "periodic",
+  "input": ["Behavioral observations", "Behavior identification", "Wandering and aggression patterns", "Rating scales", "Behavioral period tracking"],
+  "output": ["Behavior report", "Aggression and wandering analysis", "Behavioral rating summary"],
+  "preconditions": ["User is tracking or monitoring behaviors over a period"],
+  "postconditions": ["Identified behavioral patterns and severity ratings"],
+  "dependencies": ["Behavior tracking system", "Rating tools", "Observation platforms"]
+}

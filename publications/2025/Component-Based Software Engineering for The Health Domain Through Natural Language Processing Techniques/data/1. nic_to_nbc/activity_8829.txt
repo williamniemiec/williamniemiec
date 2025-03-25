@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Medication Non-Adherence Consequences": {
+        "parameters": [
+            {"name": "Name", "type": "text"},
+            {"name": "Consequences", "type": "list of text"},
+            {"name": "Medication Name", "type": "text"},
+            {"name": "Frequency", "type": "options"},
+            // removed Deadline Date as it's not applicable (required: false)
+        ]
+    }
+}

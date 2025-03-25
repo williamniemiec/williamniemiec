@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Coping Skills": {
+    "parameters": {
+      "Coping Skills List": {"type": "list of coping skills (text)"},
+      "Skill Descriptions": {"type": "list of skill descriptions (text)"},
+      "Exercises": {"type": "list of exercise descriptions (text)"},
+      "Frequency": {"type": "options"}
+    }
+  }
+}

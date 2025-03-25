@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Instruction": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Content": {"Type": ["text", "video"]},
+      "Frequency": {"Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"Type": "datetime"},
+      "Additional Resources": {"Type": "list of resources"}
+    }
+  }
+}
+
+
+Let me know if this meets your requirements!

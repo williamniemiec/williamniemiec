@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Fall and Injury Response Instruction": {
+    "parameters": [
+      {"Response Steps": ""},
+      {"Emergency Services Access": ""},
+      {"Injury Prevention": ""},
+      {"Caregiver Instructions": ""}
+    ]
+  }
+}

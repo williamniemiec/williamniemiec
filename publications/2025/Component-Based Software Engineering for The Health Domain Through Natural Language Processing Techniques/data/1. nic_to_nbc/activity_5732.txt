@@ -1,0 +1,45 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "log",
+    "parameters": [
+        { 
+            "name": "title", 
+            "description": "log title", 
+            "required": true, 
+            "type": "text"
+        },
+        { 
+            "name": "fields", 
+            "description": "list of fields to log", 
+            "required": true, 
+            "type": "list",
+            "list": [
+                {
+                    "name": "date",
+                    "description": "date of toileting session",
+                    "required": true,
+                    "type": "datetime"
+                },
+                {
+                    "name": "outcome",
+                    "description": "outcome of toileting session (e.g. successful, unsuccessful, etc.)",
+                    "required": true,
+                    "type": "options",
+                    "options": [
+                        { value: "successful", label: "Successful" },
+                        { value: "unsuccessful", label: "Unsuccessful" },
+                        { value: "other", label: "Other" }
+                    ]
+                },
+                {
+                    "name": "notes",
+                    "description": "additional notes about the toileting session",
+                    "required": false,
+                    "type": "text"
+                }
+            ]
+        }
+    ]
+}

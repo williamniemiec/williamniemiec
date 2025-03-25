@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Hypoglycemia Prevention Guide": {
+    "Decision Tree": {"Type": "decision-tree", "Description": "Decision tree to guide patients in making self-care decisions to prevent hypoglycemia"},
+    "Insulin/Oral Agents Adjustment": {"Type": "text", "Description": "Information on how to adjust insulin/oral agents to prevent hypoglycemia"},
+    "Food Intake Adjustment": {"Type": "text", "Description": "Information on how to adjust food intake to prevent hypoglycemia"},
+    "Exercise Planning": {"Type": "text", "Description": "Information on how to plan exercise to prevent hypoglycemia"},
+    "Hypoglycemia Risk Assessment": {"Type": "quiz", "Description": "Risk assessment tool to identify patients at risk of hypoglycemia"},
+    "Frequency": {"Type": "options", "Description": "Specify how often the patient should review the hypoglycemia prevention guide"}
+  }
+}
+
+
+Note that I removed the `Deadline Date` parameter since it's not required. Let me know if you need any further modifications!

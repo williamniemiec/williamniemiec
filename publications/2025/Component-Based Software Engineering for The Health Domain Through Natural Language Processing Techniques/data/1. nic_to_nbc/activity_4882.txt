@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Communication Plan": {
+    "Expectation Summary": {},
+    "Communication Objectives": {},
+    "Communication Strategies": {},
+    "Frequency": {},
+    "Deadline Date": {}
+  },
+  "Reflection Question": {
+    "Question": {},
+    "Answer Type": {},
+    "Frequency": {},
+    "Deadline Date": {}
+  }
+}

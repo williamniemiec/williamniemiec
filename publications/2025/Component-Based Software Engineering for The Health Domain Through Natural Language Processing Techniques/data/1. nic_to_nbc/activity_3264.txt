@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+
+{
+  "Medication": {
+    "name": {"type": "text"},
+    "medication_type": {"type": "options"},
+    "dosage": {"type": "text"},
+    "frequency": {"type": "options"},
+    "duration": {"type": "text"}
+  }
+}

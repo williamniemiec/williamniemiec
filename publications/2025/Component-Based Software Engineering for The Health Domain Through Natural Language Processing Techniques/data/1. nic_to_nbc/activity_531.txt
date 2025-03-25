@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Compression Therapy Education": {
+    "parameters": [
+      {"name": "compression_therapy_benefits", "description": "What are the benefits of compression therapy?", "required": true, "type": "text", "value": "Compression therapy helps to reduce swelling, improve circulation, and promote healing."},
+      {"name": "compression_therapy_importance", "description": "Why is compression therapy important for your condition?", "required": true, "type": "text", "value": "Compression therapy is important for managing your condition because it helps to reduce the risk of complications and promotes faster healing."}
+    ]
+  },
+  "Compression Therapy Instructions": {
+    "parameters": [
+      {"name": "compression_therapy_steps", "description": "What are the steps to follow for compression therapy?", "required": true, "type": "list", "value": ["Wrap the compression bandage around your leg, starting from the ankle and moving up towards the knee.", "Make sure the bandage is not too tight or too loose.", "Check the bandage regularly to ensure it is not causing any discomfort or skin irritation."]}
+    ]
+  }
+}

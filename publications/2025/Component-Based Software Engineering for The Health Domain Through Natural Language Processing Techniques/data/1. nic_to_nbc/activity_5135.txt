@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "Developmental Guide": {
+    "Overview": {
+      "Description": "brief overview of developmental considerations in preterm infants",
+      "Required": true,
+      "Type": "text"
+    },
+    "Developmental Milestones": {
+      "Description": "list of developmental milestones for preterm infants, including cognitive, motor, and language skills",
+      "Required": true,
+      "Type": "list of text and images"
+    },
+    "Tips and Strategies": {
+      "Description": "tips and strategies for parents to support their preterm infant's development",
+      "Required": true,
+      "Type": "list of text and images"
+    }
+  }
+}
+
+
+I removed the non-applicable parameters (Resources and Q&A) since they are not required. Let me know if you need any further assistance!

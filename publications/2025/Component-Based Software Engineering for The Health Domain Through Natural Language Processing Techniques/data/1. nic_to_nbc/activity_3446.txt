@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "Nail Care Assistance": {
+    "parameters": {
+      "Self-Care Ability": {
+        "type": "options",
+        "values": ["Independent", "Assistance Needed", "Unable"]
+      },
+      "Nail Care Frequency": {
+        "type": "options",
+        "values": ["Daily", "Weekly", "Monthly", "Custom"]
+      },
+      "Nail Care Reminders": {
+        "type": "boolean"
+      },
+      "Nail Care Assistance Type": {
+        "type": "options",
+        "values": ["Verbal Reminders", "Visual Aids", "Physical Assistance", "Other"]
+      }
+    }
+  }
+}

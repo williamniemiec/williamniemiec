@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Bicarbonate Excess Monitor": {
+    "name": {"type": "text"},
+    "condition_type": {"type": "options"},
+    "bicarbonate_level": {"type": "number"},
+    "threshold_values": {"type": "object"},
+    "frequency": {"type": "options"},
+    "notes": {"type": "text"}
+  }
+}

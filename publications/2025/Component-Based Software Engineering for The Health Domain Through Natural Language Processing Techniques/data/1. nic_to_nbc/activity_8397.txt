@@ -1,0 +1,37 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Challenge Acceptance",
+    "parameters": [
+        {
+            "name": "challenges",
+            "type": "list of text"
+        },
+        {
+            "name": "reasons",
+            "type": "list of text"
+        },
+        {
+            "name": "benefits",
+            "type": "list of text"
+        },
+        {
+            "name": "support_system",
+            "type": "list of text"
+        },
+        {
+            "name": "commitment",
+            "type": "list of number"
+        },
+        {
+            "name": "frequency",
+            "type": "options",
+            "options": [
+                { value: "daily" },
+                { value: "weekly" },
+                { value: "monthly" }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+Here is the output in JSON format:
+
+
+{
+  "Neuromuscular Monitoring": {
+    "Muscle Tone": {
+      "Name": "Muscle Tone",
+      "Description": "Enter current muscle tone (e.g. normal, increased, decreased)",
+      "Required": true,
+      "Type": "options",
+      "Options": ["normal", "increased", "decreased", "other"]
+    },
+    "Motor Movement": {
+      "Name": "Motor Movement",
+      "Description": "Enter current motor movement (e.g. normal, impaired, absent)",
+      "Required": true,
+      "Type": "options",
+      "Options": ["normal", "impaired", "absent", "other"]
+    },
+    "Gait": {
+      "Name": "Gait",
+      "Description": "Enter current gait (e.g. normal, abnormal, assisted)",
+      "Required": true,
+      "Type": "options",
+      "Options": ["normal", "abnormal", "assisted", "other"]
+    },
+    "Proprioception": {
+      "Name": "Proprioception",
+      "Description": "Enter current proprioception (e.g. normal, impaired, absent)",
+      "Required": true,
+      "Type": "options",
+      "Options": ["normal", "impaired", "absent", "other"]
+    },
+    "Frequency": {
+      "Name": "Frequency",
+      "Description": "Specify how often to monitor muscle tone, motor movement, gait, and proprioception",
+      "Required": true,
+      "Type": "options",
+      "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+    }
+  }
+}

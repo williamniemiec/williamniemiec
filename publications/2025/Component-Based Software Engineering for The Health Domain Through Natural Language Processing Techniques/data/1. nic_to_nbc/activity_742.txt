@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Hypoglycemia Review": {
+    "Title": {"Description": "Title of the hypoglycemia review form", "Required": true, "Type": "text"},
+    "Questions": {"Description": "List of questions to ask the patient to review events prior to hypoglycemia", "Required": true, "Type": "unordered list"},
+    "Answer Type": {"Description": "Type of answer expected for each question (e.g. text, checkbox, etc.)", "Required": true, "Type": "options", "Options": [{"value": "text", "label": "Text"}, {"value": "checkbox", "label": "Checkbox"}, {"value": "radio", "label": "Radio"}]},
+    "Submit Button": {"Description": "Label for the submit button", "Required": true, "Type": "text"}
+  }
+}

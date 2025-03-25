@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Assessment": {
+    "assessment title": {},
+    "Task Description": {},
+    "Assessment Criteria": {},
+    "Rating Scale": {},
+    "Frequency": {},
+    "Deadline Date": {}
+  }
+}
+
+
+Note that I removed all parameters with `Required: false` (in this case, only `"Deadline Date"`). Let me know if you want to keep them as well.

@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+  "Orthostatic Vital Sign Monitoring": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Vital Signs": {"Type": "options"},
+      "Position": {"Type": "options"},
+      "Frequency": {"Type": "options"},
+      "Deadline Date": {"Type": "datetime"},
+      "Notes": {"Type": "text"},
+      "Reference Ranges": {"Type": "options"},
+      "Alert Threshold": {"Type": "options"}
+    }
+  }
+}
+
+
+I removed all unnecessary text and kept only the `{{ NO-CODE ELEMENT NAME }}` and `{{ PARAMETER ESPECIFICATIONS }}`. I also formatted the parameters as a JSON object with their corresponding types.

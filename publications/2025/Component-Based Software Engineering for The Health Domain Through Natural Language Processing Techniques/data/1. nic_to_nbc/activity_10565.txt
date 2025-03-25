@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "Massage Encouragement": {
+    "Parameters": {
+      "Massage Benefits": {
+        "Type": "text",
+        "Example": "Massaging your baby can help promote relaxation, reduce stress and anxiety, and support their physical and emotional development."
+      },
+      "Massage Techniques": {
+        "Type": "list of text",
+        "Example": ["Gently stroke your baby's head, back, and arms", "Use gentle pressure to massage your baby's legs and feet", "Knead your baby's tummy to help with digestion"]
+      },
+      "Visual Aids": {
+        "Type": "media (image or video)"
+      },
+      "Frequency": {
+        "Type": "options",
+        "Options": ["as often as possible", "at least once a day", "during bath time or before bed"]
+      }
+    }
+  }
+}

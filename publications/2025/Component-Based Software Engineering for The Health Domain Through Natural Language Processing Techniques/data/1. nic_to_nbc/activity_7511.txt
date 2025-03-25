@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Sibling Involvement": {
+    "parameters": {
+      "Sibling Roles": {"type": "list of options or text"},
+      "Activity Ideas": {"type": "list of options or links to resources"},
+      "Goal Setting": {"type": "text or checklist"},
+      "Task Assignment": {"type": "task list or schedule"},
+      "Progress Tracking": {"type": "journal or log"}
+    }
+  }
+}
+
+
+Note: I removed the `Reminders and Notifications` parameter because its type is a boolean (yes/no) or frequency, which doesn't provide any specific information about the element.

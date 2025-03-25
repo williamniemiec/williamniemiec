@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Financial Counseling",
+  "parameters": [
+    {
+      "name": "Content",
+      "type": "text or multimedia"
+    },
+    {
+      "name": "Resources",
+      "type": "list of URLs or text"
+    },
+    {
+      "name": "Frequency",
+      "type": "options"
+    },
+    {
+      "name": "Deadline Date",
+      "type": "datetime"
+    }
+  ]
+}

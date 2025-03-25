@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Caregiver Profile": {
+    "parameters": [
+      {"name": "Caregiver Information", "type": "text", "required": true},
+      {"name": "Profile Picture", "type": "image", "required": true},
+      {"name": "Introduction", "type": "text", "required": true},
+      {"name": "Non-Threatening Image", "type": "unordered list", "required": true}
+    ]
+  }
+}
+
+
+Let me know if this meets your requirements!

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Bath Personalizer": {
+    "Parameters": {
+      "Bathing Preferences": {},
+      "Cultural Traditions": {},
+      "Bath Products": {},
+      "Bath Frequency": {},
+      "Special Requests": {}
+    }
+  }
+}

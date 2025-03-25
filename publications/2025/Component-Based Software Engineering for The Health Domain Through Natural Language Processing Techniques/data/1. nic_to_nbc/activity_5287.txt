@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Water Safety Alert": {
+    "alert title": {},
+    "reason": {},
+    "safety_measures": {},
+    "affected_areas": {},
+    "action": {}
+  }
+}

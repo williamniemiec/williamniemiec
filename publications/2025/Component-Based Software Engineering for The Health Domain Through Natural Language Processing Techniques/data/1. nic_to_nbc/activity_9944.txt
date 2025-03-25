@@ -1,0 +1,24 @@
+
+
+
+{
+  "Glasgow Coma Scale Assessment": {
+    "Parameters": {
+      "Title": {"Type": "text"},
+      "Instructions": {"Type": "text"},
+      "Assessment Fields": {"Type": "list of fields"},
+      "Assessment Scale": {"Type": "options", "Options": ["Categorical scale", "Numerical scale", "etc."]},
+      "GCS Score": {"Type": "numerical"},
+      "Additional Notes": {"Type": "text"}
+    }
+  },
+  "Glasgow Coma Scale Monitoring": {
+    "Parameters": {
+      "Title": {"Type": "text"},
+      "Monitoring Frequency": {"Type": "options", "Options": ["daily", "weekly", "biweekly", "monthly"]},
+      "Assessment Fields": {"Type": "list of fields"},
+      "Monitoring Scale": {"Type": "options", "Options": ["Categorical scale", "Numerical scale", "etc."]},
+      "Alert Thresholds": {"Type": "list of thresholds"}
+    }
+  }
+}

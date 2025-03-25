@@ -1,0 +1,10 @@
+{
+  "name": "Structured Form Submission for Personal Data",
+  "description": "Involves submitting structured personal data through forms. Includes fields for first and last names, birth date, and assistant-related information. The process follows a predefined template.",
+  "type": "non-periodic",
+  "input": ["Personal information", "Form fields", "Structured submission", "Data collection template"],
+  "output": ["Form submission confirmation", "Personal data recorded"],
+  "preconditions": ["User is submitting personal data"],
+  "postconditions": ["Data stored and processed in structured format"],
+  "dependencies": ["Form management system", "Data storage platform"]
+}

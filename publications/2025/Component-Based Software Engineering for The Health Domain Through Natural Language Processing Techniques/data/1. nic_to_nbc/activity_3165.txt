@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Resistance Strategies Trainer": {
+    "parameters": [
+      {"Unhealthy Behavior": {"type": "options", "options": ["substance abuse", "reckless driving", "unhealthy eating", "other"]}},
+      {"Resistance Strategies": {"type": "options", "options": ["cognitive-behavioral techniques", "mindfulness", "self-monitoring", "social support", "other"]}},
+      {"Teaching Method": {"type": "options", "options": ["in-person", "online", "group", "individual", "other"]}},
+      {"Practice Exercises": {"type": "options", "options": ["role-playing", "scenario-based exercises", "journaling", "other"]}},
+      {"Follow-up Support": {"type": "options", "options": ["regular check-ins", "support groups", "online resources", "other"]}},
+      {"Notes": {"type": "text"}}
+    ]
+  }
+}

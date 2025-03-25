@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "IV Fluid Administration": {
+    "Fluid Type": {"Type": "options"},
+    "Dosage": {"Type": "text or numerical value"},
+    "Rate": {"Type": "text or numerical value"},
+    "Duration": {"Type": "text or numerical value"},
+    "Prescription": {"Type": "text"}
+  }
+}

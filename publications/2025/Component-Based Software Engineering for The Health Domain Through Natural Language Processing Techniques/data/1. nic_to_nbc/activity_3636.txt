@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Word Repetition": {
+    "parameters": [
+      {"Name": {"type": "text"}},
+      {"Instructions": {"type": "text"}},
+      {"Word List": {"type": "unordered list"}},
+      {"Tips": {"type": "text"}},
+      {"Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]}}
+    ]
+  }
+}

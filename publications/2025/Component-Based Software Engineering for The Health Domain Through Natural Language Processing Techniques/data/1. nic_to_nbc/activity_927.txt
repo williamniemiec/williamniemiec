@@ -1,0 +1,13 @@
+
+
+
+{
+    "Transfer Assessment": {
+        "Reason for Transfer": {"Type": "text"},
+        "Current Treatment": {"Type": "text"},
+        "Receiving Facility": {"Type": "text"},
+        "Benefits of Transfer": {"Type": "text"},
+        "Risks of Transfer": {"Type": "text"},
+        "Comparison of Benefits and Risks": {"Type": "options"}
+    }
+}

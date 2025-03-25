@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+    "Sleep Cycle Manager": {
+        "parameters": [
+            {"name": "Sleep Schedule", "type": "options"},
+            {"name": "Relaxation Techniques", "type": "options"},
+            {"name": "Medications", "type": "options"},
+            {"name": "Caffeine Limitation", "type": "options"},
+            {"name": "Frequency", "type": "options"},
+            {"name": "Deadline Date", "type": "datetime"},
+            {"name": "Notes", "type": "text"}
+        ]
+    }
+}

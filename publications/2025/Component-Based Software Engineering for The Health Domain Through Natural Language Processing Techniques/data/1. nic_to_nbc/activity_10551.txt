@@ -1,0 +1,30 @@
+Here is the output in JSON format:
+
+
+{
+  "Recommendation List": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Items": {"Type": "list of text, image, or video"},
+      "Description": {"Type": "text"},
+      "Priority": {"Type": "low, medium, high"},
+      "Resources": {"Type": "URL, PDF, or other file types"}
+    }
+  },
+  "Checklist": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Items": {"Type": "list of text, image, or video"},
+      "Description": {"Type": "text"},
+      "Priority": {"Type": "low, medium, high"},
+      "Resources": {"Type": "URL, PDF, or other file types"}
+    }
+  },
+  "Virtual Home Assessment": {
+    "Parameters": {
+      "Room": {"Type": "text"},
+      "Hazards": {"Type": "list of text, image, or video"},
+      "Recommendations": {"Type": "list of text, image, or video"}
+    }
+  }
+}

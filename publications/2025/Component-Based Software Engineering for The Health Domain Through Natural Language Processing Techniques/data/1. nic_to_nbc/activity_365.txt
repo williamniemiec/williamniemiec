@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Transport Warming": {
+        "Warming Device": {"type": "options", "options": ["heated isolette", "transport incubator", "etc."]},
+        "Temperature Setting": {"type": "number"},
+        "Transport Route": {"type": "text"},
+        "Transport Time": {"type": "number"},
+        "Monitoring": {"type": "options", "options": ["continuous", "every 5 minutes", "every 10 minutes", "etc."]},
+        "Notes": {"type": "text"}
+    }
+}

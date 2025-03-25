@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Feedback": {
+    "Questions": {"Type": "list of questions with options"},
+    "Target Audience": {"Type": "options"},
+    "Frequency": {"Type": "options"}
+  },
+  "Iteration": {
+    "Change Log": {"Type": "list of changes with descriptions"},
+    "Version Number": {"Type": "numeric value"},
+    "Release Notes": {"Type": "text"}
+  }
+}

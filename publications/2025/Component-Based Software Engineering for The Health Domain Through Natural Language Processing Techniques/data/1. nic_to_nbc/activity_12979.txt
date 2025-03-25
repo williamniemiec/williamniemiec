@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+{
+    "name": "Parenting Skills Tracker",
+    "parameters": [
+        {
+            "name": "Parenting Skill",
+            "type": "options"
+        },
+        {
+            "name": "Frequency of Use",
+            "type": "options"
+        },
+        {
+            "name": "Effectiveness Rating",
+            "type": "rating scale"
+        },
+        {
+            "name": "Reflection",
+            "type": "text"
+        },
+        {
+            "name": "Frequency",
+            "type": "options"
+        }
+    ]
+}

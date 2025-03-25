@@ -1,0 +1,32 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "constipation prevention guide",
+    "parameters": [
+        { 
+            "name": "title", 
+            "description": "title of the educational content", 
+            "required": true, 
+            "type": "text"
+        },
+        { 
+            "name": "content", 
+            "description": "educational content on preventing constipation and stool impaction", 
+            "required": true, 
+            "type": "html"
+        },
+        { 
+            "name": "tips", 
+            "description": "list of tips to prevent constipation and stool impaction", 
+            "required": true, 
+            "type": "list",
+            "list": [
+                { "label": "Increase fiber intake", "description": "Eat foods high in fiber such as fruits, vegetables, and whole grains" },
+                { "label": "Stay hydrated", "description": "Drink plenty of water throughout the day" },
+                { "label": "Exercise regularly", "description": "Regular physical activity can help stimulate bowel movements" },
+                { "label": "Avoid foods that can cause constipation", "description": "Limit or avoid foods that can cause constipation such as dairy products, processed foods, and sugar" }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Pacifier Maintenance": {
+    "parameters": {
+      "Cleaning Instructions": {
+        "type": "text or multimedia content (e.g., image, video)"
+      },
+      "Single Patient Use": {
+        "type": "boolean (yes/no)"
+      },
+      "Contamination Prevention": {
+        "type": "text or multimedia content (e.g., image, video)"
+      },
+      "Frequency": {
+        "options": ["daily", "every X hours", "etc."]
+      }
+    }
+  }
+}

@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "Humorous Visualization": {
+    "Parameters": {
+      "Scenario prompt": {
+        "Type": "text",
+        "Example": "Picture a strict teacher wearing a clown nose and oversized shoes."
+      },
+      "Visualization guidance": {
+        "Type": "text"
+      },
+      "Emotional response": {
+        "Type": "scale",
+        "Example": "1-5, where 1 is not amused and 5 is very amused"
+      },
+      "Customization options": {
+        "Type": "options",
+        "Options": ["add a funny hat", "change the setting", "etc."]
+      }
+    }
+  }
+}

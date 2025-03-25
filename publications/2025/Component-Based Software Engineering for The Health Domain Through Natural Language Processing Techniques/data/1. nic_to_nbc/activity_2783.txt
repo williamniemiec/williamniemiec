@@ -1,0 +1,20 @@
+Here is the output JSON:
+
+
+{
+    "name": "Environmental Safety Assessment",
+    "parameters": [
+        {
+            "name": "Safety Risks",
+            "type": "checklist"
+        },
+        {
+            "name": "Environmental Modifications",
+            "type": "checklist"
+        },
+        {
+            "name": "Frequency of Assessment",
+            "type": "options"
+        }
+    ]
+}

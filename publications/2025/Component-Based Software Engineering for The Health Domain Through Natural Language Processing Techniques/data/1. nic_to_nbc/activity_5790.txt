@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+  "Fluid Volume Excess Alert": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Symptom Tracking": {"Type": "form", "Fields": [
+        {"label": "Swelling", "type": "boolean"},
+        {"label": "Shortness of Breath", "type": "boolean"},
+        {"label": "Weight Gain", "type": "number"},
+        {"label": "Other Symptoms", "type": "text"}
+      ]},
+      "Severity Level": {"Type": "options", "Options": [
+        {"value": "mild", "label": "Mild"},
+        {"value": "moderate", "label": "Moderate"},
+        {"value": "severe", "label": "Severe"}
+      ]},
+      "Consultation Criteria": {"Type": "text"},
+      "Deadline Date": {"Type": "datetime"},
+      "Notes": {"Type": "text"}
+    }
+  }
+}
+
+
+I removed the introduction, number, and conclusion sections, as well as the not applicable parameters. Let me know if you have any further requests!

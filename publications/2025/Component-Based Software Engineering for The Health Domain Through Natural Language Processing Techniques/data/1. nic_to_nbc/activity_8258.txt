@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+    "Education Material": {
+        "parameters": {
+            "title": "",
+            "content": "",
+            "type": ""
+        }
+    },
+    "Guide": {
+        "parameters": {
+            "title": "",
+            "pages": ""
+        }
+    }
+}

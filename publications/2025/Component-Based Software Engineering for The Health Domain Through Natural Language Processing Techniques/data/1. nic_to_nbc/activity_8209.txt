@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Daily Activity Assistance Toolkit": {
+    "parameters": {
+      "name": "",
+      "categories": [],
+      "tools": [],
+      "customization": "",
+      "frequency": ""
+    }
+  }
+}
+
+
+Note that I removed `deadline_date` as it was marked as optional, and there is no provided value for it. Also, the values for the parameters are empty strings or arrays as they were not specified in the input text.

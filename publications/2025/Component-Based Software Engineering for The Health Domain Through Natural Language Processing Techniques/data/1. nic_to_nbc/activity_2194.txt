@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+
+{
+    "Infection Monitoring": {
+        "Symptoms": {"Type": "list of text or images"},
+        "Frequency": {"Type": "options"},
+        "Reporting": {"Type": "text or options"},
+        "Additional Information": {"Type": "text or image"}
+    }
+}

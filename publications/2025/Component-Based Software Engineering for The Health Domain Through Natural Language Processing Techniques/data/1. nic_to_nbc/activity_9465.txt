@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Cast Care Education": {
+        "cast_type": {},
+        "care_instructions": {},
+        "video": {}
+    }
+}
+
+
+Note: I removed the `Tips` parameter since it's not required, and only kept the required parameters. Let me know if you need any further adjustments!

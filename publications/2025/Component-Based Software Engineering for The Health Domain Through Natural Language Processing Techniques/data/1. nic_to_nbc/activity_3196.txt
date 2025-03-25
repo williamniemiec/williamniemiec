@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Familiarity Alert": {
+    "Situation Type": {"type": "options"},
+    "Alert Message": {"type": "text"},
+    "Frequency": {"type": "options"},
+    "Alternative Options": {"type": "list of text"}
+  }
+}
+
+
+Note: I removed the `Deadline Date` parameter as it was specified as "datetime" which is not applicable in this context.

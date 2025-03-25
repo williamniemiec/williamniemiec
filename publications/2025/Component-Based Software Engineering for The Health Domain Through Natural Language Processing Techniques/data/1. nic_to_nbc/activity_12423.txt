@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+  "Electrolyte Tracker": {
+    "Phosphate Level": {"type": "numerical value"},
+    "Calcium Level": {"type": "numerical value"},
+    "Potassium Level": {"type": "numerical value"},
+    "Sodium Level": {"type": "numerical value"},
+    "Symptoms": {"type": "list", "values": ["Tetany", "Metastatic calcifications", "Hypotension", "Hyperkalemia", "Hypernatremia"]},
+    "Notes": {"type": "text"}
+  },
+  "Lab Result Tracker": {
+    "Lab Results": {"type": "numerical values"},
+    "Test Dates": {"type": "date"},
+    "Notes": {"type": "text"}
+  }
+}
+
+Let me know if you need any further assistance!

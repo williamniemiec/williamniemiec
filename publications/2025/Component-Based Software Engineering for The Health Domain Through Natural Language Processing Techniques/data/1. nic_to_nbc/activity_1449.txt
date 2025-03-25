@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+
+{
+  "Oral Hygiene Tip": {
+    "Parameters": {
+      "Title": {
+        "Type": "text",
+        "Description": "Enter a title for the oral hygiene tip (e.g., \"Choose the Right Toothbrush\")"
+      },
+      "Content": {
+        "Type": "text",
+        "Description": "Enter the content of the oral hygiene tip (e.g., \"Using a soft-bristle toothbrush can help reduce gum irritation and promote healthy teeth and gums.\")"
+      },
+      "Image": {
+        "Type": "image",
+        "Description": "Upload an image to illustrate the oral hygiene tip (e.g., an image of a soft-bristle toothbrush)"
+      }
+    }
+  }
+}

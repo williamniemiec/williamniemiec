@@ -1,0 +1,23 @@
+
+
+
+{
+  "Consciousness Assessment": {
+    "Parameters": {
+      "Title": {},
+      "Instructions": {},
+      "Assessment Fields": {},
+      "Assessment Scale": {},
+      "Additional Notes": {}
+    }
+  },
+  "Consciousness Monitoring": {
+    "Parameters": {
+      "Title": {},
+      "Monitoring Frequency": {},
+      "Assessment Fields": {},
+      "Monitoring Scale": {},
+      "Alert Thresholds": {}
+    }
+  }
+}

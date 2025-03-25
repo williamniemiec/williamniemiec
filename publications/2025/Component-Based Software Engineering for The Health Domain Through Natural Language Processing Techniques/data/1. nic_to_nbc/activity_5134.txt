@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Reminder": {
+        "Parameters": {
+            "Name": {"Type": "text"},
+            "Content": {"Type": "text"},
+            "Trigger": {"Type": "options", "Options": ["at specific time", "when entering treatment chair", "when starting treatment"]},
+            "Frequency": {"Type": "options", "Options": ["onlyOnce", "every treatment", "daily"]}
+        }
+    }
+}

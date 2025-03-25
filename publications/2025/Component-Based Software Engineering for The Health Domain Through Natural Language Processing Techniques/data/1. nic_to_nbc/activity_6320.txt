@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Inventory Management": {
+    "Item": {"type": "text"},
+    "Quantity": {"type": "number"},
+    "Reorder Point": {"type": "number"},
+    "Reorder Quantity": {"type": "number"},
+    "Budget": {"type": "number"},
+    "Alert Threshold": {"type": "number"},
+    "Notes": {"type": "text"}
+  }
+}

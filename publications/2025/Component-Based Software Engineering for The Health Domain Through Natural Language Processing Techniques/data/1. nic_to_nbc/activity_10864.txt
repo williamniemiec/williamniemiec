@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Seasonal Orientation": {
+    "parameters": {
+      "seasonal_cues": {
+        "type": "list",
+        "description": "A list of seasonal cues, e.g., \"holiday decorations\", \"seasonal decorations and activities\", \"access to contained, out-of-doors area\", etc."
+      },
+      "seasonal_activities": {
+        "type": "list",
+        "description": "A list of seasonal activities, e.g., \"go for a winter walk\", \"plant spring flowers\", \"have a summer picnic\", etc."
+      },
+      "seasonal_media": {
+        "type": "media",
+        "description": "A collection of seasonal images or videos, e.g., winter landscapes, spring flowers, summer sunsets, etc."
+      }
+    }
+  }
+}

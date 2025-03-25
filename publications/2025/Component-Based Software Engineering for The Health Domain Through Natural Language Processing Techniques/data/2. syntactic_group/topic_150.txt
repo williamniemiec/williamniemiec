@@ -1,0 +1,10 @@
+{
+  "name": "Question and Answer Survey with Binary Responses",
+  "description": "Involves conducting surveys where questions are answered with binary responses (e.g., yes/no). The survey includes options for clarification and provides an option to submit responses.",
+  "type": "periodic",
+  "input": ["Survey questions", "Binary answers", "Response button", "Clarification request"],
+  "output": ["Survey response submission", "Clarification message", "Feedback on answers"],
+  "preconditions": ["User is answering survey questions"],
+  "postconditions": ["Survey completion and data collection"],
+  "dependencies": ["Survey tool", "Questionnaire platform", "Data collection system"]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Audio Recording",
+  "description": "Enables users to record and manage audio content, generate scripts, and customize recording settings. Supports scheduled or on-demand recordings with adjustable tone and frequency.",
+  "type": "non-periodic",
+  "input": [
+    "Audio",
+    "Recording",
+    "Script",
+    "Only once",
+    "Every hours",
+    "Custom preferences"
+  ],
+  "output": [
+    "Audio recording",
+    "Generated script",
+    "Recording settings log"
+  ],
+  "preconditions": [
+    "User is generating or recording audio content"
+  ],
+  "postconditions": [
+    "Audio recordings are created according to the script and preferences"
+  ],
+  "dependencies": [
+    "Audio recording system",
+    "Script management tools"
+  ]
+}

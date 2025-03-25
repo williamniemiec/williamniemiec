@@ -1,0 +1,23 @@
+
+
+
+[
+  {
+    "name": "Fluid Intake Tracker",
+    "parameters": {
+      "name": "Fluid Intake",
+      "unit": "",
+      "goal": "",
+      "frequency": ""
+    }
+  },
+  {
+    "name": "Reminder",
+    "parameters": {
+      "name": "Fluid Restriction Reminder",
+      "message": "",
+      "frequency": "",
+      "deadline_date": ""
+    }
+  }
+]

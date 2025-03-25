@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Fullness Assessment": {
+    "Title": {"type": "text"},
+    "Signs of Fullness": {"type": "checklist or questionnaire", "example signs": ["Closing mouth", "Not taking in more milk", "Change in infant state (e.g., becoming sleepy or relaxed)", "Infant not responding to verbal or tactile stimulation"]},
+    "Frequency": {"type": "options", "options": ["every feeding", "every 2 hours", "every 4 hours", "etc."]},
+    "Threshold": {"type": "number"}
+  }
+}

@@ -1,0 +1,42 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Emotional Expression",
+    "parameters": [
+        { 
+            "name": "Name", 
+            "type": "text"
+        },
+        { 
+            "name": "Description", 
+            "type": "text"
+        },
+        { 
+            "name": "Journaling Prompt", 
+            "type": "text"
+        },
+        { 
+            "name": "Audio/Video Recording", 
+            "type": "audio/video"
+        },
+        { 
+            "name": "Frequency", 
+            "type": "options",
+            "options": [
+                { value: "daily" },
+                { value: "onlyOnce" },
+                { value: "everyHours" },
+                { value: "everyDays" }
+            ]
+        },
+        { 
+            "name": "Deadline Date", 
+            "type": "datetime"
+        },
+        { 
+            "name": "Notes", 
+            "type": "text"
+        }
+    ]
+}

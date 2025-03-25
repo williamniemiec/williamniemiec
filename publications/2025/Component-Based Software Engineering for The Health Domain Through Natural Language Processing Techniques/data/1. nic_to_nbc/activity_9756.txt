@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+    "Vital Sign Monitoring": {
+        "parameters": [
+            {"Name": "name", "type": "text"},
+            {"Description": "description", "type": "text"},
+            {"Vital Sign": "vital sign", "type": "options"},
+            {"Monitoring Frequency": "monitoring frequency", "type": "options"},
+            {"Abnormality Threshold": "abnormality threshold", "type": "number"},
+            {"Alert Criteria": "alert criteria", "type": "text"},
+            {"Instructions": "instructions", "type": "text"}
+        ]
+    }
+}

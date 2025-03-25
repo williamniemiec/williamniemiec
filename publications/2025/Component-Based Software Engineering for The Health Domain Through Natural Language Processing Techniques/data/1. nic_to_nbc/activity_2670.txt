@@ -1,0 +1,10 @@
+Here is the output in JSON format:
+
+
+{
+  "Physician Request": {
+    "Request Reason": "",
+    "Urgency Level": "",
+    "Preferred Contact Method": ""
+  }
+}

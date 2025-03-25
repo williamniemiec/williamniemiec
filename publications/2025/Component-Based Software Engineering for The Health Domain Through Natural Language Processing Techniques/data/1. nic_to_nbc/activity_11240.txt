@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "Oral Health Restoration Plan": {
+    "plan title": {"Description": "title of the oral health restoration plan", "Required": true, "Type": "text"},
+    "Oral Health Restoration Activities": {"Description": "list of recommended oral health restoration activities", "Required": true, "Type": "checkbox", "Options": [
+      {"value": "artificialSaliva", "label": "Artificial saliva"},
+      {"value": "salivaStimulants", "label": "Saliva stimulants"},
+      {"value": "nonAlcoholMouthSpray", "label": "Non-alcohol-based mouth sprays"},
+      {"value": "sugarlessMints", "label": "Sugarless mints"},
+      {"value": "fluorideTreatments", "label": "Fluoride treatments"},
+      {"value": "other", "label": "Other (please specify)"}
+    ]},
+    "Instructions": {"Description": "step-by-step instructions for each oral health restoration activity", "Required": true, "Type": "text"},
+    "Frequency": {"Description": "specify how often to use each oral health restoration activity", "Required": true, "Type": "options", "Options": [
+      {"value": "daily", "label": "Daily"},
+      {"value": "twiceADay", "label": "Twice a day"},
+      {"value": "weekly", "label": "Weekly"}
+    ]}
+  }
+}
+
+
+Let me know if this is what you were expecting!

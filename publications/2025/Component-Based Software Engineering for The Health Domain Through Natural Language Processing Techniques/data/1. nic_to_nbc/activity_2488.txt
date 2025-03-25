@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+  "Device Self-Care Guide": {
+    "Parameters": {
+      "Device Type": {
+        "Type": ["text", "options"]
+      },
+      "Self-Care Instructions": {
+        "Type": ["text", "multimedia"]
+      },
+      "Device Maintenance": {
+        "Type": ["text", "interactive module"]
+      },
+      "Troubleshooting": {
+        "Type": ["text", "interactive module"]
+      },
+      "Emergency Procedures": {
+        "Type": ["text", "interactive module"]
+      },
+      "FAQs": {
+        "Type": ["text", "interactive module"]
+      }
+    }
+  }
+}

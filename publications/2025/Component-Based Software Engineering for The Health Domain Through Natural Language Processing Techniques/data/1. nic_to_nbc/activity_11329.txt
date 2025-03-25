@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Wound Care Guide": {
+    "Parameters": {
+      "Title": {"Type": "text", "Required": true},
+      "Steps": {"Type": "list of text or video", "Required": true}
+    }
+  }
+}

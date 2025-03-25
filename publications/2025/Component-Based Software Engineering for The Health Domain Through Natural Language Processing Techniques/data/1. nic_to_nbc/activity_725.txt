@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Assessment Scoring": {
+    "parameters": {
+      "Assessment Instrument": {"type": "text or options"},
+      "Data Source": {"type": "text or options"},
+      "Scoring Algorithm": {"type": "text or options"},
+      "Score Interpretation": {"type": "text or options"},
+      "Score Reporting": {"type": "text or options"}
+    }
+  }
+}
+
+
+Let me know if you need any further assistance!

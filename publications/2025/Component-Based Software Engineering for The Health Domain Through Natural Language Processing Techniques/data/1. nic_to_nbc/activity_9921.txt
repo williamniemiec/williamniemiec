@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "parameters": {
+    "Symptom List": {"type": "list of text"},
+    "Self-Care Measures": {"type": "list of text"},
+    "Instructions": {"type": "text"},
+    "Rationale": {"type": "text"},
+    "Resources": {"type": "list of URLs or file paths"}
+  },
+  "noCodeElementName": "Self-Care Guide"
+}

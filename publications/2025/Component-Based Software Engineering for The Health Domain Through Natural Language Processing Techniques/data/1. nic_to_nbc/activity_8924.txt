@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Mealtime Environment": {
+    "Task Name": {"Description": "Task to create a pleasant mealtime environment", "Required": true, "Type": "text"},
+    "Actions": {"Description": "Select actions to create a pleasant mealtime environment", "Required": true, "Type": "checkbox", "Options": [{"value": "putBedpansAway", "label": "Put bedpans out of sight"}, {"value": "putUrinalsAway", "label": "Put urinals out of sight"}, {"value": "putSuctioningEquipmentAway", "label": "Put suctioning equipment out of sight"}, {"value": "other", "label": "Other (please specify)"}]},
+    "Other Actions": {"Description": "Enter other actions to create a pleasant mealtime environment", "Required": false, "Type": "text"},
+    "Frequency": {"Description": "Specify how often to create a pleasant mealtime environment", "Required": true, "Type": "options", "Options": [{"value": "daily", "label": "Daily"}, {"value": "everyOtherDay", "label": "Every other day"}, {"value": "weekly", "label": "Weekly"}, {"value": "custom", "label": "Custom (please specify)"}]},
+    "Custom Frequency": {"Description": "Enter custom frequency", "Required": false, "Type": "text"}
+  }
+}

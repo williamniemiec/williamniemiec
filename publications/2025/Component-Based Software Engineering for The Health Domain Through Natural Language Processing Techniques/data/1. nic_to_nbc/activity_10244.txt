@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Test Result Understanding": {
+    "Parameters": {
+      "Test Results": {"Type": "text or table"},
+      "Recommended Therapy": {"Type": "text or video content"},
+      "Understanding Assessment": {"Type": "multiple-choice questions or open-ended text field"},
+      "Education": {"Type": "text or video content"},
+      "Follow-up": {"Type": "datetime"},
+      "Notes": {"Type": "text field"}
+    }
+  }
+}

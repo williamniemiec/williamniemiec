@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Active Warming": {
+    "Warming Device": {},
+    "Temperature Setting": {},
+    "Warming Mode": {},
+    "Warming Duration": {},
+    "Monitoring": {},
+    "Adjustments": {}
+  }
+}

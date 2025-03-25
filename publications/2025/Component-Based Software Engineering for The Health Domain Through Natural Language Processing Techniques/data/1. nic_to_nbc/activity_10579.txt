@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+"Risk Factor Assessment": {
+"Venous Stasis": ["Immobility", "Heart failure", "Varicose veins", "Other (free text)"],
+"Hypercoagulability": ["Cancer", "Inherited thrombophilia", "Acquired thrombophilia", "Other (free text)"],
+"Intimal Damage": ["Trauma", "Surgery", "Infection", "Other (free text)"],
+"Frequency": "optional",
+"Deadline Date": "optional"
+},
+"Venous Stasis Assessment": {
+"frequency": "parameter",
+"deadline_date": "parameter"
+},
+"Hypercoagulability Assessment": {
+"frequency": "parameter",
+"deadline_date": "parameter"
+},
+"Intimal Damage Assessment": {
+"frequency": "parameter",
+"deadline_date": "parameter"
+}
+}
+
+
+Let me know if this is what you were expecting!

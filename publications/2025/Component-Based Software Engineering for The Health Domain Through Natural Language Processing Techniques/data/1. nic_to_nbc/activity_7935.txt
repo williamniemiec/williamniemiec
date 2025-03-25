@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+    "Breathing Support": {
+        "Tips": {},
+        "Action Plan": {},
+        "Frequency": {},
+        "Deadline Date": {}
+    },
+    "Medication Reminder": {
+        "Medication Name": {},
+        "Dosage": {},
+        "Frequency": {},
+        "Deadline Date": {}
+    }
+}

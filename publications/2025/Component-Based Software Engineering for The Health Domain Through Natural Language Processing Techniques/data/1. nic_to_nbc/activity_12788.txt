@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Home Care Instructions": {
+    "Parameters": {
+      "Name": {"type": "text", "required": true},
+      "Device type": {"type": "options", "required": true, "options": ["external", "implanted delivery systems"]},
+      "Care instructions": {"type": "text or html", "required": true},
+      "Video tutorials": {"type": "list of video URLs", "optional": true},
+      "Images or diagrams": {"type": "list of image URLs", "optional": true},
+      "FAQs": {"type": "list of frequently asked questions", "optional": true},
+      "Troubleshooting guide": {"type": "list of troubleshooting steps", "optional": true},
+      "Reminders": {"type": "list of reminder settings", "optional": true},
+      "Device-specific information": {"type": "list of device-specific information", "optional": true},
+      "Care schedule": {"type": "scheduler or calendar", "optional": true},
+      "Progress tracking": {"type": "tracker or log", "optional": true},
+      "Alerts": {"type": "list of alert settings", "optional": true}
+    }
+  }
+}

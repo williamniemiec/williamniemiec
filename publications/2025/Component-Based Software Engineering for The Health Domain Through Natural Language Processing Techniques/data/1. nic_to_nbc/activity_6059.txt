@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Cooking Safety Tip": {
+        "parameters": {
+            "name": "",
+            "description": "",
+            "image": "",
+            "frequency": ""
+        }
+    }
+}

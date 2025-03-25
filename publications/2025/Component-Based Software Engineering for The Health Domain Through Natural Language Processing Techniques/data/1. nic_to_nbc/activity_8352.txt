@@ -1,0 +1,52 @@
+Here is the output in JSON format:
+
+
+{
+    "Catheter Labeling": {
+        "parameters": [
+            {
+                "name": "label_type",
+                "description": "Type of label to use",
+                "required": true,
+                "type": "options",
+                "options": [
+                    { "value": "stickers", "label": "Stickers" },
+                    { "value": "tags", "label": "Tags" },
+                    { "value": "markers", "label": "Markers" }
+                ]
+            },
+            {
+                "name": "label_content",
+                "description": "What to write on the label",
+                "required": true,
+                "type": "text"
+            }
+        ]
+    },
+    "Catheter Securing": {
+        "parameters": [
+            {
+                "name": "securing_method",
+                "description": "Method of securing the catheter",
+                "required": true,
+                "type": "options",
+                "options": [
+                    { "value": "tape", "label": "Tape" },
+                    { "value": "stabilizing_device", "label": "Stabilizing device" },
+                    { "value": "suture", "label": "Suture" }
+                ]
+            },
+            {
+                "name": "securing_location",
+                "description": "Where to secure the catheter",
+                "required": true,
+                "type": "options",
+                "options": [
+                    { "value": "arm", "label": "Arm" },
+                    { "value": "chest", "label": "Chest" },
+                    { "value": "leg", "label": "Leg" }
+                ]
+            }
+        ]
+    }
+}

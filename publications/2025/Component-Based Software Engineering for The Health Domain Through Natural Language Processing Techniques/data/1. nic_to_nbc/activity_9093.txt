@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "Skin Areas": {
+    "type": "list of text"
+  },
+  "Inspection Criteria": {
+    "type": "list of text"
+  },
+  "Findings": {
+    "type": "list of objects"
+  },
+  "Images": {
+    "type": "list of images"
+  },
+  "Frequency": {
+    "type": "options",
+    "options": ["daily", "weekly", "monthly"]
+  },
+  "Deadline Date": {
+    "type": "datetime"
+  }
+}

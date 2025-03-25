@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "TPN Solution Check": {
+        "parameters": {
+            "name": {"type": "text"},
+            "ordered_nutrients": {"type": "unordered list"},
+            "solution_details": {"type": "form"},
+            "frequency": {"type": "options"},
+            "deadline_date": {"type": "datetime"}
+        }
+    }
+}

@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Pressure Monitoring": {
+    "parameters": {
+      "name": {"type": "text"},
+      "device": {"type": "text"},
+      "pressure_type": {"type": "options"},
+      "value": {"type": "numeric"},
+      "unit": {"type": "options"},
+      "frequency": {"type": "options"},
+      "deadline_date": {"type": "datetime"},
+      "notes": {"type": "text"}
+    }
+  }
+}

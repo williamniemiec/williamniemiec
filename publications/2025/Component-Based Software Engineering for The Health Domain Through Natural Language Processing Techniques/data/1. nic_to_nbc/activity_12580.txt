@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "Mood Check-in": {
+    "name": "",
+    "emotions": [],
+    "rating_scale": "",
+    "frequency": "",
+    "content_type": "rating scale"
+  },
+  "Feeling Expression": {
+    "name": "",
+    "prompt": "",
+    "content_type": "drawing or writing",
+    "frequency": ""
+  },
+  "Therapy Progress Tracking": {
+    "name": "",
+    "goals": [],
+    "progress_scale": "",
+    "frequency": "",
+    "content_type": "rating scale"
+  }
+}

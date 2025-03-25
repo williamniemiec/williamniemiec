@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "noCodeElementName": "Learning Portal",
+  "parameterSpecifications": {
+    "Learning Objectives": {"type": "list of learning objectives"},
+    "Learning Resources": {"type": "list of resources"},
+    "Interactive Tools": {"type": "list of interactive tools"},
+    "Personalized Content": {"type": "boolean"},
+    "Progress Tracking": {"type": "boolean"}
+  }
+}

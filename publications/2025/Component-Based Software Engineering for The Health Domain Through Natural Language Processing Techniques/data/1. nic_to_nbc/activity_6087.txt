@@ -1,0 +1,34 @@
+Here is the output in JSON format:
+
+
+{
+  "Educational Content": {
+    "parameters": {
+      "name": "",
+      "content": "",
+      "type": ""
+    }
+  },
+  "Conflict Resolution Strategies": {
+    "parameters": {
+      "name": "",
+      "strategies": "",
+      "type": ""
+    }
+  },
+  "Role-Playing Exercise": {
+    "parameters": {
+      "name": "",
+      "scenarios": "",
+      "type": ""
+    }
+  },
+  "Reflection and Feedback": {
+    "parameters": {
+      "name": "",
+      "prompt": "",
+      "answer_type": "",
+      "feedback": ""
+    }
+  }
+}

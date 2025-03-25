@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Timer": {
+    "parameters": {
+      "name": "Capillary Refill Time",
+      "description": "Measure your capillary refill time by pressing the 'Start' button and releasing it when the color returns to your finger/toe",
+      "content_type": "timer",
+      "unit": "seconds",
+      "frequency": "specify how often the measurement should be taken (e.g., daily, weekly)",
+      "deadline_date": "specify the due date for the measurement",
+      "notes": "optional field for the patient to add any notes or comments about the measurement"
+    }
+  }
+}
+
+
+Let me know if you need anything else!

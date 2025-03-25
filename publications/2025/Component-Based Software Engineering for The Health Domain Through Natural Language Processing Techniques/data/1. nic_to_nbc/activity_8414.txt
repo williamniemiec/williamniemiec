@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+{
+  "Amniotic Fluid Volume Monitoring": {
+    "Parameters": {
+      "Risk Factors": {
+        "Description": "List of risk factors for inadequate amniotic fluid volume",
+        "Required": true,
+        "Type": "unordered list",
+        "Unordered list": "List of text items (e.g., oligohydramnios, asymmetric intrauterine growth retardation, postdatism, known fetal urinary tract abnormalities, prolonged rupture of membranes)"
+      },
+      "Symptom Checker": {
+        "Description": "Questions to assess for signs of inadequate amniotic fluid volume",
+        "Required": true,
+        "Type": "symptom checker",
+        "Symptom checker": "List of multiple-choice questions with possible answers (e.g., yes/no, severity scales)"
+      },
+      "Tracking": {
+        "Description": "Log to track observations and assessments",
+        "Required": true,
+        "Type": "tracking log",
+        "Tracking log": "List of date-stamped entries with notes and observations"
+      }
+    }
+  }
+}

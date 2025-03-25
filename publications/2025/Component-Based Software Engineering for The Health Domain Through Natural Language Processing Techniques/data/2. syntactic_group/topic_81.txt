@@ -1,0 +1,10 @@
+{
+  "name": "Cognitive Ability Assessment",
+  "description": "Assesses cognitive abilities of patients, focusing on their ability or inability to perform certain tasks. Includes scoring systems and questions to evaluate cognitive function.",
+  "type": "non-periodic",
+  "input": ["Cognitive assessment questions", "Scoring system", "Patient responses", "Abilities evaluation"],
+  "output": ["Cognitive ability report", "Scoring analysis", "Ability assessment feedback"],
+  "preconditions": ["User is undergoing a cognitive evaluation"],
+  "postconditions": ["Evaluation of cognitive abilities and identification of deficits"],
+  "dependencies": ["Cognitive assessment platform", "Scoring system", "Patient evaluation tools"]
+}

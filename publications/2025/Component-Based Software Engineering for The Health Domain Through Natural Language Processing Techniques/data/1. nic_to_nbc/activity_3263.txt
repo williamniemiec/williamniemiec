@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+    "Laxative Avoidance Instruction": {
+        "parameters": [
+            {"Name": {"type": "text"}},
+            {"Reason for Avoidance": {"type": "text"}},
+            {"Alternative Methods": {"type": "list", "list_items": {}}},
+            {"Consequences of Laxative Use": {"type": "text"}},
+            {"Additional Resources": {"type": "text", "required": false}},
+            {"Tracking Progress": {"type": "boolean"}}
+        ]
+    }
+}

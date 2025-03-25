@@ -1,0 +1,28 @@
+
+
+
+{
+  "Nonrestrictive Clothing": {
+    "Clothing Tips": {
+      "Description": "Provide tips or guidelines for dressing in nonrestrictive clothing",
+      "Required": true,
+      "Type": "text"
+    },
+    "Frequency": {
+      "Description": "Specify how often the patient should be reminded to dress in nonrestrictive clothing",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "daily", "label": "Daily" },
+        { "value": "onlyOnce", "label": "Only once" },
+        { "value": "everyHours", "label": "Every x hours" },
+        { "value": "everyDays", "label": "Every x days" }
+      ]
+    },
+    "Deadline Date": {
+      "Description": "Specify the due date for the patient to dress in nonrestrictive clothing",
+      "Required": false,
+      "Type": "datetime"
+    }
+  }
+}

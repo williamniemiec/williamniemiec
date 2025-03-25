@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+    "Cleaning Task": {
+        "parameters": [
+            {"Name": {"type": "text"}},
+            {"Instructions": {"type": "text"}},
+            {"Frequency": {"type": "options", "options": ["one time", "as needed"]}},
+            {"Deadline Date": {"type": "datetime"}},
+            {"Tips": {"type": "text"}},
+            {"Resources": {"type": "url"}}
+        ]
+    }
+}

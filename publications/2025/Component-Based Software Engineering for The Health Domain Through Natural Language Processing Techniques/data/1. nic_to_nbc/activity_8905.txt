@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Family Support": {
+    "Parameters": {
+      "Family Members": {"Type": "list of family member profiles"},
+      "Roles": {"Type": "list of role descriptions"},
+      "Communication": {"Type": "options (e.g., messaging, video conferencing, phone calls, etc.)"},
+      "Education": {"Type": "list of educational resources"},
+      "Goals": {"Type": "list of goal descriptions"},
+      "Progress": {"Type": "options (e.g., shared dashboard, regular meetings, etc.)"}
+    }
+  }
+}
+
+
+Let me know if this meets your requirements!

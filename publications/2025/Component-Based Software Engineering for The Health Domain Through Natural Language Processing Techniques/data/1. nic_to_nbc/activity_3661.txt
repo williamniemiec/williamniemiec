@@ -1,0 +1,32 @@
+Here is the output in JSON format:
+
+
+{
+  "Infection Report": {
+    "report title": {
+      "Description": "Title of the infection report",
+      "Required": true,
+      "Type": "text"
+    },
+    "suspected_infection": {
+      "Description": "Description of the suspected infection",
+      "Required": true,
+      "Type": "text"
+    },
+    "symptoms": {
+      "Description": "List of symptoms observed",
+      "Required": true,
+      "Type": "list"
+    },
+    "contact_info": {
+      "Description": "Contact information of infection control personnel",
+      "Required": true,
+      "Type": "contact"
+    },
+    "submit": {
+      "Description": "Button to submit the infection report",
+      "Required": true,
+      "Type": "button"
+    }
+  }
+}

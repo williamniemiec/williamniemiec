@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Administration": {
+    "name": {"type": "text"},
+    "medication_name": {"type": "text"},
+    "concentration": {"type": "options", "options": ["1%", "2%"]},
+    "administration_site": {"type": "text"},
+    "notes": {"type": "text"}
+  }
+}
+
+
+I removed the following:
+
+* The introduction and conclusion sections
+* The `frequency` parameter, as it has a complex type (`options`) with multiple values, which are not applicable in this context.
+* The `deadline_date` parameter, as it is not relevant to the medication administration guidance.
+
+Let me know if you need any further assistance!

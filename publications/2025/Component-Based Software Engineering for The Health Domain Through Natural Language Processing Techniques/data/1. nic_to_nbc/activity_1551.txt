@@ -1,0 +1,37 @@
+Here is the output in JSON format:
+
+
+{
+  "Umbilical Stump Cleansing": {
+    "cleansing title": {
+      "Description": "title of the umbilical stump cleansing instruction",
+      "Required": true,
+      "Type": "text"
+    },
+    "cleansing instructions": {
+      "Description": "step-by-step instructions on how to cleanse the umbilical stump with alcohol",
+      "Required": true,
+      "Type": "text"
+    },
+    "Frequency": {
+      "Description": "specify how often the umbilical stump should be cleansed with alcohol",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "daily", "label": "Daily" },
+        { "value": "everyOtherDay", "label": "Every other day" },
+        { "value": "asNeeded", "label": "As needed" }
+      ]
+    },
+    "Deadline Date": {
+      "Description": "specify the due date for cleansing the umbilical stump with alcohol",
+      "Required": false,
+      "Type": "datetime"
+    },
+    "Additional Resources": {
+      "Description": "optional additional resources, such as images or videos, to help with umbilical stump cleansing",
+      "Required": false,
+      "Type": "media"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Teaching Method Selection": {
+    "Learning Style": {"type": "options"},
+    "Teaching Methods": {"type": "multi-select options"},
+    "Patient Needs": {"type": "text"},
+    "Teaching Strategy": {"type": "text"},
+    "Frequency": {"options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"type": "datetime"}
+  }
+}

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Enema Equipment Assembly": {
+        "parameters": [
+            {"name": "Name", "type": "text"},
+            {"name": "Enema Type", "type": "options"},
+            {"name": "Equipment List", "type": "unordered list"},
+            {"name": "Assembly Status", "type": "options"},
+            {"name": "Deadline Date", "type": "datetime"}
+        ]
+    }
+}

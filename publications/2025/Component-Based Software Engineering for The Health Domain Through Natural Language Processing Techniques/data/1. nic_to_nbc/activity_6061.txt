@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Abbreviation Guide": {
+    "Parameters": {
+      "Abbreviations": {
+        "Description": "List of accepted abbreviations for the institution",
+        "Required": true,
+        "Type": "list of objects"
+      },
+      "Institution": {
+        "Description": "The particular institution for which the abbreviations are accepted",
+        "Required": true,
+        "Type": "text"
+      }
+    }
+  }
+}

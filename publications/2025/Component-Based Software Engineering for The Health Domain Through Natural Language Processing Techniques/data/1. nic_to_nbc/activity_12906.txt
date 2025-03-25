@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "Family Advocacy": {
+    "parameters": {
+      "Advocacy Need": {
+        "type": "options"
+      },
+      "Family Concerns": {
+        "type": "text"
+      },
+      "Advocacy Action": {
+        "type": "text"
+      },
+      "Follow-up": {
+        "type": "options"
+      }
+    }
+  }
+}
+
+
+Let me know if this meets your requirements!

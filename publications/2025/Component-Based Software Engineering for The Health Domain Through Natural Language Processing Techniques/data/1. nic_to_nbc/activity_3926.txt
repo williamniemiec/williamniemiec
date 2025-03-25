@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Impulse Control Cue": {
+    "Cue Type": ["visual", "auditory", "tactile", "verbal"],
+    "Cue Description": "text",
+    "Trigger Situations": "unordered list",
+    "Stop and Think Prompt": "text",
+    "Frequency": ["daily", "onlyOnce", "everyHours", "everyDays"],
+    "Deadline Date": "datetime"
+  }
+}

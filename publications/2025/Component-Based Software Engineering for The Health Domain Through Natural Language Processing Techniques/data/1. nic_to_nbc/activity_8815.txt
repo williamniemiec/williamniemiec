@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "reflection",
+    "parameters": [
+        {
+            "name": "prompt"
+        },
+        {
+            "name": "media_type",
+            "options": ["text", "photo", "video", "audio"]
+        },
+        {
+            "name": "frequency",
+            "options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+        }
+    ]
+}
+
+
+I removed the `deadline_date` parameter since it's not applicable (i.e., its value is not specified in the input). Let me know if this meets your requirements!

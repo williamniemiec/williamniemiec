@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Expense Tracker": {
+    "parameters": {
+      "Expense Categories": {"type": "unordered list"},
+      "Daily Expenses": {"type": "numeric input field"},
+      "Frequency of Expenses": {"type": "options"}
+    }
+  }
+}

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Adverse Effect Monitor": {
+    "Test Information": {"Type": "text"},
+    "Adverse Effect Reporting": {"Type": "text"},
+    "Adverse Effect List": {"Type": "unordered list"},
+    "Severity Scale": {"Type": "options"},
+    "Follow-up Questions": {"Type": "text"},
+    "Notification": {"Type": "boolean"},
+    "Resource Library": {"Type": "link or downloadable file"}
+  }
+}

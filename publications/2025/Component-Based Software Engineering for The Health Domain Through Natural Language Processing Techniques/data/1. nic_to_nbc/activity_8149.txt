@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Safety Precautions": {
+    "parameters": {
+      "safety_tips": {},
+      "exercise_modifications": {},
+      "equipment_recommendations": {},
+      "frequency": {},
+      "deadline_date": {}
+    }
+  }
+}

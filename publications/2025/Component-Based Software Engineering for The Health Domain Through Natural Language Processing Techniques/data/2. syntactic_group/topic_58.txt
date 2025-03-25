@@ -1,0 +1,10 @@
+{
+  "name": "Food Intake and Nutrient Tracking",
+  "description": "Tracks food intake, focusing on caloric and nutrient content. Includes monitoring meal portions, calories, and dietary intake to help maintain proper nutrition and meet health goals.",
+  "type": "periodic",
+  "input": ["Food diary entries", "Meal portion details", "Caloric intake", "Nutrient information"],
+  "output": ["Daily food intake report", "Calorie and nutrient breakdown", "Dietary progress analysis"],
+  "preconditions": ["User tracks daily food intake and dietary habits"],
+  "postconditions": ["Caloric and nutrient intake is monitored, and dietary adjustments are suggested as needed"],
+  "dependencies": ["Food tracking platform", "Nutritional database", "Dietary guidelines and recommendations"]
+}

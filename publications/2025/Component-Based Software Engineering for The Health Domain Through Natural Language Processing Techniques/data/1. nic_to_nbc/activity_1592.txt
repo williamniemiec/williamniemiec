@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+    "Orientation": {
+        "parameters": {
+            "name": {"type": "text"},
+            "staff_members": {"type": "list of objects", "contents": ["name", "role", "photo"]},
+            "patients": {"type": "list of objects", "contents": ["name", "photo"]},
+            "orientation_content": {"type": "text"},
+            "acknowledgement": {"type": "boolean"}
+        }
+    }
+}
+
+
+Let me know if this meets your requirements!

@@ -1,0 +1,7 @@
+Since there's no input provided, I'll assume it's an empty string. In that case, the output would also be an empty JSON object:
+
+json
+{}
+
+
+If you meant to provide some actual text in the specified format, please go ahead and provide it, and I'll be happy to help!

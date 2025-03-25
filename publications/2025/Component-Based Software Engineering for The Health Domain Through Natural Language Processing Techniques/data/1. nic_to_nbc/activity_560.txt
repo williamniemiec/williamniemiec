@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+    "Medication Alternative Explorer": {
+        "Parameters": {
+            "Medication Name": {"Type": "text"},
+            "Current Timing": {"Type": "options", "Options": ["morning", "evening", "before meals", "after meals", "etc."]},
+            "Current Modality": {"Type": "options", "Options": ["oral", "injection", "topical", "etc."]},
+            "Alternative Timings": {"Type": "options", "Options": ["morning", "evening", "before meals", "after meals", "etc."]},
+            "Alternative Modalities": {"Type": "options", "Options": ["oral", "injection", "topical", "etc."]},
+            "Lifestyle Considerations": {"Type": "options", "Options": ["work schedule", "sleep patterns", "meal times", "etc."]},
+            "Notes": {"Type": "text"}
+        }
+    },
+    "Medication Alternative Question": {
+        "Parameters": {
+            "Question": {"Type": "text"},
+            "Answer Type": {"Type": "options", "Options": ["text", "scale", "etc."]},
+            "Lifestyle Consideration": {"Type": "options", "Options": ["work schedule", "sleep patterns", "meal times", "etc."]},
+            "Notes": {"Type": "text"}
+        }
+    }
+}

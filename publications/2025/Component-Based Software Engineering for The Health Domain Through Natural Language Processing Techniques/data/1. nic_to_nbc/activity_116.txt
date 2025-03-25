@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Rapport Building": {
+    "Parameters": {
+      "Title": {},
+      "Introduction": {},
+      "Icebreaker": {},
+      "Active Listening": {},
+      "Frequency": {}
+    }
+  }
+}

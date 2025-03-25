@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Therapy Documentation": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Therapy Type": {"Type": "list of options"},
+      "Prescription Details": {"Type": "text or structured data"},
+      "Agency Protocol": {"Type": "text or PDF"},
+      "Documentation Date": {"Type": "datetime"},
+      "Notes": {"Type": "text"}
+    }
+  }
+}
+
+
+Let me know if this meets your requirements!

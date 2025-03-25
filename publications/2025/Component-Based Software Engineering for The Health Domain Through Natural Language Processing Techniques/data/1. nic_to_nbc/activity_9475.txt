@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Tutorial": {
+        "parameters": {
+            "name": {"type": "text"},
+            "content": {"type": "multimedia"},
+            "steps": {"type": "list of steps"},
+            "frequency": {"type": "options"}
+        }
+    }
+}

@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Healing Touch Guide": {
+    "parameters": {
+      "name": {"type": "text"},
+      "description": {"type": "text"},
+      "instructions": {"type": ["text", "multimedia"]}
+    }
+  }
+}

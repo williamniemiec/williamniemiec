@@ -1,0 +1,51 @@
+Here is the output in JSON format:
+
+
+{
+    "Symptom Checker": {
+        "Parameters": {
+            "Symptoms": [
+                "Increased extremity circumference",
+                "Painful swelling and tenderness",
+                "Pain worsening in dependent position",
+                "Pain persisting with extremity use",
+                "Palpable hard vein",
+                "Enlargement of the superficial veins",
+                "Severe cramping",
+                "Redness and warmth",
+                "Numbness and tingling",
+                "Discoloration of skin",
+                "Fever"
+            ],
+            "Frequency": [
+                "daily",
+                "every 2 days",
+                "every 3 days",
+                "etc."
+            ],
+            "Severity": [
+                "mild",
+                "moderate",
+                "severe"
+            ]
+        }
+    },
+    "Question": {
+        "Parameters": {
+            "Answer type": [
+                "Yes/No"
+            ],
+            "Frequency": [
+                "daily",
+                "every 2 days",
+                "every 3 days",
+                "etc."
+            ],
+            "Severity": [
+                "mild",
+                "moderate",
+                "severe"
+            ]
+        }
+    }
+}

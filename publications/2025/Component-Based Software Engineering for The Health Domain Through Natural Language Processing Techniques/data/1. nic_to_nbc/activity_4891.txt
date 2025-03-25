@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Educational Resource Provision": {
+    "parameters": {
+      "Resource Type": {"type": "options"},
+      "Resource Content": {"type": "text or multimedia"},
+      "Resource Format": {"type": "text"},
+      "Appropriateness Criteria": {"type": "conditional logic"},
+      "Resource Availability": {"type": "boolean"}
+    }
+  }
+}
+
+
+Let me know if this meets your requirements!

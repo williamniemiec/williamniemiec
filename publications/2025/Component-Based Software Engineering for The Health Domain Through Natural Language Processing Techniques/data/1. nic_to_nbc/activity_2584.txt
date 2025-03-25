@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Consent": {
+    "Parameters": {
+      "Consent Type": {"Type": "options"},
+      "Consent Text": {"Type": "text"},
+      "Acceptance": {"Type": "boolean"},
+      "Date": {"Type": "datetime"}
+    }
+  }
+}

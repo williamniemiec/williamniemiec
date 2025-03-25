@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+
+{
+    "Distraction Reduction": {
+        "Identify Distractions": {"Type": "text or options"},
+        "Distraction Level": {"Type": "slider or options"},
+        "Minimization Strategies": {"Type": "text or options"},
+        "Environmental Control": {"Type": "options or slider"},
+        "Focus Enhancement": {"Type": "text or video"}
+    }
+}

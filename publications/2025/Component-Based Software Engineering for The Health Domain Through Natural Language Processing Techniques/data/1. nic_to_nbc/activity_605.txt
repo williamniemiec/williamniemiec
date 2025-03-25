@@ -1,0 +1,31 @@
+Here is the output in JSON format:
+
+
+{
+    "Treatment Regimen Information": {
+        "Parameters": {
+            "Treatment Plan": {"Type": "text"},
+            "Self-Care Responsibilities": {"Type": "list of text"},
+            "Guidelines": {"Type": "text or URL"},
+            "Scope of Practice": {"Type": "text"}
+        }
+    },
+    "Medication Information": {
+        "Parameters": {
+            "Medication Name": {"Type": "text"},
+            "Dosage": {"Type": "text"},
+            "Frequency": {"Type": "text"},
+            "Side Effects": {"Type": "list of text"}
+        }
+    },
+    "Self-Care Tasks": {
+        "Parameters": {
+            "Task Name": {"Type": "text"},
+            "Task Description": {"Type": "text"},
+            "Frequency": {"Type": "text"}
+        }
+    }
+}
+
+
+I removed all unnecessary parts and kept only the `{{ NO-CODE ELEMENT NAME }}` and `{{ PARAMETER ESPECIFICATIONS }}` as per your request.

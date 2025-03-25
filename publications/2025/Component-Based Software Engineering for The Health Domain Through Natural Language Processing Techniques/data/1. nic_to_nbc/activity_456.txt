@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Parameter Specifications": [
+    {"Care Activity": {"Type": "text", "Required": true}},
+    {"Participation Level": {"Type": "options", "Options": ["assisting", "observing", "leading"], "Required": true}},
+    {"Instructions": {"Type": "text", "Required": true}},
+    {"Frequency": {"Type": "options", "Options": ["daily", "weekly", "monthly"], "Required": true}},
+    {"Feedback": {"Type": "text", "Required": true}}
+  ],
+  "No-code Element Name": "Care Participation"
+}
+
+
+Note that I removed the `Supervision` parameter since it's marked as not required (`Required: false`). Let me know if this is correct or if you'd like me to include all parameters regardless of their required status.

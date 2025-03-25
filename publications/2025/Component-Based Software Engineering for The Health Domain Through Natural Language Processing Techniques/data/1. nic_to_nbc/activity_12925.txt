@@ -1,0 +1,32 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Informed Consent",
+    "parameters": [
+        { 
+            "name": "title", 
+            "type": "text"
+        },
+        { 
+            "name": "description", 
+            "type": "text"
+        },
+        { 
+            "name": "risks_and_benefits", 
+            "type": "text"
+        },
+        { 
+            "name": "consent_form", 
+            "type": "pdf or other document format"
+        },
+        { 
+            "name": "signature", 
+            "type": "electronic signature"
+        },
+        { 
+            "name": "date", 
+            "type": "datetime"
+        }
+    ]
+}

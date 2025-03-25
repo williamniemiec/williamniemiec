@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Environmental Cue": {
+    "parameters": {
+      "Type": {"type": "options", "options": ["sign", "picture", "clock", "calendar", "colorCoding"]},
+      "Content": {"type": "text"},
+      "Image": {"type": "image"},
+      "Color": {"type": "color"},
+      "Frequency": {"type": "options", "options": ["daily", "everyHours", "onDemand"]}
+    }
+  }
+}

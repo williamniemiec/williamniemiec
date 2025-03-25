@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Chat": {
+    "Name": {},
+    "Purpose": {},
+    "Conversation Type": {"options": ["text", "video", "audio"]},
+    "Frequency": {"options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {}
+  }
+}

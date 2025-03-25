@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+    "Range of Motion Exercise": {
+        "exercise title": {"Type": "text", "Required": true},
+        "Instructions": {"Type": "text", "Required": true},
+        "Limbs": {"Type": "options", "Required": true, "Options": [{"value": "arms", "label": "Arms"}, {"value": "legs", "label": "Legs"}, {"value": "both", "label": "Both Arms and Legs"}]},
+        "Frequency": {"Type": "options", "Required": true, "Options": [{"value": "hourly", "label": "Hourly"}, {"value": "every2hours", "label": "Every 2 hours"}, {"value": "every4hours", "label": "Every 4 hours"}]},
+        "Duration": {"Type": "number", "Required": true}
+    }
+}

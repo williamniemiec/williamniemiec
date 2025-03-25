@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Tube Flushing": {
+        "parameters": {
+            "Tube Flushing Instructions": {},
+            "Water Volume": {},
+            "Water Temperature": {},
+            "Frequency of Tube Flushing": {}
+        }
+    }
+}

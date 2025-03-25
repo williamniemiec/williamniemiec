@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Surgery Explanation": {
+    "Parameters": {
+      "Surgery Reason": {},
+      "Benefits": {},
+      "Risks": {},
+      "Alternatives": {},
+      "FAQs": {}
+    }
+  }
+}

@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Inventory Check": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Products": {
+        "Type": "unordered list",
+        "Each product in the list can have": {
+          "Label": {"Type": "text"},
+          "Availability": {"Type": "boolean (true/false)"},
+          "Quantity": {"Type": "number"}
+        }
+      },
+      "Agency Protocol": {"Type": "text"},
+      "Frequency": {"Type": "options"},
+      "Deadline Date": {"Type": "datetime"}
+    }
+  }
+}

@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+  "Behavioral Goal": {
+    "parameters": {
+      "name": {"type": "text"},
+      "description": {"type": "text"},
+      "target": {"type": "text"}
+    }
+  },
+  "Action Plan": {
+    "parameters": {
+      "name": {"type": "text"},
+      "steps": {"type": "list of text"},
+      "frequency": {"type": "options"}
+    }
+  },
+  "Resource Link": {
+    "parameters": {
+      "name": {"type": "text"},
+      "url": {"type": "url"},
+      "description": {"type": "text"}
+    }
+  }
+}

@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+  "Reminiscence Prompt": {
+    "Prompt": {"type": "text"},
+    "Memory Type": {"type": "options"},
+    "Reflection Type": {"type": "options"},
+    "Frequency": {"type": "options"},
+    "Deadline Date": {"type": "datetime"},
+    "Guided Questions": {"type": "list of text", "optional": true}
+  },
+  "Storytelling Activity": {
+    "Story Prompt": {"type": "text"},
+    "Story Format": {"type": "options"},
+    "Frequency": {"type": "options"},
+    "Deadline Date": {"type": "datetime"},
+    "Guided Questions": {"type": "list of text", "optional": true}
+  }
+}
+
+
+Note that I removed the `Not Applicable` parameters as per your request.

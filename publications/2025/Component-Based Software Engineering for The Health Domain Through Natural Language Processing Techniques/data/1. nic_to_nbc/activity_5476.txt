@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+"Financial Assessment": {
+    "Parameters": {
+        "Questionnaire": "",
+        "Financial information": "",
+        "Concerns": ""
+    }
+}
+}

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Crying Response": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Response Goal": {"Type": "text", "Example": "Respond to crying within 2 minutes"},
+      "Response Frequency": {"Type": "options", "Options": ["Every time the infant cries", "At specific times of the day (e.g., during feeding, sleep, etc.)"]},
+      "Response Tips": {"Type": "text", "Example": "Check for physical needs (e.g., hunger, diaper change), provide comfort and reassurance, and try to identify the cause of the crying"},
+      "Tracking": {"Type": "boolean"}
+    }
+  }
+}

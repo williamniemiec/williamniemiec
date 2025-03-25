@@ -1,0 +1,44 @@
+Here is the output in JSON format:
+
+
+{
+  "Fluid Retention Tracker": {
+    "Parameters": {
+      "Test Type": {
+        "type": "options",
+        "options": [
+          {"value": "specificGravity", "label": "Specific Gravity"},
+          {"value": "BUN", "label": "Blood Urea Nitrogen (BUN)"},
+          {"value": "hematocrit", "label": "Hematocrit"},
+          {"value": "urineOsmolality", "label": "Urine Osmolality"},
+          {"value": "other", "label": "Other (please specify)"}
+        ]
+      },
+      "Result": {
+        "type": "number"
+      },
+      "Unit": {
+        "type": "options",
+        "options": [
+          {"value": "gml", "label": "g/mL"},
+          {"value": "mmolL", "label": "mmol/L"},
+          {"value": "other", "label": "Other (please specify)"}
+        ]
+      },
+      "Threshold": {
+        "type": "number"
+      },
+      "Frequency": {
+        "type": "options",
+        "options": [
+          {"value": "daily", "label": "Daily"},
+          {"value": "everyHours", "label": "Every x hours"},
+          {"value": "everyDays", "label": "Every x days"}
+        ]
+      },
+      "Deadline Date": {
+        "type": "datetime"
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+    "Warning": {
+        "parameters": {
+            "name": "Avoid aspirating the solution back into the syringe",
+            "content": "Important: Do not aspirate the solution back into the syringe",
+            "content_type": "text",
+            "reason": "text",
+            "frequency": "onlyOnce"
+        }
+    },
+    "Guided Warning": {
+        "parameters": {
+            "name": "Avoid aspirating the solution back into the syringe",
+            "content": "Why it's important to avoid aspirating the solution back into the syringe: [brief explanation]",
+            "content_type": "text or video",
+            "reason": "text",
+            "frequency": "onlyOnce"
+        }
+    }
+}
+
+
+I removed all unnecessary text and only kept the `{{ NO-CODE ELEMENT NAME }}` and `{{ PARAMETER ESPECIFICATIONS }}`. I also removed any parameters that were marked as "not applicable". Let me know if this meets your requirements!

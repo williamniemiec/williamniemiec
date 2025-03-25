@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "High Fiber Diet Guide": {
+    "parameters": [
+      {"Fiber-Rich Foods": {"type": "list"}},
+      {"Daily Fiber Intake": {"type": "numeric"}},
+      {"Meal Planning": {"type": "interactive"}},
+      {"Food Substitutions": {"type": "list"}},
+      {"Constipation Prevention Tips": {"type": "list"}}
+    ]
+  }
+}

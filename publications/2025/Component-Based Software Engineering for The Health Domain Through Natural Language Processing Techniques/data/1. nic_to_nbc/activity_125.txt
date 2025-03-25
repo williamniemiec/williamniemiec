@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "ECG Monitoring": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Frequency": {"Type": "options", "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"Type": "datetime"},
+      "ECG Data": {"Type": ["file", "text"]}
+    }
+  }
+}

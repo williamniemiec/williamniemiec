@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Feeding Discontinuation": {
+    "Task Title": {"Description": "Title of the task", "Required": true, "Type": "text"},
+    "Feeding Schedule": {"Description": "Specify the feeding schedule", "Required": true, "Type": "options", "Options": [{"value": "everyMeal", "label": "Every meal"}, {"value": "specificTimes", "label": "Specific times (please specify)"}]},
+    "Discontinue Feeding": {"Description": "Discontinue feeding before putting in a head down position", "Required": true, "Type": "boolean"},
+    "Time Before Head Down": {"Description": "Specify the time to discontinue feeding before putting in a head down position", "Required": true, "Type": "options", "Options": [{"value": "30minutes", "label": "30 minutes"}, {"value": "60minutes", "label": "60 minutes"}]}
+  }
+}

@@ -1,0 +1,8 @@
+Here is the output in JSON format:
+
+
+{
+    "Feedback Form": {
+        "parameters": ["title", "question (text)", "answer type (options: text, rating, selection)"]
+    }
+}

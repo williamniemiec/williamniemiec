@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Parameters": {
+    "Name": {"Type": "text"},
+    "Visual Field": {"Type": "options", "Options": ["right", "left", "bilateral"]},
+    "Rearrangement Steps": {"Type": "interactive checklist"},
+    "Room-by-Room Guide": {"Type": "interactive checklist"},
+    "Frequency": {"Type": "options", "Options": ["daily", "weekly", "as needed"]},
+    "Deadline Date": {"Type": "datetime"}
+  },
+  "No-code Element Name": "Environmental Rearrangement Guide"
+}

@@ -1,0 +1,14 @@
+
+
+
+{
+    "Teaching Documentation": {
+        "Parameters": {
+            "Teaching Session": {"Type": "text"},
+            "Patient Response": {"Type": "text"},
+            "Assessment": {"Type": "options"},
+            "Documentation": {"Type": "text"},
+            "EHR Integration": {"Type": "boolean"}
+        }
+    }
+}

@@ -1,0 +1,33 @@
+Here is the output in JSON format:
+
+
+{
+  "Independent Exercise": {
+    "Exercise List": {
+      "description": "Select exercises to practice independently",
+      "required": true,
+      "type": "multiselect",
+      "options": [
+        { "value": "exercise1", "label": "Exercise 1" },
+        { "value": "exercise2", "label": "Exercise 2" },
+        { "value": "exercise3", "label": "Exercise 3" }
+      ]
+    },
+    "Instructions": {
+      "description": "Step-by-step instructions for each exercise",
+      "required": true,
+      "type": "text"
+    },
+    "Frequency": {
+      "description": "How often the exercises should be practiced independently",
+      "required": true,
+      "type": "options",
+      "options": [
+        { "value": "daily", "label": "Daily" },
+        { "value": "onlyOnce", "label": "Only once" },
+        { "value": "everyHours", "label": "Every x hours" },
+        { "value": "everyDays", "label": "Every x days" }
+      ]
+    }
+  }
+}

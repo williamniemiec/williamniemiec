@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Neurological Symptom Tracker": {
+    "parameters": {
+      "Symptom List": "",
+      "Frequency": "",
+      "Severity Scale": "",
+      "Tracking": ""
+    }
+  }
+}

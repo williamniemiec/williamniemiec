@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "education": {
+        "parameters": [
+            {"name": "title"},
+            {"name": "content"},
+            {"name": "oral_health_practices"},
+            {"name": "frequency"},
+            {"name": "considerations"}
+        ]
+    }
+}

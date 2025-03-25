@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+  "Follow-up Test": {
+    "parameters": {
+      "name": {"description": "name of the follow-up test", "required": true, "type": "text"},
+      "test_type": {"description": "type of follow-up test", "required": true, "type": "options", "options": [
+        {"value": "x-ray", "label": "X-ray"},
+        {"value": "blood_test", "label": "Blood Test"},
+        {"value": "other", "label": "Other (please specify)"}
+      ]},
+      "instructions": {"description": "step-by-step instructions for completing the follow-up test", "required": true, "type": "text"},
+      "deadline_date": {"description": "due date for completing the follow-up test", "required": true, "type": "datetime"}
+    }
+  }
+}
+
+
+I removed the not applicable parameters (`reminder` and `result_upload`) as they are not required. Let me know if this is what you were expecting!

@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+    "Wound Inspection": {
+        "Parameters": {
+            "Name": {"Type": "text"},
+            "Instructions": {"Type": "text"},
+            "Frequency": {"Type": "options"},
+            "Deadline Date": {"Type": "datetime"},
+            "Photo": {"Type": "camera"},
+            "Notes": {"Type": "text"}
+        }
+    }
+}

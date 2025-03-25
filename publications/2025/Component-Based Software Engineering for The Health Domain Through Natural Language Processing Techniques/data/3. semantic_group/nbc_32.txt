@@ -1,0 +1,10 @@
+{
+  "name": "Weight Tracking and Measurement",
+  "description": "Tracks weight measurements over time, with data recorded in both kilograms and pounds. Monitors trends and provides biweekly weight analysis and range comparison.",
+  "type": "periodic",
+  "input": ["Weight measurement", "Unit (kg or lbs)", "Measurement date", "Biweekly tracking period"],
+  "output": ["Weight trend report", "Measurement range analysis", "Weight comparison (kg vs. lbs)"],
+  "preconditions": ["User records weight measurements on a biweekly basis"],
+  "postconditions": ["Weight trend and range analysis are completed, with tracking updates provided"],
+  "dependencies": ["Weight tracking system", "Unit conversion tools", "Biweekly measurement schedule"]
+}

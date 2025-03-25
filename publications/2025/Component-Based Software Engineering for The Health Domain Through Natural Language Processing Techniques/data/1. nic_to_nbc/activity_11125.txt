@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Contraception Guide": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Content": {"Type": "rich text or multimedia"},
+      "Methods": {"Type": "unordered list or table"},
+      "Description": {"Type": "text"},
+      "Effectiveness": {"Type": "text or percentage"},
+      "Pros and Cons": {"Type": "table or list"}
+    }
+  }
+}
+
+
+Note that I removed the `Decision Support` parameter as it is not applicable (it's a form or questionnaire, which doesn't fit with the other parameters). Let me know if you have any further questions!

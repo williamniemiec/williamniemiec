@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Safe Space": {
+    "parameters": [
+      {"Space Type": {}},
+      {"Safety Features": {}},
+      {"Tips and Resources": {}}
+    ]
+  }
+}

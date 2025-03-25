@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Hearing Aid Instructions": {
+        "Instructions": {
+            "Type": "list of text"
+        },
+        "Images or Videos": {
+            "Type": "list of images or videos"
+        }
+    }
+}

@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Walking Buddy": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Description": {"Type": "text"},
+      "Frequency": {"Type": "options", "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Duration": {"Type": "text"},
+      "Route": {"Type": "text"}
+    }
+  }
+}
+
+
+Note: I removed the `Deadline Date` parameter as it's a datetime type, which is not applicable in this context.

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Pleasurable Activities List": {
+    "Parameters": {
+      "Name": {},
+      "Activities": {},
+      "Frequency": {},
+      "Duration": {},
+      "Notes": {}
+    }
+  }
+}

@@ -1,0 +1,4 @@
+Since the input is empty, my output will also be an empty JSON:
+
+
+{}

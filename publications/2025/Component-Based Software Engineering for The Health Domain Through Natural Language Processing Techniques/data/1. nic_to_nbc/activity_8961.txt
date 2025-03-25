@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Symptom Checker": {
+    "Parameters": {
+      "Symptom List": {"Type": "checkbox or multiselect"},
+      "Severity": {"Type": "options (e.g., mild, moderate, severe)"},
+      "Frequency": {"Type": "options (e.g., daily, weekly, monthly)"},
+      "Duration": {"Type": "text or datetime"},
+      "Additional Information": {"Type": "text"}
+    }
+  }
+}

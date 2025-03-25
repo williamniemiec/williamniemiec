@@ -1,0 +1,10 @@
+Here is the output in JSON format:
+
+
+{
+  "Emotional Support": {
+    "Message": {"Type": "text"},
+    "Frequency": {"Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Trigger": {"Type": "options"}
+  }
+}

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Distinct Address Guidance": {
+    "parameters": [
+      {"name": "Name", "type": "text"},
+      {"name": "Address Script", "type": "rich text"},
+      {"name": "Speaking Tips", "type": "list of text"},
+      {"name": "Frequency", "type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      {"name": "Deadline Date", "type": "datetime"}
+    ]
+  }
+}

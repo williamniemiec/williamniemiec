@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Issue Explorer": {
+        "Parameters": {
+            "Issue Identification": {"Type": "options"},
+            "Reflection Questions": {"Type": "text"},
+            "Issue Prioritization": {"Type": "ranking"},
+            "Goal Setting": {"Type": "text"},
+            "Action Plan": {"Type": "text"}
+        }
+    }
+}

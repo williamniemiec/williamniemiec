@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Bite-Sized Information": {
+    "Information": {"Description": "Information to be presented in small, concrete portions", "Type": "text"},
+    "Portion Size": {"Description": "Size of each portion of information", "Type": "options", "Options": [{"value": "shortSentence", "label": "Short Sentence"}, {"value": "paragraph", "label": "Paragraph"}, {"value": "listItem", "label": "List Item"}]},
+    "Number of Portions": {"Description": "Number of portions of information to present", "Type": "number"}
+  }
+}
+
+
+Note that I removed the `Presentation Order` parameter since it's not required. Let me know if you need any further adjustments!

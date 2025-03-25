@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Orientation Training": {
+    "Parameters": {
+      "Training Type": ["personal information", "dates", "combination of both"],
+      "Personal Information": {"Type": "text"},
+      "Dates": {"Type": "date"},
+      "Instructions": {"Type": "text"},
+      "Practice Mode": ["multiple choice", "fill-in-the-blank", "recall"],
+      "Frequency": ["daily", "onlyOnce", "everyHours", "everyDays"],
+      "Deadline Date": {"Type": "datetime"},
+      "Feedback": ["yes", "no"],
+      "Scoring": ["percentage correct", "number of correct answers", "time taken to complete"]
+    }
+  }
+}

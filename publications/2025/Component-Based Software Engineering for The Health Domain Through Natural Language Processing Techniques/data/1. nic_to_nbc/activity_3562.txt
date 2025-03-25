@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Regimen": {
+    "Parameters": {
+      "Name": {"type": "text", "required": true},
+      "Medications": {"type": "list of medications", "required": true},
+      "Dosage": {"type": "text or numerical value", "required": true},
+      "Frequency": {"type": "options", "required": true},
+      "Duration": {"type": "text or numerical value", "required": true},
+      "Instructions": {"type": "text or html", "required": true},
+      "Reminders": {"type": "list of reminder settings", "required": false},
+      "Medication Images": {"type": "list of image URLs", "required": false},
+      "Medication Information": {"type": "list of medication information", "required": false},
+      "Dose Calculator": {"type": "calculator or formula", "required": false},
+      "Medication Tracker": {"type": "tracker or log", "required": false}
+    }
+  }
+}

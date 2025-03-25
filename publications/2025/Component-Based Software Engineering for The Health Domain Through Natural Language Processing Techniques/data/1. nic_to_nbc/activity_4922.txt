@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Emergency Alert": {
+    "Alert Message": {"Type": "text"},
+    "Contact Information": {"Type": "text"},
+    "Location Sharing": {"Type": "boolean"},
+    "Emergency Type": {"Type": "options"}
+  }
+}

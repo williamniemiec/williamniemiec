@@ -1,0 +1,3 @@
+Since there is no `PARAMETER ESPECIFICATIONS` and only "Not applicable" is provided, the output will be an empty JSON object:
+
+{}

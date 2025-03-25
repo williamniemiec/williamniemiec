@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "elementName": "Open Discussion Forum",
+  "parameters": {
+    "Forum topic": {"type": "text"},
+    "Moderation": {"options": ["moderated", "unmoderated"]},
+    "Anonymity": {"options": ["anonymous", "non-anonymous"]},
+    "Feedback": {"options": ["yes", "no"]},
+    "Frequency": {"options": ["daily", "weekly", "monthly"]}
+  }
+}

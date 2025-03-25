@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Coping Strategies Guide": {
+    "Strategy List": {},
+    "Instructions": {},
+    "Practice Exercises": {},
+    "Frequency": {
+      "options": ["daily", "weekly", "monthly"]
+    }
+  }
+}

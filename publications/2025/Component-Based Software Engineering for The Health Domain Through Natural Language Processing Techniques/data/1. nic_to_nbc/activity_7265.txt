@@ -1,0 +1,34 @@
+
+
+
+{
+    "name": "Positioning",
+    "parameters": [
+        {
+            "name": "Position",
+            "description": "A parameter that specifies the position the patient should assume.",
+            "required": true,
+            "type": "options",
+            "options": [
+                { value: "side-lying", label: "Side-lying" },
+                { value: "sitting", label: "Sitting" }
+            ]
+        },
+        {
+            "name": "Orientation",
+            "description": "A parameter that specifies the orientation of the patient's ear.",
+            "required": true,
+            "type": "options",
+            "options": [
+                { value: "ear up", label: "Ear up" },
+                { value: "ear down", label: "Ear down" }
+            ]
+        },
+        {
+            "name": "Additional Instructions",
+            "description": "A parameter that provides additional instructions or clarifications for the patient.",
+            "required": false,
+            "type": "text"
+        }
+    ]
+}

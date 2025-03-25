@@ -1,0 +1,54 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Administration Checker": {
+    "parameters": {
+      "name": "Follow the five rights of medication administration",
+      "content": "Verify the five rights of medication administration",
+      "type": "medication administration checker",
+      "right_1": [
+        { 
+          "name": "Right Patient", 
+          "description": "Verify the patient's identity", 
+          "type": "checkbox"
+        }
+      ],
+      "right_2": [
+        { 
+          "name": "Right Medication", 
+          "description": "Verify the medication name and dosage", 
+          "type": "checkbox"
+        }
+      ],
+      "right_3": [
+        { 
+          "name": "Right Dose", 
+          "description": "Verify the medication dose", 
+          "type": "checkbox"
+        }
+      ],
+      "right_4": [
+        { 
+          "name": "Right Route", 
+          "description": "Verify the medication administration route", 
+          "type": "checkbox"
+        }
+      ],
+      "right_5": [
+        { 
+          "name": "Right Time", 
+          "description": "Verify the medication administration time", 
+          "type": "checkbox"
+        }
+      ],
+      "confirmation": [
+        { 
+          "name": "Confirm", 
+          "description": "Confirm that the five rights of medication administration have been verified", 
+          "type": "button"
+        }
+      ]
+    }
+  }
+}

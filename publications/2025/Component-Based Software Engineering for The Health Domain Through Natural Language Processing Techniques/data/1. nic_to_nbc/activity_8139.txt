@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Dressing Application Guide": {
+    "parameters": {
+      "Dressing Type": {"type": "list of options"},
+      "Application Instructions": {"type": "text"},
+      "Tension Guidelines": {"type": "text"},
+      "Agency Protocol": {"type": "text"},
+      "Photos": {"type": "camera"},
+      "Notes": {"type": "text"}
+    }
+  }
+}

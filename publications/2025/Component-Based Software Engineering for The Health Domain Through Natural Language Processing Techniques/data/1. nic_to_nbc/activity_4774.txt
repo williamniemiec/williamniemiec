@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Educational Module": {
+    "parameters": [
+      "title",
+      "content (text, images, videos)",
+      "quizzes",
+      "assessments",
+      "resources (e.g., links, phone numbers)"
+    ]
+  }
+}

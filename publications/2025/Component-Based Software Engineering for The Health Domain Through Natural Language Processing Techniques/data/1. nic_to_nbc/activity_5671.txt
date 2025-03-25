@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "Conditional Task": {
+    "parameters": {
+      "name": "Attach sterile latex or silicone catheter to filled syringe",
+      "content": "Attach a sterile latex or silicone catheter to the filled syringe when necessary",
+      "content_type": "text",
+      "condition": "options",
+      "catheter_type": "options",
+      "frequency": "onlyOnce"
+    }
+  },
+  "Guided Conditional Task": {
+    "parameters": {
+      "name": "Attach sterile latex or silicone catheter to filled syringe",
+      "content": "Why and how to attach a sterile latex or silicone catheter to the filled syringe, when necessary: [brief explanation]",
+      "content_type": "text|video",
+      "condition": "options",
+      "catheter_type": "options",
+      "frequency": "onlyOnce"
+    }
+  }
+}

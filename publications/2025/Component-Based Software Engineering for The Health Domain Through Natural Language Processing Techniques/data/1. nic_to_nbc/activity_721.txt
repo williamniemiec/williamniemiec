@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Sterile Field Instruction": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Instructions": {"Type": "ordered list of text"},
+      "Assistant Roles": {"Type": "options"},
+      "Child Instructions": {"Type": "text"},
+      "Visual Aids": {"Type": "media (image or video)"},
+      "Reminders": {"Type": "options"}
+    }
+  }
+}

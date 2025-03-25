@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Bottle Feeding Guideline": {
+    "Title": {"Type": "text"},
+    "Content": {"Type": ["text", "html"]},
+    "Allowed Contents": {"Type": "options"},
+    "Not Allowed Contents": {"Type": "options"},
+    "Reason": {"Type": "text"}
+  }
+}

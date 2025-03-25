@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+    "Wakefulness Activity Planner": {
+        "Wakefulness Activities": {
+            "Name": "wakefulness activities",
+            "Description": "What activities can you do to promote wakefulness during the day?",
+            "Type": "multi-select"
+        },
+        "Activity Schedule": {
+            "Name": "activity schedule",
+            "Description": "When will you do these wakefulness activities during the day?",
+            "Type": "schedule"
+        },
+        "Daytime Sleep Limit": {
+            "Name": "daytime sleep limit",
+            "Description": "How much daytime sleep do you want to limit?",
+            "Type": "number"
+        },
+        "Frequency": {
+            "Name": "frequency",
+            "Description": "How often should you do these wakefulness activities to limit daytime sleep?",
+            "Type": "options"
+        }
+    }
+}

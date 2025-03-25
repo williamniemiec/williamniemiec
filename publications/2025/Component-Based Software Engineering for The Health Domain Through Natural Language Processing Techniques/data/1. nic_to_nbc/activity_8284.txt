@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+    "Sleep Tracker": {
+        "Parameters": {
+            "Sleep Duration": {"Type": "number"},
+            "Sleep Quality": {"Type": "options", "Options": ["Poor", "Fair", "Good", "Excellent"]},
+            "Notes": {"Type": "text"},
+            "Frequency": {"Type": "options", "Options": ["daily", "everyHours", "everyDays"]}
+        }
+    },
+    "Care Coordinator": {
+        "Parameters": {
+            "Care Coordinator Name": {"Type": "text"},
+            "Care Coordinator Contact": {"Type": "text"}
+        }
+    },
+    "Visitor Tracker": {
+        "Parameters": {
+            "Visitor Name": {"Type": "text"},
+            "Visit Duration": {"Type": "number"}
+        }
+    }
+}

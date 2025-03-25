@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+  "Defibrillator Implantation Guide": {
+    "Information modules": [
+      "Indications for defibrillator implantation",
+      "Functions of the defibrillator",
+      "What to expect during cardioversion",
+      "Required lifestyle changes after implantation",
+      "Potential complications and risks"
+    ],
+    "Multimedia resources": [
+      "Videos explaining defibrillator implantation and function",
+      "Infographics illustrating the implantation procedure",
+      "Audio recordings of patient testimonials"
+    ],
+    "FAQs and glossary": [
+      "Frequently asked questions about defibrillator implantation",
+      "Glossary of medical terms related to defibrillator implantation"
+    ]
+  }
+}

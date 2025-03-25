@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "noCodeElementName": "Preparation Guide",
+  "parameterSpecifications": {
+    "Study Type": {"type": ["text", "options"]},
+    "Preparation Instructions": {"type": ["text", "multimedia"]},
+    "What to Expect": {"type": ["text", "multimedia"]},
+    "Frequently Asked Questions (FAQs)": {"type": ["text", "interactive module"]}
+  }
+}

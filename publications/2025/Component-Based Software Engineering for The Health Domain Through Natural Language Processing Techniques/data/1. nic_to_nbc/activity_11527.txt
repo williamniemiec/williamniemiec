@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+  "Draping Unexposed Areas": {
+    "parameters": {
+      "Draping Options": {
+        "type": "options",
+        "description": "a brief text describing the draping option",
+        "image": "an image or illustration demonstrating the draping option"
+      },
+      "Unexposed Areas": {
+        "type": "options",
+        "description": "the areas of the body that need to be draped, excluding the area being massaged."
+      },
+      "Draping Instructions": {
+        "type": "text"
+      },
+      "Image": {
+        "type": "image or animation"
+      },
+      "Confirmation": {
+        "type": "boolean (yes/no)"
+      }
+    }
+  }
+}

@@ -1,0 +1,50 @@
+Here is the output in JSON format:
+
+
+{
+    "Circulation Monitoring": {
+        "Body Part": {
+            "Description": "specify the injured body part to be monitored",
+            "Required": true,
+            "Type": "options",
+            "Options": [
+                {"value": "arm", "label": "Arm"},
+                {"value": "leg", "label": "Leg"},
+                {"value": "hand", "label": "Hand"},
+                {"value": "foot", "label": "Foot"},
+                {"value": "other", "label": "Other (please specify)"}
+            ]
+        },
+        "Circulation Parameters": {
+            "Description": "specify the circulation parameters to be monitored",
+            "Required": true,
+            "Type": "list",
+            "List items": [
+                {"value": "pulse", "label": "Pulse"},
+                {"value": "capillaryRefill", "label": "Capillary Refill"},
+                {"value": "sensation", "label": "Sensation"}
+            ]
+        },
+        "Frequency": {
+            "Description": "specify how often to monitor circulation",
+            "Required": true,
+            "Type": "options",
+            "Options": [
+                {"value": "hourly", "label": "Hourly"},
+                {"value": "every2Hours", "label": "Every 2 hours"},
+                {"value": "every4Hours", "label": "Every 4 hours"},
+                {"value": "other", "label": "Other (please specify)"}
+            ]
+        },
+        "Threshold Values": {
+            "Description": "specify threshold values for abnormal circulation readings",
+            "Required": true,
+            "Type": "list",
+            "List items": [
+                {"value": "pulse > 100", "label": "Pulse > 100"},
+                {"value": "capillary refill > 3 seconds", "label": "Capillary Refill > 3 seconds"},
+                {"value": "sensation abnormal", "label": "Sensation Abnormal"}
+            ]
+        }
+    }
+}

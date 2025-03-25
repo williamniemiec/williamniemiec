@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Emergency Assessment": {
+    "Changes": {"type": "list of changes", "description": "A parameter that specifies the sudden changes in swinging, tidaling, or bubbling to be assessed"},
+    "Assessment Questions": {"type": "list of questions", "description": "A parameter that specifies the questions to be asked to assess the patient's condition"},
+    "Reporting": {"type": "text or multimedia content", "description": "A parameter that specifies how the patient should report their assessment results"},
+    "Urgency Level": {"type": "list of urgency levels", "description": "A parameter that specifies the urgency level of the assessment results"},
+    "Alerts": {"type": "boolean", "description": "A parameter that specifies whether alerts should be sent to the healthcare provider if the patient reports sudden changes or emergent conditions"}
+  }
+}

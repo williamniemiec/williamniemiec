@@ -1,0 +1,30 @@
+Here is the output in JSON format:
+
+
+{
+  "FAQ": {
+    "Parameters": {
+      "Question": {"Type": "text"},
+      "Answer": {"Type": "text"},
+      "Category": {"Type": "options", "Options": ["General Information", "Eligibility", "Process", "Other"]}
+    }
+  },
+  "Informational Content": {
+    "Parameters": {
+      "Title": {"Type": "text"},
+      "Content": {"Type": "article, video, infographic"},
+      "Summary": {"Type": "text"}
+    }
+  },
+  "Quiz": {
+    "Parameters": {
+      "Question": {"Type": "text"},
+      "Options": {"Type": "options"},
+      "Correct Answer": {"Type": "text"},
+      "Explanation": {"Type": "text"}
+    }
+  }
+}
+
+
+Note that I removed the not applicable parameters and only kept the `{{ NO-CODE ELEMENT NAME }}` and `{{ PARAMETER ESPECIFICATIONS }}` as per your request.

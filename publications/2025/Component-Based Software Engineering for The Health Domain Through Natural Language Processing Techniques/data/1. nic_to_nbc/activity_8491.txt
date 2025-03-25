@@ -1,0 +1,42 @@
+Here is the output in JSON format, keeping only the `PARAMETER ESPECIFICATIONS` and `NO-CODE ELEMENT NAME`:
+
+
+{
+    "name": "Respiratory and Cardiac Status Assessment",
+    "parameters": [
+        {
+            "name": "title",
+            "type": "text"
+        },
+        {
+            "name": "sections",
+            "type": "list of text"
+        },
+        {
+            "name": "questions",
+            "type": "list of text"
+        },
+        {
+            "name": "answer_types",
+            "type": "list of text"
+        },
+        {
+            "name": "symptom_list",
+            "type": "list of text"
+        },
+        {
+            "name": "frequency",
+            "type": "options",
+            "options": [
+                { value: "daily" },
+                { value: "onlyOnce" },
+                { value: "everyHours" },
+                { value: "everyDays" }
+            ]
+        },
+        {
+            "name": "deadline_date",
+            "type": "datetime"
+        }
+    ]
+}

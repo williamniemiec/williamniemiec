@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+    "Medical History": {
+        "parameters": [
+            {"name": "medical_history", "description": "Medical history", "required": true, "type": "textarea"},
+            {"name": "allergies", "description": "List of allergies", "required": true, "type": "checkbox", "options": [{"value": "food", "label": "Food"}, {"value": "medication", "label": "Medication"}, {"value": "environmental", "label": "Environmental"}]},
+            {"name": "allergy_details", "description": "Details about allergies", "required": false, "type": "textarea"}
+        ]
+    }
+}

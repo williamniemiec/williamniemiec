@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+  "Parameter Specifications": {
+    "Personal Stories": {
+      "Type": ["text", "video", "audio"]
+    },
+    "Outcome Metrics": {
+      "Type": ["infographic", "chart", "graph"]
+    },
+    "Influence Pathways": {
+      "Type": ["flowchart", "diagram", "interactive simulation"]
+    },
+    "Call to Action": {
+      "Type": ["button", "link", "prompt"]
+    },
+    "Social Proof": {
+      "Type": ["counter", "badge", "leaderboard"]
+    }
+  },
+  "No-Code Element Name": "Community Impact"
+}

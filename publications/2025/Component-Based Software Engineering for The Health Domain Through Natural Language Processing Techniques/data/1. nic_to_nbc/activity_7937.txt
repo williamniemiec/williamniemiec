@@ -1,0 +1,44 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Assisted Task",
+    "parameters": [
+        {
+            "name": "Task",
+            "type": "text"
+        },
+        {
+            "name": "Assistance Level",
+            "type": "options",
+            "options": [
+                { value: "minimal", label: "Minimal" },
+                { value: "moderate", label: "Moderate" },
+                { value: "maximal", label: "Maximal" }
+            ]
+        },
+        {
+            "name": "Frequency",
+            "type": "options",
+            "options": [
+                { value: "daily", label: "Daily" },
+                { value: "onlyOnce", label: "Only once" },
+                { value: "everyHours", label: "Every x hours" },
+                { value: "everyDays", label: "Every x days" }
+            ]
+        },
+        {
+            "name": "Deadline Date",
+            "type": "datetime"
+        },
+        {
+            "name": "Assistance Type",
+            "type": "options",
+            "options": [
+                { value: "physical", label: "Physical" },
+                { value: "emotional", label: "Emotional" },
+                { value: "cognitive", label: "Cognitive" }
+            ]
+        }
+    ]
+}

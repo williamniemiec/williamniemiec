@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Weaning Method Consultation": {
+    "Health Care Personnel": {"type": "text", "required": true},
+    "Weaning Methods": {"type": "text", "required": true},
+    "Selected Method": {"type": "options", "required": true, "options": ["spontaneous breathing trial", "pressure support ventilation", "other (please specify)"]},
+    "Rationale": {"type": "text", "required": true},
+    "Notes": {"type": "text", "required": false}
+  }
+}

@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Protein Tracking": {
+    "Albumin Value": {},
+    "Total Protein Value": {},
+    "Unit": {},
+    "Frequency": {},
+    "Target Range": {},
+    "Protein History": {}
+  }
+}

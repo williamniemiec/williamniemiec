@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Skin Rash and Abrasion Monitoring": {
+    "Parameters": {
+      "Name": {},
+      "Instructions": {},
+      "Rash Presence": {},
+      "Rash Description": {},
+      "Abrasion Presence": {},
+      "Abrasion Description": {},
+      "Photo": {},
+      "Frequency": {},
+      "Deadline Date": {},
+      "Notes": {}
+    }
+  }
+}

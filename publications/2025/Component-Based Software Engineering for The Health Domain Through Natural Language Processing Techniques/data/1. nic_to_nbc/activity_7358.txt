@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Oral Hygiene Reminder": {
+    "Reminder Message": {"type": "text", "description": "Enter a reminder message to encourage the patient to brush their gums and tongue and rinse their oral cavity daily"},
+    "Frequency": {"type": "options", "options": ["Daily", "Weekly", "Monthly"], "description": "Select how often you want to receive the reminder"},
+    "Time of Day": {"type": "time", "description": "Select the time of day you want to receive the reminder"},
+    "Oral Hygiene Tips": {"type": "list", "description": "Enter additional oral hygiene tips"}
+  }
+}

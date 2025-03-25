@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Cord Care",
+  "parameters": [
+    {
+      "name": "Instructions",
+      "type": "ordered list of text"
+    },
+    {
+      "name": "Images",
+      "type": "list of image URLs or base64 encoded images"
+    },
+    {
+      "name": "Frequency",
+      "type": "options",
+      "options": [
+        { "value": "withEveryDiaperChange", "label": "With every diaper change" },
+        { "value": "atLeast3TimesADay", "label": "At least 3 times a day" }
+      ]
+    },
+    {
+      "name": "Tips",
+      "type": "list of text"
+    }
+  ]
+}

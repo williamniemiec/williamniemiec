@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "IV Infusion Pump Preparation": {
+    "Parameters": {
+      "Name": {
+        "Type": "text"
+      },
+      "Content": {
+        "Type": "text"
+      },
+      "Pump Selection Criteria": {
+        "Type": "list"
+      },
+      "Preparation Steps": {
+        "Type": "list"
+      },
+      "Image/Video": {
+        "Type": "image or video"
+      }
+    }
+  }
+}

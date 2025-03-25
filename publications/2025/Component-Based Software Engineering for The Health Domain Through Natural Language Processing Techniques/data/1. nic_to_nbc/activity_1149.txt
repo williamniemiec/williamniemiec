@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Pain Management Plan": {
+    "Name": {"type": "text"},
+    "Pain Assessment": {"type": "scale or options"},
+    "Comfort Measures": {"type": "list of options"},
+    "Medication": {"type": "text or selection from a list of medications"},
+    "Frequency": {"options": ["as needed", "daily", "everyHours", "everyDays"]},
+    "Deadline Date": {"type": "datetime"},
+    "Tracking": {"type": "graph or chart"}
+  }
+}

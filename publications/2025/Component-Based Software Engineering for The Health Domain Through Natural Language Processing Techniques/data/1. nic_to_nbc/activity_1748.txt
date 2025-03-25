@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Fluid Intake Tracker": {
+    "Goal": {"type": "number"},
+    "Frequency": {"type": "options", "options": ["hourly", "every 2 hours", "every 4 hours", "etc."]},
+    "Reminders": {"type": "boolean"},
+    "Tracking Method": {"type": "options", "options": ["log", "graph", "notification"]},
+    "Notes": {"type": "text"}
+  }
+}
+
+
+I removed the `Deadline Date` parameter since it's not applicable in this context. Let me know if you have any further questions!

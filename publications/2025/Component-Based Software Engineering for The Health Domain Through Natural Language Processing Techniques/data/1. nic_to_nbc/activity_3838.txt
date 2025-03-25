@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+
+{
+    "Contraindication Screener": {
+        "parameters": {
+            "Contraindication Questions": {
+                "type": "list of questions"
+            },
+            "Contraindication Criteria": {
+                "type": "rules engine"
+            },
+            "Alerts and Warnings": {
+                "type": "text"
+            }
+        }
+    }
+}

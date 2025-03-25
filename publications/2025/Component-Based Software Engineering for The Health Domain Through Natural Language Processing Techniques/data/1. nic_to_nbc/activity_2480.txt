@@ -1,0 +1,43 @@
+Here is the output in JSON format:
+
+
+{
+  "Specialty Foot Care Education": {
+    "Foot Care Services": {
+      "Description": "Recommended specialty foot care services",
+      "Required": true,
+      "Type": "list",
+      "Items": [
+        { "value": "orthotics", "label": "Orthotics or prescription footwear" },
+        { "value": "callusTrimming", "label": "Callus trimming" },
+        { "value": "toenailTrimming", "label": "Toenail trimming" },
+        { "value": "mobilityEvaluation", "label": "Mobility evaluation and exercises" },
+        { "value": "footDeformityEvaluation", "label": "Foot deformity evaluation and management" },
+        { "value": "skinOrNailDeformities", "label": "Treatment of skin or nail deformities/infection" },
+        { "value": "abnormalGaitCorrection", "label": "Correction of abnormal gait or weight-bearing" },
+        { "value": "impairedArterialCirculation", "label": "Evaluation and management of impaired arterial circulation" },
+        { "value": "other", "label": "Other (please specify)" }
+      ]
+    },
+    "Education Materials": {
+      "Description": "Additional education materials",
+      "Required": false,
+      "Type": "list",
+      "Items": [
+        { "value": "brochure", "label": "Brochure" },
+        { "value": "video", "label": "Video" },
+        { "value": "website", "label": "Website" },
+        { "value": "other", "label": "Other (please specify)" }
+      ]
+    },
+    "Family/Significant Others Involved": {
+      "Description": "Are family/significant others involved in your care?",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "yes", "label": "Yes" },
+        { "value": "no", "label": "No" }
+      ]
+    }
+  }
+}

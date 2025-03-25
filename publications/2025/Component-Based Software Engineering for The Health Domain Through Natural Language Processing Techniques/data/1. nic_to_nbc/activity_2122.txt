@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+  "Physical Activity Encouragement": {
+    "Energy Level": {
+      "description": "Rate your current energy level",
+      "type": "rating scale"
+    },
+    "Activity List": {
+      "description": "List of physical activities to encourage",
+      "type": "unordered list"
+    },
+    "Activity Scheduling": {
+      "description": "Schedule physical activities based on energy level",
+      "type": "schedule"
+    },
+    "Activity Duration": {
+      "description": "Specify the duration of each activity",
+      "type": "time interval"
+    }
+  }
+}

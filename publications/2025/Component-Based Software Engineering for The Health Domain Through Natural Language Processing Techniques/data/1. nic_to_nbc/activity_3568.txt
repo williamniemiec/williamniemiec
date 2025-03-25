@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Care Routine Planner",
+    "parameters": [
+        { 
+            "name": "Schedule Template", 
+            "type": "table or calendar"
+        },
+        { 
+            "name": "Care Tasks", 
+            "type": "ordered list"
+        },
+        { 
+            "name": "Frequency", 
+            "type": "options"
+        },
+        { 
+            "name": "Reminders", 
+            "type": "boolean"
+        },
+        { 
+            "name": "Adjustments", 
+            "type": "boolean"
+        }
+    ]
+}

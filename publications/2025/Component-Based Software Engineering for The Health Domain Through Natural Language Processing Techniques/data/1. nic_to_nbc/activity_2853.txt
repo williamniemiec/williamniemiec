@@ -1,0 +1,32 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Member Recruitment",
+  "parameters": [
+    {
+      "name": "Group Needs",
+      "type": "text or list of needs"
+    },
+    {
+      "name": "Recruitment Strategy",
+      "type": "text or selection from a list of strategies"
+    },
+    {
+      "name": "Candidate Criteria",
+      "type": "text or list of criteria"
+    },
+    {
+      "name": "Application Process",
+      "type": "text or list of steps"
+    },
+    {
+      "name": "Interview Process",
+      "type": "text or list of steps"
+    },
+    {
+      "name": "Onboarding Process",
+      "type": "text or list of steps"
+    }
+  ]
+}

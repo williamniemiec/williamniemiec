@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Low Sleeping Surface Reminder": {
+    "Parameters": {
+      "Low Sleeping Surface Reminder": {},
+      "Content": {},
+      "Trigger": {},
+      "Frequency": {},
+      "Sleeping Surface Specifications": {}
+    }
+  }
+}

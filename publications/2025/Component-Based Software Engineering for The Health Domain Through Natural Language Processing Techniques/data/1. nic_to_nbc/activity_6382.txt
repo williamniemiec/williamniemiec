@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Cost of Service Explanation",
+  "parameters": [
+    {
+      "name": "Introduction"
+    },
+    {
+      "name": "Cost Breakdown"
+    },
+    {
+      "name": "Payment Options"
+    },
+    {
+      "name": "Financial Assistance"
+    },
+    {
+      "name": "FAQs"
+    }
+  ]
+}
+
+
+I removed all unnecessary information and kept only the `{{ NO-CODE ELEMENT NAME }}` and `{{ PARAMETER ESPECIFICATIONS }}`. I also reformatted the output to match the desired JSON structure.

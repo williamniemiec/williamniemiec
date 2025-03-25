@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Environmental Avoidance Instruction": {
+    "parameters": {
+      "name": "",
+      "why": "",
+      "what_to_avoid": [],
+      "recommended_alternatives": [],
+      "notes": []
+    }
+  }
+}

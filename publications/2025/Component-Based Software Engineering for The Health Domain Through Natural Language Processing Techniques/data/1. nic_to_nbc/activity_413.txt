@@ -1,0 +1,33 @@
+Here is the output in JSON format:
+
+
+[
+  {
+    "name": "Tracheal Entry Observation",
+    "parameters": [
+      { "name": "Symptoms", "type": "checklist" },
+      { "name": "Frequency", "type": "options" }
+    ]
+  },
+  {
+    "name": "Aspirate Inspection",
+    "parameters": [
+      { "name": "Color", "type": "options" },
+      { "name": "pH Level", "type": "number" },
+      { "name": "Frequency", "type": "options" }
+    ]
+  },
+  {
+    "name": "Oral Cavity Inspection",
+    "parameters": [
+      { "name": "Frequency", "type": "options" }
+    ]
+  },
+  {
+    "name": "X-ray Film Review",
+    "parameters": [
+      { "name": "Image", "type": "image" },
+      { "name": "Frequency", "type": "options" }
+    ]
+  }
+]

@@ -1,0 +1,37 @@
+Here is the output in JSON format:
+
+
+{
+  "Safe Play": {
+    "Age Range": {
+      "type": "options",
+      "options": [
+        "0-3 months",
+        "4-6 months",
+        "7-9 months",
+        "10-12 months"
+      ]
+    },
+    "Developmental Stage": {
+      "type": "options",
+      "options": [
+        "Cognitive",
+        "Motor",
+        "Language",
+        "Social-Emotional"
+      ]
+    },
+    "Toy and Activity Recommendations": {
+      "type": "list",
+      "examples": [
+        "For a 4-6 month old infant in the cognitive developmental stage, recommend toys that promote problem-solving and exploration, such as shape sorters and stacking toys.",
+        "For a 7-9 month old infant in the motor developmental stage, recommend activities that promote gross motor skills, such as crawling tunnels and playmats."
+      ]
+    },
+    "Safety Guidelines": {
+      "type": null
+    }
+  }
+}
+
+I removed all unnecessary information and kept only the `{{ NO-CODE ELEMENT NAME }}` ("Safe Play") and `{{ PARAMETER ESPECIFICATIONS }}`. I also removed the "Not Applicable" parameters (in this case, none).

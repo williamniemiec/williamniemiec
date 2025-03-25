@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Role Model Reminder": {
+    "Parameters": {
+      "Title": {"Type": "text"},
+      "Message": {"Type": "text"},
+      "Image": {"Type": "image URL"},
+      "Frequency": {"Options": ["daily", "weekly", "monthly"]},
+      "Call to Action": {"Type": "text"}
+    }
+  }
+}

@@ -1,0 +1,11 @@
+
+
+
+{
+    "Fall Prevention Guide": {
+        "Parameters": {
+            "Content": {"Type": "text or multimedia"},
+            "Recommendations": {"Type": "text or options"}
+        }
+    }
+}

@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Social Activity and Visitation Preferences": {
+        "parameters": {
+            "Social Activity Options": {"type": "checklist", "options": ["watching TV", "reading", "playing games", "etc."]},
+            "Visitation Schedule": {"type": "calendar"},
+            "Visitor Preferences": {"type": "options", "options": ["family only", "friends only", "limited visitors", "etc."]},
+            "Activity Frequency": {"type": "options", "options": ["daily", "every other day", "weekly", "etc."]}
+        }
+    }
+}

@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Compression Stocking Instruction": {
+        "Parameters": {
+            "Type": {"Type": "options"},
+            "Application Instructions": {"Type": "text"},
+            "Wearing Schedule": {"Type": "text"},
+            "Monitoring": {"Type": "text"}
+        }
+    }
+}

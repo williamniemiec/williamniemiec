@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Appointment Scheduler": {
+    "Parameters": {
+      "Appointment Type": {},
+      "Provider": {},
+      "Date and Time": {},
+      "Location": {},
+      "Duration": {},
+      "Reminders": {},
+      "Notes": {}
+    }
+  }
+}

@@ -1,0 +1,14 @@
+
+
+
+{
+    "Epinephrine Administration": {
+        "name": {"type": "text"},
+        "why": {"type": "text"},
+        "route": {"type": "options", "options": ["IV", "intraosseous", "endotracheal"]},
+        "dosage": {"type": "text"},
+        "frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+        "deadline_date": {"type": "datetime"},
+        "notes": {"type": "text"}
+    }
+}

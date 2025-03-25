@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Symptom Checker": {
+    "Parameters": {
+      "Symptoms": ["Hypotension", "Flushing", "Bradycardia", "Heart blocks", "Widened QRS", "Prolonged QT", "Peaked T waves"],
+      "Severity": "",
+      "Frequency": ["daily", "every 2 hours"],
+      "Deadline Date": {"Type": "datetime"}
+    }
+  },
+  "Vital Sign Tracker": {
+    "Parameters": {
+      "Vital Signs": ["Heart rate", "Blood pressure"]
+    }
+  }
+}

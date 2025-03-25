@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+  "Community Program Participation": {
+    "parameters": {
+      "Community Program": {},
+      "Program Description": {},
+      "Program Goals": {},
+      "Participation Frequency": {
+        "options": ["daily", "weekly", "monthly", "quarterly"]
+      },
+      "Participation Method": {
+        "options": ["in-person", "online", "phone call", "video conference"]
+      },
+      "Program Contact": {},
+      "Follow-up Date": {}
+    }
+  }
+}

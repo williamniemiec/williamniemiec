@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "Chemical Burn Washing Guide": {
+    "Washing Duration": {
+      "Description": "Record the duration of washing",
+      "Required": true,
+      "Type": "measurement",
+      "Measurement units": "minutes"
+    },
+    "Washing Frequency": {
+      "Description": "Frequency of washing the wound",
+      "Required": true,
+      "Type": "options",
+      "Options": ["every 15 minutes", "every 30 minutes", "every 1 hour"]
+    },
+    "Washing Solution": {
+      "Description": "Choose the washing solution to use",
+      "Required": true,
+      "Type": "options",
+      "Options": ["Water", "Saline solution", "Other ( specify )"]
+    }
+  }
+}

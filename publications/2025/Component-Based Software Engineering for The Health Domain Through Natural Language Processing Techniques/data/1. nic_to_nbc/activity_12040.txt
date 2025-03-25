@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+    "Oxygen Toxicity Education": {
+        "Parameters": {
+            "Name": {"Type": "text"},
+            "Content": {"Type": "text or multimedia"},
+            "Questions": {"Type": "list of questions with answer options"},
+            "Symptom Checker": {"Type": "list of symptoms with checkboxes or rating scales"}
+        }
+    },
+    "Oxygen Therapy Monitoring": {
+        "Parameters": {
+            "Name": {"Type": "text"},
+            "Symptom Report": {"Type": "list of symptoms with checkboxes or rating scales"},
+            "Oxygen Saturation": {"Type": "numeric value"},
+            "Frequency": {"Type": "options"}
+        }
+    }
+}

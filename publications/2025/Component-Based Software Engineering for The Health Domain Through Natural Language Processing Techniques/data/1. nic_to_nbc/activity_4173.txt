@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Exercise Tolerance Monitoring": {
+    "Parameters": {
+      "Exercise": {"Type": "text"},
+      "Symptoms": {"Type": "checklist"},
+      "Severity": {"Type": "scale"},
+      "Exercise Duration": {"Type": "time"},
+      "Exercise Intensity": {"Type": "scale"},
+      "Notes": {"Type": "text"}
+    }
+  }
+}

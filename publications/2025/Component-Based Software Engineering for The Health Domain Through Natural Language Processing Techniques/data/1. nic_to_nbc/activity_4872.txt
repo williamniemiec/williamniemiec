@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Skin Integrity Tracker": {
+    "parameters": {
+      "Skin Assessment": {"type": "questionnaire"},
+      "Skin Photography": {"type": "camera"},
+      "Symptom Tracking": {"type": "options", "options": ["yes", "no", "other"]},
+      "Scar Management": {"type": "text"},
+      "Fungal Infection Prevention": {"type": "text"},
+      "Contact Dermatitis Prevention": {"type": "text"},
+      "Progress Tracking": {"type": "text"}
+    }
+  }
+}

@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Priority Identifier",
+    "parameters": [
+        { 
+            "name": "Name", 
+            "type": "text"
+        },
+        { 
+            "name": "Priority Categories", 
+            "type": "list of text"
+        },
+        { 
+            "name": "Reflection Questions", 
+            "type": "list of text"
+        },
+        { 
+            "name": "Ranking", 
+            "type": "boolean"
+        },
+        { 
+            "name": "Goal Setting", 
+            "type": "boolean"
+        }
+    ]
+}

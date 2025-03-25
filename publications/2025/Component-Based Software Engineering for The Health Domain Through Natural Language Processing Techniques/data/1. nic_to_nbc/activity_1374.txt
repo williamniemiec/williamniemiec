@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Teaching Method Selection": {
+    "Learning Objectives": {"type": "text"},
+    "Learning Style": {"type": "text"},
+    "Teaching Methods": {"type": "unordered list"},
+    "Strategies": {"type": "unordered list"},
+    "Selection Criteria": {"type": "conditional logic"},
+    "Recommended Method": {"type": "text"}
+  }
+}

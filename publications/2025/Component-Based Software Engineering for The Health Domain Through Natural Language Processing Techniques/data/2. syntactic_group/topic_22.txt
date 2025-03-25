@@ -1,0 +1,10 @@
+{
+  "name": "Referral and Specialist Consultation",
+  "description": "Manages referrals to specialists for services such as counseling, consultation, or specific medical services, including contact information and reasons for referral.",
+  "type": "non-periodic",
+  "input": ["Referral reason", "Specialist contact", "Service details", "Consultation request"],
+  "output": ["Referral confirmation", "Consultation outcomes", "Specialist feedback"],
+  "preconditions": ["Referral request is made by a healthcare provider"],
+  "postconditions": ["Referral is completed, and consultation is scheduled or performed"],
+  "dependencies": ["Referral management system", "Specialist contact database", "Medical information system"]
+}

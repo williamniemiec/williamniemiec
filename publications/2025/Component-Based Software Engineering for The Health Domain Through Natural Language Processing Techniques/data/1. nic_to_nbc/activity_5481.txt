@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Genetic Counseling": {
+    "parameters": {
+      "Genetic Condition": {},
+      "Counseling Objectives": {},
+      "Family History": {},
+      "Risk Assessment": {},
+      "Counseling Content": {},
+      "Resources": {},
+      "Next Steps": {}
+    }
+  }
+}

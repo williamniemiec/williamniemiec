@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Ambulation Reminder": {
+    "Parameters": {
+      "Content": {
+        "Type": "text or multimedia"
+      },
+      "Frequency": {
+        "Type": "options"
+      },
+      "Duration": {
+        "Type": "time interval"
+      }
+    }
+  }
+}

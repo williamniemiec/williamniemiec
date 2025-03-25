@@ -1,0 +1,40 @@
+Here is the output in JSON format:
+
+
+{
+  "Weight Tracker": {
+    "parameters": [
+      {"name": "weight", "description": "Enter daily weight", "required": true, "type": "number"},
+      {"name": "frequency", "description": "How often to track weight", "required": true, "type": "options", "options": [{"value": "daily", "label": "Daily"}, {"value": "onlyOnce", "label": "Only once"}, {"value": "everyHours", "label": "Every x hours"}, {"value": "everyDays", "label": "Every x days"}]},
+      {"name": "deadline_date", "description": "Specify the due date for weight tracking", "required": false, "type": "datetime"}
+    ]
+  },
+  "Urine Output Tracker": {
+    "parameters": [
+      {"name": "urine_output", "description": "Enter urine output", "required": true, "type": "number"},
+      {"name": "frequency", "description": "How often to track urine output", "required": true, "type": "options", "options": [{"value": "daily", "label": "Daily"}, {"value": "onlyOnce", "label": "Only once"}, {"value": "everyHours", "label": "Every x hours"}, {"value": "everyDays", "label": "Every x days"}]},
+      {"name": "deadline_date", "description": "Specify the due date for urine output tracking", "required": false, "type": "datetime"}
+    ]
+  },
+  "Jugular Vein Distention Tracker": {
+    "parameters": [
+      {"name": "distention", "description": "Is jugular vein distended?", "required": true, "type": "checkbox"},
+      {"name": "frequency", "description": "How often to track jugular vein distention", "required": true, "type": "options", "options": [{"value": "daily", "label": "Daily"}, {"value": "onlyOnce", "label": "Only once"}, {"value": "everyHours", "label": "Every x hours"}, {"value": "everyDays", "label": "Every x days"}]},
+      {"name": "deadline_date", "description": "Specify the due date for jugular vein distention tracking", "required": false, "type": "datetime"}
+    ]
+  },
+  "Lung Sounds Tracker": {
+    "parameters": [
+      {"name": "sounds", "description": "Are there lung sounds?", "required": true, "type": "checkbox"},
+      {"name": "frequency", "description": "How often to track lung sounds", "required": true, "type": "options", "options": [{"value": "daily", "label": "Daily"}, {"value": "onlyOnce", "label": "Only once"}, {"value": "everyHours", "label": "Every x hours"}, {"value": "everyDays", "label": "Every x days"}]},
+      {"name": "deadline_date", "description": "Specify the due date for lung sounds tracking", "required": false, "type": "datetime"}
+    ]
+  },
+  "Right Atrial Pressure Tracker": {
+    "parameters": [
+      {"name": "pressure", "description": "Enter right atrial pressure", "required": true, "type": "number"},
+      {"name": "frequency", "description": "How often to track right atrial pressure", "required": true, "type": "options", "options": [{"value": "daily", "label": "Daily"}, {"value": "onlyOnce", "label": "Only once"}, {"value": "everyHours", "label": "Every x hours"}, {"value": "everyDays", "label": "Every x days"}]},
+      {"name": "deadline_date", "description": "Specify the due date for right atrial pressure tracking", "required": false, "type": "datetime"}
+    ]
+  }
+}

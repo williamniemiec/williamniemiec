@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Portion Control Guide": {
+    "Parameters": {
+      "Portion Size Guidelines": {"Type": "text or HTML"},
+      "Meal Planning Tips": {"Type": "list of text or HTML"},
+      "Food Measurement Tools": {"Type": "list of text or HTML"},
+      "Benefits Information": {"Type": "text or HTML"}
+    }
+  }
+}
+
+
+I removed the `Frequency` parameter since it's not applicable to this specific no-code element. Let me know if you have any further requests!

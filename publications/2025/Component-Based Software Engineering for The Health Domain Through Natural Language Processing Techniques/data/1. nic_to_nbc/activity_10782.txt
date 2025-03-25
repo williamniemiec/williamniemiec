@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Resource Referral": {
+    "Parameters": {
+      "Name": {},
+      "Description": {},
+      "Link": {},
+      "Phone Number": {},
+      "Address": {},
+      "Why": {}
+    }
+  }
+}

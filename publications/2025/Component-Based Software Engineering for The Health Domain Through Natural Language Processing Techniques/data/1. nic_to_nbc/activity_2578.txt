@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+    "Skin Integrity Assessment": {
+        "parameters": [
+            {"name": "skin_condition", "description": "Describe the current skin condition (e.g., intact, redness, ulceration)"},
+            {"name": "affected_area", "description": "Specify the area(s) affected by dependent edema"},
+            {"name": "frequency", "description": "Specify how often to assess and report on skin integrity"}
+        ]
+    }
+}

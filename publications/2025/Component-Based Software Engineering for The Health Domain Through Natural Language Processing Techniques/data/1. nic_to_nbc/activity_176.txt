@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "CSF Drainage Tracker": {
+    "parameters": {
+      "name": "Monitor CSF drainage characteristics",
+      "characteristics": [
+        {"name": "Color", "description": "Select the color of the CSF drainage", "required": true, "type": "options"},
+        {"name": "Clarity", "description": "Select the clarity of the CSF drainage", "required": true, "type": "options"},
+        {"name": "Consistency", "description": "Select the consistency of the CSF drainage", "required": true, "type": "options"},
+        {"name": "frequency", "description": "Select one of the following options", "required": true, "type": "options"}
+      ]
+    }
+  }
+}

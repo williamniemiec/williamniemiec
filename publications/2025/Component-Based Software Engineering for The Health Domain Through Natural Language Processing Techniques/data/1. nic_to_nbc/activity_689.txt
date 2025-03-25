@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+"Floor Clutter Removal": {
+"Clutter Type": {"Type": "options"},
+"Clutter Location": {"Type": "options"},
+"Removal Instructions": {"Type": "text or multimedia"},
+"Fall Risk Assessment": {"Type": "boolean"}
+}
+}

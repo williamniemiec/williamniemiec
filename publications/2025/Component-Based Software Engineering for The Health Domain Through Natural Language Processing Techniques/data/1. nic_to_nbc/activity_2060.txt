@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Electrolyte Tracking": {
+    "Parameters": {
+      "Electrolyte Type": {"Type": "options", "Options": ["sodium", "potassium", "calcium", "etc."]},
+      "Serum Value": {"Type": "number"},
+      "Urine Value": {"Type": "number"},
+      "Unit": {"Type": "options", "Options": ["mmol/L", "mEq/L", "etc."]},
+      "Frequency": {"Type": "options", "Options": ["daily", "weekly", "monthly"]},
+      "Target Range": {"Type": "range"}
+    }
+  }
+}

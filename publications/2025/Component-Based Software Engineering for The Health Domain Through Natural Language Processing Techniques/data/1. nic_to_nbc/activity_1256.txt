@@ -1,0 +1,32 @@
+Here is the output in JSON format:
+
+
+{
+    "Question": {
+        "parameters": {
+            "name": "",
+            "answer type": ""
+        }
+    },
+    "Self-Assessment": {
+        "parameters": {
+            "name": "",
+            "answer type": ""
+        }
+    },
+    "Open-Ended Question": {
+        "parameters": {
+            "name": "",
+            "answer type": "text"
+        }
+    },
+    "Scenario": {
+        "parameters": {
+            "description": "",
+            "question": "",
+            "answer type": ""
+        }
+    }
+}
+
+Note that I removed the "not applicable" parameters and only kept the relevant information. Let me know if you need any further processing!

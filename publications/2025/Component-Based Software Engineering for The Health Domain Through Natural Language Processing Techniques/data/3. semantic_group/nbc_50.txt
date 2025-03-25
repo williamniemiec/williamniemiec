@@ -1,0 +1,10 @@
+{
+  "name": "Anxiety and Emotional Screening",
+  "description": "Screens patients for anxiety, depression, and emotional responses. Assesses mood and reactions, providing a scale to measure emotional distress.",
+  "type": "non-periodic",
+  "input": ["Anxiety screening questions", "Depression screening tools", "Emotional scale", "Mood assessment"],
+  "output": ["Emotional distress report", "Screening feedback", "Mood and anxiety score"],
+  "preconditions": ["User is undergoing emotional or mental health screening"],
+  "postconditions": ["Emotional distress identification and intervention plan"],
+  "dependencies": ["Mental health screening tools", "Anxiety and depression tracking", "Mood analysis platform"]
+}

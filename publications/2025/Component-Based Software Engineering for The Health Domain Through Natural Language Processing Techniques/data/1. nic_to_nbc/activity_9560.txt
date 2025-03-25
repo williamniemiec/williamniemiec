@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Visitor Limitation Guidance",
+    "parameters": [
+        { 
+            "name": "Visitor Limit", 
+            "type": "number"
+        },
+        { 
+            "name": "Visitor Restrictions", 
+            "type": "text or HTML"
+        },
+        { 
+            "name": "Duration", 
+            "type": "text or datetime"
+        },
+        { 
+            "name": "Exceptions", 
+            "type": "unordered list or text"
+        }
+    ]
+}
+
+
+Let me know if you need any further assistance!

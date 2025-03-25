@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Crisis Support": {
+    "Parameters": {
+      "Crisis Hotlines": {},
+      "Coping Strategies": {},
+      "Emotional Support": {}
+    }
+  }
+}

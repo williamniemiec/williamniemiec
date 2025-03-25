@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+    "Communication Prompt": {
+        "Prompt Content": {"Type": "text"},
+        "Prompt Format": {"Type": "options", "Options": ["written", "verbal", "visual"]}
+    },
+    "Active Listening Exercise": {
+        "Exercise Instructions": {"Type": "text"},
+        "Exercise Format": {"Type": "options", "Options": ["written", "verbal", "role-playing"]}
+    },
+    "Emotional Expression Tool": {
+        "Tool Type": {"Type": "options", "Options": ["emotional wheel", "feelings chart", "journaling"]},
+        "Tool Content": {"Type": "text"}
+    },
+    "Family Meeting": {
+        "Meeting Purpose": {"Type": "text"},
+        "Meeting Format": {"Type": "options", "Options": ["in-person", "video conference", "phone call"]}
+    }
+}

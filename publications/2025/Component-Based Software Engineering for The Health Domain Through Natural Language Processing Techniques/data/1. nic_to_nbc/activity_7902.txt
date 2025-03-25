@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Unit Orientation": {
+    "parameters": {
+      "Unit Information": {},
+      "Important Contacts": {},
+      "Unit Rules": {},
+      "Resources": {},
+      "Tour": {}
+    }
+  }
+}

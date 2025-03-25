@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Anxiety and Discomfort Monitoring": {
+    "parameters": [
+      {"name": "name", "description": "title of the anxiety and discomfort monitoring"},
+      {"name": "anxiety_scale", "description": "a scale to measure patients' anxiety levels"},
+      {"name": "discomfort_scale", "description": "a scale to measure patients' discomfort related to behavioral change"},
+      {"name": "frequency", "description": "specify how often the patient should monitor their anxiety and discomfort"},
+      {"name": "tracking_method", "description": "specify the method for tracking anxiety and discomfort"}
+    ]
+  }
+}

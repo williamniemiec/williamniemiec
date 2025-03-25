@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Mood Check-in",
+    "parameters": [
+        {
+            "name": "Emotion Options"
+        },
+        {
+            "name": "Intensity Scale"
+        },
+        {
+            "name": "Reflection Prompt"
+        },
+        {
+            "name": "Frequency"
+        }
+    ]
+}
+
+
+Note that I removed the `Deadline Date` parameter since it's not applicable (i.e., its required field is set to false). Let me know if you need any further modifications!

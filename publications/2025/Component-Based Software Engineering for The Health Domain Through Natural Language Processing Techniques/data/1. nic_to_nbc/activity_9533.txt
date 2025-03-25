@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Event Preparation Guide": {
+    "Guide Content": {"type": ["text", "multimedia"]},
+    "Event Type": {"type": "text"},
+    "Frequency": {"options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"type": "datetime"}
+  }
+}

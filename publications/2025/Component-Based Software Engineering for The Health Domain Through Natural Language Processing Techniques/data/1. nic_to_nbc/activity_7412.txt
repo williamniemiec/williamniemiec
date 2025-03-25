@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+  "Defibrillation Education": {
+    "Education modules": [
+      "What is cardiopulmonary arrest?",
+      "How to recognize the signs of cardiac arrest",
+      "When to use an Automated External Defibrillator (AED)",
+      "How to properly use an AED"
+    ],
+    "Interactive resources": [
+      "Videos demonstrating AED usage",
+      "Interactive simulations of cardiac arrest scenarios",
+      "Quizzes to test knowledge on cardiopulmonary arrest and AED usage"
+    ],
+    "Downloadable resources": [
+      "Infographics on cardiopulmonary arrest and AED usage",
+      "Brochures on cardiac arrest recognition and response",
+      "AED user manuals"
+    ]
+  }
+}

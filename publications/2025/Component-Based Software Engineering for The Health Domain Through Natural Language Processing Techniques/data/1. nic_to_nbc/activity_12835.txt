@@ -1,0 +1,30 @@
+Here is the output in JSON format:
+
+
+{
+  "Comfort Positioning": {
+    "Parameters": {
+      "Positioning Options": {
+        "Type": "list of options"
+      },
+      "Tips": {
+        "Type": "text"
+      },
+      "Comfort Level": {
+        "Type": "text"
+      }
+    }
+  },
+  "Comfort Assessment": {
+    "Parameters": {
+      "Comfort Questions": {
+        "Type": "list of questions"
+      },
+      "Comfort Scale": {
+        "Type": "numeric value or text"
+      }
+    }
+  }
+}
+
+Let me know if this meets your requirements!

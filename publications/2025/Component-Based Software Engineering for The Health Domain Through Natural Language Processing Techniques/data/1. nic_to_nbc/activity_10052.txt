@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Smoking Supervision": {
+    "parameters": {
+      "Smoking Permission": {"type": "boolean"},
+      "Supervision Level": {"type": "options", "options": ["closeSupervision", "moderateSupervision", "minimalSupervision"]},
+      "Smoking Area": {"type": "options", "options": ["designatedSmokingArea", "outdoorArea", "other"]},
+      "Fire Safety Precautions": {"type": "list of options", "options": ["fireExtinguisher", "smokeDetector", "other"]},
+      "Supervision Frequency": {"type": "options", "options": ["continuous", "frequent", "periodic"]}
+    }
+  }
+}
+
+
+Let me know if this meets your requirements!

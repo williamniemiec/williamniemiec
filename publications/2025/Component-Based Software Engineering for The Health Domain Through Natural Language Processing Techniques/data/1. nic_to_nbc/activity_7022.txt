@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+"Body Language Guide": {
+"Parameters": {
+"Body Language Tips": {"Type": "text"},
+"Verbal Communication Tips": {"Type": "text"}
+}
+},
+"Self-Assessment Quiz": {
+"Parameters": {
+"Quiz Questions": {"Type": "multiple-choice or true/false questions"},
+"Correct Answers": {"Type": "text"}
+}
+},
+"Role-Playing Exercise": {
+"Parameters": {
+"Scenario": {"Type": "text"},
+"Body Language Options": {"Type": "options"},
+"Verbal Communication Options": {"Type": "options"}
+}
+}
+}

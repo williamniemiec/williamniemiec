@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Attention Redirector": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Cue Type": {"Type": "options", "Options": ["audio", "visual", "vibration"]},
+      "Cue Frequency": {"Type": "options", "Options": ["every 15 minutes", "every 30 minutes", "every hour"]},
+      "Cue Message": {"Type": "text"},
+      "Environmental Cues": {"Type": "options", "Options": []},
+      "Frequency": {"Type": "options", "Options": ["daily", "every few hours", "as needed"]}
+    }
+  }
+}
+
+
+Note that I removed the `Deadline Date` parameter as it is not applicable, and also removed the `Environmental Cues` options list as it was empty.

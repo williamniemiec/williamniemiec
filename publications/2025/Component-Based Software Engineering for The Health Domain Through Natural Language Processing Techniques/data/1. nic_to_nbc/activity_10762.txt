@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Wheelchair Operation Guide": {
+    "parameters": {
+      "name": "Wheelchair Operation Guide",
+      "description": "Step-by-step guide on how to operate a wheelchair",
+      "content_type": ["video", "image", "text"],
+      "wheelchair_type": ["manual", "electric"],
+      "instructions": "step-by-step instructions on how to operate the wheelchair, including safety precautions",
+      "tips": "additional tips and considerations for safe and effective wheelchair operation",
+      "frequency": "specify how often the patient should practice operating the wheelchair",
+      "deadline_date": "specify the due date for completing the wheelchair operation guide"
+    }
+  }
+}
+
+Note that I removed the "Not Applicable" parameters as per your request. Let me know if you need any further assistance!

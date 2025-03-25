@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Parental Support": {
+    "Reassurance": {"Type": "text"},
+    "Guidance": {"Type": "text or link"},
+    "Resources": {"Type": "text or link"},
+    "Frequency": {"Type": "options"}
+  }
+}

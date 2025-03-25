@@ -1,0 +1,38 @@
+Here is the output in JSON format:
+
+
+{
+  "Activity Guide": {
+    "Name": {"type": "text"},
+    "Activities": {
+      "type": "list of activities",
+      "activity": {
+        "Title": {"type": "text"},
+        "Description": {"type": "HTML text"},
+        "Instructions": {
+          "type": "list of instructions",
+          "instruction": {
+            "Step": {"type": "number"},
+            "Content": {"type": "HTML text"}
+          }
+        },
+        "Tips": {
+          "type": "list of tips",
+          "tip": {
+            "Content": {"type": "HTML text"}
+          }
+        },
+        "Media": {"type": "media (image or video)"}
+      }
+    },
+    "Age Ranges": {
+      "type": "list of age ranges",
+      "age range": {
+        "Start Age": {"type": "number"},
+        "End Age": {"type": "number"}
+      }
+    },
+    "Activity Tracker": {"type": "interactive chart"},
+    "Activity Reminders": {"type": "reminders (e.g. push notifications, in-app notifications)"}
+  }
+}

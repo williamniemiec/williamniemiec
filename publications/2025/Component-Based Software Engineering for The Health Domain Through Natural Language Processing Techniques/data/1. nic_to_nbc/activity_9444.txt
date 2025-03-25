@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "fetal_development_education": {
+        "parameters": [
+            {"name": "fetal_development", "description": "explain early fetal development"},
+            {"name": "personal_habits", "description": "explain the impact of personal habits on fetal development"},
+            {"name": "medication_use", "description": "explain the impact of medication use on fetal development"},
+            {"name": "teratogens", "description": "explain the impact of teratogens on fetal development"},
+            {"name": "self_care_requisites", "description": "explain the importance of self-care requisites for fetal development"}
+        ]
+    }
+}

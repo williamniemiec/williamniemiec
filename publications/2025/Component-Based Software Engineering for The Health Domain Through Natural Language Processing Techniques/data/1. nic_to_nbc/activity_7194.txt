@@ -1,0 +1,33 @@
+Here is the output in JSON format:
+
+
+{
+  "Antiarrhythmic Therapy Tracker": {
+    "Parameters": {
+      "Therapy Type": {
+        "Type": "options"
+      },
+      "Medication": {
+        "Type": "text"
+      },
+      "Cardioversion/Defibrillation": {
+        "Type": "text"
+      },
+      "Date": {
+        "Type": "date"
+      },
+      "Time": {
+        "Type": "time"
+      },
+      "Frequency": {
+        "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+      },
+      "Deadline Date": {
+        "Type": "datetime"
+      }
+    }
+  }
+}
+
+
+Let me know if this is what you were expecting!

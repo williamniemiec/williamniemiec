@@ -1,0 +1,7 @@
+
+
+
+{
+  "Parameter Specifications": "* Review of patient records and legal documents\n* Communication with legal authorities or guardians (if applicable)\n* Clinical judgment to determine the patient's legal status (e.g., minor or adult, voluntary or court-ordered treatment)\n* Knowledge of relevant laws and regulations regarding patient rights and treatment",
+  "No-code Element Name": null
+}

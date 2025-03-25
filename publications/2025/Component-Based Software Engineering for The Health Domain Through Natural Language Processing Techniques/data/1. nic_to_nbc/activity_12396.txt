@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+    "Risk Assessment": {
+        "Parameters": {
+            "Question": {"Type": "text"},
+            "Options": {"Type": "list of text"},
+            "Details": {"Type": "text"}
+        }
+    },
+    "Suicidal Ideation Assessment": {
+        "Parameters": {
+            "Question": {"Type": "text"},
+            "Options": {"Type": "list of text"},
+            "Details": {"Type": "text"}
+        }
+    },
+    "Harm to Others Assessment": {
+        "Parameters": {
+            "Question": {"Type": "text"},
+            "Options": {"Type": "list of text"},
+            "Details": {"Type": "text"}
+        }
+    }
+}

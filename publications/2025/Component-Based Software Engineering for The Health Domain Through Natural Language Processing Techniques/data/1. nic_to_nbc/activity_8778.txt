@@ -1,0 +1,37 @@
+Here is the output in JSON format:
+
+
+{
+  "Bathing Preferences": {
+    "Parameters": {
+      "Bathing Method": {
+        "Description": "Preferred bathing method (e.g. sponge bath, tub bath, etc.)",
+        "Required": true,
+        "Type": "options",
+        "Options": [
+          { "value": "spongeBath", "label": "Sponge Bath" },
+          { "value": "tubBath", "label": "Tub Bath" },
+          { "value": "other", "label": "Other (please specify)" }
+        ]
+      },
+      "Bathing Frequency": {
+        "Description": "Preferred frequency of bathing (e.g. daily, every other day, etc.)",
+        "Required": true,
+        "Type": "options",
+        "Options": [
+          { "value": "daily", "label": "Daily" },
+          { "value": "everyOtherDay", "label": "Every Other Day" },
+          { "value": "other", "label": "Other (please specify)" }
+        ]
+      },
+      "Special Requests": {
+        "Description": "Any special requests or considerations for bathing (e.g. warm water, gentle soap, etc.)",
+        "Required": false,
+        "Type": "text"
+      }
+    }
+  }
+}
+
+
+Let me know if this meets your requirements!

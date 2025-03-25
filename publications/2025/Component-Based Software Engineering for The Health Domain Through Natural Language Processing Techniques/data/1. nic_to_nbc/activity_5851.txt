@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+    "Guide": {
+        "Parameters": {
+            "Name": "",
+            "Pages": "",
+            "Content": ""
+        }
+    },
+    "Alert": {
+        "Parameters": {
+            "Message": "",
+            "Frequency": "",
+            "Options": ["daily", "everyHours", "everyDays"],
+            "Deadline Date": {"Type": "datetime"}
+        }
+    },
+    "Task": {
+        "Parameters": {
+            "Name": "",
+            "Content": "",
+            "Frequency": {"Options": ["daily", "everyHours", "everyDays"]},
+            "Deadline Date": {"Type": "datetime"}
+        }
+    }
+}

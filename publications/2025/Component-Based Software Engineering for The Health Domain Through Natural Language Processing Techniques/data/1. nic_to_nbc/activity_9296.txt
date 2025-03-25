@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+    "Coagulation Study Tracker": {
+        "Parameters": {
+            "Name": {"Type": "text"},
+            "Frequency": {"Options": ["daily", "everyHours", "everyDays"]},
+            "Deadline Date": {"Type": "datetime"},
+            "Prothrombin Time (PT)": {"Type": "numeric"},
+            "Partial Thromboplastin Time (PTT)": {"Type": "numeric"},
+            "Fibrinogen": {"Type": "numeric"},
+            "Fibrin Degradation/Split Products": {"Type": "numeric"},
+            "Platelet Count": {"Type": "numeric"},
+            "Notes": {"Type": "text"}
+        }
+    }
+}

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Cultural Accommodation": {
+        "parameters": {
+            "Cultural Profile": {},
+            "Accommodation Type": {},
+            "Accommodation Details": {},
+            "Calendar Integration": {},
+            "Resource Allocation": {}
+        }
+    }
+}

@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Community Preparedness": {
+    "parameters": [
+      {
+        "name": "step 1",
+        "description": "Create a family emergency plan",
+        "required": true,
+        "type": "guide" or "checklist item"
+      }
+    ]
+  }
+}

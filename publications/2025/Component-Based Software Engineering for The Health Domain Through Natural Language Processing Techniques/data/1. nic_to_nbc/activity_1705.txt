@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Caregiver Response": {
+    "parameters": {
+      "Cue": {},
+      "Response": {},
+      "Response Timing": {},
+      "Response Frequency": {}
+    }
+  }
+}
+
+
+Note: I removed `Deadline Date` parameter as it was not applicable (no value or empty). Let me know if you want to include it in the output.

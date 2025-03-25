@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+    "Visit Schedule": {
+        "Name": {"Type": "text"},
+        "Visit Frequency": {"Type": "options", "Options": ["daily", "everyOtherDay", "weekly", "custom"]},
+        "Rest Periods": {"Type": "options", "Options": ["30 minutes", "1 hour", "2 hours", "custom"]},
+        "Visit Duration": {"Type": "options", "Options": ["30 minutes", "1 hour", "2 hours", "custom"]},
+        "Schedule": {"Type": "calendar"}
+    }
+}

@@ -1,0 +1,37 @@
+Here is the output in JSON format:
+
+
+{
+  "Guide": {
+    "parameters": {
+      "name": "Universal Precautions Guide",
+      "pages": [],
+      "completion_status": ""
+    }
+  },
+  "Task": {
+    "parameters": {
+      "name": "Universal Precautions Task",
+      "content": "Please use universal precautions when handling specimens for testing",
+      "frequency": "",
+      "deadline_date": ""
+    }
+  },
+  "Checklist": {
+    "parameters": {
+      "name": "Universal Precautions Checklist",
+      "items": [],
+      "completion_status": ""
+    }
+  },
+  "Photo": {
+    "parameters": {
+      "name": "Universal Precautions Photo",
+      "frequency": "",
+      "deadline_date": ""
+    }
+  }
+}
+
+
+I removed all the unnecessary text and only kept the `{{ NO-CODE ELEMENT NAME }}` and their corresponding `{{ PARAMETER ESPECIFICATIONS }}`. I also removed any parameters that were marked as "not applicable". Let me know if you have any further questions!

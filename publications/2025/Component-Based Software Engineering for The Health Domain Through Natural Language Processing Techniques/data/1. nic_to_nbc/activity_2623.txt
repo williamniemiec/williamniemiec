@@ -1,0 +1,18 @@
+
+
+
+{
+  "Cognitive Baseline": {
+    "Parameters": {
+      "Family Member": {},
+      "Cognitive Abilities": {
+        "Questions": [
+          { "question": "How would you rate the patient's memory?", "type": "scale", "options": ["Excellent", "Good", "Fair", "Poor"] },
+          { "question": "How would you rate the patient's attention?", "type": "scale", "options": ["Excellent", "Good", "Fair", "Poor"] },
+          { "question": "How would you rate the patient's problem-solving abilities?", "type": "scale", "options": ["Excellent", "Good", "Fair", "Poor"] }
+        ]
+      },
+      "Frequency": {}
+    }
+  }
+}

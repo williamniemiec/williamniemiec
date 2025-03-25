@@ -1,0 +1,13 @@
+
+
+
+{
+  "Credential": {
+    "parameters": {
+      "name": "",
+      "title": "",
+      "credentials": [],
+      "description": ""
+    }
+  }
+}

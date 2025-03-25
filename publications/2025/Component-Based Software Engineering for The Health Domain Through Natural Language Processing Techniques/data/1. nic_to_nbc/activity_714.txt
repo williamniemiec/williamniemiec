@@ -1,0 +1,49 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Medication Administration",
+    "parameters": [
+        {
+            "name": "Medication Name",
+            "type": "text"
+        },
+        {
+            "name": "Medication Type",
+            "type": "options",
+            "options": [
+                { value: "antiplatelet", label: "Antiplatelet" },
+                { value: "anticoagulant", label: "Anticoagulant" }
+            ]
+        },
+        {
+            "name": "Dosage",
+            "type": "text"
+        },
+        {
+            "name": "Frequency",
+            "type": "options",
+            "options": [
+                { value: "daily", label: "Daily" },
+                { value: "everyHours", label: "Every x hours" },
+                { value: "everyDays", label: "Every x days" }
+            ]
+        },
+        {
+            "name": "Deadline Date",
+            "type": "datetime"
+        },
+        {
+            "name": "Instructions",
+            "type": "text or video"
+        },
+        {
+            "name": "Special Considerations",
+            "type": "text"
+        },
+        {
+            "name": "Monitoring",
+            "type": "text"
+        }
+    ]
+}

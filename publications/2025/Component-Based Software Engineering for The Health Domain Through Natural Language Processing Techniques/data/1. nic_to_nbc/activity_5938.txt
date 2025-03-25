@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Dressing Log": {
+        "Parameters": {
+            "Name": {"Type": "text"},
+            "Date and Time": {"Type": "datetime"},
+            "Frequency": {"Options": ["daily", "everyHours", "everyDays"]},
+            "Deadline Date": {"Type": "datetime"}
+        }
+    }
+}

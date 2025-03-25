@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+    "resistance_info": {
+        "parameters": [
+            {
+                "name": "resistance_types",
+                "list_items": [
+                    {"name": "free_weights"},
+                    {"name": "weight_machines"},
+                    {"name": "rubberized_stretch_bands"},
+                    {"name": "weighted_objects"},
+                    {"name": "aquatic"}
+                ]
+            }
+        ]
+    }
+}
+
+
+I removed all unnecessary information and only kept the `{{ NO-CODE ELEMENT NAME }}` (which is `resistance_info`) and the `{{ PARAMETER ESPECIFICATIONS }}` (which are the parameters inside the `parameters` array). I also removed any "not applicable" parameters.

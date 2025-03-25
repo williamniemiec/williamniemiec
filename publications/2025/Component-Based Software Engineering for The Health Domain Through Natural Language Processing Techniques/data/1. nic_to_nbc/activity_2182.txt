@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "Dialysis Fluid Warming Instruction": {
+    "parameters": {
+      "warming_instruction": {
+        "type": "text or HTML text"
+      },
+      "images": {
+        "type": "image or list of images"
+      },
+      "video": {
+        "type": "video or URL to a video"
+      },
+      "temperature_check": {
+        "type": "boolean (yes/no) or numerical value (e.g., temperature in degrees Celsius)"
+      },
+      "warming_device": {
+        "type": "text or options (e.g., warming tray, heating pad, other)"
+      }
+    }
+  }
+}

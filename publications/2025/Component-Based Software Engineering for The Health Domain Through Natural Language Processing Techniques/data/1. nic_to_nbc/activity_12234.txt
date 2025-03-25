@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+  "Tutorial": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Steps": {"Type": "list of tutorial steps"},
+      "Medication": {"Type": "text or options"},
+      "Tips": {"Type": "text"},
+      "Videos": {"Type": "video"}
+    }
+  },
+  "Guide": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Pages": {"Type": "book-page"},
+      "Medication": {"Type": "text or options"},
+      "Administration Instructions": {"Type": "text"},
+      "FAQs": {"Type": "list of FAQs"}
+    }
+  }
+}
+
+
+Let me know if you need any further assistance!

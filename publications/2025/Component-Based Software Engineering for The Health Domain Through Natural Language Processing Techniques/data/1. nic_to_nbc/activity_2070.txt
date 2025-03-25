@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+    "Quiz": {
+        "Life Skill": {"type": "options"},
+        "Questions": {"type": "list of questions"},
+        "Answer Options": {"type": "list of answer options"},
+        "Scoring": {"type": "options"},
+        "Frequency": {"type": "options"},
+        "Deadline Date": {"type": "datetime"}
+    },
+    "Question": {
+        "Name": {"type": "text"},
+        "Answer Type": {"type": "options"},
+        "Options": {"type": "list of options"},
+        "Correct Answer": {"type": "text or value"},
+        "Frequency": {"type": "options"},
+        "Deadline Date": {"type": "datetime"}
+    }
+}

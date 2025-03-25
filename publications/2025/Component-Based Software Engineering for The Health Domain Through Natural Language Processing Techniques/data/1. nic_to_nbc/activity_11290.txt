@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+  "Psychological Assessment": {
+    "name": {"type": "text"},
+    "questions": {},
+    "scoring": {"type": "numerical value"},
+    "frequency": {"options": ["daily", "weekly", "monthly"]}
+  },
+  "Mood Tracking": {
+    "name": {"type": "text"},
+    "emotions": {},
+    "frequency": {"options": ["daily", "weekly", "monthly"]}
+  },
+  "Cognitive Behavioral Therapy (CBT) Exercises": {
+    "name": {"type": "text"},
+    "instructions": {},
+    "frequency": {"options": ["daily", "weekly", "monthly"]}
+  },
+  "Psychoeducation": {
+    "name": {"type": "text"},
+    "content": {},
+    "frequency": {"options": ["daily", "weekly", "monthly"]}
+  }
+}

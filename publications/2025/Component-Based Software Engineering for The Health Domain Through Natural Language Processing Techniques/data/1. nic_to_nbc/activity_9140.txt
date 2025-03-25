@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Behavioral Goal Specification": {
+    "Goal Statement": {},
+    "Behavioral Descriptor": {},
+    "Observable Criteria": {},
+    "Frequency or Duration": {},
+    "Context": {}
+  }
+}

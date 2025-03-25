@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "noCodeElementName": "reminder",
+  "parameterSpecifications": {
+    "name": {"type": "text"},
+    "description": {"type": "text"},
+    "frequency": {"type": "options", "options": ["annually", "bi-annually", "etc."]},
+    "due_date": {"type": "datetime"},
+    "notes": {"type": "text"}
+  }
+}

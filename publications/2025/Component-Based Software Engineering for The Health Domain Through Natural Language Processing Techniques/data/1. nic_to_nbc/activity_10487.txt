@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Knowledge Quiz": {
+    "parameters": [
+      {
+        "name": "Questions",
+        "type": "list"
+      },
+      {
+        "name": "Frequency",
+        "options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+      },
+      {
+        "name": "Deadline Date",
+        "type": "datetime"
+      }
+    ]
+  }
+}

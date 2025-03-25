@@ -1,0 +1,35 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Non-Confrontational Approach",
+    "parameters": [
+        {
+            "name": "False Belief",
+            "type": "text"
+        },
+        {
+            "name": "Doubt Statement",
+            "type": "text"
+        },
+        {
+            "name": "Communication Channel",
+            "type": "options",
+            "options": [
+                { value: "messaging", label: "Messaging" },
+                { value: "video_calls", label: "Video Calls" },
+                { value: "phone_calls", label: "Phone Calls" },
+            ]
+        },
+        {
+            "name": "Frequency of Intervention",
+            "type": "options",
+            "options": [
+                { value: "daily", label: "Daily" },
+                { value: "everyOtherDay", label: "Every other day" },
+                { value: "everyFewDays", label: "Every few days" },
+                { value: "weekly", label: "Weekly" },
+            ]
+        }
+    ]
+}

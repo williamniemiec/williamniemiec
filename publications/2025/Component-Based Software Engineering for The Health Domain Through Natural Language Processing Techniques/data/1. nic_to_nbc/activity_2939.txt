@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Bowel Sound Monitor": {
+        "parameters": [
+            {"name": "Bowel Sound Frequency"},
+            {"name": "Bowel Sound Characteristics"},
+            {"name": "Bowel Sound Location"},
+            {"name": "Bowel Sound Intensity"},
+            {"name": "Notes"}
+        ]
+    }
+}

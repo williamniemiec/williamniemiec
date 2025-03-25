@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+    "Tubing Securement": {
+        "parameters": [
+            { 
+                "name": "Tubing Type" 
+            },
+            { 
+                "name": "Securement Method" 
+            },
+            { 
+                "name": "Securement Location" 
+            },
+            { 
+                "name": "Securement Frequency" 
+            }
+        ]
+    }
+}

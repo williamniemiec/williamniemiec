@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Home Care Services": {
+    "parameters": [
+      {"name": "service_list", "description": "List of home care services"},
+      {"name": "frequency", "description": "How often do you need these services?"},
+      {"name": "duration", "description": "How long do you need these services?"},
+      {"name": "notes", "description": "Additional notes or comments about home care services"}
+    ]
+  }
+}

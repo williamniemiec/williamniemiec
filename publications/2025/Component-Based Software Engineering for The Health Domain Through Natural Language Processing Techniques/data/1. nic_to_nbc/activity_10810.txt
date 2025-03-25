@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+  "Urine Monitor": {
+    "Color": {
+      "options": ["yellow", "amber", "clear", "cloudy", "etc"]
+    },
+    "Quantity": {
+      "type": "numeric",
+      "unitOptions": ["mL", "L", "etc"]
+    },
+    "Specific Gravity": {
+      "type": "numeric",
+      "unitOptions": ["g/mL", "etc"]
+    },
+    "Frequency": {
+      "options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+    },
+    "Deadline Date": {
+      "type": "datetime"
+    },
+    "Notes": {
+      "type": "text"
+    }
+  }
+}

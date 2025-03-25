@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Oxygen Therapy": {
+    "name": "Oxygen Therapy",
+    "content": "Apply oxygen at 6 to 8 L",
+    "type": "text",
+    "frequency": "as needed"
+  }
+}

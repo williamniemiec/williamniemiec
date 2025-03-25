@@ -1,0 +1,10 @@
+Here is the output in JSON format:
+
+
+{
+  "Confirmation": {
+    "Message": {"Type": "text"},
+    "Confirmation Type": {"Type": "options", "Options": [{"value": "yesNo", "label": "Yes/No"}, {"value": "multipleChoice", "label": "Multiple Choice"}, {"value": "freeText", "label": "Free Text"}]},
+    "Correct Response": {"Type": "text"}
+  }
+}

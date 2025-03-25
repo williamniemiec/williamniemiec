@@ -1,0 +1,29 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Goal Setting",
+  "parameters": [
+    {
+      "name": "Goal Categories",
+      "type": "list of text"
+    },
+    {
+      "name": "Goal Levels",
+      "type": "list of text"
+    },
+    {
+      "name": "Goal Setting Process",
+      "type": "text"
+    },
+    {
+      "name": "Goal Tracking",
+      "type": "options",
+      "options": ["self-reporting", "caregiver reporting", "sensor data"]
+    },
+    {
+      "name": "Goal Adjustment",
+      "type": "text"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+Here is the output in JSON format:
+
+
+[
+  {
+    "name": "Symptom Checker",
+    "parameters": {
+      "name": "Bedrest Complications",
+      "symptoms": [
+        "Loss of muscle tone",
+        "Back pain",
+        "Constipation",
+        "Increased stress",
+        "Depression",
+        "Confusion",
+        "Sleep cycle changes",
+        "Urinary tract infections",
+        "Difficulty with urination",
+        "Pneumonia"
+      ],
+      "frequency": "",
+      "deadline_date": ""
+    }
+  },
+  {
+    "name": "Question",
+    "parameters": {
+      "name": "Bedrest Complication Severity",
+      "question": "",
+      "answer type": "",
+      "frequency": "",
+      "deadline_date": ""
+    }
+  },
+  {
+    "name": "Photo",
+    "parameters": {
+      "name": "Bedrest Complication Photo",
+      "frequency": "",
+      "deadline_date": ""
+    }
+  }
+]

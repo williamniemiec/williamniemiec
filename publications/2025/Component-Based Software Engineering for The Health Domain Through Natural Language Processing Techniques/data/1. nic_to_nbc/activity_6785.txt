@@ -1,0 +1,37 @@
+Here is the output in JSON format:
+
+
+{
+  "Turn Reminder": {
+    "Turn Frequency": {
+      "Description": "Specify how often to turn to prevent skin breakdown",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "everyHour", "label": "Every hour" },
+        { "value": "every2Hours", "label": "Every 2 hours" },
+        { "value": "every4Hours", "label": "Every 4 hours" },
+        { "value": "custom", "label": "Custom frequency" }
+      ]
+    },
+    "Turn Position": {
+      "Description": "Specify the position to turn to promote healthy skin",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "leftSide", "label": "Left side" },
+        { "value": "rightSide", "label": "Right side" },
+        { "value": "back", "label": "Back" },
+        { "value": "custom", "label": "Custom position" }
+      ]
+    },
+    "Skin Condition": {
+      "Description": "Specify the skin condition being monitored to determine turning frequency",
+      "Required": true,
+      "Type": "text"
+    }
+  }
+}
+
+
+I removed the `Deadline Date` parameter since it was marked as not required (`false`). Let me know if you need anything else!

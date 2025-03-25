@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+  "Reality Recognition Exercise": {
+    "Introduction": {},
+    "Survey Questions": [
+      {
+        "Question": {},
+        "Response Type": {}
+      }
+    ],
+    "Contingency Planning": {
+      "Identify Risks": {},
+      "Develop Plans": {},
+      "Review and Revise": {}
+    },
+    "Reflection Prompts": [
+      {
+        "Prompt": {},
+        "Response Type": {}
+      }
+    ],
+    "Frequency": {}
+  }
+}

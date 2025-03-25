@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Infant Pattern Guide": {
+    "Guide Title": {},
+    "Pages": {},
+    "Frequency": {},
+    "Deadline Date": {}
+  }
+}

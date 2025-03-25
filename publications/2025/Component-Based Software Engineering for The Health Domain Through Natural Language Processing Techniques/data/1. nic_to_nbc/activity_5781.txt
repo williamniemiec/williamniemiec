@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Knowledge Assessment": {
+    "parameters": {
+      "Initial Knowledge": {},
+      "New Information": {},
+      "Relate New Information": {}
+    }
+  }
+}

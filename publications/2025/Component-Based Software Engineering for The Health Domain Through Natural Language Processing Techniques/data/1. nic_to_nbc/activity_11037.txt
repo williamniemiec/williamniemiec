@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+  "Self-Monitoring": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Signs and Symptoms": {
+        "Type": "list",
+        "Items": {
+          "Description": {"Type": "text"},
+          "Threshold": {"Type": "text or number"}
+        }
+      },
+      "Monitoring Schedule": {"Type": "options"},
+      "Tracking": {"Type": "boolean or text"},
+      "Alerts": {"Type": "boolean or text"},
+      "Education": {
+        "Type": "list",
+        "Items": {
+          "Type": {"Type": "text"},
+          "Content": {"Type": "varies"}
+        }
+      }
+    }
+  }
+}

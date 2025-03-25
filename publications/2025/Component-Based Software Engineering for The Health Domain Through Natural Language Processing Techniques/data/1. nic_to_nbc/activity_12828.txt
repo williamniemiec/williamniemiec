@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Equipment Maintenance": {
+        "Parameters": {
+            "Equipment Inspection": {"Type": "boolean"},
+            "Media Inspection": {"Type": "boolean"},
+            "Maintenance Schedule": {"Type": "date and time"},
+            "Troubleshooting Guide": {"Type": "text or multimedia"}
+        }
+    }
+}

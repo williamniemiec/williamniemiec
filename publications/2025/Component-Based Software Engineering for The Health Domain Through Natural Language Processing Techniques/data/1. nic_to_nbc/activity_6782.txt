@@ -1,0 +1,29 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Tracker": {
+    "Parameters": {
+      "Medication List": {"Type": "options"},
+      "Dose and Frequency": {"Type": "numeric", "Type": "options"}
+    }
+  },
+  "Fluid Intake Tracker": {
+    "Parameters": {
+      "Fluid Intake": {"Type": "numeric"},
+      "Frequency": {"Type": "options"}
+    }
+  },
+  "ADH Tracker": {
+    "Parameters": {
+      "ADH Levels": {"Type": "numeric"},
+      "Reference Ranges": {"Type": "options"}
+    }
+  },
+  "Alert System": {
+    "Parameters": {
+      "Alert Thresholds": {"Type": "options"},
+      "Alert Frequency": {"Type": "options"}
+    }
+  }
+}

@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Allergy Tracker": {
+    "Parameters": {
+      "Allergy Name": {"Type": "text"},
+      "Allergy Description": {"Type": "text"},
+      "Reaction": {"Type": "text"}
+    }
+  }
+}

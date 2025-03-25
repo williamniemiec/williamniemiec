@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Risk Assessment": {
+    "parameters": {
+      "name": "",
+      "questions": [
+        {
+          "text": "",
+          "answer_type": ""
+        }
+      ]
+    }
+  }
+}

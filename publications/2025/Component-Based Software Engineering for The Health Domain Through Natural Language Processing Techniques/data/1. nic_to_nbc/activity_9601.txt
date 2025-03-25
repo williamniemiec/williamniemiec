@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Radiation Protection Protocol": {
+    "parameters": [
+      {"name": "name", "description": "title of the radiation protection protocol"},
+      {"name": "content", "description": "detailed information and guidelines on radiation protection"},
+      {"name": "format", "description": "format of the information"},
+      {"name": "frequency", "description": "how often to review the information"}
+    ]
+  }
+}
+
+
+I removed `deadline_date` as it was marked as not applicable (`required: false`). Let me know if you need any further modifications!

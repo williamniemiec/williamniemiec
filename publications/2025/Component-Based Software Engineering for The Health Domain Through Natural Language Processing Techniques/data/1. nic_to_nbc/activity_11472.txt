@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Calcium-Rich Food Recommendation": {
+    "Parameters": {
+      "Nutritional Needs": {"Type": "text or selection from a list"},
+      "High-Calcium Food Options": {"Type": "list or table with columns for each food option"},
+      "Recommended Foods": {"Type": "text or selection from a list"},
+      "Serving Suggestions": {"Type": "text or table with columns for each food and serving size"}
+    }
+  }
+}

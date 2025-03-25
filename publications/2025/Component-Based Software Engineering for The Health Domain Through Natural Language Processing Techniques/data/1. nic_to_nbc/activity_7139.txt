@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Parameter Specifications": {
+    "FAQs": {"Type": "list of text or multimedia content"},
+    "Resource Library": {"Type": "list of text or multimedia content"},
+    "Search Function": {"Type": "search bar or search functionality"},
+    "Expert Q&A": {"Type": "discussion board or Q&A forum"},
+    "Personalized Guidance": {"Type": "chatbot or virtual assistant"}
+  },
+  "No-Code Element Name": "additional information"
+}
+
+
+Let me know if you need any further assistance!

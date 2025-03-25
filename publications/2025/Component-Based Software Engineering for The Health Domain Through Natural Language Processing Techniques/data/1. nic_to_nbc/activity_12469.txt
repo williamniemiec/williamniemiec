@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+    "Anxiety Monitoring": {
+        "parameters": [
+            {"name": "Name", "type": "text"},
+            {"name": "Description", "type": "text"},
+            {"name": "Anxiety Scale", "type": "scale"},
+            {"name": "Frequency", "type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+            {"name": "Trigger Points", "type": "number"},
+            {"name": "Notifications", "type": "boolean"},
+            {"name": "Deadline Date", "type": "datetime"},
+            {"name": "Notes", "type": "text"}
+        ]
+    }
+}

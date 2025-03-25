@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Sweating Pattern Tracker": {
+    "parameters": [
+      {"name": "Name", "type": "text"},
+      {"name": "Frequency", "type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      {"name": "Deadline Date", "type": "datetime"},
+      {"name": "Tracking Method", "type": "options", "options": ["scale", "select", "text"]},
+      {"name": "Notes", "type": "text"}
+    ]
+  }
+}

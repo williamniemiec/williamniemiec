@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Lens Container Care Guide": {
+    "Daily Cleaning": {"Type": "text", "Example": "Rinse the lens container with sterile solution and wipe dry with a clean tissue."},
+    "Drying Instructions": {"Type": "text", "Example": "Leave the lens container open to air dry."},
+    "Replacement Schedule": {"Type": "options", "Options": ["every 1-3 months", "every 6 months", "every 12 months"]},
+    "Visual Aids": {"Type": "list of URLs or embedded media"},
+    "Frequency of Reminder": {"Type": "options", "Options": ["daily", "weekly", "monthly"]}
+  }
+}

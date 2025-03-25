@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Activity Tracker": {
+    "parameters": [
+      {"name": "Name", "type": "text"},
+      {"name": "Type", "type": "options", "options": ["walking", "running", "cycling", "etc."]},
+      {"name": "Frequency", "type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      {"name": "Deadline Date", "type": "datetime"},
+      {"name": "Goal", "type": "text"},
+      {"name": "Unit", "type": "options", "options": ["steps", "meters", "etc."]}
+    ]
+  }
+}

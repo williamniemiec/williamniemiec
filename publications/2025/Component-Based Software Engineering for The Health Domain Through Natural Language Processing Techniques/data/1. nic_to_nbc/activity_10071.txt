@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Dietary Guidance": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Diet Type": {"Type": "options"},
+      "Food Recommendations": {"Type": "list"},
+      "Food Restrictions": {"Type": "list"},
+      "Meal Planning": {"Type": "list"},
+      "Deadline Date": {"Type": "datetime"},
+      "Notes": {"Type": "text"}
+    }
+  }
+}
+
+
+Let me know if this meets your requirements!

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Tube Feeding Hold": {
+    "Residual Amount": {"Description": "Record the residual amount", "Required": true, "Type": "number"},
+    "Hourly Rate": {"Description": "Record the hourly tube feeding rate", "Required": true, "Type": "number"},
+    "Calculation": {"Description": "Calculate the residual percentage", "Required": true, "Type": "calculation", "Formula": "(Residual Amount / Hourly Rate) * 100"},
+    "Hold Feeding": {"Description": "Determine if tube feeding should be held", "Required": true, "Type": "boolean", "Condition": "Residual Amount > 150 cc || Calculation > 110% && Calculation < 120%"}
+  }
+}
+
+
+Note that I removed the "Notes" parameter since it was marked as not required. Let me know if you have any further questions!

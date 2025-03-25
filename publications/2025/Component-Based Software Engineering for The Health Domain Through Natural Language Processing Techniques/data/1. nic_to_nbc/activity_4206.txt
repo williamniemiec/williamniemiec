@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+    "Donor Screening Tool": {
+        "Parameters": {
+            "Name": {"Type": "text"},
+            "Criteria": {"Type": "list of criteria"},
+            "Assessment": {"Type": "assessment"},
+            "Team Collaboration": {"Type": "collaboration plan"},
+            "Donor Profile": {"Type": "donor profile"}
+        }
+    },
+    "Workflow": {
+        "Parameters": {
+            "Name": {"Type": "text"},
+            "Steps": {"Type": "list of steps"},
+            "Decision Points": {"Type": "list of decision points"},
+            "Team Roles": {"Type": "list of team roles"}
+        }
+    }
+}

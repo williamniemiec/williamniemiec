@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Ventilator Setting Changes": {
+    "Parameters": {
+      "Ventilator Setting": {},
+      "Old Value": {},
+      "New Value": {},
+      "Rationale": {},
+      "Date and Time": {},
+      "Responsible Healthcare Professional": {},
+      "Additional Notes": {}
+    }
+  }
+}
+
+
+Let me know if this meets your requirements!

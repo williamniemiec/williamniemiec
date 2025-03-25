@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Illustrative Education": {
+    "Complex Information": {"type": "text or list of texts"},
+    "Illustrative Materials": {"type": "list of materials (e.g. images, videos, diagrams, animations)"},
+    "Illustration Criteria": {
+      "type": "object",
+      "properties": {
+        "Clarity": {"type": "options (e.g. clear, somewhat clear, not clear)"},
+        "Relevance": {"type": "options (e.g. highly relevant, somewhat relevant, not relevant)"},
+        "Engagement": {"type": "options (e.g. highly engaging, somewhat engaging, not engaging)"}
+      }
+    }
+  }
+}

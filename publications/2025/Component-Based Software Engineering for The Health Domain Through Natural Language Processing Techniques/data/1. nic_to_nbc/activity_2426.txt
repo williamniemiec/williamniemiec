@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Universal Precautions Protocol": {
+    "parameters": [
+      {"Personal Protective Equipment (PPE)": ""},
+      {"Infection Control Practices": ""},
+      {"Patient Care Activities": ""},
+      {"Training and Education": ""}
+    ]
+  }
+}

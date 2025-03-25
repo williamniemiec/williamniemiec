@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Iced Saline Administration": {
+    "Instructions": {"type": "text"},
+    "Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"type": "datetime"},
+    "Dosage": {"type": "text"},
+    "Special Precautions": {"type": "text"}
+  }
+}

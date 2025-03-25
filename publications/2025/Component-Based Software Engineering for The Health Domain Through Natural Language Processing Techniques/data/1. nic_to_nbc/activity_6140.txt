@@ -1,0 +1,30 @@
+Here is the output in JSON format:
+
+
+{
+  "Comfort Positioning": {
+    "parameters": {
+      "Positioning Technique": {
+        "type": "options",
+        "options": ["body alignment", "support with pillows", "support joints during movement", "splint over incisions", "immobilize painful body part", "other"]
+      },
+      "Body Part": {
+        "type": "options",
+        "options": ["back", "neck", "shoulders", "hips", "knees", "ankles", "feet", "other"]
+      },
+      "Frequency": {
+        "type": "options",
+        "options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+      },
+      "Deadline Date": {
+        "type": "datetime"
+      },
+      "Additional Instructions": {
+        "type": "text"
+      }
+    }
+  }
+}
+
+
+Let me know if this is what you were expecting!

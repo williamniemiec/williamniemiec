@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Daily Weight Tracker": {
+    "Weight": {"Type": "numeric"},
+    "Unit": {"Type": "options list"},
+    "Frequency": {"Options": ["daily"]},
+    "Notes": {"Type": "text"}
+  }
+}

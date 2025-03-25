@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Event Description Planner": {
+    "Name": {"type": "text"},
+    "Event Description": {"type": "text"},
+    "Date and Time": {"type": "datetime"},
+    "What to Expect": {"type": "text"},
+    "Concerns": {"type": "text"},
+    "Realistic Expectations": {"type": "text"},
+    "Notes": {"type": "text"}
+  }
+}

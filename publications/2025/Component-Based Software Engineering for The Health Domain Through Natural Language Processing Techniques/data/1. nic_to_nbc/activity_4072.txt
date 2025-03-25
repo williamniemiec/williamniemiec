@@ -1,0 +1,29 @@
+Here is the output in JSON format:
+
+
+{
+    "social_skills": {
+        "parameters": [
+            { 
+                "name": "skill", 
+                "description": "specify the social skill to be taught or reinforced"
+            },
+            { 
+                "name": "steps", 
+                "description": "list of steps to teach or reinforce the social skill"
+            },
+            { 
+                "name": "examples", 
+                "description": "list of examples to illustrate the social skill"
+            },
+            { 
+                "name": "practice", 
+                "description": "space for patient to practice the social skill"
+            },
+            { 
+                "name": "frequency", 
+                "description": "specify how often the social skill should be practiced"
+            }
+        ]
+    }
+}

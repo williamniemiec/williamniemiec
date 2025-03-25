@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Environmental Adaptation Plan": {
+    "Environment": {"type": "options", "options": ["home", "work", "school", "other"]},
+    "Limitations": {"type": "list of text"},
+    "Adaptations": {"type": "list of text"},
+    "Involved Others": {"type": "list of text"},
+    "Priorities": {"type": "list of text"},
+    "Frequency": {"type": "options", "options": ["daily", "weekly", "monthly", "as needed"]},
+    "Deadline Date": {"type": "datetime"},
+    "Resources": {"type": "list of text"}
+  }
+}

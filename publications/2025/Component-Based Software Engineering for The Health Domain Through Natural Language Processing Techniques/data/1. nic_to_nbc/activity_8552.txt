@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "STD Prevention Education": {
+    "parameters": [
+      {"name": "Title", "type": "text"},
+      {"name": "Content", "type": "text"},
+      {"name": "Interactive Elements", "type": "list of interactive elements"},
+      {"name": "Resources", "type": "list of URLs or text"},
+      {"name": "Quiz", "type": "quiz questions and answers"}
+    ]
+  }
+}

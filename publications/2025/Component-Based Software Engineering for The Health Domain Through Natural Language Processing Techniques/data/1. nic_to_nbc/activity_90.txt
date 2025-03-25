@@ -1,0 +1,32 @@
+Here is the output in JSON format:
+
+
+[
+    {
+        "name": "Fetal Heart Pattern Monitoring",
+        "parameters": {
+            "name": "Fetal Heart Pattern Monitoring",
+            "unit": "description",
+            "frequency": "options for how often to monitor fetal heart pattern"
+        }
+    },
+    {
+        "name": "Abnormal Fetal Heart Pattern Identification",
+        "parameters": {
+            "name": "Abnormal Fetal Heart Pattern Identification",
+            "unit": "yes/no or abnormal/normal",
+            "frequency": "options for how often to identify abnormal fetal heart patterns"
+        }
+    },
+    {
+        "name": "Fetal Resuscitation Interventions",
+        "parameters": {
+            "name": "Fetal Resuscitation Interventions",
+            "unit": "list of possible interventions",
+            "frequency": "options for how often to initiate fetal resuscitation interventions"
+        }
+    }
+]
+
+
+Let me know if this meets your requirements!

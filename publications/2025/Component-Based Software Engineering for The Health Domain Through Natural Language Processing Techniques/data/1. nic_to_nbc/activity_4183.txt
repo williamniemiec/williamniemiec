@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Mutual Aid Forum": {
+    "parameters": {
+      "Forum Type": {},
+      "Forum Topic": {},
+      "Participation Frequency": {},
+      "Supportive Response": {},
+      "Resource Sharing": {}
+    }
+  }
+}

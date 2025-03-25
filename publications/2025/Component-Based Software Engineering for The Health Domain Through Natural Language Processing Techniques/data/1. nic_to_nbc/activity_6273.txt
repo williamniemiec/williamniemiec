@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Perspective Sharing": {
+    "Situation": {"Description": "A brief description of the stressful situation.", "Required": true, "Type": "text"},
+    "Perspective": {"Description": "A text field for the patient to share their perspective on the stressful situation.", "Required": true, "Type": "text"},
+    "Emotions": {"Description": "A list of emotions the patient experienced during the stressful situation.", "Required": false, "Type": "list", "Items": [{"name": "Emotion", "description": "Description of emotion", "required": true, "type": "text"}]},
+    "Concerns": {"Description": "A text field for the patient to share their concerns and worries about the stressful situation.", "Required": false, "Type": "text"}
+  }
+}

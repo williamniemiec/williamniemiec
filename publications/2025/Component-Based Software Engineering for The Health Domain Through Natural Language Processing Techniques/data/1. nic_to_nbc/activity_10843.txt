@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Support Device": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Device Type": {"Type": "options"},
+      "Body Part": {"Type": "options"},
+      "Instructions": {"Type": "text or video"},
+      "Frequency": {"Type": "options"}
+    }
+  }
+}
+
+
+Note that I removed the `Deadline Date` parameter as it is not applicable (datetime type is not a common parameter specification). Let me know if you need anything else!

@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+  "CPR Tracker": {
+    "parameters": {
+      "CPR Status": {
+        "type": "options",
+        "values": ["initiated", "not initiated"]
+      },
+      "CPR Type": {
+        "type": "options",
+        "values": ["Basic", "Advanced"]
+      },
+      "Administration Date": {
+        "type": "datetime"
+      }
+    }
+  }
+}

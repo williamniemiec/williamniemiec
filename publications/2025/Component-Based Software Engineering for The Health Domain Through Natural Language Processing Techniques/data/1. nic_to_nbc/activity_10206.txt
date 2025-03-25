@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Symptom Checker": {
+    "parameters": [
+      {"name": "symptoms", "description": "Select any symptoms you are experiencing", "required": true, "type": "multiselect", "options": [{"value": "uterineOverdistension", "label": "Uterine overdistension"}, {"value": "umbilicalCordProlapse", "label": "Umbilical cord prolapse"}, {"value": "amnioticFluidEmbolism", "label": "Amniotic fluid embolism"}, {"value": "other", "label": "Other (please specify)"}]},
+      {"name": "notes", "description": "Please provide any additional information about your symptoms", "required": false, "type": "text"}
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+    "instruction": {
+        "parameters": [
+            { 
+                "name": "name", 
+                "description": "instruction title"
+            },
+            { 
+                "name": "content", 
+                "description": "instruction text"
+            },
+            { 
+                "name": "dilution_ratio", 
+                "description": "dilution ratio of juice to water"
+            },
+            { 
+                "name": "amount", 
+                "description": "limited amount of diluted juice to introduce"
+            }
+        ]
+    }
+}

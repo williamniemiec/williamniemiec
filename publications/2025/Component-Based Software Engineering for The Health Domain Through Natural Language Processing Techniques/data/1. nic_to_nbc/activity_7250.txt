@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Goal Reevaluation": {
+        "Current Goal": {"Type": "text"},
+        "Current Plan": {"Type": "text"},
+        "Progress": {"Type": "text"},
+        "Reevaluation Criteria": {"Type": "options", "Options": ["Progress", "Health Status", "Other"]},
+        "New Goal": {"Type": "text"},
+        "New Plan": {"Type": "text"}
+    }
+}

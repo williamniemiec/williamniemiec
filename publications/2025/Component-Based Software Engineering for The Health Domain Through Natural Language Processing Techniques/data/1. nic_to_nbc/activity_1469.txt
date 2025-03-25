@@ -1,0 +1,36 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Equipment Management",
+    "parameters": [
+        { 
+            "name": "Name", 
+            "type": "text"
+        },
+        { 
+            "name": "Description", 
+            "type": "text"
+        },
+        { 
+            "name": "Equipment Type", 
+            "type": "options",
+            "options": [
+                { value: "oxygen tank", label: "Oxygen Tank" },
+                { value: "IV pole", label: "IV Pole" },
+                { value: "dialysis machine", label: "Dialysis Machine" },
+                { value: "other", label: "Other (please specify)" }
+            ]
+        },
+        { 
+            "name": "Frequency", 
+            "type": "options",
+            "options": [
+                { value: "daily", label: "Daily" },
+                { value: "onlyOnce", label: "Only once" },
+                { value: "everyHours", label: "Every x hours" },
+                { value: "everyDays", label: "Every x days" }
+            ]
+        }
+    ]
+}

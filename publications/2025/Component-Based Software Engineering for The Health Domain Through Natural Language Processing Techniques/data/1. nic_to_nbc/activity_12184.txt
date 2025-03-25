@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Nutrition Monitor": {
+    "parameters": [
+      {"name": "nutrition type", "description": "Specify the type of nutrition", "required": true, "type": "options", "options": [{"value": "oral", "label": "Oral"}, {"value": "IV fluid therapy", "label": "IV Fluid Therapy"}, {"value": "enteral nutrition", "label": "Enteral Nutrition"}, {"value": "parenteral nutrition", "label": "Parenteral Nutrition"}]},
+      {"name": "magnesium content", "description": "Specify the amount of magnesium in the nutrition", "required": true, "type": "number", "unit": "mg"},
+      {"name": "intake frequency", "description": "Specify how often to track nutrition intake", "required": true, "type": "options", "options": [{"value": "daily", "label": "Daily"}, {"value": "weekly", "label": "Weekly"}, {"value": "monthly", "label": "Monthly"}]},
+      {"name": "risk threshold", "description": "Specify the threshold for reduced magnesium intake", "required": false, "type": "number", "unit": "mg"}
+    ]
+  }
+}
+
+
+I removed all unnecessary elements and kept only `{{ NO-CODE ELEMENT NAME }}` and `{{ PARAMETER ESPECIFICATIONS }}`. I also removed not applicable parameters. The output is in JSON format as requested.

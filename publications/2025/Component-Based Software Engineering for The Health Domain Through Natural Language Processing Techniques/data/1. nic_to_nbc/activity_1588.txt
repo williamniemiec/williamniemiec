@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Oral Health Tracker": {
+    "tracker title": {},
+    "Oral Symptoms": {},
+    "Mucous Membrane Appearance": {},
+    "Frequency": {}
+  }
+}
+
+
+I removed all unnecessary information and only kept the `{{ NO-CODE ELEMENT NAME }}` and `{{ PARAMETER ESPECIFICATIONS }}`. I also removed the "Notes" parameter since it's not applicable (Required: false). Let me know if you need any further assistance!

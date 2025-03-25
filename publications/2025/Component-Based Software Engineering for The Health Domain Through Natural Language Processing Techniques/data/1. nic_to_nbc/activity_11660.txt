@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Risk Assessment": {
+    "Multiple Partners": {"type": "options"},
+    "Drug and/or Alcohol Use": {"type": "options"},
+    "Likelihood of Sexually Transmitted Disease": {"type": "options"},
+    "Frequency": {"options": ["daily", "weekly", "monthly", "quarterly"]},
+    "Deadline Date": {"type": "datetime"}
+  },
+  "Question": {
+    "Multiple Partners": {"type": "options"},
+    "Drug and/or Alcohol Use": {"type": "options"},
+    "Likelihood of Sexually Transmitted Disease": {"type": "options"},
+    "Frequency": {"options": ["daily", "weekly", "monthly", "quarterly"]},
+    "Deadline Date": {"type": "datetime"}
+  }
+}

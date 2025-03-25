@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Reconciliation with Condition Changes": {
+    "Condition Changes": {"type": "unordered list"},
+    "Medication Changes": {"type": "unordered list"},
+    "Current Medication List": {"type": "unordered list"},
+    "Reconciliation Questions": {"type": "form", "options": ["yes/no questions", "multiple-choice questions", "open-ended questions"]},
+    "Verification": {"type": "boolean"},
+    "Notes": {"type": "text"},
+    "Frequency": {"type": "options"}
+  }
+}

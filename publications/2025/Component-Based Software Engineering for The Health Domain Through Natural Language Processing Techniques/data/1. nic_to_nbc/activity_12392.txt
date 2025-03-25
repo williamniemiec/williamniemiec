@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Moisture Chamber": {
+    "Reason": {"description": "Why the moisture chamber needs to be applied", "type": "text"},
+    "Instructions": {"description": "Step-by-step instructions on how to apply the moisture chamber", "type": "text"},
+    "Duration": {"description": "How long to keep the moisture chamber in place", "type": "text"},
+    "Frequency": {"description": "How often to apply the moisture chamber", "type": "options", "options": [
+      { "value": "daily", "label": "Daily" },
+      { "value": "onlyOnce", "label": "Only once" },
+      { "value": "everyHours", "label": "Every x hours" },
+      { "value": "everyDays", "label": "Every x days" }
+    ]}
+  }
+}
+
+
+I removed the non-applicable parameters (Deadline Date) and kept only the `{{ NO-CODE ELEMENT NAME }}` ("Moisture Chamber") and `{{ PARAMETER ESPECIFICATIONS }}`. Let me know if this is what you were expecting!

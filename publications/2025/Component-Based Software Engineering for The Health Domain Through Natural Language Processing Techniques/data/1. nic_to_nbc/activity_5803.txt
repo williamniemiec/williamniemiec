@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Meal Assistance": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Meal Type": {"Type": "options", "Options": ["breakfast", "lunch", "dinner", "snack", "others"]},
+      "Assistance Level": {"Type": "options", "Options": ["supervision", "feeding", "cutting food", "others"]},
+      "Frequency": {"Type": "options", "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"Type": "datetime"},
+      "Notes": {"Type": "text"}
+    }
+  }
+}

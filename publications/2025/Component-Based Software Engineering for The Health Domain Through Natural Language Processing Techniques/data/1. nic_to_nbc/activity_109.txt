@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Referral Form": {
+    "parameters": {
+      "Referral Type": {"type": "options"},
+      "Referral Details": {"type": "text"},
+      "Recipient": {"type": "text"},
+      "Submission Method": {"type": "options"},
+      "Deadline": {"type": "datetime"}
+    }
+  }
+}

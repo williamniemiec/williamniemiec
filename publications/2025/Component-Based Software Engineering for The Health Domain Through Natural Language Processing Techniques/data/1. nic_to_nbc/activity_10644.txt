@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Bed Exercise Guide": {
+        "parameters": [
+            {"name": "exercise_name", "type": "text"},
+            {"name": "exercise_instructions", "type": ["text", "video"]},
+            {"name": "exercise_frequency", "type": "options", "options": [{"value": "daily", "label": "Daily"}, {"value": "everyOtherDay", "label": "Every other day"}, {"value": "weekly", "label": "Weekly"}, {"value": "custom", "label": "Custom"}]},
+            {"name": "exercise_duration", "type": "number"}
+        ]
+    }
+}

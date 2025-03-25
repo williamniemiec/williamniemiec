@@ -1,0 +1,42 @@
+Here is the output in JSON format:
+
+
+{
+    "Behavior Tracking": {
+        "parameters": [
+            "behavior type",
+            "frequency",
+            "deadline_date"
+        ]
+    },
+    "Feedback Module": {
+        "parameters": [
+            "feedback type",
+            "behavior type",
+            "frequency",
+            "deadline_date"
+        ]
+    },
+    "Goal Setting": {
+        "parameters": [
+            "goal type",
+            "target",
+            "deadline_date"
+        ]
+    },
+    "Progress Monitoring": {
+        "parameters": [
+            "progress type",
+            "goal type",
+            "frequency",
+            "deadline_date"
+        ]
+    },
+    "Restrictive Measure Tracker": {
+        "parameters": [
+            "restrictive measure type",
+            "frequency",
+            "deadline_date"
+        ]
+    }
+}

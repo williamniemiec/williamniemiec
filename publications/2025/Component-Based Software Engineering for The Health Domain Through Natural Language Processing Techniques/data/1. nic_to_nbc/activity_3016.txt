@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Symptom Reporter": {
+        "Name": {"Type": "text"},
+        "Symptoms": {"Type": "list"},
+        "Reporting Instructions": {"Type": "text"},
+        "Reporting Mechanism": {"Type": "options"},
+        "Alerts": {"Type": "options"},
+        "Resources": {"Type": "list"}
+    }
+}

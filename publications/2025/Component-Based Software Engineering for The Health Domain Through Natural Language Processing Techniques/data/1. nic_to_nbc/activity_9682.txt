@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Parenting Resource Library": {
+    "Resource Type": {"type": "options"},
+    "Topic": {"type": "options"},
+    "Resource List": {"type": "unordered list"},
+    "Description": {"type": "text"},
+    "Rating or Review": {"type": "form"},
+    "Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"type": "datetime"}
+  }
+}

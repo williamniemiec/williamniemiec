@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Notification Task": {
+    "Parameters": {
+      "Notification Title": {},
+      "Notification Message": {},
+      "Notification Recipients": {},
+      "Notification Frequency": {},
+      "Deadline Date": {}
+    }
+  }
+}

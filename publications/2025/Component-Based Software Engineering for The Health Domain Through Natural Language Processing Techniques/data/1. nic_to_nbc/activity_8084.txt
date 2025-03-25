@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Gunshot Wound Clock Description": {
+    "parameters": [
+      {"name": "clock_description", "description": "Describe the gunshot wound using the face of a clock (e.g. 3 o'clock, 9 o'clock, etc.)", "required": true, "type": "text"},
+      {"name": "twelve_oclock_location", "description": "Identify the location of 12:00 on the body (e.g. top of the head, center of the chest, etc.)", "required": true, "type": "text"},
+      {"name": "notes", "description": "Add any additional notes about the gunshot wound", "required": false, "type": "text"}
+    ]
+  }
+}

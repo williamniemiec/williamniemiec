@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Information": {
+    "parameters": {
+      "Content": {"type": "text or html"},
+      "Resources": {"type": "list of resources (e.g., URLs, video IDs, image URLs)"},
+      "Frequency": {"type": "options (e.g., daily, weekly, monthly)"},
+      "Deadline Date": {"type": "datetime"}
+    }
+  }
+}

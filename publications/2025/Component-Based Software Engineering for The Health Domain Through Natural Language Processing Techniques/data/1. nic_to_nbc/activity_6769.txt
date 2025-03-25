@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Guide": {
+    "Parameters": {
+      "Title": {"Type": "text"},
+      "Content": {"Type": "HTML text or multimedia"},
+      "Pages": {"Type": "list of HTML texts or multimedia"},
+      "Resources": {"Type": "list of URLs or PDFs"}
+    }
+  }
+}

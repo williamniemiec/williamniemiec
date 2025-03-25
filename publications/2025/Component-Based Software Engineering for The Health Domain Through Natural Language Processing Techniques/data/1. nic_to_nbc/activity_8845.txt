@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Exercise Prescription": {
+    "Fitness Level": {"type": "options"},
+    "Exercise Risk Factors": {"type": "options"},
+    "Level of Resistance": {"type": "options"},
+    "Number of Repetitions": {"type": "number"},
+    "Number of Sets": {"type": "number"},
+    "Frequency of Training Sessions": {"type": "options"},
+    "Exercise Plan": {"type": "structured data"}
+  }
+}

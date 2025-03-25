@@ -1,0 +1,44 @@
+Here is the output in JSON format:
+
+
+{
+  "Resource": {
+    "parameters": {
+      "name": {"type": "text"},
+      "description": {"type": "text"},
+      "options": {
+        "type": "list",
+        "list": {
+          "properties": {
+            "name": {"type": "text"},
+            "description": {"type": "text"},
+            "location": {"type": "text"},
+            "schedule": {"type": "text"},
+            "contact": {"type": "text"}
+          }
+        }
+      }
+    }
+  }
+},
+"List": {
+  "parameters": {
+    "name": {"type": "text"},
+    "items": {
+      "type": "list",
+      "list": {
+        "properties": {
+          "name": {"type": "text"},
+          "description": {"type": "text"}
+        }
+      }
+    }
+  }
+},
+"Link": {
+  "parameters": {
+    "name": {"type": "text"},
+    "url": {"type": "url"}
+  }
+}
+}

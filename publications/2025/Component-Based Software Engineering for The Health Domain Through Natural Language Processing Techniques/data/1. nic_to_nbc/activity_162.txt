@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "Guide": {
+    "parameters": {
+      "name": "Immobilization Guide",
+      "pages": "A list of HTML texts explaining why immobilization is important, how to properly immobilize the affected part, and tips for managing daily activities while keeping the affected part immobilized."
+    }
+  },
+  "Task": {
+    "parameters": {
+      "name": "Immobilization",
+      "content": "A brief description of the task, e.g. \"Please keep the affected part immobilized as much as possible during healing to promote proper recovery.\""
+    }
+  },
+  "Reminder": {
+    "parameters": {
+      "name": "Immobilization Reminder",
+      "content": "A brief reminder message, e.g. \"Remember to keep the affected part immobilized as much as possible to promote proper healing.\"",
+      "frequency": "How often the reminder should be sent, e.g. every 4 hours"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Speech and Hearing Aid Evaluation",
+  "description": "Focuses on the evaluation of speech and hearing aids, including the processing of audio, certification for aids, and recording of voice data to assess the effectiveness of hearing assistance devices.",
+  "type": "non-periodic",
+  "input": ["Speech", "Hearing", "Aid", "Vocal processes", "Certification", "Recording", "Voice"],
+  "output": ["Hearing aid effectiveness report", "Speech and hearing evaluation feedback"],
+  "preconditions": ["User is being assessed for speech or hearing aid use"],
+  "postconditions": ["Speech and hearing capabilities are evaluated and aids are recommended or certified"],
+  "dependencies": ["Hearing aid evaluation tools", "Speech analysis system"]
+}

@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Management": {
+    "Parameters": {
+      "Medication List": {"Type": "unordered list"},
+      "Dosage and Frequency": {"Type": "text or table"},
+      "Indications": {"Type": "text or unordered list"},
+      "Contraindications": {"Type": "text or unordered list"},
+      "Side Effects": {"Type": "text or unordered list"},
+      "Medication Schedule": {"Type": "datetime or frequency"}
+    }
+  },
+  "Medication Tracker": {
+    "Parameters": {
+      "medication tracker frequency": {},
+      "medication tracker method": {}
+    }
+  },
+  "Medication Reminder": {
+    "Parameters": {
+      "reminder frequency": {},
+      "reminder method": {}
+    }
+  }
+}

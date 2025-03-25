@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "task": {
+    "title": {"type": "text"},
+    "description": {
+      "inspect_inside": {"type": "text"},
+      "items_to_inspect": {
+        "foreign_objects": {"type": "text"},
+        "nail_points": {"type": "text"},
+        "torn_linings": {"type": "text"},
+        "rough_areas": {"type": "text"}
+      }
+    },
+    "frequency": {"type": "text"}
+  }
+}
+
+
+Let me know if this meets your requirements!

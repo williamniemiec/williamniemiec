@@ -1,0 +1,29 @@
+Here is the output in JSON format:
+
+
+{
+  "Collaboration Tool": {
+    "parameters": {
+      "name": {"type": "text"},
+      "members": {"type": "list of objects with `name`, `role`, and `contact_info` properties"},
+      "tasks": {"type": "list of objects with `name`, `description`, and `due_date` properties"},
+      "communication_channel": {"type": "options (e.g., messaging, video conferencing, phone calls, etc.)"}
+    }
+  },
+  "Task Assignment": {
+    "parameters": {
+      "name": {"type": "text"},
+      "task": {"type": "object with `name`, `description`, and `due_date` properties"},
+      "collaborator": {"type": "object with `name`, `role`, and `contact_info` properties"}
+    }
+  },
+  "Progress Tracker": {
+    "parameters": {
+      "name": {"type": "text"},
+      "tasks": {"type": "list of objects with `name`, `description`, `due_date`, and `status` properties"}
+    }
+  }
+}
+
+
+Note that I removed the "Not Applicable" parameters as per your request.

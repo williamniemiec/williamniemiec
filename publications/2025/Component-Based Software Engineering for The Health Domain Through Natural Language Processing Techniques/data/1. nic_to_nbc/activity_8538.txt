@@ -1,0 +1,48 @@
+Here is the output in JSON format:
+
+
+{
+    "Symptom Checker": {
+        "parameters": {
+            "name": "Hypocalcemia Symptom Checker",
+            "symptoms": [
+                "Irritability",
+                "Muscle tetany",
+                "Chvostek’s sign (facial muscle spasm)",
+                "Trousseau’s sign (carpal spasm)",
+                "Peripheral numbness and tingling",
+                "Muscle cramps",
+                "Decreased cardiac output",
+                "Prolonged ST segment and QT interval",
+                "Bleeding",
+                "Fractures"
+            ],
+            "answer type": "boolean (yes/no) or severity scale (e.g., 1-5)",
+            "frequency": "",
+            "deadline_date": ""
+        }
+    },
+    "ECG Tracker": {
+        "parameters": {
+            "name": "Hypocalcemia ECG Tracker",
+            "ECG readings": [
+                "Prolonged ST segment",
+                "QT interval"
+            ],
+            "frequency": "",
+            "deadline_date": ""
+        }
+    },
+    "Muscle Function Assessment": {
+        "parameters": {
+            "name": "Muscle Function Assessment",
+            "assessment": [
+                "Muscle strength and coordination",
+                "Reflexes",
+                "Presence of muscle cramps or spasms"
+            ],
+            "frequency": "",
+            "deadline_date": ""
+        }
+    }
+}

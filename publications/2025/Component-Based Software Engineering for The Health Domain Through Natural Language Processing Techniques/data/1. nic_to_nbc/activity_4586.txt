@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+    "Reassuring Message": {
+        "name": {"type": "text"},
+        "message": {"type": "text"},
+        "frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+        "deadline_date": {"type": "datetime"}
+    },
+    "Calming Audio": {
+        "name": {"type": "text"},
+        "audio_file": {"type": "audio file"},
+        "frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+        "deadline_date": {"type": "datetime"}
+    }
+}

@@ -1,0 +1,54 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Choice Exploration Plan",
+    "parameters": [
+        {
+            "name": "Plan Title",
+            "type": "text"
+        },
+        {
+            "name": "Choices to Explore",
+            "type": "list of text"
+        },
+        {
+            "name": "Goals",
+            "type": "list of text"
+        },
+        {
+            "name": "Action Steps",
+            "type": "list of text"
+        },
+        {
+            "name": "Timeline",
+            "type": "options",
+            "options": [
+                { value: "daily", label: "Daily" },
+                { value: "weekly", label: "Weekly" },
+                { value: "monthly", label: "Monthly" }
+            ]
+        },
+        {
+            "name": "Reflection Questions",
+            "type": "list of text"
+        },
+        {
+            "name": "Instructions",
+            "type": "text"
+        },
+        {
+            "name": "Frequency",
+            "type": "options",
+            "options": [
+                { value: "daily", label: "Daily" },
+                { value: "weekly", label: "Weekly" },
+                { value: "monthly", label: "Monthly" }
+            ]
+        },
+        {
+            "name": "Deadline Date",
+            "type": "datetime"
+        }
+    ]
+}

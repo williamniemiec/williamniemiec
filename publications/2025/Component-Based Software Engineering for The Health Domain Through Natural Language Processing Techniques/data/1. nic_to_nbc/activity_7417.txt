@@ -1,0 +1,24 @@
+
+
+
+{
+  "Behavioral Limit": {
+    "Parameters": {
+      "Trigger": {
+        "Type": "text"
+      },
+      "Limit": {
+        "Type": "text"
+      },
+      "Frequency": {
+        "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+      },
+      "Deadline Date": {
+        "Type": "datetime"
+      },
+      "Reminders": {
+        "Type": "boolean"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "training": {
+        "parameters": [
+            {"name": "title", "description": "training title"},
+            {"name": "steps", "description": "list of steps to follow"},
+            {"name": "reinforcement", "description": "provide positive reinforcement for successful requests"},
+            {"name": "frequency", "description": "specify how often the training should be repeated"}
+        ]
+    }
+}

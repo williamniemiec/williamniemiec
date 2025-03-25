@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "instruction": {
+    "parameters": {
+      "name": {"type": "text"},
+      "steps": {
+        "type": "ordered list",
+        "steps": {
+          "hold_infant": {"type": "text"},
+          "avoid_propping": {"type": "text"},
+          "test_temperature": {"type": "text"}
+        }
+      },
+      "rationale": {"type": "text"}
+    }
+  }
+}

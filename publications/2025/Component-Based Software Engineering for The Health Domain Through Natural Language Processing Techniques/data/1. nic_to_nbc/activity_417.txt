@@ -1,0 +1,36 @@
+Here is the output in JSON format:
+
+
+{
+  "noCodeElementName": "Test Result Review",
+  "parameters": {
+    "Test Name": {
+      "description": "name of the test (e.g., nonstress test, biophysical profile, etc.)",
+      "required": true,
+      "type": "options"
+    },
+    "Result": {
+      "description": "actual result of the test (e.g., normal, abnormal, etc.)",
+      "required": true,
+      "type": "text"
+    },
+    "Explanation": {
+      "description": "detailed explanation of the test result and what it means",
+      "required": true,
+      "type": "html"
+    },
+    "Next Steps": {
+      "description": "what the patient needs to do next based on the test result",
+      "required": true,
+      "type": "text"
+    },
+    "Frequency": {
+      "description": "specify how often to review test results with the patient",
+      "required": true,
+      "type": "options"
+    }
+  }
+}
+
+
+I removed the parameters that are not applicable (i.e., `Questions` since it's not required) and kept only the essential information. Let me know if you need any further assistance!

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Contact Request": {
+    "parameters": [
+      {"name": "Contact Type"},
+      {"name": "Contact Information"},
+      {"name": "Reason for Contact"},
+      {"name": "Frequency"},
+      {"name": "Deadline Date"}
+    ]
+  }
+}

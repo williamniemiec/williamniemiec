@@ -1,0 +1,35 @@
+Here is the output in JSON format:
+
+
+{
+  "Activity Suggestions": {
+    "parameters": {
+      "name": "",
+      "questions": [],
+      "answer_type": "",
+      "suggestions": []
+    }
+  },
+  "Community Resource Directory": {
+    "parameters": {
+      "name": "",
+      "resources": [],
+      "filtering": ""
+    }
+  },
+  "Goal Setting": {
+    "parameters": {
+      "name": "",
+      "questions": [],
+      "answer_type": "",
+      "goal tracking": ""
+    }
+  },
+  "Motivational Messaging": {
+    "parameters": {
+      "name": "",
+      "triggers": [],
+      "content": ""
+    }
+  }
+}

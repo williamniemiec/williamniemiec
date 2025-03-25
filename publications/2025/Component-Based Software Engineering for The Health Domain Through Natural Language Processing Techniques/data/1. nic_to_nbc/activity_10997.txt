@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Symptom Checker": {
+    "Parameters": {
+      "Symptoms": {
+        "Type": "list of options"
+      },
+      "Frequency": {
+        "Options": ["daily", "everyHours", "everyDays"]
+      },
+      "Severity Scale": {
+        "Type": "options",
+        "Options": ["mild", "moderate", "severe"]
+      }
+    }
+  }
+}

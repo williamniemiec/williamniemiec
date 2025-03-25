@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Financial Assessment Tool": {
+    "Income": {"Type": "unordered list"},
+    "Fixed Expenses": {"Type": "unordered list"},
+    "Assets": {"Type": "unordered list"},
+    "Liabilities": {"Type": "unordered list"},
+    "Financial Goals": {"Type": "text"},
+    "Financial Stress Level": {"Type": "options"}
+  }
+}

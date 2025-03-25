@@ -1,0 +1,34 @@
+Here is the output in JSON format:
+
+
+{
+  "parameters": [
+    {
+      "name": "Name",
+      "type": "text"
+    },
+    {
+      "name": "Introduction Script",
+      "type": "rich text"
+    },
+    {
+      "name": "Tips",
+      "type": "list of text"
+    },
+    {
+      "name": "Frequency",
+      "type": "options",
+      "options": [
+        { value: "daily" },
+        { value: "onlyOnce" },
+        { value: "everyHours" },
+        { value: "everyDays" }
+      ]
+    },
+    {
+      "name": "Deadline Date",
+      "type": "datetime"
+    }
+  ],
+  "noCodeElementName": "introduction guidance"
+}

@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Environmental Adaptation Assistant": {
+        "Desired Activity": {"Type": "text"},
+        "Environmental Assessment": {"Type": "assessment"},
+        "Adaptation Options": {"Type": "list"},
+        "Prioritization": {"Type": "ranking"},
+        "Action Plan": {"Type": "text"},
+        "Resource Connection": {"Type": "resource"}
+    }
+}

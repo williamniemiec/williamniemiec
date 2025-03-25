@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Care Plan Overview": {
+    "Parameters": {
+      "Care Goals": {
+        "Type": "text"
+      },
+      "Progress Tracking": {
+        "Type": "interactive tracker"
+      },
+      "Care Plan Timeline": {
+        "Type": "interactive timeline"
+      },
+      "Educational Resources": {
+        "Type": "text or multimedia"
+      }
+    }
+  }
+}

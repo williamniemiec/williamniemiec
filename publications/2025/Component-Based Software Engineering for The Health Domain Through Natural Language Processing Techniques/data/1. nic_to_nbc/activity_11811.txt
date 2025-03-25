@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Educational Content": {
+    "Content Text": {"type": "text with formatting options"},
+    "Readability Settings": {"type": "options for font size, line spacing, and text alignment"},
+    "Highlighting": {"type": "options for highlighting color, style, and font weight"},
+    "Image or Diagram": {"type": "image or diagram upload with optional captioning"},
+    "Layout and Design": {"type": "options for layout templates, color schemes, and typography"},
+    "Segmentation": {"type": "options for section headers, subheadings, and content grouping"},
+    "Actionable Behaviors": {"type": "options for call-to-action buttons, checkboxes, or other interactive elements"}
+  }
+}

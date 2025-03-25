@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Manual Ventilation": {
+    "parameters": [
+      { "name": "ventilation method", "description": "select the method for manual ventilation", "required": true, "type": "options", "options": [ { "value": "bag-valve-mask", "label": "Bag-valve-mask" }, { "value": "manual resuscitator", "label": "Manual resuscitator" } ] },
+      { "name": "chest compression status", "description": "indicate if chest compressions are in progress", "required": true, "type": "boolean" },
+      { "name": "ventilation frequency", "description": "specify how often to administer manual ventilation", "required": true, "type": "options", "options": [ { "value": "as needed", "label": "As needed" }, { "value": "every minute", "label": "Every minute" }, { "value": "every 5 minutes", "label": "Every 5 minutes" } ] },
+      { "name": "ventilation volume", "description": "specify the volume of manual ventilation", "required": true, "type": "number" }
+    ]
+  }
+}

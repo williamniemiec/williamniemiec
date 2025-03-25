@@ -1,0 +1,29 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Infection Control",
+  "parameters": [
+    {
+      "name": "hand_hygiene"
+    },
+    {
+      "name": "personal_protective_equipment"
+    },
+    {
+      "name": "gloves"
+    },
+    {
+      "name": "gown"
+    },
+    {
+      "name": "mask"
+    },
+    {
+      "name": "eye_protection"
+    },
+    {
+      "name": "cleaning_and_disinfection"
+    }
+  ]
+}

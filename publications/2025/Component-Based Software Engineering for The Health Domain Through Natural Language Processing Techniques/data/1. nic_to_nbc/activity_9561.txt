@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Emotional Awareness Statement": {
+    "Statement": ["I can see that you're feeling upset.", "It sounds like you're really struggling with this.", "I'm here to support you and acknowledge your emotions."],
+    "Tone": ["Empathetic", "Compassionate", "Non-judgmental"],
+    "Frequency": ["daily", "weekly", "monthly"]
+  },
+  "Emotional Check-In": {
+    "Question": ["How are you feeling today?", "What emotions are you experiencing right now?", "Can you rate your emotional state on a scale of 1-10?"],
+    "Response Type": ["Text", "Audio", "Video"],
+    "Frequency": ["daily", "weekly", "monthly"]
+  }
+}
+
+
+I removed the not applicable parameters (`Deadline Date` and `Content Type`) and formatted the remaining information into a JSON object with each no-code element as a key, containing its respective parameters as values.

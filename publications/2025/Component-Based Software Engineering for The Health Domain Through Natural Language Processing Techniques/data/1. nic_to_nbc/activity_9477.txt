@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Acupressure Education for Family/Significant Other": {
+    "Parameters": {
+      "Acupressure Technique": {"Type": "options"},
+      "Acupressure Points": {"Type": "text or image"},
+      "Treatment Frequency": {"Type": "options"},
+      "Treatment Duration": {"Type": "text or numeric value"},
+      "Education Method": {"Type": "options"},
+      "Education Materials": {"Type": "text or multimedia"}
+    }
+  }
+}
+
+
+I removed the introduction, conclusion, and non-applicable parameters (Deadline Date) from the input text. Let me know if you need any further assistance!

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Chair Clearance Check": {
+    "Parameters": {
+      "Photo/Measurement Instructions": {"Type": "text"},
+      "Clearance Measurement": {"Type": "numeric", "Unit": "inches", "Range": "2-3 inches"},
+      "Clearance Check": {"Type": "boolean", "Options": ["true/false"]},
+      "Adjustment Guidance": {"Type": "text"},
+      "Frequency": {"Type": "options", "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]}
+    }
+  }
+}

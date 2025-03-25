@@ -1,0 +1,46 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Disease Management",
+  "parameters": [
+    { 
+      "name": "Management Strategies", 
+      "type": "unordered list"
+    },
+    { 
+      "name": "Description", 
+      "type": "text"
+    },
+    { 
+      "name": "Benefits", 
+      "type": "text"
+    },
+    { 
+      "name": "Frequency", 
+      "type": "options",
+      "options": [
+        { value: "daily" },
+        { value: "onlyOnce" },
+        { value: "everyHours" },
+        { value: "everyDays" }
+      ]
+    },
+    { 
+      "name": "Deadline Date", 
+      "type": "datetime"
+    },
+    { 
+      "name": "Resources", 
+      "type": "multimedia"
+    },
+    { 
+      "name": "Goal Setting", 
+      "type": "text"
+    },
+    { 
+      "name": "Progress Tracking", 
+      "type": "boolean"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Guided Reflection": {
+    "Script": {"type": "text"},
+    "Pause Time": {"type": "text", "optionalUnits": ["seconds", "minutes"]},
+    "Frequency": {"type": "options", "options": [
+      {"value": "daily", "label": "Daily"},
+      {"value": "onlyOnce", "label": "Only once"},
+      {"value": "everyHours", "label": "Every x hours"},
+      {"value": "everyDays", "label": "Every x days"}
+    ]},
+    "Deadline Date": {"type": "datetime"}
+  }
+}
+
+
+Let me know if this meets your requirements!

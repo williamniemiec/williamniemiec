@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Goal Setting Exercise": {
+    "parameters": [
+      {"name": "Goal Category"},
+      {"name": "Specific Goal"},
+      {"name": "Measurable Criteria"},
+      {"name": "Realistic Timeline"},
+      {"name": "Action Plan"},
+      {"name": "Barriers to Success"},
+      {"name": "Reflection Question"}
+    ]
+  }
+}

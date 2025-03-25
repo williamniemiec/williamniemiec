@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Profile Evaluator": {
+    "parameters": [
+      {"Medication List": {"type": ["form", "table"]}},
+      {"Gastrointestinal Side Effects": {"type": ["checklist", "multi-select options"]}},
+      {"Risk Assessment": {"type": ["conditional logic", "algorithm"]}},
+      {"Recommendations": {"type": ["rich text", "multimedia"]}},
+      {"Education and Resources": {"type": ["rich text", "multimedia"]}}
+    ]
+  }
+}

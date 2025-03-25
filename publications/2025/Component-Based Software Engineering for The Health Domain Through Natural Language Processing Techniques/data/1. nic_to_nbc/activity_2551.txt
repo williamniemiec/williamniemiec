@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+  "Support Group Directory": {
+    "Parameters": {
+      "Support Group Category": {"Type": "options"},
+      "Support Group Name": {"Type": "text"},
+      "Support Group Description": {"Type": "text"},
+      "Meeting Information": {"Type": "text"}
+    }
+  },
+  "Referral Form": {
+    "Parameters": {
+      "Caregiver Information": {"Type": "form"},
+      "Support Group Request": {"Type": "options"},
+      "Referral Reason": {"Type": "text"}
+    }
+  },
+  "Support Group Connection": {
+    "Parameters": {
+      "Message": {"Type": "text"},
+      "Response": {"Type": "text"}
+    }
+  }
+}

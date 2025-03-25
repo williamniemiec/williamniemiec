@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Explore Dark": {
+    "Parameters": {
+      "Name": {},
+      "Instructions": {},
+      "Frequency": {},
+      "Deadline Date": {}
+    }
+  }
+}
+
+
+Note: I removed the `Reflection` parameter as it was not applicable (i.e., it didn't have a specific value or option). Let me know if you need any further assistance!

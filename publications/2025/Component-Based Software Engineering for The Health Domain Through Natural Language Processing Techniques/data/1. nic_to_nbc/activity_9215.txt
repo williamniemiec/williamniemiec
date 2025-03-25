@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Notification": {
+    "Parameters": {
+      "Recipient": {"Type": "text"},
+      "Trigger": {"Type": "options"},
+      "Message": {"Type": "text"},
+      "Deadline Date": {"Type": "datetime"}
+    }
+  }
+}

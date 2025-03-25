@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Dietary Guide": {
+    "parameters": [
+      {"Disease State": {}},
+      {"Dietary Restrictions": {}},
+      {"Food Categories": {}},
+      {"Portion Control": {}},
+      {"Meal Planning": {}}
+    ]
+  }
+}

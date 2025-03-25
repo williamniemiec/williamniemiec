@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Nurse Contact Info": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Description": {"Type": "text"},
+      "Nurse Name": {"Type": "text"},
+      "Contact Methods": {"Type": "options"},
+      "Contact Details": {"Type": "text"},
+      "Instructions": {"Type": "text"}
+    }
+  }
+}

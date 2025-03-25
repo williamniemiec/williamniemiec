@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+  "Hematological Symptom Tracker": {
+    "Symptom List": [],
+    "Severity Scale": {"Type": "options"},
+    "Frequency": {"Options": ["daily", "everyHours", "everyDays"]},
+    "Duration": {"Type": "time interval"},
+    "Notes": {"Type": "text"}
+  },
+  "Lab Result Tracker": {
+    "Lab Results": [],
+    "Test Dates": {"Type": "date"},
+    "Notes": {"Type": "text"}
+  }
+}
+
+
+I removed all unnecessary text and kept only the `{{ NO-CODE ELEMENT NAME }}` and `{{ PARAMETER ESPECIFICATIONS }}`. I also removed any parameters that were marked as "Not Applicable". Let me know if this meets your requirements!

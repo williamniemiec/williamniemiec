@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Equipment Guide": {
+    "Parameters": {
+      "Equipment Name": {"Type": "text"},
+      "Instructions": {"Type": "text or HTML with images and videos"},
+      "Videos": {"Type": "list of video URLs or embedded videos"},
+      "FAQs": {"Type": "list of questions and answers"}
+    }
+  }
+}

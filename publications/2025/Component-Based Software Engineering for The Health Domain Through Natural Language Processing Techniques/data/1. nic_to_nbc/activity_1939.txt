@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "Medical Play Equipment": {
+    "Equipment Type": {
+      "type": "options",
+      "options": ["stethoscope", "blood pressure cuff", "surgical mask", "other"]
+    },
+    "Simulation Level": {
+      "type": "options",
+      "options": ["real", "simulated", "toy-like"]
+    },
+    "Therapeutic Goal": {
+      "type": "options",
+      "options": ["expression of feelings", "knowledge about hospitalization", "coping with illness", "other"]
+    },
+    "Guided Play": {
+      "type": "boolean"
+    },
+    "Reflection Prompts": {
+      "type": "text or multimedia"
+    }
+  }
+}

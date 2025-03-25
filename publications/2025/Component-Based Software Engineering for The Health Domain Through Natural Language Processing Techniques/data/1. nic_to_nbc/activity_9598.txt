@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+{
+  "Oxygen Tolerance Assessment": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Instructions": {"Type": "text"},
+      "Frequency": {"Type": "options", "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"Type": "datetime"},
+      "Response Type": {"Type": "options", "Options": ["yes/no", "rating scale", "text"]},
+      "Response Options": {"Type": "list of options"}
+    }
+  }
+}

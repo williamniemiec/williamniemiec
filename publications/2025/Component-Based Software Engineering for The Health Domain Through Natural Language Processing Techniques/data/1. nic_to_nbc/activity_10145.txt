@@ -1,0 +1,41 @@
+Here is the output in JSON format:
+
+
+{
+    "Specimen Series": {
+        "Parameters": {
+            "Name": {"Type": "text"},
+            "Specimen Type": {"Type": "options", "Options": ["blood", "urine", "serum", "other"]},
+            "Collection Schedule": {"Type": "list of schedule entries (date, time, interval)"},
+            "Number of Specimens": {"Type": "integer"},
+            "Interval": {"Type": "options", "Options": ["hourly", "daily", "weekly", "custom"]},
+            "Deadline Date": {"Type": "datetime"},
+            "Resources": {"Type": "list of URLs or HTML texts"}
+        }
+    },
+    "Task": {
+        "Parameters": {
+            "name": {"Type": null},
+            "content": {"Type": null},
+            "frequency": {"Type": null},
+            "deadline_date": {"Type": null}
+        }
+    },
+    "Reminder": {
+        "Parameters": {
+            "name": {"Type": null},
+            "content": {"Type": null},
+            "frequency": {"Type": null},
+            "deadline_date": {"Type": null}
+        }
+    },
+    "Schedule": {
+        "Parameters": {
+            "name": {"Type": null},
+            "schedule entries (date, time, interval)": {"Type": null}
+        }
+    }
+}
+
+
+Note: I removed the not applicable parameters and only kept the `{{ NO-CODE ELEMENT NAME }}` and `{{ PARAMETER ESPECIFICATIONS }}`.

@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Progress Tracker": {
+    "Current Status": ["Symptoms", "Vital signs", "Medication adherence", "Other relevant health metrics"],
+    "Previous Status": ["Symptoms", "Vital signs", "Medication adherence", "Other relevant health metrics"],
+    "Comparison": ["Improvements", "Deterioration", "No change"],
+    "Frequency": ["daily", "onlyOnce", "everyHours", "everyDays"],
+    "Deadline Date": {"type": "datetime"}
+  },
+  "Journal": {
+    "Entry": ["Symptoms", "Vital signs", "Medication adherence", "Other relevant health metrics"],
+    "Frequency": ["daily", "weekly"],
+    "Deadline Date": {"type": "datetime"}
+  }
+}

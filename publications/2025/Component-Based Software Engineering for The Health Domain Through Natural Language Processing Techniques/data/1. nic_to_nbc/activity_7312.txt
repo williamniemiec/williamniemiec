@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Tracker": {
+    "parameters": [
+      {"name": "medication_name", "description": "Medication name"},
+      {"name": "expiration_date", "description": "Expiration date"},
+      {"name": "dosage", "description": "Dosage instructions"},
+      {"name": "frequency", "description": "How often to take the medication"}
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Gradual Bath Introduction": {
+    "Parameters": {
+      "Introduction Method": {},
+      "Water Temperature": {},
+      "Introduction Speed": {},
+      "Patient Feedback": {}
+    }
+  }
+}

@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+    "Emergency Medication Availability": {
+        "Medication List": {"Type": "list of text", "Description": "provide a list of emergency medications, including protamine sulfate and vitamin K"},
+        "Availability Status": {"Type": "boolean", "Description": "allow the patient to track the availability of protamine sulfate and vitamin K, ensuring they are readily available in case of an emergency"},
+        "Expiration Date": {"Type": "date input", "Description": "allow the patient to track the expiration dates of protamine sulfate and vitamin K, ensuring they are replaced before they expire"},
+        "Reminders": {"Type": "boolean", "Description": "allow the patient to set reminders to check medication availability and expiration dates"}
+    }
+}

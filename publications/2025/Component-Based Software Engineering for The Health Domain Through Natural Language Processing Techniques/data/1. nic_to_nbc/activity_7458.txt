@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Elimination Pattern Tracker": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Elimination Types": {"Type": "list of options or free text"},
+      "Frequency": {"Options": ["daily", "everyHours", "everyDays"]},
+      "Deadline Date": {"Type": "datetime"},
+      "Pattern Questions": {"Questions": ["How often do you urinate per day?", "What is the frequency of your bowel movements?", "Have you experienced any vomiting episodes?"]}
+    }
+  }
+}

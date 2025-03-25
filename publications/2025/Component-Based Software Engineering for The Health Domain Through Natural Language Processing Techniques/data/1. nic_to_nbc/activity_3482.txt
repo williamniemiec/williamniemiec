@@ -1,0 +1,3 @@
+{}
+
+(Note: Since there are no applicable parameters, the output is an empty JSON object)

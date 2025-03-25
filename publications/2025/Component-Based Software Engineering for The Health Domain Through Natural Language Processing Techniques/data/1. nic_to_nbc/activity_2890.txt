@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Helpful Tasks": {
+    "Task Type": {},
+    "Task Description": {},
+    "Frequency": {},
+    "Priority": {},
+    "Assignee": {},
+    "Status": {}
+  }
+}

@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Social Support Network Assessment": {
+    "Parameters": {
+      "Questions": [
+        "Do you have close friends or family members who could help with childcare in a pinch?",
+        "How many people do you have in your social network who could provide emotional support or help with childcare?",
+        "How often do you reach out to friends or family for help with childcare?",
+        "Do you feel like you have a strong support system in place for childcare?"
+      ],
+      "Answer type": [
+        "Scale (e.g., 1-5, where 1 is \"rarely\" and 5 is \"almost always\")",
+        "Open-ended text response"
+      ]
+    }
+  }
+}

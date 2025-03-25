@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "education": {
+        "parameters": [
+            {"name": "title", "description": "education title"},
+            {"name": "content", "description": "education content"},
+            {"name": "products_to_avoid", "description": "oral hygiene products to avoid", "items": ["products containing glycerin", "products containing alcohol", "products containing other drying agents"]},
+            {"name": "rationale", "description": "rationale for avoiding these products"},
+            {"name": "alternatives", "description": "alternative oral hygiene products", "items": ["products containing natural ingredients", "products labeled as 'non-drying'", "other alternative products"]}
+        ]
+    }
+}

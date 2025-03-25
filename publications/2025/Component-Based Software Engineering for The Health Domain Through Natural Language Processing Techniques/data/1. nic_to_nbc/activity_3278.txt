@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+    "Exploitation Screening": {
+        "Basic Needs Assessment": [],
+        "Resource Availability Assessment": [],
+        "Personal Possessions Assessment": [],
+        "Financial Assessment": [],
+        "Legal Knowledge Assessment": [],
+        "Risk Score": {"Type": "score (e.g., 1-5)"},
+        "Frequency": {"Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+        "Deadline Date": {"Type": "datetime"}
+    }
+}

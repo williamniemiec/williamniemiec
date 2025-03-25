@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "environment_setup",
+  "parameters": [
+    {"name": "space_identification"},
+    {"name": "equipment_availability"},
+    {"name": "schedule_allocation"},
+    {"name": "distraction_elimination"}
+  ]
+}

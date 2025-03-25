@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+    "reinforcer selector": {
+        "parameters": [
+            {"name": "reinforcer options"},
+            {"name": "importance rating"},
+            {"name": "selected reinforcer"}
+        ]
+    }
+}

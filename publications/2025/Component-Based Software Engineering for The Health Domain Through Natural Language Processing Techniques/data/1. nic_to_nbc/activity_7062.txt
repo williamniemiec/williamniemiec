@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Observation Timer": {
+    "Parameters": {
+      "Observation Period": {"Type": "duration"},
+      "Medication Name": {"Type": "text"},
+      "Observation Instructions": {"Type": "text"},
+      "Timer": {"Type": "timer"}
+    }
+  },
+  "Task": {
+    "Parameters": {
+      "Task Name": {"Type": "text"},
+      "Task Description": {"Type": "text"},
+      "Observation Period": {"Type": "duration"},
+      "Task Status": {"Type": "options"}
+    }
+  }
+}

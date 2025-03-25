@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Blood Product Administration Guide": {
+    "Parameters": {
+      "Name": {},
+      "Blood Product Type": {},
+      "Dosage": {},
+      "Administration Route": {},
+      "Frequency": {},
+      "Instructions": {}
+    }
+  }
+}

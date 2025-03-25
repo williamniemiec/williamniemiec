@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Status Update": {
+    "Update Type": {
+      "Type": "options"
+    },
+    "Update Frequency": {
+      "Type": "options"
+    },
+    "Update Method": {
+      "Type": "options"
+    },
+    "Authorized Recipients": {
+      "Type": "options"
+    }
+  }
+}

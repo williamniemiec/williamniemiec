@@ -1,0 +1,33 @@
+Here is the output in JSON format:
+
+
+{
+  "Question": {
+    "parameters": {
+      "name": "",
+      "answer type": "rating scale"
+    }
+  },
+  "Open-Ended Question": {
+    "parameters": {
+      "name": "",
+      "answer type": "text"
+    }
+  },
+  "Self-Assessment": {
+    "parameters": {
+      "name": "",
+      "answer type": "rating scale"
+    }
+  },
+  "Scenario": {
+    "parameters": {
+      "description": "",
+      "question": "",
+      "answer type": "rating scale"
+    }
+  }
+}
+
+
+Note: I removed the `NOT APPLICABLE` parameters and only kept the ones that were specified in the input text.

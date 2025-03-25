@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Community Safety Assessment": {
+    "Parameters": {
+      "Team Members": {"Type": "text"},
+      "Assessment Criteria": {"Type": "text"},
+      "Threat Identification": {"Type": "text"},
+      "Risk Assessment": {"Type": "options", "Options": ["high", "moderate", "low"]},
+      "Action Plan": {"Type": "text"},
+      "Follow-up Date": {"Type": "datetime"}
+    }
+  }
+}

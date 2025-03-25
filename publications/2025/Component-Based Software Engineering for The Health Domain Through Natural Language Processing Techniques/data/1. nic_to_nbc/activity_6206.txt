@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+{
+  "Warning Signs": {
+    "Parameters": {
+      "Signs": {"Description": "List of signs of recurrent preterm labor", "Required": true, "Type": "list of text"},
+      "Symptom Duration": {"Description": "Duration of symptoms before seeking care (e.g., 1 hour)", "Required": true, "Type": "text"},
+      "Action": {"Description": "Action to take if symptoms return and continue for the specified duration (e.g., reseek care immediately)", "Required": true, "Type": "text"},
+      "Resources": {"Description": "List of resources for seeking care (e.g., hospital, clinic, emergency services)", "Required": true, "Type": "list of objects", "SubParameters": {
+        "Name": {"Description": "Name of the resource", "Required": true, "Type": "text"},
+        "Contact Info": {"Description": "Contact information for the resource (e.g., phone number, email, website)", "Required": true, "Type": "text"}
+      }}
+    }
+  }
+}
+
+Note that I removed the `Frequency` parameter since it's not required. Also, I formatted the JSON output to make it more readable. Let me know if you need any further assistance!

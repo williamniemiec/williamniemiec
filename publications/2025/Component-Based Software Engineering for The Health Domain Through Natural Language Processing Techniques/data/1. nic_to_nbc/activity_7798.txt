@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "Milk Expression Guide": {
+    "Tutorial Title": {},
+    "Content": {},
+    "Pumping Options": [
+      { value: "hand", label: "Hand Expression" },
+      { value: "manual", label: "Manual Pumping" },
+      { value: "singleElectrical", label: "Single Electrical Pumping" },
+      { value: "doubleElectrical", label: "Double Electrical Pumping" },
+      { value: "hospitalGrade", label: "Hospital-Grade Pumping (for preterm infants)" }
+    ],
+    "Comparison": {},
+    "Frequency": [
+      { value: "daily", label: "Daily" },
+      { value: "weekly", label: "Weekly" },
+      { value: "monthly", label: "Monthly" }
+    ]
+  }
+}
+
+
+I removed the introduction, conclusion, and non-parameter specifications. I also removed the `Deadline Date` parameter since it's not applicable (required is set to false). Let me know if this meets your requirements!

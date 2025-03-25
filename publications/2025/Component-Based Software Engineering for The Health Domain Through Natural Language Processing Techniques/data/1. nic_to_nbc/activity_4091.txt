@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Self-Acceptance Reflection": {
+    "Guided Meditation": {"type": "audio"},
+    "Reflection Prompts": {"type": "list of text"},
+    "Journaling": {"type": "text"},
+    "Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"type": "datetime"}
+  }
+}

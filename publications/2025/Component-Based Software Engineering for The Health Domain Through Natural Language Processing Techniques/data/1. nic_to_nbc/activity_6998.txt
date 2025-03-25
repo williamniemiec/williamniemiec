@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+  "Burn Cooling Guide": {
+    "Cooling Method": {
+      "Description": "Choose the cooling method to use",
+      "Required": true,
+      "Type": "options",
+      "Options": ["Warm water (20º C)", "Saline solution"]
+    },
+    "Cooling Duration": {
+      "Description": "Record the duration of cooling",
+      "Required": true,
+      "Type": "measurement",
+      "Measurement units": "minutes"
+    },
+    "Cooling Frequency": {
+      "Description": "Frequency of cooling the burn",
+      "Required": true,
+      "Type": "options",
+      "Options": ["every 15 minutes", "every 30 minutes", "every 1 hour"]
+    }
+  }
+}
+
+
+I removed the `Deadline Date` and `Reminder` parameters since they were marked as not required. Let me know if you need anything else!

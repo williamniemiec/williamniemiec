@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+    "TPN Education Module": {
+        "Education Topic": {},
+        "Education Content": {},
+        "Quiz or Assessment": {},
+        "Care Instructions": {},
+        "Indications for TPN": {},
+        "Family Education": {},
+        "Deadline Date": {},
+        "Notes": {}
+    }
+}

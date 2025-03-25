@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Aerobic Workout Plan": {
+    "Parameters": {
+      "Workout Type": {"Type": "options"},
+      "Intensity Level": {"Type": "options"},
+      "Duration": {"Type": "number"},
+      "Frequency": {"Type": "options"},
+      "Tolerance Level": {"Type": "text"}
+    }
+  }
+}

@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+  "Lifestyle Adaptation": {
+    "parameters": {
+      "Patient Profile": {
+        "type": "object",
+        "properties": {
+          "Daily Schedule": {"type": "list of time slots"},
+          "Dietary Restrictions": {"type": "list of restrictions"},
+          "Physical Activity Level": {"type": "options"},
+          "Other Relevant Information": {"type": "text"}
+        }
+      },
+      "Information to Adapt": {"type": "text or list of texts"},
+      "Adaptation Rules": {
+        "type": "object",
+        "properties": {
+          "Schedule-Based Adaptation": {"type": "list of rules"},
+          "Dietary Restriction-Based Adaptation": {"type": "list of rules"},
+          "Physical Activity Level-Based Adaptation": {"type": "list of rules"}
+        }
+      }
+    }
+  }
+}

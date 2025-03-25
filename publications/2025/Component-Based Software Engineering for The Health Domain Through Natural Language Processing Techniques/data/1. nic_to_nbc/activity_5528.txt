@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+    "Communication Guide": {
+        "title of the guide": {"Type": "text", "Required": true},
+        "Pages": {"Type": "book-page", "Required": true, "Book-page": "list of HTML texts"},
+        "Tips": {"Type": "text", "Required": false},
+        "Exercises": {"Type": "exercise", "Required": false, "Exercise": "list of HTML texts with interactive elements"}
+    }
+}

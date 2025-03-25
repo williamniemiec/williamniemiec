@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+"Pain Assessment": {
+"name": "pain assessment title",
+"description": "instructions on how to report pain levels (e.g., using a pain scale, describing pain location and intensity)",
+"frequency": "how often to report pain levels (e.g., every hour, every 2 hours)",
+"deadline_date": "when to report pain levels by",
+"pain scale": "an optional feature to provide a standardized pain scale (e.g., 0-10, verbal rating scale)",
+"free text": "an optional feature to allow patients to provide additional comments or descriptions of their pain"
+}
+}

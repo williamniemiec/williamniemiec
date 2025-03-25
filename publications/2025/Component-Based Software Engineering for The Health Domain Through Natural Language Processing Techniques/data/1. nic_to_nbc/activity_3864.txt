@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+    "Personalized Technique Suggestion": {
+        "Parameters": {
+            "Name": {"Type": "text"},
+            "Energy Level": {"Type": "options", "Options": [{"value": "high", "label": "High"}, {"value": "medium", "label": "Medium"}, {"value": "low", "label": "Low"}]},
+            "Ability": {"Type": "options", "Options": [{"value": "beginner", "label": "Beginner"}, {"value": "intermediate", "label": "Intermediate"}, {"value": "advanced", "label": "Advanced"}]},
+            "Age Appropriateness": {"Type": "options", "Options": [{"value": "pediatric", "label": "Pediatric"}, {"value": "adult", "label": "Adult"}, {"value": "geriatric", "label": "Geriatric"}]},
+            "Developmental Level": {"Type": "options", "Options": [{"value": "cognitive", "label": "Cognitive"}, {"value": "emotional", "label": "Emotional"}, {"value": "physical", "label": "Physical"}]},
+            "Past Effectiveness": {"Type": "options", "Options": [{"value": "yes", "label": "Yes"}, {"value": "no", "label": "No"}]},
+            "Technique": {"Type": "options", "Options": [{"value": "relaxation", "label": "Relaxation"}, {"value": "distraction", "label": "Distraction"}, {"value": "breathingExercise", "label": "Breathing Exercise"}]},
+            "Instructions": {"Type": "text"}
+        }
+    }
+}

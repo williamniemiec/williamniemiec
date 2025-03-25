@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Motor Skill Guide": {
+    "Parameters": {
+      "Motor Skill Activity Name": {},
+      "Instructions": {},
+      "Frequency": {}
+    }
+  }
+}

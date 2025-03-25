@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Guide": {
+    "parameters": {
+      "name": "",
+      "content": "",
+      "pages": [],
+      "type": ""
+    }
+  },
+  "Question": {
+    "parameters": {
+      "name": "",
+      "content": "",
+      "answer type": "",
+      "frequency": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Sharps Container Provision": {
+        "parameters": [
+            {"Sharps Type": "options"},
+            {"Container Type": "options"},
+            {"Container Size": "options"},
+            {"Frequency of Replacement": "options"},
+            {"Individual Needs": "text or checkbox"}
+        ]
+    }
+}

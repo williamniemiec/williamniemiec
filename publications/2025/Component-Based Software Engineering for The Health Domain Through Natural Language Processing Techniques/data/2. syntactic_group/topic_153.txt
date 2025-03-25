@@ -1,0 +1,10 @@
+{
+  "name": "Survey and Interview Answer Analysis",
+  "description": "Focuses on answering questions from surveys or interviews, where responses are analyzed based on properties, question types, and answer labels. The process includes analyzing answer patterns for insights.",
+  "type": "periodic",
+  "input": ["Survey questions", "Interview answers", "Properties of responses", "Answer labels"],
+  "output": ["Answer analysis report", "Survey results", "Response summary"],
+  "preconditions": ["User is participating in a survey or interview"],
+  "postconditions": ["Survey results and response analysis complete"],
+  "dependencies": ["Survey tool", "Answer tracking system", "Analysis platform"]
+}

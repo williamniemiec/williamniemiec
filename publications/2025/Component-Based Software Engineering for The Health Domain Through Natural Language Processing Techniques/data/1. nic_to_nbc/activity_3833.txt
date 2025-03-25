@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Waste Disposal Guideline": {
+    "parameters": [
+      {
+        "name": "disposal_instructions",
+        "description": "Step-by-step instructions for disposing of spare material and hazardous waste",
+        "required": true,
+        "type": "text"
+      },
+      {
+        "name": "agency_protocol",
+        "description": "Agency protocol for disposing of spare material and hazardous waste",
+        "required": true,
+        "type": "text"
+      }
+    ]
+  }
+}

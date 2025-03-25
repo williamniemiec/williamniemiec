@@ -1,0 +1,10 @@
+{
+  "name": "Blood Product Administration and Transfusion",
+  "description": "Covers the administration of blood products like plasma and platelets, as well as the sampling and dissolution processes. Includes transfusion guidelines and monitoring.",
+  "type": "non-periodic",
+  "input": ["Blood product types", "Plasma and platelet administration", "Transfusion monitoring", "Blood sampling techniques"],
+  "output": ["Blood transfusion report", "Product administration feedback", "Transfusion effectiveness summary"],
+  "preconditions": ["User is receiving or administering blood products"],
+  "postconditions": ["Successful transfusion and proper monitoring"],
+  "dependencies": ["Blood product management system", "Transfusion monitoring tools", "Sample collection platform"]
+}

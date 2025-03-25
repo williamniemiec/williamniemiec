@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+  "Guide": {
+    "Parameters": {
+      "Title": "Hand Hygiene Guide",
+      "Content": "A series of steps or instructions on how to perform hand hygiene, including text, images, or videos",
+      "Frequency": "Specify how often the patient should review the guide, e.g., daily or weekly",
+      "Deadline date": "Specify the due date for reviewing the guide, if applicable"
+    }
+  },
+  "Reminder": {
+    "Parameters": {
+      "Message": "A brief reminder message, e.g., \"Remember to wash your hands before touching your lenses!\"",
+      "Frequency": "Specify how often the reminder should be sent, e.g., daily or weekly",
+      "Deadline date": "Specify the due date for performing hand hygiene, if applicable"
+    }
+  }
+}

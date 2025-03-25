@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Bowel Sound Tracker": {
+    "Sound": {},
+    "Location": {},
+    "Frequency": {},
+    "Duration": {},
+    "Notes": {},
+    "Date": {}
+  }
+}

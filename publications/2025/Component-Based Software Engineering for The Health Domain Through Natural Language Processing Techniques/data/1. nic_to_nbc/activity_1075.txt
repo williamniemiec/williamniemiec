@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+    "Rest Instruction": {
+        "Parameters": {
+            "Rest Duration": {"Type": "duration"},
+            "Rest Position": {"Type": "text"}
+        }
+    },
+    "Rest Position Instruction": {
+        "Parameters": {
+            "Rest Position": {"Type": "text"}
+        }
+    },
+    "Rest Duration Instruction": {
+        "Parameters": {
+            "Rest Duration": {"Type": "duration"}
+        }
+    }
+}

@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Financial Responsibility Discussion": {
+    "Client Information": {"type": "text or reference to a client profile"},
+    "Financial Responsibilities": {"type": "text or structured data (e.g., JSON object)"},
+    "Discussion Method": {"type": "options", "options": ["in-person", "phone call", "video conference", "email"]},
+    "Discussion Content": {"type": "text or template"},
+    "Discussion Date": {"type": "datetime"}
+  }
+}

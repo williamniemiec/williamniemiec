@@ -1,0 +1,34 @@
+
+
+
+{
+  "name": "Patient Positioning",
+  "parameters": [
+    {
+      "name": "Positioning Type",
+      "type": "string"
+    },
+    {
+      "name": "Body Part",
+      "type": "string"
+    },
+    {
+      "name": "Support Devices",
+      "type": "list",
+      "list_type": "support device",
+      "support device": {
+        "type": "string",
+        "description": "string"
+      }
+    },
+    {
+      "name": "Pressure Redistribution",
+      "type": "list",
+      "list_type": "pressure redistribution",
+      "pressure redistribution": {
+        "description": "string",
+        "required": "boolean"
+      }
+    }
+  ]
+}

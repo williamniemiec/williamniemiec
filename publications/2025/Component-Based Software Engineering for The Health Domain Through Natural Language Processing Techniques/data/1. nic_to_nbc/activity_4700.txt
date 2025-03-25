@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+    "port_preparation_instruction": {
+        "parameters": [
+            {"name": "steps", "description": "list of preparation steps"},
+            {"name": "frequency", "description": "specify how often to remind the patient to prepare the port"}
+        ]
+    }
+}

@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Nose Drop Administration Guidance": {
+    "Parameters": {
+      "Positioning Instructions": {},
+      "Sinus Selection": {},
+      "Head Positioning Guidance": {}
+    }
+  }
+}

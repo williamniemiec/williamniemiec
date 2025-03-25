@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Respiratory Status Monitor": {
+    "parameters": {
+      "name": "Monitor respiratory status",
+      "respiratory_rate": {"type": "number"},
+      "respiratory_rhythm": {"type": "options", "options": [{"value": "regular", "label": "Regular"}, {"value": "irregular", "label": "Irregular"}, {"value": "other", "label": "Other (please specify)"}]},
+      "respiratory_depth": {"type": "options", "options": [{"value": "shallow", "label": "Shallow"}, {"value": "normal", "label": "Normal"}, {"value": "deep", "label": "Deep"}, {"value": "other", "label": "Other (please specify)"}]},
+      "pao2": {"type": "number"},
+      "pco2": {"type": "number"},
+      "ph": {"type": "number"},
+      "bicarbonate": {"type": "number"},
+      "frequency": {"type": "options", "options": [{"value": "daily", "label": "Daily"}, {"value": "onlyOnce", "label": "Only once"}, {"value": "everyHours", "label": "Every x hours"}, {"value": "everyDays", "label": "Every x days"}]}
+    }
+  }
+}
+
+
+I removed the introduction, conclusion, and non-applicable parameters. The output only includes the no-code element name and its parameter specifications in JSON format.

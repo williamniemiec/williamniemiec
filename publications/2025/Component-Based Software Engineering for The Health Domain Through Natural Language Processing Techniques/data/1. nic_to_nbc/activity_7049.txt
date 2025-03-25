@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "Teleconferencing": {
+    "Topic": {"type": "text"},
+    "Video": {"type": "video"},
+    "Audio": {"type": "audio"},
+    "Chat": {"type": "text"},
+    "Frequency": {"options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"type": "datetime"}
+  },
+  "Telecommunications": {
+    "Topic": {"type": "text"},
+    "Phone Number": {"type": "phone number"},
+    "Frequency": {"options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"type": "datetime"}
+  },
+  "Computer Technologies": {
+    "Topic": {"type": "text"},
+    "Content": {"type": ["text", "image", "video", "interactive simulation"]},
+    "Frequency": {"options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"type": "datetime"}
+  }
+}

@@ -1,0 +1,33 @@
+Here is the output in JSON format:
+
+
+{
+  "Mucosal Damage Tracker": {
+    "parameters": {
+      "name": {"type": "text"},
+      "damage fields": {"type": "list"},
+      "tracking frequency": {"type": "options", "values": ["continuous", "periodic", "etc."]}
+    }
+  },
+  "Inspection Guide": {
+    "parameters": {
+      "name": {"type": "text"},
+      "inspection steps": {"type": "list"},
+      "images": {"type": "list"}
+    }
+  },
+  "Risk Assessment": {
+    "parameters": {
+      "name": {"type": "text"},
+      "risk factors": {"type": "list"},
+      "risk level": {"type": "options", "values": ["low", "moderate", "high", "etc."]}
+    }
+  },
+  "Alert System": {
+    "parameters": {
+      "name": {"type": "text"},
+      "alert criteria": {"type": "list"},
+      "notification method": {"type": "options", "values": ["in-app notification", "SMS", "email", "etc."]}
+    }
+  }
+}

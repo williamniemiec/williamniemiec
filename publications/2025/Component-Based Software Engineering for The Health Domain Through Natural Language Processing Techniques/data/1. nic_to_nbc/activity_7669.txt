@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Guide": {
+    "parameters": {
+      "name": {"type": "text"},
+      "content": {"type": "rich text or multimedia"},
+      "procedure": {"type": "text"}
+    }
+  }
+}

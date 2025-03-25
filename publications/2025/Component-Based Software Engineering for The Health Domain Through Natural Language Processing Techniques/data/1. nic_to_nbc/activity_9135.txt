@@ -1,0 +1,59 @@
+Here is the output in JSON format:
+
+
+{
+  "Alternative Treatments": {
+    "title": {
+      "Required": true,
+      "Type": "text"
+    },
+    "treatments": {
+      "Required": true,
+      "Type": "unordered list",
+      "List items": {
+        "treatment name": {
+          "Required": true,
+          "Type": "text"
+        },
+        "treatment description": {
+          "Required": true,
+          "Type": "text"
+        },
+        "Pros": {
+          "Required": false,
+          "Type": "unordered list",
+          "List items": {
+            "pro": {
+              "Required": true,
+              "Type": "text"
+            }
+          }
+        },
+        "Cons": {
+          "Required": false,
+          "Type": "unordered list",
+          "List items": {
+            "con": {
+              "Required": true,
+              "Type": "text"
+            }
+          }
+        }
+      }
+    },
+    "Frequency": {
+      "Required": true,
+      "Type": "options",
+      "Options": {
+        "daily": {},
+        "onlyOnce": {},
+        "everyHours": {},
+        "everyDays": {}
+      }
+    },
+    "Deadline Date": {
+      "Required": false,
+      "Type": "datetime"
+    }
+  }
+}

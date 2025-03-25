@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+    "High-Fiber Diet Guide": {
+        "Dietary Recommendations": {
+            "type": "rich text or multimedia"
+        },
+        "Meal Planning Tools": {
+            "type": "interactive table or form"
+        },
+        "Fiber Content Database": {
+            "type": "searchable database or table"
+        },
+        "Tips and Reminders": {
+            "type": "rich text or multimedia"
+        },
+        "Goal Setting": {
+            "type": "text or numeric input"
+        }
+    }
+}

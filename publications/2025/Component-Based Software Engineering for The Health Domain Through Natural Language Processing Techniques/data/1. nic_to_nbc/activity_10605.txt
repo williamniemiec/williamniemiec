@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Urinary Output Tracker": {
+    "Parameters": {
+      "Urinary Output Tracker": {},
+      "Pattern Identification": {},
+      "Reminders and Alerts": {},
+      "Data Sharing": {},
+      "Education and Resources": {}
+    }
+  }
+}

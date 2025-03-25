@@ -1,0 +1,11 @@
+
+
+
+{
+    "Universal Precautions": {
+        "name": "Universal Precautions",
+        "unit": "yes/no" or "used/not used",
+        "frequency": "options for how often to use universal precautions (e.g., every time for patient care, etc.)",
+        "deadline_date": "optional due date for using universal precautions"
+    }
+}

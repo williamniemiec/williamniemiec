@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Essential Oil Therapy": {
+    "parameters": {
+      "Essential Oil": {},
+      "Method": {},
+      "Body Area": {},
+      "Frequency": {},
+      "Deadline Date": {}
+    }
+  }
+}

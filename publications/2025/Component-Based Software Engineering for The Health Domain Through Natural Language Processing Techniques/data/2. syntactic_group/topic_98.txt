@@ -1,0 +1,10 @@
+{
+  "name": "Medication Dosage Reminders",
+  "description": "Reminds users to take medications on time, including dosage information, through SMS or push notifications. Provides reminders for every set dosage time.",
+  "type": "periodic",
+  "input": ["Medication schedule", "Dosage details", "Reminder system", "Push/SMS notifications"],
+  "output": ["Medication reminder alert", "Dosage confirmation", "Time-based notification system"],
+  "preconditions": ["User is on a medication regimen"],
+  "postconditions": ["Timely medication administration with adherence tracking"],
+  "dependencies": ["Medication reminder platform", "SMS/push notification system", "Dosage management tools"]
+}

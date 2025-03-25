@@ -1,0 +1,37 @@
+Here is the output in JSON format:
+
+
+{
+  "Dressing Assistance": {
+    "Task Name": {
+      "Description": "Task to dress self",
+      "Required": true,
+      "Type": "text"
+    },
+    "Frequency": {
+      "Description": "Specify how often to dress self",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "daily", "label": "Daily" },
+        { "value": "everyOtherDay", "label": "Every other day" },
+        { "value": "weekly", "label": "Weekly" },
+        { "value": "custom", "label": "Custom (please specify)" }
+      ]
+    },
+    "Custom Frequency": {
+      "Description": "Enter custom frequency",
+      "Required": false,
+      "Type": "text"
+    },
+    "Reminders": {
+      "Description": "Set reminders to dress self",
+      "Required": false,
+      "Type": "options",
+      "Options": [
+        { "value": "yes", "label": "Yes, set reminders" },
+        { "value": "no", "label": "No, don't set reminders" }
+      ]
+    }
+  }
+}

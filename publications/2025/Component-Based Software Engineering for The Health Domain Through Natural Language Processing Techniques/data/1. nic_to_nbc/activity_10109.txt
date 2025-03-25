@@ -1,0 +1,34 @@
+Here is the output in JSON format:
+
+
+{
+  "Sedation Alert": {
+    "Warning": {
+      "Type": "text",
+      "Content": "Remember to avoid taking sedatives during weaning trials to ensure a safe and successful process."
+    },
+    "Weaning Trial Schedule": {
+      "Type": "form",
+      "Fields": {
+        "Date and time of weaning trial": "",
+        "Duration of weaning trial": ""
+      }
+    },
+    "Medication List": {
+      "Type": "form",
+      "Fields": {
+        "Medication name": "",
+        "Dosage": "",
+        "Frequency": ""
+      }
+    },
+    "Reminder": {
+      "Type": "options",
+      "Options": [
+        { "value": "1hourBefore", "label": "1 hour before weaning trial" },
+        { "value": "2hoursBefore", "label": "2 hours before weaning trial" },
+        { "value": "custom", "label": "Custom reminder time" }
+      ]
+    }
+  }
+}

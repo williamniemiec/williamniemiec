@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Need Identification": {
+    "Behavior": {"Type": "text"},
+    "Needs Assessment": {"Type": "options"},
+    "Need Ranking": {"Type": "ranking"},
+    "Insight Generation": {"Type": "text"}
+  }
+}

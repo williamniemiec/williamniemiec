@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Tutorial": {
+    "Care Task": {"type": "text"},
+    "Steps": {"type": "list of text or multimedia content"},
+    "Tips": {"type": "list of text or multimedia content"},
+    "Checklist": {"type": "list of text or multimedia content"},
+    "Quiz": {"type": "list of questions with answer options"},
+    "Resources": {"type": "text or multimedia content"}
+  }
+}

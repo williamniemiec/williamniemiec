@@ -1,0 +1,26 @@
+Here is the output in JSON format, removing everything except `{{ PARAMETER ESPECIFICATIONS }}` and `{{ NO-CODE ELEMENT NAME }}`, and removing not applicable parameters:
+
+
+{
+  "Self-Reflection Exercise": {
+    "Exercise Type": {
+      "type": "options",
+      "options": ["journaling", "mindfulness meditation", "cognitive restructuring"]
+    },
+    "Prompt": {
+      "type": "text",
+      "example": "What are some things that make you feel good about yourself, regardless of your physical appearance?"
+    },
+    "Reflection Questions": {
+      "type": "list of text",
+      "example": ["What are some negative thoughts you have about your physical appearance?", "How do these thoughts affect your self-worth?", "What are some positive affirmations you can use to counteract these negative thoughts?"]
+    },
+    "Frequency": {
+      "type": "options",
+      "options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+    }
+  }
+}
+
+
+Let me know if this is what you were expecting!

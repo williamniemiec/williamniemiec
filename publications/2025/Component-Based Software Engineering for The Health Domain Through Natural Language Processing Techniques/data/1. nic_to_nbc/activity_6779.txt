@@ -1,0 +1,15 @@
+
+
+
+{
+  "Symptom Tracker": {
+    "parameters": {
+      "Symptoms": {},
+      "Frequency": {},
+      "Rating Scale": {}
+    }
+  }
+}
+
+
+I removed the `Deadline Date` parameter as it's not applicable, and only kept the necessary information. Let me know if this meets your requirements!

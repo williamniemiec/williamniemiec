@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+    "Sling Application": {
+        "body_part": {"Description": "Specific body part to apply the sling to", "Required": true, "Type": "text"},
+        "sling": {"Description": "Specific type of sling to apply", "Required": true, "Type": "text"},
+        "image": {"Description": "Image illustrating the correct application of the sling", "Required": true, "Type": "image"},
+        "indications": {"Description": "Specific indications for applying the sling", "Required": true, "Type": "text"}
+    }
+}

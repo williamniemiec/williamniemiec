@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+  "noCodeElementName": "Advance Directive Status",
+  "parameterSpecifications": {
+    "Advance Directive Type": {
+      "options": ["livingWill", "durablePowerOfAttorney", "other"]
+    },
+    "Directive Status": {
+      "options": ["yes", "no", "unknown"]
+    },
+    "Directive Details": {
+      "type": "text"
+    },
+    "Patient Understanding": {
+      "options": ["yes", "no", "unknown"]
+    },
+    "Update Frequency": {
+      "options": ["atEachVisit", "annually", "other"]
+    }
+  }
+}

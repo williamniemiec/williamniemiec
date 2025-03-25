@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Guide": {
+    "Parameters": {
+      "Name": "",
+      "Pages": [
+        "Importance of monitoring vital signs",
+        "How to interpret pulse oximeter readings",
+        "Understanding ECG results"
+      ],
+      "Images": []
+    }
+  }
+}

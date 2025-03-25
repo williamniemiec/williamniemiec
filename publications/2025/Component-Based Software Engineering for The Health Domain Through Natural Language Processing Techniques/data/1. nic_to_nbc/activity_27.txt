@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+  "Behavioral Guidelines": {
+    "Session Type": { "type": "text" },
+    "Behavioral Expectations": { 
+      "type": "checklist", 
+      "options": [
+        { "value": "respect", "label": "Respect for others' opinions and feelings" },
+        { "value": "activeListening", "label": "Active listening and engagement" },
+        { "value": "honesty", "label": "Honesty and authenticity" }
+      ]
+    },
+    "Unacceptable Behaviors": { 
+      "type": "checklist", 
+      "options": [
+        { "value": "aggression", "label": "Aggressive behavior or language" },
+        { "value": "disruption", "label": "Disruptive behavior or interrupting others" },
+        { "value": "inappropriateTopics", "label": "Discussing inappropriate or off-topic subjects" }
+      ]
+    },
+    "Consequences": { "type": "text" },
+    "Acknowledgement": { "type": "boolean" }
+  }
+}

@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+  "Risk Factor Assessment": {
+    "Parameters": {
+      "Risk Factors": {
+        "Description": "list of risk factors to assess (e.g., mental health disorder, intimate partner violence, etc.)",
+        "Required": true,
+        "Type": "list"
+      },
+      "Questions": {
+        "Description": "list of questions to assess each risk factor (e.g., symptoms, frequency, etc.)",
+        "Required": true,
+        "Type": "list"
+      },
+      "Frequency": {
+        "Description": "specify how often to assess risk factors (e.g., daily, weekly, etc.)",
+        "Required": true,
+        "Type": "options",
+        "Options": [
+          { "value": "daily", "label": "Daily" },
+          { "value": "weekly", "label": "Weekly" }
+        ]
+      }
+    }
+  }
+}

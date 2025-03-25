@@ -1,0 +1,29 @@
+Here is the output in JSON format:
+
+
+{
+  "guide": {
+    "title": {
+      "type": "text"
+    },
+    "sections": {
+      "type": "list of section objects",
+      "section": {
+        "title": {
+          "type": "text"
+        },
+        "content": {
+          "type": "HTML text or multimedia content"
+        }
+      }
+    },
+    "guidelines": {
+      "measure_feet": {
+        "type": "text"
+      },
+      "fit_shoes": {
+        "type": "text"
+      }
+    }
+  }
+}

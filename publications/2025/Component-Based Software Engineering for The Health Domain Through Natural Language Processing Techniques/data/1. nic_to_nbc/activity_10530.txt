@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Parameter Specifications": {
+        "Guide Title": {"type": "text"},
+        "Aspiration Precautions": {"type": "text"},
+        "Seizure Precautions": {"type": "text"},
+        "Caregiver Role": {"type": "options", "options": [{"value": "familyMember", "label": "Family Member"}, {"value": "friend", "label": "Friend"}, {"value": "healthcareProvider", "label": "Healthcare Provider"}]},
+        "Precaution Type": {"type": "options", "options": [{"value": "aspiration", "label": "Aspiration Precautions"}, {"value": "seizure", "label": "Seizure Precautions"}, {"value": "generalSafety", "label": "General Safety Precautions"}]},
+        "Resources": {"type": "list of URLs or text"}
+    },
+    "No-code Element Name": "Precaution Guide"
+}

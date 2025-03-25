@@ -1,0 +1,29 @@
+Here is the output in JSON format:
+
+{
+    "name": "Reflective Questioning",
+    "parameters": [
+        {
+            "name": "Message",
+            "type": "text"
+        },
+        {
+            "name": "Questions",
+            "type": "list of text"
+        },
+        {
+            "name": "Frequency",
+            "type": "options",
+            "options": [
+                { value: "daily" },
+                { value: "onlyOnce" },
+                { value: "everyHours" },
+                { value: "everyDays" }
+            ]
+        },
+        {
+            "name": "Deadline Date",
+            "type": "datetime"
+        }
+    ]
+}

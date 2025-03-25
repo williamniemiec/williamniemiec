@@ -1,0 +1,33 @@
+Here is the output in JSON format:
+
+
+{
+    "Activity and Rest Plan": {
+        "Parameters": {
+            "Activity Level": {
+                "Options": ["sedentary", "lightlyActive", "moderatelyActive", "veryActive", "extremelyActive"]
+            },
+            "Rest Needs": {
+                "Type": "text or numerical value"
+            },
+            "Goals": {
+                "Type": "text"
+            },
+            "Barriers": {
+                "Type": "text"
+            },
+            "Strategies": {
+                "Type": "list of strategies"
+            },
+            "Frequency": {
+                "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+            },
+            "Deadline Date": {
+                "Type": "datetime"
+            }
+        }
+    }
+}
+
+
+Note that I removed the "Content Type" parameter as it was not applicable to the specific element, and kept only the parameters specified in the input text.

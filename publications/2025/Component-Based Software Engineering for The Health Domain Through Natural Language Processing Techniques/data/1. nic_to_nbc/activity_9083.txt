@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Resource Library": {
+    "Parameters": {
+      "Resource Categories": {},
+      "Resource List": {},
+      "Search Function": {},
+      "Favorites": {},
+      "Rating and Review": {}
+    }
+  }
+}

@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Activity Guide": {
+    "Parameters": {
+      "Activity Name": {"Required": true, "Type": "text"},
+      "Instructions": {"Description": "Step-by-step instructions for the activity", "Required": true, "Type": ["text", "illustrated guide"]},
+      "Frequency": {"Description": "How often the activity should be performed", "Required": true, "Type": "options", "Options": ["daily", "everyOtherDay", "threeTimesAWeek", "etc."]}
+    }
+  }
+}

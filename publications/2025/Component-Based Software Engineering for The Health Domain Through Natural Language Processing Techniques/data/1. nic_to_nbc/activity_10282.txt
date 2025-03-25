@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+    "Behavioral Monitoring": {
+        "Parameters": {
+            "Behavior Type": [],
+            "Frequency": [],
+            "Duration": [],
+            "Intensity": [],
+            "Notes": []
+        }
+    }
+}
+
+
+Note that I removed the "Not Applicable" parameters as per your request. Also, I didn't include any values for the parameters as they were not specified in the input text.

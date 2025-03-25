@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Nail Polish Application": {
+    "Polish Color": {"Type": "options", "Options": ["list of available nail polish colors"]},
+    "Application Instructions": {"Type": "text", "Default value": "Apply a base coat, followed by 1-2 coats of nail polish, and finish with a top coat"},
+    "Frequency": {"Type": "options", "Options": ["daily", "everyOtherDay", "weekly", "monthly"]},
+    "Deadline Date": {"Type": "datetime"}
+  }
+}

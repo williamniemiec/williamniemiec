@@ -1,0 +1,40 @@
+Here is the output in JSON format:
+
+
+{
+    "Trust and Positive Regard Module": {
+        "Name": {"Type": "text"},
+        "Description": {"Type": "text"},
+        "Trust-Building Strategies": {"Type": "list of text or HTML content"},
+        "Positive Regard Techniques": {"Type": "list of text or HTML content"},
+        "Communication Skills": {"Type": "text or HTML content"},
+        "Empathy and Compassion": {"Type": "text or HTML content"},
+        "Case Studies": {"Type": "list of text or HTML content"},
+        "Resources": {"Type": "list of URLs or file attachments"}
+    },
+    "Trust-Building Module": {
+        "Name": {"Type": "text"},
+        "Description": {"Type": "text"},
+        "Trust-Building Strategies": {"Type": "list of text or HTML content"}
+    },
+    "Positive Regard Module": {
+        "Name": {"Type": "text"},
+        "Description": {"Type": "text"},
+        "Positive Regard Techniques": {"Type": "list of text or HTML content"}
+    },
+    "Communication Skills Module": {
+        "Name": {"Type": "text"},
+        "Description": {"Type": "text"},
+        "Communication Skills": {"Type": "text or HTML content"}
+    },
+    "Empathy and Compassion Module": {
+        "Name": {"Type": "text"},
+        "Description": {"Type": "text"},
+        "Empathy and Compassion": {"Type": "text or HTML content"}
+    },
+    "Case Studies Module": {
+        "Name": {"Type": "text"},
+        "Description": {"Type": "text"},
+        "Case Studies": {"Type": "list of text or HTML content"}
+    }
+}

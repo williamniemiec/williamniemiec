@@ -1,0 +1,10 @@
+Here is the output in JSON format:
+
+
+{
+  "Sponge Bath Offer": {
+    "Trigger": {"Type": "boolean", "Description": "Detects if the patient is experiencing agitation"},
+    "Alternative Method": {"Type": "text", "Description": "Description of the sponge bath method"},
+    "Frequency": {"Type": "options", "Options": ["asNeeded", "daily", "everyHours", "everyDays"], "Description": "Specifies how often the sponge bath should be offered"}
+  }
+}

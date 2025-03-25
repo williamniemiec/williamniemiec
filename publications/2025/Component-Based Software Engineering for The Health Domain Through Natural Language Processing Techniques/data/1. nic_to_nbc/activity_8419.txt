@@ -1,0 +1,32 @@
+
+
+
+{
+  "Catheterization Log": {
+    "Parameters": {
+      "Entry Type": {
+        "Description": "Type of log entry (catheterization, fluid intake, or output)",
+        "Required": true,
+        "Type": "options",
+        "Options": [
+          { "value": "catheterization", "label": "Catheterization" },
+          { "value": "fluidIntake", "label": "Fluid Intake" },
+          { "value": "output", "label": "Output" }
+        ]
+      },
+      "Date and Time": {
+        "Description": "Date and time of log entry",
+        "Required": true,
+        "Type": "datetime"
+      },
+      "Details": {
+        "Description": "Additional details about the log entry (e.g. amount of fluid intake, output volume)",
+        "Required": false,
+        "Type": "text"
+      }
+    }
+  }
+}
+
+
+Note: I removed `Catheterization Schedule` parameter as it's marked as not applicable (`Required: false`).

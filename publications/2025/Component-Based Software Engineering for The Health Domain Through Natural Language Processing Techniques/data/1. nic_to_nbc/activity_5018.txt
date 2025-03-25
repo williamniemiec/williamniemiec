@@ -1,0 +1,38 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "reflective question",
+    "parameters": [
+        {
+            "name": "question",
+            "type": "text"
+        },
+        {
+            "name": "answer type",
+            "type": "options",
+            "options": [
+                { value: "text", label: "Text" },
+                { value: "multiple choice", label: "Multiple Choice" }
+            ]
+        },
+        {
+            "name": "instructions",
+            "type": "text"
+        },
+        {
+            "name": "frequency",
+            "type": "options",
+            "options": [
+                { value: "daily", label: "Daily" },
+                { value: "onlyOnce", label: "Only once" },
+                { value: "everyHours", label: "Every x hours" },
+                { value: "everyDays", label: "Every x days" }
+            ]
+        },
+        {
+            "name": "deadline_date",
+            "type": "datetime"
+        }
+    ]
+}

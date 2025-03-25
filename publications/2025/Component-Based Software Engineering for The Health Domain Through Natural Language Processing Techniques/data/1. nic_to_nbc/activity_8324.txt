@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+  "Vitamin D Intake Tracker": {
+    "Daily Goal": {"type": "number"},
+    "Food Sources": {"type": "unordered list"},
+    "Supplement Options": {"type": "text or unordered list"},
+    "Tracking Method": {"type": "text or options list"},
+    "Reminders": {"type": "datetime or frequency"}
+  },
+  "Food Diary": {
+    "food diary frequency": {"type": null},
+    "food diary method": {"type": null}
+  },
+  "Supplement Reminder": {
+    "reminder frequency": {"type": null},
+    "reminder method": {"type": null}
+  }
+}
+
+
+Note: For the parameters without a specified type, I left it as `null`. If you want to remove them or replace with a specific value, let me know!

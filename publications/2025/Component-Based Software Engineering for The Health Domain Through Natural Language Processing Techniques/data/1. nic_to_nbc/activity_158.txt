@@ -1,0 +1,17 @@
+
+
+
+{
+    "Cue Expansion Guide": {
+        "Parameters": {
+            "Desired Behavior": {},
+            "Current Cues": {},
+            "New Cues": {},
+            "Cue Expansion Plan": {},
+            "Frequency": {
+                "options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+            },
+            "Deadline Date": {}
+        }
+    }
+}

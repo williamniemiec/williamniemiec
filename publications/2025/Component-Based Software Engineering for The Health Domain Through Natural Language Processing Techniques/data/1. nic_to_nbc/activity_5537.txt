@@ -1,0 +1,31 @@
+Here is the output in JSON format:
+
+
+{
+  "Purposeful Touch": {
+    "Touch Type": {
+      "description": "Type of touch to use (e.g. gentle, firm, comforting)",
+      "options": [
+        { "value": "gentle", "label": "Gentle" },
+        { "value": "firm", "label": "Firm" },
+        { "value": "comforting", "label": "Comforting" }
+      ]
+    },
+    "Touch Location": {
+      "description": "Location on the body where touch should be applied",
+      "options": [
+        { "value": "hand", "label": "Hand" },
+        { "value": "arm", "label": "Arm" },
+        { "value": "shoulder", "label": "Shoulder" }
+      ]
+    },
+    "Touch Duration": {
+      "description": "Length of time touch should be applied",
+      "type": "number"
+    },
+    "Touch Purpose": {
+      "description": "Reason for using touch (e.g. comfort, relaxation, reassurance)",
+      "type": "text"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Hemodynamic Monitoring Guide": {
+    "Medications": {"type": "text"},
+    "Therapies": {"type": "text"},
+    "Equipment": {"type": "text"},
+    "Videos and Animations": {"type": "multimedia"},
+    "Interactive Quizzes": {"type": "interactive quiz"}
+  }
+}

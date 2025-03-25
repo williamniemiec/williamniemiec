@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Water Temperature Check",
+    "parameters": [
+        {
+            "name": "thermometer_type"
+        },
+        {
+            "name": "water_types"
+        },
+        {
+            "name": "temperature_range"
+        },
+        {
+            "name": "testing_frequency"
+        },
+        {
+            "name": "reporting_instructions"
+        }
+    ]
+}
+
+
+I removed the `deadline_date` parameter since it's not applicable (required: false). Let me know if this meets your requirements!

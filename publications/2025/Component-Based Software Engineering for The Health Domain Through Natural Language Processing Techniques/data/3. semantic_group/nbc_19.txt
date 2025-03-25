@@ -1,0 +1,10 @@
+{
+  "name": "Guide",
+  "description": "Instruct the patient about something.",
+  "type": "non-periodic",
+  "input": ["pages"],
+  "output": ["Rich text"],
+  "preconditions": ["The title and description must be a non-empty string. The list of pages must contain at least one page, and each must be a valid rich text."],
+  "postconditions": ["The output is a non-empty rich text."],
+  "dependencies": []
+}

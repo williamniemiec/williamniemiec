@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Cushion Selection": {
+    "Parameters": {
+      "Cushion Options": {"Type": "options", "Options": ["Memory Foam", "Gel Cushion", "Inflatable Cushion"]},
+      "Patient Needs": {"Type": "text"},
+      "Frequency": {"Type": "options", "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]}
+    }
+  }
+}

@@ -1,0 +1,33 @@
+Here is the output in JSON format:
+
+
+{
+  "Tutorial": {
+    "parameters": {
+      "name": "title of the tutorial",
+      "steps": "list of steps with accompanying text, images, or videos",
+      "tips": "list of additional tips or reminders for each step"
+    }
+  },
+  "Video Demonstration": {
+    "parameters": {
+      "name": "title of the video",
+      "video_url": "URL of the video demonstration",
+      "description": "brief description of the video content"
+    }
+  },
+  "Checklist": {
+    "parameters": {
+      "name": "title of the checklist",
+      "items": "list of tasks to complete (e.g., clean the stoma, apply a new pouch)",
+      "reminders": "list of reminders or tips for each task"
+    }
+  },
+  "Journal": {
+    "parameters": {
+      "name": "title of the journal",
+      "entries": "list of journal entries with date, time, and text input",
+      "tags": "list of tags or categories for organizing journal entries (e.g., \"stoma care\", \"complications\")"
+    }
+  }
+}

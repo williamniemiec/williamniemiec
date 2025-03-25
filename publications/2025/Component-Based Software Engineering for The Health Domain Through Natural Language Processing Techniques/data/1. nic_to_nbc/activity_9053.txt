@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Resource Library": {
+    "parameters": {
+      "resources": {"type": "list of resource texts or links"},
+      "categories": {"type": "list of category texts"},
+      "search": {"type": "search bar with autocomplete functionality"}
+    }
+  }
+}

@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Positive Feedback",
+    "parameters": [
+        {
+            "name": "Name",
+            "type": "text"
+        },
+        {
+            "name": "Feedback Text",
+            "type": "text"
+        },
+        {
+            "name": "Trigger",
+            "type": "options",
+            "options": [
+                { "value": "exercise completion", "label": "Exercise completion" },
+                { "value": "milestone reached", "label": "Milestone reached" }
+            ]
+        }
+    ]
+}

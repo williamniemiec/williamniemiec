@@ -1,0 +1,29 @@
+Here is the output in JSON format:
+
+
+{
+    "Discharge Plan Documentation": {
+        "Parameters": {
+            "Discharge Plan": {
+                "Type": ["text", "structured data"]
+            },
+            "Chart Section": {
+                "Type": ["text", "dropdown"]
+            },
+            "Documentation Format": {
+                "Type": "options",
+                "Options": ["Free text", "Structured template", "Checklist"]
+            },
+            "Required Fields": {
+                "Type": "list",
+                "Fields": ["Date", "Time", "Medications", "Follow-up appointments"]
+            },
+            "Electronic Signature": {
+                "Type": "boolean"
+            },
+            "Audit Trail": {
+                "Type": "boolean"
+            }
+        }
+    }
+}

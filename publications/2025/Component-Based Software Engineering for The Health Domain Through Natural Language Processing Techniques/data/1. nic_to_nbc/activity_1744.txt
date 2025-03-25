@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Dialysis Tracker": {
+    "Type": {"type": "options", "options": ["hemodialysis", "peritoneal dialysis"]},
+    "Frequency": {"type": "options", "options": ["daily", "everyOtherDay", "threeTimesAWeek", "etc."]},
+    "Session Details": {"type": "form", "fields": ["date", "time", "duration", "notes (optional)"]},
+    "Reminders": {"type": "boolean", "default": true}
+  }
+}

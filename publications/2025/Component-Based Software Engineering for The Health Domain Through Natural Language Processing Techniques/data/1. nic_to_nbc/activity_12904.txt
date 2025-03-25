@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Blood Glucose Monitoring": {
+    "parameters": {
+      "diabetes_status": {"type": "boolean"},
+      "preprocedure_glucose": {"type": "numerical value"},
+      "postprocedure_glucose": {"type": "numerical value"},
+      "glucose_monitoring_instructions": {"type": "text"},
+      "confirmation": {"type": "boolean"}
+    }
+  }
+}
+
+
+Let me know if this meets your requirements!

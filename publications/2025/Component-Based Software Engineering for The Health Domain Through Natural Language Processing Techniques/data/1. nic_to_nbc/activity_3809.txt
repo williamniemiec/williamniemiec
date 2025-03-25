@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+    "Screening Questionnaire": {
+        "Parameters": {
+            "Questions": [],
+            "Answer type": ["Boolean (yes/no)", "Text", "Select (from a list of options)"],
+            "Frequency": ["daily", "onlyOnce", "everyHours", "everyDays"],
+            "Deadline Date": {"Type": "datetime"}
+        }
+    }
+}
+
+
+Note: I removed the "Not Applicable" parameters as per your request. Also, I represented the "Questions" parameter as an empty list since there was no specific value provided in the input text. If you want to include the example questions, let me know!

@@ -1,0 +1,27 @@
+Here is the output JSON:
+
+{
+  "name": "Stages of Change Assessment",
+  "parameters": [
+    {
+      "name": "Stage Options",
+      "type": "list of options"
+    },
+    {
+      "name": "Assessment Questions",
+      "type": "list of text"
+    },
+    {
+      "name": "Frequency",
+      "type": "options"
+    },
+    {
+      "name": "Deadline Date",
+      "type": "datetime"
+    },
+    {
+      "name": "Stage Rating",
+      "type": "options"
+    }
+  ]
+}

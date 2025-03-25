@@ -1,0 +1,40 @@
+Here is the output in JSON format:
+
+
+{
+  "Care Activity Schedule": {
+    "parameters": {
+      "name": {
+        "type": "text"
+      },
+      "weaning_trial": {
+        "type": "options",
+        "options": [
+          {"value": "30 minutes", "label": "30 minutes"},
+          {"value": "60 minutes", "label": "60 minutes"},
+          {"value": "90 minutes", "label": "90 minutes"},
+          {"value": "120 minutes", "label": "120 minutes"},
+          {"value": "custom", "label": "Custom"}
+        ]
+      },
+      "care_activities": {
+        "type": "list",
+        "items": [
+          {"value": "medication_administration", "label": "Medication Administration"},
+          {"value": "physical_therapy", "label": "Physical Therapy"},
+          {"value": "wound_care", "label": "Wound Care"},
+          {"value": "other", "label": "Other"}
+        ]
+      },
+      "schedule": {
+        "type": "schedule"
+      },
+      "instructions": {
+        "type": "text"
+      }
+    }
+  }
+}
+
+
+Let me know if you need any further assistance!

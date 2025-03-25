@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+    "Defibrillator Discharge Education": {
+        "Education Content": {"type": "text"},
+        "Reassurance": {"type": "text"},
+        "Myth-Busting": {"type": "list of myths and facts"},
+        "Support Resources": {"type": "list of resources"}
+    }
+}

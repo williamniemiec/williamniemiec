@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Dependency Acceptance Support": {
+    "parameters": {
+      "Dependency Type": {},
+      "Acceptance Level": {},
+      "Support Strategy": {},
+      "Frequency": {}
+    }
+  }
+}

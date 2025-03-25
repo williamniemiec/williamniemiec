@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Arm Board Instruction": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Content": {"Type": "text"},
+      "Warning": {"Type": "text"}
+    }
+  }
+}

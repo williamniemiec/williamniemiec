@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Guide": {
+    "parameters": {
+      "Coping Strategy": {"type": "options"},
+      "Content": {"type": "book-page"},
+      "Exercises": {"type": "list of exercise descriptions"},
+      "Frequency": {"type": "options"}
+    }
+  }
+}

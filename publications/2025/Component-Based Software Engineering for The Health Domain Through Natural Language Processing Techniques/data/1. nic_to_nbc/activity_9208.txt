@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+    "Blood Glucose Tracker": {
+        "Parameters": {
+            "Title": {"Type": "text"},
+            "Units": {"Type": "options", "Options": ["mg/dL", "mmol/L"]},
+            "Frequency": {"Type": "options", "Options": ["daily", "before meals", "after meals", "at bedtime"]},
+            "Target Range": {"Type": "range"},
+            "Notes": {"Type": "text"},
+            "Reminders": {"Type": "options", "Options": ["daily", "weekly", "custom"]}
+        }
+    }
+}

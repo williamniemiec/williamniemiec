@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Bowel Sounds Assessment": {
+    "Parameters": [
+      {"Name": "Assessment Name", "Description": "Name of the bowel sounds assessment"},
+      {"Name": "Instructions", "Description": "Step-by-step instructions for the bowel sounds assessment"}
+    ]
+  }
+}

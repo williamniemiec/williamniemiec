@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Dental Checkup Education": {
+    "Educational Content": {
+      "type": ["text", "multimedia content"]
+    },
+    "First Visit Guidance": {
+      "type": ["text", "multimedia content"]
+    },
+    "Dental Home Establishment": {
+      "type": ["text", "interactive content"]
+    },
+    "Reminders": {
+      "type": ["datetime", "scheduling system integration"]
+    }
+  }
+}

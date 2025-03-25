@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+  "List": {
+    "parameters": {
+      "name": {},
+      "items": {
+        "options": [
+          "Arc welding equipment",
+          "Electronic muscle stimulators",
+          "Radio transmitters",
+          "Concert speakers",
+          "Large motorgenerator systems",
+          "Electric drills",
+          "Hand-held metal detectors",
+          "Magnetic resonance imaging",
+          "Radiation treatments",
+          "Other sources (to be specified)"
+        ]
+      },
+      "description": {},
+      "warning": {}
+    }
+  }
+}

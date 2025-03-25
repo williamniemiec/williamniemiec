@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Goal Setter": {
+    "Participation Goals": {"type": "text or options"},
+    "Athlete Abilities": {"type": "text or options"},
+    "Parent Expectations": {"type": "text or options"},
+    "Realistic Goal Setting": {"type": "text or video"},
+    "Goal Tracking": {"type": "text or numeric"},
+    "Adjustment Guidance": {"type": "text or video"}
+  }
+}

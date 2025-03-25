@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Whirlpool Bath Instruction": {
+    "Parameters": {
+      "Whirlpool Bath Title": {},
+      "Affected Area": {},
+      "Frequency": {},
+      "Duration": {},
+      "Temperature": {}
+    }
+  }
+}

@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Humor Selection": {
+    "Parameters": {
+      "Humor type": {},
+      "Arousal level": {},
+      "Humor intensity": {},
+      "Content filter": {}
+    }
+  }
+}

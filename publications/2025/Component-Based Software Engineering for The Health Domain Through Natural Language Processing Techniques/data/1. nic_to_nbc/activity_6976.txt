@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Role Acceptance Survey": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Questions": {"Type": "list of questions"},
+      "Scales": {"Type": "options"},
+      "Topics": {"Type": "list of topics"}
+    }
+  }
+}

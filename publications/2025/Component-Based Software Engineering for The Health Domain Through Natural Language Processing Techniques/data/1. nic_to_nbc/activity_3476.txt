@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "TENS Unit Securing": {
+        "parameters": {
+            "Securing Method": {"type": "options", "options": ["on patient's belt", "waistband of pants", "other"]},
+            "Securing Confirmation": {"type": "boolean"},
+            "Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+            "Deadline Date": {"type": "datetime"}
+        }
+    }
+}

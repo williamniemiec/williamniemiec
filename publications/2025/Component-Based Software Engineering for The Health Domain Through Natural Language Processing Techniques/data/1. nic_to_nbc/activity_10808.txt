@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Environmental Control": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Stimuli": {"Type": "list of stimuli types"},
+      "Tips": {"Type": "list of tips and suggestions"},
+      "Frequency": {"Type": "options (e.g. daily, weekly, as needed)"},
+      "Reminders": {"Type": "options (e.g. daily, weekly, custom)"}
+    }
+  }
+}
+
+
+I removed the `Deadline Date` parameter since it's not applicable in this context. Let me know if you have any further requests!

@@ -1,0 +1,10 @@
+{
+  "name": "Reporting Abuse and Animal Bites",
+  "description": "Covers the identification and reporting of abuse, animal bites, and injuries such as unexplained marks, lacerations, or fractures. Aims to provide a structured approach for reporting and addressing these issues.",
+  "type": "non-periodic",
+  "input": ["Abuse reporting", "Animal bites", "Injury identification", "Fractures and lacerations", "Unexplained marks"],
+  "output": ["Abuse report", "Animal bite tracking", "Injury assessment"],
+  "preconditions": ["User is reporting or identifying abuse or injury"],
+  "postconditions": ["Accurate reporting and documentation of injuries or abuse"],
+  "dependencies": ["Reporting platform", "Injury assessment tools", "Abuse documentation system"]
+}

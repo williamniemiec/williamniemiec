@@ -1,0 +1,31 @@
+Here is the output in JSON format:
+
+
+{
+  "teratogen_avoidance": {
+    "parameters": [
+      {"name": "handling_cat_litter", "description": "explain the risks of handling cat litter during pregnancy"},
+      {"name": "smoking_cessation", "description": "provide resources and strategies for smoking cessation", 
+        "list": [
+          {"label": "Nicotine replacement therapy", "type": "boolean"},
+          {"label": "Prescription medications", "type": "boolean"},
+          {"label": "Counseling and support groups", "type": "boolean"}
+        ]
+      },
+      {"name": "alcohol_substitutes", "description": "provide alternatives to alcohol consumption during pregnancy", 
+        "list": [
+          {"label": "Non-alcoholic beverages", "type": "boolean"},
+          {"label": "Mocktails", "type": "boolean"},
+          {"label": "Virgin cocktails", "type": "boolean"}
+        ]
+      },
+      {"name": "other_teratogens", "description": "educate about other teratogens to avoid during pregnancy", 
+        "list": [
+          {"label": "Radiation exposure", "type": "boolean"},
+          {"label": "Chemical exposure", "type": "boolean"},
+          {"label": "Infectious diseases", "type": "boolean"}
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Reminder": {
+        "parameters": {
+            "name": "",
+            "content": "",
+            "frequency": "",
+            "deadline_date": "",
+            "notification_type": ""
+        }
+    }
+}

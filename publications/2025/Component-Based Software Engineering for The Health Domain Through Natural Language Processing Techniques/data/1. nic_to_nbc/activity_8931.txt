@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "Behavior Change Incentive": {
+    "Incentive Type": {
+      "Type": "options",
+      "Options": ["rewards", "recognition", "social support", "accountability"]
+    },
+    "Incentive Goal": {
+      "Type": "text"
+    },
+    "Incentive Frequency": {
+      "Type": "options",
+      "Options": ["daily", "weekly", "biweekly", "monthly"]
+    },
+    "Progress Tracking": {
+      "Type": "boolean"
+    },
+    "Motivational Message": {
+      "Type": "boolean"
+    }
+  }
+}

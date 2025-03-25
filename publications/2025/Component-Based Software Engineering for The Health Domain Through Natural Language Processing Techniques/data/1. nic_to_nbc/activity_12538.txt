@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+    "Amniotomy Assistant": {
+        "Name": {"type": "text"},
+        "Amniotomy Indications": {"type": "list of text or options"},
+        "Procedure Description": {"type": "text"},
+        "Contraindications": {"type": "list of text or options"},
+        "Pre-Procedure Checklist": {"type": "list of text or options"},
+        "Procedure Steps": {"type": "list of text or options"},
+        "Post-Procedure Care": {"type": "list of text or options"}
+    }
+}
+
+
+Note that I removed the introduction and conclusion sections, as well as the content type specification. I also reformatted the parameter specifications to fit a JSON structure. Let me know if you need any further modifications!

@@ -1,0 +1,34 @@
+Here is the output in JSON format:
+
+
+{
+  "Normalization Implementation Plan": {
+    "parameters": {
+      "Normalization Strategies": {
+        "type": "options",
+        "options": ["establish routines", "set boundaries", "promote open communication", "etc."]
+      },
+      "Family Member Roles": {
+        "type": "text or form"
+      },
+      "Action Steps": {
+        "type": "text or form"
+      },
+      "Resources": {
+        "type": "options",
+        "options": ["counseling", "support groups", "online resources", "etc."]
+      },
+      "Progress Tracking": {
+        "type": "options",
+        "options": ["regular check-ins", "journaling", "progress reports", "etc."]
+      },
+      "Adjustments": {
+        "type": "options",
+        "options": ["feedback", "reassessment", "adjustments to action steps", "etc."]
+      }
+    }
+  }
+}
+
+
+Let me know if this meets your requirements!

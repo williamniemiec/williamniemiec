@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Blood Pressure Tracking": {
+        "Parameters": {
+            "Name": {"Type": "text"},
+            "Frequency": {"Type": "options"},
+            "Unit": {"Type": "text"},
+            "Target Range": {"Type": "range"},
+            "Notes": {"Type": "text"}
+        }
+    }
+}

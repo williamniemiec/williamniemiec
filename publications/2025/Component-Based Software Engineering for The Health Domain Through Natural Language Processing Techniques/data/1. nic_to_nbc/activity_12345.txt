@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Growth Tracker": {
+    "Measurement Type": "",
+    "Unit of Measurement": "",
+    "Frequency": ["daily", "weekly", "biweekly", "monthly"],
+    "Growth Chart": "",
+    "Alerts": ""
+  }
+}

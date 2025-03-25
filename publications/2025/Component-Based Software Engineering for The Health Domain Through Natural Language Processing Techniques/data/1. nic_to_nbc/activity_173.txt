@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+  "Fluid Tracker": {
+    "Parameters": {
+      "Name": {},
+      "Intake": {},
+      "Intake Amount": {},
+      "Output": {},
+      "Output Amount": {},
+      "Frequency": {},
+      "Deadline Date": {}
+    }
+  },
+  "Diary": {
+    "Parameters": {
+      "Name": {},
+      "Entries": {},
+      "Frequency": {},
+      "Deadline Date": {}
+    }
+  }
+}
+
+
+Note that I removed the `Not Applicable` parameters and only kept the `{{ NO-CODE ELEMENT NAME }}` and `{{ PARAMETER ESPECIFICATIONS }}`. Let me know if you need any further assistance!

@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+    "feelings_expression": {
+        "parameters": [
+            {"name": "crisis", "description": "specify the past situational or traumatic crisis"},
+            {"name": "feelings", "description": "list of feelings associated with the crisis"},
+            {"name": "expression_methods", "description": "list of appropriate methods for expressing feelings"},
+            {"name": "reflection", "description": "space for patient to reflect on their feelings and expression"},
+            {"name": "frequency", "description": "specify how often the patient should express their feelings"},
+        ]
+    }
+}
+
+
+I removed all unnecessary information and kept only the `{{ NO-CODE ELEMENT NAME }}` (feelings_expression) and `{{ PARAMETER ESPECIFICATIONS }}` (parameters). I also removed the not applicable parameters, in this case, the deadline_date parameter since it's not required.

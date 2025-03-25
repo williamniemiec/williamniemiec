@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Poison Control Guidance": {
+    "parameters": {
+      "Phone Number": {"type": "text"},
+      "Instructions": {"type": "text or HTML content"}
+    }
+  }
+}

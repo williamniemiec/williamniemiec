@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+    "application": {
+        "parameters": [
+            {"Substance": {"type": "text"}},
+            {"Instructions": {"type": "text or HTML"}},
+            {"Tool": {"type": "text"}}
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Exercise Scheduler": {
+    "Parameters": {
+      "Exercise List": {"Type": "list of text"},
+      "Frequency": {"Type": "options", "Options": ["daily", "everyOtherDay", "every2Days", "every3Days", "custom"]},
+      "Duration": {"Type": "text"},
+      "Time of Day": {"Type": "options", "Options": ["morning", "afternoon", "evening", "custom"]},
+      "Reminders": {"Type": "boolean"}
+    }
+  }
+}

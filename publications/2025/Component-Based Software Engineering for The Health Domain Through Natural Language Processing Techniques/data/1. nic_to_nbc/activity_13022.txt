@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+    "Active Coping Prompt": {
+        "Prompt Type": {"type": "options", "options": ["question", "statement", "scenario", "reflection", "etc."]},
+        "Prompt Text": {"type": "text"},
+        "Frequency": {"type": "options", "options": ["daily", "weekly", "biweekly", "monthly"]},
+        "Coping Strategy": {"type": "options", "options": ["problem-focused coping", "emotion-focused coping", "social support", "relaxation techniques", "etc."]},
+        "Reflection": {"type": "boolean"}
+    }
+}

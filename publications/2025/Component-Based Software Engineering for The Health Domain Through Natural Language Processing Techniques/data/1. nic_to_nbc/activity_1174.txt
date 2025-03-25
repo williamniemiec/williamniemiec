@@ -1,0 +1,41 @@
+Here is the output in JSON format:
+
+{
+    "name": "Value Clarification Sheet",
+    "parameters": [
+        {
+            "name": "Situation",
+            "type": "text"
+        },
+        {
+            "name": "Questions",
+            "type": "list of text"
+        },
+        {
+            "name": "Answer Type",
+            "type": "options",
+            "options": [
+                { value: "text", label: "Text" },
+                { value: "multiple choice", label: "Multiple Choice" }
+            ]
+        },
+        {
+            "name": "Instructions",
+            "type": "text"
+        },
+        {
+            "name": "Frequency",
+            "type": "options",
+            "options": [
+                { value: "daily", label: "Daily" },
+                { value: "onlyOnce", label: "Only once" },
+                { value: "everyHours", label: "Every x hours" },
+                { value: "everyDays", label: "Every x days" }
+            ]
+        },
+        {
+            "name": "Deadline Date",
+            "type": "datetime"
+        }
+    ]
+}

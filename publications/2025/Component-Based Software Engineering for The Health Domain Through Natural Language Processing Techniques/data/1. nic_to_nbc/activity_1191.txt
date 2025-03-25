@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+    "Abdominal Compression Technique": {
+        "Technique Instructions": {},
+        "Coughing Phase": {},
+        "Body Position": {},
+        "Hand Placement": {},
+        "Frequency": {},
+        "Reminders": {},
+        "Tracking": {},
+        "Video Demonstration": {}
+    }
+}

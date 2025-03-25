@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "Formula Preparation Guide": {
+    "Parameters": {
+      "Content": {"Type": ["text", "images", "videos", "interactive simulations"]},
+      "Formula Types": {"Type": ["list of formula types"]},
+      "Preparation Instructions": {"Type": ["text", "images", "videos"]},
+      "Safety Guidelines": {"Type": ["text", "images", "videos"]},
+      "FAQs": {"Type": ["list of FAQs"]}
+    }
+  },
+  "Guide": {
+    "Parameters": {
+      "Name": {},
+      "Pages": {"Type": ["list of HTML texts or multimedia"]},
+      "Formula Types": {"Type": ["list of formula types"]}
+    }
+  }
+}
+
+
+Note that I removed the `INTRODUCTION`, `CONCLUSION`, and other unnecessary parts, and only kept the `PARAMETER ESPECIFICATIONS` and `NO-CODE ELEMENT NAME`. I also formatted the output in JSON format as requested. Let me know if you have any further requests!

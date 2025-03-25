@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Diary": {
+    "parameters": {
+      "Medication List": {
+        "type": "list of medications"
+      },
+      "Side Effect Tracking": {
+        "type": "text or options"
+      },
+      "Frequency": {
+        "type": "options",
+        "options": ["daily", "weekly", "monthly"]
+      },
+      "Deadline Date": {
+        "type": "datetime"
+      }
+    }
+  }
+}

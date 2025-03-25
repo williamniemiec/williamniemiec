@@ -1,0 +1,35 @@
+Here is the output in JSON format:
+
+
+{
+  "Contraindication Screening": {
+    "parameters": [
+      {
+        "name": "contraindications",
+        "description": "List of contraindications to screen for",
+        "required": true,
+        "type": "checklist",
+        "options": [
+          { "value": "decreasedPlatelets", "label": "Decreased Platelets" },
+          { "value": "decreasedSkinIntegrity", "label": "Decreased Skin Integrity" },
+          { "value": "deepVeinThrombosis", "label": "Deep Vein Thrombosis" },
+          { "value": "openLesions", "label": "Areas with Open Lesions" },
+          { "value": "rednessOrInflammation", "label": "Redness or Inflammation" },
+          { "value": "tumors", "label": "Tumors" },
+          { "value": "hypersensitivityToTouch", "label": "Hypersensitivity to Touch" }
+        ]
+      },
+      {
+        "name": "screeningMethod",
+        "description": "Method of screening",
+        "required": true,
+        "type": "options",
+        "options": [
+          { "value": "physicalExam", "label": "Physical Exam" },
+          { "value": "medicalHistory", "label": "Medical History" },
+          { "value": "labResults", "label": "Lab Results" }
+        ]
+      }
+    ]
+  }
+}

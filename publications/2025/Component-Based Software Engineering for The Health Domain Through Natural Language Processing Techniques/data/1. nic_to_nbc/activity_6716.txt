@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Ask Questions": {
+    "Title": {},
+    "Content": {},
+    "Call to Action": {},
+    "Question Input": {},
+    "Submit Button": {}
+  }
+}

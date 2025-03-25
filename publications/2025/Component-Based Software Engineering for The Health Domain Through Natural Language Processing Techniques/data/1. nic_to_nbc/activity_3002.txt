@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+    "Life Situation Assessment": {
+        "Parameters": {
+            "Life Situation": {"Type": "text"},
+            "Roles": {"Type": "list", "Add/Remove Functionality": true},
+            "Relationships": {"Type": "list", "Add/Remove Functionality": true},
+            "Impact": {"Type": "scale"},
+            "Challenges": {"Type": "text"},
+            "Strengths": {"Type": "text"},
+            "Goals": {"Type": "text"},
+            "Frequency": {"Type": "options", "Options": ["daily", "weekly", "monthly", "quarterly"]},
+            "Deadline Date": {"Type": "datetime"}
+        }
+    }
+}

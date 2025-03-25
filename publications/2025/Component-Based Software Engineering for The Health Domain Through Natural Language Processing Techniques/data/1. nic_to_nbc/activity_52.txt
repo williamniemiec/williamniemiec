@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Communication of Expectations": {
+    "Rules and Expectations": {"type": "text"},
+    "Consequences": {"type": "text"},
+    "Communication Method": {"type": "options", "options": ["verbal", "written", "visualAids", "other"]},
+    "Patient Understanding": {"type": "options", "options": ["understands", "partiallyUnderstands", "doesNotUnderstand"]},
+    "Additional Support": {"type": "text"}
+  }
+}

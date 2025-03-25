@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Dressing Assistance Request": {
+    "Name": {"type": "text"},
+    "Description": {"type": "text"},
+    "Assistance Type": {"type": "options", "options": ["laces", "buttons", "zippers", "other"]},
+    "Frequency": {"type": "options", "options": ["daily", "everyOtherDay", "every2Days", "custom"]},
+    "Request Message": {"type": "text"}
+  }
+}

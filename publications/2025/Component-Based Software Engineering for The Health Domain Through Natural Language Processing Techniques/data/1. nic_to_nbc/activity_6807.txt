@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Treatment Plan": {
+    "parameters": {
+      "name": {"type": "text"},
+      "medications": {"type": "unordered list", "options": ["insulin", "isotonic fluid", "hypotonic fluid", "potassium", "etc."]},
+      "dosage": {"type": "text"},
+      "administration_instructions": {"type": "text"},
+      "monitoring_parameters": {"type": "unordered list", "options": ["blood glucose levels", "electrolyte levels", "fluid balance", "etc."]},
+      "frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "deadline_date": {"type": "datetime"}
+    }
+  }
+}

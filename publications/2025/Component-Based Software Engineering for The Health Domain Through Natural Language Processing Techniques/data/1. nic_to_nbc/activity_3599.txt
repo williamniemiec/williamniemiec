@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+  "Reflection": {
+    "name": "",
+    "prompt": "",
+    "answer_type": "",
+    "frequency": "",
+    "deadline_date": ""
+  },
+  "Guide": {
+    "name": "",
+    "pages": []
+  },
+  "Question": {
+    "name": "",
+    "answer_type": "",
+    "frequency": "",
+    "deadline_date": ""
+  }
+}

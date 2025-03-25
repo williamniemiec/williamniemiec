@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Anger Management Role Model",
+  "parameters": [
+    {
+      "name": "video"
+    },
+    {
+      "name": "scenario"
+    },
+    {
+      "name": "reflection"
+    }
+  ]
+}

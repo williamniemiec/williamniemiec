@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Administration Guide": {
+    "Instructions": {"Type": "text"},
+    "Video": {"Type": "video"},
+    "Route": {"Type": "options", "Options": ["SQ", "IV", "ET"]},
+    "Frequency": {"Type": "options", "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"Type": "datetime"}
+  },
+  "Anaphylaxis Symptom Tracker": {
+    "Symptoms": {"Type": "checklist"},
+    "Severity": {"Type": "options", "Options": ["mild", "moderate", "severe"]},
+    "Frequency": {"Type": "options", "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"Type": "datetime"}
+  }
+}

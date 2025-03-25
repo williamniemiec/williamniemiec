@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "Skin Monitoring": {
+    "parameters": [
+      {"Name": "name", "type": "text"},
+      {"Instructions": "instructions", "type": "text"},
+      {"Frequency": "frequency", "type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      {"Deadline Date": "deadline_date", "type": "datetime"},
+      {"Skin Characteristics": "skin characteristics", "type": "list of characteristics", 
+       "characteristics": [
+         {"Name": "color", "unit": "", "value": "pink"},
+         {"Name": "temperature", "unit": "Celsius", "value": "37°C"},
+         {"Name": "edema", "unit": "mm", "value": "2 mm"},
+         {"Name": "moisture", "unit": "", "value": "moderate"},
+         {"Name": "appearance", "unit": "", "value": "normal"}
+       ]}
+    ]
+  }
+}
+
+
+Let me know if this is what you were expecting!

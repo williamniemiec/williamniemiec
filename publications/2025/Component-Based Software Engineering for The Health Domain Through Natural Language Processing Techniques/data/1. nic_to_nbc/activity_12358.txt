@@ -1,0 +1,29 @@
+Here is the output in JSON format:
+
+
+{
+  "Activity Preference": {
+    "Parameters": {
+      "Activity Options": {"Type": "list of text"},
+      "Rating Scale": {"Type": "text or numerical value"},
+      "Preference Ranking": {"Type": "ranking system"},
+      "Reasoning": {"Type": "text"},
+      "Tips": {"Type": "list of text or HTML content"}
+    }
+  },
+  "Question": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Answer Type": {"Type": "text or numerical value"}
+    }
+  },
+  "Rating": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Options": {"Type": "list of text or numerical values"}
+    }
+  }
+}
+
+
+I removed all the unnecessary information and kept only the no-code element names and their corresponding parameter specifications. I also formatted the output as a JSON object for easy readability. Let me know if you have any further questions!

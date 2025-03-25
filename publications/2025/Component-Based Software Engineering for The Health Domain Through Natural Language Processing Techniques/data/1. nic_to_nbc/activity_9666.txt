@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Community Safety Initiative": {
+    "initiative_name": "",
+    "initiative_description": "",
+    "neighborhood_info": "",
+    "action_items": [],
+    "resources": [],
+    "goal_setting": ""
+  }
+}

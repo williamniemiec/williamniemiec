@@ -1,0 +1,37 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Empathetic Response",
+  "parameters": [
+    {
+      "name": "Emotion",
+      "type": "options",
+      "options": [
+        { value: "happiness", label: "Happiness" },
+        { value: "sadness", label: "Sadness" },
+        { value: "fear", label: "Fear" },
+        { value: "anger", label: "Anger" },
+        { value: "surprise", label: "Surprise" }
+      ]
+    },
+    {
+      "name": "Response Type",
+      "type": "options",
+      "options": [
+        { value: "text", label: "Text" },
+        { value: "emoji", label: "Emoji" },
+        { value: "image", label: "Image" }
+      ]
+    },
+    {
+      "name": "Tone",
+      "type": "options",
+      "options": [
+        { value: "empathetic", label: "Empathetic" },
+        { value: "supportive", label: "Supportive" },
+        { value: "encouraging", label: "Encouraging" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Anxiety Support": {
+    "Duration": {"type": "options"},
+    "Reassurance": {"type": "text"},
+    "Physical Presence": {"type": "boolean"},
+    "Frequency": {"type": "options"}
+  }
+}

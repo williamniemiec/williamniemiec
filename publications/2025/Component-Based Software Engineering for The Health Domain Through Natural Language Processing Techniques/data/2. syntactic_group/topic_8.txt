@@ -1,0 +1,10 @@
+{
+  "name": "Pain Management and Relief",
+  "description": "Focuses on pain relief techniques, including acupressure and analgesics, and tracks pain severity using a scale.",
+  "type": "non-periodic",
+  "input": ["Pain type", "Severity scale", "Relief methods", "Pain location"],
+  "output": ["Pain severity report", "Effectiveness of pain relief methods"],
+  "preconditions": ["Patient experiences pain and selects relief method"],
+  "postconditions": ["Pain levels are monitored and relief effectiveness is recorded"],
+  "dependencies": ["Pain relief tracking system", "Acupressure tools", "Analgesic database"]
+}

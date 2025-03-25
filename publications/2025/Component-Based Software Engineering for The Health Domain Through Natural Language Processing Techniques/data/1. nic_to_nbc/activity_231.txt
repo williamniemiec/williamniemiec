@@ -1,0 +1,13 @@
+
+
+
+{
+  "Fall Prevention": {
+    "parameters": {
+      "Side Rail Status": {},
+      "Bed Configuration": {},
+      "Patient Risk Level": {},
+      "Notes": {}
+    }
+  }
+}

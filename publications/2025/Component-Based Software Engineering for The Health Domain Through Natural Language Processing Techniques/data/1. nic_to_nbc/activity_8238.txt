@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Pacemaker Contraindication Check": {
+    "Parameters": {
+      "Pacemaker Status": {},
+      "TENS Contraindication": {},
+      "Alert Message": {}
+    }
+  }
+}

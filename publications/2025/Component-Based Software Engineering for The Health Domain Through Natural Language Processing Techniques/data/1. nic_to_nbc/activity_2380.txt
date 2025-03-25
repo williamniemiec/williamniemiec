@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Pain Relief Reminder": {
+    "Medication": {"type": "text"},
+    "Dosage": {"type": "text"},
+    "Frequency": {"type": "options", "options": ["beforeEveryMeal", "beforeSpecificMeals"]},
+    "Meal Times": {"type": "options", "options": ["breakfast", "lunch", "dinner", "snack"]},
+    "Reminder Time": {"type": "datetime"}
+  }
+}

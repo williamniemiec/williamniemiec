@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+    "Advocacy": {
+        "Parameters": {
+            "advocacy title": {"Type": "text", "Required": true},
+            "Information": {"Type": "text or guide", "Required": true}
+        }
+    }
+}

@@ -1,0 +1,47 @@
+Here is the output in JSON format:
+
+
+[
+    {
+        "Family Support Assessment": {
+            "parameters": {
+                "name": "",
+                "questions": [],
+                "answer_type": "",
+                "scoring": ""
+            }
+        }
+    },
+    {
+        "Financial Support Evaluation": {
+            "parameters": {
+                "name": "",
+                "questions": [],
+                "answer_type": "",
+                "scoring": ""
+            }
+        }
+    },
+    {
+        "Resource Assessment": {
+            "parameters": {
+                "name": "",
+                "questions": [],
+                "answer_type": "",
+                "scoring": ""
+            }
+        }
+    },
+    {
+        "Personalized Summary": {
+            "parameters": {
+                "name": "",
+                "content": "",
+                "type": ""
+            }
+        }
+    }
+]
+
+
+Note: I removed the non-applicable parameters and kept only the `{{ NO-CODE ELEMENT NAME }}` and `{{ PARAMETER ESPECIFICATIONS }}` as per your request.

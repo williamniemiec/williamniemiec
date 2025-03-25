@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+    "Procedure Explanation": {
+        "parameters": {
+            "title": "",
+            "description": "",
+            "purpose": "",
+            "duration": "",
+            "instructions": "",
+            "FAQs": ""
+        }
+    },
+    "Guide": {
+        "parameters": {
+            "name": "",
+            "pages": ""
+        }
+    }
+}

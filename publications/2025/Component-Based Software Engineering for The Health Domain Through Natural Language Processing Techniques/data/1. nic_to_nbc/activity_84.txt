@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Urinary Flow Monitoring",
+    "parameters": [
+        {
+            "name": "Name",
+            "type": "text"
+        },
+        {
+            "name": "Instructions",
+            "type": "text"
+        },
+        {
+            "name": "Frequency",
+            "type": "options",
+            "options": [
+                { "value": "once a week", "label": "Once a week" },
+                { "value": "once a day", "label": "Once a day" }
+            ]
+        }
+    ]
+}

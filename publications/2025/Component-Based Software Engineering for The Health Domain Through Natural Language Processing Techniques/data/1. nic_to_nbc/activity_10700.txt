@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+    "Medical Diagnoses": {
+        "parameters": {
+            "diagnosis_list": "list of medical diagnoses (e.g., diabetes, hypertension)",
+            "diagnosis_details": "additional details about each diagnosis (e.g., date of diagnosis, treatment plan)"
+        }
+    },
+    "Past Health History": {
+        "parameters": {
+            "health_history": "text or audio input about the patient's past health history",
+            "health_history_categories": "categories of health history (e.g., surgeries, hospitalizations, allergies)"
+        }
+    },
+    "Current Treatment Regimen": {
+        "parameters": {
+            "medication_list": "list of current medications",
+            "medication_details": "additional details about each medication (e.g., dosage, frequency)",
+            "treatment_plan": "text or audio input about the patient's current treatment plan"
+        }
+    }
+}
+
+
+Let me know if you need any further assistance!

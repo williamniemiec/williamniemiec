@@ -1,0 +1,10 @@
+{
+  "name": "Role-Playing Game and Scenario Feedback",
+  "description": "Involves playing role-based games or scenarios where users engage in problem-solving, receive feedback, and encouragement. Aims to build skills through storytelling and role-playing activities.",
+  "type": "non-periodic",
+  "input": ["Role-playing games", "Scenario-based learning", "Feedback and encouragement", "Problem-solving", "Storytelling techniques"],
+  "output": ["Scenario feedback", "Role-playing performance report", "Encouragement tips"],
+  "preconditions": ["User is engaging in a role-playing game or scenario activity"],
+  "postconditions": ["Improved problem-solving and learning through feedback"],
+  "dependencies": ["Role-playing game platform", "Feedback collection system", "Scenario content creation tools"]
+}

@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Reflection and Feedback": {
+    "parameters": [
+      {"name": "name", "description": "title or name of the reflection and feedback task"},
+      {"name": "prompt", "description": "a question or statement that prompts the patient to reflect on their beliefs and behaviors"},
+      {"name": "belief assessment", "description": "a method to assess the patient's expressed beliefs (e.g., multiple choice, rating scale, etc.)"},
+      {"name": "behavior assessment", "description": "a method to assess the patient's behaviors (e.g., self-report, observation, etc.)"},
+      {"name": "feedback type", "description": "specifies the type of feedback to be provided to the patient (e.g., personalized, educational, etc.)"},
+      {"name": "frequency", "description": "specifies how often the patient should complete the reflection and feedback task"}
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Package Opener": {
+    "parameters": {
+      "Package Type": {
+        "type": "options",
+        "options": ["plasticWrap", "jar", "can", "bottle", "other"]
+      },
+      "Frequency": {
+        "type": "options",
+        "options": ["everyMeal", "specificMeals"]
+      }
+    }
+  }
+}

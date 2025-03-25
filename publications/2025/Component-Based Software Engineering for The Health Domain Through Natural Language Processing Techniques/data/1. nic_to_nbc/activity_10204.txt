@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Development Plan": {
+    "parameters": [
+      {"Plan Template": {}},
+      {"Assessment Tools": {}},
+      {"Update Schedule": {}},
+      {"Progress Tracking": {}},
+      {"Notes": {}}
+    ]
+  }
+}

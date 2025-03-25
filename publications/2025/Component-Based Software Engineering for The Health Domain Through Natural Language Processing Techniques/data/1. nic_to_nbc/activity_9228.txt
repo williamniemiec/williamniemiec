@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+    "Bedtime Ritual": {
+        "Rituals": {
+            "type": "checklist",
+            "options": ["Reading a book", "Taking a warm bath", "Practicing relaxation techniques (e.g., meditation, deep breathing)", "Listening to calming music", "Other"]
+        },
+        "Frequency": {
+            "type": "options",
+            "options": ["Every night", "Most nights", "Some nights", "Rarely"]
+        },
+        "Duration": {
+            "type": "text"
+        },
+        "Start Time": {
+            "type": "time"
+        }
+    }
+}

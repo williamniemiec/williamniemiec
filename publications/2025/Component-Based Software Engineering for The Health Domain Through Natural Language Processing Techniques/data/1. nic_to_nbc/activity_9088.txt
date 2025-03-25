@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+  "Mattress Configuration": {
+    "parameters": {
+      "Mattress Type": {
+        "type": "options",
+        "options": ["firm", "soft", "adjustable"]
+      },
+      "Mattress Firmness": {
+        "type": "text"
+      },
+      "Image/Video": {
+        "type": "image or video"
+      },
+      "Mattress Features": {
+        "type": "list",
+        "items": ["support", "pressure relief", "breathable"]
+      }
+    }
+  }
+}
+
+
+Let me know if this is what you were expecting!

@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Personal Context": {
+    "Demographics": {"type": "options"},
+    "Cultural Background": {"type": "options"},
+    "Social History": {"type": "text"},
+    "Health Beliefs": {"type": ["text", "rating scale (e.g., 1-5)"]},
+    "Environmental Factors": {"type": ["text", "rating scale (e.g., 1-5)"]},
+    "Patient Input": {"type": ["text", "rating scale (e.g., 1-5)"]}
+  }
+}

@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+  "Fear of Falling Discussion": {
+    "Discussion Prompts": {
+      "Type": "list of text prompts"
+    },
+    "Reflection Questions": {
+      "Type": "list of text questions"
+    },
+    "Frequency": {
+      "Type": "options (e.g., daily, every other day, 3 times a week)"
+    },
+    "Deadline Date": {
+      "Type": "datetime"
+    }
+  }
+}
+
+
+Note: I removed the `Mood Tracking` parameter as it is not applicable since there are no specific values provided for it.

@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+[
+    {
+        "name": "Muscle Weakness Tracking",
+        "parameters": [
+            {"name": "weakness", "description": "Select level of muscle weakness", "required": true, "type": "options"},
+            {"name": "frequency", "description": "Specify how often to track muscle weakness", "required": true, "type": "options"}
+        ]
+    },
+    {
+        "name": "Paresthesia Tracking",
+        "parameters": [
+            {"name": "paresthesia", "description": "Select location of paresthesia", "required": true, "type": "options"},
+            {"name": "severity", "description": "Select severity of paresthesia", "required": true, "type": "options"},
+            {"name": "frequency", "description": "Specify how often to track paresthesias", "required": true, "type": "options"}
+        ]
+    },
+    {
+        "name": "Headache Tracking",
+        "parameters": [
+            {"name": "headache", "description": "Select severity of headache", "required": true, "type": "options"},
+            {"name": "frequency", "description": "Specify how often to track headaches", "required": true, "type": "options"}
+        ]
+    }
+]

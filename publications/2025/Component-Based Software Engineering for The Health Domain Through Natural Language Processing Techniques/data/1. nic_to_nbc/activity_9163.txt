@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Lactose Elimination Tracker": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Lactose-Containing Foods": {"Type": "list of lactose-containing foods"},
+      "Elimination Period": {"Type": "duration"},
+      "Symptom Tracking": {"Type": "list of symptom tracking data"},
+      "Food Diary": {"Type": "list of food diary entries"},
+      "Reminders": {"Type": "list of reminder settings"}
+    }
+  }
+}

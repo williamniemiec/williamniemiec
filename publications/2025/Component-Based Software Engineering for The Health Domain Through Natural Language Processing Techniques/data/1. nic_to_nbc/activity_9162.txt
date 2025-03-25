@@ -1,0 +1,34 @@
+Here is the output in JSON format:
+
+
+{
+    "Problem Reporting Guide": {
+        "parameters": [
+            { 
+                "name": "Name", 
+                "type": "text"
+            },
+            { 
+                "name": "Signs of Problems", 
+                "type": "book-page"
+            },
+            { 
+                "name": "Examples", 
+                "type": "unordered list"
+            },
+            { 
+                "name": "Reporting Instructions", 
+                "type": "book-page"
+            },
+            { 
+                "name": "Contact Information", 
+                "type": "contact information",
+                "contact information": {
+                    "phone number": "string",
+                    "email": "string",
+                    "messaging platform": "string"
+                }
+            }
+        ]
+    }
+}

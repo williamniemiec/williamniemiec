@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Cue Analysis Sheet": {
+        "Parameters": {
+            "Cues": {},
+            "Behaviors": {},
+            "Links": {},
+            "Frequency": {}
+        }
+    }
+}

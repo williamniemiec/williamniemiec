@@ -1,0 +1,44 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Removal": {
+    "Removal Method": {
+      "type": "options"
+    },
+    "Removal Confirmation": {
+      "type": "boolean"
+    }
+  },
+  "Skin Cleansing": {
+    "Cleansing Method": {
+      "type": "options"
+    },
+    "Cleansing Confirmation": {
+      "type": "boolean"
+    }
+  },
+  "Medication Removal Method": {
+    "Removal Method": {
+      "type": "options"
+    }
+  },
+  "Medication Removal Confirmation": {
+    "Removal Confirmation": {
+      "type": "boolean"
+    }
+  },
+  "Skin Cleansing Method": {
+    "Cleansing Method": {
+      "type": "options"
+    }
+  },
+  "Skin Cleansing Confirmation": {
+    "Cleansing Confirmation": {
+      "type": "boolean"
+    }
+  }
+}
+
+
+Let me know if you need any further assistance!

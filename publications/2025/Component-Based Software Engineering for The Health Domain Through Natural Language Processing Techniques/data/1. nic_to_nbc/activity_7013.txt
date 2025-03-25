@@ -1,0 +1,10 @@
+Here is the output in JSON format:
+
+
+{
+  "Name Identifier": {
+    "Patient Name": {},
+    "Font Size": {},
+    "Display Location": {}
+  }
+}

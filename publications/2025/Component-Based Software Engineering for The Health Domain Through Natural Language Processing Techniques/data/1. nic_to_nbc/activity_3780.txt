@@ -1,0 +1,45 @@
+Here is the output in JSON format:
+
+
+{
+  "Symptom Tracker": {
+    "Parameters": {
+      "Symptom": {
+        "Description": "Select the symptom to track",
+        "Required": true,
+        "Type": "options",
+        "Options": [
+          { "value": "fullness", "label": "Sensation of fullness" },
+          { "value": "nausea", "label": "Nausea" },
+          { "value": "vomiting", "label": "Vomiting" }
+        ]
+      },
+      "Severity": {
+        "Description": "Rate the severity of the symptom (1-5)",
+        "Required": true,
+        "Type": "number",
+        "Min": 1,
+        "Max": 5
+      },
+      "Frequency": {
+        "Description": "How often are you experiencing the symptom?",
+        "Required": true,
+        "Type": "options",
+        "Options": [
+          { "value": "constant", "label": "Constantly" },
+          { "value": "frequent", "label": "Frequently" },
+          { "value": "occasional", "label": "Occasionally" },
+          { "value": "rarely", "label": "Rarely" }
+        ]
+      },
+      "Notes": {
+        "Description": "Add any additional notes or comments about the symptom",
+        "Required": false,
+        "Type": "text"
+      }
+    }
+  }
+}
+
+
+I removed `Deadline Date` parameter as it's not applicable. Let me know if you have any further questions!

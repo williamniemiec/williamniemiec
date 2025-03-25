@@ -1,0 +1,72 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Risk Prioritization Tool",
+  "parameters": [
+    {
+      "name": "title",
+      "description": "Title of the risk prioritization tool",
+      "required": true,
+      "type": "text"
+    },
+    {
+      "name": "risk_factors",
+      "description": "List of potential risk factors to prioritize",
+      "required": true,
+      "type": "unordered list",
+      "list_items": [
+        {
+          "label": "Risk Factor 1",
+          "value": "Description of Risk Factor 1"
+        },
+        {
+          "label": "Risk Factor 2",
+          "value": "Description of Risk Factor 2"
+        }
+      ]
+    },
+    {
+      "name": "priority_levels",
+      "description": "List of priority levels to assign to each risk factor",
+      "required": true,
+      "type": "unordered list",
+      "list_items": [
+        {
+          "label": "High",
+          "value": "high"
+        },
+        {
+          "label": "Medium",
+          "value": "medium"
+        },
+        {
+          "label": "Low",
+          "value": "low"
+        }
+      ]
+    },
+    {
+      "name": "collaborative_input",
+      "description": "Input from the individual, family, or group to prioritize risk factors",
+      "required": true,
+      "type": "text"
+    },
+    {
+      "name": "prioritized_list",
+      "description": "Prioritized list of risk factors based on collaborative input",
+      "required": true,
+      "type": "ordered list",
+      "list_items": [
+        {
+          "label": "Risk Factor 1",
+          "value": "High"
+        },
+        {
+          "label": "Risk Factor 2",
+          "value": "Medium"
+        }
+      ]
+    }
+  ]
+}

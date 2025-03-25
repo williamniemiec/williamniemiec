@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Potassium-Rich Food Tracker": {
+    "parameters": {
+      "Food Items": {"type": "options"},
+      "Consumption Frequency": {"type": "options"},
+      "Portion Size": {"type": "number"},
+      "Notes": {"type": "text"}
+    }
+  }
+}

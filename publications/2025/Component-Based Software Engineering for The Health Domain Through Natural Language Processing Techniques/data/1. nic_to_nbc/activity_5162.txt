@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+  "Infant Information": {
+    "Parameters": {
+      "Information": "",
+      "Frequency": "",
+      "Deadline Date": ""
+    }
+  },
+  "Bleeding Precautions": {
+    "Parameters": {
+      "Information": "",
+      "Frequency": "",
+      "Deadline Date": ""
+    }
+  }
+}
+
+
+Let me know if this is what you were expecting!

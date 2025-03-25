@@ -1,0 +1,5 @@
+Since there are no applicable parameters in this input, the output will be an empty JSON:
+
+{}
+
+Please note that if there were any applicable parameters in the input, I would have extracted them according to your requirements.

@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Home Safety Modification": {
+    "Modification Type": {"Type": "options", "Options": ["removeThrowRugs", "labelRooms", "improveLighting", "other"]},
+    "Room/Area": {"Type": "options", "Options": ["livingRoom", "bedroom", "bathroom", "kitchen", "other"]},
+    "Modification Description": {"Type": "text"},
+    "Frequency": {"Type": "options", "Options": ["oneTime", "daily", "everyHours", "everyDays"]}
+  }
+}

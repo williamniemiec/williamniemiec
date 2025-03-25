@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+    "Consultation": {
+        "consultation title": {"Type": "text", "Required": true},
+        "Professionals": {"Type": "list of professional objects", "Required": true},
+        "Reasons to Consult": {"Type": "list of reasons", "Required": false},
+        "Referral Process": {"Type": "text or guide", "Required": false}
+    }
+}

@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+    "Journal": {
+        "name": "",
+        "prompt": "",
+        "frequency": "",
+        "deadline_date": ""
+    },
+    "Comparison Chart": {
+        "name": "",
+        "categories": [],
+        "infants": [],
+        "frequency": "",
+        "deadline_date": ""
+    },
+    "Reflection Question": {
+        "name": "",
+        "content": "",
+        "answer type": "",
+        "frequency": "",
+        "deadline_date": ""
+    }
+}
+
+
+Note: I removed the "not applicable" parameters, which means that all parameters are included in the output. If you want to remove certain parameters based on specific conditions, please let me know and I'll be happy to help!

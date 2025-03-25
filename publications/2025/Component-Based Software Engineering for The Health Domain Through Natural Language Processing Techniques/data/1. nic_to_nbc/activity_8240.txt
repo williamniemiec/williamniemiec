@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Exercise Plan": {
+    "parameters": [
+      {"Name": {"type": "text"}},
+      {"Exercise Type": {"type": "options", "options": []}},
+      {"Muscle Groups": {"type": "options", "options": []}},
+      {"Exercise Schedule": {"type": "schedule"}},
+      {"Frequency": {"type": "options", "options": []}}
+    ]
+  }
+}
+
+
+Note that I removed the `Deadline Date` parameter since it was marked as not required, and also removed any unnecessary information to provide a clean output.

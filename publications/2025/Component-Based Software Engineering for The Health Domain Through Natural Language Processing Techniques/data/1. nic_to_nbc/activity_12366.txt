@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Measurement": {
+    "parameters": {
+      "name": "Ankle Pressure Index",
+      "description": "Take a measurement of your ankle pressure index",
+      "content_type": ["numeric input", "graph"],
+      "unit": "mmHg",
+      "frequency": "",
+      "deadline_date": "",
+      "notes": ""
+    }
+  }
+}

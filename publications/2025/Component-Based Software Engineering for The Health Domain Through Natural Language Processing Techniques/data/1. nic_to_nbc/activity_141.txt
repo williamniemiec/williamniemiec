@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Diuretic Scheduling Tool": {
+    "Parameters": {
+      "Diuretic Schedule": {"Type": "interactive calendar or scheduling tool", "Required": true},
+      "Lifestyle Impact Assessment": {"Type": "interactive questionnaire or survey", "Required": true},
+      "Reminder System": {"Type": "interactive notification or alert system", "Required": true},
+      "Dose Tracker": {"Type": "interactive graph or chart", "Required": true},
+      "Lifestyle Tips": {"Type": "text with images or videos", "Required": true}
+    }
+  }
+}

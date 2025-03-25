@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+    "Comfort Scale": {
+        "parameters": {
+            "Question": "",
+            "Scale": ["Likert scale", "Visual analog scale"],
+            "Options": ["Not comfortable at all", "Somewhat comfortable", "Neutral", "Somewhat uncomfortable", "Very uncomfortable"],
+            "Frequency": ["daily", "onlyOnce", "everyHours", "everyDays"],
+            "Deadline Date": {"type": "datetime"}
+        }
+    },
+    "Survey": {
+        "parameters": {
+            "Questions": [],
+            "Answer type": ["Text", "Select", "Boolean"],
+            "Frequency": ["daily", "onlyOnce", "everyHours", "everyDays"],
+            "Deadline Date": {"type": "datetime"}
+        }
+    }
+}
+
+
+Note that I removed the "Introduction" and "Conclusion" sections, as well as the element descriptions. I also removed the "Not Applicable" parameters, as there were none in this specific input. Let me know if you have any further questions!

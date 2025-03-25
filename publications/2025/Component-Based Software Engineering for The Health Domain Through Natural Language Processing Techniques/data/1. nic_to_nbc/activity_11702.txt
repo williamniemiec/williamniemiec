@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+    "Safety Guide": {
+        "parameters": {
+            "name": {"type": "text"},
+            "measures": {"type": "unordered list"},
+            "instructions": {"type": "text or video"},
+            "reminders": {"type": "boolean"},
+            "notes": {"type": "text"}
+        }
+    },
+    "Compliance Tracker": {
+        "parameters": {
+            "name": {"type": "text"},
+            "measures": {"type": "unordered list"},
+            "tracking": {"type": "boolean or timestamp"},
+            "reminders": {"type": "boolean"},
+            "notes": {"type": "text"}
+        }
+    }
+}

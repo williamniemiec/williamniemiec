@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Care Coordination Platform": {
+    "Health Professional Directory": {"Type": "list of health professional profiles"},
+    "Care Plan": {"Type": "care plan document or summary"},
+    "Task Assignment": {"Type": "task assignment system"},
+    "Secure Messaging": {"Type": "secure messaging system"},
+    "Care Team": {"Type": "care team roster"}
+  }
+}

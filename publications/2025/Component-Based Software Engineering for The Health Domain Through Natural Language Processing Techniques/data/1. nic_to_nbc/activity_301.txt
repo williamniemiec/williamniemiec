@@ -1,0 +1,5 @@
+Here is the output in JSON format:
+
+
+{}
+(Note: Since there are no applicable parameters or no-code element names, the output is an empty object)

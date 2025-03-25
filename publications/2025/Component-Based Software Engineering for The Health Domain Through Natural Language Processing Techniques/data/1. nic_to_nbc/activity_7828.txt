@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Repositioning": {
+    "parameters": [
+      {"name": "Repositioning Schedule", "type": "options"},
+      {"name": "Repositioning Techniques", "type": "text"},
+      {"name": "Videos/Demonstrations", "type": "media"},
+      {"name": "Tips", "type": "text"},
+      {"name": "Reminders", "type": "options"}
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Weight Tracking": {
+    "Parameters": {
+      "Weight Entry": {"Type": "number"},
+      "Weight Goal": {"Type": "number"},
+      "Weight Tracking Schedule": {"Type": "list of datetime"},
+      "Weight Gain Chart": {"Type": "multimedia"},
+      "Alerts": {"Type": "boolean"}
+    }
+  }
+}

@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Progress Tracker": {
+    "Outcome": {"type": "text"},
+    "Interval": {"type": "options", "options": ["daily", "weekly", "monthly", "quarterly", "etc."]},
+    "Target Value": {"type": "number or text"},
+    "Current Value": {"type": "number or text"},
+    "Notes": {"type": "text"}
+  }
+}

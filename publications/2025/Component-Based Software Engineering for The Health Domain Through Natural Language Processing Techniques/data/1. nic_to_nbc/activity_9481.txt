@@ -1,0 +1,36 @@
+Here is the output in JSON format:
+
+
+{
+  "Symptom Guide": {
+    "parameters": [
+      {
+        "name": "name",
+        "type": "text",
+        "required": true
+      },
+      {
+        "name": "disease",
+        "type": "text",
+        "required": true
+      },
+      {
+        "name": "symptoms",
+        "type": "unordered list",
+        "required": true,
+        "items": [
+          {
+            "name": "name",
+            "type": "text",
+            "required": true
+          },
+          {
+            "name": "description",
+            "type": "text",
+            "required": true
+          }
+        ]
+      }
+    ]
+  }
+}

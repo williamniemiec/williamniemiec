@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Device Recommendation": {
+    "Parameters": {
+      "Device Type": {},
+      "Reason": {},
+      "Instructions": {},
+      "Image/Video": {},
+      "Frequency": {}
+    }
+  }
+}
+
+
+I removed the `Deadline Date` parameter since it's not applicable, and also removed the introduction, number, no-code element description, and conclusion parts as per your request. Let me know if you need any further assistance!

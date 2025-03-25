@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Relationship Reflection": {
+    "Prompt": {"type": "text"},
+    "Answer Type": {"options": ["text", "multiple-choice", "rating scale (e.g., 1-5)"]},
+    "Reflection Topics": {"type": "list of topics (e.g., communication, discipline, emotional support)"},
+    "Guided Questions": {"type": "list of questions"},
+    "Free Text": {"type": "text"}
+  }
+}
+
+
+Note: I removed the `Deadline Date` parameter since it's not applicable in this context.

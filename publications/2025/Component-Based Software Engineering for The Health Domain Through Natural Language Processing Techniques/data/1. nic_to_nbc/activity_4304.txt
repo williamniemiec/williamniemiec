@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+    "Early Admission Communication": {
+        "Welcome Message": {
+            "Type": "text or multimedia (e.g., images, videos)"
+        },
+        "Initial Assessment": {
+            "Type": "survey or questionnaire"
+        },
+        "Care Team Introduction": {
+            "Type": "text or multimedia (e.g., images, videos)"
+        },
+        "Communication Preferences": {
+            "Type": "survey or questionnaire"
+        },
+        "Education and Support": {
+            "Type": "text or link to external resources"
+        }
+    }
+}

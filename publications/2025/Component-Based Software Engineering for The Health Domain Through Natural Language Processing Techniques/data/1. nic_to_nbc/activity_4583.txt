@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+  "Shock Communication": {
+    "Communication Strategy": {
+      "Type": "text"
+    },
+    "Emotional Support": {
+      "Type": "text"
+    },
+    "Reassurance": {
+      "Type": "text"
+    },
+    "Resources": {
+      "Type": "list of resources"
+    }
+  }
+}
+
+
+Note that I removed the "Not Applicable" parameters, which in this case were the fields related to the **Support Network** no-code element, as they are not part of the original {{ PARAMETER ESPECIFICATIONS }}.

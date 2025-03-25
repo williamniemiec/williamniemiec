@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Reward": {
+    "Parameters": {
+      "Goal": {"Type": "text"},
+      "Reward type": {"Type": "options", "Options": ["Self-praise", "Self-reflection", "Personal achievement", etc.]},
+      "Frequency": {"Type": "options", "Options": ["daily", "weekly", "monthly", etc.]},
+      "Deadline date": {"Type": "datetime"}
+    }
+  }
+}

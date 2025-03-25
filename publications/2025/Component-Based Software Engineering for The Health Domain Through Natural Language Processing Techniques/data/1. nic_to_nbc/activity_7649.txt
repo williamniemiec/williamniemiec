@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+  "Hair Styling": {
+    "Parameters": {
+      "Styling Instructions": {
+        "Description": "Specific instructions for styling hair",
+        "Required": true,
+        "Type": "text"
+      },
+      "Frequency": {
+        "Description": "How often to style hair",
+        "Required": true,
+        "Type": "options",
+        "Options": [
+          { "value": "daily", "label": "Daily" },
+          { "value": "everyOtherDay", "label": "Every other day" },
+          { "value": "twiceAWeek", "label": "Twice a week" },
+          { "value": "onceAWeek", "label": "Once a week" }
+        ]
+      }
+    }
+  }
+}
+
+
+Note that I removed the `Deadline Date` and `Hair Style` parameters since they are not required.

@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+    "Hypertension Induction": {
+        "Agent Type": {"Type": "options"},
+        "Dosage": {"Type": "text"},
+        "Administration Schedule": {"Type": "text"},
+        "Hemodynamic Monitoring": {"Type": "text or numerical input"},
+        "CPP Target": {"Type": "range"},
+        "Alerts": {"Type": "boolean"},
+        "Physician Orders": {"Type": "text"},
+        "Notes": {"Type": "text"}
+    }
+}

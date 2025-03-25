@@ -1,0 +1,10 @@
+Here is the output in JSON format:
+
+
+{
+  "no-code element name": "Guide",
+  "parameters": {
+    "name": "Immobilization Prevention Guide",
+    "pages": "A list of HTML texts explaining the risks of pneumonia, pulmonary emboli, and pressure ulcers during immobility, and providing tips and best practices for prevention."
+  }
+}

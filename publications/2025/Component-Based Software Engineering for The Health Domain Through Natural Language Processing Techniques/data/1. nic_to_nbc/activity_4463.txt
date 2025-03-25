@@ -1,0 +1,7 @@
+Since there are no parameters specified in the input text, I will remove everything except for `{{ NO-CODE ELEMENT NAME }}` which is empty in this case. Here is the output in JSON format:
+
+
+{
+  "NO-CODE ELEMENT NAME": "",
+  "PARAMETER ESPECIFICATIONS": []
+}

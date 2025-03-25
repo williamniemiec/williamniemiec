@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Blood Pressure Log": {
+        "Parameters": {
+            "Systolic Pressure": {"Type": "number"},
+            "Diastolic Pressure": {"Type": "number"},
+            "Date and Time": {"Type": "datetime"},
+            "Notes": {"Type": "text"}
+        }
+    }
+}

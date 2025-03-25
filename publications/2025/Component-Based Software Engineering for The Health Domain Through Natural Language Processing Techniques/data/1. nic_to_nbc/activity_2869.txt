@@ -1,0 +1,35 @@
+Here is the output in JSON format:
+
+
+{
+    "Family Support Assessment": {
+        "parameters": {
+            "family_support_level": "",
+            "family_involvement_level": ""
+        }
+    },
+    "Family Member Identification": {
+        "parameters": {
+            "family_member_list": "",
+            "family_member_roles": ""
+        }
+    },
+    "Caregiver Burden Assessment": {
+        "parameters": {
+            "caregiver_burden_level": "",
+            "caregiver_burden_factors": ""
+        }
+    },
+    "Family Dynamics Assessment": {
+        "parameters": {
+            "family_dynamics_type": "",
+            "family_dynamics_factors": ""
+        }
+    },
+    "Support System Identification": {
+        "parameters": {
+            "support_system_list": "",
+            "support_system_description": ""
+        }
+    }
+}

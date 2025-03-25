@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Nutrition Discussion",
+  "parameters": [
+    {
+      "name": "nutritional_requirements"
+    },
+    {
+      "name": "prescribed_diet"
+    },
+    {
+      "name": "patient_perception"
+    },
+    {
+      "name": "concerns"
+    },
+    {
+      "name": "goals"
+    }
+  ]
+}

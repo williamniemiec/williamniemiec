@@ -1,0 +1,12 @@
+
+
+
+{
+  "Hearing Aid Maintenance Reminder": {
+    "Parameters": {
+      "Reminder Message": {"Type": "text"},
+      "Duration": {"Type": "number"},
+      "Frequency": {"Type": "options", "Options": [{"value": "daily", "label": "Daily"}, {"value": "weekly", "label": "Weekly"}]}
+    }
+  }
+}

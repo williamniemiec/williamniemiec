@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Role Model Profile": {},
+  "Anger Management Story": {},
+  "Anger Expression Technique": {},
+  "Quote or Message": {},
+  "Video or Audio Clip": {},
+  "Reflection Prompt": {}
+}

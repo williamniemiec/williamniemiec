@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Activity Restriction Guide",
+    "parameters": [
+        {
+            "name": "Activity List",
+            "type": "unordered list"
+        },
+        {
+            "name": "Reason",
+            "type": "text"
+        },
+        {
+            "name": "Alternative Activities",
+            "type": "unordered list"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Medication Administration Guide": {
+        "Name": {"type": "text"},
+        "Medication Type": {"type": "options", "options": [{"value": "antiarrhythmic", "label": "Antiarrhythmic"}, {"value": "diuretic", "label": "Diuretic"}, {"value": "vasopressor", "label": "Vasopressor"}]},
+        "Medication Name": {"type": "text"},
+        "Dosage": {"type": "number"},
+        "Administration Route": {"type": "options", "options": [{"value": "IV", "label": "Intravenous"}, {"value": "oral", "label": "Oral"}]},
+        "Frequency": {"type": "options", "options": [{"value": "asNeeded", "label": "As needed"}, {"value": "daily", "label": "Daily"}, {"value": "everyHours", "label": "Every x hours"}, {"value": "everyDays", "label": "Every x days"}]},
+        "Instructions": {"type": "text"}
+    }
+}

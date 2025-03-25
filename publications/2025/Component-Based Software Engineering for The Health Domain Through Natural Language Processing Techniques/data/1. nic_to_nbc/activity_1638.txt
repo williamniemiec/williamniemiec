@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Suction Pass Limit": {
+    "instruction message": {},
+    "Time Limit": {"Unit": "seconds"},
+    "Frequency": {"Options": [
+      {"value": "daily", "label": "Daily"},
+      {"value": "onlyOnce", "label": "Only once"},
+      {"value": "everyHours", "label": "Every x hours"},
+      {"value": "everyDays", "label": "Every x days"}
+    ]}
+  }
+}

@@ -1,0 +1,29 @@
+Here is the output in JSON format:
+
+
+{
+  "Oxygen Therapy Guidance": {
+    "parameters": {
+      "oxygen_need": "",
+      "oxygen_flow_rate": "",
+      "oxygen_delivery_method": "",
+      "duration": ""
+    }
+  }
+}
+
+
+Note: I removed the `monitoring` parameter as it is marked as optional, and there was no specific value provided for any of the parameters. If you want to keep the `monitoring` parameter, here is the updated output:
+
+
+{
+  "Oxygen Therapy Guidance": {
+    "parameters": {
+      "oxygen_need": "",
+      "oxygen_flow_rate": "",
+      "oxygen_delivery_method": "",
+      "duration": "",
+      "monitoring": ""
+    }
+  }
+}

@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Responsibility Consequences",
+  "parameters": [
+    {
+      "name": "consequences",
+      "description": "List the potential consequences of not taking responsibility",
+      "required": true,
+      "type": "list",
+      "list_type": "text"
+    },
+    {
+      "name": "impact",
+      "description": "Reflect on how these consequences may impact your life",
+      "required": true,
+      "type": "text"
+    }
+  ]
+}

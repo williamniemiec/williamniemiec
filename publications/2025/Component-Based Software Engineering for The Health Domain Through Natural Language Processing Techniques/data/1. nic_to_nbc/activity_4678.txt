@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Self-Hypnosis Feedback Form": {
+    "Comfort Level": {"Type": "rating scale"},
+    "Ease of Use": {"Type": "rating scale"},
+    "Effectiveness": {"Type": "rating scale"},
+    "Satisfaction": {"Type": "rating scale"},
+    "Open-Ended Feedback": {"Type": "text"},
+    "Suggestions for Improvement": {"Type": "text"}
+  }
+}

@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+  "Perspective Comparator": {
+    "Parameters": {
+      "Situation description": {},
+      "Patient's view": {},
+      "Health care team's view": {},
+      "Comparison type": {
+        "Options": ["similarity", "difference", "gap", "discrepancy", "etc."]
+      },
+      "Comparison format": {
+        "Options": ["table", "graph", "text", "heatmap", "etc."]
+      },
+      "Frequency": {
+        "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+      },
+      "Deadline date": {}
+    }
+  }
+}

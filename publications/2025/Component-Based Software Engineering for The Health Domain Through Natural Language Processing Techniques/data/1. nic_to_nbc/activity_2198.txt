@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Situation Comparison": {
+    "parameters": [
+      {"name": "Past Stressful Situations", "type": "unordered list"},
+      {"name": "Current Situation", "type": "text"},
+      {"name": "Comparison Points", "type": "unordered list"},
+      {"name": "Reflection Questions", "type": "text"},
+      {"name": "Frequency", "type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    ]
+  }
+}
+
+
+Note: I removed the `Deadline Date` parameter as it was not applicable (its required field was set to false).

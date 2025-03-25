@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Absorbent Pad": {
+    "parameters": {
+      "Instructions": {"type": "text"},
+      "Frequency": {"type": "options"},
+      "Quantity": {"type": "number"},
+      "Type": {"type": "options"}
+    }
+  }
+}

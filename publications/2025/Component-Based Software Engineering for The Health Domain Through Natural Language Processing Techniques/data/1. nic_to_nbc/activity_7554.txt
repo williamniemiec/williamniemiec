@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Exercise Rationale Explanation": {
+    "Parameters": {
+      "Exercise Type": {"Type": "text"},
+      "Protocol": {"Type": "text"},
+      "Rationale": {"Type": "text"},
+      "Patient Education": {"Type": "multimedia content"},
+      "Family Education": {"Type": "multimedia content"},
+      "FAQs": {"Type": "text"},
+      "Resources": {"Type": "text"}
+    }
+  }
+}

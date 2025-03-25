@@ -1,0 +1,41 @@
+Here is the output in JSON format:
+
+
+{
+  "Developmental Milestones": {
+    "Age Range": {
+      "Type": "range"
+    },
+    "Milestones": {
+      "Type": "list of milestones with descriptions"
+    },
+    "Resources": {
+      "Type": "list of URLs or PDFs"
+    }
+  },
+  "Expectation Setting": {
+    "Child's Age": {
+      "Type": "integer"
+    },
+    "Expectation Type": {
+      "Options": ["selection from a list of options"]
+    },
+    "Expectation Description": {
+      "Type": "text"
+    },
+    "Age-Appropriate Guidance": {
+      "Type": "boolean (yes/no)"
+    }
+  },
+  "Quiz": {
+    "Questions": {
+      "Type": "list of questions with answer options"
+    },
+    "Scoring": {
+      "Options": ["percentage-based", "points-based", "etc"]
+    },
+    "Feedback": {
+      "Type": "text or multimedia (e.g., video, image)"
+    }
+  }
+}

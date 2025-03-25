@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "Documentation": {
+    "parameters": [
+      {
+        "name": "Information Type",
+        "options": ["medical history", "medication list", "allergies", "test results"]
+      },
+      {
+        "name": "Information Content",
+        "type": "text or form"
+      },
+      {
+        "name": "Format",
+        "options": ["text", "PDF", "audio", "video"]
+      },
+      {
+        "name": "Storage",
+        "options": ["electronic health record (EHR)", "patient portal"]
+      }
+    ]
+  }
+}

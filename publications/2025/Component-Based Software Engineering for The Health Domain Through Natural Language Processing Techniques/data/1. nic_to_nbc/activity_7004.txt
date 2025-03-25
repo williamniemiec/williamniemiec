@@ -1,0 +1,59 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Fluid Status Monitor",
+    "parameters": [
+        {
+            "name": "Fluid Intake Tracking",
+            "type": "options",
+            "options": [
+                { "value": "log", "label": "Log" },
+                { "value": "chart", "label": "Chart" },
+                { "value": "app", "label": "App" },
+                { "value": "other", "label": "Other (please specify)" }
+            ]
+        },
+        {
+            "name": "Fluid Output Tracking",
+            "type": "options",
+            "options": [
+                { "value": "urine output", "label": "Urine Output" },
+                { "value": "stool output", "label": "Stool Output" },
+                { "value": "other", "label": "Other (please specify)" }
+            ]
+        },
+        {
+            "name": "Frequency",
+            "type": "options",
+            "options": [
+                { "value": "daily", "label": "Daily" },
+                { "value": "every 2 hours", "label": "Every 2 Hours" },
+                { "value": "every 4 hours", "label": "Every 4 Hours" },
+                { "value": "other", "label": "Other (please specify)" }
+            ]
+        },
+        {
+            "name": "Monitoring Parameters",
+            "type": "options",
+            "options": [
+                { "value": "urine output", "label": "Urine Output" },
+                { "value": "blood pressure", "label": "Blood Pressure" },
+                { "value": "edema", "label": "Edema" },
+                { "value": "other", "label": "Other (please specify)" }
+            ]
+        },
+        {
+            "name": "Instructions",
+            "type": "text or video"
+        },
+        {
+            "name": "Images/Videos",
+            "type": "image or video"
+        },
+        {
+            "name": "Deadline Date",
+            "type": "datetime"
+        }
+    ]
+}

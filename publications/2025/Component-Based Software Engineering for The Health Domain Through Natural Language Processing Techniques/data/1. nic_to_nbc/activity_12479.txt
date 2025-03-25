@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+{
+  "Eating Safety Reminder": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Reminder Text": {"Type": "text"},
+      "Image/Icon": {"Type": "image/icon"},
+      "Frequency": {"Type": "options", "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]}
+    }
+  }
+}

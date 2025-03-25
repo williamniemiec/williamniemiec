@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Reminder": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Description": {"Type": "text"},
+      "Trigger": {"Type": "options", "Options": ["during showering", "during bathing", "before swimming", "custom"]},
+      "Instructions": {"Type": "text"}
+    }
+  },
+  "Guide": {},
+  "Task": {}
+}
+
+
+Let me know if this meets your requirements!

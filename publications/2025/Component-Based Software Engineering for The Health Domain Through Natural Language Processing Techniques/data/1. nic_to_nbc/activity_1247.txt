@@ -1,0 +1,30 @@
+Here is the output in JSON format:
+
+
+{
+  "parameters": [
+    {
+      "name": "Message",
+      "type": "text"
+    },
+    {
+      "name": "Format",
+      "type": "options",
+      "options": ["text", "video", "image", "audio"]
+    },
+    {
+      "name": "Frequency",
+      "type": "options",
+      "options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+    },
+    {
+      "name": "Deadline Date",
+      "type": "datetime"
+    },
+    {
+      "name": "Personalization",
+      "type": "boolean"
+    }
+  ],
+  "noCodeElementName": "Advice"
+}

@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Headphone Provision": {
+    "Parameters": {
+      "Headphone Type": {"Type": "options", "Options": ["over-ear", "on-ear", "in-ear", "etc."]},
+      "Headphone Condition": {"Type": "boolean"},
+      "Headphone Adjustment": {"Type": "scale"},
+      "Headphone Instructions": {"Type": "text or multimedia"}
+    }
+  }
+}

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Exercise Assessment": {
+    "Parameters": {
+      "Exercise History": {"Type": ["text", "interactive elements"]},
+      "Current Exercise Level": {"Type": ["text", "interactive elements"]},
+      "Prescribed Exercise Knowledge": {"Type": ["text", "interactive elements"]},
+      "Barriers to Exercise": {"Type": ["text", "interactive elements"]},
+      "Exercise Goals": {"Type": ["text", "interactive elements"]}
+    }
+  }
+}

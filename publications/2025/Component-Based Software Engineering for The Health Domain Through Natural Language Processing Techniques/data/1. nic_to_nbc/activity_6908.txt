@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Sibling Preparation Guide": {
+    "Age-Specific Tips": {},
+    "Preparing for Change": {},
+    "Encouraging Involvement": {},
+    "Managing Jealousy": {}
+  }
+}

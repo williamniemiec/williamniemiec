@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+    "Personal Factor Management": {
+        "Parameters": {
+            "Name": {"Type": "text"},
+            "Personal Factors": {"Type": "unordered list"},
+            "Anxiety Management": {"Type": "form (with multiple questions)"},
+            "Fear Management": {"Type": "form (with multiple questions)"},
+            "Fatigue Management": {"Type": "form (with multiple questions)"},
+            "Knowledge Enhancement": {"Type": "multimedia (with options for video, article, or online course)"},
+            "Personalized Plan": {"Type": "text"},
+            "Frequency": {"Type": "options (with options such as daily, weekly, monthly, etc.)"},
+            "Deadline Date": {"Type": "datetime"}
+        }
+    }
+}

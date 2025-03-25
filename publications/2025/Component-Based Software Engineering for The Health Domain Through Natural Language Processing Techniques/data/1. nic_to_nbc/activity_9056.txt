@@ -1,0 +1,31 @@
+Here is the output in JSON format:
+
+
+{
+  "Relaxation Response Assessment": {
+    "relaxation_response_questions": {
+      "type": "multiple-choice questions or Likert scale"
+    },
+    "related_changes_questions": {
+      "type": "multiple-choice questions or Likert scale"
+    },
+    "assessment_results": {
+      "type": "text or graphical representation (e.g., chart, graph)"
+    },
+    "reflection_prompt": {
+      "type": "text or multimedia (e.g., video, audio)"
+    },
+    "relaxation_techniques": {
+      "type": "text or multimedia (e.g., video, audio)"
+    },
+    "goal_setting": {
+      "type": "text or interactive goal-setting tool"
+    },
+    "progress_tracking": {
+      "type": "graphical representation (e.g., chart, graph) or interactive tracking tool"
+    }
+  }
+}
+
+
+I removed all the unnecessary text and only kept the `{{ NO-CODE ELEMENT NAME }}` and `{{ PARAMETER ESPECIFICATIONS }}`. I also removed the "Not Applicable" parameters as per your request.

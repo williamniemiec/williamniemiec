@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "large_print_literature": {
+    "parameters": [
+      { "name": "literature_type" },
+      { "name": "print_size" }
+    ]
+  }
+}

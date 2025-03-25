@@ -1,0 +1,29 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Group Support Referral",
+  "parameters": [
+    {
+      "name": "Reason for Referral",
+      "type": "text"
+    },
+    {
+      "name": "Parents Anonymous Information",
+      "type": "text"
+    },
+    {
+      "name": "Referral Instructions",
+      "type": "text"
+    },
+    {
+      "name": "Follow-up",
+      "type": "datetime"
+    },
+    {
+      "name": "Confidentiality",
+      "type": "boolean",
+      "default": true
+    }
+  ]
+}

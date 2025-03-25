@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Visitor Response": {
+    "Name": {"Type": "text"},
+    "Frequency": {"Type": "options", "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"Type": "datetime"},
+    "Response Type": {"Type": "options", "Options": ["emotional", "physical", "other"]},
+    "Notes": {"Type": "text"}
+  }
+}

@@ -1,0 +1,10 @@
+Here is the output in JSON format:
+
+
+{
+    "Smoke-Free Celebrator": {
+        "Quit Day Celebration": {"type": "text"},
+        "Self-Reward Intervals": {"type": "options", "options": ["1 week", "1 month", "6 months", "Custom"]},
+        "Reward Ideas": {"type": "options", "options": ["Save money for a special reward", "Treat yourself to a favorite meal or activity", "Buy a new outfit or accessory", "Plan a fun outing or trip", "Other"]}
+    }
+}

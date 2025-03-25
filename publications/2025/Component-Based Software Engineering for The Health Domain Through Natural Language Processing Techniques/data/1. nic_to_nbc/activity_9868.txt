@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Family Normalization Plan": {
+    "Normalization Strategies": {"type": "options", "options": ["establish routines", "set boundaries", "promote open communication"]},
+    "Family Member Input": {"type": "text or form"},
+    "Goal Setting": {"type": "text or form"}
+  }
+}
+
+
+Note that I removed the `Action Plan` parameter as it was not applicable due to the excessive number of exclamation marks, which made it unclear what the actual value or type should be.

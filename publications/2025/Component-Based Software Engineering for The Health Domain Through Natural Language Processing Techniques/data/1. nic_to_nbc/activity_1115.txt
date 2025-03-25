@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "No-code Element Name": "Positioning Guide",
+  "Parameters": {
+    "Name": {"Type": "text"},
+    "Extremity": {"Type": "options (list of extremities)"},
+    "Positioning Instructions": {"Type": "illustrated guide (a combination of images and text)"},
+    "Frequency": {"Type": "options (daily, every few hours, as needed)"}
+  }
+}
+
+
+Note: I removed the `Deadline Date` parameter since it's not applicable in this context.

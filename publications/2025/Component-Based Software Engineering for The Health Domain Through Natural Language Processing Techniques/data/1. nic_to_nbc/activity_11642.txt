@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+  "Nebulizer Treatment": {
+    "Parameters": {
+      "Treatment name": {"Required": true, "Type": "Text"},
+      "Why": {"Required": true, "Type": "Text"},
+      "Dosage": {"Required": true, "Type": "Text"},
+      "Frequency": {"Required": true, "Type": "Options", "Options": [
+        { "value": "daily", "label": "Daily" },
+        { "value": "onlyOnce", "label": "Only once" },
+        { "value": "everyHours", "label": "Every x hours" },
+        { "value": "everyDays", "label": "Every x days" }
+      ]},
+      "Device settings": {"Required": true, "Type": "Options", "Options": [
+        { "value": "low", "label": "Low" },
+        { "value": "medium", "label": "Medium" },
+        { "value": "high", "label": "High" }
+      ]}
+    }
+  }
+}

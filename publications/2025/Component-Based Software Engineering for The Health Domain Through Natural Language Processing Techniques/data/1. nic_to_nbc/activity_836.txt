@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Voiding Stimulator": {
+    "name": {"type": "text"},
+    "description": {"type": "text"},
+    "stimulus_type": {"type": "options", "options": ["running water", "flushing toilet", "etc."]},
+    "stimulus_duration": {"type": "numeric"},
+    "stimulus_frequency": {"type": "numeric"},
+    "patient_response": {"type": "options", "options": ["voiding", "no voiding", "etc."]},
+    "caregiver_instruction": {"type": "text"}
+  }
+}

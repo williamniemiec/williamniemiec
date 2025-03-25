@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Family Education": {
+        "Parameters": {
+            "Content": {"Type": "text or HTML"},
+            "Format": {"Type": "options (video, article, interactive module)"},
+            "Frequency": {"Type": "options (daily, weekly, monthly)"},
+            "Deadline Date": {"Type": "datetime"}
+        }
+    }
+}

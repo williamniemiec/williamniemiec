@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Physician Contact": {
+    "Parameters": [
+      {"Attending Physician's Name": {"Type": "text"}},
+      {"Receiving Physician's Name": {"Type": "text"}},
+      {"Contact Method": {"Type": "options"}},
+      {"Contact Date and Time": {"Type": "datetime"}},
+      {"Contact Details": {"Type": "text"}},
+      {"EMTALA Compliance": {"Type": "boolean"}}
+    ]
+  }
+}

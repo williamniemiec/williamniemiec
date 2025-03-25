@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+    "Medication Avoidance": {
+        "parameters": [
+            {
+                "name": "medications",
+                "description": "List of medications to avoid",
+                "type": "unordered list",
+                "options": [
+                    { "value": "calciumChloride", "label": "Calcium Chloride" },
+                    { "value": "calciumGluconate", "label": "Calcium Gluconate" },
+                    { "value": "cardiacGlycosides", "label": "Cardiac Glycosides" },
+                    { "value": "adrenergics", "label": "Adrenergics" },
+                    { "value": "atropine", "label": "Atropine" },
+                    { "value": "lactatedRingerSolutions", "label": "Lactated Ringer Solutions" }
+                ]
+            },
+            {
+                "name": "reason",
+                "description": "Reason for avoiding these medications",
+                "type": "text"
+            }
+        ]
+    }
+}

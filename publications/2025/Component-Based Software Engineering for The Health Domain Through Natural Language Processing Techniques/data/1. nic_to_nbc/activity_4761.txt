@@ -1,0 +1,10 @@
+Here is the output in JSON format:
+
+
+{
+    "Information Update": {
+        "Content": {"type": ["text", "HTML"]},
+        "Frequency": {"options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+        "Deadline Date": {"type": "datetime"}
+    }
+}

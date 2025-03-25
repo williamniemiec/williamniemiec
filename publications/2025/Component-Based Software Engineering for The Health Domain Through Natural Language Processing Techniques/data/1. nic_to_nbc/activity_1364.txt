@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Behavioral Expectations": {
+    "parameters": {
+      "cognitive_status": {"type": "options"},
+      "behavioral_expectations": {"type": "list of behavioral expectations"},
+      "goal_setting": {"type": "goal setting"},
+      "interventions_and_strategies": {"type": "list of interventions and strategies"},
+      "progress_monitoring": {"type": "progress monitoring"}
+    }
+  }
+}

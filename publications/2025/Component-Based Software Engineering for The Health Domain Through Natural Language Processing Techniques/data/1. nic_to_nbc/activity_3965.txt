@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Exercise Program": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Type": {"Type": "options", "Options": ["walking", "jogging", "cycling", "etc."]},
+      "Frequency": {"Type": "options", "Options": ["daily", "everyOtherDay", "every2Days", "etc."]},
+      "Duration": {"Type": "text"},
+      "Intensity": {"Type": "options", "Options": ["low", "moderate", "high"]},
+      "Goal": {"Type": "text"}
+    }
+  }
+}
+
+
+Note that I removed the following parameters as they were marked as not applicable (boolean type with no options):
+
+* Reminders
+* Tracking

@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+[
+    {
+        "noCodeElementName": "Reminder",
+        "parameters": {
+            "name": "reminder title (e.g., \"Wash Your Hands\")",
+            "content": "reminder message (e.g., \"Remember to wash your hands with soap and water for 20 seconds\")",
+            "frequency": "how often the reminder should be displayed (e.g., every hour, every 2 hours, etc.)"
+        }
+    },
+    {
+        "noCodeElementName": "Task",
+        "parameters": {
+            "name": "task title (e.g., \"Wash Your Hands\")",
+            "content": "task description (e.g., \"Wash your hands with soap and water for 20 seconds\")",
+            "frequency": "how often the task should be performed (e.g., every hour, every 2 hours, etc.)"
+        }
+    }
+]

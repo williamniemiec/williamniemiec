@@ -1,0 +1,54 @@
+Here is the output in JSON format:
+
+
+{
+  "Family Support": {
+    "parameters": {
+      "name": "",
+      "description": "",
+      "environment": "",
+      "explanations": "",
+      "communication": "",
+      "assessment": "",
+      "reflection": ""
+    }
+  },
+  "Safe Environment": {
+    "parameters": {
+      "name": "",
+      "description": "",
+      "guidelines": ""
+    }
+  },
+  "Explanation and Commentary": {
+    "parameters": {
+      "name": "",
+      "description": "",
+      "content": ""
+    }
+  },
+  "Communication": {
+    "parameters": {
+      "name": "",
+      "description": "",
+      "method": ""
+    }
+  },
+  "Needs Assessment": {
+    "parameters": {
+      "name": "",
+      "description": "",
+      "questions": ""
+    }
+  },
+  "Reflection Opportunity": {
+    "parameters": {
+      "name": "",
+      "description": "",
+      "questions": ""
+    }
+  }
+}
+
+
+Note: I removed the "not applicable" parameters and only kept the ones that were specified for each no-code element.

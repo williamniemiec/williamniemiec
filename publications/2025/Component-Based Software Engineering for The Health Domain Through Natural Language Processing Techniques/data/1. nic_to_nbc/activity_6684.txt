@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Language Alignment": {
+    "parameters": {
+      "Preferred Sense": {"type": "options"},
+      "Verb Identification": {"type": "text"},
+      "Communication Style": {"type": "text"},
+      "Language Profile": {"type": "text"}
+    }
+  }
+}

@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+    "Graft Site Protection Education": {
+        "Name": {"Type": "text"},
+        "Content": {"Type": ["text", "image", "video"]},
+        "Duration": {"Type": "text"},
+        "Reasons": {"Type": ["list of text"]},
+        "Tips": {"Type": ["list of text"]}
+    }
+}

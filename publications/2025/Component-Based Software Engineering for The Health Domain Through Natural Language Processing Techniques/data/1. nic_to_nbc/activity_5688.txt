@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "Analgesic Management": {
+    "Medication List": [
+      {"Name": "", "Type": "text"},
+      {"Dosage": "", "Type": "text"},
+      {"Frequency": "", "Type": "options"},
+      {"Duration": "", "Type": "options"}
+    ],
+    "Pain Level Tracking": [
+      {"Pain Level": "", "Type": "numeric"},
+      {"Time": "", "Type": "time"}
+    ],
+    "Medication Adjustment": [
+      {"Pain Level Threshold": "", "Type": "numeric"},
+      {"Medication Adjustment": "", "Type": "text"}
+    ],
+    "Side Effect Monitoring": [
+      {"Side Effect": "", "Type": "text"},
+      {"Severity": "", "Type": "options"}
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Lapse Support",
+  "parameters": [
+    {
+      "name": "reassurance_message",
+      "type": "text"
+    },
+    {
+      "name": "reflection_questions",
+      "type": "list of text"
+    },
+    {
+      "name": "identification_strategy",
+      "type": "options",
+      "options": [
+        { value: "self-reflection" },
+        { value: "journaling" },
+        { value: "discussion with a healthcare provider" }
+      ]
+    }
+  ]
+}
+
+Let me know if you need any further modifications!

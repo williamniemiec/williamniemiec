@@ -1,0 +1,10 @@
+{
+  "name": "Sleep and Bedtime Routine Management",
+  "description": "Manages sleep quality, bedtime routines, and wakefulness disturbances. Provides techniques for relaxation, monitoring beverage intake before bed, and addressing sleep disturbances for improved rest.",
+  "type": "periodic",
+  "input": ["Bedtime routine details", "Relaxation techniques", "Beverage intake (before sleep)", "Sleep quality assessment"],
+  "output": ["Sleep quality report", "Wakefulness disturbance log", "Bedtime routine effectiveness"],
+  "preconditions": ["User is preparing for or monitoring sleep"],
+  "postconditions": ["Improved sleep quality and resolution of sleep disturbances"],
+  "dependencies": ["Sleep tracking system", "Relaxation technique resources", "Beverage monitoring tools"]
+}

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "PARAMETER ESPECIFICATIONS": {
+    "* Order and interpret laboratory tests (coagulation studies)": "",
+    "* Review and analyze the results of these tests (PT, PTT, fibrinogen, fibrin degradation/split products, and platelet counts)": "",
+    "* Use clinical judgment to determine the significance of the results and make decisions about patient care": ""
+  },
+  "NO-CODE ELEMENT NAME": null
+}
+
+
+Note that there is no specific `NO-CODE ELEMENT NAME` mentioned in the input text, so I left it as `null`. Also, I removed any non-applicable parameters from the `PARAMETER ESPECIFICATIONS`.

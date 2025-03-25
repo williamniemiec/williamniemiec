@@ -1,0 +1,14 @@
+
+
+
+{
+  "Guide": {
+    "Parameters": {
+      "Title": {},
+      "Content": {},
+      "Physiological Changes": {},
+      "What to Expect": {},
+      "Self-Care Tips": {}
+    }
+  }
+}

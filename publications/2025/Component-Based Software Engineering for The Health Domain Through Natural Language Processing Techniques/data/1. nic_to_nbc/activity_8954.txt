@@ -1,0 +1,41 @@
+Here is the output in JSON format:
+
+
+{
+  "Symptom Tracker": {
+    "Parameters": {
+      "Name": {
+        "Type": "text"
+      },
+      "Symptoms": {
+        "Type": "list of objects",
+        "Each object contains": {
+          "Label": {
+            "Type": "text"
+          },
+          "Description": {
+            "Type": "text"
+          }
+        }
+      },
+      "Frequency": {
+        "Type": "options",
+        "Options": ["daily", "every 12 hours", "every 8 hours"]
+      },
+      "Severity Scale": {
+        "Type": "list of objects",
+        "Each object contains": {
+          "Label": {
+            "Type": "text"
+          },
+          "Value": {
+            "Type": "number"
+          }
+        }
+      },
+      "Notes": {
+        "Type": "text"
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Lesion Measurement": {
+    "parameters": {
+      "Center of Lesion": {"type": "text"},
+      "Measurement": {"type": "number"},
+      "Unit": {"type": "options", "options": ["inches", "centimeters", "etc."]}
+    }
+  }
+}

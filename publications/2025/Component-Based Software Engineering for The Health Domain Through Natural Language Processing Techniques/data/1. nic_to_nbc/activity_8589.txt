@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+    "Assessment": {
+        "Parameters": {
+            "Name": {"Type": "text"},
+            "Questions": {"Type": "form"},
+            "Frequency": {"Options": ["daily", "weekly", "monthly", "quarterly"]},
+            "Deadline Date": {"Type": "datetime"},
+            "Scoring": {"Type": "options"}
+        }
+    }
+}
+
+
+Let me know if this is what you were expecting!

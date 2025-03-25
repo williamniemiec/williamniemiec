@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Advocate": {
+    "parameters": [
+      {"name": "concern", "type": "text"},
+      {"name": "physician", "type": "select from list of physicians"}
+    ]
+  }
+}

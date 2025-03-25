@@ -1,0 +1,30 @@
+Here is the output in JSON format:
+
+
+{
+  "Literacy Support System": {
+    "Parameters": {
+      "Title": {"Type": "text"},
+      "Resources": {
+        "Type": "list of resources",
+        "Resource": {
+          "Type": {"Type": "options", "Options": ["staff", "materials", "technology", "etc."]},
+          "Description": {"Type": "text"}
+        }
+      },
+      "Accommodations": {
+        "Type": "list of accommodations",
+        "Accommodation": {
+          "Type": {"Type": "options", "Options": ["extra time", "simplified instructions", "visual aids", "etc."]},
+          "Description": {"Type": "text"}
+        }
+      },
+      "Staff Training": {"Type": "text"},
+      "Patient Education": {"Type": "text"},
+      "Feedback Mechanism": {"Type": "text"}
+    }
+  }
+}
+
+
+Note that I removed the parameters that were marked as "Not Applicable" (there were none in this case), and reformatted the remaining parameters into a JSON object. Let me know if you have any further questions!

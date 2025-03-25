@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Cast Inspection": {
+    "cast_part": {"Description": "Specific part of the cast to inspect", "Required": true, "Type": "text"},
+    "Inspection": {"Description": "Specific inspection instructions", "Required": true, "Type": "text"},
+    "Checklist": {"Description": "List of items to check for during inspection", "Required": true, "Type": "checklist", 
+                  "Items": {
+                    "cracking": {"Description": "Check for cracking in the cast", "Required": true, "Type": "boolean"}, 
+                    "breaks": {"Description": "Check for breaks in the cast", "Required": true, "Type": "boolean"}
+                   }
+                 },
+    "Frequency": {"Description": "Frequency of cast inspection", "Required": true, "Type": "text"}
+  }
+}

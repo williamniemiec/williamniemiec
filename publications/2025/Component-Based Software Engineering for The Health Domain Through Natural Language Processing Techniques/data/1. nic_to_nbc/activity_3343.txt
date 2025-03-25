@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Positioning Plan": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Positioning Instructions": {"Type": "text or video"},
+      "Frequency": {"Options": ["as needed", "daily", "everyHours", "everyDays"]},
+      "Duration": {"Type": "time"},
+      "Deadline Date": {"Type": "datetime"},
+      "Reminders": {"Type": "frequency or specific dates and times"},
+      "Resources": {"Type": "list of URLs or file uploads"}
+    }
+  }
+}

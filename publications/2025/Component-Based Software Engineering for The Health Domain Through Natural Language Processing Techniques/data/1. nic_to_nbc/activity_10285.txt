@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+    "Goal Adjustment": {
+        "current_goal": {"type": "text"},
+        "situation_change": {"type": "text"},
+        "new_goal": {"type": "text"},
+        "rationale": {"type": "text"},
+        "frequency": {"type": "options"},
+        "deadline_date": {"type": "datetime"}
+    }
+}
+
+Let me know if this is what you were expecting!

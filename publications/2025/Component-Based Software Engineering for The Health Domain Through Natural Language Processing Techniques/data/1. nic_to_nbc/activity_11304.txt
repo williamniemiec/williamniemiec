@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "guide": {
+    "parameters": [
+      {"name": "name", "description": "task title", "required": true, "type": "text"},
+      {"name": "pages", "description": "list of pages", "required": true, "type": "book-page"}
+    ]
+  },
+  "reminder": {
+    "parameters": [
+      {"name": "name", "description": "reminder title", "required": true, "type": "text"},
+      {"name": "message", "description": "reminder message", "required": true, "type": "text"},
+      {"name": "frequency", "description": "specify how often the reminder should be sent", "required": true, "type": "options"}
+    ]
+  }
+}

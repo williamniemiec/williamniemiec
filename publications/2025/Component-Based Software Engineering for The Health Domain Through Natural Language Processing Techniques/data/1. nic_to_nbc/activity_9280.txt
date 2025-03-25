@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+{
+  "Feedback": {
+    "parameters": {
+      "name": {"type": "text"},
+      "content": {"type": "text"},
+      "trigger": {"type": "options"},
+      "frequency": {"type": "options"}
+    }
+  }
+}

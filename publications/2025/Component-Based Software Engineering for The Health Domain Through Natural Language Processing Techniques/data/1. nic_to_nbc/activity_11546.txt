@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Swallowing and Speech Assessment": {
+    "parameters": [
+      {"Name": {"type": "text"}},
+      {"Assessment Questions": {"type": "unordered list", "options": ["Can you swallow liquids without difficulty?", "Can you speak clearly?"]}},
+      {"Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]}},
+      {"Deadline Date": {"type": "datetime"}},
+      {"Scoring": {"type": "options", "options": ["yes/no", "1-5 scale"]}}
+    ]
+  }
+}
+
+
+Let me know if this meets your requirements!

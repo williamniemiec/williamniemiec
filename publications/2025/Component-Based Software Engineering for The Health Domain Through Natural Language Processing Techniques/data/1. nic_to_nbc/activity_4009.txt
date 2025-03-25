@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Schedule",
+  "parameters": [
+    {
+      "name": "Exam Type"
+    },
+    {
+      "name": "Frequency"
+    },
+    {
+      "name": "Date"
+    },
+    {
+      "name": "Time"
+    },
+    {
+      "name": "Reminder"
+    }
+  ]
+}

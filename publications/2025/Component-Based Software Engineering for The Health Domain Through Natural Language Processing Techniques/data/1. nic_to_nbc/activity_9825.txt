@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Stimulus Control Plan": {
+    "Name": {"type": "text"},
+    "Description": {"type": "text"},
+    "Stimulus Type": {"type": "options", "options": ["noise", "light", "temperature", "people", "etc."]},
+    "Control Method": {"type": "options", "options": ["earplugs", "dimmingLights", "adjustingThermostat", "etc."]},
+    "Frequency": {"type": "options", "options": ["always", "sometimes", "rarely", "etc."]},
+    "Notes": {"type": "text"}
+  }
+}

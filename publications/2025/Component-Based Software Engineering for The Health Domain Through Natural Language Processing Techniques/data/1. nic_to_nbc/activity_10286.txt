@@ -1,0 +1,29 @@
+Here is the output in JSON format:
+
+
+{
+  "Renal Function Tracker": {
+    "Parameters": {
+      "Renal Function Tests": {"Type": "options (list of renal function tests)"},
+      "Test Results": {"Type": "numeric (lab values)"}
+    }
+  },
+  "EKG Tracker": {
+    "Parameters": {
+      "EKG Readings": {"Type": "numeric (EKG values)"},
+      "EKG Frequency": {"Type": "options (daily, weekly, monthly)"}
+    }
+  },
+  "Serum Potassium Level Tracker": {
+    "Parameters": {
+      "Serum Potassium Levels": {"Type": "numeric (lab values)"},
+      "Reference Ranges": {"Type": "options (list of reference ranges)"}
+    }
+  },
+  "Alert System": {
+    "Parameters": {
+      "Alert Thresholds": {"Type": "options (list of threshold values)"},
+      "Alert Frequency": {"Type": "options (immediately, daily, weekly)"}
+    }
+  }
+}

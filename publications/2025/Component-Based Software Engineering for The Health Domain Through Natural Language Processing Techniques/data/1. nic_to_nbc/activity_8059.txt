@@ -1,0 +1,30 @@
+Here is the output in JSON format, keeping only the `PARAMETER ESPECIFICATIONS` and `NO-CODE ELEMENT NAME`:
+
+
+{
+  "Dose Preparation Guide": {
+    "parameters": [
+      {
+        "Medication Information": {
+          "Medication Name": "",
+          "Dosage": "",
+          "Concentration": ""
+        }
+      },
+      {
+        "Container Type": {
+          "Ampule": "",
+          "Vial": "",
+          "Prefilled Syringe": ""
+        }
+      },
+      {
+        "Step-by-Step Instructions": {
+          "Text": "",
+          "Image": "",
+          "Video": ""
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+Here is the output in JSON format:
+
+
+{
+    "Side Effect Monitoring": {
+        "parameters": [
+            { 
+                "name": "name", 
+                "description": "side effect monitoring task name"
+            },
+            { 
+                "name": "description", 
+                "description": "explain why side effects should be monitored"
+            },
+            { 
+                "name": "frequency", 
+                "description": "specify how often the patient should monitor and report side effects"
+            },
+            { 
+                "name": "deadline_date", 
+                "description": "specify the due date of the side effect monitoring task"
+            },
+            { 
+                "name": "notes", 
+                "description": "additional notes or instructions for the patient"
+            },
+            { 
+                "name": "side_effects", 
+                "description": "list of potential side effects to monitor"
+            }
+        ]
+    }
+}

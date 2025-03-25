@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Buccal Medication Placement": {
+    "Medication Name": {},
+    "Placement Instructions": {},
+    "Mucous Membrane Instructions": {},
+    "Dissolution Instructions": {},
+    "Frequency": {
+      "options": [
+        {"value": "daily", "label": "Daily"},
+        {"value": "onlyOnce", "label": "Only once"},
+        {"value": "everyHours", "label": "Every x hours"},
+        {"value": "everyDays", "label": "Every x days"}
+      ]
+    }
+  }
+}

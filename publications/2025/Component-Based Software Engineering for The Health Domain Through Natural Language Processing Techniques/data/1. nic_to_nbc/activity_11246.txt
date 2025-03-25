@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Rape Protocol Implementation": {
+    "parameters": {
+      "soiled_clothing": "boolean",
+      "vaginal_secretions": "boolean",
+      "vaginal_hair_combings": "boolean",
+      "notes": "text"
+    }
+  }
+}

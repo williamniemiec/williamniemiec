@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Laundry Assistance": {
+    "Parameters": {
+      "Laundry Prompt": {},
+      "Frequency": {},
+      "Laundry Options": {},
+      "Additional Assistance": {}
+    }
+  }
+}

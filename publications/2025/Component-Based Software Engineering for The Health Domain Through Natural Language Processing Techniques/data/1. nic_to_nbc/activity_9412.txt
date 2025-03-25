@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Caregiver Report": {
+    "parameters": {
+      "Caregiver Information": {"type": ["text", "caregiver profile"]},
+      "Report Content": {"type": ["text", "options"]},
+      "Report Format": {"type": ["text", "options"]},
+      "Report Delivery": {"type": ["text", "options"]},
+      "Caregiver Acknowledgement": {"type": ["boolean", "options"]}
+    }
+  }
+}

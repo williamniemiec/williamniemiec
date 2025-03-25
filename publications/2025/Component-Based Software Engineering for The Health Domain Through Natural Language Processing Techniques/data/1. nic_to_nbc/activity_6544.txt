@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Equipment Reminder": {
+        "Parameters": {
+            "Equipment": {"Description": "Name of the therapeutic mattress to use", "Required": true, "Type": "text"},
+            "Why": {"Description": "Explanation of why using a therapeutic mattress is important for minimizing skin trauma", "Required": true, "Type": "text"},
+            "Instructions": {"Description": "Step-by-step instructions on how to use the therapeutic mattress", "Required": true, "Type": "unordered list", "Items": [{"step": "instruction step", "description": "brief description of the step"}]},
+            "Frequency": {"Description": "How often the patient should be reminded to use the therapeutic mattress", "Required": true, "Type": "options", "Options": [{ "value": "daily", "label": "Daily" }, { "value": "onlyOnce", "label": "Only once" }, { "value": "everyHours", "label": "Every x hours" }, { "value": "everyDays", "label": "Every x days" }]}
+        }
+    }
+}

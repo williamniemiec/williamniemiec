@@ -1,0 +1,47 @@
+Here is the output in JSON format:
+
+
+{
+  "Lab Result Tracker": {
+    "parameters": {
+      "name": "",
+      "lab_result_type": "",
+      "result_value": "",
+      "result_date": ""
+    }
+  },
+  "Condition Assessment": {
+    "parameters": {
+      "name": "",
+      "condition_type": ""
+    }
+  },
+  "Risk Assessment": {
+    "parameters": {
+      "name": "",
+      "risk_factors": ""
+    }
+  },
+  "Alert": {
+    "parameters": {
+      "name": "",
+      "alert_type": "",
+      "alert_threshold": ""
+    }
+  },
+  "Guide": {
+    "parameters": {
+      "name": "",
+      "pages": ""
+    }
+  },
+  "Depleting Conditions": {
+    "type": "list of conditions"
+  },
+  "Calcium Level Thresholds": {
+    "type": "numerical values"
+  },
+  "Lab Result Frequency": {
+    "type": "frequency"
+  }
+}

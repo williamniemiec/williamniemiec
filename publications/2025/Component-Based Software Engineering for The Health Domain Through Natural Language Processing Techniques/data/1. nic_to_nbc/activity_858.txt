@@ -1,0 +1,45 @@
+Here is the output in JSON format:
+
+
+{
+    "Insensible Fluid Loss Tracker": {
+        "Parameters": {
+            "Insensible Fluid Loss Indicators": {
+                "Type": "checklist",
+                "Required": true
+            },
+            "Diaphoresis": {
+                "Presence of diaphoresis": {
+                    "Type": "boolean",
+                    "Required": true
+                },
+                "Severity of diaphoresis": {
+                    "Type": "options",
+                    "Required": true
+                }
+            },
+            "Respiratory Infection": {
+                "Presence of respiratory infection": {
+                    "Type": "boolean",
+                    "Required": true
+                },
+                "Severity of respiratory infection": {
+                    "Type": "options",
+                    "Required": true
+                }
+            },
+            "Other Insensible Fluid Loss": {
+                "Description of other insensible fluid loss indicators": {
+                    "Type": "text",
+                    "Required": false
+                }
+            },
+            "Notes": {
+                "Additional notes or comments about the patient's insensible fluid loss": {
+                    "Type": "text",
+                    "Required": false
+                }
+            }
+        }
+    }
+}

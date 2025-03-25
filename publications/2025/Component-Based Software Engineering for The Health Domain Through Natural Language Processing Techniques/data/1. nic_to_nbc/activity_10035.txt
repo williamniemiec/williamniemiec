@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Parameter Specifications": {
+    "Goal": {"Type": "text"},
+    "Target date": {"Type": "date"},
+    "Progress tracking": {"Type": "interactive tracker"},
+    "Reminders": {"Type": "boolean"},
+    "Reflection prompts": {"Type": "text"}
+  },
+  "No-code element name": "Goal Progress Tracker"
+}

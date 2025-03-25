@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Non-Confrontational Response": {
+    "parameters": {
+      "Name": {"type": "text"},
+      "Description": {"type": "text"},
+      "Hallucination Statement": {"type": "text"},
+      "Empathetic Response": {"type": "text"},
+      "Frequency": {"type": "options"},
+      "Deadline Date": {"type": "datetime"}
+    }
+  }
+}
+
+
+Let me know if this meets your requirements!

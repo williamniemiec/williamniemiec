@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Therapy Portal": {
+    "Parameters": {
+      "Therapy Options": {"Type": "list or dropdown menu"},
+      "Therapist Matching": {"Type": "algorithm-based matching or therapist profiles"},
+      "Session Scheduling": {"Type": "calendar or scheduling tool"},
+      "Therapy Resources": {"Type": "library or resource center"},
+      "Progress Tracking": {"Type": "progress bar or journal"},
+      "Referral Network": {"Type": "directory or network map"}
+    }
+  }
+}

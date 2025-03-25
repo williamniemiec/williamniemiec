@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Value-Neutral Goal Setting": {
+    "parameters": {
+      "Patient Values": {"type": "list of text"},
+      "Goal Statement": {"type": "text"},
+      "Value-Neutral Language": {"type": "list of text", "examples": ["Avoid using language that implies judgment or bias", "Use 'I' statements instead of 'you' statements", "Focus on the patient's goals and values, not your own"]},
+      "Reflection Prompts": {"type": "list of text", "examples": ["What is most important to me in this situation?", "What are my core values and how do they relate to this goal?", "What do I hope to achieve with this goal?"]},
+      "Goal Alignment": {"type": "options", "options": ["aligned", "somewhat aligned", "not aligned"]}
+    }
+  }
+}

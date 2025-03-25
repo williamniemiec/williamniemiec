@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+  "Bone Marrow Aspiration": {
+    "Aspiration Technique Guidance": {
+      "Type": "interactive animation or video",
+      "Content": "a step-by-step guide on how to properly aspirate bone marrow content"
+    },
+    "Needle Placement Verification": {
+      "Type": "yes/no question or image upload",
+      "Content": "a prompt to confirm the needle is in the correct position"
+    },
+    "Bone Marrow Content Analysis": {
+      "Type": "interactive animation or video",
+      "Content": "a step-by-step guide on how to analyze the aspirated content to confirm needle placement"
+    },
+    "Agency Protocol Compliance": {
+      "Type": "yes/no question or multiple choice",
+      "Options": "list of agency protocol requirements (e.g., use of specific equipment, following specific procedures, etc.)"
+    }
+  }
+}

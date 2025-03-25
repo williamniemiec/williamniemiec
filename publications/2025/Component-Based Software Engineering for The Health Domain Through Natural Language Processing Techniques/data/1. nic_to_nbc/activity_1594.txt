@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+"Pain Tracker": {
+    "Pain Level": {"type": "number"},
+    "Medication Usage": {"type": "text"},
+    "Frequency": {"type": "options"},
+    "Notes": {"type": "text"}
+}
+}

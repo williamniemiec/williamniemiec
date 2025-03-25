@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Laundry Task": {
+        "Parameters": {
+            "Name": {},
+            "Description": {},
+            "Frequency": {},
+            "Reminder Message": {}
+        }
+    }
+}

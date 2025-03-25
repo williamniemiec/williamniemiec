@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Pregnancy Support": {
+    "Support Options": {"Description": "list of support options available to the patient (e.g., counseling, support groups, etc.)", "Required": true, "Type": "list"},
+    "Counseling": {"Description": "guidance on counseling for patients with unplanned or unwanted pregnancies", "Required": true, "Type": "html"}
+  }
+}
+
+
+I removed the not applicable parameters (Resources and Questions) since they are not required. Let me know if this is what you were expecting!

@@ -1,0 +1,30 @@
+Here is the output in JSON format:
+
+
+{
+  "Reading Encouragement": {
+    "name": "Reading Encouragement",
+    "encouragement_type": "options (e.g., motivational messages, reminders, rewards)",
+    "encouragement_message": "text field for the encouragement message"
+  },
+  "Rereading Prompt": {
+    "name": "Rereading Prompt",
+    "prompt_type": "options (e.g., scheduled reminders, pop-up notifications)",
+    "prompt_message": "text field for the prompt message"
+  },
+  "Reading Tracker": {
+    "name": "Reading Tracker",
+    "reading_frequency": "options (e.g., daily, weekly, monthly)",
+    "reading_progress": "text field for the reading progress (e.g., percentage complete)"
+  },
+  "Personalized Reading Plan": {
+    "name": "Personalized Reading Plan",
+    "reading_plan_type": "options (e.g., customized schedule, recommended reading list)",
+    "reading_plan_description": "text field for the reading plan description"
+  },
+  "Motivational Feedback": {
+    "name": "Motivational Feedback",
+    "feedback_type": "options (e.g., congratulatory messages, rewards, badges)",
+    "feedback_message": "text field for the feedback message"
+  }
+}

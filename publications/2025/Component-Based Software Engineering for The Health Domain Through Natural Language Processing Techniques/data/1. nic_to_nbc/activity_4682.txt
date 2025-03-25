@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+  "Infection Signs Education": {
+    "parameters": {
+      "education_content": {
+        "type": "text or HTML text"
+      },
+      "images": {
+        "type": "image or list of images"
+      },
+      "video": {
+        "type": "video or URL to a video"
+      },
+      "symptom_list": {
+        "type": "list of options or checkboxes"
+      },
+      "report_instruction": {
+        "type": "text or HTML text"
+      }
+    }
+  }
+}
+
+
+Let me know if this meets your requirements!

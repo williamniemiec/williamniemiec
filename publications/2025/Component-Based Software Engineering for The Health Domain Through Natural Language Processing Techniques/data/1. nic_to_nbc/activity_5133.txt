@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "monitor_retrieval",
+    "parameters": [
+        { 
+            "name": "patient_vitals", 
+            "description": "patient's vital signs"
+        },
+        { 
+            "name": "system_status", 
+            "description": "system status and performance"
+        },
+        { 
+            "name": "alerts", 
+            "description": "alerts and notifications for abnormal values"
+        }
+    ]
+}

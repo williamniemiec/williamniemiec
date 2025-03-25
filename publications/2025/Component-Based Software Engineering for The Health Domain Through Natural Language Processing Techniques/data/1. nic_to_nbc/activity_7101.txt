@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Goal Tracker": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Goals": {"Type": "list of goals"},
+      "Metrics": {"Type": "list of metrics"},
+      "Target Values": {"Type": "list of target values"},
+      "Tracking Frequency": {"Options": ["daily", "weekly", "monthly", "custom"]},
+      "Reflection Questions": {"Type": "list of questions"}
+    }
+  }
+}

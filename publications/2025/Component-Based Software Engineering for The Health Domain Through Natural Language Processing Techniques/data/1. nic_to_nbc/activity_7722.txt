@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+{
+  "name": "Drug and Food Interactions",
+  "parameters": [
+    {
+      "name": "Interactions",
+      "description": "list of possible drug and food interactions"
+    },
+    {
+      "name": "Medications",
+      "description": "list of medications that may interact with food"
+    },
+    {
+      "name": "Foods",
+      "description": "list of foods that may interact with medications"
+    },
+    {
+      "name": "Severity",
+      "description": "specifies the severity of the interaction"
+    },
+    {
+      "name": "Customizable list",
+      "description": "allows the patient to add or remove interactions from the list"
+    }
+  ]
+}

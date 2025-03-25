@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "behavior tracker": {
+        "parameters": [
+            {"name": "behavior", "description": "specific behavior to track"},
+            {"name": "frequency type", "description": "type of frequency to track (e.g. daily, weekly, etc.)"},
+            {"name": "custom frequency", "description": "custom frequency (if selected)"},
+            {"name": "tracking period", "description": "duration of tracking period"},
+            {"name": "custom tracking period", "description": "custom tracking period (if selected)"}
+        ]
+    }
+}

@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Education Module": {
+    "Parameters": {
+      "Content": {"Type": "rich text (HTML)"},
+      "Title": {"Type": "text"},
+      "Summary": {"Type": "text"},
+      "Call to Action": {"Type": "text"},
+      "Symptom Checker": {"Type": "options (list of symptoms)"},
+      "Reporting Mechanism": {"Type": "button"}
+    }
+  }
+}
+
+
+Let me know if this meets your requirements!

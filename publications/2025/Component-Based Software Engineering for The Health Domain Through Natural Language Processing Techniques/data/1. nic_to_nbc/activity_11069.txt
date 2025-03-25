@@ -1,0 +1,43 @@
+Here is the output in JSON format:
+
+
+{
+  "Dressing Assistance": {
+    "Assistance Level": {
+      "Description": "Specify the level of assistance required by the patient",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "fullAssistance", "label": "Full Assistance" },
+        { "value": "partialAssistance", "label": "Partial Assistance" },
+        { "value": "minimalAssistance", "label": "Minimal Assistance" }
+      ]
+    },
+    "Frequency": {
+      "Description": "Specify how often the patient requires assistance with dressing",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "daily", "label": "Daily" },
+        { "value": "onlyOnce", "label": "Only once" },
+        { "value": "everyHours", "label": "Every x hours" },
+        { "value": "everyDays", "label": "Every x days" }
+      ]
+    },
+    "Dressing Tasks": {
+      "Description": "Specify the dressing tasks that require assistance",
+      "Required": false,
+      "Type": "list",
+      "List Items": [
+        { "value": "puttingOnClothes", "label": "Putting on clothes" },
+        { "value": "takingOffClothes", "label": "Taking off clothes" },
+        { "value": "usingZippers", "label": "Using zippers" }
+      ]
+    },
+    "Goal": {
+      "Description": "Specify the goal of the dressing assistance, such as increasing independence",
+      "Required": false,
+      "Type": "text"
+    }
+  }
+}

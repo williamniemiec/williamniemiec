@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Respiratory Secretion Tracker": {
+    "Secretion Type": {"Type": "options", "Options": ["Sputum", "Mucus", "Phlegm"]},
+    "Amount": {"Type": "numerical value"},
+    "Color": {"Type": "options", "Options": ["Clear", "Yellow", "Green", "Blood-tinged"]},
+    "Consistency": {"Type": "options", "Options": ["Thin", "Thick", "Watery", "Purulent"]},
+    "Frequency": {"Type": "options", "Options": ["daily", "every 2 hours", "every 4 hours"]},
+    "Notes": {"Type": "text"}
+  }
+}

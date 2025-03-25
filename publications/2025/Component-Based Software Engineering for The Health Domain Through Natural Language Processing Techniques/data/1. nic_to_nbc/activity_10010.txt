@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+{
+  "Model Demonstration": {
+    "Parameters": {
+      "Title": {},
+      "Context": {},
+      "Steps": {},
+      "Media": {},
+      "Frequency": {}
+    }
+  }
+}

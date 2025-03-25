@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "noCodeElementName": "Sport Finder",
+  "parameters": {
+    "Athlete Interests": {"type": "text or options"},
+    "Athlete Abilities": {"type": "text or options"},
+    "Sport Options": {"type": "text or list"},
+    "Sport Descriptions": {"type": "text or video"},
+    "Fitness Goals": {"type": "text or options"},
+    "Lifelong Fitness Tips": {"type": "text or list"}
+  }
+}

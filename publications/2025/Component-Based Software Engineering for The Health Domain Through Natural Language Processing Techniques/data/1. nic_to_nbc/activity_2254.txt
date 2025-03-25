@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "No-Code Element Name": "Symptom Tracker",
+  "Parameters": {
+    "Symptom List": {"Type": "list of text"},
+    "Calendar": {"Type": "calendar or checklist"},
+    "Severity Scale": {"Type": "options"},
+    "Frequency": {"Type": "options"},
+    "Instructions": {"Type": "text"}
+  }
+}

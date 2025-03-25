@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Date Journal Entries",
+    "parameters": [
+        { 
+            "name": "Journal Type", 
+            "description": "A parameter that specifies the type of journal being used."
+        },
+        { 
+            "name": "Date Format", 
+            "description": "A parameter that specifies the format for dating journal entries."
+        },
+        { 
+            "name": "Frequency", 
+            "description": "A parameter that specifies how often to date journal entries."
+        },
+        { 
+            "name": "Reflection Prompt", 
+            "description": "A parameter that provides a prompt for the person to reflect on their journal entries."
+        }
+    ]
+}
+
+
+Note: I removed the `Deadline Date` parameter since it's optional and doesn't have a value specified in the input text.

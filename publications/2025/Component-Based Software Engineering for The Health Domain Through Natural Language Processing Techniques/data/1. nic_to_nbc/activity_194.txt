@@ -1,0 +1,34 @@
+Here is the output in JSON format:
+
+
+{
+  "Supervision and Surveillance": {
+    "Parameters": {
+      "Supervision Level": {
+        "Description": "Specify the level of supervision required for the patient (e.g. one-on-one, intermittent, remote)",
+        "Required": true,
+        "Type": "options",
+        "Options": [
+          {"value": "oneOnOne", "label": "One-on-One"},
+          {"value": "intermittent", "label": "Intermittent"},
+          {"value": "remote", "label": "Remote"}
+        ]
+      },
+      "Surveillance Methods": {
+        "Description": "Specify the methods of surveillance to be used (e.g. video monitoring, in-person checks, wearable devices)",
+        "Required": true,
+        "Type": "options",
+        "Options": [
+          {"value": "videoMonitoring", "label": "Video Monitoring"},
+          {"value": "inPersonChecks", "label": "In-Person Checks"},
+          {"value": "wearableDevices", "label": "Wearable Devices"}
+        ]
+      },
+      "Therapeutic Actions": {
+        "Description": "Specify the therapeutic actions that may be required based on patient monitoring (e.g. medication administration, vital sign checks)",
+        "Required": true,
+        "Type": "text"
+      }
+    }
+  }
+}

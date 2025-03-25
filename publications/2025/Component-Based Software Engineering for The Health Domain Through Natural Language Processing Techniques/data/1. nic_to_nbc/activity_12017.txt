@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Problem Identifier": {
+    "Parameters": {
+      "Problem Statement": {"Type": "text"},
+      "Behavioral Aspect": {"Options": ["thoughts", "feelings", "actions", "etc."]},
+      "Response Type": {"Options": ["text", "rating", "checkbox", "etc."]},
+      "Examples": {"Type": "list of text"},
+      "Guided Questions": {"Type": "list of text"}
+    }
+  }
+}
+
+
+Let me know if this meets your requirements!

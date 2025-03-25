@@ -1,0 +1,10 @@
+Here is the output in JSON format:
+
+
+{
+  "Skin Care Guide": {
+    "Content": {"type": "text or HTML"},
+    "Images": {"type": "list of images"},
+    "Tips": {"type": "list of text"}
+  }
+}

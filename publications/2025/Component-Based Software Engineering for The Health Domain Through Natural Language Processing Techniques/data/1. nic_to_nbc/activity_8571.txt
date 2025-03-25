@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Referral": {
+    "parameters": [
+      {"Reason for Referral": "text"},
+      {"Specialist Type": "options", "options": ["social worker", "therapist", "doctor"]},
+      {"Specialist List": "list"},
+      {"Referral Instructions": "text"},
+      {"Follow-up": "datetime"}
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Pain Management": {
+    "parameters": {
+      "name": "",
+      "why": "",
+      "dosage": "",
+      "frequency": "",
+      "deadline_date": "",
+      "pain_level": "",
+      "notes": ""
+    }
+  }
+}

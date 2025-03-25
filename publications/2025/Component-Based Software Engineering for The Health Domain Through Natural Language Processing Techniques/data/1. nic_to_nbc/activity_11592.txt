@@ -1,0 +1,53 @@
+Here is the output in JSON format:
+
+
+{
+  "Respiratory Monitoring": {
+    "ABG Levels": {
+      "Name": "ABG Levels",
+      "Description": "Enter current ABG levels",
+      "Required": true,
+      "Type": "text"
+    },
+    "Pulse Oximetry": {
+      "Name": "Pulse Oximetry",
+      "Description": "Enter current pulse oximetry reading",
+      "Required": true,
+      "Type": "number"
+    },
+    "Depth": {
+      "Name": "Depth",
+      "Description": "Enter current respiratory depth",
+      "Required": true,
+      "Type": "text"
+    },
+    "Pattern": {
+      "Name": "Pattern",
+      "Description": "Enter current respiratory pattern",
+      "Required": true,
+      "Type": "text"
+    },
+    "Rate": {
+      "Name": "Rate",
+      "Description": "Enter current respiratory rate",
+      "Required": true,
+      "Type": "number"
+    },
+    "Effort": {
+      "Name": "Effort",
+      "Description": "Enter current respiratory effort",
+      "Required": true,
+      "Type": "text"
+    },
+    "Frequency": {
+      "Name": "Frequency",
+      "Description": "Specify how often to monitor respiratory status",
+      "Required": true,
+      "Type": "options",
+      "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+    }
+  }
+}
+
+
+I removed the `Deadline Date` parameter since it's not required. Let me know if you need any further modifications!

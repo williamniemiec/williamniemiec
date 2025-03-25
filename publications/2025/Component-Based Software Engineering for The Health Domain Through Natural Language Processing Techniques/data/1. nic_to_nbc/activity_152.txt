@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+    "Voice Rest Reminder": {
+        "parameters": [
+            {"Name": {"type": "text"}},
+            {"Duration": {"type": "range", "options": ["4-8 hours"]}},
+            {"Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]}}
+        ]
+    }
+}

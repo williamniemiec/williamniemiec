@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Distraction Tool": {
+    "parameters": {
+      "Distraction Type": {"type": "options", "options": ["game", "puzzle", "video", "music", "etc."]},
+      "Behavior Trigger": {"type": "options", "options": ["anxiety", "agitation", "frustration", "etc."]},
+      "Distraction Level": {"type": "options", "options": ["mild", "moderate", "high"]},
+      "Frequency": {"type": "options", "options": ["as needed", "daily", "onlyOnce", "everyHours", "everyDays"]}
+    }
+  }
+}
+
+
+Note that I removed the `Deadline Date` parameter since it's type is `datetime`, not applicable for no-code element. Let me know if you have any further questions!

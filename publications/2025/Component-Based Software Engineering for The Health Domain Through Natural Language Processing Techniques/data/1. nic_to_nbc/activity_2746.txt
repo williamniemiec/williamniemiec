@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Lotion Application": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Instructions": {"Type": "text"},
+      "Frequency": {"Type": "options", "Options": ["daily", "everyOtherDay", "everyXDays", "afterEveryShower"]},
+      "Body Parts": {"Type": "options", "Options": ["hands", "feet", "face", "body"]},
+      "Lotion Type": {"Type": "options", "Options": ["moisturizing", "hydrating", "soothing", "etc."]}
+    }
+  }
+}

@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Procedure Explanation": {
+    "Parameters": {
+      "Procedure Name": {},
+      "Procedure Description": {},
+      "Sensations": {}
+    }
+  }
+}

@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+    "Timer": {
+        "name": "Delivery Time Recorder",
+        "start_time": "",
+        "stop_time": "",
+        "notes": ""
+    },
+    "Form": {
+        "name": "Delivery Time Recorder",
+        "fields": {
+            "start_time": "",
+            "stop_time": "",
+            "notes": ""
+        }
+    }
+}

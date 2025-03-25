@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "task": {
+    "parameters": {
+      "name": "Cover with warm blankets",
+      "content": "Please cover yourself with warm blankets to stay comfortable",
+      "frequency": "as needed"
+    }
+  }
+}

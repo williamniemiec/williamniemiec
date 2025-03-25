@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Elevation Guide": {
+    "Name": {"type": "text"},
+    "Extremity": {"type": "options"},
+    "Elevation Angle": {"type": ["text", "numeric value"]},
+    "Image": {"type": ["image", "diagram"]},
+    "Instructions": {"type": ["text", "video"]},
+    "Reminders": {"type": "options"},
+    "Deadline Date": {"type": "datetime"}
+  }
+}

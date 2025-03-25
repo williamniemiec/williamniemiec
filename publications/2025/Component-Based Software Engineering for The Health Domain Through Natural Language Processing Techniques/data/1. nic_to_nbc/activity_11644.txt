@@ -1,0 +1,41 @@
+Here is the output in JSON format:
+
+
+{
+    "Safety Reminder": {
+        "Parameters": {
+            "Title": {
+                "Type": "text",
+                "Required": true
+            },
+            "Content": {
+                "Type": "text",
+                "Required": true
+            },
+            "Image": {
+                "Type": "image file",
+                "Required": false
+            },
+            "Vehicles": {
+                "Type": "list of vehicle objects",
+                "Required": true,
+                "Vehicle Object": {
+                    "Parameters": {
+                        "Name": {
+                            "Type": "text",
+                            "Required": true
+                        },
+                        "Description": {
+                            "Type": "text",
+                            "Required": true
+                        },
+                        "Image": {
+                            "Type": "image file",
+                            "Required": false
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

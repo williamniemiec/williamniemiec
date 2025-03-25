@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "mashed_solid_food_introduction": [
+    {"name": "food_type", "description": "type of mashed solid food"},
+    {"name": "introduction_criteria", "description": "criteria for introducing mashed solid foods"},
+    {"name": "frequency", "description": "specify how often the patient should consume mashed solid foods"},
+    {"name": "portion_size", "description": "specify the portion size of mashed solid foods"},
+    {"name": "start_date", "description": "specify the start date for introducing mashed solid foods"}
+  ]
+}

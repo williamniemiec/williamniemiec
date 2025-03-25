@@ -1,0 +1,12 @@
+
+
+
+{
+  "Guided Meditation": {
+    "parameters": {
+      "name": {"type": "text"},
+      "content": {"type": "audio or video"},
+      "duration": {"type": "time"}
+    }
+  }
+}

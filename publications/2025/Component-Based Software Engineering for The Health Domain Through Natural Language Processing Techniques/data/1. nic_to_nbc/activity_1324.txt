@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Caloric Intake Tracker": {
+    "Parameters": [
+      {"Name": "Goal Weight", "Description": "Enter desired weight", "Type": "number"},
+      {"Name": "Daily Caloric Intake", "Description": "Enter daily caloric intake", "Type": "number"},
+      {"Name": "Frequency", "Description": "Specify how often to track caloric intake", "Type": "options", "Options": [{"value": "daily", "label": "Daily"}, {"value": "weekly", "label": "Weekly"}, {"value": "monthly", "label": "Monthly"}]}
+    ]
+  }
+}
+
+
+I removed the `Deadline Date` parameter since it's marked as not required. Let me know if you need anything else!

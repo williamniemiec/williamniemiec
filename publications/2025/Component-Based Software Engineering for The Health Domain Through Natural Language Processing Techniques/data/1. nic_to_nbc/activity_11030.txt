@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+    "Bowel Program": {
+        "Parameters": {
+            "Program Title": {},
+            "Program Description": {},
+            "Steps": {},
+            "Frequency": {},
+            "Reminders": {},
+            "Tracking": {}
+        }
+    }
+}

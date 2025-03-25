@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Reminder": {
+    "name": {"type": "text"},
+    "content": {"type": "text"},
+    "affected_side": {"type": "options", "options": ["left", "right", "both"]},
+    "frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "deadline_date": {"type": "datetime"}
+  }
+}

@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "noCodeElementName": "Secretion Clearance",
+  "parameters": [
+    {"name": "secretion location", "description": "select the location of secretions to clear", "required": true, "type": "options"},
+    {"name": "clearance method", "description": "select the method for clearing secretions", "required": true, "type": "options"},
+    {"name": "chest compression status", "description": "indicate if chest compressions are in progress", "required": true, "type": "boolean"},
+    {"name": "clearance frequency", "description": "specify how often to clear secretions", "required": true, "type": "options"}
+  ]
+}

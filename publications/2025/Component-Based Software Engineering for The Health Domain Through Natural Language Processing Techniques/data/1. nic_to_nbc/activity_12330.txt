@@ -1,0 +1,5 @@
+Since there is no no-code element associated with this intervention, I will return an empty JSON object:
+
+{}
+
+Please let me know if you have any further questions!

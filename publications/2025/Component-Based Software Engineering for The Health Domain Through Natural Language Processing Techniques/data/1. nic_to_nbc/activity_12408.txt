@@ -1,0 +1,10 @@
+Here is the output in JSON format:
+
+
+{
+  "Hyperglycemia Guide": {
+    "Symptoms": {"type": "text (list of symptoms)"},
+    "Guidance": {"type": "text"},
+    "Resources": {"type": "text (list of resources)"}
+  }
+}

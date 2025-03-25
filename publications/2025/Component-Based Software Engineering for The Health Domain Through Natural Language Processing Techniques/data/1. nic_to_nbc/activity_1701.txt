@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Guide": {
+    "Parameters": {
+      "Title": {"Type": "text"},
+      "Content": {"Type": "HTML text or multimedia content (e.g., video, image)"},
+      "Appropriateness": {"Type": "boolean (yes/no)"}
+    }
+  }
+}

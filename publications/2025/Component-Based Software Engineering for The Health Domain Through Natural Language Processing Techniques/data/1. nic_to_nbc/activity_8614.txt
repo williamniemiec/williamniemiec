@@ -1,0 +1,29 @@
+Here is the output in JSON format:
+
+
+{
+  "Video Demonstration": {
+    "name": "",
+    "video": "",
+    "frequency": ""
+  },
+  "Interactive Tutorial": {
+    "name": "",
+    "steps": [],
+    "interactive elements": []
+  },
+  "Touch Guide": {
+    "name": "",
+    "touch techniques": [],
+    "descriptions": [],
+    "images": []
+  },
+  "Reflection Question": {
+    "name": "",
+    "content": "",
+    "answer type": ""
+  }
+}
+
+
+Note that I removed the `deadline_date` parameter as it is not applicable in this context. Also, I did not include any values for the parameters as they were not provided in the input text.

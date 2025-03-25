@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Consultation Model": {
+    "Model Type": {},
+    "Model Description": {},
+    "Goals and Objectives": {},
+    "Roles and Responsibilities": {},
+    "Communication Plan": {},
+    "Evaluation Criteria": {},
+    "Frequency": {"options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {}
+  }
+}
+
+
+Note that I removed the `INTRODUCTION` and `CONCLUSION` sections, as well as the `NUMBER` and `NO-CODE ELEMENT DESCRIPTION` elements. I also removed the `PARAMETER ESPECIFICATIONS` section headers and only kept the parameter names and their corresponding types/options. Let me know if you need any further adjustments!

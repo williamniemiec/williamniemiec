@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Learning Environment": {
+    "parameters": [
+      {"Environmental Factors": {}},
+      {"Learning Style": {}},
+      {"Distractions": {}},
+      {"Optimal Environment": {}}
+    ]
+  }
+}

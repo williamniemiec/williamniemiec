@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+  "Patient Preference Identification": {
+    "Preference Type": {"type": "options"},
+    "Preference Description": {"type": "text"},
+    "Frequency": {"options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"type": "datetime"}
+  },
+  "Progress Update": {
+    "Update Content": {"type": "text"},
+    "Update Format": {"type": "options"},
+    "Frequency": {"options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"type": "datetime"}
+  },
+  "Family Feedback": {
+    "Question": {"type": "text"},
+    "Answer Type": {"type": "options"},
+    "Frequency": {"options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"type": "datetime"}
+  }
+}
+
+
+I removed all unnecessary text and only kept the `{{ NO-CODE ELEMENT NAME }}` and `{{ PARAMETER ESPECIFICATIONS }}`. I also removed any parameters that were not applicable. Let me know if this is what you were looking for!

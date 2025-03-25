@@ -1,0 +1,34 @@
+Here is the output in JSON format:
+
+
+{
+    "Monitoring Guidelines": {
+        "Parameters": {
+            "Monitoring Type": {"Type": "selection from a list of options"},
+            "Guideline Description": {"Type": "text"},
+            "Age-Appropriate Guidance": {"Type": "boolean (yes/no)"}
+        }
+    },
+    "Friend Approval Process": {
+        "Parameters": {
+            "Approval Criteria": {"Type": "list of criteria with descriptions"},
+            "Approval Method": {"Type": "selection from a list of options"},
+            "Frequency of Review": {"Type": "options"}
+        }
+    },
+    "Activity Approval Process": {
+        "Parameters": {
+            "Activity Type": {"Type": "selection from a list of options"},
+            "Approval Criteria": {"Type": "list of criteria with descriptions"},
+            "Approval Method": {"Type": "selection from a list of options"},
+            "Frequency of Review": {"Type": "options"}
+        }
+    },
+    "Communication Plan": {
+        "Parameters": {
+            "Communication Method": {"Type": "selection from a list of options"},
+            "Communication Frequency": {"Type": "options"},
+            "Communication Topics": {"Type": "list of topics with descriptions"}
+        }
+    }
+}

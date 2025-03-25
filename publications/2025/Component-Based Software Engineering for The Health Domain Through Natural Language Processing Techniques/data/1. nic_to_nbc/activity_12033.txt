@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Education Module": {
+    "parameters": [
+      {"name": "name", "type": "text"},
+      {"name": "content", "type": "text, image, video, or multimedia content"},
+      {"name": "format", "type": "options"},
+      {"name": "duration", "type": "time interval"}
+    ]
+  }
+}

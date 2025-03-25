@@ -1,0 +1,14 @@
+Here is the JSON output:
+
+
+{
+  "Nasogastric Output Tracker": {
+    "Amount": {"type": "number"},
+    "Color": {"type": "options", "options": ["yellow", "green", "brown", "bloody"]},
+    "Consistency": {"type": "options", "options": ["watery", "thick", "bloody"]},
+    "Frequency": {"type": "options", "options": ["daily", "everyHours", "everyDays"]}
+  }
+}
+
+
+Note: I removed the `Deadline Date` parameter as it's a datetime type and not applicable in this context.

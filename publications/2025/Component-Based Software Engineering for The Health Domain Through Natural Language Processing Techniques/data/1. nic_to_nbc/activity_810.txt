@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Bed Rest Tracker": {
+    "Duration": {"type": "text", "format": "e.g., \"2 hours\", \"4 days\", etc."},
+    "Reminders": {"type": "boolean", "default": true},
+    "Activity Limitations": {"type": "list", "list_items": "text, with optional images or icons"},
+    "Tracking": {"type": "form", "fields": ["start time", "end time", "notes (optional)"]}
+  }
+}

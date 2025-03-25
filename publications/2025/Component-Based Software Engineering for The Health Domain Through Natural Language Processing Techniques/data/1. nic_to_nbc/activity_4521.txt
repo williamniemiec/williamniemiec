@@ -1,0 +1,12 @@
+
+
+
+{
+  "Target Behavior Identifier": {
+    "Behavior Description": {"type": "text"},
+    "Specificity Level": {"options": ["specific actions", "frequency", "duration", "etc."]},
+    "Response Type": {"options": ["text", "rating", "checkbox", "etc."]},
+    "Examples": {"type": "list of text"},
+    "Guided Questions": {"type": "list of text"}
+  }
+}

@@ -1,0 +1,4 @@
+Since there are no applicable parameters, the output will be an empty JSON:
+
+{}
+(Note: This is because there is no {{ PARAMETER ESPECIFICATIONS }} and no applicable {{ NO-CODE ELEMENT NAME }} in the input text)

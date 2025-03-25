@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "no-code-element-name": "Defibrillator Therapy Insights",
+  "parameter-specifications": {
+    "Symptom profiles": ["Common symptoms experienced during defibrillator therapy", "Rare but potential symptoms", "..."],
+    "Treatment outcomes": ["Success rates of defibrillator therapy in preventing sudden cardiac death", "Average duration of therapy", "Potential long-term effects on quality of life", "..."],
+    "Personalized risk assessments": ["Individualized risk of complications based on medical history and device type", "Probability of successful therapy based on patient characteristics", "..."]
+  }
+}

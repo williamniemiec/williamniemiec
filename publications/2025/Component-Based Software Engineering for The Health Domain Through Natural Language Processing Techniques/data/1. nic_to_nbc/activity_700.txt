@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Parameters": {
+    "Weight Control Goal": {},
+    "Smoking Cessation Goal": {},
+    "Physical Activity Goal": {},
+    "Progress Tracking": {}
+  },
+  "No-code Element Name": "Healthy Lifestyle Goals"
+}

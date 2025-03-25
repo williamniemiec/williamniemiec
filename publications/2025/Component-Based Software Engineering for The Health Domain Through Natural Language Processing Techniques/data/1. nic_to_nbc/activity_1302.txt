@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Manager": {
+    "Name": {"Type": "text"},
+    "Medication List": {"Type": "list of text"},
+    "Dosage and Frequency": {"Type": "list of text or numerical values"},
+    "Medication Reminders": {"Type": "options"},
+    "Side Effect Monitoring": {"Type": "list of text"},
+    "Behavioral Tracking": {"Type": "list of text or numerical values"},
+    "Frequency": {"Type": "options"},
+    "Deadline Date": {"Type": "datetime"}
+  }
+}

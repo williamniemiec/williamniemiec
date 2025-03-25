@@ -1,0 +1,42 @@
+Here is the output in JSON format:
+
+
+{
+  "Prolonged Sitting Monitoring": {
+    "Frequency": {
+      "type": "options",
+      "options": [
+        {"value": "daily", "label": "Daily"},
+        {"value": "everyHours", "label": "Every x hours"},
+        {"value": "everyDays", "label": "Every x days"}
+      ]
+    },
+    "Deadline Date": {
+      "type": "datetime"
+    },
+    "Instructions": {
+      "type": "text"
+    },
+    "Effects to Monitor": {
+      "type": "checklist",
+      "options": [
+        {"value": "pressureUlcers", "label": "Pressure ulcers"},
+        {"value": "skinTears", "label": "Skin tears"},
+        {"value": "bruises", "label": "Bruises"},
+        {"value": "contractures", "label": "Contractures"},
+        {"value": "discomfort", "label": "Discomfort"},
+        {"value": "incontinence", "label": "Incontinence"},
+        {"value": "socialIsolation", "label": "Social isolation"},
+        {"value": "falls", "label": "Falls"}
+      ]
+    },
+    "Reporting": {
+      "type": "options",
+      "options": [
+        {"value": "checklist", "label": "Checklist"},
+        {"value": "photo", "label": "Take a photo"},
+        {"value": "notes", "label": "Write notes"}
+      ]
+    }
+  }
+}

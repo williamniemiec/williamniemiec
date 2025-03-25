@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "parameters": [
+    {"name": "Developmental Level", "type": "text or rating scale"},
+    {"name": "Information Content", "type": "text or reference to another no-code element"},
+    {"name": "Developmental Level Criteria", "type": "list of criteria"},
+    {"name": "Appropriate Information", "type": "text or reference to another no-code element"}
+  ],
+  "no_code_element_name": "Developmental Level Information"
+}

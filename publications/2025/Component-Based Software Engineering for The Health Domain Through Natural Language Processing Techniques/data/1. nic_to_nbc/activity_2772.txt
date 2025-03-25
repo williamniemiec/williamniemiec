@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Thought Stopping and Substitution": {
+    "Parameters": {
+      "Thought Stopping Technique": {"Type": "text", "Example": "When you notice a thought of guilt, say'stop' to yourself and take a deep breath."},
+      "Thought Substitution Technique": {"Type": "text", "Example": "Replace the thought of guilt with a more positive and realistic thought, such as 'I did the best I could with the resources I had'."},
+      "Deliberate Muscle Relaxation": {"Type": "text", "Example": "Tense and then relax different muscle groups in your body, starting with your toes and moving up to your head."},
+      "Practice Exercise": {"Type": "text", "Example": "Practice the thought stopping and substitution techniques for 10 minutes, 3 times a day, for the next week."},
+      "Cue Cards": {"Type": "text", "Example": "Create cue cards with the thought stopping and substitution techniques written on them, and place them in strategic locations to remind you to practice."},
+      "Follow-up": {"Type": "text", "Example": "Follow up with the patient in one week to assess their progress and provide additional guidance as needed."}
+    }
+  }
+}

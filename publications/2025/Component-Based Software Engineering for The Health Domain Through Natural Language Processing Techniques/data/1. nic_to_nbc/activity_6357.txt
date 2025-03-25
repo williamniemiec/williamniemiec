@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "noCodeElementName": "log",
+  "parameterSpecifications": {
+    "name": {"type": "text"},
+    "content": {"type": "text"},
+    "frequency": {"options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "deadline_date": {"type": "datetime"}
+  }
+}

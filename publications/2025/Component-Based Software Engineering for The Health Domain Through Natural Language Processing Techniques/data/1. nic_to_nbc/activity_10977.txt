@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Positioning": {
+    "Body part": {"type": "options"},
+    "Position": {"type": "options"},
+    "Frequency": {"type": "options"},
+    "Additional instructions": {"type": "text"}
+  }
+}

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Bedrest Tracker": {
+    "Parameters": {
+      "Duration": {"Type": "text"},
+      "Frequency": {"Type": "options", "Options": ["continuously", "at specific times of the day (with a schedule input)"]},
+      "Reminders": {"Type": "options", "Options": ["notifications", "alarms", "a combination of both"]},
+      "Side Effect Monitoring": {"Type": "options", "Options": ["yes/no", "with a text field for additional information"]},
+      "Notes": {"Type": "text"}
+    }
+  }
+}

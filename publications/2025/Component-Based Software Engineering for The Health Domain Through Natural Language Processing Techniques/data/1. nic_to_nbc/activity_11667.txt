@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Stimulus Clarification": {
+        "Name": {"Type": "text"},
+        "Description": {"Type": "text"},
+        "Stimulus Question": {"Type": "text"},
+        "Response": {"Type": "text"},
+        "Frequency": {"Type": "options"},
+        "Deadline Date": {"Type": "datetime"}
+    }
+}

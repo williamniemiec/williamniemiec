@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+    "Communication Journal": {
+        "Journal Entries": {"Type": "form", "Options": ["multiple choice", "Likert scale", "open-ended text"]},
+        "Frequency": {"Type": "options", "Options": ["daily", "weekly"]},
+        "Deadline Date": {"Type": "datetime"},
+        "Notes": {"Type": "text"}
+    },
+    "Communication Questions": {
+        "Question List": {"Type": "form", "Options": ["multiple choice", "Likert scale", "open-ended text"]},
+        "Frequency": {"Type": "options", "Options": ["daily", "weekly"]},
+        "Deadline Date": {"Type": "datetime"},
+        "Notes": {"Type": "text"}
+    }
+}

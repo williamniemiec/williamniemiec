@@ -1,0 +1,33 @@
+Here is the output in JSON format:
+
+
+{
+    "Peer Influence Reflection": {
+        "Prompt": {
+            "Type": "text",
+            "Example": "How do you think your friends or peers affect the way you feel about your body?"
+        },
+        "Reflection Questions": {
+            "Type": "list of text",
+            "Example": ["Do you feel pressure from your peers to look a certain way?", "How do you think social media influences your body image?", "Are there any positive or negative comments from peers that have affected your self-perception?"]
+        },
+        "Peer Group Identification": {
+            "Type": "text or multiple-choice",
+            "Example": "Who do you consider to be your peer group? (e.g., friends, family members, social media influencers)"
+        },
+        "Influence Scale": {
+            "Type": "rating scale",
+            "Example": "On a scale of 1-5, how much do you think your peer group influences your body image?"
+        },
+        "Frequency": {
+            "Type": "options",
+            "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+        },
+        "Deadline Date": {
+            "Type": "datetime"
+        },
+        "Resources": {
+            "Type": "text or multimedia (e.g., image, video)"
+        }
+    }
+}

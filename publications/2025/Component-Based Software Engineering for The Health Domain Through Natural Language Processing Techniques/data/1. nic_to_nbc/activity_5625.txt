@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Skin Breakdown Documentation": {
+    "parameters": {
+      "Documentation Type": {"type": "options", "options": ["photo", "writtenDescription", "ratingScale"]},
+      "Frequency": {"type": "options", "options": ["daily", "everyOtherDay", "weekly"]},
+      "Rating Scale": {"type": "text"},
+      "Description": {"type": "text"}
+    }
+  }
+}
+
+
+I removed the `Photo` parameter as it's not applicable (it's an image type, but there are no additional specifications). Let me know if this is correct!

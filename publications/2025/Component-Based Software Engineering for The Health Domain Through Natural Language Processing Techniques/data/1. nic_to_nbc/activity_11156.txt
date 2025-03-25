@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Patient's Bill of Rights": {
+        "parameters": [
+            {"Document": {"type": "text or PDF"}},
+            {"Format": {"options": ["text", "PDF", "audio", "video"]}},
+            {"Language": {"options": ["English", "Spanish", "French"]}},
+            {"Acknowledgement": {"type": "boolean"}}
+        ]
+    }
+}

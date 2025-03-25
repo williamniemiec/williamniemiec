@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Task Mastery": {
+    "task_name": {"Description": "Name of the task or skill to be mastered", "Required": true, "Type": "text"},
+    "instructions_text": {"Description": "Text instructions for the task or skill", "Required": true, "Type": "text"},
+    "learning_objectives": {"Description": "Specific learning objectives for the task or skill", "Required": true, "Type": "list of text"},
+    "practice_time": {"Description": "Specify the amount of time allocated for practice and mastery of the task or skill", "Required": true, "Type": "time duration"},
+    "checkpoints": {"Description": "Specify checkpoints or milestones to assess patient progress and mastery", "Required": false, "Type": "list of text"},
+    "frequency": {"Description": "Specify how often the patient should practice the task or skill", "Required": true, "Type": "options"},
+    "deadline_date": {"Description": "Specify the due date for the patient to complete the task or skill", "Required": false, "Type": "datetime"}
+  }
+}

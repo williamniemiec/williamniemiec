@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Anxiety Assessment": {
+    "Name": {"Type": "text"},
+    "Questions": {"Type": "list of questions with answer options"},
+    "Frequency": {"Type": "options (daily, onlyOnce, everyHours, everyDays)"},
+    "Response Options": {"Type": "list of response options"}
+  },
+  "Anxiety Management Education": {
+    "Name": {"Type": "text"},
+    "Content": {"Type": "text or multimedia"},
+    "Coping Strategies": {"Type": "list of coping strategies with descriptions"}
+  }
+}

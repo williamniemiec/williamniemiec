@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Group Member Selector": {
+    "name": "title of the element (e.g., \"Group Member Selector\")",
+    "member_criteria": "list of criteria for selecting group members (e.g., \"Willing to participate actively\", \"Takes responsibility for own problems\", etc.)",
+    "member_list": "list of potential group members to select from",
+    "selection_method": "method for selecting group members (e.g., checkbox, radio button, or drag-and-drop)",
+    "selection_limit": "optional parameter to limit the number of group members that can be selected"
+  }
+}

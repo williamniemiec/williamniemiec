@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Symptom Management Guide": {
+    "title of the guide": {"Type": "text", "Required": true},
+    "Symptoms": {"Type": "unordered list", "Required": true, "Options": ["Pain", "Fatigue", "Nausea", "Dizziness", "Shortness of breath", "Other"]},
+    "Management Strategies": {"Type": "book-page", "Required": true},
+    "Frequency": {"Type": "options", "Required": true, "Options": ["Daily", "Every other day", "3 times a week", "Weekly", "As needed"]}
+  }
+}
+
+
+I removed the not applicable parameters (`Triggers` and `Deadline Date`) as per your request. Let me know if you need any further modifications!

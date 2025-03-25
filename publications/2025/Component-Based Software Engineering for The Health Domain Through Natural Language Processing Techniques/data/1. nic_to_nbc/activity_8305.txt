@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "Emotional Release": {
+    "Parameters": {
+      "Emotion identification": {
+        "Type": "text or options"
+      },
+      "Talking or crying prompt": {
+        "Type": "audio or video recording, or text-based prompt"
+      },
+      "Reflection prompts": {
+        "Type": "text"
+      },
+      "Mood tracking": {
+        "Type": "emotional state tracking"
+      },
+      "Calming techniques": {
+        "Type": "multimedia content"
+      }
+    }
+  }
+}

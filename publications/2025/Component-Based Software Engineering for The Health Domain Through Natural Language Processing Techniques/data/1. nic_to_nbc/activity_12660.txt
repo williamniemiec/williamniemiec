@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Resource Explorer": {
+    "Goal": {"type": "text"},
+    "Resource type": {"type": "options"},
+    "Resource list": {"type": "list of resources"},
+    "Filter": {"type": "options"},
+    "Notes": {"type": "text"}
+  }
+}

@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Educational Content": {
+    "parameters": {
+      "name": {"type": "text"},
+      "behavior": {"type": "text"},
+      "content_type": {"type": "options"},
+      "content": {"type": "depends on content_type"},
+      "key_points": {"type": "list of key point objects"}
+    }
+  }
+}
+
+
+Let me know if this meets your requirements!

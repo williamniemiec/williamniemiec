@@ -1,0 +1,31 @@
+Here is the output in JSON format:
+
+
+{
+  "Family Needs Assessment": {
+    "Parameters": {
+      "Questions": {
+        "Type": "form",
+        "Options": ["multiple-choice", "Likert scale", "open-ended text"]
+      },
+      "Family Members": {
+        "Type": "list of names or relationships"
+      },
+      "Need Categories": {
+        "Type": "list of categories"
+      },
+      "Frequency": {
+        "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+      },
+      "Deadline Date": {
+        "Type": "datetime"
+      },
+      "Name": {
+        "Type": "text"
+      }
+    }
+  }
+}
+
+
+I removed all the unnecessary text and only kept the `{{ NO-CODE ELEMENT NAME }}` and `{{ PARAMETER ESPECIFICATIONS }}`. I also reformatted the parameters to make them easier to read. Let me know if you need any further modifications!

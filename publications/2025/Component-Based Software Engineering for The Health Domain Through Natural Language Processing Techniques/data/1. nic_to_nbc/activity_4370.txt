@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Infant Care Guidance",
+  "parameters": [
+    {
+      "name": "Circumcision",
+      "type": "text"
+    },
+    {
+      "name": "Feeding",
+      "type": "unordered list"
+    },
+    {
+      "name": "Pediatric Health Care Provider",
+      "type": "text"
+    },
+    {
+      "name": "Additional Considerations",
+      "type": "unordered list"
+    }
+  ]
+}
+
+
+I removed the `Resources` parameter because it was marked as not required. Let me know if you need anything else!

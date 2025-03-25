@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "IV Access Maintenance": {
+    "Title": {"Description": "Title of the IV access maintenance instruction", "Required": true, "Type": "text"},
+    "Instructions": {"Description": "Instructions on how to maintain IV access", "Required": true, "Type": "text"},
+    "Frequency": {"Description": "How often to check and maintain IV access", "Required": true, "Type": "options", "Options": [{"value": "daily", "label": "Daily"}, {"value": "everyHours", "label": "Every x hours"}, {"value": "everyDays", "label": "Every x days"}]}
+  }
+}
+
+
+Let me know if this is what you were expecting!

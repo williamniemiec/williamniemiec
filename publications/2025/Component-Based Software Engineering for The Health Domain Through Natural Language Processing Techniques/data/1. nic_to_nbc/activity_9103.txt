@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Behavioral Profile",
+  "parameters": [
+    {
+      "name": "Questions"
+    },
+    {
+      "name": "Categories"
+    },
+    {
+      "name": "Frequency"
+    }
+  ]
+}

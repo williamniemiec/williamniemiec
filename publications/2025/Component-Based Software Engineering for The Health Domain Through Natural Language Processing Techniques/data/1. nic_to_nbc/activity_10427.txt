@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+  "Reassurance Message": {
+    "parameters": {
+      "title": "",
+      "content": "",
+      "features": []
+    }
+  },
+  "Education Material": {
+    "parameters": {
+      "title": "",
+      "content": "",
+      "features": []
+    }
+  },
+  "Guide": {
+    "parameters": {
+      "title": "",
+      "pages": [],
+      "features": []
+    }
+  }
+}

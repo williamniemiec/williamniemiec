@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Tracker": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Unit": {"Type": "text"},
+      "Frequency": {"Type": "options"},
+      "Target Range": {"Type": "range"}
+    }
+  }
+}

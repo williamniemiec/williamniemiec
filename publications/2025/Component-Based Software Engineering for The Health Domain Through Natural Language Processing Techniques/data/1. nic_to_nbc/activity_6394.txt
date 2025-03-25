@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Peer Connection": {
+    "parameters": {
+      "Peer Profile": {},
+      "Connection Type": {},
+      "Frequency": {},
+      "Duration": {},
+      "Goals": {}
+    }
+  }
+}

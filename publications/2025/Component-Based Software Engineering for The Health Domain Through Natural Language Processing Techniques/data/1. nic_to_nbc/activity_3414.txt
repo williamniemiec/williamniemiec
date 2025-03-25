@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+  "Attachment Support": {
+    "Parameters": {
+      "Topic": {
+        "options": ["skinToSkin", "breastfeeding", "respondingToCues", "other"]
+      },
+      "Content": {
+        "type": "HTML content or article"
+      },
+      "Tips and Strategies": {
+        "type": "list of tips and strategies"
+      },
+      "Resources": {
+        "type": "list of resources"
+      },
+      "Frequency": {
+        "options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+      },
+      "Deadline Date": {
+        "type": "datetime"
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Transducer Placement Guidance": {
+        "Parameters": {
+            "Name": {"Type": "text"},
+            "Transducer Type": {"Type": "options", "Options": ["abdominal", "vaginal", "etc."]},
+            "Placement Instructions": {"Type": ["text", "video"]},
+            "Anatomical Landmarks": {"Type": ["text", "image"]},
+            "Placement Verification": {"Type": ["form", "questionnaire"]}
+        }
+    }
+}

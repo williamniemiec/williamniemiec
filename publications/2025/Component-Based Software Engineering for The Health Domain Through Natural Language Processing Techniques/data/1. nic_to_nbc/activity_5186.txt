@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Toy Box": {
+    "Age Range": {"Type": "integer"},
+    "Toy Type": {"Type": "options"},
+    "Toy Selection": {"Type": "options"},
+    "Interactive Elements": {"Type": "options"},
+    "Duration": {"Type": "time interval"},
+    "Reward": {"Type": "text"}
+  }
+}
+
+
+I removed the non-applicable parameters and kept only the `{{ PARAMETER ESPECIFICATIONS }}` and `{{ NO-CODE ELEMENT NAME }}`. Let me know if this meets your requirements!

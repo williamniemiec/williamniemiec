@@ -1,0 +1,33 @@
+Here is the output in JSON format:
+
+
+{
+  "Family Preparation Assessment": {
+    "parameters": {
+      "Assessment questions": "",
+      "Assessment frequency": "",
+      "Notification settings": ""
+    }
+  },
+  "Information Provision": {
+    "parameters": {
+      "Information content": "",
+      "Information format": "",
+      "Care team input": ""
+    }
+  },
+  "Sensory Preparation": {
+    "parameters": {
+      "Sensory information": "",
+      "Sensory preparation guidance": "",
+      "Care team input": ""
+    }
+  },
+  "Family Support Resources": {
+    "parameters": {
+      "Resource listings": "",
+      "Resource request process": "",
+      "Care team input": ""
+    }
+  }
+}

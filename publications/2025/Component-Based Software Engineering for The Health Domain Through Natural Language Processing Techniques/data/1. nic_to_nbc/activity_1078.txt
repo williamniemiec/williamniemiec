@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Symptom Tracker": {
+    "Parameters": {
+      "Symptoms": [
+        "Increased heart rate",
+        "Increased respiratory rate",
+        "Increased blood pressure",
+        "Diaphoresis",
+        "Changes in mental status"
+      ],
+      "Frequency": ["daily", "everyHours", "everyDays"],
+      "Deadline Date": {"Type": "datetime"},
+      "Notes": {"Type": "text"}
+    }
+  }
+}

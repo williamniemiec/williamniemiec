@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "Optimal Communication Positioning": {
+    "Parameters": {
+      "Instructions": {
+        "Type": "text"
+      },
+      "Tips": {
+        "Type": "list",
+        "Examples": ["face the patient directly", "maintain good lighting", "minimize distractions"]
+      },
+      "Lighting": {
+        "Type": "options",
+        "Options": ["natural light", "bright artificial light", "soft artificial light"]
+      },
+      "Reminder": {
+        "Type": "options",
+        "Options": ["daily", "weekly", "monthly", "onlyOnce"]
+      }
+    }
+  }
+}

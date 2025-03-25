@@ -1,0 +1,10 @@
+{
+  "name": "Fluid Administration and Expander Usage",
+  "description": "Involves fluid administration using expanders and reservoirs, monitoring volume, and dosage. Includes controlling the amount of fluid administered and ensuring proper thickening of the fluid as necessary.",
+  "type": "periodic",
+  "input": ["Fluid administration", "Volume control", "Expander use", "Thickening dosage", "Reservoir management"],
+  "output": ["Fluid volume report", "Expander usage feedback", "Dosage confirmation"],
+  "preconditions": ["User is administering or monitoring fluid intake or dosage"],
+  "postconditions": ["Fluid levels and volume control are maintained"],
+  "dependencies": ["Fluid administration system", "Expander tools", "Dosage management"]
+}

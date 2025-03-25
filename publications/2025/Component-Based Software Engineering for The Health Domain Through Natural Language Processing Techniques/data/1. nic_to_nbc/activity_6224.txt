@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+  "Device Switch": {
+    "Parameters": {
+      "Current Device": {
+        "Type": "options"
+      },
+      "Comfort Issues": {
+        "Type": "list of options"
+      },
+      "Alternate Devices": {
+        "Type": "list of options"
+      },
+      "Decision Tree": {
+        "Type": "interactive guide or decision tree"
+      },
+      "Device Instructions": {
+        "Type": "list of HTML texts or interactive tutorial steps"
+      }
+    }
+  }
+}
+
+
+Let me know if this meets your requirements!

@@ -1,0 +1,10 @@
+{
+  "name": "Spiritual and Religious Support",
+  "description": "Supports spiritual practices, including rituals, prayer, and meditation. Facilitates reflection, forgiveness, and engagement with clergy, rooted in religious traditions and spiritual growth.",
+  "type": "non-periodic",
+  "input": ["Spiritual rituals", "Prayer sessions", "Forgiveness practice", "Meditation techniques", "Clergy involvement"],
+  "output": ["Spiritual support feedback", "Reflection journal", "Forgiveness and prayer outcomes"],
+  "preconditions": ["User is engaged in spiritual or religious practice"],
+  "postconditions": ["Spiritual growth and emotional support are achieved through religious practices"],
+  "dependencies": ["Spiritual guidance system", "Meditation platform", "Religious practice resources"]
+}

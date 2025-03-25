@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+  "Memory Stimulus": {
+    "Last Expressed Thought": {
+      "Description": "Enter the patient's last expressed thought or idea",
+      "Required": true,
+      "Type": "text"
+    },
+    "Repeat and Reflect": {
+      "Description": "The app will repeat the patient's last expressed thought and ask them to reflect on it",
+      "Required": true,
+      "Type": "conversational prompt",
+      "Prompt": "You said [last expressed thought]. Can you tell me more about that?"
+    },
+    "Frequency": {
+      "Description": "How often the patient would like to engage in this memory stimulation activity",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "daily", "label": "Daily" },
+        { "value": "weekly", "label": "Weekly" },
+        { "value": "monthly", "label": "Monthly" }
+      ]
+    }
+  }
+}

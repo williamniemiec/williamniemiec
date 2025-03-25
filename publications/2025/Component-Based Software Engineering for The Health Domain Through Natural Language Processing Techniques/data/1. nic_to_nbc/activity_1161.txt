@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Fluid Balance Tracker": {
+    "parameters": {
+      "name": {"type": "text"},
+      "intake": {"type": "table", "columns": ["date", "time", "type of fluid", "amount"]},
+      "output": {"type": "table", "columns": ["date", "time", "type of fluid", "amount"]},
+      "balance": {"type": "calculated field"},
+      "frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "deadline_date": {"type": "datetime"}
+    }
+  }
+}

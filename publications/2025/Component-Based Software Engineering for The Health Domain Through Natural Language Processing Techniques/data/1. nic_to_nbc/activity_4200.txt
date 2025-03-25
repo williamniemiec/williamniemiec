@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+  "Willingness Assessment": {
+    "parameters": [
+      {
+        "name": "willingness",
+        "description": "Client's willingness to have a massage",
+        "required": true,
+        "type": "options",
+        "options": [
+          { "value": "yes", "label": "Yes" },
+          { "value": "no", "label": "No" },
+          { "value": "undecided", "label": "Undecided" }
+        ]
+      },
+      {
+        "name": "reason",
+        "description": "Reason for willingness or unwillingness",
+        "required": false,
+        "type": "text"
+      }
+    ]
+  }
+}

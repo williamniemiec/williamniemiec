@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Reflection Journal": {
+    "Parameters": {
+      "Reflection Prompts": {"Type": "list of text"},
+      "Journal Entries": {"Type": "list of journal entry formats"},
+      "Guided Questions": {"Type": "list of guided questions"},
+      "Reflection Frequency": {"Type": "list of reflection frequencies"},
+      "Deadline Date": {"Type": "datetime"},
+      "Motivational Message": {"Type": "text"}
+    }
+  }
+}

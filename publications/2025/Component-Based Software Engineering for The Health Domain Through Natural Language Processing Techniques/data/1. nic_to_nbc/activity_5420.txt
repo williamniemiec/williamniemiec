@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Personal Responsibility Plan",
+    "parameters": [
+        {
+            "name": "goals",
+            "type": "list of text"
+        },
+        {
+            "name": "actions",
+            "type": "list of text"
+        },
+        {
+            "name": "accountability",
+            "type": "text"
+        },
+        {
+            "name": "check-ins",
+            "type": "options"
+        },
+        {
+            "name": "reminders",
+            "type": "boolean"
+        }
+    ]
+}

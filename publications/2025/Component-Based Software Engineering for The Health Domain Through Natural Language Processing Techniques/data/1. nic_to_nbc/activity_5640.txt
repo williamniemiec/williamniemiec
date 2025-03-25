@@ -1,0 +1,36 @@
+Here is the output in JSON format:
+
+
+{
+  "Guide": {
+    "parameters": {
+      "name": "Specimen Collection and Preservation Guide",
+      "pages": "",
+      "completion_status": ""
+    }
+  },
+  "Task": {
+    "parameters": {
+      "name": "Specimen Collection Task",
+      "content": "Please collect and preserve a specimen according to institutional procedures",
+      "frequency": "",
+      "deadline_date": ""
+    }
+  },
+  "Checklist": {
+    "parameters": {
+      "name": "Specimen Collection and Preservation Checklist",
+      "items": "",
+      "completion_status": ""
+    }
+  },
+  "Photo": {
+    "parameters": {
+      "name": "Specimen Photo",
+      "frequency": "",
+      "deadline_date": ""
+    }
+  }
+}
+
+Note that I removed the `not applicable` parameters and only kept the ones that were specified in the input text.

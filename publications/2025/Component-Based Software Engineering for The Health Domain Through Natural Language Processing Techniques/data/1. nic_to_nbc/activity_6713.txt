@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+    "Call Light Accessibility": {
+        "Parameters": {
+            "Call Light Location": {"Type": "options", "Options": ["Within reach of the patient", "Out of reach of the patient"]},
+            "Call Light System Marking": {"Type": "options", "Options": ["Yes, marked to indicate patient cannot speak", "No, not marked"]},
+            "Communication Needs": {"Type": "text"},
+            "Frequency": {"Type": "options", "Options": ["Daily", "Shiftly", "Only when necessary"]}
+        }
+    }
+}
+
+
+I removed the `Deadline Date` parameter as it's not applicable in this context. Let me know if you need any further assistance!

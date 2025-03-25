@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+    "Problem Identification": {
+        "Parameters": {
+            "Problem Type": {"Type": "text"},
+            "Problem Description": {"Type": "text"},
+            "Impact": {"Type": "text"}
+        }
+    },
+    "Barrier Assessment": {
+        "Parameters": {
+            "Barrier Type": {"Type": "text"},
+            "Barrier Description": {"Type": "text"},
+            "Severity": {"Type": "text"}
+        }
+    },
+    "Self-Care Regimen Challenges": {
+        "Parameters": {
+            "Challenge Type": {"Type": "text"},
+            "Challenge Description": {"Type": "text"},
+            "Frequency": {"Type": "text"}
+        }
+    }
+}

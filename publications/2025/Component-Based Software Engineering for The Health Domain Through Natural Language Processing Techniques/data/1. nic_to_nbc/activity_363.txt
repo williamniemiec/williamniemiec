@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Exercise Tolerance/Intolerance Recognition": {
+    "Parameters": {
+      "Signs and Symptoms": {"Type": "list of options"},
+      "Exercise Session": {"Type": "options"},
+      "Recognition Instructions": {"Type": "text with multimedia support"},
+      "Action Plan": {"Type": "text with multimedia support"}
+    }
+  }
+}

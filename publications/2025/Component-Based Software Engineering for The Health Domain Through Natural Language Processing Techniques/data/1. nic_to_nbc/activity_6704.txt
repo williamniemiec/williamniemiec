@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+    "Reminder": {
+        "Parameters": {
+            "Name": "NPO Reminder",
+            "Description": "Remember to refrain from eating and drinking as instructed",
+            "Frequency": "pre-operative or as needed"
+        }
+    },
+    "Task": {
+        "Parameters": {
+            "Name": "NPO Task",
+            "Description": "Refrain from eating and drinking as instructed",
+            "Instructions": "Do not eat or drink anything after [insert time] to ensure your safety during the surgical procedure",
+            "Frequency": "pre-operative or as needed"
+        }
+    }
+}

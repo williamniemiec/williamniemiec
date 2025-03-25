@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Physical Injury Assessment": {
+    "cuts": "boolean",
+    "bruises": "boolean",
+    "bleeding": "boolean",
+    "lacerations": "boolean",
+    "other_injuries": "text"
+  }
+}

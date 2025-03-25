@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+{
+  "Hair Loss Planning Guide": {
+    "Parameters": {
+      "Content": {"Type": "text or HTML"},
+      "Images": {"Type": "list of images"},
+      "Alternatives": {"Type": "list of text"},
+      "Resources": {"Type": "list of URLs or resources"}
+    }
+  }
+}

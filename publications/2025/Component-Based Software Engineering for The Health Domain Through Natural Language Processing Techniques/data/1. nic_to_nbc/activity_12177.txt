@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Clothing Options": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Clothing Items": {"Type": "unordered list", "Options": ["Shirts", "Pants", "Dresses", "Skirts", "Socks", "Undergarments"]},
+      "Sizes": {"Type": "object", "Properties": ["Small", "Medium", "Large", "Extra Large"]},
+      "Colors": {"Type": "object", "Properties": ["Red", "Blue", "Green", "Yellow"]},
+      "Fabrics": {"Type": "object", "Properties": ["Cotton", "Polyester", "Linen", "Silk"]},
+      "Notes": {"Type": "text"}
+    }
+  }
+}

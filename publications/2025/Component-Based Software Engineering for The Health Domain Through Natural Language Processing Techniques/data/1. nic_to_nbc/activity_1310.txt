@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Infection Awareness": {
+    "Parameters": {
+      "Content": {"Type": "text"},
+      "Format": {"Type": "options"},
+      "Target Audience": {"Type": "options"}
+    }
+  }
+}

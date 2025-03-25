@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Strength Identification": {
+    "Prompt": {"Type": "text"},
+    "Answer Type": {"Type": "options"}
+  },
+  "Behavioral Achievement": {
+    "Achievement": {"Type": "text"},
+    "Recognition Message": {"Type": "text"}
+  },
+  "Goal Reinforcement": {
+    "Goal": {"Type": "text"},
+    "Motivational Message": {"Type": "text"}
+  }
+}

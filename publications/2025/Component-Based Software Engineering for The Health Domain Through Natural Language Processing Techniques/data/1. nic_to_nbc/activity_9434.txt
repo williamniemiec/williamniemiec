@@ -1,0 +1,34 @@
+Here is the output in JSON format:
+
+
+{
+    "Cultural Sensitivity Module": {
+        "Name": {"Type": "text"},
+        "Description": {"Type": "text"},
+        "Cultural Competence Principles": {"Type": "text or HTML content"},
+        "Traditions and Beliefs": {"Type": "list of text or HTML content"},
+        "Sensitivity Strategies": {"Type": "list of text or HTML content"},
+        "Case Studies": {"Type": "list of text or HTML content"},
+        "Resources": {"Type": "list of URLs or file attachments"}
+    },
+    "Cultural Competence Module": {
+        "Name": {"Type": "text"},
+        "Description": {"Type": "text"},
+        "Cultural Competence Principles": {"Type": "text or HTML content"}
+    },
+    "Traditions and Beliefs Module": {
+        "Name": {"Type": "text"},
+        "Description": {"Type": "text"},
+        "Traditions and Beliefs": {"Type": "list of text or HTML content"}
+    },
+    "Sensitivity Strategies Module": {
+        "Name": {"Type": "text"},
+        "Description": {"Type": "text"},
+        "Sensitivity Strategies": {"Type": "list of text or HTML content"}
+    },
+    "Case Studies Module": {
+        "Name": {"Type": "text"},
+        "Description": {"Type": "text"},
+        "Case Studies": {"Type": "list of text or HTML content"}
+    }
+}

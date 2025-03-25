@@ -1,0 +1,25 @@
+
+
+
+{
+    "Privacy Setting": {
+        "Parameters": {
+            "Privacy Level": {
+                "Type": "options",
+                "Options": ["private", "semi-private", "shared"]
+            },
+            "Room Configuration": {
+                "Type": "options",
+                "Options": ["curtains drawn", "screen in place", "door closed"]
+            },
+            "Noise Level": {
+                "Type": "options",
+                "Options": ["quiet", "moderate", "loud"]
+            },
+            "Visual Barriers": {
+                "Type": "options",
+                "Options": ["blinds closed", "shades drawn"]
+            }
+        }
+    }
+}

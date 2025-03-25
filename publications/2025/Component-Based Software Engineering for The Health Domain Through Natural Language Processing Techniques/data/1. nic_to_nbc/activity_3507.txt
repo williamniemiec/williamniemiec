@@ -1,0 +1,28 @@
+Here is the output in JSON format, removing everything except `{{ PARAMETER ESPECIFICATIONS }}` and `{{ NO-CODE ELEMENT NAME }}`, and not including not applicable parameters:
+
+
+{
+    "name": "HRT Reason",
+    "parameters": [
+        {
+            "name": "HRT Goals",
+            "type": "list of text"
+        },
+        {
+            "name": "Symptom Severity",
+            "type": "scale (e.g. 1-5)"
+        },
+        {
+            "name": "Medical History",
+            "type": "text"
+        },
+        {
+            "name": "Lifestyle Factors",
+            "type": "list of text"
+        },
+        {
+            "name": "Personal Preferences",
+            "type": "list of text"
+        }
+    ]
+}

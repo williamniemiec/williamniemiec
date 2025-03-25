@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Hypokalemia Education": {
+    "Education Content": {},
+    "Instructions": {},
+    "Quiz": {},
+    "Notes": {}
+  }
+}

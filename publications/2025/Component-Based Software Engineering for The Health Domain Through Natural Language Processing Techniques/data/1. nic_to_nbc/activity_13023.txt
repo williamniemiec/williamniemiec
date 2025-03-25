@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "Respiratory Pattern Tracker": {
+    "Parameters": {
+      "Respiratory Rate": {"Type": "number"},
+      "Depth of Breathing": {"Type": "options"},
+      "Pattern": {"Type": "options"}
+    }
+  },
+  "Symptom Checker": {
+    "Parameters": {
+      "Symptom List": {"Type": "multi-select"},
+      "Severity": {"Type": "options"},
+      "Frequency": {"Type": "options"}
+    }
+  },
+  "Question": {
+    "Parameters": {
+      "Question": {"Type": "text"},
+      "Answer Type": {"Type": "options"}
+    }
+  }
+}

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Hand Antisepsis Guide": {
+    "Protocol": {"type": ["text", "video"]},
+    "Step-by-Step Instructions": {"type": ["video", "interactive tutorial"]},
+    "Timing": {"type": ["text", "timer"]},
+    "Product Information": {"type": ["text", "image"]}
+  }
+}
+
+
+Note: I removed the `Quality Control` parameter as it is not applicable since its type is a boolean or rating scale, which doesn't fit with the other parameters that are all related to content.

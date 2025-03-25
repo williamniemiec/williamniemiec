@@ -1,0 +1,38 @@
+Here is the output in JSON format:
+
+
+{
+  "Belief Reframe": {
+    "Initial Belief": {
+      "Description": "Initial question to prompt the patient to reflect on their existing beliefs",
+      "Required": true,
+      "Type": "text"
+    },
+    "Situation": {
+      "Description": "Space for the patient to describe the situation they're struggling with",
+      "Required": true,
+      "Type": "text"
+    },
+    "Reframe": {
+      "Description": "Guided reflection question to help the patient reframe their situation using their existing beliefs",
+      "Required": true,
+      "Type": "text"
+    },
+    "Reflection": {
+      "Description": "Space for the patient to reflect on their new insights and perspectives",
+      "Required": true,
+      "Type": "text"
+    },
+    "Frequency": {
+      "Description": "How often the patient should practice reframing their situation using their existing beliefs",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "daily", "label": "Daily" },
+        { "value": "onlyOnce", "label": "Only once" },
+        { "value": "everyHours", "label": "Every x hours" },
+        { "value": "everyDays", "label": "Every x days" }
+      ]
+    }
+  }
+}

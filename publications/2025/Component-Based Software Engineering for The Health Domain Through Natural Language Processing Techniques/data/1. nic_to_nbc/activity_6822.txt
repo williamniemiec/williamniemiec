@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Instrument Calibration": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Description": {"Type": "text"},
+      "Instrument List": {"Type": "options"},
+      "Calibration Frequency": {"Type": "options"},
+      "Calibration Method": {"Type": "text"},
+      "Calibration Results": {"Type": "text"},
+      "Notes": {"Type": "text"}
+    }
+  }
+}

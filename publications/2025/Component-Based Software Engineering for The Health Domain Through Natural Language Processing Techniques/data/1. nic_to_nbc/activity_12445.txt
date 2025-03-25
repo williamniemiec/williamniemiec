@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Agency Notification": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Description": {"Type": "text"},
+      "Agency Types": {"Type": "options", "Options": []},
+      "Reason": {"Type": "options", "Options": []},
+      "Contact Information": {"Type": "text or link to external resource"},
+      "Notification Method": {"Type": "options", "Options": []},
+      "Deadline Date": {"Type": "datetime"}
+    }
+  }
+}

@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Caregiver Assignment": {
+    "Parameters": {
+      "Caregivers": {
+        "Description": "List of assigned professional caregivers",
+        "Required": true,
+        "Type": "list"
+      },
+      "Schedule": {
+        "Description": "Schedule of caregiver assignments",
+        "Required": true,
+        "Type": "schedule"
+      }
+    }
+  }
+}

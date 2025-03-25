@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Trance State History": {
+    "Parameters": {
+      "Daydreaming Frequency": {},
+      "Daydreaming Duration": {},
+      "Highway Hypnosis Experience": {},
+      "Other Trance States": {},
+      "Trance State Description": {},
+      "Trance State Impact": {}
+    }
+  }
+}

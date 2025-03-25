@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Bed Safety Device Guide": {
+    "Guide Title": {},
+    "Devices": {},
+    "Instructions": {},
+    "Illustrations": {}, 
+    "Frequency": {},
+    "Deadline Date": {}
+  }
+}

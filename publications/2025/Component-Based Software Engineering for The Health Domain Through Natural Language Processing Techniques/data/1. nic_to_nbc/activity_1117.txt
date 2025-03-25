@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+  "Content Tailoring": {
+    "parameters": {
+      "Cognitive Abilities": {"type": "options"},
+      "Psychomotor Abilities": {"type": "options"},
+      "Affective Abilities": {"type": "options"},
+      "Disabilities": {"type": "options"},
+      "Content Complexity": {"type": "options"},
+      "Content Format": {"type": "options"},
+      "Content Language": {"type": "options"},
+      "Tailored Content": {"type": "text or multimedia content"},
+      "Frequency": {"type": "options"},
+      "Deadline Date": {"type": "datetime"}
+    }
+  }
+}
+
+
+Let me know if this meets your requirements!

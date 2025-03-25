@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+    "Guided Hand Movement": {
+        "hand_movement_guidance": {"type": "text or multimedia"},
+        "contact_maintenance_text": {"type": "text"},
+        "hand_placement_animation": {"type": "animation or visualization"},
+        "practice_exercise": {"type": "interactive exercise"}
+    }
+}

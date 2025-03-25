@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "ovulation tracker": {
+    "Basal Body Temperature": {"type": "temperature input field with chart or graph"},
+    "Vaginal Secretions": {"type": "input field for noting changes in vaginal secretions with chart or graph"},
+    "Physiological Indicators": {"type": "input fields for noting changes in physiological indicators with chart or graph"},
+    "Ovulation Prediction": {"type": "algorithm that analyzes tracked data to predict ovulation"},
+    "Resources": {"type": "list of resources with links or embedded content"},
+    "Frequency": {"options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"type": "datetime"}
+  }
+}

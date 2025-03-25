@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+  "Nausea Relief Strategies": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Strategy Types": {"Type": "unordered list"},
+      "Dietary Changes": {"Type": "form (with multiple questions)"},
+      "Relaxation Techniques": {"Type": "form (with multiple questions)"},
+      "Medication": {"Type": "form (with multiple questions)"},
+      "Other Strategies": {"Type": "form (with multiple questions)"},
+      "Rating Scale": {"Type": "options"},
+      "Personalized Plan": {"Type": "text"},
+      "Frequency": {"Type": "options"},
+      "Deadline Date": {"Type": "datetime"}
+    }
+  }
+}
+
+
+Let me know if you'd like me to make any changes!

@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+  "Education Profile": {
+    "parameters": {
+      "name": "",
+      "fields": [
+        {"highest_level_of_education": ""},
+        {"field_of_study": ""},
+        {"years_of_education": ""}
+      ],
+      "answer_type": ""
+    }
+  },
+  "Question": {}
+}
+
+
+Let me know if this meets your requirements!

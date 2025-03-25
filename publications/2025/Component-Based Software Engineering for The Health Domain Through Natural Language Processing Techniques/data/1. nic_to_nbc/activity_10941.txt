@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Emotion Expression Tool": {
+    "Parameters": {
+      "Emotion Identification": {},
+      "Expression Method": {},
+      "Guided Questions": {},
+      "Coping Strategies": {},
+      "Frequency": {}
+    }
+  }
+}

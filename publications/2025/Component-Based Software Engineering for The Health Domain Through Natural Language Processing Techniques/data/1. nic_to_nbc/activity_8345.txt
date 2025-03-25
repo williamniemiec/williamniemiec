@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+    "Light Control": {
+        "Current Light Level": {"type": "options"},
+        "Desired Light Level": {"type": "options"},
+        "Action Plan": {"type": "text"},
+        "Reminder": {"type": "options"}
+    }
+}

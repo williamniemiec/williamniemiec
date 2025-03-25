@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+  "Academic Goal Setter": {
+    "Parameters": {
+      "Academic Goal": {
+        "Type": "text",
+        "Required": true
+      },
+      "Goal Setting": {
+        "Type": "text/html",
+        "Required": true
+      },
+      "Motivational Messages": {
+        "Type": "text/html",
+        "Required": true
+      },
+      "Progress Tracking": {
+        "Type": "datetime",
+        "Required": true
+      }
+    }
+  }
+}
+
+
+I removed the non-applicable parameters (Reward System and Academic Resources) as they have `Required: false`. Let me know if this is what you were looking for!

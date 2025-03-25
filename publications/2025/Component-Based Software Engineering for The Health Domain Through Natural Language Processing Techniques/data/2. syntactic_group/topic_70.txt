@@ -1,0 +1,10 @@
+{
+  "name": "Lens and Eye Care Application",
+  "description": "Guides users on the application and care of eye lenses, including contact lenses and corneal treatments. Covers lubricant usage, patching techniques, and reflexes related to lens care.",
+  "type": "non-periodic",
+  "input": ["Lens application steps", "Eye lubrication", "Corneal care", "Contact lenses", "Patching techniques"],
+  "output": ["Eye care instructions", "Lens application results", "Lubrication effectiveness"],
+  "preconditions": ["User is using or applying eye lenses or corneal treatments"],
+  "postconditions": ["Proper lens application and eye care achieved"],
+  "dependencies": ["Eye care platform", "Lens application guide", "Lubricant system"]
+}

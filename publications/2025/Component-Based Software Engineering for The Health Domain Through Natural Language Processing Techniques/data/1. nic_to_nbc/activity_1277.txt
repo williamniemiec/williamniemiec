@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+    "Airway Management": {
+        "Parameters": {
+            "Airway Positioning": {"Description": "Record the positioning of the patient to keep the airway open", "Required": true, "Type": "text"},
+            "Airway Clearance": {"Description": "Record the method used to clear the airway", "Required": true, "Type": "options", "Options": ["Suctioning", "Manual removal of debris", "Other (specify)"]},
+            "Ventilation Status": {"Description": "Record the patient's ventilation status", "Required": true, "Type": "text"}
+        }
+    }
+}
+
+
+Note that I removed the not applicable parameters (`Oxygen Therapy`, `Deadline Date`, and `Reminder`) as per your request.

@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+  "Caregiver Resource Directory": {
+    "Resource Type": {
+      "type": "options",
+      "options": ["counseling", "respite care", "financial assistance", "etc."]
+    },
+    "Resource Name": {
+      "type": "text"
+    },
+    "Resource Description": {
+      "type": "text"
+    },
+    "Contact Information": {
+      "type": "text or link"
+    },
+    "Eligibility Criteria": {
+      "type": "text"
+    },
+    "Rating and Reviews": {
+      "type": "rating scale and text"
+    }
+  }
+}

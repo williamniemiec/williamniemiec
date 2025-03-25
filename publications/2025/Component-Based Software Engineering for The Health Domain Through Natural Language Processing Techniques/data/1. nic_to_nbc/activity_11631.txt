@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Splint Care Guide": {
+    "Name": {"type": "text"},
+    "Splint Type": {"type": "options"},
+    "Care Instructions": {"type": "text or video"},
+    "Tips and Precautions": {"type": "text or list"},
+    "Frequency of Cleaning": {"type": "options"},
+    "Cleaning Instructions": {"type": "text or video"},
+    "Troubleshooting": {"type": "text or FAQ"}
+  }
+}

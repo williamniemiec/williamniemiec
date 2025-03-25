@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Drainage Apparatus Change": {
+    "Parameters": {
+      "Instructions": {"Type": "text or unordered list"},
+      "Frequency": {"Options": ["daily", "everyHours", "everyDays", "as indicated by healthcare provider"]},
+      "Agency Protocol": {"Type": "text or reference to external document"},
+      "Drainage Apparatus Type": {"Options": ["urinary drainage bag", "urometer", "other"]},
+      "Tracking": {"Type": "boolean"},
+      "Healthcare Provider Notification": {"Type": "boolean"}
+    }
+  }
+}

@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Emotional Expression": {
+    "Parameters": {
+      "Emotion": ["Grief", "Anger"],
+      "Alteration type": ["Body functioning", "Body appearance"],
+      "Expression method": ["Verbal expression", "Written expression", "Artistic expression"],
+      "Support system": ["Family support", "Friend support", "Mental health professional"],
+      "Frequency": ["daily", "onlyOnce", "everyHours", "everyDays"]
+    }
+  }
+}
+
+
+Note that I removed the `Deadline Date` parameter as it had a specific type (`datetime`) and no applicable values were provided.

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Parameters": {
+    "Messaging": {"Type": "messaging system"},
+    "Forum": {"Type": "forum"},
+    "Notification System": {"Type": "notification system"},
+    "Agency Directory": {"Type": "directory"},
+    "Resource Sharing": {"Type": "file sharing"},
+    "Event Calendar": {"Type": "calendar"}
+  },
+  "No-code Element Name": "Community Communication"
+}

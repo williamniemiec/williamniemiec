@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Music Experience Purpose": {
+    "Purpose Text": {"type": "text"},
+    "Purpose Type": {"type": "options", "options": ["relaxation", "stimulation", "pain management", "mood enhancement", "etc."]},
+    "Expected Outcomes": {"type": "text"},
+    "Instructions": {"type": "text"}
+  }
+}

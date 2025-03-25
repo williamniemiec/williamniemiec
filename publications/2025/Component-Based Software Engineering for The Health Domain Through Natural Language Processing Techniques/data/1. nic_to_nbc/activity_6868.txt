@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+  "Energy Conservation Guide": {
+    "Activity Level": {
+      "type": "options",
+      "options": ["low", "moderate", "high"]
+    },
+    "Energy Conservation Tips": {
+      "type": "list",
+      "items": ["take regular breaks", "avoid strenuous activities", "etc."]
+    },
+    "Activity Limitations": {
+      "type": "list",
+      "items": ["heavy lifting", "bending", "etc."]
+    },
+    "Energy Monitoring": {
+      "type": "text",
+      "input": "patient's self-reported energy level (e.g., low, moderate, high)"
+    }
+  }
+}

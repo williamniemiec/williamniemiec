@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Antishivering Medication": {
+    "Parameters": {
+      "Medication": {
+        "Type": "options"
+      },
+      "Dosage": {
+        "Type": "text"
+      },
+      "Frequency": {
+        "Type": "options"
+      },
+      "Indications": {
+        "Type": "text"
+      }
+    }
+  }
+}

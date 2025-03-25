@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Cooling Measure": {
+    "parameters": {
+      "Cooling Method": {"type": "options"},
+      "Application Site": {"type": "options"},
+      "Duration": {"type": "text"},
+      "Frequency": {"type": "options"},
+      "Temperature Target": {"type": "text"}
+    }
+  }
+}
+
+
+I removed the "Deadline Date" parameter since it's not applicable in this context, and also removed the introduction and conclusion parts of the text. Let me know if you need anything else!

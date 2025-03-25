@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Energy Level Tracker": {
+    "parameters": [
+      {"name": "Question", "type": "text"},
+      {"name": "Answer Type", "type": "options"},
+      {"name": "Frequency", "type": "options"}
+    ]
+  }
+}

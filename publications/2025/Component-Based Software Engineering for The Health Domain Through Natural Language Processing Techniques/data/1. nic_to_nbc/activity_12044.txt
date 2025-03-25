@@ -1,0 +1,29 @@
+Here is the output in JSON format:
+
+
+{
+  "Toileting Interval Increase": {
+    "parameters": {
+      "Missed Toileting Threshold": {
+        "type": "options",
+        "options": [
+          {"value": "2", "label": "2 or more times"},
+          {"value": "custom", "label": "Custom threshold"}
+        ]
+      },
+      "Custom Threshold": {
+        "type": "text"
+      },
+      "Interval Increase": {
+        "type": "options",
+        "options": [
+          {"value": "halfHour", "label": "Increase by 30 minutes"},
+          {"value": "custom", "label": "Custom increase"}
+        ]
+      },
+      "Custom Increase": {
+        "type": "text"
+      }
+    }
+  }
+}

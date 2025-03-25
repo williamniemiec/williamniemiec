@@ -1,0 +1,10 @@
+{
+  "name": "Health and Healthcare Provider Engagement",
+  "description": "Focuses on enhancing communication between healthcare professionals and patients through secure messaging channels and tools. Encourages continuous engagement through coaching and feedback mechanisms.",
+  "type": "periodic",
+  "input": ["Health", "Healthcare providers", "Messaging channels", "Secure tools", "Coaching", "Professional engagement"],
+  "output": ["Health engagement report", "Provider feedback", "Secure communication logs"],
+  "preconditions": ["User is engaged with healthcare professionals or services"],
+  "postconditions": ["Improved healthcare communication and patient engagement"],
+  "dependencies": ["Healthcare messaging platform", "Coaching tools", "Secure communication systems"]
+}

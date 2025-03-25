@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Family Challenge": {
+    "Challenge Topic": {},
+    "Challenge Question": {},
+    "Discussion Prompts": {},
+    "Goal Setting": {},
+    "Accountability": {},
+    "Resources": {}
+  }
+}

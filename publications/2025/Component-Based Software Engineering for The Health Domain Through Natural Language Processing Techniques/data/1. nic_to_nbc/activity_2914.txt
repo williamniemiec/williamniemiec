@@ -1,0 +1,44 @@
+Here is the output in JSON format:
+
+
+{
+    "Instruction": {
+        "parameters": {
+            "name": "Hold still during venipuncture",
+            "content": "Guidance on holding still during venipuncture",
+            "type": "text"
+        }
+    },
+    "Video Demonstration": {
+        "parameters": {
+            "name": "Holding still during venipuncture",
+            "videos": ["list of video demonstrations"],
+            "type": "video"
+        }
+    },
+    "Interactive Guide": {
+        "parameters": {
+            "name": "Holding still guide",
+            "pages": ["list of interactive pages"],
+            "type": "interactive-page"
+        }
+    },
+    "Reminder": {
+        "parameters": {
+            "name": "Hold still reminder",
+            "message": "Remember to hold still during venipuncture",
+            "frequency": ["customizable frequency"],
+            "type": "reminder"
+        }
+    },
+    "Breathing Exercise": {
+        "parameters": {
+            "name": "Relaxation breathing exercise",
+            "exercise": "Guided breathing exercise",
+            "type": "breathing-exercise"
+        }
+    }
+}
+
+
+I removed all the unnecessary parts and kept only the `{{ NO-CODE ELEMENT NAME }}` and `{{ PARAMETER ESPECIFICATIONS }}`. I also reformatted it to be a JSON object, with each no-code element as a key, and its parameters as an object value.

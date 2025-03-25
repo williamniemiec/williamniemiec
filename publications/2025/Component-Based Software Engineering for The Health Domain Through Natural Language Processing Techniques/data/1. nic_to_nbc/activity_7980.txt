@@ -1,0 +1,68 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Crisis Support Skills Trainer",
+  "parameters": [
+    {
+      "name": "title",
+      "description": "Title of the crisis support skills trainer"
+    },
+    {
+      "name": "crisis_situations",
+      "description": "List of crisis situations to simulate",
+      "list_items": [
+        {
+          "label": "Suicidal thoughts",
+          "value": "Simulation of suicidal thoughts crisis situation"
+        },
+        {
+          "label": "Panic attack",
+          "value": "Simulation of panic attack crisis situation"
+        },
+        {
+          "label": "Traumatic event",
+          "value": "Simulation of traumatic event crisis situation"
+        }
+      ]
+    },
+    {
+      "name": "support_skills",
+      "description": "List of crisis support skills to teach",
+      "list_items": [
+        {
+          "label": "Active listening",
+          "value": "Description of active listening skill"
+        },
+        {
+          "label": "Empathy",
+          "value": "Description of empathy skill"
+        },
+        {
+          "label": "Problem-solving",
+          "value": "Description of problem-solving skill"
+        }
+      ]
+    },
+    {
+      "name": "simulation_scenarios",
+      "description": "Simulation scenarios to practice crisis support skills",
+      "list_items": [
+        {
+          "label": "Scenario 1",
+          "value": "Simulation scenario 1"
+        },
+        {
+          "label": "Scenario 2",
+          "value": "Simulation scenario 2"
+        },
+        {
+          "label": "Scenario 3",
+          "value": "Simulation scenario 3"
+        }
+      ]
+    }
+  ]
+}
+
+I removed the unnecessary parts and kept only the `name` and `parameters` sections, as per your request. Let me know if you need further modifications!

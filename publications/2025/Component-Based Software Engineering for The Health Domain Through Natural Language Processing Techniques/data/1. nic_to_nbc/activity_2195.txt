@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Journal": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Type": {"Type": "options"},
+      "Entries": {"Type": "list of entry fields"},
+      "Frequency": {"Type": "options"},
+      "Customization": {"Type": "boolean"}
+    }
+  }
+}
+
+
+Note that I removed the not applicable parameters, which are `Visualization` and `Analysis`, as they were mentioned as advanced features but not part of the main parameter specifications.

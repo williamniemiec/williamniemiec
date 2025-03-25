@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Injection Guidance": {
+    "parameters": [
+      {"name": "dose", "description": "specify the dose of the injection", "required": true, "type": "text"},
+      {"name": "frequency", "description": "specify how often the injection should be administered", "required": true, "type": "options", "options": [
+        {"value": "daily", "label": "Daily"},
+        {"value": "onlyOnce", "label": "Only once"},
+        {"value": "everyHours", "label": "Every x hours"},
+        {"value": "everyDays", "label": "Every x days"}
+      ]},
+      {"name": "deadline_date", "description": "specify the due date of the injection", "required": false, "type": "datetime"}
+    ]
+  }
+}

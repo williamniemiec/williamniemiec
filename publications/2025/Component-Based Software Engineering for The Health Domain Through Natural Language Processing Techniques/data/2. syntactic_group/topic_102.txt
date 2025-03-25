@@ -1,0 +1,10 @@
+{
+  "name": "Deadline and Survey Tracking",
+  "description": "Manages deadlines for survey responses, including answer submission, journal prompts, and survey frequency. Keeps track of question deadlines and responses to ensure timely completion.",
+  "type": "non-periodic",
+  "input": ["Survey deadlines", "Answer tracking", "Journal prompts", "Frequency tracking", "Questionnaire progress"],
+  "output": ["Survey completion report", "Questionnaire feedback", "Prompt reminder system"],
+  "preconditions": ["User is engaged in answering surveys or journal prompts"],
+  "postconditions": ["Survey and journal responses collected on time"],
+  "dependencies": ["Survey management system", "Deadline tracking tools", "Response monitoring platform"]
+}

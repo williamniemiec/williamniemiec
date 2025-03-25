@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+    "Mindful Interaction": {
+        "Name": {"type": "text"},
+        "Script": {"type": "text", "example": "Take a deep breath in... and out... Focus on the present moment... Let go of any preoccupying thoughts or concerns... Imagine yourself fully engaged in the conversation..."},
+        "Duration": {"type": "number (in minutes or seconds)"},
+        "Tips": {"type": "list of text", "example": ["Maintain eye contact", "Avoid interrupting", "Paraphrase what the other person is saying", "etc."]}
+    },
+    "Reflection": {
+        "Name": {"type": "text"},
+        "Prompt": {"type": "text", "example": "What are some things that might distract me from fully engaging in this conversation? What biases or assumptions might I need to set aside?"},
+        "Response": {"type": "text"}
+    }
+}

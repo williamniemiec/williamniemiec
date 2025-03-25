@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Strengths Identification": {
+    "Parameters": {
+      "Strengths": {},
+      "Examples": {},
+      "Importance": {
+        "Options": [
+          { "Value": 0, "Label": "Not important at all" },
+          { "Value": 50, "Label": "Somewhat important" },
+          { "Value": 100, "Label": "Very important" }
+        ]
+      },
+      "Reflection": {}
+    }
+  }
+}

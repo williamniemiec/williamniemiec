@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Tube Marking Guide": {
+    "parameters": [
+      {"Marking Method": {}},
+      {"Marking Location": {}},
+      {"Verification": {}},
+      {"Frequency": {}}
+    ]
+  }
+}

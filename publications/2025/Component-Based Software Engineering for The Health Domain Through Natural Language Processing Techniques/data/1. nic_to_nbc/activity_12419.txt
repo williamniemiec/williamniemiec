@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Wound Care Guide": {
+    "Parameters": {
+      "Title": {"Type": "text"},
+      "Content": {"Type": ["text", "HTML"]},
+      "Wound Type": {"Type": ["stermal incision", "catheterization site", "..."]},
+      "Care Instructions": {"Type": ["cleaning", "dressing", "..."]},
+      "Precautions": {"Type": ["avoid submerging in water", "..."]},
+      "Frequency": {"Type": ["daily", "every other day", "..."]},
+      "Deadline Date": {"Type": "datetime"},
+      "Images/Videos": {"Type": ["list of URLs or embedded media"]}
+    }
+  }
+}

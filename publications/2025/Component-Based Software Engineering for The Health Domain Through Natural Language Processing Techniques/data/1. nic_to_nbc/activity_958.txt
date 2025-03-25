@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+  "Self-Motivation and Reinforcement": {
+    "parameters": {
+      "Goal Setting": {"type": "text"},
+      "Reinforcement Strategy": {"type": "options", "options": [
+        {"value": "positiveSelfTalk", "label": "Positive Self-Talk"},
+        {"value": "rewardSystem", "label": "Reward System"},
+        {"value": "other", "label": "Other"}
+      ]},
+      "Motivational Techniques": {"type": "options", "options": [
+        {"value": "visualization", "label": "Visualization"},
+        {"value": "affirmations", "label": "Affirmations"},
+        {"value": "other", "label": "Other"}
+      ]},
+      "Frequency": {"type": "options", "options": [
+        {"value": "daily", "label": "Daily"},
+        {"value": "weekly", "label": "Weekly"},
+        {"value": "monthly", "label": "Monthly"}
+      ]},
+      "Deadline Date": {"type": "datetime"},
+      "Resources": {"type": "file or URL"},
+      "Instructions": {"type": "text or video"}
+    }
+  }
+}

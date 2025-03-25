@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+    "Newborn Care Guide": {
+        "Content": {"Type": ["text", "images", "videos", "interactive simulations"]},
+        "Modules": {"Type": "list of modules"},
+        "Quizzes": {"Type": ["multiple-choice", "true/false", "open-ended questions"]},
+        "Tips and Reminders": {"Type": ["text", "images", "audio reminders"]}
+    },
+    "Guide": {
+        "Name": {"Type": "string"},
+        "Pages": {"Type": ["list of HTML texts or multimedia"]},
+        "Modules": {"Type": "list of modules"}
+    }
+}

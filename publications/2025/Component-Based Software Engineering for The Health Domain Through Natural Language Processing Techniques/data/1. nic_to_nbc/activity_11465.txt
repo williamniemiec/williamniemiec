@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "Complication Monitoring": {
+    "parameters": [
+      {"name": "complications", "description": "List of potential complications to monitor", "required": true, "type": "checklist", "options": [
+        {"value": "consumptionCoagulopathy", "label": "Consumption Coagulopathy"},
+        {"value": "renalFailure", "label": "Renal Failure"},
+        {"value": "hypothermia", "label": "Hypothermia"},
+        {"value": "pulmonaryEdema", "label": "Pulmonary Edema"},
+        {"value": "hyperkalemia", "label": "Hyperkalemia"},
+        {"value": "neurologicalSequelae", "label": "Neurological Sequelae"},
+        {"value": "muscleNecrosis", "label": "Muscle Necrosis"},
+        {"value": "reoccurrenceOfSymptoms", "label": "Reoccurrence of Symptoms"}
+      ]},
+      {"name": "frequency", "description": "How often to monitor for complications", "required": true, "type": "options", "options": [
+        {"value": "daily", "label": "Daily"},
+        {"value": "everyHours", "label": "Every x hours"},
+        {"value": "everyDays", "label": "Every x days"}
+      ]},
+      {"name": "reporting", "description": "What to do if a complication is detected", "required": true, "type": "text"}
+    ]
+  }
+}

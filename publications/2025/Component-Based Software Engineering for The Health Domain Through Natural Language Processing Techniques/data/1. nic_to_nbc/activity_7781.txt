@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Suction Guidance": {
+    "parameters": {
+      "Suction Technique": {},
+      "Suction Frequency": {},
+      "Suction Depth": {},
+      "Suction Pressure": {},
+      "Post-Suction Care": {}
+    }
+  }
+}

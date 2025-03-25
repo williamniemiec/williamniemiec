@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Goal Setting": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Description": {"Type": "text"},
+      "Short-term Goals": {"Type": "text"},
+      "Long-term Goals": {"Type": "text"},
+      "Goal Type": {"Type": "options", "Options": ["performance", "appearance", "health-related", "etc."]},
+      "Target Date": {"Type": "datetime"},
+      "Motivation": {"Type": "text"},
+      "Barriers": {"Type": "text"},
+      "Action Plan": {"Type": "text"}
+    }
+  }
+}
+
+
+Let me know if you need any further assistance!

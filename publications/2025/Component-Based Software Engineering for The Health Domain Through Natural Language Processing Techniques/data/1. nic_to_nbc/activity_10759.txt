@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+{
+    "name": "Hydraulic Lift Guide",
+    "parameters": [
+        {
+            "name": "Lift Instructions",
+            "type": "ordered list"
+        },
+        {
+            "name": "Safety Precautions",
+            "type": "unordered list"
+        },
+        {
+            "name": "Patient Preparation",
+            "type": "unordered list"
+        },
+        {
+            "name": "Frequency",
+            "type": "options"
+        }
+    ]
+}

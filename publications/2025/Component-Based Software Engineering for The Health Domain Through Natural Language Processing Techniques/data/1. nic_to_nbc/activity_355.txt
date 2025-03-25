@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Personalized Activity": {
+    "Activity Type": {"type": "options"},
+    "Activity Content": {"type": "text or multimedia content"},
+    "Patient Needs": {"type": "text or options"},
+    "Activity Level": {"type": "options"},
+    "Frequency": {"type": "options"},
+    "Deadline Date": {"type": "datetime"}
+  }
+}

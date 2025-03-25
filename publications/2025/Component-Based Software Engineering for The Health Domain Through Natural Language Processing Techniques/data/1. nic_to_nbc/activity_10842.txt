@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Gait Coaching": {
+    "Goal Setting": {},
+    "Progress Tracking": {},
+    "Motivational Messages": {},
+    "Video Feedback": {},
+    "Frequency": {},
+    "Deadline Date": {}
+  }
+}

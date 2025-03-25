@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+  "Amnioinfusion Contraindications": {
+    "Contraindications": {
+      "Description": "List of potential contraindications for amnioinfusion",
+      "Required": true,
+      "Type": "unordered list",
+      "Unordered list": "List of text items (e.g., amnionitis, polyhydramnios, multiple gestation, severe fetal distress, fetal scalp pH, 7.20, known fetal anomaly, known uterine anomaly)"
+    },
+    "Decision Tree": {
+      "Description": "Questions to guide decision-making on amnioinfusion contraindications",
+      "Required": true,
+      "Type": "decision tree",
+      "Decision tree": "List of conditional questions with possible answers (e.g., yes/no, multiple choice)"
+    }
+  }
+}
+
+
+Note: I removed the "Rationale" parameter since it was marked as not required.

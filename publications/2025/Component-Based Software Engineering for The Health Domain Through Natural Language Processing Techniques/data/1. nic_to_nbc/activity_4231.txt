@@ -1,0 +1,32 @@
+Here is the output in JSON format:
+
+
+{
+  "Food Safety Checklist": {
+    "Checklist Name": {
+      "Description": "Name of the food safety checklist",
+      "Required": true,
+      "Type": "text"
+    },
+    "Items": {
+      "Description": "List of items to check for safe food preparation",
+      "Required": true,
+      "Type": "list of text or options"
+    },
+    "Frequency": {
+      "Description": "How often the patient should complete the checklist",
+      "Required": true,
+      "Type": "options"
+    },
+    "Reminders": {
+      "Description": "Optional reminders to encourage the patient to complete the checklist",
+      "Required": false,
+      "Type": "boolean"
+    },
+    "Additional Resources": {
+      "Description": "Optional additional resources for food safety education",
+      "Required": false,
+      "Type": "text or link"
+    }
+  }
+}

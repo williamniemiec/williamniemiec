@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Cuff Pressure Check": {
+    "Trigger Events": {
+      "type": "options",
+      "options": ["general anesthesia", "endotracheal tube manipulation", "other"]
+    },
+    "Check Frequency": {
+      "type": "text"
+    },
+    "Pressure Log": {
+      "type": "table or chart"
+    },
+    "Reminder": {
+      "type": "options",
+      "options": ["immediate", "15 minutes after", "30 minutes after", "custom schedule"]
+    }
+  }
+}

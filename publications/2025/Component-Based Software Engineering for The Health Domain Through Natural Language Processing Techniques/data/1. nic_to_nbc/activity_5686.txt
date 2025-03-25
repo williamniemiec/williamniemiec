@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Urinary Drainage Characteristics": {
+    "Parameters": {
+      "Instructions": {},
+      "Characteristics": {},
+      "Frequency": {},
+      "Tracking": {},
+      "Healthcare Provider Notification": {}
+    }
+  }
+}

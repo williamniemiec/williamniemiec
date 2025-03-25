@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Referral": {
+    "Title": "Referral to Ear Care Specialist",
+    "Content": "You have been referred to an ear care specialist for further evaluation and treatment of your ear condition.",
+    "Reason": "Ear infection or other ear-related condition requiring specialized care",
+    "Contact Info": "Dr. Smith, Ear Care Specialist, 555-555-5555, [email address]",
+    "Frequency": "onlyOnce"
+  }
+}

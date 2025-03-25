@@ -1,0 +1,90 @@
+Here is the output in JSON format:
+
+
+{
+  "Emotional Abuse Screening": {
+    "parameters": {
+      "Self-Esteem Assessment": [
+        "Confidence level",
+        "Self-worth",
+        "Body language"
+      ],
+      "Depression Assessment": [
+        "Mood",
+        "Appetite",
+        "Sleep patterns"
+      ],
+      "Humiliation and Defeat Assessment": [
+        "Verbal reports of feelings",
+        "Body language",
+        "Behavioral changes"
+      ],
+      "Cautious Behavior Assessment": [
+        "Avoidance behaviors",
+        "Fearful behavior",
+        "Submissive behavior"
+      ],
+      "Aggression Assessment": [
+        "Verbal reports of feelings",
+        "Behavioral changes",
+        "Suicidal gestures or attempts"
+      ],
+      "Risk Score": {
+        "type": "score (e.g., 1-5)"
+      },
+      "Frequency": {
+        "options": [
+          "daily",
+          "onlyOnce",
+          "everyHours",
+          "everyDays"
+        ]
+      },
+      "Deadline Date": {
+        "type": "datetime"
+      }
+    }
+  },
+  "Self-Esteem Assessment": {
+    "parameters": {
+      "Confidence level": null,
+      "Self-worth": null,
+      "Body language": null
+    }
+  },
+  "Depression Assessment": {
+    "parameters": {
+      "Mood": null,
+      "Appetite": null,
+      "Sleep patterns": null
+    }
+  },
+  "Humiliation and Defeat Assessment": {
+    "parameters": {
+      "Verbal reports of feelings": null,
+      "Body language": null,
+      "Behavioral changes": null
+    }
+  },
+  "Cautious Behavior Assessment": {
+    "parameters": {
+      "Avoidance behaviors": null,
+      "Fearful behavior": null,
+      "Submissive behavior": null
+    }
+  },
+  "Aggression Assessment": {
+    "parameters": {
+      "Verbal reports of feelings": null,
+      "Behavioral changes": null,
+      "Suicidal gestures or attempts": null
+    }
+  },
+  "Risk Score Calculation": {
+    "parameters": {
+      "Risk Score": {
+        "type": "score (e.g., 1-5)"
+      }
+    }
+  }
+}

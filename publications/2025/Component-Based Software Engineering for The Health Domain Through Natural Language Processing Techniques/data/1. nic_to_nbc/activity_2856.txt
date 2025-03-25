@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Concentration Exercise": {
+    "Exercise Type": ["card matching", "puzzle", "memory game", "attention task"],
+    "Game Configuration": {"type": "JSON object"},
+    "Instructions": {"type": "text"},
+    "Difficulty Level": ["easy", "medium", "hard"],
+    "Frequency": ["daily", "onlyOnce", "everyHours", "everyDays"],
+    "Deadline Date": {"type": "datetime"},
+    "Feedback": ["yes", "no"],
+    "Scoring": ["percentage correct", "number of correct answers", "time taken to complete"]
+  }
+}
+
+
+Let me know if you need any further assistance!

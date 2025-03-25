@@ -1,0 +1,13 @@
+
+
+
+{
+  "Goal Setting": {
+    "Parameters": {
+      "Goal type": {"Type": "options"},
+      "Goal description": {"Type": "text"},
+      "Target date": {"Type": "datetime"},
+      "Notes": {"Type": "text"}
+    }
+  }
+}

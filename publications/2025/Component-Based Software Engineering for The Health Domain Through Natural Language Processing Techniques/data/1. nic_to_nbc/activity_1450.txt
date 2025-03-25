@@ -1,0 +1,15 @@
+
+
+
+{
+  "Allergy Check": {
+    "parameters": {
+      "name": "Analgesic Allergy Check",
+      "description": "Check for allergy to analgesic medication",
+      "medication_name": "Analgesic",
+      "question": "Are you allergic to [medication_name]?",
+      "answer_type": "Boolean",
+      "follow_up": "If Yes, do not administer [medication_name]. If No, proceed with administration."
+    }
+  }
+}

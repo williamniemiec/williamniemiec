@@ -1,0 +1,21 @@
+
+
+
+{
+"Location": {
+        "parameters": [
+            {
+                "name": "location",
+                "description": "Enter the address or select a location on the map",
+                "required": true,
+                "type": "address" or "map coordinates"
+            },
+            {
+                "name": "notes",
+                "description": "Add any additional notes or instructions",
+                "required": false,
+                "type": "text"
+            }
+        ]
+    }
+}

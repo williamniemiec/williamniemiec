@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+  "Message": {
+    "parameters": {
+      "name": "Emotional Support Message",
+      "content": "A brief message of support and understanding, e.g. \"We understand that this can be a difficult time for you and your family. Please know that we are here to support you and provide any guidance we can.\"",
+      "frequency": "As needed, or at specific milestones (e.g. when the graft is determined not to have taken)"
+    }
+  },
+  "Task": {
+    "parameters": {
+      "name": "Emotional Support Task",
+      "content": "A brief description of the task, e.g. \"Please reach out to our counseling services or a support group to talk to someone about your feelings and concerns.\"",
+      "frequency": "As needed, or at specific milestones (e.g. when the graft is determined not to have taken)"
+    }
+  }
+}
+
+
+I removed all unnecessary text and kept only the `{{ NO-CODE ELEMENT NAME }}` and `{{ PARAMETER ESPECIFICATIONS }}`. I also removed the `deadline_date` parameter since it was marked as "Not applicable" in both cases. Let me know if this is what you were looking for!

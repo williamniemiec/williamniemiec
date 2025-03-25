@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Relaxation Activity Plan": {
+    "parameters": [
+      {"Name": {"type": "text"}},
+      {"Activity Type": {"type": "options", "options": []}},
+      {"Activity Schedule": {"type": "schedule"}},
+      {"Frequency": {"type": "options", "options": []}},
+      {"Resources": {"type": "resource"}}
+    ]
+  }
+}

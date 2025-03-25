@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Skin-to-Skin Support": {
+    "Tips": {"type": "text or HTML"},
+    "Resources": {"type": "list of URLs or PDFs"},
+    "Tracking": {"type": "boolean (true/false) or a tracking mechanism"},
+    "Q&A": {"type": "text or HTML"},
+    "Community": {"type": "forum or discussion board"}
+  }
+}

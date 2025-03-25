@@ -1,0 +1,35 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Spiritual Resource",
+    "parameters": [
+        {
+            "name": "Resource Type",
+            "type": "options",
+            "options": [
+                { value: "prayer", label: "Prayer" },
+                { value: "meditation", label: "Meditation" },
+                { value: "scripture", label: "Scripture" },
+                { value: "other", label: "Other" }
+            ]
+        },
+        {
+            "name": "Frequency",
+            "type": "options",
+            "options": [
+                { value: "daily", label: "Daily" },
+                { value: "weekly", label: "Weekly" },
+                { value: "as needed", label: "As needed" }
+            ]
+        },
+        {
+            "name": "Resource Content",
+            "type": "text or multimedia"
+        },
+        {
+            "name": "Reflection Prompt",
+            "type": "text"
+        }
+    ]
+}

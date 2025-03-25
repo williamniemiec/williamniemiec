@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Symptom Tracker": {
+    "parameters": {
+      "Symptom List": {"type": "text"},
+      "Symptom Severity": {"type": "rating scale"},
+      "Symptom Frequency": {"type": "text or interactive tracker"},
+      "Trigger Alerts": {"type": "alert system"}
+    }
+  }
+}

@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+    "examination": {
+        "parameters": [
+            {"name": "title", "description": "examination title"},
+            {"name": "body_area", "description": "body area to examine (e.g. skin)"},
+            {"name": "findings", "description": "list of possible findings"}
+        ]
+    }
+}

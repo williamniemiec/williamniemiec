@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Observation Level Assessment": {
+    "Patient Status": {},
+    "Vital Signs": {},
+    "Level of Consciousness": {},
+    "Risk Factors": {}
+  },
+  "Observation Level Determination": {
+    "Observation Level": {},
+    "Rationale": {},
+    "Date and Time": {}
+  }
+}

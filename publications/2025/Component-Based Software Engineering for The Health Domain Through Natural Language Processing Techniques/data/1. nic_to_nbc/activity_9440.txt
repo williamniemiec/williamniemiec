@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+    "Expectoration Guidance": {
+        "Deep Breathing Instructions": {},
+        "Expectoration Technique": {},
+        "Frequency": {},
+        "Tips and Reminders": {}
+    }
+}

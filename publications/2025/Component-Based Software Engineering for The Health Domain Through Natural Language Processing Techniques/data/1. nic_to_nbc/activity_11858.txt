@@ -1,0 +1,40 @@
+Here is the output in JSON format:
+
+
+{
+    "Catheterization Schedule": {
+        "Schedule Name": {
+            "Description": "Name of the catheterization schedule",
+            "Required": true,
+            "Type": "text"
+        },
+        "Frequency": {
+            "Description": "How often catheterization should be performed",
+            "Required": true,
+            "Type": "options",
+            "Options": [
+                { "value": "daily", "label": "Daily" },
+                { "value": "everyOtherDay", "label": "Every other day" },
+                { "value": "every2days", "label": "Every 2 days" },
+                { "value": "every3days", "label": "Every 3 days" },
+                { "value": "custom", "label": "Custom" }
+            ]
+        },
+        "Time of Day": {
+            "Description": "Preferred time of day for catheterization",
+            "Required": false,
+            "Type": "options",
+            "Options": [
+                { "value": "morning", "label": "Morning" },
+                { "value": "afternoon", "label": "Afternoon" },
+                { "value": "evening", "label": "Evening" },
+                { "value": "custom", "label": "Custom" }
+            ]
+        },
+        "Notes": {
+            "Description": "Additional notes or instructions for the catheterization schedule",
+            "Required": false,
+            "Type": "text"
+        }
+    }
+}

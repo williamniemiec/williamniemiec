@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Instruction": {
+        "parameters": {
+            "name": "Use of wall suction",
+            "content": "Use the lowest amount of wall suction necessary to remove secretions (e.g., 80 to 120 mm Hg for adults)",
+            "type": "text",
+            "required": true
+        }
+    }
+}

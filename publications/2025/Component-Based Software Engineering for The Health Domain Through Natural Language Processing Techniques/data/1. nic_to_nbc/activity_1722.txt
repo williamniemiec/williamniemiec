@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Skill Reinforcer": {
+    "parameters": {
+      "Skill Name": {"type": "text"},
+      "Skill Description": {"type": "text"},
+      "Reinforcement Type": {"type": "options", "options": ["video", "image", "text", "quiz"]},
+      "Reinforcement Content": {"type": "varies"},
+      "Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"type": "datetime"},
+      "Tracking Progress": {"type": "boolean"}
+    }
+  }
+}

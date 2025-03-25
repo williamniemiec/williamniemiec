@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+  "Recovery Tracker": {
+    "symptoms": {
+      "type": "ordered list",
+      "parameters": {
+        "name": {"type": "text"},
+        "description": {"type": "text or HTML"}
+      }
+    },
+    "tracking_frequency": {
+      "type": "options",
+      "options": ["daily", "every 2 hours", "every 4 hours", "etc"]
+    },
+    "reporting": {
+      "type": "options",
+      "options": ["text", "numeric scale", "checkbox", "etc"]
+    }
+  }
+}

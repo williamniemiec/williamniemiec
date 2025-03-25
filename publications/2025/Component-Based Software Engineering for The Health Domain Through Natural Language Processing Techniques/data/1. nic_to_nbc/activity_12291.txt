@@ -1,0 +1,29 @@
+Here is the output in JSON format:
+
+
+{
+  "Interaction Monitoring": {
+    "Parameters": {
+      "Interaction Type": ["Verbal communication", "Non-verbal communication", "Physical interaction"],
+      "Observation Criteria": ["Patient behavior", "Caretaker behavior", "Interaction dynamics"],
+      "Recording Method": ["Written notes", "Audio recordings", "Video recordings"],
+      "Frequency": ["daily", "onlyOnce", "everyHours", "everyDays"],
+      "Deadline Date": "datetime"
+    }
+  },
+  "Interaction Type Specification": {
+    "Parameters": {
+      "Interaction Type": ["Verbal communication", "Non-verbal communication", "Physical interaction"]
+    }
+  },
+  "Observation Criteria Specification": {
+    "Parameters": {
+      "Observation Criteria": ["Patient behavior", "Caretaker behavior", "Interaction dynamics"]
+    }
+  },
+  "Recording Method Specification": {
+    "Parameters": {
+      "Recording Method": ["Written notes", "Audio recordings", "Video recordings"]
+    }
+  }
+}

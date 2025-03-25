@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Caretaker Reliance Assessment": {
+    "Primary Caretaker": {"Type": "text"},
+    "Caregiver Burden": {"Type": "options", "Options": ["High", "Moderate", "Low"]},
+    "Physical Care Assistance": {"Type": "options", "Options": ["Extensive", "Moderate", "Minimal"]},
+    "Monitoring Requirements": {"Type": "options", "Options": ["Frequent", "Occasional", "Rarely"]},
+    "Reliance on Single Caretaker": {"Type": "options", "Options": ["Yes", "No"]},
+    "Alternative Care Arrangements": {"Type": "options", "Options": ["Yes", "No"]}
+  }
+}

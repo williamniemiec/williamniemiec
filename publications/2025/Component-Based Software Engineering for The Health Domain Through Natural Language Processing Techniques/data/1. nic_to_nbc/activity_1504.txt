@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Activity": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Description": {"Type": "text"},
+      "Instructions": {"Type": "text"},
+      "Frequency": {"Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"Type": "datetime"},
+      "Media": {"Type": "audio/video"}
+    }
+  }
+}

@@ -1,0 +1,37 @@
+Here is the output in JSON format:
+
+
+{
+  "home safety assessment": {
+    "Home Safety Concerns": {
+      "Description": "Identify potential home safety concerns",
+      "Required": true,
+      "Type": "checklist",
+      "Options": [
+        { "value": "fallRisk", "label": "Fall Risk" },
+        { "value": "fireHazard", "label": "Fire Hazard" },
+        { "value": "poisoningRisk", "label": "Poisoning Risk" },
+        { "value": "electricalHazard", "label": "Electrical Hazard" }
+      ]
+    },
+    "Home Safety Interventions": {
+      "Description": "Select home safety interventions to implement",
+      "Required": true,
+      "Type": "checklist",
+      "Options": [
+        { "value": "installHandrails", "label": "Install Handrails" },
+        { "value": "improveLighting", "label": "Improve Lighting" },
+        { "value": "secureRugs", "label": "Secure Rugs" },
+        { "value": "storeMedicationsSafely", "label": "Store Medications Safely" }
+      ]
+    },
+    "Additional Safety Measures": {
+      "Description": "Enter any additional safety measures to implement",
+      "Required": false,
+      "Type": "text"
+    }
+  }
+}
+
+
+I removed all unnecessary information and kept only the `{{ NO-CODE ELEMENT NAME }}` and `{{ PARAMETER ESPECIFICATIONS }}`. I also removed the "Not Applicable" parameters. Let me know if you need any further assistance!

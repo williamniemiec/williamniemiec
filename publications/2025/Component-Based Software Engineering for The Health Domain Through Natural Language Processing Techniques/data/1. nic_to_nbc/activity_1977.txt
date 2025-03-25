@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Reassurance Message": {
+    "Message": {"type": "text"},
+    "Type": {"options": ["general", "selfCare", "infantCare"]},
+    "Frequency": {"options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"type": "datetime"}
+  }
+}

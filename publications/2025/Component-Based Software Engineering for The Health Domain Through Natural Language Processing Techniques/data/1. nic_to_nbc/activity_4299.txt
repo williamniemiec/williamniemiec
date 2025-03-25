@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Authenticity Builder": {
+        "Self-disclosure type": {"Type": "options", "Options": ["personal experience", "emotional struggle", "vulnerability", "etc."]},
+        "Relevance to patient": {"Type": "text"},
+        "Trust-building goal": {"Type": "options", "Options": ["increase patient engagement", "improve communication", "establish rapport", "etc."]},
+        "Frequency": {"Type": "options", "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]}
+    }
+}
+
+
+Note that I removed the `Deadline date` parameter since it's not applicable in this context. Let me know if you have any further questions!

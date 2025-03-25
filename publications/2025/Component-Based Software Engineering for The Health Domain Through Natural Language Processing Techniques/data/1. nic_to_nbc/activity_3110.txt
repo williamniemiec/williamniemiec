@@ -1,0 +1,10 @@
+
+
+
+{
+  "NO-CODE ELEMENT NAME": "",
+  "PARAMETER ESPECIFICATIONS": ""
+}
+
+
+Note: Since there are no specific parameter specifications mentioned in the input text, I left it empty. Also, since there is no no-code element associated with this intervention, I left the NO-CODE ELEMENT NAME field empty as well.

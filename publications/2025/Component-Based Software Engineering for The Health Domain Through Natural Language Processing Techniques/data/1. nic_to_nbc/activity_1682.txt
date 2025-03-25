@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Caffeine Tracker": {
+    "Parameters": {
+      "Name": {},
+      "Caffeinated Items": {},
+      "Caffeine Content": {},
+      "Daily Limit": {},
+      "Frequency": {}
+    }
+  }
+}

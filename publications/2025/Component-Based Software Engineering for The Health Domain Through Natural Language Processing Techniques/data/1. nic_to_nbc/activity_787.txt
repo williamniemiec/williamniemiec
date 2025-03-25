@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Evaluation": {
+    "evaluation_type": {"Type": "options", "Options": ["Formative", "Summative", "Self-assessment", "Other"]},
+    "intervention_activity": {"Type": "text"},
+    "evaluation_criteria": {"Type": "list of text"},
+    "rating_scale": {"Type": "options", "Options": ["Likert scale (e.g., 1-5)", "Numerical scale (e.g., 1-10)", "Custom"]},
+    "evaluation_results": {"Type": "text"},
+    "action_plan": {"Type": "text"}
+  }
+}

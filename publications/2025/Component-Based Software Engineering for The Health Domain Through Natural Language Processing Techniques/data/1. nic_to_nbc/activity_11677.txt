@@ -1,0 +1,32 @@
+Here is the output in JSON format:
+
+
+{
+  "Reflection": {
+    "parameters": {
+      "name": "",
+      "prompt": "",
+      "answer_type": "",
+      "frequency": "",
+      "deadline_date": ""
+    }
+  },
+  "Self-Assessment": {
+    "parameters": {
+      "name": "",
+      "questions": [],
+      "answer_type": "",
+      "frequency": "",
+      "deadline_date": ""
+    }
+  },
+  "Causal Analysis": {
+    "parameters": {
+      "name": "",
+      "prompt": "",
+      "answer_type": "",
+      "frequency": "",
+      "deadline_date": ""
+    }
+  }
+}

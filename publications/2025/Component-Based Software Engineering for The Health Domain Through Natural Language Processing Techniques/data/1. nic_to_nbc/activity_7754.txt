@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Communication Plan Collaboration": {
+    "Collaboration Team": {"type": "options", "options": ["Family members", "Speech language pathologist", "Therapist", "Other healthcare professionals"]},
+    "Communication Goals": {"type": "text"},
+    "Communication Strategies": {"type": "options", "options": ["Using visual aids", "Simplifying language", "Providing written instructions", "Using alternative communication methods (e.g., gestures, symbols)"]},
+    "Family Education": {"type": "text"},
+    "SLP/Therapist Input": {"type": "text"},
+    "Review and Revision": {"type": "options", "options": ["Daily", "Weekly", "Monthly"]},
+    "Deadline Date": {"type": "datetime"}
+  }
+}

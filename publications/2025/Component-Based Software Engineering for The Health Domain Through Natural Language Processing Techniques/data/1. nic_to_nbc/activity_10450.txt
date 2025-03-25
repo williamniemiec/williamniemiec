@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+  "Emotional Support": {
+    "Prompt": {
+      "Description": "optional prompt to encourage individual to express their feelings",
+      "Required": false,
+      "Type": "text"
+    },
+    "Frequency": {
+      "Description": "specify how often the individual should be encouraged to express their feelings",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "daily", "label": "Daily" },
+        { "value": "onlyOnce", "label": "Only once" },
+        { "value": "everyHours", "label": "Every x hours" },
+        { "value": "everyDays", "label": "Every x days" }
+      ]
+    },
+    "Deadline Date": {
+      "Description": "specify the due date for the individual to express their feelings",
+      "Required": false,
+      "Type": "datetime"
+    }
+  }
+}

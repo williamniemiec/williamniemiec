@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+    "Pain Control Management": {
+        "Parameters": {
+            "Pain Level": {"Type": "options", "Options": ["mild", "moderate", "severe", "other"]},
+            "Pharmacologic Options": {"Type": "list of text"},
+            "Non-Pharmacologic Options": {"Type": "list of text"},
+            "Treatment Plan": {"Type": "text"},
+            "Medication Tracker": {"Type": "calendar"},
+            "Non-Pharmacologic Tracker": {"Type": "calendar"},
+            "Pain Diary": {"Type": "text"}
+        }
+    }
+}

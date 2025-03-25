@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Complication Alert": {
+    "name": {"type": "text"},
+    "complications": {"type": "unordered list", "options": ["metabolic alkalosis", "hypernatremia", "volume overload", "decreased oxygen delivery", "decreased cardiac contractility", "enhanced lactic acid production", "etc."]},
+    "description": {"type": "text"},
+    "risk_factors": {"type": "unordered list", "options": ["e.g., pre-existing medical conditions", "medication interactions", "etc."]},
+    "prevention_measures": {"type": "text"},
+    "frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "deadline_date": {"type": "datetime"}
+  }
+}

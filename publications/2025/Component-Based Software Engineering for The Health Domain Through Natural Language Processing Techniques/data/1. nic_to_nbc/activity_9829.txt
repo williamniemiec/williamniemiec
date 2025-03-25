@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Suck Reflex Assessment": {
+    "Name": {"Type": "text"},
+    "Assessment Type": {"Type": "options", "Options": ["rating scale", "yes/no", "descriptive text"]},
+    "Frequency": {"Type": "options", "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"Type": "datetime"},
+    "Rating Scale": {"Type": "options"},
+    "Notes": {"Type": "text"}
+  }
+}

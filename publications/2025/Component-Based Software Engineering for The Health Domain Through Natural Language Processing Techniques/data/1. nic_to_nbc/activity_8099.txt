@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Family Basic Needs Assistant": {
+    "Needs Assessment": ["Housing stability", "Food security", "Clothing and personal care items"],
+    "Resource Connection": ["Housing assistance programs", "Food banks and meal delivery services", "Clothing and personal care item donations"],
+    "Financial Assistance": ["Vouchers for food and clothing", "Rent and utility assistance", "Emergency financial aid"],
+    "Practical Support": ["Meal preparation and delivery", "Household chores and errands", "Childcare and respite care"],
+    "Referral Network": ["Social services agencies", "Non-profit organizations", "Community resources"]
+  }
+}

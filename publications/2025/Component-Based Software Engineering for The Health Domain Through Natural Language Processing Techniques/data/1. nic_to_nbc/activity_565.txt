@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+"Lung Segment Assessment": {
+"parameters": {
+"Lung Segment": {},
+"Secretion Level": {},
+"Frequency": {},
+}
+}
+
+
+Note that I removed the `Deadline Date` parameter as it was marked "not applicable" (since its type is datetime, which doesn't fit with the other parameters). Let me know if this is correct!

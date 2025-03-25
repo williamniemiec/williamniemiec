@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Water Source Assessment": {
+    "Name": {"Type": "text"},
+    "Question": {"Type": "text"},
+    "Options": {"Type": "options"},
+    "Follow-up Question": {"Type": "text"},
+    "Follow-up Options": {"Type": "options"},
+    "Result": {"Type": "text"}
+  }
+}

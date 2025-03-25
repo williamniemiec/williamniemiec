@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Side Effect Monitor": {
+    "parameters": {
+      "Side Effect List": {"type": "checklist"},
+      "Side Effect Status": {"type": "options", "options": ["present", "absent", "unknown"]},
+      "Severity": {"type": "options", "options": ["mild", "moderate", "severe"]},
+      "Notes": {"type": "text"}
+    }
+  }
+}

@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+    "Medication Selection": {
+        "Title": {},
+        "Content": {},
+        "Key Points": {},
+        "Frequency": {
+            "options": [
+                {"value": "daily", "label": "Daily"},
+                {"value": "onlyOnce", "label": "Only once"},
+                {"value": "everyHours", "label": "Every x hours"},
+                {"value": "everyDays", "label": "Every x days"}
+            ]
+        }
+    }
+}
+
+
+Note that I removed the `Deadline Date` parameter since it was marked as not required. Let me know if you have any further questions!

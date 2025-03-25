@@ -1,0 +1,10 @@
+Here is the output in JSON format:
+
+
+{
+    "Health Tracker": {
+        "Vital Signs": {"type": "list of options"},
+        "Medication Administration": {"type": "text or table"},
+        "Tracking Frequency": {"type": "options"}
+    }
+}

@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Heparinized Saline Flush for PICCs": {
+    "parameters": {
+      "name": {"type": "text"},
+      "device_type": {"type": "options"},
+      "instructions": {"type": "text or video"},
+      "frequency": {"type": "options"},
+      "deadline_date": {"type": "datetime"},
+      "heparin_strength": {"type": "text or options"},
+      "volume": {"type": "number"},
+      "in_use": {"type": "boolean"},
+      "confirmation": {"type": "boolean"}
+    }
+  }
+}

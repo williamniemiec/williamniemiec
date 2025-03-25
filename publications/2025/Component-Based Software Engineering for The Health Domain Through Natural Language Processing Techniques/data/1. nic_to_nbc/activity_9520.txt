@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Mouth Check": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Instructions": {"Type": "text"},
+      "Frequency": {"Type": "options", "Options": ["afterEachDose", "daily", "onlyOnce"]},
+      "Deadline Date": {"Type": "datetime"},
+      "Verification Method": {"Type": "options", "Options": ["photo", "video", "self-report"]}
+    }
+  }
+}

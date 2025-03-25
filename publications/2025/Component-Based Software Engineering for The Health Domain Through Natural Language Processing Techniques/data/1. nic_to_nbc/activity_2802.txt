@@ -1,0 +1,32 @@
+Here is the output in JSON format:
+
+
+{
+  "Age-Based Recommendations": {
+    "Parameters": {
+      "Age": {
+        "Description": "Patient's age",
+        "Required": true,
+        "Type": "number"
+      },
+      "Age Group": {
+        "Description": "Patient's age group (e.g., pediatric, adult, geriatric)",
+        "Required": true,
+        "Type": "options",
+        "Options": ["Pediatric (0-18)", "Adult (19-64)", "Geriatric (65+)"]
+      },
+      "Developmental Stage": {
+        "Description": "Patient's developmental stage (e.g., infant, toddler, adolescent, young adult, older adult)",
+        "Required": true,
+        "Type": "options",
+        "Options": ["Infant (0-1)", "Toddler (1-3)", "Preschooler (4-5)", "School-age (6-12)", "Adolescent (13-19)", "Young Adult (20-39)", "Older Adult (40-64)", "Geriatric (65+)"]
+      },
+      "Self-Care Recommendations": {
+        "Description": "Self-care recommendations tailored to the patient's age and developmental stage",
+        "Required": true,
+        "Type": "unordered list",
+        "Options": ["exercise", "meditation", "cognitive training", "socialization", "etc."]
+      }
+    }
+  }
+}

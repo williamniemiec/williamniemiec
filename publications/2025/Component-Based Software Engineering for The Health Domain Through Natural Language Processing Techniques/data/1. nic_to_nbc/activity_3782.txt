@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Warning": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Content": {"Type": "text"},
+      "Trigger": {"Type": "options", "Options": ["when preparing for CVAD insertion", "when selecting insertion site", "always"]},
+      "Image": {"Type": "image"}
+    }
+  }
+}

@@ -1,0 +1,14 @@
+
+
+
+{
+    "Pain Management Plan": {
+        "Parameters": [
+            {"Pain Rating": {"Type": "scale (e.g., 1-10)"}},
+            {"Medication Adherence": {"Type": "options (e.g., yes, no, partially) or text"}},
+            {"Pain Relief": {"Type": "options (e.g., effective, partially effective, not effective) or text"}},
+            {"Side Effects": {"Type": "options (e.g., yes, no) or text"}},
+            {"Follow-up": {"Type": "datetime or text"}}
+        ]
+    }
+}

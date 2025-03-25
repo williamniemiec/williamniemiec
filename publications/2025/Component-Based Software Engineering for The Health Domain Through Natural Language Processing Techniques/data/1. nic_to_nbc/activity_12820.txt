@@ -1,0 +1,14 @@
+
+
+
+{
+  "Stimuli Tracker": {
+    "Parameters": {
+      "Stimuli Type": {},
+      "Current Level": {},
+      "Desired Level": {},
+      "Action Plan": {},
+      "Frequency": {}
+    }
+  }
+}

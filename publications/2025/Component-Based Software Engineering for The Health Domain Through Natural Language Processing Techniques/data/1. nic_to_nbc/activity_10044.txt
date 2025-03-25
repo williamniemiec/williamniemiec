@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Comfort Support": {
+    "parameters": {
+      "Resource Directory": "list of resources",
+      "Support Request": "text",
+      "Referral Tracking": "list of referral logs",
+      "Self-Care Tools": "list of self-care tools"
+    }
+  }
+}

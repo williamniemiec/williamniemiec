@@ -1,0 +1,51 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Interdisciplinary Collaboration",
+    "parameters": [
+        {
+            "name": "Name",
+            "type": "text"
+        },
+        {
+            "name": "Collaboration Team",
+            "type": "list of options",
+            "options": [
+                { value: "family", label: "Family" },
+                { value: "activity therapist", label: "Activity Therapist" },
+                { value: "exercise physiologist", label: "Exercise Physiologist" },
+                { value: "occupational therapist", label: "Occupational Therapist" },
+                { value: "recreational therapist", label: "Recreational Therapist" },
+                { value: "physical therapist", label: "Physical Therapist" }
+            ]
+        },
+        {
+            "name": "Muscle Training Program",
+            "type": "text"
+        },
+        {
+            "name": "Goals and Objectives",
+            "type": "text"
+        },
+        {
+            "name": "Communication Plan",
+            "type": "text"
+        },
+        {
+            "name": "Meeting Schedule",
+            "type": "calendar"
+        },
+        {
+            "name": "Progress Monitoring",
+            "type": "options",
+            "options": [
+                { value: "strength", label: "Strength" },
+                { value: "endurance", label: "Endurance" },
+                { value: "flexibility", label: "Flexibility" }
+            ]
+        }
+    ]
+}
+
+Let me know if you need any further assistance!

@@ -1,0 +1,34 @@
+Here is the output in JSON format:
+
+
+{
+  "Lab Value Monitoring": {
+    "instruction message": {
+      "Description": "Message to instruct the patient to monitor lab values",
+      "Required": true,
+      "Type": "text"
+    },
+    "Lab Values": {
+      "Description": "List of lab values to monitor",
+      "Required": true,
+      "Type": "list",
+      "List items": [
+        { "value": "serumOsmolality", "label": "Serum osmolality" },
+        { "value": "urineOsmolality", "label": "Urine osmolality" },
+        { "value": "sodium", "label": "Sodium" },
+        { "value": "potassium", "label": "Potassium" }
+      ]
+    },
+    "Frequency": {
+      "Description": "Specify how often the patient should monitor lab values",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "daily", "label": "Daily" },
+        { "value": "onlyOnce", "label": "Only once" },
+        { "value": "everyHours", "label": "Every x hours" },
+        { "value": "everyDays", "label": "Every x days" }
+      ]
+    }
+  }
+}

@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+  "Guide": {
+    "parameters": ["name", "pages"]
+  },
+  "Warning": {
+    "parameters": ["name", "content", "type"]
+  },
+  "Medication Control": {
+    "parameters": ["name", "why", "notes", "dosage", "frequency", "deadline_date"]
+  },
+  "Question": {
+    "parameters": ["name", "answer type", "frequency", "deadline_date"]
+  },
+  "Phosphate-Containing Products": {
+    "type": "unordered list or table"
+  },
+  "Alternative Options": {
+    "type": "unordered list or table"
+  },
+  "Medication Review": {
+    "type": "form or table"
+  }
+}

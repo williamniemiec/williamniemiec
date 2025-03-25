@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Feelings Identification": {
+    "Emotion Identification": {"Type": "text", "Example": "How did you feel when the accident happened?"},
+    "Feeling Options": {"Type": "list of options", "Example": ["Angry", "Sad", "Guilty", "Helpless", "Other (please specify)"]},
+    "Responsible Parties": {"Type": "list of text", "Example": ["Myself", "Doctor", "Nurse", "Hospital", "Family member", "Other (please specify)"]},
+    "Displacement Questions": {"Type": "list of text", "Example": ["Are you angry with anyone in particular about what happened?", "Do you feel like someone else is to blame for the accident?", "Have you been criticizing or blaming others for the situation?"]},
+    "Reflection": {"Type": "text", "Example": "It seems that you may be displacing your anger onto the doctor. Let's explore why you feel that way and how it's affecting your relationships."},
+    "Next Steps": {"Type": "text or options", "Example": ["Let's work on reframing your feelings and taking responsibility for your actions.", "Schedule a follow-up appointment to review progress", "Provide additional resources for coping with anger and guilt"]}
+  }
+}
+
+
+Note that I removed the introduction, number, no-code element description, and conclusion sections, as well as any non-parameter specifications. Let me know if this meets your requirements!

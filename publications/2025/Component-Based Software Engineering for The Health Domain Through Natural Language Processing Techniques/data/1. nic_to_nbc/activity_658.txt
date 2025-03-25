@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+
+{
+    "Informed Consent": {
+        "Interaction Process": {"type": "text"},
+        "Consent Request": {"type": "boolean"},
+        "Consent Options": {"type": "options", "options": ["agree", "decline", "moreInfo"]},
+        "Consent Confirmation": {"type": "boolean"}
+    }
+}

@@ -1,0 +1,38 @@
+Here is the output in JSON format:
+
+
+{
+  "Gentle Persuasion": {
+    "gentle persuasion title": {
+      "Description": "title of the gentle persuasion educational content",
+      "Required": true,
+      "Type": "text"
+    },
+    "Content": {
+      "Description": "text explaining the importance of gentle persuasion and how to use it effectively",
+      "Required": true,
+      "Type": "text"
+    },
+    "Frequency": {
+      "Description": "specify how often the patient should be reminded of the importance of gentle persuasion",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "daily", "label": "Daily" },
+        { "value": "onlyOnce", "label": "Only once" },
+        { "value": "everyHours", "label": "Every x hours" },
+        { "value": "everyDays", "label": "Every x days" }
+      ]
+    },
+    "Image": {
+      "Description": "optional image to illustrate the gentle persuasion educational content",
+      "Required": false,
+      "Type": "image"
+    },
+    "Deadline Date": {
+      "Description": "specify the due date for the patient to review the gentle persuasion educational content",
+      "Required": false,
+      "Type": "datetime"
+    }
+  }
+}

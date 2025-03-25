@@ -1,0 +1,35 @@
+Here is the output in JSON format:
+
+
+{
+  "Suctioning Guidance": {
+    "parameters": {
+      "name": "Suctioning Guidance",
+      "description": "Base the duration of each tracheal suction pass on the necessity to remove secretions and the patient’s response to suctioning",
+      "type": "text",
+      "required": true
+    }
+  },
+  "Patient Response Assessment": {
+    "parameters": {
+      "name": "Patient Response",
+      "description": "Assess the patient’s response to suctioning (e.g., tolerance, comfort, oxygen saturation)",
+      "type": "options",
+      "options": [
+        { "value": "tolerating", "label": "Tolerating well" },
+        { "value": "distressed", "label": "Showing signs of distress" },
+        { "value": "other", "label": "Other (please specify)" }
+      ],
+      "required": true
+    }
+  },
+  "Suctioning Duration": {
+    "parameters": {
+      "name": "Suctioning Duration",
+      "description": "Record the duration of each tracheal suction pass",
+      "type": "numeric",
+      "units": "seconds",
+      "required": true
+    }
+  }
+}

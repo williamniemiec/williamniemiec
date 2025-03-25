@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "noCodeElementName": "Relationship Building",
+  "parameters": {
+    "Reflection Prompt": {"type": "text"},
+    "Goal Setting": {"type": "goal setting template"},
+    "Communication Tips": {"type": "list of texts"},
+    "Empathy Exercise": {"type": "exercise template"},
+    "Patience Reminder": {"type": "list of texts"},
+    "Frequency": {
+      "type": "options",
+      "options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+    }
+  }
+}

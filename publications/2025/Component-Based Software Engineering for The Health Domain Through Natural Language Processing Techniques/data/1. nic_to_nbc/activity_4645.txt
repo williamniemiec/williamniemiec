@@ -1,0 +1,29 @@
+Here is the output in JSON format:
+
+
+{
+  "Orientation Assessment": {
+    "Questions": {"type": "list of text questions"},
+    "Answer Type": {"type": "options (e.g., text, date, time)"},
+    "Frequency": {"type": "options (e.g., daily, weekly, monthly)"},
+    "Deadline Date": {"type": "datetime"}
+  },
+  "Cognitive Functioning Assessment": {
+    "Tasks": {"type": "list of text or multimedia tasks"},
+    "Answer Type": {"type": "options (e.g., text, number, selection)"},
+    "Frequency": {"type": "options (e.g., daily, weekly, monthly)"},
+    "Deadline Date": {"type": "datetime"}
+  },
+  "Behavioral Functioning Assessment": {
+    "Questions": {"type": "list of text questions"},
+    "Answer Type": {"type": "options (e.g., text, number, selection)"},
+    "Frequency": {"type": "options (e.g., daily, weekly, monthly)"},
+    "Deadline Date": {"type": "datetime"}
+  },
+  "Quality of Life Assessment": {
+    "Questions": {"type": "list of text questions"},
+    "Answer Type": {"type": "options (e.g., text, number, selection)"},
+    "Frequency": {"type": "options (e.g., daily, weekly, monthly)"},
+    "Deadline Date": {"type": "datetime"}
+  }
+}

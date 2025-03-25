@@ -1,0 +1,16 @@
+
+
+
+{
+  "Lecture": {
+    "Parameters": {
+      "Title": {"Type": "text"},
+      "Content": {"Type": ["video", "audio", "text"]},
+      "Description": {"Type": "text"},
+      "Speaker": {"Type": "text"},
+      "Duration": {"Type": "time"},
+      "Frequency": {"Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"Type": "datetime"}
+    }
+  }
+}

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Medication Crushing and Mixing": {
+        "Parameters": {
+            "Medication Name": {},
+            "Crushing Instructions": {},
+            "Mixing Food": {},
+            "Mixing Ratio": {},
+            "Frequency": {}
+        }
+    }
+}

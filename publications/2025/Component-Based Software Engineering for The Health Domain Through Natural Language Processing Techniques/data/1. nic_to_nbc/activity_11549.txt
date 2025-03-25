@@ -1,0 +1,40 @@
+Here is the output in JSON format:
+
+
+{
+  "Travel Vaccination Advisor": {
+    "parameters": [
+      {
+        "name": "destination_country",
+        "description": "select the destination country",
+        "required": true,
+        "type": "options",
+        "options": [
+          { "value": "USA", "label": "United States" },
+          { "value": "Canada", "label": "Canada" },
+          { "value": "Mexico", "label": "Mexico" }
+        ]
+      },
+      {
+        "name": "travel_duration",
+        "description": "enter the travel duration",
+        "required": true,
+        "type": "number"
+      },
+      {
+        "name": "vaccination_recommendations",
+        "description": "display vaccination recommendations for the destination country",
+        "required": true,
+        "type": "list",
+        "list_items": [
+          { "value": "HepA", "label": "Hepatitis A" },
+          { "value": "HepB", "label": "Hepatitis B" },
+          { "value": "Typhoid", "label": "Typhoid" }
+        ]
+      }
+    ]
+  }
+}
+
+
+I removed all the unnecessary text and only kept the `{{ NO-CODE ELEMENT NAME }}` and `{{ PARAMETER ESPECIFICATIONS }}`. I also removed the "Not Applicable" parameters as per your request. Let me know if you need any further assistance!

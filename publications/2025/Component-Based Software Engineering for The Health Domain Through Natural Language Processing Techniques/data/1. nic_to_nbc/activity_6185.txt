@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Feeding Attention Guide": {
+    "Name": {"type": "text"},
+    "Attention Tips": {"type": "text"},
+    "Distraction Avoidance": {"type": "text"},
+    "Patient Engagement": {"type": "text"}
+  }
+}

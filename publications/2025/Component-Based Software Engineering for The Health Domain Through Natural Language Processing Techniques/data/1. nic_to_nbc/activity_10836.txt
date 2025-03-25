@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Referral": {
+    "Eligibility Criteria": {"type": ["text", "list of criteria"]},
+    "Service Description": {"type": ["text", "multimedia content"]},
+    "Referral Process": {"type": ["text", "multimedia content"]},
+    "Contact Information": {"type": ["text", "multimedia content"]},
+    "Resources": {"type": ["list of text", "multimedia content"]}
+  }
+}

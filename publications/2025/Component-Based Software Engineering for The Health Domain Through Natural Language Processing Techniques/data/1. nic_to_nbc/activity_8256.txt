@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+    "Vision Impact Tracker": {
+        "parameters": {
+            "name": "",
+            "description": "",
+            "assessment_questions": {
+                "risk_of_injury": "",
+                "depression_anxiety": "",
+                "adl_impact": "",
+                "valued_activities": ""
+            },
+            "frequency": "",
+            "tracking_tool": "",
+            "alerts": ""
+        }
+    }
+}
+
+
+Note that I removed the non-applicable parameters and only kept the `parameters` section, as per your request. Let me know if you need any further modifications!

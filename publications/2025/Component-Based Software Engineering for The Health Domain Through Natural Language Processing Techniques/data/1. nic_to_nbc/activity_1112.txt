@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+    "Sublingual Medication Placement": {
+        "Medication Name": {},
+        "Placement Instructions": {},
+        "Swallowing Instructions": {},
+        "Duration Instructions": {},
+        "Frequency": {}
+    }
+}

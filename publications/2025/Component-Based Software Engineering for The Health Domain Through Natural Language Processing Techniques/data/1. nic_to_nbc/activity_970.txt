@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+  "parameters": [
+    {
+      "name": "name",
+      "type": "text"
+    },
+    {
+      "name": "content",
+      "type": "text"
+    },
+    {
+      "name": "image",
+      "type": "image"
+    },
+    {
+      "name": "frequency",
+      "type": "options"
+    },
+    {
+      "name": "deadline_date",
+      "type": "datetime"
+    }
+  ],
+  "NO-CODE ELEMENT NAME": "instruction"
+}

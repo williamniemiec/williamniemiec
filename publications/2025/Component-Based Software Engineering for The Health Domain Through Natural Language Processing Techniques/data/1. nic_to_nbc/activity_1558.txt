@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Skin Puncture": {
+    "parameters": [
+      {"Puncture Device": {"type": "text"}},
+      {"Manufacturer's Specifications": {"type": "text or reference to an external document"}},
+      {"Puncture Technique": {"type": "text or multimedia"}},
+      {"Puncture Location": {"type": "text"}},
+      {"Puncture Depth": {"type": "numeric"}}
+    ]
+  }
+}

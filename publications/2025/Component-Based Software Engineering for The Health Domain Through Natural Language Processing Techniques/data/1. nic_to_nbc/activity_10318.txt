@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+  "Reiki Preparation": {
+    "Parameters": {
+      "Positioning": {
+        "Type": "options",
+        "Options": ["sitting comfortably", "lying down on a massage table"]
+      },
+      "Body Position": {
+        "Type": "options",
+        "Options": ["supine", "prone"]
+      },
+      "Clothing": {
+        "Type": "boolean"
+      }
+    }
+  }
+}
+
+
+I removed the not applicable parameters (`Relaxation` and `Comfort`) as they don't seem to be relevant to the specific intervention described. Let me know if you need anything else!

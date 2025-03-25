@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Newborn Bonding": {
+    "Parameters": {
+      "Instructions": {"Type": "text/html"},
+      "Tips": {"Type": "list of text/html"},
+      "Video": {"Type": "video URL"},
+      "Frequency": {"Options": ["immediately after birth", "every hour", "every 2 hours", "etc."]},
+      "Duration": {"Type": "time interval"}
+    }
+  }
+}

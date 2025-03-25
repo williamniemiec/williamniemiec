@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Ventilation Positioning Guidance": {
+    "parameters": {
+      "Positioning Instructions": {"type": "text"},
+      "Ventilation Goals": {"type": "text"},
+      "Reminder Frequency": {"type": "options"},
+      "Notification Method": {"type": "options"}
+    }
+  }
+}

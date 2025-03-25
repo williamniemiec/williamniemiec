@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Hearing Aid Acquisition": {
+    "Device Type": {},
+    "Vendor Options": {},
+    "Device Comparison": {},
+    "Ordering Process": {},
+    "Follow-up": {}
+  }
+}

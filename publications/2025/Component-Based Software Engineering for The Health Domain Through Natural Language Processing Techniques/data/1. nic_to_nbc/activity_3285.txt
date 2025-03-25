@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Counseling Referral": {
+    "Parameters": {
+      "Counseling Type": {"Type": "options"},
+      "Counselor Information": {"Type": "text"},
+      "Referral Reason": {"Type": "text"},
+      "Referral Method": {"Type": "options"},
+      "Follow-up": {"Type": "boolean"}
+    }
+  }
+}

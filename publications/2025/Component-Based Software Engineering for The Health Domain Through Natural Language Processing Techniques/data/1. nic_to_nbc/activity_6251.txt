@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Supervision and Counseling": {
+    "parameters": {
+      "name": {"type": "text"},
+      "patient": {"type": "text"},
+      "session_type": {"type": "options", "values": ["video", "phone", "in-person", "etc."]},
+      "counseling_topic": {"type": "text"},
+      "frequency": {"type": "options", "values": ["daily", "weekly", "monthly", "etc."]},
+      "deadline_date": {"type": "datetime"}
+    }
+  }
+}

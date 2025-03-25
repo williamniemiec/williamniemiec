@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Privacy Setting": {
+    "parameters": {
+      "name": {"type": "text"},
+      "privacy_level": {"type": "options"},
+      "reason": {"type": "text"},
+      "duration": {"type": "options"}
+    }
+  }
+}

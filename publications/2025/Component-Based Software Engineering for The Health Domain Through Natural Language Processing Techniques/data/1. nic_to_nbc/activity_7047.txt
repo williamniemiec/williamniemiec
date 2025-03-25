@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+  "parameters": [
+    {
+      "name": "Injury Type",
+      "type": "options",
+      "options": ["fireAndElectricalBurns", "suffocationAndAspiration", "poisoning", "falls", "bodilyInjury", "drowning", "motorVehicleInjury"]
+    },
+    {
+      "name": "Prevention Strategies",
+      "type": "list"
+    }
+  ],
+  "elementName": "Injury Prevention Strategies"
+}
+
+
+Note that I removed the `Resources` parameter since it was not applicable, and also removed the descriptions and other unnecessary fields to simplify the output. Let me know if you need any further modifications!

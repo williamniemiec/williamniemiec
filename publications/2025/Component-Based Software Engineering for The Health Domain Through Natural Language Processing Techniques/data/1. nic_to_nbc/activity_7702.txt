@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Summary Document": {
+        "Parameters": {
+            "Summary Text": {"Type": "text"},
+            "Session Date": {"Type": "date"},
+            "Counselor Name": {"Type": "text"},
+            "Session Notes": {"Type": "text"},
+            "Downloadable": {"Type": "boolean"}
+        }
+    }
+}

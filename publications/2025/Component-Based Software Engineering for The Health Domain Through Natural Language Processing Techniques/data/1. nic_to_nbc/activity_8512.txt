@@ -1,0 +1,31 @@
+Here is the output in JSON format:
+
+
+{
+  "Environmental Setting": {
+    "Lighting Level": {
+      "Type": "options",
+      "Options": [
+        { "value": "bright", "label": "Bright" },
+        { "value": "medium", "label": "Medium" },
+        { "value": "dim", "label": "Dim" }
+      ]
+    },
+    "Room Temperature": {
+      "Type": "options",
+      "Options": [
+        { "value": "warm", "label": "Warm" },
+        { "value": "comfortable", "label": "Comfortable" },
+        { "value": "cool", "label": "Cool" }
+      ]
+    },
+    "Noise Level": {
+      "Type": "options",
+      "Options": [
+        { "value": "quiet", "label": "Quiet" },
+        { "value": "moderate", "label": "Moderate" },
+        { "value": "loud", "label": "Loud" }
+      ]
+    }
+  }
+}

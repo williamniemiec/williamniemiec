@@ -1,0 +1,39 @@
+Here is the output in JSON format:
+
+
+{
+    "Safety Symbol": {
+        "parameters": [
+            { 
+                "name": "Name", 
+                "type": "text"
+            },
+            { 
+                "name": "Description", 
+                "type": "text"
+            },
+            { 
+                "name": "Image", 
+                "type": "image"
+            },
+            { 
+                "name": "Frequency", 
+                "type": "options",
+                "options": [
+                    { value: "daily" },
+                    { value: "onlyOnce" },
+                    { value: "everyHours" },
+                    { value: "everyDays" }
+                ]
+            },
+            { 
+                "name": "Deadline Date", 
+                "type": "datetime"
+            },
+            { 
+                "name": "Notes", 
+                "type": "text"
+            }
+        ]
+    }
+}

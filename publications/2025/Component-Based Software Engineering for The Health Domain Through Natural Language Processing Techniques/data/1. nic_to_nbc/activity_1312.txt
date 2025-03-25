@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Breast Inspection Position Guide": {
+    "Position Instructions": {},
+    "Position Images": {},
+    "Position Checklist": {},
+    "Image Capture": {}
+  }
+}
+
+
+I removed the parameters that are not applicable (`Frequency` and `Deadline Date`) as per your instructions. Let me know if you have any further requests!

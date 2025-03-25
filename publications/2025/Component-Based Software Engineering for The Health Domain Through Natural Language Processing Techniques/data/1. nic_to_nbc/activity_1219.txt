@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Grief Support": {
+    "parameters": {
+      "Loss Type": {"type": "options"},
+      "Emotional Support": {"type": "options"},
+      "Reflection Prompts": {"type": "list of text"},
+      "Journaling": {"type": "boolean"},
+      "Frequency": {"type": "options"}
+    }
+  }
+}

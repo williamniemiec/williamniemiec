@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Time Planner": {
+    "Goal": {"type": "text"},
+    "Task List": {"type": "list", "items": {"description": "", "estimated time required": "", "priority level": ""}},
+    "Time Allocation": {"type": "list", "items": {"task name": "", "start date": "", "end date": "", "allocated time": ""}},
+    "Deadline": {"type": "datetime"},
+    "Time Blocks": {"type": "list", "items": {"start time": "", "end time": "", "availability": ""}},
+    "Schedule": {"type": "schedule"}
+  }
+}

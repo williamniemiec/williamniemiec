@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Rights Reflection",
+    "parameters": [
+        {
+            "name": "Reflection Prompt",
+            "type": "text"
+        },
+        {
+            "name": "Answer Type",
+            "type": "options"
+        },
+        {
+            "name": "Frequency",
+            "type": "options"
+        }
+    ]
+}
+
+
+Note: I removed the `Deadline Date` parameter as it is not applicable according to your instructions.

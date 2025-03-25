@@ -1,0 +1,41 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "behavior change planner",
+    "parameters": [
+        { 
+            "name": "behavior to change", 
+            "description": "specific behavior to change", 
+            "required": true, 
+            "type": "text"
+        },
+        { 
+            "name": "goals", 
+            "description": "list of specific, measurable, achievable, relevant, and time-bound (SMART) goals", 
+            "required": true, 
+            "type": "list",
+            "list_item_type": "text"
+        },
+        { 
+            "name": "strategies", 
+            "description": "list of strategies to achieve goals", 
+            "required": true, 
+            "type": "list",
+            "list_item_type": "text"
+        },
+        { 
+            "name": "barriers", 
+            "description": "list of potential barriers to behavior change", 
+            "required": true, 
+            "type": "list",
+            "list_item_type": "text"
+        },
+        { 
+            "name": "contingency plan", 
+            "description": "plan for overcoming barriers and staying on track", 
+            "required": true, 
+            "type": "text"
+        }
+    ]
+}

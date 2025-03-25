@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+  "Task": {
+    "parameters": [
+      {
+        "name": "instruction",
+        "description": "instruction to empty bladder and rectum",
+        "required": true,
+        "type": "text"
+      },
+      {
+        "name": "frequency",
+        "description": "how often to empty bladder and rectum",
+        "required": true,
+        "type": "options",
+        "options": [
+          { "value": "before_pessary_insertion", "label": "Before Pessary Insertion" },
+          { "value": "after_pessary_insertion", "label": "After Pessary Insertion" },
+          { "value": "as_needed", "label": "As Needed" }
+        ]
+      }
+    ]
+  }
+}

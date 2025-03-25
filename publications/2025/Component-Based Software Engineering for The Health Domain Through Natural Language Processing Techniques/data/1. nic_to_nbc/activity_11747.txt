@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+{
+  "Privacy and Confidentiality Agreement": {
+    "parameters": {
+      "privacy_policy": {"type": "text"},
+      "patient_acknowledgement": {"type": "boolean"},
+      "data_encryption": {"type": "boolean"},
+      "access_controls": {"type": "boolean"}
+    }
+  }
+}

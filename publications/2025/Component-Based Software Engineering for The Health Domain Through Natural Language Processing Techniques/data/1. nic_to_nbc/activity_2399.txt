@@ -1,0 +1,33 @@
+Here is the output in JSON format:
+
+
+{
+    "Ventilator Settings Tracker": {
+        "parameters": {
+            "name": {"type": "text"},
+            "settings fields": {"type": "list of fields to track"},
+            "tracking frequency": {"options": ["continuous", "periodic", "etc."]}
+        }
+    },
+    "Progress Monitor": {
+        "parameters": {
+            "name": {"type": "text"},
+            "progress metrics": {"type": "list of metrics to track"},
+            "tracking frequency": {"options": ["continuous", "periodic", "etc."]}
+        }
+    },
+    "Alert System": {
+        "parameters": {
+            "name": {"type": "text"},
+            "alert criteria": {"type": "list of conditions that trigger an alert"},
+            "notification method": {"options": ["in-app notification", "SMS", "email", "etc."]}
+        }
+    },
+    "Order Management": {
+        "parameters": {
+            "name": {"type": "text"},
+            "order fields": {"type": "list of fields to track"},
+            "order status": {"options": ["pending", "completed", "etc."]}
+        }
+    }
+}

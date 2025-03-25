@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Relaxation Tracker": {
+    "Name": {"type": "text"},
+    "Relaxation Scale": {"type": "text or numeric"},
+    "Frequency": {"type": "recurrence rule"},
+    "Physiological Measures": {"type": "list of text"},
+    "Monitoring Frequency": {"type": "recurrence rule"},
+    "Data Visualization": {"type": "text or list of options"},
+    "Insights": {"type": "text or list of text"}
+  }
+}

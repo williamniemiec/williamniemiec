@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+json
+{
+  "Vital Signs Monitoring": {
+    "parameters": [
+      {"name": "name", "type": "text"},
+      {"name": "vital_signs", "type": "list of options"},
+      {"name": "frequency", "type": "options"},
+      {"name": "deadline_date", "type": "datetime"}
+    ]
+  }
+}

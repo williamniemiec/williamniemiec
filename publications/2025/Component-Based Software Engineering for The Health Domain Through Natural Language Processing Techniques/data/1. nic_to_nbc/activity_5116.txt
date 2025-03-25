@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+    "Environmental Nausea Control": {
+        "Parameters": {
+            "Name": {"Type": "text"},
+            "Environmental Factors": {"Type": "unordered list"},
+            "Smell Control": {"Type": "form (with multiple questions)"},
+            "Sound Control": {"Type": "form (with multiple questions)"},
+            "Visual Stimulation Control": {"Type": "form (with multiple questions)"},
+            "Personalized Plan": {"Type": "text"},
+            "Frequency": {"Type": "options"},
+            "Deadline Date": {"Type": "datetime"}
+        }
+    }
+}

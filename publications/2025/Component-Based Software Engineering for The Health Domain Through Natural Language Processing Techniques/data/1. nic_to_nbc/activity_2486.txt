@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+    "Visual Aid Learning Exercise": {
+        "parameters": [
+            {"Activity Type": {}},
+            {"Visual Aid Type": {}},
+            {"Visual Aid Content": {}},
+            {"Instructions": {}},
+            {"Frequency": {}},
+            {"Reflection Question": {}}
+        ]
+    }
+}

@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Assertiveness Skills Guide": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Description": {"Type": "text"},
+      "Assertiveness Strategies": {"Type": "list", "Items": ["list of assertiveness strategies, with descriptions and examples"]},
+      "Goal Setting": {"Type": "boolean"},
+      "Reflection Exercises": {"Type": "list", "Items": ["list of reflection exercises, with space for patient response"]},
+      "Resources": {"Type": "list", "Items": ["list of resources, with descriptions and contact information"]},
+      "Reminders": {"Type": "boolean"}
+    }
+  }
+}

@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Scheduling": {
+    "Parameters": {
+      "Medication Name": {},
+      "Formula Feeding Schedule": {},
+      "Medication Administration Time": {},
+      "Frequency of Medication Administration": {}
+    }
+  }
+}

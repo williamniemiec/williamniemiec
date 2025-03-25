@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Creative Activity Prompt": {
+    "Name": {"type": "text"},
+    "Creative activity options": {"type": "list of text", "example": ["Drawing", "Painting", "Writing", "Photography", "Crafting", "etc."]},
+    "Activity prompts": {"type": "list of text", "example": ["Draw something that represents your current mood", "Write a short story about a memorable experience", "Take a photo of something that inspires you", "etc."]},
+    "Frequency": {"type": "options", "options": ["Daily", "Weekly", "Monthly"]},
+    "Deadline date": {"type": "datetime"},
+    "Inspiration resources": {"type": "list of text", "example": ["Art books", "Music playlists", "Nature walks", "Conversations with friends", "etc."]}
+  }
+}

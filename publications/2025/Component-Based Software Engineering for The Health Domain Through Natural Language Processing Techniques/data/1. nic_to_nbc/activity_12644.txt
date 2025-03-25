@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+    "Wound Measurement": {
+        "Length": {"type": "number"},
+        "Width": {"type": "number"},
+        "Depth": {"type": "number"},
+        "Greatest Perpendicular Dimension": {"type": "number"}
+    }
+}

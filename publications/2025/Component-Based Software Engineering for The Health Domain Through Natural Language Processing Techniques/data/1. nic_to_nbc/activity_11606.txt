@@ -1,0 +1,35 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "bowel training program",
+  "parameters": [
+    { 
+      "name": "program schedule", 
+      "description": "specify the schedule for the bowel training program"
+    },
+    { 
+      "name": "dietary instructions", 
+      "description": "provide dietary instructions to support the bowel training program"
+    },
+    { 
+      "name": "fluid intake instructions", 
+      "description": "provide instructions for fluid intake to support the bowel training program"
+    },
+    { 
+      "name": "medication instructions", 
+      "description": "provide instructions for medication use to support the bowel training program"
+    },
+    { 
+      "name": "exercise instructions", 
+      "description": "provide instructions for exercise to support the bowel training program"
+    },
+    { 
+      "name": "monitoring instructions", 
+      "description": "provide instructions for monitoring progress and reporting any issues"
+    }
+  ]
+}
+
+
+I removed the `content_type` field, as well as the `options` array from the `program schedule` parameter, since they were not requested. I also removed the `deadline_date` parameter, since it was marked as not required (`"required": false`).

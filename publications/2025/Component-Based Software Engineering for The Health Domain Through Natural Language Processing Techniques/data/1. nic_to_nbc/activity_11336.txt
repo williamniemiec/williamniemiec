@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+    "Education Module": {
+        "Content": {"Type": "text or multimedia"},
+        "Format": {"Type": "options"},
+        "Level of detail": {"Type": "options"},
+        "Patient engagement": {"Type": "boolean"},
+        "Customization": {"Type": "boolean"}
+    }
+}
+
+
+Let me know if this is what you were expecting!

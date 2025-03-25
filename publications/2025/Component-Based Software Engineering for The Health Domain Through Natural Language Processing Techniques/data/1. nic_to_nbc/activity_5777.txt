@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+  "Computer-Assisted Instruction": {
+    "Topic": {"type": "text"},
+    "Content": {"type": "text, image, video, or interactive simulation"},
+    "Description": {"type": "text"},
+    "Interactive Elements": {"type": "text"},
+    "Frequency": {"options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"type": "datetime"}
+  },
+  "Television": {
+    "Topic": {"type": "text"},
+    "Video": {"type": "video"},
+    "Description": {"type": "text"},
+    "Frequency": {"options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"type": "datetime"}
+  },
+  "Interactive Video": {
+    "Topic": {"type": "text"},
+    "Video": {"type": "video"},
+    "Interactive Elements": {"type": "text"},
+    "Frequency": {"options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"type": "datetime"}
+  }
+}

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Desirable Behavior Guide": {
+    "Parameters": {
+      "Situation or Setting": {"Type": "text"},
+      "Desirable Behavior": {"Type": "text"},
+      "Rationale": {"Type": "text"},
+      "Examples": {"Type": "list of text or multimedia content"},
+      "Patient Reflection": {"Type": "text or multiple-choice questions"}
+    }
+  }
+}

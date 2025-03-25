@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Payment Request": {
+    "name": {},
+    "description": {},
+    "amount": {},
+    "payment_method": {},
+    "due_date": {}
+  }
+}

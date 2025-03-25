@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Exercise Observation",
+    "parameters": [
+        { 
+            "name": "Exercise Name", 
+            "type": "text"
+        },
+        { 
+            "name": "Exercise Instructions", 
+            "type": "book-page"
+        },
+        { 
+            "name": "Video Recording", 
+            "type": "video",
+            "video": {
+                "recording": true,
+                "upload": true
+            }
+        },
+        { 
+            "name": "Self-Assessment Questions", 
+            "type": "questionnaire"
+        }
+    ]
+}

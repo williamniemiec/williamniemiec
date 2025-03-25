@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+
+{
+  "Ocular Inspection": {
+    "Inspection Instructions": {"type": "text"},
+    "Inspection Frequency": {"options": ["daily", "everyOtherDay", "weekly"]},
+    "Inspection Questions": {"type": "list of text"},
+    "Inspection Results": {"type": "text"},
+    "Upload Image": {"type": "image"}
+  }
+}

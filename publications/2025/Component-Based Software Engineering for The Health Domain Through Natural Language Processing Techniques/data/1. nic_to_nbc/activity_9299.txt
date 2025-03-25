@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Assessment": {
+    "Content": {"type": "options"},
+    "Questions": {"type": "list of questions"},
+    "Answer Options": {"type": "list of answer options"},
+    "Scoring": {"type": "options"},
+    "Frequency": {"type": "options"},
+    "Deadline Date": {"type": "datetime"}
+  }
+}

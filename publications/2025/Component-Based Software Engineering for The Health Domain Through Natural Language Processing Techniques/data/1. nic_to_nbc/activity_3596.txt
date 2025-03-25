@@ -1,0 +1,18 @@
+
+
+Injury Tracker:
+	* name: title of the injury tracker
+	* fields: list of fields to collect data on (e.g., injury type, date, location, severity, treatment, referral)
+	* data type: options for selecting the data type for each field (e.g., text, date, number, dropdown)
+
+Data Analytics:
+	* name: title of the data analytics
+	* data source: options for selecting the data source (e.g., injury tracker, external database)
+	* metrics: list of metrics to analyze (e.g., injury rate, treatment effectiveness, referral rates)
+	* visualization: options for selecting the visualization type (e.g., chart, graph, table)
+
+Reporting:
+	* name: title of the report
+	* data source: options for selecting the data source (e.g., injury tracker, external database)
+	* report type: options for selecting the report type (e.g., summary, detailed, custom)
+	* format: options for selecting the report format (e.g., PDF, CSV, Excel)

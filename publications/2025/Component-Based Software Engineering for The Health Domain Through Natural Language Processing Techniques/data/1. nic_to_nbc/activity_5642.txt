@@ -1,0 +1,35 @@
+Here is the output in JSON format:
+
+
+{
+    "Immunization Contraindication Checker": {
+        "parameters": [
+            { 
+                "name": "previous_reaction", 
+                "description": "has the patient had an anaphylactic reaction to a previous vaccine?", 
+                "required": true, 
+                "type": "options",
+                "options": [
+                    { value: "yes", label: "Yes" },
+                    { value: "no", label: "No" }
+                ]
+            },
+            { 
+                "name": "current_illness", 
+                "description": "does the patient have a moderate or severe illness with or without fever?", 
+                "required": true, 
+                "type": "options",
+                "options": [
+                    { value: "yes", label: "Yes" },
+                    { value: "no", label: "No" }
+                ]
+            },
+            { 
+                "name": "contraindication_result", 
+                "description": "display the contraindication result (true or false)", 
+                "required": true, 
+                "type": "boolean"
+            }
+        ]
+    }
+}

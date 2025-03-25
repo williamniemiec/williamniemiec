@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Electrolyte Tracker": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Electrolytes": {"Type": "checklist"},
+      "Frequency": {"Type": "options"},
+      "Deadline Date": {"Type": "datetime"},
+      "Results": {"Type": "numerical value"},
+      "Imbalances": {"Type": "checklist"},
+      "Notes": {"Type": "text"}
+    }
+  }
+}

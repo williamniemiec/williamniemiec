@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Emotional Awareness": {
+    "Parameters": {
+      "Emotion Identification": {"Type": "emotion wheel or sentiment analysis"},
+      "Self-Reflection Prompt": {"Type": "text or audio"},
+      "Feelings Journal": {"Type": "text or audio"},
+      "Coping Strategies": {"Type": "list or video"},
+      "Mindfulness Exercise": {"Type": "guided meditation or breathing exercise"}
+    }
+  }
+}

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Parameter Specifications": {
+    "Care Activity": {"Type": "text", "Required": true},
+    "Explanation": {"Type": "text", "Required": true},
+    "Visual Aids": {"Type": "boolean", "Required": false},
+    "Sibling Questions": {"Type": "list of text", "Required": true},
+    "Care Provider": {"Type": "text", "Required": true},
+    "Frequency": {"Type": "options", "Options": ["daily", "weekly", "monthly"], "Required": true}
+  },
+  "No-code Element Name": "Care Explanation"
+}

@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Emotion Function Identification Tool",
+  "parameters": [
+    {
+      "name": "emotion_identification_questions"
+    },
+    {
+      "name": "function_exploration_questions"
+    },
+    {
+      "name": "emotion_mapping"
+    },
+    {
+      "name": "pattern_identification"
+    },
+    {
+      "name": "reflection_prompt"
+    }
+  ]
+}

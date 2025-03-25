@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Wish Expression": {
+    "parameters": [
+      { "name": "care_preferences", "description": "What are your preferences for your care?", "required": true, "type": "text" },
+      { "name": "end_of_life_care", "description": "What are your wishes for end-of-life care?", "required": true, "type": "text" },
+      { "name": "family_involved", "description": "Who would you like to be involved in your care decisions?", "required": true, "type": "text" }
+    ]
+  },
+  "Care Plan Review": {
+    "parameters": [
+      { "name": "care_plan", "description": "Review your care plan", "required": true, "type": "text" },
+      { "name": "confirm_care_plan", "description": "Confirm your care plan", "required": true, "type": "boolean" }
+    ]
+  }
+}

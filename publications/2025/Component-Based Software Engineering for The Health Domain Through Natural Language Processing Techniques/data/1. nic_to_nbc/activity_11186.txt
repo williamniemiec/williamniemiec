@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Triage Procedure Development": {
+    "Parameters": {
+      "Triage Category": {},
+      "Triage Criteria": {},
+      "Triage Protocol": {},
+      "Patient Assessment": {},
+      "Triage Decision-Making": {},
+      "Triage Training": {},
+      "Triage Quality Improvement": {}
+    }
+  }
+}

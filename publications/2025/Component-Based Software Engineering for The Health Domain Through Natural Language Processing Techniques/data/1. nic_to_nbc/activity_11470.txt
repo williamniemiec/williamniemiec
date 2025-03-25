@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Termination and Evaluation Plan": {
+    "parameters": [
+      {"name": "Termination Criteria", "description": "A list of criteria to determine when the intervention should be terminated"},
+      {"name": "Evaluation Methods", "description": "A list of methods to evaluate the effectiveness of the intervention"},
+      {"name": "Evaluation Frequency", "description": "A parameter that specifies how often the intervention should be evaluated"},
+      {"name": "Termination Date", "description": "A parameter that specifies the expected date of termination"},
+      {"name": "Notes", "description": "A parameter that allows the healthcare professional to add additional notes or comments about the termination and evaluation plan"}
+    ]
+  }
+}

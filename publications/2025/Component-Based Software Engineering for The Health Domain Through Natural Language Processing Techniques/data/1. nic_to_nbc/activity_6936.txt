@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+"Neurological Status Tracker": {
+    "Name": {"Type": "text"},
+    "Neurological Status Types": {"Type": "options"},
+    "Frequency": {"Type": "options"},
+    "Deadline Date": {"Type": "datetime"},
+    "Input Fields": {"Type": "form"},
+    "Details": {"Type": "text"}
+},
+"Symptom Tracker": {
+    "Name": {"Type": "text"},
+    "Symptoms": {"Type": "options"},
+    "Frequency": {"Type": "options"},
+    "Deadline Date": {"Type": "datetime"},
+    "Input Fields": {"Type": "form"}
+}
+}
+
+
+Note that I removed the "Not Applicable" parameters, which were not present in this input text. Let me know if you have any further requests!

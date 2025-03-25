@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Privacy Reminder": {
+    "Name": {},
+    "Description": {},
+    "Trigger": {},
+    "Reminder Message": {}
+  }
+}

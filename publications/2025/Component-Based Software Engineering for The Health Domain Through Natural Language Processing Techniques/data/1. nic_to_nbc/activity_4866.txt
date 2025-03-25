@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Speak Slowly Instruction": {
+    "Instruction": {"type": "text", "example": "Please speak slowly so I can understand you better."},
+    "Reason": {"type": "text", "example": "To ensure accurate understanding of your needs and concerns."},
+    "Frequency": {"type": "options", "options": ["During every interaction with the patient", "Only when necessary"]},
+    "Tips": {"type": "text", "example": "Take your time when speaking, and try to enunciate clearly."}
+  }
+}
+
+
+I removed the `Deadline Date` parameter as it's not applicable in this context. Let me know if you have any further questions!

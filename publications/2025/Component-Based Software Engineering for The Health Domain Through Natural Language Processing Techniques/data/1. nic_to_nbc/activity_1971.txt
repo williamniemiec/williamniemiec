@@ -1,0 +1,14 @@
+
+
+
+{
+  "Pacifier Guidance": {
+    "Parameters": {
+      "Pacifier Use Instructions": {},
+      "Benefits of Pacifier Use": {},
+      "Pacifier Selection": {},
+      "Frequency": {},
+      "Deadline Date": {}
+    }
+  }
+}

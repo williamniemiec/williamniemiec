@@ -1,0 +1,33 @@
+Here is the output in JSON format:
+
+
+{
+  "Self-Care Goal Setter": {
+    "parameters": {
+      "Self-Care Area": {
+        "type": "options",
+        "options": ["wound care", "mobility", "nutrition", {"others": "text field to specify"}]
+      },
+      "Goal Type": {
+        "type": "options",
+        "options": ["short-term", "long-term", "daily", {"others": "text field to specify"}]
+      },
+      "Goal Description": {
+        "type": "text"
+      },
+      "Target Date": {
+        "type": "date"
+      },
+      "Progress Tracking": {
+        "type": "checkbox list",
+        "options": ["Completed wound care training", "Increased mobility by 10%", {"others": "to be specified"}]
+      },
+      "Reminders": {
+        "type": "boolean"
+      },
+      "Resources": {
+        "type": "links"
+      }
+    }
+  }
+}

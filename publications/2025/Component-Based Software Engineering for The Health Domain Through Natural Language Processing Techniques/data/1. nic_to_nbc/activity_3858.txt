@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+  "Reminder": {
+    "name": "a brief title for the reminder",
+    "content": "a short message or instruction to stay focused",
+    "frequency": "how often the reminder should be displayed",
+    "deadline_date": "a specific date or time for the reminder to expire",
+    "type": "a selection of reminder types (e.g., in-app notification, SMS, email)"
+  },
+  "Goal": {
+    "name": "a brief title for the goal",
+    "description": "a short explanation of the goal",
+    "target": "a specific outcome or achievement",
+    "frequency": "how often the patient should work towards the goal",
+    "deadline_date": "a specific date or time for the goal to be achieved",
+    "tracking": "a way to track progress towards the goal (e.g., journaling, habit tracking)"
+  }
+}

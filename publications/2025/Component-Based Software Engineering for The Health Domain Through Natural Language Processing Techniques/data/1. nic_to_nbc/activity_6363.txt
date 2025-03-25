@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "AED Retrieval": {
+    "parameters": {
+      "AED Location": {},
+      "Retrieval Instructions": {},
+      "Delegate Retrieval": {},
+      "Delegate Contact": {}
+    }
+  }
+}

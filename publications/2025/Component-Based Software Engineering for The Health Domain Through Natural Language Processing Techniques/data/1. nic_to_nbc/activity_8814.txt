@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+    "Survey": {
+        "Questions": {"Type": "list of questions (text)"},
+        "Answer Type": {"Type": "options (list of available answer types)"},
+        "Frequency": {"Type": "options (daily, onlyOnce, everyHours, everyDays)"},
+        "Deadline Date": {"Type": "datetime"}
+    },
+    "Tracker": {
+        "Metric": {"Type": "options (list of available metrics)"},
+        "Unit": {"Type": "options (list of available units)"},
+        "Frequency": {"Type": "options (daily, onlyOnce, everyHours, everyDays)"},
+        "Deadline Date": {"Type": "datetime"}
+    }
+}

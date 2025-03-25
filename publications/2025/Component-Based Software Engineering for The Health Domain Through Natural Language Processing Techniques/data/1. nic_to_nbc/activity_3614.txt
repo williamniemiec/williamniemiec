@@ -1,0 +1,10 @@
+Here is the output in JSON format:
+
+
+{
+  "Psychosocial Assessment": {
+    "Patient Questions": {"Description": "list of questions to assess the patient's psychosocial status (e.g., mood, stress levels, etc.)", "Required": true, "Type": "list"},
+    "Partner Questions": {"Description": "list of questions to assess the patient's partner's psychosocial status (e.g., mood, stress levels, etc.)", "Required": true, "Type": "list"},
+    "Frequency": {"Description": "specify how often to assess the patient's and partner's psychosocial status (e.g., daily, weekly, etc.)", "Required": true, "Type": "options", "Options": [{"value": "daily", "label": "Daily"}, {"value": "weekly", "label": "Weekly"}]}
+  }
+}

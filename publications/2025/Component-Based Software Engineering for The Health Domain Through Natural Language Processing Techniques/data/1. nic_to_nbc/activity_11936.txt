@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Puncture Site Care": {
+    "Care Instruction": {},
+    "Instructions": {},
+    "Warning": {},
+    "Frequency": {"options": [
+      {"value": "daily", "label": "Daily"},
+      {"value": "onlyOnce", "label": "Only once"},
+      {"value": "everyHours", "label": "Every x hours"},
+      {"value": "everyDays", "label": "Every x days"}
+    ]},
+  }
+}
+
+
+I removed the non-applicable parameters ("Tips" and "Deadline Date") as per your request. Let me know if this meets your requirements!

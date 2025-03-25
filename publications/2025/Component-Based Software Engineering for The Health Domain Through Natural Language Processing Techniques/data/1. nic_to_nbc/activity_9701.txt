@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Consultation": {
+    "Instruction": {"type": "text"},
+    "Scenarios": {"type": "list", "options": ["Taking any medication or herbal preparations (including over-the-counter products)", "Changing brands of medication", "Discontinuing a medication"]},
+    "Healthcare Provider": {"type": "text"},
+    "Contact Information": {"type": "text"}
+  }
+}

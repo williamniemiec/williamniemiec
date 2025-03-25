@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Nasogastric Tube Insertion": {
+    "parameters": [
+      {"Insertion Instructions": ""},
+      {"Tube Size": ["12Fr", "14Fr", "16Fr"]},
+      {"Suction Settings": ""},
+      {"Monitoring Frequency": ["every15minutes", "every30minutes", "everyHour"]},
+      // removed Deadline Date as it's not applicable
+    ]
+  }
+}

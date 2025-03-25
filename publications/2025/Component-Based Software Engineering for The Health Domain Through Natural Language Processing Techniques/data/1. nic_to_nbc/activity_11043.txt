@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Oral Care Task": {
+        "parameters": {
+            "name": "Oral Care",
+            "content": "Use toothbrush, swabs, mouth and lip moisturizer",
+            "frequency": "options for how often the task should be performed (e.g., daily, every 12 hours, etc.)",
+            "deadline_date": "optional parameter to specify a due date for the task"
+        }
+    }
+}

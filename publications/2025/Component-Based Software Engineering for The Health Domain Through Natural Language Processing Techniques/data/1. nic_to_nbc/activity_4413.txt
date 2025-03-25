@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Sexual Abuse Indicator Checklist": {
+    "parameters": {
+      "name": "",
+      "description": "",
+      "indicator list": []
+    }
+  }
+}

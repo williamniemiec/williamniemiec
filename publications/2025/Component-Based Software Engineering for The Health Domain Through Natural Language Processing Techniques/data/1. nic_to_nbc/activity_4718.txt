@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Wait and Rehydrate Task": {
+        "parameters": [
+            {"Name": {"type": "text"}},
+            {"Wait Time": {"type": "numeric", "unit": "minutes"}},
+            {"Instructions": {"type": "text"}},
+            {"Fluid Recommendations": {"type": "text"}},
+            {"Monitoring": {"type": "boolean"}}
+        ]
+    }
+}

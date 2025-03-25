@@ -1,0 +1,44 @@
+Here is the output in JSON format:
+
+
+{
+  "Resuscitation Response Monitoring": {
+    "parameters": [
+      { 
+        "name": "response metrics", 
+        "description": "select the patient response metrics to monitor", 
+        "required": true, 
+        "type": "options",
+        "options": [
+          { value: "heart rate", label: "Heart rate" },
+          { value: "blood pressure", label: "Blood pressure" },
+          { value: "oxygen saturation", label: "Oxygen saturation" },
+          { value: "consciousness level", label: "Consciousness level" }
+        ]
+      },
+      { 
+        "name": "target values", 
+        "description": "set target values for each response metric", 
+        "required": true, 
+        "type": "conditional",
+        "conditional": {
+          "heart rate": { value: "60-100 bpm", label: "60-100 bpm" },
+          "blood pressure": { value: "90-120 mmHg", label: "90-120 mmHg" },
+          "oxygen saturation": { value: ">90%", label: ">90%" },
+          "consciousness level": { value: "alert and responsive", label: "Alert and responsive" }
+        }
+      },
+      { 
+        "name": "monitoring frequency", 
+        "description": "specify how often to monitor patient response", 
+        "required": true, 
+        "type": "options",
+        "options": [
+          { value: "every minute", label: "Every minute" },
+          { value: "every 5 minutes", label: "Every 5 minutes" },
+          { value: "every 10 minutes", label: "Every 10 minutes" }
+        ]
+      }
+    ]
+  }
+}

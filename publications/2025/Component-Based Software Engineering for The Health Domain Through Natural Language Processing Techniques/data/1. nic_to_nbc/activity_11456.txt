@@ -1,0 +1,33 @@
+Here is the output in JSON format:
+
+
+{
+  "Procedure": {
+    "Parameters": {
+      "Procedure Steps": {
+        "Type": "ordered list",
+        "Example": [
+          { "step": 1, "instruction": "Wash your hands thoroughly" },
+          { "step": 2, "instruction": "Prepare the normal saline solution" },
+          { "step": 3, "instruction": "Irrigate the nasogastric tube with the normal saline solution" },
+          { "step": 4, "instruction": "Dispose of the used solution and clean the tube" }
+        ]
+      },
+      "Frequency": {
+        "Type": "options",
+        "Options": [
+          { "value": "daily", "label": "Daily" },
+          { "value": "onlyOnce", "label": "Only once" },
+          { "value": "everyHours", "label": "Every x hours" },
+          { "value": "everyDays", "label": "Every x days" }
+        ]
+      },
+      "Deadline Date": {
+        "Type": "datetime"
+      },
+      "Reminders": {
+        "Type": "boolean"
+      }
+    }
+  }
+}

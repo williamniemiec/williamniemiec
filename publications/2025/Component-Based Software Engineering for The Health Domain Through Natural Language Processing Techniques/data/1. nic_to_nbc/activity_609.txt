@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "parameters": [
+    "* Analyze and interpret care management information",
+    "* Develop and revise interventions (processes)",
+    "* Communicate complex information to the healthcare team",
+    "* Ensure that care management information and revised interventions are accurately and effectively integrated into intershift reports and group practice meetings"
+  ],
+  "noCodeElementName": null
+}

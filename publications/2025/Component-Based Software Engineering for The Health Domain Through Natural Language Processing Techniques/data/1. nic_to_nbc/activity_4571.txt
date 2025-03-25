@@ -1,0 +1,64 @@
+Here is the output in JSON format:
+
+
+{
+  "Symptom Abatement Assessment": {
+    "Parameters": {
+      "Symptom Assessment": [
+        "Type of symptom",
+        "Severity of symptom",
+        "Duration of symptom"
+      ],
+      "Caretaker Separation": [
+        "Duration of separation",
+        "Method of separation"
+      ],
+      "Symptom Reassessment": [
+        "Type of symptom",
+        "Severity of symptom",
+        "Duration of symptom"
+      ],
+      "Abatement Determination": [
+        "Reduction in symptom severity",
+        "Reduction in symptom duration",
+        "Complete resolution of symptoms"
+      ],
+      "Frequency": [
+        "daily",
+        "onlyOnce",
+        "everyHours",
+        "everyDays"
+      ],
+      "Deadline Date": {
+        "Type": "datetime"
+      }
+    }
+  },
+  "Symptom Assessment": {
+    "Parameters": {
+      "Type of symptom": [],
+      "Severity of symptom": [],
+      "Duration of symptom": []
+    }
+  },
+  "Caretaker Separation": {
+    "Parameters": {
+      "Duration of separation": [],
+      "Method of separation": []
+    }
+  },
+  "Symptom Reassessment": {
+    "Parameters": {
+      "Type of symptom": [],
+      "Severity of symptom": [],
+      "Duration of symptom": []
+    }
+  },
+  "Abatement Determination": {
+    "Parameters": {
+      "Reduction in symptom severity": [],
+      "Reduction in symptom duration": [],
+      "Complete resolution of symptoms": []
+    }
+  }
+}

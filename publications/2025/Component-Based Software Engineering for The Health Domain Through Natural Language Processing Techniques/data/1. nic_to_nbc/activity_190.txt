@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Restraint": {
+    "Type": {"options": ["physical", "chemical", "environmental"]},
+    "Duration": {"type": ["datetime", "text"]},
+    "Reason": {"type": "text"},
+    "Instructions": {"type": "text"}
+  }
+}

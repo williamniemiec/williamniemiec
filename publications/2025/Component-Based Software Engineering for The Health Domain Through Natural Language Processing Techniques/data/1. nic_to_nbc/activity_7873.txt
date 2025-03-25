@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+[
+  {
+    "name": "Patient Positioning",
+    "parameters": [
+      {"name": "position_type", "description": "type of position"},
+      {"name": "neck_extension", "description": "level of neck extension"}
+    ]
+  },
+  {
+    "name": "Gaze Direction",
+    "parameters": [
+      {"name": "gaze_direction", "description": "direction of gaze"}
+    ]
+  }
+]

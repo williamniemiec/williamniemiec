@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+    "Bowel Sound Monitoring": {
+        "parameters": [
+            {"Name": {"type": "text"}},
+            {"Frequency": {"type": "options", "options": ["daily", "everyHours", "everyDays"]}},
+            {"Deadline Date": {"type": "datetime"}},
+            {"Bowel Sound Description": {"type": "text"}},
+            {"Change in Bowel Sounds": {"type": "options", "options": ["yes", "no"]}},
+            {"Notify Physician": {"type": "boolean"}},
+            {"Additional Notes": {"type": "text"}}
+        ]
+    }
+}
+
+
+Let me know if you need any further assistance!

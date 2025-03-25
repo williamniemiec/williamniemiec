@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+  "Reinforcement": {
+    "parameters": {
+      "name": {"type": "text"},
+      "behavior": {"type": "text"},
+      "reinforcement_type": {"type": "options", "options": ["praise", "rewards", "badges"]},
+      "trigger": {"type": "options", "options": ["task completion", "milestone achievement"]}
+    }
+  },
+  "Task": {
+    "parameters": {
+      "name": {"type": "text"},
+      "content": {"type": "text"},
+      "frequency": {"type": "options", "options": ["daily", "weekly", "monthly"]}
+    }
+  }
+}
+
+
+Let me know if you need any further assistance!

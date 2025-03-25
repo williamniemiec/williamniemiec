@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+    "Mood Tracking": {
+        "parameters": ["emotions list", "frequency", "deadline_date"]
+    },
+    "Reflection Question": {
+        "parameters": ["question", "frequency", "deadline_date"]
+    }
+}

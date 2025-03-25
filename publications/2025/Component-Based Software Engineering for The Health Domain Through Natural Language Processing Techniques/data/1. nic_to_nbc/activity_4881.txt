@@ -1,0 +1,47 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Effect Monitoring": {
+    "Parameters": {
+      "Medication Name": {
+        "Type": "text"
+      },
+      "Medication Type": {
+        "Type": "options",
+        "Options": [
+          "calcium channel blocker",
+          "anticholinergic",
+          "other"
+        ]
+      },
+      "Effect": {
+        "Type": "form",
+        "Fields": {
+          "Effect Type": {
+            "Type": "options",
+            "Options": [
+              "side effect",
+              "benefit"
+            ]
+          },
+          "Effect Description": {
+            "Type": "text"
+          }
+        }
+      },
+      "Frequency": {
+        "Type": "options",
+        "Options": [
+          "daily",
+          "onlyOnce",
+          "everyHours",
+          "everyDays"
+        ]
+      },
+      "Deadline Date": {
+        "Type": "datetime"
+      }
+    }
+  }
+}

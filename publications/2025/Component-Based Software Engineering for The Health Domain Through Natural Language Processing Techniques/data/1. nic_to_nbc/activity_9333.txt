@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Alternative Perspectives": {
+    "parameters": {
+      "Alternative Views": {
+        "type": ["text", "multimedia"]
+      },
+      "Supportive Messaging": {
+        "type": ["text", "multimedia"]
+      },
+      "Reflection Prompts": {
+        "type": ["text", "multimedia"]
+      },
+      "Resources": {
+        "type": ["text", "link to external resources"]
+      }
+    }
+  }
+}

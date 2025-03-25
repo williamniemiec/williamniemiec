@@ -1,0 +1,11 @@
+
+
+
+{
+  "PARAMETER ESPECIFICATIONS": {
+    "short-term variability": "",
+    "accelerations": "",
+    "decelerations of the fetal heart rate": ""
+  },
+  "NO-CODE ELEMENT NAME": null
+}

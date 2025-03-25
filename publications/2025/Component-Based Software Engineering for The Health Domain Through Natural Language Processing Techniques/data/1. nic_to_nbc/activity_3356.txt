@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Food Assistance Referral": {
+    "Agency Identification": {},
+    "Eligibility Criteria": {},
+    "Referral Process": {},
+    "Agency Contact Information": {},
+    "Frequency": {
+      "options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+    },
+    "Deadline Date": {}
+  }
+}

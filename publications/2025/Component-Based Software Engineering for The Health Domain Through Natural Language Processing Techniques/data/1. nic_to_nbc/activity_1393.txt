@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Decision Aide": {
+    "Parameters": {
+      "Decision Topic": {"Type": "text"},
+      "Decision Aide Type": {"Type": "list of options"},
+      "Content": {"Type": "text or multimedia content"},
+      "Interactive Elements": {"Type": "list of options"},
+      "Personalization": {"Type": "boolean"},
+      "Feedback": {"Type": "text or multimedia content"}
+    }
+  }
+}
+
+
+Let me know if this meets your requirements!

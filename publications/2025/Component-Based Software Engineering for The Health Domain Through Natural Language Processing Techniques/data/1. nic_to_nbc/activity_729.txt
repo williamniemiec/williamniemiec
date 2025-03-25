@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "External Control Intervention": {
+    "parameters": [
+      {"name": "Trigger", "type": "text"},
+      {"name": "Control Type", "type": "options", "options": ["Physical or manual restraint", "Time out", "Seclusion"]},
+      {"name": "Duration", "type": "time interval"},
+      {"name": "Monitoring", "type": "text"},
+      {"name": "De-escalation Plan", "type": "text"}
+    ]
+  }
+}

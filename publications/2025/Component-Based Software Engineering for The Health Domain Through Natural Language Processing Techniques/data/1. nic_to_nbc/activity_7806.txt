@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "lubricant application": {
+    "Type of Lubricant": {"type": "options", "options": ["eyeDrops", "ointments", "other"]},
+    "Frequency": {"type": "options", "options": ["asNeeded", "everyHours", "everyDays"]},
+    "Instructions": {"type": "text"},
+    "Deadline Date": {"type": "datetime"},
+    "Dosage": {"type": "text"}
+  }
+}
+
+Note that I removed the `Not Applicable` parameters as per your request. Let me know if you need anything else!

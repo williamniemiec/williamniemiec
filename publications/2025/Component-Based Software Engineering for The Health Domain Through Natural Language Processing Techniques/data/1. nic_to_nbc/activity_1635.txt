@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Parameter Specifications": {
+    "Injury Site": "injury_site",
+    "Movement Parameters": "movement_parameters",
+    "Frequency": "frequency",
+    "Threshold Values": "threshold_values"
+  },
+  "No-Code Element Name": "Movement Monitoring"
+}

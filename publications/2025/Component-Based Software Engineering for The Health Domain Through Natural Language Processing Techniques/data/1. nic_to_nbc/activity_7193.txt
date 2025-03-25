@@ -1,0 +1,5 @@
+Since the input is empty, I will assume it's an error and return an empty JSON object:
+
+{}
+
+Please provide a valid input to process.

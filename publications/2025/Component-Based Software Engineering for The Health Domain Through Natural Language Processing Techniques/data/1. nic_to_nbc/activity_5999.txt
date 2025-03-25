@@ -1,0 +1,22 @@
+Here is the output JSON:
+
+{
+  "name": "Prosthetic Securer",
+  "parameters": [
+    {
+      "name": "prosthetic_type"
+    },
+    {
+      "name": "securing_instructions"
+    },
+    {
+      "name": "storage_options"
+    },
+    {
+      "name": "reminders"
+    },
+    {
+      "name": "tips_and_precautions"
+    }
+  ]
+}

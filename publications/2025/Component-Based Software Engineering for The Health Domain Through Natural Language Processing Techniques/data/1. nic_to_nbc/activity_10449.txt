@@ -1,0 +1,10 @@
+Here is the output in JSON format:
+
+
+{
+  "Rest Reminder": {
+    "Duration": {"Type": "duration"},
+    "Frequency": {"Type": "options"},
+    "Custom Schedule": {"Type": "schedule"}
+  }
+}

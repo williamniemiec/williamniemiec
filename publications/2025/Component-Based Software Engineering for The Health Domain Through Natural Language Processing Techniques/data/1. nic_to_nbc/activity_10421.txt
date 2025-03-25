@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Flush": {
+    "parameters": [
+      {"name": "solution", "description": "Specify the solution to use for flushing"},
+      {"name": "frequency", "description": "Specify how often to flush the equipment"}
+    ]
+  }
+}

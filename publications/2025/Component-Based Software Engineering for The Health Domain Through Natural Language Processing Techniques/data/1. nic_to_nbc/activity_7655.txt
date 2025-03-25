@@ -1,0 +1,40 @@
+Here is the output in JSON format:
+
+
+{
+  "Ventilation Exercise": {
+    "Exercise Type": {
+      "Type": "options",
+      "Options": [
+        { "value": "incentiveSpirometry", "label": "Incentive Spirometry" },
+        { "value": "coughAndDeepBreath", "label": "Cough and Deep Breath" }
+      ]
+    },
+    "Frequency": {
+      "Type": "options",
+      "Options": [
+        { "value": "every2hours", "label": "Every 2 hours" },
+        { "value": "custom", "label": "Custom" }
+      ]
+    },
+    "Reminders": {
+      "Type": "options",
+      "Options": [
+        { "value": "every2hours", "label": "Every 2 hours" },
+        { "value": "custom", "label": "Custom" }
+      ]
+    }
+  },
+  "Embolus Precautions": {
+    "Education": {
+      "Type": "text"
+    },
+    "Reminders": {
+      "Type": "options",
+      "Options": [
+        { "value": "daily", "label": "Daily" },
+        { "value": "custom", "label": "Custom" }
+      ]
+    }
+  }
+}

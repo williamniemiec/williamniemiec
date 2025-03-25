@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Instruction": {
+    "parameters": {
+      "name": "Place sterile basin at distal end of wound",
+      "content": "Step-by-step instructions on how to place a sterile basin at the distal end of the wound",
+      "content_type": "text" or "video",
+      "frequency": "onlyOnce"
+    }
+  }
+}

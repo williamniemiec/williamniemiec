@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Observation Journal": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Description": {"Type": "text"},
+      "Frequency": {"Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"Type": "datetime"},
+      "Media": {"Type": "media"}
+    }
+  }
+}

@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Hair Shaving Guidance": {
+    "Shaving Instructions": "text (with images or videos)",
+    "Shaving Area": "text (with images or diagrams)",
+    "Shaving Frequency": "text (with options for frequency, e.g. daily, weekly, etc.)",
+    "Shaving Technique": "text (with images or videos)",
+    "Agency Protocol": "text (with link to agency protocol document)"
+  }
+}

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+json
+{
+  "Narcotic Administration Information": {
+    "parameters": [
+      {"name": "name", "type": "text"},
+      {"name": "content", "type": "text, image, video, or multimedia content"},
+      {"name": "format", "type": "options"},
+      {"name": "side_effects", "type": "text or list of side effects"},
+      {"name": "duration", "type": "text or numerical value"}
+    ]
+  }
+}

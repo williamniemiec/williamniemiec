@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Fear Expression": {
+    "parameters": [
+      {"name": "name"},
+      {"name": "prompt"},
+      {"name": "answer type"},
+      {"name": "frequency"}
+    ]
+  }
+}

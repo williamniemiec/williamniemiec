@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "FAQ Module": {
+    "title": {"type": "text"},
+    "introduction": {"type": "text"},
+    "question_list": {"type": "list of questions (with corresponding answers)"},
+    "answer_library": {"type": "list of answers (with corresponding questions)"},
+    "search_function": {"type": "search bar (with autocomplete and filtering options)"},
+    "additional_resources": {"type": "list of URLs or multimedia content"}
+  }
+}

@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Pin Site Care Instruction": {
+    "Name": {"type": "text"},
+    "Pin Site Type": {"type": "options", "options": [{"value": "surgical", "label": "Surgical Pin Site"}, {"value": "orthopedic", "label": "Orthopedic Pin Site"}]},
+    "Care Instructions": {"type": "ordered list"},
+    "Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Tips and Reminders": {"type": "unordered list"},
+    "Images or Videos": {"type": "unordered list"}
+  }
+}

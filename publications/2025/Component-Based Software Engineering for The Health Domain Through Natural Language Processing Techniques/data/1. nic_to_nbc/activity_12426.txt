@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+  "Crying Response Guide": {
+    "Title": {"Description": "Title of the crying response guide", "Required": true, "Type": "text"},
+    "Methods": {"Description": "List of methods to respond to crying", "Required": true, "Type": "checklist", "Options": [
+      {"value": "holding", "label": "Holding"},
+      {"value": "rocking", "label": "Rocking"},
+      {"value": "singing", "label": "Singing"},
+      {"value": "talking", "label": "Talking"},
+      {"value": "walking", "label": "Walking"},
+      {"value": "repositioning", "label": "Repositioning"},
+      {"value": "rubbing/massaging back", "label": "Rubbing/Massaging Back"},
+      {"value": "wrapping", "label": "Wrapping"}
+    ]},
+    "Tips": {"Description": "Additional tips or reminders for responding to crying", "Required": false, "Type": "text"}
+  }
+}
+
+
+Let me know if this is what you were expecting!

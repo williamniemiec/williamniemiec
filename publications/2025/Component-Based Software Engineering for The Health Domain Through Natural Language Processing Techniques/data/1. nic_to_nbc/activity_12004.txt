@@ -1,0 +1,37 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Pain Management Recommendation",
+    "parameters": [
+        {
+            "name": "Pain Assessment",
+            "type": "text"
+        },
+        {
+            "name": "Narcotic Use",
+            "type": "boolean"
+        },
+        {
+            "name": "Aspirin and NSAID Options",
+            "type": "list",
+            "items": [
+                { value: "acetaminophen", label: "Acetaminophen" },
+                { value: "ibuprofen", label: "Ibuprofen" },
+                { value: "naproxen", label: "Naproxen" }
+            ]
+        },
+        {
+            "name": "Contraindications",
+            "type": "list",
+            "items": [
+                { value: "bleedingDisorders", label: "Bleeding Disorders" },
+                { value: "stomachUlcers", label: "Stomach Ulcers" }
+            ]
+        },
+        {
+            "name": "Recommendation",
+            "type": "text"
+        }
+    ]
+}

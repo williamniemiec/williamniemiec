@@ -1,0 +1,55 @@
+
+
+
+{
+  "name": "Client History",
+  "parameters": [
+    {
+      "name": "Name",
+      "description": "A parameter that specifies the title or name of the client history section.",
+      "required": true,
+      "type": "text"
+    },
+    {
+      "name": "Sections",
+      "description": "A parameter that specifies the different sections of the client history, such as medical conditions, allergies, medications, etc.",
+      "required": true,
+      "type": "unordered list"
+    },
+    {
+      "name": "Questions",
+      "description": "A parameter that specifies the questions to be asked in each section, such as \"Do you have any medical conditions?\" or \"What medications are you currently taking?\"",
+      "required": true,
+      "type": "form"
+    },
+    {
+      "name": "Answer Type",
+      "description": "A parameter that specifies the type of answer expected for each question, such as text, checkbox, or dropdown.",
+      "required": true,
+      "type": "options",
+      "options": [
+        { value: "text", label: "Text" },
+        { value: "checkbox", label: "Checkbox" },
+        { value: "dropdown", label: "Dropdown" }
+      ]
+    },
+    {
+      "name": "Frequency",
+      "description": "A parameter that specifies how often the client history should be updated.",
+      "required": true,
+      "type": "options",
+      "options": [
+        { value: "daily", label: "Daily" },
+        { value: "onlyOnce", label: "Only once" },
+        { value: "everyHours", label: "Every x hours" },
+        { value: "everyDays", label: "Every x days" }
+      ]
+    },
+    {
+      "name": "Deadline Date",
+      "description": "A parameter that specifies the due date for updating the client history.",
+      "required": false,
+      "type": "datetime"
+    }
+  ]
+}

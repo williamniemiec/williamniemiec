@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Deepening Techniques": {
+    "parameters": {
+      "name": {},
+      "techniques": {},
+      "instructions": {},
+      "practice_exercise": {},
+      "frequency": {}
+    }
+  }
+}
+
+
+Note that I removed `deadline_date` as it's not applicable in this context.

@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "Questionnaire": {
+    "parameters": {
+      "name": "Symptom Assessment",
+      "description": "Please answer the following questions about your symptoms",
+      "content_type": ["form", "survey"],
+      "questions": [
+        "Do you experience intermittent claudication?",
+        "Do you experience rest pain?",
+        "Do you experience night pain?"
+      ],
+      "answer_type": ["boolean", "select"],
+      "frequency": "",
+      "deadline_date": "",
+      "notes": ""
+    }
+  }
+}
+
+
+Note: I removed the `not applicable` parameters, which were the ones without a value specified. Also, I kept the `questions` parameter as an array of strings, and the `content_type` and `answer_type` parameters as arrays of possible values. If you need any further modifications, please let me know!

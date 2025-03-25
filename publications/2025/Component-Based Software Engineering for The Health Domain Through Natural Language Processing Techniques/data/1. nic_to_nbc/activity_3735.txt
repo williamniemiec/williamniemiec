@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Health Risk Assessment": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Questions": {"Type": "form"},
+      "Scoring": {"Type": "formula or algorithm"}
+    }
+  },
+  "Health Promotion Program": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Program Type": {"Type": "options"},
+      "Content": {"Type": ["book-page", "file"]},
+      "Frequency": {"Type": "options"},
+      "Deadline Date": {"Type": "datetime"}
+    }
+  }
+}

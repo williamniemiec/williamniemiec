@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Vital Signs Tracker": {
+    "parameters": [
+      {"name": "Vital Signs", "type": "options"},
+      {"name": "Unit", "type": "options"},
+      {"name": "Frequency", "type": "options"},
+      {"name": "Notes", "type": "text"}
+    ]
+  }
+}
+
+
+I removed the `Deadline Date` parameter since it's not applicable (its type is `datetime`, not `options`). Let me know if this meets your requirements!

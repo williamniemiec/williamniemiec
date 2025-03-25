@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+  "Urinary Tract Infection Symptom Tracker": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Symptoms": {"Type": "list of options or free text"},
+      "Frequency": {"Options": ["daily", "everyHours", "everyDays"]},
+      "Deadline Date": {"Type": "datetime"},
+      "Threshold Values": {"Type": "list of threshold values for each symptom"},
+      "Alert": {"Type": "boolean (true/false)"}
+    }
+  },
+  "Symptom Tracker": {
+    "Parameters": {
+      "Symptoms": {"Type": "list of options or free text"},
+      "Frequency": {"Options": ["daily", "everyHours", "everyDays"]},
+      "Threshold Values": {"Type": "list of threshold values for each symptom"},
+      "Alert": {"Type": "boolean (true/false)"}
+    }
+  }
+}
+
+
+Note that I removed the "Not Applicable" parameters and only kept the relevant information. Let me know if you need any further assistance!

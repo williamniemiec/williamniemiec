@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "family_financial_involvement": {
+    "parameters": [
+      {"name": "family_member_roles", "description": "roles and responsibilities of family members in financial management"},
+      {"name": "financial_tasks", "description": "financial tasks that family members can assist with"},
+      {"name": "communication_strategies", "description": "strategies for effective communication among family members about financial management"}
+    ]
+  }
+}

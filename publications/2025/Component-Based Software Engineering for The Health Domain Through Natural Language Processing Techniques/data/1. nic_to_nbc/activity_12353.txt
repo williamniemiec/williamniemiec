@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Conceptual Difference Assessment": {
+    "Health Problem/Treatment Plan": {},
+    "Patient Perspective": {},
+    "Nurse Perspective": {},
+    "Difference Identification": {}
+  }
+}

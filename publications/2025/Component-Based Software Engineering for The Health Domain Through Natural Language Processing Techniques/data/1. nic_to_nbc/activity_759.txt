@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+  "No-code Element Name": "Tutorial",
+  "Parameter Specifications": {
+    "Name": {"Type": "text"},
+    "Steps": {"Type": "list of tutorial steps", "tutorial step": {
+      "Title": {"Type": "text"},
+      "Content": {"Type": "HTML text"},
+      "Image/Video": {"Type": "media (image or video)"}
+    }},
+    "Prevention Tips": {"Type": "list of prevention tips", "prevention tip": {
+      "Title": {"Type": "text"},
+      "Content": {"Type": "HTML text"}
+    }},
+    "Treatment Options": {"Type": "list of treatment options", "treatment option": {
+      "Title": {"Type": "text"},
+      "Content": {"Type": "HTML text"}
+    }}
+  }
+}

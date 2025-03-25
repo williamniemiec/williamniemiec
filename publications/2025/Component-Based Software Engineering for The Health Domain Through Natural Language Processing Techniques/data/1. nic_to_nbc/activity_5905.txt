@@ -1,0 +1,14 @@
+
+
+
+{
+    "no-code element name": "guide",
+    "parameter specifications": {
+        "name": "Positioning Guide",
+        "pages": [
+            {"Page 1": "Introduction to positioning"},
+            {"Page 2": "Benefits of proper positioning"},
+            {"Page 3": "Common positioning techniques"}
+        ]
+    }
+}

@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+  "Guide": {
+    "parameters": [
+      {
+        "name": "pages",
+        "description": "list of pages with instructions on relaxation techniques",
+        "required": true,
+        "type": "book-page",
+        "book-page": "list of HTML texts"
+      }
+    ]
+  },
+  "Audio": {
+    "parameters": [
+      {
+        "name": "audio_url",
+        "description": "URL of the guided audio recording",
+        "required": true,
+        "type": "url"
+      }
+    ]
+  }
+}

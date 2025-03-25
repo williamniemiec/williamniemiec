@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Bleb Management Guide": {
+    "Parameters": {
+      "Bleb Identification": {"Type": "text"},
+      "Avoid Rolling Instructions": {"Type": "text"},
+      "Alternative Management Options": {"Type": "list of options"},
+      "Photos": {"Type": "camera"},
+      "Notes": {"Type": "text"}
+    }
+  }
+}

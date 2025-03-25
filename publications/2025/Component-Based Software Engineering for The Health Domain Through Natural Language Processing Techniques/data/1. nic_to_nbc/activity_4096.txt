@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+{
+  "name": "Weight Tracker",
+  "parameters": [
+    {
+      "name": "weight unit",
+      "type": "options"
+    },
+    {
+      "name": "frequency",
+      "type": "options"
+    },
+    {
+      "name": "chart type",
+      "type": "options"
+    }
+  ]
+}

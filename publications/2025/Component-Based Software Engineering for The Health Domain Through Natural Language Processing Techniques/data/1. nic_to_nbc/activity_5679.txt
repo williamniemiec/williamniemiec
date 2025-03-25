@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Room Assignment": {
+    "Parameters": {
+      "Room Type": {"Type": "options", "Options": ["single", "shared", "private"]},
+      "Indication": {"Type": "text"},
+      "Room Features": {"Type": "list", "Items": ["bed", "bathroom", "TV", "etc."]},
+      "Image/Video": {"Type": "image or video"},
+      "Room Orientation": {"Type": "text"}
+    }
+  }
+}

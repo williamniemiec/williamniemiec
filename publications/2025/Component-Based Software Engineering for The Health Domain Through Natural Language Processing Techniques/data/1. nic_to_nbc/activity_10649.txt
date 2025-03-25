@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Oxygen Therapy Setup": {
+    "Parameters": [
+      {"Name": "Oxygen Therapy Goal", "Description": "Specify the goal for oxygen therapy"},
+      {"Equipment Setup": "Oxygen Equipment Setup Instructions", "Description": "Provide step-by-step instructions for setting up oxygen equipment"},
+      {"Heated Humidified System": "Heated Humidified System Setup", "Description": "Provide instructions for setting up the heated, humidified system"},
+      {"Administration": "Oxygen Administration Instructions", "Description": "Provide instructions for administering oxygen through the heated, humidified system"},
+      {"Frequency": "Oxygen Therapy Frequency", "Description": "Specify how often to administer oxygen therapy"}
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+    "Mood Tracker": {
+        "Emotion Options": {"type": "options"},
+        "Intensity Scale": {"type": "options"},
+        "Frequency": {"options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+        "Deadline Date": {"type": "datetime"}
+    },
+    "Survey": {
+        "Questions": {"type": "list of text"},
+        "Answer Type": {"type": "options"},
+        "Frequency": {"options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+        "Deadline Date": {"type": "datetime"}
+    }
+}

@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Knowledge Assessment": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Topic": {"Type": "text"},
+      "Question Type": {"Type": "options"},
+      "Questions": {"Type": "list of questions"},
+      "Scoring": {"Type": "options"},
+      "Passing Score": {"Type": "numeric value"}
+    }
+  }
+}
+
+
+I removed all the unnecessary text and kept only the `{{ NO-CODE ELEMENT NAME }}` and `{{ PARAMETER ESPECIFICATIONS }}`. I also removed the not applicable parameters. Let me know if this is what you were expecting!

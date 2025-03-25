@@ -1,0 +1,32 @@
+
+
+
+{
+    "name": "Self-Reflection Exercise",
+    "parameters": [
+        {
+            "name": "prompt",
+            "type": "text"
+        },
+        {
+            "name": "identification",
+            "type": "list of text"
+        },
+        {
+            "name": "challenging",
+            "type": "list of text"
+        },
+        {
+            "name": "reframing",
+            "type": "list of text"
+        },
+        {
+            "name": "frequency",
+            "type": "options"
+        },
+        {
+            "name": "tracking",
+            "type": "boolean"
+        }
+    ]
+}

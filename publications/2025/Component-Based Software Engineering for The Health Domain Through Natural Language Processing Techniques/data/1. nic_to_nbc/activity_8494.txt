@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+    "Glucose Tracking": {
+        "Parameters": {
+            "Name": {},
+            "Family Member": {},
+            "Frequency": {
+                "options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+            },
+            "Deadline Date": {},
+            "Glucose Level": {},
+            "Notes": {}
+        }
+    }
+}

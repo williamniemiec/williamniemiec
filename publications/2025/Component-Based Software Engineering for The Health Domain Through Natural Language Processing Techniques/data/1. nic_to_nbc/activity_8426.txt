@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Self-Assessment": {
+    "Questions": [],
+    "Answer type": ["Multiple choice", "Likert scale", "open-ended text"],
+    "Scoring": "Optional",
+    "Frequency": "Specify how often the self-assessment should be taken",
+    "Deadline date": "Specify the due date for the self-assessment"
+  },
+  "Goal Setting": {
+    "Goal type": [],
+    "Goal description": "A text field for the patient to describe their goal in more detail",
+    "Target date": "Specify the date by which the patient wants to achieve their goal",
+    "Progress tracking": "Optional"
+  }
+}
+
+
+Let me know if this is what you were expecting!

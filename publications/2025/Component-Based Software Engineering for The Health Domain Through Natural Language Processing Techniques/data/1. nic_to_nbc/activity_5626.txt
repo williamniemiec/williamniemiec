@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Diagnosis": {
+    "Medical Diagnoses": {"type": "list of text"},
+    "Nursing Diagnoses": {"type": "list of text"}
+  },
+  "Question": {
+    "Medical Diagnoses Question": {"type": "text"},
+    "Nursing Diagnoses Question": {"type": "text"}
+  }
+}

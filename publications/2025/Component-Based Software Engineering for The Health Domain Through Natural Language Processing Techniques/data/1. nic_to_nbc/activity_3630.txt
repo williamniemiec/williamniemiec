@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "IV Fluid Administration": {
+    "Fluid Type": {},
+    "Volume": {},
+    "Rate": {},
+    "Temperature": {}
+  }
+}
+
+
+I removed all non-parameter specifications and only kept the `{{ NO-CODE ELEMENT NAME }}` and `{{ PARAMETER ESPECIFICATIONS }}`. I also removed any parameters that were not applicable (i.e., had `Required`: false). Let me know if this meets your requirements!

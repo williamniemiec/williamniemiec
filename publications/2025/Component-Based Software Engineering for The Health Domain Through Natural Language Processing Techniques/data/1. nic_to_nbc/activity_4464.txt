@@ -1,0 +1,49 @@
+Here is the output in JSON format:
+
+
+{
+    "Sleep-Friendly Diet": {
+        "Foods and Beverages to Avoid": {
+            "Name": "foods and beverages to avoid",
+            "Description": "Which foods and beverages should you avoid before bedtime?",
+            "Type": "list",
+            "Items": [
+                {"value": "caffeine", "label": "Caffeine"},
+                {"value": "alcohol", "label": "Alcohol"},
+                {"value": "sugar", "label": "Sugar"},
+                {"value": "spicy food", "label": "Spicy food"},
+                {"value": "heavy meal", "label": "Heavy meal"},
+                {"value": "other", "label": "Other (please specify)"}
+            ]
+        },
+        "Why Avoid": {
+            "Name": "why avoid",
+            "Description": "Why should you avoid these foods and beverages before bedtime?",
+            "Type": "text"
+        },
+        "Alternative Options": {
+            "Name": "alternative options",
+            "Description": "What are some alternative foods and beverages you can consume before bedtime?",
+            "Type": "list",
+            "Items": [
+                {"value": "warm milk", "label": "Warm milk"},
+                {"value": "herbal tea", "label": "Herbal tea"},
+                {"value": "light snack", "label": "Light snack"},
+                {"value": "other", "label": "Other (please specify)"}
+            ]
+        },
+        "Frequency": {
+            "Name": "frequency",
+            "Description": "How often should you avoid bedtime foods and beverages that interfere with sleep?",
+            "Type": "options",
+            "Options": [
+                {"value": "daily", "label": "Daily"},
+                {"value": "onlyOnce", "label": "Only once"},
+                {"value": "everyHours", "label": "Every x hours"},
+                {"value": "everyDays", "label": "Every x days"}
+            ]
+        }
+    }
+}
+
+I removed the introduction, conclusion, and non-parameter specifications, and kept only the parameter specifications with their corresponding names, descriptions, types, items, etc. Let me know if you need any further modifications!

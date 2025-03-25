@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Bias Assessment": {
+    "parameters": {
+      "Questions": [
+        "Do you find yourself having different expectations or reactions to your child's or dependent adult's behavior based on their sex?",
+        "Do you think you might be more critical or lenient towards your child or dependent adult based on their appearance?",
+        "Do you find yourself making assumptions about your child's or dependent adult's abilities or potential based on their behavior?",
+        "Do you think you might be treating your child or dependent adult differently based on their sex, appearance, or behavior?"
+      ],
+      "Answer type": [
+        "Scale (e.g., 1-5, where 1 is \"strongly disagree\" and 5 is \"strongly agree\")",
+        "Open-ended text response"
+      ]
+    }
+  }
+}

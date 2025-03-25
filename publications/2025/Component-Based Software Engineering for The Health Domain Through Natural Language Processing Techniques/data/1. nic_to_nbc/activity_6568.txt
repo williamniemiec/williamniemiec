@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Ulcer Progress Tracking": {
+    "Parameters": {
+      "Date": {"Type": "datetime"},
+      "Description": {"Type": "text"},
+      "Photo": {"Type": "camera or image upload"},
+      "Measurement": {"Type": "numeric or text"},
+      "Notes": {"Type": "text"}
+    }
+  }
+}

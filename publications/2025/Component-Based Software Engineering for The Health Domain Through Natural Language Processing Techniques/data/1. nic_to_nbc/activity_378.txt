@@ -1,0 +1,30 @@
+Here is the output in JSON format:
+
+
+{
+  "Pain Alert": {
+    "Parameters": {
+      "Pain status": {
+        "Type": "options",
+        "Options": [
+          { "value": "improving", "label": "Improving" },
+          { "value": "noChange", "label": "No Change" },
+          { "value": "worsening", "label": "Worsening" }
+        ]
+      },
+      "Significant change": {
+        "Type": "options",
+        "Options": [
+          { "value": "yes", "label": "Yes" },
+          { "value": "no", "label": "No" }
+        ]
+      },
+      "Reason for alert": {
+        "Type": "text"
+      },
+      "Submit alert": {
+        "Type": "button"
+      }
+    }
+  }
+}

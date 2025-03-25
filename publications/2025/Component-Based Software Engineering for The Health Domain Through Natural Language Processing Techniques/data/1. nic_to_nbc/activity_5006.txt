@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "contraception provision": {
+        "Contraception Options": {"type": "list of contraception options with descriptions"},
+        "Prescription": {"type": "prescription form with input fields for patient information and contraception method"},
+        "Ordering System": {"type": "online ordering system with input fields for patient information and contraception method"},
+        "Resources": {"type": "list of resources with links or embedded content"},
+        "Frequency": {"options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+        "Deadline Date": {"type": "datetime"}
+    }
+}

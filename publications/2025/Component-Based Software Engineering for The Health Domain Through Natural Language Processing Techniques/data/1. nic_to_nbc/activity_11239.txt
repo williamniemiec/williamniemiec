@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Control and Review": {
+    "review_type": {
+      "type": "options",
+      "options": ["Scheduled", "Ad-hoc", "Triggered by specific events"]
+    },
+    "intervention_activity": {"type": "text"},
+    "review_criteria": {"type": "list of text"},
+    "intervention_threshold": {"type": "text"},
+    "intervention_actions": {
+      "type": "list of options",
+      "options": ["Approve", "Reject", "Modify", "Other"]
+    }
+  }
+}

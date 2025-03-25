@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Distraction Technique": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Description": {"Type": "text"},
+      "Type": {"Type": "options", "Options": ["breathing exercise", "visualization", "puzzle", "game", "music", "etc."]},
+      "Frequency": {"Type": "options", "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"Type": "datetime"}
+    }
+  }
+}

@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Airway Education": {
+    "Parameters": {
+      "Content": {
+        "Type": ["text", "video", "images", "etc."]
+      },
+      "Format": {
+        "Type": ["interactive quiz", "video lecture", "etc."]
+      },
+      "Target Audience": {
+        "Type": ["patient", "caregiver"]
+      }
+    }
+  }
+}

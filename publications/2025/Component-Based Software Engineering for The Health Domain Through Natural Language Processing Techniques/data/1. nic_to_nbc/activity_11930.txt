@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Wrap Stump": {
+    "Parameters": {
+      "Name": {},
+      "Instructions": {},
+      "Frequency": {},
+      "Deadline Date": {}
+    }
+  }
+}

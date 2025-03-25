@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "Learning Standard": {
+    "Standard Type": {
+      "type": "options",
+      "options": ["psychomotor", "interpersonal", "critical thinking", "affective", "cognitive", "other"]
+    },
+    "Standard Description": {
+      "type": "text"
+    },
+    "Performance Criteria": {
+      "type": "text"
+    },
+    "Assessment Method": {
+      "type": "options",
+      "options": ["quiz", "observation", "project", "self-assessment", "peer assessment", "other"]
+    },
+    "Target Level": {
+      "type": "options",
+      "options": ["beginner", "intermediate", "advanced", "other"]
+    }
+  }
+}

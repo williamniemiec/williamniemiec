@@ -1,0 +1,12 @@
+
+
+
+{
+    "Reminder": {
+        "Parameters": {
+            "Name": "Cover yourself",
+            "Description": "Remember to cover yourself to avoid unnecessary exposure and loss of heat",
+            "Frequency": "as needed" or "after surgery"
+        }
+    }
+}

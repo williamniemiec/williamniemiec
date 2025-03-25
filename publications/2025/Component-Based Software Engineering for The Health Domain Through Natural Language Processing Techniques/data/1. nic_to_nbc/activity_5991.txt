@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+    "Food Allergy/Intolerance Identifier": {
+        "Parameters": {
+            "Food Allergies": {"Type": "options"},
+            "Food Intolerances": {"Type": "options"},
+            "Symptoms": {"Type": "options"},
+            "Reaction Severity": {"Type": "options"},
+            "Avoidance Plan": {"Type": "text or link"}
+        }
+    },
+    "Food Allergy/Intolerance Tracker": {
+        "Parameters": {
+            "Food Entry": {"Type": "text or photo"},
+            "Reaction": {"Type": "options"},
+            "Symptoms": {"Type": "options"},
+            "Reminders": {"Type": "datetime"}
+        }
+    }
+}

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "reminder": {
+    "parameters": {
+      "name": {"type": "text"},
+      "message": {"type": "text"},
+      "frequency": {"type": "options", "options": ["Daily", "Weekly", "Monthly", "Quarterly"]},
+      "due_date": {"type": "datetime"},
+      "resources": {"type": "list", "options": ["Contact information for primary cardiologist", "Links to scheduling websites or apps", "Other resources (to be specified)"]}
+    }
+  }
+}

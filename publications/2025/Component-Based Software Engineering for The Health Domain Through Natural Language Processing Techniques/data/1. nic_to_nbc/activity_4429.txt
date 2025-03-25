@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Caregiver Decision Support": {
+        "Parameters": {
+            "Name": {"Type": "text"},
+            "Decision Types": {"Type": "list of options (with text and icons)"},
+            "Support Messages": {"Type": "list of text messages (with options for customization)"},
+            "Validation Level": {"Type": "options (with a list of possible validation levels)"},
+            "Resource Provision": {"Type": "boolean (true or false)"}
+        }
+    }
+}

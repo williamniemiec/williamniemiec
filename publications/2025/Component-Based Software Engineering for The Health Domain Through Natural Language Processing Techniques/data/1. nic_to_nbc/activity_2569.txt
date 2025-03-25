@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Positive Feedback": {
+    "Responsibility Area": {"type": "options"},
+    "Behavior Change": {"type": "text"},
+    "Feedback Message": {"type": "text"},
+    "Reward": {"type": "options"},
+    "Frequency": {"type": "options"}
+  }
+}

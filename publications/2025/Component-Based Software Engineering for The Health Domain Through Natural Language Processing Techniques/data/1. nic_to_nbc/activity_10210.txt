@@ -1,0 +1,29 @@
+Here is the output in JSON format:
+
+
+{
+  "Guide": {
+    "parameters": ["name", "pages"]
+  },
+  "Task": {
+    "parameters": ["name", "content", "frequency", "deadline_date"]
+  },
+  "Question": {
+    "parameters": ["name", "answer type", "frequency", "deadline_date"]
+  },
+  "Video": {
+    "parameters": ["name", "video_url", "description"]
+  },
+  "Seizure Precautions Checklist": {
+    "parameters": [],
+    "type": "checklist or table"
+  },
+  "Seizure Action Plan": {
+    "parameters": [],
+    "type": "text or interactive module"
+  },
+  "Seizure Education": {
+    "parameters": [],
+    "type": "text, video, or interactive module"
+  }
+}

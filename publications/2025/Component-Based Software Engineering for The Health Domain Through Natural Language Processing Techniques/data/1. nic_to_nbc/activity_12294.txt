@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "GI Symptom Tracker": {
+    "Parameters": {
+      "Symptoms": {
+        "Type": "checklist"
+      },
+      "Severity": {
+        "Type": "options"
+      },
+      "Frequency": {
+        "Type": "options"
+      },
+      "Duration": {
+        "Type": "number",
+        "Units": ["hours", "days"]
+      },
+      "Notes": {
+        "Type": "text"
+      }
+    }
+  }
+}

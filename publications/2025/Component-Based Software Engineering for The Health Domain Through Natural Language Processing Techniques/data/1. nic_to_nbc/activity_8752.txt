@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+    "Joint Movement Assessment": {
+        "Name": {"Type": "text"},
+        "Description": {"Type": "text"},
+        "Joint Selection": {"Type": "options", "Examples": ["Shoulder", "Elbow", "Wrist", "Hip", "Knee", "Ankle"]},
+        "Movement Assessment": {"Type": "text or video", "Examples": ["Can you lift your arm above your head?", "Can you bend your knee?"]},
+        "Functional Impact": {"Type": "text or rating scale", "Examples": ["How difficult is it for you to perform daily activities?", "Rate your ability to walk or climb stairs"]},
+        "Pain and Discomfort": {"Type": "rating scale or text", "Examples": ["Rate your pain level from 1-10", "Describe any discomfort or pain you experience"]},
+        "Recommendations": {"Type": "text or video"}
+    }
+}
+
+
+Let me know if this is what you were looking for!

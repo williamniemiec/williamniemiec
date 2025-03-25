@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "caloric_protein_intake_verification": {
+    "daily_caloric_intake": {},
+    "daily_protein_intake": {},
+    "protein_sources": {},
+    "verification_frequency": {},
+    "reminders": {}
+  }
+}

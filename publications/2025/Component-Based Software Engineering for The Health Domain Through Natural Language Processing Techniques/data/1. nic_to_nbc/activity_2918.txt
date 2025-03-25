@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+
+{
+  "Habit Substitution": {
+    "Undesirable Habit": {"type": "text"},
+    "Desirable Habit": {"type": "text"},
+    "Reason": {"type": "text"},
+    "Frequency": {"options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"type": "datetime"},
+    "Tracking": {"options": ["yes", "no"]},
+    "Reminders": {"options": ["yes", "no"]}
+  }
+}

@@ -1,0 +1,41 @@
+Here is the output in JSON format:
+
+
+{
+  "Accommodation Information": {
+    "parameters": [
+      {
+        "name": "accommodation_options",
+        "description": "List of available sleeping arrangements",
+        "required": true,
+        "type": "list",
+        "list_items": [
+          {
+            "label": "Hotel",
+            "value": "hotel"
+          },
+          {
+            "label": "Hostel",
+            "value": "hostel"
+          },
+          {
+            "label": "Other",
+            "value": "other"
+          }
+        ]
+      },
+      {
+        "name": "contact_info",
+        "description": "Contact information for accommodation arrangements",
+        "required": true,
+        "type": "text"
+      },
+      {
+        "name": "notes",
+        "description": "Additional notes or instructions",
+        "required": false,
+        "type": "text"
+      }
+    ]
+  }
+}

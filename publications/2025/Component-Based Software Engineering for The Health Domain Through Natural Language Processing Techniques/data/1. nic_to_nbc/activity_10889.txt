@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+  "Specimen Tracking": {
+    "Parameters": {
+      "Specimen Type": {
+        "Type": "options"
+      },
+      "Test Type": {
+        "Type": "options"
+      },
+      "Collection Date": {
+        "Type": "datetime"
+      },
+      "Collection Method": {
+        "Type": "options"
+      },
+      "Lab Results": {
+        "Type": "numeric or text"
+      },
+      "Notes": {
+        "Type": "text"
+      }
+    }
+  }
+}

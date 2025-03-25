@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Pain History": {
+    "parameters": [
+      {"Personal Pain History": {"type": ["text", "options"]}},
+      {"Family Pain History": {"type": ["text", "options"]}},
+      {"Chronic Pain History": {"type": ["text", "options"]}},
+      {"Disability History": {"type": ["text", "options"]}},
+      {"Pain Management History": {"type": ["text", "options"]}}
+    ]
+  }
+}

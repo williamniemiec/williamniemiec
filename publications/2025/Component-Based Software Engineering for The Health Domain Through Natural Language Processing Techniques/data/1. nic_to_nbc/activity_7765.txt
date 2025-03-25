@@ -1,0 +1,33 @@
+Here is the output in JSON format:
+
+
+{
+    "Support Group Directory": {
+        "parameters": {
+            "name": "title of the support group directory",
+            "groups": "list of support groups with descriptions, meeting times, and locations",
+            "filters": "list of filters for searching support groups (e.g., location, condition, meeting time)"
+        }
+    },
+    "Visitor Request": {
+        "parameters": {
+            "name": "title of the visitor request",
+            "request": "text input for patients to request a visit from a support group member",
+            "preferences": "list of preferences for the visit (e.g., date, time, location)"
+        }
+    },
+    "Visitor Matching": {
+        "parameters": {
+            "name": "title of the visitor matching",
+            "matches": "list of potential visitor matches with profiles and availability",
+            "filters": "list of filters for searching visitor matches (e.g., location, condition, availability)"
+        }
+    },
+    "Visit Scheduling": {
+        "parameters": {
+            "name": "title of the visit scheduling",
+            "schedule": "list of scheduled visits with dates, times, and locations",
+            "reminders": "list of reminders for upcoming visits"
+        }
+    }
+}

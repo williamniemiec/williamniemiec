@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+  "Family Expectations Survey": {
+    "Questions": {
+      "type": "form",
+      "options": ["multiple-choice", "Likert scale", "open-ended text"]
+    },
+    "Family Members": {
+      "type": "list of names or relationships"
+    },
+    "Expectation Categories": {
+      "type": "list of categories"
+    },
+    "Frequency": {
+      "options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+    },
+    "Deadline Date": {
+      "type": "datetime"
+    },
+    "Name": {
+      "type": "text"
+    }
+  }
+}

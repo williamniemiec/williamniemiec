@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Motivation Board": {
+    "Behavior selection": {"type": "options", "options": ["exercise", "meditation", "reading", "etc."]},
+    "Reminder messages": {"type": "text"},
+    "Encouragement signs": {"type": "image or text"},
+    "Display frequency": {"type": "options", "options": ["daily", "weekly", "monthly", "etc."]},
+    "Customization": {"type": "boolean"},
+    "Deadline date": {"type": "datetime"}
+  }
+}

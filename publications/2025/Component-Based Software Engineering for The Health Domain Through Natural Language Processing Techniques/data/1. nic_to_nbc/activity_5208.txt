@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+    "Treatment Prescription Guidance": {
+        "parameters": [
+            {"Title": {"type": "text"}},
+            {"Content": {"type": "text"}},
+            {"Indications": {"type": "list of indications"}},
+            {"Contraindications": {"type": "list of contraindications"}},
+            {"Treatment Options": {"type": "list of treatment options"}},
+            {"Prescription Instructions": {"type": "text"}},
+            {"Resources": {"type": "list of URLs or text"}},
+            {"Medication List": {"type": "list of medications"}}
+        ]
+    }
+}

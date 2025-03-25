@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Goal Journaling": {
+    "parameters": [
+      {"name": "Goal Entry", "type": "text"},
+      {"name": "Goal Description", "type": "text"},
+      {"name": "Goal Reflection", "type": "text"},
+      {"name": "Goal Review", "type": "text"},
+      {"name": "Goal Tracking", "type": "checkbox or rating scale"}
+    ]
+  }
+}

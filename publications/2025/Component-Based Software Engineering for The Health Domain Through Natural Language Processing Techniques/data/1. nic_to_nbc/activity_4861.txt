@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+    "procedure": {
+        "parameters": [
+            {"name": "Steps", "type": "list of text or HTML"},
+            {"name": "Rationale", "type": "text or HTML"}
+        ]
+    }
+}

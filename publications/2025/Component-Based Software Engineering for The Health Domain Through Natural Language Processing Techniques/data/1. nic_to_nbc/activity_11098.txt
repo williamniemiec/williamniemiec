@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Poison Control Center Guide": {
+    "parameters": {
+      "Contact Information": {"type": "text"},
+      "Guidance": {"type": "text"},
+      "Communication Tips": {"type": "text"}
+    }
+  }
+}

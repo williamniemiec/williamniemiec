@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Influence Awareness Tool": {
+    "Parameters": {
+      "Title": {"Type": "text"},
+      "Influence Categories": {"Type": "list of influence categories (e.g., text)"},
+      "Influence Examples": {"Type": "list of influence examples (e.g., text)"},
+      "Interactive Exercises": {"Type": "list of interactive exercises (e.g., text)"},
+      "Reflection Questions": {"Type": "list of reflection question (e.g., text)"},
+      "Values Assessment": {"Type": "values assessment tool (e.g., survey, quiz)"},
+      "Frequency": {"Options": ["daily", "onlyOnce", "everyDays"]},
+      "Deadline Date": {"Type": "datetime"}
+    }
+  }
+}

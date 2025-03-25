@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+  "noCodeElementName": "Monitoring",
+  "parameterSpecifications": {
+    "What to Monitor": {
+      "type": "text",
+      "value": "Effects of medication"
+    },
+    "Frequency": {
+      "options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+    },
+    "Deadline Date": {
+      "type": "datetime"
+    },
+    "Reporting": {
+      "type": "text",
+      "value": ["Log symptoms and effects in a journal", "Report to healthcare provider"]
+    }
+  }
+}

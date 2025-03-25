@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+    "daily_living_aids": {
+        "parameters": [
+            { 
+                "name": "aid_type", 
+                "description": "select type of daily living aid", 
+                "required": true, 
+                "type": "options",
+                "options": [
+                    { value: "clock", label: "Clock with large numbers" },
+                    { value: "telephone", label: "Telephone with large numbers" },
+                    { value: "other", label: "Other (please specify)" }
+                ]
+            },
+            { 
+                "name": "aid_description", 
+                "description": "provide a description of the daily living aid", 
+                "required": true, 
+                "type": "text"
+            }
+        ]
+    }
+}

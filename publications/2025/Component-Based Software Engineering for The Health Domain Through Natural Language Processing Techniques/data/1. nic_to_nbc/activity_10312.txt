@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Fluid and Nutrition Tracker": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Fluid Intake": {"Type": "options (with units)"},
+      "Nutritional Intake": {"Type": "options (with units)"},
+      "Frequency": {"Type": "options"},
+      "Deadline Date": {"Type": "datetime"},
+      "Goals": {"Type": "text"}
+    }
+  }
+}

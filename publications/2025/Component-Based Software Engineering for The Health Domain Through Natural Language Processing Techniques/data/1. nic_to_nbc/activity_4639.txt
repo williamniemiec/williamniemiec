@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+  "Body Part or Unit": {
+    "type": "options",
+    "options": ["arm", "leg", "body-as-unit", "other"]
+  },
+  "Condition or Situation": {
+    "type": "options",
+    "options": ["insect sting", "poison ingestion", "alcohol and drug intoxication", "other"]
+  },
+  "Positioning Instructions": {
+    "type": "text"
+  },
+  "Frequency of Positioning": {
+    "type": "options",
+    "options": ["continuously", "as needed", "other"]
+  },
+  "Duration of Positioning": {
+    "type": "text"
+  },
+  "Positioning Guide": {}
+}
+
+
+Note: I removed the `Deadline Date` and `Notes` parameters as they are not applicable in this context.

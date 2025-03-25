@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+    "Transfer Technique Instruction": {
+        "Parameters": {
+            "Selected Transfer Technique": {"Type": "text"},
+            "Instructional Content": {"Type": "multimedia"},
+            "Demonstration": {"Type": "multimedia"},
+            "Practice Exercises": {"Type": "interactive"},
+            "Progress Tracking": {"Type": "tracking"},
+            "Feedback and Encouragement": {"Type": "text or multimedia"}
+        }
+    }
+}

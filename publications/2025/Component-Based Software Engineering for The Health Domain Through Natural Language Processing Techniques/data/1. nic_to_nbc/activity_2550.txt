@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+    "Comfort Level Tracker": {
+        "Rating Scale": {"type": "options"},
+        "Frequency": {"type": "options"},
+        "Threshold": {"type": "number"},
+        "Action": {"type": "text"}
+    }
+}

@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Resource": {
+    "parameters": {
+      "type": {"type": "options"},
+      "description": {"type": "text"},
+      "link": {"type": "text or link"},
+      "instructions": {"type": "text or HTML"}
+    }
+  }
+}

@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+    "Budget Tracker": {
+        "parameters": {
+            "name": {"type": "text"},
+            "categories": {"type": "list of text"},
+            "expenses": {"type": "list of objects with `category`, `amount`, and `date` properties"},
+            "budget_limit": {"type": "number"}
+        }
+    },
+    "Financial Resource List": {
+        "parameters": {
+            "name": {"type": "text"},
+            "resources": {"type": "list of objects with `name`, `description`, and `url` properties"}
+        }
+    }
+}

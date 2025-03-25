@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Learner Need Prioritization": {
+    "parameters": {
+      "Learner Need": {"type": "text"},
+      "Client Preference": {"type": "rating scale (e.g., 1-5)"},
+      "Nurse Skills": {"type": "rating scale (e.g., 1-5)"},
+      "Resource Availability": {"type": "rating scale (e.g., 1-5)"},
+      "Goal Attainment Likelihood": {"type": "rating scale (e.g., 1-5)"},
+      "Priority Score": {"type": "calculated score"}
+    }
+  }
+}

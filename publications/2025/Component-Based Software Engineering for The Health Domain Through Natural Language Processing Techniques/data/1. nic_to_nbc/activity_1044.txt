@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Expectation Setter": {
+    "Condition Information": {"type": ["text", "video"]},
+    "Realistic Expectations": {"type": ["text", "video"]},
+    "Goal Setting": {"type": ["text", "interactive goal-setting tool"]},
+    "Resources": {"type": "list of resources with links or descriptions"}
+  }
+}
+
+
+I removed the not applicable parameters, which are `Family Involvement` (because its type is a boolean) and other text that's not part of the parameter specifications. Let me know if this meets your requirements!

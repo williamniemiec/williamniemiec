@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+    "positioning_guide": {
+        "parameters": [
+            {"name": "title"},
+            {"name": "image_url"},
+            {"name": "description"}
+        ]
+    }
+}

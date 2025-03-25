@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Fluid and Food Recommendations": {
+        "parameters": {
+            "Fluid Recommendations": {},
+            "Food Recommendations": {},
+            "Temperature": {},
+            "Frequency": {},
+            "Tracking": {}
+        }
+    }
+}

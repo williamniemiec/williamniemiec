@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Health History": {
+    "parameters": {
+      "Questions": [...],
+      "Answer type": [...]
+    }
+  },
+  "Screening Tool": {
+    "parameters": {
+      "Screening questions": [...],
+      "Answer type": [...],
+      "Scoring": [...]
+    }
+  }
+}

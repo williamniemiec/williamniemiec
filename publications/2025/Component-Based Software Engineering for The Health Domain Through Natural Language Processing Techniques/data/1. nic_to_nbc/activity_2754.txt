@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+
+{
+"Support Guide": {
+    "Parameters": {
+        "Support Guide Title": {},
+        "Affected Body Part": {},
+        "Instructions": {},
+        "Support Guide Media": {},
+        "Frequency": {}
+    }
+}
+}

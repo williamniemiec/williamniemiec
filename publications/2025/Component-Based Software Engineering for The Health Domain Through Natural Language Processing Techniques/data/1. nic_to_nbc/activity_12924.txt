@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Bleeding Education": {
+    "Title": {},
+    "Signs of Bleeding": {},
+    "Actions to Take": {},
+    "Contact Information": {},
+    "Frequency": {}
+  }
+}

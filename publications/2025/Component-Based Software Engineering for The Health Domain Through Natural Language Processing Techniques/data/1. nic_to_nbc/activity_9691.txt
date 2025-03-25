@@ -1,0 +1,36 @@
+Here is the output in JSON format:
+
+
+{
+  "Follow-up Coach": {
+    "Parameters": {
+      "Follow-up Schedule": {
+        "Frequency": {
+          "Type": "options",
+          "Options": ["weekly", "biweekly", "monthly", "custom"]
+        },
+        "Duration": {
+          "Type": "time interval"
+        }
+      },
+      "Contact Method": {
+        "Type": "options",
+        "Options": ["phone call", "video call", "in-person visit", "custom"]
+      },
+      "Reinforcement Content": {
+        "Type": "text or multimedia content"
+      },
+      "Patient Engagement": {
+        "Type": "options",
+        "Options": ["active participation", "passive listening", "custom"]
+      },
+      "Follow-up Tracking": {
+        "Type": "options",
+        "Options": ["automated tracking", "manual tracking", "custom"]
+      }
+    }
+  }
+}
+
+
+Let me know if this is what you were expecting!

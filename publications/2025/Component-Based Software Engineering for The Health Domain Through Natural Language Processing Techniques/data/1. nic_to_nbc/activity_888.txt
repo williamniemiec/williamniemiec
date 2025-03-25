@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Guideline": {
+    "Parameters": {
+      "Device/Equipment": {"type": "text"},
+      "Guidelines": {"type": "list of guidelines"},
+      "Frequency": {"options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"type": "datetime"},
+      "Reminders": {"type": "boolean"}
+    }
+  }
+}

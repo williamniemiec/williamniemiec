@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Reconciliation": {
+    "Transition Point": {"Type": "options", "Options": ["admission", "transfer", "discharge"]},
+    "Current Medication List": {"Type": "unordered list"},
+    "New Medication List": {"Type": "unordered list"},
+    "Reconciliation Questions": {"Type": "form", "Options": ["yes/no questions", "multiple-choice questions", "open-ended questions"]},
+    "Verification": {"Type": "boolean"},
+    "Notes": {"Type": "text"}
+  }
+}

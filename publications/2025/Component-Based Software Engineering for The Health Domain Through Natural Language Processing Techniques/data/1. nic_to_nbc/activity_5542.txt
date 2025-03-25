@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Clear Communication": {
+    "Consequences": {"type": "text"},
+    "Behavioral Expectations": {"type": "text"},
+    "Language": {"type": "language selection"},
+    "Tone": {"type": "tone selection"},
+    "Readability": {"type": "readability score"},
+    "Patient Understanding": {"type": "multiple-choice questions or true/false questions"}
+  }
+}
+
+
+I removed all the unnecessary parts and kept only the `{{ NO-CODE ELEMENT NAME }}` and `{{ PARAMETER ESPECIFICATIONS }}`. I also reformatted the parameters to make them more readable in JSON format. Let me know if you need any further adjustments!

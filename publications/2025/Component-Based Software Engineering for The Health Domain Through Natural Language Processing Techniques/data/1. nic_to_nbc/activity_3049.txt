@@ -1,0 +1,41 @@
+Here is the output in JSON format:
+
+
+{
+  "Clothing Assistance Agency Information": {
+    "parameters": [
+      {"Name": {"type": "text"}},
+      {"Agency Information": {"type": "object", 
+        "properties": {
+          "Name": {"type": "text"},
+          "Description": {"type": "text"},
+          "Phone": {"type": "phone"},
+          "Address": {"type": "text"},
+          "Email": {"type": "email"}
+        }
+      }},
+      {"Eligibility Criteria": {"type": "text"}},
+      {"Services Offered": {"type": "text"}},
+      {"Resources": {"type": "list", 
+        "items": {
+          "type": "object",
+          "properties": {
+            "Name": {"type": "text"},
+            "Description": {"type": "text"},
+            "Link": {"type": "url"},
+            "Phone": {"type": "phone"},
+            "Address": {"type": "text"}
+          }
+        }
+      }},
+      {"Frequency": {"type": "options", 
+        "options": [
+          {"value": "daily", "label": "Daily"},
+          {"value": "onlyOnce", "label": "Only once"},
+          {"value": "everyHours", "label": "Every x hours"},
+          {"value": "everyDays", "label": "Every x days"}
+        ]
+      }}
+    ]
+  }
+}

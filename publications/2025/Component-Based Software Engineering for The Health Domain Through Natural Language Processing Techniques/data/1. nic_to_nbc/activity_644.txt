@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Chest Physiotherapy Assessment": {
+    "Indication": {"Type": "options", "Required": true, "Options": ["atelectasis", "pneumonia", "other (please specify)"]},
+    "Technique": {"Type": "options", "Required": true, "Options": ["percussion", "vibration", "drainage", "other (please specify)"]},
+    "Frequency": {"Type": "options", "Required": true, "Options": ["daily", "twice daily", "other (please specify)"]},
+    "Duration": {"Type": "number", "Required": true}
+  }
+}
+
+
+I removed the not applicable parameters (`Response`, `Complications`, and `Notes`) as they are not required. Let me know if you need anything else!

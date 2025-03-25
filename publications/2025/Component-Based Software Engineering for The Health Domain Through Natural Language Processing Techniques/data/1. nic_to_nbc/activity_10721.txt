@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Empathy Statement": {
+    "Message": {"type": "text"},
+    "Image": {"type": "image"},
+    "Frequency": {"options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"type": "datetime"}
+  }
+}

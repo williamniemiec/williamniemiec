@@ -1,0 +1,29 @@
+Here is the output in JSON format:
+
+
+{
+    "Medication List": {
+        "parameters": [
+            "medications",
+            "dosages",
+            "start_date",
+            "end_date"
+        ]
+    },
+    "Sleep Diary": {
+        "parameters": [
+            "sleep_quality",
+            "sleep_duration",
+            "wake_up_time",
+            "bedtime",
+            "sleep_disturbances"
+        ]
+    },
+    "Medication Sleep Impact": {
+        "parameters": [
+            "medication",
+            "sleep_impact",
+            "evidence"
+        ]
+    }
+}

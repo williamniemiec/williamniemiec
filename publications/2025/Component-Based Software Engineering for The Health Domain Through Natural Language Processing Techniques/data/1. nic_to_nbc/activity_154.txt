@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Tourniquet Application",
+  "parameters": [
+    {
+      "name": "Puncture Site"
+    },
+    {
+      "name": "Tourniquet Location"
+    },
+    {
+      "name": "Tourniquet Type"
+    }
+  ]
+}
+
+
+Let me know if this is what you were expecting!

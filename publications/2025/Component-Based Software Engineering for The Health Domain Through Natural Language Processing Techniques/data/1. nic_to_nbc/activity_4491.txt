@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Life Story Rebuilder": {
+    "Parameters": {
+      "Life Story": {"Type": "interactive timeline or narrative"},
+      "Trauma Integration": {"Type": "interactive exercise with prompts and examples"},
+      "Meaning Making": {"Type": "interactive reflection or journaling exercise"},
+      "Coherence Building": {"Type": "interactive storytelling or writing exercise"},
+      "Reflection": {"Type": "text or audio reflection"}
+    }
+  }
+}

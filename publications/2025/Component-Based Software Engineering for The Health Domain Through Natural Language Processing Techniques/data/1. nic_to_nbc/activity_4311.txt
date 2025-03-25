@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+{
+  "Self-Assessment": {
+    "Body Image Question": {"Type": "scale"},
+    "Social Isolation Question": {"Type": "scale"},
+    "Impact Question": {"Type": "scale"}
+  },
+  "Reflection": {
+    "Reflection Prompt": {"Type": "text"},
+    "Reflection Response": {"Type": "text"}
+  }
+}

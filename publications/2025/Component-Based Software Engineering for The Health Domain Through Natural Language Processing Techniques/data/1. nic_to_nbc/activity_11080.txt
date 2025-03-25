@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Exercise Prescription": {
+    "Parameters": {
+      "Name": {},
+      "Description": {},
+      "Frequency": {},
+      "Duration": {},
+      "Intensity": {},
+      "Customization": {},
+      "Progress Tracking": {},
+      "Reminders": {}
+    }
+  }
+}

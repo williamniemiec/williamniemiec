@@ -1,0 +1,36 @@
+Here is the output in JSON format:
+
+
+{
+  "Wound Dressing": {
+    "Dressing Instructions": {
+      "Description": "Step-by-step instructions on how to bandage the site",
+      "Required": true,
+      "Type": "text"
+    },
+    "Dressing Type": {
+      "Description": "Type of dressing to use (e.g., gauze, bandage)",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "gauze", "label": "Gauze" },
+        { "value": "bandage", "label": "Bandage" },
+        { "value": "other", "label": "Other" }
+      ]
+    },
+    "Frequency": {
+      "Description": "How often to change the dressing",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "daily", "label": "Daily" },
+        { "value": "onlyOnce", "label": "Only once" },
+        { "value": "everyHours", "label": "Every x hours" },
+        { "value": "everyDays", "label": "Every x days" }
+      ]
+    }
+  }
+}
+
+
+Note: I removed the `Deadline Date` parameter since it's not required. Let me know if you want to include non-required parameters as well!

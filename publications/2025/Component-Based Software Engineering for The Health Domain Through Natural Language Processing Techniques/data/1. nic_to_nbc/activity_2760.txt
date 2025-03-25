@@ -1,0 +1,49 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Social Skills Training Session",
+    "parameters": [
+        {
+            "name": "Significant Others",
+            "type": "options",
+            "options": [
+                { value: "family", label: "Family" },
+                { value: "peers", label: "Peers" },
+                { value: "employers", label: "Employers" },
+                { value: "others", label: "Others" }
+            ]
+        },
+        {
+            "name": "Training Session Type",
+            "type": "options",
+            "options": [
+                { value: "role play", label: "Role Play" },
+                { value: "group discussion", label: "Group Discussion" },
+                { value: "individual coaching", label: "Individual Coaching" }
+            ]
+        },
+        {
+            "name": "Training Session Content",
+            "type": "text"
+        },
+        {
+            "name": "Duration",
+            "type": "time"
+        },
+        {
+            "name": "Frequency",
+            "type": "options",
+            "options": [
+                { value: "one-time", label: "One-time" },
+                { value: "daily", label: "Daily" },
+                { value: "weekly", label: "Weekly" },
+                { value: "monthly", label: "Monthly" }
+            ]
+        },
+        {
+            "name": "Deadline Date",
+            "type": "datetime"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+    "Receptivity Schedule": {
+        "Parameters": {
+            "Receptive time": {
+                "Type": "options",
+                "Options": ["morning", "afternoon", "evening", "specific time range (e.g., 9:00-10:00 am)"]
+            },
+            "Receptive days": {
+                "Type": "options",
+                "Options": ["Monday", "Tuesday", "Wednesday", "etc.", "weekdays", "weekends"]
+            },
+            "Energy levels": {
+                "Type": "scale",
+                "Options": ["1-5, where 1 is low energy and 5 is high energy"]
+            }
+        }
+    }
+}

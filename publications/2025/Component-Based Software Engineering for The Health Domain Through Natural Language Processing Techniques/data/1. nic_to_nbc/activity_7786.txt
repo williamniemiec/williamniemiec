@@ -1,0 +1,33 @@
+Here is the output in JSON format:
+
+
+{
+  "PRN Medication Assessment": {
+    "Parameters": {
+      "Symptom List": {
+        "Type": "list of symptoms",
+        "Required": true,
+        "Properties": {
+          "Symptom Name": {"Type": "text", "Required": true},
+          "Severity Scale": {"Type": "options", "Required": true}
+        }
+      },
+      "Assessment Questions": {
+        "Type": "list of assessment questions",
+        "Required": true,
+        "Properties": {
+          "Question Text": {"Type": "text", "Required": true},
+          "Answer Options": {"Type": "list of answer options", "Required": true}
+        }
+      },
+      "PRN Medication List": {
+        "Type": "list of medications",
+        "Required": true,
+        "Properties": {
+          "Medication Name": {"Type": "text", "Required": true},
+          "Dosage Instructions": {"Type": "text", "Required": true}
+        }
+      }
+    }
+  }
+}

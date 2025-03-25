@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+  "Clear Communicator": {
+    "Parameters": {
+      "Title": {"Type": "text"},
+      "Communication Tactics": {
+        "Type": "list of communication tactics",
+        "Communication Tactic": {
+          "Type": {"Type": "options", "Options": ["plain language", "visual aids", "active listening", "etc."]},
+          "Description": {"Type": "text"}
+        }
+      },
+      "Communication Protocols": {
+        "Type": "list of communication protocols",
+        "Communication Protocol": {
+          "Type": {"Type": "options", "Options": ["impaired literacy", "limited English proficiency", "etc."]},
+          "Description": {"Type": "text"}
+        }
+      },
+      "Staff Training": {"Type": "text"},
+      "Patient Feedback": {"Type": "text"},
+      "Quality Improvement": {"Type": "text"}
+    }
+  }
+}

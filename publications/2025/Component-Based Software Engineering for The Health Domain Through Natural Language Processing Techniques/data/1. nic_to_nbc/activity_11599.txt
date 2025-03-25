@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+    "Sitting Position Reminder": {
+        "Reminder Trigger": {"type": "options", "options": ["before every meal", "before specific meals", "when opening a food container", "etc."]},
+        "Sitting Position Instructions": {"type": "text or image"},
+        "Customization": {"type": "boolean"},
+        "Tracking": {"type": "boolean"}
+    }
+}

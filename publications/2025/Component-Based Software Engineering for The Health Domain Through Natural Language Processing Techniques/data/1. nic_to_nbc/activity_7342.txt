@@ -1,0 +1,46 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Rationale Explanation",
+  "parameters": [
+    {
+      "name": "Recommendation",
+      "type": "text"
+    },
+    {
+      "name": "Rationale",
+      "type": "text"
+    },
+    {
+      "name": "Evidence",
+      "type": "text or link"
+    },
+    {
+      "name": "Benefits",
+      "type": "unordered list"
+    },
+    {
+      "name": "Risks",
+      "type": "unordered list"
+    },
+    {
+      "name": "Alternatives",
+      "type": "unordered list"
+    },
+    {
+      "name": "Frequency",
+      "type": "options",
+      "options": [
+        { value: "daily" },
+        { value: "weekly" },
+        { value: "monthly" },
+        { value: "quarterly" }
+      ]
+    },
+    {
+      "name": "Deadline Date",
+      "type": "datetime"
+    }
+  ]
+}

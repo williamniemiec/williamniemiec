@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Rope and Pulley Check": {
+        "title of the checklist": {"type": "text"},
+        "Checklist Items": {"type": "list", "example items": ["Ropes are not tangled or twisted", "Pulleys are properly aligned", "Ropes are not caught on any obstacles"]},
+        "Images": {"type": "list of images"},
+        "Tips": {"type": "list"},
+        "Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+        "Deadline Date": {"type": "datetime"},
+        "Reminder": {"type": "boolean"}
+    }
+}

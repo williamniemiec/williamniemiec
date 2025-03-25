@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Bladder Monitoring": {
+    "Intake": {"Type": "number"},
+    "Output": {"Type": "number"},
+    "Emptying": {"Type": "text"},
+    "Palpability": {"Type": "text"},
+    "Color": {"Type": "text"},
+    "Odor": {"Type": "text"},
+    "Frequency": {"Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"Type": "datetime"},
+    "Instructions": {"Type": "text"},
+    "Resources": {"Type": "URL or HTML text"}
+  }
+}

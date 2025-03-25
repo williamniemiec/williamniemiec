@@ -1,0 +1,10 @@
+{
+  "name": "Tube and Tubing Maintenance",
+  "description": "Focuses on the verification, securement, and maintenance of nasogastric tubes, including clamping, removal, and marking procedures. Ensures proper care and upkeep of tubing.",
+  "type": "periodic",
+  "input": ["Tube verification", "Tubing securement", "Nasogastric tube maintenance", "Clamping procedures", "Tube removal steps"],
+  "output": ["Tubing maintenance report", "Verification checklist", "Removal and marking instructions"],
+  "preconditions": ["User is handling or managing tubing or nasogastric tubes"],
+  "postconditions": ["Proper maintenance and securement of tubing devices"],
+  "dependencies": ["Tubing maintenance tools", "Clamping and securement devices", "Verification systems"]
+}

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Creative Play Equipment": {
+    "Parameters": {
+      "Equipment Type": {},
+      "Creative Expression": {},
+      "Imaginative Play": {},
+      "Open-Ended": {},
+      "Examples": {}
+    }
+  }
+}

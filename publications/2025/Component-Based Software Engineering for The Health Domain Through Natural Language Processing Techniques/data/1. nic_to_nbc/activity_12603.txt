@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Bowel Functioning Support": {
+    "Parameters": {
+      "Stool Softener/Laxative": {"Type": "boolean"},
+      "Fluid Consumption": {"Type": "boolean"},
+      "Fiber Consumption": {"Type": "boolean"},
+      "Ambulation": {"Type": "boolean"},
+      "Frequency": {"Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"Type": "datetime"},
+      "Instructions": {"Type": "text"},
+      "Resources": {"Type": "URL or HTML text"}
+    }
+  }
+}

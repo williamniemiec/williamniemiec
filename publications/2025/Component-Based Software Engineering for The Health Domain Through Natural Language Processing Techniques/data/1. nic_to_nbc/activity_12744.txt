@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+{
+  "Correction": {
+    "parameters": [
+      {"Misinterpretation": {"type": "text"}},
+      {"Correct Information": {"type": "text"}},
+      {"Format": {"type": "options", "options": [{"value": "text", "label": "Text"}, {"value": "image", "label": "Image"}, {"value": "video", "label": "Video"}]}},
+      {"Frequency": {"type": "options", "options": [{"value": "daily", "label": "Daily"}, {"value": "onlyOnce", "label": "Only once"}, {"value": "everyHours", "label": "Every x hours"}, {"value": "everyDays", "label": "Every x days"}]}},
+      {"Deadline Date": {"type": "datetime"}}
+    ]
+  }
+}

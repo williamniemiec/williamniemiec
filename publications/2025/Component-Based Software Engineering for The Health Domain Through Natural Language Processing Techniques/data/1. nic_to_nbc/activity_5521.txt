@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Skin Care Reminder": {
+    "Parameters": {
+      "Message": {"Type": "text"},
+      "Frequency": {"Type": "options"},
+      "Deadline": {"Type": "datetime"},
+      "Affected Areas": {"Type": "list of text"}
+    }
+  }
+}

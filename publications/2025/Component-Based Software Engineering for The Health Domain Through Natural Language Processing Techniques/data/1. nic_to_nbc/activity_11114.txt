@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+"Counseling": {
+    "Name": {
+        "Type": "text"
+    },
+    "Contraceptive Methods": {
+        "Type": "options"
+    },
+    "Benefits": {
+        "Type": "interactive conversation with text and images"
+    },
+    "Risks": {
+        "Type": "interactive conversation with text and images"
+    },
+    "Proper Use": {
+        "Type": "interactive conversation with text and images"
+    },
+    "Patient Questions": {
+        "Type": "interactive Q&A with text input and response"
+    }
+}
+}

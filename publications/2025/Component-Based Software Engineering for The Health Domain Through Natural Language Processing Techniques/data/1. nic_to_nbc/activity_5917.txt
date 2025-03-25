@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+    "Cultural Profile": {
+        "Parameters": {
+            "Cultural Background": {
+                "Type": "options"
+            },
+            "Cultural Values": {
+                "Type": "text"
+            },
+            "Language Preference": {
+                "Type": "options"
+            },
+            "Cultural Resources": {
+                "Type": "links or embedded content"
+            }
+        }
+    }
+}

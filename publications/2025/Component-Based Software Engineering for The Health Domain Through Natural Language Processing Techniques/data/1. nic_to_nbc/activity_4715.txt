@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Blood Level Monitoring": {
+    "Parameters": {
+      "Medication List": {"Type": "unordered list"},
+      "Blood Draw Schedule": {"Type": "calendar"},
+      "Blood Level Results": {"Type": "numerical value"},
+      "Target Range": {"Type": "numerical value"},
+      "Alerts": {"Type": "notification"},
+      "Medication Adjustment": {"Type": "text"},
+      "Follow-up Schedule": {"Type": "calendar"}
+    }
+  }
+}

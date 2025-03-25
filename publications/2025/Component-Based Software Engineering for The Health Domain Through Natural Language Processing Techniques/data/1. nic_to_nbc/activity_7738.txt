@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Abdominal Girth Tracker": {
+    "measurement": {
+      "Description": "Abdominal girth measurement",
+      "Required": true,
+      "Type": "number",
+      "Unit": "cm or in"
+    },
+    "Date": {
+      "Description": "Date of measurement",
+      "Required": true,
+      "Type": "datetime"
+    }
+  }
+}
+
+
+I removed the `Notes` parameter since it's not applicable (its `Required` field is set to `false`). Let me know if this meets your requirements!

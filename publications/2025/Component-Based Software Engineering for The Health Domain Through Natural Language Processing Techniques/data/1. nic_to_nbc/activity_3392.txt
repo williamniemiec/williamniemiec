@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Urine Test Tracker": {
+    "Parameters": {
+      "Test Type": {},
+      "Result": {},
+      "Frequency": {},
+      "Deadline Date": {},
+      "Reference Range": {}
+    }
+  }
+}

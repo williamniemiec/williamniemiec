@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "Goal Tracker": {
+    "parameters": {
+      "Goal Name": {"type": "text"},
+      "Goal Description": {"type": "text"},
+      "Progress Type": {"type": "options", "options": [
+        {"value": "percentage", "label": "Percentage"},
+        {"value": "numerical", "label": "Numerical Value"},
+        {"value": "custom", "label": "Custom Progress Tracking"}
+      ]},
+      "Current Progress": {"type": "depends on Progress Type"},
+      "Target Progress": {"type": "depends on Progress Type"},
+      "Discussion Prompt": {"type": "text"},
+      "Frequency": {"type": "options", "options": [
+        {"value": "daily", "label": "Daily"},
+        {"value": "weekly", "label": "Weekly"},
+        {"value": "monthly", "label": "Monthly"}
+      ]},
+      "Deadline Date": {"type": "datetime"}
+    }
+  }
+}

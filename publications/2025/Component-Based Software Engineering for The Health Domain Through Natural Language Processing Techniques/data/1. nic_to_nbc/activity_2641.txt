@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Mirror Play": {
+    "Play Activity": {},
+    "Objective of Play": {},
+    "Instructions": {},
+    "Duration": {},
+    "Frequency": {}
+  }
+}

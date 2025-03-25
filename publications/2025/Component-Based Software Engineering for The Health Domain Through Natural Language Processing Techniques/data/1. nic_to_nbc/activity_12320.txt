@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Safety Tip": {
+    "Tip Title": {"type": "text"},
+    "Tip Content": {"type": "text"},
+    "Tip Type": {"type": "options", "options": [
+      {"value": "storage", "label": "Store medications in original container"},
+      {"value": "confusionMemory", "label": "Address issues with confusion or memory"},
+      {"value": "outOfReach", "label": "Store medications out of children's reach"}
+    ]},
+    "Frequency": {"type": "options", "options": [
+      {"value": "daily", "label": "Daily"},
+      {"value": "weekly", "label": "Weekly"},
+      {"value": "monthly", "label": "Monthly"}
+    ]}
+  }
+}

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Care Planning": {
+    "parameters": {
+      "Care Plan": {"type": "options"},
+      "Family Members": {"type": "text"},
+      "Financial Impact": {"type": "options"},
+      "Family Structure": {"type": "options"},
+      "Decision Support": {"type": "options"}
+    }
+  }
+}

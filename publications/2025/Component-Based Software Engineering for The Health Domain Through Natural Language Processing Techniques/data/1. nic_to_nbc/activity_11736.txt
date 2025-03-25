@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+    "Relationship Tracker": {
+        "parameters": {
+            "name": {"type": "text"},
+            "relationships": {"type": "list of objects with `relationship_name`, `relationship_type`, and `relationship_status` properties"}
+        }
+    },
+    "Communication Log": {
+        "parameters": {
+            "name": {"type": "text"},
+            "communications": {"type": "list of objects with `communication_date`, `communication_type`, and `communication_details` properties"}
+        }
+    },
+    "Involvement Encouragement": {
+        "parameters": {
+            "name": {"type": "text"},
+            "encouragement_messages": {"type": "list of text"},
+            "reminder_frequency": {"type": "options (e.g., daily, weekly, monthly, etc.)"}
+        }
+    }
+}

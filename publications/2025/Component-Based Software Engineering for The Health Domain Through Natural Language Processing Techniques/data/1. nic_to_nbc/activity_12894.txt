@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+  "Heel Boot Guide": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Instructions": {"Type": "text or video"},
+      "Images": {"Type": "image or diagram"},
+      "Tips": {"Type": "text"},
+      "Frequency": {"Type": "options"},
+      "Deadline Date": {"Type": "datetime"}
+    }
+  },
+  "Task": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Content": {"Type": "text"},
+      "Frequency": {"Type": "options"},
+      "Deadline Date": {"Type": "datetime"}
+    }
+  }
+}

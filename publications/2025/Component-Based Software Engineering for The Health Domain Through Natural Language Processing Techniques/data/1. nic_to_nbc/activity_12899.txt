@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Internal Cooling Method": {
+    "Parameters": {
+      "Method": {
+        "Type": "options"
+      },
+      "Instructions": {
+        "Type": "text"
+      },
+      "Duration": {
+        "Type": "options"
+      }
+    }
+  }
+}

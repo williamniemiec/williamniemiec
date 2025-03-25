@@ -1,0 +1,12 @@
+
+
+
+{
+  "Education": {
+    "Parameters": {
+      "Content": "text or multimedia content explaining the procedure and rationale",
+      "Format": "text, image, video, or audio",
+      "Optional": "additional resources or links for further information"
+    }
+  }
+}

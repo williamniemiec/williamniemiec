@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Exercise Plan Revision": {
+    "Current Exercise Plan": {"type": "text", "description": "Enter current exercise plan details, including type, frequency, and duration"},
+    "Revisions Needed": {"type": "text", "description": "Enter revisions needed, including changes to type, frequency, or duration"},
+    "Prescription Details": {"type": "text", "description": "Enter prescription details, including dosage, frequency, and duration"},
+    "Caregiver Involvement": {"type": "options", "options": ["yes", "no"]},
+    "Revision Frequency": {"type": "options", "options": ["daily", "weekly", "bi-weekly", "monthly"]},
+    "Notes": {"type": "text", "description": "Enter any additional notes or comments about the exercise plan revisions"}
+  }
+}

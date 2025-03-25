@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Bed Linen Care": {
+        "parameters": [
+            {"Name": {"type": "text"}},
+            {"Instructions": {"type": "text"}},
+            {"Image": {"type": "image"}},
+            {"Frequency": {"type": "options", "options": ["daily", "every other day", "weekly", "custom"]}}
+        ]
+    }
+}

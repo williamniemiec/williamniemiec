@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Experience Sharing": {
+    "Sharing Type": {"Type": "options", "Options": ["personal story", "tips", "advice", "lessons learned", "etc."]},
+    "Sharing Format": {"Type": "options", "Options": ["text", "video", "audio", "image", "etc."]},
+    "Sharing Frequency": {"Type": "options", "Options": ["daily", "weekly", "biweekly", "monthly"]},
+    "Prompt or Question": {"Type": "text"},
+    "Feedback and Support": {"Type": "boolean"}
+  }
+}

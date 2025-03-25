@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+    "Drug/Food Interactions": {
+        "parameters": [
+            {"Name": {"type": "text"}},
+            {"Medication Name": {"type": "text"}},
+            {"Interacting Substances": {"type": "list of text"}},
+            {"Interaction Effects": {"type": "list of text"}},
+            {"Precautions": {"type": "list of text"}},
+            {"Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]}}
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+Here is the output in JSON format:
+
+
+{
+  "Position Legs": {
+    "Angle": {
+      "type": "options",
+      "options": [
+        { "value": "20", "label": "20 degrees" }
+      ]
+    },
+    "Direction": {
+      "type": "options",
+      "options": [
+        { "value": "fromVertical", "label": "From vertical" }
+      ]
+    },
+    "Frequency": {
+      "type": "options",
+      "options": [
+        { "value": "daily", "label": "Daily" },
+        { "value": "onlyOnce", "label": "Only once" },
+        { "value": "everyHours", "label": "Every x hours" },
+        { "value": "everyDays", "label": "Every x days" }
+      ]
+    },
+    "Deadline Date": {
+      "type": "datetime"
+    },
+    "Instructions": {
+      "type": "text"
+    }
+  }
+}
+
+Let me know if this meets your requirements!

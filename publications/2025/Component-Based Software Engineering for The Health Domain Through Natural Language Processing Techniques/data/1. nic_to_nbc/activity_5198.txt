@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Fluid Restriction": {
+        "name": {"type": "text"},
+        "description": {"type": "text"},
+        "restriction_type": {"type": "options", "options": ["water", "juice", "tea", "coffee", "etc."]},
+        "restriction_amount": {"type": "text"},
+        "frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+        "deadline_date": {"type": "datetime"}
+    }
+}

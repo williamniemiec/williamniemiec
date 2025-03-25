@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Medical Alert Information Advice": {
+    "parameters": {
+      "name": {"type": "text"},
+      "why": {"type": "text"},
+      "medical_condition": {"type": "text"},
+      "alert_type": {"type": "options", "options": ["bracelet", "necklace", "card", "etc."]},
+      "information_to_display": {"type": "text"},
+      "notes": {"type": "text"}
+    }
+  }
+}

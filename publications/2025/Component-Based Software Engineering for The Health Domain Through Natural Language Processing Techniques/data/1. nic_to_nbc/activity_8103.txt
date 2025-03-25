@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Reflective Silence": {
+    "parameters": {
+      "silence_duration": {"type": "number"},
+      "reflection_prompt": {"type": "text"},
+      "response_type": {"type": "options"},
+      "emotional_intelligence": {"type": "boolean"},
+      "comfort_level": {"type": "boolean"}
+    }
+  }
+}

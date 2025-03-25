@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Behavioral Ignore": {
+    "Trigger": {"Type": "options", "Required": true},
+    "Message": {"Type": "text", "Required": true},
+    "Redirect Options": {"Type": "unordered list", "Required": true}
+  }
+}
+
+
+I removed the not applicable parameters (i.e., `Tips` since it's required false) and only kept the necessary information. Let me know if this meets your requirements!

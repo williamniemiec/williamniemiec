@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+  "bed_device_utilization": {
+    "Parameters": {
+      "Device Type": {
+        "Description": "Type of device to be used on the bed.",
+        "Required": true,
+        "Type": "options",
+        "Options": [
+          { "value": "sheepskin", "label": "Sheepskin" },
+          { "value": "mattress_overlay", "label": "Mattress overlay" },
+          { "value": "pressure_redistributing_pad", "label": "Pressure redistributing pad" },
+          { "value": "other", "label": "Other (please specify)" }
+        ]
+      },
+      "Instructions": {
+        "Description": "Additional instructions for using the device on the bed.",
+        "Required": false,
+        "Type": "text"
+      }
+    }
+  }
+}
+
+
+I removed `Image/Video` parameter since it's not applicable. Let me know if you need any further assistance!

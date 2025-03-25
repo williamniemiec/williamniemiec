@@ -1,0 +1,36 @@
+Here is the output in JSON format:
+
+
+{
+  "Remove External Objects": {
+    "Parameters": {
+      "Objects to Remove": {
+        "Description": "List of external objects to remove from the patient's body",
+        "Type": "list",
+        "List Items": [
+          { "value": "clothing", "label": "Clothing" },
+          { "value": "tubes", "label": "Tubes" },
+          { "value": "monitors", "label": "Monitors" },
+          { "value": "other", "label": "Other (please specify)" }
+        ]
+      },
+      "Removal Instructions": {
+        "Description": "Provide step-by-step instructions for removing each object",
+        "Type": "text"
+      },
+      "Frequency": {
+        "Description": "Specify how often the patient should be reminded to remove external objects",
+        "Type": "options",
+        "Options": [
+          { "value": "daily", "label": "Daily" },
+          { "value": "onlyOnce", "label": "Only once" },
+          { "value": "everyHours", "label": "Every x hours" },
+          { "value": "everyDays", "label": "Every x days" }
+        ]
+      }
+    }
+  }
+}
+
+
+I removed all unnecessary text and only kept the `{{ NO-CODE ELEMENT NAME }}` ("Remove External Objects") and `{{ PARAMETER ESPECIFICATIONS }}`. I also removed not applicable parameters. Let me know if this is what you were looking for!

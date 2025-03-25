@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Simple Instruction": {
+        "Parameters": {
+            "Title": {"Type": "text"},
+            "Content": {"Type": "rich text or multimedia"},
+            "Step-by-Step": {"Type": "boolean"},
+            "Readability Level": {"Type": "options"},
+            "Illustrations": {"Type": "boolean"}
+        }
+    }
+}

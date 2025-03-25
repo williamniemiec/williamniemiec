@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Mood Assessment": {
+    "Parameters": {
+      "Mood Rating": {
+        "Type": "options"
+      },
+      "Symptom Checklist": {
+        "Type": "checklist"
+      },
+      "Personal History": {
+        "Type": "text"
+      },
+      "Frequency": {
+        "Options": ["daily", "weekly", "bi-weekly", "monthly"]
+      }
+    }
+  }
+}

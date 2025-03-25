@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+  "SIDS Prevention Education": {
+    "Parameters": {
+      "Prevention Measures": {
+        "Description": "List of prevention measures for SIDS",
+        "Required": true,
+        "Type": "list",
+        "Options": [
+          {"value": "backToSleep", "label": "Place baby on back to sleep"},
+          {"value": "firmSleepSurface", "label": "Use a firm sleep surface"},
+          {"value": "tightFittingBedding", "label": "Use tight-fitting bedding"},
+          {"value": "roomSharing", "label": "Share a room with baby, but not a bed"},
+          {"value": "breastfeeding", "label": "Breastfeed"},
+          {"value": "avoidOverheating", "label": "Avoid overheating"},
+          {"value": "avoidSmoking", "label": "Avoid smoking and secondhand smoke"}
+        ]
+      }
+    }
+  }
+}

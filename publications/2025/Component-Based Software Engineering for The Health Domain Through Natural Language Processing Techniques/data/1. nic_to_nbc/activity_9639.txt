@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+  "Alert": {
+    "Parameters": {
+      "Title": {
+        "Type": "text"
+      },
+      "Content": {
+        "Type": "list"
+      },
+      "Description": {
+        "Type": "text"
+      },
+      "Severity": {
+        "Type": "options",
+        "Options": ["low", "moderate", "high"]
+      },
+      "Frequency": {
+        "Type": "options",
+        "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+      }
+    }
+  }
+}

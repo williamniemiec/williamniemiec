@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+  "Breathing and Relaxation Techniques": {
+    "Parameters": {
+      "Breathing Techniques": {
+        "Type": "checklist"
+      },
+      "Relaxation Techniques": {
+        "Type": "checklist"
+      },
+      "Instructions": {
+        "Type": "text"
+      },
+      "Videos and Images": {
+        "Type": "multimedia"
+      },
+      "Practice Exercises": {
+        "Type": "interactive"
+      }
+    }
+  }
+}
+
+
+Note: I removed the "Tracking Progress" parameter as it was marked with a "!" symbol, which I assumed meant it was not applicable.

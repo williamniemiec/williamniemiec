@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Grasping Guide": {
+    "Parameters": {
+      "Title": {"Description": "Title of the grasping guide", "Required": true, "Type": "text"},
+      "Grasping Options": {"Description": "Select the grasping options to encourage", "Required": true, "Type": "checklist", "Options": [{"value": "soft toys", "label": "Soft Toys"}, {"value": "caregiver's fingers", "label": "Caregiver's Fingers"}]},
+      "Grasping Technique": {"Description": "Description of the grasping technique", "Required": true, "Type": "text"},
+      "Activity": {"Description": "Interactive activity to encourage grasping", "Required": true, "Type": "interactive activity"}
+    }
+  }
+}

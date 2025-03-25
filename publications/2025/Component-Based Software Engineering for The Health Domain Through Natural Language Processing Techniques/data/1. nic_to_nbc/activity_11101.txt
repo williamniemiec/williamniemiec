@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Case Manager Role Explanation",
+  "parameters": [
+    {
+      "name": "Introduction"
+    },
+    {
+      "name": "Role Description"
+    },
+    {
+      "name": "Responsibilities"
+    },
+    {
+      "name": "Benefits"
+    },
+    {
+      "name": "FAQs"
+    }
+  ]
+}

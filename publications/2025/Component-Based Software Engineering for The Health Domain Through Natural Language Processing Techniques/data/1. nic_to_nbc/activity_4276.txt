@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "IV Access Tracker": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Frequency": {"Type": "options", "Options": ["daily", "everyHours", "everyDays"]},
+      "Deadline Date": {"Type": "datetime"},
+      "Notes": {"Type": "text"},
+      "IV Access Status": {"Type": "options", "Options": ["patent", "occluded", "other"]}
+    }
+  }
+}

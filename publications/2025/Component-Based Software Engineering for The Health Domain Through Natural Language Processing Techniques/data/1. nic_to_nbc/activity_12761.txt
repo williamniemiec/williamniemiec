@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "noCodeElementName": "Goal Achievement Strategies",
+  "parameters": {
+    "Goal Statement": {"type": "text"},
+    "Strategy Options": {"type": "list of text"},
+    "Pros and Cons": {"type": "list of text"},
+    "Barrier Identification": {"type": "list of text"},
+    "Solution Generation": {"type": "list of text"},
+    "Action Plan": {"type": "text"}
+  }
+}

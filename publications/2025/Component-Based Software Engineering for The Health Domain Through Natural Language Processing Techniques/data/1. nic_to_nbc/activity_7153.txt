@@ -1,0 +1,30 @@
+Here is the output in JSON format:
+
+
+{
+  "Lubricant Warming": {
+    "Warming Methods": {
+      "type": "options",
+      "eachOptionCanInclude": {
+        "Description": "brief text describing the warming method",
+        "Image": "image or illustration demonstrating the warming method"
+      }
+    },
+    "Warming Time": {
+      "type": "text",
+      "description": "recommended time for warming the lubricant"
+    },
+    "Temperature Check": {
+      "type": "text",
+      "description": "reminds the patient to check the temperature of the lubricant"
+    },
+    "Image": {
+      "type": "image or animation",
+      "description": "displays an image or animation demonstrating the lubricant warming process"
+    },
+    "Confirmation": {
+      "type": "boolean",
+      "description": "asks the patient to confirm that they have warmed the lubricant according to the recommended method and time"
+    }
+  }
+}

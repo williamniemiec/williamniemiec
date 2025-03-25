@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+    "Return to Hospital Guide": {
+        "parameters": [
+            {"Name": {"type": "text"}},
+            {"Pages": {"type": "book-page", "book-page": []}},
+            {"Customization": {"type": "options", "options": []}}
+        ]
+    }
+}

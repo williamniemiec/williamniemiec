@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Dietary Guidance": {
+    "Parameters": {
+      "Electrolyte Imbalance": {"Type": "text"},
+      "Dietary Recommendations": {"Type": "list of text or HTML content"},
+      "Food Categories": {"Options": ["potassium-rich foods", "low-sodium foods"]},
+      "Meal Planning": {"Type": "text or HTML content"}
+    }
+  }
+}
+
+
+Note: I removed the "Tracking" parameter as it was marked as "See" which I assumed means "Not Applicable". Let me know if that's incorrect.

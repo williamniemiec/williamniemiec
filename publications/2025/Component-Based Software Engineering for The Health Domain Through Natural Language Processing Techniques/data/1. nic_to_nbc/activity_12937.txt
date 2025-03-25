@@ -1,0 +1,42 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Restraint Application",
+    "parameters": [
+        {
+            "name": "Restraint Type",
+            "description": "A parameter that specifies the type of restraint to be applied (e.g., wrist, leg, chest).",
+            "required": true,
+            "type": "options",
+            "options": [
+                { value: "wrist", label: "Wrist" },
+                { value: "leg", label: "Leg" },
+                { value: "chest", label: "Chest" }
+            ]
+        },
+        {
+            "name": "Application Criteria",
+            "description": "A parameter that specifies the criteria for applying the restraint (e.g., patient agitation, fall risk, etc.).",
+            "required": true,
+            "type": "text"
+        },
+        {
+            "name": "Application Instructions",
+            "description": "A parameter that provides instructions for applying the restraint safely and correctly.",
+            "required": true,
+            "type": "text"
+        },
+        {
+            "name": "Monitoring Frequency",
+            "description": "A parameter that specifies how often the patient should be monitored while restrained.",
+            "required": true,
+            "type": "options",
+            "options": [
+                { value: "continuous", label: "Continuous" },
+                { value: "frequent", label: "Frequent" },
+                { value: "periodic", label: "Periodic" }
+            ]
+        }
+    ]
+}

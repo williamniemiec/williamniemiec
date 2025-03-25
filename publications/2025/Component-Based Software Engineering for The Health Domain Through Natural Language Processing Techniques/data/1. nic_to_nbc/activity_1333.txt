@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+    "Weight Tracker": {
+        "Parameters": {
+            "Weight": {"Type": "numerical value"},
+            "Time": {"Type": "time of day"},
+            "Trend Analysis": {"Type": "graph or chart"}
+        }
+    },
+    "Reminders": {
+        "Parameters": {
+            "Reminder Time": {"Type": "time of day"},
+            "Reminder Message": {"Type": "text"}
+        }
+    },
+    "Weight Trend Analysis": {
+        "Parameters": {
+            "Trend Data": {"Type": "graph or chart"},
+            "Insights": {"Type": "text or list"}
+        }
+    }
+}

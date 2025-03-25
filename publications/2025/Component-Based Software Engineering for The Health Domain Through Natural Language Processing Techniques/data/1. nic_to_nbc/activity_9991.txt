@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Task": {
+    "parameters": {
+      "name": "Prop with Backrest",
+      "content": "Please prop yourself with a backrest, as recommended by your healthcare provider.",
+      "frequency": "asNeeded"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+  "Decision Support": {
+    "title": "",
+    "content": "",
+    "questions": [],
+    "options": [],
+    "resources": []
+  },
+  "Quiz": {
+    "title": "",
+    "questions": [],
+    "options": [],
+    "correct answers": [],
+    "feedback messages": []
+  },
+  "Goal Setting": {
+    "title": "",
+    "goal description": "",
+    "target date": "",
+    "reminders": [],
+    "progress tracking": ""
+  }
+}
+
+Note: I removed the `not applicable` parameters as per your request. Let me know if you need any further assistance!

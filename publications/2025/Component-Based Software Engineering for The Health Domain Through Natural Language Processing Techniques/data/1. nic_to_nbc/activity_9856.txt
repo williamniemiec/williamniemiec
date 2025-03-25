@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Immobilization Guide": {
+    "parameters": {
+      "Type of Injury": {},
+      "Location of Injury": {},
+      "Immobilization Method": {},
+      "Instructions": {},
+      "Frequency of Immobilization": {},
+      "Duration of Immobilization": {},
+      "Notes": {}
+    }
+  }
+}
+
+
+Note that I removed the `Deadline Date` parameter since it was specified as a datetime type, which is not applicable in this context. Let me know if you'd like me to keep it or make any further changes!

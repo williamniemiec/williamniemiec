@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "PARAMETER ESPECIFICATIONS": [
+    "* Identifying subtle inconsistencies or contradictions in the explanations.",
+    "* Evaluating the credibility and reliability of each individual's explanation.",
+    "* Considering the context and circumstances surrounding the injury.",
+    "* Making a professional judgment about the likelihood of abuse or neglect."
+  ],
+  "NO-CODE ELEMENT NAME": null
+}
+
+
+Note: Since there is no no-code element associated with this intervention, I set `"NO-CODE ELEMENT NAME"` to `null`.

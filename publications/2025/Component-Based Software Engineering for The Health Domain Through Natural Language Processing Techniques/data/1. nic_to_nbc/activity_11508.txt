@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Goal Setting": {
+    "parameters": {
+      "Goal Category": {"type": "options"},
+      "Goal Description": {"type": "text"},
+      "Target Date": {"type": "datetime"},
+      "Measurement Criteria": {"type": "text"},
+      "Reminders": {"type": "boolean"}
+    }
+  }
+}

@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+    "Anticoagulant Side Effect Monitor": {
+        "Medication List": {"Type": "list of text", "Description": "provide a list of anticoagulant medications the patient is taking"},
+        "Side Effect List": {"Type": "list of text", "Description": "provide a list of potential side effects from anticoagulant medications"},
+        "Symptom Entry": {"Type": "numerical input", "Description": "allow the patient to enter their symptoms and severity, e.g., 1-5 scale"},
+        "Tracking": {"Type": "boolean", "Description": "allow the patient to track changes in their side effects over time and provide a visual representation of their progress"},
+        "Alerts": {"Type": "boolean", "Description": "allow the patient to set alerts for severe side effects, ensuring they seek medical attention if necessary"}
+    }
+}

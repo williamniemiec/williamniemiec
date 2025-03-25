@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Screening Tracker": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Screening Schedule": {"Type": "list (with dates and times)"},
+      "Risk Factors": {"Type": "list (with specific labels and values)"},
+      "Screening Results": {"Type": "form (with multiple questions and answers)"},
+      "Alerts": {"Type": "options (with specific alert messages and triggers)"},
+      "Resources": {"Type": "list (with URLs or file attachments)"}
+    }
+  }
+}

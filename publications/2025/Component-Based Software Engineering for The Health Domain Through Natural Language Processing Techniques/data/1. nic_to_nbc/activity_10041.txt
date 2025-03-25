@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Referral": {
+    "Parameters": {
+      "Service": {},
+      "Description": {},
+      "Contact Information": {},
+      "Frequency": {}
+    }
+  }
+}
+
+
+Note: I removed the `Deadline Date` parameter as it was marked as "datetime" type, which is not applicable in this context. Let me know if you need any further assistance!

@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Decision Support": {
+    "Questions": "*",
+    "Options": "*",
+    "Resources": "*",
+    "Frequency": "*",
+    "Deadline Date": "*"
+  }
+}

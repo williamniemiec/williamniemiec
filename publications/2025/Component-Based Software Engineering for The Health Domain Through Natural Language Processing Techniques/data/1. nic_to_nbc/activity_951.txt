@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Empathy Statement": {
+    "Statement": {},
+    "Tone": {},
+    "Frequency": {"daily": {}, "weekly": {}, "monthly": {}},
+    "Deadline Date": {}
+  },
+  "Personalized Message": {
+    "Message": {},
+    "Tone": {},
+    "Frequency": {"daily": {}, "weekly": {}, "monthly": {}},
+    "Deadline Date": {}
+  }
+}

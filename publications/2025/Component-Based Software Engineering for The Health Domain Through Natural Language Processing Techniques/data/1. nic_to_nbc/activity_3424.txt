@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+  "Familiar Objects Checklist": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Object List": {"Type": "checklist"},
+      "Object Description": {"Type": "text"},
+      "Importance Level": {"Type": "rating scale"},
+      "Caregiver Support": {"Type": "boolean"}
+    }
+  },
+  "Question": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Question": {"Type": "text or HTML"},
+      "Answer Type": {"Type": "options"},
+      "Follow-up Questions": {"Type": "conditional logic or branching"}
+    }
+  }
+}

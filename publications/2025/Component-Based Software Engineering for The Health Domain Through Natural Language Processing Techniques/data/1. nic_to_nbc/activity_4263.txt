@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Practice Schedule Contract": {
+    "Parameters": {
+      "Practice Schedule": {"Type": "text"},
+      "Patient Commitment": {"Type": "boolean"},
+      "Nurse/Practioner Commitment": {"Type": "boolean"},
+      "Goals": {"Type": "text"},
+      "Review Date": {"Type": "date picker"}
+    }
+  }
+}

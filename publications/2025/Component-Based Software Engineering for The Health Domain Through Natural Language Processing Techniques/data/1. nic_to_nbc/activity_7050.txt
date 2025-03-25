@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Post-ECT Monitoring": {
+    "Vital Sign Tracking": {"Type": "numerical value"},
+    "Mental Status Assessment": {"Type": "rating scale"},
+    "Side Effect Monitoring": {"Type": "checklist"},
+    "Pain Management": {"Type": "text"},
+    "Oxygen Saturation Monitoring": {"Type": "numerical value"},
+    "Cardiac Monitoring": {"Type": "numerical value"},
+    "Neurological Monitoring": {"Type": "rating scale"}
+  }
+}

@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+    "Transportation Arrangement for Job Services": {
+        "parameters": [
+            {"Name": "text"},
+            {"Pickup Location": "text or address"},
+            {"Drop-off Location": "text or address"},
+            {"Transportation Mode": "options"},
+            {"Schedule": "datetime"},
+            {"Provider": "text or organization"},
+            {"Contact Information": {
+                "Phone": "phone number",
+                "Email": "email"
+            }},
+            {"Frequency": "options"},
+            {"Necessity": "boolean"}
+        ]
+    }
+}

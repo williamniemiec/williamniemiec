@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+  "noCodeElementName": "Oral Cavity Self-Assessment Guide",
+  "parameterSpecifications": {
+    "Self-Assessment Steps": {},
+    "Signs and Symptoms": {
+      "Burning": {},
+      "Pain": {},
+      "Tenderness": {},
+      "Redness": {},
+      "Swelling": {}
+    },
+    "Reporting Instructions": {},
+    "Frequency": {
+      "daily": {},
+      "weekly": {},
+      "monthly": {}
+    },
+    "Resources": {
+      "Type": ["URL", "PDF"]
+    }
+  }
+}
+
+
+Note that I removed the "Not Applicable" parameters as per your request. Let me know if you need any further assistance!

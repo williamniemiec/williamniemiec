@@ -1,0 +1,9 @@
+Here is the output in JSON format:
+
+
+{
+    "Guide": {
+        "Content": {"Type": "text or HTML"},
+        "Title": {"Type": "text"}
+    }
+}

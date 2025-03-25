@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Care Team Overview": {
+    "parameters": [
+      {"name": "Content", "type": "text or html"},
+      {"name": "Care Provider Types", "type": "list of objects",
+        "items": [
+          {"Type": "text", "Responsibilities": "list of text"}
+        ]
+      },
+      {"name": "Clinical Ladder", "type": "text or html"}
+    ]
+  }
+}

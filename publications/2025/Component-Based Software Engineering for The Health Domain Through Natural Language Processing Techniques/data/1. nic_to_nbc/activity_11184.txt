@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "Cardiac Arrest Assessment": {
+    "parameters": {
+      "Symptom Checklist": {
+        "type": "list of objects",
+        "objects": [
+          {"Symptom": {"type": "text"}},
+          {"Presence": {"type": "boolean"}}
+        ]
+      },
+      "Assessment Questions": {
+        "type": "list of objects",
+        "objects": [
+          {"Question": {"type": "text"}},
+          {"Response Options": {"type": "list of text"}}
+        ]
+      },
+      "Response Logic": {"type": "conditional logic"},
+      "Guidance": {"type": "text"}
+    }
+  }
+}

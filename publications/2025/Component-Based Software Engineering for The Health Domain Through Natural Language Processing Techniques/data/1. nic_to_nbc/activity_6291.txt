@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Infant Readiness Guide": {
+    "parameters": [
+      {"name": "Guide Content", "type": "interactive guide content"},
+      {"name": "Quiz Questions", "type": "list of quiz questions"},
+      {"name": "Frequency", "type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    ]
+  }
+}
+
+
+I removed the `Deadline Date` parameter since it was marked as not required (`"required": false`). Let me know if this is correct!

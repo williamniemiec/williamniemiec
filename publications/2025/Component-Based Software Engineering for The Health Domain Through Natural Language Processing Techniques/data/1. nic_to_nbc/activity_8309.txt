@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Padding Guide": {
+    "Name": {"Type": "text"},
+    "Bony Prominence": {"Type": "options"},
+    "Padding Type": {"Type": "options"},
+    "Image": {"Type": "image or diagram"},
+    "Instructions": {"Type": "text or video"},
+    "Reminders": {"Type": "options"},
+    "Deadline Date": {"Type": "datetime"}
+  }
+}

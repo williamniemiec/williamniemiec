@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+    "Joint Angle Check": {
+        "Parameters": [
+            {"Photo/Video Instructions": {}},
+            {"Hip Angle Check": {"Type": "numeric", "Unit": "degrees", "Range": 100}},
+            {"Knee Angle Check": {"Type": "numeric", "Unit": "degrees", "Range": 105}},
+            {"Ankle Angle Check": {"Type": "numeric", "Unit": "degrees", "Range": 90}},
+            {"Heel Position Check": {"Type": "boolean", "Options": ["true/false"]}},
+            {"Adjustment Guidance": {}},
+            {"Frequency": {"Type": "options", "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]}},
+            {"Deadline Date": {"Type": "datetime"}}
+        ]
+    }
+}

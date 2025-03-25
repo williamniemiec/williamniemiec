@@ -1,0 +1,30 @@
+Here is the output in JSON format:
+
+
+{
+  "Values Clarification Exercise": {
+    "name": {"type": "string"},
+    "prompts": {"type": "array"},
+    "ranking": {"type": "object"},
+    "frequency": {"type": "string"},
+    "deadline_date": {"type": "string", "optional": true}
+  },
+  "Goal Reframing Activity": {
+    "name": {"type": "string"},
+    "current goals": {"type": "string"},
+    "reframing prompts": {"type": "array"},
+    "revised goals": {"type": "string"},
+    "frequency": {"type": "string"},
+    "deadline_date": {"type": "string", "optional": true}
+  },
+  "Success and Failure Reflection": {
+    "name": {"type": "string"},
+    "prompts": {"type": "array"},
+    "notes": {"type": "string"},
+    "frequency": {"type": "string"},
+    "deadline_date": {"type": "string", "optional": true}
+  }
+}
+
+
+Let me know if this meets your requirements!

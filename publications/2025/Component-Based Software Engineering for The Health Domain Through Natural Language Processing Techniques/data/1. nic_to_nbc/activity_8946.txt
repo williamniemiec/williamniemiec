@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Safety Checklist": {
+    "Checklist Items": {},
+    "Frequency": {},
+    "Deadline Date": {},
+    "Notes": {}
+  },
+  "Safety Photo": {
+    "Photo Description": {},
+    "Frequency": {},
+    "Deadline Date": {}
+  }
+}

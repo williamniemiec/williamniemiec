@@ -1,0 +1,10 @@
+{
+  "name": "Muscle Reflex and Symptom Checker",
+  "description": "Monitors and checks for symptoms related to muscle weakness, reflexes, hypotension, tachycardia, and severity of various conditions. Includes ECG monitoring to assess heart function and symptom severity.",
+  "type": "periodic",
+  "input": ["Muscle reflex tests", "Symptom severity reports", "Hypotension and tachycardia checks", "ECG data", "Weakness assessment"],
+  "output": ["Reflex and muscle weakness report", "ECG results", "Symptom severity analysis"],
+  "preconditions": ["User is experiencing symptoms like weakness, hypotension, or tachycardia, requiring monitoring and assessment"],
+  "postconditions": ["Symptom severity and muscle function are tracked, and appropriate interventions are suggested"],
+  "dependencies": ["ECG monitoring system", "Symptom checker platform", "Muscle reflex assessment tools"]
+}

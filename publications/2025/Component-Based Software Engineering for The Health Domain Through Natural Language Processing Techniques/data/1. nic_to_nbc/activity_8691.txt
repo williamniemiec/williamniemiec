@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Phantom Limb Pain Education": {
+    "Content": {"type": "text"},
+    "Illustrations": {"type": "image"},
+    "FAQs": {"type": "list of text"},
+    "Tips and Reminders": {"type": "text"}
+  }
+}

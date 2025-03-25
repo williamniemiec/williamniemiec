@@ -1,0 +1,10 @@
+Here is the output in JSON format:
+
+
+{
+    "Tutorial": {
+        "Content": {"Type": "text or multimedia"},
+        "Modules": {"Type": "list of HTML texts or multimedia content"},
+        "Quizzes": {"Type": "list of quiz questions and answers"}
+    }
+}

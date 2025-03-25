@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Support Network Module": {
+    "support_roles": {
+      "type": "list of support role texts"
+    },
+    "support_tasks": {
+      "type": "list of task texts"
+    },
+    "resources": {
+      "type": "list of resource texts or links"
+    }
+  }
+}

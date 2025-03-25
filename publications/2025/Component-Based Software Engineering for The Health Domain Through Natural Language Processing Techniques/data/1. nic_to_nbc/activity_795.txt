@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Oral Assessment": {
+    "Parameters": {
+      "Oral Cavity": {"Type": "text"},
+      "Lips": {"Type": "text"},
+      "Tongue": {"Type": "text"},
+      "Buccal Mucosa": {"Type": "text"},
+      "Teeth": {"Type": "text"},
+      "Photos": {"Type": "camera"},
+      "Frequency": {"Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"Type": "datetime"}
+    }
+  }
+}

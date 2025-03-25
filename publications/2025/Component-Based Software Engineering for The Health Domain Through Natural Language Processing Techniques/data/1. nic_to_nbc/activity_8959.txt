@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+[
+    {
+        "element_name": "Survey",
+        "parameters": {
+            "name": "Childbirth Preparation and Goals",
+            "questions": ["What are your expectations for your childbirth experience?", "Have you taken a childbirth education class?", "Do you have a birth plan?", "What are your pain management preferences?"],
+            "answer_type": "options (e.g., multiple choice, Likert scale) or text",
+            "frequency": "once (or as needed)"
+        }
+    },
+    {
+        "element_name": "Form",
+        "parameters": {
+            "name": "Childbirth Preparation and Goals",
+            "fields": ["Expectations for childbirth experience", "Childbirth education class", "Birth plan", "Pain management preferences"],
+            "frequency": "once (or as needed)"
+        }
+    }
+]

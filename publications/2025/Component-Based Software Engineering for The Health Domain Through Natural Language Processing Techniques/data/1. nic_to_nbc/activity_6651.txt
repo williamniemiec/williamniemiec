@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "noCodeElementName": "Education",
+  "parameterSpecifications": {
+    "Content": {"type": ["text", "multimedia"]},
+    "Format": {"options": ["text", "video", "image", "audio", "interactive module"]},
+    "Target Audience": {"options": ["patient", "family", "caregiver"]}
+  }
+}

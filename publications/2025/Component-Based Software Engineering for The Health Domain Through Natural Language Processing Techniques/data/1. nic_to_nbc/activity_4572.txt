@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Electrode Application",
+    "parameters": [
+        { 
+            "name": "Electrode Type", 
+        },
+        { 
+            "name": "Application Site", 
+        },
+        { 
+            "name": "Skin Preparation", 
+        },
+        { 
+            "name": "Electrode Placement", 
+        },
+        { 
+            "name": "Additional Instructions", 
+        }
+    ]
+}
+
+
+I removed everything except the `{{ NO-CODE ELEMENT NAME }}` and `{{ PARAMETER ESPECIFICATIONS }}`, and formatted it as a JSON object. I also removed the "not applicable" parameters, which in this case were none. Let me know if you need anything else!

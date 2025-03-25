@@ -1,0 +1,39 @@
+Here is the output in JSON format:
+
+
+{
+  "elementName": "Financial Resources Assessment",
+  "parameters": {
+    "Insurance Coverage": {
+      "description": "Do you have insurance coverage for specialty foot care services?",
+      "required": true,
+      "type": "options",
+      "options": [
+        { "value": "yes", "label": "Yes" },
+        { "value": "no", "label": "No" }
+      ]
+    },
+    "Insurance Provider": {
+      "description": "Who is your insurance provider?",
+      "required": false,
+      "type": "text"
+    },
+    "Out-of-Pocket Expenses": {
+      "description": "How much are you able to pay out-of-pocket for specialty foot care services?",
+      "required": true,
+      "type": "number"
+    },
+    "Financial Assistance Programs": {
+      "description": "Are you eligible for financial assistance programs?",
+      "required": true,
+      "type": "options",
+      "options": [
+        { "value": "yes", "label": "Yes" },
+        { "value": "no", "label": "No" }
+      ]
+    }
+  }
+}
+
+
+I removed the "Additional Financial Resources" parameter since it was not applicable (required=false). Let me know if you need any further assistance!

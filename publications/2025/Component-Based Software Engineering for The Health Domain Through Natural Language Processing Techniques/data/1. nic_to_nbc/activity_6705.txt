@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Catheter Irrigation": {
+    "Parameters": {
+      "Instructions": {},
+      "Frequency": {},
+      "Deadline Date": {},
+      "Solution Type": {},
+      "Volume": {},
+      "Sterile Technique": {},
+      "Tracking": {}
+    }
+  }
+}

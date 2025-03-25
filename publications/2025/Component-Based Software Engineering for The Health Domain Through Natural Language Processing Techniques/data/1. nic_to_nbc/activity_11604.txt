@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Education": {
+    "parameters": {
+      "name": "Hand Hygiene Education",
+      "content": "Learn about the importance of hand hygiene and how to practice proper hand hygiene techniques.",
+      "type": ["text", "video"],
+      "pages": "list of HTML texts or video content"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Sports Information Guide": {
+    "Parameters": {
+      "Sports Type": {},
+      "Recreational Sports Info": {},
+      "Organized Competitive Sports Info": {},
+      "Key Differences": {},
+      "Parental Considerations": {},
+      "FAQs": {}
+    }
+  }
+}

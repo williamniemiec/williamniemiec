@@ -1,0 +1,29 @@
+Here is the output in JSON format:
+
+
+{
+  "Treatment Plan Adjuster": {
+    "parameters": {
+      "name": {},
+      "adjustment_categories": [
+        {
+          "name": {},
+          "description": {},
+          "options": [
+            {
+              "label": {},
+              "description": {}
+            }
+          ]
+        }
+      ],
+      "collaboration_tool": {},
+      "frequency": {
+        "options": ["daily", "weekly", "biweekly", "monthly"]
+      },
+      "deadline_date": {
+        "type": "datetime"
+      }
+    }
+  }
+}

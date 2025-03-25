@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Eating Behavior Assessment": {
+    "Parameters": {
+      "Eating Behavior Questions": {},
+      "Behavior Frequency": {},
+      "Behavior Impact": {},
+      "Goal Setting": {},
+      "Additional Notes": {}
+    }
+  }
+}

@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+    "Co-Leader": {
+        "parameters": [
+            {"name": "co-leader_name"},
+            {"name": "co-leader_role"},
+            {"name": "co-leader_contact"}
+        ]
+    }
+}

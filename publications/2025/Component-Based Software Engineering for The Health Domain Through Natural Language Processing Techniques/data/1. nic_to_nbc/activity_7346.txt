@@ -1,0 +1,34 @@
+Here is the output in JSON format:
+
+
+{
+  "Accepting Attitude Module": {
+    "Name": {},
+    "Description": {},
+    "Guiding Principles": {},
+    "Scenarios": {},
+    "Reflection Questions": {},
+    "Resources": {}
+  },
+  "Empathy Module": {
+    "name": {},
+    "description": {},
+    "guiding principles": {},
+    "scenarios": {},
+    "reflection question": {}
+  },
+  "Non-Judgment Module": {
+    "name": {},
+    "description": {},
+    "guiding principles": {},
+    "scenarios": {},
+    "reflection question": {}
+  },
+  "Respect Module": {
+    "name": {},
+    "description": {},
+    "guiding principles": {},
+    "scenarios": {},
+    "reflection questions": {}
+  }
+}

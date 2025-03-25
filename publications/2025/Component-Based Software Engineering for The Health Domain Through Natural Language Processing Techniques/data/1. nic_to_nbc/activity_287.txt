@@ -1,0 +1,21 @@
+
+
+
+{
+    "Personalized Planning": {
+        "Goal": {"type": "text"},
+        "Individual/Family/Group": {"type": "text"},
+        "Assessment": {"type": "text"},
+        "Interventions": {"type": "text"},
+        "Frequency": {"options": ["daily", "weekly", "monthly", "quarterly"]},
+        "Deadline Date": {"type": "datetime"}
+    },
+    "Collaborative Goal Setting": {
+        "Goal": {"type": "text"},
+        "Individual/Family/Group": {"type": "text"},
+        "Assessment": {"type": "text"},
+        "Action Plan": {"type": "text"},
+        "Frequency": {"options": ["daily", "weekly", "monthly", "quarterly"]},
+        "Deadline Date": {"type": "datetime"}
+    }
+}

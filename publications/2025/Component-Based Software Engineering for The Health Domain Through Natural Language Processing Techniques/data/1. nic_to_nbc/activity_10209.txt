@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Fluoride Assessment": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Question": {"Type": "text"},
+      "Options": {"Type": "options"},
+      "Referral Criteria": {"Type": "text"},
+      "Referral Instructions": {"Type": "text"},
+      "Result": {"Type": "text"}
+    }
+  }
+}

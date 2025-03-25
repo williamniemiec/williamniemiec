@@ -1,0 +1,24 @@
+Here is the output in JSON format, removing everything except `{{ PARAMETER ESPECIFICATIONS }}` and `{{ NO-CODE ELEMENT NAME }}`, and removing not applicable parameters:
+
+
+{
+  "name": "Reflection",
+  "parameters": [
+    {
+      "name": "name",
+      "description": "title or name of the reflection task"
+    },
+    {
+      "name": "prompt",
+      "description": "a question or statement that prompts the patient to reflect on their knowledge and communication skills"
+    },
+    {
+      "name": "answer type",
+      "description": "specifies the type of answer expected from the patient"
+    },
+    {
+      "name": "frequency",
+      "description": "specifies how often the patient should reflect on their knowledge and communication skills"
+    }
+  ]
+}

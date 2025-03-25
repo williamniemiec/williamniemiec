@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Essential Oil Selection": {
+        "Parameters": {
+            "Outcome": {"Type": "options"},
+            "Essential Oil Options": {"Type": "list"},
+            "Selection": {"Type": "multi-select"},
+            "Notes": {"Type": "text"}
+        }
+    }
+}

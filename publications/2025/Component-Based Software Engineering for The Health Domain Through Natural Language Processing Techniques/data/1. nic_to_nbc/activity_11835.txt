@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Device Encouragement": {
+    "Parameters": {
+      "Device Selection": {"Type": "options"},
+      "Usage Reminders": {"Type": "boolean"},
+      "Benefits Education": {"Type": "text"},
+      "Progress Tracking": {"Type": "form"},
+      "Motivational Messages": {"Type": "text"},
+      "Frequency": {"Type": "options"},
+      "Deadline Date": {"Type": "datetime"}
+    }
+  }
+}
+
+
+Note that I removed the "Not Applicable" parameters as per your request. Let me know if you have any further requests!

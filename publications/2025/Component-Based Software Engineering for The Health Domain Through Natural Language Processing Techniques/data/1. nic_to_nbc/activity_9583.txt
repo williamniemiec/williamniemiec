@@ -1,0 +1,10 @@
+Here is the output in JSON format:
+
+
+{
+  "ECG Monitor Alarm Setup Guide": {
+    "title": {"type": "text"},
+    "content": {"type": "book-page"},
+    "images": {"type": "list of image URLs"}
+  }
+}

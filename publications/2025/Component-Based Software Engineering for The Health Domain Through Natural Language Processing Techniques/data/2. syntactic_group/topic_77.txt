@@ -1,0 +1,10 @@
+{
+  "name": "Allergy and Anaphylaxis Management",
+  "description": "Provides information on managing allergies, allergic reactions, and anaphylaxis. Focuses on identifying allergens, symptoms, and providing emergency responses.",
+  "type": "non-periodic",
+  "input": ["Allergy triggers", "Symptoms of allergic reactions", "Anaphylaxis management techniques", "Allergen identification"],
+  "output": ["Allergy management plan", "Emergency response guide", "Anaphylaxis severity report"],
+  "preconditions": ["User is at risk of allergies or has experienced allergic reactions"],
+  "postconditions": ["Effective management and response to allergies and anaphylaxis"],
+  "dependencies": ["Allergy management platform", "Emergency response system", "Symptom tracking tools"]
+}

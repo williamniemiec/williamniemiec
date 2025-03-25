@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Toilet Readiness Assessment": {
+    "Age": {"type": "number"},
+    "Urine Control": {"type": "boolean"},
+    "Recognition of Urge": {"type": "boolean"},
+    "Elimination Patterns": {"type": "boolean"},
+    "Toilet Navigation": {"type": "boolean"},
+    "Clothing Management": {"type": "boolean"},
+    "Hygiene": {"type": "boolean"},
+    "Assessment Frequency": {"options": ["daily", "weekly", "monthly"]},
+    "Reminder": {"type": "boolean"}
+  }
+}

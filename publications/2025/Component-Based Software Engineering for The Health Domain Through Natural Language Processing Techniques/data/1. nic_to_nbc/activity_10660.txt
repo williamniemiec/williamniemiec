@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Lifestyle Disruption Assessment": {
+    "Parameters": {
+      "Lifestyle Disruption Scale": {},
+      "Loss of Home Assessment": {},
+      "Adaptation to New Environment": {},
+      "Impact on Daily Life": {},
+      "Resources": {},
+      "Progress Tracking": {}
+    }
+  }
+}

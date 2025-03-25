@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Humor Appreciation": {
+    "parameters": [
+      {"name": "reflection", "description": "Write about a time when humor helped you cope with a difficult situation", "required": true, "type": "text"},
+      {"name": "frequency", "description": "How often to reflect on the importance of humor", "required": true, "type": "options", "options": [{"value": "daily", "label": "Daily"}, {"value": "weekly", "label": "Weekly"}, {"value": "monthly", "label": "Monthly"}]}
+    ]
+  }
+}

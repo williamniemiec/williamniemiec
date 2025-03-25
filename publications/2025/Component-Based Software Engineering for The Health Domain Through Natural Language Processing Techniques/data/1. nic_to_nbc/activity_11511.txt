@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Resource": {
+    "Title": {"Type": "text"},
+    "Content": {"Type": ["pdf", "html"]},
+    "Description": {"Type": "text"},
+    "Category": {"Type": "options"}
+  }
+}

@@ -1,0 +1,32 @@
+Here is the output in JSON format:
+
+
+{
+  "Alternatives to Abortion Explorer": {
+    "parameters": {
+      "name": "",
+      "alternatives": [],
+      "pros and cons": "",
+      "questions": [],
+      "frequency": ""
+    }
+  },
+  "Alternative Discussion Guide": {
+    "parameters": {
+      "name": "",
+      "prompts": [],
+      "response fields": [],
+      "frequency": ""
+    }
+  },
+  "Alternative Comparison Tool": {
+    "parameters": {
+      "name": "",
+      "alternatives": [],
+      "criteria": [],
+      "weighting": "",
+      "comparison": "",
+      "frequency": ""
+    }
+  }
+}

@@ -1,0 +1,29 @@
+Here is the output in JSON format:
+
+
+{
+  "Pregnancy Changes Discussion Guide": {
+    "Topic List": {
+      "type": "list of text",
+      "example": ["Physical changes", "Emotional changes", "Hormonal changes", "Body image changes", "Lifestyle adjustments"]
+    },
+    "Discussion Questions": {
+      "type": "list of text",
+      "example": ["What physical changes have you noticed during pregnancy?", "How have your emotions changed during pregnancy?", "What do you know about hormonal changes during pregnancy?", "How has your body image changed during pregnancy?", "What lifestyle adjustments have you made during pregnancy?"]
+    },
+    "Resource Library": {
+      "type": "text or multimedia (e.g., image, video)"
+    },
+    "Journaling Prompt": {
+      "type": "text",
+      "example": "What are some things you're excited or nervous about during this time of change?"
+    },
+    "Frequency": {
+      "type": "options",
+      "options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+    },
+    "Deadline Date": {
+      "type": "datetime"
+    }
+  }
+}

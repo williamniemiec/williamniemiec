@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Transfusion Reaction Education": {
+    "Content": {"type": "text or multimedia"},
+    "Quiz": {"type": "form"},
+    "Acknowledgement": {"type": "checkbox or electronic signature"},
+    "Frequency": {"type": "options"},
+    "Deadline Date": {"type": "datetime"}
+  }
+}

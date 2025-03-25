@@ -1,0 +1,43 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Value-Based Reinforcement",
+    "parameters": [
+        {
+            "name": "Reinforcement Type",
+            "type": "options",
+            "options": [
+                { "value": "verbal praise", "label": "Verbal Praise" },
+                { "value": "written feedback", "label": "Written Feedback" },
+                { "value": "rewards", "label": "Rewards" }
+            ]
+        },
+        {
+            "name": "Value Alignment",
+            "type": "text"
+        },
+        {
+            "name": "Reinforcement Schedule",
+            "type": "options",
+            "options": [
+                { "value": "daily", "label": "Daily" },
+                { "value": "weekly", "label": "Weekly" },
+                { "value": "monthly", "label": "Monthly" }
+            ]
+        },
+        {
+            "name": "Reinforcement Criteria",
+            "type": "text"
+        },
+        {
+            "name": "Frequency",
+            "type": "options",
+            "options": [
+                { "value": "daily", "label": "Daily" },
+                { "value": "weekly", "label": "Weekly" },
+                { "value": "monthly", "label": "Monthly" }
+            ]
+        }
+    ]
+}

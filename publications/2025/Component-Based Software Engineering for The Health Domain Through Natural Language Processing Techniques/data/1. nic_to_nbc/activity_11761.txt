@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+"Pulse Palpation": {
+"Dorsalis Pedis Pulse": {},
+"Posterior Tibial Pulse": {},
+"Frequency": {},
+"Deadline Date": {},
+"Notes": {}
+}
+}

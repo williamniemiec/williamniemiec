@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "Environmental Comfort": {
+    "parameters": {
+      "Lighting Preference": {
+        "type": "options",
+        "options": ["bright", "dim", "natural light"]
+      },
+      "Temperature Preference": {
+        "type": "options",
+        "options": ["warm", "cool", "neutral"]
+      },
+      "Noise Level Preference": {
+        "type": "options",
+        "options": ["quiet", "moderate", "soothing music"]
+      },
+      "Comfort Items": {
+        "type": "text"
+      }
+    }
+  }
+}

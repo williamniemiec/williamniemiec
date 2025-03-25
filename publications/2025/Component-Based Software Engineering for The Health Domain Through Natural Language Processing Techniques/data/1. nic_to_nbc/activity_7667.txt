@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+    "Referral Agency Options": {
+        "Agency list": {"Type": "list of text or selection from a list of agencies"},
+        "Agency details": {"Type": "list of text or HTML texts"}
+    },
+    "Preference Selection": {
+        "Selection type": {"Type": "options (e.g., single choice, multiple choice, ranking)"},
+        "Default option": {"Type": "text or selection from a list of agencies"}
+    },
+    "Storage": {
+        "Storage type": {"Type": "options (e.g., local storage, cloud storage)"},
+        "Data encryption": {"Type": "boolean (true or false)"}
+    }
+}

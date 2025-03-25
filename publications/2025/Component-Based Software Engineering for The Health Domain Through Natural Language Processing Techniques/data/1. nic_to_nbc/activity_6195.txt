@@ -1,0 +1,75 @@
+Here is the output in JSON format, removing everything except `PARAMETER ESPECIFICATIONS` and `NO-CODE ELEMENT NAME`, and excluding not applicable parameters:
+
+
+{
+  "Guide": [
+    {
+      "name": "pages",
+      "description": "List of pages",
+      "required": true,
+      "type": "book-page",
+      "book-page": "list of HTML texts"
+    },
+    {
+      "name": "cues",
+      "description": "List of newborn cues for care",
+      "required": true,
+      "type": "list",
+      "list": [
+        { "value": "crying", "label": "Crying" },
+        { "value": "fussing", "label": "Fussing" },
+        { "value": "rooting", "label": "Rooting" },
+        { "value": "sucking", "label": "Sucking" }
+      ]
+    },
+    {
+      "name": "responseTips",
+      "description": "List of tips for responding to newborn cues",
+      "required": true,
+      "type": "list",
+      "list": [
+        { "value": "respondPromptly", "label": "Respond promptly" },
+        { "value": "useSoothingTouch", "label": "Use soothing touch" },
+        { "value": "maintainEyeContact", "label": "Maintain eye contact" },
+        { "value": "useCalmingVoice", "label": "Use a calming voice" }
+      ]
+    }
+  ],
+  "Tracker": [
+    {
+      "name": "cue",
+      "description": "Select the newborn cue for care",
+      "required": true,
+      "type": "options",
+      "options": [
+        { "value": "crying", "label": "Crying" },
+        { "value": "fussing", "label": "Fussing" },
+        { "value": "rooting", "label": "Rooting" },
+        { "value": "sucking", "label": "Sucking" }
+      ]
+    },
+    {
+      "name": "response",
+      "description": "Select your response to the cue",
+      "required": true,
+      "type": "options",
+      "options": [
+        { "value": "respondedPromptly", "label": "Responded promptly" },
+        { "value": "usedSoothingTouch", "label": "Used soothing touch" },
+        { "value": "maintainedEyeContact", "label": "Maintained eye contact" },
+        { "value": "usedCalmingVoice", "label": "Used a calming voice" }
+      ]
+    },
+    {
+      "name": "frequency",
+      "description": "How often to track responses",
+      "required": true,
+      "type": "options",
+      "options": [
+        { "value": "daily", "label": "Daily" },
+        { "value": "weekly", "label": "Weekly" },
+        { "value": "monthly", "label": "Monthly" }
+      ]
+    }
+  ]
+}

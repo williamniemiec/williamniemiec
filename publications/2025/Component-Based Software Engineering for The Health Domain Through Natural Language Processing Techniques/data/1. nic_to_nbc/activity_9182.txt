@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "contraception guide": {
+    "Methods": {"type": "list of methods with brief descriptions"},
+    "Effectiveness": {"type": "percentage or numerical value"},
+    "Side Effects": {"type": "list of side effects with brief descriptions"},
+    "Contraindications": {"type": "list of contraindications with brief descriptions"},
+    "Reporting Symptoms": {"type": "list of symptoms with brief descriptions"},
+    "Resources": {"type": "list of resources with links or embedded content"},
+    "Frequency": {"options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"type": "datetime"}
+  }
+}

@@ -1,0 +1,36 @@
+Here is the output in JSON format:
+
+
+{
+  "Spiritual Support Resource": {
+    "parameters": {
+      "name": "Spiritual Support Resources",
+      "resources": "list of HTML texts, videos, or links to external resources",
+      "type": "specify the type of resource"
+    }
+  },
+  "Clergy Contact": {
+    "parameters": {
+      "name": "Contact a Member of the Clergy",
+      "clergy_contact": "provide contact information for a member of the clergy",
+      "request_support": "enable patients to request spiritual support from the clergy"
+    }
+  },
+  "Reflection Journal": {
+    "parameters": {
+      "name": "Reflection Journal",
+      "entries": "enable patients to write and save journal entries",
+      "prompts": "provide prompts or questions to guide reflection"
+    }
+  },
+  "Spiritual Goal Setting": {
+    "parameters": {
+      "name": "Spiritual Goal Setting",
+      "goal": "specify the spiritual goal",
+      "target_date": "specify the target date for achieving the goal",
+      "progress": "track progress towards the goal"
+    }
+  }
+}
+
+Note that I removed the "Not Applicable" parameters as per your request. Let me know if you need any further assistance!

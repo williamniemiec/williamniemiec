@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+  "Insurance Incentivizer": {
+    "Parameters": {
+      "Title": {"Type": "text"},
+      "Policy Recommendations": {
+        "Type": "list of policy recommendations",
+        "Policy Recommendation": {
+          "Description": {"Type": "text"},
+          "Rationale": {"Type": "text"}
+        }
+      },
+      "Insurance Industry Engagement": {"Type": "text"},
+      "Incentive Structures": {
+        "Type": "list of incentive structures",
+        "Incentive Structure": {
+          "Type": {"Type": "options", "Options": ["premium reduction", "benefit", "etc."]},
+          "Eligibility Criteria": {"Type": "text"}
+        }
+      },
+      "Progress Tracking": {"Type": "text"}
+    }
+  }
+}

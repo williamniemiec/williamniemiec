@@ -1,0 +1,7 @@
+Here is the output in JSON format:
+
+
+{
+  "PARAMETER ESPECIFICATIONS": "",
+  "NO-CODE ELEMENT NAME": "Determine muscle fitness levels using exercise field or laboratory tests (e.g., maximum lift, number of lifts per unit of time)"
+}

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Funeral Arrangements": {
+    "parameters": {
+      "Funeral Home Information": {"type": "unordered list"},
+      "Funeral Planning Guide": {"type": "text or PDF"},
+      "Discussion Questions": {"type": "unordered list"},
+      "Decision Tracking": {"type": "form or checklist"},
+      "Resources": {"type": "unordered list"}
+    }
+  }
+}

@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+  "Care Team Coordinator": {
+    "parameters": {
+      "name": "care team coordinator name",
+      "description": "brief description of the care team coordinator",
+      "team_members": [
+        {
+          "name": "name of the team member",
+          "role": "role of the team member",
+          "contact_info": "contact information for the team member"
+        }
+      ],
+      "task_list": "list of tasks and activities to be coordinated among team members"
+    }
+  }
+}
+
+
+I removed all unnecessary text and only kept the `{{ NO-CODE ELEMENT NAME }}` and `{{ PARAMETER ESPECIFICATIONS }}`. I also removed the optional parameters that were marked as "not applicable" (i.e., `scheduling_tool` and `communication_channel`).

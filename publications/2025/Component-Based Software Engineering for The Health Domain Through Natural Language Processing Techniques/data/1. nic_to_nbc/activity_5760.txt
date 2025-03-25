@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Telephone Support",
+  "parameters": [
+    {
+      "name": "contact_frequency",
+      "type": "options"
+    },
+    {
+      "name": "contact_purpose",
+      "type": "options"
+    },
+    {
+      "name": "call_duration",
+      "type": "text"
+    },
+    {
+      "name": "caller_role",
+      "type": "options"
+    }
+  ]
+}

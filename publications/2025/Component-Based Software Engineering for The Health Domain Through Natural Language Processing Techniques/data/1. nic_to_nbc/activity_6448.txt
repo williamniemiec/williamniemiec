@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Safety Assessment": {
+    "parameters": [
+      {"Name": {"type": "text"}},
+      {"Physical Function": {"type": "form", "form fields": ["Mobility", "Strength", "Coordination"]}},
+      {"Cognitive Function": {"type": "form", "form fields": ["Memory", "Attention", "Decision-making"]}},
+      {"Behavioral History": {"type": "form", "form fields": ["Previous safety incidents", "Behavioral concerns"]}},
+      {"Safety Needs": {"type": "checklist", "checklist items": ["Fall prevention", "Medication management", "Wandering prevention"]}}
+    ]
+  }
+}

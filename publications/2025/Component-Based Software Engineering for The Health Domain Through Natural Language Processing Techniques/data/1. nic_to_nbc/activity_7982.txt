@@ -1,0 +1,38 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Reminder",
+    "parameters": [
+        { 
+            "name": "name", 
+            "description": "A parameter that specifies the title or name of the reminder.", 
+            "required": true, 
+            "type": "text"
+        },
+        { 
+            "name": "content", 
+            "description": "A parameter that specifies the description or instructions for the reminder.", 
+            "required": true, 
+            "type": "text"
+        },
+        { 
+            "name": "frequency", 
+            "description": "A parameter that specifies how often the reminder should be repeated.", 
+            "required": true, 
+            "type": "options",
+            "options": [
+                { value: "daily", label: "Daily" },
+                { value: "onlyOnce", label: "Only once" },
+                { value: "everyHours", label: "Every x hours" },
+                { value: "everyDays", label: "Every x days" },
+            ]
+        },
+        { 
+            "name": "deadline_date", 
+            "description": "A parameter that specifies the due date for the reminder.", 
+            "required": false, 
+            "type": "datetime"
+        }
+    ]
+}

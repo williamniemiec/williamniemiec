@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+  "Assistance Request": {
+    "Parameters": {
+      "Assistance Needed": {
+        "Type": "options",
+        "Values": ["Opening packages", "Cutting food", "Eating"]
+      },
+      "Frequency": {
+        "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+      },
+      "Deadline Date": {
+        "Type": "datetime"
+      },
+      "Caregiver Notification": {
+        "Type": "boolean",
+        "Values": ["Send a message to the caregiver", "Provide a QR code or link to access the assistance request"]
+      }
+    }
+  }
+}

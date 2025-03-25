@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Administration": {
+    "parameters": [
+      {"name": "name", "description": "medication name"},
+      {"name": "why", "description": "explanation of why the medication should be taken"},
+      {"name": "dosage", "description": "description of the medication dosage that should be taken"},
+      {"name": "frequency", "description": "specify how often the medication should be taken"},
+      {"name": "deadline_date", "description": "specify the due date of the medication administration"},
+      {"name": "notes", "description": "additional notes or instructions for the patient"}
+    ]
+  },
+  "Monitoring": {
+    "parameters": [
+      {"name": "name", "description": "monitoring task name"},
+      {"name": "description", "description": "explanation of what to monitor and why"},
+      {"name": "frequency", "description": "specify how often the patient should monitor and report"},
+      {"name": "deadline_date", "description": "specify the due date of the monitoring task"},
+      {"name": "notes", "description": "additional notes or instructions for the patient"}
+    ]
+  }
+}

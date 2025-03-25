@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+    "Education and Instruction": {
+        "name": "",
+        "instruction_type": "",
+        "instruction_content": "",
+        "quiz": "",
+        "deadline_date": ""
+    }
+}

@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Debriding Agent/Mouthwash Application": {
+        "Agent/ Mouthwash Type": {"Type": "options"},
+        "Application Instructions": {"Type": "text"},
+        "Frequency": {"Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+        "Deadline Date": {"Type": "datetime"},
+        "Swab Use": {"Type": "boolean"},
+        "Confirmation": {"Type": "boolean"}
+    }
+}

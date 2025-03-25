@@ -1,0 +1,22 @@
+Here is the output in JSON format, removing everything except `{{ PARAMETER ESPECIFICATIONS }}` and `{{ NO-CODE ELEMENT NAME }}`, and removing not applicable parameters:
+
+
+{
+  "name": "Caregiver Support",
+  "parameters": [
+    {
+      "name": "Message",
+      "type": "text or video"
+    },
+    {
+      "name": "Trigger",
+      "type": "options"
+    },
+    {
+      "name": "Frequency",
+      "type": "options"
+    }
+  ]
+}
+
+Let me know if this meets your requirements!

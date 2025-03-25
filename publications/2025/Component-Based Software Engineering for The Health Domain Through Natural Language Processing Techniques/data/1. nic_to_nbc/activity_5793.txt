@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Pin Site Monitoring": {
+    "Parameters": {
+      "Name": {},
+      "Instructions": {},
+      "Monitoring Questions": {},
+      "Frequency": {},
+      "Deadline Date": {},
+      "Photo Upload": {},
+      "Site Selection": {}
+    }
+  }
+}

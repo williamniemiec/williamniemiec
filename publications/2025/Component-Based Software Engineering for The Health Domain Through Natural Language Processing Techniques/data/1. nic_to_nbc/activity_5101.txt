@@ -1,0 +1,15 @@
+
+
+
+{
+  "Relaxation Intervention Description": {
+    "parameters": [
+      {"Title": "text"},
+      {"Description": "long text or HTML content"},
+      {"Instructions": "long text or HTML content"},
+      {"Resources": "list of resources (e.g., URLs, file uploads)"},
+      {"Frequency": "options"},
+      {"Deadline Date": "datetime"}
+    ]
+  }
+}

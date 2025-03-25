@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Guidance Content": {
+    "Topic": ["physiologicalChanges", "psychologicalChanges", "managementStrategies", "other"],
+    "Content": {"type": "HTML content or article"},
+    "Tips and Strategies": {"type": "list of tips and strategies"},
+    "Resources": {"type": "list of resources"},
+    "Frequency": ["daily", "onlyOnce", "everyHours", "everyDays"],
+    "Deadline Date": {"type": "datetime"}
+  }
+}
+
+
+Note that I removed the not applicable parameters, as per your request. Let me know if you have any further questions!

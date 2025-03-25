@@ -1,0 +1,29 @@
+Here is the output in JSON format:
+
+
+{
+  "Guide": {
+    "parameters": [
+      {
+        "name": "pages",
+        "description": "List of pages",
+        "required": true,
+        "type": "book-page",
+        "book-page": "list of HTML texts"
+      },
+      {
+        "name": "symptoms",
+        "description": "List of symptoms to recognize",
+        "required": true,
+        "type": "list",
+        "list": [
+          { "value": "yellowingOfSkin", "label": "Yellowing of skin" },
+          { "value": "yellowingOfEyes", "label": "Yellowing of eyes" },
+          { "value": "darkUrine", "label": "Dark urine" },
+          { "value": "paleStools", "label": "Pale stools" },
+          { "value": "fatigue", "label": "Fatigue" }
+        ]
+      }
+    ]
+  }
+}

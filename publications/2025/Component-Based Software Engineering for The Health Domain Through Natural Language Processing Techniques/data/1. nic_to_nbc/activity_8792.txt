@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Ventilation Position Guide": {
+    "Parameters": {
+      "Ventilation Position Guide Title": {},
+      "Recommended Position": {},
+      "Positioning Instructions": {},
+      "Ventilation Position Guide Media": {},
+      "Ventilation Position Guide Frequency": {}
+    }
+  }
+}

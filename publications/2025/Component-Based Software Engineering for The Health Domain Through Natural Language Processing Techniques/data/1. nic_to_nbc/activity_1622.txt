@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+
+{
+  "Fat Pad Palpation": {
+    "parameters": {
+      "Fat Pad Thickness": {},
+      "Location": {},
+      "Photo": {},
+      "Frequency": {},
+      "Notes": {}
+    }
+  }
+}

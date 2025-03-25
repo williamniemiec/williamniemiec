@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "ECG Monitor": {
+    "Parameters": {
+      "ECG Data": {},
+      "ST Change Detection": {},
+      "Alert Threshold": {},
+      "ECG Interpretation": {},
+      "Data Storage": {}
+    }
+  }
+}

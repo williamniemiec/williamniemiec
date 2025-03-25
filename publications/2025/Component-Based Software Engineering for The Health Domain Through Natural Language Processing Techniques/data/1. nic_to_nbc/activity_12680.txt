@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Nursing Intervention Descriptor": {
+    "Parameters": {
+      "Name": {},
+      "Intervention List": {},
+      "Intervention Details": {},
+      "Rationale": {},
+      "Goals": {}
+    }
+  }
+}

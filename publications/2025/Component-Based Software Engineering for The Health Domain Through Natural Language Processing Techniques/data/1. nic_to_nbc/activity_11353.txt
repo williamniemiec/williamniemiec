@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Dietary Referral": {
+    "Referral Reason": {},
+    "Dietitian/Nutritionist Info": {},
+    "Referral Instructions": {},
+    "Additional Resources": {}
+  }
+}

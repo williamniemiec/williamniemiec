@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Contact Information": {
+    "Parameters": {
+      "Contact Method": {
+        "Type": "options"
+      },
+      "Phone Number": {
+        "Type": "text"
+      },
+      "Email": {
+        "Type": "text"
+      },
+      "Preferred Call Time": {
+        "Type": "options"
+      }
+    }
+  }
+}

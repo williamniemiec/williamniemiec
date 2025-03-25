@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Animal Visitation": {
+    "parameters": [
+      {"name": "animal_visitation_schedule", "description": "Schedule for animal visitation", "required": true, "type": "schedule"},
+      {"name": "animal_type", "description": "Type of animal for visitation", "required": true, "type": "options", "options": [{"label": "Dog", "value": "dog"}, {"label": "Cat", "value": "cat"}]},
+      {"name": "visitation_location", "description": "Location for animal visitation", "required": true, "type": "options", "options": [{"label": "Patient's Room", "value": "patient_room"}, {"label": "Hospital Lobby", "value": "hospital_lobby"}]},
+      {"name": "video_animal_visitation", "description": "Virtual animal visitation experience", "required": false, "type": "video"}
+    ]
+  }
+}
+
+
+I removed all unnecessary text and kept only the `PARAMETER ESPECIFICATIONS` and `NO-CODE ELEMENT NAME`. I also removed any not applicable parameters. Let me know if you need anything else!

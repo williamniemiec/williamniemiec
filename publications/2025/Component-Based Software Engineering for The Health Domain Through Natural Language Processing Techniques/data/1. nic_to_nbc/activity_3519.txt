@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Ice Application": {
+    "parameters": [
+      { "name": "duration", "description": "Apply ice for" },
+      { "name": "frequency", "description": "How often should you apply ice?" },
+      { "name": "start_time", "description": "When should you start applying ice?" },
+      { "name": "reminder", "description": "Would you like to set a reminder to apply ice?" }
+    ]
+  }
+}

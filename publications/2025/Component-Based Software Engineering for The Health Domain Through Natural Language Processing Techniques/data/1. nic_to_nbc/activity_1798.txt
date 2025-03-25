@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Dietary Plan": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Food/Liquid Consistency": {"Type": "options"},
+      "Instructions": {"Type": "text"},
+      "Frequency": {"Type": "options"}
+    }
+  }
+}
+
+
+I removed the `Deadline Date` parameter as it's not applicable in this context. Let me know if you need further assistance!

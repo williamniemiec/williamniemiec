@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Food Diary": {
+    "Meal Type": {"type": "options"},
+    "Food Item": {"type": "text"},
+    "Portion Size": {"type": "number"},
+    "Calorie Count": {"type": "number"},
+    "Frequency": {"type": "options"},
+    "Goal": {"type": "text"}
+  }
+}

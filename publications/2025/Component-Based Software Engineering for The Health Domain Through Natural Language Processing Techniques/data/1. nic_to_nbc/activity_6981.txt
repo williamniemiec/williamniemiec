@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Pacifier Positioning": {
+    "Parameters": {
+      "Positioning Technique": {"Type": "text"},
+      "Tips": {"Type": "text"},
+      "Frequency": {"Options": ["asNeeded", "custom"]}
+    }
+  }
+}

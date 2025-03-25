@@ -1,0 +1,15 @@
+Here is the output in JSON format, removing anything except `PARAMETER ESPECIFICATIONS` and `NO-CODE ELEMENT NAME`, and also removing not applicable parameters:
+
+
+{
+  "Family Issue Prioritizer": {
+    "Parameters": {
+      "Family Issues": {"Type": "unordered list"},
+      "Issue Severity": {"Type": "scale"},
+      "Issue Urgency": {"Type": "scale"},
+      "Prioritization Criteria": {"Type": "options"},
+      "Top Issue": {"Type": "text"},
+      "Action Plan": {"Type": "text"}
+    }
+  }
+}

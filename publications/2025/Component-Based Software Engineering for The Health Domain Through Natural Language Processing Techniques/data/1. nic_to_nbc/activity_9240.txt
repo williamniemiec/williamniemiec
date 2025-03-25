@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+    "Heat Exhaustion and Heat Stroke Prevention": {
+        "parameters": {
+            "name": "Heat Exhaustion and Heat Stroke Prevention",
+            "pages": "list of HTML texts explaining how to prevent heat exhaustion and heat stroke"
+        }
+    }
+}

@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+    "Phosphate Level": {
+        "Type": "numeric",
+        "Unit": "mg/dL"
+    },
+    "Reason for Decrease": {
+        "Type": "options"
+    },
+    "Frequency": {
+        "Type": "options"
+    },
+    "Target Range": {
+        "Type": "range"
+    },
+    "Notes": {
+        "Type": "text"
+    },
+    "Alert Threshold": {
+        "Type": "numeric",
+        "Unit": "mg/dL"
+    }
+}

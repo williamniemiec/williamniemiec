@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Defibrillator Training": {
+    "parameters": {
+      "Defibrillator type": ["Automated External Defibrillator (AED)", "Manual External Defibrillator (MED)", "Implantable Cardioverter-Defibrillator (ICD)"],
+      "Operation techniques": ["Step-by-step instructions for using an AED", "Video tutorials on MED operation", "Interactive simulations for ICD programming"],
+      "Quizzes and assessments": ["Multiple-choice questions on AED usage", "True/false questions on MED safety protocols", "Interactive scenarios to test ICD programming skills"]
+    }
+  }
+}

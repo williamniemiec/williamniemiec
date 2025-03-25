@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Open-Ended Question": {
+    "Parameters": {
+      "Question": {"Type": "text"},
+      "Answer Type": {"Type": "options", "Options": ["text", "audio", "video"]},
+      "Optional Guidance": {"Type": "text"}
+    }
+  }
+}

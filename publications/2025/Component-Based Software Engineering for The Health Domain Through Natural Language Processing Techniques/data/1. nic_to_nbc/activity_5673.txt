@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+
+{
+"Restraint Application": {
+"restraint_type": {"type": "text"},
+"indication": {"type": "text"},
+"steps": {"type": "list of text or JSON object"},
+"verification": {"type": "boolean"}
+}
+}

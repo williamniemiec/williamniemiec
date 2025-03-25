@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Bed Alarm Setup": {
+    "Alarm Type": {},
+    "Alarm Sensitivity": {},
+    "Alarm Notification": {},
+    "Alarm Instructions": {}
+  }
+}

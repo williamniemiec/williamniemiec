@@ -1,0 +1,29 @@
+Here is the output in JSON format:
+
+
+{
+  "Social Support Assessment": {
+    "Parameters": {
+      "Question": {
+        "Type": "text"
+      },
+      "Answer Type": {
+        "Type": "options",
+        "Options": ["scale (e.g., 1-5)", "text", "yes/no", "multiple choice"]
+      },
+      "Options": {
+        "Type": "list of options"
+      },
+      "Frequency": {
+        "Type": "options",
+        "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+      },
+      "Deadline Date": {
+        "Type": "datetime"
+      },
+      "Resources": {
+        "Type": "list of URLs or embedded media"
+      }
+    }
+  }
+}

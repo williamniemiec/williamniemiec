@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Fetal Movement Questionnaire": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Questions": {"Type": "list of questions with answer options"},
+      "Frequency": {"Options": ["daily", "everyHours", "everyDays"]},
+      "Deadline Date": {"Type": "datetime"}
+    }
+  },
+  "Survey": {
+    "Parameters": {
+      "Questions": {"Type": "questions"},
+      "Answer Options": {"Type": "answer options"},
+      "Frequency": {"Options": ["daily", "everyHours", "everyDays"]},
+      "Deadline Date": {"Type": "datetime"}
+    }
+  }
+}

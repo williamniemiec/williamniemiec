@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+  "Screening Questionnaire": {
+    "parameters": {
+      "name": "Anxiety and Depression Screening",
+      "questions": "list of questions with answer types (e.g., multiple choice, Likert scale, text)",
+      "frequency": "specify how often the questionnaire should be repeated (e.g., daily, weekly, monthly)",
+      "deadline_date": "specify the due date for completing the questionnaire"
+    }
+  },
+  "Mental Health Resource": {
+    "parameters": {
+      "name": "Mental Health Resources",
+      "content": "list of HTML texts or links to external resources",
+      "type": "specify the type of resource (e.g., article, video, hotline)"
+    }
+  },
+  "Treatment Plan": {
+    "parameters": {
+      "name": "Treatment Plan for Anxiety and Depression",
+      "medication": "list of suitable antidepressants with dosage and frequency information",
+      "notes": "space for patients to record notes or questions about their treatment plan",
+      "deadline_date": "specify the due date for reviewing or updating the treatment plan"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Skin Monitoring": {
+    "Name": {"type": "text"},
+    "Instructions": {"type": "text"},
+    "Skin Color": {"type": "options"},
+    "Skin Temperature": {"type": "number"},
+    "Frequency": {"type": "options"},
+    "Deadline Date": {"type": "datetime"},
+    "Notes": {"type": "text"}
+  }
+}

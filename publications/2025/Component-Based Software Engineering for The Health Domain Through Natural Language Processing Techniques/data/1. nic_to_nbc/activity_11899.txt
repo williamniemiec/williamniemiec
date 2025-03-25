@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+"Injury Prevention Methods": {
+    "Parameters": {
+        "Transfer Type": {"Type": "options"},
+        "Injury Prevention Techniques": {"Type": "list"},
+        "Safety Precautions": {"Type": "text or multimedia"},
+        "Risk Factors": {"Type": "list"},
+        "Pre-Transfer Checklist": {"Type": "interactive"},
+        "Emergency Procedures": {"Type": "text or multimedia"}
+    }
+}
+}
+
+
+Let me know if you need any further assistance!

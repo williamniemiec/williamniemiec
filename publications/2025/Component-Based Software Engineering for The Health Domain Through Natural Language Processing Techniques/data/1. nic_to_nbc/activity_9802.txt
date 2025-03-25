@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Goal Realism Assessment": {
+    "parameters": {
+      "Goal Statement": {"type": "text"},
+      "Realism Rating": {"type": "rating scale"},
+      "Attainability Factors": {"type": "options"},
+      "Goal Adjustment": {"type": "text"},
+      "Goal Breakdown": {"type": "list of tasks"}
+    }
+  }
+}

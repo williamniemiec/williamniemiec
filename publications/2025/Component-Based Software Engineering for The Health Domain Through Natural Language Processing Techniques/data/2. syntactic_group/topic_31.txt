@@ -1,0 +1,10 @@
+{
+  "name": "Reflection and Journaling Prompt System",
+  "description": "Manages reflection prompts and journal entries with various timing options (e.g., once, hourly, daily), allowing users to record responses, rate them, and log them with audio and date-time stamps.",
+  "type": "periodic",
+  "input": ["Reflection prompt", "Response rating", "Audio recording", "Date and time"],
+  "output": ["Journal entry", "Reflection summary", "Audio file", "Response analysis"],
+  "preconditions": ["User receives and responds to reflection prompts"],
+  "postconditions": ["Journal entries are recorded, rated, and timestamped"],
+  "dependencies": ["Prompt delivery system", "Journal platform", "Audio recording tools"]
+}

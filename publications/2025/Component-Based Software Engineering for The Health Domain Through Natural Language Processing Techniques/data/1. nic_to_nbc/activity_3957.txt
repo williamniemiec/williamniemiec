@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Toilet Training History": {
+    "Parameters": {
+      "Toilet Training History": {"Type": "text"},
+      "Duration of Encopresis": {"Type": "text"},
+      "Attempts Made": {"Type": "text"},
+      "Additional Comments": {"Type": "text"}
+    }
+  }
+}

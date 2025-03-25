@@ -1,0 +1,35 @@
+Here is the output in JSON format:
+
+
+{
+  "Vital Signs Tracker": {
+    "parameters": {
+      "name": "Monitor vital signs",
+      "vital_signs": [
+        {"name": "Blood Pressure", "description": "Enter your blood pressure reading", "required": true, "type": "number"},
+        {"name": "Heart Rate", "description": "Enter your heart rate reading", "required": true, "type": "number"},
+        {"name": "Respiratory Rate", "description": "Enter your respiratory rate reading", "required": true, "type": "number"},
+        {"name": "Body Temperature", "description": "Enter your body temperature reading", "required": true, "type": "number"},
+        {"name": "Oxygen Saturation", "description": "Enter your oxygen saturation reading", "required": true, "type": "number"}
+      ],
+      "frequency": {
+        "name": "How often should vital signs be tracked?",
+        "description": "Select one of the following options",
+        "required": true,
+        "type": "options",
+        "options": [
+          {"value": "daily", "label": "Daily"},
+          {"value": "onlyOnce", "label": "Only once"},
+          {"value": "everyHours", "label": "Every x hours"},
+          {"value": "everyDays", "label": "Every x days"}
+        ]
+      },
+      "deadline_date": {
+        "name": "Specify the due date for vital signs tracking",
+        "description": "Select a date and time",
+        "required": false,
+        "type": "datetime"
+      }
+    }
+  }
+}

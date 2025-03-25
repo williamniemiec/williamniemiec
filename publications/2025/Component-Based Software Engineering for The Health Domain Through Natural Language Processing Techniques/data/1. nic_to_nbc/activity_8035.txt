@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Neuromuscular-Blocking Agent Tracker": {
+    "Parameters": [
+      {"Parameter 1": {"Mechanical Ventilation Status": {"Required": true, "Type": "options"}}},
+      {"Parameter 2": {"Neuromuscular-Blocking Agent Administration": {"Required": true, "Type": "medication tracking"}}},
+      {"Parameter 3": {"Indication": {"Required": true, "Type": "options"}}},
+      {"Parameter 4": {"Frequency": {"Required": true, "Type": "options"}}}
+    ]
+  }
+}
+
+
+I removed the parameters that are not applicable (Deadline Date) and only kept the required ones. Let me know if you need any further assistance!

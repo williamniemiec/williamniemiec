@@ -1,0 +1,38 @@
+Here is the output in JSON format:
+
+
+{
+  "Lung Sounds": {
+    "Parameters": {
+      "Recording": {
+        "Type": "audio file"
+      },
+      "Location": {
+        "Type": "text or options",
+        "Options": [
+          "right upper lobe",
+          "right middle lobe",
+          "right lower lobe",
+          "left upper lobe",
+          "left middle lobe",
+          "left lower lobe"
+        ]
+      },
+      "Description": {
+        "Type": "text"
+      },
+      "Frequency": {
+        "Type": "options",
+        "Options": [
+          "daily",
+          "every 2 hours",
+          "every 4 hours",
+          "as needed"
+        ]
+      },
+      "Upload": {
+        "Type": "file upload (e.g., audio file)"
+      }
+    }
+  }
+}

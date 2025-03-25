@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Symptom Reporting": {
+    "parameters": {
+      "Question": {"type": "text"},
+      "Answer Type": {"type": "options"},
+      "Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]}
+    }
+  }
+}

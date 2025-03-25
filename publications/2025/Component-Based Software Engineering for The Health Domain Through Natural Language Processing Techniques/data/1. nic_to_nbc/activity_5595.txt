@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+  "Ventilator Adjustment": {
+    "adjustment instruction": {},
+    "PaCO2 Level": {"unit": "mmHg"},
+    "Ventilator Settings": {"listItems": [
+      {"value": "rate", "label": "Respiratory rate"},
+      {"value": "tidalVolume", "label": "Tidal volume"},
+      {"value": "PEEP", "label": "Positive end-expiratory pressure (PEEP)"}
+    ]},
+    "Frequency": {"options": [
+      {"value": "daily", "label": "Daily"},
+      {"value": "onlyOnce", "label": "Only once"},
+      {"value": "everyHours", "label": "Every x hours"},
+      {"value": "everyDays", "label": "Every x days"}
+    ]}
+  }
+}

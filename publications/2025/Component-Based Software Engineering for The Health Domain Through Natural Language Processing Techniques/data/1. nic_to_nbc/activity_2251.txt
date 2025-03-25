@@ -1,0 +1,13 @@
+
+
+
+{
+    "Oral Care": {
+        "Frequency": {"type": "options"},
+        "Soft Moist Swabs": {"type": "boolean"},
+        "Antiseptic Agent": {"type": "boolean"},
+        "Gentle Suctioning": {"type": "boolean"},
+        "Additional Instructions": {"type": "text"},
+        "Deadline Date": {"type": "datetime"}
+    }
+}

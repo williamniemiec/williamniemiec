@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Gift Arrangement Assistant": {
+    "parameters": {
+      "Gift Type": {"type": "options list"},
+      "Arrangement Instructions": {"type": "text or html"},
+      "Visual Appreciation Tips": {"type": "list of tips"},
+      "Frequency": {"type": "options", "options": ["daily", "weekly", "as needed"]},
+      "Resources": {"type": "list of resources with descriptions"}
+    }
+  }
+}

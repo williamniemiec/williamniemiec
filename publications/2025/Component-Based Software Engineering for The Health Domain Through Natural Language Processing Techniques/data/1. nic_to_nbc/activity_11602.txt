@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Practice Session": {
+    "session_name": {},
+    "instructions_text": {},
+    "exercise": {},
+    "spacing": {},
+    "frequency": {}
+  }
+}
+
+
+I removed all unnecessary information and only kept the `{{ NO-CODE ELEMENT NAME }}` and `{{ PARAMETER ESPECIFICATIONS }}`. I also removed the `Deadline Date` parameter since it's marked as not required. Let me know if this is what you were looking for!

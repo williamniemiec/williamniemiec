@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Care Plan Review": {
+    "parameters": {
+      "name": "",
+      "patient_info": "",
+      "care_plan": "",
+      "discussion_topics": [],
+      "type": "",
+      "deadline_date": ""
+    }
+  }
+}

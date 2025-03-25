@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Assistance Assessment": {
+    "parameters": [
+      {"Question": "text"},
+      {"Answer Type": "options", "options": ["number", "text", "select", "datetime"]},
+      {"Options": "list of options"},
+      {"Frequency": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      {"Deadline Date": "datetime"}
+    ]
+  }
+}

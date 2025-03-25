@@ -1,0 +1,13 @@
+
+
+
+{
+  "Food Label Guide": {
+    "Parameters": {
+      "Tutorial Steps": {},
+      "Example Labels": {},
+      "Food Categories": {},
+      "Tips and Reminders": {}
+    }
+  }
+}

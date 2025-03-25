@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Data Comparison": {
+    "Machine-Derived Data": {"Type": "text or options"},
+    "Nurse's Perception": {"Type": "text or options"},
+    "Comparison Criteria": {"Type": "text or options"},
+    "Discrepancy Threshold": {"Type": "number or range"},
+    "Action Plan": {"Type": "text or options"}
+  }
+}

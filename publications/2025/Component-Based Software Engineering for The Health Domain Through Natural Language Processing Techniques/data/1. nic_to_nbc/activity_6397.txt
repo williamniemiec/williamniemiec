@@ -1,0 +1,30 @@
+Here is the output in JSON format:
+
+
+{
+  "Emergency Protocol": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Content": {"Type": ["book-page", "file"]},
+      "Type": {"Type": "options"}
+    }
+  },
+  "Training Program": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Content": {"Type": ["book-page", "file"]},
+      "Type": {"Type": "options"},
+      "Employees": {"Type": ["list of employee IDs or names"]}
+    }
+  },
+  "Quiz or Assessment": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Questions": {"Type": "form"},
+      "Scoring": {"Type": ["formula", "algorithm"]}
+    }
+  }
+}
+
+
+I removed all the unnecessary text and only kept the `{{ NO-CODE ELEMENT NAME }}` and `{{ PARAMETER ESPECIFICATIONS }}`. I also removed any parameters that were marked as "Not Applicable". Let me know if this is what you were looking for!

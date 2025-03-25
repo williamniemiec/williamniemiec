@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Alert": {
+    "name": {"type": "text"},
+    "message": {"type": "text"},
+    "risk": {"type": "text", "options": ["walkers", "jumpers", "injury", "muscle development"]},
+    "reasons_to_avoid": {
+      "danger_of_injury": {"type": "text"},
+      "detrimental_effects_on_muscle_development": {"type": "text"}
+    },
+    "safe_alternatives": {"type": "text"}
+  }
+}

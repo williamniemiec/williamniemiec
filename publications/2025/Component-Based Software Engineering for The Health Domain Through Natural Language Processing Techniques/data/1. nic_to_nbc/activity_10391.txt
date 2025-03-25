@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Monitoring Task": {
+        "parameters": [
+            {"Name": {"type": "text"}},
+            {"Monitoring Period": {"type": "numeric", "unit": "hours or days"}},
+            {"Signs of Damage": {"type": "text"}},
+            {"Frequency of Monitoring": {"type": "numeric", "unit": "hours or days"}},
+            {"Instructions": {"type": "text"}}
+        ]
+    }
+}

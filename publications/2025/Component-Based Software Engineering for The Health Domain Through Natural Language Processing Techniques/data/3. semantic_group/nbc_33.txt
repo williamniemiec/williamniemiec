@@ -1,0 +1,10 @@
+{
+  "name": "Airway Suctioning and Management",
+  "description": "Manages airway suctioning techniques, including tracheal suctioning, subglottic suction, and emergency procedures such as jaw thrust and head tilt to clear the airway.",
+  "type": "periodic",
+  "input": ["Suction technique", "Airway assessment", "Tracheal suctioning tools", "Emergency procedure (jaw thrust, head tilt)"],
+  "output": ["Airway clearance report", "Suctioning procedure completion", "Patient response to airway management"],
+  "preconditions": ["Patient requires airway management or suctioning"],
+  "postconditions": ["Airway is cleared, and patient is monitored for response"],
+  "dependencies": ["Suctioning equipment", "Airway management guidelines", "Emergency response protocol"]
+}

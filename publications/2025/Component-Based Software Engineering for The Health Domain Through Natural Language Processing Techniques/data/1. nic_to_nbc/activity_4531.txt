@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Indicator Identifier": {
+        "Goal": {"type": "text"},
+        "Indicator Type": {"type": "options", "options": ["behavior", "social event", "physiological measure", "etc."]},
+        "Indicator Options": {"type": "list", "itemProperties": ["indicator description", "measurement criteria", "data type"]},
+        "Selected Indicator": {"type": "text"},
+        "Measurement Criteria": {"type": "text"},
+        "Data Type": {"type": "options", "options": ["numerical", "categorical", "etc."]},
+        "Frequency": {"type": "options", "options": ["daily", "weekly", "monthly", "etc."]}
+    }
+}

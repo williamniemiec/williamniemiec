@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Timer": {
+    "parameters": {
+      "name": "",
+      "duration": "",
+      "action": ""
+    }
+  },
+  "Button": {
+    "parameters": {
+      "name": "",
+      "action": "",
+      "enabled_after": ""
+    }
+  }
+}

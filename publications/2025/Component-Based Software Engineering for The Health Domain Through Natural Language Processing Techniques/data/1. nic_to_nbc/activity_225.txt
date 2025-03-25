@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Risk Factor Education": {
+    "Parameters": {
+      "Risk Factors": {
+        "Type": "list of text or images"
+      },
+      "Description": {
+        "Type": "text"
+      },
+      "Prevention Strategies": {
+        "Type": "list of text or images"
+      }
+    }
+  }
+}
+
+
+Let me know if this meets your requirements!

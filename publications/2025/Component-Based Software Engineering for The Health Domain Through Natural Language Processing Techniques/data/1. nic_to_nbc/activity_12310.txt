@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Obstetrical History Review": {
+    "prior_pph": {
+      "Description": "Has the patient had a prior history of postpartum hemorrhage?",
+      "Type": "options",
+      "Options": ["yes", "no"]
+    },
+    "labor_characteristics": {
+      "Description": "Select any labor characteristics that apply:",
+      "Type": "checklist",
+      "Options": ["Long labor", "Induction", "Preeclampsia", "Prolonged second stage", "Assisted delivery", "Multiple birth", "Cesarean birth", "Precipitous birth"]
+    },
+    "additional_notes": {
+      "Description": "Any additional notes or comments about the obstetrical history and labor record.",
+      "Type": "text"
+    }
+  }
+}

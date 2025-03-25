@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Problem-Solving Guide": {
+    "Parameters": {
+      "Problem Statement": {"Type": "text", "Required": true},
+      "Goal Setting": {"Type": "text", "Required": true},
+      "Brainstorming": {"Type": "list", "Required": true},
+      "Pros and Cons": {"Type": "table", "Required": true},
+      "Action Plan": {"Type": "template", "Required": true}
+    }
+  }
+}
+
+
+I removed the `Reflection` parameter since it's not required. Let me know if you need any further assistance!

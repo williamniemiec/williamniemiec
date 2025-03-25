@@ -1,0 +1,36 @@
+Here is the output in JSON format:
+
+
+{
+  "Personal Calendar": {
+    "Calendar Type": {
+      "Description": "Choose the type of calendar, such as a daily, weekly, or monthly view",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "daily", "label": "Daily" },
+        { "value": "weekly", "label": "Weekly" },
+        { "value": "monthly", "label": "Monthly" }
+      ]
+    },
+    "Events": {
+      "Description": "Add appointments, medication reminders, and other important events to your calendar",
+      "Required": true,
+      "Type": "event list",
+      "Events": [
+        { "event": "Medication Reminder", "date": "2023-03-01", "time": "08:00" },
+        { "event": "Doctor's Appointment", "date": "2023-03-05", "time": "10:00" }
+      ]
+    },
+    "Reminders": {
+      "Description": "Receive reminders for upcoming events to help you stay on track",
+      "Required": true,
+      "Type": "reminder settings",
+      "Options": [
+        { "value": "email", "label": "Email" },
+        { "value": "pushNotification", "label": "Push Notification" },
+        { "value": "inAppNotification", "label": "In-App Notification" }
+      ]
+    }
+  }
+}

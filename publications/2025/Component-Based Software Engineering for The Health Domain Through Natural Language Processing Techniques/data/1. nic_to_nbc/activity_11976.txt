@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Religious Service Media": {
+    "Parameters": {
+      "Service Type": {},
+      "Media Type": {},
+      "Service Provider": {},
+      "Access Method": {},
+      "Frequency": {}
+    }
+  }
+}

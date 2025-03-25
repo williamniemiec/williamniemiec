@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+  "Complication Delivery Options": {
+    "Parameters": {
+      "Complications": {
+        "Type": "checklist"
+      },
+      "Delivery Options": {
+        "Type": "checklist"
+      },
+      "Risks and Benefits": {
+        "Type": "text"
+      },
+      "Mother's Preferences": {
+        "Type": "text"
+      },
+      "Healthcare Provider Recommendations": {
+        "Type": "text"
+      },
+      "Decision Support": {
+        "Type": "text"
+      }
+    }
+  }
+}

@@ -1,0 +1,10 @@
+Here is the output in JSON format:
+
+
+{
+  "Reflection Journal": {
+    "Entry": {"type": "text"},
+    "Emotion": {"type": "options", "options": ["happy", "sad", "anxious", "frustrated", "other"]},
+    "Insight": {"type": "text"}
+  }
+}

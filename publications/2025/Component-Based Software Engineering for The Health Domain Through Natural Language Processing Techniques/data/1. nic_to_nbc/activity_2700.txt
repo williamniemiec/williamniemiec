@@ -1,0 +1,14 @@
+
+
+
+{
+"Mood Tracker": {
+    "Parameters": {
+        "Name": {"Type": "text"},
+        "Mood Scale": {"Type": "options", "Options": ["Happy", "Sad", "Neutral", "Angry", "etc."]},
+        "Frequency": {"Type": "options", "Options": ["daily", "every 2 hours", "every 4 hours", "etc."]},
+        "Deadline Date": {"Type": "datetime"},
+        "Additional Notes": {"Type": "text"}
+    }
+}
+}

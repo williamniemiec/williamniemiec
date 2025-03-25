@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Parameters": {
+    "Strategies": {
+      "Description": "List of strategies for managing nausea",
+      "Required": true,
+      "Type": "list of strategies"
+    },
+    "Descriptions": {
+      "Description": "Detailed descriptions of each strategy",
+      "Required": true,
+      "Type": "text"
+    }
+  },
+  "Name": "Nausea Management Strategies"
+}
+
+
+Note that I removed the not applicable parameters (`Tips`, `Resources`, and `Quiz`) as per your request. Let me know if you need any further assistance!

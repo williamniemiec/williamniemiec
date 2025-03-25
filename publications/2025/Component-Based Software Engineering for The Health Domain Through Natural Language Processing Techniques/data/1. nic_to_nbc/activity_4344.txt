@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Inhaler Guide": {
+    "Parameters": [
+      {"Name": "Guide title", "Type": "Text"},
+      {"Pages": "List of pages", "Type": "Book-page"},
+      {"Videos": "List of videos", "Type": "Video", "Required": false},
+      {"Quizzes": "List of quizzes", "Type": "Quiz", "Required": false}
+    ]
+  }
+}

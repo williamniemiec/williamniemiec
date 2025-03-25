@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Relaxation Technique": {
+    "Parameters": {
+      "Name": {},
+      "Description": {},
+      "Instructions": {},
+      "Frequency": {},
+      "Duration": {}
+    }
+  }
+}
+
+
+Note: I removed the `Reminders` parameter as it is a boolean type and does not have any specific value or specification, so it's considered not applicable.

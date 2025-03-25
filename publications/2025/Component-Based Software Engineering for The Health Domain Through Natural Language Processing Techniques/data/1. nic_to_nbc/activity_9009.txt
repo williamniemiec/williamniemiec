@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Table Foods Guide": {
+    "title": {},
+    "steps": {},
+    "foodOptions": {
+      "fruits": {},
+      "vegetables": {},
+      "proteins": {}
+    },
+    "frequency": {
+      "daily": {},
+      "everyDays": {},
+      "onlyOnce": {}
+    }
+  }
+}

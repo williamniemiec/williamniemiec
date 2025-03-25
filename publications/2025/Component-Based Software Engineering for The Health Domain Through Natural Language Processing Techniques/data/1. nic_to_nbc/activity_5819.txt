@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Hormone Tracking": {
+    "hormone_type": {"type": "options"},
+    "result": {"type": "numeric"},
+    "date": {"type": "datetime"},
+    "notes": {"type": "text"}
+  },
+  "Ultrasound Tracking": {
+    "exam_type": {"type": "options"},
+    "result": {"type": "text or image"},
+    "date": {"type": "datetime"},
+    "notes": {"type": "text"}
+  }
+}

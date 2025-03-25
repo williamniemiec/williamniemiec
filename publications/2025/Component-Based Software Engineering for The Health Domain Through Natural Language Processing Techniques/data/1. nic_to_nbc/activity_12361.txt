@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Safety Measure": {
+    "Parameters": {
+      "Safety Measure Type": {
+        "Type": "options",
+        "Options": ["eye protection", "goggles", "glasses"]
+      },
+      "Description": {"Type": "text"},
+      "Purpose": {"Type": "text"},
+      "Instructions": {"Type": "text"},
+      "Warnings": {"Type": "text"}
+    }
+  }
+}

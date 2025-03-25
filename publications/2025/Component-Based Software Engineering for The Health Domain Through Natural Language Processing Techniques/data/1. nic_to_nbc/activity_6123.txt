@@ -1,0 +1,35 @@
+Here is the output in JSON format:
+
+
+{
+  "Resource List": {
+    "parameters": [
+      {
+        "name": "resource_list",
+        "description": "List of internet sites",
+        "required": true,
+        "type": "unordered list",
+        "items": [
+          {
+            "label": "Site 1",
+            "url": "https://example.com/site1"
+          },
+          {
+            "label": "Site 2",
+            "url": "https://example.com/site2"
+          },
+          {
+            "label": "Site 3",
+            "url": "https://example.com/site3"
+          }
+        ]
+      },
+      {
+        "name": "notes",
+        "description": "Additional notes or comments about the resources",
+        "required": false,
+        "type": "text"
+      }
+    ]
+  }
+}

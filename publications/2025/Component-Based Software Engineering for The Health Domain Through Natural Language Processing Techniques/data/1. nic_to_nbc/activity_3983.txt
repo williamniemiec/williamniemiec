@@ -1,0 +1,38 @@
+Here is the output in JSON format:
+
+
+{
+    "Stimulation Method Selection": {
+        "parameters": {
+            "name": "",
+            "methods": []
+        }
+    },
+    "Duration and Frequency Selection": {
+        "parameters": {
+            "name": "",
+            "durations": [],
+            "frequencies": [],
+            "method": ""
+        }
+    },
+    "Recommendation": {
+        "parameters": {
+            "name": "",
+            "recommended_duration": "",
+            "recommended_frequency": "",
+            "explanation": ""
+        }
+    },
+    "Schedule": {
+        "parameters": {
+            "name": "",
+            "reminder_time": "",
+            "duration": "",
+            "frequency": ""
+        }
+    }
+}
+
+
+Note that I removed the `INTRODUCTION` and `CONCLUSION` sections, as well as the numbers and descriptions of the no-code elements. I only kept the `NO-CODE ELEMENT NAME`s and their corresponding `PARAMETER ESPECIFICATIONS`. I also removed any parameters that were marked as "not applicable" (none in this case).

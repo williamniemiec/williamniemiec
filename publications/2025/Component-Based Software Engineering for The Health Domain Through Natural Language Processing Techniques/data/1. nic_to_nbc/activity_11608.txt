@@ -1,0 +1,29 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Tracker": {
+    "Parameters": {
+      "Medication List": {"Type": "options (list of medications)"},
+      "Dose and Frequency": {"Type": "numeric (dose) and options (frequency)"}
+    }
+  },
+  "Potassium Level Tracker": {
+    "Parameters": {
+      "Potassium Levels": {"Type": "numeric (lab values)"},
+      "Reference Ranges": {"Type": "options (list of reference ranges)"}
+    }
+  },
+  "Alert System": {
+    "Parameters": {
+      "Alert Thresholds": {"Type": "options (list of threshold values)"},
+      "Alert Frequency": {"Type": "options (immediately, daily, weekly)"}
+    }
+  },
+  "Reminders": {
+    "Parameters": {
+      "Reminder Frequency": {"Type": "options (daily, weekly, monthly)"},
+      "Reminder Time": {"Type": "time (HH:MM)"}
+    }
+  }
+}

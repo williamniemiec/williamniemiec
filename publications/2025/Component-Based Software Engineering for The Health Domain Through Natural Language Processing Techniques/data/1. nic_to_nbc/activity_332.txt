@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Privacy and Confidentiality Agreement",
+    "parameters": [
+        { 
+            "name": "Agreement Text", 
+            "type": "text"
+        },
+        { 
+            "name": "Acceptance", 
+            "type": "boolean"
+        }
+    ]
+}

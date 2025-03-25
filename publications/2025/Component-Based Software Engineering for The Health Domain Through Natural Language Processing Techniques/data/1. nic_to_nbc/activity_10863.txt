@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Sexual Protection Considerations": {
+    "Religious Considerations": {},
+    "Cultural Considerations": {},
+    "Developmental Considerations": {},
+    "Socioeconomical Considerations": {},
+    "Individual Considerations": {},
+    "Resources": {},
+    "Frequency": {},
+    "Deadline Date": {}
+  }
+}
+
+
+Note that I removed the `Type` and `Required` fields, as well as the descriptions and other unnecessary information. Let me know if you'd like me to keep any of those fields!

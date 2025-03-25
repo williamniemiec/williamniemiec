@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Anticonvulsant Management": {
+    "Medication Name": {},
+    "Dosage": {},
+    "Frequency": {},
+    "Time": {},
+    "Duration": {},
+    "Seizure Threshold": {},
+    "Medication Adjustment": {}
+  }
+}

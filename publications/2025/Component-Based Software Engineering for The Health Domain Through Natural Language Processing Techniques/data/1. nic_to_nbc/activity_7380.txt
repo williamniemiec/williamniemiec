@@ -1,0 +1,33 @@
+Here is the output in JSON format:
+
+
+[
+    {
+        "Decision Support": {
+            "name": "title of the decision",
+            "content": "specifies the content of the decision",
+            "format": "specifies the format of the decision"
+        }
+    },
+    {
+        "Collaborative Goal Setting": {
+            "name": "title of the collaborative goal setting",
+            "goals": "specifies the goals to be set",
+            "prioritization": "specifies the method for prioritizing goals"
+        }
+    },
+    {
+        "Shared Decision Making": {
+            "name": "title of the shared decision making",
+            "options": "specifies the options to be considered",
+            "decision support": "specifies the decision support tools and resources"
+        }
+    },
+    {
+        "Care Plan": {
+            "name": "title of the care plan",
+            "content": "specifies the content of the care plan",
+            "format": "specifies the format of the care plan"
+        }
+    }
+]

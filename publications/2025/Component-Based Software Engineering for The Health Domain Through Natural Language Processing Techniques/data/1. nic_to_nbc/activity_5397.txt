@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "OTC Drug Tracker": {
+    "Parameters": {
+      "Drug Name": {"Type": "text"},
+      "Dosage": {"Type": "text"},
+      "Frequency": {"Type": "options", "Options": ["daily", "weekly", "monthly", "etc."]},
+      "Amount": {"Type": "text"},
+      "Duration": {"Type": "text"},
+      "Notes": {"Type": "text"}
+    }
+  },
+  "OTC Drug Question": {
+    "Parameters": {
+      "Question": {"Type": "text"},
+      "Answer Type": {"Type": "options", "Options": ["text", "scale", "etc."]},
+      "Dosage": {"Type": "text"},
+      "Frequency": {"Type": "options", "Options": ["daily", "weekly", "monthly", "etc."]},
+      "Notes": {"Type": "text"}
+    }
+  }
+}

@@ -1,0 +1,43 @@
+Here is the output in JSON format:
+
+
+{
+  "Vital Sign Tracker": {
+    "Parameters": {
+      "Vital Sign Type": {
+        "type": "options",
+        "options": [
+          {"value": "temperature", "label": "Temperature"},
+          {"value": "bloodPressure", "label": "Blood Pressure"},
+          {"value": "heartRate", "label": "Heart Rate"},
+          {"value": "respiratoryRate", "label": "Respiratory Rate"},
+          {"value": "oxygenSaturation", "label": "Oxygen Saturation"}
+        ]
+      },
+      "Value": {
+        "type": "number"
+      },
+      "Unit": {
+        "type": "options",
+        "options": [
+          {"value": "celsius", "label": "°C"},
+          {"value": "mmHg", "label": "mmHg"},
+          {"value": "beatsPerMinute", "label": "beats per minute"},
+          {"value": "breathsPerMinute", "label": "breaths per minute"},
+          {"value": "percent", "label": "%"}
+        ]
+      },
+      "Frequency of Tracking": {
+        "type": "options",
+        "options": [
+          {"value": "daily", "label": "Daily"},
+          {"value": "weekly", "label": "Weekly"},
+          {"value": "monthly", "label": "Monthly"}
+        ]
+      }
+    }
+  }
+}
+
+
+I removed the `Deadline Date` parameter as it is of type `datetime`, which is not applicable in this context.

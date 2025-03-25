@@ -1,0 +1,30 @@
+Here is the output in JSON format:
+
+
+{
+  "Incident Reporting": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Incident Type": {"Type": "options"},
+      "Environmental Hazard": {"Type": "options"},
+      "Incident Details": {"Type": "text or file"}
+    }
+  },
+  "Incident Tracking": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Incident ID": {"Type": "text or number"},
+      "Incident Status": {"Type": "options"}
+    }
+  },
+  "Data Analysis": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Data Source": {"Type": "options"},
+      "Analysis Type": {"Type": "options"}
+    }
+  }
+}
+
+
+I removed all the unnecessary text and only kept the `{{ NO-CODE ELEMENT NAME }}` and `{{ PARAMETER ESPECIFICATIONS }}`. I also formatted the output as a JSON object for better readability. Let me know if you need any further assistance!

@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Fluid Balance Tracker": {
+    "parameters": {
+      "Fluid Intake": {
+        "type": "number"
+      },
+      "Fluid Output": {
+        "type": "number"
+      },
+      "Daily Weight": {
+        "type": "number"
+      },
+      "Frequency": {
+        "options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+      }
+    }
+  }
+}

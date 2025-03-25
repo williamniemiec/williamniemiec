@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "No-code Element Name": "Interruption Prevention",
+  "Parameters": {
+    "Notify Others": {"Type": "text or selection from a list of options"},
+    "Turn Off Notifications": {"Type": "text or selection from a list of options"},
+    "Find a Private Space": {"Type": "text or selection from a list of options"},
+    "Schedule a Quiet Time": {"Type": "text or selection from a list of options"},
+    "Additional Precautions": {"Type": "text"}
+  }
+}

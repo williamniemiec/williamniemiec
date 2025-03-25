@@ -1,0 +1,47 @@
+Here is the output in JSON format:
+
+
+{
+    "Symptom Checker": {
+        "parameters": {
+            "name": "Hypokalemia Symptom Checker",
+            "symptoms": [
+                "Muscular weakness",
+                "Cardiac irregularities (PVC)",
+                "Prolonged QT interval",
+                "Flattened or depressed T wave",
+                "Depressed ST segment",
+                "Presence of U wave",
+                "Fatigue",
+                "Paresthesia",
+                "Decreased reflexes",
+                "Anorexia",
+                "Constipation",
+                "Decreased GI motility",
+                "Dizziness",
+                "Confusion",
+                "Increased sensitivity to digitalis",
+                "Depressed respirations"
+            ],
+            "answer type": "boolean (yes/no) or severity scale (e.g., 1-5)",
+            "frequency": "",
+            "deadline_date": ""
+        }
+    },
+    "Vital Sign Tracker": {
+        "parameters": {
+            "name": "Hypokalemia Vital Sign Tracker",
+            "vital signs": [
+                "Heart rate",
+                "Blood pressure",
+                "Respiratory rate",
+                "Electrocardiogram (ECG) readings"
+            ],
+            "frequency": "",
+            "deadline_date": ""
+        }
+    }
+}
+
+
+Note: I removed the `Not Applicable` parameters as per your request.

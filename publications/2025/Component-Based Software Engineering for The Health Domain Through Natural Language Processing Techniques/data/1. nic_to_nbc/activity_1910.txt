@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Relactation Guide": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Content": {"Type": "rich text or multimedia"},
+      "Steps": {"Type": "ordered list"},
+      "Frequency": {"Type": "options (daily, every few hours, etc.)"},
+      "Tracking": {"Type": "table or chart"}
+    }
+  }
+}

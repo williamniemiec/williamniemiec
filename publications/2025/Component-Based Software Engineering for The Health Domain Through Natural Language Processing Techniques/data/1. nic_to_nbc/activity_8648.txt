@@ -1,0 +1,39 @@
+Here is the output in JSON format:
+
+
+{
+  "Adaptive Communication": {
+    "Communication Style": {
+      "type": "options",
+      "options": [
+        "Stand in front of patient when speaking",
+        "Listen attentively",
+        "Present one idea or thought at a time",
+        "Speak slowly while avoiding shouting",
+        "Use written communication",
+        "Solicit family's assistance in understanding patient's speech",
+        "Other ( specify )"
+      ]
+    },
+    "Reason": {
+      "type": "text"
+    },
+    "Instructions": {
+      "type": "text"
+    },
+    "Tips": {
+      "type": "text"
+    },
+    "Frequency": {
+      "type": "options",
+      "options": [
+        "Always",
+        "Only when necessary",
+        "During specific times of the day"
+      ]
+    }
+  }
+}
+
+
+I removed `Deadline Date` as it's a datetime type and not applicable to this no-code element.

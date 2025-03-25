@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Child Development Tracker": {
+    "Parameters": {
+      "Physical Development": {"Type": "list of physical development metrics"},
+      "Emotional Development": {"Type": "list of emotional development metrics"},
+      "Developmental Red Flags": {"Type": "list of developmental red flags"},
+      "Frequency": {"Options": ["daily", "weekly", "monthly", "quarterly"]},
+      "Deadline Date": {"Type": "datetime"}
+    }
+  }
+}

@@ -1,0 +1,39 @@
+Here is the output in JSON format:
+
+
+{
+"Lifestyle Change Education": {
+    "Parameters": {
+        "Education Content": {"Type": ["text", "multimedia"]},
+        "Learning Objectives": {"Type": ["text", "unordered list"]},
+        "Teaching Method": {"Type": ["text", "options list"]},
+        "Assessment": {"Type": ["quiz", "survey"]}
+    }
+},
+"Exercise Tracker": {
+    "Parameters": {
+        "exercise tracker frequency": {},
+        "exercise tracker method": {}
+    }
+},
+"Substance Use Tracker": {
+    "Parameters": {
+        "substance use tracker frequency": {},
+        "substance use tracker method": {}
+    }
+},
+"Fall Prevention Strategies": {
+    "Parameters": {
+        "fall prevention strategies list": {},
+        "fall prevention strategies categories": {}
+    }
+},
+"Goal Setting": {
+    "Parameters": {
+        "goal setting frequency": {},
+        "goal setting method": {}
+    }
+}
+}
+
+Let me know if you need any further modifications!

@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+  "Wandering Pattern Identification": {
+    "Parameters": {
+      "Wandering Pattern": {
+        "Type": "options",
+        "Options": ["timeOfDay", "location", "activity", "other"],
+        "Description": "Specifies the type of wandering pattern to identify"
+      },
+      "Pattern Description": {
+        "Type": "text",
+        "Description": "Provides a brief description of the wandering pattern"
+      },
+      "Frequency": {
+        "Type": "options",
+        "Options": ["ongoing", "daily", "everyHours", "everyDays"],
+        "Description": "Specifies how often to track and identify wandering patterns"
+      },
+      "Data Source": {
+        "Type": "options",
+        "Options": ["caregiverReport", "sensorData", "patientSelfReport", "other"],
+        "Description": "Specifies the source of data for tracking wandering patterns"
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Drainage Device Response Tracker": {
+    "parameters": {
+      "name": {"type": "text"},
+      "response_type": {"type": "options"},
+      "response_scale": {"type": "options"},
+      "frequency": {"type": "options"},
+      "notes": {"type": "text"}
+    }
+  }
+}

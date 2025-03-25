@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Calcium Intake Tracker": {
+    "Parameters": {
+      "Daily Goal": {"type": "number"},
+      "Food Sources": {"type": "unordered list"},
+      "Supplement Options": {"type": "text or unordered list"},
+      "Tracking Method": {"type": "text or options list"},
+      "Reminders": {"type": "datetime or frequency"}
+    }
+  }
+}

@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+
+{
+    "Positioning Guidance": {
+        "Instructions": {"Type": "text"},
+        "Visual Aids": {"Type": "multimedia (image, video)"},
+        "Frequency": {"Type": "options (e.g., every hour, every 2 hours, as needed)"},
+        "Reminders": {"Type": "boolean (yes/no)"},
+        "Positioning Options": {"Type": "list of options"}
+    }
+}

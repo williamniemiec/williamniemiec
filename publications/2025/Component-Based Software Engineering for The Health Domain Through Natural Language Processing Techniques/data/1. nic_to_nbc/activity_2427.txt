@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+    "Infection Prevention Guide": {
+        "Parameters": {
+            "Name": {"Type": "text"},
+            "Prevention Methods": {"Type": "list"},
+            "Instructions": {"Type": "text"},
+            "Visual Aids": {"Type": "multimedia"},
+            "Reminders": {"Type": "options"},
+            "Resources": {"Type": "list"}
+        }
+    }
+}

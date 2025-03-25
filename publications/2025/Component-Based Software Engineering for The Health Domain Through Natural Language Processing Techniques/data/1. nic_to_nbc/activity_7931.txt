@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+"Dressing Selection": {
+"parameters": [
+{"name": "wound_size", "description": "What is the size of your wound?", "required": true, "type": "number"},
+{"name": "wound_type", "description": "What type of wound do you have?", "required": true, "type": "options", "options": [{"value": "surgical", "label": "Surgical"}, {"value": "traumatic", "label": "Traumatic"}, {"value": "ulcer", "label": "Ulcer"}, {"value": "other", "label": "Other"}]},
+{"name": "dressing_type", "description": "What type of dressing do you need?", "required": true, "type": "options", "options": [{"value": "hydrocolloid", "label": "Hydrocolloid"}, {"value": "hydrogel", "label": "Hydrogel"}, {"value": "foam", "label": "Foam"}, {"value": "other", "label": "Other"}]}
+]
+},
+"Dressing Application": {
+"parameters": [
+{"name": "dressing_application_method", "description": "How did you apply the dressing?", "required": true, "type": "options", "options": [{"value": "self-applied", "label": "Self-applied"}, {"value": "caregiver-applied", "label": "Caregiver-applied"}, {"value": "healthcare-professional-applied", "label": "Healthcare professional-applied"}]},
+{"name": "dressing_change_frequency", "description": "How often do you need to change the dressing?", "required": true, "type": "options", "options": [{"value": "daily", "label": "Daily"}, {"value": "everyOtherDay", "label": "Every other day"}, {"value": "weekly", "label": "Weekly"}, {"value": "other", "label": "Other"}]}
+]
+}
+}

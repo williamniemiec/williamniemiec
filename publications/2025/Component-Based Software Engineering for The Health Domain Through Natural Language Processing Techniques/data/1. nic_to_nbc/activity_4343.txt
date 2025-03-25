@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "noCodeElementName": "Oxygen Therapy",
+  "parameters": {
+    "Flow Rate": {"type": "range"},
+    "Duration": {"type": "time interval"},
+    "Frequency": {"type": "options"}
+  }
+}

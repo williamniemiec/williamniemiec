@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Weight Limitation Guide": {
+    "Parameters": {
+      "Title": {},
+      "Content": {},
+      "Weight Limitations": {},
+      "Frequency": {}
+    }
+  }
+}

@@ -1,0 +1,29 @@
+Here is the output in JSON format:
+
+
+{
+  "Relaxation Environment": {
+    "Environment Type": {
+      "type": "options",
+      "options": ["nature", "beach", "forest", "city", "etc."]
+    },
+    "Sound Level": {
+      "type": "options",
+      "options": ["soft", "moderate", "loud"]
+    },
+    "Visuals": {
+      "type": "options",
+      "options": ["images", "videos", "animations", "etc."]
+    },
+    "Duration": {
+      "type": "time"
+    },
+    "Frequency": {
+      "type": "options",
+      "options": ["as needed", "daily", "onlyOnce", "everyHours", "everyDays"]
+    }
+  }
+}
+
+
+Let me know if this is what you were looking for!

@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "ICP and CPP Monitoring": {
+    "parameters": [
+      {"name": "ICP", "type": "number"},
+      {"name": "CPP", "type": "number"},
+      {"name": "Frequency", "type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      {"name": "Deadline Date", "type": "datetime"}
+    ]
+  }
+}
+
+
+Note: I removed the `Description` and `Required` fields as they were not specified to be included in the output. Let me know if you need those fields as well!

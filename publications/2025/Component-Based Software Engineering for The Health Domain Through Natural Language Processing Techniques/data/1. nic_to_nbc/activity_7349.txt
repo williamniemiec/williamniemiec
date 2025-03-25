@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+  "Family Members": {
+    "type": ["text", "multiple choice"]
+  },
+  "Medical History": {
+    "type": ["text", "multiple choice"]
+  },
+  "Age of Onset": {
+    "type": ["number"]
+  },
+  "Relationship": {
+    "type": ["text", "multiple choice"]
+  },
+  "Family Health History Tracker": {
+    "type": ["table", "graph"]
+  },
+  "Genetic Risk Assessment": {
+    "type": ["text", "graph"]
+  },
+  "Family Health History Sharing": {
+    "type": ["sharing feature", "export option"]
+  }
+}

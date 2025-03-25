@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Family Discussion Facilitator": {
+    "Discussion Topic": {"Type": "options"},
+    "Discussion Goals": {"Type": "text"},
+    "Family Members Involved": {"Type": "checklist"},
+    "Discussion Questions": {"Type": "checklist"},
+    "Discussion Script": {"Type": "text"},
+    "Frequency": {"Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"Type": "datetime"}
+  }
+}

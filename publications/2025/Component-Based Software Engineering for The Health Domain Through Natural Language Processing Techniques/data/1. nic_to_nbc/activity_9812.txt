@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Pain Relief Alternative": {
+    "Name": {"type": "text"},
+    "Description": {"type": "text"},
+    "Method": {"type": "options", "options": ["Simple Massage", "Effleurage", "Aromatherapy", "Hypnosis", "Transcutaneous Electrical Nerve Stimulation (TENS)"]},
+    "Instructions": {"type": "text"},
+    "Frequency": {"type": "options", "options": ["As needed", "Daily", "Every x hours", "Every x days"]}
+  }
+}
+
+
+I removed the `Deadline Date` parameter as it was not applicable.

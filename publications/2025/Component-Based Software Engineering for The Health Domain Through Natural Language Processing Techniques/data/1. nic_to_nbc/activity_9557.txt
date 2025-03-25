@@ -1,0 +1,46 @@
+Here is the output in JSON format:
+
+
+[
+  {
+    "name": "referral",
+    "parameters": [
+      {"name": "name", "type": "text"},
+      {"name": "content", "type": "text"},
+      {"name": "nurse_specialty", "type": "options", "options": [
+        { value: "enterostomalTherapyNurse", label: "Enterostomal Therapy Nurse" },
+        { value: "woundCareNurse", label: "Wound Care Nurse" },
+        { value: "other", label: "Other" }
+      ]},
+      {"name": "consultation_reason", "type": "options", "options": [
+        { value: "woundCare", label: "Wound Care" },
+        { value: "ostomyManagement", label: "Ostomy Management" },
+        { value: "other", label: "Other" }
+      ]},
+      {"name": "urgency_level", "type": "options", "options": [
+        { value: "routine", label: "Routine" },
+        { value: "urgent", label: "Urgent" },
+        { value: "other", label: "Other" }
+      ]}
+    ]
+  },
+  {
+    "name": "task",
+    "parameters": [
+      {"name": "name", "type": "text"},
+      {"name": "content", "type": "text"},
+      {"name": "activities", "type": "options", "options": [
+        { value: "relaxationTechniques", label: "Relaxation Techniques" },
+        { value: "sleepHygienePractices", label: "Sleep Hygiene Practices" },
+        { value: "other", label: "Other" }
+      ]},
+      {"name": "frequency", "type": "options", "options": [
+        { value: "daily", label: "Daily" },
+        { value: "every2Days", label: "Every 2 days" },
+        { value: "custom", label: "Custom" }
+      ]},
+      {"name": "deadline_date", "type": "datetime"},
+      {"name": "tips", "type": "text"}
+    ]
+  }
+]

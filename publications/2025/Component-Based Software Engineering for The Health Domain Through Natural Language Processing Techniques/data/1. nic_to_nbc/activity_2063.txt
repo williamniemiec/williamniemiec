@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Sensory Function Evaluation": {
+    "Parameters": {
+      "Sensory Function": {},
+      "Evaluation Method": {},
+      "Results": {},
+      "Normative Data": {},
+      "Interpretation": {},
+      "Recommendations": {}
+    }
+  }
+}

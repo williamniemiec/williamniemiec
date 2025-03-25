@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Role Balancing Module": {
+    "parameters": {
+      "Role Balancing Content": {"type": "list of content types"},
+      "Time Management Exercises": {"type": "list of time management exercise types"},
+      "Communication Strategies": {"type": "list of communication strategy types"},
+      "Self-Care Exercises": {"type": "list of self-care exercise types"},
+      "Reflection Exercise": {"type": "list of reflection exercise types"},
+      "Frequency": {"options": ["daily", "weekly", "monthly"]},
+      "Deadline Date": {"type": "datetime"},
+      "Motivational Message": {"type": "text"}
+    }
+  }
+}

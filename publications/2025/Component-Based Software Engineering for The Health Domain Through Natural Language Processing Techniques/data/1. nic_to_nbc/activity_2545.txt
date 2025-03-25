@@ -1,0 +1,51 @@
+Here is the output in JSON format:
+
+
+{
+  "Stimulus Response Monitoring": {
+    "Parameters": {
+      "Name": {},
+      "Stimulus Type": {},
+      "Verbal Stimulus": {},
+      "Tactile Stimulus": {},
+      "Noxious Stimulus": {},
+      "Response": {},
+      "Response Time": {},
+      "Frequency": {},
+      "Deadline Date": {}
+    }
+  },
+  "Verbal Stimulus Response Monitoring": {
+    "Parameters": {
+      "Name": {},
+      "Stimulus Type": {},
+      "Verbal Stimulus": {},
+      "Response": {},
+      "Response Time": {},
+      "Frequency": {},
+      "Deadline Date": {}
+    }
+  },
+  "Tactile Stimulus Response Monitoring": {
+    "Parameters": {
+      "Name": {},
+      "Stimulus Type": {},
+      "Tactile Stimulus": {},
+      "Response": {},
+      "Response Time": {},
+      "Frequency": {},
+      "Deadline Date": {}
+    }
+  },
+  "Noxious Stimulus Response Monitoring": {
+    "Parameters": {
+      "Name": {},
+      "Stimulus Type": {},
+      "Noxious Stimulus": {},
+      "Response": {},
+      "Response Time": {},
+      "Frequency": {},
+      "Deadline Date": {}
+    }
+  }
+}

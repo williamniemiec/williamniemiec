@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Safety Check": {
+    "Check Type": {"Type": "options", "Options": ["nonflammable ointments", "nonflammable solutions"]},
+    "Description": {"Type": "text"},
+    "Verification Method": {"Type": "text"},
+    "Result": {"Type": "options", "Options": ["pass", "fail", "unknown"]},
+    "Action": {"Type": "text"}
+  }
+}

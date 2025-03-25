@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+  "Reading Assessment": {
+    "name": "Reading Assessment",
+    "reading_material": "text or passage to be read (e.g., a short paragraph or a simple sentence)",
+    "questions": "list of questions to assess reading comprehension (e.g., \"What is the main idea of this passage?\", \"What does the word 'X' mean in this context?\", etc.)",
+    "answer type": "options (e.g., multiple choice, true/false, short answer)",
+    "frequency": "options (e.g., once, annually)",
+    "deadline_date": "datetime"
+  },
+  "Self-Assessment": {
+    "name": "Self-Assessment",
+    "question": "\"How confident do you feel about reading independently?\" (or similar)",
+    "answer type": "scale (e.g., 1-5, where 1 is \"not confident at all\" and 5 is \"very confident\")",
+    "frequency": "options (e.g., once, annually)",
+    "deadline_date": "datetime"
+  }
+}

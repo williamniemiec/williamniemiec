@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Comfort Measures": {
+    "Massage": {},
+    "Positioning": {},
+    "Affective Touch": {},
+    "Frequency": {
+      "options": [
+        { "value": "daily", "label": "Daily" },
+        { "value": "onlyOnce", "label": "Only once" },
+        { "value": "everyHours", "label": "Every x hours" },
+        { "value": "everyDays", "label": "Every x days" }
+      ]
+    },
+    "Deadline Date": {}
+  }
+}

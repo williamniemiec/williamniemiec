@@ -1,0 +1,30 @@
+Here is the output in JSON format:
+
+
+{
+  "Walking Aid Tracker": {
+    "Parameters": {
+      "Walking Aid Type": {
+        "Type": "options"
+      },
+      "Usage Frequency": {
+        "Type": "options"
+      },
+      "Usage Duration": {
+        "Type": "text"
+      },
+      "Comfort Level": {
+        "Type": "options"
+      },
+      "Pain Level": {
+        "Type": "options"
+      },
+      "Notes": {
+        "Type": "text"
+      }
+    }
+  }
+}
+
+
+I removed the not applicable parameters (`Frequency` and `Deadline Date`) as they are not relevant to the no-code element's functionality. Let me know if you have any further questions!

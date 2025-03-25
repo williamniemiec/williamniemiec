@@ -1,0 +1,13 @@
+
+
+
+{
+"Cognitive Distortion Identifier": {
+    "Thought": {"type": "text"},
+    "Cognitive Distortion": {"type": "options"},
+    "Example": {"type": "text"},
+    "Alternative Thought": {"type": "text"},
+    "Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"type": "datetime"}
+}
+}

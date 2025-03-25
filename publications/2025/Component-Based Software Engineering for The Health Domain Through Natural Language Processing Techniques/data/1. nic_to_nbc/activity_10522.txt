@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+  "Care Team Notification": {
+    "Strategies": {
+      "type": "list of options"
+    },
+    "Care Team": {
+      "type": "list of names or roles"
+    },
+    "Notification Method": {
+      "type": "options"
+    },
+    "Frequency": {
+      "type": "options"
+    },
+    "Message": {
+      "type": "text or template"
+    }
+  }
+}

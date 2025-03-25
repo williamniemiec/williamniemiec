@@ -1,0 +1,33 @@
+Here is the output in JSON format:
+
+
+{
+  "Positive Feedback": {
+    "Feedback Message": {
+      "type": "text"
+    },
+    "Trigger": {
+      "type": "options",
+      "options": ["task completion", "milestone achievement", "schedule-based"]
+    }
+  },
+  "Behavioral Tracking": {
+    "Behavioral Metric": {
+      "type": "options",
+      "options": ["exercise frequency", "medication adherence", "sleep quality"]
+    },
+    "Tracking Frequency": {
+      "type": "options",
+      "options": ["daily", "weekly", "monthly"]
+    }
+  },
+  "Motivational Reminders": {
+    "Reminder Message": {
+      "type": "text"
+    },
+    "Reminder Frequency": {
+      "type": "options",
+      "options": ["daily", "weekly", "monthly"]
+    }
+  }
+}

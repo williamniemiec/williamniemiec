@@ -1,0 +1,4 @@
+Since there is no no-code element associated with this intervention, the output will be an empty JSON:
+
+{}
+(Note: I'm assuming that "not applicable" parameters should not be included in the output)

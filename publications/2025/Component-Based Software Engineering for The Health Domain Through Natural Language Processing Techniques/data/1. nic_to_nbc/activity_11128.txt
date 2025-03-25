@@ -1,0 +1,32 @@
+Here is the output in JSON format:
+
+{
+  "name": "Collaborative Problem-Solving Tool",
+  "parameters": [
+    {
+      "name": "Topic",
+      "type": "text"
+    },
+    {
+      "name": "Participants",
+      "type": "list of usernames or IDs"
+    },
+    {
+      "name": "Prompt",
+      "type": "text"
+    },
+    {
+      "name": "Response Type",
+      "type": "options",
+      "options": [
+        { value: "Text" },
+        { value: "Audio" },
+        { value: "Video" }
+      ]
+    },
+    {
+      "name": "Deadline",
+      "type": "datetime"
+    }
+  ]
+}

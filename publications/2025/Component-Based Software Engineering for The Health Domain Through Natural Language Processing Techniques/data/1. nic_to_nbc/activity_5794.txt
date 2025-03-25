@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Privacy Concerns": {
+    "type": "list of text",
+    "required": true
+  },
+  "Response Scale": {
+    "type": "options",
+    "required": true
+  },
+  "Interventions": {
+    "type": "list of text",
+    "required": false
+  },
+  "Name": "Privacy Considerations"
+}

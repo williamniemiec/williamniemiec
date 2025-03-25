@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Permission and Authorization": {
+        "Parameters": {
+            "Permission": {"Type": "boolean"},
+            "Authorized Persons": {"Type": "list of text values"},
+            "Relationship": {"Type": "options"},
+            "Contact Information": {"Type": "text"}
+        }
+    }
+}

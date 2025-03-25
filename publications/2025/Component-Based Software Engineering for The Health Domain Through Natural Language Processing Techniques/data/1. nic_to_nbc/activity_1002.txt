@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+{
+  "Medication Alert": {
+    "Parameters": {
+      "Name": {},
+      "Content": {},
+      "Medication Types": {},
+      "Consultation Instructions": {}
+    }
+  }
+}
+
+Note that I removed the "Warning Message" parameter as it was not applicable. Let me know if you have any further questions!

@@ -1,0 +1,26 @@
+Here is the output in JSON format, removing anything except `{{ PARAMETER ESPECIFICATIONS }}` and `{{ NO-CODE ELEMENT NAME }}`, and also removing not applicable parameters:
+
+
+{
+    "name": "Parent-Child Interaction Guide",
+    "parameters": [
+        {
+            "name": "interaction_types"
+        },
+        {
+            "name": "video_demonstrations"
+        },
+        {
+            "name": "interactive_exercises"
+        },
+        {
+            "name": "personalized_feedback"
+        },
+        {
+            "name": "goal_setting"
+        },
+        {
+            "name": "frequency"
+        }
+    ]
+}

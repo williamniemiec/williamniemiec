@@ -1,0 +1,10 @@
+{
+  "name": "Skin Cleansing and Decontamination",
+  "description": "Cleansing and decontaminating skin, especially around sensitive areas like the umbilical region. Involves using appropriate solutions and methods for cleaning and drying.",
+  "type": "periodic",
+  "input": ["Cleansing steps", "Skin decontamination solutions", "Drying techniques", "Umbilical area cleaning"],
+  "output": ["Decontamination progress report", "Skin cleansing checklist", "Cleansing feedback"],
+  "preconditions": ["User needs to clean or decontaminate the skin"],
+  "postconditions": ["Clean and safe skin, particularly around sensitive areas"],
+  "dependencies": ["Cleansing solution management", "Decontamination monitoring tools"]
+}

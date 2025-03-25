@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+
+{
+    "Hydration Tracker": {
+        "Parameters": {
+            "Name": {"Type": "text"},
+            "Fluid Intake Goal": {"Type": "numeric"},
+            "Fluid Intake Tracking": {"Type": "options"},
+            "Reminders": {"Type": "options"},
+            "Electrolyte Monitoring": {"Type": "options"},
+            "Dehydration Risk Assessment": {"Type": "options"}
+        }
+    }
+}

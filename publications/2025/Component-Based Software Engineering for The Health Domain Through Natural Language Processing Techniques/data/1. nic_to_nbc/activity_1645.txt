@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+    "noCodeElementName": "Preparation Education",
+    "parameterSpecifications": [
+        {
+            "name": "Content",
+            "type": "text or multimedia"
+        }
+    ]
+}

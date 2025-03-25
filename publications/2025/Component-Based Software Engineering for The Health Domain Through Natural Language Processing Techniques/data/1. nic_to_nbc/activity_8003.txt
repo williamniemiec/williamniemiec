@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Modification Planning Tool": {
+    "parameters": {
+      "name": "",
+      "modification_types": [],
+      "financial_resources": [],
+      "personal_preferences": [],
+      "questions": [],
+      "answer_type": []
+    }
+  }
+}

@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+  "Care Assurance Message": {
+    "Parameters": {
+      "Message content": "text or multimedia content assuring the family that the best care possible is being given",
+      "Message frequency": "how often the message should be sent",
+      "Notification settings": "options for receiving notifications, such as push notifications or in-app messages"
+    }
+  },
+  "Care Team Introduction": {
+    "Parameters": {
+      "Care team members": "list of care team members with names, roles, and photos",
+      "Introduction text": "brief introduction to the care team",
+      "Contact information": "list of contact methods, such as phone numbers, emails, or messaging platforms"
+    }
+  },
+  "Care Plan Overview": {
+    "Parameters": {
+      "Care plan information": "text or multimedia content describing the patient's care plan",
+      "Progress updates": "options for receiving updates on the patient's progress",
+      "Care team contact information": "list of contact methods, such as phone numbers, emails, or messaging platforms"
+    }
+  }
+}

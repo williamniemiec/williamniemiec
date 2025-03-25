@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Therapeutic Mattress/Bed Instruction": {
+    "parameters": {
+      "name": {"type": "text"},
+      "content": {"type": ["text", "video"]},
+      "images": {"type": "list of images"},
+      "mattress_type": {"type": "options (list of mattress types)"},
+      "positioning": {"type": "options (list of positioning options)"},
+      "frequency": {"type": "options (e.g., daily, every 2 hours, as needed)"},
+      "deadline_date": {"type": "datetime"}
+    }
+  }
+}

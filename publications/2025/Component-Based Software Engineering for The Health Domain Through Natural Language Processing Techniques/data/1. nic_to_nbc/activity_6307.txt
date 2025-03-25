@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "Behavior Identification": {
+        "parameters": {
+            "name": "",
+            "description": "",
+            "type": "",
+            "frequency": "",
+            "notes": ""
+        }
+    }
+}

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Decision Control": {
+    "Parameters": {
+      "Decision Topics": {"Type": "list of options"},
+      "Decision Support Tools": {"Type": "list of URLs or file uploads"},
+      "Goal Setting": {"Type": "goal-setting template or worksheet"},
+      "Progress Tracking": {"Type": "progress bar or checklist"},
+      "Feedback Mechanism": {"Type": "rating system or comment section"}
+    }
+  }
+}

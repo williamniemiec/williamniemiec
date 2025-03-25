@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Time Allocation": {
+    "Name": {"type": "text"},
+    "Task": {"type": "text"},
+    "Duration": {"type": "options", "options": [{"value": "15 minutes", "label": "15 minutes"}, {"value": "30 minutes", "label": "30 minutes"}, {"value": "1 hour", "label": "1 hour"}, {"value": "custom", "label": "Custom"}]},
+    "Frequency": {"type": "options", "options": [{"value": "daily", "label": "Daily"}, {"value": "onlyOnce", "label": "Only once"}, {"value": "everyHours", "label": "Every x hours"}, {"value": "everyDays", "label": "Every x days"}]},
+    "Deadline Date": {"type": "datetime"}
+  }
+}

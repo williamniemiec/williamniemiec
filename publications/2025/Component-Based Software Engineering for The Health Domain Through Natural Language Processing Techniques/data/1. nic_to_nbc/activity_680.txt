@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Dietary Supplement": {
+    "parameters": [
+      {"name": "Supplement Name", "type": "text"},
+      {"name": "Description", "type": "text"},
+      {"name": "Dosage", "type": "text"},
+      {"name": "Frequency", "type": "options", "options": ["daily", "every x hours", "every x days"]},
+      {"name": "Duration", "type": "text"},
+      {"name": "Instructions", "type": "text"}
+    ]
+  }
+}

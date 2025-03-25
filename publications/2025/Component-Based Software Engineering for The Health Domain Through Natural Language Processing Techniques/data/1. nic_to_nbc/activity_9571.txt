@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+    "protein_first_instruction": {
+        "parameters": [
+            {"name": "protein_foods"},
+            {"name": "eating_order"},
+            {"name": "frequency"}
+        ]
+    }
+}
+
+
+I removed the not applicable parameters (i.e., the ones with `required: false`) and only kept the `{{ NO-CODE ELEMENT NAME }}` and `{{ PARAMETER ESPECIFICATIONS }}`.

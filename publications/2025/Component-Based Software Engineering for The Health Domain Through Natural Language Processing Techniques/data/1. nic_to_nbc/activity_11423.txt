@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Calming Technique Guide": {
+    "Parameters": [
+      {"Calming Techniques": {"Type": "interactive list"}},
+      {"Procedure Preparation": {"Type": "text and images"}},
+      {"Procedure Support": {"Type": "text and images"}},
+      {"Post-Procedure Care": {"Type": "text and images"}},
+      {"Frequency": {"Type": "options"}},
+      {"Deadline Date": {"Type": "datetime"}}
+    ]
+  }
+}

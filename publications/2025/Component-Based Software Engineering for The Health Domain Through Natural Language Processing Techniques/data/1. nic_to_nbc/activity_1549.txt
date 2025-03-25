@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Care Checklist": {
+    "Parameters": {
+      "Care Items": {},
+      "Status": {},
+      "Notes": {},
+      "Deadline Date": {},
+      "Reminders": {}
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Audio Recording and Script Generation",
+  "description": "Involves generating scripts for audio recordings, including the ability to adjust the content, tone, and frequency of recordings. Includes settings for 'only once' or 'every hours' options, providing flexibility in recording times.",
+  "type": "non-periodic",
+  "input": ["Audio", "Recording", "Script", "Onlyonce", "Everyhours", "Wish"],
+  "output": ["Audio recording", "Generated script", "Recording settings log"],
+  "preconditions": ["User is generating or recording audio content"],
+  "postconditions": ["Audio recordings are created according to the script and preferences"],
+  "dependencies": ["Audio recording system", "Script management tools"]
+}

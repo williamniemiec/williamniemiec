@@ -1,0 +1,35 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Education Module",
+    "parameters": [
+        {
+            "name": "Target Audience",
+            "type": "options"
+        },
+        {
+            "name": "Education Content",
+            "type": "text"
+        },
+        {
+            "name": "Education Format",
+            "type": "options"
+        },
+        {
+            "name": "Duration",
+            "type": "time"
+        },
+        {
+            "name": "Frequency",
+            "type": "options"
+        },
+        {
+            "name": "Deadline Date",
+            "type": "datetime"
+        }
+    ]
+}
+
+
+Let me know if this is what you were expecting!

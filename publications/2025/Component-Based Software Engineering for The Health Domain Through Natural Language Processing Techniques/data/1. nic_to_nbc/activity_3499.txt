@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+  "Guide": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Pages": {"Type": "book-page (list of HTML texts)"},
+      "Techniques": {"Type": "options (list of available techniques)"},
+      "Examples": {"Type": "image or video"},
+      "Tips": {"Type": "text"}
+    }
+  },
+  "Video": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Content": {"Type": "video"},
+      "Techniques": {"Type": "options (list of available techniques)"},
+      "Transcript": {"Type": "text"}
+    }
+  }
+}

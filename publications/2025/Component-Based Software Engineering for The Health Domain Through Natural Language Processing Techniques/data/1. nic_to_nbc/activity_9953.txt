@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Behavioral Observation": {
+    "parameters": {
+      "Behavior Type": "",
+      "Description": "",
+      "Rating Scale": "",
+      "Context": ""
+    }
+  }
+}

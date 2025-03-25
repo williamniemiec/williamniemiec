@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Review": {
+    "Parameters": {
+      "Medication list": {
+        "Prescription medications": [],
+        "Over-the-counter medications": [],
+        "Supplements": []
+      },
+      "Effect on sexuality": {
+        "Increased libido": [],
+        "Decreased libido": [],
+        "Erectile dysfunction": []
+      },
+      "Interactions": {
+        "Drug-drug interactions": [],
+        "Drug-supplement interactions": []
+      },
+      "Frequency": ["daily", "onlyOnce", "everyHours", "everyDays"],
+      "Deadline Date": {"type": "datetime"}
+    }
+  }
+}
+
+
+Note that I removed the non-applicable parameters and reformatted the output to be a valid JSON object.

@@ -1,0 +1,33 @@
+Here is the output in JSON format:
+
+
+{
+    "Procedure Guide": {
+        "parameters": {
+            "name": {"type": "text"},
+            "steps": {},
+            "descriptions": {},
+            "images/videos": {},
+            "frequency": {"options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+            "deadline_date": {"type": "datetime"}
+        }
+    },
+    "Interactive Tutorial": {
+        "parameters": {
+            "name": {"type": "text"},
+            "steps": {},
+            "interactive_elements": {},
+            "feedback": {},
+            "frequency": {"options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+            "deadline_date": {"type": "datetime"}
+        }
+    },
+    "Device Animation": {
+        "parameters": {
+            "name": {"type": "text"},
+            "animation": {},
+            "frequency": {"options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+            "deadline_date": {"type": "datetime"}
+        }
+    }
+}

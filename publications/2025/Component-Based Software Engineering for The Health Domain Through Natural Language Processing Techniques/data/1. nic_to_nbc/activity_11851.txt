@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+  "Oxygen Therapy Plan": {
+    "Name": {
+      "type": "text"
+    },
+    "Oxygen Flow Rate": {
+      "type": "number"
+    },
+    "Humidification Settings": {
+      "type": "text or selection from a list of options"
+    },
+    "Administration Frequency": {
+      "options": ["continuously", "as needed", "daily", "everyHours", "everyDays"]
+    },
+    "Duration": {
+      "type": "time"
+    },
+    "Deadline Date": {
+      "type": "datetime"
+    },
+    "Monitoring": {
+      "type": "boolean or threshold values"
+    }
+  }
+}

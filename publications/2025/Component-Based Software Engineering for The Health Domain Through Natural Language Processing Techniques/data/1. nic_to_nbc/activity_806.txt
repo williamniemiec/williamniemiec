@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "NO-CODE ELEMENT NAME": "",
+  "PARAMETER ESPECIFICATIONS": [
+    "* Real-time observation and assessment of patient behavior",
+    "* Clinical judgment to identify potential indicators of elopement (e.g., verbal indicators, loitering near exits, multiple layers of clothing, disorientation, separation anxiety, and homesickness)",
+    "* Human interaction and communication with the patient to assess their mental status and behavior"
+  ]
+}

@@ -1,0 +1,23 @@
+Here is the output in JSON format:
+
+
+{
+  "Nutrition Guide": {
+    "parameters": {
+      "Food and Drink Options": {
+        "type": "unordered list",
+        "options": ["protein shakes", "nuts", "dried fruits", "energy bars", "etc."]
+      },
+      "Frequency": {
+        "type": "options",
+        "options": ["daily", "everyHours", "everyDays", "asNeeded"]
+      },
+      "Portion Size": {
+        "type": "text"
+      },
+      "Special Instructions": {
+        "type": "text"
+      }
+    }
+  }
+}

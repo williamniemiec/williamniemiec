@@ -1,0 +1,22 @@
+Here is the output in JSON format:
+
+
+{
+  "Pharmacological Pain Relief Guide": {
+    "Parameters": {
+      "Medication Information": {
+        "Name": {},
+        "Description": {},
+        "Dosage": {},
+        "Frequency": {},
+        "Side Effects": {}
+      },
+      "Pain Relief Mechanism": {},
+      "Precautions": {},
+      "Interactions": {
+        "Medication/Substance": {},
+        "Description": {}
+      }
+    }
+  }
+}

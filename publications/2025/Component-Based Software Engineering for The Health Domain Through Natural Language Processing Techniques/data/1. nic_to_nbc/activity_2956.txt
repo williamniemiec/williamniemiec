@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Drinking Straw Reminder": {
+    "Name": {"type": "text"},
+    "Reminder Text": {"type": "text"},
+    "Image/Icon": {"type": "image/icon"},
+    "Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Straw Options": {"type": "options"}
+  }
+}

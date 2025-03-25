@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Information Reinforcement": {
+    "Parameters": {
+      "Information": {},
+      "Reinforcement Method": {},
+      "Frequency": {}
+    }
+  }
+}

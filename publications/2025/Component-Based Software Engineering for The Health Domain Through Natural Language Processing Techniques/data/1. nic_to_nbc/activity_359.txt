@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+
+{
+    "Faith-Based Group Options": {
+        "parameters": {
+            "group_list": {"type": "list of group names and descriptions"},
+            "filter_options": {"type": "list of filter options"},
+            "description": {"type": "text"}
+        }
+    }
+}

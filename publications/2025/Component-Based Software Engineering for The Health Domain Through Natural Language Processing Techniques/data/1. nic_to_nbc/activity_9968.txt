@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "TENS Education": {
+    "Parameters": {
+      "Lesson Title": {},
+      "Rationale": {},
+      "Limits": {},
+      "Potential Problems": {}
+    }
+  }
+}

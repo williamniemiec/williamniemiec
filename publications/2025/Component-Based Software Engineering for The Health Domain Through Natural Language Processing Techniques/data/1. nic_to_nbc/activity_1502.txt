@@ -1,0 +1,27 @@
+Here is the output in JSON format:
+
+
+{
+    "Q&A Forum": {
+        "parameters": {
+            "name": "Q&A forum title",
+            "questions": "list of questions and concerns (e.g., text, audio, video)",
+            "answers": "list of responses to questions and concerns (e.g., text, audio, video)",
+            "categories": "categories for the questions and concerns (e.g., treatment, medication, follow-up)"
+        }
+    },
+    "Chat": {
+        "parameters": {
+            "name": "chat title",
+            "messages": "list of messages (e.g., text, audio, video)",
+            "participants": "list of participants (e.g., patient, family, friends, healthcare professionals)"
+        }
+    },
+    "Journal": {
+        "parameters": {
+            "name": "journal title",
+            "entries": "list of journal entries (e.g., text, audio, video)",
+            "tags": "tags for the journal entries (e.g., questions, concerns, follow-up)"
+        }
+    }
+}

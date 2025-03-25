@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+    "Task": {
+        "name": "Color Blindness Testing Task",
+        "content": "Please participate in the color blindness testing as required by the institution",
+        "frequency": "how often the patient should participate in the testing, e.g., once, as needed",
+        "deadline_date": "a specific date or timeframe for the patient to complete the testing"
+    },
+    "Interactive Test": {
+        "name": "Color Blindness Test",
+        "test_type": "a parameter to specify the type of color blindness test, e.g., Ishihara, Hardy-Rand-Rittler",
+        "questions": "a list of questions or stimuli that the patient must respond to, e.g., identify the number in a circle of dots",
+        "answer type": "a parameter to specify how the patient should respond, e.g., multiple choice, text input"
+    },
+    "Result": {
+        "name": "Color Blindness Test Results",
+        "result": "a parameter to display the test results, e.g., pass/fail, color vision deficiency type",
+        "interpretation": "a parameter to provide an interpretation of the test results, e.g., what the results mean for the patient"
+    }
+}
+
+
+Note that I removed the "not applicable" parameters and only kept the relevant information. Let me know if this meets your requirements!

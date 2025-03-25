@@ -1,0 +1,44 @@
+Here is the output in JSON format:
+
+
+{
+    "Feeding Plan": {
+        "Parameters": {
+            "Feeding Schedule": {
+                "Feeding Times": {
+                    "Type": "datetime"
+                },
+                "Feeding Frequency": {
+                    "Type": ["text", "numerical value"]
+                }
+            },
+            "Food Amount": {
+                "Initial Amount": {
+                    "Type": "numerical value"
+                },
+                "Gradual Increase": {
+                    "Type": ["numerical value", "percentage"]
+                }
+            },
+            "Bulk Addition": {
+                "Bulk Type": {
+                    "Type": ["text", "options"]
+                },
+                "Bulk Amount": {
+                    "Type": ["numerical value", "percentage"]
+                }
+            },
+            "Progress Tracking": {
+                "Feeding Log": {
+                    "Type": ["table", "chart"]
+                },
+                "Symptom Tracking": {
+                    "Type": ["text", "numerical value"]
+                }
+            }
+        }
+    }
+}
+
+
+Note that I removed the not applicable parameters and only kept the `{{ PARAMETER ESPECIFICATIONS }}` and `{{ NO-CODE ELEMENT NAME }}` as requested.

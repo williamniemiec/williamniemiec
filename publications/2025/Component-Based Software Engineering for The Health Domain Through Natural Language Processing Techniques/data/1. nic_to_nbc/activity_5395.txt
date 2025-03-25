@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "NO-CODE ELEMENT NAME": "",
+  "PARAMETER ESPECIFICATIONS": [
+    "Clinical judgment to identify potential risks and prioritize communication",
+    "Effective communication skills to convey risk information to other care providers",
+    "Knowledge of patient's medical history and current condition",
+    "Ability to coordinate with other healthcare professionals to ensure continuity of care"
+  ]
+}
+
+
+Let me know if this is what you were expecting!

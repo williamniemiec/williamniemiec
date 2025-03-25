@@ -1,0 +1,10 @@
+Here is the output in JSON format:
+
+
+{
+  "Blood Pressure Monitoring": {
+    "Frequency": {},
+    "Condition": {},
+    "Blood Pressure Reading": {"Type": "numeric", "Units": "mmHg"}
+  }
+}

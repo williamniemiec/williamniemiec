@@ -1,0 +1,16 @@
+
+
+
+{
+  "Medication Flavoring": {
+    "Parameters": {
+      "Medication Name": {},
+      "Flavor Syrup": {},
+      "Mixing Ratio": {},
+      "Frequency": {}
+    }
+  }
+}
+
+
+I removed the not applicable parameter `"Deadline Date"` since it's marked as `false` in the `Required` field. Let me know if you need any further assistance!

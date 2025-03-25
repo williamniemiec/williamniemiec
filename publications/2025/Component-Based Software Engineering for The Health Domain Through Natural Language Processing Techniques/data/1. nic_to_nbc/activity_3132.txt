@@ -1,0 +1,44 @@
+Here is the output in JSON format:
+
+
+{
+  "Resource List": {
+    "parameters": {
+      "name": "",
+      "resources": [],
+      "category": [],
+      "frequency": "",
+      "deadline_date": ""
+    }
+  },
+  "Search Tool": {
+    "parameters": {
+      "name": "",
+      "search_criteria": [],
+      "results": [],
+      "frequency": "",
+      "deadline_date": ""
+    }
+  },
+  "Referral Service": {
+    "parameters": {
+      "name": "",
+      "referral_criteria": [],
+      "referral": {},
+      "frequency": "",
+      "deadline_date": ""
+    }
+  },
+  "Reviews and Ratings": {
+    "parameters": {
+      "name": "",
+      "sources": [],
+      "rating_criteria": [],
+      "frequency": "",
+      "deadline_date": ""
+    }
+  }
+}
+
+
+Note that I removed the non-applicable parameters, which means I kept all the parameters mentioned in the input text. If you want to remove any specific parameters, please let me know!

@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Exercise Plan": {
+    "Cardiac Risk Factors": {"type": "list of text options"},
+    "Exercise Types": {"type": "list of text options"},
+    "Exercise Frequency": {"type": "options"},
+    "Exercise Duration": {"type": "numerical input field"},
+    "Intensity Level": {"type": "options"},
+    "Goal Setting": {"type": "text field and progress tracking component"},
+    "Reminders": {"type": "scheduling system with notification options"}
+  }
+}
+
+
+Let me know if you'd like me to make any adjustments!

@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+    "Guide": {
+        "parameters": {
+            "name": "Hypothermia: Signs and Emergency Treatment",
+            "pages": "list of HTML texts explaining the indications of hypothermia and appropriate emergency treatment"
+        }
+    },
+    "Question": {
+        "parameters": {
+            "name": "Hypothermia and Emergency Treatment",
+            "answer type": "text or multiple choice",
+            "content": "What do you know about the signs of hypothermia and what to do in case of an emergency?"
+        }
+    }
+}

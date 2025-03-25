@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Nasopharyngeal Aspiration Guide": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Instructions": {"Type": "rich text or multimedia content"},
+      "Device": {"Type": "options (list of devices)"},
+      "Frequency": {"Type": "options (daily, everyHours, everyDays)"},
+      "Deadline Date": {"Type": "datetime"},
+      "Tips": {"Type": "text"}
+    }
+  }
+}

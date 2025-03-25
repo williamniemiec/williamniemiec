@@ -1,0 +1,29 @@
+Here is the output in JSON format:
+
+
+{
+  "Puberty Discussion Guide": {
+    "Topic List": {
+      "type": "list of text",
+      "example": ["Physical changes", "Emotional changes", "Hormonal changes", "Body image changes"]
+    },
+    "Discussion Questions": {
+      "type": "list of text",
+      "example": ["What physical changes have you noticed during puberty?", "How have your emotions changed during puberty?", "What do you know about hormonal changes during puberty?", "How has your body image changed during puberty?" ]
+    },
+    "Resource Library": {
+      "type": "text or multimedia (e.g., image, video)"
+    },
+    "Journaling Prompt": {
+      "type": "text",
+      "example": "What are some things you're excited or nervous about during this time of change?"
+    },
+    "Frequency": {
+      "type": "options",
+      "options": ["daily", "onlyOnce", "everyHours", "everyDays"]
+    },
+    "Deadline Date": {
+      "type": "datetime"
+    }
+  }
+}

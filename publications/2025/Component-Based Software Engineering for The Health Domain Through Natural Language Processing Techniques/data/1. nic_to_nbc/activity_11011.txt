@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Goal Setting": {
+    "Goal Statement": {"type": "text"},
+    "Goal Type": {"type": "options", "options": ["short-term", "long-term", "specific", "measurable", "achievable", "relevant", "time-bound (SMART)"]},
+    "Target Behavior": {"type": "text"},
+    "Motivation": {"type": "text"},
+    "Action Plan": {"type": "list of text"},
+    "Frequency": {"type": "options", "options": ["daily", "weekly", "monthly"]},
+    "Deadline Date": {"type": "datetime"}
+  }
+}

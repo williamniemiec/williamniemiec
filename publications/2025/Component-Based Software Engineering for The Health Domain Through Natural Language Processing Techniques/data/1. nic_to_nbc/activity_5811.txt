@@ -1,0 +1,56 @@
+Here is the output in JSON format:
+
+
+{
+    "Hair Loss Assessment": {
+        "description": "Assess patient's response to hair loss",
+        "required": true,
+        "type": "form",
+        "questions": [
+            {
+                "name": "How are you feeling about your hair loss?",
+                "description": "Select one of the following options",
+                "required": true,
+                "type": "options",
+                "options": [
+                    { "value": "upset", "label": "Upset" },
+                    { "value": "concerned", "label": "Concerned" },
+                    { "value": "accepting", "label": "Accepting" },
+                    { "value": "other", "label": "Other (please specify)" }
+                ]
+            },
+            {
+                "name": "How is hair loss affecting your daily life?",
+                "description": "Select one of the following options",
+                "required": true,
+                "type": "options",
+                "options": [
+                    { "value": "aLot", "label": "A lot" },
+                    { "value": "somewhat", "label": "Somewhat" },
+                    { "value": "notAtAll", "label": "Not at all" }
+                ]
+            }
+        ]
+    },
+    "Support Options": {
+        "description": "Select one or more support options",
+        "required": false,
+        "type": "checklist",
+        "options": [
+            { "value": "hat", "label": "Assist in selecting a hat" },
+            { "value": "wig", "label": "Assist in selecting a wig" },
+            { "value": "scarf", "label": "Assist in selecting a scarf" },
+            { "value": "communityAgency", "label": "Refer to community agency" },
+            { "value": "hairTransplant", "label": "Discuss hair transplants" },
+            { "value": "hairGrowthDrugs", "label": "Discuss drugs to stimulate hair growth" }
+        ]
+    },
+    "Follow-up": {
+        "description": "Schedule a follow-up assessment",
+        "required": false,
+        "type": "datetime"
+    }
+}
+
+
+And the {{ NO-CODE ELEMENT NAME }} is: "Hair Loss Support"

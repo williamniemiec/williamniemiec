@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Survey": {
+    "parameters": {
+      "Product Name": {"type": "text"},
+      "Questions": {"type": "list", "items": {
+        "Label": {"type": "text"},
+        "Type": {"type": "options"},
+        "Required": {"type": "boolean"}
+      }},
+      "Frequency": {"type": "options"},
+      "Deadline Date": {"type": "datetime"}
+    }
+  }
+}

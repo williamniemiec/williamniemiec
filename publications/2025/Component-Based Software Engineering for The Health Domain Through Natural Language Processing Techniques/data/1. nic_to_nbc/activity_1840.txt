@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Expectation Survey": {
+    "Questions": {
+      "type": "list of text"
+    },
+    "Answer Type": {
+      "type": "options"
+    },
+    "Frequency": {
+      "type": "options"
+    },
+    "Deadline Date": {
+      "type": "datetime"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Belief Explorer": {
+    "Parameters": {
+      "Question": {},
+      "Belief Statement": {},
+      "Influence": {},
+      "Reflection": {},
+      "Frequency": {
+        "options": [
+          {"value": "daily", "label": "Daily"},
+          {"value": "onlyOnce", "label": "Only once"},
+          {"value": "everyHours", "label": "Every x hours"},
+          {"value": "everyDays", "label": "Every x days"}
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Corneal Reflex Monitoring": {
+    "parameters": {
+      "Corneal Reflex Status": {},
+      "Frequency": {}
+    }
+  }
+}

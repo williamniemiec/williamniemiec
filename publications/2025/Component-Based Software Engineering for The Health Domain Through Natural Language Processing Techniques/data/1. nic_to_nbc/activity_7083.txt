@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Adverse Effect Tracker": {
+    "Medication": {"type": "text"},
+    "Adverse Effects": {"type": "checklist"},
+    "Severity": {"type": "options"},
+    "Frequency": {"type": "options"},
+    "Deadline Date": {"type": "datetime"},
+    "Notes": {"type": "text"}
+  }
+}

@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Food Diary": {
+    "Parameters": {
+      "Entry Title": {"Type": "text"},
+      "Food Item": {"Type": "text"},
+      "Portion Size": {"Type": "text"},
+      "Calories": {"Type": "number"},
+      "Meal Time": {"Type": "options", "Options": ["breakfast", "lunch", "dinner", "snack", "other"]},
+      "Date": {"Type": "datetime"},
+      "Notes": {"Type": "text"}
+    }
+  }
+}
+
+
+I removed the not applicable parameters, such as `Frequency` since it's not directly related to the food diary entry. Let me know if you need any further assistance!

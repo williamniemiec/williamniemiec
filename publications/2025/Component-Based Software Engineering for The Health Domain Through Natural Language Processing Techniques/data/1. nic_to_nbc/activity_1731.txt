@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Discussion": {
+    "Parameters": {
+      "Title": {},
+      "Content": {},
+      "Questions": {},
+      "Answer Type": {},
+      "Frequency": {}
+    }
+  }
+}
+
+
+Note: I removed the `Deadline Date` parameter as it was not applicable.

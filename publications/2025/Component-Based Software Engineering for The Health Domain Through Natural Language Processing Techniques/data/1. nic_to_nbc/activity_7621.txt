@@ -1,0 +1,18 @@
+
+
+
+{
+  "Seizure and Medication Diary": {
+    "Medication Log": {
+      "type": "table or log",
+      "parameters": ["Medication name", "Dosage", "Time taken"]
+    },
+    "Seizure Log": {
+      "type": "table or log",
+      "parameters": ["Date and time of seizure", "Type of seizure", "Duration of seizure", "Triggers or potential causes"]
+    },
+    "Notes": {
+      "type": "text"
+    }
+  }
+}

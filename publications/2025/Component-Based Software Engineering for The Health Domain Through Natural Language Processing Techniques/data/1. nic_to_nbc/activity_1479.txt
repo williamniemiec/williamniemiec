@@ -1,0 +1,19 @@
+Here is the output in JSON format:
+
+
+{
+  "Medication Knowledge Assessment": {
+    "Medication List": {"type": "list of medications", "required": true},
+    "Knowledge Questions": {
+      "What is the name of your medication?": {"type": "text", "required": true},
+      "What is the purpose of your medication?": {"type": "text", "required": true},
+      "How often do you take your medication?": {"type": "options", "required": true},
+      "What is the correct dosage of your medication?": {"type": "text", "required": true}
+    },
+    "Administration Questions": {
+      "How do you take your medication? (e.g., orally, topically, etc.)": {"type": "options", "required": true},
+      "What is the correct route of administration for your medication?": {"type": "options", "required": true},
+      "Do you need to take your medication with food or water?": {"type": "options", "required": true}
+    }
+  }
+}

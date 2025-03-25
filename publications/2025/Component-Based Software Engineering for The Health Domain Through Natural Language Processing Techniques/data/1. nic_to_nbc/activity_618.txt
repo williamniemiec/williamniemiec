@@ -1,0 +1,24 @@
+
+
+
+{
+    "name": "Behavioral Management Plan",
+    "parameters": [
+        {
+            "name": "Behavioral Goals",
+            "type": "checklist"
+        },
+        {
+            "name": "Interventions",
+            "type": "checklist"
+        },
+        {
+            "name": "Care Provider Roles",
+            "type": "checklist"
+        },
+        {
+            "name": "Consistency Plan",
+            "type": "text"
+        }
+    ]
+}

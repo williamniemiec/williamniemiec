@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Activity Guide": {
+    "parameters": {
+      "Activity Name": {"type": "text", "required": true},
+      "Activity Type": {"type": "options", "options": ["movement", "sensoryStimulation", "both"], "required": true},
+      "Instructions": {"type": "text", "required": true},
+      "Frequency": {"type": "options", "options": ["daily", "everyOtherDay", "everyXDays", "custom"], "required": true},
+      "Duration": {"type": "text", "required": true}
+    }
+  }
+}
+
+
+I removed the not applicable parameters (`Images/Videos` and `Tips and Variations`) since they are marked as `Required: false`. Let me know if you need any further assistance!

@@ -1,0 +1,36 @@
+Here is the output in JSON format:
+
+
+{
+  "pH Risk Population Analysis": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "At-Risk Population": {"Type": "options", "Options": ["compromised respiratory status", "renal impairment", "diabetes mellitus", "prolonged diarrhea or vomiting", "Cushing’s syndrome", "other"]},
+      "pH Data": {"Type": "list of pH values with corresponding timestamps"},
+      "Trend Analysis": {"Type": "options", "Options": ["linear regression", "exponential smoothing", "other"]},
+      "Alert Threshold": {"Type": "numeric value"},
+      "Resources": {"Type": "list of URLs or HTML texts"}
+    }
+  },
+  "Data Visualization": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Data": {"Type": "list of pH values with corresponding timestamps"},
+      "Visualization Type": {"Type": "options", "Options": ["line chart", "scatter plot"]}
+    }
+  },
+  "Notification": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Message": {"Type": "text"},
+      "Trigger": {"Type": "text"},
+      "Recipient": {"Type": "text"}
+    }
+  },
+  "Guide": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Pages": {"Type": "list of HTML texts"}
+    }
+  }
+}

@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+    "critical_path_collaboration": {
+        "parameters": [
+            {"name": "health_professionals"},
+            {"name": "critical_path"},
+            {"name": "collaboration_goals"},
+            {"name": "communication_plan"},
+            {"name": "review_date"}
+        ]
+    }
+}

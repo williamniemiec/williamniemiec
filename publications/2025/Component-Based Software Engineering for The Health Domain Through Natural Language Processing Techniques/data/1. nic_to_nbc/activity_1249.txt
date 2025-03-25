@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+    "Picture Recognition": {
+        "Parameters": {
+            "Picture Set": {"Type": "list of images"},
+            "Instructions": {"Type": "text"},
+            "Recognition Type": {"Options": ["identify", "match", "recall"]},
+            "Frequency": {"Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+            "Deadline Date": {"Type": "datetime"},
+            "Feedback": {"Options": ["yes", "no"]},
+            "Scoring": {"Options": ["percentage correct", "number of correct answers", "time taken to complete"]}
+        }
+    }
+}

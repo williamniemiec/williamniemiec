@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Ambulation Goal Setter": {
+    "Current Distance": {"type": "text"},
+    "Target Distance": {"type": "text"},
+    "Increment": {"type": "text"},
+    "Frequency": {"type": "options"},
+    "Deadline Date": {"type": "datetime"}
+  }
+}
+
+
+Note: I removed the `Motivational Message` parameter as it was filled with a large number of exclamation marks, indicating that it might not be applicable.

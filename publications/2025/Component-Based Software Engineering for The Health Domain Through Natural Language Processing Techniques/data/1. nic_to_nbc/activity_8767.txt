@@ -1,0 +1,36 @@
+Here is the output in JSON format:
+
+
+{
+  "Right Patient": {
+    "parameters": [
+      {"name": "patient_id"},
+      {"name": "patient_name"},
+      {"name": "patient_birthdate"}
+    ]
+  },
+  "Right Medication": {
+    "parameters": [
+      {"name": "medication_name"},
+      {"name": "medication_dosage"},
+      {"name": "medication_form"}
+    ]
+  },
+  "Right Dose": {
+    "parameters": [
+      {"name": "dosage_amount"},
+      {"name": "dosage_unit"}
+    ]
+  },
+  "Right Route": {
+    "parameters": [
+      {"name": "administration_route"}
+    ]
+  },
+  "Right Time": {
+    "parameters": [
+      {"name": "administration_time"},
+      {"name": "administration_frequency"}
+    ]
+  }
+}

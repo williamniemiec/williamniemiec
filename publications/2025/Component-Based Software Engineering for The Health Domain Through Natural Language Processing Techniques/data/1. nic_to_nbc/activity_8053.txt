@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+    "Reminder": {
+        "parameters": [
+            {"name": "message", "description": "Reminder message", "required": true, "type": "text"},
+            {"name": "frequency", "description": "How often to remind", "required": true, "type": "options", "options": [
+                {"value": "everyTime", "label": "Every time I give care"},
+                {"value": "daily", "label": "Daily"},
+                {"value": "weekly", "label": "Weekly"}
+            ]}
+        ]
+    },
+    "Guide": {
+        "parameters": [
+            {"name": "pages", "description": "List of pages", "required": true, "type": "book-page", "book-page": "list of HTML texts"},
+            {"name": "benefits", "description": "List of benefits of eye contact and talking to newborn", "required": true, "type": "list", "list": [
+                {"value": "bonding", "label": "Bonding"},
+                {"value": "languageDevelopment", "label": "Language development"},
+                {"value": "emotionalIntelligence", "label": "Emotional intelligence"}
+            ]}
+        ]
+    }
+}

@@ -1,0 +1,26 @@
+Here is the output in JSON format:
+
+
+{
+  "noCodeElementName": "Temperature Monitor",
+  "parameters": {
+    "Device Type": {
+      "type": "options"
+    },
+    "Frequency": {
+      "type": "options"
+    },
+    "Unit": {
+      "type": "text"
+    },
+    "Target Range": {
+      "type": "text"
+    },
+    "Deadline Date": {
+      "type": "datetime"
+    },
+    "Data Upload": {
+      "type": "options"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Art Interpretation": {
+    "parameters": [
+      {"name": "Drawing", "type": ["image", "text"]},
+      {"name": "Patient Assessment Data", "type": ["text", "structured data (e.g., JSON)"]},
+      {"name": "Literature on Art Therapy", "type": ["text", "structured data (e.g., JSON)"]},
+      {"name": "Interpretation", "type": ["text", "rating scale (e.g., 1-5)"]}
+    ]
+  }
+}

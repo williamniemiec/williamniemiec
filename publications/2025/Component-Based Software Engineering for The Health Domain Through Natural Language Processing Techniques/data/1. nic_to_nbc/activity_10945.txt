@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "PARAMETER ESPECIFICATIONS": [
+    "* Educational content on specific health topics",
+    "* Personalized coaching or guidance from healthcare professionals",
+    "* Interactive tools and resources to support patient engagement and self-management",
+    "* Secure messaging or communication channels with healthcare providers"
+  ],
+  "NO-CODE ELEMENT NAME": []
+}
+
+
+Note that there are no applicable `NO-CODE ELEMENT NAME`s in the input text, so the list is empty.

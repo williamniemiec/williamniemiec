@@ -1,0 +1,22 @@
+
+
+
+{
+  "respiratory_pattern_monitoring": {
+    "parameters": {
+      "name": "Respiratory Pattern",
+      "description": "Monitor respiratory pattern",
+      "required": true,
+      "type": "text",
+      "answer_type": "select",
+      "options": [
+        { "value": "normal", "label": "Normal" },
+        { "value": "rapid", "label": "Rapid" },
+        { "value": "slow", "label": "Slow" },
+        { "value": "irregular", "label": "Irregular" }
+      ],
+      "frequency": "",
+      "deadline_date": ""
+    }
+  }
+}

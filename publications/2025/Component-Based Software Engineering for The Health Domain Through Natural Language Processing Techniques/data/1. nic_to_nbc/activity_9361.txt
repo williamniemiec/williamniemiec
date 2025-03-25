@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Catheter Monitoring": {
+    "parameters": [
+      {"name": "Catheter status", "description": "A parameter that asks the patient to report the current status of the pulmonary catheter (e.g., in place, forward progression, etc.)"},
+      {"name": "Notification", "description": "A parameter that allows the patient to notify the physician if forward progression occurs."},
+      {"name": "Frequency", "description": "A parameter that specifies how often to monitor the catheter."},
+      {"name": "Notes", "description": "A parameter that allows the patient to add any notes or comments about the catheter monitoring."}
+    ]
+  }
+}

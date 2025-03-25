@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Social Dining",
+    "parameters": [
+        {
+            "name": "Dining Option",
+            "type": "options"
+        },
+        {
+            "name": "Schedule",
+            "type": "datetime"
+        },
+        {
+            "name": "Guests",
+            "type": "multi-select"
+        },
+        {
+            "name": "Meal Plan",
+            "type": "text"
+        },
+        {
+            "name": "Instructions",
+            "type": "text"
+        }
+    ]
+}

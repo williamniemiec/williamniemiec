@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+"Chest Movement Assessment": {
+    "Chest Symmetry": {"Type": "text"},
+    "Accessory Muscle Use": {"Type": "text"},
+    "Supraclavicular Retraction": {"Type": "text"},
+    "Intercostal Retraction": {"Type": "text"},
+    "Chest Expansion": {"Type": "number"},
+    "Breathing Pattern": {"Type": "text"}
+  }
+}

@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+    "Teething Toys": {
+        "Activity Name": {},
+        "Product Recommendations": {},
+        "Step-by-Step Instructions": {},
+        "Frequency and Duration": {},
+        "Toy Types": {}
+    }
+}

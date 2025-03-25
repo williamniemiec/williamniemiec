@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Temperature Check",
+    "parameters": [
+        {
+            "name": "body_part"
+        },
+        {
+            "name": "items_to_check"
+        },
+        {
+            "name": "frequency"
+        }
+    ]
+}

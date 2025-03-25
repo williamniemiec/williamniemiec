@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Reminder": {
+    "Parameters": {
+      "Name": {"Type": "text"},
+      "Content": {"Type": "text"},
+      "Condition": {"Type": "conditional statement"},
+      "Frequency": {"Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline Date": {"Type": "datetime"}
+    }
+  }
+}

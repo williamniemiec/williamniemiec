@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Family Impact Analyzer": {
+    "Parameters": {
+      "Family behavior": {"Type": "options", "Options": ["communication style", "conflict resolution", "emotional support", "financial support", "etc."]},
+      "Patient outcome": {"Type": "options", "Options": ["stress levels", "mood", "adherence to treatment", "quality of life", "etc."]},
+      "Assessment method": {"Type": "options", "Options": ["survey", "questionnaire", "rating scale", "interview", "etc."]},
+      "Frequency": {"Type": "options", "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Deadline date": {"Type": "datetime"}
+    }
+  }
+}

@@ -1,0 +1,65 @@
+Here is the output in JSON format:
+
+
+[
+    {
+        "name": "Skin Assessment Tracker",
+        "parameters": [
+            {
+                "name": "bruising",
+                "description": "Do you have any bruising?",
+                "required": true,
+                "type": "options",
+                "options": [
+                    { "value": "yes", "label": "Yes" },
+                    { "value": "no", "label": "No" }
+                ]
+            },
+            {
+                "name": "petechiae",
+                "description": "Do you have any petechiae?",
+                "required": true,
+                "type": "options",
+                "options": [
+                    { "value": "yes", "label": "Yes" },
+                    { "value": "no", "label": "No" }
+                ]
+            },
+            {
+                "name": "mucous_membranes",
+                "description": "What is the condition of your mucous membranes?",
+                "required": true,
+                "type": "options",
+                "options": [
+                    { "value": "normal", "label": "Normal" },
+                    { "value": "dry", "label": "Dry" },
+                    { "value": "inflamed", "label": "Inflamed" },
+                    { "value": "bleeding", "label": "Bleeding" }
+                ]
+            },
+            {
+                "name": "timestamp",
+                "description": "When was the skin assessment taken?",
+                "required": true,
+                "type": "datetime"
+            }
+        ]
+    },
+    {
+        "name": "Image Capture",
+        "parameters": [
+            {
+                "name": "image",
+                "description": "Take a photo of your skin",
+                "required": true,
+                "type": "image"
+            },
+            {
+                "name": "timestamp",
+                "description": "When was the photo taken?",
+                "required": true,
+                "type": "datetime"
+            }
+        ]
+    }
+]

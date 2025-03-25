@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Discrepancy Communication": {
+    "parameters": {
+      "Discrepancy Type": {"type": "options"},
+      "Discrepancy Description": {"type": "text"},
+      "Ordering Practitioner": {"type": "select"},
+      "Communication Method": {"type": "options"},
+      "Message": {"type": "text"},
+      "Send Notification": {"type": "boolean"}
+    }
+  }
+}

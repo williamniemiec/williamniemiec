@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+  "Communication Guide": {
+    "Parameters": {
+      "Equipment Type": {},
+      "Communication Tips": {},
+      "Video Demonstrations": {},
+      "FAQs": {}
+    }
+  }
+}

@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Journal": {
+    "Prompt": {"Type": "text"},
+    "Response Type": {"Type": "options", "Options": ["text", "audio", "video"]},
+    "Frequency": {"Type": "options", "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"Type": "datetime"},
+    "Emotion Tracking": {"Type": "options"}
+  },
+  "Survey": {
+    "Questions": {"Type": "list of text"},
+    "Answer Type": {"Type": "options"},
+    "Frequency": {"Type": "options", "Options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+    "Deadline Date": {"Type": "datetime"}
+  }
+}
+
+
+Let me know if this meets your requirements!

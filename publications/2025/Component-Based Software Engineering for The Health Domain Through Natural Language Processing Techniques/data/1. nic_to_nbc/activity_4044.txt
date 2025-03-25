@@ -1,0 +1,17 @@
+Here is the output in JSON format:
+
+
+{
+  "Lab Result Tracker": {
+    "parameters": [
+      {"name": "ABG", "description": "Enter your ABG result", "required": true, "type": "number"},
+      {"name": "electrolytes", "description": "Enter your electrolyte levels", "required": true, "type": "number"},
+      {"name": "betahydroxybutyrate", "description": "Enter your betahydroxybutyrate level", "required": true, "type": "number"},
+      {"name": "units", "description": "Select the units of measurement", "required": true, "type": "options", "options": [{"value": "mmol/L", "label": "mmol/L"}, {"value": "mg/dL", "label": "mg/dL"}]},
+      {"name": "frequency", "description": "How often to track lab results", "required": true, "type": "options", "options": [{"value": "daily", "label": "Daily"}, {"value": "weekly", "label": "Weekly"}, {"value": "monthly", "label": "Monthly"}]}
+    ]
+  }
+}
+
+
+Note that I removed the `deadline_date` parameter since it's not required. Let me know if you'd like to keep it anyway!

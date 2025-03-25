@@ -1,0 +1,28 @@
+Here is the output in JSON format:
+
+
+{
+  "Sensory Overload/Underload Assessment": {
+    "parameters": [
+      {"name": "sensory_overload", "description": "Do you experience sensory overload?", "required": true, "type": "boolean"},
+      {"name": "sensory_underload", "description": "Do you experience sensory underload?", "required": true, "type": "boolean"},
+      {"name": "sensory_needs", "description": "What are your sensory needs (e.g., visual, auditory, tactile)?", "required": true, "type": "text"}
+    ]
+  },
+  "Sensory Modulation Techniques": {
+    "parameters": [
+      {"name": "techniques", "description": "View sensory modulation techniques", "required": true, "type": "guide-page", "guide-page": "list of HTML texts"}
+    ]
+  },
+  "Environmental Adaptations": {
+    "parameters": [
+      {"name": "adaptations", "description": "View environmental adaptations", "required": true, "type": "guide-page", "guide-page": "list of HTML texts"}
+    ]
+  },
+  "Caregiver Support": {
+    "parameters": [
+      {"name": "caregiver_name", "description": "Enter the name of your caregiver", "required": true, "type": "text"},
+      {"name": "support_type", "description": "Select the type of support (e.g., chat, video call)", "required": true, "type": "options", "options": [{"value": "chat", "label": "Chat"}, {"value": "videoCall", "label": "Video Call"}]}
+    ]
+  }
+}

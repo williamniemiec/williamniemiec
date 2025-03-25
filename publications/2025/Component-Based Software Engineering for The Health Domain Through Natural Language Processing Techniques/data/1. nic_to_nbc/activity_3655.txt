@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Resource Identifier": {
+    "parameters": [
+      {"name": "Resource Type", "type": "options"},
+      {"name": "Resource Description", "type": "text"},
+      {"name": "Quantity", "type": "number"},
+      {"name": "Priority", "type": "options"},
+      {"name": "Notes", "type": "text"}
+    ]
+  }
+}

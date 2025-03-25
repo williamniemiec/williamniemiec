@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Family Stressor Identification": {
+    "Parameters": {
+      "Stressor List": {"Type": "list of stressors"},
+      "Self-Assessment": {"Type": "yes/no or rating scale"},
+      "Stressor Description": {"Type": "text"},
+      "Impact Assessment": {"Type": "rating scale or text"},
+      "Priority Setting": {"Type": "ranking or rating scale"}
+    }
+  }
+}

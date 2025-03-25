@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "Reinforcement Message": {
+    "message": {"type": "text or HTML"},
+    "source": {"type": "text"},
+    "original_info": {"type": "text or HTML"},
+    "related_resources": {"type": "list of URLs or text"},
+    "notes": {"type": "text"}
+  }
+}

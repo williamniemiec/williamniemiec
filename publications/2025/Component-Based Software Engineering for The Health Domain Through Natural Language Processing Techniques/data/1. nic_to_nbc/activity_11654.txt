@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Skin Care": {
+        "Parameters": {
+            "Instructions": {"Type": "text or multimedia"},
+            "Frequency": {"Type": "options"},
+            "Reminders": {"Type": "boolean"},
+            "Photos": {"Type": "camera"}
+        }
+    }
+}

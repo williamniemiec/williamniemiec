@@ -1,0 +1,38 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Social Reinforcement",
+    "parameters": [
+        {
+            "name": "Desired Behavior",
+            "type": "text"
+        },
+        {
+            "name": "Reinforcement Type",
+            "type": "options",
+            "options": [
+                { value: "verbal", label: "Verbal" },
+                { value: "nonverbal", label: "Nonverbal" },
+                { value: "written", label: "Written" }
+            ]
+        },
+        {
+            "name": "Reinforcement Message",
+            "type": "text"
+        },
+        {
+            "name": "Frequency",
+            "type": "options",
+            "options": [
+                { value: "daily", label: "Daily" },
+                { value: "onlyOnce", label: "Only once" },
+                { value: "everyHours", label: "Every x hours" },
+                { value: "everyDays", label: "Every x days" }
+            ]
+        }
+    ]
+}
+
+
+Note that I removed the `Deadline Date` parameter since it was not applicable, and also removed the `required` field as it was not specified in the problem statement. Let me know if you need any further modifications!

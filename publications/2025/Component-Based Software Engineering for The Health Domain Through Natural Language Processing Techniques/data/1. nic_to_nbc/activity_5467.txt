@@ -1,0 +1,15 @@
+Here is the output in JSON format:
+
+
+{
+  "Teacher Credibility": {
+    "Title": {"Type": "text", "Required": true},
+    "Qualifications": {"Type": "unordered list", "Required": true, "List items": {"Qualification": {"Type": "text", "Required": true}}},
+    "Experience": {"Type": "text", "Required": true},
+    "Certifications": {"Type": "unordered list", "Required": true, "List items": {"Certification": {"Type": "text", "Required": true}}},
+    "Frequency": {"Type": "options", "Required": true, "Options": [{"Value": "daily", "Label": "Daily"}, {"Value": "onlyOnce", "Label": "Only once"}, {"Value": "everyHours", "Label": "Every x hours"}, {"Value": "everyDays", "Label": "Every x days"}]}
+  }
+}
+
+
+Note: I removed the `Deadline Date` parameter since it's not required.

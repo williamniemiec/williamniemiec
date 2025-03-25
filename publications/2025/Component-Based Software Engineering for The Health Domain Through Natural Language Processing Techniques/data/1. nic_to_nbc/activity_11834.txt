@@ -1,0 +1,24 @@
+Here is the output in JSON format:
+
+
+{
+  "name": "Judgment Confrontation",
+  "parameters": [
+    {
+      "name": "situation",
+      "description": "describe the situation where impaired judgment was observed"
+    },
+    {
+      "name": "concerns",
+      "description": "list of concerns about the patient's judgment"
+    },
+    {
+      "name": "reflection",
+      "description": "space for patient to reflect on their judgment and decision-making"
+    },
+    {
+      "name": "goals",
+      "description": "goals for improving judgment and decision-making"
+    }
+  ]
+}

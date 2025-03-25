@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Multistep Guide": {
+    "guide title": {},
+    "Steps": [],
+    "Frequency": {},
+    "Deadline Date": {}
+  }
+}

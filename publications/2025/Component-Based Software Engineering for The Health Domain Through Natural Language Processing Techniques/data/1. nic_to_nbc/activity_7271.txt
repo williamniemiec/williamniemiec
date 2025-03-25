@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+    "Referral": {
+        "parameters": [
+            { 
+                "name": "Resource", 
+                "type": "text"
+            },
+            { 
+                "name": "Description", 
+                "type": "text"
+            },
+            { 
+                "name": "Contact Info", 
+                "type": "text"
+            },
+            { 
+                "name": "Reason", 
+                "type": "text"
+            }
+        ]
+    }
+}

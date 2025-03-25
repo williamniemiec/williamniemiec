@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+  "Direction Guidance": {
+    "Parameters": {
+      "Single Direction": {"Type": "boolean"},
+      "Clear Instructions": {"Type": "boolean"},
+      "Repeat Back": {"Type": "boolean"},
+      "Direction Examples": {"Type": "text"},
+      "How do you prefer to receive directions from healthcare providers?": {"Type": "options", "Options": ["written", "verbal", "demonstrated"]},
+      "What do you do if you are unclear about a direction from a healthcare provider?": {"Type": "options", "Options": ["ask for clarification", "repeat back the direction", "seek additional information"]}
+    }
+  }
+}
+
+
+Let me know if this is what you were expecting!

@@ -1,0 +1,12 @@
+Here is the output in JSON format:
+
+
+{
+  "noCodeElementName": "Resource Referral",
+  "parameterSpecifications": {
+    "Name": {"type": "text"},
+    "Description": {"type": "text"},
+    "Link": {"type": "url"},
+    "Why": {"type": "text"}
+  }
+}

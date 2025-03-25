@@ -1,0 +1,40 @@
+Here is the output in JSON format:
+
+
+{
+  "No-Code Element Name": "Call Light Placement",
+  "Parameter Specifications": {
+    "Call Light Location": {
+      "Description": "Specify where to place the call light within reach",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "bedsideTable", "label": "Bedside table" },
+        { "value": "bedRail", "label": "Bed rail" },
+        { "value": "wheelchairTray", "label": "Wheelchair tray" },
+        { "value": "other", "label": "Other (please specify)" }
+      ]
+    },
+    "Reach Distance": {
+      "Description": "Specify the maximum distance from the patient to the call light",
+      "Required": true,
+      "Type": "number",
+      "Unit": "inches"
+    },
+    "Frequency": {
+      "Description": "Specify how often to review and adjust call light placement",
+      "Required": true,
+      "Type": "options",
+      "Options": [
+        { "value": "daily", "label": "Daily" },
+        { "value": "weekly", "label": "Weekly" },
+        { "value": "custom", "label": "Custom frequency" }
+      ]
+    },
+    "Notes": {
+      "Description": "Additional notes about call light placement",
+      "Required": false,
+      "Type": "text"
+    }
+  }
+}

@@ -1,0 +1,48 @@
+Here is the output in JSON format:
+
+
+{
+    "name": "Situation Management",
+    "parameters": [
+        {
+            "name": "Situation Type",
+            "options": [
+                { "value": "toileting accidents", "label": "Toileting Accidents" },
+                { "value": "tantrums", "label": "Tantrums" },
+                { "value": "social interactions", "label": "Social Interactions" },
+                { "value": "feeding difficulties", "label": "Feeding Difficulties" }
+            ]
+        },
+        {
+            "name": "Avoidance Strategies",
+            "options": [
+                { "value": "planning", "label": "Planning" },
+                { "value": "preparation", "label": "Preparation" },
+                { "value": "distraction", "label": "Distraction" },
+                { "value": "redirection", "label": "Redirection" },
+                { "value": "positive reinforcement", "label": "Positive Reinforcement" }
+            ]
+        },
+        {
+            "name": "Frequency",
+            "options": [
+                { "value": "daily", "label": "Daily" },
+                { "value": "onlyOnce", "label": "Only once" },
+                { "value": "everyHours", "label": "Every x hours" },
+                { "value": "everyDays", "label": "Every x days" }
+            ]
+        },
+        {
+            "name": "Deadline Date",
+            "type": "datetime"
+        },
+        {
+            "name": "Support Needed",
+            "type": "text"
+        },
+        {
+            "name": "Goal",
+            "type": "text"
+        }
+    ]
+}

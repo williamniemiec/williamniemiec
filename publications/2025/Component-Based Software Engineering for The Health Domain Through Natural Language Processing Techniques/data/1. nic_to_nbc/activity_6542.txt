@@ -1,0 +1,20 @@
+Here is the output in JSON format:
+
+
+{
+    "Task Reminder": {
+        "Parameters": {
+            "Task": {"Type": "text"},
+            "Frequency": {"Options": ["daily", "everyHours", "everyDays"]},
+            "Deadline Date": {"Type": "datetime"},
+            "Instructions": {"Type": "text or multimedia"}
+        }
+    },
+    "Photo Inspection": {
+        "Parameters": {
+            "Photo": {"Type": "camera"},
+            "Frequency": {"Options": ["daily", "everyHours", "everyDays"]},
+            "Deadline Date": {"Type": "datetime"}
+        }
+    }
+}

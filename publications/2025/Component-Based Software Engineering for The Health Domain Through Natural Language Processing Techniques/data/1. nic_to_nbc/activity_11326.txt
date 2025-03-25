@@ -1,0 +1,11 @@
+Here is the output in JSON format:
+
+
+{
+  "Blood Loss Tracker": {
+    "Onset": {"type": "datetime"},
+    "Amount": {"type": "text or numerical value"},
+    "Pain": {"type": "options (e.g., yes/no, severity scale)"},
+    "Clots": {"type": "options (e.g., yes/no)"}
+  }
+}

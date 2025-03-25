@@ -1,0 +1,18 @@
+Here is the output in JSON format:
+
+
+{
+    "Mnemonic Guide": {
+        "Parameters": {
+            "Mnemonic": {"Type": "text"},
+            "Causes": {"Type": "text or table"}
+        }
+    },
+    "Cause Checker": {
+        "Parameters": {
+            "Symptom List": {"Type": "checkbox or multiselect"},
+            "Medical History": {"Type": "text or checkbox"},
+            "Potential Causes": {"Type": "text or table"}
+        }
+    }
+}

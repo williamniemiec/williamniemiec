@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Device Monitoring": {
+    "parameters": {
+      "Device Name": {"type": "text"},
+      "Monitoring Frequency": {"type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+      "Monitoring Instructions": {"type": "text"},
+      "Deadline Date": {"type": "datetime"},
+      "Reporting": {"type": "boolean"}
+    }
+  }
+}

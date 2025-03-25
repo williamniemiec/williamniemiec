@@ -1,0 +1,14 @@
+Here is the output in JSON format:
+
+
+{
+  "Data Collection": {
+    "Parameters": {
+      "Data Type": {"Type": "list of options"},
+      "Frequency": {"Type": "options"},
+      "Method": {"Type": "list of options"},
+      "Questions": {"Type": "list of text"},
+      "Response Type": {"Type": "list of options"}
+    }
+  }
+}

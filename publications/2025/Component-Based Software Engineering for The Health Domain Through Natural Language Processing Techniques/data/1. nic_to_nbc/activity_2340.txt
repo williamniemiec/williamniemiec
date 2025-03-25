@@ -1,0 +1,13 @@
+Here is the output in JSON format:
+
+
+{
+    "Night-Light Reminder": {
+        "parameters": [
+            {"name": "Name", "type": "text"},
+            {"name": "Frequency", "type": "options", "options": ["daily", "onlyOnce", "everyHours", "everyDays"]},
+            {"name": "Deadline Date", "type": "datetime"},
+            {"name": "Notes", "type": "text"}
+        ]
+    }
+}

@@ -1,0 +1,25 @@
+Here is the output in JSON format:
+
+
+{
+  "Task Monitor": {
+    "parameters": {
+      "name": {"type": "text"},
+      "tasks": {"type": "list of objects with `name`, `description`, `due_date`, and `status` properties"},
+      "collaborators": {"type": "list of objects with `name`, `role`, and `contact_info` properties"}
+    }
+  },
+  "Task Status Update": {
+    "parameters": {
+      "task": {"type": "object with `name`, `description`, and `due_date` properties"},
+      "status": {"type": "options (e.g., completed, in progress, delayed, etc.)"}
+    }
+  },
+  "Alert System": {
+    "parameters": {
+      "name": {"type": "text"},
+      "triggers": {"type": "list of objects with `event`, `condition`, and `notification` properties"},
+      "notification": {"type": "options (e.g., push notification, email, etc.)"}
+    }
+  }
+}

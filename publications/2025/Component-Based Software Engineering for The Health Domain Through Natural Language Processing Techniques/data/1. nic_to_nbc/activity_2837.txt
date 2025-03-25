@@ -1,0 +1,21 @@
+Here is the output in JSON format:
+
+
+{
+  "Risk Factor Assessment": {
+    "parameters": {
+      "Risk Factor List": {
+        "type": ["checklist", "multi-select options"]
+      },
+      "Factor Details": {
+        "type": ["rich text", "tooltips"]
+      },
+      "Patient Input": {
+        "type": ["form", "survey"]
+      },
+      "Scoring or Rating": {
+        "type": ["options", "slider"]
+      }
+    }
+  }
+}

@@ -1,0 +1,16 @@
+Here is the output in JSON format:
+
+
+{
+  "Safe Storage": {
+    "instruction title": {},
+    "Hazardous Substances": {},
+    "Storage Location": {},
+    "Reason": {},
+    "Frequency": {},
+    "Deadline Date": {}
+  }
+}
+
+
+Note that I removed the "Content Type" parameter as it's not applicable. Also, I didn't include the "Description" and other metadata for each parameter, only keeping the parameter names. Let me know if you need any further modifications!
