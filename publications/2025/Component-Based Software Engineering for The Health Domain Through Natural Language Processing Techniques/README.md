@@ -17,3 +17,15 @@
 | Physical Activities and Mobility      | Exercise, Breathing control, Stimulation                                                              | 3       |
 | Symptoms and Diagnosis                | Symptom Checker, Symptoms Tracker                                                                     | 2       |
 | Rest and Sleep                        | Sleep control, Fatigue                                                                                | 2       |
+
+## Figures
+
+![methodology](https://raw.githubusercontent.com/williamniemiec/williamniemiec/refs/heads/main/publications/2025/Component-Based%20Software%20Engineering%20for%20The%20Health%20Domain%20Through%20Natural%20Language%20Processing%20Techniques/figures/methodology.jpg)
+
+<div align='center' style="display: flex; flex-direction: row; justify-content: center; align-items: center; flex-wrap: wrap">
+
+<img height=500 src="https://raw.githubusercontent.com/williamniemiec/williamniemiec/refs/heads/main/publications/2025/Component-Based%20Software%20Engineering%20for%20The%20Health%20Domain%20Through%20Natural%20Language%20Processing%20Techniques/figures/topic-word-scores.png" alt="Topic words" />
+
+<img height=500 src="https://raw.githubusercontent.com/williamniemiec/williamniemiec/refs/heads/main/publications/2025/Component-Based%20Software%20Engineering%20for%20The%20Health%20Domain%20Through%20Natural%20Language%20Processing%20Techniques/figures/similarity-heatmap.png" alt="similarity heatmap" />
+
+</div>
