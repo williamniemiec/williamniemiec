@@ -20,13 +20,13 @@
 
 ## Figures
 
-![methodology](https://raw.githubusercontent.com/williamniemiec/williamniemiec/refs/heads/main/publications/2025/Component-Based%20Software%20Engineering%20for%20The%20Health%20Domain%20Through%20Natural%20Language%20Processing%20Techniques/figures/methodology.jpg)
+![methodology](figures/methodology.jpg)
 
-<div align='center' style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
+<div align='center' style="display: flex; flex-direction: row; align-items: center; flex-wrap:wrap">
 
-<img src="https://raw.githubusercontent.com/williamniemiec/williamniemiec/refs/heads/main/publications/2025/Component-Based%20Software%20Engineering%20for%20The%20Health%20Domain%20Through%20Natural%20Language%20Processing%20Techniques/figures/topic-word-scores.png" alt="Topic words" />
+<img height="400" src="figures/topic-word-scores.png" alt="Topic words" />
 
-<img src="https://raw.githubusercontent.com/williamniemiec/williamniemiec/refs/heads/main/publications/2025/Component-Based%20Software%20Engineering%20for%20The%20Health%20Domain%20Through%20Natural%20Language%20Processing%20Techniques/figures/similarity-heatmap.png" alt="similarity heatmap" />
+<img height="400" src="figures/similarity-heatmap.png" alt="similarity heatmap" />
 
 </div>
 
