@@ -20,10 +20,11 @@
 
 ## Figures
 
-<div style="display: flex; flex-direction:column; align-items: center; justify-content: center">
+<div align="center">
     <img src="figures/methodology.jpg" alt>
     <em style="margin-top: 20px">Figure 1. Methodology overview.</em>
 </div>
+<br />
 
 ## Care plan example
 
@@ -33,10 +34,13 @@ The nursing process is a structured, patient-centered approach that guides nurse
 
 The nursing process involves five essential steps as described in Figure 2:
 
-<div style="display: flex; flex-direction:column; align-items: center; justify-content: center">
-    <img height="300" src="figures/nursing-process-v2.png" alt>
+<br />
+<div align="center">
+    <img height="300" src="figures/nursing-process-v2.png" alt />
+    <br />
     <em style="margin-top: 20px">Figure 2. The Nursing Process. Adapted from Ernstmeyer 2021</em>
 </div>
+<br />
 
 1. **Assessment**  
    This is the initial stage where nurses gather comprehensive information about the patient’s physical, emotional, and psychological health. This data is collected through patient interviews, observations, physical examinations, and reviewing medical histories. The assessment provides a baseline for further care planning.
@@ -67,17 +71,22 @@ An mHealth app can significantly enhance the implementation of a care plan by pr
 
 ### NIC structure
 
-The NIC taxonomy was first published in 1992 and is hierarchically organized into 7 domains, 30 classes, more than 500 interventions, and 12,000 actions or activities (hereafter, called activities). Figure 2 presents the current domains and classes of the NIC taxonomy, and Figure 3 shows an example of one intervention and its breakdown into activities.
+The NIC taxonomy was first published in 1992 and is hierarchically organized into 7 domains, 30 classes, more than 500 interventions, and 12,000 actions or activities (hereafter, called activities). Figure 3 presents the current domains and classes of the NIC taxonomy, and Figure 4 shows an example of one intervention and its breakdown into activities.
 
-<div style="display: flex; flex-direction:column; align-items: center; justify-content: center">
+<br />
+<div align="center">
     <img src="figures/nic-taxonomy-flat.jpg" alt>
     <em style="margin-top: 20px">Figure 3. NIC taxonomy composed by domains (1st level), classes (2nd level), interventions (3rd level), and actions (4th level)</em>
 </div>
+<br />
 
-<div style="display: flex; flex-direction:column; align-items: center; justify-content: center">
+<br />
+<div align="center">
     <img src="figures/fluid-monitoring-activities.png" alt>
-    <em style="margin-top: 20px">Example of activities associated to the "fluid monitoring" intervention.</em>
+    <em style="margin-top: 20px">Figure 4. Example of activities associated to the "fluid monitoring" intervention.</em>
 </div>
+<br />
+
 
 Nurses often need to tailor interventions to align with specific patient conditions, preferences, and cultural factors, which makes a standardized approach challenging. Therefore, activities associated with each intervention are not standardized because every patient has unique needs, health statuses, and personal circumstances. In this work, we refer to activities as defined in the NIC reference book. One can classify the activities into two groups: nurse-dependent and nurse-independent. The first one includes actions that require nurse participation (for example, catheter replacement). The second group contains actions that the patient can do on their own (for example "drinking water every 2 hours"). In this work, we focus on the second group.
 
@@ -132,18 +141,22 @@ Let us consider one example to illustrate the nursing process using NNN taxonomy
 ## Composing NBCs into a care plan
 We demonstrate how the devised NBCs can be composed into a care plan implementation by using the two case studies mentioned before: cancer and urolithiasis. For each one, we represent one intervention using the devised NBCs. 
 
-Figure 4 shows the representation of the "exercise promotion" intervention. In that, the care plan orients the patient on the importance of exercising, collects exercise history, and, depending on the patient's response, suggests sharing his/her exercises to improve engagement. Also, we explain the importance of exercising and, finally, we remind the patient about his/her daily exercises. This simple example already shows the need for a computational model to support the instantiation of the devised NBCs. Such a model is beyond the scope of this paper. We are currently assuming a composition based on a data-flow model, but this definition requires further research and validation with HPCs. For now, we aim to validate whether the information derived from the interventions and patient-tailored actions, which need to be communicated to the patient, can be represented by the defined NBCs.
+Figure 5 shows the representation of the "exercise promotion" intervention. In that, the care plan orients the patient on the importance of exercising, collects exercise history, and, depending on the patient's response, suggests sharing his/her exercises to improve engagement. Also, we explain the importance of exercising and, finally, we remind the patient about his/her daily exercises. This simple example already shows the need for a computational model to support the instantiation of the devised NBCs. Such a model is beyond the scope of this paper. We are currently assuming a composition based on a data-flow model, but this definition requires further research and validation with HPCs. For now, we aim to validate whether the information derived from the interventions and patient-tailored actions, which need to be communicated to the patient, can be represented by the defined NBCs.
 
-<div style="display: flex; flex-direction:column; align-items: center; justify-content: center">
+<br />
+<div align="center">
     <img src="figures/exercise-promotion.png" alt>
-    <em style="margin-top: 20px">Figure 4. NBCs used for ``exercise promotion" intervention. Note that connected nodes indicate a logic dependency flow between two nodes. Unconnected nodes can be executed independently.</em>
+    <em style="margin-top: 20px">Figure 5. NBCs used for ``exercise promotion" intervention. Note that connected nodes indicate a logic dependency flow between two nodes. Unconnected nodes can be executed independently.</em>
 </div>
+<br />
 
 Figure 5 represents the actions derived from the ``fluid monitoring" intervention. We first recommend a medication to avoid ingesting more than the recommended fluid quantity (medication control element) and also remind the patient about the foods he/she should avoid (reminder element). When the medication is taken by the patient, we ask the patient about his/her intake and output in the last 24 hours (quiz element). Finally, when it is answered, we have two possible options: the answer indicates whether the patient's intake and output are as expected or not. If so, we send an orientation congratulating the patient and informing them of the benefits of his/her effort (orientation element). On the other hand, if the answer indicates the opposite, we orient the patient to talk to the responsible HCP (orientation element) along with taking a specific medication (medication element). Again, one notices the feasibility of describing the actions present in the care plan and the need to express the dependency between some actions. 
 
-<div style="display: flex; flex-direction:column; align-items: center; justify-content: center">
+<br />
+<div align="center">
     <img src="figures/fluid-monitoring.png" alt>
-    <em style="margin-top: 20px">Figure 5. BCs used for "fluid monitoring" intervention.</em>
+    <em style="margin-top: 20px">Figure 6. BCs used for "fluid monitoring" intervention.</em>
 </div>
+<br />
 
 Based on these results, we conclude that common behaviors present in distinct care plans can indeed be modeled as reusable NBCs. Furthermore, the NBCs can describe patient-tailored healthcare actions and be combined into adaptable clinical workflows, aiding the implementation phase of nursing care plans.  
