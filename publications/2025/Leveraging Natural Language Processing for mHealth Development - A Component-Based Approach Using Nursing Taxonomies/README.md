@@ -22,6 +22,7 @@
 
 <div align="center">
     <img src="figures/methodology.jpg" alt>
+    <br />
     <em style="margin-top: 20px">Figure 1. Methodology overview.</em>
 </div>
 <br />
@@ -76,6 +77,7 @@ The NIC taxonomy was first published in 1992 and is hierarchically organized int
 <br />
 <div align="center">
     <img src="figures/nic-taxonomy-flat.jpg" alt>
+    <br />
     <em style="margin-top: 20px">Figure 3. NIC taxonomy composed by domains (1st level), classes (2nd level), interventions (3rd level), and actions (4th level)</em>
 </div>
 <br />
@@ -83,6 +85,7 @@ The NIC taxonomy was first published in 1992 and is hierarchically organized int
 <br />
 <div align="center">
     <img src="figures/fluid-monitoring-activities.png" alt>
+    <br />
     <em style="margin-top: 20px">Figure 4. Example of activities associated to the "fluid monitoring" intervention.</em>
 </div>
 <br />
@@ -146,6 +149,7 @@ Figure 5 shows the representation of the "exercise promotion" intervention. In t
 <br />
 <div align="center">
     <img src="figures/exercise-promotion.png" alt>
+    <br />
     <em style="margin-top: 20px">Figure 5. NBCs used for ``exercise promotion" intervention. Note that connected nodes indicate a logic dependency flow between two nodes. Unconnected nodes can be executed independently.</em>
 </div>
 <br />
@@ -155,6 +159,7 @@ Figure 5 represents the actions derived from the ``fluid monitoring" interventio
 <br />
 <div align="center">
     <img src="figures/fluid-monitoring.png" alt>
+    <br />
     <em style="margin-top: 20px">Figure 6. BCs used for "fluid monitoring" intervention.</em>
 </div>
 <br />
