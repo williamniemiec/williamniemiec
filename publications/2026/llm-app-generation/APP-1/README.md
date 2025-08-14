@@ -1,47 +1,74 @@
-# ComputePrime
+# Photon Gallery
 
-ComputePrime is a high-performance, offline mobile tool for computationally intensive number theory calculations. It is designed for mathematics students, educators, researchers, and hobbyists who need a powerful computational tool for prime number operations.
+A blazingly fast media gallery app engineered for performance.
+
+## App Purpose
+
+**Photon Gallery** is designed to provide an exceptionally fluid and responsive experience for users with massive photo and video libraries (10,000+ items). It eliminates common frustrations of lag, stuttering, and long loading times found in standard gallery apps.
 
 ## Features
 
-- **Check Primality:** Determine if a given number is prime.
-- **Find Primes in Range:** Find all prime numbers within a specified range.
-- **Calculate Next Prime:** Find the next prime number after a given number.
+- **Instantaneous Grid Scrolling:** Scroll through a grid of tens of thousands of thumbnails with zero lag or stutter.
+- **UI Virtualization:** Only renders UI elements for items currently visible on the screen.
+- **Intelligent Background Caching:** Generates a dedicated cache of thumbnails in the background.
+- **Predictive Pre-fetching:** Anticipates user scrolling direction and pre-fetches thumbnails.
+- **Efficient Memory Management:** Decodes media to the exact size needed for display.
+- **Fluid Grid Resizing:** Adjust the grid size with a pinch-to-zoom gesture.
 
-## Setup
+## Getting Started
 
-1. **Clone the repository:**
+### Prerequisites
+
+- Flutter SDK
+- Dart SDK
+- An IDE (e.g., Android Studio, VS Code)
+
+### Installation
+
+1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/ComputePrime.git
-   cd ComputePrime
+   git clone <repository-url>
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd photon_gallery
+   ```
+3. Install dependencies:
+   ```bash
+   flutter pub get
    ```
 
-2. **Install dependencies:**
-   ```bash
-   npm install
-   ```
+### Running the App
 
-3. **Run the application:**
-   - **Android:**
-     ```bash
-     npx react-native run-android
-     ```
-   - **iOS:**
-     ```bash
-     npx react-native run-ios
-     ```
+- For Android:
+  ```bash
+  flutter run
+  ```
+- For iOS:
+  ```bash
+  flutter run
+  ```
 
-## Usage
+## Project Structure
 
-1. **Enter a number or range:**
-   - For "Check Primality" and "Calculate Next Prime," enter a single integer.
-   - For "Find Primes in Range," enter a range in the format `start-end`.
+- `lib/`: Contains the main source code.
+  - `screens/`: Contains the main screens of the app.
+  - `widgets/`: Contains reusable UI components.
+  - `services/`: Contains business logic and services.
+  - `utils/`: Contains utility functions and constants.
 
-2. **Select an operation:**
-   - Choose one of the three available operations using the radio buttons.
+## Dependencies
 
-3. **Execute the calculation:**
-   - Press the "EXECUTE" button to start the calculation. The UI will become unresponsive until the calculation is complete.
+- `flutter_staggered_grid_view`: For UI virtualization and grid layout.
+- `permission_handler`: For handling permissions.
+- `photo_manager`: For accessing photos and videos.
+- `cached_network_image`: For efficient image loading and caching.
+- `provider`: For state management.
 
-4. **View the result:**
-   - The result of the calculation will be displayed in the text area at the bottom of the screen.
+## Contributing
+
+Contributions are welcome! Please fork the repository and create a pull request with your changes.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

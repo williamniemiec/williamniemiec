@@ -1,0 +1,68 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="clip">
+      <rect x="0" y="0" width="200" height="200"/>
+    </clipPath>
+  </defs>
+  <style>
+    .phone {
+      fill: #4A90E2; /* A nice blue */
+      stroke: #FFFFFF;
+      stroke-width: 4;
+      transition: transform 0.3s ease-in-out;
+    }
+    .tag {
+      fill: #7ED321; /* A friendly green */
+      stroke: #FFFFFF;
+      stroke-width: 3;
+    }
+    .waves {
+      fill: none;
+      stroke: #4A90E2;
+      stroke-width: 3;
+      stroke-linecap: round;
+      opacity: 0;
+      transform-origin: center;
+    }
+    @keyframes pulse {
+      0% {
+        transform: scale(0.3);
+        opacity: 0;
+      }
+      50% {
+        opacity: 1;
+      }
+      100% {
+        transform: scale(1.2);
+        opacity: 0;
+      }
+    }
+    .wave1 {
+      animation: pulse 2s infinite ease-out;
+    }
+    .wave2 {
+      animation: pulse 2s infinite ease-out 0.5s;
+    }
+    .wave3 {
+      animation: pulse 2s infinite ease-out 1s;
+    }
+  </style>
+  
+  <g clip-path="url(#clip)">
+    <!-- NFC Tag -->
+    <rect class="tag" x="130" y="75" width="50" height="50" rx="10"/>
+    <text x="140" y="105" font-family="Arial, sans-serif" font-size="14" fill="#FFFFFF">NFC</text>
+
+    <!-- Phone -->
+    <rect class="phone" x="20" y="50" width="80" height="150" rx="15"/>
+    <rect x="25" y="60" width="70" height="110" rx="10" fill="#2C3E50"/> 
+    <line x1="50" y1="180" x2="70" y2="180" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round"/>
+
+    <!-- Radio Waves -->
+    <g transform="translate(105, 100)">
+      <circle class="waves wave1" r="20"/>
+      <circle class="waves wave2" r="20"/>
+      <circle class="waves wave3" r="20"/>
+    </g>
+  </g>
+</svg>
