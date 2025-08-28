@@ -1,0 +1,69 @@
+name: google_app
+description: "A Google app clone with search, discover feed, and Google Lens functionality"
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.1.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  
+  # State Management
+  provider: ^6.1.1
+  
+  # UI Components
+  cupertino_icons: ^1.0.2
+  flutter_svg: ^2.0.9
+  cached_network_image: ^3.3.0
+  shimmer: ^3.0.0
+  
+  # Camera and Image Processing
+  camera: ^0.10.5+5
+  image_picker: ^1.0.4
+  permission_handler: ^11.0.1
+  
+  # Audio and Speech
+  speech_to_text: ^6.6.0
+  flutter_tts: ^3.8.5
+  
+  # HTTP and API
+  http: ^1.1.0
+  dio: ^5.3.2
+  
+  # Storage and Preferences
+  shared_preferences: ^2.2.2
+  path_provider: ^2.1.1
+  
+  # Utils
+  intl: ^0.18.1
+  url_launcher: ^6.2.1
+  share_plus: ^7.2.1
+  
+  # Widgets
+  flutter_staggered_grid_view: ^0.7.0
+  pull_to_refresh: ^2.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  
+  assets:
+    - assets/images/
+    - assets/icons/
+    - assets/fonts/
+  
+  fonts:
+    - family: GoogleSans
+      fonts:
+        - asset: assets/fonts/GoogleSans-Regular.ttf
+        - asset: assets/fonts/GoogleSans-Medium.ttf
+          weight: 500
+        - asset: assets/fonts/GoogleSans-Bold.ttf
+          weight: 700

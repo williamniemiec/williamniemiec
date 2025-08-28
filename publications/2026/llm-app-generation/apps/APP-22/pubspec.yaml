@@ -1,0 +1,86 @@
+name: spotify_app
+description: "A comprehensive Spotify-like music streaming application built with Flutter."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.8.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # UI & Navigation
+  cupertino_icons: ^1.0.8
+  google_fonts: ^6.1.0
+  flutter_svg: ^2.0.9
+  cached_network_image: ^3.3.0
+  shimmer: ^3.0.0
+  
+  # State Management
+  provider: ^6.1.1
+  riverpod: ^2.4.9
+  flutter_riverpod: ^2.4.9
+  
+  # Audio & Media
+  just_audio: ^0.9.36
+  audio_service: ^0.18.12
+  audio_session: ^0.1.18
+  
+  # Storage & Data
+  shared_preferences: ^2.2.2
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+  path_provider: ^2.1.2
+  
+  # Network & API
+  http: ^1.1.2
+  dio: ^5.4.0
+  connectivity_plus: ^5.0.2
+  
+  # Utilities
+  uuid: ^4.2.1
+  intl: ^0.19.0
+  permission_handler: ^11.1.0
+  share_plus: ^7.2.1
+  url_launcher: ^6.2.2
+  
+  # UI Components
+  flutter_staggered_grid_view: ^0.7.0
+  smooth_page_indicator: ^1.1.0
+  flutter_colorpicker: ^1.0.3
+  
+  # Image & Icons
+  flutter_launcher_icons: ^0.13.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  hive_generator: ^2.0.1
+  build_runner: ^2.4.7
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/icons/
+    - assets/audio/
+
+  # fonts:
+  #   - family: Spotify
+  #     fonts:
+  #       - asset: assets/fonts/CircularStd-Book.otf
+  #         weight: 400
+  #       - asset: assets/fonts/CircularStd-Medium.otf
+  #         weight: 500
+  #       - asset: assets/fonts/CircularStd-Bold.otf
+  #         weight: 700
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/icons/app_icon.png"
+  min_sdk_android: 21

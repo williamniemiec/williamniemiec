@@ -1,0 +1,72 @@
+name: noaa_weather_radar_app
+description: "NOAA Weather Radar Live - A comprehensive weather tracking and forecasting app with real-time radar data"
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.1.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  
+  # State Management
+  provider: ^6.1.1
+  
+  # HTTP requests
+  http: ^1.1.0
+  dio: ^5.3.2
+  
+  # Location services
+  geolocator: ^10.1.0
+  geocoding: ^2.1.1
+  
+  # Maps
+  google_maps_flutter: ^2.5.0
+  flutter_map: ^6.1.0
+  latlong2: ^0.9.1
+  
+  # Local storage
+  shared_preferences: ^2.2.2
+  sqflite: ^2.3.0
+  
+  # JSON serialization
+  json_annotation: ^4.8.1
+  
+  # Date/Time handling
+  intl: ^0.18.1
+  
+  # UI components
+  cupertino_icons: ^1.0.2
+  flutter_svg: ^2.0.9
+  cached_network_image: ^3.3.0
+  shimmer: ^3.0.0
+  
+  # Notifications
+  flutter_local_notifications: ^16.3.0
+  
+  # Permissions
+  permission_handler: ^11.1.0
+  
+  # Animation
+  lottie: ^2.7.0
+  
+  # Weather icons
+  weather_icons: ^3.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+  build_runner: ^2.4.7
+  json_serializable: ^6.7.1
+
+flutter:
+  uses-material-design: true
+  
+  assets:
+    - assets/images/
+    - assets/icons/
+    - assets/animations/
+    - assets/weather_icons/

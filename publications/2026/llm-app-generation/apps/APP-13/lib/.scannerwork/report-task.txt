@@ -1,0 +1,7 @@
+organization=williamniemiec
+projectKey=williamniemiec_williamniemiec_app13
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.66552
+dashboardUrl=https://sonarcloud.io/dashboard?id=williamniemiec_williamniemiec_app13
+ceTaskId=AZjm68CkcgYI917UOv_I
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AZjm68CkcgYI917UOv_I
